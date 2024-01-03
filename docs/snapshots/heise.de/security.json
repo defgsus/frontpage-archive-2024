@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-03T09:01:08",
+  "timestamp": "2024-01-03T10:00:49",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.be4367d482d5617fc075",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.bc1ddff31f231b086632",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Juniper Secure Analytics",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Schadcode-Attacken-auf-Juniper-Secure-Analytics-moeglich-9585826.html"
+    },
     {
       "title": "Perl-Bibliothek",
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-Perl-Bibliothek-Schwachstelle-bereits-ausgenutzt-9583179.html"
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Google-Chrome-Update-schliesst-bereits-angegriffene-Zero-Day-Luecke-9580061.html"
     },
     {
-      "title": "Firefox, Thunderbird",
-      "url": "https://www.heise.de/news/Firefox-und-Thunderbird-Sicherheitsluecken-geschlossen-und-Funktionen-ergaenzt-9579269.html"
+      "title": "Sicherheitsupdate: Schadcode-Attacken auf Juniper Secure Analytics möglich",
+      "teaser": "Angreifer können Junipers SIEM-System Secure Analytics ins Visier nehmen. Sicherheitspatches sind verfügbar.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Schadcode-Attacken-auf-Juniper-Secure-Analytics-moeglich-9585826.html"
+    },
+    {
+      "title": "iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
+      "teaser": "Lernen Sie, wie Sie Angriffe auf das Active Directory Ihres Unternehmens sicher erkennen und effektiv verhindern können. (Frühbucherrabatt bis 16.01.)",
+      "url": "https://www.heise.de/news/iX-Workshop-Lokales-Active-Directory-gegen-Angriffe-absichern-9565991.html",
+      "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
     },
     {
       "title": "Nach Exploit: Angreifer könnten iPhone-Blockierungsmodus manipulieren",
@@ -63,6 +74,11 @@
       "teaser": "Lernen Sie, wie Sie Sicherheitslücken in der eigenen Unternehmens-IT mit Hacker-Tools aufdecken und beseitigen. Noch wenige Plätze frei.",
       "url": "https://www.heise.de/news/iX-Workshop-Sich-selbst-hacken-Pentesting-mit-Open-Source-Werkzeugen-9565979.html",
       "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
+    },
+    {
+      "title": "Ransomware: Fehler in Black-Basta-Programmierung ermöglicht Entschlüsselungstool",
+      "teaser": "Unter bestimmten Bedingungen kann das kostenlose Entschlüsselungstool Black Basta Buster Opfern des Erpressungstrojaners Black Basta helfen.",
+      "url": "https://www.heise.de/news/Ransomware-Fehler-in-Black-Basta-Programmierung-ermoeglicht-Entschluesselungstool-9584846.html"
     },
     {
       "title": "37C3: Übertreibt es nicht mit der Softwareisierung – Geheimnisverlust droht",
@@ -140,23 +156,6 @@
       "title": "Smartes Xiaomi-Türschloss: Besitzer beschwert sich über spontane Entriegelung",
       "teaser": "Das Xiaomi Smart Door Lock Youth Edition soll sich ohne Zutun eines Besitzers geöffnet haben. Der Hersteller untersucht den Vorfall.",
       "url": "https://www.heise.de/news/Smartes-Xiaomi-Tuerschloss-Besitzer-beschwert-sich-ueber-spontane-Entriegelung-9581441.html"
-    },
-    {
-      "title": "Cyberattacke: Angreifer hatten Zugriff auf Daten von Easypark-Kunden",
-      "teaser": "Beim Anbieter der Parkplatz-App Easypark gab es einen IT-Sicherheitsvorfall. Angreifer konnten unter anderem Teile von Kreditkartennummern einsehen.",
-      "url": "https://www.heise.de/news/Cyberattacke-Angreifer-hatten-Zugriff-auf-Daten-von-Easypark-Kunden-9581191.html"
-    },
-    {
-      "title": "\"Alternatives Erscheinungsbild\": Face-ID-Komfortfunktion als Sicherheitsproblem",
-      "teaser": "Wer die iPhone-PIN kennt, kann auch ein zweites Gesicht zu Face ID hinzufügen. Das erweist sich bei sicherheitskritischen Apps als gefährlich.",
-      "url": "https://www.heise.de/news/Alternatives-Erscheinungsbild-Face-ID-Komfortfunktion-als-Sicherheitsproblem-9580217.html",
-      "image_title": "Gesichtserkennung (Symbolbild)​"
-    },
-    {
-      "title": "BSI und ANSSI wollen sicherere Video-Identifikationsverfahren",
-      "teaser": "Das BSI hat zusammen mit der französischen Cybersicherheitsbehörde Video-Ident-Verfahren untersucht und legt Verbesserungsvorschläge vor.",
-      "url": "https://www.heise.de/news/Videoident-BSI-und-ANSSI-wollen-besser-geschuetzte-Verfahren-9580580.html",
-      "image_title": "Gesichtserkennung bei einer Frau"
     },
     {
       "title": "Unerwünschte Einblicke: Fataler Fehler bei Netatmo-Sicherheitskameras",
