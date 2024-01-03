@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-03T11:01:00",
+  "timestamp": "2024-01-03T12:09:15",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Barracuda ESG",
+      "url": "https://www.heise.de/news/Luecke-in-Barracuda-E-Mail-Security-Gateway-ermoeglichte-Code-Einschleusung-9586090.html"
+    },
+    {
       "title": "Juniper Secure Analytics",
       "url": "https://www.heise.de/news/Sicherheitsupdate-Schadcode-Attacken-auf-Juniper-Secure-Analytics-moeglich-9585826.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Kritische-Luecken-in-Mobile-Device-Management-Loesung-Ivanti-Avalanche-geschlossen-9580221.html"
     },
     {
-      "title": "Google Chrome",
-      "url": "https://www.heise.de/news/Google-Chrome-Update-schliesst-bereits-angegriffene-Zero-Day-Luecke-9580061.html"
+      "title": "Lücke in Barracuda E-Mail Security Gateway ermöglichte Code-Einschleusung",
+      "teaser": "Einfallstor für die Sicherheitslücke ist ein Excel-Parser. Barracuda hat bereits Patches auf allen betroffenen Geräten ausgerollt.",
+      "url": "https://www.heise.de/news/Luecke-in-Barracuda-E-Mail-Security-Gateway-ermoeglichte-Code-Einschleusung-9586090.html"
     },
     {
       "title": "Krypto-Bankraub: 82 Millionen Dollar bei Orbit Chain gestohlen",
@@ -150,12 +155,6 @@
       "title": "Nach Bilder-Leak: Ubisoft untersucht möglichen Cyber-Angriff",
       "teaser": "Spielepublisher Ubisoft ist wohl wieder Opfer von Angreifern geworden, die Zutritt zum internen Netz hatten. Geleakte Screenshots sollen interne Tools zeigen.",
       "url": "https://www.heise.de/news/Nach-Bilder-Leak-Ubisoft-untersucht-moeglichen-Cyber-Angriff-9582287.html"
-    },
-    {
-      "title": "Bluebrixx: Cyberangriff auf Online-Shop",
-      "teaser": "Beim Online-Shop der Lego-Alternative Bluebrixx ist es zu einem IT-Sicherheitsvorfall gekommen. Dabei wurden möglicherweise sensible Daten erbeutet.",
-      "url": "https://www.heise.de/news/Bluebrixx-Cyberangriff-auf-Online-Shop-9581838.html",
-      "image_title": "Bluebrixx-Shop in Bielefeld"
     },
     {
       "title": "Unerwünschte Einblicke: Fataler Fehler bei Netatmo-Sicherheitskameras",
