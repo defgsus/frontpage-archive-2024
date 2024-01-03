@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-03T04:02:55",
+  "timestamp": "2024-01-03T05:01:03",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -38,10 +38,17 @@
   ],
   "articles": [
     {
+      "title": "Z+ (abopflichtiger Inhalt); Fluggastrechte-Start-ups: Komplett überbucht",
+      "teaser": "Mithilfe von Online-Portalen verklagen Flugpassagiere massenhaft Airlines auf Entschädigung. Die Gerichte verzweifeln an der Klagewelle. Eine KI könnte Abhilfe schaffen.",
+      "url": "https://www.zeit.de/2024/01/fluggastrechte-startups-schadensersatz-amtsgericht-flughafen",
+      "image_url": "https://img.zeit.de/2024/01/fluggastrechte-startups-schadensersatz-amtsgericht-flughafen-teaserbild/cinema__980x420"
+    },
+    {
       "title": "Immobilienkonzern: Österreichische Finanzverwaltung pfändet Villa von René Benko",
       "teaser": "Große Teile der Immobiliengruppe Signa sind insolvent. Dem Wiener Finanzamt soll Unternehmenschef Benko zwölf Millionen Euro schulden. Als Pfand dient nun seine Villa.",
       "url": "https://www.zeit.de/wirtschaft/2024-01/immobilienkonzern-signa-rene-benko-oesterreich-villa-pfaendung",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-01/rene-benko-villa-innsbruck-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/wirtschaft/2024-01/rene-benko-villa-innsbruck-bild/wide__822x462",
+      "image_title": "Immobilienkonzern: Österreichische Finanzverwaltung pfändet Villa von René Benko"
     },
     {
       "title": "Leonhard Birnbaum: E.on-Chef stimmt Verbraucher auf höhere Energiepreise ein",
@@ -52,17 +59,10 @@
     },
     {
       "title": "Kryptowährung: Bitcoin steigt erstmals seit 20 Monaten auf mehr als 45.000 Dollar",
-      "teaser": "Der Bitcoin ist so viel wert wie zuletzt im April 2022. Hintergrund ist der mögliche Start des ersten Indexfonds, der auf der Kryptowährung basiert.",
+      "teaser": "Der Bitcoin ist so viel wert wie zuletzt im April 2022. Hintergrund ist der mögliche Start des ersten Indexfonds, der auf der Kryptowährung basiert. 151 Kommentare",
       "url": "https://www.zeit.de/wirtschaft/2024-01/bitcoin-kryptowaehrung-preis-etf-sec",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-01/bitcoin-kryptowaehrung-preis-etf-sec-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-01/bitcoin-kryptowaehrung-preis-etf-sec-bild/cinema__980x420",
       "image_title": "Kryptowährung: Bitcoin steigt erstmals seit 20 Monaten auf mehr als 45.000 Dollar"
-    },
-    {
-      "title": "Solaranlagen: 2023 brachte Höchststand an neuen Solaranlagen",
-      "teaser": "Mehr als eine Million Solaranlagen ist vergangenes Jahr in Deutschland in Betrieb genommen worden. Einen großen Anteil davon machen Balkonkraftwerke aus. 390 Kommentare",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-01/solaranlagen-hoechststand-2023-prognosen-wachstum",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-01/solarboom-bild/cinema__980x420",
-      "image_title": "Solaranlagen: 2023 brachte Höchststand an neuen Solaranlagen"
     },
     {
       "title": "AnzeigePUMA: Mit Workday zum Erfolg",
@@ -72,18 +72,18 @@
       "image_title": "PUMA: Mit Workday zum Erfolg"
     },
     {
+      "title": "Solaranlagen: 2023 brachte Höchststand an neuen Solaranlagen",
+      "teaser": "Mehr als eine Million Solaranlagen ist vergangenes Jahr in Deutschland in Betrieb genommen worden. Einen großen Anteil davon machen Balkonkraftwerke aus.",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-01/solaranlagen-hoechststand-2023-prognosen-wachstum",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-01/solarboom-bild/wide__822x462",
+      "image_title": "Solaranlagen: 2023 brachte Höchststand an neuen Solaranlagen"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Chinesische Wirtschaft: Chinas Wachstumsmodell funktioniert nicht mehr",
       "teaser": "Immobilienkrise, Jugendarbeitslosigkeit, keine Reformen: Die wirtschaftlichen Probleme Chinas könnten 2024 schlimmer werden. Dem Land droht ein weiteres schwieriges Jahr.",
       "url": "https://www.zeit.de/wirtschaft/2023-12/china-wirtschaft-konjunktur-entwicklung-2024",
       "image_url": "https://img.zeit.de/wirtschaft/2023-12/china-wirtschaft-konjunktur-entwicklung-2024-bild/wide__822x462",
       "image_title": "Chinesische Wirtschaft: Chinas Wachstumsmodell funktioniert nicht mehr"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Waschbärfleisch: Süßer Braten",
-      "teaser": "Der Jäger und Fleischer Michael Reiß verarbeitet Waschbären zu Buletten und ist damit berühmt geworden. Die Tiere dürfen ausgiebig gejagt werden. Aber schmecken sie auch?",
-      "url": "https://www.zeit.de/wirtschaft/2023-12/waschbaer-fleisch-sachsen-anhalt-jaeger-geschmack",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-12/waschbaer-fleisch-sachsen-anhalt-jaeger-geschmack-bild/wide__822x462",
-      "image_title": "Waschbärfleisch: Süßer Braten"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Chinesische Wirtschaft: Chinas Wachstumsmodell funktioniert nicht mehr",
@@ -191,6 +191,13 @@
       "image_title": "Kolumne: money matters"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Waschbärfleisch: Süßer Braten",
+      "teaser": "Der Jäger und Fleischer Michael Reiß verarbeitet Waschbären zu Buletten und ist damit berühmt geworden. Die Tiere dürfen ausgiebig gejagt werden. Aber schmecken sie auch?",
+      "url": "https://www.zeit.de/wirtschaft/2023-12/waschbaer-fleisch-sachsen-anhalt-jaeger-geschmack",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-12/waschbaer-fleisch-sachsen-anhalt-jaeger-geschmack-bild/wide__822x462",
+      "image_title": "Waschbärfleisch: Süßer Braten"
+    },
+    {
       "title": "Anlegen und sparen: Geldvermögen in privaten Haushalten auch 2023 gewachsen",
       "teaser": "Private Haushalte profitierten von Kursgewinnen an Börsen und höheren Zinsen aufs Ersparte. Auch 2024 wird ein weiterer Anstieg von Geldvermögen erwartet.",
       "url": "https://www.zeit.de/wirtschaft/2024-01/vermoegen-zuwachs-2023",
@@ -215,14 +222,14 @@
       "title": "Künstliche Intelligenz: Bundeskartellamt warnt vor Machtgewinn von Digitalkonzernen",
       "teaser": "Kartellamtschef Mundt befürchtet, dass Google, Amazon oder Microsoft durch künstliche Intelligenz ihre Marktmacht ausbauen. Gefährlich seien datengetriebene Netzwerke.",
       "url": "https://www.zeit.de/wirtschaft/2023-12/kuenstliche-intelligenz-bundeskartellamt-digitalkonzerne",
-      "image_url": "https://img.zeit.de/digital/2023-12/bundeskartellamt-warnung-vor-machtgewinn-digitalkonzerne-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/digital/2023-12/bundeskartellamt-warnung-vor-machtgewinn-digitalkonzerne-bild/cinema__980x420",
       "image_title": "Künstliche Intelligenz: Bundeskartellamt warnt vor Machtgewinn von Digitalkonzernen"
     },
     {
       "title": "Einkaufen für Silvester: Lass es einfach zu!",
       "teaser": "Immer dasselbe. Der Konsumrausch zum Jahresende gipfelt im Einkaufsexzess für die Silvesterparty. Und das schlechte Gewissen fragt: Muss das sein?",
       "url": "https://www.zeit.de/wirtschaft/2023-12/silvester-einkaufen-konsum-party",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-12/silvester-einkaufen-konsum-party-teaser-neu/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-12/silvester-einkaufen-konsum-party-teaser-neu/wide__822x462",
       "image_title": "Einkaufen für Silvester: Lass es einfach zu!"
     },
     {
@@ -231,13 +238,6 @@
       "url": "https://www.zeit.de/wirtschaft/2023-12/wirtschaftsweise-veronika-grimm-klimageld-co2-finanzministerium",
       "image_url": "https://img.zeit.de/politik/2023-12/wirtschaftsweise-veronika-grimm-klimageld-co2-finanzministerium-bild/wide__822x462",
       "image_title": "Klimageld: Wirtschaftsweise Grimm will schnelle Klimageld-Einführung"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Geldwäscheverdacht: Wenn die Bank plötzlich das Konto sperrt",
-      "teaser": "Er hatte Geld aus dem Erbe seines verstorbenen Onkels erhalten. Dann sperrte die Bank sein Konto. Verdacht: Geldwäsche. Das passiert nicht so selten, wie man denkt.",
-      "url": "https://www.zeit.de/wirtschaft/2023-12/geldwaesche-verdacht-bankkonto-sperrung-kuendigung",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-12/bank-konto-sperrung-geldwaesche/wide__822x462",
-      "image_title": "Geldwäscheverdacht: Wenn die Bank plötzlich das Konto sperrt"
     },
     {
       "title": "Immobilienkonzern: Größte Immobiliengesellschaft von Signa ist insolvent",
