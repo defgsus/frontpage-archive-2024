@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-03T08:01:00",
+  "timestamp": "2024-01-03T09:01:16",
   "url": "https://www.zeit.de/politik/index",
   "response": {
     "status": 200
@@ -38,10 +38,17 @@
   ],
   "articles": [
     {
+      "title": "Ukraine-Karte aktuell: Russisches Militär rückt an drei Frontabschnitten vor",
+      "teaser": "Im Frontabschnitt Kupjansk–Swatowe–Kreminna, bei Bachmut und um Awdijiwka rückt Russland laut ISW weiter vor. Es soll dabei vielfach zu Stellungskämpfen kommen.",
+      "url": "https://www.zeit.de/politik/ausland/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen-teaserbild/cinema__980x420"
+    },
+    {
       "title": "Liveblog: Krieg in Israel und Gaza: Eskalation an der israelisch-libanesischen Grenze befürchtet",
       "teaser": "Nach der Tötung eines Hamas-Führers in Beirut droht die Hisbollah Israel mit Vergeltung. Ihr Chef Hassan Nasrallah will am Nachmittag eine Rede halten. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/2023-12/news-israel-gaza-krieg-live",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-01/news-israel-gaza-krieg-live-bild-12/cinema__980x420"
+      "image_url": "https://img.zeit.de/politik/ausland/2024-01/news-israel-gaza-krieg-live-bild-12/wide__822x462",
+      "image_title": "Krieg in Israel und Gaza: Eskalation an der israelisch-libanesischen Grenze befürchtet"
     },
     {
       "title": "Taiwan und China: Taiwans Militär entdeckt vier chinesische Ballons",
@@ -49,13 +56,6 @@
       "url": "https://www.zeit.de/politik/ausland/2024-01/taiwan-china-ballons-sichtung-usa",
       "image_url": "https://img.zeit.de/politik/ausland/2024-01/taiwan-china-ballons-sichtung-usa-bild/wide__822x462",
       "image_title": "Taiwan und China: Taiwans Militär entdeckt vier chinesische Ballons"
-    },
-    {
-      "title": "Liveblog: Ukraine-Krieg: Russland meldet abgewehrte Angriffe auf Belgorod und die Krim",
-      "teaser": "Über der Krim will Russland eine Rakete abgeschossen haben, beim Anflug auf Belgorod zwölf. Türkei blockiert Übergabe von Minenräumschiffen an die Ukraine. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-01/ukraine-krieg-news-liveblog-bild-6/wide__822x462",
-      "image_title": "Ukraine-Krieg: Russland meldet abgewehrte Angriffe auf Belgorod und die Krim"
     },
     {
       "title": "Neujahr: Mindestlohn, Milchflaschenpfand, Mehrwertsteuer – Das kommt 2024",
@@ -76,8 +76,8 @@
       "image_title": "Landtagswahl in Sachsen: AfD liegt in Umfragen deutlich vor der CDU, SPD muss um Einzug bangen"
     },
     {
-      "title": "CDU-Politiker: Wolfgang Schäuble ist tot",
-      "url": "https://www.zeit.de/politik/deutschland/2023-12/wolfgang-schaeuble-ist-tot"
+      "title": "Bürgergeld: Hubertus Heil will Jobverweigerern Sozialleistungen kürzen",
+      "url": "https://www.zeit.de/politik/deutschland/2023-12/buergergeld-hubertus-heil-kuerzung-entwurf"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Soziologin Katharina Bluhm : \"Man macht sich heute keine Vorstellung mehr, wie brachial das war\"",
@@ -88,8 +88,8 @@
       "url": "https://www.zeit.de/politik/deutschland/2023-12/neujahrsansprache-bundeskanzler-olaf-scholz-demokratie-zukunft"
     },
     {
-      "title": "Bürgergeld: Hubertus Heil will Jobverweigerern Sozialleistungen kürzen",
-      "url": "https://www.zeit.de/politik/deutschland/2023-12/buergergeld-hubertus-heil-kuerzung-entwurf"
+      "title": "Nahost: Hamas-Anführer Saleh al-Aruri bei Angriff im Libanon getötet",
+      "url": "https://www.zeit.de/politik/ausland/2024-01/libanon-hamas-anfuehrer-saleh-al-arouri-tot-israel"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Bill Kristol : \"Viele denken, dass die Weltlage unter Trump stabiler war\"",
@@ -104,12 +104,12 @@
       "url": "https://www.zeit.de/politik/deutschland/2024-01/das-kommt-2024"
     },
     {
-      "title": "CDU-Politiker: Wolfgang Schäuble ist tot",
-      "url": "https://www.zeit.de/politik/deutschland/2023-12/wolfgang-schaeuble-ist-tot"
-    },
-    {
       "title": "Bürgergeld: Hubertus Heil will Jobverweigerern Sozialleistungen kürzen",
       "url": "https://www.zeit.de/politik/deutschland/2023-12/buergergeld-hubertus-heil-kuerzung-entwurf"
+    },
+    {
+      "title": "Nahost: Hamas-Anführer Saleh al-Aruri bei Angriff im Libanon getötet",
+      "url": "https://www.zeit.de/politik/ausland/2024-01/libanon-hamas-anfuehrer-saleh-al-arouri-tot-israel"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); AfD in Thüringen und Bayern: Der blaue Vorhang",
@@ -150,10 +150,17 @@
       "image_title": "Kai Wegner: \"Die Polizei wird, falls nötig, mit voller Härte durchgreifen\""
     },
     {
+      "title": "Liveblog: Ukraine-Krieg: Russland meldet abgewehrte Angriffe auf Belgorod und die Krim",
+      "teaser": "Über der Krim will Russland eine Rakete abgeschossen haben, beim Anflug auf Belgorod zwölf. Türkei blockiert Übergabe von Minenräumschiffen an die Ukraine. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-01/ukraine-krieg-news-liveblog-bild-6/cinema__980x420",
+      "image_title": "Ukraine-Krieg: Russland meldet abgewehrte Angriffe auf Belgorod und die Krim"
+    },
+    {
       "title": "Alternative für Deutschland : Ostbeauftragter der Bundesregierung gegen AfD-Verbot",
-      "teaser": "Carsten Schneider hält ein Verbot der in drei Bundesländern als \"gesichert rechtsextremistisch\" eingestuften AfD für falsch. Man mache es sich damit \"zu einfach\". 219 Kommentare",
+      "teaser": "Carsten Schneider hält ein Verbot der in drei Bundesländern als \"gesichert rechtsextremistisch\" eingestuften AfD für falsch. Man mache es sich damit \"zu einfach\".",
       "url": "https://www.zeit.de/politik/deutschland/2024-01/afd-verbot-ostbeauftragter-bundesregierung-wahlen",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-01/afd-verbot-ostbeauftragter-bundesregierung-wahlen-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-01/afd-verbot-ostbeauftragter-bundesregierung-wahlen-bild/wide__822x462",
       "image_title": "Alternative für Deutschland : Ostbeauftragter der Bundesregierung gegen AfD-Verbot"
     },
     {
@@ -167,14 +174,14 @@
       "title": "USA: Donald Trump legt wegen Ausschluss von Vorwahlen in Maine Berufung ein",
       "teaser": "Die Vorwahl der Republikaner in Maine soll ohne Trump stattfinden, der Ex-Präsident hat Berufung dagegen eingelegt. Der Fall geht an den Obersten Gerichtshof von Maine.",
       "url": "https://www.zeit.de/politik/ausland/2024-01/donald-trump-maine-entscheidung-einspruch-wahl-us-praesident",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-01/donald-trump/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-01/donald-trump/cinema__980x420",
       "image_title": "USA: Donald Trump legt wegen Ausschluss von Vorwahlen in Maine Berufung ein"
     },
     {
       "title": "Nachrichtenpodcast: Ein historisches Urteil für Israel",
       "teaser": "Wie weit geht die Macht der Knesset? Das Oberste Gericht stoppt Teile der umstrittenen Justizreform. Und: Polens neue Regierung baut die öffentlich-rechtlichen Medien um.",
       "url": "https://www.zeit.de/politik/2024-01/justizreform-israel-oberstes-gericht-urteil-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/cinema__980x420__8ed8a6",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__822x462__8ed8a6",
       "image_title": "Nachrichtenpodcast: Ein historisches Urteil für Israel"
     },
     {
@@ -188,14 +195,14 @@
       "title": "US-Senator: Robert Menendez soll auch von Katar bezahlt worden sein",
       "teaser": "Dem US-Senator Bob Menendez wird Korruption vorgeworfen. Gegen Geld war er demnach nicht nur im Sinne Ägyptens tätig. Auch ein anderer Staat soll profitiert haben.",
       "url": "https://www.zeit.de/politik/ausland/2024-01/us-senator-robert-menendesz-korruption-katar-aegypten",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-01/robert-menendez-us-senator/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-01/robert-menendez-us-senator/cinema__980x420",
       "image_title": "US-Senator: Robert Menendez soll auch von Katar bezahlt worden sein"
     },
     {
       "title": "Wahl in Kongo: Präsident des reichen, armen Landes",
       "teaser": "Als wiedergewählter Präsident der DR Kongo wird Félix Tshisekedi die Klimapolitik und den Rohstoffhandel kommender Jahre prägen – mit Folgen für die ganze Welt.",
       "url": "https://www.zeit.de/politik/ausland/2024-01/kongo-wahl-felix-tshisekedi-praesident",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-01/kongo-wahl-felix-tshisekedi-praesident-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-01/kongo-wahl-felix-tshisekedi-praesident-bild/wide__822x462",
       "image_title": "Wahl in Kongo: Präsident des reichen, armen Landes"
     },
     {
@@ -209,14 +216,14 @@
       "title": "Justizreform in Israel : Keine Kraft für einen Kampf im Innern",
       "teaser": "Israels Regierung ist verärgert über den Stopp der Justizreform durch das Oberste Gericht. Sollte sie den Beschluss anfechten, steht dem Land eine Staatskrise bevor.",
       "url": "https://www.zeit.de/politik/2024-01/justizreform-israel-oberstes-gericht-urteil-krieg",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-01/justizreform-israel-oberstes-gericht-urteil-krieg-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-01/justizreform-israel-oberstes-gericht-urteil-krieg-bild/cinema__980x420",
       "image_title": "Justizreform in Israel : Keine Kraft für einen Kampf im Innern"
     },
     {
       "title": "Nachrichtenpodcast: Die Pegelstände sollen weiter steigen",
       "teaser": "Die Hochwassersituation in Deutschland bleibt angespannt. Für die nächsten Tage rechnet der Deutsche Wetterdienst mit Dauerregen. Und: Was sich 2024 ändert.",
       "url": "https://www.zeit.de/politik/2024-01/hochwasser-ueberschwemmung-dwd-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/cinema__980x420__8ed8a6",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__822x462__8ed8a6",
       "image_title": "Nachrichtenpodcast: Die Pegelstände sollen weiter steigen"
     },
     {
@@ -253,13 +260,6 @@
       "url": "https://www.zeit.de/politik/deutschland/2023-12/ampelkoalition-gesellschaftspolitik-muetter-unterhalt-cannabis",
       "image_url": "https://img.zeit.de/politik/deutschland/2023-12/ampelkoalition-gesellschaftspolitik-muetter-unterhalt-cannabis-bild/wide__822x462",
       "image_title": "Ampelkoalition: Die bunte Gesellschaft muss warten"
-    },
-    {
-      "title": "Ostafrika: Somalia wirft Äthiopien Angriff auf Souveränität vor",
-      "teaser": "Über die abtrünnige Region Somaliland soll Äthiopien einen Zugang zum Meer erhalten. Die somalische Regierung fordert ein Eingreifen der Afrikanischen Union.",
-      "url": "https://www.zeit.de/politik/ausland/2024-01/ostafrika-somalia-somaliland-aethiopien-rotes-meer",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-01/somalias-aethiopien-somaliland-bild/wide__822x462",
-      "image_title": "Ostafrika: Somalia wirft Äthiopien Angriff auf Souveränität vor"
     },
     {
       "title": "Bundestagswahl 2021 in Berlin: Berliner Parteien starten in den Wiederholungswahlkampf",
