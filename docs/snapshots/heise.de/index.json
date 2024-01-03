@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-03T13:07:12",
+  "timestamp": "2024-01-03T14:00:51",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -148,12 +148,29 @@
       "image_title": "Das Wort \"news\" getippt auf einem Blatt Papier, das in einer Schreibmaschine eingespannt ist"
     },
     {
+      "title": "Tadpole: Opal-Webcam nun auch im Notebook-Format",
+      "teaser": "Das Webcam-Start-up Opal hat ein zweites Modell auf den Markt gebracht. Die Tadpole soll das Kamerabild bei Notebooks verbessern – auch ohne Software.",
+      "url": "https://www.heise.de/news/Tadpole-Opal-Webcam-nun-auch-im-Notebook-Format-9586001.html",
+      "image_title": "Opal Tadpole"
+    },
+    {
+      "title": "In der Cloud arbeiten: Wie sich die Kosten zusammensetzen",
+      "teaser": "Der vermeintlich günstige Gang in die Cloud wird in der Realität schnell zum finanziellen Fiasko. Dazu kommt der Vendor Lock-in bei den großen Hyperscalern.",
+      "url": "https://www.heise.de/hintergrund/In-der-Cloud-arbeiten-Wie-sich-die-Kosten-zusammensetzen-9567937.html"
+    },
+    {
+      "title": "VW ID.2: Produktion wird erst 2026 hochgefahren​",
+      "teaser": "Der batterieelektrische Kleinwagen VW ID.2 wird im kommenden Jahr vorgestellt, die Auslieferung dürfte aber erst 2026 beginnen.​",
+      "url": "https://www.heise.de/news/VW-ID-2-Produktion-wird-erst-2026-hochgefahren-9586260.html",
+      "image_title": "VW ID.2all"
+    },
+    {
       "title": "secIT 2024: Aktuelle Ransomware-Attacken erfolgreich abwehren",
       "teaser": "Der Großteil des redaktionellen Programms der IT-Security-Kongressmesse secIT 2024 ist online. Referenten glänzen mit hilfreichen Fakten statt Werbe-Bla-Bla.",
       "url": "https://www.heise.de/news/secIT-2024-Aktuelle-Ransomware-Attacken-erfolgreich-abwehren-9585133.html"
     },
     {
-      "title": "Rust 1.75 bringt asynchrone Funktionen in Traits",
+      "title": "Neuer Milestone von Rust: Version 1.75 mit asynchronen Trait-Funktionen",
       "teaser": "In Rust gibt es nun in Traits asynchrone Funktionen und \"impl Trait\" als Rückgabetyp. Das Rust-Team nennt es eine Milestone-Version.",
       "url": "https://www.heise.de/news/Rust-1-75-bringt-asynchrone-Funktionen-in-Traits-9586017.html",
       "image_title": "Cyberkrimineller bei der Arbeit"
@@ -177,23 +194,6 @@
       "image_title": "Intels CPU-Topmodell Core i9-13900K aus der Raptor-Lake-Generation."
     },
     {
-      "title": "Julia 1.10 erhebt den neuen Parser zum Standard",
-      "teaser": "Das Minor Release bringt zwei neue Sprachfunktionen und aktualisiert die Library. Eine der Neuerungen ist der Einsatz von JuliaSyntax.jl als Standard-Parser.",
-      "url": "https://www.heise.de/news/Julia-1-10-erhebt-den-neuen-Parser-zum-Standard-9586132.html",
-      "image_title": "A,Orange,Light,Bulb,Stands,On,Top,Of,A,Pedestal"
-    },
-    {
-      "title": "AlertLücke in Barracuda E-Mail Security Gateway ermöglichte Code-Einschleusung",
-      "teaser": "Einfallstor für die Sicherheitslücke ist ein Excel-Parser. Barracuda hat bereits Patches auf allen betroffenen Geräten ausgerollt.",
-      "url": "https://www.heise.de/news/Luecke-in-Barracuda-E-Mail-Security-Gateway-ermoeglichte-Code-Einschleusung-9586090.html"
-    },
-    {
-      "title": "Per E-Mail chatten: Delta Chat als Messenger und Mailsoftware nutzen",
-      "teaser": "Der quelloffene Messenger Delta Chat nutzt klassische E-Mails zur Kommunikation. Er ist Chat-App und Mailclient in einem. Wir zeigen die Vorteile und Grenzen.",
-      "url": "https://www.heise.de/ratgeber/Per-E-Mail-chatten-Delta-Chat-als-Messenger-und-Mailsoftware-nutzen-9432335.html",
-      "image_title": ","
-    },
-    {
       "title": "ChatGPTWas die neuen GPTs können und wie Sie eigene KI-Bots bauen",
       "teaser": "Die kleinen Helfer mixen Drinks, erklären Mathe und malen Sticker. Auch eigene Bots lassen sich einfach bauen.",
       "url": "https://www.heise.de/ratgeber/ChatGPT-Was-die-neuen-GPTs-koennen-und-wie-Sie-eigene-KI-Bots-bauen-9530670.html"
@@ -214,6 +214,23 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 Euro sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Julia 1.10 bringt zwei neue Sprachfeatures",
+      "teaser": "Das Minor Release bringt zwei neue Sprachfunktionen und aktualisiert die Library. Eine der Neuerungen ist der Einsatz von JuliaSyntax.jl als Standard-Parser.",
+      "url": "https://www.heise.de/news/Julia-1-10-erhebt-den-neuen-Parser-zum-Standard-9586132.html",
+      "image_title": "A,Orange,Light,Bulb,Stands,On,Top,Of,A,Pedestal"
+    },
+    {
+      "title": "AlertLücke in Barracuda E-Mail Security Gateway ermöglichte Code-Einschleusung",
+      "teaser": "Einfallstor für die Sicherheitslücke ist ein Excel-Parser. Barracuda hat bereits Patches auf allen betroffenen Geräten ausgerollt.",
+      "url": "https://www.heise.de/news/Luecke-in-Barracuda-E-Mail-Security-Gateway-ermoeglichte-Code-Einschleusung-9586090.html"
+    },
+    {
+      "title": "Per E-Mail chatten: Delta Chat als Messenger und Mailsoftware nutzen",
+      "teaser": "Der quelloffene Messenger Delta Chat nutzt klassische E-Mails zur Kommunikation. Er ist Chat-App und Mailclient in einem. Wir zeigen die Vorteile und Grenzen.",
+      "url": "https://www.heise.de/ratgeber/Per-E-Mail-chatten-Delta-Chat-als-Messenger-und-Mailsoftware-nutzen-9432335.html",
+      "image_title": ","
     },
     {
       "title": "NASA-Sonde Juno: Fotos zeigen Jupitermond Io nach nahem Vorbeiflug",
@@ -273,6 +290,11 @@
       "image_title": "IINA 1.3.4 mit Konfigurationsoberfläche"
     },
     {
+      "title": "Disaster Recovery mit Plan – So sichern Sie Ihren Geschäftsbetrieb",
+      "teaser": "In einem Notfall müssen Sie die Handlungsfähigkeit Ihres Unternehmens sicher- oder so schnell wie möglich wiederherstellen. Das geht nicht ohne einen Disaster-Recovery-Plan. Im Webcast am 18. Januar erfahren Sie, wie Sie sich für den Ernstfall vorbereiten.",
+      "url": "https://business-services.heise.de/security/datenrettungrecovery/beitrag/disaster-recovery-mit-plan-so-sichern-sie-ihren-geschaeftsbetrieb-4652/?source=hbsad-ersatz"
+    },
+    {
       "title": "Datensammeln trotz Bezahlung – Datenschützer sieht Facebook-Abo kritisch",
       "teaser": "Facebook hat eine werbefreie Version des Netzwerks bereitgestellt – gegen Bezahlung. Die Datensammelei gehe dennoch weiter, kritisieren Datenschützer.",
       "url": "https://www.heise.de/news/Datensammeln-trotz-Bezahlung-Datenschuetzer-sieht-Facebook-Abo-kritisch-9585932.html",
@@ -288,11 +310,6 @@
       "teaser": "Lernen Sie, wie Sie Angriffe auf das Active Directory Ihres Unternehmens sicher erkennen und effektiv verhindern können. (Frühbucherrabatt bis 16.01.)",
       "url": "https://www.heise.de/news/iX-Workshop-Lokales-Active-Directory-gegen-Angriffe-absichern-9565991.html",
       "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
-    },
-    {
-      "title": "Herausforderungen für Softwareentwicklung",
-      "teaser": "Optimale Softwareentwicklungsprozesse sind wichtig für den Erfolg Ihres Unternehmens. Worauf Sie achten sollten, wo Sie mit Verbesserungen ansetzen und schnelle Ergebnisse erzielen können, erfahren Sie in der Webcast-Aufzeichnung von heise Business Services und Ionos.",
-      "url": "https://business-services.heise.de/software/entwicklungssysteme-und-tools/beitrag/softwareentwicklung-in-deutschland-status-quo-und-herausforderungen-4639/?source=hbsad_ersatz_OD"
     },
     {
       "title": "UpdateFAQ zum E-Rezept: Wie es sich einlösen lässt und was Sie dabei beachten müssen",
@@ -333,24 +350,6 @@
       "teaser": "In wenigen Tagen wird auch in Hessen, Nordrhein-Westfalen und Baden-Württemberg die Verbreitung von analogem Radio über das Kabelnetz von Vodafone eingestellt.",
       "url": "https://www.heise.de/news/Vodafone-schaltet-analoges-Radio-in-den-letzten-Kabelnetzen-ab-9585759.html",
       "image_title": "HiFi-Anlage"
-    },
-    {
-      "title": "Silvester-Datenverbrauch im Handynetz auf Rekordhoch",
-      "teaser": "Nach den Corona-Jahren haben viele Menschen wieder Silvester-Partys besucht und das Mobilfunknetz statt des heimischen WLANs genutzt.",
-      "url": "https://www.heise.de/news/Silvester-Datenverbrauch-im-Handynetz-auf-Rekordhoch-9585755.html",
-      "image_title": "Feuerwekr über Völkerschlachtdenkmal"
-    },
-    {
-      "title": "Mittwoch: Kanadas wenig nützliche Linksteuer, FTX-Chef ohne zweiten Strafprozess",
-      "teaser": "Linksteuer kaum hilfreich für Medien + SBF vor schnellerem Verfahren + Telegram-Update für Energieeffizienz + Micky Maus gemeinfrei + Ausblick im Chip-Podcast",
-      "url": "https://www.heise.de/news/Mitwoch-Kanadas-wenig-nuetzliche-Linksteuer-FTX-Chef-ohne-zweiten-Strafprozess-9585747.html",
-      "image_title": "Figuren transportieren Münzen; Mittwoch: Linksteuer-Fiasko, SBF-Verfahren, Telegram-Update, Micky-Maus-Freiheit & Bit-Rauschen-Ausblick"
-    },
-    {
-      "title": "Bit-Rauschen, der Prozessor-Podcast: Ausblick aufs Chip-Jahr 2024",
-      "teaser": "2024 erwarten wir viele spannende Chip-Neuheiten und die CES macht den Auftakt. Was dann kommt, verrät Folge 2024/1 des Podcasts Bit-Rauschen.",
-      "url": "https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-Ausblick-aufs-Chip-Jahr-2024-9279775.html",
-      "image_title": "2 Männer sitzen auf Kühlkörpern einander gegenüber. Dazwischen schwebt das Logo des Bitrauschen-Podcasts"
     },
     {
       "title": "Operation Triangulation: \"Raffiniertester Exploit aller Zeiten\" auf iPhones",
@@ -422,6 +421,12 @@
       "image_title": "Doppeltipp auf Apple Watch Series 9"
     },
     {
+      "title": "Sony, Nikon und CanonMit neuer Kamerafunktion gegen KI-generierte \"Fotos\"",
+      "teaser": "KI-Bildgeneratoren können längst fotorealistische Darstellungen erzeugen. Nun gibt es eine Technik zur Authentifizierung von Fotos.",
+      "url": "https://www.heise.de/news/Sony-Nikon-und-Canon-Mit-neuer-Kamerafunktion-gegen-KI-generierte-Fotos-9584755.html",
+      "image_title": "Frontaler Blick auf ein Kameraobjektiv"
+    },
+    {
       "title": "Geplante Rundfunkbeitragserhöhung reicht laut ZDF nicht aus",
       "teaser": "Eine Erhöhung um nur 58 Cent pro Monat reicht nach Ansicht des ZDF-Intendanten Norbert Himmler nicht aus. Er werde mehr Wiederholungen geben müssen.",
       "url": "https://www.heise.de/news/Geplante-Rundfunksbeitragserhoehung-reicht-laut-ZDF-nicht-aus-9583832.html"
@@ -430,11 +435,6 @@
       "title": "LeakQuellcode von GTA 5 veröffentlicht",
       "teaser": "Der Code des Spiels taucht ein Jahr nach dem Datendienstahl bei Rockstar Games in verschiedenen Kanälen auf. Woher der Code stammt, ist noch unklar.",
       "url": "https://www.heise.de/news/Quellcode-von-GTA-5-veroeffentlicht-9582839.html"
-    },
-    {
-      "title": "Minimalistisch in allen Lagen: Die Bilder der Woche (KW51)",
-      "teaser": "In dieser Woche zeigen uns die Galeriefotografen minimalistische Bilder von weit oben, nah am Boden und aus ungewöhnlichen Winkeln.",
-      "url": "https://www.heise.de/news/Minimalistisch-in-allen-Lagen-Die-Bilder-der-Woche-KW51-9581653.html"
     },
     {
       "title": "Ab Anfang JanuarAutozulassung nur noch persönlich: KBA sperrt viele iKfz-Portale",
@@ -502,6 +502,12 @@
       "image_title": "Blick in die Apple-Glaskugel"
     },
     {
+      "title": "Fehlendes CO₂Außerirdisches Leben mit aktueller Technik bereits nachweisbar",
+      "teaser": "Ein Forschungsteam hat angeblich einen Weg gefunden, wie man mit bestehender Technik bei Exoplaneten Ozeane aus Wasser finden kann.",
+      "url": "https://www.heise.de/news/Wenn-CO-fehlt-Ausserirdisches-Leben-mit-aktueller-Technik-bereits-nachweisbar-9585226.html",
+      "image_title": "Roter Stern und drei Planeten"
+    },
+    {
       "title": "Missing LinkWenn Einsteins kosmologische Konstante nicht konstant ist",
       "teaser": "Angeblich wachsen große Strukturen zu langsam für Einsteins Gravitationsgesetz. Eine Analyse erklärt, worum es dabei geht.",
       "url": "https://www.heise.de/hintergrund/Missing-Link-Wenn-Einsteins-kosmologische-Konstante-nicht-konstant-ist-9581142.html"
@@ -511,11 +517,6 @@
       "teaser": "Forscher der Universität Basel zeigen, dass ein KI-System den Gesichtsausdruck von Patienten in der Psychotherapie zuverlässig interpretiert.",
       "url": "https://www.heise.de/news/Kuenstliche-Intelligenz-deutet-Gesichtsausdruecke-und-unterstuetzt-Psychotherapie-9584219.html",
       "image_title": "KI kann Psychotherapeuten beim Auswerten von Therapiesituationen helfen"
-    },
-    {
-      "title": "Zahlen, bitte! – 110.000 Briefkästen für analoge Kommunikation",
-      "teaser": "Postbriefkästen sichern hierzulande seit über 200 Jahren schnell und unkompliziert die Briefkommunikation. Napoleons Truppen schleppten sie ein.",
-      "url": "https://www.heise.de/news/Zahlen-bitte-110-000-Briefkaesten-fuer-analoge-Kommunikation-9582683.html"
     },
     {
       "title": "Quereinstieg in die ITQuereinstieg in die IT: Vom Hobbyprogrammierer zum Softwareentwickler",
@@ -732,32 +733,30 @@
       "url": "https://www.heise.de/tp/features/Debatten-Wovon-Whataboutism-ablenkt-9207254.html"
     },
     {
-      "title": "Ukraine-Krieg: Nukleare Eskalation unwahrscheinlich – und doch wahrscheinlicher",
-      "teaser": "Nach der Wagner-Revolte muss der Kreml Stärke beweisen. Das steigert das Risiko, meint der russische Politologe Michail Troizki. Er weist auf ein Paradoxon hin .",
-      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Nukleare-Eskalation-unwahrscheinlich-und-doch-wahrscheinlicher-9207244.html"
+      "title": "Bud Light: Biertrinker falsch abgeholt",
+      "teaser": "Werbekampagne mit Transgender-Star geht daneben. Schäumende Entrüstung, Geschäft bricht ein. Kulturkampf-Boykott gewinnt. Fabriken schließen. Angestellte werden arbeitslos.",
+      "url": "https://www.heise.de/tp/features/Bud-Light-Biertrinker-falsch-abgeholt-9209052.html"
     },
     {
-      "title": "China beschränkt Export wichtiger Mineralien: Europas grüner Wandel bedroht",
-      "teaser": "Der Umgang zwischen EU und China wird zunehmend unfreundlich. Die Entscheidung Beijings hat ein Vorspiel in Europa. Das sind die Hintergründe.",
-      "url": "https://www.heise.de/tp/features/China-beschraenkt-Export-wichtiger-Mineralien-Europas-gruener-Wandel-bedroht-9206885.html",
-      "image_title": "China schränkt Export von Mineralien für grüne Technologien ein."
+      "title": "Ukraine-Krieg, Nato und Russland: Perverses Spiel mit der nuklearen Gefahr",
+      "teaser": "Die Zeichen stehen auf Eskalation. Die größte Bedrohung wird im Westen leichtfertig abgetan. Wie dramatisch die Zuspitzung ist, zeigt ein Abgleich der Debatte mit der Lage Ende 2018.",
+      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Nato-und-Russland-Perverses-Spiel-mit-der-nuklearen-Gefahr-9208766.html"
     },
     {
-      "title": "Vor 25 Jahren: DivX – das MP3 für Video entsteht",
-      "teaser": "Um einen effizienteren Videocodec zu nutzen, tat ein Franzose 1998 Verbotenes – und legte damit den Grundstein für DivX.",
-      "url": "https://www.heise.de/hintergrund/Vor-25-Jahren-DivX-das-MP3-fuer-Video-entsteht-9578007.html",
-      "image_title": "Digital,Contents,Concept.,Social,Networking,Service.,Streaming,Video.,Nft.,Non-fungible"
+      "title": "Web-Tipps: Top-Suchen bei Google aus den letzten 25 Jahren",
+      "teaser": "Happy Birthday to You, Happy Birthday to You: Google feierte seinen 25. Geburtstag mit einer Auflistung über die Top-Suchen aus 25 Jahren mit Zeitkapsel und Co.",
+      "url": "https://www.heise.de/news/Web-Tipps-Top-Suchen-bei-Google-aus-den-letzten-25-Jahren-9581320.html"
     },
     {
-      "title": "Vodafone schaltet analoges Radio in den letzten Kabelnetzen ab",
-      "teaser": "In wenigen Tagen wird auch in Hessen, Nordrhein-Westfalen und Baden-Württemberg die Verbreitung von analogem Radio über das Kabelnetz von Vodafone eingestellt.",
-      "url": "https://www.heise.de/news/Vodafone-schaltet-analoges-Radio-in-den-letzten-Kabelnetzen-ab-9585759.html",
-      "image_title": "HiFi-Anlage"
+      "title": "UpdateJahrescharts: Steam stellt umsatzstärkste und meistgespielte Spiele vor",
+      "teaser": "Seit Jahren listet Steam auf, welche Titel das meiste Geld eingespielt haben. Neben den bekannten Blockbustern schaffen es auch andere nach oben.",
+      "url": "https://www.heise.de/news/Steam-Jahrescharts-Umsatzstaerkstes-Spiel-nur-im-Early-Access-verfuegbar-9583623.html",
+      "image_title": "\"Die besten des Jahres\" bei Steam"
     },
     {
-      "title": "Fotobücher — die Kritiken des Jahres 2023",
-      "teaser": "Bücher über Fotografie zeigen nicht nur Bilder, sie erzählen auch Geschichten von und über Fotografen oder geben Einblicke in unbekannte Welten.",
-      "url": "https://www.heise.de/ratgeber/Fotobuecher-die-Kritiken-des-Jahres-2023-9574416.html"
+      "title": "37C3: Kopierschutz AACS 2 für Ultra HD Blu-rays ist geknackt",
+      "teaser": "Forscher haben einen umfassenden Angriff auf das aktuelle Blu-ray-DRM präsentiert. Damit lassen sich Schlüssel extrahieren und UHD-BD-Filme beliebig abspielen.",
+      "url": "https://www.heise.de/news/37C3-Kopierschutz-AACS-2-fuer-Ultra-HD-Blu-rays-ist-geknackt-9584107.html"
     },
     {
       "title": "Der heise Adventskalender 2023",
