@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-04T12:09:04",
+  "timestamp": "2024-01-04T13:07:17",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Wireshark",
+      "url": "https://www.heise.de/news/Netzwerkanalystool-Wireshark-gegen-moegliche-Attacken-abgesichert-9587170.html"
+    },
+    {
       "title": "Patchday Android",
       "url": "https://www.heise.de/news/Patchday-Android-Angreifer-koennen-sich-hoehere-Rechte-erschleichen-9586713.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Luecke-in-Barracuda-E-Mail-Security-Gateway-ermoeglichte-Code-Einschleusung-9586090.html"
     },
     {
-      "title": "Juniper Secure Analytics",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-Schadcode-Attacken-auf-Juniper-Secure-Analytics-moeglich-9585826.html"
+      "title": "Netzwerkanalysetool Wireshark gegen mögliche Attacken abgesichert",
+      "teaser": "Die Wireshark-Entwickler haben in aktuellen Versionen mehrere Sicherheitslücken geschlossen.",
+      "url": "https://www.heise.de/news/Netzwerkanalystool-Wireshark-gegen-moegliche-Attacken-abgesichert-9587170.html"
     },
     {
       "title": "Update für Google Chrome schließt sechs Sicherheitslücken",
@@ -150,12 +155,6 @@
       "title": "Operation Triangulation: \"Raffiniertester Exploit aller Zeiten\" auf iPhones",
       "teaser": "Im Sommer wurde bekannt, dass iPhones der russischen Sicherheitsfirma Kaspersky per hoch entwickeltem Exploit übernommen wurden. Auf dem 37C3 gab es Details.",
       "url": "https://www.heise.de/news/Operation-Triangulation-Raffiniertester-Exploit-aller-Zeiten-auf-iPhones-9583427.html"
-    },
-    {
-      "title": "Kritische Sicherheitslücke in Perl-Bibliothek: Schwachstelle bereits ausgenutzt",
-      "teaser": "In einer Perl-Bibliothek zum Parsen von Excel-Dateien haben Sicherheitsforscher eine kritische Schwachstelle entdeckt, die Angreifer bereits ausgenutzt haben.",
-      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-Perl-Bibliothek-Schwachstelle-bereits-ausgenutzt-9583179.html",
-      "image_title": "Series,Mainframe,In,A,Futuristic,Representation,Of,A,Matrix,Code"
     },
     {
       "title": "Microsofts Cloud und Entra ID - Reale Angriffe verstehen und verhindern",
