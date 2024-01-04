@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-04T08:07:26",
+  "timestamp": "2024-01-04T09:00:58",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Google Chrome",
+      "url": "https://www.heise.de/news/Update-fuer-Google-Chrome-schliesst-sechs-Sicherheitsluecken-9586697.html"
+    },
+    {
       "title": "Barracuda ESG",
       "url": "https://www.heise.de/news/Luecke-in-Barracuda-E-Mail-Security-Gateway-ermoeglichte-Code-Einschleusung-9586090.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-Perl-Bibliothek-Schwachstelle-bereits-ausgenutzt-9583179.html"
     },
     {
-      "title": "Ivanti Avalanche",
-      "url": "https://www.heise.de/news/Kritische-Luecken-in-Mobile-Device-Management-Loesung-Ivanti-Avalanche-geschlossen-9580221.html"
+      "title": "Update für Google Chrome schließt sechs Sicherheitslücken",
+      "teaser": "Google hat aktualisierte Chrome-Versionen herausgegeben. Sie schließen sechs Sicherheitslücken, davon mehrere mit hohem Risiko.",
+      "url": "https://www.heise.de/news/Update-fuer-Google-Chrome-schliesst-sechs-Sicherheitsluecken-9586697.html"
     },
     {
       "title": "Lücke in Barracuda E-Mail Security Gateway ermöglichte Code-Einschleusung",
@@ -152,11 +157,6 @@
       "teaser": "Mit Hilfe eines kurzen Spannungsabfalls konnten sich drei Doktoranden der TU Berlin Zugriff auf die Platine verschaffen, auf der Teslas Autopilot arbeitet.",
       "url": "https://www.heise.de/news/Tesla-IT-Sicherheitsforscher-verschaffen-sich-Zugriff-auf-Autopilot-Hardware-9583095.html",
       "image_title": "Tesla von innen"
-    },
-    {
-      "title": "Cyberangriff auf Kliniken in Ostwestfalen",
-      "teaser": "Am 24.12. suchte nicht der Weihnachtsmann, sondern ein Erpressungstrojaner Kliniken in Ostwestfalen-Lippe heim. Die gesamte IT stehe still.",
-      "url": "https://www.heise.de/news/Cyberangriff-auf-Kliniken-in-Ostwestfalen-9582719.html"
     },
     {
       "title": "Microsofts Cloud und Entra ID - Reale Angriffe verstehen und verhindern",
