@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-04T11:01:13",
+  "timestamp": "2024-01-04T12:09:15",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -38,10 +38,17 @@
   ],
   "articles": [
     {
+      "title": "Studie: Rentner leben im Osten besonders günstig",
+      "teaser": "Relativ hohe Renten treffen auf niedrige Lebenshaltungskosten: In ostdeutschen Bundesländern sind Rentner finanziell besser gestellt – besonders in Gera.",
+      "url": "https://www.zeit.de/wirtschaft/2024-01/studie-rentner-ostdeutschland-leben-guenstig",
+      "image_url": "https://img.zeit.de/gesellschaft/ausland/2024-01/gera-osten-bild/cinema__980x420"
+    },
+    {
       "title": "Luftverkehr: Inlandsflüge verlieren seit Pandemie an Bedeutung",
       "teaser": "Die Zahl der Flüge und Passagiere innerhalb Deutschlands stagniert auf niedrigerem Niveau. Jeder dritte Passagier reist nach einem innerdeutschen Flug weiter ins Ausland.",
       "url": "https://www.zeit.de/mobilitaet/2024-01/inlandsfluege-deutschland-2023-weniger-bedeutung",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-01/weniger-inlandsfluege-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/gesellschaft/2024-01/weniger-inlandsfluege-bild/wide__822x462",
+      "image_title": "Luftverkehr: Inlandsflüge verlieren seit Pandemie an Bedeutung"
     },
     {
       "title": "Baubranche: Experten rechnen mit weiterer Verschlechterung der Lage im Wohnungsbau",
@@ -54,15 +61,8 @@
       "title": "Z+ (abopflichtiger Inhalt); Energiewende: Mehr Wind machen",
       "teaser": "Wie läuft die Energiewende? In wichtigen Bereichen ging es 2023 überraschend gut voran, in anderen dagegen hakt es gewaltig. Und die Regierung kann es noch vermasseln.",
       "url": "https://www.zeit.de/2024/02/energiewende-windkraft-solarboom-stromnetz-wasserstoff",
-      "image_url": "https://img.zeit.de/2024/02/energiewende-windkraft-teaser/wide__822x462",
+      "image_url": "https://img.zeit.de/2024/02/energiewende-windkraft-teaser/cinema__980x420",
       "image_title": "Energiewende: Mehr Wind machen"
-    },
-    {
-      "title": "Hochwasserschutz: Hat Deutschland nichts gelernt?",
-      "teaser": "Die aktuelle Hochwasserlage ist nicht mit den Katastrophen vergangener Jahre vergleichbar. Dennoch zeigen sich bereits Schwachstellen, die vermeidbar wären.",
-      "url": "https://www.zeit.de/wirtschaft/2024-01/hochwasserschutz-niedersachsen-deutschland-schwachstellen",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-01/hochwasserschutz-niedersachsen-deutschland-schwachstellen-bild/cinema__980x420",
-      "image_title": "Hochwasserschutz: Hat Deutschland nichts gelernt?"
     },
     {
       "title": "AnzeigePUMA: Mit Workday zum Erfolg",
@@ -72,18 +72,18 @@
       "image_title": "PUMA: Mit Workday zum Erfolg"
     },
     {
+      "title": "Hochwasserschutz: Hat Deutschland nichts gelernt?",
+      "teaser": "Die aktuelle Hochwasserlage ist nicht mit den Katastrophen vergangener Jahre vergleichbar. Dennoch zeigen sich bereits Schwachstellen, die vermeidbar wären.",
+      "url": "https://www.zeit.de/wirtschaft/2024-01/hochwasserschutz-niedersachsen-deutschland-schwachstellen",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-01/hochwasserschutz-niedersachsen-deutschland-schwachstellen-bild/wide__822x462",
+      "image_title": "Hochwasserschutz: Hat Deutschland nichts gelernt?"
+    },
+    {
       "title": "Kryptowährung: Bitcoin verliert innerhalb eines Tages mehr als neun Prozent an Wert",
       "teaser": "Der Kurs der Digitalwährung fiel um fast 5.000 US-Dollar. Kurz zuvor war der Bitcoin noch so viel wert wie zuletzt 2022. Auch andere Kryptowährungen sind betroffen.",
       "url": "https://www.zeit.de/wirtschaft/geldanlage/2024-01/bitcoin-kryptowaehrung-geldanlage",
       "image_url": "https://img.zeit.de/wirtschaft/geldanlage/2024-01/bitcoin-kryptowaehrung-geldanlage-bild/wide__822x462",
       "image_title": "Kryptowährung: Bitcoin verliert innerhalb eines Tages mehr als neun Prozent an Wert"
-    },
-    {
-      "title": "Kryptowährungen: \"Krypto wird nicht mehr verschwinden\"",
-      "teaser": "Der durchschnittliche Kryptoanleger ist männlich, weiß, westlich – und freute sich zuletzt über eine Rallye. Der Wirtschaftssoziologe Koray Caliskan erklärt den Hype.",
-      "url": "https://www.zeit.de/2024/02/kryptowaehrungen-bitcoin-kurs-blockchain-investition",
-      "image_url": "https://img.zeit.de/2024/02/kryptowaehrungen-bitcoin-kurs-teaser/wide__822x462",
-      "image_title": "Kryptowährungen: \"Krypto wird nicht mehr verschwinden\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Chinesische Wirtschaft: Chinas Wachstumsmodell funktioniert nicht mehr",
@@ -191,6 +191,13 @@
       "image_title": "Kolumne: money matters"
     },
     {
+      "title": "Kryptowährungen: \"Krypto wird nicht mehr verschwinden\"",
+      "teaser": "Der durchschnittliche Kryptoanleger ist männlich, weiß, westlich – und freute sich zuletzt über eine Rallye. Der Wirtschaftssoziologe Koray Caliskan erklärt den Hype.",
+      "url": "https://www.zeit.de/2024/02/kryptowaehrungen-bitcoin-kurs-blockchain-investition",
+      "image_url": "https://img.zeit.de/2024/02/kryptowaehrungen-bitcoin-kurs-teaser/wide__822x462",
+      "image_title": "Kryptowährungen: \"Krypto wird nicht mehr verschwinden\""
+    },
+    {
       "title": "Gleichberechtigung: Frauenquote in Dax-Konzernvorständen stagniert bei 23 Prozent",
       "teaser": "Frauen scheiden frühzeitiger als Männer wieder aus Dax-Vorständen aus, wie eine Studie zeigt. Anders als bei Männern spielt das Alter dabei keine Rolle.",
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-01/frauenquote-vorstaende-dax-studie-altersgrenze",
@@ -213,16 +220,16 @@
     },
     {
       "title": "Leonhard Birnbaum: E.on-Chef stimmt Verbraucher auf höhere Energiepreise ein",
-      "teaser": "Nachdem die Energiepreise zuletzt wieder gesunken waren, warnt E.on-Chef Birnbaum vor neuen Preissteigerungen. Bereits jetzt kostet Strom doppelt so viel wie noch 2021.",
+      "teaser": "Nachdem die Energiepreise zuletzt wieder gesunken waren, warnt E.on-Chef Birnbaum vor neuen Preissteigerungen. Bereits jetzt kostet Strom doppelt so viel wie noch 2021. 1.273 Kommentare",
       "url": "https://www.zeit.de/wirtschaft/2024-01/energiepreise-anstieg-eon-leonhard-birnbaum",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-01/energiepreise-anstieg-eon-leonhard-birnbaum-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-01/energiepreise-anstieg-eon-leonhard-birnbaum-bild/cinema__980x420",
       "image_title": "Leonhard Birnbaum: E.on-Chef stimmt Verbraucher auf höhere Energiepreise ein"
     },
     {
       "title": "Kryptowährung: Bitcoin steigt erstmals seit 20 Monaten auf mehr als 45.000 Dollar",
-      "teaser": "Der Bitcoin ist so viel wert wie zuletzt im April 2022. Hintergrund ist der mögliche Start des ersten Indexfonds, der auf der Kryptowährung basiert. 163 Kommentare",
+      "teaser": "Der Bitcoin ist so viel wert wie zuletzt im April 2022. Hintergrund ist der mögliche Start des ersten Indexfonds, der auf der Kryptowährung basiert.",
       "url": "https://www.zeit.de/wirtschaft/2024-01/bitcoin-kryptowaehrung-preis-etf-sec",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-01/bitcoin-kryptowaehrung-preis-etf-sec-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-01/bitcoin-kryptowaehrung-preis-etf-sec-bild/wide__822x462",
       "image_title": "Kryptowährung: Bitcoin steigt erstmals seit 20 Monaten auf mehr als 45.000 Dollar"
     },
     {
@@ -231,13 +238,6 @@
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-01/solaranlagen-hoechststand-2023-prognosen-wachstum",
       "image_url": "https://img.zeit.de/wirtschaft/2024-01/solarboom-bild/wide__822x462",
       "image_title": "Solaranlagen: 2023 brachte Höchststand an neuen Solaranlagen"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Chinesische Wirtschaft: Chinas Wachstumsmodell funktioniert nicht mehr",
-      "teaser": "Immobilienkrise, Jugendarbeitslosigkeit, keine Reformen: Die wirtschaftlichen Probleme Chinas könnten 2024 schlimmer werden. Dem Land droht ein weiteres schwieriges Jahr.",
-      "url": "https://www.zeit.de/wirtschaft/2023-12/china-wirtschaft-konjunktur-entwicklung-2024",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-12/china-wirtschaft-konjunktur-entwicklung-2024-bild/wide__822x462",
-      "image_title": "Chinesische Wirtschaft: Chinas Wachstumsmodell funktioniert nicht mehr"
     },
     {
       "title": "Immobilienkonzern: Größte Immobiliengesellschaft von Signa ist insolvent",
