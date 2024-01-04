@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-04T09:00:58",
+  "timestamp": "2024-01-04T10:00:56",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -19,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.b92ca1ceb4307a4af12f",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.57347bbf5b22798a0f56",
       "id": null,
       "text": null
     },
@@ -31,6 +31,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Patchday Android",
+      "url": "https://www.heise.de/news/Patchday-Android-Angreifer-koennen-sich-hoehere-Rechte-erschleichen-9586713.html"
+    },
     {
       "title": "Google Chrome",
       "url": "https://www.heise.de/news/Update-fuer-Google-Chrome-schliesst-sechs-Sicherheitsluecken-9586697.html"
@@ -44,10 +48,6 @@
       "url": "https://www.heise.de/news/Sicherheitsupdate-Schadcode-Attacken-auf-Juniper-Secure-Analytics-moeglich-9585826.html"
     },
     {
-      "title": "Perl-Bibliothek",
-      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-Perl-Bibliothek-Schwachstelle-bereits-ausgenutzt-9583179.html"
-    },
-    {
       "title": "Update für Google Chrome schließt sechs Sicherheitslücken",
       "teaser": "Google hat aktualisierte Chrome-Versionen herausgegeben. Sie schließen sechs Sicherheitslücken, davon mehrere mit hohem Risiko.",
       "url": "https://www.heise.de/news/Update-fuer-Google-Chrome-schliesst-sechs-Sicherheitsluecken-9586697.html"
@@ -56,6 +56,11 @@
       "title": "Lücke in Barracuda E-Mail Security Gateway ermöglichte Code-Einschleusung",
       "teaser": "Einfallstor für die Sicherheitslücke ist ein Excel-Parser. Barracuda hat bereits Patches auf allen betroffenen Geräten ausgerollt.",
       "url": "https://www.heise.de/news/Luecke-in-Barracuda-E-Mail-Security-Gateway-ermoeglichte-Code-Einschleusung-9586090.html"
+    },
+    {
+      "title": "Krypto-Bankraub: 82 Millionen Dollar bei Orbit Chain gestohlen",
+      "teaser": "Die Räuber gingen sehr methodisch vor und übertrugen Ethereum und andere Kryptowährungen vom südkoreanischen Anbieter zu verschiedenen Krypto-Geldbörsen.",
+      "url": "https://www.heise.de/news/Krypto-Bankraub-82-Millionen-Dollar-bei-Orbit-Chain-gestohlen-9585994.html"
     },
     {
       "title": "Sicherheitsupdate: Schadcode-Attacken auf Juniper Secure Analytics möglich",
@@ -151,12 +156,6 @@
       "teaser": "In einer Perl-Bibliothek zum Parsen von Excel-Dateien haben Sicherheitsforscher eine kritische Schwachstelle entdeckt, die Angreifer bereits ausgenutzt haben.",
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-Perl-Bibliothek-Schwachstelle-bereits-ausgenutzt-9583179.html",
       "image_title": "Series,Mainframe,In,A,Futuristic,Representation,Of,A,Matrix,Code"
-    },
-    {
-      "title": "Tesla: Forscher der TU Berlin verschaffen sich Zugriff auf Autopilot-Hardware",
-      "teaser": "Mit Hilfe eines kurzen Spannungsabfalls konnten sich drei Doktoranden der TU Berlin Zugriff auf die Platine verschaffen, auf der Teslas Autopilot arbeitet.",
-      "url": "https://www.heise.de/news/Tesla-IT-Sicherheitsforscher-verschaffen-sich-Zugriff-auf-Autopilot-Hardware-9583095.html",
-      "image_title": "Tesla von innen"
     },
     {
       "title": "Microsofts Cloud und Entra ID - Reale Angriffe verstehen und verhindern",
