@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-05T15:01:29",
+  "timestamp": "2024-01-05T16:01:11",
   "url": "https://www.zeit.de/kultur/index",
   "response": {
     "status": 200
@@ -38,10 +38,23 @@
   ],
   "articles": [
     {
+      "title": "\"Starsky & Hutch\": Schauspieler David Soul ist tot",
+      "teaser": "Seine Rolle als Detektiv Ken Hutch in der Krimiserie \"Starsky & Hutch\" machte ihn berühmt. Im Alter von 80 Jahren ist David Soul nun in London gestorben.",
+      "url": "https://www.zeit.de/kultur/film/2024-01/starsky-and-hutch-david-soul-ist-tot",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-01/us-schauspieler-david-soul-bild/cinema__980x420"
+    },
+    {
       "title": "Los Angeles: \"Mary Poppins\"-Star Glynis Johns mit 100 Jahren gestorben",
       "teaser": "\"Ein düsterer Tag für Hollywood\": Mit dem Filmklassiker \"Mary Poppins\" wurde die britische Schauspielerin Glynis Johns weltberühmt. Sie wurde 100 Jahre alt.",
       "url": "https://www.zeit.de/kultur/film/2024-01/glynis-johns-mary-poppins",
-      "image_url": "https://img.zeit.de/kultur/2024-01/glynis-johns-marry-poppins-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/kultur/2024-01/glynis-johns-marry-poppins-bild/wide__822x462",
+      "image_title": "Los Angeles: \"Mary Poppins\"-Star Glynis Johns mit 100 Jahren gestorben"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); ZEIT-Bibliothek der Weltliteratur: Welches Buch passt zu Ihnen?",
+      "teaser": "Die Weltliteratur ist groß. Da kann man sich schon einmal verlieren! Welches Buch sollten Sie lesen? Der Buch-O-Mat weiß die Antwort.",
+      "url": "https://www.zeit.de/kultur/literatur/2023-11/buchempfehlungen-zeit-bibliothek-100-buecher-lesen-quiz",
+      "image_url": "https://img.zeit.de/kultur/literatur/2023-11/buchempfehlungen-2023-lesen/cinema__980x420"
     },
     {
       "title": "\"Nicht ich\" von Zeruya Shalev: Wilder Ritt durch tausend Träume",
@@ -51,24 +64,11 @@
       "image_title": "\"Nicht ich\" von Zeruya Shalev: Wilder Ritt durch tausend Träume"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); ZEIT-Bibliothek der Weltliteratur: Welches Buch passt zu Ihnen?",
-      "teaser": "Die Weltliteratur ist groß. Da kann man sich schon einmal verlieren! Welches Buch sollten Sie lesen? Der Buch-O-Mat weiß die Antwort.",
-      "url": "https://www.zeit.de/kultur/literatur/2023-11/buchempfehlungen-zeit-bibliothek-100-buecher-lesen-quiz",
-      "image_url": "https://img.zeit.de/kultur/literatur/2023-11/buchempfehlungen-2023-lesen/cinema__980x420"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); \"Send Nudes\" von Saba Sams: Allerhand toxische Beziehungen",
       "teaser": "In den Geschichten der Britin Saba Sams wird viel \"gebondet\". Sie erzählen großartig von der Sehnsucht nach Nähe und den zweifelhaften Wegen, sie herzustellen.",
       "url": "https://www.zeit.de/kultur/literatur/2024-01/send-nudes-saba-sams-debuet-literatur",
       "image_url": "https://img.zeit.de/kultur/literatur/2024-01/send-nudes-saba-sams-debuet/wide__822x462",
       "image_title": "\"Send Nudes\" von Saba Sams: Allerhand toxische Beziehungen"
-    },
-    {
-      "title": "\"Alle meine Geister\" von Uwe Timm: Wer sich auf Pelze versteht, schreibt auch gute Romane",
-      "teaser": "Bevor er Schriftsteller wurde, lernte er das Kürschner-Handwerk: Uwe Timm erinnert sich in seinem neuen Buch \"Alle meine Geister\" an seine Jugendjahre.",
-      "url": "https://www.zeit.de/2024/02/uwe-timm-alle-meine-geister-biografie-jugend-rezension",
-      "image_url": "https://img.zeit.de/2024/02/uwe-timm-alle-meine-geister-teaser/wide__822x462",
-      "image_title": "\"Alle meine Geister\" von Uwe Timm: Wer sich auf Pelze versteht, schreibt auch gute Romane"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Großbaustellen der Politik: Kurz vorm Systemversagen",
@@ -163,6 +163,13 @@
       "url": "https://www.zeit.de/kultur/2024-01/debattenkultur-2024-gesellschaft-politik"
     },
     {
+      "title": "\"Alle meine Geister\" von Uwe Timm: Wer sich auf Pelze versteht, schreibt auch gute Romane",
+      "teaser": "Bevor er Schriftsteller wurde, lernte er das Kürschner-Handwerk: Uwe Timm erinnert sich in seinem neuen Buch \"Alle meine Geister\" an seine Jugendjahre.",
+      "url": "https://www.zeit.de/2024/02/uwe-timm-alle-meine-geister-biografie-jugend-rezension",
+      "image_url": "https://img.zeit.de/2024/02/uwe-timm-alle-meine-geister-teaser/wide__822x462",
+      "image_title": "\"Alle meine Geister\" von Uwe Timm: Wer sich auf Pelze versteht, schreibt auch gute Romane"
+    },
+    {
       "title": "\"Der Junge und der Reiher\" von Hayao Miyazaki: Nimm mich mit, Grinsekatzenbus!",
       "teaser": "In seinem wohl letzten Film stellt sich der fantastische Animationskünstler Hayao Miyazaki den ganz großen Fragen: Wie lebt ihr – und wie geht ihr mit Verlusten um?",
       "url": "https://www.zeit.de/2024/02/hayao-miyazaki-der-junge-und-der-reiher-film-japan-studio-ghibli",
@@ -198,13 +205,6 @@
       "image_title": "Gérard Depardieu: Der tiefe Fall eines der Größten"
     },
     {
-      "title": "Amoklauf in Prag: Das Herz der Stadt blutet",
-      "teaser": "Der Amoklauf an der Philosophischen Fakultät hat Prag tief erschüttert. In der Stadt, in der sonst viel gelacht und erzählt wird, ist danach alles anders. Es ist still.",
-      "url": "https://www.zeit.de/2024/02/prag-amoklauf-karls-universitaet-erinnerungen",
-      "image_url": "https://img.zeit.de/2024/02/prag-amoklauf-teaser/wide__822x462",
-      "image_title": "Amoklauf in Prag: Das Herz der Stadt blutet"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); \"Priscilla\" von Sofia Coppola: Gefangen in Graceland",
       "teaser": "Sofia Coppola hat einen Gefängnisfilm über Priscilla Presley gedreht. Selbst im Interview mit der Regisseurin zeigt sich: Dem Elvis-Mythos kann niemand entkommen.",
       "url": "https://www.zeit.de/kultur/film/2023-12/priscilla-elvis-sofia-coppola-film",
@@ -219,6 +219,13 @@
       "image_title": "Greta Gerwig: In Pink am Patriarchat verzweifeln"
     },
     {
+      "title": "Amoklauf in Prag: Das Herz der Stadt blutet",
+      "teaser": "Der Amoklauf an der Philosophischen Fakultät hat Prag tief erschüttert. In der Stadt, in der sonst viel gelacht und erzählt wird, ist danach alles anders. Es ist still.",
+      "url": "https://www.zeit.de/2024/02/prag-amoklauf-karls-universitaet-erinnerungen",
+      "image_url": "https://img.zeit.de/2024/02/prag-amoklauf-teaser/wide__822x462",
+      "image_title": "Amoklauf in Prag: Das Herz der Stadt blutet"
+    },
+    {
       "title": "Disney: Regisseure kündigen Micky-Maus-Horrorfilme an",
       "teaser": "95 Jahre nach seinem Kinodebüt ist der Urheberschutz für den ersten Micky-Maus-Film \"Steamboat Willie\" ausgelaufen. Zwei Regisseure wollen die Figur nun verwerten.",
       "url": "https://www.zeit.de/kultur/film/2024-01/disney-mickey-mouse-urheberschutz-horrorfilme-steamboat-willie",
@@ -229,14 +236,14 @@
       "title": "Türkei: Die Türkei wendet sich gen Osten",
       "teaser": "Präsident Erdoğan will die Kooperation seines Landes mit Russland und China intensivieren. Kehrt sich das Nato-Mitglied Türkei endgültig vom Westen und dessen Werten ab?",
       "url": "https://www.zeit.de/kultur/2023-12/tuerkei-recep-tayyip-erdogan-russland-china-nato",
-      "image_url": "https://img.zeit.de/kultur/2023-12/tuerkei-recep-tayyip-erdogan-russland/wide__822x462",
+      "image_url": "https://img.zeit.de/kultur/2023-12/tuerkei-recep-tayyip-erdogan-russland/cinema__980x420",
       "image_title": "Türkei: Die Türkei wendet sich gen Osten"
     },
     {
       "title": "Jazzpianist: Jazzmusiker Les McCann ist gestorben",
       "teaser": "Les McCann galt als Wegbereiter eines Stils, der Jazz mit Funk, Soul und Gospel kombinierte. Der US-Pianist, Sänger und Komponist starb mit 88 Jahren in Los Angeles.",
       "url": "https://www.zeit.de/kultur/musik/2024-01/jazzmusiker-les-mccann-gestorben-los-angeles",
-      "image_url": "https://img.zeit.de/kultur/musik/2024-01/jazzpianist-les-mccann-gestorben-los-angeles/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/musik/2024-01/jazzpianist-les-mccann-gestorben-los-angeles/wide__822x462",
       "image_title": "Jazzpianist: Jazzmusiker Les McCann ist gestorben"
     },
     {
@@ -250,14 +257,14 @@
       "title": "Z+ (abopflichtiger Inhalt); Juliane Fürst: \"Historische Vergleiche müssen sehr sorgfältig gezogen werden\"",
       "teaser": "Es gibt eine Verbindung zwischen den Kriegen in der Ukraine und im Nahen Osten, sagt die Historikerin Juliane Fürst. Dennoch warnt sie vor leichtfertigen Vergleichen.",
       "url": "https://www.zeit.de/kultur/2023-12/juliane-fuerst-krieg-russland-ukraine-israel",
-      "image_url": "https://img.zeit.de/kultur/2023-12/juliane-fuerst-krieg-russland-ukraine/wide__822x462",
+      "image_url": "https://img.zeit.de/kultur/2023-12/juliane-fuerst-krieg-russland-ukraine/cinema__980x420",
       "image_title": "Juliane Fürst: \"Historische Vergleiche müssen sehr sorgfältig gezogen werden\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Debatte um den Nahostkrieg: Deutschland wird sich fremd",
       "teaser": "Die BRD definierte sich lange über eine universalistische Gesellschaftsmoral. Sie sollte das \"Nie wieder\" garantieren. Die Nahostdebatte zeigt, wie labil diese Idee ist.",
       "url": "https://www.zeit.de/kultur/2023-12/politische-spaltung-deutschland-israel-hamas-judentum",
-      "image_url": "https://img.zeit.de/kultur/2023-12/politische-spaltung-deutschland-israel-hamas-judentum-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/2023-12/politische-spaltung-deutschland-israel-hamas-judentum-bild/wide__822x462",
       "image_title": "Debatte um den Nahostkrieg: Deutschland wird sich fremd"
     },
     {
@@ -266,13 +273,6 @@
       "url": "https://www.zeit.de/kultur/film/2023-12/filme-2023-jahresrueckblick-barbie-oppenheimer",
       "image_url": "https://img.zeit.de/kultur/film/2023-12/filme-2023-jahresrueckblick-barbie-oppenheimer-2/wide__822x462",
       "image_title": "Filme 2023 : Die besten Filme des Jahres – und die schlechtesten"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Alben 2023: Die zehn besten Alben des Jahres – und die schlechtesten",
-      "teaser": "Taylor Swift machte Geschäfte und Metallica machten Krach. Wie ärgerlich! Gehört haben sollte man 2023 lieber Sufjan Stevens, Fever Ray, Lana Del Rey oder Kara Jackson.",
-      "url": "https://www.zeit.de/kultur/musik/2023-12/alben-2023-lana-del-rey-taylor-swift-metallica",
-      "image_url": "https://img.zeit.de/kultur/musik/2023-12/alben-2023-lana-del-rey-taylor-swift-metallica-2/wide__822x462",
-      "image_title": "Alben 2023: Die zehn besten Alben des Jahres – und die schlechtesten"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"Müll - Eine schmutzige Geschichte der Menschheit\": Wir sind, was wir wegwerfen",
