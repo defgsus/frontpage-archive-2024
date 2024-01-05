@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-05T10:01:03",
+  "timestamp": "2024-01-05T11:00:49",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Ivanti EPM",
+      "url": "https://www.heise.de/news/Kritische-Schadcode-Luecke-gefaehrdet-Ivanti-Endpoint-Manager-9587991.html"
+    },
+    {
       "title": "Wireshark",
       "url": "https://www.heise.de/news/Netzwerkanalystool-Wireshark-gegen-moegliche-Attacken-abgesichert-9587170.html"
     },
@@ -44,11 +48,12 @@
       "url": "https://www.heise.de/news/Update-fuer-Google-Chrome-schliesst-sechs-Sicherheitsluecken-9586697.html"
     },
     {
-      "title": "Barracuda ESG",
-      "url": "https://www.heise.de/news/Luecke-in-Barracuda-E-Mail-Security-Gateway-ermoeglichte-Code-Einschleusung-9586090.html"
+      "title": "Kritische Schadcode-Lücke gefährdet Ivanti Endpoint Manager",
+      "teaser": "Unter bestimmten Voraussetzungen können Angreifer Schadcode auf Ivanti-EPM-Servern ausführen.",
+      "url": "https://www.heise.de/news/Kritische-Schadcode-Luecke-gefaehrdet-Ivanti-Endpoint-Manager-9587991.html"
     },
     {
-      "title": "Wegen russischer Spionage: Ukraine blockiert Zugriffe auf Webcams",
+      "title": "Russland späht ukrainische Abwehr mit Webcams aus",
       "teaser": "Russische Geheimdienste haben sich in Webcams eingeklinkt und damit die ukrainische Verteidigung ausspioniert. Der Zugriff wurde blockiert.",
       "url": "https://www.heise.de/news/Wegen-russischer-Spionage-Ukraine-blockiert-Zugriffe-auf-Webcams-9588051.html"
     },
@@ -149,12 +154,6 @@
       "title": "Ransomware: Fehler in Black-Basta-Programmierung ermöglicht Entschlüsselungstool",
       "teaser": "Unter bestimmten Bedingungen kann das kostenlose Entschlüsselungstool Black Basta Buster Opfern des Erpressungstrojaners Black Basta helfen.",
       "url": "https://www.heise.de/news/Ransomware-Fehler-in-Black-Basta-Programmierung-ermoeglicht-Entschluesselungstool-9584846.html"
-    },
-    {
-      "title": "Neue Lücke in altem E-Mail-Protokoll: SMTP smuggling",
-      "teaser": "Sicherheitsforscher haben eine Schwäche im Simple Mail Transfer Protocol (SMTP) entdeckt. Sie hebt das Fälschen des Absenders auf ein neues Niveau.",
-      "url": "https://www.heise.de/news/Neue-Luecke-in-altem-E-Mail-Protokoll-SMTP-smuggling-9584467.html",
-      "image_title": "Email,Marketing,Concept,,Company,Sending,Many,E-mails,Or,Digital,Newsletter"
     },
     {
       "title": "Microsofts Cloud und Entra ID - Reale Angriffe verstehen und verhindern",
