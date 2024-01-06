@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-06T11:01:14",
+  "timestamp": "2024-01-06T12:08:29",
   "url": "https://www.zeit.de/kultur/index",
   "response": {
     "status": 200
@@ -38,10 +38,23 @@
   ],
   "articles": [
     {
+      "title": "Nationalsozialismus: \"Deutssland, Deutssland\"",
+      "teaser": "Die Figuren unserer Kolumnistin treffen diesmal auf dem Wochenmarkt beim Fischhändler auf Nazi-Verehrer und erleben im ICE garantiert kindgerechte Geschichtsaufklärung.",
+      "url": "https://www.zeit.de/2024/02/nationalsozialismus-neonazis-aufklaerung-geschichte-kinder",
+      "image_url": "https://img.zeit.de/2024/02/nationalsozialismus-neonazis-aufklaerung-teaser/cinema__980x420"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Ausreden: Die edelste aller Unwahrheiten",
       "teaser": "Ausreden haben einen schlechten Ruf, besonders im Januar. Dabei können sie ein Zeichen von Fürsorge sein – und halten heimlich die Zivilisation am Laufen.",
       "url": "https://www.zeit.de/kultur/2024-01/ausreden-wahrheit-fuersorge-gesellschaft",
-      "image_url": "https://img.zeit.de/kultur/2024-01/wochenende-01-ausreden-wahrheit-fuersorge-gesellschaft-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/kultur/2024-01/wochenende-01-ausreden-wahrheit-fuersorge-gesellschaft-bild/wide__822x462",
+      "image_title": "Ausreden: Die edelste aller Unwahrheiten"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); ZEIT-Bibliothek der Weltliteratur: Welches Buch passt zu Ihnen?",
+      "teaser": "Die Weltliteratur ist groß. Da kann man sich schon einmal verlieren! Welches Buch sollten Sie lesen? Der Buch-O-Mat weiß die Antwort.",
+      "url": "https://www.zeit.de/kultur/literatur/2023-11/buchempfehlungen-zeit-bibliothek-100-buecher-lesen-quiz",
+      "image_url": "https://img.zeit.de/kultur/literatur/2023-11/buchempfehlungen-2023-lesen/cinema__980x420"
     },
     {
       "title": "\"Die Schneegesellschaft\": Der letzte Rest Wärme",
@@ -51,24 +64,11 @@
       "image_title": "\"Die Schneegesellschaft\": Der letzte Rest Wärme"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); ZEIT-Bibliothek der Weltliteratur: Welches Buch passt zu Ihnen?",
-      "teaser": "Die Weltliteratur ist groß. Da kann man sich schon einmal verlieren! Welches Buch sollten Sie lesen? Der Buch-O-Mat weiß die Antwort.",
-      "url": "https://www.zeit.de/kultur/literatur/2023-11/buchempfehlungen-zeit-bibliothek-100-buecher-lesen-quiz",
-      "image_url": "https://img.zeit.de/kultur/literatur/2023-11/buchempfehlungen-2023-lesen/cinema__980x420"
-    },
-    {
       "title": "\"Nichts für den König\" von Olivier Tallec: Weniger ist nichts",
       "teaser": "Ein König sucht nach dem Unmöglichen: dem Nichts. Was er auch tut, immer ist da irgendwas. Olivier Tallecs Bilderbuch ist charmant absurd und hinreißend witzig.",
       "url": "https://www.zeit.de/2024/02/oliver-tallec-nichts-fuer-den-koenig-kinder-literatur",
       "image_url": "https://img.zeit.de/2024/02/weniger-ist-nichts-bild-1-teaser/wide__822x462",
       "image_title": "\"Nichts für den König\" von Olivier Tallec: Weniger ist nichts"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Tate McRae: Ein Popstar, als wär's 2001",
-      "teaser": "Tate McRae ist der Gegenentwurf zu den politisierten Popkünstlern der Gegenwart. Ein Anruf vom Ex ist bei ihr das größte Problem. Und damit ist sie irre erfolgreich.",
-      "url": "https://www.zeit.de/kultur/musik/2024-01/tate-mcrae-musik-pop-star-liebe",
-      "image_url": "https://img.zeit.de/kultur/musik/2024-01/tate-mcrae-bild/wide__822x462",
-      "image_title": "Tate McRae: Ein Popstar, als wär's 2001"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Großbaustellen der Politik: Kurz vorm Systemversagen",
@@ -163,6 +163,13 @@
       "url": "https://www.zeit.de/kultur/2024-01/debattenkultur-2024-gesellschaft-politik"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Tate McRae: Ein Popstar, als wär's 2001",
+      "teaser": "Tate McRae ist der Gegenentwurf zu den politisierten Popkünstlern der Gegenwart. Ein Anruf vom Ex ist bei ihr das größte Problem. Und damit ist sie irre erfolgreich.",
+      "url": "https://www.zeit.de/kultur/musik/2024-01/tate-mcrae-musik-pop-star-liebe",
+      "image_url": "https://img.zeit.de/kultur/musik/2024-01/tate-mcrae-bild/wide__822x462",
+      "image_title": "Tate McRae: Ein Popstar, als wär's 2001"
+    },
+    {
       "title": "\"Starsky & Hutch\": Schauspieler David Soul ist tot",
       "teaser": "Seine Rolle als Detektiv Ken Hutch in der Krimiserie \"Starsky & Hutch\" machte ihn berühmt. Im Alter von 80 Jahren ist David Soul nun in London gestorben.",
       "url": "https://www.zeit.de/kultur/film/2024-01/starsky-and-hutch-david-soul-ist-tot",
@@ -198,13 +205,6 @@
       "image_title": "\"Alle meine Geister\" von Uwe Timm: Wer sich auf Pelze versteht, schreibt auch gute Romane"
     },
     {
-      "title": "\"Der Junge und der Reiher\" von Hayao Miyazaki: Nimm mich mit, Grinsekatzenbus!",
-      "teaser": "In seinem wohl letzten Film stellt sich der fantastische Animationskünstler Hayao Miyazaki den ganz großen Fragen: Wie lebt ihr – und wie geht ihr mit Verlusten um?",
-      "url": "https://www.zeit.de/2024/02/hayao-miyazaki-der-junge-und-der-reiher-film-japan-studio-ghibli",
-      "image_url": "https://img.zeit.de/2024/02/hayao-miyazaki-der-junge-und-der-reiher-teaser/wide__822x462",
-      "image_title": "\"Der Junge und der Reiher\" von Hayao Miyazaki: Nimm mich mit, Grinsekatzenbus!"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); \"Priscilla\" von Sofia Coppola: Gefangen in Graceland",
       "teaser": "Sofia Coppola hat einen Gefängnisfilm über Priscilla Presley gedreht. Selbst im Interview mit der Regisseurin zeigt sich: Dem Elvis-Mythos kann niemand entkommen.",
       "url": "https://www.zeit.de/kultur/film/2023-12/priscilla-elvis-sofia-coppola-film",
@@ -219,6 +219,13 @@
       "image_title": "Greta Gerwig: In Pink am Patriarchat verzweifeln"
     },
     {
+      "title": "\"Der Junge und der Reiher\" von Hayao Miyazaki: Nimm mich mit, Grinsekatzenbus!",
+      "teaser": "In seinem wohl letzten Film stellt sich der fantastische Animationskünstler Hayao Miyazaki den ganz großen Fragen: Wie lebt ihr – und wie geht ihr mit Verlusten um?",
+      "url": "https://www.zeit.de/2024/02/hayao-miyazaki-der-junge-und-der-reiher-film-japan-studio-ghibli",
+      "image_url": "https://img.zeit.de/2024/02/hayao-miyazaki-der-junge-und-der-reiher-teaser/wide__822x462",
+      "image_title": "\"Der Junge und der Reiher\" von Hayao Miyazaki: Nimm mich mit, Grinsekatzenbus!"
+    },
+    {
       "title": "Debattenkultur 2024: Nicht mehr alle Tasten im Schrank",
       "teaser": "Bei gesellschaftlichen Debatten ging es im letzten Jahr oft weniger um Inhalte als um ideologische Grabenkämpfe. Das wird 2024 wohl nicht anders laufen. Eine Mediensatire",
       "url": "https://www.zeit.de/kultur/2024-01/debattenkultur-2024-gesellschaft-politik",
@@ -229,14 +236,14 @@
       "title": "Z+ (abopflichtiger Inhalt); \"Bottoms\": Hauptsache eine Neun auf der Attraktivitätsskala",
       "teaser": "Die queere Highschool-Komödie \"Bottoms\" gilt als großer Wurf und subversive Satire. Dabei zementiert sie Teeniefilmklischees – nur halt in Lesbisch und Ironisch.",
       "url": "https://www.zeit.de/kultur/film/2023-12/bottoms-high-school-queer-klischees-teenie-film",
-      "image_url": "https://img.zeit.de/kultur/film/2024-01/bottoms-film-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/kultur/film/2024-01/bottoms-film-bild/cinema__980x420",
       "image_title": "\"Bottoms\": Hauptsache eine Neun auf der Attraktivitätsskala"
     },
     {
       "title": "Kunstpodcast: Otto Dix – ein Mann, ein Krieg, eine Stadt",
       "teaser": "Eintauchen in die Schrecken des Krieges und in die wilden Zwanzigerjahre in Berlin: Im Werk von Otto Dix spiegeln sich sechs Jahrzehnte deutsche Geschichte.",
       "url": "https://www.zeit.de/kultur/2024-01/otto-dix-neue-sachlichkeit-geschichte-kunstpodcast",
-      "image_url": "https://img.zeit.de/kultur/2024-01/otto-dix-neue-sachlichkeit-kunstpodcast/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/2024-01/otto-dix-neue-sachlichkeit-kunstpodcast/wide__822x462",
       "image_title": "Kunstpodcast: Otto Dix – ein Mann, ein Krieg, eine Stadt"
     },
     {
@@ -250,15 +257,8 @@
       "title": "Amoklauf in Prag: Das Herz der Stadt blutet",
       "teaser": "Der Amoklauf an der Philosophischen Fakultät hat Prag tief erschüttert. In der Stadt, in der sonst viel gelacht und erzählt wird, ist danach alles anders. Es ist still.",
       "url": "https://www.zeit.de/2024/02/prag-amoklauf-karls-universitaet-erinnerungen",
-      "image_url": "https://img.zeit.de/2024/02/prag-amoklauf-teaser/wide__822x462",
+      "image_url": "https://img.zeit.de/2024/02/prag-amoklauf-teaser/cinema__980x420",
       "image_title": "Amoklauf in Prag: Das Herz der Stadt blutet"
-    },
-    {
-      "title": "Disney: Regisseure kündigen Micky-Maus-Horrorfilme an",
-      "teaser": "95 Jahre nach seinem Kinodebüt ist der Urheberschutz für den ersten Micky-Maus-Film \"Steamboat Willie\" ausgelaufen. Zwei Regisseure wollen die Figur nun verwerten.",
-      "url": "https://www.zeit.de/kultur/film/2024-01/disney-mickey-mouse-urheberschutz-horrorfilme-steamboat-willie",
-      "image_url": "https://img.zeit.de/kultur/film/2024-01/disney-mickey-mouse-urheberschutz-horrorfilme/cinema__980x420",
-      "image_title": "Disney: Regisseure kündigen Micky-Maus-Horrorfilme an"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Filme 2023 : Die besten Filme des Jahres – und die schlechtesten",
@@ -275,6 +275,13 @@
       "image_title": "Alben 2023: Die zehn besten Alben des Jahres – und die schlechtesten"
     },
     {
+      "title": "Disney: Regisseure kündigen Micky-Maus-Horrorfilme an",
+      "teaser": "95 Jahre nach seinem Kinodebüt ist der Urheberschutz für den ersten Micky-Maus-Film \"Steamboat Willie\" ausgelaufen. Zwei Regisseure wollen die Figur nun verwerten.",
+      "url": "https://www.zeit.de/kultur/film/2024-01/disney-mickey-mouse-urheberschutz-horrorfilme-steamboat-willie",
+      "image_url": "https://img.zeit.de/kultur/film/2024-01/disney-mickey-mouse-urheberschutz-horrorfilme/wide__822x462",
+      "image_title": "Disney: Regisseure kündigen Micky-Maus-Horrorfilme an"
+    },
+    {
       "title": "Türkei: Die Türkei wendet sich gen Osten",
       "teaser": "Präsident Erdoğan will die Kooperation seines Landes mit Russland und China intensivieren. Kehrt sich das Nato-Mitglied Türkei endgültig vom Westen und dessen Werten ab?",
       "url": "https://www.zeit.de/kultur/2023-12/tuerkei-recep-tayyip-erdogan-russland-china-nato",
@@ -285,22 +292,15 @@
       "title": "Jazzpianist: Jazzmusiker Les McCann ist gestorben",
       "teaser": "Les McCann galt als Wegbereiter eines Stils, der Jazz mit Funk, Soul und Gospel kombinierte. Der US-Pianist, Sänger und Komponist starb mit 88 Jahren in Los Angeles.",
       "url": "https://www.zeit.de/kultur/musik/2024-01/jazzmusiker-les-mccann-gestorben-los-angeles",
-      "image_url": "https://img.zeit.de/kultur/musik/2024-01/jazzpianist-les-mccann-gestorben-los-angeles/wide__822x462",
+      "image_url": "https://img.zeit.de/kultur/musik/2024-01/jazzpianist-les-mccann-gestorben-los-angeles/cinema__980x420",
       "image_title": "Jazzpianist: Jazzmusiker Les McCann ist gestorben"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"Tatort\" Hamburg: War überall da, wo's weh tut",
       "teaser": "Franziska Weisz verabschiedet sich in einem originellen Fall vom Hamburger \"Tatort\". Wie sie das tut, steht leider in einer unheilvollen Krimi-Tradition.",
       "url": "https://www.zeit.de/kultur/film/2023-12/tatort-hamburg-was-bleibt-obduktionsbericht",
-      "image_url": "https://img.zeit.de/kultur/film/2023-12/tatort-hamburg-was-bleibt-obduktionsberich-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/film/2023-12/tatort-hamburg-was-bleibt-obduktionsberich-bild/wide__822x462",
       "image_title": "\"Tatort\" Hamburg: War überall da, wo's weh tut"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Juliane Fürst: \"Historische Vergleiche müssen sehr sorgfältig gezogen werden\"",
-      "teaser": "Es gibt eine Verbindung zwischen den Kriegen in der Ukraine und im Nahen Osten, sagt die Historikerin Juliane Fürst. Dennoch warnt sie vor leichtfertigen Vergleichen.",
-      "url": "https://www.zeit.de/kultur/2023-12/juliane-fuerst-krieg-russland-ukraine-israel",
-      "image_url": "https://img.zeit.de/kultur/2023-12/juliane-fuerst-krieg-russland-ukraine/wide__822x462",
-      "image_title": "Juliane Fürst: \"Historische Vergleiche müssen sehr sorgfältig gezogen werden\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Das Feuilleton-Quiz: Wie Feuilleton sind Sie?",
@@ -315,6 +315,13 @@
       "url": "https://www.zeit.de/kultur/film/2023-12/serien-2023-gut-schlecht-streaming",
       "image_url": "https://img.zeit.de/kultur/film/2023-12/serien-2023/square__460x460",
       "image_title": "Serien 2023: Die besten TV-Serien des Jahres – und die schlechtesten"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Juliane Fürst: \"Historische Vergleiche müssen sehr sorgfältig gezogen werden\"",
+      "teaser": "Es gibt eine Verbindung zwischen den Kriegen in der Ukraine und im Nahen Osten, sagt die Historikerin Juliane Fürst. Dennoch warnt sie vor leichtfertigen Vergleichen.",
+      "url": "https://www.zeit.de/kultur/2023-12/juliane-fuerst-krieg-russland-ukraine-israel",
+      "image_url": "https://img.zeit.de/kultur/2023-12/juliane-fuerst-krieg-russland-ukraine/wide__822x462",
+      "image_title": "Juliane Fürst: \"Historische Vergleiche müssen sehr sorgfältig gezogen werden\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Debatte um den Nahostkrieg: Deutschland wird sich fremd",
@@ -336,13 +343,6 @@
       "url": "https://www.zeit.de/kultur/literatur/2023-12/literatur-dorfleben-johanna-sebauer-gianna-molinari-rezension",
       "image_url": "https://img.zeit.de/kultur/2023-12/dorf/wide__822x462",
       "image_title": "Literatur über Dorfleben: Den rasenden Irrsinn anhalten"
-    },
-    {
-      "title": "Band Egotronic: Sänger und Bassist Torsun Burkhardt gestorben",
-      "teaser": "Er gehörte der Berliner Electropunk-Band Egotronic an. Nun ist Torsun Burkhardt laut seiner Ehefrau nach einer Krebserkrankung verstorben.",
-      "url": "https://www.zeit.de/kultur/musik/2023-12/torsun-burkhardt-tod-krebs-egotronic",
-      "image_url": "https://img.zeit.de/kultur/musik/2023-12/egotronic-thorsten-torsun-burkhardt-gestorben-bild/wide__822x462",
-      "image_title": "Band Egotronic: Sänger und Bassist Torsun Burkhardt gestorben"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Kapitalismus und Demokratie: \"Der Gegensatz von Globalisierung und Nationalismus ist irreführend\"",
@@ -450,10 +450,17 @@
       "image_title": "ARD-Krimi: \"Tatort\"-Krimis verlieren 2023 erneut an Zuschauern"
     },
     {
+      "title": "Band Egotronic: Sänger und Bassist Torsun Burkhardt gestorben",
+      "teaser": "Er gehörte der Berliner Electropunk-Band Egotronic an. Nun ist Torsun Burkhardt laut seiner Ehefrau nach einer Krebserkrankung verstorben.",
+      "url": "https://www.zeit.de/kultur/musik/2023-12/torsun-burkhardt-tod-krebs-egotronic",
+      "image_url": "https://img.zeit.de/kultur/musik/2023-12/egotronic-thorsten-torsun-burkhardt-gestorben-bild/cinema__980x420",
+      "image_title": "Band Egotronic: Sänger und Bassist Torsun Burkhardt gestorben"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Joan Baez: \"Ich habe keine Lust mehr zu singen\"",
       "teaser": "Der Folk und die Familie, die Bürgerrechtsbewegung und die Beziehung zu Bob Dylan: Joan Baez blickt zurück auf ihr Leben und erklärt, wie man sich von allem befreit.",
       "url": "https://www.zeit.de/kultur/musik/2023-12/joan-baez-musik-dokumentation-karriere",
-      "image_url": "https://img.zeit.de/kultur/musik/2023-12/baez-1/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/musik/2023-12/baez-1/wide__822x462",
       "image_title": "Joan Baez: \"Ich habe keine Lust mehr zu singen\""
     },
     {
@@ -469,13 +476,6 @@
       "url": "https://www.zeit.de/2023/54/kety-fusco-harfe-musik-italien",
       "image_url": "https://img.zeit.de/2023/54/kety-fusco-harfe-musik-italien-teaserbild/wide__822x462",
       "image_title": "Kety Fusco: Verzupft euch, alte Meister!"
-    },
-    {
-      "title": "Millennial-Nostalgie: Nie wieder wird es so aufreibend sein, eine Band zu lieben",
-      "teaser": "Eine Doku der Band Echt wird zum Schlüsselmoment der Millennial-Nostalgie. Die Sehnsucht gilt Teenagertagen, als jeder popkulturelle Fehltritt ein Schritt nach vorn war.",
-      "url": "https://www.zeit.de/kultur/2023-12/nostalgie-doku-echt-viva-take-that-nsync",
-      "image_url": "https://img.zeit.de/kultur/2023-12/echt-1/wide__822x462",
-      "image_title": "Millennial-Nostalgie: Nie wieder wird es so aufreibend sein, eine Band zu lieben"
     },
     {
       "title": "Street-Art: Verdächtiger nach Diebstahl von Banksy-Werk festgenommen",
