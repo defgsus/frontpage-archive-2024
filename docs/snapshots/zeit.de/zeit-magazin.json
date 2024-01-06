@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-06T12:09:03",
+  "timestamp": "2024-01-06T13:06:23",
   "url": "https://www.zeit.de/zeit-magazin/index",
   "response": {
     "status": 200
@@ -38,7 +38,14 @@
   ],
   "articles": [
     {
-      "title": "Z+ Bitte mit Bambus",
+      "title": "Z+ Mein Hund, der Schutzwursterpresser",
+      "teaser": "Wer denkt, dass Tiere die besseren Menschen sind, hat José noch nicht kennengelernt. Unser Autor bewundert die charakterliche Verkommenheit seines Hundes.",
+      "url": "https://www.zeit.de/zeit-magazin/2024/02/hunde-haustier-menschen-eigenschaften",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024/02/der-schutzwursterpresser-bild-1/wide__822x462",
+      "image_title": "Hunde: Mein Hund, der Schutzwursterpresser"
+    },
+    {
+      "title": "Z+ Bambusdämpfer: Bitte mit Bambus",
       "teaser": "Schonend, schön und sparsam. Unser Autor liebt seinen Bambusdämpfer fast so sehr wie die Teigtaschen, die in ihm garen.",
       "url": "https://www.zeit.de/zeit-magazin/2024-01/bambusdaempfer-teigtaschen-asiatische-kueche-kochen",
       "image_url": "https://img.zeit.de/zeit-magazin/2024-01/bambusdaempfer-ode-an-ein-ding/wide__822x462",
@@ -59,23 +66,16 @@
       "image_title": "Waller in Wurzelsud: Ein Fisch für alle Fälle"
     },
     {
-      "title": "Z+ Jeremy Allen White: Mund zu, es zieht!",
-      "teaser": "Jeremy Allen White aus \"The Bear\" modelt für Calvin Klein, mit halb geöffnetem Mund. Sexy? Naja. Der Grat zwischen anziehend und einfältig ist speziell für Männer schmal.",
-      "url": "https://www.zeit.de/zeit-magazin/unterhaltung/2024-01/jeremy-allen-white-calvin-klein-unterwaesche-kampagne-schauspieler",
-      "image_url": "https://img.zeit.de/zeit-magazin/unterhaltung/2024-01/jeremy-allen-white-calvin-klein-fish-gape-2/wide__822x462",
-      "image_title": "Jeremy Allen White: Mund zu, es zieht!"
-    },
-    {
       "title": "Wochenmarkt: Hungrig?",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/index",
       "image_url": "https://img.zeit.de/zeit-magazin/2020-09/wochenmarkt-start-editorial-fragen-der-zeit-bild/tile__315x394",
       "image_title": "Wochenmarkt: Hungrig?"
     },
     {
-      "title": "Z+ Molly Baz: Kochanleitungen für die Lieferando-Generation",
-      "url": "https://www.zeit.de/zeit-magazin/2024/02/molly-baz-cook-this-book-kochen-kochbuch",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023-12/molly-baz-cook-this-book-kochen-kochbuch-teaser/tile__315x394",
-      "image_title": "Molly Baz: Kochanleitungen für die Lieferando-Generation"
+      "title": "Z+ Jeremy Allen White: Mund zu, es zieht!",
+      "url": "https://www.zeit.de/zeit-magazin/unterhaltung/2024-01/jeremy-allen-white-calvin-klein-unterwaesche-kampagne-schauspieler",
+      "image_url": "https://img.zeit.de/zeit-magazin/unterhaltung/2024-01/jeremy-allen-white-calvin-klein-fish-gape-2/tile__315x394",
+      "image_title": "Jeremy Allen White: Mund zu, es zieht!"
     },
     {
       "title": "Auf Messers Schneide",
@@ -207,6 +207,12 @@
       "image_title": "Paillettenkleider: Pailletten haben doch keinen Schimmer!"
     },
     {
+      "title": "Z+ Molly Baz: Kochanleitungen für die Lieferando-Generation",
+      "url": "https://www.zeit.de/zeit-magazin/2024/02/molly-baz-cook-this-book-kochen-kochbuch",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023-12/molly-baz-cook-this-book-kochen-kochbuch-teaser/tile__315x394",
+      "image_title": "Molly Baz: Kochanleitungen für die Lieferando-Generation"
+    },
+    {
       "title": "Z+ Brunch: Wachteleier-Omelette statt Rührei aus dem Bottich",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-01/brunch-fruehstueck-mittagessen-restaurant",
       "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-01/brunch-bild-1/tile__315x394",
@@ -261,12 +267,6 @@
       "image_title": "Silvester: Die Sache mit dem Plopp"
     },
     {
-      "title": "Z+ Professionelle Magier: Ist das Leben nicht bezaubernd?",
-      "url": "https://www.zeit.de/zeit-magazin/2024/01/professionelle-magier-zauberkuenstler-grossbritannien-fay-presto",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024/01/die-zauberformel-bild-1/tile__315x394",
-      "image_title": "Professionelle Magier: Ist das Leben nicht bezaubernd?"
-    },
-    {
       "title": "Z+ Homewear: Eine Uniform fürs Zuhause",
       "url": "https://www.zeit.de/zeit-magazin/mode-design/2024-01/homewear-bequemlichkeit-stil",
       "image_url": "https://img.zeit.de/zeit-magazin/mode-design/2024-01/wochenende-01-guter-stoff-bild/square__460x460",
@@ -301,30 +301,37 @@
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-12/alkoholkonsum-sucht-social-drinking-ulrich-zimmermann"
     },
     {
-      "title": "Z+ Gute Vorsätze: Diesmal wirklich!",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2023-12/gute-vorsaetze-neujahr-durchhalten-tipps-psychologie"
-    },
-    {
-      "title": "Z+ Backwaren: Zeit für besseres Brot",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-12/backwaren-brot-lagerung-qualitaet-kauf-einfrieren"
-    },
-    {
-      "title": "Z+ Backwaren: Zeit für besseres Brot",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-12/backwaren-brot-lagerung-qualitaet-kauf-einfrieren"
-    },
-    {
       "title": "Z+ Neuerungen für Familien: Das ändert sich für Familien 2024",
       "url": "https://www.zeit.de/zeit-magazin/familie/2023-12/neuerungen-familien-2024-kinder-eltern"
+    },
+    {
+      "title": "Z+ Backwaren: Zeit für besseres Brot",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-12/backwaren-brot-lagerung-qualitaet-kauf-einfrieren"
+    },
+    {
+      "title": "Z+ Backwaren: Zeit für besseres Brot",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-12/backwaren-brot-lagerung-qualitaet-kauf-einfrieren"
+    },
+    {
+      "title": "Z+ Gute Vorsätze: Diesmal wirklich!",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2023-12/gute-vorsaetze-neujahr-durchhalten-tipps-psychologie"
     },
     {
       "title": "Z+ Alkoholkonsum: Ein Nein zum Glas Wein fällt Ihnen schwer? Das ist nicht normal",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-12/alkoholkonsum-sucht-social-drinking-ulrich-zimmermann"
     },
     {
+      "title": "Z+ Professionelle Magier: Ist das Leben nicht bezaubernd?",
+      "teaser": "Einer britischen Studie zufolge sind Magier überdurchschnittlich gut drauf und psychisch stabil. Fay Presto etwa, die schon die Queen erstaunte. Was sind ihre Tricks?",
+      "url": "https://www.zeit.de/zeit-magazin/2024/01/professionelle-magier-zauberkuenstler-grossbritannien-fay-presto",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024/01/die-zauberformel-bild-1/square__460x460",
+      "image_title": "Professionelle Magier: Ist das Leben nicht bezaubernd?"
+    },
+    {
       "title": "Z+ Ziele setzen: Vergessen Sie alle Vorsätze!",
       "teaser": "Erwachsen ist man, wenn man Ziele hat statt Spaß. Wieso entwerfen wir unser Leben stets in eine fernere Zukunft hinein?",
       "url": "https://www.zeit.de/zeit-magazin/leben/2023-12/ziele-setzen-alter-silvester-ziellosigkeit",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023-12/wochenende53-ziele-setzen-alter-silvester-ziellosigkeit/square__460x460",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023-12/wochenende53-ziele-setzen-alter-silvester-ziellosigkeit/wide__822x462",
       "image_title": "Ziele setzen: Vergessen Sie alle Vorsätze!"
     },
     {
@@ -350,9 +357,8 @@
     },
     {
       "title": "Z+ Oma-Rolle: \"Sie sagte: ‘Nach drei Enkelkindern ist aber Schluss!’\"",
-      "teaser": "Für manche sind Enkel ein netter Zeitvertreib, andere winden sich aus der Verantwortung. Vier Frauen erzählen, wieso ihre Mütter in der Oma-Rolle enttäuschen.",
       "url": "https://www.zeit.de/zeit-magazin/familie/2023-11/oma-rolle-enkelkinder-familie-erwartungen-grosseltern",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023-11/oma-rolle-enkelkinder-familie-erwartungen-grosseltern-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023-11/oma-rolle-enkelkinder-familie-erwartungen-grosseltern-bild/tile__315x394",
       "image_title": "Oma-Rolle: \"Sie sagte: ‘Nach drei Enkelkindern ist aber Schluss!’\""
     },
     {
@@ -366,12 +372,6 @@
       "url": "https://www.zeit.de/zeit-magazin/2024/01/olivia-laing-ratschlaege-leben",
       "image_url": "https://img.zeit.de/zeit-magazin/2024/01/was-ich-gern-frueher-gewusst-haette-bild-1/tile__315x394",
       "image_title": "Olivia Laing: \"Nimm dich in Acht vor dem angenehmen Job\""
-    },
-    {
-      "title": "Z+ Verlieben im Ausland: \"Ich sagte ihr immer wieder, dass ich sie nicht allein lasse\"",
-      "url": "https://www.zeit.de/zeit-magazin/2024/01/ausland-verlieben-reisen-liebeskolumne",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023-12/ausland-verlieben-reisen/tile__315x394",
-      "image_title": "Verlieben im Ausland: \"Ich sagte ihr immer wieder, dass ich sie nicht allein lasse\""
     }
   ]
 }
