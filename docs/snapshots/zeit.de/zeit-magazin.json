@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-07T12:09:01",
+  "timestamp": "2024-01-07T13:05:30",
   "url": "https://www.zeit.de/zeit-magazin/index",
   "response": {
     "status": 200
@@ -38,7 +38,14 @@
   ],
   "articles": [
     {
-      "title": "Z+ Liebesgrüße aus Warschau",
+      "title": "Z+ Mein Bruder",
+      "teaser": "Gulwali Hajat ist aus Afghanistan nach Deutschland geflohen, wegen der Taliban. Sein Bruder Sabirullah hat sich ihnen angeschlossen. Was verbindet die beiden noch?",
+      "url": "https://www.zeit.de/zeit-magazin/2024/02/afghanistan-taliban-flucht-geschwister-brueder",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-01/afghanistan-taliban-flucht-geschwister/wide__822x462",
+      "image_title": "Afghanistan: Mein Bruder"
+    },
+    {
+      "title": "Z+ Piroggen mit Kartoffelfüllung: Liebesgrüße aus Warschau",
       "teaser": "Dieses Piroggen-Rezept einer polnischen Oma ist das beste im ganzen Land. Jedenfalls für ihre Enkelin. Superlativ hin oder her, die Teigtaschen schmecken großartig.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-01/piroggen-kartoffelfuellung-rezept-wochenmarkt",
       "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-01/piroggen-kartoffelfuellung-rezept-wochenmarkt-bild/wide__822x462",
@@ -59,23 +66,16 @@
       "image_title": "Tagliatelle mit Orange: Wie die Sonne auf dem Teller"
     },
     {
-      "title": "Z+ Hunde: Mein Hund, der Schutzwursterpresser",
-      "teaser": "Wer denkt, dass Tiere die besseren Menschen sind, hat José noch nicht kennengelernt. Unser Autor bewundert die charakterliche Verkommenheit seines Hundes.",
-      "url": "https://www.zeit.de/zeit-magazin/2024/02/hunde-haustier-menschen-eigenschaften",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024/02/der-schutzwursterpresser-bild-1/wide__822x462",
-      "image_title": "Hunde: Mein Hund, der Schutzwursterpresser"
-    },
-    {
       "title": "Wochenmarkt: Hungrig?",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/index",
       "image_url": "https://img.zeit.de/zeit-magazin/2020-09/wochenmarkt-start-editorial-fragen-der-zeit-bild/tile__315x394",
       "image_title": "Wochenmarkt: Hungrig?"
     },
     {
-      "title": "Z+ Bambusdämpfer: Bitte mit Bambus",
-      "url": "https://www.zeit.de/zeit-magazin/2024-01/bambusdaempfer-teigtaschen-asiatische-kueche-kochen",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-01/bambusdaempfer-ode-an-ein-ding/tile__315x394",
-      "image_title": "Bambusdämpfer: Bitte mit Bambus"
+      "title": "Z+ Hunde: Mein Hund, der Schutzwursterpresser",
+      "url": "https://www.zeit.de/zeit-magazin/2024/02/hunde-haustier-menschen-eigenschaften",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024/02/der-schutzwursterpresser-bild-1/tile__315x394",
+      "image_title": "Hunde: Mein Hund, der Schutzwursterpresser"
     },
     {
       "title": "Auf Messers Schneide",
@@ -207,6 +207,12 @@
       "image_title": "Stimmung zum Jahreswechsel: Besser wird's nicht"
     },
     {
+      "title": "Z+ Bambusdämpfer: Bitte mit Bambus",
+      "url": "https://www.zeit.de/zeit-magazin/2024-01/bambusdaempfer-teigtaschen-asiatische-kueche-kochen",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-01/bambusdaempfer-ode-an-ein-ding/tile__315x394",
+      "image_title": "Bambusdämpfer: Bitte mit Bambus"
+    },
+    {
       "title": "Z+ Waller in Wurzelsud: Ein Fisch für alle Fälle",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-01/waller-wurzelsud-fisch-wels-rezept",
       "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-01/waller-wurzelsud-fisch-wels-rezept-teaserbild/tile__315x394",
@@ -259,12 +265,6 @@
       "url": "https://www.zeit.de/zeit-magazin/mode-design/2023-12/paillettenkleider-silvester-glitzer-glamour-mode",
       "image_url": "https://img.zeit.de/zeit-magazin/2023-12/wochenende-53-guter-stoff-paillettenkleider-silvester-glitzer-glamour-mode/tile__315x394",
       "image_title": "Paillettenkleider: Pailletten haben doch keinen Schimmer!"
-    },
-    {
-      "title": "Z+ Apfel-Beignets: Frühstück im Schlafanzug",
-      "url": "https://www.zeit.de/zeit-magazin/2024/01/apfel-beignets-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024/01/fruehstueck-im-schlafanzug-bild-1/tile__315x394",
-      "image_title": "Apfel-Beignets: Frühstück im Schlafanzug"
     },
     {
       "title": "Z+ Männerhaare: Ein Traum wird Haar",
@@ -321,10 +321,17 @@
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-12/alkoholkonsum-sucht-social-drinking-ulrich-zimmermann"
     },
     {
+      "title": "Z+ Apfel-Beignets: Frühstück im Schlafanzug",
+      "teaser": "Wenn alle Messen gesungen und alle Menüs gegessen sind, werden Apfelküchle zum kulinarischen Höhepunkt. Man kann sie auch im Liegen verzehren.",
+      "url": "https://www.zeit.de/zeit-magazin/2024/01/apfel-beignets-rezept-wochenmarkt",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024/01/fruehstueck-im-schlafanzug-bild-1/square__460x460",
+      "image_title": "Apfel-Beignets: Frühstück im Schlafanzug"
+    },
+    {
       "title": "Z+ Schlafmützen aus Seide: Unter der Haube",
       "teaser": "Was ein Drogerieregal voller Pflegeprodukte nicht geschafft hat, kann diese Seidenmütze im Schlaf: Sie lässt das krause Haar unserer Autorin gesund aussehen.",
       "url": "https://www.zeit.de/zeit-magazin/2023-12/schlafmuetze-seide-haarmaske-schutz",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023-12/wochenende-schlafmuetze-seide-haarmaske-schutz/square__460x460",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023-12/wochenende-schlafmuetze-seide-haarmaske-schutz/wide__822x462",
       "image_title": "Schlafmützen aus Seide: Unter der Haube"
     },
     {
@@ -350,9 +357,8 @@
     },
     {
       "title": "Z+ Ziele setzen: Vergessen Sie alle Vorsätze!",
-      "teaser": "Erwachsen ist man, wenn man Ziele hat statt Spaß. Wieso entwerfen wir unser Leben stets in eine fernere Zukunft hinein?",
       "url": "https://www.zeit.de/zeit-magazin/leben/2023-12/ziele-setzen-alter-silvester-ziellosigkeit",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023-12/wochenende53-ziele-setzen-alter-silvester-ziellosigkeit/wide__822x462",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023-12/wochenende53-ziele-setzen-alter-silvester-ziellosigkeit/tile__315x394",
       "image_title": "Ziele setzen: Vergessen Sie alle Vorsätze!"
     },
     {
@@ -366,12 +372,6 @@
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-12/kaesekeks-silvester-snack-rezept-wochenmarkt",
       "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-12/kaesekekse-silvester-bild2/tile__315x394",
       "image_title": "Käsekeks: Alte Rinde im neuen Glanz"
-    },
-    {
-      "title": "Z+ Lego: Steinchenreich",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2023-12/lego-popularitaet-spielzeug-videospiele",
-      "image_url": "https://img.zeit.de/zeit-magazin/leben/2023-12/lego-popularitaet-spielzeug-videospiele-teaser/tile__315x394",
-      "image_title": "Lego: Steinchenreich"
     }
   ]
 }
