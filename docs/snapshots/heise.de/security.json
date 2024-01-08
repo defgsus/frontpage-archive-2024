@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-08T14:01:06",
+  "timestamp": "2024-01-08T15:01:05",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -19,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.57347bbf5b22798a0f56",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.de7a41c9ede7297080ee",
       "id": null,
       "text": null
     },
@@ -31,6 +31,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Apache RocketMQ",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Messaging-Plattform-Apache-RocketMQ-9590555.html"
+    },
     {
       "title": "IBM Db2",
       "url": "https://www.heise.de/news/IBM-warnt-vor-Sicherheitsluecke-in-Db2-9590062.html"
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Kritische-Schadcode-Luecke-gefaehrdet-Ivanti-Endpoint-Manager-9587991.html"
     },
     {
-      "title": "Wireshark",
-      "url": "https://www.heise.de/news/Netzwerkanalystool-Wireshark-gegen-moegliche-Attacken-abgesichert-9587170.html"
+      "title": "Cybergang AlphV bei internationalem Rüstungszulieferer Ultra eingedrungen",
+      "teaser": "Die Cybergang AlphV ist weiter aktiv. Sie hat im Darknet Daten veröffentlicht, die vom Rüstungszulieferer Ultra stammen.",
+      "url": "https://www.heise.de/news/Cybergang-AlphV-bei-internationalem-Ruestungszulieferer-Ultra-eingedrungen-9590549.html",
+      "image_title": "Codegewusel auf einem Laptop"
+    },
+    {
+      "title": "Jetzt patchen! Attacken auf Messaging-Plattform Apache RocketMQ",
+      "teaser": "Angreifer scannen derzeit vermehrt nach verwundbaren RocketMQ-Servern. Sicherheitsupdates stehen bereit.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Messaging-Plattform-Apache-RocketMQ-9590555.html",
+      "image_title": "Schild, auf dem \"Time to update\" steht"
     },
     {
       "title": "cURL-Maintainer: KI liefert \"Scheiß-Berichte\" als Bug-Reports",
@@ -143,16 +155,6 @@
       "teaser": "Im spanischen Internet kam es zu Störungen. Das Konto des Anbieters Orange bei RIPE wurde geknackt, die Angreifer haben Routen umgelenkt.",
       "url": "https://www.heise.de/news/Orange-Konto-gekapert-Internetstoerung-in-Spanien-durch-umgelegte-Routen-9587184.html",
       "image_title": "Abstraktes Bild zu Netzwerken"
-    },
-    {
-      "title": "BSI: Windows-Treibermanagement ist \"herausfordernd\", Härtung empfehlenswert",
-      "teaser": "Über den Device Setup Manager in Windows 10 können bösartige Treiber installiert werden, warnt das BSI in der Studie Sisyphus. Ein Nachverfolgen sei schwierig.",
-      "url": "https://www.heise.de/news/BSI-Windows-Treibermanagement-ist-herausfordernd-Haertung-empfehlenswert-9587250.html"
-    },
-    {
-      "title": "Netzwerkanalysetool Wireshark gegen mögliche Attacken abgesichert",
-      "teaser": "Die Wireshark-Entwickler haben in aktuellen Versionen mehrere Sicherheitslücken geschlossen.",
-      "url": "https://www.heise.de/news/Netzwerkanalystool-Wireshark-gegen-moegliche-Attacken-abgesichert-9587170.html"
     },
     {
       "title": "Microsofts Cloud und Entra ID - Reale Angriffe verstehen und verhindern",
