@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-08T10:01:03",
+  "timestamp": "2024-01-08T11:01:07",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "IBM Db2",
+      "url": "https://www.heise.de/news/IBM-warnt-vor-Sicherheitsluecke-in-Db2-9590062.html"
+    },
+    {
       "title": "Qnap",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Schadcode-und-DoS-Attacken-auf-Qnap-NAS-moeglich-9589870.html"
     },
@@ -44,18 +48,9 @@
       "url": "https://www.heise.de/news/Netzwerkanalystool-Wireshark-gegen-moegliche-Attacken-abgesichert-9587170.html"
     },
     {
-      "title": "Patchday Android",
-      "url": "https://www.heise.de/news/Patchday-Android-Angreifer-koennen-sich-hoehere-Rechte-erschleichen-9586713.html"
-    },
-    {
-      "title": "Phishing-Masche: Angeblicher Restbetrag in ELSTER als Köder",
-      "teaser": "Die Verbraucherzentralen warnen vor einer Phishing-Masche mit Mails, die die Auszahlung eines Steuerrestbetrags über ELSTER versprechen.",
-      "url": "https://www.heise.de/news/Phishing-Masche-Angeblicher-Restbetrag-in-ELSTER-als-Koeder-9589922.html"
-    },
-    {
-      "title": "Sicherheitsupdates: Schadcode- und DoS-Attacken auf Qnap NAS möglich",
-      "teaser": "Angreifer können Netzwerkspeicher von Qnap ins Visier nehmen. Sicherheitspatches schaffen Abhilfe.",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Schadcode-und-DoS-Attacken-auf-Qnap-NAS-moeglich-9589870.html"
+      "title": "IBM warnt vor Sicherheitslücke in Db2",
+      "teaser": "IBM warnt vor einer Sicherheitslücke in Db2. Angreifer können dadurch ihre Rechte in Windows-Systemen ausweiten. Updates stehen bereit.",
+      "url": "https://www.heise.de/news/IBM-warnt-vor-Sicherheitsluecke-in-Db2-9590062.html"
     },
     {
       "title": "Niveau der Fallzahlen zu Kinderpornografie im Netz weiter hoch",
@@ -64,7 +59,7 @@
       "image_title": "Dubiose Streaming-Portale locken in Abo-Fallen"
     },
     {
-      "title": "iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response (DFIR)",
+      "title": "iX-Workshop: Digital Forensics & Incident Response (Frühbucherrabatt bis 23.01.)",
       "teaser": "Lernen Sie, professionelle Incident Response Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können.",
       "url": "https://www.heise.de/news/iX-Workshop-Nach-dem-Einbruch-Digital-Forensics-Incident-Response-DFIR-9587137.html",
       "image_title": "iX-Workshop Digital Forensics & Incident Response"
@@ -85,6 +80,16 @@
       "teaser": "Bereits im Mai vergangenen Jahres drangen Angreifer in die Systeme der Telefongesellschaft ein und hatten vollen Zugriff. Auch Kundendaten sind betroffen.",
       "url": "https://www.heise.de/news/Ukraine-Krieg-Russische-Cracker-seit-Mitte-2023-im-Kyivstar-Netzwerk-9588438.html",
       "image_title": "Cyber,Security,Red,World,Map"
+    },
+    {
+      "title": "TÜV warnt: Smarte Fitnessgeräte können Einfallstor für Cyberkriminelle werden",
+      "teaser": "Der TÜV-Verband warnt vor smarten Fitnessgeräten. Sie können zum Einfallstor für Cyberkriminelle werden.",
+      "url": "https://www.heise.de/news/TUeV-Verband-warnt-wegen-Cybersicherheit-von-smarten-Fitnessgeraeten-9588493.html"
+    },
+    {
+      "title": "Ransomware: Nach der Erpressung folgt umgehend die nächste Erpressung",
+      "teaser": "Online-Kriminelle werden immer dreister und schlachten Opfer von Erpressungstrojanern gleich mehrfach aus.",
+      "url": "https://www.heise.de/news/Ransomware-Nach-der-Erpressung-folgt-umgehend-die-naechste-Erpressung-9588424.html"
     },
     {
       "title": "Kritische Schadcode-Lücke gefährdet Ivanti Endpoint Manager",
@@ -150,11 +155,6 @@
       "title": "Update für Google Chrome schließt sechs Sicherheitslücken",
       "teaser": "Google hat aktualisierte Chrome-Versionen herausgegeben. Sie schließen sechs Sicherheitslücken, davon mehrere mit hohem Risiko.",
       "url": "https://www.heise.de/news/Update-fuer-Google-Chrome-schliesst-sechs-Sicherheitsluecken-9586697.html"
-    },
-    {
-      "title": "secIT 2024: Aktuelle Ransomware-Attacken erfolgreich abwehren",
-      "teaser": "Der Großteil des redaktionellen Programms der IT-Security-Kongressmesse secIT 2024 ist online. Referenten glänzen mit hilfreichen Fakten statt Werbe-Bla-Bla.",
-      "url": "https://www.heise.de/news/secIT-2024-Aktuelle-Ransomware-Attacken-erfolgreich-abwehren-9585133.html"
     },
     {
       "title": "Microsofts Cloud und Entra ID - Reale Angriffe verstehen und verhindern",
