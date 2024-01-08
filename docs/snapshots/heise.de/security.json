@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-08T09:00:44",
+  "timestamp": "2024-01-08T10:01:03",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Qnap",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Schadcode-und-DoS-Attacken-auf-Qnap-NAS-moeglich-9589870.html"
+    },
+    {
       "title": "Ivanti EPM",
       "url": "https://www.heise.de/news/Kritische-Schadcode-Luecke-gefaehrdet-Ivanti-Endpoint-Manager-9587991.html"
     },
@@ -44,11 +48,17 @@
       "url": "https://www.heise.de/news/Patchday-Android-Angreifer-koennen-sich-hoehere-Rechte-erschleichen-9586713.html"
     },
     {
-      "title": "Google Chrome",
-      "url": "https://www.heise.de/news/Update-fuer-Google-Chrome-schliesst-sechs-Sicherheitsluecken-9586697.html"
+      "title": "Phishing-Masche: Angeblicher Restbetrag in ELSTER als Köder",
+      "teaser": "Die Verbraucherzentralen warnen vor einer Phishing-Masche mit Mails, die die Auszahlung eines Steuerrestbetrags über ELSTER versprechen.",
+      "url": "https://www.heise.de/news/Phishing-Masche-Angeblicher-Restbetrag-in-ELSTER-als-Koeder-9589922.html"
     },
     {
-      "title": "Fallzahlen bezüglich Kinderpornografie im Netz unverändert hoch",
+      "title": "Sicherheitsupdates: Schadcode- und DoS-Attacken auf Qnap NAS möglich",
+      "teaser": "Angreifer können Netzwerkspeicher von Qnap ins Visier nehmen. Sicherheitspatches schaffen Abhilfe.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Schadcode-und-DoS-Attacken-auf-Qnap-NAS-moeglich-9589870.html"
+    },
+    {
+      "title": "Niveau der Fallzahlen zu Kinderpornografie im Netz weiter hoch",
       "teaser": "Bayerische Strafverfolger sehen weiterhin hohe Fallzahlen bei Kinderpornografie im Netz. Unbeteiligte gerieten zunehmend mit dem Gesetz in Konflikt.",
       "url": "https://www.heise.de/news/Fallzahlen-bezueglich-Kinderpornografie-im-Netz-unveraendert-hoch-9589816.html",
       "image_title": "Dubiose Streaming-Portale locken in Abo-Fallen"
@@ -145,16 +155,6 @@
       "title": "secIT 2024: Aktuelle Ransomware-Attacken erfolgreich abwehren",
       "teaser": "Der Großteil des redaktionellen Programms der IT-Security-Kongressmesse secIT 2024 ist online. Referenten glänzen mit hilfreichen Fakten statt Werbe-Bla-Bla.",
       "url": "https://www.heise.de/news/secIT-2024-Aktuelle-Ransomware-Attacken-erfolgreich-abwehren-9585133.html"
-    },
-    {
-      "title": "Lücke in Barracuda E-Mail Security Gateway ermöglichte Code-Einschleusung",
-      "teaser": "Einfallstor für die Sicherheitslücke ist ein Excel-Parser. Barracuda hat bereits Patches auf allen betroffenen Geräten ausgerollt.",
-      "url": "https://www.heise.de/news/Luecke-in-Barracuda-E-Mail-Security-Gateway-ermoeglichte-Code-Einschleusung-9586090.html"
-    },
-    {
-      "title": "Krypto-Bankraub: 82 Millionen Dollar bei Orbit Chain gestohlen",
-      "teaser": "Die Räuber gingen sehr methodisch vor und übertrugen Ethereum und andere Kryptowährungen vom südkoreanischen Anbieter zu verschiedenen Krypto-Geldbörsen.",
-      "url": "https://www.heise.de/news/Krypto-Bankraub-82-Millionen-Dollar-bei-Orbit-Chain-gestohlen-9585994.html"
     },
     {
       "title": "Microsofts Cloud und Entra ID - Reale Angriffe verstehen und verhindern",
