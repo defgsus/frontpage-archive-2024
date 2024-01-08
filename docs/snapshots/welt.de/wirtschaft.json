@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-08T06:08:12",
+  "timestamp": "2024-01-08T07:01:07",
   "url": "https://www.welt.de/wirtschaft/",
   "response": {
     "status": 200
@@ -26,6 +26,22 @@
   ],
   "articles": [
     {
+      "title": "Die neue Ära des Computers beginnt – womit Nutzer rechnen können",
+      "teaser": "Auf der Consumer Electronics Show in Las Vegas werden die großen Computer-Hersteller ein neues Zeitalter ausrufen: das des KI-PCs. Das könnte die Branche spürbar verändern. Für welche Konzerne die Hoffnungen besonders groß sind – und was die neue PC-Generation können wird.",
+      "url": "https://www.welt.de/wirtschaft/webwelt/plus249395520/CES-Neue-Aera-des-Computers-beginnt-der-KI-PC-kommt.html",
+      "image_url": "https://img.welt.de/img/wirtschaft/webwelt/mobile249402036/0227938657-ci23x11-w20/Wireless-transmission.jpg",
+      "image_title": "Wireless transmission",
+      "author": "Thomas Heuzeroth"
+    },
+    {
+      "title": "Risiko Mehrfach-Passwort – so schützen Sie ihre sensiblen Daten",
+      "teaser": "2023 wurden von einer US-Website Millionen sensible Daten gehackt. Online-Identitäten sind inzwischen viel Geld wert und Kriminelle haben Angriffe auf Log-in-Systeme perfektioniert. Ein Passwort für mehrere Webseiten zu nutzen, ist besonders gefährlich. Es gibt sicherere Ideen.",
+      "url": "https://www.welt.de/wirtschaft/",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile249401220/3177933157-ci23x11-w20/GettyImages-1209622348.jpg",
+      "image_title": "GettyImages-1209622348_",
+      "author": "Benedikt Fuest"
+    },
+    {
       "title": "Deutsche im Zins-FOMO und die Hoffnung auf das große Biotech-Comeback",
       "teaser": "In der heutigen Folge „Alles auf Aktien“ sprechen die Finanzjournalisten Daniel Eckert und Holger Zschäpitz über Turbulenzen bei Boeing, einen Mega-Aktienrückkauf bei Qiagen und was sonst noch wichtig wird in dieser Woche.",
       "url": "https://www.welt.de/podcasts/alles-auf-aktien/",
@@ -47,22 +63,6 @@
       "image_url": "https://img.welt.de/img/bildergalerien/mobile249400590/7797931697-ci23x11-w20/GettyImages-1440703930-1.jpg",
       "image_title": "GettyImages-1440703930 (1)_",
       "author": "Stephan Maaß"
-    },
-    {
-      "title": "„Made in Germany” reicht nicht mehr – Das neue Erfolgsrezept für die Wirtschaft",
-      "teaser": "Ob in Deutschland, den USA oder China – die Politik sorgt für die Wirtschaft weltweit für Unberechenbarkeit, ganze Industrien stehen vor dem Umbruch. Vielen deutschen Firmen brechen derzeit über Jahrzehnte gepflegte Gewissheiten weg. Wie können sie sich für die Zukunft rüsten?",
-      "url": "https://www.welt.de/wirtschaft/plus249388430/Strategien-gegen-die-Multikrise-Made-in-Germany-reicht-nicht-mehr.html",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile249395716/7707934817-ci23x11-w20/GettyImages-1169342549.jpg",
-      "image_title": "GettyImages-1169342549_",
-      "author": "Cornelius Welp"
-    },
-    {
-      "title": "Seltsame Störungen des GPS-Signals – und die möglichen Gefahren",
-      "teaser": "Flugzeuge und Schiffe müssen derzeit im Ostsee-Raum den Ausfall ihrer Navigationssysteme fürchten: Seit einigen Tagen wird hier das GPS-Signal teils erheblich gestört. Nun benennen Analysten die Quelle. Solche Störungen können Wirtschaft und das zivile Leben empfindlich treffen.",
-      "url": "https://www.welt.de/wirtschaft/plus249385016/Im-Ostsee-Raum-Seltsame-Stoerungen-des-GPS-Signals-und-die-moeglichen-Gefahren.html",
-      "image_url": "https://img.welt.de/img/bildergalerien/mobile249397796/7017934687-ci23x11-w20/Ostsee-Grossmanoever-Northern-Coasts.jpg",
-      "image_title": "Blick auf die Ostsee aus einem Militär-Flugzeug",
-      "author": "Benedikt Fuest"
     },
     {
       "title": "Bei McDonald’s gibt’s drinnen Burger, draußen Strom",
@@ -170,6 +170,14 @@
       "author": "GründerszeneMaybrit Martschin"
     },
     {
+      "title": "„Made in Germany” reicht nicht mehr – Das neue Erfolgsrezept für die Wirtschaft",
+      "teaser": "Ob in Deutschland, den USA oder China – die Politik sorgt für die Wirtschaft weltweit für Unberechenbarkeit, ganze Industrien stehen vor dem Umbruch. Vielen deutschen Firmen brechen derzeit über Jahrzehnte gepflegte Gewissheiten weg. Wie können sie sich für die Zukunft rüsten?",
+      "url": "https://www.welt.de/wirtschaft/plus249388430/Strategien-gegen-die-Multikrise-Made-in-Germany-reicht-nicht-mehr.html",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile249395716/7707934817-ci23x11-w20/GettyImages-1169342549.jpg",
+      "image_title": "GettyImages-1169342549_",
+      "author": "Cornelius Welp"
+    },
+    {
       "title": "Gasverbrauch in Deutschland 2023 um fünf Prozent gesunken",
       "teaser": "Dank wärmerer Temperaturen konnten sowohl Privathaushalte als auch Gewerbe Gas sparen. Das gab die Netzagentur für 2023 bekannt. Deutschland muss dabei mehr als 90 Prozent des Erdgases importieren.",
       "url": "https://www.welt.de/wirtschaft/",
@@ -199,13 +207,6 @@
       "image_url": "https://img.welt.de/img/regionales/hamburg/mobile249242216/8577935357-ci23x11-w20/Germany-Hamburg-container-cranes-at-sunset.jpg",
       "image_title": "Containerbrücken im Hamburger Hafen, Deutschlands größtem Seehafen",
       "author": "Olaf Preuß"
-    },
-    {
-      "title": "Verbraucherzentralen warnen vor hoher Preisbelastung im Jahr 2024",
-      "teaser": "Die Chefin des Bundesverbands, Ramona Pop, warnt, dass insbesondere Energie und Lebensmittel für viele private Haushalte im nächsten Jahr noch einmal deutlich teurer werde. Sie fordert sogar einen „Preisgipfel“ der Bundesregierung.",
-      "url": "https://www.welt.de/wirtschaft/",
-      "image_url": "https://img.welt.de/img/bildergalerien/mobile249271672/4187936857-ci23x11-w20/Ramona-Pop.jpg",
-      "image_title": "Ramona Pop, Vorstandsvorsitzende der Verbraucherzentrale des Bundesverbandes"
     },
     {
       "title": "„Ein Leben, wie wir es hier führen, könnten wir uns in Deutschland niemals leisten“",
@@ -255,6 +256,18 @@
       "image_title": "Kein alternativer Text für dieses Bild vorhanden"
     },
     {
+      "title": "Die neue Ära des Computers beginnt – womit Nutzer rechnen können",
+      "url": "https://www.welt.de/wirtschaft/webwelt/plus249395520/CES-Neue-Aera-des-Computers-beginnt-der-KI-PC-kommt.html"
+    },
+    {
+      "title": "Risiko Mehrfach-Passwort – so schützen Sie ihre sensiblen Daten",
+      "url": "https://www.welt.de/wirtschaft/article249400866/Hacker-Angriffe-immer-erfolgreicher-So-schuetzen-Sie-sensible-Daten.html"
+    },
+    {
+      "title": "Bauernproteste angelaufen - Erste Behinderungen auf Straßen",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article249403282/Bauernproteste-angelaufen-Erste-Behinderungen-auf-Strassen.html"
+    },
+    {
       "title": "Mehr als doppelt so viele Frauen in Vorständen als noch 2020",
       "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article249402932/Mehr-als-doppelt-so-viele-Frauen-in-Vorstaenden-als-noch-2020.html"
     },
@@ -271,8 +284,8 @@
       "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article249402626/Konvois-Demos-Blockaden-Bauernproteste-gegen-Agrarpolitik.html"
     },
     {
-      "title": "Bahn will Lokführerstreik ab Mittwoch per Gericht stoppen",
-      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article249402618/Bahn-will-Lokfuehrerstreik-ab-Mittwoch-per-Gericht-stoppen.html"
+      "title": "Bahn kündigt wegen Lokführerstreik Notfahrplan an",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article249402618/Bahn-kuendigt-wegen-Lokfuehrerstreik-Notfahrplan-an.html"
     },
     {
       "title": "GDL ruft zu mehrtägigem Streik ab Mittwoch auf",
@@ -361,18 +374,6 @@
     {
       "title": "Nach Notlandung – US-Airline lässt alle Boeing 737-9 Max am Boden",
       "url": "https://www.welt.de/wirtschaft/article249386456/Boeing-737-9-Max-Alaska-Airlines-laesst-Flugzeuge-am-Boden.html"
-    },
-    {
-      "title": "Kabinenteil im Flug abgerissen - Boeings am Boden",
-      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article249387310/Kabinenteil-im-Flug-abgerissen-Boeings-am-Boden.html"
-    },
-    {
-      "title": "Wichtige Fristen laufen aus – Wann und wie Sie ihren Kamin nachrüsten müssen",
-      "url": "https://www.welt.de/wirtschaft/plus249383062/Heizen-per-Kamin-Wichtige-Fristen-laufen-aus-Wann-und-wie-Sie-nachruesten-muessen.html"
-    },
-    {
-      "title": "„Deutschland ist in einem energiepolitischen Blindflug“",
-      "url": "https://www.welt.de/regionales/hamburg/article249386890/Energiewende-Deutschland-ist-in-einem-energiepolitischen-Blindflug.html"
     },
     {
       "title": "Otto-Gutschein",
