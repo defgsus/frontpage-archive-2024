@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-09T14:01:02",
+  "timestamp": "2024-01-09T15:01:07",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -48,15 +48,22 @@
       "url": "https://www.heise.de/news/IBM-warnt-vor-Sicherheitsluecke-in-Db2-9590062.html"
     },
     {
+      "title": "Skrupel nur vorgeschoben? Ransomware-Banden attackieren Kliniken",
+      "teaser": "Zwar zürnt der Lockbit-Betreiber öffentlich mit einem Handlanger, ist sich dennoch für Krankenhaus-Erpressung nicht zu schade. Andere bedrohen gar Patienten.",
+      "url": "https://www.heise.de/news/Skrupel-nur-vorgeschoben-Ransomware-Banden-attackieren-Kliniken-9591987.html",
+      "image_title": "Abstrakte Darstellung von medizinischen Daten. Auf der linken Seite in rötlichen Farben ein Gehirn. Zentral im Bild befindet sich ein generischer Mensch. Die Person und das Gehirn sind beschriftet, zudem sind Graphen zu erkennen. Im Hintergrund medizinisches Personal an einem Computer"
+    },
+    {
+      "title": "IT-Sicherheitsvorfall bei Handwerkskammern in Mecklenburg-Vorpommern",
+      "teaser": "Die Handwerkskammern in Mecklenburg-Vorpommern sind derzeit offline. Ursache soll ein IT-Sicherheitsvorfall sein.",
+      "url": "https://www.heise.de/news/IT-Sicherheitsvorfall-bei-Handwerkskammern-in-Mecklenburg-Vorpommern-9592011.html",
+      "image_title": "Hände auf einer Tastatur"
+    },
+    {
       "title": "Synology warnt vor Sicherheitslücke im DSM-Betriebssystem",
       "teaser": "Synology gibt eine Warnung vor einer Sicherheitslücke im DSM-Betriebssystem für NAS-Systeme heraus. Updates stehen länger bereit.",
       "url": "https://www.heise.de/news/Synology-warnt-vor-Sicherheitsluecke-im-DSM-Betriebssystem-9591871.html",
       "image_title": "Netzwerkstecker"
-    },
-    {
-      "title": "Sicherheitslücken-Statistik: 2023 gab es 15 Prozent mehr CVEs als im Vorjahr",
-      "teaser": "Über 25.000 neue Einträge verzeichnet die CVE-Datenbank für Sicherheitsprobleme. Die meisten Meldungen kamen von einem Spezialisten für Wordpress-Plugins.",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-Statistik-2023-gab-es-15-Prozent-mehr-CVEs-als-im-Vorjahr-9591523.html"
     },
     {
       "title": "SAP-Patchday: Teils kritische Lücken in Geschäftssoftware",
@@ -85,6 +92,16 @@
       "title": "cURL-Maintainer: KI liefert \"Scheiß-Berichte\" als Bug-Reports",
       "teaser": "Mit sehr deutlichen Worten hat sich cURL-Maintainer Daniel Stenberg zu KI geäußert: Sie werde bei der Bug-Bounty missbraucht und liefere falsche Ergebnisse.",
       "url": "https://www.heise.de/news/cURL-Maintainer-KI-liefert-Scheiss-Berichte-als-Bug-Reports-9590381.html"
+    },
+    {
+      "title": "heise Security Webinar: Microsofts Entra ID – Angriffe verstehen und verhindern",
+      "teaser": "Im Zentrum der sicheren Nutzung der Microsoft-Cloud steht Entra ID aka Azure AD. Dieses Webinar zeigt dessen Probleme und wie man sie in den Griff bekommt.",
+      "url": "https://www.heise.de/news/heise-Security-Webinar-Microsofts-Entra-ID-Angriffe-verstehen-und-verhindern-9590243.html"
+    },
+    {
+      "title": "Die OAuth-Hintertür: Google wiegelt ab",
+      "teaser": "Der Suchmaschinenriese Google sieht keine Sicherheitslücke in der durch Kriminelle ausgenutzten Schnittstelle, sie funktioniere wie vorgesehen.",
+      "url": "https://www.heise.de/news/Cookieklau-per-Malware-und-API-Google-beruhigt-Nutzer-und-nennt-Gegenmassnahmen-9589840.html"
     },
     {
       "title": "IBM warnt vor Sicherheitslücke in Db2",
@@ -139,21 +156,6 @@
       "title": "Ransomware: Nach der Erpressung folgt umgehend die nächste Erpressung",
       "teaser": "Online-Kriminelle werden immer dreister und schlachten Opfer von Erpressungstrojanern gleich mehrfach aus.",
       "url": "https://www.heise.de/news/Ransomware-Nach-der-Erpressung-folgt-umgehend-die-naechste-Erpressung-9588424.html"
-    },
-    {
-      "title": "Kritische Schadcode-Lücke gefährdet Ivanti Endpoint Manager",
-      "teaser": "Unter bestimmten Voraussetzungen können Angreifer Schadcode auf Ivanti-EPM-Servern ausführen.",
-      "url": "https://www.heise.de/news/Kritische-Schadcode-Luecke-gefaehrdet-Ivanti-Endpoint-Manager-9587991.html"
-    },
-    {
-      "title": "Russland späht ukrainische Abwehr mit Webcams aus",
-      "teaser": "Russische Geheimdienste haben sich in Webcams eingeklinkt und damit die ukrainische Verteidigung ausspioniert. Der Zugriff wurde blockiert.",
-      "url": "https://www.heise.de/news/Wegen-russischer-Spionage-Ukraine-blockiert-Zugriffe-auf-Webcams-9588051.html"
-    },
-    {
-      "title": "X-Konto von Mandiant geknackt",
-      "teaser": "Das X-Konto von Googles IT-Security-Tochterunternehmen Mandiant wurde von Angreifern übernommen. Die bewarben damit Krypo-Betrugsseiten.",
-      "url": "https://www.heise.de/news/X-Konto-von-Mandiant-geknackt-9587872.html"
     },
     {
       "title": "Microsofts Cloud und Entra ID - Reale Angriffe verstehen und verhindern",
