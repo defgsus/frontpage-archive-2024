@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-10T09:01:05",
+  "timestamp": "2024-01-10T10:00:49",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "FortiOS & FortiProxy HA Cluster",
+      "url": "https://www.heise.de/news/Update-gegen-Rechteausweitung-in-FortiOS-und-FortiProxy-9592816.html"
+    },
+    {
+      "title": "Patchday Adobe",
+      "url": "https://www.heise.de/news/Patchday-Adobe-Mehrere-Schwachstellen-in-Substance-3D-Stager-geschlossen-9592712.html"
+    },
+    {
       "title": "Patchday Microsoft",
       "url": "https://www.heise.de/news/Patchday-Microsoft-Kerberos-Authentifizierung-unter-Windows-verwundbar-9592648.html"
     },
@@ -40,22 +48,20 @@
       "url": "https://www.heise.de/news/Google-Chrome-Update-schliesst-Sicherheitsluecke-mit-hohem-Risiko-9592658.html"
     },
     {
-      "title": "Synology DSM",
-      "url": "https://www.heise.de/news/Synology-warnt-vor-Sicherheitsluecke-im-DSM-Betriebssystem-9591871.html"
+      "title": "Update gegen Rechteausweitung in FortiOS und FortiProxy",
+      "teaser": "Fortinet warnt vor einem Fehler in der Rechteverwaltung von FortiOS und FortiProxy in HA Clustern. Bösartige Akteure können ihre Rechte ausweiten.",
+      "url": "https://www.heise.de/news/Update-gegen-Rechteausweitung-in-FortiOS-und-FortiProxy-9592816.html"
     },
     {
-      "title": "Patchday SAP",
-      "url": "https://www.heise.de/news/SAP-Patchday-Teils-kritische-Luecken-in-Geschaeftssoftware-9591479.html"
-    },
-    {
-      "title": "Patchday Microsoft: Kerberos-Authentifizierung unter Windows verwundbar",
-      "teaser": "Es sind wichtige Sicherheitsupdates für Azure, Office, Windows und Co. erschienen. Attacken können bevorstehen. Ein Bitlocker-Patch macht Probleme.",
-      "url": "https://www.heise.de/news/Patchday-Microsoft-Kerberos-Authentifizierung-unter-Windows-verwundbar-9592648.html"
-    },
-    {
-      "title": "Google Chrome-Update schließt Sicherheitslücke mit hohem Risiko",
+      "title": "Update für Google Chrome: Hochriskantes Sicherheitsleck abgedichtet",
       "teaser": "Google hat turnusgemäß den Webbrowser Chrome aktualisiert. Dabei haben die Entwickler eine als hohes Risiko eingestufte Sicherheitslücke gestopft.",
       "url": "https://www.heise.de/news/Google-Chrome-Update-schliesst-Sicherheitsluecke-mit-hohem-Risiko-9592658.html"
+    },
+    {
+      "title": "Falschmeldung auf Twitter: SEC genehmigt doch keine Bitcoin-Fonds",
+      "teaser": "Nein, die USA haben keine Bitcoin-Börsenfonds genehmigt. Ein anderslautender Tweet war falsch.​",
+      "url": "https://www.heise.de/news/Falschmeldung-auf-Twitter-SEC-genehmigt-doch-keine-Bitcoin-Fonds-9592489.html",
+      "image_title": "Zerbrechende Bitcoin-Münze"
     },
     {
       "title": "Schweizer Geheimdienst räumt verdachtsunabhängige Massenüberwachung ein",
@@ -70,6 +76,12 @@
       "image_title": "Abstrakte Darstellung von medizinischen Daten. Auf der linken Seite in rötlichen Farben ein Gehirn. Zentral im Bild befindet sich ein generischer Mensch. Die Person und das Gehirn sind beschriftet, zudem sind Graphen zu erkennen. Im Hintergrund medizinisches Personal an einem Computer"
     },
     {
+      "title": "Bericht: NIST warnt vor vergifteten KI-Systemen und zeigt Schutzmaßnahmen auf",
+      "teaser": "In einem aktuellen Bericht skizziert das National Institute of Standards and Technology mögliche Attacken im Kontext von künstlicher Intelligenz.",
+      "url": "https://www.heise.de/news/Bericht-NIST-warnt-vor-vergifteten-KI-Systemen-und-zeigt-Schutzmassnahmen-auf-9591806.html",
+      "image_title": "A,Person's,Head,Covered,By,An,Ai-labeled,Dark,Cloud"
+    },
+    {
       "title": "IT-Sicherheitsvorfall bei Handwerkskammern in Mecklenburg-Vorpommern",
       "teaser": "Die Handwerkskammern in Mecklenburg-Vorpommern sind derzeit offline. Ursache soll ein IT-Sicherheitsvorfall sein.",
       "url": "https://www.heise.de/news/IT-Sicherheitsvorfall-bei-Handwerkskammern-in-Mecklenburg-Vorpommern-9592011.html",
@@ -80,6 +92,11 @@
       "teaser": "Synology gibt eine Warnung vor einer Sicherheitslücke im DSM-Betriebssystem für NAS-Systeme heraus. Updates stehen länger bereit.",
       "url": "https://www.heise.de/news/Synology-warnt-vor-Sicherheitsluecke-im-DSM-Betriebssystem-9591871.html",
       "image_title": "Netzwerkstecker"
+    },
+    {
+      "title": "Sicherheitslücken-Statistik: 2023 gab es 15 Prozent mehr CVEs als im Vorjahr",
+      "teaser": "Über 25.000 neue Einträge verzeichnet die CVE-Datenbank für Sicherheitsprobleme. Die meisten Meldungen kamen von einem Spezialisten für Wordpress-Plugins.",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-Statistik-2023-gab-es-15-Prozent-mehr-CVEs-als-im-Vorjahr-9591523.html"
     },
     {
       "title": "SAP-Patchday: Teils kritische Lücken in Geschäftssoftware",
@@ -139,23 +156,6 @@
       "teaser": "Bayerische Strafverfolger sehen weiterhin hohe Fallzahlen bei Kinderpornografie im Netz. Unbeteiligte gerieten zunehmend mit dem Gesetz in Konflikt.",
       "url": "https://www.heise.de/news/Fallzahlen-bezueglich-Kinderpornografie-im-Netz-unveraendert-hoch-9589816.html",
       "image_title": "Dubiose Streaming-Portale locken in Abo-Fallen"
-    },
-    {
-      "title": "iX-Workshop: Digital Forensics & Incident Response (Frühbucherrabatt bis 23.01.)",
-      "teaser": "Lernen Sie, professionelle Incident Response Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können.",
-      "url": "https://www.heise.de/news/iX-Workshop-Nach-dem-Einbruch-Digital-Forensics-Incident-Response-DFIR-9587137.html",
-      "image_title": "iX-Workshop Digital Forensics & Incident Response"
-    },
-    {
-      "title": "iX-Workshop: Microsofts Entra ID (AAD) erfolgreich gegen Angriffe absichern",
-      "teaser": "Lernen Sie, wie Sie Entra ID (Azure Active Directory) einschließlich Azure-Diensten härten und effektiv gegen Angriffe schützen. Noch wenige Plätze frei.",
-      "url": "https://www.heise.de/news/iX-Workshop-Angriffe-auf-Entra-ID-abwehren-9566107.html",
-      "image_title": "iX-Workshop Entra ID (AAD) gegen Angriffe absichern"
-    },
-    {
-      "title": "Cybertrading: Erneuter Schlag gegen Organisierte Kriminalität",
-      "teaser": "In einer international koordinierten Aktion gingen Göttinger Strafverfolger gegen Betreiber und Mittäter von betrügerischen Cybertrading-Plattformen vor.",
-      "url": "https://www.heise.de/news/Cybertrading-Erneuter-Schlag-gegen-Organisierte-Kriminalitaet-9588588.html"
     },
     {
       "title": "Microsofts Cloud und Entra ID - Reale Angriffe verstehen und verhindern",
