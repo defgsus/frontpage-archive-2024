@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-10T11:00:59",
+  "timestamp": "2024-01-10T12:09:43",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Zoom",
+      "url": "https://www.heise.de/news/Webkonferenzen-Zoom-Sicherheitsluecken-ermoeglichen-Rechteausweitung-9593000.html"
+    },
+    {
       "title": "FortiOS & FortiProxy HA Cluster",
       "url": "https://www.heise.de/news/Update-gegen-Rechteausweitung-in-FortiOS-und-FortiProxy-9592816.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Patchday-Microsoft-Kerberos-Authentifizierung-unter-Windows-verwundbar-9592648.html"
     },
     {
-      "title": "Google Chrome",
-      "url": "https://www.heise.de/news/Google-Chrome-Update-schliesst-Sicherheitsluecke-mit-hohem-Risiko-9592658.html"
+      "title": "Webkonferenzen: Zoom-Sicherheitslücken ermöglichen Rechteausweitung",
+      "teaser": "Zoom verteilt aktualisierte Videokonferenz-Software. Sie schließt eine Sicherheitslücke, durch die Angreifer ihre Rechte ausweiten können.",
+      "url": "https://www.heise.de/news/Webkonferenzen-Zoom-Sicherheitsluecken-ermoeglichen-Rechteausweitung-9593000.html"
     },
     {
       "title": "Cyberwar: Ukraine und Russland haben auch Finanzinstitutionen im Visier",
@@ -54,7 +59,7 @@
       "image_title": "Laptop,And,Source,Code,On,The,Screen,Composing,Flag,Of"
     },
     {
-      "title": "Update gegen Rechteausweitung in FortiOS und FortiProxy",
+      "title": "Fortinet: Sicherheitsupdate gegen Rechteverwaltungsfehler in FortiOS und -Proxy",
       "teaser": "Fortinet warnt vor einem Fehler in der Rechteverwaltung von FortiOS und FortiProxy in HA Clustern. Bösartige Akteure können ihre Rechte ausweiten.",
       "url": "https://www.heise.de/news/Update-gegen-Rechteausweitung-in-FortiOS-und-FortiProxy-9592816.html"
     },
@@ -151,11 +156,6 @@
       "title": "Phishing-Masche: Angeblicher Restbetrag in ELSTER als Köder",
       "teaser": "Die Verbraucherzentralen warnen vor einer Phishing-Masche mit Mails, die die Auszahlung eines Steuerrestbetrags über ELSTER versprechen.",
       "url": "https://www.heise.de/news/Phishing-Masche-Angeblicher-Restbetrag-in-ELSTER-als-Koeder-9589922.html"
-    },
-    {
-      "title": "Sicherheitsupdates: Schadcode- und DoS-Attacken auf Qnap NAS möglich",
-      "teaser": "Angreifer können Netzwerkspeicher von Qnap ins Visier nehmen. Sicherheitspatches schaffen Abhilfe.",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Schadcode-und-DoS-Attacken-auf-Qnap-NAS-moeglich-9589870.html"
     },
     {
       "title": "Microsofts Cloud und Entra ID - Reale Angriffe verstehen und verhindern",

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-10T11:01:24",
+  "timestamp": "2024-01-10T12:10:36",
   "url": "https://www.zeit.de/zeit-magazin/index",
   "response": {
     "status": 200
@@ -32,7 +32,14 @@
   ],
   "articles": [
     {
-      "title": "Z+ \"Leider ein bisschen zu dick\"",
+      "title": "Z+ Die Hoffnung ruht auf einem Schimmelpilz",
+      "teaser": "Trotz Dauerkrise herrscht in der Gastronomie auch Optimismus. Köchinnen experimentieren mit Koji, die Champagne kommt nach Deutschland. Welche Trends 2024 wichtig werden",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-01/gastronomie-trends-regionalitaet-fermentation-restaurant",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-01/gastronomie-trends-regionalitaet-fermentation-restaurant-teaserbild/wide__822x462",
+      "image_title": "Gastronomie-Trends: Die Hoffnung ruht auf einem Schimmelpilz"
+    },
+    {
+      "title": "Z+ Bodyshaming bei Kindern: \"Leider ein bisschen zu dick\"",
       "teaser": "Wenn ihr Kind mehr wiegt als andere, fragen sich Eltern: Wie spricht man mit dem Kind über Essen, Gewicht, Bewegung – ohne dabei eine künftige Essstörung zu befördern?",
       "url": "https://www.zeit.de/zeit-magazin/familie/2023-12/bodyshaming-kinder-kinderarzt-essstoerung-eltern",
       "image_url": "https://img.zeit.de/zeit-magazin/familie/2023-12/bodyshaming-kinder-kinderarzt-essstoerung/wide__822x462",
@@ -53,23 +60,16 @@
       "image_title": "Harmoniebedürftigkeit: So viel Harmonie hält niemand aus"
     },
     {
-      "title": "Z+ Pommes boulangère: Die zarte Seite der Kartoffel",
-      "teaser": "Wer sich nicht entscheiden kann, ob er Kartoffeln eher buttrig weich oder doch lieber leicht kross mag, kann bei diesem Rezept aufatmen: Es bietet beides gleichzeitig.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-01/pommes-boulangere-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-01/pommes-boulangere-rezept-wochenmarkt-bild/wide__822x462",
-      "image_title": "Pommes boulangère: Die zarte Seite der Kartoffel"
-    },
-    {
       "title": "Wochenmarkt: Hungrig?",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/index",
       "image_url": "https://img.zeit.de/zeit-magazin/2020-09/wochenmarkt-start-editorial-fragen-der-zeit-bild/tile__315x394",
       "image_title": "Wochenmarkt: Hungrig?"
     },
     {
-      "title": "Z+ Geheimzutaten: Deutschland sucht den Supergeschmack",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-12/geheimzutaten-chilioel-gurkenrelish-bruehwuerfel-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-06/signature-spice-chili/tile__315x394",
-      "image_title": "Geheimzutaten: Deutschland sucht den Supergeschmack"
+      "title": "Z+ Pommes boulangère: Die zarte Seite der Kartoffel",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-01/pommes-boulangere-rezept-wochenmarkt",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-01/pommes-boulangere-rezept-wochenmarkt-bild/tile__315x394",
+      "image_title": "Pommes boulangère: Die zarte Seite der Kartoffel"
     },
     {
       "title": "Auf Messers Schneide",
@@ -201,6 +201,12 @@
       "image_title": "Neuerungen für Familien: Das ändert sich für Familien 2024"
     },
     {
+      "title": "Z+ Geheimzutaten: Deutschland sucht den Supergeschmack",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-12/geheimzutaten-chilioel-gurkenrelish-bruehwuerfel-rezept-wochenmarkt",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-06/signature-spice-chili/tile__315x394",
+      "image_title": "Geheimzutaten: Deutschland sucht den Supergeschmack"
+    },
+    {
       "title": "Z+ Piroggen mit Kartoffelfüllung: Liebesgrüße aus Warschau",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-01/piroggen-kartoffelfuellung-rezept-wochenmarkt",
       "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-01/piroggen-kartoffelfuellung-rezept-wochenmarkt-bild/tile__315x394",
@@ -253,12 +259,6 @@
       "url": "https://www.zeit.de/zeit-magazin/unterhaltung/2023-12/timon-krause-mentalist-hypnose-gedanken-lesen",
       "image_url": "https://img.zeit.de/zeit-magazin/unterhaltung/2023-12/timon-krause-mentalist-hypnose-gedanken-lesen-bild/tile__315x394",
       "image_title": "Timon Krause: \"Das Gesicht ist meine Kristallkugel\""
-    },
-    {
-      "title": "Z+ Liebesgeschichte: Schön bist du, mein Geliebter",
-      "url": "https://www.zeit.de/zeit-magazin/2024/01/neue-familienmodelle-homosexualitaet-vaterschaft-heirat",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023-12/neue-familienmodelle-homosexualitaet/tile__315x394",
-      "image_title": "Liebesgeschichte: Schön bist du, mein Geliebter"
     },
     {
       "title": "Z+ Paillettenkleider: Pailletten haben doch keinen Schimmer!",
@@ -315,10 +315,17 @@
       "url": "https://www.zeit.de/zeit-magazin/familie/2023-12/bodyshaming-kinder-kinderarzt-essstoerung-eltern"
     },
     {
+      "title": "Z+ Liebesgeschichte: Schön bist du, mein Geliebter",
+      "teaser": "Als seine Hochzeit in der Zeitung verkündet wird, ist Jo Marx bereits tot. Sein Mann, sein Sohn und andere Weggefährten erzählen seine Geschichte.",
+      "url": "https://www.zeit.de/zeit-magazin/2024/01/neue-familienmodelle-homosexualitaet-vaterschaft-heirat",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023-12/neue-familienmodelle-homosexualitaet/square__460x460",
+      "image_title": "Liebesgeschichte: Schön bist du, mein Geliebter"
+    },
+    {
       "title": "Z+ Harald Martenstein: Kapitalismus für Grundschüler",
       "teaser": "Der Sohn unseres Kolumnisten hat ein Kinderbuch von Carsten Maschmeyer gelesen und will nun Unternehmer werden – mit Maserati. Der Vater ist da hin- und hergerissen.",
       "url": "https://www.zeit.de/zeit-magazin/2024/01/harald-martenstein-unternehmen-gruenden-kinder-zukunftsplaene",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023-12/harald-martenstein-unternehmen-gruenden-kinder/square__460x460__91E6F7",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023-12/harald-martenstein-unternehmen-gruenden-kinder/wide__822x462__91E6F7",
       "image_title": "Harald Martenstein: Kapitalismus für Grundschüler"
     },
     {
@@ -344,9 +351,8 @@
     },
     {
       "title": "Z+ Stimmung zum Jahreswechsel: Besser wird's nicht",
-      "teaser": "2023 war so schlimm, dass es kaum gelingt, sich ein besseres nächstes Jahr vorzustellen. Wegen der ermüdenden Weltlage ist Optimismus mehr denn je eine Entscheidung.",
       "url": "https://www.zeit.de/zeit-magazin/leben/2023-12/jahreswechsel-stimmung-2023-2024-kriege-krisen",
-      "image_url": "https://img.zeit.de/zeit-magazin/leben/2023-12/jahreswechsel-stimmung-2023-2024-kriege-krisen-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/zeit-magazin/leben/2023-12/jahreswechsel-stimmung-2023-2024-kriege-krisen-bild/tile__315x394",
       "image_title": "Stimmung zum Jahreswechsel: Besser wird's nicht"
     },
     {
@@ -360,12 +366,6 @@
       "url": "https://www.zeit.de/zeit-magazin/leben/2023-12/immobilienmarkt-suche-stadt-land-millennials",
       "image_url": "https://img.zeit.de/zeit-magazin/leben/2023-12/immobilienmarkt-suche-stadt-land-millennials-bild/tile__315x394",
       "image_title": "Immobilienmarkt: Immo gut, alles gut?"
-    },
-    {
-      "title": "Z+ Apfel-Beignets: Frühstück im Schlafanzug",
-      "url": "https://www.zeit.de/zeit-magazin/2024/01/apfel-beignets-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024/01/fruehstueck-im-schlafanzug-bild-1/tile__315x394",
-      "image_title": "Apfel-Beignets: Frühstück im Schlafanzug"
     }
   ]
 }
