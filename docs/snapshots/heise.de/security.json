@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-10T08:07:45",
+  "timestamp": "2024-01-10T09:01:05",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Patchday Microsoft",
+      "url": "https://www.heise.de/news/Patchday-Microsoft-Kerberos-Authentifizierung-unter-Windows-verwundbar-9592648.html"
+    },
+    {
+      "title": "Google Chrome",
+      "url": "https://www.heise.de/news/Google-Chrome-Update-schliesst-Sicherheitsluecke-mit-hohem-Risiko-9592658.html"
+    },
+    {
       "title": "Synology DSM",
       "url": "https://www.heise.de/news/Synology-warnt-vor-Sicherheitsluecke-im-DSM-Betriebssystem-9591871.html"
     },
@@ -40,12 +48,14 @@
       "url": "https://www.heise.de/news/SAP-Patchday-Teils-kritische-Luecken-in-Geschaeftssoftware-9591479.html"
     },
     {
-      "title": "Apache RocketMQ",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Messaging-Plattform-Apache-RocketMQ-9590555.html"
+      "title": "Patchday Microsoft: Kerberos-Authentifizierung unter Windows verwundbar",
+      "teaser": "Es sind wichtige Sicherheitsupdates für Azure, Office, Windows und Co. erschienen. Attacken können bevorstehen. Ein Bitlocker-Patch macht Probleme.",
+      "url": "https://www.heise.de/news/Patchday-Microsoft-Kerberos-Authentifizierung-unter-Windows-verwundbar-9592648.html"
     },
     {
-      "title": "IBM Db2",
-      "url": "https://www.heise.de/news/IBM-warnt-vor-Sicherheitsluecke-in-Db2-9590062.html"
+      "title": "Google Chrome-Update schließt Sicherheitslücke mit hohem Risiko",
+      "teaser": "Google hat turnusgemäß den Webbrowser Chrome aktualisiert. Dabei haben die Entwickler eine als hohes Risiko eingestufte Sicherheitslücke gestopft.",
+      "url": "https://www.heise.de/news/Google-Chrome-Update-schliesst-Sicherheitsluecke-mit-hohem-Risiko-9592658.html"
     },
     {
       "title": "Schweizer Geheimdienst räumt verdachtsunabhängige Massenüberwachung ein",
@@ -146,17 +156,6 @@
       "title": "Cybertrading: Erneuter Schlag gegen Organisierte Kriminalität",
       "teaser": "In einer international koordinierten Aktion gingen Göttinger Strafverfolger gegen Betreiber und Mittäter von betrügerischen Cybertrading-Plattformen vor.",
       "url": "https://www.heise.de/news/Cybertrading-Erneuter-Schlag-gegen-Organisierte-Kriminalitaet-9588588.html"
-    },
-    {
-      "title": "Kyivstar: Ukrainische Telefongesellschaft seit Monaten von Russland infiltriert",
-      "teaser": "Bereits im Mai vergangenen Jahres drangen Angreifer in die Systeme der Telefongesellschaft ein und hatten vollen Zugriff. Auch Kundendaten sind betroffen.",
-      "url": "https://www.heise.de/news/Ukraine-Krieg-Russische-Cracker-seit-Mitte-2023-im-Kyivstar-Netzwerk-9588438.html",
-      "image_title": "Cyber,Security,Red,World,Map"
-    },
-    {
-      "title": "TÜV warnt: Smarte Fitnessgeräte können Einfallstor für Cyberkriminelle werden",
-      "teaser": "Der TÜV-Verband warnt vor smarten Fitnessgeräten. Sie können zum Einfallstor für Cyberkriminelle werden.",
-      "url": "https://www.heise.de/news/TUeV-Verband-warnt-wegen-Cybersicherheit-von-smarten-Fitnessgeraeten-9588493.html"
     },
     {
       "title": "Microsofts Cloud und Entra ID - Reale Angriffe verstehen und verhindern",
