@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-11T09:01:08",
+  "timestamp": "2024-01-11T10:01:00",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "AMI, Dell, Lenovo BIOS",
+      "url": "https://www.heise.de/news/BIOS-Sicherheitsupdates-von-Dell-und-Lenovo-9594096.html"
+    },
+    {
       "title": "Cisco",
       "url": "https://www.heise.de/news/Sicherheitspatch-API-Fehler-in-Cisco-Unity-Connection-macht-Angreifer-zum-Root-9593930.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Webkonferenzen-Zoom-Sicherheitsluecken-ermoeglichen-Rechteausweitung-9593000.html"
     },
     {
-      "title": "FortiOS & FortiProxy HA Cluster",
-      "url": "https://www.heise.de/news/Update-gegen-Rechteausweitung-in-FortiOS-und-FortiProxy-9592816.html"
+      "title": "BIOS-Sicherheitsupdates von Dell und Lenovo",
+      "teaser": "Dell stellt aktualisierte BIOS-Versionen für einige Geräte bereit. AMI schließt mehrere Sicherheitslücken, Lenovo reicht diese durch.",
+      "url": "https://www.heise.de/news/BIOS-Sicherheitsupdates-von-Dell-und-Lenovo-9594096.html"
+    },
+    {
+      "title": "iX-Workshop: Linux-Server härten (Last Call)",
+      "teaser": "Linux-Server und Netzwerkdienste effektiv und umfassend vor Angriffen schützen - von physischer Sicherheit über Verschlüsselung und 2FA bis hin zu SELinux.",
+      "url": "https://www.heise.de/news/iX-Workshop-Linux-Server-haerten-Last-Call-9587588.html",
+      "image_title": "iX-Workshop: Linux-Server härten"
     },
     {
       "title": "Microsoft Exchange 2019 erreicht Mainstream-Support-Ende",
@@ -146,18 +157,6 @@
       "teaser": "Cybercrime als Devisenbeschaffer: Staatlich koordinierte Online-Banküberfälle brachten dem Regime in Pjöngjang in den vergangenen Jahren mehrere Milliarden ein.",
       "url": "https://www.heise.de/news/Cybercrime-Nordkorea-stahl-letztes-Jahr-600-Millionen-US-Dollar-9590871.html",
       "image_title": "Person in Kaputzenpulli sitzt im dunklen vor einem Laptop; statt dem Gesicht der Person ist eine güldene Münze mit Bitcoin-Logo zu sehen."
-    },
-    {
-      "title": "Cybergang AlphV bei internationalem Rüstungszulieferer Ultra eingedrungen",
-      "teaser": "Die Cybergang AlphV ist weiter aktiv. Sie hat im Darknet Daten veröffentlicht, die vom Rüstungszulieferer Ultra stammen.",
-      "url": "https://www.heise.de/news/Cybergang-AlphV-bei-internationalem-Ruestungszulieferer-Ultra-eingedrungen-9590549.html",
-      "image_title": "Codegewusel auf einem Laptop"
-    },
-    {
-      "title": "Jetzt patchen! Attacken auf Messaging-Plattform Apache RocketMQ",
-      "teaser": "Angreifer scannen derzeit vermehrt nach verwundbaren RocketMQ-Servern. Sicherheitsupdates stehen bereit.",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Messaging-Plattform-Apache-RocketMQ-9590555.html",
-      "image_title": "Schild, auf dem \"Time to update\" steht"
     },
     {
       "title": "Microsofts Cloud und Entra ID - Reale Angriffe verstehen und verhindern",
