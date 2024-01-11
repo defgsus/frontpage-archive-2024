@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-11T11:00:45",
+  "timestamp": "2024-01-11T12:09:44",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -48,14 +48,15 @@
       "url": "https://www.heise.de/news/Zerodays-bei-Ivanti-aktiv-genutzt-Connect-Secure-und-Policy-Secure-sinds-nicht-9593747.html"
     },
     {
+      "title": "Zoho ManageEngine: Kritische Sicherheitslücke in ADSelfService Plus",
+      "teaser": "In Zoho ManageEngine ADSelfService Plus klafft eine kritische Sicherheitslücke. Angreifer können dadurch Schadcode einschleusen.",
+      "url": "https://www.heise.de/news/Zoho-ManageEngine-Codeschmuggel-in-ADSelfService-Plus-moeglich-9594221.html",
+      "image_title": "Update"
+    },
+    {
       "title": "\"Raffiniertester Exploit aller Zeiten\": Sicherheitsexperte beschuldigt Apple",
       "teaser": "Eine schwere iOS-Lücke ermöglichte es Angreifern, iPhones der Sicherheitsfirma Kaspersky zu kapern. Ein Sicherheitsforscher sieht Apple in der Verantwortung.",
       "url": "https://www.heise.de/news/Raffiniertester-Exploit-aller-Zeiten-Sicherheitsexperte-beschuldigt-Apple-9593911.html"
-    },
-    {
-      "title": "Sicherheitsupdates für Dell- und Lenovo-BIOS",
-      "teaser": "Dell stellt aktualisierte BIOS-Versionen für einige Geräte bereit. AMI schließt mehrere Sicherheitslücken, Lenovo reicht diese durch.",
-      "url": "https://www.heise.de/news/BIOS-Sicherheitsupdates-von-Dell-und-Lenovo-9594096.html"
     },
     {
       "title": "iX-Workshop: Linux-Server härten (Last Call)",
@@ -64,9 +65,15 @@
       "image_title": "iX-Workshop: Linux-Server härten"
     },
     {
-      "title": "Microsoft Exchange 2019 erreicht Mainstream-Support-Ende",
-      "teaser": "Zum Januar-Patchday von Microsoft ist der Exchange-Server 2019 offiziell aus dem Mainstream-Support gefallen.",
-      "url": "https://www.heise.de/news/Microsoft-Exchange-2019-erreicht-Mainstream-Support-Ende-9593942.html"
+      "title": "Sicherheitspatch: API-Fehler in Cisco Unity Connection macht Angreifer zum Root",
+      "teaser": "Verschiedene Netzwerkprodukte von Cisco sind verwundbar. Eine Lücke gilt als kritisch.",
+      "url": "https://www.heise.de/news/Sicherheitspatch-API-Fehler-in-Cisco-Unity-Connection-macht-Angreifer-zum-Root-9593930.html"
+    },
+    {
+      "title": "Zerodays bei Ivanti aktiv genutzt: Connect Secure und Policy Secure sinds nicht",
+      "teaser": "Zwei Zero-Days in Ivanti-Produkten machen es \"trivial für Angreifer\", Befehle auszuführen und sich im Firmennetz einzunisten. Ivanti hat bedingt gute Tipps.​",
+      "url": "https://www.heise.de/news/Zerodays-bei-Ivanti-aktiv-genutzt-Connect-Secure-und-Policy-Secure-sinds-nicht-9593747.html",
+      "image_title": "Gelbes Warndreieck auf dunklem Hintergrund"
     },
     {
       "title": "Cyberattacken und Ransomware: Mehrere Opfer, Code-Verkauf und freier Decryptor",
@@ -153,11 +160,6 @@
       "url": "https://www.heise.de/news/Sicherheitsluecken-Statistik-2023-gab-es-15-Prozent-mehr-CVEs-als-im-Vorjahr-9591523.html"
     },
     {
-      "title": "SAP-Patchday: Teils kritische Lücken in Geschäftssoftware",
-      "teaser": "Der Januar-Patchday von SAP behandelt teils kritische Sicherheitslücken. Zu insgesamt zehn Schwachstellen gibt es Sicherheitsnotizen.",
-      "url": "https://www.heise.de/news/SAP-Patchday-Teils-kritische-Luecken-in-Geschaeftssoftware-9591479.html"
-    },
-    {
       "title": "Microsofts Cloud und Entra ID - Reale Angriffe verstehen und verhindern",
       "teaser": "Microsofts Cloud verspricht einfache und sichere Zusammenarbeit. Doch wer die zugrundeliegenden Konzepte nicht versteht und sich nicht um die Sicherheit kümmert, handelt sich teils schwerwiegende Security-Probleme ein, die organisierte Kriminelle dann skrupellos ausnutzen. Lernen Sie, welche Rolle Entra ID (früher Azure AD) dabei spielt, wie Angreifer dessen Schwächen ausnutzen und wie Sie Ihre IT dagegen optimal absichern.",
       "url": "https://heise-academy.de/webinare/microsoft_entraid?wt_mc=intern.academy.security.web_entraid.teaser.teaser.teaser"
@@ -179,14 +181,14 @@
       "image_title": "Handy zeigt \"Microsoft 365\" und Icons für Word, Excel, Powerpoint, Teams, Outlook, Onenote, Sharepoint und Onedrive"
     },
     {
-      "title": "ESET Status: Nicht aktiviert",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/ESET-Status-Nicht-aktiviert/posting-43533510/show/"
-    },
-    {
       "title": "Re: F-Secure Signaturupdate",
       "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-F-Secure-Signaturupdate/posting-43521549/show/"
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-F-Secure-Signaturupdate/posting-43533812/show/"
+    },
+    {
+      "title": "Re: ESET Status: Nicht aktiviert",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-ESET-Status-Nicht-aktiviert/posting-43533737/show/"
     },
     {
       "title": "Re: Teamviewer: Unbekannte Sitzung",
