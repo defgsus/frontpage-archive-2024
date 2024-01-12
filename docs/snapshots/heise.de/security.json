@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-12T11:00:53",
+  "timestamp": "2024-01-12T12:09:35",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "GitLab CE/EE",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Kritische-Sicherheitsluecke-in-GitLab-ermoeglicht-Accountklau-9595848.html"
+    },
+    {
       "title": "Splunk, cacti, checkmk",
       "url": "https://www.heise.de/news/Splunk-cacti-checkmk-Sicherheitsluecken-in-Monitoring-Software-9595021.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Sicherheitspatch-IBM-Security-Verify-fuer-Root-Attacken-anfaellig-9594439.html"
     },
     {
-      "title": "Zoho ManageEngine ADSelfService Plus",
-      "url": "https://www.heise.de/news/Zoho-ManageEngine-Codeschmuggel-in-ADSelfService-Plus-moeglich-9594221.html"
+      "title": "Jetzt patchen! Kritische Sicherheitslücke in GitLab ermöglicht Accountklau",
+      "teaser": "Der Fehler wird bereits aktiv von Kriminellen ausgenutzt, Administratoren sollten zügig handeln und ihre GitLab-Instanzen aktualisieren oder abschotten.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Kritische-Sicherheitsluecke-in-GitLab-ermoeglicht-Accountklau-9595848.html"
     },
     {
       "title": "Bluetooth-Lücke: Apple sichert Tastaturen mit neuer Firmware ab",
@@ -147,11 +152,6 @@
       "title": "Patchday Adobe: Mehrere Schwachstellen in Substance 3D Stager geschlossen",
       "teaser": "Adobes Anwendung zum Erstellen von 3D-Szenen Substance 3D Stager ist angreifbar. Eine fehlerbereinigte Version steht zum Download bereit.",
       "url": "https://www.heise.de/news/Patchday-Adobe-Mehrere-Schwachstellen-in-Substance-3D-Stager-geschlossen-9592712.html"
-    },
-    {
-      "title": "Patchday Microsoft: Kerberos-Authentifizierung unter Windows verwundbar",
-      "teaser": "Es sind wichtige Sicherheitsupdates für Azure, Office, Windows und Co. erschienen. Attacken können bevorstehen. Ein Bitlocker-Patch macht Probleme.",
-      "url": "https://www.heise.de/news/Patchday-Microsoft-Kerberos-Authentifizierung-unter-Windows-verwundbar-9592648.html"
     },
     {
       "title": "Microsofts Cloud und Entra ID - Reale Angriffe verstehen und verhindern",
