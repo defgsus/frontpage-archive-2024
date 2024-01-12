@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-12T07:00:51",
+  "timestamp": "2024-01-12T08:07:36",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,20 +26,46 @@
   ],
   "articles": [
     {
-      "title": "Synology Beestation: Mini-NAS für unbedarfte Leute",
-      "teaser": "Die Beestation soll Synologys simpelster Netzwerkspeicher sein. So sollen Menschen Backups erstellen können, die von Technik wenig Ahnung haben.",
-      "url": "https://www.heise.de/news/Synology-Beestation-Mini-NAS-mit-Fokus-auf-simple-Einrichtung-9593321.html",
-      "image_title": "Synologys Mini-NAS"
+      "title": "XPeng Aeroht: Flugauto für Endkunden Ende 2025 lieferbar",
+      "teaser": "Das sportliche E-Auto der chinesischen Firma XPeng Aeroht klappt auf Knopfdruck vier Rotorarme aus und soll dann bereit sein für kurze Flüge in geringer Höhe.",
+      "url": "https://www.heise.de/news/XPeng-Aeroht-stellt-fliegendes-E-Auto-vor-9593763.html"
     },
     {
-      "title": "Intel-Prozessoren: Aus alt mach neu",
-      "teaser": "Zur CES erneuert Intel sein restliches CPU-Portfolio. Dutzende vorgestellte Prozessoren nutzen allerdings alte Technik.",
-      "url": "https://www.heise.de/news/Intel-stellt-jede-Menge-neue-alte-Prozessoren-vor-9591836.html"
+      "title": "CPU-Überraschung: \"Intel Processor 300\" für LGA1700-Boards statt Pentium Gold",
+      "teaser": "Mit dem Schwung neuer Core-i-14000-Prozessoren für Desktop-PCs bringt Intel auch den \"Prozessor 300\" mit zwei P-Kernen auf den Markt.",
+      "url": "https://www.heise.de/news/CPU-Ueberraschung-Intel-Processor-300-fuer-LGA1700-Boards-statt-Pentium-Gold-9593649.html",
+      "image_title": "LGA1700-Prozessor"
     },
     {
-      "title": "AMD Ryzen: Acht neue Prozessoren für AM5 und AM4",
-      "teaser": "Ende Januar kommen acht neue Desktop-Prozessoren von AMD, darunter der Ryzen 7 8700G und Ryzen 7 5700X3D.",
-      "url": "https://www.heise.de/news/AMD-stellt-Ryzen-8000G-vor-und-haucht-AM4-weiteres-Leben-ein-9590861.html"
+      "title": "OpenAIs GPT-Store ist da: Zahlreiche Chatbots von Canva bis AI Tutor verfügbar",
+      "teaser": "Der GPT-Store ist da und mit ihm zahlreiche KI-Chatbots samt Spezialfunktionen, Empfehlungen und Trending-GPTs. OpenAI spricht von drei Millionen.",
+      "url": "https://www.heise.de/news/OpenAIs-GPT-Store-ist-da-Zahlreiche-Chatbots-von-Canva-bis-AI-Tutor-verfuegbar-9594014.html"
+    },
+    {
+      "title": "Datenschutzkonformes KI-Training",
+      "teaser": "KI-Trainigsdaten enthalten oft personenbezogene Daten. Mit Differential Privacy und Generative Adversarial Networks lassen sie sich vor Missbrauch schützen.",
+      "url": "https://www.heise.de/hintergrund/Datenschutzkonformes-KI-Training-9594545.html"
+    },
+    {
+      "title": "Datenverwaltung: Datenqualität von Data Lakes sichern",
+      "teaser": "Metadaten sind für den Umgang mit den in Data Lakes gesammelten Infos wichtig. Bei der Metadatenverwaltung und ihrer Qualitätsüberwachung hilft OpenTelemetry.",
+      "url": "https://www.heise.de/hintergrund/Datenverwaltung-Datenqualitaet-von-Data-Lakes-sichern-9594367.html"
+    },
+    {
+      "title": "Microsoft liefert Abhilfe zur Installation von Updates in WinRE-Partition",
+      "teaser": "Am Januar-Patchday schlägt die Update-Intallation unter Windows 10 oft mit Fehler 0x80070643 fehl. Ein Microsoft-Skript soll helfen.",
+      "url": "https://www.heise.de/news/Microsoft-liefert-Abhilfe-zur-Installation-von-Updates-in-WinRE-Partition-9595312.html"
+    },
+    {
+      "title": "iX-Power-Workshop: VMware vSphere 7 und 8 (Frühbucherrabatt bis 28.01.)",
+      "teaser": "Lernen Sie an fünf Tagen mit vielen praktischen Übungen, wie Sie VMware vSphere 7 und 8 installieren, konfigurieren und administrieren.",
+      "url": "https://www.heise.de/news/iX-Power-Workshop-VMware-vSphere-7-und-8-Fruehbucherrabatt-bis-28-01-9587598.html",
+      "image_title": "Intensivkurs: Administration von VMware vSphere"
+    },
+    {
+      "title": "Svelte 5 führt neue Runen-API ein",
+      "teaser": "Im November 2023 kündigte das Svelte-Team die Beta zu Svelte 5 an. Die Preview hält neue APIs bereit und ist auf npm verfügbar. Zeit für einen Überblick!",
+      "url": "https://www.heise.de/hintergrund/Svelte-5-fuehrt-neue-Runen-API-ein-9589820.html"
     },
     {
       "title": "SSD-Adapter für den Raspberry Pi 5 im Test",
@@ -52,11 +78,6 @@
       "teaser": "Das Suchen und Beseitigen von Schädlingen gehört zu den Grundfunktionen unseres Notfallsystems. Wir stellen fünf Virenscanner und zwei Schnelltests vor.",
       "url": "https://www.heise.de/ratgeber/Viren-suchen-So-geht-s-mit-dem-Notfall-Windows-2024-9587260.html",
       "image_title": ", Andreas Martini"
-    },
-    {
-      "title": "Svelte 5 führt neue Runen-API ein",
-      "teaser": "Im November 2023 kündigte das Svelte-Team die Beta zu Svelte 5 an. Die Preview hält neue APIs bereit und ist auf npm verfügbar. Zeit für einen Überblick!",
-      "url": "https://www.heise.de/hintergrund/Svelte-5-fuehrt-neue-Runen-API-ein-9589820.html"
     },
     {
       "title": "Notfall-Windows 2024: Persönliche Daten Schritt für Schritt retten",
@@ -111,27 +132,6 @@
       "teaser": "Ob Zigbee, Z-Wave, Thread/Matter oder Bluetooth – Homey Pro integriert zahlreiche Funktechnologien und will damit Tausende Smart-Home-Komponenten unterschiedlicher Hersteller steuern. Wie gut das in der Praxis funktioniert, zeigt der Testbericht.",
       "url": "https://www.techstage.de/test/homey-pro-im-test-so-einfach-geht-smart-home-alternative-zu-home-assistant/4ny4sfq?wt_mc=intern.red.techstage.newsticker.rubrikstart.teaser.teaser",
       "image_title": "##PHxVALUE_ALT_TEXT##"
-    },
-    {
-      "title": "Arzt-Patienten-Kommunikation in Baden-Württemberg bald über sicheren Messenger",
-      "teaser": "Für die sichere Kommunikation soll bei Ärzten und AOK-Versicherten in Baden-Württemberg ein auf dem Matrix-Protokoll basierender Messenger zum Einsatz kommen.",
-      "url": "https://www.heise.de/news/Arzt-Patienten-Kommunikation-in-Baden-Wuerttemberg-bald-ueber-sicheren-Messenger-9593391.html",
-      "image_title": "Mann mit Wurstfingern textet eine Nachricht auf einem Smartphone"
-    },
-    {
-      "title": "AMD Radeon RX 7600: XT steht für doppelt so viel Speicher",
-      "teaser": "Am 24. Januar bringt AMD seine Radeon RX 7600 XT in den Handel. Gleichzeitig kommt ein finaler Treiber für die Frame-Generierung.",
-      "url": "https://www.heise.de/news/AMD-Radeon-RX-7600-XT-steht-fuer-doppelt-so-viel-Speicher-9594814.html"
-    },
-    {
-      "title": "iOS-Version: Mit WhatsApp Sticker aus Fotos erstellen und personalisieren",
-      "teaser": "Eigene Fotos lassen sich ab sofort in WhatsApp zu Stickern umwandeln und vorhandene Sticker können personalisiert werden – zumindest auf iOS-Geräten.",
-      "url": "https://www.heise.de/news/iOS-Version-Mit-WhatsApp-Sticker-aus-Fotos-erstellen-und-personalisieren-9594595.html"
-    },
-    {
-      "title": "Juniper Networks bessert zahlreiche Schwachstellen aus",
-      "teaser": "Juniper Networks hat 27 Sicherheitsmitteilungen veröffentlicht. Sie betreffen Junos OS, Junos OS Evolved und diverse Hardware.",
-      "url": "https://www.heise.de/news/Juniper-Networks-bessert-zahlreiche-Schwachstellen-aus-9594717.html"
     },
     {
       "title": "ECN Pulse Check 2023",
