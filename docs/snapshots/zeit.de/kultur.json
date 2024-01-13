@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-13T18:01:15",
+  "timestamp": "2024-01-13T19:01:06",
   "url": "https://www.zeit.de/kultur/index",
   "response": {
     "status": 200
@@ -32,10 +32,23 @@
   ],
   "articles": [
     {
+      "title": "Z+ (abopflichtiger Inhalt); Deutscher Kolonialismus: Das Ausmaß der Grausamkeit",
+      "teaser": "Deutschland rühmt sich, nun auch seine dunkle koloniale Vergangenheit zu erforschen. In Wahrheit wird hier nur etwas ab-, nicht aufgearbeitet.",
+      "url": "https://www.zeit.de/2024/03/deutscher-kolonialismus-vergangenheit-menschliche-ueberreste",
+      "image_url": "https://img.zeit.de/2024/03/das-ausmass-der-grausamkeit-bild-1/cinema__980x420"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); \"Fountain\": Wer war's?",
       "teaser": "Bis heute heißt es, das wichtigste Kunstwerk des 20. Jahrhunderts, ein Pissoir, stamme von Marcel Duchamp. Doch womöglich verdankt es sich einer deutschen Avantgardistin.",
       "url": "https://www.zeit.de/2024/03/fountain-marcel-duchamp-baroness-elsa-von-freytag-loringhoven",
-      "image_url": "https://img.zeit.de/2024/03/fountain-marcel-duchamp-baroness-elsa-von-freytag-loringhoven-teaser/cinema__980x420"
+      "image_url": "https://img.zeit.de/2024/03/fountain-marcel-duchamp-baroness-elsa-von-freytag-loringhoven-teaser/wide__822x462",
+      "image_title": "\"Fountain\": Wer war's?"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); ZEIT-Bibliothek der Weltliteratur: Welches Buch passt zu Ihnen?",
+      "teaser": "Die Weltliteratur ist groß. Da kann man sich schon einmal verlieren! Welches Buch sollten Sie lesen? Der Buch-O-Mat weiß die Antwort.",
+      "url": "https://www.zeit.de/kultur/literatur/2023-11/buchempfehlungen-zeit-bibliothek-100-buecher-lesen-quiz",
+      "image_url": "https://img.zeit.de/kultur/literatur/2023-11/buchempfehlungen-2023-lesen/cinema__980x420"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Bauernproteste: Diskursiver Murmeltiertag",
@@ -45,24 +58,11 @@
       "image_title": "Bauernproteste: Diskursiver Murmeltiertag"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); ZEIT-Bibliothek der Weltliteratur: Welches Buch passt zu Ihnen?",
-      "teaser": "Die Weltliteratur ist groß. Da kann man sich schon einmal verlieren! Welches Buch sollten Sie lesen? Der Buch-O-Mat weiß die Antwort.",
-      "url": "https://www.zeit.de/kultur/literatur/2023-11/buchempfehlungen-zeit-bibliothek-100-buecher-lesen-quiz",
-      "image_url": "https://img.zeit.de/kultur/literatur/2023-11/buchempfehlungen-2023-lesen/cinema__980x420"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Dry January: Gurke ohne Gin",
       "teaser": "Die Praxis des alkoholfreien Dry January wird mittlerweile allgemein vorausgesetzt. Aber was trinkt man dann so? Kurzer Blick in Berliner Schankwirtschaften",
       "url": "https://www.zeit.de/2024/03/dry-january-alkohol-verzicht-bier",
       "image_url": "https://img.zeit.de/2024/03/dry-january-alkohol-verzicht-bier-bild/wide__822x462",
       "image_title": "Dry January: Gurke ohne Gin"
-    },
-    {
-      "title": "Berliner Filmfestspiele: Berlinale zeichnet Regisseur Edgar Reitz aus",
-      "teaser": "Die \"Heimat\"-Trilogie über ein fiktives Dorf im Hunsrück machte Edgar Reitz berühmt. Nun soll der deutsche Regisseur die Berlinale Kamera 2024 erhalten.",
-      "url": "https://www.zeit.de/kultur/film/2024-01/berlinale-kamera-preis-edgar-reitz-regisseur-heimat",
-      "image_url": "https://img.zeit.de/kultur/film/2024-01/edgar-reitz/wide__822x462",
-      "image_title": "Berliner Filmfestspiele: Berlinale zeichnet Regisseur Edgar Reitz aus"
     },
     {
       "title": "Identitätspolitik der Linken: Ist die Linke zu woke?",
@@ -157,6 +157,13 @@
       "url": "https://www.zeit.de/kultur/2024-01/caren-miosga-talkshow-afd-anne-will"
     },
     {
+      "title": "Berliner Filmfestspiele: Berlinale zeichnet Regisseur Edgar Reitz aus",
+      "teaser": "Die \"Heimat\"-Trilogie über ein fiktives Dorf im Hunsrück machte Edgar Reitz berühmt. Nun soll der deutsche Regisseur die Berlinale Kamera 2024 erhalten.",
+      "url": "https://www.zeit.de/kultur/film/2024-01/berlinale-kamera-preis-edgar-reitz-regisseur-heimat",
+      "image_url": "https://img.zeit.de/kultur/film/2024-01/edgar-reitz/wide__822x462",
+      "image_title": "Berliner Filmfestspiele: Berlinale zeichnet Regisseur Edgar Reitz aus"
+    },
+    {
       "title": "Berliner Antidiskriminierungsklausel: Kunst ist frei, aber nicht verantwortungslos",
       "teaser": "Die Berliner Antidiskriminierungsklausel, gegen die Künstler protestieren, ist rechtlich heikel. Man hätte aus Erfahrungen mit einer ähnlichen Klausel lernen können.",
       "url": "https://www.zeit.de/kultur/2024-01/berlin-antidiskriminierungsklausel-kultur-foerderung",
@@ -192,13 +199,6 @@
       "image_title": "\"Fieber\" von OG Keemo: Viel Flex, wenig Reflexion"
     },
     {
-      "title": "Kunst und Antisemitismus: Das Gift des Grundsätzlichen",
-      "teaser": "Dass in Berlin nur noch Künstler gefördert werden sollen, die sich gegen Antisemitismus bekennen, ist revolutionär. Aber ist die Idee des Kultursenators auch richtig?",
-      "url": "https://www.zeit.de/2024/03/kunst-antisemitismus-berlin-bekenntnis-foerdergelder",
-      "image_url": "https://img.zeit.de/2024/03/kunst-antisemitismus-berlin-bekenntnis-foerdergelder-teaser/wide__822x462",
-      "image_title": "Kunst und Antisemitismus: Das Gift des Grundsätzlichen"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); \"The Sopranos\": Als der Killer unsterblich wurde",
       "teaser": "Vor 25 Jahren starteten die \"Sopranos\". Eine einzige Szene dieser Serie definierte neu, wie dunkel, böse und zerrissen TV-Helden sein dürfen. Eine Erinnerung",
       "url": "https://www.zeit.de/kultur/film/2024-01/the-sopranos-25-jahre-hbo-serie",
@@ -213,6 +213,13 @@
       "image_title": "\"Die Stadt und ihre ungewisse Mauer\" von Haruki Murakami: Das Leben bleibt seltsam"
     },
     {
+      "title": "Kunst und Antisemitismus: Das Gift des Grundsätzlichen",
+      "teaser": "Dass in Berlin nur noch Künstler gefördert werden sollen, die sich gegen Antisemitismus bekennen, ist revolutionär. Aber ist die Idee des Kultursenators auch richtig?",
+      "url": "https://www.zeit.de/2024/03/kunst-antisemitismus-berlin-bekenntnis-foerdergelder",
+      "image_url": "https://img.zeit.de/2024/03/kunst-antisemitismus-berlin-bekenntnis-foerdergelder-teaser/wide__822x462",
+      "image_title": "Kunst und Antisemitismus: Das Gift des Grundsätzlichen"
+    },
+    {
       "title": "Irische Sängerin: Todesursache von Sinead O'Connor steht fest",
       "teaser": "Die Musikerin Sinead O'Connor ist laut Gerichtsmedizinern eines natürlichen Todes gestorben. Die Sängerin wurde im Juli 2023 leblos in einer Londoner Wohnung gefunden.",
       "url": "https://www.zeit.de/kultur/musik/2024-01/musikerin-sinead-oconnor-todesursache-tod",
@@ -223,14 +230,14 @@
       "title": "\"Der Regenschirm\" von Alexander Kluy: Der Draht zwischen Himmel und Erde",
       "teaser": "Der Schirm schützt vor Wetter? Klar. Aber Alexander Kluy schreibt in seiner \"Kulturgeschichte des Regenschirms\", was er mit Mode, Macht und Geistergeschichten zu tun hat.",
       "url": "https://www.zeit.de/kultur/literatur/2024-01/der-regenschirm-eine-kulturgeschichte-alexander-kluy",
-      "image_url": "https://img.zeit.de/kultur/literatur/2024-01/regenschirm-kulturgeschichte-alexander-kluy/wide__822x462",
+      "image_url": "https://img.zeit.de/kultur/literatur/2024-01/regenschirm-kulturgeschichte-alexander-kluy/cinema__980x420",
       "image_title": "\"Der Regenschirm\" von Alexander Kluy: Der Draht zwischen Himmel und Erde"
     },
     {
       "title": "Kinder- und Jugendliteratur: Diese Kinderbücher empfehlen unsere Experten",
       "teaser": "Eine trauernde Vogelgemeinde und lustige Quatschgedichte: Die Juroren des Buchpreises LUCHS wissen, welche Bücher sich für Kinder eignen. Hier sind ihre Favoriten.",
       "url": "https://www.zeit.de/2024/02/kinder-jugend-literatur-woerterbuch-illustrationen",
-      "image_url": "https://img.zeit.de/2024/02/kinder-jugend-literatur-woerterbuch/cinema__980x420",
+      "image_url": "https://img.zeit.de/2024/02/kinder-jugend-literatur-woerterbuch/wide__822x462",
       "image_title": "Kinder- und Jugendliteratur: Diese Kinderbücher empfehlen unsere Experten"
     },
     {
@@ -244,15 +251,8 @@
       "title": "\"Pericallosa\" von Evelyn Roll: Expedition in den Kopf",
       "teaser": "Zwischen eigener Nahtoderfahrung und psychohistorischer Tiefenbohrung: Evelyn Rolls zartes, kluges Buch \"Pericallosa\" wird man nach der Lektüre nicht mehr vergessen.",
       "url": "https://www.zeit.de/2024/02/pericallosa-evelyn-roll-buch-nahtod-erfahrung",
-      "image_url": "https://img.zeit.de/2024/02/pericallosa-evelyn-roll-buch/wide__822x462",
+      "image_url": "https://img.zeit.de/2024/02/pericallosa-evelyn-roll-buch/cinema__980x420",
       "image_title": "\"Pericallosa\" von Evelyn Roll: Expedition in den Kopf"
-    },
-    {
-      "title": "Micky Maus: Vom sexbesessenen Nager zum freundlichen Mäuserich",
-      "teaser": "Die frühe Micky Maus ist nun gemeinfrei. Unautorisiert wurde sie schon immer benutzt, als Dopehead oder in Pornocomics. Doch Disney hat sie sich selbst nur angeeignet.",
-      "url": "https://www.zeit.de/kultur/film/2024-01/mickey-mouse-disney-urheberrecht-copyright",
-      "image_url": "https://img.zeit.de/kultur/film/2024-01/mickey-mouse-disney-urheberrecht-copyright-2/cinema__980x420",
-      "image_title": "Micky Maus: Vom sexbesessenen Nager zum freundlichen Mäuserich"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Caren Miosga: \"Mein Gefühl ist, dass keiner mehr Lust auf inszenierten Krawall hat\"",
@@ -269,6 +269,13 @@
       "image_title": "Immanuel Kant: Sein Frieden verheißt Sicherheit, Leistungsfähigkeit und Prosperität"
     },
     {
+      "title": "Micky Maus: Vom sexbesessenen Nager zum freundlichen Mäuserich",
+      "teaser": "Die frühe Micky Maus ist nun gemeinfrei. Unautorisiert wurde sie schon immer benutzt, als Dopehead oder in Pornocomics. Doch Disney hat sie sich selbst nur angeeignet.",
+      "url": "https://www.zeit.de/kultur/film/2024-01/mickey-mouse-disney-urheberrecht-copyright",
+      "image_url": "https://img.zeit.de/kultur/film/2024-01/mickey-mouse-disney-urheberrecht-copyright-2/wide__822x462",
+      "image_title": "Micky Maus: Vom sexbesessenen Nager zum freundlichen Mäuserich"
+    },
+    {
       "title": "Querdenkerdemonstration in Berlin: Gericht verurteilt Angreifer eines ZDF-Teams zu Bewährungsstrafe",
       "teaser": "\"Ausspähen und Draufhauen\": 2020 griffen Vermummte ein Team der \"heute-show\" an. Ein Berliner Gericht hat sie wegen gefährlicher Körperverletzung schuldig gesprochen.",
       "url": "https://www.zeit.de/kultur/film/2024-01/zdf-querdenker-urteil-berlin",
@@ -279,22 +286,15 @@
       "title": "\"Engel & Heilige\" von Eliot Weinberger: Heiliger Bimbam!",
       "teaser": "Der New Yorker Autor Eliot Weinberger zeigt uns die durchgeknallte Welt der Engel und Heiligen. Das Buch ist herrlich verwirrend und oft unfassbar komisch.",
       "url": "https://www.zeit.de/2024/02/engel-heilige-eliot-weinberger-buch-philosophie-bibel",
-      "image_url": "https://img.zeit.de/2024/02/heiliger-bimbam-bild-2/wide__822x462",
+      "image_url": "https://img.zeit.de/2024/02/heiliger-bimbam-bild-2/cinema__980x420",
       "image_title": "\"Engel & Heilige\" von Eliot Weinberger: Heiliger Bimbam!"
     },
     {
       "title": "Golden Globes: Gala ohne Barbie",
       "teaser": "Die pinke Revolution blieb aus: Bei den Golden Globes gewannen \"Oppenheimer\" und \"Succession\" die wichtigsten Preise. Reiben kann man sich nicht an diesen Entscheidungen.",
       "url": "https://www.zeit.de/kultur/film/2024-01/golden-globes-2024-gewinner-oppenheimer-barbie",
-      "image_url": "https://img.zeit.de/kultur/film/2024-01/globes-2/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/film/2024-01/globes-2/wide__822x462",
       "image_title": "Golden Globes: Gala ohne Barbie"
-    },
-    {
-      "title": "\"Wien – Berlin\" von Jens Wietschorke: Berlin, \"eine Meute von lauter Irren\"",
-      "teaser": "Schnelles Berlin oder gemütliches Wien? Ein kulturwissenschaftliches Buch beschreibt die komplizierte Beziehung zwischen den zwei Metropolen in der Moderne.",
-      "url": "https://www.zeit.de/2024/02/jens-wietschorke-wien-berlin-unterschiede-kulturwissenschaft",
-      "image_url": "https://img.zeit.de/2024/02/jens-wietschorke-wien-berlin-teaser/wide__822x462",
-      "image_title": "\"Wien – Berlin\" von Jens Wietschorke: Berlin, \"eine Meute von lauter Irren\""
     },
     {
       "title": "Sandra Hüller: Die Unglücks-Selige",
@@ -309,6 +309,13 @@
       "url": "https://www.zeit.de/2024/03/die-gouvernanten-anne-serre-frankreich-roman",
       "image_url": "https://img.zeit.de/2024/03/die-gouvernanten-anne-serre-frankreich/square__460x460",
       "image_title": "\"Die Gouvernanten\" von Anne Serre: Im Sommer dann wieder Sex im Park"
+    },
+    {
+      "title": "\"Wien – Berlin\" von Jens Wietschorke: Berlin, \"eine Meute von lauter Irren\"",
+      "teaser": "Schnelles Berlin oder gemütliches Wien? Ein kulturwissenschaftliches Buch beschreibt die komplizierte Beziehung zwischen den zwei Metropolen in der Moderne.",
+      "url": "https://www.zeit.de/2024/02/jens-wietschorke-wien-berlin-unterschiede-kulturwissenschaft",
+      "image_url": "https://img.zeit.de/2024/02/jens-wietschorke-wien-berlin-teaser/wide__822x462",
+      "image_title": "\"Wien – Berlin\" von Jens Wietschorke: Berlin, \"eine Meute von lauter Irren\""
     },
     {
       "title": "Golden Globes: \"Oppenheimer\" gewinnt Golden Globe als bestes Filmdrama",
@@ -335,14 +342,14 @@
       "title": "Antisemitismus-Klausel: Der Berliner Weg, den Antisemitismus in der Kunst zu beseitigen",
       "teaser": "Berlin will nur noch Künstler fördern, die sich gegen Antisemitismus bekennen. Kulturschaffende wehren sich dagegen in einem offenen Brief – mit schlechten Argumenten.",
       "url": "https://www.zeit.de/kultur/2024-01/antisemitismus-klausel-kulturfoerderung-berlin-joe-chialo-offener-brief",
-      "image_url": "https://img.zeit.de/kultur/2024-01/antisemitismus-klausel-kulturfoerderung-berlin-joe-chialo-offener-brief-teaserbild/wide__822x462",
+      "image_url": "https://img.zeit.de/kultur/2024-01/antisemitismus-klausel-kulturfoerderung-berlin-joe-chialo-offener-brief-teaserbild/cinema__980x420",
       "image_title": "Antisemitismus-Klausel: Der Berliner Weg, den Antisemitismus in der Kunst zu beseitigen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Großbaustellen der Politik: Kurz vorm Systemversagen",
       "teaser": "Ob Rente, Föderalismus oder Bildung: Das Land hat eine Reihe ewiger Großbaustellen. Jeder weiß darum, keiner ändert etwas. Das gefährdet am Ende die Demokratie.",
       "url": "https://www.zeit.de/kultur/2023-12/grossbaustellen-politik-rente-foederalismus-digitalisierung-demokratie",
-      "image_url": "https://img.zeit.de/kultur/2023-12/grossbaustellen-politik-rente-foederalismus-digitalisierung/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/2023-12/grossbaustellen-politik-rente-foederalismus-digitalisierung/wide__822x462",
       "image_title": "Großbaustellen der Politik: Kurz vorm Systemversagen"
     },
     {
@@ -358,13 +365,6 @@
       "url": "https://www.zeit.de/kultur/2023-12/kapitalismus-demokratie-quinn-slobodian-globalisierung-nationalismus",
       "image_url": "https://img.zeit.de/kultur/2023-12/kapitalismus-demokratie-quinn-slobodian-globalisierung-nationalismus-bild/wide__822x462",
       "image_title": "Kapitalismus und Demokratie: \"Der Gegensatz von Globalisierung und Nationalismus ist irreführend\""
-    },
-    {
-      "title": "Europas Selbstbild: Unser eitler Sündenstolz",
-      "teaser": "Ob im Gazastreifen oder in Nigeria: An andere legt Europa oft viel weniger strenge Maßstäbe an als an sich selbst. Das ist auch eine Form des Paternalismus.",
-      "url": "https://www.zeit.de/kultur/2023-12/europa-selbstbild-image-gaza-nigeria",
-      "image_url": "https://img.zeit.de/kultur/2023-12/europa-selbstbild-image-gaza/wide__822x462",
-      "image_title": "Europas Selbstbild: Unser eitler Sündenstolz"
     },
     {
       "title": "Wahlentscheidungen: Der Wähler, das irrationale Wesen",
