@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-13T08:00:47",
+  "timestamp": "2024-01-13T09:01:01",
   "url": "https://www.welt.de/wirtschaft/",
   "response": {
     "status": 200
@@ -25,6 +25,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "Auf der Sonnenseite der Energiewende",
+      "teaser": "Die Nachfrage nach neuen Wegen der Stromerzeugung und effektiven Nutzung sorgt für neue Geschäftsfelder. Ein Hamburger Unternehmen wurde so zum einzigen „Einhorn“ der Hansestadt. Dabei folgte er vor allem einem Prinzip.",
+      "url": "https://www.welt.de/regionales/hamburg/",
+      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile249489614/7457936917-ci23x11-w20/1KOMMA5-GmbH-5.jpg",
+      "image_title": "1KOMMA5° GmbH Geschäftsführer Philipp Schröder, im Showroom Neuer Wall 35 20354 Hamburg 1Komma5 Grad",
+      "author": "Jürgen Hoffmann"
+    },
     {
       "title": "„Viele Betriebe haben neben der offiziellen Kasse noch eine Bargeldkasse“",
       "teaser": "„Nur Barzahlung möglich“ – das liest man gar nicht so selten in Restaurants oder Friseursalons. Dies müsse zwar nicht zwingend auf Steuerhinterziehung hindeuten, sagt der Betriebsprüfer Edo Diekmann. Einige Anzeichen sollten Kunden aber skeptisch stimmen.",
@@ -56,14 +64,6 @@
       "image_url": "https://img.welt.de/img/podcasts/alles-auf-aktien/mobile246304624/7577933877-ci23x11-w20/Zschae-Nando-DWO-Podcast-Teaser-AllesAufAktien-mit-2zu3-zschaepitz-sommerfeld.jpg",
       "image_title": "DWO_Podcast_Teaser_AllesAufAktien_mit_2zu3_zschaepitz_sommerfeld_aw",
       "author": "Nando Sommerfeldt"
-    },
-    {
-      "title": "Bauernverband fordert Umweltbundesamt zu öffentlicher Korrektur auf",
-      "teaser": "Das Umweltbundesamt zweifelt an der positiven Klimabilanz des Treibstoffs aus Anbaubiomasse und hat ihn als „umweltschädliche Subvention“ eingestuft. Der Bauernverband und weitere Wirtschaftsverbände fordern eine Korrektur und berufen sich dabei auf den Weltklimarat IPCC.",
-      "url": "https://www.welt.de/wirtschaft/",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile249503078/0327936287-ci23x11-w20/Agrardiesel.jpg",
-      "image_title": "Sind Aussagen des Umweltbundesamtes zu Biokraftstoffen veraltet?",
-      "author": "Daniel Wetzel"
     },
     {
       "title": "Bei McDonald’s gibt’s drinnen Burger, draußen Strom",
@@ -219,20 +219,20 @@
       "author": "Julia Ruck"
     },
     {
-      "title": "Millionär noch weit vor der Rente – diese Rechnung zeigt, wie es geht",
-      "teaser": "Die Macht des Zinseszinses wird von vielen Sparern noch immer unterschätzt. Besonders gut wird sie am Beispiel des Verzichts auf das Rauchen offenbar. WELT hat nachgerechnet, wie schnell sich ein Vermögen erzielen lässt, wenn die gut 2000 Euro im Jahr richtig investiert werden.",
-      "url": "https://www.welt.de/wirtschaft/plus249275184/Wohlstand-Millionaer-noch-weit-vor-der-Rente-diese-Rechnung-zeigt-den-Weg.html",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile249309434/7937936407-ci23x11-w20/DWO-Teaser-Rauch-Millionen-ms-jpg.jpg",
-      "image_title": "Kein alternativer Text für dieses Bild vorhanden",
-      "author": "Frank Stocker"
-    },
-    {
       "title": "Großer LinkedIn-Check – Wenn Ihr Profil so aussieht, fallen Sie beim Headhunter durch",
       "teaser": "Personalmanager suchen auf der Karriere-Plattform LinkedIn nach ganz bestimmten Eigenschaften. Wer sie kennt und in sein Profil einbaut, kann sich entscheidende Vorteile sichern. Ein Recruiter sagt, worauf Sie achten – und welche Einstellungen Sie dringend löschen sollten.",
       "url": "https://www.welt.de/wirtschaft/gruenderszene/plus249428662/Tipps-vom-LinkedIn-Experten-Wenn-Ihr-Profil-so-aussieht-fallen-Sie-beim-Headhunter-durch.html",
       "image_url": "https://img.welt.de/img/wirtschaft/gruenderszene/mobile249464978/3417931147-ci23x11-w20/Top-Earning-Tech-Companies.jpg",
       "image_title": "Kein alternativer Text für dieses Bild vorhanden",
       "author": "GründerszeneJörg Kasten"
+    },
+    {
+      "title": "Millionär noch weit vor der Rente – diese Rechnung zeigt, wie es geht",
+      "teaser": "Die Macht des Zinseszinses wird von vielen Sparern noch immer unterschätzt. Besonders gut wird sie am Beispiel des Verzichts auf das Rauchen offenbar. WELT hat nachgerechnet, wie schnell sich ein Vermögen erzielen lässt, wenn die gut 2000 Euro im Jahr richtig investiert werden.",
+      "url": "https://www.welt.de/wirtschaft/plus249275184/Wohlstand-Millionaer-noch-weit-vor-der-Rente-diese-Rechnung-zeigt-den-Weg.html",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile249309434/7937936407-ci23x11-w20/DWO-Teaser-Rauch-Millionen-ms-jpg.jpg",
+      "image_title": "Kein alternativer Text für dieses Bild vorhanden",
+      "author": "Frank Stocker"
     },
     {
       "title": "Hinter der Mauer des Schweigens – so funktioniert das System Helios",
@@ -256,6 +256,10 @@
       "url": "https://www.welt.de/wirtschaft/",
       "image_url": "https://img.welt.de/img/wirtschaft/mobile235813724/3920249907-ci16x9-w20/20211221-DWO-Champagne-Exports-STAT-jpg.jpg",
       "image_title": "Kein alternativer Text für dieses Bild vorhanden"
+    },
+    {
+      "title": "Auf der Sonnenseite der Energiewende",
+      "url": "https://www.welt.de/regionales/hamburg/article249489618/Erfolgreiches-Start-up-Auf-der-Sonnenseite-der-Energiewende.html"
     },
     {
       "title": "„Viele Betriebe haben neben der offiziellen Kasse noch eine Bargeldkasse“",
@@ -372,10 +376,6 @@
     {
       "title": "Huthi-Angriffe verursachen hohe Kosten und Verspätungen",
       "url": "https://www.welt.de/regionales/hamburg/article249497334/Hapag-Lloyd-Huthi-Angriffe-verursachen-hohe-Kosten-und-Verspaetungen.html"
-    },
-    {
-      "title": "Endstation New York – Hier zeigt sich die Spaltung der USA bei der Migration",
-      "url": "https://www.welt.de/wirtschaft/plus249468828/Viele-neue-Fluechtlinge-Endstation-New-York-hier-zeigt-sich-die-Spaltung-der-USA-bei-der-Migration.html"
     },
     {
       "title": "Otto-Gutschein",
