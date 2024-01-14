@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-14T09:01:27",
+  "timestamp": "2024-01-14T10:01:24",
   "url": "https://www.zeit.de/zeit-magazin/index",
   "response": {
     "status": 200
@@ -32,7 +32,14 @@
   ],
   "articles": [
     {
-      "title": "Z+ Arbeiten, wo andere Feierabend machen",
+      "title": "Z+ Der Blumenkohl ist eine Scheibe",
+      "teaser": "Keine Überraschung: Blumenkohl liebt es im Ofen. In Scheiben geröstet und mit Pesto getoppt ist er schon ein Schmaus. Hier kommt sogar noch Kichererbsen-Shakshuka dazu.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-01/kichererbsen-shakshuka-curry-blumenkohlsteak-rezept-sonntagsessen",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-01/kichererbsen-shakshuka-curry-teaser/wide__822x462",
+      "image_title": "Curry-Blumenkohlsteaks: Der Blumenkohl ist eine Scheibe"
+    },
+    {
+      "title": "Z+ Kellnern: Arbeiten, wo andere Feierabend machen",
       "teaser": "Wenn man eine Arbeit sehr lange macht, wird sie dann leichter oder schwerer? Porträt eines Mannes, der seit 30 Jahren tut, was heute kaum noch einer tun will: kellnern.",
       "url": "https://www.zeit.de/zeit-magazin/2024/03/kellnern-beruf-restaurant-berlin",
       "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-01/kellnern-beruf-restaurant-berlin-teaser/wide__822x462",
@@ -53,23 +60,16 @@
       "image_title": "Brettspiele: Die besten Spiele für jede Gesellschaft"
     },
     {
-      "title": "Z+ Teppichboden: Wellness für die Füße",
-      "teaser": "Lange war Teppichboden zu Unrecht verpönt. Jetzt ist er endlich wieder zurück. Plädoyer für einen sehr emotionalen Teil der Einrichtung",
-      "url": "https://www.zeit.de/zeit-magazin/2024/03/teppichboden-inneneinrichtung-waerme-gemuetlichkeit",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-01/teppichboden-inneneinrichtung-waerme-gemuetlichkeit-teaser/wide__822x462",
-      "image_title": "Teppichboden: Wellness für die Füße"
-    },
-    {
       "title": "Wochenmarkt: Hungrig?",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/index",
       "image_url": "https://img.zeit.de/zeit-magazin/2020-09/wochenmarkt-start-editorial-fragen-der-zeit-bild/tile__315x394",
       "image_title": "Wochenmarkt: Hungrig?"
     },
     {
-      "title": "Z+ Gemüsesuppe: Hoffnung zum Löffeln",
-      "url": "https://www.zeit.de/zeit-magazin/2024/03/gemuesesuppe-lauch-brokkoli-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024/03/hoffnung-zum-loeffeln-bild-1/tile__315x394",
-      "image_title": "Gemüsesuppe: Hoffnung zum Löffeln"
+      "title": "Z+ Teppichboden: Wellness für die Füße",
+      "url": "https://www.zeit.de/zeit-magazin/2024/03/teppichboden-inneneinrichtung-waerme-gemuetlichkeit",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-01/teppichboden-inneneinrichtung-waerme-gemuetlichkeit-teaser/tile__315x394",
+      "image_title": "Teppichboden: Wellness für die Füße"
     },
     {
       "title": "Auf Messers Schneide",
@@ -201,6 +201,12 @@
       "image_title": "Familiengründung: \"In einer Woche werden wir Papas\""
     },
     {
+      "title": "Z+ Gemüsesuppe: Hoffnung zum Löffeln",
+      "url": "https://www.zeit.de/zeit-magazin/2024/03/gemuesesuppe-lauch-brokkoli-rezept-wochenmarkt",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024/03/hoffnung-zum-loeffeln-bild-1/tile__315x394",
+      "image_title": "Gemüsesuppe: Hoffnung zum Löffeln"
+    },
+    {
       "title": "Z+ Spätzle: Die perfekten Spätzle",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-12/spaetzle-teig-kochen-rezept",
       "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-01/spaetzle-teig-kochen-rezept-rezept/tile__315x394",
@@ -255,12 +261,6 @@
       "image_title": "Bambusdämpfer: Bitte mit Bambus"
     },
     {
-      "title": "Z+ Waller in Wurzelsud: Ein Fisch für alle Fälle",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-01/waller-wurzelsud-fisch-wels-rezept",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-01/waller-wurzelsud-fisch-wels-rezept-teaserbild/tile__315x394",
-      "image_title": "Waller in Wurzelsud: Ein Fisch für alle Fälle"
-    },
-    {
       "title": "Z+ Paillettenkleider: Pailletten haben doch keinen Schimmer!",
       "url": "https://www.zeit.de/zeit-magazin/mode-design/2023-12/paillettenkleider-silvester-glitzer-glamour-mode",
       "image_url": "https://img.zeit.de/zeit-magazin/2023-12/wochenende-53-guter-stoff-paillettenkleider-silvester-glitzer-glamour-mode/square__460x460",
@@ -295,8 +295,8 @@
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-01/meal-prep-wochenplan-winter"
     },
     {
-      "title": "Z+ Meal-Prep für den Winter: Fünf Tage gesund essen – mit diesem Kochplan",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-01/meal-prep-wochenplan-winter"
+      "title": "Z+ Kellnern: Arbeiten, wo andere Feierabend machen",
+      "url": "https://www.zeit.de/zeit-magazin/2024/03/kellnern-beruf-restaurant-berlin"
     },
     {
       "title": "Z+ Bodyshaming bei Kindern: \"Leider ein bisschen zu dick\"",
@@ -307,18 +307,25 @@
       "url": "https://www.zeit.de/zeit-magazin/2024/03/beziehung-zu-dritt-geschlechtsverkehr-liebe"
     },
     {
-      "title": "Z+ Kellnern: Arbeiten, wo andere Feierabend machen",
-      "url": "https://www.zeit.de/zeit-magazin/2024/03/kellnern-beruf-restaurant-berlin"
+      "title": "Z+ Meal-Prep für den Winter: Fünf Tage gesund essen – mit diesem Kochplan",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-01/meal-prep-wochenplan-winter"
     },
     {
       "title": "Z+ Meal-Prep für den Winter: Fünf Tage gesund essen – mit diesem Kochplan",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-01/meal-prep-wochenplan-winter"
     },
     {
+      "title": "Z+ Waller in Wurzelsud: Ein Fisch für alle Fälle",
+      "teaser": "Indisches Curry, ungarisches Gulasch: Der Wels oder Waller ist vielen Gerichten gewachsen. Wer ihn von seiner zarten Seite kennenlernen möchte, gart ihn in Wurzelsud.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-01/waller-wurzelsud-fisch-wels-rezept",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-01/waller-wurzelsud-fisch-wels-rezept-teaserbild/square__460x460",
+      "image_title": "Waller in Wurzelsud: Ein Fisch für alle Fälle"
+    },
+    {
       "title": "Z+ Molly Baz: Kochanleitungen für die Lieferando-Generation",
       "teaser": "Molly Baz lockt mit ihren Videos und Bestsellern auch jene in die Küche, die dort nicht hinwollen. Dank einer ordentlichen Portion Spaß und einem unverwechselbaren Ton.",
       "url": "https://www.zeit.de/zeit-magazin/2024/02/molly-baz-cook-this-book-kochen-kochbuch",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023-12/molly-baz-cook-this-book-kochen-kochbuch-teaser/square__460x460",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023-12/molly-baz-cook-this-book-kochen-kochbuch-teaser/wide__822x462",
       "image_title": "Molly Baz: Kochanleitungen für die Lieferando-Generation"
     },
     {
@@ -344,9 +351,8 @@
     },
     {
       "title": "Z+ Leben in der Ukraine: Als wäre der Krieg mitten in der Stadt",
-      "teaser": "Der ukrainische Illustrator Sergiy Maidukov dokumentiert, was er seit Kriegsbeginn in seiner Heimat erlebt. Zum Beispiel die Kolonne Krankenwagen, die er täglich sieht.",
       "url": "https://www.zeit.de/zeit-magazin/leben/2022-05/leben-ukraine-krieg-kiew-tagebuch",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023/25/tagebuch-aus-kiew-bild-1/wide__822x462",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023/25/tagebuch-aus-kiew-bild-1/tile__315x394",
       "image_title": "Leben in der Ukraine: Als wäre der Krieg mitten in der Stadt"
     },
     {
@@ -360,12 +366,6 @@
       "url": "https://www.zeit.de/zeit-magazin/leben/2023-12/alkoholsucht-bulimie-freundschaften-beziehungen-karriere",
       "image_url": "https://img.zeit.de/zeit-magazin/leben/2023-12/alkoholsucht-bulimie-freundschaften-beziehungen-karriere-bild/tile__315x394",
       "image_title": "Alkohol: Ich, die aufgedunsene Frau im Spiegel"
-    },
-    {
-      "title": "Z+ Safaristil: Diesseits von Afrika",
-      "url": "https://www.zeit.de/zeit-magazin/2024/01/safari-mode-farben-stil",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023-12/safari-mode-stil/tile__315x394",
-      "image_title": "Safaristil: Diesseits von Afrika"
     }
   ]
 }
