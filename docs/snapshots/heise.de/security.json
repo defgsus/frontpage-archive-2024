@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-15T17:01:00",
+  "timestamp": "2024-01-15T18:06:56",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "PRTG",
+      "url": "https://www.heise.de/news/Cross-Site-Scripting-in-Monitoringsoftware-PRTG-erlaubt-Sessionklau-9598174.html"
+    },
+    {
       "title": "Nvidia DGX H100 & A100",
       "url": "https://www.heise.de/news/Nvidia-Updates-schliessen-kritische-Sicherheitsluecken-in-KI-Systemen-9597460.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Splunk-cacti-checkmk-Sicherheitsluecken-in-Monitoring-Software-9595021.html"
     },
     {
-      "title": "Juniper Networks",
-      "url": "https://www.heise.de/news/Juniper-Networks-bessert-zahlreiche-Schwachstellen-aus-9594717.html"
+      "title": "IT-Sicherheit: BSI soll \"selbständig\" werden, Schwachstellenmanagement wackelt",
+      "teaser": "Wegen der sicherheitspolitischen \"Zeitenwende\" soll das BSI dem Innenministerium unterstellt bleiben und nur formal eine \"selbständige\" Bundesoberbehörde sein.",
+      "url": "https://www.heise.de/news/IT-Sicherheit-BSI-soll-selbstaendig-werden-Schwachstellenmanagement-wackelt-9598208.html"
+    },
+    {
+      "title": "Cross-Site-Scripting in Monitoringsoftware PRTG erlaubt Sessionklau",
+      "teaser": "Mit einem präparierten Link können Angreifer PRTG-Nutzer in die Irre führen und die Authentifizierung umgehen. Ein Update schafft Abhilfe.",
+      "url": "https://www.heise.de/news/Cross-Site-Scripting-in-Monitoringsoftware-PRTG-erlaubt-Sessionklau-9598174.html",
+      "image_title": "Netzwerk"
     },
     {
       "title": "c't-Webinar: KI für den Unternehmenseinsatz – vertraulich und sicher",
@@ -146,17 +157,6 @@
       "url": "https://www.heise.de/news/Sicherheitspatch-IBM-Security-Verify-fuer-Root-Attacken-anfaellig-9594439.html"
     },
     {
-      "title": "Der heise Security Crashkurs zum Schutz vor Ransomware",
-      "teaser": "Ransomware bleibt die zentrale Gefahr: Dieses praxisorientierte Webinar erklärt, wie Angreifer aktuell vorgehen und wie Sie ihre IT bestmöglich davor schützen.",
-      "url": "https://www.heise.de/news/Der-heise-Security-Crashkurs-zum-Schutz-vor-Ransomware-9592915.html"
-    },
-    {
-      "title": "Zoho ManageEngine: Kritische Sicherheitslücke in ADSelfService Plus",
-      "teaser": "In Zoho ManageEngine ADSelfService Plus klafft eine kritische Sicherheitslücke. Angreifer können dadurch Schadcode einschleusen.",
-      "url": "https://www.heise.de/news/Zoho-ManageEngine-Codeschmuggel-in-ADSelfService-Plus-moeglich-9594221.html",
-      "image_title": "Update"
-    },
-    {
       "title": "Microsofts Cloud und Entra ID - Reale Angriffe verstehen und verhindern",
       "teaser": "Microsofts Cloud verspricht einfache und sichere Zusammenarbeit. Doch wer die zugrundeliegenden Konzepte nicht versteht und sich nicht um die Sicherheit kümmert, handelt sich teils schwerwiegende Security-Probleme ein, die organisierte Kriminelle dann skrupellos ausnutzen. Lernen Sie, welche Rolle Entra ID (früher Azure AD) dabei spielt, wie Angreifer dessen Schwächen ausnutzen und wie Sie Ihre IT dagegen optimal absichern.",
       "url": "https://heise-academy.de/webinare/microsoft_entraid?wt_mc=intern.academy.security.web_entraid.teaser.teaser.teaser"
@@ -178,19 +178,19 @@
       "image_title": "Handy zeigt \"Microsoft 365\" und Icons für Word, Excel, Powerpoint, Teams, Outlook, Onenote, Sharepoint und Onedrive"
     },
     {
+      "title": "FB Messanger Phishing Versuch",
+      "teaser": "Forum: Tatort Internet",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Tatort-Internet/FB-Messanger-Phishing-Versuch/posting-43549268/show/"
+    },
+    {
+      "title": "BIOS/UEFI hängt nach der Verwendung von Desinfec't 2023",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/BIOS-UEFI-haengt-nach-der-Verwendung-von-Desinfec-t-2023/posting-43549189/show/"
+    },
+    {
       "title": "Warnung vor OneDrive - Unbedingt deinstallieren!",
       "teaser": "Forum: Viren & Würmer",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Viren-Wuermer/Warnung-vor-OneDrive-Unbedingt-deinstallieren/posting-43545016/show/"
-    },
-    {
-      "title": "Bootprobleme; Attempted to kill init!",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Bootprobleme-Attempted-to-kill-init/posting-43534289/show/"
-    },
-    {
-      "title": "Re: F-Secure Signaturupdate",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-F-Secure-Signaturupdate/posting-43533812/show/"
     }
   ]
 }
