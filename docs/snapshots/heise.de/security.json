@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-15T11:01:02",
+  "timestamp": "2024-01-15T12:09:54",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Nvidia DGX H100 & A100",
+      "url": "https://www.heise.de/news/Nvidia-Updates-schliessen-kritische-Sicherheitsluecken-in-KI-Systemen-9597460.html"
+    },
+    {
       "title": "GitLab CE/EE",
       "url": "https://www.heise.de/news/Jetzt-patchen-Kritische-Sicherheitsluecke-in-GitLab-ermoeglicht-Accountklau-9595848.html"
     },
@@ -44,17 +48,19 @@
       "url": "https://www.heise.de/news/Juniper-Networks-bessert-zahlreiche-Schwachstellen-aus-9594717.html"
     },
     {
-      "title": "IBM Security Verify Access",
-      "url": "https://www.heise.de/news/Sicherheitspatch-IBM-Security-Verify-fuer-Root-Attacken-anfaellig-9594439.html"
+      "title": "Nvidia-Updates schließen kritische Sicherheitslücken in KI-Systemen",
+      "teaser": "Nvidia hat aktualisierte Firmware für die KI-Systeme DGX A100 und H100 veröffentlicht. Sie dichtet kritische Sicherheitslecks ab.",
+      "url": "https://www.heise.de/news/Nvidia-Updates-schliessen-kritische-Sicherheitsluecken-in-KI-Systemen-9597460.html",
+      "image_title": "Nvidias KI-Beschleuniger H100"
     },
     {
-      "title": "iX-Workshop IT-Sicherheit: Pentests methodisch planen, anfordern und analysieren",
+      "title": "iX-Workshop IT-Sicherheit: Penetrationstests verstehen, ausschreiben, auswerten",
       "teaser": "Schritt für Schritt zum sicheren System: Penetrationstests methodisch planen, beauftragen und auswerten, um Schwachstellen in der eigenen IT aufzuspüren.",
       "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-Pentests-methodisch-planen-anfordern-und-analysieren-9593575.html",
       "image_title": "Penetrationstests: Methodik, Ausschreibung und Auswertung"
     },
     {
-      "title": "29-jähriger Ukrainer als Drahtzieher hinter Kryptomining-Kampagne verhaftet",
+      "title": "1,8 Millionen Euro geschürft: Krimineller Kryptominer in Ukraine verhaftet",
       "teaser": "Nach Einbruch in Cloud-Konten haben die Täter rund 1,8 Millionen Euro in Kryptowährungen geschürft. Der mutmaßliche Drahtzieher wurde in der Ukraine verhaftet.",
       "url": "https://www.heise.de/news/29-jaehriger-Ukrainer-als-Drahtzieher-hinter-Kryptomining-Kampagne-verhaftet-9597362.html",
       "image_title": "Einsatzbereite Handschellen"
@@ -149,11 +155,6 @@
       "title": "\"Raffiniertester Exploit aller Zeiten\": Sicherheitsexperte beschuldigt Apple",
       "teaser": "Eine schwere iOS-Lücke ermöglichte es Angreifern, iPhones der Sicherheitsfirma Kaspersky zu kapern. Ein Sicherheitsforscher sieht Apple in der Verantwortung.",
       "url": "https://www.heise.de/news/Raffiniertester-Exploit-aller-Zeiten-Sicherheitsexperte-beschuldigt-Apple-9593911.html"
-    },
-    {
-      "title": "Sicherheitsupdates für Dell- und Lenovo-BIOS",
-      "teaser": "Dell stellt aktualisierte BIOS-Versionen für einige Geräte bereit. AMI schließt mehrere Sicherheitslücken, Lenovo reicht die Korrekturen durch.",
-      "url": "https://www.heise.de/news/BIOS-Sicherheitsupdates-von-Dell-und-Lenovo-9594096.html"
     },
     {
       "title": "Microsofts Cloud und Entra ID - Reale Angriffe verstehen und verhindern",
