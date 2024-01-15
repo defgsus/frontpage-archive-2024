@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-15T06:08:13",
+  "timestamp": "2024-01-15T07:00:50",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -48,21 +48,16 @@
       "url": "https://www.heise.de/news/Sicherheitspatch-IBM-Security-Verify-fuer-Root-Attacken-anfaellig-9594439.html"
     },
     {
-      "title": "Stuxnet: Wie ein Ingenieur das iranische Atomprogramm sabotiert haben soll",
-      "teaser": "Der niederländische Geheimdienst soll bei der Sabotage des iranischen Atomprogramms eine bedeutende Rolle gespielt haben. Ein Agent starb bei einem Unfall.​",
-      "url": "https://www.heise.de/news/Stuxnet-Niederlaendischer-Geheimdienst-half-wohl-bei-Sabotage-im-Iran-9596851.html",
-      "image_title": "Name Stuxnet in roter Schrift einem Wortfeld"
+      "title": "Ransomware-Gang Medusa erpresst Hilfsorganisation",
+      "teaser": "Die Ransomware-Gang Medusa erpresst die Hilfsorganisation Water for People. Das geht auch aus einem Eintrag auf der Darknet-Website der Cyberkriminellen hervor.",
+      "url": "https://www.heise.de/news/Ransomware-Gang-Medusa-erpresst-Hilfsorganisation-9596950.html",
+      "image_title": "Cyberkrimineller bei der Arbeit"
     },
     {
       "title": "iX-Workshop: Windows 10 und 11 im Unternehmen absichern",
       "teaser": "Lernen Sie an praktischen Bespielen, wie Sie Windows 10 / 11 Pro und Enterprise in Ihrem Unternehmen sicher und effektiv einsetzen. (Noch wenige Plätze frei)",
       "url": "https://www.heise.de/news/iX-Workshop-Windows-10-und-11-im-Unternehmen-absichern-9587626.html",
       "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
-    },
-    {
-      "title": "BSI: Hohe Anforderungen an RSA-Schlüssellängen bei TLS-Verbindungen",
-      "teaser": "Das BSI fordert für TLS-Verbindungen äußerst große RSA-Schlüssellängen. Sprecher relativieren, es seien Empfehlungen. Checklisten widersprechen dem.",
-      "url": "https://www.heise.de/news/BSI-Verwirrung-um-Anforderungen-an-Schluessellaengen-fuer-TLS-Verbindungen-9596072.html"
     },
     {
       "title": "Pufferüberlauf und andere Sicherheitslücken in IBM Business Automation Workflow",
@@ -92,6 +87,11 @@
       "url": "https://www.heise.de/news/l-f-Vom-Trojaner-besessen-Wenn-smarte-Werkzeuge-den-Dienst-verweigern-9595316.html"
     },
     {
+      "title": "Microsoft: Powershell-Skript hilft bei WinRE-Bitlocker-Update",
+      "teaser": "Am Januar-Patchday schlägt die Update-Installation unter Windows 10 oft mit Fehler 0x80070643 fehl. Ein Microsoft-Skript soll helfen.",
+      "url": "https://www.heise.de/news/Microsoft-liefert-Abhilfe-zur-Installation-von-Updates-in-WinRE-Partition-9595312.html"
+    },
+    {
       "title": "Bericht: BKA hat Staatstrojaner gegen Reichsbürger eingesetzt",
       "teaser": "BKA-Ermittler sollen israelische Spionagesoftware etwa auf dem Mobiltelefon von Heinrich XIII. Prinz Reuß installiert und auch Telegram-Chats ausgeleitet haben.",
       "url": "https://www.heise.de/news/Bericht-BKA-hat-Staatstrojaner-gegen-Reichsbuerger-eingesetzt-9595145.html"
@@ -115,6 +115,11 @@
       "title": "Sicherheitspatch: IBM Security Verify für Root-Attacken anfällig",
       "teaser": "Die Entwickler haben in IBMs Zugriffsmanagementlösung Security Verify mehrere Sicherheitslücken geschlossen.",
       "url": "https://www.heise.de/news/Sicherheitspatch-IBM-Security-Verify-fuer-Root-Attacken-anfaellig-9594439.html"
+    },
+    {
+      "title": "Der heise Security Crashkurs zum Schutz vor Ransomware",
+      "teaser": "Ransomware bleibt die zentrale Gefahr: Dieses praxisorientierte Webinar erklärt, wie Angreifer aktuell vorgehen und wie Sie ihre IT bestmöglich davor schützen.",
+      "url": "https://www.heise.de/news/Der-heise-Security-Crashkurs-zum-Schutz-vor-Ransomware-9592915.html"
     },
     {
       "title": "Zoho ManageEngine: Kritische Sicherheitslücke in ADSelfService Plus",
@@ -147,12 +152,6 @@
       "title": "Sicherheitspatch: API-Fehler in Cisco Unity Connection macht Angreifer zum Root",
       "teaser": "Verschiedene Netzwerkprodukte von Cisco sind verwundbar. Eine Lücke gilt als kritisch.",
       "url": "https://www.heise.de/news/Sicherheitspatch-API-Fehler-in-Cisco-Unity-Connection-macht-Angreifer-zum-Root-9593930.html"
-    },
-    {
-      "title": "Zerodays bei Ivanti aktiv genutzt: Connect Secure und Policy Secure sinds nicht",
-      "teaser": "Zwei Zero-Days in Ivanti-Produkten machen es \"trivial für Angreifer\", Befehle auszuführen und sich im Firmennetz einzunisten. Ivanti hat bedingt gute Tipps.​",
-      "url": "https://www.heise.de/news/Zerodays-bei-Ivanti-aktiv-genutzt-Connect-Secure-und-Policy-Secure-sinds-nicht-9593747.html",
-      "image_title": "Gelbes Warndreieck auf dunklem Hintergrund"
     },
     {
       "title": "Microsofts Cloud und Entra ID - Reale Angriffe verstehen und verhindern",
