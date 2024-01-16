@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-16T04:07:04",
+  "timestamp": "2024-01-16T05:00:44",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -43,6 +43,36 @@
     },
     {
       "type": "module",
+      "src": "https://interactive.zeit.de/g/2024/us-wahl/static/assets/zonPreactApp.woFAa02d.mjs",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://interactive.zeit.de/g/2024/us-wahl/static/assets/preact.9GU5nwFK.mjs",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://interactive.zeit.de/g/2024/us-wahl/static/assets/parameter-types.mH-YJUUj.mjs",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://interactive.zeit.de/g/2024/us-wahl/static/assets/index.R_I_wmh_.mjs",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://interactive.zeit.de/g/2024/us-wahl/static/assets/dashboard.9CXalqx5.mjs",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
       "src": "https://interactive.zeit.de/g/2024/energiekostenmonitor/static/assets/index.ebe51c77.mjs",
       "id": null,
       "text": null
@@ -80,17 +110,31 @@
   ],
   "articles": [
     {
-      "title": "US-Vorwahlen : Trump gewinnt Vorwahl der Republikaner in Iowa",
+      "title": "US-Vorwahlen: Donald Trump gewinnt Vorwahl der Republikaner in Iowa",
       "teaser": "Der ehemalige US-Präsident Donald Trump hat die erste Vorwahl der Republikaner im Rennen um das Weiße Haus gewonnen. Umfragen hatten seinen Sieg bereits angedeutet.",
       "url": "https://www.zeit.de/politik/ausland/2024-01/trump-gewinnt-vorwahl-in-iowa",
       "image_url": "https://img.zeit.de/politik/ausland/2024-01/usa-trump-iowa-vorwahlen-republikaner-bild/cinema__980x420"
     },
     {
       "title": "Wahlsystem in den USA: So wird der US-Präsident gewählt",
-      "teaser": "Wann wählt die USA und was sind noch mal \"primaries\"? Wir beantworten die wichtigsten Fragen über das Wahlsystem in den USA.",
+      "teaser": "Wann wählt die USA und was sind noch mal Primaries? Wir beantworten die wichtigsten Fragen über das Wahlsystem in den USA.",
       "url": "https://www.zeit.de/politik/ausland/2024-01/usa-wahl-wahlsystem",
       "image_url": "https://img.zeit.de/2023-11/wahlsystem-usa-bild/wide__822x462",
       "image_title": "Wahlsystem in den USA: So wird der US-Präsident gewählt"
+    },
+    {
+      "title": "Krieg in Nahost: Iran feuert Raketen auf Syrien und Nordirak",
+      "teaser": "Nach dem gewaltsamen Tod eines Generals in Syrien und einem Terrorangriff hat Iran Rache angekündigt. Nun attackiert die Revolutionsgarde Ziele im Irak und in Syrien.",
+      "url": "https://www.zeit.de/politik/ausland/2024-01/iran-revolutionsgarden-raketenangriffe-irak-syrien-soleimani-kerman",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-01/iran-rakete-syrien-nordirak-bild/wide__822x462",
+      "image_title": "Krieg in Nahost: Iran feuert Raketen auf Syrien und Nordirak"
+    },
+    {
+      "title": "Liveblog: Krieg in Israel und Gaza: Israel verkündet Ende der intensiven Kämpfe im Norden Gazas",
+      "teaser": "Laut dem israelischen Verteidigungsminister ist die Phase schwerer Kämpfe im Norden des Gazastreifens abgeschlossen. Palästinenser im Westjordanland getötet. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/2023-12/news-israel-gaza-krieg-live",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-01/gaza-stadt-zerstoerung/wide__822x462",
+      "image_title": "Krieg in Israel und Gaza: Israel verkündet Ende der intensiven Kämpfe im Norden Gazas"
     },
     {
       "title": "Bauernproteste: \"Bitte bleibt hier\"",
@@ -107,39 +151,18 @@
       "image_title": "Agrarproteste: Lindner beharrt auf Agrardieselkürzung"
     },
     {
-      "title": "Lobby der Landwirte: Die Lobby für die Großbetriebe",
+      "title": "Z+ (abopflichtiger Inhalt); Lobby der Landwirte: Die Lobby für die Großbetriebe",
       "teaser": "Der Bauernverband inszeniert seine Branche als Opfer. Doch die Lobbyorganisation hat großen Einfluss auf die Politik und jahrzehntelang notwendige Reformen verhindert.",
       "url": "https://www.zeit.de/wirtschaft/2024-01/lobby-landwirte-bauernproteste-macht-politik",
       "image_url": "https://img.zeit.de/wirtschaft/2024-01/lobby-landwirte-bauernproteste-macht/wide__822x462",
       "image_title": "Lobby der Landwirte: Die Lobby für die Großbetriebe"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Tierwohlabgabe: Glückliche Tiere, glückliche Bauern",
-      "teaser": "Die giftigen Töne beim Bauernprotest verdecken, dass eine Lösung im Streit zwischen Regierung und Landwirten naheliegt. Die Tierwohlabgabe wäre der richtige Weg.",
-      "url": "https://www.zeit.de/wirtschaft/2024-01/tierwohlabgabe-bauernproteste-landwirtschaft-tierschutz-bundesregierung",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-01/bauernproteste-tierwohlabgabe-bundesregierung-tierprodukte-bild2/wide__822x462",
-      "image_title": "Tierwohlabgabe: Glückliche Tiere, glückliche Bauern"
-    },
-    {
-      "title": "Ehemalige Bundesagrarministerin: Julia Klöckner fordert schnelle Umsetzung von Tierwohlabgabe",
-      "teaser": "Die CDU-Opposition treibt Landwirtschaftsminister Özdemir zu mehr Tempo beim Tierwohl und zu besserem Schutz der Höfe. Auch das Umweltressort sieht das als dringlich an.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-01/tierwohlabgabe-kloeckner-schnelle-umsetzung",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-01/tierwohlabgabe-kuehe-stall/wide__822x462",
-      "image_title": "Ehemalige Bundesagrarministerin: Julia Klöckner fordert schnelle Umsetzung von Tierwohlabgabe"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Social Media und Depressionen: Wie TikTok mit der Psyche tanzt",
-      "teaser": "Können Inhalte in sozialen Medien Jugendliche in die Depression treiben? Wie Eltern erkennen, wann die mentale Gesundheit ihres Kindes durch TikTok und Co. gefährdet ist.",
-      "url": "https://www.zeit.de/zeit-magazin/2024-01/social-media-depressionen-kurzvideos-suizid-klage-tiktok",
-      "image_url": "https://img.zeit.de/zeit-magazin/familie/2023-12/teenager-social-media-depression/cinema__980x420",
-      "image_title": "Social Media und Depressionen: Wie TikTok mit der Psyche tanzt"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Hilfe bei Depressionen • Z+ Empfehlung: \"Depressionen sind Signale des Körpers, unser Leben zu ändern\"",
-      "teaser": "Nach jahrelanger Recherche ist der britische Journalist Johann Hari überzeugt: Tabletten allein können Depressionen nicht heilen. Und erklärt, was wirklich helfen kann.",
-      "url": "https://www.zeit.de/campus/ratgeber/2023/02/depressionen-antidepressiva-hilfe-johann-hari",
-      "image_url": "https://img.zeit.de/campus/2024-01/depressionen-und-aengste-medikamente/wide__822x462",
-      "image_title": "Hilfe bei Depressionen • Z+ Empfehlung: \"Depressionen sind Signale des Körpers, unser Leben zu ändern\""
+      "title": "Z+ (abopflichtiger Inhalt); Marathonlaufen in der Partnerschaft: \"Es wird immer extremer\"",
+      "teaser": "Vorbereiten, laufen, ausschwitzen, duschen, Garmin analysieren: Marathon-Männer fordern viel Zeit für sich. Den Preis des \"Runner's High\" zahlen oft die Partnerinnen.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2023-11/marathon-laufen-partnerschaft-sport-liebe",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-01/marathon-laufen-partnerschaft-sport-liebe-bild/cinema__980x420",
+      "image_title": "Marathonlaufen in der Partnerschaft: \"Es wird immer extremer\""
     },
     {
       "title": "AfD: Alice Weidel beendet Zusammenarbeit mit Roland Hartwig",
@@ -163,73 +186,30 @@
       "image_title": "Rechtsextremismus: Tausende demonstrieren in Essen und Leipzig gegen die AfD"
     },
     {
-      "title": "Unternehmerin Silke Schröder: Rücktritt beim Verein Deutsche Sprache nach Treffen mit Rechtsextremen",
-      "teaser": "Silke Schröder ist als Vorstandsmitglied des VDS zurückgetreten, sie reagiert auf ihr Treffen mit Rechtsextremen in Potsdam. Der Verein bemüht sich um Schadensbegrenzung.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-01/ruecktritt-vds-schroeder",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-01/verein-deutsche-sprache-vorstandsmitglied-silke-schroeder-ruecktritt-bild/wide__822x462",
-      "image_title": "Unternehmerin Silke Schröder: Rücktritt beim Verein Deutsche Sprache nach Treffen mit Rechtsextremen"
+      "title": "Liveblog: Ukraine-Krieg: Schweiz und Ukraine planen internationalen Friedensgipfel",
+      "teaser": "Wolodymyr Selenskyj und die Schweizer Präsidentin kündigen einen Friedensgipfel auf höchster Ebene an. Russland verurteilt ukrainische Kriegsgefangene. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-01/ukraine-schweiz-viola-amherd-selenskyj/wide__822x462",
+      "image_title": "Ukraine-Krieg: Schweiz und Ukraine planen internationalen Friedensgipfel"
     },
     {
-      "title": "Brandenburg: Bauernverband beurlaubt Funktionärin nach Rechtsextremismusvorwurf",
-      "teaser": "Die Geschäftsführerin des Kreisbauernverbands Spree-Neiße soll Verbindungen zum rechtsextremen Milieu haben. Nun wurde sie von ihrem Posten freigestellt.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-01/brandenburg-bauernverband-spree-neisse-geschaeftsfuehrerin-beurlaubt",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-01/bauernverband-proteste-rechtsextremismus/wide__822x462",
-      "image_title": "Brandenburg: Bauernverband beurlaubt Funktionärin nach Rechtsextremismusvorwurf"
+      "title": "Los Angeles: Mediensatire \"Succession\" gewinnt Emmy als beste Dramaserie",
+      "teaser": "Die Mediensatire \"Succession\" hat den Emmy als beste Dramaserie des Jahres gewonnen. Auch in anderen Kategorien wurde die Serie über ein untergehendes Imperium geehrt.",
+      "url": "https://www.zeit.de/kultur/film/2024-01/emmy-verleihung-los-angeles-gala-sucession-beef-the-bear",
+      "image_url": "https://img.zeit.de/kultur/film/2024-01/emmys-los-angeles-succession-kieran-culkin/wide__822x462",
+      "image_title": "Los Angeles: Mediensatire \"Succession\" gewinnt Emmy als beste Dramaserie"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Karriere und Urlaub: \"Man kann Arbeit mit Urlaub verbinden. Ich habe es selbst erlebt\"",
-      "teaser": "Nadine Czirr hat lange ihr Leben der Karriere untergeordnet. Dann bekam die Controllerin das Angebot für eine Workation in Schweden und erlebte eine ganz neue Freiheit.",
-      "url": "https://www.zeit.de/2024/03/karriere-urlaub-remote-arbeiten-ausland-schweden",
-      "image_url": "https://img.zeit.de/2024/03/man-kann-arbeit-mit-urlaub-verbinden-ich-habe-es-selbst-erlebt-bild-1/cinema__980x420",
-      "image_title": "Karriere und Urlaub: \"Man kann Arbeit mit Urlaub verbinden. Ich habe es selbst erlebt\""
+      "title": "Los Angeles: Mediensatire \"Succession\" gewinnt Emmy als beste Dramaserie",
+      "url": "https://www.zeit.de/kultur/film/2024-01/emmy-verleihung-los-angeles-gala-sucession-beef-the-bear",
+      "image_url": "https://img.zeit.de/kultur/film/2024-01/emmys-los-angeles-succession-kieran-culkin/wide__822x462",
+      "image_title": "Los Angeles: Mediensatire \"Succession\" gewinnt Emmy als beste Dramaserie"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Meal-Prep für den Winter • Das Beste aus Z+: Fünf Tage gesund essen – mit diesem Kochplan",
-      "teaser": "Geld sparen, Zeit gewinnen, gesund ernähren dank Meal-Prep: Mit unseren veganen Rezepten samt Einkaufsliste sind Sie fünf Tage versorgt – und nichts wird schlecht.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-01/meal-prep-wochenplan-winter",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-01/meal-prep-wochenplan-winter-teaser/wide__822x462",
-      "image_title": "Meal-Prep für den Winter • Das Beste aus Z+: Fünf Tage gesund essen – mit diesem Kochplan"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Bitcoin-ETFs • Das Beste aus Z+: Das Risiko trägt die Allgemeinheit",
-      "teaser": "Kryptofans feiern, dass die US-Börsenaufsicht Bitcoin-Fonds zulässt. Doch als Teil des allgemeinen Finanzsystems werden diese Spekulationsobjekte zum Risiko für alle.",
-      "url": "https://www.zeit.de/wirtschaft/geldanlage/2024-01/bitcoin-etf-risiko-finanzsystem-us-boersenaufsicht-sec",
-      "image_url": "https://img.zeit.de/wirtschaft/geldanlage/2024-01/sec-us-boersenaufsicht/wide__822x462",
-      "image_title": "Bitcoin-ETFs • Das Beste aus Z+: Das Risiko trägt die Allgemeinheit"
-    },
-    {
-      "title": "Krieg in Nahost: Iran feuert Raketen auf Syrien und Nordirak",
-      "teaser": "Nach dem gewaltsamen Tod eines Generals in Syrien und einem Terrorangriff hat Iran Rache angekündigt. Nun attackiert die Revolutionsgarde Ziele im Irak und in Syrien.",
-      "url": "https://www.zeit.de/politik/ausland/2024-01/iran-revolutionsgarden-raketenangriffe-irak-syrien-soleimani-kerman",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-01/iran-revolutionsgarden-militaer-uebung/wide__822x462",
-      "image_title": "Krieg in Nahost: Iran feuert Raketen auf Syrien und Nordirak"
-    },
-    {
-      "title": "Liveblog: Krieg in Israel und Gaza: Hamas verkündet Tod zweier Geiseln",
-      "teaser": "Die Hamas hat ein Video veröffentlicht, das den Tod zweier Geiseln bestätigen soll. Israel will den Gazastreifen von Palästinensern regieren lassen. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/2023-12/news-israel-gaza-krieg-live",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-01/liveblog-gazastreifen-geiseln-bild/wide__822x462",
-      "image_title": "Krieg in Israel und Gaza: Hamas verkündet Tod zweier Geiseln"
-    },
-    {
-      "title": "Angegriffen, weil sie Hebräisch sprachen: \"Die Angst packte mich. Ich log: Ich bin doch nicht mal jüdisch\"",
-      "teaser": "Zwei Israelis wurden Anfang Januar in Berlin angegriffen, als sie Hebräisch sprachen. Hier berichtet Sharon erstmals, was geschah – und wie es sie verändert hat.",
-      "url": "https://www.zeit.de/gesellschaft/2024-01/antisemitischer-angriff-neukoelln-berlin-straftat",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-01/ich-wollte-nicht-das-stumme-juedische-opfer/wide__822x462",
-      "image_title": "Angegriffen, weil sie Hebräisch sprachen: \"Die Angst packte mich. Ich log: Ich bin doch nicht mal jüdisch\""
-    },
-    {
-      "title": "Korea-Konflikt: Nordkorea schafft Behörden für Dialog und Kooperation mit Südkorea ab",
-      "teaser": "Machthaber Kim Jong Un will Südkorea in der Verfassung als \"Hauptfeind\" definieren. Eine Wiedervereinigung der beiden Länder könne \"niemals erreicht werden\".",
-      "url": "https://www.zeit.de/politik/ausland/2024-01/nordkorea-abschaffung-behoerden-dialog-kooperation-suedkorea",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-01/nordkorea-abschaffung-behoerden-dialog-kooperation-suedkorea-bild/wide__822x462",
-      "image_title": "Korea-Konflikt: Nordkorea schafft Behörden für Dialog und Kooperation mit Südkorea ab"
-    },
-    {
-      "title": "US-Vorwahlen : Trump gewinnt Vorwahl der Republikaner in Iowa",
+      "title": "US-Vorwahlen: Donald Trump gewinnt Vorwahl der Republikaner in Iowa",
       "url": "https://www.zeit.de/politik/ausland/2024-01/trump-gewinnt-vorwahl-in-iowa",
       "image_url": "https://img.zeit.de/politik/ausland/2024-01/usa-trump-iowa-vorwahlen-republikaner-bild/wide__822x462",
-      "image_title": "US-Vorwahlen : Trump gewinnt Vorwahl der Republikaner in Iowa"
+      "image_title": "US-Vorwahlen: Donald Trump gewinnt Vorwahl der Republikaner in Iowa"
     },
     {
       "title": "Ehemalige Bundesagrarministerin: Julia Klöckner fordert schnelle Umsetzung von Tierwohlabgabe",
@@ -258,7 +238,7 @@
     {
       "title": "Krieg in Nahost: Iran feuert Raketen auf Syrien und Nordirak",
       "url": "https://www.zeit.de/politik/ausland/2024-01/iran-revolutionsgarden-raketenangriffe-irak-syrien-soleimani-kerman",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-01/iran-revolutionsgarden-militaer-uebung/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-01/iran-rakete-syrien-nordirak-bild/wide__822x462",
       "image_title": "Krieg in Nahost: Iran feuert Raketen auf Syrien und Nordirak"
     },
     {
@@ -268,31 +248,11 @@
       "image_title": "Fifa: Messi und Bonmatí zu Weltfußballern des Jahres ernannt"
     },
     {
-      "title": "Rechtsextremismus: Tausende demonstrieren in Essen und Leipzig gegen die AfD",
-      "url": "https://www.zeit.de/politik/deutschland/2024-01/protest-afd-leipzig-essen",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-01/afd-demonstration-leipzig/wide__822x462",
-      "image_title": "Rechtsextremismus: Tausende demonstrieren in Essen und Leipzig gegen die AfD"
-    },
-    {
-      "title": "Liveblog: Ukraine-Krieg: Schweiz und Ukraine planen internationalen Friedensgipfel",
-      "teaser": "Wolodymyr Selenskyj und die Schweizer Präsidentin kündigen einen Friedensgipfel auf höchster Ebene an. Russland verurteilt ukrainische Kriegsgefangene. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-01/ukraine-schweiz-viola-amherd-selenskyj/wide__822x462",
-      "image_title": "Ukraine-Krieg: Schweiz und Ukraine planen internationalen Friedensgipfel"
-    },
-    {
-      "title": "Fifa: Messi und Bonmatí zu Weltfußballern des Jahres ernannt",
-      "teaser": "Nicht Torgarant Erling Haaland, sondern Lionel Messi ist Weltfußballer 2023. Weltfußballerin wird die Favoritin Aitana Bonmatí vom FC Barcelona.",
-      "url": "https://www.zeit.de/sport/2024-01/weltfussballer-lionel-messi-weltfussballerin-aitana-bonmati",
-      "image_url": "https://img.zeit.de/sport/2024-01/lionel-messi-weltfussballer-bild/wide__822x462",
-      "image_title": "Fifa: Messi und Bonmatí zu Weltfußballern des Jahres ernannt"
-    },
-    {
-      "title": "Belarus: Menschenrechtler melden Tod von politischem Gefangenen in Belarus",
-      "teaser": "Erneut soll ein politischer Gefangener in Belarus gestorben sein. Er sei zu spät medizinisch behandelt worden, werfen Menschenrechtler den Behörden vor.",
-      "url": "https://www.zeit.de/politik/ausland/2024-01/belarus-politischer-gefangener-tot-menschenrechtler",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-01/politischer-gefangener-belarus-gestorben-bild/wide__822x462",
-      "image_title": "Belarus: Menschenrechtler melden Tod von politischem Gefangenen in Belarus"
+      "title": "Z+ (abopflichtiger Inhalt); Hilfe bei Depressionen • Z+ Empfehlung: \"Depressionen sind Signale des Körpers, unser Leben zu ändern\"",
+      "teaser": "Nach jahrelanger Recherche ist der britische Journalist Johann Hari überzeugt: Tabletten allein können Depressionen nicht heilen. Und erklärt, was wirklich helfen kann.",
+      "url": "https://www.zeit.de/campus/ratgeber/2023/02/depressionen-antidepressiva-hilfe-johann-hari",
+      "image_url": "https://img.zeit.de/campus/2024-01/depressionen-und-aengste-medikamente/wide__822x462",
+      "image_title": "Hilfe bei Depressionen • Z+ Empfehlung: \"Depressionen sind Signale des Körpers, unser Leben zu ändern\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"The Sopranos\": Als der Killer unsterblich wurde",
@@ -316,11 +276,25 @@
       "image_title": "Oma-Rolle: \"Sie sagte: ‘Nach drei Enkelkindern ist aber Schluss!’\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Erdnussbutter-Udon-Nudeln: Eine Umarmung von innen",
-      "teaser": "Auch wenn Essen einen nicht wirklich umarmen kann, löst es manchmal ähnliche Glücksgefühle aus. Diese Udon-Nudeln kommen mit einem besonders warmen Wohlfühlfaktor daher.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-01/erdnussbutter-udon-nudeln-erdnuesse-rezept",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-01/erdnussbutter-udon-nudeln-erdnuesse-rezept-bild/cinema__980x420",
-      "image_title": "Erdnussbutter-Udon-Nudeln: Eine Umarmung von innen"
+      "title": "Fifa: Messi und Bonmatí zu Weltfußballern des Jahres ernannt",
+      "teaser": "Nicht Torgarant Erling Haaland, sondern Lionel Messi ist Weltfußballer 2023. Weltfußballerin wird die Favoritin Aitana Bonmatí vom FC Barcelona.",
+      "url": "https://www.zeit.de/sport/2024-01/weltfussballer-lionel-messi-weltfussballerin-aitana-bonmati",
+      "image_url": "https://img.zeit.de/sport/2024-01/lionel-messi-weltfussballer-bild/wide__822x462",
+      "image_title": "Fifa: Messi und Bonmatí zu Weltfußballern des Jahres ernannt"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Meal-Prep für den Winter • Das Beste aus Z+: Fünf Tage gesund essen – mit diesem Kochplan",
+      "teaser": "Geld sparen, Zeit gewinnen, gesund ernähren dank Meal-Prep: Mit unseren veganen Rezepten samt Einkaufsliste sind Sie fünf Tage versorgt – und nichts wird schlecht.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-01/meal-prep-wochenplan-winter",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-01/meal-prep-wochenplan-winter-teaser/wide__822x462",
+      "image_title": "Meal-Prep für den Winter • Das Beste aus Z+: Fünf Tage gesund essen – mit diesem Kochplan"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Abenteuer in der Jugend: \"Das ist geisteskrank schön!\"",
+      "teaser": "Die 18-jährige Tochter meldet sich aus einer der schönsten Ecken der Welt. Und ihr Vater fühlt sich plötzlich wie der alte Mann, der er nie werden wollte.",
+      "url": "https://www.zeit.de/zeit-magazin/2024/03/abenteuer-jugend-pruefers-toechter",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-01/abenteuer-jugend-pruefers-toechter-teaser/cinema__980x420",
+      "image_title": "Abenteuer in der Jugend: \"Das ist geisteskrank schön!\""
     },
     {
       "title": "Verbot von Calvin-Klein-Werbung: Empowerment durch Hochpreisschlüpfer",
@@ -330,18 +304,11 @@
       "image_title": "Verbot von Calvin-Klein-Werbung: Empowerment durch Hochpreisschlüpfer"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Wärmewende: Ein Kessel für die Ewigkeit",
-      "teaser": "Während die Politik ehrgeizige Klimaziele formuliert, laufen in vielen Hamburger Kellern uralte Ölheizungen – und ihre Besitzer hoffen: noch möglichst lange.",
-      "url": "https://www.zeit.de/2024/01/waermewende-oelheizung-klimaschutz-gesetz",
-      "image_url": "https://img.zeit.de/2024/01/waermewende-oelheizung-klimaschutz-gesetz-teaserbild/wide__822x462",
-      "image_title": "Wärmewende: Ein Kessel für die Ewigkeit"
-    },
-    {
-      "title": "Elisabeth Trissenaar: Schauspielerin Elisabeth Trissenaar mit 79 gestorben",
-      "teaser": "In Fassbinders \"Bolwieser\" spielte Trissenaar 1976 die untreue Ehefrau eines Bahnhofsvorstehers. Im Alter von 79 Jahren ist die Künstlerin gestorben.",
-      "url": "https://www.zeit.de/kultur/film/2024-01/schauspielerin-elisabeth-trissenaar-gestorben-79",
-      "image_url": "https://img.zeit.de/kultur/film/2024-01/elisabeth-trissenaar-fassbinder/wide__822x462",
-      "image_title": "Elisabeth Trissenaar: Schauspielerin Elisabeth Trissenaar mit 79 gestorben"
+      "title": "Politik : Die blockierte Republik",
+      "teaser": "Wut auf der Straße, Stillstand im Land – und die unbeliebteste Regierung seit langer Zeit: Wie ging der Ampelkoalition das Gefühl für die Bürger verloren?",
+      "url": "https://premium.zeit.de/abo/diezeit?aktionsnummer=1130785&wt_zmc=fix.int.zonpme.zeitde.epaper.z+.home.bildtext.bildtext&utm_medium=fix&utm_source=zeitde_zonpme_int&utm_campaign=epaper&utm_content=z+_home_bildtext_bildtext?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.button.button&utm_medium=cross&utm_source=zeitde_zonpme_int&utm_campaign=printbox&utm_content=ausgseite_bildtext_button_button",
+      "image_url": "https://img.zeit.de/2024/03/packshot-24-03-1000x620.png/imagegroup/original__1000x620",
+      "image_title": "DIE ZEIT 03/2024"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Maximilian Pongratz: Ganz ohne Seppelhaftigkeit",
@@ -349,13 +316,6 @@
       "url": "https://www.zeit.de/2024/03/maximilian-pongratz-akkordeon-volksmusik-david-bowie",
       "image_url": "https://img.zeit.de/2024/03/maximilian-pongratz-akkordeon-teaser/wide__822x462",
       "image_title": "Maximilian Pongratz: Ganz ohne Seppelhaftigkeit"
-    },
-    {
-      "title": "Politik : Die blockierte Republik",
-      "teaser": "Wut auf der Straße, Stillstand im Land – und die unbeliebteste Regierung seit langer Zeit: Wie ging der Ampelkoalition das Gefühl für die Bürger verloren?",
-      "url": "https://premium.zeit.de/abo/diezeit?aktionsnummer=1130785&wt_zmc=fix.int.zonpme.zeitde.epaper.z+.home.bildtext.bildtext&utm_medium=fix&utm_source=zeitde_zonpme_int&utm_campaign=epaper&utm_content=z+_home_bildtext_bildtext?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.button.button&utm_medium=cross&utm_source=zeitde_zonpme_int&utm_campaign=printbox&utm_content=ausgseite_bildtext_button_button",
-      "image_url": "https://img.zeit.de/2024/03/packshot-24-03-1000x620.png/imagegroup/original__1000x620",
-      "image_title": "DIE ZEIT 03/2024"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Wut der Landwirte: Welche Klagen der Bauern wirklich berechtigt sind",
@@ -374,12 +334,12 @@
       "url": "https://www.zeit.de/arbeit/2024-01/anwalt-care-arbeit-kinder-kontoauszug"
     },
     {
-      "title": "AfD-Geheimtreffen: Tausende protestieren in Berlin und Potsdam gegen Rechtsextremismus",
-      "url": "https://www.zeit.de/gesellschaft/2024-01/kundgebung-gegen-afd-rechtsexremismus-brandenburger-tor-berlin"
-    },
-    {
       "title": "Grundrechtsverwirkung: Petition für Entzug von Höckes Grundrechten hat 830.000 Unterzeichner",
       "url": "https://www.zeit.de/politik/deutschland/2024-01/afd-bjoern-hoecke-petition-entzug-grundrechte"
+    },
+    {
+      "title": "AfD-Geheimtreffen: Tausende protestieren in Berlin und Potsdam gegen Rechtsextremismus",
+      "url": "https://www.zeit.de/gesellschaft/2024-01/kundgebung-gegen-afd-rechtsexremismus-brandenburger-tor-berlin"
     },
     {
       "title": "Liveblog: Bauernproteste: Bauernverband setzt auf Gespräche – vorerst keine weiteren Aktionen",
@@ -436,25 +396,25 @@
       "url": "https://www.zeit.de/politik/deutschland/2024-01/afd-bjoern-hoecke-petition-entzug-grundrechte"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Journalismus: Rezo drückt Strg_F und findet Fehler",
-      "teaser": "Nach wochenlangem Streit entschuldigt sich die Redaktion der Sendung \"Strg_F\" bei YouTuber Rezo. Der Fall führt zu einer Debatte über Journalismus und Fehlerkultur.",
-      "url": "https://www.zeit.de/kultur/2024-01/journalismus-strg-f-rezo-streit-fehler-recherche",
-      "image_url": "https://img.zeit.de/kultur/film/2024-01/youtuber-rezo-redaktion-strg-f-ard/cinema__980x420",
-      "image_title": "Journalismus: Rezo drückt Strg_F und findet Fehler"
+      "title": "Z+ (abopflichtiger Inhalt); Wärmewende: Ein Kessel für die Ewigkeit",
+      "teaser": "Während die Politik ehrgeizige Klimaziele formuliert, laufen in vielen Hamburger Kellern uralte Ölheizungen – und ihre Besitzer hoffen: noch möglichst lange.",
+      "url": "https://www.zeit.de/2024/01/waermewende-oelheizung-klimaschutz-gesetz",
+      "image_url": "https://img.zeit.de/2024/01/waermewende-oelheizung-klimaschutz-gesetz-teaserbild/cinema__980x420",
+      "image_title": "Wärmewende: Ein Kessel für die Ewigkeit"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); GreenBox: Der Küchengarten für Gescheiterte",
-      "teaser": "Ihr Basilikum ist schon wieder verschimmelt oder vertrocknet? Mit der GreenBox soll es endlich anders werden – dank Wassertank und Beleuchtung. Wir haben sie getestet.",
-      "url": "https://www.zeit.de/digital/2024-01/greenbox-kraeuter-garten-kueche-test",
-      "image_url": "https://img.zeit.de/digital/2024-01/greenbox-kraeuter-garten-kueche-test-bild/wide__822x462",
-      "image_title": "GreenBox: Der Küchengarten für Gescheiterte"
+      "title": "Z+ (abopflichtiger Inhalt); Social Media und Depressionen: Wie TikTok mit der Psyche tanzt",
+      "teaser": "Können Inhalte in sozialen Medien Jugendliche in die Depression treiben? Wie Eltern erkennen, wann die mentale Gesundheit ihres Kindes durch TikTok und Co. gefährdet ist.",
+      "url": "https://www.zeit.de/zeit-magazin/2024-01/social-media-depressionen-kurzvideos-suizid-klage-tiktok",
+      "image_url": "https://img.zeit.de/zeit-magazin/familie/2023-12/teenager-social-media-depression/wide__822x462",
+      "image_title": "Social Media und Depressionen: Wie TikTok mit der Psyche tanzt"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); US-Vorwahlen in Iowa: Wähle Trump, und wenn es das Letzte ist, was man tut",
-      "teaser": "Zur Vorwahl der Republikaner erstarrt der Bundesstaat Iowa in einem Wintersturm, der Rekordminustemperaturen bringt. Das könnte Donald Trumps erwarteten Sieg gefährden.",
-      "url": "https://www.zeit.de/politik/ausland/2024-01/us-vorwahlen-iowa-wetter-republikaner-donald-trump",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-01/us-vorwahlen-iowa-wetter-republikaner-donald-trump-bild/wide__822x462",
-      "image_title": "US-Vorwahlen in Iowa: Wähle Trump, und wenn es das Letzte ist, was man tut"
+      "title": "Z+ (abopflichtiger Inhalt); Erdnussbutter-Udon-Nudeln: Eine Umarmung von innen",
+      "teaser": "Auch wenn Essen einen nicht wirklich umarmen kann, löst es manchmal ähnliche Glücksgefühle aus. Diese Udon-Nudeln kommen mit einem besonders warmen Wohlfühlfaktor daher.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-01/erdnussbutter-udon-nudeln-erdnuesse-rezept",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-01/erdnussbutter-udon-nudeln-erdnuesse-rezept-bild/wide__822x462",
+      "image_title": "Erdnussbutter-Udon-Nudeln: Eine Umarmung von innen"
     },
     {
       "title": "Verlagsangebot: 5 Tipps, um die Liebe wieder aufzufrischen",
@@ -535,18 +495,18 @@
       "image_title": "\"Was jetzt? – Die Woche\": Deutschland 2024 – was im neuen Jahr wichtig wird"
     },
     {
-      "title": "USA: Verteidigungsminister Lloyd Austin aus Krankenhaus entlassen",
-      "teaser": "Lloyd Austin wird nach seiner Erkrankung vorerst von zu Hause aus arbeiten. Der Minister steht in der Kritik, weil er erst spät über seine Krankheit informiert hat.",
-      "url": "https://www.zeit.de/politik/ausland/2024-01/lloyd-austin-krankenhaus-entlassung-prostata-krebs",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-01/usa-verteidigungsminister-lloyd-austin-krankenhaus-entlassen-bild/wide__822x462",
-      "image_title": "USA: Verteidigungsminister Lloyd Austin aus Krankenhaus entlassen"
+      "title": "Ehemalige Bundesagrarministerin: Julia Klöckner fordert schnelle Umsetzung von Tierwohlabgabe",
+      "teaser": "Die CDU-Opposition treibt Landwirtschaftsminister Özdemir zu mehr Tempo beim Tierwohl und zu besserem Schutz der Höfe. Auch das Umweltressort sieht das als dringlich an.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-01/tierwohlabgabe-kloeckner-schnelle-umsetzung",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-01/tierwohlabgabe-kuehe-stall/wide__822x462",
+      "image_title": "Ehemalige Bundesagrarministerin: Julia Klöckner fordert schnelle Umsetzung von Tierwohlabgabe"
     },
     {
-      "title": "Ampelkoalition: Klimageld soll spätestens 2027 ausgezahlt werden",
-      "teaser": "Das Klimageld soll Verbraucherinnen von den hohen CO₂-Kosten entlasten. Da es für die Verteilung noch keinen Mechanismus gibt, könnte das aber noch Jahre dauern.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-01/klimageld-verzoegerung-ampelkoalition-co2-preise",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-01/klimageld-verzoegerung-ampelkoalition-co2-preise-bild/wide__822x462",
-      "image_title": "Ampelkoalition: Klimageld soll spätestens 2027 ausgezahlt werden"
+      "title": "Korea-Konflikt: Nordkorea schafft Behörden für Dialog und Kooperation mit Südkorea ab",
+      "teaser": "Machthaber Kim Jong Un will Südkorea in der Verfassung als \"Hauptfeind\" definieren. Eine Wiedervereinigung der beiden Länder könne \"niemals erreicht werden\".",
+      "url": "https://www.zeit.de/politik/ausland/2024-01/nordkorea-abschaffung-behoerden-dialog-kooperation-suedkorea",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-01/nordkorea-abschaffung-behoerden-dialog-kooperation-suedkorea-bild/wide__822x462",
+      "image_title": "Korea-Konflikt: Nordkorea schafft Behörden für Dialog und Kooperation mit Südkorea ab"
     },
     {
       "title": "Liveblog: Bauernproteste: Bauernverband setzt auf Gespräche – vorerst keine weiteren Aktionen",
@@ -556,6 +516,13 @@
       "image_title": "Bauernproteste: Bauernverband setzt auf Gespräche – vorerst keine weiteren Aktionen"
     },
     {
+      "title": "Angegriffen, weil sie Hebräisch sprachen: \"Die Angst packte mich. Ich log: Ich bin doch nicht mal jüdisch\"",
+      "teaser": "Zwei Israelis wurden Anfang Januar in Berlin angegriffen, als sie Hebräisch sprachen. Hier berichtet Sharon erstmals, was geschah – und wie es sie verändert hat.",
+      "url": "https://www.zeit.de/gesellschaft/2024-01/antisemitischer-angriff-neukoelln-berlin-straftat",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-01/ich-wollte-nicht-das-stumme-juedische-opfer/wide__822x462",
+      "image_title": "Angegriffen, weil sie Hebräisch sprachen: \"Die Angst packte mich. Ich log: Ich bin doch nicht mal jüdisch\""
+    },
+    {
       "title": "Sprache: \"Remigration\" ist das Unwort des Jahres 2023",
       "teaser": "Die sprachkritische Aktion hat das Wort \"Remigration\" zum Unwort gewählt. Den Begriff nutzen Rechtsextreme für die Forderung nach Zwangsausweisung und Deportation.",
       "url": "https://www.zeit.de/gesellschaft/2024-01/remigration-ist-das-unwort-des-jahres",
@@ -563,17 +530,17 @@
       "image_title": "Sprache: \"Remigration\" ist das Unwort des Jahres 2023"
     },
     {
-      "title": "Bauernproteste: Schon jetzt mehr als 4.000 Traktoren und Lastwagen in Berlin",
-      "teaser": "Die Bauernproteste in Berlin werden größer als erwartet. Am Brandenburger Tor ist alles dicht, die Polizei verweist auf Ausweichflächen.",
-      "url": "https://www.zeit.de/gesellschaft/2024-01/bauernproteste-traktoren-lastwagen-berlin-verkehrschaos",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-01/bauernproteste-berlin-brandenburger-tor-bild-2/wide__822x462",
-      "image_title": "Bauernproteste: Schon jetzt mehr als 4.000 Traktoren und Lastwagen in Berlin"
+      "title": "Z+ (abopflichtiger Inhalt); Tierwohlabgabe: Glückliche Tiere, glückliche Bauern",
+      "teaser": "Die giftigen Töne beim Bauernprotest verdecken, dass eine Lösung im Streit zwischen Regierung und Landwirten naheliegt. Die Tierwohlabgabe wäre der richtige Weg.",
+      "url": "https://www.zeit.de/wirtschaft/2024-01/tierwohlabgabe-bauernproteste-landwirtschaft-tierschutz-bundesregierung",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-01/bauernproteste-tierwohlabgabe-bundesregierung-tierprodukte-bild2/cinema__980x420",
+      "image_title": "Tierwohlabgabe: Glückliche Tiere, glückliche Bauern"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Alkoholfreier Wein: Nüchtern betrachtet",
       "teaser": "Jürgen Dahms hatte sich schon damit abgefunden, der letzte Winzer seiner Familie zu sein. Jetzt verkauft sein Ältester doch Wein – allerdings alkoholfreien.",
       "url": "https://www.zeit.de/2024/03/alkoholfrei-wein-weingut-gesundheit",
-      "image_url": "https://img.zeit.de/2024/03/alkoholfrei-wein-weingut-teaser/cinema__980x420",
+      "image_url": "https://img.zeit.de/2024/03/alkoholfrei-wein-weingut-teaser/wide__822x462",
       "image_title": "Alkoholfreier Wein: Nüchtern betrachtet"
     },
     {
@@ -582,13 +549,6 @@
       "url": "https://www.zeit.de/wirtschaft/2024-01/bauernproteste-christian-lindner-buerokratie",
       "image_url": "https://img.zeit.de/wirtschaft/2024-01/lindner-rechtfertigt-abbau-diesel-verguenstigungen-bild/wide__822x462",
       "image_title": "Agrarkürzungen: Lindner will Bürokratie abbauen, keine Änderung bei Agrardiesel"
-    },
-    {
-      "title": "Weltwirtschaftsforum in Davos : Die Getriebenen von Davos",
-      "teaser": "Früher war das Weltwirtschaftsforum in Davos der Inbegriff des großen Geldes. Doch die Wirtschaftselite ist zunehmend der Geopolitik ausgeliefert.",
-      "url": "https://www.zeit.de/wirtschaft/2024-01/weltwirtschaftsforum-davos-2024-krisen-politik",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-01/weltwirtschaftsforum-davos-2024-krisen-politik-bild/wide__822x462",
-      "image_title": "Weltwirtschaftsforum in Davos : Die Getriebenen von Davos"
     },
     {
       "title": "WirtschaftsWocheWechseljahre: Wie Frauen trotz Menopause-Problemen im Job durchstarten können",
@@ -626,18 +586,18 @@
       "image_title": "Alkoholkonsum: \"Ich bin im Streit super ausgerastet, habe meinen Bruder angespuckt\""
     },
     {
-      "title": "Feuilletonpodcast: Habits ändern, manifestieren oder doch lieber detoxen?",
-      "teaser": "Unzählige schillernde Begriffe versprechen, unser Leben ändern zu können. Was verbirgt sich dahinter und warum ist unsere Gegenwart eigentlich so süchtig nach Erneuerung?",
-      "url": "https://www.zeit.de/kultur/2024-01/selbsterneuerung-trends-detox-feuilleton-podcast",
-      "image_url": "https://img.zeit.de/kultur/2022-09/podcast-die-sogenannte-gegenwart-2022-pauer-weisbrod/cinema__980x420",
-      "image_title": "Feuilletonpodcast: Habits ändern, manifestieren oder doch lieber detoxen?"
+      "title": "Elisabeth Trissenaar: Schauspielerin Elisabeth Trissenaar mit 79 gestorben",
+      "teaser": "In Fassbinders \"Bolwieser\" spielte Trissenaar 1976 die untreue Ehefrau eines Bahnhofsvorstehers. Im Alter von 79 Jahren ist die Künstlerin gestorben.",
+      "url": "https://www.zeit.de/kultur/film/2024-01/schauspielerin-elisabeth-trissenaar-gestorben-79",
+      "image_url": "https://img.zeit.de/kultur/film/2024-01/elisabeth-trissenaar-fassbinder/cinema__980x420",
+      "image_title": "Elisabeth Trissenaar: Schauspielerin Elisabeth Trissenaar mit 79 gestorben"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); \"True Detective\": Wo die Toten nicht mehr sterben",
-      "teaser": "\"True Detective\" geht weiter und macht Alaska zum Tiefkühler voller Leichen. Mit Jodie Foster als hypermaskuliner Polizeichefin gelingt der Serie ein grimmiger Neustart.",
-      "url": "https://www.zeit.de/kultur/film/2024-01/true-detective-staffel-4-jodie-foster",
-      "image_url": "https://img.zeit.de/kultur/film/2024-01/true-detective-2/wide__822x462",
-      "image_title": "\"True Detective\": Wo die Toten nicht mehr sterben"
+      "title": "Z+ (abopflichtiger Inhalt); Journalismus: Rezo drückt Strg_F und findet Fehler",
+      "teaser": "Nach wochenlangem Streit entschuldigt sich die Redaktion der Sendung \"Strg_F\" bei YouTuber Rezo. Der Fall führt zu einer Debatte über Journalismus und Fehlerkultur.",
+      "url": "https://www.zeit.de/kultur/2024-01/journalismus-strg-f-rezo-streit-fehler-recherche",
+      "image_url": "https://img.zeit.de/kultur/film/2024-01/youtuber-rezo-redaktion-strg-f-ard/wide__822x462",
+      "image_title": "Journalismus: Rezo drückt Strg_F und findet Fehler"
     },
     {
       "title": "VerlagsangebotEnglischquiz – Achtung, falsche Freunde!",
@@ -647,11 +607,11 @@
       "image_title": "Englischquiz – Achtung, falsche Freunde!"
     },
     {
-      "title": "Ewald Frie: \"Bauern repräsentieren den ländlichen Raum nicht\"",
-      "teaser": "Das Verhältnis von Bauern und Staat war immer kompliziert, sagt der Historiker Ewald Frie. Die aktuellen Proteste seien aber kein Ausdruck eines Stadt-Land-Konflikts.",
-      "url": "https://www.zeit.de/kultur/2024-01/ewald-frie-historiker-bauernproteste-stadt-land",
-      "image_url": "https://img.zeit.de/kultur/2024-01/ewald-frie-historiker-bauernproteste-stadt/wide__822x462",
-      "image_title": "Ewald Frie: \"Bauern repräsentieren den ländlichen Raum nicht\""
+      "title": "Feuilletonpodcast: Habits ändern, manifestieren oder doch lieber detoxen?",
+      "teaser": "Unzählige schillernde Begriffe versprechen, unser Leben ändern zu können. Was verbirgt sich dahinter und warum ist unsere Gegenwart eigentlich so süchtig nach Erneuerung?",
+      "url": "https://www.zeit.de/kultur/2024-01/selbsterneuerung-trends-detox-feuilleton-podcast",
+      "image_url": "https://img.zeit.de/kultur/2022-09/podcast-die-sogenannte-gegenwart-2022-pauer-weisbrod/wide__822x462",
+      "image_title": "Feuilletonpodcast: Habits ändern, manifestieren oder doch lieber detoxen?"
     },
     {
       "title": "Bauernproteste: Landwirte behalten sich weitere Proteste vor",
@@ -769,18 +729,18 @@
       "image_title": "Adenovirus: Eine Erkältung kommt selten allein"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Datenschutz: Seine Idee ist gescheitert. Jetzt schützt sie unsere WhatsApp-Chats",
+      "teaser": "Phil Zimmermann hat vor 30 Jahren ein Programm entwickelt, das E-Mails verschlüsselt. Damals ermittelte die US-Regierung. Heute verwenden Messenger ähnliche Technik.",
+      "url": "https://www.zeit.de/digital/datenschutz/2023-12/datenschutz-programm-pretty-good-privacy-software",
+      "image_url": "https://img.zeit.de/digital/datenschutz/2023-12/datenschutz-programm-pretty-good-privacy-software-bild/wide__822x462",
+      "image_title": "Datenschutz: Seine Idee ist gescheitert. Jetzt schützt sie unsere WhatsApp-Chats"
+    },
+    {
       "title": "Phishing: Deutlich mehr Beschwerden über Betrugsversuche per SMS",
       "teaser": "Verbraucher melden mehr Fälle, in denen Kriminelle sie in Kurznachrichten zu Zahlungen von Zollgebühren auffordern. Die Bundesnetzagentur warnt davor, Daten preiszugeben.",
       "url": "https://www.zeit.de/digital/2024-01/bundesnetzagentur-beschwerden-betrug-pishing-zollgebuehren",
       "image_url": "https://img.zeit.de/digital/2024-01/bundesnetzagentur-beschwerden-betrug-pishing-zollgebuehren-bild/wide__822x462",
       "image_title": "Phishing: Deutlich mehr Beschwerden über Betrugsversuche per SMS"
-    },
-    {
-      "title": "Autorin Nina George über KI: \"Wenig Chancen auf Nachzahlungen\"",
-      "teaser": "Mit ihren Romanen sind bereits KI-Systeme trainiert worden. Die Bestsellerautorin Nina George fordert, dass die Arbeit von Kreativen endlich besser geschützt wird.",
-      "url": "https://www.zeit.de/digital/2024-01/nina-george-ki-urheberrecht-kreative",
-      "image_url": "https://img.zeit.de/digital/2024-01/nina-george-urheberrecht-ai-kreative-arbeit-bild/wide__822x462",
-      "image_title": "Autorin Nina George über KI: \"Wenig Chancen auf Nachzahlungen\""
     },
     {
       "title": "Ifo-Institut: Knapp die Hälfte der Familienunternehmen steht vor Generationswechsel",
@@ -826,9 +786,9 @@
     },
     {
       "title": "Verlagsangebot Welcher Beruf passt zu mir?",
-      "teaser": "Was uns im Job von anderen unterscheidet, sind nicht nur unsere Fähigkeiten – erst die Persönlichkeit macht jeden einmalig. Der BOA Berufstest hilft, sie zu erkennen.",
-      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.teaser.boa-faeuste.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=boa-verlagsteaser&amp;utm_content=bot_teaser_boa-faeuste_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/boa-faeuste/wide__350x197__desktop",
+      "teaser": "Mit dem BOA-Berufstest erfahren Berufseinsteiger mehr über die eigenen Stärken und finden den passenden Job.",
+      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.verlagsteaser.quan.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=verlagsteaserindex&amp;utm_content=bot_verlagsteaser_quan_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/boa-quan/wide__350x197__desktop",
       "image_title": "Welcher Beruf passt zu mir?"
     },
     {
@@ -958,36 +918,36 @@
       "image_title": "Neu: Logikrätsel: Hashiwokakero"
     },
     {
-      "title": "Bundesliga: Tuchels Plan im Titelrennen: In Leverkusen vorbeiziehen",
-      "url": "https://www.zeit.de/news/2024-01/16/tuchels-plan-im-titelrennen-in-leverkusen-vorbeiziehen"
+      "title": "Notfälle: Weitere Ermittlungen nach Tod von zwei Monate altem Baby",
+      "url": "https://www.zeit.de/news/2024-01/16/weitere-ermittlungen-nach-tod-von-zwei-monate-altem-baby"
     },
     {
-      "title": "Prozesse: Nach Sex in Kirche - Altar neu gesegnet",
-      "url": "https://www.zeit.de/news/2024-01/16/nach-sex-in-kirche-altar-neu-gesegnet"
+      "title": "US-Wahl 2024: Medien: Republikaner DeSantis holt zweiten Platz bei Vorwahl",
+      "url": "https://www.zeit.de/news/2024-01/16/medien-republikaner-desantis-holt-zweiten-platz-bei-vorwahl"
     },
     {
-      "title": "Verkehrsunfall: 31-Jährige nach Auffahrunfall auf der A94 schwer verletzt",
-      "url": "https://www.zeit.de/news/2024-01/16/31-jaehrige-nach-auffahrunfall-auf-der-a94-schwer-verletzt"
+      "title": "Verkehr: Straßensperrung in Berlin-Friedrichshain",
+      "url": "https://www.zeit.de/news/2024-01/16/strassensperrung-in-berlin-friedrichshain"
     },
     {
-      "title": "Bündnis Sahra Wagenknecht: Wagenknecht-Partei für Rückbau der EU",
-      "url": "https://www.zeit.de/news/2024-01/16/wagenknecht-partei-fuer-rueckbau-der-eu"
+      "title": "Wohnungspolitik: Bündnis beklagt «dramatischen Mangel» an sozialem Wohnraum",
+      "url": "https://www.zeit.de/news/2024-01/16/buendnis-beklagt-dramatischen-mangel-an-sozialem-wohnraum"
     },
     {
-      "title": "Haushalt: Grüne kritisieren Verschiebung von Klimageld",
-      "url": "https://www.zeit.de/news/2024-01/16/gruene-kritisieren-verschiebung-von-klimageld"
+      "title": "Bundesliga: Tuchel über Kane: Auf dem Platz wird er zum Hai",
+      "url": "https://www.zeit.de/news/2024-01/16/tuchel-ueber-kane-auf-dem-platz-wird-er-zum-hai"
     },
     {
-      "title": "Konflikte: Kim Jong Un will Südkorea als Feind in Verfassung verankern",
-      "url": "https://www.zeit.de/news/2024-01/16/kim-jong-un-will-suedkorea-als-feind-in-verfassung-verankern"
+      "title": "Wetter: Glättegefahr am Dienstag in Berlin und Brandenburg",
+      "url": "https://www.zeit.de/news/2024-01/16/glaettegefahr-am-dienstag-in-berlin-und-brandenburg"
     },
     {
-      "title": "Krieg in Nahost: Raketen aus Iran schüren Angst vor Flächenbrand",
-      "url": "https://www.zeit.de/news/2024-01/16/raketen-aus-iran-schueren-angst-vor-flaechenbrand"
+      "title": "Magdeburg: Friedenssingen und XXL-Taube: Gedenken der Zerstörung 1945",
+      "url": "https://www.zeit.de/news/2024-01/16/friedenssingen-und-xxl-taube-gedenken-der-zerstoerung-1945"
     },
     {
-      "title": "Auszeichnungen: «The Bear» und «Beef» räumen bei Emmys ab",
-      "url": "https://www.zeit.de/news/2024-01/16/restaurantserie-the-bear-gewinnt-erste-emmys"
+      "title": "Verkehrsunfall: Schwerer Autounfall im Kreis Soest - 18-Jähriger gestorben",
+      "url": "https://www.zeit.de/news/2024-01/16/schwerer-autounfall-im-kreis-soest-18-jaehriger-gestorben"
     }
   ]
 }
