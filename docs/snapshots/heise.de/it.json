@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-16T11:00:46",
+  "timestamp": "2024-01-16T12:09:44",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -52,7 +52,39 @@
       "url": "https://www.heise.de/ratgeber/Webentwicklung-Neuronale-Netze-mit-JavaScript-im-Browser-trainieren-9594750.html"
     },
     {
-      "title": "178.000 verwundbare Sonicwall-Firewalls öffentlich erreichbar",
+      "title": "Wahlen 2024: OpenAI will Missbrauch verhindern",
+      "teaser": "Europawahl, US-Wahlen und mehr: 2024 wird ein starkes Wahljahr. OpenAI sorgt sich um möglichen Missbrauch seiner Dienste.",
+      "url": "https://www.heise.de/news/Wahlen-2024-OpenAI-will-Missbrauch-verhindern-9598463.html"
+    },
+    {
+      "title": "libvirt 10.0: Schnellere Live-Migration von QEMU-VMs",
+      "teaser": "Virtuelle Maschinen im Live-Betrieb umzuziehen, kostet Nerven und Zeit. Das neue libvirt 10.0 räumt jetzt mit der post-copy-Funktion einige Steine aus dem Weg.",
+      "url": "https://www.heise.de/news/libvirt-10-0-Schnellere-Live-Migration-von-QEMU-VMs-9598749.html"
+    },
+    {
+      "title": "Kritische Sicherheitslücke: VMware vergaß Zugriffskontrollen in Aria Operations",
+      "teaser": "Angreifer mit einem gültigen Konto können sich erweiterte Rechte verschaffen. VMWare bietet Patches an, Cloud-Kunden bleiben verschont.",
+      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-VMware-vergass-Zugriffskontrollen-in-Aria-Operations-9598732.html"
+    },
+    {
+      "title": "JusProg: Absurdes Overblocking bei Jugendschutz-Software entdeckt",
+      "teaser": "In Deutschland ist nur eine Software zur Inhaltsfilterung im Internet für Kinder und Jugendliche zugelassen. Sie hat aber große Probleme, zeigt eine Recherche.",
+      "url": "https://www.heise.de/news/JusProg-Absurdes-Overblocking-bei-Jugendschutz-Software-entdeckt-9598581.html",
+      "image_title": "Kinder am Smartphone"
+    },
+    {
+      "title": "Neue Version von SQLite verbessert Funktionen für Json und deutsche Umlaute",
+      "teaser": "Die neue Version von SQLite bringt ein paar strukturelle Änderungen, insbesondere im Umgang mit binären Json-Objekten, Callbacks und deutschen Umlauten.",
+      "url": "https://www.heise.de/news/SQLite-verbessert-Json-Funktionen-und-den-Umgang-mit-UTF8-Sonderzeichen-9598497.html"
+    },
+    {
+      "title": "iX-Workshop: Einstieg in die IT-Sicherheit nach ISO 27001 (Last Call)",
+      "teaser": "Der Workshop zeigt, wie man Informationssicherheit im Unternehmen mit dem Sicherheitsstandard ISO 27001 umsetzt und welche Herausforderungen sich dabei stellen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Einstieg-in-die-IT-Sicherheit-nach-ISO-27001-Last-Call-9593597.html",
+      "image_title": "ix-Workshop IT-Sicherheit nach ISO 27001 umsetzen"
+    },
+    {
+      "title": "Sonicwall: 178.000 verwundbare Next-Generation-Firewalls im Netz erreichbar",
       "teaser": "IT-Sicherheitsforscher haben nach für zwei Schwachstellen verwundbare Sonicwall-Firewalls gesucht. Sie sind auf 178.000 Stück getroffen.",
       "url": "https://www.heise.de/news/178-000-verwundbare-Sonicwall-Firewalls-oeffentlich-erreichbar-9598522.html"
     },
@@ -99,38 +131,6 @@
       "title": "Mit dem Kernel von C nach Rust – ein Projektbericht zu Effizienz und Sicherheit",
       "teaser": "Systemnahe Programmierung erfordert eine effiziente und sichere Sprache. Der Erfahrungsbericht beschreibt den Wechsel eines Kernelprojekts von C nach Rust.",
       "url": "https://www.heise.de/hintergrund/Mit-dem-Kernel-von-C-nach-Rust-ein-Projektbericht-zu-Effizienz-und-Sicherheit-9593219.html"
-    },
-    {
-      "title": "Landtag NRW: IT-Fernzugriff nach Sicherheitsupdate wieder aktiviert",
-      "teaser": "Das BSI hatte in der IT-Fernzugriffsoftware des Landtags NRW Sicherheitslücken entdeckt, sie wurde deaktiviert. Mit Sicherheitsupdate geht es jetzt weiter.",
-      "url": "https://www.heise.de/news/Landtag-NRW-IT-Fernzugriff-nach-Sicherheitsupdate-wieder-aktiviert-9598317.html",
-      "image_title": "Apple,Iphone,With,Vpn,Settings,On,Screen,,Macro.,Apple,Inc."
-    },
-    {
-      "title": "Die nächste Stufe für agile Teams: Scrum Master Day",
-      "teaser": "Ein zusätzlicher Workshop ergänzt den am 7. Februar 2024 online stattfindende Scrum Master Day. Frühbucher profitieren dabei jetzt noch bis zum 22. Januar.",
-      "url": "https://www.heise.de/news/Die-naechste-Stufe-fuer-agile-Teams-Scrum-Master-Day-9591969.html"
-    },
-    {
-      "title": "IT-Sicherheit: BSI soll \"selbständig\" werden, Schwachstellenmanagement wackelt",
-      "teaser": "Wegen der sicherheitspolitischen \"Zeitenwende\" soll das BSI dem Innenministerium unterstellt bleiben und nur formal eine \"selbständige\" Bundesoberbehörde sein.",
-      "url": "https://www.heise.de/news/IT-Sicherheit-BSI-soll-selbstaendig-werden-Schwachstellenmanagement-wackelt-9598208.html"
-    },
-    {
-      "title": "Cross-Site-Scripting in Monitoringsoftware PRTG erlaubt Sessionklau",
-      "teaser": "Mit einem präparierten Link können Angreifer PRTG-Nutzer in die Irre führen und die Authentifizierung umgehen. Ein Update schafft Abhilfe.",
-      "url": "https://www.heise.de/news/Cross-Site-Scripting-in-Monitoringsoftware-PRTG-erlaubt-Sessionklau-9598174.html",
-      "image_title": "Netzwerk"
-    },
-    {
-      "title": "Python: Mausbewegungen und Tastatureingaben automatisieren mit PyAutoGUI",
-      "teaser": "Mit PyAutoGUI lässt sich stumpfe Arbeit einfach automatisieren. Die Syntax ist dabei auch für Einsteiger leicht zu verstehen. Eine Einführung.",
-      "url": "https://www.heise.de/ratgeber/Python-Mausbewegungen-und-Tastatureingaben-automatisieren-mit-PyAutoGUI-9594806.html"
-    },
-    {
-      "title": "Die Produktwerker: UX-Management für Product Owner",
-      "teaser": "UX-Management umfasst die Ziele, Strategie und Ressourcen, die man für eine gute UX braucht. Diese Podcastfolge behandelt den Einsatz durch Product Owner.",
-      "url": "https://www.heise.de/blog/Die-Produktwerker-UX-Management-fuer-Product-Owner-9597750.html"
     },
     {
       "title": "ECN Pulse Check 2023",
