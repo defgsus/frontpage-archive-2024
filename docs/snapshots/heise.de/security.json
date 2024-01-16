@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-16T08:01:04",
+  "timestamp": "2024-01-16T09:01:06",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Patchday Atlassian",
+      "url": "https://www.heise.de/news/Atlassian-Updates-zum-Patchday-schliessen-28-hochriskante-Schwachstellen-9598439.html"
+    },
+    {
       "title": "PRTG",
       "url": "https://www.heise.de/news/Cross-Site-Scripting-in-Monitoringsoftware-PRTG-erlaubt-Sessionklau-9598174.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Kritische-Sicherheitsluecke-in-GitLab-ermoeglicht-Accountklau-9595848.html"
     },
     {
-      "title": "Splunk, cacti, checkmk",
-      "url": "https://www.heise.de/news/Splunk-cacti-checkmk-Sicherheitsluecken-in-Monitoring-Software-9595021.html"
+      "title": "Atlassian: Updates zum Patchday schließen 28 hochriskante Schwachstellen",
+      "teaser": "Atlassian veranstaltet einen Patchday und schließt dabei 28 Sicherheitslücken in diversen Programmen, die als hohes Risiko gelten.",
+      "url": "https://www.heise.de/news/Atlassian-Updates-zum-Patchday-schliessen-28-hochriskante-Schwachstellen-9598439.html"
     },
     {
       "title": "Landtag NRW: IT-Fernzugriff nach Sicherheitsupdate wieder aktiviert",
@@ -151,11 +156,6 @@
       "title": "OpenSSH: Unterstützung für DSA-Schlüssel verschwindet nächstes Jahr",
       "teaser": "Mit einem großzügigen Zeitplan möchten die Entwickler Administratoren Gelegenheit zum Umstieg geben. Zum Jahreswechsel ist dann Schluss.",
       "url": "https://www.heise.de/news/OpenSSH-Unterstuetzung-fuer-DSA-Schluessel-verschwindet-naechstes-Jahr-9594945.html"
-    },
-    {
-      "title": "Juniper Networks bessert zahlreiche Schwachstellen aus",
-      "teaser": "Juniper Networks hat 27 Sicherheitsmitteilungen veröffentlicht. Sie betreffen Junos OS, Junos OS Evolved und diverse Hardware.",
-      "url": "https://www.heise.de/news/Juniper-Networks-bessert-zahlreiche-Schwachstellen-aus-9594717.html"
     },
     {
       "title": "Microsofts Cloud und Entra ID - Reale Angriffe verstehen und verhindern",
