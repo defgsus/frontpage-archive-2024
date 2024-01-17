@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-17T07:01:34",
+  "timestamp": "2024-01-17T08:08:00",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Google Chrome",
+      "url": "https://www.heise.de/news/Google-Chrome-Sicherheitsluecke-wird-in-freier-Wildbahn-ausgenutzt-9599575.html"
+    },
+    {
       "title": "VMware Aria",
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-VMware-vergass-Zugriffskontrollen-in-Aria-Operations-9598732.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Cross-Site-Scripting-in-Monitoringsoftware-PRTG-erlaubt-Sessionklau-9598174.html"
     },
     {
-      "title": "Nvidia DGX H100 & A100",
-      "url": "https://www.heise.de/news/Nvidia-Updates-schliessen-kritische-Sicherheitsluecken-in-KI-Systemen-9597460.html"
+      "title": "Google Chrome: Sicherheitslücke wird in freier Wildbahn ausgenutzt",
+      "teaser": "Google aktualisiert den Webbrowser Chrome. Das Update schließt hochriskante Sicherheitslücken. Eine davon wird bereits missbraucht.",
+      "url": "https://www.heise.de/news/Google-Chrome-Sicherheitsluecke-wird-in-freier-Wildbahn-ausgenutzt-9599575.html"
+    },
+    {
+      "title": "iX-Workshop: OWASP Top 10 – Webanwendungen effektiv absichern",
+      "teaser": "Lernen Sie die wichtigsten Sicherheitslücken in Web-Anwendungen kennen und erfahren Sie, wie Sie sich erfolgreich schützen können. Last Call",
+      "url": "https://www.heise.de/news/iX-Workshop-OWASP-Top-10-Webanwendungen-effektiv-absichern-9598969.html",
+      "image_title": "Online-Workshop: OWASP Top 10 – Sicherheitslücken in Webanwendungen vermeiden"
     },
     {
       "title": "Codeschmuggel in Juniper JunOS: Weltweit tausende Geräte betroffen",
@@ -148,17 +159,6 @@
       "title": "BSI: Hohe Anforderungen an RSA-Schlüssellängen bei TLS-Verbindungen",
       "teaser": "Das BSI fordert für TLS-Verbindungen äußerst große RSA-Schlüssellängen. Sprecher relativieren, es seien Empfehlungen. Checklisten widersprechen dem.",
       "url": "https://www.heise.de/news/BSI-Verwirrung-um-Anforderungen-an-Schluessellaengen-fuer-TLS-Verbindungen-9596072.html"
-    },
-    {
-      "title": "Pufferüberlauf und andere Sicherheitslücken in IBM Business Automation Workflow",
-      "teaser": "Angreifer können Code einschleusen, Komponenten zum Stillstand bringen und geheime Informationen abgreifen. IBM informiert Kunden über Gegenmaßnahmen.",
-      "url": "https://www.heise.de/news/Pufferueberlauf-und-andere-Sicherheitsluecken-in-IBM-Business-Automation-Workflow-9596204.html",
-      "image_title": "IBM"
-    },
-    {
-      "title": "Bitwarden erweitert Passkey-Unterstützung",
-      "teaser": "Die aktuelle Version 2024.1.0 von Bitwarden ermöglicht den Login in die Web-App und den Online-Vault mit Passkeys.",
-      "url": "https://www.heise.de/news/Bitwarden-legt-Passkey-Unterstuetzung-fuer-Web-App-nach-9595697.html"
     },
     {
       "title": "Microsofts Cloud und Entra ID - Reale Angriffe verstehen und verhindern",
