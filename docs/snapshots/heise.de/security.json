@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-17T11:00:53",
+  "timestamp": "2024-01-17T12:09:56",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Oracle",
+      "url": "https://www.heise.de/news/Critical-Patch-Update-Oracle-veroeffentlicht-389-Sicherheitsupdates-9600083.html"
+    },
+    {
       "title": "Citrix NetScaler ADC, NetScaler Gateway",
       "url": "https://www.heise.de/news/Jetzt-patchen-Vorsicht-vor-DoS-Angriffe-auf-Citrix-NetScaler-ADC-und-Gateway-9599627.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-VMware-vergass-Zugriffskontrollen-in-Aria-Operations-9598732.html"
     },
     {
-      "title": "Patchday Atlassian",
-      "url": "https://www.heise.de/news/Atlassian-Updates-zum-Patchday-schliessen-28-hochriskante-Schwachstellen-9598439.html"
+      "title": "Critical Patch Update: Oracle veröffentlicht 389 Sicherheitsupdates",
+      "teaser": "Oracle hat in seinem Quartalsupdate unter anderem Banking Enterprise, MySQL und Solaris gegen mögliche Angriffe abgesichert.",
+      "url": "https://www.heise.de/news/Critical-Patch-Update-Oracle-veroeffentlicht-389-Sicherheitsupdates-9600083.html",
+      "image_title": "Oracle Update-Bild"
+    },
+    {
+      "title": "Jetzt patchen! Vorsicht vor DoS-Angriffen auf Citrix NetScaler ADC und Gateway",
+      "teaser": "Citrix hat Produkte seiner NetScaler-Serie auf den aktuellen Stand gebracht und gegen laufende Attacken gerüstet.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Vorsicht-vor-DoS-Angriffe-auf-Citrix-NetScaler-ADC-und-Gateway-9599627.html"
     },
     {
       "title": "Google Chrome: Sicherheitslücke wird in freier Wildbahn ausgenutzt",
@@ -147,18 +158,6 @@
       "teaser": "Wir beantworten Fragen zu Datenschutz und Freiwilligkeit beim E-Rezept, insbesondere bei der Übermittlung von Daten in die Telematikinfrastruktur.​",
       "url": "https://www.heise.de/news/E-Rezept-Wie-es-bei-Nutzung-und-Datenuebermittlung-um-Freiwilligkeit-steht-9595199.html",
       "image_title": "Blonde Ärztin im weißen Kittel gibt Patienten ihre Krankenkassenkarte."
-    },
-    {
-      "title": "Ransomware-Gang Medusa erpresst Hilfsorganisation",
-      "teaser": "Die Ransomware-Gang Medusa erpresst die Hilfsorganisation Water for People. Das geht auch aus einem Eintrag auf der Darknet-Website der Cyberkriminellen hervor.",
-      "url": "https://www.heise.de/news/Ransomware-Gang-Medusa-erpresst-Hilfsorganisation-9596950.html",
-      "image_title": "Cyberkrimineller bei der Arbeit"
-    },
-    {
-      "title": "Stuxnet: Wie ein Ingenieur das iranische Atomprogramm sabotiert haben soll",
-      "teaser": "Der niederländische Geheimdienst soll bei der Sabotage des iranischen Atomprogramms eine bedeutende Rolle gespielt haben. Ein Agent starb bei einem Unfall.​",
-      "url": "https://www.heise.de/news/Stuxnet-Niederlaendischer-Geheimdienst-half-wohl-bei-Sabotage-im-Iran-9596851.html",
-      "image_title": "Name Stuxnet in roter Schrift einem Wortfeld"
     },
     {
       "title": "Microsofts Cloud und Entra ID - Reale Angriffe verstehen und verhindern",

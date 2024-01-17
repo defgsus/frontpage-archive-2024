@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-17T11:00:50",
+  "timestamp": "2024-01-17T12:09:52",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -42,19 +42,34 @@
       "url": "https://www.heise.de/news/Microsoft-liefert-Abhilfe-zur-Installation-von-Updates-in-WinRE-Partition-9595312.html"
     },
     {
+      "title": "Was die SBOM-Richtlinie für Anbieter von Cloud-Diensten bedeutet",
+      "teaser": "In seiner SBOM-Richtlinie gibt das BSI Empfehlungen, wie sich Software-Hersteller auf die Umsetzung des Cyber Resilience Acts vorbereiten können. Ein Überblick.",
+      "url": "https://www.heise.de/hintergrund/Was-die-SBOM-Richtlinie-fuer-Anbieter-von-Cloud-Diensten-bedeutet-9594634.html"
+    },
+    {
       "title": "Microsoft: Ausgemusterte Funktionen in Windows",
       "teaser": "Bei der Berichterstattung über neue Windows-Funktionen bleiben ausgesonderte Funktionen oft eine Randnotiz. Dabei ist manches ein Verlust. Ein Überblick.",
       "url": "https://www.heise.de/hintergrund/Microsoft-Ausgemusterte-Funktionen-in-Windows-9594802.html",
       "image_title": "Thorsten Hübner"
     },
     {
-      "title": "Wie man Quizze und Kreuzworträtsel mit ChatGPT erstellt",
-      "teaser": "Das simple Frage-Antwort-Prinzip lässt sich zum Lernen nutzen. Quizze im Team mit ChatGPT zu entwickeln macht Spaß, und ist auch ein sinnvoller KI-Einsatz.",
-      "url": "https://www.heise.de/ratgeber/Wie-man-Quizze-und-Kreuzwortraetsel-mit-ChatGPT-erstellt-9595840.html",
-      "image_title": ", Bild: KI Midjourney Collage c‘t"
+      "title": "Critical Patch Update: Oracle veröffentlicht 389 Sicherheitsupdates",
+      "teaser": "Oracle hat in seinem Quartalsupdate unter anderem Banking Enterprise, MySQL und Solaris gegen mögliche Angriffe abgesichert.",
+      "url": "https://www.heise.de/news/Critical-Patch-Update-Oracle-veroeffentlicht-389-Sicherheitsupdates-9600083.html",
+      "image_title": "Oracle Update-Bild"
     },
     {
-      "title": "Getestet: FIDO-Smartcard mit Fingerabdrucksensor",
+      "title": "Seagate startet Serienproduktion von HAMR-Festplatten",
+      "teaser": "Seagate will noch im ersten Quartal mit der Auslieferung der ersten HAMR-Festplatten aus der Serienproduktion beginnen. Die Laufwerke fassen mehr als 30 TByte.",
+      "url": "https://www.heise.de/news/Seagate-startet-Serienproduktion-von-HAMR-Festplatten-9599931.html"
+    },
+    {
+      "title": "secIT 2024: Wie sich Firmen nach IT-Attacken idealerweise verhalten sollten",
+      "teaser": "Die IT-Security-Konferenzmesse secIT verspricht dank redaktionell ausgewählter Referenten und Themen echte Hilfe gegen Cyberattacken.",
+      "url": "https://www.heise.de/news/secIT-2024-Wie-sich-Firmen-nach-IT-Attacken-idealerweise-verhalten-sollten-9597668.html"
+    },
+    {
+      "title": "Das Passwort im Portemonnaie: FIDO2-Smartcard im Test",
       "teaser": "Sicherheitsexperten plädieren für einen Umstieg vom Passwort auf FIDO2. Wir haben die BobeePass-Smartcard mit Fingerabdrucksensor getestet.",
       "url": "https://www.heise.de/tests/Getestet-FIDO-Smartcard-mit-Fingerabdrucksensor-9599895.html"
     },
@@ -99,6 +114,12 @@
       "image_title": "Online-Workshop: OWASP Top 10 – Sicherheitslücken in Webanwendungen vermeiden"
     },
     {
+      "title": "Wie man Quizze und Kreuzworträtsel mit ChatGPT erstellt",
+      "teaser": "Das simple Frage-Antwort-Prinzip lässt sich zum Lernen nutzen. Quizze im Team mit ChatGPT zu entwickeln macht Spaß, und ist auch ein sinnvoller KI-Einsatz.",
+      "url": "https://www.heise.de/ratgeber/Wie-man-Quizze-und-Kreuzwortraetsel-mit-ChatGPT-erstellt-9595840.html",
+      "image_title": ", Bild: KI Midjourney Collage c‘t"
+    },
+    {
       "title": "Bit-Rauschen, der Prozessor-Podcast: Transistoren der Zukunft",
       "teaser": "Zukünftige Chips haben nicht nur kleinere Strukturen, sie benötigen auch neuartige Transistoren und andere Innovationen: Folge 2024/2 des Podcasts Bit-Rauschen.",
       "url": "https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-Transistoren-der-Zukunft-9279787.html",
@@ -115,30 +136,6 @@
       "teaser": "Epics jahrelanger Feldzug gegen Apple steht vor einem jähen Ende. Apple muss allerdings das umstrittene Schweigegebot für iPhone-Apps streichen.",
       "url": "https://www.heise.de/news/Streit-um-App-Store-Monopol-Oberstes-US-Gericht-laesst-Apple-und-Epic-abblitzen-9599353.html",
       "image_title": "Fortnite auf iPhone vor Apple-Logo"
-    },
-    {
-      "title": "E-Rezept-App: Auch GesundheitsID für Barmer-Versicherte funktioniert wieder",
-      "teaser": "Nachdem Versicherte sich zwischenzeitlich nicht mit der GesundheitsID in der E-Rezept-App anmelden konnten, ist das jetzt auch bei der Barmer wieder möglich.",
-      "url": "https://www.heise.de/news/E-Rezept-App-Auch-GesundheitsID-fuer-Barmer-Versicherte-funktioniert-wieder-9593198.html",
-      "image_title": "Digitale Identitäten auf einem Tablet, darüber ein Schloss in dem ein Gesicht steckt (Symbolbild)"
-    },
-    {
-      "title": "Entwicklungsumgebung Fleet 1.29 mit flexiblerem Einsatz regulärer Ausdrücke",
-      "teaser": "Die Public Preview der JetBrains-IDE beherrscht in Version 1.29 das Suchen und Ersetzen von Gruppen per Regex.​",
-      "url": "https://www.heise.de/news/Entwicklungsumgebung-Fleet-1-29-mit-flexiblerem-Einsatz-regulaerer-Ausdruecke-9599057.html",
-      "image_title": "Container Schiff Flotte Meer"
-    },
-    {
-      "title": "Canonical: 12 Jahre Support für Ubuntu 24.04 LTS – wenn man abonniert",
-      "teaser": "Laut Canonical-Chef Mark Shuttleworth kann das für April erwartete Ubuntu 24.04 LTS bis zu 12 Jahre Support erhalten. Das setzt aber ein Ubuntu-Pro-Abo voraus.",
-      "url": "https://www.heise.de/news/Canonical-12-Jahre-Support-fuer-Ubuntu-24-04-LTS-wenn-man-abonniert-9599185.html",
-      "image_title": "Wappen-artiges Icon, auf dem Open Source steht"
-    },
-    {
-      "title": "Vision Pro: Apples Suche nach der Killer-App | TNBT-Podcast",
-      "teaser": "Kein Event, kaum neue Infos: Apple hält sich zum Vision-Pro-Start ungewöhnlich bedeckt. Wir besprechen Apps und Anwendungsszenarien.",
-      "url": "https://www.heise.de/news/Vision-Pro-Apples-Suche-nach-der-Killer-App-TNBT-Podcast-9599145.html",
-      "image_title": "Vision Pro: Apples Suche nach der Killer-App TNBT-Podcast"
     },
     {
       "title": "ECN Pulse Check 2023",
