@@ -1,200 +1,234 @@
 {
-  "timestamp": "2024-01-17T01:47:26",
+  "timestamp": "2024-01-17T02:21:55",
   "url": "https://www.gmx.net/magazine/",
   "response": {
-    "status": 200
+    "status": 502
   },
   "scripts": [
     {
       "type": null,
-      "src": "https://s.uicdn.com/t/prod/iq/mam/mango/daq.js",
+      "src": "https://s.uicdn.com/t/prod/iq/mam/purple/daq.js",
       "id": null,
       "text": null
     },
     {
-      "type": "module",
-      "src": "https://s.uicdn.com/uimag/6.2585.0/assets/_sn_/modules/mod-multisearch/multisearch.js",
+      "type": null,
+      "src": "https://dl.gmx.net/tcf/live/v1/js/tcf-api.js",
       "id": null,
       "text": null
     },
     {
-      "type": "module",
-      "src": "https://s.uicdn.com/uimag/6.2585.0/assets/_sn_/modules/mod-navigation/navigation.js",
+      "type": null,
+      "src": "https://img.ui-portal.de/pos-cdn/tracklib/4.7.3/tracklib.poly.min.js",
       "id": null,
       "text": null
     },
     {
-      "type": "module",
-      "src": "https://s.uicdn.com/uimag/6.2585.0/assets/_sn_/js/entry.js",
+      "type": null,
+      "src": "https://js.ui-portal.de/homepage/res/legacy/live/1.50/gmx/js/piNctTracking.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://js.ui-portal.de/homepage/res/legacy/live/1.50/gmx/chunk-vendors.bundle.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://js.ui-portal.de/homepage/res/legacy/live/1.50/gmx/chunk-common.bundle.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://js.ui-portal.de/homepage/res/legacy/live/1.50/gmx/homepage.bundle.js",
       "id": null,
       "text": null
     }
   ],
   "articles": [
     {
-      "title": "Habeck: Galgen bei Bauernprotesten sind \"wirklich verstörend\"",
+      "title": "Habeck: Galgen bei Bauernprotesten sind \"wirklich verstÃ¶rend\"",
       "url": "https://www.gmx.net/magazine/politik/habeck-galgen-bauernprotesten-verstoerend-39070916",
-      "image_url": "https://i0.gmx.net/image/936/39070936,pd=1,f=responsive169-w950/robert-habeck-galgen-bauern.png"
+      "image_url": "https://i0.gmx.net/image/936/39070936,pd=1,h=300,w=530/robert-habeck-galgen-bauern.png",
+      "image_title": "Robert Habeck, Galgen, Bauern"
     },
     {
-      "title": "Klarer Sieg bei Vorwahlen in Iowa: Ist Donald Trump überhaupt noch aufzuhalten?",
+      "title": "Klarer Sieg bei Vorwahlen in Iowa: Ist Donald Trump Ã¼berhaupt noch aufzuhalten?",
       "url": "https://www.gmx.net/magazine/politik/us-politik/klarem-sieg-vorwahlen-iowa-donald-trump-ueberhaupt-aufzuhalten-39069524",
-      "image_url": "https://i0.gmx.net/image/544/39069544,pd=2,f=responsive169-w450.jpg"
+      "image_url": "https://i0.gmx.net/image/544/39069544,pd=2,h=300,w=530.jpg"
     },
     {
-      "title": "Umfrage-Dämpfer für neue Wagenknecht-Partei",
+      "title": "Umfrage-DÃ¤mpfer fÃ¼r neue Wagenknecht-Partei",
       "url": "https://www.gmx.net/magazine/politik/umfrage-daempfer-wagenknecht-partei-39071026",
-      "image_url": "https://i0.gmx.net/image/022/39071022,pd=2,f=responsive169-w450/buendnis-sahra-wagenknecht-rheinland-pfalz.jpg"
-    },
-    {
-      "title": "Zehntausende Menschen demonstrieren in Köln gegen die AfD",
-      "url": "https://www.gmx.net/magazine/panorama/zehntausende-menschen-demonstrieren-koeln-afd-39071020",
-      "image_url": "https://i0.gmx.net/image/024/39071024,pd=1,f=responsive169-w450/demonstration-afd-rechtsextremismus.jpg"
-    },
-    {
-      "title": "Reform angekündigt: Buschmann will Patchwork- und Regenbogenfamilien stärken",
-      "url": "https://www.gmx.net/magazine/politik/reform-familienrechts-angekuendigt-buschmann-patchwork-regenbogenfamilien-staerken-39069904",
-      "image_url": "https://i0.gmx.net/image/912/39069912,pd=1,f=responsive169-w450.jpg"
-    },
-    {
-      "title": "Mindestens 12 Tote nach schweren Regenfällen in Rio de Janeiro",
-      "url": "https://www.gmx.net/magazine/panorama/12-tote-schweren-regenfaellen-rio-de-janeiro-39068238",
-      "image_url": "https://i0.gmx.net/image/430/39068430,pd=3,f=responsive169-w450.jpg"
-    },
-    {
-      "title": "Kim Jong Un droht Südkorea mit Krieg – Behörde für Wiedervereinigung abgeschafft",
-      "url": "https://www.gmx.net/magazine/politik/nordkorea-droht-suedkorea-krieg-schafft-behoerden-wiedervereinigung-39068802",
-      "image_url": "https://i0.gmx.net/image/798/39067798,pd=3,f=responsive169-w450/nordkorea-machthaber-kim.jpg"
-    },
-    {
-      "title": "Markus Söder: Ein Verbot der AfD ist nicht der richtige Weg",
-      "url": "https://www.gmx.net/magazine/politik/markus-soeder-afd-nifcht-verbieten-39069668",
-      "image_url": "https://i0.gmx.net/image/670/39069670,pd=2,f=responsive169-w450/markus-soeder-spricht-kloster-banz-mikrofone.jpg"
-    },
-    {
-      "title": "Schwer zu ertragen: Altherren-Gelaber mit Thomas Gottschalk und Mike Krüger",
-      "url": "https://www.gmx.net/magazine/unterhaltung/stars/55-minuten-retro-gelaber-thomas-gottschalk-mike-krueger-39068936",
-      "image_url": "https://i0.gmx.net/image/762/39069762,pd=4,f=responsive169-w450/mike-krueger-thomas-gottschalk.jpg"
-    },
-    {
-      "title": "Stefanie Giesinger, wie feministisch ist die Modewelt?",
-      "url": "https://www.gmx.net/magazine/unterhaltung/stars/topmodel-stefanie-giesinger-modewelt-pseudofeministisch-39065100",
-      "image_url": "https://i0.gmx.net/image/332/39065332,pd=3,f=responsive169-w450/stefanie-giesinger.jpg"
-    },
-    {
-      "title": "Neue Doku-Soap: Bei Gina-Lisa Lohfink läuten bald die Hochzeitsglocken",
-      "url": "https://www.gmx.net/magazine/unterhaltung/tv-shows/doku-soap-gina-lisa-lohfink-laeuten-hochzeitsglocken-39070286",
-      "image_url": "https://i0.gmx.net/image/288/39070288,pd=1,f=responsive169-w450/gina-lisa-lohfink-joyn.jpg"
-    },
-    {
-      "title": "Hat \"Harry Potter\"-Star Daniel Radcliffe heimlich geheiratet?",
-      "url": "https://www.gmx.net/magazine/unterhaltung/stars/harry-potter-star-daniel-radcliffe-heimlich-geheiratet-39070194",
-      "image_url": "https://i0.gmx.net/image/196/39070196,pd=1,f=responsive169-w450/daniel-radcliffe-erin-darke.jpg"
-    },
-    {
-      "title": "Aufregerthema: Warum Globuli und Co. so polarisieren",
-      "url": "https://www.gmx.net/magazine/gesundheit/kassen-globuli-co-homoeopathie-39068356",
-      "image_url": "https://i0.gmx.net/image/274/39069274,pd=1,f=responsive169-w450/homoeopathie.jpg"
-    },
-    {
-      "title": "Sie sind Mieter und haben Kabel-TV? Dann steht Ihnen eine große Änderung bevor",
-      "url": "https://www.gmx.net/magazine/digital/kabel-tv-nebenkosten-alternativen-mieter-39066814",
-      "image_url": "https://i0.gmx.net/image/850/39067850,pd=3,f=responsive169-w450/kabel-tv.jpg"
-    },
-    {
-      "title": "Oh wie süß, ein Faultier! Warum Gefühle schlechte Spendenratgeber sind",
-      "url": "https://www.gmx.net/magazine/ratgeber/finanzen-verbraucher/gefuehle-schlechte-spendenratgeber-39066078",
-      "image_url": "https://i0.gmx.net/image/150/39066150,pd=1,f=responsive169-w450/spenden.jpg"
-    },
-    {
-      "title": "Vernichtendes Test-Urteil für einen Star unter den Gesichtscremes",
-      "url": "https://www.gmx.net/magazine/ratgeber/beauty-lifestyle/neutrogena-hydro-boost-gesichtscreme-faellt-test-39069914",
-      "image_url": "https://i0.gmx.net/image/022/39070022,pd=2,f=responsive169-w450/verwendet-laecheln-gesichtscreme.jpg"
-    },
-    {
-      "title": "Umfrage: So viel würden die meisten maximal für ein Auto zahlen",
-      "url": "https://www.gmx.net/magazine/auto/wuerden-auto-zahlen-39069422",
-      "image_url": "https://i0.gmx.net/image/562/39069562,pd=2,f=responsive169-w450/autokauf.jpg"
+      "image_url": "https://i0.gmx.net/image/022/39071022,pd=2,h=300,w=530/buendnis-sahra-wagenknecht-rheinland-pfalz.jpg",
+      "image_title": "BÃ¼ndnis Sahra Wagenknecht in Rheinland-Pfalz"
     },
     {
       "title": "Deutschland unterliegt starken Franzosen und geht ohne Punkte in die Hauptrunde",
       "url": "https://www.gmx.net/magazine/sport/handball/em/deutschland-unterliegt-starken-franzosen-punkte-hauptrunde-39070872",
-      "image_url": "https://i0.gmx.net/image/910/39070910,pd=1,f=responsive169-w450/juri-knorr-wirft-ball-aufs-tor.jpg"
+      "image_url": "https://i0.gmx.net/image/910/39070910,pd=1,h=300,w=530/juri-knorr-wirft-ball-aufs-tor.jpg",
+      "image_title": "Juri Knorr wirft den Ball aufs Tor."
     },
     {
-      "title": "Schlechte deutsche Leistung schlägt sich bei Weltauswahl der Frauen nieder",
-      "url": "https://www.gmx.net/magazine/sport/fussball/fifa-weltauswahl-frauen-englaenderinnen-deutsche-39067928",
-      "image_url": "https://i0.gmx.net/image/936/39067936,pd=1,f=responsive169-w450.jpg"
+      "title": "Schwer zu ertragen: Altherren-Gelaber mit Thomas Gottschalk und Mike KrÃ¼ger",
+      "url": "https://www.gmx.net/magazine/unterhaltung/stars/55-minuten-retro-gelaber-thomas-gottschalk-mike-krueger-39068936",
+      "image_url": "https://i0.gmx.net/image/762/39069762,pd=4,h=300,w=530/mike-krueger-thomas-gottschalk.jpg",
+      "image_title": "Mike KrÃ¼ger, Thomas Gottschalk"
     },
     {
-      "title": "500 Pflichtspiele für den FC Bayern: Neuer zieht mit Vereinslegende gleich",
-      "url": "https://www.gmx.net/magazine/sport/fussball/bundesliga/fc-bayern/500-pflichtspiele-fc-bayern-vereinslegende-39059592",
-      "image_url": "https://i0.gmx.net/image/622/39059622,pd=6,f=responsive169-w450/manuel.jpg"
+      "title": "Stefanie Giesinger, wie feministisch ist die Modewelt?",
+      "url": "https://www.gmx.net/magazine/unterhaltung/stars/topmodel-stefanie-giesinger-modewelt-pseudofeministisch-39065100"
+    },
+    {
+      "title": "120-Millionen-Euro-Jackpot ist geknackt",
+      "url": "https://www.gmx.net/magazine/panorama/lotto/120-millionen-euro-jackpot-geknackt-39070920"
+    },
+    {
+      "title": "Bieter-Duell um \"starke Frau\" lÃ¤sst HÃ¤ndler leer ausgehen",
+      "url": "https://www.gmx.net/magazine/unterhaltung/tv-shows/bares-fuer-rares/bieter-duell-starke-bares-rares-39069718"
+    },
+    {
+      "title": "Schlechte deutsche Leistung schlÃ¤gt sich bei Weltauswahl der Frauen nieder",
+      "url": "https://www.gmx.net/magazine/sport/fussball/fifa-weltauswahl-frauen-englaenderinnen-deutsche-39067928"
+    },
+    {
+      "title": "Zehntausende Menschen demonstrieren in KÃ¶ln gegen die AfD",
+      "url": "https://www.gmx.net/magazine/panorama/zehntausende-menschen-demonstrieren-koeln-afd-39071020",
+      "image_url": "https://i0.gmx.net/image/024/39071024,pd=1,h=170,w=300/demonstration-afd-rechtsextremismus.jpg",
+      "image_title": "Demonstration gegen die AfD und Rechtsextremismus"
+    },
+    {
+      "title": "Hat \"Harry Potter\"-Star Daniel Radcliffe heimlich geheiratet?",
+      "url": "https://www.gmx.net/magazine/unterhaltung/stars/harry-potter-star-daniel-radcliffe-heimlich-geheiratet-39070194",
+      "image_url": "https://i0.gmx.net/image/196/39070196,pd=1,h=170,w=300/daniel-radcliffe-erin-darke.jpg",
+      "image_title": "Daniel Radcliffe, Erin Darke"
+    },
+    {
+      "title": "Beim Einsatz dieser Helikopter spielt die Ukraine mit dem Feuer",
+      "url": "https://www.gmx.net/magazine/politik/russland-krieg-ukraine/ukraine-risiko-helikopter-einsetzen-39068894",
+      "image_url": "https://i0.gmx.net/image/896/39068896,pd=4,h=170,w=300/taipan-mrh-90-helikopter-rollfeld.jpg",
+      "image_title": "Taipan-MRH-90-Helikopter auf dem Rollfeld"
+    },
+    {
+      "title": "Mit 90 Jahren: Joan Collins funkelt bei den Emmys",
+      "url": "https://www.gmx.net/magazine/unterhaltung/filme-serien-kino/90-jahren-joan-collins-funkelt-emmys-39069986"
     },
     {
       "title": "Bayern-Neuzugang Dier reist vorzeitig aus Trainingslager ab",
-      "url": "https://www.gmx.net/magazine/sport/fussball/bundesliga/fc-bayern/fc-bayern-trainingslager-neuzugang-dier-reist-vorzeitig-39069910",
-      "image_url": "https://i0.gmx.net/image/072/39070072,pd=1,f=responsive169-w450/bayern-neuzugang-eric-dier.jpg"
+      "url": "https://www.gmx.net/magazine/sport/fussball/bundesliga/fc-bayern/fc-bayern-trainingslager-neuzugang-dier-reist-vorzeitig-39069910"
     },
     {
-      "title": "Ein Deutsch-Amerikaner zerstört eine NFL-Defense nach der anderen",
-      "url": "https://www.gmx.net/magazine/sport/nfl/amon-ra-st-brown-deutsch-amerikaner-zerstoert-nfl-defense-39069302",
-      "image_url": "https://i0.gmx.net/image/322/39069322,pd=2,f=responsive169-w450.jpg"
+      "title": "Mann erschieÃt Kassiererin â Ermittler machen Hinweis auf Motiv Ã¶ffentlich",
+      "url": "https://www.gmx.net/magazine/panorama/toedliche-schuesse-supermarkt-ermittler-vermuten-beziehungsstreit-motiv-39066590"
     },
     {
-      "title": "Wann und wo ist T. rex entstanden? Forscher könnten das Rätsel nun lösen",
-      "url": "https://www.gmx.net/magazine/wissen/geschichte/studie-forscher-entdecken-engsten-verwandten-t-rex-39064930",
-      "image_url": "https://i0.gmx.net/image/934/39064934,pd=2,f=responsive169-w450/studie-engster-verwandter-trex-entdeckt.jpg"
+      "title": "Wem die Stiko nicht zur Auffrischimpfung rÃ¤t",
+      "url": "https://www.gmx.net/magazine/gesundheit/impfempfehlung-stiko-auffrischimpfung-raet-39065474"
     },
     {
-      "title": "Signal aus ferner Galaxie: Nasa rätselt über bisher ungeklärtes Phänomen",
-      "url": "https://www.gmx.net/magazine/wissen/weltraum/nasa-raetselt-ungeklaertes-phaenomen-39066084",
-      "image_url": "https://i0.gmx.net/image/086/39066086,pd=1,f=responsive169-w450/signal-galaxie-nasa-raetselt-unerwartetes-ungeklae.jpg"
+      "title": "Berichte: Bayern gibt Angebot fÃ¼r vereinslosen Teenager ab",
+      "url": "https://www.gmx.net/magazine/sport/fussball/bundesliga/fc-bayern/fc-bayern-muenchen-aktuellen-transfergeruechte-angebot-vereinslosen-teenager-38945862",
+      "image_url": "https://i0.gmx.net/image/554/39068554,pd=2,h=170,w=300/bayern-matija-popovic-zettel.jpg",
+      "image_title": "Berichten zufolge sollen die Bayern Matija Popovic auf dem Zettel haben."
     },
     {
-      "title": "Kampf gegen multiresistente Keime: Neuer Wirkstoff aus unserer Nase?",
-      "url": "https://www.gmx.net/magazine/wissen/wissenschaft-technik/kampf-multiresistente-keime-antibiotika-nase-stammen-39065966",
-      "image_url": "https://i0.gmx.net/image/968/39065968,pd=1,f=responsive169-w450.jpg"
+      "title": "Stefanie Giesinger, wie feministisch ist die Modewelt?",
+      "url": "https://www.gmx.net/magazine/unterhaltung/stars/topmodel-stefanie-giesinger-modewelt-pseudofeministisch-39065100",
+      "image_url": "https://i0.gmx.net/image/332/39065332,pd=3,h=170,w=300/stefanie-giesinger.jpg",
+      "image_title": "Stefanie Giesinger"
     },
     {
-      "title": "Warum Möwen auch in Städten zu finden sind",
-      "url": "https://www.gmx.net/magazine/wissen/natur-umwelt/winterziel-moewen-staedte-39063204",
-      "image_url": "https://i0.gmx.net/image/206/39063206,pd=3,f=responsive169-w450/lachmoewe.jpg"
+      "title": "120-Millionen-Euro-Jackpot ist geknackt",
+      "url": "https://www.gmx.net/magazine/panorama/lotto/120-millionen-euro-jackpot-geknackt-39070920"
     },
     {
-      "title": "Antikes Griechenland: Welche Entwicklungen sind heute noch von Bedeutung?",
-      "url": "https://www.gmx.net/magazine/wissen/geschichte/griechen-antike-bedeutsamen-entwicklungen-38858754",
-      "image_url": "https://i0.gmx.net/image/762/38858762,pd=2,f=responsive169-w450/saeulen-athen.jpg"
+      "title": "Bieter-Duell um \"starke Frau\" lÃ¤sst HÃ¤ndler leer ausgehen",
+      "url": "https://www.gmx.net/magazine/unterhaltung/tv-shows/bares-fuer-rares/bieter-duell-starke-bares-rares-39069718"
     },
     {
-      "title": "UNICEF schlägt Alarm: Besorgniserregender Cholera-Ausbruch im südlichen Afrika",
-      "url": "https://www.gmx.net/magazine/unicef/besorgniserregender-cholera-ausbruch-suedlichen-afrika-39069470",
-      "image_url": "https://i0.gmx.net/image/472/39069472,pd=4,f=responsive169-w450/simbabwe.jpg"
+      "title": "Schlechte deutsche Leistung schlÃ¤gt sich bei Weltauswahl der Frauen nieder",
+      "url": "https://www.gmx.net/magazine/sport/fussball/fifa-weltauswahl-frauen-englaenderinnen-deutsche-39067928"
     },
     {
-      "title": "Fast 100.000 Kinder nach Erdbeben in Afghanistan auf Hilfe angewiesen",
-      "url": "https://www.gmx.net/magazine/unicef/afghanistan-100000-kinder-nacherdbeben-hilfe-angewiesen-39068560",
-      "image_url": "https://i0.gmx.net/image/562/39068562,pd=1,f=responsive169-w450/erdbeben-afghanistan-unicef.jpg"
+      "title": "Hat \"Harry Potter\"-Star Daniel Radcliffe heimlich geheiratet?",
+      "url": "https://www.gmx.net/magazine/unterhaltung/stars/harry-potter-star-daniel-radcliffe-heimlich-geheiratet-39070194"
     },
     {
-      "title": "Mit einer UNICEF-Patenschaft helfen Sie Kindern in Not",
-      "url": "https://www.united-internet-for-unicef-stiftung.de/spenden/unicef-pate-werden",
-      "image_url": "https://i0.gmx.net/image/216/34085216,pd=3,f=responsive169-w450/unicef-adut-suedsudan.jpg"
+      "title": "Beim Einsatz dieser Helikopter spielt die Ukraine mit dem Feuer",
+      "url": "https://www.gmx.net/magazine/politik/russland-krieg-ukraine/ukraine-risiko-helikopter-einsetzen-39068894",
+      "image_url": "https://i0.gmx.net/image/896/39068896,pd=4,h=170,w=300/taipan-mrh-90-helikopter-rollfeld.jpg",
+      "image_title": "Taipan-MRH-90-Helikopter auf dem Rollfeld"
     },
     {
-      "title": "Bilder mit Symbolkraft: Diese Aufnahmen suchen ihresgleichen",
-      "url": "https://www.gmx.net/magazine/unicef/unicef-foto-jahres-2023-kindheit-krieg-krisen-wandel-38988850",
-      "image_url": "https://i0.gmx.net/image/874/38988874,pd=4,f=responsive169-w450/kinder-ukraine.jpg"
+      "title": "Zehntausende Menschen demonstrieren in KÃ¶ln gegen die AfD",
+      "url": "https://www.gmx.net/magazine/panorama/zehntausende-menschen-demonstrieren-koeln-afd-39071020",
+      "image_url": "https://i0.gmx.net/image/024/39071024,pd=1,h=170,w=300/demonstration-afd-rechtsextremismus.jpg",
+      "image_title": "Demonstration gegen die AfD und Rechtsextremismus"
     },
     {
-      "title": "Winterhilfe für Kinder in der Ukraine",
-      "url": "https://www.gmx.net/magazine/unicef/ukraine-winterhilfe-kinder-38985816",
-      "image_url": "https://i0.gmx.net/image/626/38932626,pd=2,f=responsive169-w450/kind-keller.jpg"
+      "title": "Stefanie Giesinger, wie feministisch ist die Modewelt?",
+      "url": "https://www.gmx.net/magazine/unterhaltung/stars/topmodel-stefanie-giesinger-modewelt-pseudofeministisch-39065100"
     },
     {
-      "title": "Kinder in Gaza brauchen lebensrettende Hilfsgüter",
-      "url": "https://www.gmx.net/magazine/unicef/gaza-kinder-lebensrettende-hilfsgueter-38809750",
-      "image_url": "https://i0.gmx.net/image/844/38809844,pd=5,f=responsive169-w450/gaza-streifen-maedchen-truemmern.jpg"
+      "title": "120-Millionen-Euro-Jackpot ist geknackt",
+      "url": "https://www.gmx.net/magazine/panorama/lotto/120-millionen-euro-jackpot-geknackt-39070920"
+    },
+    {
+      "title": "Bieter-Duell um \"starke Frau\" lÃ¤sst HÃ¤ndler leer ausgehen",
+      "url": "https://www.gmx.net/magazine/unterhaltung/tv-shows/bares-fuer-rares/bieter-duell-starke-bares-rares-39069718"
+    },
+    {
+      "title": "Schlechte deutsche Leistung schlÃ¤gt sich bei Weltauswahl der Frauen nieder",
+      "url": "https://www.gmx.net/magazine/sport/fussball/fifa-weltauswahl-frauen-englaenderinnen-deutsche-39067928"
+    },
+    {
+      "title": "Hilfe & Kontakt",
+      "teaser": "Hilfestellung & Anleitung zu Ihrem GMX E-Mail Konto",
+      "url": "https://hilfe.gmx.net/",
+      "image_url": "https://i0.gmx.net/image/518/34288518,pd=2,h=80,w=80.svg"
+    },
+    {
+      "title": "Kundencenter",
+      "teaser": "Ihre Daten und Sicherheits-Einstellungen verwalten",
+      "url": "https://account.gmx.net/#.pc_page.homepage.index.footer_2.kundencenter",
+      "image_url": "https://i0.gmx.net/image/512/34288512,pd=2,h=80,w=80.svg"
+    },
+    {
+      "title": "Passwort vergessen",
+      "teaser": "Ihr Passwort zurÃ¼cksetzen und ein neues anlegen",
+      "url": "https://passwort.gmx.net/",
+      "image_url": "https://i0.gmx.net/image/522/34288522,pd=2,h=80,w=80.svg"
+    },
+    {
+      "title": "PrivatsphÃ¤re",
+      "teaser": "Alle Informationen zum Datenschutz bei GMX",
+      "url": "https://www.gmx.net/datenschutz/#.pc_page.homepage.index.footer_4.datenschutz",
+      "image_url": "https://i0.gmx.net/image/524/34288524,pd=2,h=80,w=80.svg"
+    },
+    {
+      "title": "Stefanie Giesinger, wie feministisch ist die Modewelt?",
+      "url": "https://www.gmx.net/magazine/unterhaltung/stars/topmodel-stefanie-giesinger-modewelt-pseudofeministisch-39065100",
+      "image_url": "https://i0.gmx.net/image/332/39065332,pd=3,h=170,w=300/stefanie-giesinger.jpg",
+      "image_title": "Stefanie Giesinger"
+    },
+    {
+      "title": "120-Millionen-Euro-Jackpot ist geknackt",
+      "url": "https://www.gmx.net/magazine/panorama/lotto/120-millionen-euro-jackpot-geknackt-39070920"
+    },
+    {
+      "title": "Bieter-Duell um \"starke Frau\" lÃ¤sst HÃ¤ndler leer ausgehen",
+      "url": "https://www.gmx.net/magazine/unterhaltung/tv-shows/bares-fuer-rares/bieter-duell-starke-bares-rares-39069718"
+    },
+    {
+      "title": "Schlechte deutsche Leistung schlÃ¤gt sich bei Weltauswahl der Frauen nieder",
+      "url": "https://www.gmx.net/magazine/sport/fussball/fifa-weltauswahl-frauen-englaenderinnen-deutsche-39067928"
+    },
+    {
+      "title": "Hat \"Harry Potter\"-Star Daniel Radcliffe heimlich geheiratet?",
+      "url": "https://www.gmx.net/magazine/unterhaltung/stars/harry-potter-star-daniel-radcliffe-heimlich-geheiratet-39070194"
     }
   ]
 }
