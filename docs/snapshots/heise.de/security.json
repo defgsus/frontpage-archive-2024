@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-21T10:01:01",
+  "timestamp": "2024-01-21T11:01:07",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "vCenter Server und Cloud Foundation",
+      "url": "https://www.heise.de/news/Kritische-VMware-Sicherheitsluecke-wird-angegriffen-9604033.html"
+    },
+    {
       "title": "Ivanti EPMM und MobileIron Core",
       "url": "https://www.heise.de/news/Angreifer-attackieren-Ivanti-EPMM-und-MobileIron-Core-9602207.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Trend-Micro-Sicherheitsluecken-in-Security-Agents-ermoeglichen-Rechteausweitung-9601595.html"
     },
     {
-      "title": "MOVEit Transfer",
-      "url": "https://www.heise.de/news/MOVEit-Transfer-Updates-gegen-DOS-Luecke-9601492.html"
+      "title": "Kritische VMware-Sicherheitslücke wird angegriffen",
+      "teaser": "Ende Oktober hat VMware ein Update gegen eine kritische Sicherheitslücke in herausgegeben. Inzwischen wird das Leck angegriffen.",
+      "url": "https://www.heise.de/news/Kritische-VMware-Sicherheitsluecke-wird-angegriffen-9604033.html"
     },
     {
       "title": "iX-Workshop IT-Sicherheit: Angriffstechniken verstehen und erfolgreich abwehren",
@@ -151,12 +156,6 @@
       "title": "Google Chrome: Sicherheitslücke wird in freier Wildbahn ausgenutzt",
       "teaser": "Google aktualisiert den Webbrowser Chrome. Das Update schließt hochriskante Sicherheitslücken. Eine davon wird bereits missbraucht.",
       "url": "https://www.heise.de/news/Google-Chrome-Sicherheitsluecke-wird-in-freier-Wildbahn-ausgenutzt-9599575.html"
-    },
-    {
-      "title": "iX-Workshop: OWASP Top 10 – Schwachstellen in Webanwendungen und Gegenmaßnahmen",
-      "teaser": "Lernen Sie die wichtigsten Sicherheitslücken in Web-Anwendungen kennen und erfahren Sie, wie Sie sich erfolgreich schützen können. Last Call",
-      "url": "https://www.heise.de/news/iX-Workshop-OWASP-Top-10-Webanwendungen-effektiv-absichern-9598969.html",
-      "image_title": "Online-Workshop: OWASP Top 10 – Sicherheitslücken in Webanwendungen vermeiden"
     },
     {
       "title": "Microsofts Cloud und Entra ID - Reale Angriffe verstehen und verhindern",
