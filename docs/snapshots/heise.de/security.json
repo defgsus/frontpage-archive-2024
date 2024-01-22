@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-22T16:06:44",
+  "timestamp": "2024-01-22T17:00:57",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Confluence",
+      "url": "https://www.heise.de/news/Confluence-Kritische-Sicherheitsluecke-in-veralteten-Versionen-wird-ausgenutzt-9605028.html"
+    },
+    {
       "title": "Lexmark-Drucker",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Schlupfloecher-fuer-Schadcode-in-Lexmark-Druckern-geschlossen-9604795.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Angreifer-attackieren-Ivanti-EPMM-und-MobileIron-Core-9602207.html"
     },
     {
-      "title": "Nextcloud Apps",
-      "url": "https://www.heise.de/news/Nextcloud-Luecken-in-Apps-gefaehrden-Nutzerkonten-und-Datensicherheit-9601589.html"
+      "title": "Confluence: Kritische Sicherheitslücke in veralteten Versionen wird ausgenutzt",
+      "teaser": "Cybergangster durchforsten das Netz, auf der Suche nach angreifbaren Confluence-Installationen. Wer jetzt nicht handelt, riskiert Datenverluste.",
+      "url": "https://www.heise.de/news/Confluence-Kritische-Sicherheitsluecke-in-veralteten-Versionen-wird-ausgenutzt-9605028.html",
+      "image_title": "Hacker,Attack,Computer,Hardware,Microchip,While,Process,Data,Through,Internet"
     },
     {
       "title": "Sicherheitsupdates: Schlupflöcher für Schadcode in Lexmark-Druckern geschlossen",
@@ -150,12 +156,6 @@
       "teaser": "Der Passwort-Prüfdienst HIBP hat fast 71 Millionen im Zuge von Cyberattacken kopierte E-Mail-Adressen in seine Datenbank aufgenommen.",
       "url": "https://www.heise.de/news/Have-I-Been-Pwned-Gigantisches-Naz-API-Datenleak-hinzugefuegt-9601339.html",
       "image_title": "Leak-Taste auf Tastatur"
-    },
-    {
-      "title": "Daten aus GPU belauscht: KI-Sicherheitslücke bei Apple Silicon, AMD und Qualcomm",
-      "teaser": "Sicherheitsforscher haben ein Problem in den Grafikkernen älterer iPhones und Macs entdeckt, außerdem bei AMD und Qualcomm. Apple patcht – teilweise.",
-      "url": "https://www.heise.de/news/Daten-aus-GPU-belauscht-KI-Sicherheitsluecke-bei-Apple-Silicon-AMD-und-Qualcomm-9600829.html",
-      "image_title": "Der M2-Chip von Apple"
     },
     {
       "title": "Microsofts Cloud und Entra ID - Reale Angriffe verstehen und verhindern",
