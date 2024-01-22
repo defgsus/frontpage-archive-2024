@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-22T12:10:01",
+  "timestamp": "2024-01-22T13:10:04",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Lexmark-Drucker",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Schlupfloecher-fuer-Schadcode-in-Lexmark-Druckern-geschlossen-9604795.html"
+    },
+    {
       "title": "vCenter Server und Cloud Foundation",
       "url": "https://www.heise.de/news/Kritische-VMware-Sicherheitsluecke-wird-angegriffen-9604033.html"
     },
@@ -44,11 +48,12 @@
       "url": "https://www.heise.de/news/Nextcloud-Luecken-in-Apps-gefaehrden-Nutzerkonten-und-Datensicherheit-9601589.html"
     },
     {
-      "title": "Trend Micro Deep Security Agent",
-      "url": "https://www.heise.de/news/Trend-Micro-Sicherheitsluecken-in-Security-Agents-ermoeglichen-Rechteausweitung-9601595.html"
+      "title": "Sicherheitsupdates: Schlupflöcher für Schadcode in Lexmark-Druckern geschlossen",
+      "teaser": "Angreifer können an vielen Druckermodellen von Lexmark ansetzen, um Geräte zu kompromittieren. Derzeit soll es noch keine Attacken geben.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Schlupfloecher-fuer-Schadcode-in-Lexmark-Druckern-geschlossen-9604795.html"
     },
     {
-      "title": "Zentralstelle Cybercrime warnt vor Phishing-Welle",
+      "title": "Phishing-Welle von Zentralstelle Cybercrime Bayern beobachtet",
       "teaser": "Die bayerische Zentralstelle Cybercrime warnt vor einer neuen Welle einer Phishing-Masche. Täter räumen dabei schnell Konten leer.",
       "url": "https://www.heise.de/news/Zentralstelle-Cybercrime-warnt-vor-Phishing-Welle-9604611.html",
       "image_title": "Ein ungeordneter Stapel mit Kreditkarten und Girokarten von verschiedenen Zahlungsdienstleistern wie Mastercard oder Visa."
@@ -151,11 +156,6 @@
       "teaser": "Sicherheitsforscher haben ein Problem in den Grafikkernen älterer iPhones und Macs entdeckt, außerdem bei AMD und Qualcomm. Apple patcht – teilweise.",
       "url": "https://www.heise.de/news/Daten-aus-GPU-belauscht-KI-Sicherheitsluecke-bei-Apple-Silicon-AMD-und-Qualcomm-9600829.html",
       "image_title": "Der M2-Chip von Apple"
-    },
-    {
-      "title": "LKA warnt vor WhatsApp-Betrugsmasche",
-      "teaser": "Eine neue Betrugsmasche setzt auf erneutes Kontaktieren von Opfern vorheriger Betrügereien. Davor warnt das LKA Niedersachsen.",
-      "url": "https://www.heise.de/news/LKA-warnt-vor-WhatsApp-Betrugsmasche-9600403.html"
     },
     {
       "title": "Microsofts Cloud und Entra ID - Reale Angriffe verstehen und verhindern",
