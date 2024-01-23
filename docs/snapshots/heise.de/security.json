@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-23T09:00:55",
+  "timestamp": "2024-01-23T10:00:51",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Splunk",
+      "url": "https://www.heise.de/news/Monitoringsoftware-Splunk-Teils-kritische-Sicherheitsluecken-9605543.html"
+    },
+    {
+      "title": "macOS, iOS, iPadOS, tvOS",
+      "url": "https://www.heise.de/news/Sicherheitsfixes-Apple-aktualisiert-aeltere-Systeme-und-raeumt-Zero-Days-ein-9605294.html"
+    },
+    {
       "title": "Confluence",
       "url": "https://www.heise.de/news/Confluence-Kritische-Sicherheitsluecke-in-veralteten-Versionen-wird-ausgenutzt-9605028.html"
     },
@@ -40,12 +48,15 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Schlupfloecher-fuer-Schadcode-in-Lexmark-Druckern-geschlossen-9604795.html"
     },
     {
-      "title": "vCenter Server und Cloud Foundation",
-      "url": "https://www.heise.de/news/Kritische-VMware-Sicherheitsluecke-wird-angegriffen-9604033.html"
+      "title": "Monitoringsoftware Splunk: Teils kritische Sicherheitslücken",
+      "teaser": "Splunk hat für die gleichnamige Monitoringsoftware Updates veröffentlicht. Sie dichten Sicherheitslücken darin ab.",
+      "url": "https://www.heise.de/news/Monitoringsoftware-Splunk-Teils-kritische-Sicherheitsluecken-9605543.html"
     },
     {
-      "title": "Ivanti EPMM und MobileIron Core",
-      "url": "https://www.heise.de/news/Angreifer-attackieren-Ivanti-EPMM-und-MobileIron-Core-9602207.html"
+      "title": "Sicherheitsfixes: Apple aktualisiert ältere Systeme – und räumt Zero Days ein",
+      "teaser": "Apple hat neben macOS 14.3 und iOS 17.3 auch neue Versionen von iOS 15, 16, macOS 12 und 13 sowie Safari veröffentlicht. Es gab einen erneuten Zero-Day-Exploit.",
+      "url": "https://www.heise.de/news/Sicherheitsfixes-Apple-aktualisiert-aeltere-Systeme-und-raeumt-Zero-Days-ein-9605294.html",
+      "image_title": "Apple-Logo mit grünem Hintergrund"
     },
     {
       "title": "US-Vorwahlen: KI-generierter Joe Biden rät Wählern vom Urnengang ab",
@@ -146,18 +157,6 @@
       "teaser": "Nicht nur Smartphone-Kameras können Personen ausspionieren, sondern auch Umgebungslichtsensoren. Das geht aus einer in \"Science\" veröffentlichen Studie hervor.",
       "url": "https://www.heise.de/news/Smartphones-und-mehr-Auch-Umgebungslichtsensoren-koennen-spionieren-9601724.html",
       "image_title": "Person vor einem Laptop"
-    },
-    {
-      "title": "heise devSec im Frühjahr: KI für Softwareentwicklung und Supply Chain Security",
-      "teaser": "Anfang März gibt es zwei Tage zu aktuellen Themen rund um sichere Softwareentwicklung: Die erste Frühjahrsausgabe der heise devSec startet in Hannover.",
-      "url": "https://www.heise.de/news/heise-devSec-im-Fruehjahr-KI-fuer-Softwareentwicklung-und-Supply-Chain-Security-9600914.html",
-      "image_title": "devSec 24 Frühjahr"
-    },
-    {
-      "title": "Nextcloud: Lücken in Apps gefährden Nutzerkonten und Datensicherheit",
-      "teaser": "In mehreren Erweiterungen, etwa zur Lastverteilung, zur Anmeldung per OAuth und ZIP-Download, klaffen Löcher. Updates sind bereits verfügbar.",
-      "url": "https://www.heise.de/news/Nextcloud-Luecken-in-Apps-gefaehrden-Nutzerkonten-und-Datensicherheit-9601589.html",
-      "image_title": "Nextcloud-Logo"
     },
     {
       "title": "Microsofts Cloud und Entra ID - Reale Angriffe verstehen und verhindern",
