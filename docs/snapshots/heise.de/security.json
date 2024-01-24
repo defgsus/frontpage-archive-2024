@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-24T11:00:49",
+  "timestamp": "2024-01-24T12:10:25",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Firefox: Passkey-Unterstützung und Sicherheitsfixes",
+      "url": "https://www.heise.de/news/Firefox-Passkey-Unterstuetzung-und-Sicherheitsfixes-9606909.html"
+    },
+    {
       "title": "Fortra GoAnywhere",
       "url": "https://www.heise.de/news/Fortra-GoAnywhere-MFT-Kritische-Luecke-macht-Angreifer-zu-Admins-9606659.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Barracuda-WAF-Kritische-Sicherherheitsluecken-ermoeglichen-Umgehung-des-Schutzes-9606036.html"
     },
     {
-      "title": "Splunk",
-      "url": "https://www.heise.de/news/Monitoringsoftware-Splunk-Teils-kritische-Sicherheitsluecken-9605543.html"
+      "title": "Firefox: Passkey-Unterstützung und Sicherheitsfixes",
+      "teaser": "Die Version 122 von Firefox kann mit Passkeys umgehen. Außerdem schließen die Entwickler darin wie in Firefox ESR und Thunderbird 115.7 Sicherheitslecks.",
+      "url": "https://www.heise.de/news/Firefox-Passkey-Unterstuetzung-und-Sicherheitsfixes-9606909.html",
+      "image_title": "Firefox-Zeichen vor Mozilla Foundation"
     },
     {
       "title": "Fortra GoAnywhere MFT: Kritische Lücke macht Angreifer zu Admins",
@@ -151,11 +157,6 @@
       "teaser": "Der Inkognito-Modus des Webbrowsers Chrome ist Gegenstand einer Klage gegen Google in den USA. Jetzt kommt eine Anpassung der Beschreibung.",
       "url": "https://www.heise.de/news/Chrome-Google-passt-Beschreibung-des-Inkognito-Modus-an-9604104.html",
       "image_title": "Neue Beschreibung des Inkognitomodus in Google Chrome Canary"
-    },
-    {
-      "title": "Kritische VMware-Sicherheitslücke wird angegriffen",
-      "teaser": "Ende Oktober hat VMware ein Update gegen eine kritische Sicherheitslücke herausgegeben. Inzwischen wird das Leck angegriffen.",
-      "url": "https://www.heise.de/news/Kritische-VMware-Sicherheitsluecke-wird-angegriffen-9604033.html"
     },
     {
       "title": "Microsofts Cloud und Entra ID - Reale Angriffe verstehen und verhindern",
