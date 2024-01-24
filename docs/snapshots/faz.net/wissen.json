@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-24T10:01:23",
+  "timestamp": "2024-01-24T11:01:05",
   "url": "https://www.faz.net/aktuell/wissen/",
   "response": {
     "status": 200
@@ -110,6 +110,12 @@
   ],
   "articles": [
     {
+      "title": "Tierärzte zum Tierwohl : Es brodelt im deutschen Schweinestall",
+      "url": "https://www.faz.net/aktuell/wissen/tieraerzte-zum-tierwohl-es-brodelt-im-deutschen-schweinestall-19466935.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Der Trend Richtung tier- und umweltverträgliche Haltung macht der Schweinezucht finanziell zu schaffen."
+    },
+    {
       "title": "Debatte um Kassenerstattung : Was von Homöopathie und Anthroposophie bleiben soll",
       "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/lauterbach-plan-was-von-homoeopathie-und-anthroposophie-bleiben-soll-19467207.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -122,16 +128,16 @@
       "image_title": "Die von Osiris-Rex abgeworfenen Kapsel mit dem Probenbehälter wird am 24 September 2023 in Utah von NASA-Wissenschaftlern geborgen."
     },
     {
-      "title": "Sehendes Gewächs : Eine Pflanze mit Augenlicht?",
-      "url": "https://www.faz.net/aktuell/wissen/ab-in-die-botanik/eine-kletterpflanze-verhaelt-sich-so-als-haette-sie-augen-19459969.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Formwandler: Links ein Blatt, wie es die Kletterpflanze Boquila trifoliolata ganz für sich alleine ausbildet. Rechts daneben ein Blatt, das der Pflanze wuchs als man sie ein Imitat mit runden künstlichen Blättern emporwachsen ließ."
-    },
-    {
       "title": "Neue Studie : Haben Vegetarier seltener Corona?",
       "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/corona-schutz-von-vegetariern-was-eine-studie-aus-brasilien-zeigen-soll-19451621.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Paprika statt Steak, das ist gut für die Tiere, den Planeten - und auch als Schutz vor Infektionen?"
+    },
+    {
+      "title": "Sehendes Gewächs : Eine Pflanze mit Augenlicht?",
+      "url": "https://www.faz.net/aktuell/wissen/ab-in-die-botanik/eine-kletterpflanze-verhaelt-sich-so-als-haette-sie-augen-19459969.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Formwandler: Links ein Blatt, wie es die Kletterpflanze Boquila trifoliolata ganz für sich alleine ausbildet. Rechts daneben ein Blatt, das der Pflanze wuchs als man sie ein Imitat mit runden künstlichen Blättern emporwachsen ließ."
     },
     {
       "title": "Japans Mondmission SLIM : Die japanische Mondsonde ist ohne Strom",
@@ -159,9 +165,7 @@
     },
     {
       "title": "Regeln für Klimakipppunkte : Wichtig für alle, nicht nur für ein Land",
-      "url": "https://www.faz.net/aktuell/wissen/planetare-gemeinschafsgueter-vorschlag-von-forschern-fuer-klimakipppunkte-19468571.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Brandrodung am Amazonas, hier im Gebiet Lábrea."
+      "url": "https://www.faz.net/aktuell/wissen/planetare-gemeinschafsgueter-vorschlag-von-forschern-fuer-klimakipppunkte-19468571.html"
     },
     {
       "title": "Leiser Überschallflieger : „Plopp“ – mehr nicht?",
@@ -169,14 +173,10 @@
     },
     {
       "title": "Rat für Eltern : Was hilft gegen Mobbing bei Kindern?",
-      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/was-hilft-gegen-mobbing-bei-kindern-rat-fuer-eltern-19460041.html"
-    },
-    {
-      "title": "Mikroelektronik : „Wundermaterial“ Graphen wird zum Halbleiter",
-      "teaser": "Ersatz für Silizium: Einer Forschergruppe ist es gelungen, das Semimetall Graphen in einen Halbleiter zu verwandeln. Damit ist Tür zur Mikroelektronik für die dünnen Kohlenstoffschichten geöffnet",
+      "teaser": "Hass und Hetze sind unter Jugendlichen weit verbreitet. Die Opfer leiden oft ein Leben lang an den Verletzungen. Wie Eltern ihren Kindern helfen können.",
       "url": "https://www.faz.net/aktuell/das-beste-von-fplus/",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Graphen als Halbleiter"
+      "image_title": "Ist ein Kind oft traurig oder verhält sich ungewöhnlich, sollten Eltern nachfragen."
     },
     {
       "title": "AIDS-Prävention : Lieferengpass bei HIV-Mitteln hat sich verschärft",
@@ -215,11 +215,11 @@
       "image_title": "Zytostatika sind Zellgifte und dürfen nur wohldosiert in den Körper eines Krebspatienten fließen."
     },
     {
-      "title": "Seltenes Himmelsspektakel : Asteroid verglüht nahe Berlin",
-      "teaser": "Am Nachthimmel über Nennhausen ist ein Asteroid spektakulär verglüht. Die Nasa hatte es angekündigt – und Hobby-Astronomen filmten das Ereignis.",
+      "title": "ESA-Chef im Interview : „Wir haben den eigenen Zugang zum Weltall verloren“",
+      "teaser": "Europa will dieses Jahr die Ariane-6-Rakete starten. ESA-Chef Josef Aschbacher und Astronaut Matthias Maurer sagen, was sie sich davon versprechen – und wie es um die Konkurrenz mit Amerika und China steht.",
       "url": "https://www.faz.net/aktuell/wissen/weltraum/",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Asteroid über Nennhausen bei Berlin."
+      "image_title": "ESA-Generaldirektor Josef Aschbacher"
     },
     {
       "title": "Neue Studie : Wie stark die Bäume leiden",
