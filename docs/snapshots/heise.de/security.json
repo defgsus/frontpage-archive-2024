@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-25T09:00:50",
+  "timestamp": "2024-01-25T10:00:54",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Gitalb CE / EE",
+      "url": "https://www.heise.de/news/Tausende-Gitlab-Server-noch-fuer-Zero-Click-Kontoklau-anfaellig-9608050.html"
+    },
+    {
       "title": "Trend Micro Apex Central",
       "url": "https://www.heise.de/news/Trend-Micro-Apex-Central-Update-schliesst-im-zweiten-Anlauf-Sicherheitsluecken-9607948.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Firefox-Passkey-Unterstuetzung-und-Sicherheitsfixes-9606909.html"
     },
     {
-      "title": "Fortra GoAnywhere",
-      "url": "https://www.heise.de/news/Fortra-GoAnywhere-MFT-Kritische-Luecke-macht-Angreifer-zu-Admins-9606659.html"
+      "title": "Tausende Gitlab-Server noch für Zero-Click-Kontoklau anfällig",
+      "teaser": "IT-Forscher haben das Netz durchforstet und dabei mehr als 5000 verwundbare Gitlab-Server gefunden. Angreifer können dort einfach Konten übernehmen.",
+      "url": "https://www.heise.de/news/Tausende-Gitlab-Server-noch-fuer-Zero-Click-Kontoklau-anfaellig-9608050.html"
+    },
+    {
+      "title": "iX-Workshop: Microsofts Entra ID (AAD) erfolgreich gegen Angriffe absichern",
+      "teaser": "Lernen Sie, wie Sie Entra ID (Azure Active Directory) einschließlich Azure-Diensten härten und effektiv gegen Angriffe schützen. (10% Rabatt bis 11.02.)",
+      "url": "https://www.heise.de/news/iX-Workshop-Microsofts-Entra-ID-AAD-erfolgreich-gegen-Angriffe-absichern-9597936.html",
+      "image_title": "iX-Workshop Entra ID (AAD) gegen Angriffe absichern"
     },
     {
       "title": "Trend Micro Apex Central: Update schließt im zweiten Anlauf Sicherheitslücken",
@@ -146,17 +157,6 @@
       "teaser": "Cybergangster durchforsten das Netz, auf der Suche nach angreifbaren Confluence-Installationen. Wer jetzt nicht handelt, riskiert Datenverluste.",
       "url": "https://www.heise.de/news/Confluence-Kritische-Sicherheitsluecke-in-veralteten-Versionen-wird-ausgenutzt-9605028.html",
       "image_title": "Hacker,Attack,Computer,Hardware,Microchip,While,Process,Data,Through,Internet"
-    },
-    {
-      "title": "Sicherheitsupdates: Schlupflöcher für Schadcode in Lexmark-Druckern geschlossen",
-      "teaser": "Angreifer können an vielen Druckermodellen von Lexmark ansetzen, um Geräte zu kompromittieren. Derzeit soll es noch keine Attacken geben.",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Schlupfloecher-fuer-Schadcode-in-Lexmark-Druckern-geschlossen-9604795.html"
-    },
-    {
-      "title": "Phishing-Welle von Zentralstelle Cybercrime Bayern beobachtet",
-      "teaser": "Die bayerische Zentralstelle Cybercrime warnt vor einer neuen Welle einer Phishing-Masche. Täter räumen dabei schnell Konten leer.",
-      "url": "https://www.heise.de/news/Zentralstelle-Cybercrime-warnt-vor-Phishing-Welle-9604611.html",
-      "image_title": "Ein ungeordneter Stapel mit Kreditkarten und Girokarten von verschiedenen Zahlungsdienstleistern wie Mastercard oder Visa."
     },
     {
       "title": "Microsofts Cloud und Entra ID - Reale Angriffe verstehen und verhindern",
