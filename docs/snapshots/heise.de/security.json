@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-25T08:00:54",
+  "timestamp": "2024-01-25T09:00:50",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -19,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.e4a22ab80c705b76d068",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.d61925df9ed3117e14a9",
       "id": null,
       "text": null
     },
@@ -31,6 +31,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Trend Micro Apex Central",
+      "url": "https://www.heise.de/news/Trend-Micro-Apex-Central-Update-schliesst-im-zweiten-Anlauf-Sicherheitsluecken-9607948.html"
+    },
     {
       "title": "HPE Oneview",
       "url": "https://www.heise.de/news/Codeschmuggel-Luecke-in-HPE-Oneview-9607490.html"
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Fortra-GoAnywhere-MFT-Kritische-Luecke-macht-Angreifer-zu-Admins-9606659.html"
     },
     {
-      "title": "Google Chrome",
-      "url": "https://www.heise.de/news/Chrome-Update-dichtet-17-Sicherheitslecks-ab-9606618.html"
+      "title": "Trend Micro Apex Central: Update schließt im zweiten Anlauf Sicherheitslücken",
+      "teaser": "Mehrere Sicherheitslücken in Trend Micros Apex Central ermöglichen Angreifern etwa, Schadcode einzuschleusen. Ein erstes Update machte Probleme.",
+      "url": "https://www.heise.de/news/Trend-Micro-Apex-Central-Update-schliesst-im-zweiten-Anlauf-Sicherheitsluecken-9607948.html",
+      "image_title": "Finger auf Reload-Symbol"
     },
     {
       "title": "Codeschmuggel-Lücke in HPE Oneview",
@@ -151,12 +157,6 @@
       "teaser": "Die bayerische Zentralstelle Cybercrime warnt vor einer neuen Welle einer Phishing-Masche. Täter räumen dabei schnell Konten leer.",
       "url": "https://www.heise.de/news/Zentralstelle-Cybercrime-warnt-vor-Phishing-Welle-9604611.html",
       "image_title": "Ein ungeordneter Stapel mit Kreditkarten und Girokarten von verschiedenen Zahlungsdienstleistern wie Mastercard oder Visa."
-    },
-    {
-      "title": "Datenklau: Lockbit erpresst Subway",
-      "teaser": "Die Online-Bande Lockbit behauptet, bei der Fastfood-Kette Subway eingebrochen zu sein und sensible Daten kopiert zu haben.",
-      "url": "https://www.heise.de/news/Ransomware-Lockbit-angeblich-bei-Subway-eingebrochen-9604483.html",
-      "image_title": "Diffuses Bild mit buntem Binärsystem"
     },
     {
       "title": "Microsofts Cloud und Entra ID - Reale Angriffe verstehen und verhindern",
