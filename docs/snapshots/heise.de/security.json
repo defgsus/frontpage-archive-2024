@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-25T13:08:56",
+  "timestamp": "2024-01-25T14:00:57",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Jenkins",
+      "url": "https://www.heise.de/news/Jenkins-Codeschmuggel-in-Automatisierungsloesung-moeglich-9608626.html"
+    },
+    {
       "title": "Cisco Unified Communications",
       "url": "https://www.heise.de/news/Cisco-Luecke-erlauben-komplette-Uebernahme-von-Unified-Communication-Produkten-9608518.html"
     },
@@ -44,19 +48,20 @@
       "url": "https://www.heise.de/news/Trend-Micro-Apex-Central-Update-schliesst-im-zweiten-Anlauf-Sicherheitsluecken-9607948.html"
     },
     {
-      "title": "HPE Oneview",
-      "url": "https://www.heise.de/news/Codeschmuggel-Luecke-in-HPE-Oneview-9607490.html"
-    },
-    {
-      "title": "secIT 2024: Cyberattacken zügig aufarbeiten und wieder geschäftsfähig werden",
-      "teaser": "Machen sich Angreifer im Firmennetzwerk breit, müssen CISOs flott handeln, um den Schaden einzugrenzen. Dabei hilft das Fachwissen der secIT-Referenten.",
-      "url": "https://www.heise.de/news/secIT-2024-Cyberattacken-zuegig-aufarbeiten-und-wieder-geschaeftsfaehig-werden-9604561.html"
+      "title": "Jenkins: Codeschmuggel in Automatisierungslösung möglich",
+      "teaser": "Sicherheitslücken in der Open-Source-Automatisierungssoftware Jenkins erlauben Angreifern, Schadcode einzuschmuggeln. Updates helfen dem ab.",
+      "url": "https://www.heise.de/news/Jenkins-Codeschmuggel-in-Automatisierungsloesung-moeglich-9608626.html"
     },
     {
       "title": "Cisco: Lücke erlaubt komplette Übernahme von Unified Communication-Produkten",
       "teaser": "Cisco warnt vor einer kritischen Lücke in Unified Communication-Produkten, durch die Angreifer die Kontrolle übernehmen können.",
       "url": "https://www.heise.de/news/Cisco-Luecke-erlauben-komplette-Uebernahme-von-Unified-Communication-Produkten-9608518.html",
       "image_title": "Aufmacher Cisco viele Patches"
+    },
+    {
+      "title": "Gitlab-Kontoklau-Lücke: Tausende verwundbare Server im Netz",
+      "teaser": "IT-Forscher haben das Netz durchforstet und dabei mehr als 5000 verwundbare Gitlab-Server gefunden. Angreifer können dort einfach Konten übernehmen.",
+      "url": "https://www.heise.de/news/Tausende-Gitlab-Server-noch-fuer-Zero-Click-Kontoklau-anfaellig-9608050.html"
     },
     {
       "title": "iX-Workshop: Microsofts Entra ID (AAD) erfolgreich gegen Angriffe absichern",
@@ -150,12 +155,6 @@
       "teaser": "Mit einem falschen Tweet hat die SEC vor wenigen Tagen für heftige Preisschwankungen beim Bitcoin gesorgt. Nun wird deutlicher, wie der eingeschmuggelt wurde.",
       "url": "https://www.heise.de/news/Gefaelschter-Tweet-zur-Freigabe-von-Bitcoin-ETFs-SEC-Opfer-von-SIM-Swapping-9605332.html",
       "image_title": "SIM-Karten"
-    },
-    {
-      "title": "Ermittlungen eingeleitet: KI-generierter Biden rät von Teilnahme an Vorwahlen ab",
-      "teaser": "In den USA stehen jetzt die wichtigen Vorwahlen der Republikaner in New Hampshire an. Vorab hat eine KI-generierte Stimme Joe Bidens bei Wählern angerufen.",
-      "url": "https://www.heise.de/news/US-Vorwahlen-KI-generierter-Joe-Biden-raet-Waehlern-vom-Urnengang-ab-9605320.html",
-      "image_title": "Biden am Telefon im Oval Office"
     },
     {
       "title": "Microsofts Cloud und Entra ID - Reale Angriffe verstehen und verhindern",
