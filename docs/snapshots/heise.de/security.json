@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-26T07:00:48",
+  "timestamp": "2024-01-26T08:07:18",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Junos OS",
+      "url": "https://www.heise.de/news/Praeparierte-URL-kann-fuer-Juniper-Firewalls-und-Switches-gefaehrlich-werden-9609333.html"
+    },
+    {
       "title": "Jenkins",
       "url": "https://www.heise.de/news/Jenkins-Codeschmuggel-in-Automatisierungsloesung-moeglich-9608626.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Tausende-Gitlab-Server-noch-fuer-Zero-Click-Kontoklau-anfaellig-9608050.html"
     },
     {
-      "title": "Trend Micro Apex Central",
-      "url": "https://www.heise.de/news/Trend-Micro-Apex-Central-Update-schliesst-im-zweiten-Anlauf-Sicherheitsluecken-9607948.html"
+      "title": "Präparierte URL kann für Juniper-Firewalls und Switches gefährlich werden",
+      "teaser": "Entwickler von Juniper haben in Junos OS mehrere Sicherheitslücken geschlossen. Noch sind aber nicht alle Updates verfügbar.",
+      "url": "https://www.heise.de/news/Praeparierte-URL-kann-fuer-Juniper-Firewalls-und-Switches-gefaehrlich-werden-9609333.html"
     },
     {
       "title": "Bluetooth zu unsicher: US Navy sucht Alternative",
@@ -150,11 +155,6 @@
       "teaser": "Apple hat neben macOS 14.3 und iOS 17.3 auch neue Versionen von iOS 15, 16, macOS 12 und 13 sowie Safari veröffentlicht. Es gab einen erneuten Zero-Day-Exploit.",
       "url": "https://www.heise.de/news/Sicherheitsfixes-Apple-aktualisiert-aeltere-Systeme-und-raeumt-Zero-Days-ein-9605294.html",
       "image_title": "Apple-Logo mit grünem Hintergrund"
-    },
-    {
-      "title": "Trello: Mehr als 15 Millionen Datensätze aufgetaucht",
-      "teaser": "Angreifer haben Nutzerdaten mutmaßlich mittels Scraping bei Trello abgezogen und zum Verkauf angeboten. HIBP hat die Datenbank ergänzt.",
-      "url": "https://www.heise.de/news/Trello-Mehr-als-15-Millionen-Datensaetze-aufgetaucht-9605372.html"
     },
     {
       "title": "Microsofts Cloud und Entra ID - Reale Angriffe verstehen und verhindern",
