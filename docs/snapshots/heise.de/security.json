@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-26T11:00:55",
+  "timestamp": "2024-01-26T12:08:50",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "GitLab",
+      "url": "https://www.heise.de/news/Diesmal-bitte-patchen-Security-Update-behebt-kritische-Schwachstelle-in-GitLab-9609319.html"
+    },
+    {
       "title": "Microsoft Edge",
       "url": "https://www.heise.de/news/Microsoft-Edge-121-unterstuetzt-moderne-Codecs-und-stopft-Sicherheitslecks-9609475.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Jenkins-Codeschmuggel-in-Automatisierungsloesung-moeglich-9608626.html"
     },
     {
-      "title": "Cisco Unified Communications",
-      "url": "https://www.heise.de/news/Cisco-Luecke-erlauben-komplette-Uebernahme-von-Unified-Communication-Produkten-9608518.html"
+      "title": "Diesmal bitte patchen: Security-Update behebt kritische Schwachstelle in GitLab",
+      "teaser": "GitLab 16.x enthält fünf Schwachstellen, von denen eine als kritisch eingestuft ist. Patchen ist nicht selbstverständlich, wie jüngst eine Untersuchung zeigte.",
+      "url": "https://www.heise.de/news/Diesmal-bitte-patchen-Security-Update-behebt-kritische-Schwachstelle-in-GitLab-9609319.html",
+      "image_title": "Rotes Warndreieck schwebt im Raum"
     },
     {
       "title": "Microsoft Edge 121 unterstützt moderne Codecs und stopft Sicherheitslecks",
@@ -73,6 +79,12 @@
       "teaser": "Cisco warnt vor einer kritischen Lücke in Unified Communication-Produkten, durch die Angreifer die Kontrolle übernehmen können.",
       "url": "https://www.heise.de/news/Cisco-Luecke-erlauben-komplette-Uebernahme-von-Unified-Communication-Produkten-9608518.html",
       "image_title": "Aufmacher Cisco viele Patches"
+    },
+    {
+      "title": "Cybercrime: Hewlett Packard Enterprise legt Attacke auf E-Mail-System offen",
+      "teaser": "Kriminelle hatten monatelang Zugriff auf interne Daten von Hewlett Packard Enterprise.",
+      "url": "https://www.heise.de/news/Cybercrime-Hewlett-Packard-Enterprise-legt-Attacke-auf-E-Mail-System-offen-9608278.html",
+      "image_title": "Binärziffern"
     },
     {
       "title": "Gitlab-Kontoklau-Lücke: Tausende verwundbare Server im Netz",
@@ -144,16 +156,6 @@
       "title": "Der heise Security Crashkurs zum Schutz vor Ransomware",
       "teaser": "Keine Angst vor Ransomware! Dieses unabhängige und praxisorientierte Webinar erklärt, wie Angreifer vorgehen und wie Sie ihre IT bestmöglich davor schützen.",
       "url": "https://www.heise.de/news/Der-heise-Security-Crashkurs-zum-Schutz-vor-Ransomware-9605018.html"
-    },
-    {
-      "title": "Konfigurationsübertragung kann Behelfslösung zum Schutz von Ivanti ICS aufheben",
-      "teaser": "Bislang können Admins Ivanti Connect Secure und Policy Secure nur über einen Workaround vor laufenden Attacken schützen. Dieser funktioniert aber nicht immer.",
-      "url": "https://www.heise.de/news/Konfigurationsuebertragung-kann-Behelfsloesung-zum-Schutz-von-Ivanti-ICS-aufheben-9605922.html"
-    },
-    {
-      "title": "Monitoringsoftware Splunk: Teils kritische Sicherheitslücken",
-      "teaser": "Splunk hat für die gleichnamige Monitoringsoftware Updates veröffentlicht. Sie dichten Sicherheitslücken darin ab.",
-      "url": "https://www.heise.de/news/Monitoringsoftware-Splunk-Teils-kritische-Sicherheitsluecken-9605543.html"
     },
     {
       "title": "Microsofts Cloud und Entra ID - Reale Angriffe verstehen und verhindern",
