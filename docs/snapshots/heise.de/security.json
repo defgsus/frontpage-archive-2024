@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-26T13:01:44",
+  "timestamp": "2024-01-26T14:00:50",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Gambio",
+      "url": "https://www.heise.de/news/Kritische-Luecken-bedrohen-Onlineshops-auf-Gambio-Basis-9609849.html"
+    },
+    {
       "title": "GitLab",
       "url": "https://www.heise.de/news/Diesmal-bitte-patchen-Security-Update-behebt-kritische-Schwachstelle-in-GitLab-9609319.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Praeparierte-URL-kann-fuer-Juniper-Firewalls-und-Switches-gefaehrlich-werden-9609333.html"
     },
     {
-      "title": "Jenkins",
-      "url": "https://www.heise.de/news/Jenkins-Codeschmuggel-in-Automatisierungsloesung-moeglich-9608626.html"
+      "title": "Kritische Lücken bedrohen Onlineshops auf Gambio-Basis",
+      "teaser": "Admins von Onlineshops sollten die Gambio-Software aus Sicherheitsgründen auf den aktuellen Stand bringen.",
+      "url": "https://www.heise.de/news/Kritische-Luecken-bedrohen-Onlineshops-auf-Gambio-Basis-9609849.html"
+    },
+    {
+      "title": "iOS: Tiktok, X und Meta senden Analytics-Daten mit diesem Benachrichtigungstrick",
+      "teaser": "Bekannte Apps missbrauchen Push-Notifications unter iOS, um Daten an die eigenen Server zu schicken. Dies konnte ein Sicherheitsforscher nachweisen.",
+      "url": "https://www.heise.de/news/iOS-Tiktok-X-und-Meta-senden-Analytics-Daten-mit-diesem-Benachrichtigungstrick-9609199.html",
+      "image_title": "Benachrichtigungen greifen Analytics-Daten ab"
     },
     {
       "title": "Diesmal bitte patchen: Security-Update behebt kritische Schwachstelle in GitLab",
@@ -145,17 +156,6 @@
       "title": "Besorgniserregender Trend: CISA-Direktorin wird Opfer von \"Swatting\"",
       "teaser": "Die CISA-Direktorin wurde Opfer eines falschen Notrufs. Beim \"Swatting\" geraten immer häufiger US-Beamte ins Visier. Eine Expertin sieht darin einen Trend.",
       "url": "https://www.heise.de/news/Besorgniserregender-Trend-CISA-Direktorin-wird-Opfer-von-Swatting-9606327.html"
-    },
-    {
-      "title": "Barracuda WAF: Kritische Sicherheitslücken ermöglichen Umgehung des Schutzes",
-      "teaser": "Barracuda hat einen Sicherheitshinweis bezüglich der Web Application Firewall veröffentlicht. Sicherheitslücken ermöglichen das Umgehen des Schutzes.",
-      "url": "https://www.heise.de/news/Barracuda-WAF-Kritische-Sicherherheitsluecken-ermoeglichen-Umgehung-des-Schutzes-9606036.html",
-      "image_title": "Eine Person sitzt am Computer"
-    },
-    {
-      "title": "Der heise Security Crashkurs zum Schutz vor Ransomware",
-      "teaser": "Keine Angst vor Ransomware! Dieses unabhängige und praxisorientierte Webinar erklärt, wie Angreifer vorgehen und wie Sie ihre IT bestmöglich davor schützen.",
-      "url": "https://www.heise.de/news/Der-heise-Security-Crashkurs-zum-Schutz-vor-Ransomware-9605018.html"
     },
     {
       "title": "Microsofts Cloud und Entra ID - Reale Angriffe verstehen und verhindern",
