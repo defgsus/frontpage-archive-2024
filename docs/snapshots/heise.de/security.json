@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-26T10:00:59",
+  "timestamp": "2024-01-26T11:00:55",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Microsoft Edge",
+      "url": "https://www.heise.de/news/Microsoft-Edge-121-unterstuetzt-moderne-Codecs-und-stopft-Sicherheitslecks-9609475.html"
+    },
+    {
       "title": "Junos OS",
       "url": "https://www.heise.de/news/Praeparierte-URL-kann-fuer-Juniper-Firewalls-und-Switches-gefaehrlich-werden-9609333.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Cisco-Luecke-erlauben-komplette-Uebernahme-von-Unified-Communication-Produkten-9608518.html"
     },
     {
-      "title": "Gitlab CE / EE",
-      "url": "https://www.heise.de/news/Tausende-Gitlab-Server-noch-fuer-Zero-Click-Kontoklau-anfaellig-9608050.html"
+      "title": "Microsoft Edge 121 unterstützt moderne Codecs und stopft Sicherheitslecks",
+      "teaser": "Microsoft hat den Webbrowser Edge in Version 121 herausgegeben. Sie stopft eine kritische Sicherheitslücke und liefert Support für AV1-Videos.",
+      "url": "https://www.heise.de/news/Microsoft-Edge-121-unterstuetzt-moderne-Codecs-und-stopft-Sicherheitslecks-9609475.html"
     },
     {
       "title": "Angreifer können eigene Befehle auf Juniper-Firewalls und Switches ausführen",
@@ -149,12 +154,6 @@
       "title": "Monitoringsoftware Splunk: Teils kritische Sicherheitslücken",
       "teaser": "Splunk hat für die gleichnamige Monitoringsoftware Updates veröffentlicht. Sie dichten Sicherheitslücken darin ab.",
       "url": "https://www.heise.de/news/Monitoringsoftware-Splunk-Teils-kritische-Sicherheitsluecken-9605543.html"
-    },
-    {
-      "title": "Sicherheitsfixes: Apple aktualisiert ältere Systeme – und räumt Zero Days ein",
-      "teaser": "Apple hat neben macOS 14.3 und iOS 17.3 auch neue Versionen von iOS 15, 16, macOS 12 und 13 sowie Safari veröffentlicht. Es gab einen erneuten Zero-Day-Exploit.",
-      "url": "https://www.heise.de/news/Sicherheitsfixes-Apple-aktualisiert-aeltere-Systeme-und-raeumt-Zero-Days-ein-9605294.html",
-      "image_title": "Apple-Logo mit grünem Hintergrund"
     },
     {
       "title": "Microsofts Cloud und Entra ID - Reale Angriffe verstehen und verhindern",
