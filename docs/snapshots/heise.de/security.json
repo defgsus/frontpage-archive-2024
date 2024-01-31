@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-31T07:00:53",
+  "timestamp": "2024-01-31T08:00:44",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -19,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.e660fadd8eff986457fc",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.26bb604b6fb3c56e1a5c",
       "id": null,
       "text": null
     },
@@ -31,6 +31,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Chrome",
+      "url": "https://www.heise.de/news/Google-Chrome-Update-schliesst-vier-Sicherheitsluecken-9613823.html"
+    },
     {
       "title": "Jenkins",
       "url": "https://www.heise.de/news/Jetzt-updaten-Exploits-fuer-kritische-Jenkins-Sicherheitsluecke-im-Umlauf-9611923.html"
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Diesmal-bitte-patchen-Security-Update-behebt-kritische-Schwachstelle-in-GitLab-9609319.html"
     },
     {
-      "title": "Microsoft Edge",
-      "url": "https://www.heise.de/news/Microsoft-Edge-121-unterstuetzt-moderne-Codecs-und-stopft-Sicherheitslecks-9609475.html"
+      "title": "Google Chrome: Update schließt vier Sicherheitslücken",
+      "teaser": "Google hat mit dem wöchentlichen Chrome-Update vier Sicherheitslücken geschlossen. Sie könnten das Einschleusen von Schadcode erlauben.",
+      "url": "https://www.heise.de/news/Google-Chrome-Update-schliesst-vier-Sicherheitsluecken-9613823.html"
+    },
+    {
+      "title": "iX-Workshop: OWASP Top 10 – Schwachstellen in Webanwendungen und Gegenmaßnahmen",
+      "teaser": "Lernen Sie die wichtigsten Sicherheitslücken in Web-Anwendungen kennen und erfahren Sie, wie Sie sich erfolgreich schützen können. (10% Rabatt bis 12.02.)",
+      "url": "https://www.heise.de/news/iX-Workshop-OWASP-Top-10-Schwachstellen-in-Webanwendungen-und-Gegenmassnahmen-9605715.html",
+      "image_title": "Online-Workshop: OWASP Top 10 – Sicherheitslücken in Webanwendungen vermeiden"
     },
     {
       "title": "Studiere deinen Feind: IoCs als Bausteine einer effektiven IT-Verteidigung",
@@ -146,18 +157,6 @@
       "title": "Schadcode-Attacken auf Onlineshops auf Gambio-Basis möglich",
       "teaser": "Admins von Onlineshops sollten die Gambio-Software aus Sicherheitsgründen auf den aktuellen Stand bringen.",
       "url": "https://www.heise.de/news/Kritische-Luecken-bedrohen-Onlineshops-auf-Gambio-Basis-9609849.html"
-    },
-    {
-      "title": "iOS: Tiktok, X und Meta senden Analytics-Daten mit diesem Benachrichtigungstrick",
-      "teaser": "Bekannte Apps missbrauchen Push-Notifications unter iOS, um Daten an die eigenen Server zu schicken. Dies konnte ein Sicherheitsforscher nachweisen.",
-      "url": "https://www.heise.de/news/iOS-Tiktok-X-und-Meta-senden-Analytics-Daten-mit-diesem-Benachrichtigungstrick-9609199.html",
-      "image_title": "Benachrichtigungen greifen Analytics-Daten ab"
-    },
-    {
-      "title": "Diesmal bitte patchen: Security-Update behebt kritische Schwachstelle in GitLab",
-      "teaser": "GitLab 16.x enthält fünf Schwachstellen, von denen eine als kritisch eingestuft ist. Patchen ist nicht selbstverständlich, wie jüngst eine Untersuchung zeigte.",
-      "url": "https://www.heise.de/news/Diesmal-bitte-patchen-Security-Update-behebt-kritische-Schwachstelle-in-GitLab-9609319.html",
-      "image_title": "Rotes Warndreieck schwebt im Raum"
     },
     {
       "title": "Microsofts Cloud und Entra ID - Reale Angriffe verstehen und verhindern",
