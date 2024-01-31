@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-01-31T12:08:55",
+  "timestamp": "2024-01-31T13:01:03",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Linux-glibc",
+      "url": "https://www.heise.de/news/Linux-Sicherheitsluecke-in-glibc-bringt-Angreifern-Root-Privilegien-9614333.html"
+    },
+    {
       "title": "IBM Operational Decision Manager",
       "url": "https://www.heise.de/news/Sicherheitsupdates-DoS-und-Schadcode-Attacken-auf-IBM-ODM-moeglich-9613986.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Jetzt-updaten-Exploits-fuer-kritische-Jenkins-Sicherheitsluecke-im-Umlauf-9611923.html"
     },
     {
-      "title": "Gambio",
-      "url": "https://www.heise.de/news/Kritische-Luecken-bedrohen-Onlineshops-auf-Gambio-Basis-9609849.html"
+      "title": "Linux: Sicherheitslücke in glibc bringt Angreifern Root-Privilegien",
+      "teaser": "Fast alle aktuellen Linux-Varianten sind von dem Sicherheitsleck betroffen, das Missetäter jedoch nicht aus der Ferne angreifen können. Updates stehen bereit.",
+      "url": "https://www.heise.de/news/Linux-Sicherheitsluecke-in-glibc-bringt-Angreifern-Root-Privilegien-9614333.html"
     },
     {
       "title": "Ransomware: Online-Tool entschlüsselt unter Umständen BlackCat & Co.",
@@ -152,12 +157,6 @@
       "teaser": "Analysieren Sie aktuelle Angriffstechniken, um die Wirksamkeit Ihrer Schutzmaßnahmen und die Verletzlichkeit Ihrer IT einzuschätzen. Noch wenige Plätze frei.",
       "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-Angriffstechniken-verstehen-und-erfolgreich-abwehren-9610015.html",
       "image_title": "iX-Workshop Cybersicherheit: aktuelle Bedrohungen und ihre Abwehr"
-    },
-    {
-      "title": "\"Kryptokalypse\": BSI und EU-Partner mahnen quantensichere Verschlüsselung an",
-      "teaser": "Verfahren für den Quantenschlüsselaustausch seien bislang nicht ausgereift, meinen vier Cybersicherheitsbehörden. Post-Quanten-Kryptografie sei der bessere Weg.",
-      "url": "https://www.heise.de/news/Kryptokalypse-BSI-und-EU-Partner-mahnen-quantensichere-Verschluesselung-an-9610657.html",
-      "image_title": "Digitale Identitäten auf einem Tablet, darüber ein Schloss in dem ein Gesicht steckt (Symbolbild)"
     },
     {
       "title": "Microsofts Cloud und Entra ID - Reale Angriffe verstehen und verhindern",
