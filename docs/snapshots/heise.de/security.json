@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-01T16:00:57",
+  "timestamp": "2024-02-01T17:01:00",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Mastodon",
+      "url": "https://www.heise.de/news/Mastodon-Diebstahl-beliebiger-Identitaeten-im-foederierten-Kurznachrichtendienst-9615961.html"
+    },
+    {
       "title": "Ivanti",
       "url": "https://www.heise.de/news/Ivanti-Neues-ausgenutztesSicherheitsleck-Updates-endlich-verfuegbar-9615184.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-DoS-und-Schadcode-Attacken-auf-IBM-ODM-moeglich-9613986.html"
     },
     {
-      "title": "Chrome",
-      "url": "https://www.heise.de/news/Google-Chrome-Update-schliesst-vier-Sicherheitsluecken-9613823.html"
+      "title": "Mastodon: Diebstahl beliebiger Identitäten im föderierten Kurznachrichtendienst",
+      "teaser": "In einem knappen Sicherheitshinweis lassen die Entwickler eine Bombe platzen: Angreifer können jeden beliebigen Account übernehmen und fälschen.",
+      "url": "https://www.heise.de/news/Mastodon-Diebstahl-beliebiger-Identitaeten-im-foederierten-Kurznachrichtendienst-9615961.html",
+      "image_title": "Stuttgart,,Germany,-,09-24-2022:,Mobile,Phone,With,Webpage,Of,Open-source"
+    },
+    {
+      "title": "Cyberangriff: Kliniken Mittelfranken verhandeln nicht, Neustart der Systeme",
+      "teaser": "Cyberkriminelle versuchen, ein Lösegeld von den Bezirkskliniken Mittelfranken zu erpressen. Die Klinik will nicht zahlen und derweil die Systeme neu aufsetzen.",
+      "url": "https://www.heise.de/news/Cyberangriff-Kliniken-Mittelfranken-verhandeln-nicht-Neustart-der-Systeme-9615793.html",
+      "image_title": "Krankenhausflur"
     },
     {
       "title": "Youtube: \"Video teilen\" erstellt Links mit potenziellem Tracking-Parameter",
@@ -146,18 +158,6 @@
       "teaser": "Lernen Sie die wichtigsten Sicherheitslücken in Web-Anwendungen kennen und erfahren Sie, wie Sie sich erfolgreich schützen können. (10% Rabatt bis 12.02.)",
       "url": "https://www.heise.de/news/iX-Workshop-OWASP-Top-10-Schwachstellen-in-Webanwendungen-und-Gegenmassnahmen-9605715.html",
       "image_title": "Online-Workshop: OWASP Top 10 – Sicherheitslücken in Webanwendungen vermeiden"
-    },
-    {
-      "title": "Knapp 750 Stellen für IT-Sicherheit in Ministerien noch immer unbesetzt",
-      "teaser": "Gut 4575 Mitarbeiter sollen beim Bund theoretisch die IT absichern, doch nur 3829 dieser Posten sind besetzt. Vor allem das Gesundheitsressort müsste aufholen.",
-      "url": "https://www.heise.de/news/Knapp-750-Stellen-fuer-IT-Sicherheit-in-Ministerien-noch-immer-unbesetzt-9613649.html",
-      "image_title": "Eine Person sitzt am Computer"
-    },
-    {
-      "title": "Datenschutz einfach erklärt: Pixi-Bücher vom Bundesdatenschutzbeauftragten",
-      "teaser": "Der BfDI bietet interessierten Einrichtungen und Einzelpersonen kostenlose Pixi-Bücher an, die einige Grundlagen des Datenschutzes erklären.",
-      "url": "https://www.heise.de/news/Datenschutz-einfach-erklaert-Pixie-Buecher-vom-Bundesdatenschutzbeauftragten-9613189.html",
-      "image_title": "Zwei Kleinkinder-taugliche Pixie-Bücher zum Thema Datenschutz"
     },
     {
       "title": "Microsofts Cloud und Entra ID - Reale Angriffe verstehen und verhindern",
