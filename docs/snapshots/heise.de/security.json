@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-02T10:00:59",
+  "timestamp": "2024-02-02T11:00:35",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "IBM QRadar SIEM",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-IBM-Sicherheitsloesung-QRadar-SIEM-unter-Linux-angreifbar-9616532.html"
+    },
+    {
       "title": "Mastodon",
       "url": "https://www.heise.de/news/Mastodon-Diebstahl-beliebiger-Identitaeten-im-foederierten-Kurznachrichtendienst-9615961.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Linux-Sicherheitsluecke-in-glibc-bringt-Angreifern-Root-Privilegien-9614333.html"
     },
     {
-      "title": "IBM Operational Decision Manager",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-DoS-und-Schadcode-Attacken-auf-IBM-ODM-moeglich-9613986.html"
+      "title": "Sicherheitsupdate: IBM-Sicherheitslösung QRadar SIEM unter Linux angreifbar",
+      "teaser": "Mehrere Komponenten eines Add ons von IBMs Security Information and Event Management-System QRadar sind verwundbar.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-IBM-Sicherheitsloesung-QRadar-SIEM-unter-Linux-angreifbar-9616532.html"
     },
     {
       "title": "\"Vault 7\": CIA-Informant von Wikileaks muss 40 Jahre ins Gefängnis",
@@ -153,11 +158,6 @@
       "title": "Linux: Sicherheitslücke in glibc bringt Angreifern Root-Privilegien",
       "teaser": "Fast alle aktuellen Linux-Varianten sind von dem Sicherheitsleck betroffen, das Missetäter jedoch nicht aus der Ferne angreifen können. Updates stehen bereit.",
       "url": "https://www.heise.de/news/Linux-Sicherheitsluecke-in-glibc-bringt-Angreifern-Root-Privilegien-9614333.html"
-    },
-    {
-      "title": "Ransomware: Online-Tool entschlüsselt unter Umständen BlackCat & Co.",
-      "teaser": "Stimmen die Voraussetzungen, können Ransomwareopfer auf einer Website Daten entschlüsseln, ohne Lösegeld zu zahlen.",
-      "url": "https://www.heise.de/news/White-Phoenix-Online-Tool-kann-von-BlackCat-Co-verschluesselte-Daten-retten-9614278.html"
     },
     {
       "title": "Microsofts Cloud und Entra ID - Reale Angriffe verstehen und verhindern",
