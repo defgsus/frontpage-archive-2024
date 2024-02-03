@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-03T07:00:56",
+  "timestamp": "2024-02-03T08:00:58",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "QNAP QTS, QuTS hero, QuTScloud",
+      "url": "https://www.heise.de/news/QNAP-Neue-Firmware-Versionen-beheben-Sicherheitsluecken-9617332.html"
+    },
+    {
       "title": "IBM QRadar SIEM",
       "url": "https://www.heise.de/news/Sicherheitsupdate-IBM-Sicherheitsloesung-QRadar-SIEM-unter-Linux-angreifbar-9616532.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Ivanti-Neues-ausgenutztesSicherheitsleck-Updates-endlich-verfuegbar-9615184.html"
     },
     {
-      "title": "Linux-glibc",
-      "url": "https://www.heise.de/news/Linux-Sicherheitsluecke-in-glibc-bringt-Angreifern-Root-Privilegien-9614333.html"
+      "title": "QNAP: Neue Firmware-Versionen beheben Befehlsschmuggel-Lücke",
+      "teaser": "Unter anderem konnten Angreifer aus der Ferne eigene Kommandos auf den Geräten einschleusen. Admins sollten zügig patchen.",
+      "url": "https://www.heise.de/news/QNAP-Neue-Firmware-Versionen-beheben-Sicherheitsluecken-9617332.html"
     },
     {
       "title": "Sicherheitsupdate: IBM-Sicherheitslösung QRadar SIEM unter Linux angreifbar",
@@ -153,11 +158,6 @@
       "title": "Last Call zum heise Security Webinar: Microsofts Entra/Azure AD absichern",
       "teaser": "Microsofts-Cloud steckt Entra ID aka Azure AD steckt voller Fallstricke. Dieses Webinar zeigt die Probleme und wie man sie in den Griff bekommt.",
       "url": "https://www.heise.de/news/Last-Call-zum-heise-Security-Webinar-Microsofts-Entra-Azure-AD-absichern-9612810.html"
-    },
-    {
-      "title": "Linux: Sicherheitslücke in glibc bringt Angreifern Root-Privilegien",
-      "teaser": "Fast alle aktuellen Linux-Varianten sind von dem Sicherheitsleck betroffen, das Missetäter jedoch nicht aus der Ferne angreifen können. Updates stehen bereit.",
-      "url": "https://www.heise.de/news/Linux-Sicherheitsluecke-in-glibc-bringt-Angreifern-Root-Privilegien-9614333.html"
     },
     {
       "title": "Microsofts Cloud und Entra ID - Reale Angriffe verstehen und verhindern",

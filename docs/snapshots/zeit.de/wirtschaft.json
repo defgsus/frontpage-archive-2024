@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-03T07:01:07",
+  "timestamp": "2024-02-03T08:01:11",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -32,10 +32,17 @@
   ],
   "articles": [
     {
+      "title": "Prozess: Tesla muss Millionenstrafe zahlen",
+      "teaser": "Wegen Umweltverstößen bei der Entsorgung gefährlicher Abfälle muss Tesla 1,5 Millionen Euro Strafe zahlen. Auf diesen Vergleich einigte sich der Konzern vor Gericht.",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-02/tesla-karlifornien-strafe-umweltverstoss-abfaelle",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-02/tesla-strafe-umweltverstoesse-bild/cinema__980x420"
+    },
+    {
       "title": "Süßwarenhändler: Arko, Hussel und Eilles melden Insolvenz an",
       "teaser": "Als Arko und Eilles 2018 Hussel übernahmen, wollten der Kaffee-, Tee- und Süßwarenhändler gemeinsam wachsen. Nun haben alle drei Firmen Insolvenz angemeldet.",
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-02/hussel-arko-eilles-insolvenz",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-02/hussel-arko-eilles-insolvenz-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/wirtschaft/2024-02/hussel-arko-eilles-insolvenz-bild/wide__822x462",
+      "image_title": "Süßwarenhändler: Arko, Hussel und Eilles melden Insolvenz an"
     },
     {
       "title": "Deutscher Aktienindex: Dax erreicht neues Allzeithoch",
@@ -48,14 +55,14 @@
       "title": "Facebook-Konzern: Meta zahlt nach Milliardengewinn erstmals Dividende",
       "teaser": "Die Apps des Konzerns Meta haben den Umsatz im zurückliegenden Quartal um 25 Prozent gesteigert. Die Gewinne sollen in neue Technologien investiert werden.",
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-02/meta-facebook-instagram-gewinn-dividende",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-02/meta-dividende-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-02/meta-dividende-bild/cinema__980x420",
       "image_title": "Facebook-Konzern: Meta zahlt nach Milliardengewinn erstmals Dividende"
     },
     {
       "title": "Markus Lewe zum Bundeshaushalt: \"Das ist eine Spirale der Grausamkeit\"",
       "teaser": "Städtetagspräsident Markus Lewe hält der Ampelkoalition eine verfehlte Haushaltspolitik vor. Die Sparmaßnahmen träfen die Kommunen hart und gefährdeten die Klimaziele.",
       "url": "https://www.zeit.de/wirtschaft/2024-01/markus-lewe-staedtetagspraesident-bundeshaushalt-ampelkoalition",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-01/markus-lewe-staedtetagspraesident-bundeshaushalt-ampelkoalition-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-01/markus-lewe-staedtetagspraesident-bundeshaushalt-ampelkoalition-bild/wide__822x462",
       "image_title": "Markus Lewe zum Bundeshaushalt: \"Das ist eine Spirale der Grausamkeit\""
     },
     {
@@ -71,13 +78,6 @@
       "url": "https://www.zeit.de/wirtschaft/2024-01/angehoerige-pflegen-finanzielle-hilfe-bezahlung",
       "image_url": "https://img.zeit.de/wirtschaft/2024-01/angehoerige-pflegen-finanzielle-hilfe/wide__822x462",
       "image_title": "Angehörige pflegen • Z+ Empfehlung: Das steht pflegenden Angehörigen zu"
-    },
-    {
-      "title": "Lieferkettenprobleme: Weniger Unternehmen klagen über Materialengpässe",
-      "teaser": "Nach monatelanger Materialknappheit in vielen Branchen war im Januar nur noch jedes achte Unternehmen davon betroffen. Entwarnen möchte das Ifo Institut trotzdem nicht.",
-      "url": "https://www.zeit.de/wirtschaft/2024-02/ifo-materialengpaesse-rotes-meer",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-02/ifo-materialengpaesse-rotes-meer-bild/wide__822x462",
-      "image_title": "Lieferkettenprobleme: Weniger Unternehmen klagen über Materialengpässe"
     },
     {
       "title": "Luxuskaufhaus: KaDeWe Group meldet Insolvenz an",
@@ -185,6 +185,13 @@
       "image_title": "Kolumne: money matters"
     },
     {
+      "title": "Lieferkettenprobleme: Weniger Unternehmen klagen über Materialengpässe",
+      "teaser": "Nach monatelanger Materialknappheit in vielen Branchen war im Januar nur noch jedes achte Unternehmen davon betroffen. Entwarnen möchte das Ifo Institut trotzdem nicht.",
+      "url": "https://www.zeit.de/wirtschaft/2024-02/ifo-materialengpaesse-rotes-meer",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-02/ifo-materialengpaesse-rotes-meer-bild/wide__822x462",
+      "image_title": "Lieferkettenprobleme: Weniger Unternehmen klagen über Materialengpässe"
+    },
+    {
       "title": "Netzentgelte: Strompreise steigen vorerst weniger stark als befürchtet",
       "teaser": "Nach dem Wegfall des Bundeszuschusses zum Netzentgelt rechneten Verbraucher mit höheren Stromkosten. Vereinzelt wollen einige Anbieter die Preise nun sogar senken.",
       "url": "https://www.zeit.de/wirtschaft/2024-02/netzentgelte-stromkosten-wegfall-preise-verbraucher-2024",
@@ -209,14 +216,14 @@
       "title": "René Obermann: Braucht Deutschland die Bombe?",
       "teaser": "Weitere Kriege lassen sich verhindern, wenn Europa stark ist, sagt Airbus-Verwaltungsratschef René Obermann. Ein Gespräch über Rüstungspolitik und atomare Abschreckung",
       "url": "https://www.zeit.de/2024/06/airbus-rene-obermann-ruestungspolitik-boris-pistorius-verteidigung",
-      "image_url": "https://img.zeit.de/2024/06/ist-deutschland-reif-fuer-die-bombe-bild-1/wide__822x462",
+      "image_url": "https://img.zeit.de/2024/06/ist-deutschland-reif-fuer-die-bombe-bild-1/cinema__980x420",
       "image_title": "René Obermann: Braucht Deutschland die Bombe?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Sozialpolitik der CDU: Programm des sorgenfreien Status quo",
       "teaser": "Die CDU will das Bürgergeld abschaffen, doch ihr Grundsatzprogramm ist höchst widersprüchlich. Was lässt sich daraus für die künftige Sozialpolitik der Union ableiten?",
       "url": "https://www.zeit.de/wirtschaft/2024-01/sozialpolitik-cdu-grundsatzprogramm-friedrich-merz",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-01/sozialpolitik-cdu-grundsatzprogramm-friedrich-merz-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-01/sozialpolitik-cdu-grundsatzprogramm-friedrich-merz-bild/wide__822x462",
       "image_title": "Sozialpolitik der CDU: Programm des sorgenfreien Status quo"
     },
     {
@@ -225,13 +232,6 @@
       "url": "https://www.zeit.de/wirtschaft/2024-01/klimageld-co2-preis-die-gruenen-klimakrise-ampelkoalition",
       "image_url": "https://img.zeit.de/wirtschaft/2024-01/klimageld-co2-preis-die-gruenen-klimakrise-ampelkoalition-bild/wide__822x462",
       "image_title": "Klimageld: Aus einfach wird kompliziert"
-    },
-    {
-      "title": "Wohnungsmarkt: Immobilienpreise steigen IW-Studie zufolge wieder",
-      "teaser": "Für Eigentumswohnungen und Häuser musste im Vorjahresvergleich zuletzt wieder mehr bezahlt werden. Das Institut der deutschen Wirtschaft warnt vor Wohnungsknappheit.",
-      "url": "https://www.zeit.de/wirtschaft/2024-02/wohnungsmarkt-immobilienpreise-iw-studie-mieten",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-02/mieten-teurer-deutschland/wide__822x462",
-      "image_title": "Wohnungsmarkt: Immobilienpreise steigen IW-Studie zufolge wieder"
     },
     {
       "title": "USA: Elon Musk plant Umzug von Tesla nach Texas",
