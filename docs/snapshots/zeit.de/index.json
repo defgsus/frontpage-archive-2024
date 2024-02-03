@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-03T15:00:42",
+  "timestamp": "2024-02-03T16:00:57",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -8,6 +8,12 @@
     {
       "type": null,
       "src": "https://static.zeit.de/p/zeit.web/js/colorscheme.3ad4f2a27e71c7150b63.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
@@ -80,17 +86,24 @@
   ],
   "articles": [
     {
-      "title": "Liveblog: Demonstrationen gegen rechts: \"Uns eint mehr, als uns trennt\"",
-      "teaser": "Friedliche Stimmung in Dresden, schon 150.000 Teilnehmende in Berlin. An der Wiese vor dem Bundestag herrscht reges Kommen und Gehen. Das Liveblog",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-02/demonstrationen-gegen-rechtsextremismus-proteste-live",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-02/demonstrationen-gegen-rechtsextremismus-proteste-live-bild/cinema__980x420"
+      "title": "Z+ (abopflichtiger Inhalt); Literatur der Rechten: Die Autoren meinen es ernst – und ihre Leser auch",
+      "teaser": "Revisionismus, Umsturzszenarien, völkisches Denken: Die Neue Rechte schreibt heute ganz offen über ihre Ziele. Ein Blick in den Literaturkanon der AfD und ihres Umfelds.",
+      "url": "https://www.zeit.de/2024/06/neue-rechte-literatur-afd-maximilian-krah-martin-sellner",
+      "image_url": "https://img.zeit.de/2024/06/neue-rechte-literatur-afd-maximilian-krah-martin-sellner-bild/cinema__980x420"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Rechtsextremismus: Es ist jetzt eine andere Angst",
-      "teaser": "Die \"Nazi-Jäger\" Serge und Beate Klarsfeld haben ihr Leben lang gegen Rechtsextremismus gekämpft. Warum schließen sie nun Frieden mit Marine Le Pen? Ein Treffen in Paris",
-      "url": "https://www.zeit.de/2024/06/rechtsextremismus-beate-serge-klarsfeld-marine-le-pen-frankreich",
-      "image_url": "https://img.zeit.de/2024/06/rechtsextremismus-beate-serge-klarsfeld-marine-le-pen-frankreich-teaser/wide__822x462",
-      "image_title": "Rechtsextremismus: Es ist jetzt eine andere Angst"
+      "title": "Liveblog: Demonstrationen gegen rechts: \"Uns eint mehr, als uns trennt\"",
+      "teaser": "Tausende demonstrieren überall im Land erneut gegen Rechts. Allein in Berlin sind rund 150.000 Menschen gekommen. Die Stimmung ist friedlich. Das Liveblog",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-02/demonstrationen-gegen-rechtsextremismus-proteste-live",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-02/demonstrationen-gegen-rechtsextremismus-proteste-live-bild/wide__822x462",
+      "image_title": "Demonstrationen gegen rechts: \"Uns eint mehr, als uns trennt\""
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Selbstverteidigung: \"In zwei Jahren wird Deutschland für Geflüchtete eine Hölle sein\"",
+      "teaser": "Karateprofi Arif Abdullah Haidary sagt, nicht erst seit Potsdam werde Deutschland unsicherer für Migranten. Man müsse lernen, sich selbst zu verteidigen.",
+      "url": "https://www.zeit.de/zett/politik/2024-02/selbstverteidigung-gefluechtete-rassismus-karate",
+      "image_url": "https://img.zeit.de/zett/2024-01/selbstverteidigung-rassismus-arif-abdullah-haidary11/wide__822x462",
+      "image_title": "Selbstverteidigung: \"In zwei Jahren wird Deutschland für Geflüchtete eine Hölle sein\""
     },
     {
       "title": "Michelle O'Neill: Nationalistin von Sinn Fein wird nordirische Regierungschefin",
@@ -98,13 +111,6 @@
       "url": "https://www.zeit.de/politik/ausland/2024-02/nordirland-michelle-oneill-regierungschefin-sinn-fein",
       "image_url": "https://img.zeit.de/politik/ausland/2024-02/michelle-o-neill-nordirland-regierungschefin-bild/wide__822x462",
       "image_title": "Michelle O'Neill: Nationalistin von Sinn Fein wird nordirische Regierungschefin"
-    },
-    {
-      "title": "Terry Reintke: Europäische Grüne wählen Deutsche zur Spitzenkandidatin für Europawahl",
-      "teaser": "In vier Monaten wird in den EU-Ländern ein neues Europaparlament gewählt. Für die Europäischen Grünen geht eine deutsche Politikerin aus Gelsenkirchen ins Rennen.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-02/europawahl-gruene-terry-reintke-spitzenkandidatin",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-02/europawahl-gruene-waehlen-deutsche-terry-reintke-spitzenkandidatin-bild/wide__822x462",
-      "image_title": "Terry Reintke: Europäische Grüne wählen Deutsche zur Spitzenkandidatin für Europawahl"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Arbeitsbedingungen in China: Die vielleicht verstörendste Werbung der Welt",
@@ -121,7 +127,7 @@
       "image_title": "Interaktiver Rechner: Mieten oder Kaufen? Der endgültige Rechner"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Elektromobilität: Diesel lieben, E-Auto kaufen",
+      "title": "Elektromobilität: Diesel lieben, E-Auto kaufen",
       "teaser": "Elektroautos – sowas kaufen sich nur diese wohlhabenden Großstadtökos, die damit die Welt retten wollen. Oder? Ein Tag im Autohaus zeigt: ganz im Gegenteil.",
       "url": "https://www.zeit.de/mobilitaet/2024-01/elektromobilitaet-e-autos-kosten-reparaturen-autoindustrie",
       "image_url": "https://img.zeit.de/mobilitaet/2024-01/elektromobilitaet-e-autos-kosten-reparaturen/wide__822x462",
@@ -183,6 +189,13 @@
       "image_title": "Weitermachen: Quäl dich!"
     },
     {
+      "title": "US-Präsidentschaftswahl: Vorwahlen der Demokraten beginnen in South Carolina",
+      "teaser": "Wie groß ist die Zustimmung für Joe Biden? South Carolina stimmt über den Kandidaten der Demokraten ab. Obwohl der Präsident als gesetzt gilt, ist der Ausgang wichtig.",
+      "url": "https://www.zeit.de/politik/ausland/2024-02/usa-south-carolina-erste-vorwahl-demokraten",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-02/usa-south-carolina-erste-vorwahl-demokraten-bild/wide__822x462",
+      "image_title": "US-Präsidentschaftswahl: Vorwahlen der Demokraten beginnen in South Carolina"
+    },
+    {
       "title": "Naher Osten: US-Angriffe in Syrien und dem Irak töten offenbar 34 Menschen",
       "teaser": "Als \"Vergeltung\" für den Tod von drei US-Soldaten hat Joe Biden Luftangriffe auf Syrien und den Irak befohlen. Der EU-Außenbeauftragte warnt vor einer Eskalation.",
       "url": "https://www.zeit.de/politik/ausland/2024-02/usa-syrien-irak-angriffe-schaeden",
@@ -190,39 +203,25 @@
       "image_title": "Naher Osten: US-Angriffe in Syrien und dem Irak töten offenbar 34 Menschen"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Großbritannien: Wozu taugt das britische Oberhaus?",
+      "title": "Terry Reintke: Europäische Grüne wählen Deutsche zur Spitzenkandidatin für Europawahl",
+      "teaser": "In vier Monaten wird in den EU-Ländern ein neues Europaparlament gewählt. Für die Europäischen Grünen geht eine deutsche Politikerin aus Gelsenkirchen ins Rennen.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-02/europawahl-gruene-terry-reintke-spitzenkandidatin",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-02/europawahl-gruene-waehlen-deutsche-terry-reintke-spitzenkandidatin-bild/wide__822x462",
+      "image_title": "Terry Reintke: Europäische Grüne wählen Deutsche zur Spitzenkandidatin für Europawahl"
+    },
+    {
+      "title": "Großbritannien: Wozu taugt das britische Oberhaus?",
       "teaser": "Die Migrationspolitik des britische Regierungschefs könnte vom House of Lords blockiert werden. Das sei ein Problem, sagt Baroness Claire Fox. Mehr als das Gesetz selbst.",
       "url": "https://www.zeit.de/2024/06/claire-fox-house-of-lords-grossbritannien-rishi-sunak-migrationspolitik",
       "image_url": "https://img.zeit.de/2024/06/claire-fox-house-of-lords-grossbritannien-rishi-sunak-migrationspolitik-teaser/wide__822x462",
       "image_title": "Großbritannien: Wozu taugt das britische Oberhaus?"
     },
     {
-      "title": "Alexander Kluge über Oskar Negt: \"Die Hierarchie war klar: Er sagte, wo es langgeht\"",
-      "teaser": "Oskar Negt war einer der einflussreichsten Sozialphilosophen Deutschlands. Sein Freund Alexander Kluge erinnert sich im Gespräch an den Mentor der 68er und großen Denker.",
-      "url": "https://www.zeit.de/kultur/2024-02/oskar-negt-alexander-kluge-philosophie-sozialwissenschaft-nachruf",
-      "image_url": "https://img.zeit.de/kultur/2024-02/oskar-negt-sozialphilosoph-gestorben-bild/wide__822x462",
-      "image_title": "Alexander Kluge über Oskar Negt: \"Die Hierarchie war klar: Er sagte, wo es langgeht\""
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Alkohol und Fußball: Horst, der Fußball und das Bier",
-      "teaser": "Horst Schulz ist trockener Alkoholiker. Und ein Fußballfan, der gerne ins Stadion geht. Ans Millerntor, in dem – wie in jedem anderen – sehr viel Bier ausgeschenkt wird.",
-      "url": "https://www.zeit.de/sport/2024-01/alkohol-fussball-weiss-braune-kaffeetrinker-st-pauli",
-      "image_url": "https://img.zeit.de/sport/2024-01/alkohol-fussball-weiss-braune-kaffeetrinker-st-pauli-horst-portrait/cinema__980x420",
-      "image_title": "Alkohol und Fußball: Horst, der Fußball und das Bier"
-    },
-    {
-      "title": "Dietmar Hamann: Gut, dass es den Didi gibt",
-      "teaser": "Beim FC Bayern gilt Didi Hamann als Nestbeschmutzer, auch viele Fans feinden ihn an. Doch es gibt etwas, das für den Fußballexperten spricht: Er hat recht.",
-      "url": "https://www.zeit.de/sport/2024-02/dietmar-hamann-fc-bayern-muenchen-didi-fans-fussball",
-      "image_url": "https://img.zeit.de/sport/2024-02/wochenende-gruenflaeche-tuchel-hamann/wide__822x462",
-      "image_title": "Dietmar Hamann: Gut, dass es den Didi gibt"
-    },
-    {
-      "title": "Homosexualität im Sport: Hitzlsperger ermuntert Fußballprofis zu Coming-out",
-      "teaser": "Bis heute ist der frühere Fußballnationalspieler der einzige Bundesligaprofi, der sich geoutet hat. Nun macht er anderen Profis Mut, zu ihrer Homosexualität zu stehen.",
-      "url": "https://www.zeit.de/sport/2024-02/thomas-hitzlsperger-coming-out-profis-outing",
-      "image_url": "https://img.zeit.de/sport/2024-02/hitzlsperger-coming-out-ermunterung-fussball-sport-bild/wide__822x462",
-      "image_title": "Homosexualität im Sport: Hitzlsperger ermuntert Fußballprofis zu Coming-out"
+      "title": "Z+ (abopflichtiger Inhalt); Hühnersuppe: Eine Suppe frisch aus den Hamptons",
+      "teaser": "Privatköche für Superreiche sind ein Social-Media-Phänomen. Oft servieren sie Bodenständiges, als wären ihre Kunden normale Menschen. Wie diese Hühnersuppe mit Spinat.",
+      "url": "https://www.zeit.de/zeit-magazin/2024/06/huehnersuppe-spinat-ingwer-reis-rezept",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024/06/frisch-aus-den-hamptons-bild-1/cinema__980x420",
+      "image_title": "Hühnersuppe: Eine Suppe frisch aus den Hamptons"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Generation Z: Sie links, er rechts",
@@ -246,11 +245,18 @@
       "image_title": "Erinnerung an die Kindheit: So lassen sich längst vergangene Kindheitserinnerungen hervorholen"
     },
     {
-      "title": "Weitermachen: Quäl dich!",
-      "teaser": "Ob Jürgen Klopp oder Andreas Scheuer: Keiner will mehr weitermachen. Dabei ist stumpfes Durchhalten doch eine große Tugend. Zumindest, wenn man die richtigen Gründe hat.",
-      "url": "https://www.zeit.de/kultur/2024-02/juergen-klopp-andreas-scheuer-ruecktritt-weitermachen",
-      "image_url": "https://img.zeit.de/kultur/2024-02/wochenende-juergen-klopp-andreas-scheuer-ruecktritt-weitermachen/wide__822x462",
-      "image_title": "Weitermachen: Quäl dich!"
+      "title": "Homosexualität im Sport: Hitzlsperger ermuntert Fußballprofis zu Coming-out",
+      "teaser": "Bis heute ist der frühere Fußballnationalspieler der einzige Bundesligaprofi, der sich geoutet hat. Nun macht er anderen Profis Mut, zu ihrer Homosexualität zu stehen.",
+      "url": "https://www.zeit.de/sport/2024-02/thomas-hitzlsperger-coming-out-profis-outing",
+      "image_url": "https://img.zeit.de/sport/2024-02/hitzlsperger-coming-out-ermunterung-fussball-sport-bild/wide__822x462",
+      "image_title": "Homosexualität im Sport: Hitzlsperger ermuntert Fußballprofis zu Coming-out"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Alkohol und Fußball: Horst, der Fußball und das Bier",
+      "teaser": "Horst Schulz ist trockener Alkoholiker. Und ein Fußballfan, der gerne ins Stadion geht. Ans Millerntor, in dem – wie in jedem anderen – sehr viel Bier ausgeschenkt wird.",
+      "url": "https://www.zeit.de/sport/2024-01/alkohol-fussball-weiss-braune-kaffeetrinker-st-pauli",
+      "image_url": "https://img.zeit.de/sport/2024-01/alkohol-fussball-weiss-braune-kaffeetrinker-st-pauli-horst-portrait/wide__822x462",
+      "image_title": "Alkohol und Fußball: Horst, der Fußball und das Bier"
     },
     {
       "title": "Dossier und Politik : Als die Welt eine andere wurde",
@@ -259,11 +265,23 @@
       "image_url": "https://img.zeit.de/2024/06/packshot-24-06-1000x620.png/imagegroup/original__1000x620"
     },
     {
-      "title": "CAR-Center Automotive Research: Käufer können bei Neuwagen mit hohen Vergünstigungen rechnen",
-      "teaser": "Nachdem die Umweltprämie für E-Autos kurzfristig wegfällt, versuchen Händler dies offenbar auszugleichen. Die Konzerne überbieten sich dabei gegenseitig mit Rabatten.",
-      "url": "https://www.zeit.de/mobilitaet/2024-02/car-center-automotive-research-autokauf-umweltpraemie-rabatte",
-      "image_url": "https://img.zeit.de/mobilitaet/2024-02/car-center-automotive-research-autokauf-umweltpraemie-rabatte-bild/wide__822x462",
-      "image_title": "CAR-Center Automotive Research: Käufer können bei Neuwagen mit hohen Vergünstigungen rechnen"
+      "title": "Weitermachen: Quäl dich!",
+      "teaser": "Ob Jürgen Klopp oder Andreas Scheuer: Keiner will mehr weitermachen. Dabei ist stumpfes Durchhalten doch eine große Tugend. Zumindest, wenn man die richtigen Gründe hat.",
+      "url": "https://www.zeit.de/kultur/2024-02/juergen-klopp-andreas-scheuer-ruecktritt-weitermachen",
+      "image_url": "https://img.zeit.de/kultur/2024-02/wochenende-juergen-klopp-andreas-scheuer-ruecktritt-weitermachen/wide__822x462",
+      "image_title": "Weitermachen: Quäl dich!"
+    },
+    {
+      "title": "US-Luftangriffe: Irak bestellt nach Luftangriffen US-Botschaftsmitarbeiter ein",
+      "url": "https://www.zeit.de/politik/ausland/2024-02/us-luftangriffe-irak-syrien-militaer-nahostkonflikt",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-02/irak-abdul-latif-raschid-bild/wide__822x462",
+      "image_title": "US-Luftangriffe: Irak bestellt nach Luftangriffen US-Botschaftsmitarbeiter ein"
+    },
+    {
+      "title": "US-Präsidentschaftswahl: Vorwahlen der Demokraten beginnen in South Carolina",
+      "url": "https://www.zeit.de/politik/ausland/2024-02/usa-south-carolina-erste-vorwahl-demokraten",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-02/usa-south-carolina-erste-vorwahl-demokraten-bild/wide__822x462",
+      "image_title": "US-Präsidentschaftswahl: Vorwahlen der Demokraten beginnen in South Carolina"
     },
     {
       "title": "Michelle O'Neill: Nationalistin von Sinn Fein wird nordirische Regierungschefin",
@@ -302,30 +320,18 @@
       "image_title": "Naher Osten: US-Angriffe in Syrien und dem Irak töten offenbar 34 Menschen"
     },
     {
-      "title": "Anti-AfD-Demos: Scholz hält Demos gegen rechts für ein starkes Zeichen",
-      "url": "https://www.zeit.de/politik/2024-02/scholz-schneider-demonstrationen-rechts-afd",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-02/scholz-schneider-demonstrationen-rechts-afd-bild/wide__822x462",
-      "image_title": "Anti-AfD-Demos: Scholz hält Demos gegen rechts für ein starkes Zeichen"
+      "title": "Alexander Kluge über Oskar Negt: \"Die Hierarchie war klar: Er sagte, wo es langgeht\"",
+      "teaser": "Oskar Negt war einer der einflussreichsten Sozialphilosophen Deutschlands. Sein Freund Alexander Kluge erinnert sich im Gespräch an den Mentor der 68er und großen Denker.",
+      "url": "https://www.zeit.de/kultur/2024-02/oskar-negt-alexander-kluge-philosophie-sozialwissenschaft-nachruf",
+      "image_url": "https://img.zeit.de/kultur/2024-02/oskar-negt-sozialphilosoph-gestorben-bild/wide__822x462",
+      "image_title": "Alexander Kluge über Oskar Negt: \"Die Hierarchie war klar: Er sagte, wo es langgeht\""
     },
     {
-      "title": "Wayne Kramer: Erfinder des Punkrock gestorben",
-      "url": "https://www.zeit.de/kultur/2024-02/wayne-kramer-gestorben-punkrock-mc5",
-      "image_url": "https://img.zeit.de/kultur/musik/2024-02/wayne-kramer-protopunk-the-mc5-verstorben-bild/wide__822x462",
-      "image_title": "Wayne Kramer: Erfinder des Punkrock gestorben"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Pflegeprodukte: Etwas Quitte, ein wenig Surfspray – und der Tag ist gerettet",
-      "teaser": "Pazifikfeeling im Haar, Körperöl für den Selbstwert oder endlich ein gutes Trockenshampoo: Wir haben in der Redaktion nach Pflegeprodukten gefragt, die den Tag retten.",
-      "url": "https://www.zeit.de/zeit-magazin/2024/06/pflegeprodukte-kosmetik-creme-tipps",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024/06/schoene-zeit-bild-1/wide__822x462",
-      "image_title": "Pflegeprodukte: Etwas Quitte, ein wenig Surfspray – und der Tag ist gerettet"
-    },
-    {
-      "title": "Hamburg-Podcast \"Elbvertiefung\": Was macht die Schule?",
-      "teaser": "Hamburgs Schulkinder bekommen in diesen Tagen Halbjahreszeugnisse. Ein idealer Moment, um auf das Schulsystem der Stadt zu blicken: Was klappt? Was müsste besser laufen?",
-      "url": "https://www.zeit.de/hamburg/2024-02/schulsystem-hamburg-podcast-elbvertiefung",
-      "image_url": "https://img.zeit.de/hamburg/2024-02/schulsystem-hamburg-podcast-elbvertiefung-bild-2/wide__822x462",
-      "image_title": "Hamburg-Podcast \"Elbvertiefung\": Was macht die Schule?"
+      "title": "Pronto Möbelpflege: So fresh, so clean",
+      "teaser": "Es lässt Holz wieder glänzen und riecht so schön seifig. Für unsere Autorin ist ihre Wohnung erst geputzt, wenn sie nach diesem Möbelpflegespray duftet.",
+      "url": "https://www.zeit.de/zeit-magazin/2024-02/pronto-moebelpflege-politur-holz",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-01/wochenende-ode-an-ein-ding-moebelpflegespray/wide__822x462",
+      "image_title": "Pronto Möbelpflege: So fresh, so clean"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Fragen Sie ZEIT ONLINE: Haben Sie ein Thema verpasst?",
@@ -343,8 +349,8 @@
       "url": "https://www.zeit.de/zeit-magazin/familie/2024-01/depression-familie-suizidversuch-elternteil-psychotherapie"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Familie Block • Das Beste aus Z+: Mehr als ein Familiendrama",
-      "url": "https://www.zeit.de/2024/06/familie-block-kinder-stephan-hensel-christina-block-sorgerecht"
+      "title": "Z+ (abopflichtiger Inhalt); Hamas-Angriff am 7. Oktober • Z+-Empfehlung: Der Tag, der nicht enden will",
+      "url": "https://www.zeit.de/2024/06/7-oktober-hamas-angriff-israel-supernova-festival-rekonstruktion"
     },
     {
       "title": "ARD-Deutschlandtrend: AfD verliert, Union bleibt stärkste Kraft",
@@ -363,12 +369,12 @@
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-02/demonstrationen-gegen-rechts-proteste-demokratie"
     },
     {
-      "title": "Elektronische Patientenakte: Hört auf, vom gläsernen Patienten zu reden",
-      "url": "https://www.zeit.de/gesundheit/2024-02/elektronische-patientenakte-datenschutz-kritik-epa-frauen"
-    },
-    {
       "title": "Naher Osten: US-Militär fliegt nach Tod dreier Soldaten Angriffe in Syrien und Irak",
       "url": "https://www.zeit.de/politik/ausland/2024-02/us-militaer-fliegt-nach-tod-dreier-soldaten-angriffe-in-syrien-und-irak"
+    },
+    {
+      "title": "Berlin: 100.000 Menschen zu Demonstration gegen rechts am Bundestag erwartet",
+      "url": "https://www.zeit.de/politik/deutschland/2024-02/berlin-demonstration-rechtsextremismus-bundestag"
     },
     {
       "title": "Universal Music: Taylor Swift ist dann mal weg",
@@ -389,28 +395,28 @@
       "image_title": "Demonstrationen gegen rechts: Ihhh, CSU, argh, die Antifa!"
     },
     {
-      "title": "Naher Osten: US-Militär fliegt nach Tod dreier Soldaten Angriffe in Syrien und Irak",
-      "url": "https://www.zeit.de/politik/ausland/2024-02/us-militaer-fliegt-nach-tod-dreier-soldaten-angriffe-in-syrien-und-irak"
+      "title": "Liveblog: Demonstrationen gegen rechts: \"Uns eint mehr, als uns trennt\"",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-02/demonstrationen-gegen-rechtsextremismus-proteste-live"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Depression in der Familie: \"Es gab uns. Und es gab ihn\"",
       "url": "https://www.zeit.de/zeit-magazin/familie/2024-01/depression-familie-suizidversuch-elternteil-psychotherapie"
     },
     {
-      "title": "Elektronische Patientenakte: Hört auf, vom gläsernen Patienten zu reden",
-      "url": "https://www.zeit.de/gesundheit/2024-02/elektronische-patientenakte-datenschutz-kritik-epa-frauen"
-    },
-    {
-      "title": "Liveblog: Demonstrationen gegen rechts: \"Uns eint mehr, als uns trennt\"",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-02/demonstrationen-gegen-rechtsextremismus-proteste-live"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Familie Block • Das Beste aus Z+: Mehr als ein Familiendrama",
-      "url": "https://www.zeit.de/2024/06/familie-block-kinder-stephan-hensel-christina-block-sorgerecht"
+      "title": "Naher Osten: US-Militär fliegt nach Tod dreier Soldaten Angriffe in Syrien und Irak",
+      "url": "https://www.zeit.de/politik/ausland/2024-02/us-militaer-fliegt-nach-tod-dreier-soldaten-angriffe-in-syrien-und-irak"
     },
     {
       "title": "Naher Osten: US-Militär fliegt nach Tod dreier Soldaten Angriffe in Syrien und Irak",
       "url": "https://www.zeit.de/politik/ausland/2024-02/us-militaer-fliegt-nach-tod-dreier-soldaten-angriffe-in-syrien-und-irak"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Hamas-Angriff am 7. Oktober • Z+-Empfehlung: Der Tag, der nicht enden will",
+      "url": "https://www.zeit.de/2024/06/7-oktober-hamas-angriff-israel-supernova-festival-rekonstruktion"
+    },
+    {
+      "title": "Berlin: 100.000 Menschen zu Demonstration gegen rechts am Bundestag erwartet",
+      "url": "https://www.zeit.de/politik/deutschland/2024-02/berlin-demonstration-rechtsextremismus-bundestag"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Polen: Im Sender wird durchgelüftet",
@@ -512,18 +518,18 @@
       "image_title": "\"Was jetzt? – Die Woche\": Demos gegen Rechtsextreme – kurze Empörung oder Start einer Bewegung?"
     },
     {
+      "title": "Streit um Agrardiesel: Bauern protestieren am Frankfurter Flughafen",
+      "teaser": "Am frühen Morgen fuhren 500 bis 600 Traktoren auf, bis zum Nachmittag könnte es Straßensperrungen geben, warnt die Polizei. Reisende sollen mehr Zeit einplanen.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-02/bauern-proteste-frankfurter-flughafen-strassensperrung",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-02/bauern-proteste-flughafen-frankfurt-bild/wide__822x462",
+      "image_title": "Streit um Agrardiesel: Bauern protestieren am Frankfurter Flughafen"
+    },
+    {
       "title": "Anti-AfD-Demos: Scholz hält Demos gegen rechts für ein starkes Zeichen",
       "teaser": "Am Wochenende wird wieder in vielen Städten gegen rechts demonstriert. In Berlin werden 100.000 Menschen erwartet. Der Bundeskanzler unterstützt die Demonstrationen.",
       "url": "https://www.zeit.de/politik/2024-02/scholz-schneider-demonstrationen-rechts-afd",
       "image_url": "https://img.zeit.de/politik/deutschland/2024-02/scholz-schneider-demonstrationen-rechts-afd-bild/wide__822x462",
       "image_title": "Anti-AfD-Demos: Scholz hält Demos gegen rechts für ein starkes Zeichen"
-    },
-    {
-      "title": "Bundesverfassungsgericht: \"Wir müssen uns vor Verschlimmbesserungen hüten\"",
-      "teaser": "Zum Schutz des Bundesverfassungsgerichts sieht Unions-Justiziar Ansgar Heveling mehrere sinnvolle Möglichkeiten. Zugleich warnt der Abgeordnete vor übereilten Schritten.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-02/bundesverfassungsgericht-schutz-grundgesetz-ansgar-heveling",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-02/bundesverfassungsgericht-schutz-grundgesetz-ansgar-heveling-bild/wide__822x462",
-      "image_title": "Bundesverfassungsgericht: \"Wir müssen uns vor Verschlimmbesserungen hüten\""
     },
     {
       "title": "Tareq Alaows über Demos gegen rechts: \"Ich hoffe, dass auch Friedrich Merz kommt\"",
@@ -568,18 +574,18 @@
       "image_title": "Deutscher Aktienindex: Dax erreicht neues Allzeithoch"
     },
     {
-      "title": "WirtschaftsWocheKfW-Förderung: Mit diesen Förderprogrammen sparen Hauskäufer jetzt Tausende Euro",
-      "teaser": "Nach dem Förderchaos im vergangenen Jahr startet das Bauministerium einen Neuanlauf. Für wichtige KfW-Förderprogramme fließt bald wieder Geld. Und weitere sollen folgen. Ein Überblick.",
-      "url": "https://www.wiwo.de/my/finanzen/immobilien/kfw-foerderung-mit-diesen-foerderprogrammen-sparen-hauskaeufer-jetzt-tausende-euro/29630978.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/imago0242633980h/29564056/3-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
-      "image_title": "KfW-Förderung: Mit diesen Förderprogrammen sparen Hauskäufer jetzt Tausende Euro"
+      "title": "WirtschaftsWocheKünstliche Intelligenz: Was hinter dem Hype um das KI-Start-up Mistral steckt",
+      "teaser": "Mistral aus Frankreich wird als Europas Hoffnung im KI-Wettlauf gehandelt – dabei ist der Newcomer gerade mal neun Monate alt. Was macht die Technologie so besonders?",
+      "url": "https://www.wiwo.de/unternehmen/it/kuenstliche-intelligenz-was-hinter-dem-hype-um-das-ki-start-up-mistral-steckt/29630724.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/mistral-ai-getty-images-editorial-all-2-1787348253-highres/29630616/3-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
+      "image_title": "Künstliche Intelligenz: Was hinter dem Hype um das KI-Start-up Mistral steckt"
     },
     {
-      "title": "WirtschaftsWocheInternetversorgung: „Uns droht ein Sturm am Glasfasermarkt“",
-      "teaser": "Der Glasfaserausbau stößt an seine Grenzen: Immer weniger Menschen wollen den Anschluss finanzieren. Experte Klaus Hölbling prophezeit eine radikale Auslese am Markt – und fordert die Politik auf, sich einzumischen.",
-      "url": "https://www.wiwo.de/unternehmen/it/internetversorgung-uns-droht-ein-sturm-am-glasfasermarkt/29630896.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/100-pro-imago-life-2-199680017-highres/29635832/3-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
-      "image_title": "Internetversorgung: „Uns droht ein Sturm am Glasfasermarkt“"
+      "title": "WirtschaftsWocheKünstliche Intelligenz: Ist KI-Manager wirklich der „neue, heiße Job“?",
+      "teaser": "In den USA gilt der Chief AI Officer als Managementjob der Zukunft. Auch deutsche Firmen suchen Chefs, die Datenwissenschaftler und Ingenieure führen und die KI-Strategie formen. Das können sie – und so ticken sie.",
+      "url": "https://www.wiwo.de/erfolg/management/kuenstliche-intelligenz-ist-ki-manager-wirklich-der-neue-heisse-job/29635588.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/caio-gettyimages-1463459171/29635648/2-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
+      "image_title": "Künstliche Intelligenz: Ist KI-Manager wirklich der „neue, heiße Job“?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Psychologie: \"Solche tiefen, dysfunktionalen Beziehungen halten oft viele Jahre\"",
@@ -774,10 +780,17 @@
       "image_title": "Statistisches Bundesamt: Straßenbahn- und Busfahrer sind überdurchschnittlich alt"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Pflegeprodukte: Etwas Quitte, ein wenig Surfspray – und der Tag ist gerettet",
+      "teaser": "Pazifikfeeling im Haar, Körperöl für den Selbstwert oder endlich ein gutes Trockenshampoo: Wir haben in der Redaktion nach Pflegeprodukten gefragt, die den Tag retten.",
+      "url": "https://www.zeit.de/zeit-magazin/2024/06/pflegeprodukte-kosmetik-creme-tipps",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024/06/schoene-zeit-bild-1/cinema__980x420",
+      "image_title": "Pflegeprodukte: Etwas Quitte, ein wenig Surfspray – und der Tag ist gerettet"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Kim Kardashian: Glatt, geformt und unter Kontrolle",
       "teaser": "Wer sich in Skims kleidet, schlüpft in die Haut von Kim Kardashian. Dabei lernt man viel mehr, als dass Shapewear den Körper formt.",
       "url": "https://www.zeit.de/zeit-magazin/2024/06/kim-kardashian-skims-shapewear-koerpergefuehl",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024/06/in-kims-haut-bild-1/cinema__980x420",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024/06/in-kims-haut-bild-1/wide__822x462",
       "image_title": "Kim Kardashian: Glatt, geformt und unter Kontrolle"
     },
     {
@@ -788,13 +801,6 @@
       "image_title": "Gender-Pain-Gap: Das leidende Geschlecht"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Kreuzbandriss: Ich will ihn nicht verklagen. Ich will ihn schlagen.",
-      "teaser": "Auf dem Basketballplatz wurde unser Autor grob gefoult: Kreuzbandriss, OP. Nun schleicht er auf Krücken zum Physiotherapeuten – und stellt sich seiner Lust auf Rache.",
-      "url": "https://www.zeit.de/zeit-magazin/2024/05/kreuzbandriss-foul-basketball-operation-rache",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024/05/untere-extremitaeten-bild-1/wide__822x462",
-      "image_title": "Kreuzbandriss: Ich will ihn nicht verklagen. Ich will ihn schlagen."
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Beziehungen auf Distanz: \"Immer zum Monatsanfang vereinbaren wir digitale Date-Nights\"",
       "teaser": "Sie sind sich nah, obwohl sie nicht in der gleichen Stadt leben: Ein Vater und seine Tochter, ein Paar und zwei Freundinnen erzählen, wie sie einander verbunden bleiben.",
       "url": "https://www.zeit.de/campus/ratgeber/2023/02/freundschaft-distanz-geografisch-online-familie",
@@ -802,11 +808,11 @@
       "image_title": "Beziehungen auf Distanz: \"Immer zum Monatsanfang vereinbaren wir digitale Date-Nights\""
     },
     {
-      "title": "Verlagsangebot Durchblick im Studiendschungel",
-      "teaser": "Bei 20.000 möglichen Studiengängen in Deutschland verliert man schnell den Überblick. Unterstützung bietet die Suchmaschine für Studiengänge und Hochschulen.",
-      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.whiteboard_studiendschungel.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_whiteboard_studiendschungel_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-3-klein/man-wearing-black-and-white-stripe-shirt-looking-at-white-197.jpg",
-      "image_title": "Durchblick im Studiendschungel"
+      "title": "Verlagsangebot Nicht nur irgendwas studieren",
+      "teaser": "Studieren! Aber was? Der Studiuminteressentest unterstützt Unschlüssige bei ihrer Suche nach dem passenden Studium, basierend auf den eigenen Interessen.",
+      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.textbild.schwarzer-hut_nichtnurirgendwas.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=sit_textbild_schwarzer-hut_nichtnurirgendwas_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-2-klein/brooke-cagle-tlg2hcpitze-unsplash-197.jpg",
+      "image_title": "Nicht nur irgendwas studieren"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Selbstzweifel: \"Manche haben schon als Kind die Erfahrung gemacht, nicht zu genügen\"",
@@ -844,18 +850,25 @@
       "image_title": "Kulturexpeditionen mit ZEIT REISEN"
     },
     {
+      "title": "CAR-Center Automotive Research: Käufer können bei Neuwagen mit hohen Vergünstigungen rechnen",
+      "teaser": "Nachdem die Umweltprämie für E-Autos kurzfristig wegfällt, versuchen Händler dies offenbar auszugleichen. Die Konzerne überbieten sich dabei gegenseitig mit Rabatten.",
+      "url": "https://www.zeit.de/mobilitaet/2024-02/car-center-automotive-research-autokauf-umweltpraemie-rabatte",
+      "image_url": "https://img.zeit.de/mobilitaet/2024-02/car-center-automotive-research-autokauf-umweltpraemie-rabatte-bild/cinema__980x420",
+      "image_title": "CAR-Center Automotive Research: Käufer können bei Neuwagen mit hohen Vergünstigungen rechnen"
+    },
+    {
       "title": "Luftfahrt: Piloten der Lufthansa-Tochter Discover streiken ab Sonntag erneut",
       "teaser": "Bereits vor einer Woche haben die Piloten der Discover Airlines ihre Arbeit niedergelegt. Ab Sonntag geht der Streik in die nächste Runde – dieses Mal für 48 Stunden.",
       "url": "https://www.zeit.de/mobilitaet/2024-02/lufthansa-discover-48-stunden-streik-sonntag",
-      "image_url": "https://img.zeit.de/mobilitaet/2024-02/discover-airlines-lufthansa-piloten-streik-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/mobilitaet/2024-02/discover-airlines-lufthansa-piloten-streik-bild/wide__822x462",
       "image_title": "Luftfahrt: Piloten der Lufthansa-Tochter Discover streiken ab Sonntag erneut"
     },
     {
-      "title": "ÖPNV: Warnstreiks legen in vielen Städten öffentlichen Nahverkehr lahm",
-      "teaser": "In vielen Städten fahren keine Busse, U-Bahnen und Trams. Besonders betroffen ist der Nahverkehr in Nordrhein-Westfalen. Viele Arbeitnehmer bleiben im Homeoffice.",
-      "url": "https://www.zeit.de/mobilitaet/2024-02/streik-nahverkehr-verdi-flughafen-hamburg-bodenpersonal",
-      "image_url": "https://img.zeit.de/mobilitaet/2024-02/streik-nahverkehr-verdi-flughafen-hamburg-bodenpersonal-bild/wide__822x462",
-      "image_title": "ÖPNV: Warnstreiks legen in vielen Städten öffentlichen Nahverkehr lahm"
+      "title": "Hamburg-Podcast \"Elbvertiefung\": Was macht die Schule?",
+      "teaser": "Hamburgs Schulkinder bekommen in diesen Tagen Halbjahreszeugnisse. Ein idealer Moment, um auf das Schulsystem der Stadt zu blicken: Was klappt? Was müsste besser laufen?",
+      "url": "https://www.zeit.de/hamburg/2024-02/schulsystem-hamburg-podcast-elbvertiefung",
+      "image_url": "https://img.zeit.de/hamburg/2024-02/schulsystem-hamburg-podcast-elbvertiefung-bild-2/wide__822x462",
+      "image_title": "Hamburg-Podcast \"Elbvertiefung\": Was macht die Schule?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Hamburg: Im Alsterhaus hängen schon Absperrbänder",
@@ -863,13 +876,6 @@
       "url": "https://www.zeit.de/hamburg/2024-02/alsterhaus-hamburg-insolvenz-kadewe-luxus-kaufhaus",
       "image_url": "https://img.zeit.de/hamburg/2024-02/alsterhaus-insolvenz-kadewe-luxus-kaufhaus-bild-2/wide__822x462",
       "image_title": "Hamburg: Im Alsterhaus hängen schon Absperrbänder"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Bauernproteste in Hamburg: Eine Polizei in Erklärungsnot",
-      "teaser": "Bei ihrer Störaktion im Hamburger Hafen gaben die Landwirte einander Tipps per Telegram – und düpierten die Polizei. Die hat nun Mühe, ihre Zurückhaltung zu erklären.",
-      "url": "https://www.zeit.de/hamburg/2024-01/bauernproteste-hamburg-blockade-traktor-polizei",
-      "image_url": "https://img.zeit.de/hamburg/2024-01/traktor-hamburg/wide__822x462",
-      "image_title": "Bauernproteste in Hamburg: Eine Polizei in Erklärungsnot"
     },
     {
       "title": "DFB: Frauen-Bundesliga soll von zwölf auf 16 Teams vergrößert werden",
@@ -935,36 +941,36 @@
       "image_title": "Neu: Logikrätsel: Hashiwokakero"
     },
     {
-      "title": "Unfälle: 82-Jähriger stirbt nach Autounfall bei Königs Wusterhausen",
-      "url": "https://www.zeit.de/news/2024-02/03/82-jaehriger-stirbt-nach-autounfall-bei-koenigs-wusterhausen"
+      "title": "Feuerwehreinsatz: Tönnies-Werk: Mehrere Leichtverletzte nach Ammoniak-Austritt",
+      "url": "https://www.zeit.de/news/2024-02/03/toennies-werk-mehrere-leichtverletzte-nach-ammoniak-austritt"
     },
     {
-      "title": "2. Bundesliga: Spätes Gegentor: Starker Uzun reicht nicht für FCN-Sieg",
-      "url": "https://www.zeit.de/news/2024-02/03/spaetes-gegentor-starker-uzun-reicht-nicht-fuer-fcn-sieg"
+      "title": "2. Bundesliga: Hürzeler zu Wechselgerüchten: «Will bei St. Pauli bleiben»",
+      "url": "https://www.zeit.de/news/2024-02/03/huerzeler-zu-wechselgeruechten-will-bei-st-pauli-bleiben"
     },
     {
-      "title": "Demonstrationen: Polizei: 25.000 bei Demo gegen rechts in Augsburg",
-      "url": "https://www.zeit.de/news/2024-02/03/polizei-25-000-bei-demo-gegen-rechts-in-augsburg"
+      "title": "3. Liga: 1860 München bleibt ungeschlagen unter Giannikis",
+      "url": "https://www.zeit.de/news/2024-02/03/1860-muenchen-bleibt-ungeschlagen-unter-giannikis"
     },
     {
-      "title": "Demonstrationen: Tausende bei Kundgebung für Demokratie und gegen rechts",
-      "url": "https://www.zeit.de/news/2024-02/03/tausende-bei-kundgebung-fuer-demokratie-und-gegen-rechts"
+      "title": "Wintersport: Doppelsitzer Eitberger/Schirmer Dritte im Rodel-Weltcup",
+      "url": "https://www.zeit.de/news/2024-02/03/doppelsitzer-eitberger-schirmer-dritte-im-rodel-weltcup"
     },
     {
-      "title": "Bundesliga: VfB-Profis denken an verletzten Teamkollegen Zagadou",
-      "url": "https://www.zeit.de/news/2024-02/03/vfb-profis-denken-an-verletzten-teamkollegen-zagadou"
+      "title": "Proteste: Hunderte Teilnehmer bei Demos gegen rechts",
+      "url": "https://www.zeit.de/news/2024-02/03/hunderte-teilnehmer-bei-demos-gegen-rechts"
     },
     {
-      "title": "Freizeit: Mit Kostüm in die Fluten: Eisbader in der Ostsee",
-      "url": "https://www.zeit.de/news/2024-02/03/mit-kostuem-in-die-fluten-eisbader-in-der-ostsee"
+      "title": "Internet: Facebook wird 20: Die Geldmaschine für den Metaverse-Traum",
+      "url": "https://www.zeit.de/news/2024-02/03/facebook-wird-20-die-geldmaschine-fuer-den-metaverse-traum"
     },
     {
-      "title": "Brände: Sportgeschäft brennt: 20 Einsatzkräfte mit Rauchvergiftung",
-      "url": "https://www.zeit.de/news/2024-02/03/sportgeschaeft-brennt-20-einsatzkraefte-mit-rauchvergiftung"
+      "title": "Luftverkehr: Trotz Discover-Streiks: Viele Flüge sollen stattfinden",
+      "url": "https://www.zeit.de/news/2024-02/03/trotz-discover-streiks-viele-fluege-sollen-stattfinden"
     },
     {
-      "title": "Bundesliga: Bayern-Trainer Tuchel wieder fit: «Alles gut» nach Infekt",
-      "url": "https://www.zeit.de/news/2024-02/03/bayern-trainer-tuchel-wieder-fit-alles-gut-nach-infekt"
+      "title": "Parteien: CDU Hessen hat Landesliste für Europawahl gewählt",
+      "url": "https://www.zeit.de/news/2024-02/03/cdu-hessen-hat-landesliste-fuer-europawahl-gewaehlt"
     }
   ]
 }
