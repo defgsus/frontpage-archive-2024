@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-03T13:01:29",
+  "timestamp": "2024-02-03T14:01:00",
   "url": "https://www.welt.de/regionales/",
   "response": {
     "status": 200
@@ -26,6 +26,20 @@
   ],
   "articles": [
     {
+      "title": "Wegen „falscher Berichterstattung“ – Demonstranten blockieren Zeitungsvertrieb in Hamburg",
+      "teaser": "Medienberichten zufolge haben Demonstranten ein Verteilzentrum für Zeitungen und Zeitschriften in Hamburg blockiert – weil sie unzufrieden mit der Berichterstattung über die Bauernproteste waren. Die Polizei löste die Blockade in der Nacht auf.",
+      "url": "https://www.welt.de/politik/deutschland/",
+      "image_url": "https://img.welt.de/img/politik/deutschland/mobile249895770/5547930227-ci23x11-w20/Polizeiauto-mit-Blaulicht.jpg",
+      "image_title": "Polizeiauto mit Blaulicht"
+    },
+    {
+      "title": "Messerangriff mit zwei Toten in Hamburg – Mutmaßlicher Täter stellt sich",
+      "teaser": "Zwei Männer sind bei einem Messerangriff in einer Hamburger Wohnstraße gestorben. Inzwischen hat sich der 32-jährige Tatverdächtige bei der Polizei gestellt. Er wurde am Samstag vorläufig festgenommen.",
+      "url": "https://www.welt.de/regionales/hamburg/",
+      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile249895888/3347933117-ci23x11-w20/Zwei-Tote-in-Hamburg-gefunden.jpg",
+      "image_title": "Polizisten riegeln den Tatort in der Wohnstraße im Hamburger Stadtteil Billstedt ab"
+    },
+    {
       "title": "Demonstranten blockieren Presseverteilzentrum und verhindern Zeitungsauslieferung",
       "teaser": "Mit mehreren großen Fahrzeugen wurde während einer nächtlichen Aktion die Verteilung von bekannten Hamburger Zeitungen unterbrochen. Offenbar gibt es einen Zusammenhang zu den Bauernprotesten.",
       "url": "https://www.welt.de/regionales/hamburg/",
@@ -47,20 +61,6 @@
       "image_url": "https://img.welt.de/img/politik/deutschland/mobile249723176/3137937207-ci23x11-w20/Bodo-Ramelow-11.jpg",
       "image_title": "Saalfeld in Thüringen. Im Freistaat ist die Parteienlandschaft, die die Bundesrepublik prägt, in Auflösung geraten",
       "author": "Claus Christian Malzahn"
-    },
-    {
-      "title": "Bauern blockieren Zufahrten zum Frankfurter Flughafen",
-      "teaser": "Seit Samstagmorgen sind Landwirte mit mehr als 500 Traktoren rund um den Frankfurter Flughafen unterwegs. Die Flughafengesellschaft rät zur Anreise mit öffentlichen Verkehrsmitteln. Der Ort ist nicht zufällig gewählt, denn die Bauern ziehen einen Vergleich vom Agrardiesel zum Flugbenzin.",
-      "url": "https://www.welt.de/politik/deutschland/",
-      "image_url": "https://img.welt.de/img/politik/deutschland/mobile249893314/6717936087-ci23x11-w20/Germany-Farmers-Protest.jpg",
-      "image_title": "Bauern auf einer Autobahn am Frankfurter Flughafen"
-    },
-    {
-      "title": "„Große Sympathien für Preisstaffelung der Parkgebühren“ – SUV-Fahrer sollen mehr zahlen",
-      "teaser": "In Paris entscheiden die Bürger, ob das Parken von SUVs im Stadtzentrum bald 18 Euro kosten wird – und damit dreimal mehr als bei kleinere Autos. Hannovers Oberbürgermeister Belit Onay hält diese Idee auf für Deutschland für charmant und kann sich eine Preisstaffelung auch für seine Stadt vorstellen.",
-      "url": "https://www.welt.de/politik/deutschland/",
-      "image_url": "https://img.welt.de/img/politik/deutschland/mobile249892932/5507935647-ci23x11-w20/Ende-vom-rot-gruenen-Ratsbuendnis-in-Hannover.jpg",
-      "image_title": "Hannovers OB Belit Onay, Grüne, verlor im November 2023 seinen SPD-Koalitionspartner im Stadtrat. Die SPD wollte seinen Entwurf einer annähernd autofreien Innenstadt nicht mittragen"
     },
     {
       "title": "Lieferando-Gutschein",
@@ -251,6 +251,13 @@
       "image_title": "Polizeieinsatz in Schule in St. Leon-Rot"
     },
     {
+      "title": "„Große Sympathien für Preisstaffelung der Parkgebühren“ – SUV-Fahrer sollen mehr zahlen",
+      "teaser": "In Paris entscheiden die Bürger, ob das Parken von SUVs im Stadtzentrum bald 18 Euro kosten wird – und damit dreimal mehr als bei kleinere Autos. Hannovers Oberbürgermeister Belit Onay hält diese Idee auf für Deutschland für charmant und kann sich eine Preisstaffelung auch für seine Stadt vorstellen.",
+      "url": "https://www.welt.de/politik/deutschland/",
+      "image_url": "https://img.welt.de/img/politik/deutschland/mobile249892932/5507935647-ci23x11-w20/Ende-vom-rot-gruenen-Ratsbuendnis-in-Hannover.jpg",
+      "image_title": "Hannovers OB Belit Onay, Grüne, verlor im November 2023 seinen SPD-Koalitionspartner im Stadtrat. Die SPD wollte seinen Entwurf einer annähernd autofreien Innenstadt nicht mittragen"
+    },
+    {
       "title": "Bauern protestieren mit 250 Traktoren vor Ampel-Parteizentralen",
       "teaser": "In vielen Städten und Regionen demonstrieren Landwirte gegen die Agrarpolitik der Bundesregierung. 250 Traktoren versammelten sich vor den Parteizentralen der Ampelkoalition. Sie wollen einen Forderungskatalog übergeben.",
       "url": "https://www.welt.de/politik/deutschland/",
@@ -265,11 +272,11 @@
       "image_title": "Blick auf die Baustelle der A7 in Richtung Süden in Hamburg-Bahrenfeld – hier wird es besonders eng"
     },
     {
-      "title": "Polizisten mit Currywurst bestochen? Staatsanwaltschaft ermittelt",
-      "teaser": "Fast ein Jahr lang wurden 17 Mitarbeiter der Zentralen Polizeidirektion (ZPD) Niedersachsens immer wieder von einem Referenten zum Essen eingeladen. Dabei entstanden Kosten von bis zu 2000 Euro. Nun ermittelt die Staatsanwaltschaft Hannover.",
-      "url": "https://www.welt.de/vermischtes/kriminalitaet/",
-      "image_url": "https://img.welt.de/img/vermischtes/kriminalitaet/mobile249697322/8507935967-ci23x11-w20/Currywurst.jpg",
-      "image_title": "Zu oft gratis Currywurst? In Hannover rief das die Staatsanwaltschaft auf den Plan"
+      "title": "Bauern blockieren Zufahrten zum Frankfurter Flughafen",
+      "teaser": "Seit Samstagmorgen sind Landwirte mit mehr als 500 Traktoren rund um den Frankfurter Flughafen unterwegs. Die Flughafengesellschaft rät zur Anreise mit öffentlichen Verkehrsmitteln. Der Ort ist nicht zufällig gewählt, denn die Bauern ziehen einen Vergleich vom Agrardiesel zum Flugbenzin.",
+      "url": "https://www.welt.de/politik/deutschland/",
+      "image_url": "https://img.welt.de/img/politik/deutschland/mobile249893314/6717936087-ci23x11-w20/Germany-Farmers-Protest.jpg",
+      "image_title": "Bauern auf einer Autobahn am Frankfurter Flughafen"
     },
     {
       "title": "Polizei findet selbst hergestellten Sprengstoff in Wohnung",
@@ -284,13 +291,6 @@
       "url": "https://www.welt.de/vermischtes/prominente/",
       "image_url": "https://img.welt.de/img/vermischtes/prominente/mobile249790612/0617931017-ci23x11-w20/Der-Staatsanwalt-Rainer-Hunold.jpg",
       "image_title": "Gab den Oberstaatsanwalt Bernd Reuther: Schauspieler Rainer Hunold"
-    },
-    {
-      "title": "Lkw versperren Verkehr auf der A5 – ein Toter",
-      "teaser": "Nichts geht auf der A5: Infolge der heftigen Schneefälle bleibt die Autobahn in Osthessen blockiert. Das Problem sind vor allem die Lkw – einigen ging inzwischen der Sprit aus, andere Fahrer dürfen aufgrund gesetzlicher Auflagen nicht weiterfahren. Dabei kam es zu einem tödlichen Unfall.",
-      "url": "https://www.welt.de/vermischtes/",
-      "image_url": "https://img.welt.de/img/vermischtes/mobile249617152/3947937467-ci23x11-w20/Unfall-auf-der-A5-bei-Reiskirchen.jpg",
-      "image_title": "Unfall auf der A5 bei Reiskirchen"
     },
     {
       "title": "Drei Tote aus Familienkreis – Tatverdächtiger rief nach der Tat seine Lebensgefährtin an",
@@ -404,6 +404,50 @@
       "image_title": "Bauernproteste - Hamburg"
     },
     {
+      "title": "Hannovers Oberbürgermeister für höhere SUV-Parkgebühren",
+      "url": "https://www.welt.de/regionales/niedersachsen/article249896226/Hannovers-Oberbuergermeister-fuer-hoehere-SUV-Parkgebuehren.html"
+    },
+    {
+      "title": "Wegen „falscher Berichterstattung“ – Demonstranten blockieren Zeitungsvertrieb in Hamburg",
+      "url": "https://www.welt.de/politik/deutschland/article249895650/Bauernproteste-Demonstranten-blockieren-Zeitungsvertrieb-in-Hamburg.html"
+    },
+    {
+      "title": "Grüner Umweltminister: Vorgehen beim Agrardiesel war falsch",
+      "url": "https://www.welt.de/regionales/thueringen/article249896182/Gruener-Umweltminister-Vorgehen-beim-Agrardiesel-war-falsch.html"
+    },
+    {
+      "title": "Böllerwurf bei St. Pauli gegen Fürth: Verdächtiger gefasst",
+      "url": "https://www.welt.de/regionales/bayern/article249896110/Boellerwurf-bei-St-Pauli-gegen-Fuerth-Verdaechtiger-gefasst.html"
+    },
+    {
+      "title": "Langenhan rodelt von Platz 21 noch zum Sieg",
+      "url": "https://www.welt.de/regionales/sachsen/article249896216/Langenhan-rodelt-von-Platz-21-noch-zum-Sieg.html"
+    },
+    {
+      "title": "Messerangriff mit zwei Toten in Hamburg – Mutmaßlicher Täter stellt sich",
+      "url": "https://www.welt.de/regionales/hamburg/article249895802/Hamburg-Billstedt-Mutmasslicher-Taeter-stellt-sich-nach-toedlichem-Messerangriff.html"
+    },
+    {
+      "title": "Warnung: Töchter nicht allein zur Schule laufen lassen",
+      "url": "https://www.welt.de/regionales/bayern/article249896062/Warnung-Toechter-nicht-allein-zur-Schule-laufen-lassen.html"
+    },
+    {
+      "title": "Wilmsmann beschert Skicrossern nächsten Podestplatz",
+      "url": "https://www.welt.de/regionales/bayern/article249895970/Wilmsmann-beschert-Skicrossern-naechsten-Podestplatz.html"
+    },
+    {
+      "title": "Anklage gegen 15-Jährige wegen brutalen Angriffs",
+      "url": "https://www.welt.de/regionales/sachsen/article249895782/Anklage-gegen-15-Jaehrige-wegen-brutalen-Angriffs.html"
+    },
+    {
+      "title": "Polizei mit 700 Kräften bei Menschenkette im Einsatz",
+      "url": "https://www.welt.de/regionales/berlin/article249895870/Polizei-mit-700-Kraeften-bei-Menschenkette-im-Einsatz.html"
+    },
+    {
+      "title": "Strafanzeigen nach Bauerndemo in Bremerhaven",
+      "url": "https://www.welt.de/regionales/niedersachsen/article249895868/Strafanzeigen-nach-Bauerndemo-in-Bremerhaven.html"
+    },
+    {
       "title": "Demonstranten blockieren Presseverteilzentrum und verhindern Zeitungsauslieferung",
       "url": "https://www.welt.de/regionales/hamburg/article249895582/Hamburger-Abendblatt-und-Mopo-Demonstranten-blockieren-Presseverteilzentrum-und-verhindern-Zeitungsauslieferung.html"
     },
@@ -412,8 +456,16 @@
       "url": "https://www.welt.de/regionales/nrw/article249895764/Erneut-zahlreiche-Demos-gegen-rechts-in-NRW.html"
     },
     {
+      "title": "Lasterfahrer bei Unfall auf A2 schwer verletzt",
+      "url": "https://www.welt.de/regionales/niedersachsen/article249895836/Lasterfahrer-bei-Unfall-auf-A2-schwer-verletzt.html"
+    },
+    {
       "title": "Kretschmann besorgt über Härte der Arbeitskämpfe",
       "url": "https://www.welt.de/regionales/baden-wuerttemberg/article249895688/Kretschmann-besorgt-ueber-Haerte-der-Arbeitskaempfe.html"
+    },
+    {
+      "title": "Kleintransporter fährt gegen Baum: Mehrere Verletzte",
+      "url": "https://www.welt.de/regionales/thueringen/article249895826/Kleintransporter-faehrt-gegen-Baum-Mehrere-Verletzte.html"
     },
     {
       "title": "Wechselhaftes Wetter bei milden Temperaturen in NRW",
@@ -490,50 +542,6 @@
     {
       "title": "Waldhof findet Bartels-Ersatz: Hanin kommt nach Mannheim",
       "url": "https://www.welt.de/regionales/baden-wuerttemberg/article249893848/Waldhof-findet-Bartels-Ersatz-Hanin-kommt-nach-Mannheim.html"
-    },
-    {
-      "title": "Wolken und gebietsweise Regen in Hessen",
-      "url": "https://www.welt.de/regionales/hessen/article249893782/Wolken-und-gebietsweise-Regen-in-Hessen.html"
-    },
-    {
-      "title": "Ibisevic wird Co-Trainer von Sandro Schwarz in New York",
-      "url": "https://www.welt.de/regionales/berlin/article249893762/Ibisevic-wird-Co-Trainer-von-Sandro-Schwarz-in-New-York.html"
-    },
-    {
-      "title": "Wildschwein läuft durch Altstadt und auf Schulgelände",
-      "url": "https://www.welt.de/regionales/thueringen/article249893672/Wildschwein-laeuft-durch-Altstadt-und-auf-Schulgelaende.html"
-    },
-    {
-      "title": "Ex-Präsident Overath fordert Zusammenhalt beim 1. FC Köln",
-      "url": "https://www.welt.de/regionales/nrw/article249893694/Ex-Praesident-Overath-fordert-Zusammenhalt-beim-1-FC-Koeln.html"
-    },
-    {
-      "title": "Schönebeck investiert rund 800.000 Euro in Feuerwehrfahrzeug",
-      "url": "https://www.welt.de/regionales/sachsen-anhalt/article249893666/Schoenebeck-investiert-rund-800-000-Euro-in-Feuerwehrfahrzeug.html"
-    },
-    {
-      "title": "Verkehrsbehinderungen erwartet wegen Demo gegen rechts",
-      "url": "https://www.welt.de/regionales/berlin/article249893692/Verkehrsbehinderungen-erwartet-wegen-Demo-gegen-rechts.html"
-    },
-    {
-      "title": "Sprühregen, Wind und Wolken in Rheinland-Pfalz und Saarland",
-      "url": "https://www.welt.de/regionales/hessen/article249893612/Spruehregen-Wind-und-Wolken-in-Rheinland-Pfalz-und-Saarland.html"
-    },
-    {
-      "title": "Betrunkener kracht mit Auto gegen Leitplanke: Fährt weiter",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article249893622/Betrunkener-kracht-mit-Auto-gegen-Leitplanke-Faehrt-weiter.html"
-    },
-    {
-      "title": "Doppelsitzer Wendl/Arlt patzen beim Weltcup in Altenberg",
-      "url": "https://www.welt.de/regionales/sachsen/article249893474/Doppelsitzer-Wendl-Arlt-patzen-beim-Weltcup-in-Altenberg.html"
-    },
-    {
-      "title": "3,5 Millionen Menschen schauen «Fastnacht in Franken»",
-      "url": "https://www.welt.de/regionales/bayern/article249893478/3-5-Millionen-Menschen-schauen-Fastnacht-in-Franken.html"
-    },
-    {
-      "title": "Sechs Menschen bei Frontalzusammenstoß zweier Autos verletzt",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article249893418/Sechs-Menschen-bei-Frontalzusammenstoss-zweier-Autos-verletzt.html"
     },
     {
       "title": "Bauern blockieren Zufahrten zum Frankfurter Flughafen",
@@ -634,14 +642,6 @@
     {
       "title": "„Wird lieber über Unisex-Toiletten und Gendersternchen diskutiert als über Lesen und Rechnen“",
       "url": "https://www.welt.de/politik/deutschland/plus249833692/Bildungsmisere-Wird-lieber-ueber-Unisex-Toiletten-diskutiert-als-ueber-Lesen-und-Rechnen.html"
-    },
-    {
-      "title": "Klima-Initiative übergibt Hamburger Bürgerschaft 20.000 Unterschriften",
-      "url": "https://www.welt.de/regionales/hamburg/article249834222/Hamburg-Klima-Initiative-Zukunftsentscheid-uebergibt-20-000-Unterschriften.html"
-    },
-    {
-      "title": "Zehn Jahre Haft für zweifache Entführung von Frau",
-      "url": "https://www.welt.de/regionales/hamburg/article249834190/Landgericht-Hamburg-Zehn-Jahre-Haft-fuer-zweifache-Entfuehrung-von-Frau.html"
     }
   ]
 }
