@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-04T10:00:50",
+  "timestamp": "2024-02-04T11:00:46",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "IBM Business Automation Workflow",
+      "url": "https://www.heise.de/news/IBM-Business-Automation-Workflow-fuer-DoS-Attacken-Co-anfaellig-9617691.html"
+    },
+    {
+      "title": "Juniper Secure Analysis Applications",
+      "url": "https://www.heise.de/news/IT-Sicherheitsueberwachung-Juniper-JSA-fuer-mehrere-Attacken-anfaellig-9617677.html"
+    },
+    {
       "title": "QNAP QTS, QuTS hero, QuTScloud",
       "url": "https://www.heise.de/news/QNAP-Neue-Firmware-Versionen-beheben-Sicherheitsluecken-9617332.html"
     },
@@ -40,12 +48,14 @@
       "url": "https://www.heise.de/news/Sicherheitsupdate-IBM-Sicherheitsloesung-QRadar-SIEM-unter-Linux-angreifbar-9616532.html"
     },
     {
-      "title": "Mastodon",
-      "url": "https://www.heise.de/news/Mastodon-Diebstahl-beliebiger-Identitaeten-im-foederierten-Kurznachrichtendienst-9615961.html"
+      "title": "IBM Business Automation Workflow für DoS-Attacken & Co. anfällig",
+      "teaser": "Angreifer können an mehreren Schwachstellen in IBM Business Automation Workflow ansetzen.",
+      "url": "https://www.heise.de/news/IBM-Business-Automation-Workflow-fuer-DoS-Attacken-Co-anfaellig-9617691.html"
     },
     {
-      "title": "Ivanti",
-      "url": "https://www.heise.de/news/Ivanti-Neues-ausgenutztesSicherheitsleck-Updates-endlich-verfuegbar-9615184.html"
+      "title": "IT-Sicherheitsüberwachung Juniper JSA für mehrere Attacken anfällig",
+      "teaser": "Angreifer können Junipers Security-Information-and-Event-Management-System JSA ins Visier nehmen. Sicherheitspatches sind verfügbar.",
+      "url": "https://www.heise.de/news/IT-Sicherheitsueberwachung-Juniper-JSA-fuer-mehrere-Attacken-anfaellig-9617677.html"
     },
     {
       "title": "QNAP: Neue Firmware-Versionen beheben Befehlsschmuggel-Lücke",
@@ -146,18 +156,6 @@
       "teaser": "Unbekannte Täter verschlüsseln Daten der Bezirkskliniken Mittelfranken. Das Ausmaß des Schadens ist noch unklar.",
       "url": "https://www.heise.de/news/Ransomware-Angriff-Kriminelle-stehlen-Daten-aus-Kliniken-in-Mittelfranken-9614768.html",
       "image_title": "Krankenhauskorridor"
-    },
-    {
-      "title": "Fernwartungssoftware Anydesk kämpft mit Störungen",
-      "teaser": "Seit rund einer Woche zeigen die Anydesk-Server Störungen. Der Hersteller reagiert mit Maintenance-Sitzungen, Ursachen bleiben unklar.",
-      "url": "https://www.heise.de/news/Fernwartungssoftware-Anydesk-kaempft-mit-Stoerungen-9614705.html",
-      "image_title": "Blackout,Concept.,Emergency,Failure,Red,Light,In,Data,Center,With"
-    },
-    {
-      "title": "Europcar: Das Datenleck, das keines war",
-      "teaser": "In einem Untergrundforum bietet jemand rund 50 Millionen Datensätze angeblich von Europcar an. Sie sind offenbar gefälscht.",
-      "url": "https://www.heise.de/news/Europcar-Das-Datenleck-das-keines-war-9614594.html",
-      "image_title": "Hacker,Attack,Computer,Hardware,Microchip,While,Process,Data,Through,Internet"
     },
     {
       "title": "Microsofts Cloud und Entra ID - Reale Angriffe verstehen und verhindern",
