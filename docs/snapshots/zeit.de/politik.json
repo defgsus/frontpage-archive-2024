@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-05T01:42:05",
+  "timestamp": "2024-02-05T02:19:50",
   "url": "https://www.zeit.de/politik/index",
   "response": {
     "status": 200
@@ -32,10 +32,17 @@
   ],
   "articles": [
     {
+      "title": "Aufruf: Nachfahren von NS-Widerstandskämpfern positionieren sich gegen rechts",
+      "teaser": "Angehörige von Widerstandskämpfern gegen den Nationalsozialismus fordern auf, aus der Geschichte zu lernen. Demos reichten nicht, man müsse auch wählen gehen.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-02/aufruf-widerstand-demokratie-europawahl",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-02/aufruf-bild/cinema__980x420"
+    },
+    {
       "title": "Senegal: Proteste gegen Verschiebung der Präsidentschaftswahl im Senegal",
       "teaser": "Hunderte Senegalesen haben in der Hauptstadt des Landes demonstriert. Präsident Macky Sall hatte zuvor die geplante Präsidentschaftswahl auf unbestimmte Zeit verschoben.",
       "url": "https://www.zeit.de/politik/ausland/2024-02/senegal-praesidentschaftswahl-verschiebung-proteste-sall",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-02/senegal-proteste-praesidentschaftswahl-verschiebung-sall/cinema__980x420"
+      "image_url": "https://img.zeit.de/politik/ausland/2024-02/senegal-proteste-praesidentschaftswahl-verschiebung-sall/wide__822x462",
+      "image_title": "Senegal: Proteste gegen Verschiebung der Präsidentschaftswahl im Senegal"
     },
     {
       "title": "Demonstrationen gegen rechts: Weitere Proteste gegen Rechtsextremismus",
@@ -43,13 +50,6 @@
       "url": "https://www.zeit.de/politik/deutschland/2024-02/demonstration-rechtsextremismus-protestwelle-scholz",
       "image_url": "https://img.zeit.de/politik/deutschland/2024-02/proteste-wochenende-rechtsextremismus/wide__822x462",
       "image_title": "Demonstrationen gegen rechts: Weitere Proteste gegen Rechtsextremismus"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Strafvollzug in Russland: \"Putin hat nichts anderes als den Gulag geschaffen\"",
-      "teaser": "Ihr Ehemann galt als verschwunden und ist in eine Strafkolonie verlegt worden. Trotzdem glaubt Jewgenija Kara-Mursa, dass Putins Regime irgendwann zerbrechen wird.",
-      "url": "https://www.zeit.de/politik/ausland/2024-02/russland-strafvollzug-politische-gefangene-haftbedingungen",
-      "image_url": "https://img.zeit.de/2024-02/jewgenija-kara-mursa/wide__822x462",
-      "image_title": "Strafvollzug in Russland: \"Putin hat nichts anderes als den Gulag geschaffen\""
     },
     {
       "title": "Generaldebatte: Scholz wirft Merz Feigheit vor",
@@ -70,8 +70,8 @@
       "image_title": "ARD-Deutschlandtrend: AfD verliert, Union bleibt stärkste Kraft"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Stopp neuer LNG-Terminals: Joe Biden zeigt Europa die kalte Schulter",
-      "url": "https://www.zeit.de/politik/ausland/2024-01/fluessiggas-usa-joe-biden-deutschland"
+      "title": "Z+ (abopflichtiger Inhalt); AfD-Wähler: \"Lasst sie mal machen\"",
+      "url": "https://www.zeit.de/2024/06/afd-waehler-landtagswahl-brandenburg-unzufriedenheit-politiker"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Hamas-Angriff am 7. Oktober : Der Tag, der nicht enden will",
@@ -82,8 +82,8 @@
       "url": "https://www.zeit.de/politik/deutschland/2024-01/generaldebatte-bundeshaushalt-2024-cdu-chef-friedrich-merz-bundeskanzler-olaf-scholz"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); AfD-Wähler: \"Lasst sie mal machen\"",
-      "url": "https://www.zeit.de/2024/06/afd-waehler-landtagswahl-brandenburg-unzufriedenheit-politiker"
+      "title": "Z+ (abopflichtiger Inhalt); Stopp neuer LNG-Terminals: Joe Biden zeigt Europa die kalte Schulter",
+      "url": "https://www.zeit.de/politik/ausland/2024-01/fluessiggas-usa-joe-biden-deutschland"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Kundgebungen gegen rechts: Jetzt ist Sitzfleisch gefragt",
@@ -98,12 +98,12 @@
       "url": "https://www.zeit.de/politik/deutschland/2024-01/generaldebatte-bundeshaushalt-2024-cdu-chef-friedrich-merz-bundeskanzler-olaf-scholz"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Stopp neuer LNG-Terminals: Joe Biden zeigt Europa die kalte Schulter",
-      "url": "https://www.zeit.de/politik/ausland/2024-01/fluessiggas-usa-joe-biden-deutschland"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); AfD-Wähler: \"Lasst sie mal machen\"",
       "url": "https://www.zeit.de/2024/06/afd-waehler-landtagswahl-brandenburg-unzufriedenheit-politiker"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Stopp neuer LNG-Terminals: Joe Biden zeigt Europa die kalte Schulter",
+      "url": "https://www.zeit.de/politik/ausland/2024-01/fluessiggas-usa-joe-biden-deutschland"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); AfD-Wähler: \"Lasst sie mal machen\"",
@@ -144,10 +144,17 @@
       "image_title": "Bündnis Sahra Wagenknecht: Die Wagenknechtler"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Strafvollzug in Russland: \"Putin hat nichts anderes als den Gulag geschaffen\"",
+      "teaser": "Ihr Ehemann galt als verschwunden und ist in eine Strafkolonie verlegt worden. Trotzdem glaubt Jewgenija Kara-Mursa, dass Putins Regime irgendwann zerbrechen wird.",
+      "url": "https://www.zeit.de/politik/ausland/2024-02/russland-strafvollzug-politische-gefangene-haftbedingungen",
+      "image_url": "https://img.zeit.de/2024-02/jewgenija-kara-mursa/cinema__980x420",
+      "image_title": "Strafvollzug in Russland: \"Putin hat nichts anderes als den Gulag geschaffen\""
+    },
+    {
       "title": "Verantwortungsgemeinschaft: Union befürchtet die Anerkennung von Vielehen",
-      "teaser": "Die Verantwortungsgemeinschaft für Alleinstehende soll laut Marco Buschmann 2025 eingeführt werden. Die CDU warnt vor dem Gesetz – und hält es für überflüssig. 374 Kommentare",
+      "teaser": "Die Verantwortungsgemeinschaft für Alleinstehende soll laut Marco Buschmann 2025 eingeführt werden. Die CDU warnt vor dem Gesetz – und hält es für überflüssig.",
       "url": "https://www.zeit.de/gesellschaft/2024-02/verantwortungsgemeinschaft-vielehe-cdu-fdp-ehe",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-02/union-bedarfsgemeinschaft-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-02/union-bedarfsgemeinschaft-bild/wide__822x462",
       "image_title": "Verantwortungsgemeinschaft: Union befürchtet die Anerkennung von Vielehen"
     },
     {
@@ -161,14 +168,14 @@
       "title": "Z+ (abopflichtiger Inhalt); AfD-Wähler: \"Lasst sie mal machen\"",
       "teaser": "Ein Wochenende auf Mallorca. Das Leben ist schön. Trotzdem überlegt Patrick Roetzel, Anwalt und Ferienwohnungsbesitzer, die AfD zu wählen. Die Demos ändern daran nichts.",
       "url": "https://www.zeit.de/2024/06/afd-waehler-landtagswahl-brandenburg-unzufriedenheit-politiker",
-      "image_url": "https://img.zeit.de/2024/06/afd-waehler-landtagswahl-brandenburg-unzufriedenheit-politiker-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/2024/06/afd-waehler-landtagswahl-brandenburg-unzufriedenheit-politiker-bild/cinema__980x420",
       "image_title": "AfD-Wähler: \"Lasst sie mal machen\""
     },
     {
       "title": "Rechtsextremismus: Potsdam will Einreiseverbot gegen Martin Sellner erwirken",
-      "teaser": "Bei dem Treffen Rechtsextremer in Potsdam sprach der österreichische Rechtsextremist über die systematische Vertreibung von Menschen. Nun droht ihm ein Einreiseverbot. 174 Kommentare",
+      "teaser": "Bei dem Treffen Rechtsextremer in Potsdam sprach der österreichische Rechtsextremist über die systematische Vertreibung von Menschen. Nun droht ihm ein Einreiseverbot.",
       "url": "https://www.zeit.de/politik/deutschland/2024-02/potsdam-einreiseverbot-martin-sellner",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-02/martin-sellner-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-02/martin-sellner-bild/wide__822x462",
       "image_title": "Rechtsextremismus: Potsdam will Einreiseverbot gegen Martin Sellner erwirken"
     },
     {
@@ -182,14 +189,14 @@
       "title": "Z+ (abopflichtiger Inhalt); Kundgebungen gegen rechts: Jetzt ist Sitzfleisch gefragt",
       "teaser": "Eins haben die Demos erreicht: Rechte können nicht länger behaupten, sie seien \"das Volk\". Doch nun beginnt die eigentliche Arbeit – in allen demokratischen Parteien.",
       "url": "https://www.zeit.de/politik/deutschland/2024-02/kundgebungen-rechts-demonstrationen-demokratie-wahlen",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-02/kundgebungen-rechts-demonstrationen-demokratie-wahlen-teaser/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-02/kundgebungen-rechts-demonstrationen-demokratie-wahlen-teaser/cinema__980x420",
       "image_title": "Kundgebungen gegen rechts: Jetzt ist Sitzfleisch gefragt"
     },
     {
       "title": "Ukraine-Karte aktuell: Ukraine gewinnt offenbar Fläche bei Bachmut zurück",
       "teaser": "In der Region Bachmut soll die Ukraine Stellungen zurückerobert haben. Im Süden blockieren ukrainische Drohneneinsätze das Vorankommen russischer Einheiten.",
       "url": "https://www.zeit.de/politik/ausland/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen-teaserbild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen-teaserbild/wide__822x462",
       "image_title": "Ukraine-Karte aktuell: Ukraine gewinnt offenbar Fläche bei Bachmut zurück"
     },
     {
@@ -203,14 +210,14 @@
       "title": "Rechtsextremismus: Juso-Vorsitzender fordert Untersuchungsausschuss zu Maaßen",
       "teaser": "Offenbar hat der Inlandsgeheimdienst Daten über Hans-Georg Maaßen als rechtsextremistisch gespeichert. Juso-Chef Philipp Türmer verlangt einen Untersuchungsausschuss.",
       "url": "https://www.zeit.de/politik/deutschland/2024-02/hans-georg-maassen-juso-chef-untersuchungssausschuss",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-02/philipp-tuermer-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-02/philipp-tuermer-bild/cinema__980x420",
       "image_title": "Rechtsextremismus: Juso-Vorsitzender fordert Untersuchungsausschuss zu Maaßen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Joe Biden: Ein sicherer Sieg, der nichts garantiert",
       "teaser": "US-Präsident Joe Biden gewinnt die erste demokratische Vorwahl in South Carolina so deutlich, wie er gehofft hat. Der Erfolg kann seine Probleme jedoch nicht überspielen.",
       "url": "https://www.zeit.de/politik/ausland/2024-02/joe-biden-south-carolina-vorwahl-demokraten-usa",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-02/joe-biden-south-carolina-vorwahl-demokraten-usa-bild-3/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-02/joe-biden-south-carolina-vorwahl-demokraten-usa-bild-3/wide__822x462",
       "image_title": "Joe Biden: Ein sicherer Sieg, der nichts garantiert"
     },
     {
@@ -247,13 +254,6 @@
       "url": "https://www.zeit.de/politik/ausland/2024-02/biden-praesident-wahl-demokraten-south-carolina-sieg",
       "image_url": "https://img.zeit.de/politik/ausland/2024-02/joe-biden-south-carolina-vorwahl-sieg/wide__822x462",
       "image_title": "US-Präsidentschaftswahl: Joe Biden gewinnt Vorwahl in South Carolina"
-    },
-    {
-      "title": "Liveblog: Krieg in Israel und Gaza: USA kündigen weitere Angriffe gegen vom Iran unterstützte Gruppen an",
-      "teaser": "US-Sicherheitsberater Jake Sullivan kündigt weitere Vergeltungsmaßnahmen an. Israels Minister Ben-Gvir sorgt mit Aussagen zu US-Präsident Biden für Kritik. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/2023-12/news-israel-gaza-krieg-live",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-02/jake-sullivan-us-sicherheitsberater-israel/wide__822x462",
-      "image_title": "Krieg in Israel und Gaza: USA kündigen weitere Angriffe gegen vom Iran unterstützte Gruppen an"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Literatur der Rechten: Die Autoren meinen es ernst – und ihre Leser auch",
