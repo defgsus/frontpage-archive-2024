@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-05T13:00:51",
+  "timestamp": "2024-02-05T14:00:43",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -13,7 +13,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.183075f90c4c2e3b7cf8",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.bcdd0cf1d612ba23cf95",
       "id": null,
       "text": null
     },
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "Eine der ältesten Funktionen: Google stampft den Google Cache ein",
+      "teaser": "Wer auf Google eine Webseite gefunden hat, die offline war, konnte sie im Cache betrachten. Weil das nur noch selten nötig sei, wurde der nun dichtgemacht.",
+      "url": "https://www.heise.de/news/Eine-der-aeltesten-Funktionen-Google-stampft-den-Google-Cache-ein-9618032.html",
+      "image_title": "Lupe auf Google-Suche"
+    },
+    {
       "title": "Mozilla-Studie findet Dark Patterns bei Microsoft",
       "teaser": "Microsoft verwendet zahlreiche manipulative Verfahren, um Windows-Nutzern den eigenen Browser Edge unterzujubeln, monieren Forscher im Auftrag von Mozilla.",
       "url": "https://www.heise.de/news/Mozilla-Studie-Microsoft-treibt-Nutzer-mit-schaedlichen-Designtricks-zu-Edge-9617504.html"
@@ -37,12 +43,6 @@
       "image_title": "Mann mit Vision Pro"
     },
     {
-      "title": "Googles Bard basiert jetzt auf Gemini Pro und kann Bilder generieren",
-      "teaser": "Bard nutzt künftig auch in Deutschland Gemini Pro, Googles neues Sprachmodell. Außerdem zieht ein Bildgenerator in den Chatbot.",
-      "url": "https://www.heise.de/news/Googles-Bard-basiert-jetzt-auf-Gemini-Pro-und-kann-Bilder-generieren-9615517.html",
-      "image_title": "Google Bard auf dem Smartphone"
-    },
-    {
       "title": "Wie man ionisierende Strahlung mit einer Peltier-Nebelkammer sichtbar macht",
       "teaser": "Diese Diffusions-Nebelkammer macht ionisierende Strahlung sichtbar. Dafür verwendet sie ausgediente Computertechnik und ein kühlendes Peltier-Element.",
       "url": "https://www.heise.de/ratgeber/Wie-man-ionisierende-Strahlung-mit-einer-Peltier-Nebelkammer-sichtbar-macht-9608696.html",
@@ -52,6 +52,26 @@
       "title": "IT-Sicherheit: Role Engineering für rollenbasierte Zugriffskontrolle",
       "teaser": "Sicherheitskonzepte ohne Zugriffskontrolle stellen keine Vertraulichkeit, Integrität oder Verfügbarkeit sicher. Role Engineering kann RBAC-Modelle erstellen.",
       "url": "https://www.heise.de/hintergrund/Role-Engineering-fuer-rollenbasierte-Zugriffskontrolle-9616387.html"
+    },
+    {
+      "title": "KI, Domain Driven Design und Green Coding auf der OOP-Konferenz 2024",
+      "teaser": "Auf der Architekturkonferenz in München war 2024 Künstliche Intelligenz das große Thema. Aber auch DDD und soziotechnische Systeme kamen nicht zu kurz.",
+      "url": "https://www.heise.de/news/KI-Domain-Driven-Design-und-Green-Coding-auf-der-OOP-Konferenz-2024-9619027.html"
+    },
+    {
+      "title": "Die Formatierungsbibliothek in C++20: Details zum Formatstring",
+      "teaser": "Der zweite Teil der Serie zu Formatstrings in C++20 beschäftigt sich mit der Breite, der Genauigkeit und dem Datentyp der Formatspezifikation.",
+      "url": "https://www.heise.de/blog/Die-Formatierungsbibliothek-in-C-20-Details-zum-Formatstring-9615593.html"
+    },
+    {
+      "title": "CheerpJ 3.0: WebAssembly-JVM für nahtlose Java-Ausführung im Browser",
+      "teaser": "Die WebAssembly-JVM bringt Java-Anwendungen in den Browser, laut Entwicklerteam ohne zusätzlichen Aufwand und ohne weitere Plug-ins.",
+      "url": "https://www.heise.de/news/CheerpJ-3-0-WebAssembly-JVM-fuer-nahtlose-Java-Ausfuehrung-im-Browser-9618883.html"
+    },
+    {
+      "title": "Kanban Day 2024: Deep Dive in die agile Methode",
+      "teaser": "Der diesjährige Kanban Day findet am 26. Februar statt. In einem ganztägigen Workshop am 29. Februar können Kanban-Interessierte ihr Wissen weiter vertiefen.",
+      "url": "https://www.heise.de/news/Kanban-Day-2024-Deep-Dive-in-die-agile-Methode-9616907.html"
     },
     {
       "title": "FOSDEM 24: Alma Linux zeigt seine Paketquellen",
@@ -114,29 +134,6 @@
       "teaser": "Mit dem neuen Weg für die elektronische Verordnung werden die meisten E-Rezepte eingelöst. Neben der Gesundheitskarte gibt es aber noch weitere Möglichkeiten.",
       "url": "https://www.heise.de/ratgeber/E-Rezept-einloesen-So-geht-s-9617765.html",
       "image_title": "Elektronische Gesundheitskarten, im Hintergrund E-Rezept und E-Rezept-App auf Smartphone"
-    },
-    {
-      "title": "iX-Workshop: Was kostet die Cloud? Mit dem richtigen Durchblick Geld sparen",
-      "teaser": "Einblick in die Gebührenmodelle der großen Public-Cloud-Anbieter: Entdecken Sie, wie Sie mit den richtigen Einstellungen & Tools Kosten reduzieren. (10% Rabatt)",
-      "url": "https://www.heise.de/news/iX-Workshop-Was-kostet-die-Cloud-Mit-dem-richtigen-Durchblick-Geld-sparen-9613470.html",
-      "image_title": "iX-Workshop Kosteneffiziente Cloud-Nutzung"
-    },
-    {
-      "title": "FOSDEM 24: TPM-2-Chip als Datentresor unter Linux",
-      "teaser": "Viele Rechner bieten ein Trusted Platform Modul 2. Ein Talk auf der FOSDEM24 zeigt, wie sich mit Linux-Tools dort Schlüssel hinterlegen lassen.",
-      "url": "https://www.heise.de/news/FOSDEM-24-TPM-2-Chip-als-Datentresor-unter-Linux-9618042.html",
-      "image_title": "Aufmacherbild FOSDEM-Logo mit Schlüssel"
-    },
-    {
-      "title": "Eine der ältesten Funktionen: Google stampft den Google Cache ein",
-      "teaser": "Wer auf Google eine Webseite gefunden hat, die offline war, konnte sie im Cache betrachten. Weil das nur noch selten nötig sei, wurde der nun dichtgemacht.",
-      "url": "https://www.heise.de/news/Eine-der-aeltesten-Funktionen-Google-stampft-den-Google-Cache-ein-9618032.html",
-      "image_title": "Lupe auf Google-Suche"
-    },
-    {
-      "title": "Kundendaten von Anydesk zum Verkauf angeboten",
-      "teaser": "Nach einem Einbruch in Produktivsysteme von Anydesk sind Daten von Nutzern aufgetaucht. Noch ist nicht klar, wie aktuell sie sind.",
-      "url": "https://www.heise.de/news/Kundendaten-von-Anydesk-zum-Verkauf-angeboten-9617991.html"
     },
     {
       "title": "ECN Pulse Check 2023",
