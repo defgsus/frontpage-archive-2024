@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-06T11:01:04",
+  "timestamp": "2024-02-06T13:01:11",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Canon SOHO-Multifunktions- und Laserdrucker",
+      "url": "https://www.heise.de/news/Kritische-Schwachstellen-in-Multifunktions-und-Laserdruckern-von-Canon-9620345.html"
+    },
+    {
       "title": "Nagios XI",
       "url": "https://www.heise.de/news/Sicherheitsupdate-Mehrere-Luecken-gefaehrden-Server-Monitoring-Tool-Nagios-XI-9620155.html"
     },
@@ -44,16 +48,17 @@
       "url": "https://www.heise.de/news/HCL-schliesst-Sicherheitsluecken-in-Bigfix-Devops-Deploy-und-Launch-9618224.html"
     },
     {
-      "title": "IBM Business Automation Workflow",
-      "url": "https://www.heise.de/news/IBM-Business-Automation-Workflow-fuer-DoS-Attacken-Co-anfaellig-9617691.html"
+      "title": "Kritische Schwachstellen in Multifunktions- und Laserdruckern von Canon",
+      "teaser": "Canon warnt vor kritischen Sicherheitslücken in einigen SOHO-Multifunktions- und Laserdruckern. Gegenmaßnahmen sollen helfen.",
+      "url": "https://www.heise.de/news/Kritische-Schwachstellen-in-Multifunktions-und-Laserdruckern-von-Canon-9620345.html"
     },
     {
-      "title": "Sicherheitsupdate: Mehrere Lücken gefährden Server-Monitoring-Tool Nagios XI",
+      "title": "Sicherheitslücken: Update schützt Server-Monitoringtool Nagios XI vor Attacken",
       "teaser": "Unter bestimmten Bedingungen können Angreifer Schadcode auf Server mit Nagios XI laden. Ein Sicherheitsupdate schließt diese und weitere Schwachstellen.",
       "url": "https://www.heise.de/news/Sicherheitsupdate-Mehrere-Luecken-gefaehrden-Server-Monitoring-Tool-Nagios-XI-9620155.html"
     },
     {
-      "title": "Patchday Android: Kritische Schadcode-Lücke auf Systemebene geschlossen",
+      "title": "Patchday: Schadcode-Attacken auf Android 11, 12, 13 und 14 möglich",
       "teaser": "Mehrere Sicherheitslücken gefährden Android-Geräte. Für bestimmte Smartphones und Tablets sind Updates erschienen.",
       "url": "https://www.heise.de/news/Patchday-Android-Kritische-Schadcode-Luecke-auf-Systemebene-geschlossen-9619910.html",
       "image_title": "Aufmacher Android-Patchday"
@@ -147,12 +152,6 @@
       "title": "CISA-Warnung: Alte iPhone-Schwachstelle wird aktiv ausgenutzt",
       "teaser": "Eine von Apple gestopfte Kernel-Lücke wird der US-Sicherheitsbehörde zufolge für Angriffe aktiv genutzt. Für ältere iPhones scheint es keinen Patch zu geben.",
       "url": "https://www.heise.de/news/CISA-Warnung-Alte-iPhone-Schwachstelle-wird-aktiv-ausgenutzt-9616020.html"
-    },
-    {
-      "title": "Mastodon: Diebstahl beliebiger Identitäten im föderierten Kurznachrichtendienst",
-      "teaser": "In einem knappen Sicherheitshinweis lassen die Entwickler eine Bombe platzen: Angreifer können jeden beliebigen Account übernehmen und fälschen.",
-      "url": "https://www.heise.de/news/Mastodon-Diebstahl-beliebiger-Identitaeten-im-foederierten-Kurznachrichtendienst-9615961.html",
-      "image_title": "Stuttgart,,Germany,-,09-24-2022:,Mobile,Phone,With,Webpage,Of,Open-source"
     },
     {
       "title": "\"Ändere Dein Passwort\"-Tag: Warum Ändern des Passworts kaum hilft",
