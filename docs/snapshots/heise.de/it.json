@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-07T07:00:49",
+  "timestamp": "2024-02-07T08:00:54",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,21 +26,20 @@
   ],
   "articles": [
     {
+      "title": "BSI veröffentlicht Erkenntnisse zu Anydesk-Einbruch",
+      "teaser": "Das BSI hatte offenbar zunächst Informationen zu dem Anydesk-Einbruch vertraulich an einige Betroffene verteilt. Jetzt sind die Informationen öffentlich.",
+      "url": "https://www.heise.de/news/Anydesk-Einbruch-BSI-veroeffentlicht-Erkenntnisse-9619601.html"
+    },
+    {
+      "title": "Chinesische Chips: SMIC hat nicht genügend 7-Nanometer-Kapazität für Huawei",
+      "teaser": "Baidu soll bereits fortschrittliche KI-Beschleuniger von Huawei erhalten haben. Sie sind eine Alternative zu Nvidias China-Version H20.",
+      "url": "https://www.heise.de/news/Huawei-baut-7-nm-Beschleuniger-hat-aber-zu-wenig-Kapazitaet-9620659.html"
+    },
+    {
       "title": "Eine der ältesten Funktionen: Google stampft den Google Cache ein",
       "teaser": "Wer auf Google eine Webseite gefunden hat, die offline war, konnte sie im Cache betrachten. Weil das nur noch selten nötig sei, wurde der nun dichtgemacht.",
       "url": "https://www.heise.de/news/Eine-der-aeltesten-Funktionen-Google-stampft-den-Google-Cache-ein-9618032.html",
       "image_title": "Lupe auf Google-Suche"
-    },
-    {
-      "title": "Mozilla-Studie findet Dark Patterns bei Microsoft",
-      "teaser": "Microsoft verwendet zahlreiche manipulative Verfahren, um Windows-Nutzern den eigenen Browser Edge unterzujubeln, monieren Forscher im Auftrag von Mozilla.",
-      "url": "https://www.heise.de/news/Mozilla-Studie-Microsoft-treibt-Nutzer-mit-schaedlichen-Designtricks-zu-Edge-9617504.html"
-    },
-    {
-      "title": "Apple-Designer: Leichtere oder kleinere Vision Pro unmöglich",
-      "teaser": "Sieben Jahre hat Apple an der Vision Pro gearbeitet. Kleiner oder leichter ließ sich das Headset laut Apples Industriedesignchef nicht hinbekommen.",
-      "url": "https://www.heise.de/news/Apple-Designer-Leichtere-oder-kleinere-Vision-Pro-unmoeglich-9617202.html",
-      "image_title": "Mann mit Vision Pro"
     },
     {
       "title": "Codesphere im Test: Deployment und Entwicklungsumgebung aus einer Hand",
@@ -52,6 +51,22 @@
       "teaser": "Diese Diffusions-Nebelkammer macht ionisierende Strahlung sichtbar. Dafür verwendet sie ausgediente Computertechnik und ein kühlendes Peltier-Element.",
       "url": "https://www.heise.de/ratgeber/Wie-man-ionisierende-Strahlung-mit-einer-Peltier-Nebelkammer-sichtbar-macht-9608696.html",
       "image_title": ","
+    },
+    {
+      "title": "Google Chrome: Update schließt mögliche Codeschmuggel-Lücken",
+      "teaser": "Drei Sicherheitslücken schließt Google mit einem Chrome-Update. Angreifer können durch sie womöglich Schadcode einschleusen.",
+      "url": "https://www.heise.de/news/Google-Chrome-Update-schliesst-moegliche-Codeschmuggel-Luecken-9621085.html"
+    },
+    {
+      "title": "USB-Kabel-Tester zum Nachbauen",
+      "teaser": "Auf Basis eines STM32C031K6T ARM-Mikrocontrollers kann man sich selber einen Tester für USB-Kabel bauen.",
+      "url": "https://www.heise.de/news/DIY-USB-Kabel-Tester-9621027.html"
+    },
+    {
+      "title": "iX-Workshop: BCM – Notfallplanung und Notfallübungen",
+      "teaser": "Erarbeiten Sie im interaktiven Workshop einen Leitfaden zur professionellen IT-Notfallplanung für Ihr Unternehmen. (10% Rabatt bis 18.02.)",
+      "url": "https://www.heise.de/news/iX-Workshop-BCM-Notfallplanung-und-Notfalluebungen-9613588.html",
+      "image_title": "Online-Workshop: BCM-Notfallplanung für den Security-Ernstfall"
     },
     {
       "title": "Youtube will Content-Creator mit KI unterstützen, setzt Fokus auf Wohnzimmer",
@@ -74,11 +89,6 @@
       "title": "Bluesky ist jetzt für alle offen",
       "teaser": "Wer an dem Microblogging-Dienst teilnehmen will, benötigt nun keine Einladung mehr.",
       "url": "https://www.heise.de/news/Bluesky-ist-jetzt-fuer-alle-offen-9620717.html"
-    },
-    {
-      "title": "Chinesische Chips: SMIC hat nicht genügend 7-Nanometer-Kapazität für Huawei",
-      "teaser": "Baidu soll bereits fortschrittliche KI-Beschleuniger von Huawei erhalten haben. Sie sind eine Alternative zu Nvidias China-Version H20.",
-      "url": "https://www.heise.de/news/Huawei-baut-7-nm-Beschleuniger-hat-aber-zu-wenig-Kapazitaet-9620659.html"
     },
     {
       "title": "Zahl arbeitsloser IKT-Fachkräfte 2023 um ein Fünftel angestiegen",
@@ -124,17 +134,6 @@
       "teaser": "Die Förderungssumme von Google soll die Rust Foundation dabei unterstützen, die Interoperabilität von Rust-Code mit C++-Code zu erhöhen.",
       "url": "https://www.heise.de/news/Google-foerdert-Rust-Interoperabilitaet-mit-C-mit-einer-Million-US-Dollar-9620055.html",
       "image_title": "Mann in Anzug hält breit gefächerte Dollarscheine in die Kamera"
-    },
-    {
-      "title": "Sicherheitslücken: Update schützt Server-Monitoringtool Nagios XI vor Attacken",
-      "teaser": "Unter bestimmten Bedingungen können Angreifer Schadcode auf Server mit Nagios XI laden. Ein Sicherheitsupdate schließt diese und weitere Schwachstellen.",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-Mehrere-Luecken-gefaehrden-Server-Monitoring-Tool-Nagios-XI-9620155.html"
-    },
-    {
-      "title": "Vision Pro: Besonderes Band für Entwickler – Probleme bei vergessener Geräte-PIN",
-      "teaser": "Apple liefert ein Geheimzubehör für Vision-Pro-Besitzer aus, die entwickeln wollen. Unterdessen mehren sich Berichte über ein PIN-Problem.",
-      "url": "https://www.heise.de/news/Vision-Pro-Besonderes-Band-fuer-Entwickler-Probleme-bei-vergessener-Geraete-PIN-9617919.html",
-      "image_title": "Apple Developer Strap für die Vision Pro"
     },
     {
       "title": "Mehr Sichtweite – mehr Kunden",
