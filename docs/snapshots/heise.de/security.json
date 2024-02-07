@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-07T09:01:13",
+  "timestamp": "2024-02-07T10:00:58",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Anydesk",
+      "url": "https://www.heise.de/news/Anydesk-Einbruch-datiert-vermutlich-auf-Dezember-2023-9621134.html"
+    },
+    {
       "title": "Google Chrome",
       "url": "https://www.heise.de/news/Google-Chrome-Update-schliesst-moegliche-Codeschmuggel-Luecken-9621085.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Sicherheitsupdate-Mehrere-Luecken-gefaehrden-Server-Monitoring-Tool-Nagios-XI-9620155.html"
     },
     {
-      "title": "Patchday Android",
-      "url": "https://www.heise.de/news/Patchday-Android-Kritische-Schadcode-Luecke-auf-Systemebene-geschlossen-9619910.html"
+      "title": "Anydesk-Einbruch datiert vermutlich auf Dezember 2023",
+      "teaser": "Der IT-Sicherheitsvorfall bei Anydesk datiert womöglich auf den Dezember 2023, wie den Hinweisen der französischen IT-Sicherheitsbehörde zu entnehmen ist.",
+      "url": "https://www.heise.de/news/Anydesk-Einbruch-datiert-vermutlich-auf-Dezember-2023-9621134.html",
+      "image_title": "Lock,With,Chain,On,A,Computer,Keyboard,-,3d,Illustration"
+    },
+    {
+      "title": "MIT-Student will ersten Kernel Exploit für visionOS gebaut haben",
+      "teaser": "Abstürze der Vision Pro haben auch die Tester von Mac & i und c't bereits festgestellt, nun soll ein potenzieller Kernel-Bug samt Exploit gefunden worden sein.",
+      "url": "https://www.heise.de/news/MIT-Student-will-ersten-Kernel-Exploit-fuer-visionOS-gebaut-haben-9621066.html",
+      "image_title": "Vision Pro mit Nutzerin"
     },
     {
       "title": "Google Chrome: Update schließt mögliche Codeschmuggel-Lücken",
@@ -141,16 +153,6 @@
       "title": "Sicherheitsupdate: IBM-Sicherheitslösung QRadar SIEM unter Linux angreifbar",
       "teaser": "Mehrere Komponenten eines Add ons von IBMs Security Information and Event Management-System QRadar sind verwundbar.",
       "url": "https://www.heise.de/news/Sicherheitsupdate-IBM-Sicherheitsloesung-QRadar-SIEM-unter-Linux-angreifbar-9616532.html"
-    },
-    {
-      "title": "Abschaltbefehl: US-Behörden müssen Ivanti-Geräte vom Netz nehmen",
-      "teaser": "In einer Notfallanordnung trägt die US-Cybersicherheitsbehörde betroffenen Stellen auf, in den nächsten Stunden zu handeln. Ivanti-Geräte sollen vom Netz.",
-      "url": "https://www.heise.de/news/Abschaltbefehl-US-Behoerden-muessen-Ivanti-Geraete-vom-Netz-nehmen-9616260.html"
-    },
-    {
-      "title": "Bericht: Wie Angreifer in das Netzwerk von Cloudflare eingedrungen sind",
-      "teaser": "Nach Abschluss der Untersuchungen eines IT-Sicherheitsvorfalls schildert der CDN-Betreiber Cloudflare, wie die Attacke abgelaufen ist.",
-      "url": "https://www.heise.de/news/Bericht-Wie-Angreifer-in-das-Netzwerk-von-Cloudflare-eingedrungen-sind-9616250.html"
     },
     {
       "title": "\"Ändere Dein Passwort\"-Tag: Warum Ändern des Passworts kaum hilft",
