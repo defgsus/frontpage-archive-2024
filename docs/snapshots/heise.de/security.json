@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-07T10:00:58",
+  "timestamp": "2024-02-07T11:01:01",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Jetzt patchen! TeamCity-Schwachstelle ermöglicht Zugang ohne Authentifizierung",
+      "url": "https://www.heise.de/news/Jetzt-patchen-TeamCity-Schwachstelle-ermoeglicht-Zugang-ohne-Authentifizierung-9621110.html"
+    },
+    {
+      "title": "Sicherheitsupdates: Dell schließt ältere Lücken in Backuplösungen wie Avamar",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Dell-schliesst-aeltere-Luecken-in-Backuploesungen-wie-Avamar-9621283.html"
+    },
+    {
       "title": "Anydesk",
       "url": "https://www.heise.de/news/Anydesk-Einbruch-datiert-vermutlich-auf-Dezember-2023-9621134.html"
     },
@@ -40,18 +48,14 @@
       "url": "https://www.heise.de/news/Google-Chrome-Update-schliesst-moegliche-Codeschmuggel-Luecken-9621085.html"
     },
     {
-      "title": "Canon SOHO-Multifunktions- und Laserdrucker",
-      "url": "https://www.heise.de/news/Kritische-Schwachstellen-in-Multifunktions-und-Laserdruckern-von-Canon-9620345.html"
+      "title": "Jetzt patchen! TeamCity-Schwachstelle ermöglicht Zugang ohne Authentifizierung",
+      "teaser": "Ein Patch von JetBrains behebt eine kritische Schwachstelle in der On-Premises-Version des CI/CD-Servers.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-TeamCity-Schwachstelle-ermoeglicht-Zugang-ohne-Authentifizierung-9621110.html"
     },
     {
-      "title": "Nagios XI",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-Mehrere-Luecken-gefaehrden-Server-Monitoring-Tool-Nagios-XI-9620155.html"
-    },
-    {
-      "title": "Anydesk-Einbruch datiert vermutlich auf Dezember 2023",
-      "teaser": "Der IT-Sicherheitsvorfall bei Anydesk datiert womöglich auf den Dezember 2023, wie den Hinweisen der französischen IT-Sicherheitsbehörde zu entnehmen ist.",
-      "url": "https://www.heise.de/news/Anydesk-Einbruch-datiert-vermutlich-auf-Dezember-2023-9621134.html",
-      "image_title": "Lock,With,Chain,On,A,Computer,Keyboard,-,3d,Illustration"
+      "title": "Sicherheitsupdates: Dell schließt ältere Lücken in Backuplösungen wie Avamar",
+      "teaser": "Schwachstellen in Komponenten von Drittanbietern gefährden die Sicherheit von Dell-Backup-Software. Sicherheitsupdates sind verfügbar.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Dell-schliesst-aeltere-Luecken-in-Backuploesungen-wie-Avamar-9621283.html"
     },
     {
       "title": "MIT-Student will ersten Kernel Exploit für visionOS gebaut haben",
@@ -63,6 +67,11 @@
       "title": "Google Chrome: Update schließt mögliche Codeschmuggel-Lücken",
       "teaser": "Drei Sicherheitslücken schließt Google mit einem Chrome-Update. Angreifer können durch sie womöglich Schadcode einschleusen.",
       "url": "https://www.heise.de/news/Google-Chrome-Update-schliesst-moegliche-Codeschmuggel-Luecken-9621085.html"
+    },
+    {
+      "title": "Verräterisches Social-Media-Posting: Mutmaßlicher Erpresser vor Gericht",
+      "teaser": "Eine selbst fotografierte Hand schlägt eine Brücke zwischen einem virtuellen Verdächtigen und einer realen Person. Die muss sich jetzt vor Gericht verantworten.",
+      "url": "https://www.heise.de/news/Verraeterisches-Social-Media-Posting-Mutmasslicher-Erpresser-vor-Gericht-9620623.html"
     },
     {
       "title": "c't-Webinar: Passkeys statt Passwörter",
@@ -143,16 +152,6 @@
       "title": "IT-Sicherheitsvorfall: Anydesk bestätigt Einbruch in Produktionssysteme",
       "teaser": "Nachdem Anydesk kürzlich mit Störungen zu kämpfen hatte, bestätigt das Unternehmen jetzt, Opfer eines IT-Vorfalls zu sein.",
       "url": "https://www.heise.de/news/IT-Sicherheitsvorfall-Anydesk-bestaetigt-Einbruch-in-Produktionssysteme-9617356.html"
-    },
-    {
-      "title": "QNAP: Neue Firmware-Versionen beheben Befehlsschmuggel-Lücke",
-      "teaser": "Unter anderem konnten Angreifer aus der Ferne eigene Kommandos auf den Geräten einschleusen. Admins sollten zügig patchen.",
-      "url": "https://www.heise.de/news/QNAP-Neue-Firmware-Versionen-beheben-Sicherheitsluecken-9617332.html"
-    },
-    {
-      "title": "Sicherheitsupdate: IBM-Sicherheitslösung QRadar SIEM unter Linux angreifbar",
-      "teaser": "Mehrere Komponenten eines Add ons von IBMs Security Information and Event Management-System QRadar sind verwundbar.",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-IBM-Sicherheitsloesung-QRadar-SIEM-unter-Linux-angreifbar-9616532.html"
     },
     {
       "title": "\"Ändere Dein Passwort\"-Tag: Warum Ändern des Passworts kaum hilft",

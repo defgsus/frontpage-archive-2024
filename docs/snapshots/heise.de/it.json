@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-07T10:00:55",
+  "timestamp": "2024-02-07T11:00:59",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "Hartkodiertes Passwort: Wärmepumpen von Alpha Innotec und Novelan angreifbar",
+      "teaser": "Ein IT-Forscher hat in der Firmware von Alpha Innotec- und Novelan-Wärmepumpen das hartkodierte Root-Passwort gefunden. Updates bieten Abhilfe.",
+      "url": "https://www.heise.de/news/Waermepumpen-von-Alpha-Inntotec-und-Novelan-mit-hardkodiertem-Passwort-9618846.html",
+      "image_title": "Air,Conditioning,Technician,And,A,Part,Of,Preparing,To,Install"
+    },
+    {
       "title": "BSI veröffentlicht Erkenntnisse zu Anydesk-Einbruch",
       "teaser": "Das BSI hatte offenbar zunächst Informationen zu dem Anydesk-Einbruch vertraulich an einige Betroffene verteilt. Jetzt sind die Informationen öffentlich.",
       "url": "https://www.heise.de/news/Anydesk-Einbruch-BSI-veroeffentlicht-Erkenntnisse-9619601.html"
@@ -34,12 +40,6 @@
       "title": "Chinesische Chips: SMIC hat nicht genügend 7-Nanometer-Kapazität für Huawei",
       "teaser": "Baidu soll bereits fortschrittliche KI-Beschleuniger von Huawei erhalten haben. Sie sind eine Alternative zu Nvidias China-Version H20.",
       "url": "https://www.heise.de/news/Huawei-baut-7-nm-Beschleuniger-hat-aber-zu-wenig-Kapazitaet-9620659.html"
-    },
-    {
-      "title": "Eine der ältesten Funktionen: Google stampft den Google Cache ein",
-      "teaser": "Wer auf Google eine Webseite gefunden hat, die offline war, konnte sie im Cache betrachten. Weil das nur noch selten nötig sei, wurde der nun dichtgemacht.",
-      "url": "https://www.heise.de/news/Eine-der-aeltesten-Funktionen-Google-stampft-den-Google-Cache-ein-9618032.html",
-      "image_title": "Lupe auf Google-Suche"
     },
     {
       "title": "Lüfterloses PC-Netzteil mit GaN-Technik im Test",
@@ -53,8 +53,29 @@
       "image_title": ","
     },
     {
-      "title": "Anydesk-Einbruch datiert vermutlich auf Dezember 2023",
-      "teaser": "Der IT-Sicherheitsvorfall bei Anydesk datiert womöglich auf den Dezember 2023, wie den Hinweisen der französischen IT-Sicherheitsbehörde zu entnehmen ist.",
+      "title": "Azure Virtual Desktop jetzt auch für lokale Rechenzentren",
+      "teaser": "Virtuelle Desktops von Microsofts gibt es jetzt auch fürs eigene Rechenzentrum, Azure Stack HCI vorausgesetzt. Kunden dürfte es ab sofort genug geben.",
+      "url": "https://www.heise.de/news/Azure-Virtual-Desktop-jetzt-auch-fuer-lokale-Rechenzentren-9621301.html"
+    },
+    {
+      "title": "Jetzt patchen! TeamCity-Schwachstelle ermöglicht Zugang ohne Authentifizierung",
+      "teaser": "Ein Patch von JetBrains behebt eine kritische Schwachstelle in der On-Premises-Version des CI/CD-Servers.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-TeamCity-Schwachstelle-ermoeglicht-Zugang-ohne-Authentifizierung-9621110.html"
+    },
+    {
+      "title": "Sicherheitsupdates: Dell schließt ältere Lücken in Backuplösungen wie Avamar",
+      "teaser": "Schwachstellen in Komponenten von Drittanbietern gefährden die Sicherheit von Dell-Backup-Software. Sicherheitsupdates sind verfügbar.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Dell-schliesst-aeltere-Luecken-in-Backuploesungen-wie-Avamar-9621283.html"
+    },
+    {
+      "title": "Mac in der Vision Pro: Es geht auch mit Intel, aber abgespeckt",
+      "teaser": "Zu den nützlichsten Vision-Pro-Funktionen gehört Mac Virtual Display, mit dem man eine Mac vom Headset aus bedienen kann. Es muss kein Apple Silicon sein.",
+      "url": "https://www.heise.de/news/Mac-in-der-Vision-Pro-Es-geht-auch-mit-Intel-aber-abgespeckt-9621213.html",
+      "image_title": "Mac Virtual Display"
+    },
+    {
+      "title": "Anydesk-Einbruch: Französisches BSI-Pendant vermutet Dezember als Einbruchsdatum",
+      "teaser": "Die französische IT-Sicherheitsbehörde datiert die Anydesk-Kompromittierung auf Dezember 2023. Und empfiehlt die Deinstallation der Software.",
       "url": "https://www.heise.de/news/Anydesk-Einbruch-datiert-vermutlich-auf-Dezember-2023-9621134.html",
       "image_title": "Lock,With,Chain,On,A,Computer,Keyboard,-,3d,Illustration"
     },
@@ -92,8 +113,8 @@
       "image_title": "Online-Workshop: BCM-Notfallplanung für den Security-Ernstfall"
     },
     {
-      "title": "Youtube will Content-Creator mit KI unterstützen, setzt Fokus auf Wohnzimmer",
-      "teaser": "Youtube-Chef listet die Prioritäten 2024. KI soll Content-Creator unterstützen, die besser anerkannt werden sollten. Youtube soll sich im Wohnzimmer etablieren.",
+      "title": "Youtube will Content-Creators mit KI unterstützen, setzt Fokus auf Wohnzimmer",
+      "teaser": "Der YouTube-Chef nennt die wichtigsten Vorhaben für 2024: KI soll Content-Creators unterstützen und Youtube sich im Wohnzimmer etablieren.",
       "url": "https://www.heise.de/news/Youtube-will-Content-Creator-mit-KI-unterstuetzen-setzt-Fokus-auf-Wohnzimmer-9620980.html",
       "image_title": "Eine Frau filmt sich beim Backen."
     },
@@ -112,28 +133,6 @@
       "title": "Bluesky ist jetzt für alle offen",
       "teaser": "Wer an dem Microblogging-Dienst teilnehmen will, benötigt nun keine Einladung mehr.",
       "url": "https://www.heise.de/news/Bluesky-ist-jetzt-fuer-alle-offen-9620717.html"
-    },
-    {
-      "title": "Zahl arbeitsloser IKT-Fachkräfte 2023 um ein Fünftel angestiegen",
-      "teaser": "Die Bundesarbeitsagentur sieht eine spürbare Zunahme an arbeitslosen IKT-Fachkräften. Deren Prognose ist jedoch gut.",
-      "url": "https://www.heise.de/news/Bundesarbeitsagentur-Anzahl-arbeitsloser-IKT-Fachkraefte-merklich-gestiegen-9620579.html",
-      "image_title": "Arbeitsagentur, Bundesagentur für Arbeit, Arbeitsamt"
-    },
-    {
-      "title": "2, 180, 2: Drei erschreckende Zahlen des Security-Jahres 2023",
-      "teaser": "Bei der IT-Defense fiel die Security-Bestandsaufnahme alles andere als ermutigend aus. Der Bericht: Wo läuft es schlecht – und wo gibt es Hoffnung?",
-      "url": "https://www.heise.de/news/Zu-wenig-Oeffentlichkeit-Viele-Opfer-von-Cybercrime-halten-sich-bedeckt-9619564.html"
-    },
-    {
-      "title": "Teilchenbeschleuniger: Das CERN zeigt sein Storagesystem",
-      "teaser": "Experimente am CERN liefern eine Unmenge Daten. Zwei Admins zeigen zur FOSDEM24, wie die Storage-Systeme damit fertig werden.",
-      "url": "https://www.heise.de/news/FOSDEM-24-Wie-das-CERN-mit-Petabyte-jongliert-9620497.html",
-      "image_title": "FOSDEM und CERN-Logos"
-    },
-    {
-      "title": "c't-Webinar: Passkeys statt Passwörter",
-      "teaser": "Mit Passkeys loggen Sie sich komfortabel und sicher ein. Wie der Passwort-Nachfolger funktioniert und was es zu beachten gibt, erfahren Sie im Webinar.",
-      "url": "https://www.heise.de/news/c-t-Webinar-Passkeys-statt-Passwoerter-9619486.html"
     },
     {
       "title": "Mehr Sichtweite – mehr Kunden",
