@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-07T13:00:44",
+  "timestamp": "2024-02-07T14:00:42",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,20 +32,26 @@
   ],
   "articles": [
     {
-      "title": "VMware Aria-Schwachstellen ermöglichen Erhöhung der Zugriffsrechte",
+      "title": "Veeam Recovery Orchestrator",
+      "url": "https://www.heise.de/news/Luecke-in-Veeam-Recovery-Orchestrator-erlaubt-Rechteausweitung-9621609.html"
+    },
+    {
+      "title": "VMware Aria",
       "url": "https://www.heise.de/news/VMware-Aria-Sicherheitsluecken-erlauben-etwa-Rechteausweitung-9621415.html"
     },
     {
-      "title": "Jetzt patchen! TeamCity-Schwachstelle ermöglicht Zugang ohne Authentifizierung",
+      "title": "TeamCity",
       "url": "https://www.heise.de/news/Jetzt-patchen-TeamCity-Schwachstelle-ermoeglicht-Zugang-ohne-Authentifizierung-9621110.html"
     },
     {
-      "title": "Sicherheitsupdates: Dell schließt ältere Lücken in Backuplösungen wie Avamar",
+      "title": "Dell Avamar, Data Protection",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Dell-schliesst-aeltere-Luecken-in-Backuploesungen-wie-Avamar-9621283.html"
     },
     {
-      "title": "Anydesk",
-      "url": "https://www.heise.de/news/Anydesk-Einbruch-datiert-vermutlich-auf-Dezember-2023-9621134.html"
+      "title": "Lücke in Veeam Recovery Orchestrator erlaubt Rechteausweitung",
+      "teaser": "Veeam flickt die Recovery Orchestrator-Software. Sicherheitslücken darin erlauben bösartigen Akteuren die Ausweitung von Rechten.",
+      "url": "https://www.heise.de/news/Luecke-in-Veeam-Recovery-Orchestrator-erlaubt-Rechteausweitung-9621609.html",
+      "image_title": "Young,It,Engeneer,Business,Man,With,Thin,Modern,Aluminium,Laptop"
     },
     {
       "title": "Niederländisches Verteidigungsministerium: China wegen Spionage in Verdacht",
@@ -88,6 +94,11 @@
       "title": "c't-Webinar: Passkeys statt Passwörter",
       "teaser": "Mit Passkeys loggen Sie sich komfortabel und sicher ein. Wie der Passwort-Nachfolger funktioniert und was es zu beachten gibt, erfahren Sie im Webinar.",
       "url": "https://www.heise.de/news/c-t-Webinar-Passkeys-statt-Passwoerter-9619486.html"
+    },
+    {
+      "title": "Kritische Schwachstellen in Multifunktions- und Laserdruckern von Canon",
+      "teaser": "Canon warnt vor kritischen Sicherheitslücken in einigen SOHO-Multifunktions- und Laserdruckern. Gegenmaßnahmen sollen helfen.",
+      "url": "https://www.heise.de/news/Kritische-Schwachstellen-in-Multifunktions-und-Laserdruckern-von-Canon-9620345.html"
     },
     {
       "title": "Sicherheitslücken: Update schützt Server-Monitoringtool Nagios XI vor Attacken",
@@ -142,17 +153,6 @@
       "title": "Kundendaten von Anydesk zum Verkauf angeboten",
       "teaser": "Nach einem Einbruch in Produktivsysteme von Anydesk sind Daten von Nutzern aufgetaucht. Noch ist nicht klar, wie aktuell sie sind.",
       "url": "https://www.heise.de/news/Kundendaten-von-Anydesk-zum-Verkauf-angeboten-9617991.html"
-    },
-    {
-      "title": "Anonym arbeiten und surfen: Tails 5.22 ist da und Tails 6.0 erscheint zeitnah",
-      "teaser": "Die aktuelle Tails-Version bringt kaum Neues mit, dafür trumpft aber das bald erscheinende Tails 6.0 mit Neuheiten auf. Das kann man jetzt schon ausprobieren.",
-      "url": "https://www.heise.de/news/Anonym-arbeiten-und-surfen-Tails-5-22-ist-da-und-Tails-6-0-erscheint-zeitnah-9617717.html",
-      "image_title": "Aufmacher Tails 4.29/Beta Tails 5.00"
-    },
-    {
-      "title": "IBM Business Automation Workflow für DoS-Attacken & Co. anfällig",
-      "teaser": "Mehrere Schwachstellen in IBM Business Automation Workflow gefährden Systeme.",
-      "url": "https://www.heise.de/news/IBM-Business-Automation-Workflow-fuer-DoS-Attacken-Co-anfaellig-9617691.html"
     },
     {
       "title": "\"Ändere Dein Passwort\"-Tag: Warum Ändern des Passworts kaum hilft",
