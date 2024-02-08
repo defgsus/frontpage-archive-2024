@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-08T13:00:49",
+  "timestamp": "2024-02-08T14:00:46",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Samsung Magician",
+      "url": "https://www.heise.de/news/Samsung-stopft-Sicherheitsleck-im-SSD-Tool-Magician-9622729.html"
+    },
+    {
       "title": "ClamAV",
       "url": "https://www.heise.de/news/Sicherheitsluecken-Codeschmuggel-und-Leistungsverweigerung-bei-ClamAV-9622674.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Kritische-Luecken-bedrohen-Cisco-Expressway-Series-9622377.html"
     },
     {
-      "title": "Veeam Recovery Orchestrator",
-      "url": "https://www.heise.de/news/Luecke-in-Veeam-Recovery-Orchestrator-erlaubt-Rechteausweitung-9621609.html"
+      "title": "Samsung Magician: Update stopft Sicherheitsleck im SSD-Tool",
+      "teaser": "Samsung bietet mit Magician eine Software zum Verwalten von SSDs, Speichersticks und -Karten des Herstellers. Ein Update schließt eine Lücke darin.",
+      "url": "https://www.heise.de/news/Samsung-stopft-Sicherheitsleck-im-SSD-Tool-Magician-9622729.html",
+      "image_title": "Offene Samsung-SSD auf Mainboard"
+    },
+    {
+      "title": "Sichere Softwareentwicklung: Vorträge für die heise devSec in Köln gesucht",
+      "teaser": "Der Call for Proposals für die heise devSec im Herbst ist gestartet. Ab sofort sind Blind-Bird-Tickets ebenso wie Tickets für die devSec im Frühjahr erhältlich.",
+      "url": "https://www.heise.de/news/Sichere-Softwareentwicklung-Vortraege-fuer-die-heise-devSec-in-Koeln-gesucht-9621716.html"
     },
     {
       "title": "Sicherheitslücken: Codeschmuggel und Leistungsverweigerung bei ClamAV",
@@ -143,17 +154,6 @@
       "title": "Sicherheitslücken: Update schützt Server-Monitoringtool Nagios XI vor Attacken",
       "teaser": "Unter bestimmten Bedingungen können Angreifer Schadcode auf Server mit Nagios XI laden. Ein Sicherheitsupdate schließt diese und weitere Schwachstellen.",
       "url": "https://www.heise.de/news/Sicherheitsupdate-Mehrere-Luecken-gefaehrden-Server-Monitoring-Tool-Nagios-XI-9620155.html"
-    },
-    {
-      "title": "Patchday: Schadcode-Attacken auf Android 11, 12, 13 und 14 möglich",
-      "teaser": "Mehrere Sicherheitslücken gefährden Android-Geräte. Für bestimmte Smartphones und Tablets sind Updates erschienen.",
-      "url": "https://www.heise.de/news/Patchday-Android-Kritische-Schadcode-Luecke-auf-Systemebene-geschlossen-9619910.html",
-      "image_title": "Aufmacher Android-Patchday"
-    },
-    {
-      "title": "LKA warnt vor Kleinanzeigen-Phishing-Masche mit falschem Support-Chat",
-      "teaser": "Betrüger nutzen Kleinanzeigen, um arglose Verkäufer zur Angabe von Bankdaten, PINs und TANs zu verleiten. Sie fälschen den Support-Chat dafür.",
-      "url": "https://www.heise.de/news/LKA-warnt-vor-Kleinanzeigen-Phishing-Masche-mit-falschem-Support-Chat-9619878.html"
     },
     {
       "title": "\"Ändere Dein Passwort\"-Tag: Warum Ändern des Passworts kaum hilft",
