@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-08T12:09:05",
+  "timestamp": "2024-02-08T13:00:49",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "ClamAV",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-Codeschmuggel-und-Leistungsverweigerung-bei-ClamAV-9622674.html"
+    },
+    {
       "title": "Alpha Innotec & Novelan Wärmepumpen",
       "url": "https://www.heise.de/news/Alpha-Innotec-und-Novelan-Waermepumpen-Update-gegen-Sicherheitsluecke-9622407.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Luecke-in-Veeam-Recovery-Orchestrator-erlaubt-Rechteausweitung-9621609.html"
     },
     {
-      "title": "VMware Aria",
-      "url": "https://www.heise.de/news/VMware-Aria-Sicherheitsluecken-erlauben-etwa-Rechteausweitung-9621415.html"
+      "title": "Sicherheitslücken: Codeschmuggel und Leistungsverweigerung bei ClamAV",
+      "teaser": "Der Parser für das OLE2-Dateiformat enthält einen Pufferüberlauf und mit speziell präparierten Dateinamen lassen sich offenbar eigene Befehlszeilen ausführen.",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-Codeschmuggel-und-Leistungsverweigerung-bei-ClamAV-9622674.html"
     },
     {
       "title": "Sicherheitsupdates: Kritische Lücken bedrohen Cisco Expressway Series",
@@ -149,11 +154,6 @@
       "title": "LKA warnt vor Kleinanzeigen-Phishing-Masche mit falschem Support-Chat",
       "teaser": "Betrüger nutzen Kleinanzeigen, um arglose Verkäufer zur Angabe von Bankdaten, PINs und TANs zu verleiten. Sie fälschen den Support-Chat dafür.",
       "url": "https://www.heise.de/news/LKA-warnt-vor-Kleinanzeigen-Phishing-Masche-mit-falschem-Support-Chat-9619878.html"
-    },
-    {
-      "title": "Safer Internet Day: FAQ Internetsicherheit für Kinder und Jugendliche",
-      "teaser": "Im Internet lauern für Heranwachsende viele Gefahren, die sie noch nicht einschätzen können. Mit Wissensvermittlung und Tools können sie geschützt werden.",
-      "url": "https://www.heise.de/ratgeber/Safer-Internet-Day-FAQ-Internetsicherheit-fuer-Kinder-und-Jugendliche-7333482.html"
     },
     {
       "title": "\"Ändere Dein Passwort\"-Tag: Warum Ändern des Passworts kaum hilft",
