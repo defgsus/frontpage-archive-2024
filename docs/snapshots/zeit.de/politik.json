@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-07T23:00:47",
+  "timestamp": "2024-02-08T00:25:27",
   "url": "https://www.zeit.de/politik/index",
   "response": {
     "status": 200
@@ -32,10 +32,17 @@
   ],
   "articles": [
     {
+      "title": "Strafrecht: Regierung senkt Mindeststrafen für Darstellungen von Kindesmissbrauch",
+      "teaser": "Vor weniger als drei Jahren verschärfte eine Reform die Strafen für Abbildungen, die sexuellen Missbrauch von Kindern zeigen. Nun wird sie teilweise zurückgenommen.",
+      "url": "https://www.zeit.de/politik/ausland/2024-02/strafrecht-missbrauch-kinder-darstellungen-mindeststrafe",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-02/strafrecht-missbrauch-kinder-darstellungen-mindeststrafe-bild/cinema__980x420"
+    },
+    {
       "title": "Krieg in Nahost: Antony Blinken sieht Chance auf Waffenruhe zwischen Hamas und Israel",
       "teaser": "US-Außenminister Blinken hat Israel erneut ermahnt, mehr für den Schutz von Zivilisten zu tun. Obwohl Netanjahu eine Feuerpause ablehnt, hält er sie weiter für möglich.",
       "url": "https://www.zeit.de/politik/ausland/2024-02/antony-blinken-israel-hamas-feuerpause-chance",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-02/antony-blinken-israel-hamas-waffenruhe-bild-2/cinema__980x420"
+      "image_url": "https://img.zeit.de/politik/ausland/2024-02/antony-blinken-israel-hamas-waffenruhe-bild-2/wide__822x462",
+      "image_title": "Krieg in Nahost: Antony Blinken sieht Chance auf Waffenruhe zwischen Hamas und Israel"
     },
     {
       "title": "Robert Fico: Tausende Slowaken demonstrieren gegen geplante Justizreform",
@@ -43,13 +50,6 @@
       "url": "https://www.zeit.de/politik/ausland/2024-02/slowakei-demonstration-justizreform-korruption-robert-fico",
       "image_url": "https://img.zeit.de/politik/ausland/2024-02/slowakei-demonstrationen-justizreform-robert-fico-bild/wide__822x462",
       "image_title": "Robert Fico: Tausende Slowaken demonstrieren gegen geplante Justizreform"
-    },
-    {
-      "title": "USA: US-Senat lehnt Deal über Migration und Ukraine-Hilfen ab",
-      "teaser": "Monatelang forderten die Republikaner eine härtere Migrationspolitik im Gegenzug für neue Hilfen an Israel und die Ukraine. Im Senat blockierten sie nun einen Kompromiss.",
-      "url": "https://www.zeit.de/politik/ausland/2024-02/us-senat-migration-deal-ukraine-israel-hilfen-abgelehnt",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-02/usa-senat-ukraine-israel-hilfen-bild-2/wide__822x462",
-      "image_title": "USA: US-Senat lehnt Deal über Migration und Ukraine-Hilfen ab"
     },
     {
       "title": "USA: Antrag auf Immunität von Ex-Präsident Donald Trump abgelehnt",
@@ -78,8 +78,8 @@
       "url": "https://www.zeit.de/politik/ausland/2024-02/nordkorea-botschafter-diplomatie-kim-jong-un-rhetorik"
     },
     {
-      "title": "Junge Alternative: Verfassungsschutz darf AfD-Nachwuchs als rechtsextrem einstufen",
-      "url": "https://www.zeit.de/politik/deutschland/2024-02/verfassungsschutz-darf-afd-nachwuchs-als-rechtsextrem-einstufen"
+      "title": "Ampel-Streit: Annalena Baerbock attackiert FDP in Streit über Lieferkettengesetz",
+      "url": "https://www.zeit.de/politik/deutschland/2024-02/annalena-baerbock-lieferkettengesetz-kritik-fdp"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Walerij Saluschnyj: Der ukrainische Kriegsheld steht vor dem Rauswurf",
@@ -90,8 +90,8 @@
       "url": "https://www.zeit.de/politik/ausland/2024-02/donald-trump-immunitaet-antrag-urteil-ablehnung"
     },
     {
-      "title": "Ampel-Streit: Annalena Baerbock attackiert FDP in Streit über Lieferkettengesetz",
-      "url": "https://www.zeit.de/politik/deutschland/2024-02/annalena-baerbock-lieferkettengesetz-kritik-fdp"
+      "title": "Junge Alternative: Verfassungsschutz darf AfD-Nachwuchs als rechtsextrem einstufen",
+      "url": "https://www.zeit.de/politik/deutschland/2024-02/verfassungsschutz-darf-afd-nachwuchs-als-rechtsextrem-einstufen"
     },
     {
       "title": "USA: Antrag auf Immunität von Ex-Präsident Donald Trump abgelehnt",
@@ -122,12 +122,12 @@
       "url": "https://www.zeit.de/politik/deutschland/2024-02/ard-deutschlandtrend-afd-union-bsw-spd"
     },
     {
-      "title": "Junge Alternative: Verfassungsschutz darf AfD-Nachwuchs als rechtsextrem einstufen",
-      "url": "https://www.zeit.de/politik/deutschland/2024-02/verfassungsschutz-darf-afd-nachwuchs-als-rechtsextrem-einstufen"
-    },
-    {
       "title": "Ampel-Streit: Annalena Baerbock attackiert FDP in Streit über Lieferkettengesetz",
       "url": "https://www.zeit.de/politik/deutschland/2024-02/annalena-baerbock-lieferkettengesetz-kritik-fdp"
+    },
+    {
+      "title": "Junge Alternative: Verfassungsschutz darf AfD-Nachwuchs als rechtsextrem einstufen",
+      "url": "https://www.zeit.de/politik/deutschland/2024-02/verfassungsschutz-darf-afd-nachwuchs-als-rechtsextrem-einstufen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); AfD-Wähler : \"Lasst sie mal machen\"",
@@ -144,15 +144,22 @@
       "image_title": "Wahlumfragen : Warum die AfD plötzlich schwächelt"
     },
     {
+      "title": "USA: US-Senat lehnt Deal über Migration und Ukraine-Hilfen ab",
+      "teaser": "Monatelang forderten die Republikaner eine härtere Migrationspolitik im Gegenzug für neue Hilfen an Israel und die Ukraine. Im Senat blockierten sie nun einen Kompromiss. 234 Kommentare",
+      "url": "https://www.zeit.de/politik/ausland/2024-02/us-senat-migration-deal-ukraine-israel-hilfen-abgelehnt",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-02/usa-senat-ukraine-israel-hilfen-bild-2/cinema__980x420",
+      "image_title": "USA: US-Senat lehnt Deal über Migration und Ukraine-Hilfen ab"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Nordkorea: \"Wenn ich nach dem Weg fragen wollte, rannten die Leute weg\"",
       "teaser": "Thomas Schäfer war deutscher Botschafter in Nordkorea. Er erzählt, warum Kim Jong Uns Drohungen Rhetorik sind und welchen diplomatischen Wert deutsche Grillwürste haben.",
       "url": "https://www.zeit.de/politik/ausland/2024-02/nordkorea-botschafter-diplomatie-kim-jong-un-rhetorik",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-02/nordkorea-botschafter-diplomatie-kim-jong-un-rhetorik-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-02/nordkorea-botschafter-diplomatie-kim-jong-un-rhetorik-bild/wide__822x462",
       "image_title": "Nordkorea: \"Wenn ich nach dem Weg fragen wollte, rannten die Leute weg\""
     },
     {
       "title": "Aserbaidschan: Präsident Alijew präsentiert sich als Wahlsieger",
-      "teaser": "Nach der Eroberung Bergkarabachs ließ der autoritäre Ilcham Alijew seine Wiederwahl in Aserbaidschan vorziehen. Nun präsentiert er sich wie erwartet als haushoher Sieger.",
+      "teaser": "Nach der Eroberung Bergkarabachs ließ der autoritäre Ilham Alijew seine Wiederwahl in Aserbaidschan vorziehen. Nun präsentiert er sich wie erwartet als haushoher Sieger.",
       "url": "https://www.zeit.de/politik/ausland/2024-02/aserbaidschan-praesident-alijew-wahlsieger",
       "image_url": "https://img.zeit.de/politik/ausland/2024-02/aserbaidschan-ilham-aliyev-praesidentenwahl-bild/wide__822x462",
       "image_title": "Aserbaidschan: Präsident Alijew präsentiert sich als Wahlsieger"
@@ -161,14 +168,14 @@
       "title": "Liveblog: Krieg in Israel und Gaza: Netanjahu lehnt Hamas-Vorschlag zur Waffenruhe ab",
       "teaser": "Israels Regierungschef nennt die Forderungen der Hamas \"bizarr\" – und will an ihrer Vernichtung festhalten. Scholz fordert Verbesserungen für Palästinenser. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/2023-12/news-israel-gaza-krieg-live",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-02/news-israel-gaza-krieg-live-bild-13/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-02/news-israel-gaza-krieg-live-bild-13/cinema__980x420",
       "image_title": "Krieg in Israel und Gaza: Netanjahu lehnt Hamas-Vorschlag zur Waffenruhe ab"
     },
     {
       "title": "Wahlen in Pakistan: Pakistan sucht Ausweg aus dem Krisenmodus",
       "teaser": "Inflation, Verhaftungen, Anschläge: Die Pakistaner sind zur Parlamentswahl aufgerufen. Das Land ist gespalten, die Opposition eingeschränkt. Eine Einordnung",
       "url": "https://www.zeit.de/politik/ausland/2024-02/pakistan-wahlen-militaer-imran-khan-faq",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-02/wahl-pakistan-faq-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-02/wahl-pakistan-faq-bild/wide__822x462",
       "image_title": "Wahlen in Pakistan: Pakistan sucht Ausweg aus dem Krisenmodus"
     },
     {
@@ -180,16 +187,16 @@
     },
     {
       "title": "Ampel-Streit: Annalena Baerbock attackiert FDP in Streit über Lieferkettengesetz",
-      "teaser": "In der Ampel eskaliert der Streit über das EU-Lieferkettengesetz. Die Außenministerin wirft der FDP vor, Vertrauen in Deutschland zu verspielen.",
+      "teaser": "In der Ampel eskaliert der Streit über das EU-Lieferkettengesetz. Die Außenministerin wirft der FDP vor, Vertrauen in Deutschland zu verspielen. 894 Kommentare",
       "url": "https://www.zeit.de/politik/deutschland/2024-02/annalena-baerbock-lieferkettengesetz-kritik-fdp",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-02/annalena-baerbock-kritik-fdp-lieferkettengesetz/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-02/annalena-baerbock-kritik-fdp-lieferkettengesetz/cinema__980x420",
       "image_title": "Ampel-Streit: Annalena Baerbock attackiert FDP in Streit über Lieferkettengesetz"
     },
     {
       "title": "AfD Thüringen: Björn Höcke muss wegen Volksverhetzung vor Gericht",
-      "teaser": "Die Thüringer AfD will mit Höcke in den Wahlkampf ziehen. Nun muss sich der Landesparteichef aber wegen des Vorwurfs der Volksverhetzung vor Gericht verantworten. 348 Kommentare",
+      "teaser": "Die Thüringer AfD will mit Höcke in den Wahlkampf ziehen. Nun muss sich der Landesparteichef aber wegen des Vorwurfs der Volksverhetzung vor Gericht verantworten.",
       "url": "https://www.zeit.de/politik/deutschland/2024-02/bjoern-hoecke-vor-gericht-volksverhetzung",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-02/bjoern-hoecke-vor-gericht-volksverhetzung-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-02/bjoern-hoecke-vor-gericht-volksverhetzung-bild/wide__822x462",
       "image_title": "AfD Thüringen: Björn Höcke muss wegen Volksverhetzung vor Gericht"
     },
     {
@@ -201,16 +208,16 @@
     },
     {
       "title": "Junge Alternative: AfD-Jugend geht gegen Gerichtsbeschluss vor",
-      "teaser": "Ein Gericht hat die Einstufung der Jungen Alternative als rechtsextrem bestätigt. Dagegen zieht die Organisation in die nächste Instanz.",
+      "teaser": "Ein Gericht hat die Einstufung der Jungen Alternative als rechtsextrem bestätigt. Dagegen zieht die Organisation in die nächste Instanz. 65 Kommentare",
       "url": "https://www.zeit.de/politik/deutschland/2024-02/afd-junge-alternative-einstufung-verwaltungsgericht-koeln",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-02/afd-junge-alternative-einstufung-verwaltungsgericht-koeln-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-02/afd-junge-alternative-einstufung-verwaltungsgericht-koeln-bild/cinema__980x420",
       "image_title": "Junge Alternative: AfD-Jugend geht gegen Gerichtsbeschluss vor"
     },
     {
       "title": "Angriff auf jüdischen Studenten: Bildungsministerin fordert nach Angriff auf Studenten Gesetzesänderung",
       "teaser": "Die FU Berlin kann einen Studenten nach einem mutmaßlich antisemitischen Vorfall nicht exmatrikulieren. Die Bundesbildungsministerin mahnt eine Anpassung der Gesetze an.",
       "url": "https://www.zeit.de/politik/deutschland/2024-02/fu-berlin-antisemitismus-vorfall-bettina-stark-watzinger-gesetzesaenderung-exmatrikulaton",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-02/fu-berlin-antisemitismus-vorfall-bettina-stark-watzinger-gesetzesaenderung-exmatrikulation-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-02/fu-berlin-antisemitismus-vorfall-bettina-stark-watzinger-gesetzesaenderung-exmatrikulation-bild/wide__822x462",
       "image_title": "Angriff auf jüdischen Studenten: Bildungsministerin fordert nach Angriff auf Studenten Gesetzesänderung"
     },
     {
@@ -247,13 +254,6 @@
       "url": "https://www.zeit.de/politik/deutschland/2024-02/bonitaet-einschaetzung-regeln-bundeskabinett",
       "image_url": "https://img.zeit.de/wirtschaft/2024-02/kabinett-beschluss-regeln-einschaetzung-zahlungsfaehigkeit-bild/wide__822x462",
       "image_title": "Zahlungsfähigkeit: Bundeskabinett beschließt Regeln zur Einschätzung der Bonität"
-    },
-    {
-      "title": "Ungarn: EU leitet neues Verfahren gegen Ungarn ein",
-      "teaser": "Die Regierung von Viktor Orbán will ein Gesetz gegen \"ausländische Einmischung\" einführen. Die EU-Kommission sieht darin eine Einschränkung der Meinungsfreiheit.",
-      "url": "https://www.zeit.de/politik/ausland/2024-02/ungarn-eu-kommission-neues-verfahren",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-02/eu-kommission-verfahren-ungarn-viktor-orban-bild/wide__822x462",
-      "image_title": "Ungarn: EU leitet neues Verfahren gegen Ungarn ein"
     },
     {
       "title": "Zensur im Internet: Bundesregierung beschließt internationale Digitalstrategie",
