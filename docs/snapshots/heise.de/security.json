@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-09T15:00:52",
+  "timestamp": "2024-02-09T16:00:59",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Kibana",
+      "url": "https://www.heise.de/news/Elastic-Stack-Pufferueberlauf-ermoeglicht-Codeschmuggel-in-Kibana-Komponente-9624274.html"
+    },
+    {
       "title": "shim",
       "url": "https://www.heise.de/news/Bootloader-Luecke-gefaehrdet-viele-Linux-Distributionen-9624201.html"
     },
@@ -44,11 +48,17 @@
       "url": "https://www.heise.de/news/SonicOS-SSL-VPN-Angreifer-koennen-Authentifzierung-umgehen-9623611.html"
     },
     {
-      "title": "FortiOS SSL VPN, FortiSIEM",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-SSL-VPN-Komponente-von-FortiOS-angreifbar-9623561.html"
+      "title": "Elastic Stack: Pufferüberlauf ermöglicht Codeschmuggel in Kibana-Komponente",
+      "teaser": "Der in Kibana integrierte Chromium-Browser verursachte das Problem nur auf bestimmten Plattformen. Updates und eine Übergangslösung stehen bereit.",
+      "url": "https://www.heise.de/news/Elastic-Stack-Pufferueberlauf-ermoeglicht-Codeschmuggel-in-Kibana-Komponente-9624274.html"
     },
     {
-      "title": "Bootloader-Lücke gefährdet viele Linux-Distributionen",
+      "title": "US-Regierungsbehörden: IT seit Jahren durch chinesische Angreifer unterwandert",
+      "teaser": "Sicherheitsbehörden in den USA schlagen Alarm – Volt Typhoon ist bereits vor Jahren in kritische US-Infrastrukturen eingedrungen. Ursprung der Attacken: China.",
+      "url": "https://www.heise.de/news/US-Regierungsbehoerden-IT-seit-Jahren-durch-chinesische-Angreifer-unterwandert-9624187.html"
+    },
+    {
+      "title": "Bootloader-Lücke: Viele Linux-Distributionen sind gefährdet",
       "teaser": "Im Bootloader shim, der Secure-Boot auch für nicht-Windows-Betriebssysteme erlaubt, klafft eine Sicherheitslücke.",
       "url": "https://www.heise.de/news/Bootloader-Luecke-gefaehrdet-viele-Linux-Distributionen-9624201.html",
       "image_title": "Security Alert"
@@ -146,17 +156,6 @@
       "title": "Niederländisches Verteidigungsministerium: China wegen Spionage in Verdacht",
       "teaser": "Immer wieder steht China wegen Cyber-Spionage in Verdacht. Das niederländische Verteidigungsministerium veröffentlicht erstmalig einen Bericht zu einem Vorfall.",
       "url": "https://www.heise.de/news/Spionage-Vorwuerfe-Niederlande-sieht-China-fuer-Cyberangriff-verantwortlich-9621207.html"
-    },
-    {
-      "title": "VMware Aria-Schwachstellen ermöglichen Erhöhung der Zugriffsrechte",
-      "teaser": "VMware hat Updates für VMware Aria Operations for Networks herausgegeben. Sie dichten Sicherheitslecks ab, die etwa die Ausweitung der Rechte ermöglichen.",
-      "url": "https://www.heise.de/news/VMware-Aria-Sicherheitsluecken-erlauben-etwa-Rechteausweitung-9621415.html",
-      "image_title": "Update-Text mit VMware-Logo vor Farbverlauf"
-    },
-    {
-      "title": "Jetzt patchen! TeamCity-Schwachstelle ermöglicht Zugang ohne Authentifizierung",
-      "teaser": "Ein Patch von JetBrains behebt eine kritische Schwachstelle in der On-Premises-Version des CI/CD-Servers.",
-      "url": "https://www.heise.de/news/Jetzt-patchen-TeamCity-Schwachstelle-ermoeglicht-Zugang-ohne-Authentifizierung-9621110.html"
     },
     {
       "title": "\"Ändere Dein Passwort\"-Tag: Warum Ändern des Passworts kaum hilft",
