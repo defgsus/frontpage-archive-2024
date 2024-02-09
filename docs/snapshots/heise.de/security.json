@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-09T14:00:58",
+  "timestamp": "2024-02-09T15:00:52",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "shim",
+      "url": "https://www.heise.de/news/Bootloader-Luecke-gefaehrdet-viele-Linux-Distributionen-9624201.html"
+    },
+    {
       "title": "Ivanti Connect Secure",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Authentifizierung-von-Ivanti-Connect-Secure-Co-defekt-9623653.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-SSL-VPN-Komponente-von-FortiOS-angreifbar-9623561.html"
     },
     {
-      "title": "Samsung Magician",
-      "url": "https://www.heise.de/news/Samsung-stopft-Sicherheitsleck-im-SSD-Tool-Magician-9622729.html"
+      "title": "Bootloader-Lücke gefährdet viele Linux-Distributionen",
+      "teaser": "Im Bootloader shim, der Secure-Boot auch für nicht-Windows-Betriebssysteme erlaubt, klafft eine Sicherheitslücke.",
+      "url": "https://www.heise.de/news/Bootloader-Luecke-gefaehrdet-viele-Linux-Distributionen-9624201.html",
+      "image_title": "Security Alert"
     },
     {
       "title": "Sicherheitsupdates: Authentifizierung von Ivanti Connect Secure & Co. defekt",
@@ -151,11 +157,6 @@
       "title": "Jetzt patchen! TeamCity-Schwachstelle ermöglicht Zugang ohne Authentifizierung",
       "teaser": "Ein Patch von JetBrains behebt eine kritische Schwachstelle in der On-Premises-Version des CI/CD-Servers.",
       "url": "https://www.heise.de/news/Jetzt-patchen-TeamCity-Schwachstelle-ermoeglicht-Zugang-ohne-Authentifizierung-9621110.html"
-    },
-    {
-      "title": "Sicherheitsupdates: Dell schließt ältere Lücken in Backuplösungen wie Avamar",
-      "teaser": "Schwachstellen in Komponenten von Drittanbietern gefährden die Sicherheit von Dell-Backup-Software. Sicherheitsupdates sind verfügbar.",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Dell-schliesst-aeltere-Luecken-in-Backuploesungen-wie-Avamar-9621283.html"
     },
     {
       "title": "\"Ändere Dein Passwort\"-Tag: Warum Ändern des Passworts kaum hilft",
