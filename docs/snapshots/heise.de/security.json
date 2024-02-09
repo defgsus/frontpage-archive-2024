@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-09T09:01:07",
+  "timestamp": "2024-02-09T10:00:48",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "SonicOS SSL-VPN",
+      "url": "https://www.heise.de/news/SonicOS-SSL-VPN-Angreifer-koennen-Authentifzierung-umgehen-9623611.html"
+    },
+    {
       "title": "FortiOS SSL VPN, FortiSIEM",
       "url": "https://www.heise.de/news/Sicherheitsupdates-SSL-VPN-Komponente-von-FortiOS-angreifbar-9623561.html"
     },
@@ -44,14 +48,9 @@
       "url": "https://www.heise.de/news/Sicherheitsluecken-Codeschmuggel-und-Leistungsverweigerung-bei-ClamAV-9622674.html"
     },
     {
-      "title": "Alpha Innotec & Novelan Wärmepumpen",
-      "url": "https://www.heise.de/news/Alpha-Innotec-und-Novelan-Waermepumpen-Update-gegen-Sicherheitsluecke-9622407.html"
-    },
-    {
-      "title": "Anydesk-Einbruch: Hersteller bestätigt Dezember als Einbruchszeitpunkt",
-      "teaser": "Anydesk hat jetzt zugegeben, dass der Einbruch in die Produktivsysteme auf den Dezember zurückgeht.",
-      "url": "https://www.heise.de/news/Anydesk-Einbruch-Hersteller-bestaetigt-Dezember-als-Einbruchszeitpunkt-9623472.html",
-      "image_title": "Hacker,Attack,Computer,Hardware,Microchip,While,Process,Data,Through,Internet"
+      "title": "SonicOS SSL-VPN: Angreifer können Authentifzierung umgehen",
+      "teaser": "Sonicwall warnt vor einer Sicherheitslücke im SonicOS SSL-VPN, durch die Angreifer die Authentifizierung umgehen können.",
+      "url": "https://www.heise.de/news/SonicOS-SSL-VPN-Angreifer-koennen-Authentifzierung-umgehen-9623611.html"
     },
     {
       "title": "Apple: Betrügerischer LastPass-Klon schafft es in den App Store",
@@ -88,6 +87,12 @@
       "url": "https://www.heise.de/news/Sicherheitsluecken-Codeschmuggel-und-Leistungsverweigerung-bei-ClamAV-9622674.html"
     },
     {
+      "title": "Update gegen Sicherheitsleck in Alpha Innotec- und Novelan-Wärmepumpen",
+      "teaser": "Der Hersteller der Alpha Innotec- und Novelan-Wärmepumpen erläutert, wie Besitzer an Updates zum Schließen der Passwort-Schwachstelle kommen.",
+      "url": "https://www.heise.de/news/Alpha-Innotec-und-Novelan-Waermepumpen-Update-gegen-Sicherheitsluecke-9622407.html",
+      "image_title": "Air,To,Air,Heat,Pump,For,Cooling,Or,Heating,The"
+    },
+    {
       "title": "Sicherheitsupdates: Kritische Lücken bedrohen Cisco Expressway Series",
       "teaser": "Der Netzwerkausrüster Cisco hat seine Kollaborationssoftware Expressway Series abgesichert. Außerdem haben sie die ClamAV-Komponente gepatcht.",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Kritische-Luecken-bedrohen-Cisco-Expressway-Series-9622377.html"
@@ -122,6 +127,11 @@
       "image_title": "Young,It,Engeneer,Business,Man,With,Thin,Modern,Aluminium,Laptop"
     },
     {
+      "title": "secIT 2024: Dreiste Social-Engineering-Maschen live miterleben",
+      "teaser": "Auf der IT-Security-Kongressmesse packt ein Pentester aus, wie er im echten Leben vor Ort mit simplen Methoden Zugriff auf die IT von großen Firmen erlangte.",
+      "url": "https://www.heise.de/news/secIT-2024-Dreiste-Social-Engineering-Maschen-live-miterleben-9618970.html"
+    },
+    {
       "title": "Niederländisches Verteidigungsministerium: China wegen Spionage in Verdacht",
       "teaser": "Immer wieder steht China wegen Cyber-Spionage in Verdacht. Das niederländische Verteidigungsministerium veröffentlicht erstmalig einen Bericht zu einem Vorfall.",
       "url": "https://www.heise.de/news/Spionage-Vorwuerfe-Niederlande-sieht-China-fuer-Cyberangriff-verantwortlich-9621207.html"
@@ -147,17 +157,6 @@
       "teaser": "Die französische IT-Sicherheitsbehörde datiert die Anydesk-Kompromittierung auf Dezember 2023. Und empfiehlt die Deinstallation der Software.",
       "url": "https://www.heise.de/news/Anydesk-Einbruch-datiert-vermutlich-auf-Dezember-2023-9621134.html",
       "image_title": "Lock,With,Chain,On,A,Computer,Keyboard,-,3d,Illustration"
-    },
-    {
-      "title": "MIT-Student will ersten Kernel Exploit für visionOS gebaut haben",
-      "teaser": "Abstürze der Vision Pro haben auch die Tester von Mac & i und c't bereits festgestellt, nun soll ein potenzieller Kernel-Bug samt Exploit gefunden worden sein.",
-      "url": "https://www.heise.de/news/MIT-Student-will-ersten-Kernel-Exploit-fuer-visionOS-gebaut-haben-9621066.html",
-      "image_title": "Vision Pro mit Nutzerin"
-    },
-    {
-      "title": "Google Chrome: Update schließt mögliche Codeschmuggel-Lücken",
-      "teaser": "Drei Sicherheitslücken schließt Google mit einem Chrome-Update. Angreifer können durch sie womöglich Schadcode einschleusen.",
-      "url": "https://www.heise.de/news/Google-Chrome-Update-schliesst-moegliche-Codeschmuggel-Luecken-9621085.html"
     },
     {
       "title": "\"Ändere Dein Passwort\"-Tag: Warum Ändern des Passworts kaum hilft",
