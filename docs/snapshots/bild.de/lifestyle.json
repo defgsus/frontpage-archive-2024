@@ -1,16 +1,10 @@
 {
-  "timestamp": "2024-02-12T09:01:12",
+  "timestamp": "2024-02-12T10:01:11",
   "url": "https://www.bild.de/lifestyle/startseite/lifestyle/lifestyle-15478526.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/unified/wrapperMessagingWithoutDetection.js",
-      "id": null,
-      "text": null
-    },
     {
       "type": null,
       "src": "https://www.asadcdn.com/adlib/pages/bild.js",
@@ -25,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://ast.bild.de/bild-bild.de/prod/utag.js",
+      "src": "https://cmp2.bild.de/unified/wrapperMessagingWithoutDetection.js",
       "id": null,
       "text": null
     },
@@ -37,46 +31,28 @@
     },
     {
       "type": null,
-      "src": "https://a.bildstatic.de/runtime.fa5229f5.js",
+      "src": "https://ast.bild.de/bild-bild.de/prod/utag.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.e65ff2cd.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/pages/_.f6a4004f.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.b438bd22.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.b6798bb1.js",
+      "type": "module",
+      "src": "https://a.bildstatic.de/assets/entries/entry-server-routing.89f886f9.js",
       "id": null,
       "text": null
     }
   ],
   "articles": [
     {
-      "title": "Verzweifelter Überlebenskampf Tapferer Oktopus flüchtet aus Kochtopf",
+      "title": "Verzweifelter ÜberlebenskampfTapferer Oktopus flüchtet aus Kochtopf",
       "url": "https://www.bild.de/video/clip/lifestyle/suppen-schlamassel-tapferer-oktopus-flieht-aus-kochtopf-87051246.bild.html"
     },
     {
-      "title": "Es kostet 1,85 Milliarden! Blick in das Luxus-U-Boot für Superreiche",
+      "title": "Es kostet 1,85 Milliarden!Blick in das Luxus-U-Boot für Superreiche",
       "url": "https://www.bild.de/video/clip/lifestyle/es-kostet-1-85-milliarden-blick-in-das-luxus-u-boot-fuer-superreiche-86890518.bild.html"
     },
     {
-      "title": "BILD begleitete Juliane (43) zur Beauty-Spritze 10 Jahre jünger in 15 Minuten?",
+      "title": "BILD begleitete Juliane (43) zur Beauty-Spritze10 Jahre jünger in 15 Minuten?",
       "url": "https://www.bild.de/video/clip/lifestyle/beauty-spritze-10-jahre-juenger-in-15-minuten--83625612.bild.html"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-12T09:01:05",
+  "timestamp": "2024-02-12T10:01:01",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -43,16 +43,38 @@
       "image_title": "Vier High-End-Tablets nebeneinander"
     },
     {
+      "title": "Robotik im Haushalt: Serviceroboter lernen zu pflegen und zu helfen",
+      "teaser": "Kognitive Roboter können sehen, hören, tasten und mit KI Situationen erkennen und Menschen verstehen. Sie üben Menschen zu pflegen und Hausarbeit zu erledigen.",
+      "url": "https://www.heise.de/hintergrund/Robotik-im-Haushalt-Serviceroboter-lernen-zu-pflegen-und-zu-helfen-9622236.html",
+      "image_title": "Neura Robotics"
+    },
+    {
       "title": "\"Elvish\": Eine mächtige, POSIX-inkompatible Shell",
       "teaser": "Die Shell Elvish hält sich nicht an althergebrachte Standards. So kann man zwar schöner skripten, muss sich aber umgewöhnen und verliert Kompatibilität.",
       "url": "https://www.heise.de/ratgeber/Elvish-Eine-maechtige-POSIX-inkompatible-Shell-9622775.html",
       "image_title": ", KI Midjourney"
     },
     {
-      "title": "Kompakter Switch im Test: PoE-Switch IDS-108HP von Perle Systems",
-      "teaser": "Perle Systems hat mit dem IDS-108HP einen PoE-Switch im Portfolio, der eine PoE-Leistung von bis zu 90 Watt pro Port bereitstellt. Wir haben ihn getestet.",
-      "url": "https://www.heise.de/tests/Kompakter-Switch-im-Test-PoE-Switch-IDS-108HP-von-Perle-Systems-9616221.html",
-      "image_title": ", Perle"
+      "title": "ExpressVPN hat Leck bei DNS-Anfragen",
+      "teaser": "Eine Lücke in ExpressVPN führt dazu, dass einige DNS-Anfragen beim Provider statt VPN-Anbieter landen.",
+      "url": "https://www.heise.de/news/ExpressVPN-hat-Leck-bei-DNS-Anfragen-9625543.html"
+    },
+    {
+      "title": "Spanien: Apple und Amazon müssen zunächst keine Strafe zahlen",
+      "teaser": "Apple soll sich mit Amazon zusammengetan haben, um andere Händler von der Plattform fernzuhalten. Das Strafgeld in Höhe von 194 Millionen wird aber ausgesetzt.",
+      "url": "https://www.heise.de/news/Spanien-Apple-und-Amazon-muessen-zunaechst-keine-Strafe-zahlen-9625277.html",
+      "image_title": "Detailaufnahme eines Amazon-Pakets. Auf dem orangen Klebeneband steht neben dem Amazon-Logo \"Spend less. Smile more.\""
+    },
+    {
+      "title": "iX-Workshop: Aufbau einer Cloud-native-Umgebung (10% Rabatt bis 20.02.)",
+      "teaser": "Bauen Sie eine Cloud-native-Umgebung mit hochverfügbarem Kubernetes-Cluster und automatischer Skalierung auf, inkl. Access Management, Monitoring und GitOps.",
+      "url": "https://www.heise.de/news/iX-Workshop-Aufbau-einer-Cloud-native-Umgebung-10-Rabatt-bis-20-02-9619041.html",
+      "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
+    },
+    {
+      "title": "Microsoft Graph Toolkit 4.0: Neue Features und Optimierungen",
+      "teaser": "Das Toolkit aus dem Hause Microsoft ist in Version 4.0 darauf ausgerichtet, die Produktivität zu steigern und eine verbesserte Benutzererfahrung zu bieten.",
+      "url": "https://www.heise.de/news/Microsoft-Graph-Toolkit-4-0-Neue-Features-und-Optimierungen-9625351.html"
     },
     {
       "title": "PostgreSQL lässt sich beliebiges SQL unterjubeln",
@@ -63,6 +85,12 @@
       "title": "iX-Workshop: Sichere Authentifizierung und Autorisierung mit OAuth 2.1 und OIDC",
       "teaser": "OAuth 2.0 und OpenID Connect (OIDC) für die sichere Authentifizierung und Autorisierung in modernen webbasierten Anwendungen verwenden. Rabatt bis 14.02.",
       "url": "https://www.heise.de/news/iX-Workshop-Sichere-Authentifizierung-und-Autorisierung-in-Web-Anwendungen-9618919.html"
+    },
+    {
+      "title": "Kompakter Switch im Test: PoE-Switch IDS-108HP von Perle Systems",
+      "teaser": "Perle Systems hat mit dem IDS-108HP einen PoE-Switch im Portfolio, der eine PoE-Leistung von bis zu 90 Watt pro Port bereitstellt. Wir haben ihn getestet.",
+      "url": "https://www.heise.de/tests/Kompakter-Switch-im-Test-PoE-Switch-IDS-108HP-von-Perle-Systems-9616221.html",
+      "image_title": ", Perle"
     },
     {
       "title": "Bit-Rauschen: ARM will Apple-Prozessoren übertrumpfen",
@@ -110,36 +138,6 @@
       "teaser": "Alle kennen die 112. Doch in vielen Fällen wird sie unnötigerweise gewählt. Oft kann der ärztliche Notdienst unter 116 117 helfen.",
       "url": "https://www.heise.de/news/Tag-des-Notrufs-Warum-es-nicht-immer-die-112-sein-muss-9624972.html",
       "image_title": "Arzt erklärt etwas in einer Praxis. Auf dem Tisch liegt ein Stethoskop."
-    },
-    {
-      "title": "Streit zwischen Apple und Rivos geht gen Ende",
-      "teaser": "Im Gerichtsverfahren zwischen Apple und Rivos wird es wohl kein Urteil geben. Beim Streit um Geheimnisse der Chipentwicklung wollen sich die Parteien einigen.",
-      "url": "https://www.heise.de/news/Apple-macht-Einigungsvorschlag-im-Streit-mit-Rivos-9625086.html",
-      "image_title": "iPhone 14 und iPhone 14 Plus"
-    },
-    {
-      "title": "Datenschützer überprüfen automatisiert Cookie-Banner – und werden fündig​",
-      "teaser": "Bayerische Kontrolleure stießen bei einer maschinell durchgeführten Untersuchung auf über 350 Webseiten, deren Einwilligungsbanner nicht rechtskonform sind.",
-      "url": "https://www.heise.de/news/Datenschuetzer-finden-hunderte-nicht-rechtskonforme-Cookie-Banner-9624986.html",
-      "image_title": "Keks auf Tablet"
-    },
-    {
-      "title": "E-Rezept: Arzneimitteltherapiesicherheit in Gefahr?​",
-      "teaser": "Das Ziel, mit dem E-Rezept die Arzneimitteltherapiesicherheit zu verbessern, wurde bisher verfehlt. Auch die Verantwortlichkeiten sind unklar. Eine Analyse.",
-      "url": "https://www.heise.de/hintergrund/Gefaehrdet-das-E-Rezept-die-Arzneimitteltherapiesicherheit-9624964.html",
-      "image_title": "Arzt mit Fragezeichen in der Hand"
-    },
-    {
-      "title": "iX-Workshop Digital Forensics & Incident Response: Schützen, Erkennen, Reagieren",
-      "teaser": "Lernen Sie, professionelle Incident Response Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können.",
-      "url": "https://www.heise.de/news/iX-Workshop-Nach-dem-Einbruch-Digital-Forensics-Incident-Response-DFIR-9614830.html",
-      "image_title": "iX-Workshop Digital Forensics & Incident Response"
-    },
-    {
-      "title": "iX-Workshop: DevSecOps – Automatisierte Sicherheitstests für Webanwendungen",
-      "teaser": "Automatisierte Sicherheitsprüfungen auf Anwendungsebene in den DevSecOps-Prozess integrieren. (Last Call)",
-      "url": "https://www.heise.de/news/iX-Workshop-DevSecOps-Automatisierte-Sicherheitstests-fuer-Webanwendungen-9614826.html",
-      "image_title": "Workshop DevSecOps: Automatisierte Sicherheitstests für die Webentwicklung"
     },
     {
       "title": "Mehr Sichtweite – mehr Kunden",
