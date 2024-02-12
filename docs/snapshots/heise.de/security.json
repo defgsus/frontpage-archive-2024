@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-12T08:07:56",
+  "timestamp": "2024-02-12T09:01:08",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "PostgreSQL",
+      "url": "https://www.heise.de/news/PostgreSQL-laesst-sich-beliebiges-SQL-unterjubeln-9625343.html"
+    },
+    {
       "title": "Kibana",
       "url": "https://www.heise.de/news/Elastic-Stack-Pufferueberlauf-ermoeglicht-Codeschmuggel-in-Kibana-Komponente-9624274.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Authentifizierung-von-Ivanti-Connect-Secure-Co-defekt-9623653.html"
     },
     {
-      "title": "SonicOS SSL-VPN",
-      "url": "https://www.heise.de/news/SonicOS-SSL-VPN-Angreifer-koennen-Authentifzierung-umgehen-9623611.html"
+      "title": "PostgreSQL lässt sich beliebiges SQL unterjubeln",
+      "teaser": "Eine hochriskante Schwachstelle in der Datenbank PostgreSQL ermöglicht Angreifern, beliebige SQL-Befehle einzuschleusen.",
+      "url": "https://www.heise.de/news/PostgreSQL-laesst-sich-beliebiges-SQL-unterjubeln-9625343.html"
     },
     {
       "title": "Ransomware legt Stadtverwaltung in Österreich lahm und verzögert Bestattungen",
@@ -152,12 +157,6 @@
       "teaser": "Google pflegt einen Passwort-Manager, der im Browser und auf Android-Geräten nutzbar ist. Bald kommt das Teilen von Konten in der Familie hinzu.",
       "url": "https://www.heise.de/news/Googles-Passwort-Manager-lernt-Accountsharing-mit-der-Familie-9621689.html",
       "image_title": "Schloss auf Screen von Laptop"
-    },
-    {
-      "title": "Klinikverbund im Kreis Soest nach Cyberangriff von Notfallversorgung abgemeldet",
-      "teaser": "Nach einem IT-Sicherheitsvorfall sind das Dreifaltigkeits-Hospital in Lippstadt und zwei weitere Krankenhäuser nicht in der Lage, Notfälle aufzunehmen.",
-      "url": "https://www.heise.de/news/Nach-Cyberangriff-Kliniken-im-Kreis-Soest-von-Notfallversorgung-abgemeldet-9621642.html",
-      "image_title": "Krankenhauskorridor"
     },
     {
       "title": "\"Ändere Dein Passwort\"-Tag: Warum Ändern des Passworts kaum hilft",
