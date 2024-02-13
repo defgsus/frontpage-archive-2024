@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-13T08:01:00",
+  "timestamp": "2024-02-13T09:00:52",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "QTS, QuTS hero, QuTScloud",
+      "url": "https://www.heise.de/news/Qnap-Sicherheitsluecken-NAS-lassen-sich-Befehle-aus-dem-Netz-unterschieben-9626319.html"
+    },
+    {
       "title": "PostgreSQL",
       "url": "https://www.heise.de/news/PostgreSQL-laesst-sich-beliebiges-SQL-unterjubeln-9625343.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Bootloader-Luecke-gefaehrdet-viele-Linux-Distributionen-9624201.html"
     },
     {
-      "title": "Ivanti Connect Secure",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Authentifizierung-von-Ivanti-Connect-Secure-Co-defekt-9623653.html"
+      "title": "Qnap-Sicherheitslücken: NAS lassen sich Befehle aus dem Netz unterschieben",
+      "teaser": "Qnap warnt vor Sicherheitslücken im Betriebssystem QTS, QuTS hero und QuTScloud. Angreifer aus dem Netz können dadurch Befehle einschmuggeln.",
+      "url": "https://www.heise.de/news/Qnap-Sicherheitsluecken-NAS-lassen-sich-Befehle-aus-dem-Netz-unterschieben-9626319.html"
     },
     {
       "title": "ExpressVPN: DNS-Anfragen fälschlicherweise beim Provider gelandet",
@@ -151,12 +156,6 @@
       "title": "Sicherheitslücken: Codeschmuggel und Leistungsverweigerung bei ClamAV",
       "teaser": "Der Parser für das OLE2-Dateiformat enthält einen Pufferüberlauf und mit speziell präparierten Dateinamen lassen sich offenbar eigene Befehlszeilen ausführen.",
       "url": "https://www.heise.de/news/Sicherheitsluecken-Codeschmuggel-und-Leistungsverweigerung-bei-ClamAV-9622674.html"
-    },
-    {
-      "title": "Update gegen Sicherheitsleck in Alpha Innotec- und Novelan-Wärmepumpen",
-      "teaser": "Der Hersteller der Alpha Innotec- und Novelan-Wärmepumpen erläutert, wie Besitzer an Updates zum Schließen der Passwort-Schwachstelle kommen.",
-      "url": "https://www.heise.de/news/Alpha-Innotec-und-Novelan-Waermepumpen-Update-gegen-Sicherheitsluecke-9622407.html",
-      "image_title": "Air,To,Air,Heat,Pump,For,Cooling,Or,Heating,The"
     },
     {
       "title": "\"Ändere Dein Passwort\"-Tag: Warum Ändern des Passworts kaum hilft",
