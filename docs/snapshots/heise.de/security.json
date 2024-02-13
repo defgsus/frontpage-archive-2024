@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-13T16:01:06",
+  "timestamp": "2024-02-13T17:00:40",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Bind9 & Unbound",
+      "url": "https://www.heise.de/news/DNS-Server-Bind-und-Unbound-stolpern-ueber-Sicherheitsluecke-KeyTrap-9627276.html"
+    },
+    {
       "title": "Patchday SAP",
       "url": "https://www.heise.de/news/SAP-patcht-13-Sicherheitsluecken-abgedichtet-9626592.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Qnap-Sicherheitsluecken-NAS-lassen-sich-Befehle-aus-dem-Netz-unterschieben-9626319.html"
     },
     {
-      "title": "PostgreSQL",
-      "url": "https://www.heise.de/news/PostgreSQL-laesst-sich-beliebiges-SQL-unterjubeln-9625343.html"
+      "title": "DNS-Server: Bind und Unbound stolpern über Sicherheitslücke \"KeyTrap\"",
+      "teaser": "Mit einer präparierten DNS-Anfrage können Angreifer eine hohe Prozessorlast verursachen und den Dienst für legitime Nutzer so blockieren. Patches stehen bereit.",
+      "url": "https://www.heise.de/news/DNS-Server-Bind-und-Unbound-stolpern-ueber-Sicherheitsluecke-KeyTrap-9627276.html"
     },
     {
       "title": "GMX- und Web.de zeigen viele fehlerhafte Log-in-Versuche",
@@ -147,12 +152,6 @@
       "title": "Sicherheitsupdates: SSL-VPN-Komponente von FortiOS angreifbar",
       "teaser": "Wichtige Sicherheitspatches schließen kritische Lücken in FortiOS und FortiSIEM. Admins sollten zügig handeln.",
       "url": "https://www.heise.de/news/Sicherheitsupdates-SSL-VPN-Komponente-von-FortiOS-angreifbar-9623561.html"
-    },
-    {
-      "title": "Anydesk-Einbruch: Hersteller bestätigt Dezember als Einbruchszeitpunkt",
-      "teaser": "Anydesk hat jetzt zugegeben, dass der Einbruch in die Produktivsysteme auf den Dezember zurückgeht.",
-      "url": "https://www.heise.de/news/Anydesk-Einbruch-Hersteller-bestaetigt-Dezember-als-Einbruchszeitpunkt-9623472.html",
-      "image_title": "Hacker,Attack,Computer,Hardware,Microchip,While,Process,Data,Through,Internet"
     },
     {
       "title": "\"Ändere Dein Passwort\"-Tag: Warum Ändern des Passworts kaum hilft",

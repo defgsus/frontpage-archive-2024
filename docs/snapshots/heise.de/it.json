@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-13T16:01:03",
+  "timestamp": "2024-02-13T17:00:37",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,22 +26,20 @@
   ],
   "articles": [
     {
-      "title": "Microsoft: Windows-Update-Problem für 23H2 gelöst, Blockade aufgehoben",
-      "teaser": "Auf Windows-Rechnern mit mehreren Monitoren wurde das 23H2-Update blockiert. Nun hat Microsoft ein Problem gelöst und die Bremse entfernt.",
-      "url": "https://www.heise.de/news/Windows-Update-Microsoft-loest-Installationsblockade-fuer-Windows-11-23H2-9624658.html",
-      "image_title": "Verzweifeltes Monster sitzt auf Laptop, das Windows Update ausführt"
+      "title": "PostgreSQL lässt sich beliebiges SQL unterjubeln",
+      "teaser": "Eine hochriskante Schwachstelle in der Datenbank PostgreSQL ermöglicht Angreifern, beliebige SQL-Befehle einzuschleusen.",
+      "url": "https://www.heise.de/news/PostgreSQL-laesst-sich-beliebiges-SQL-unterjubeln-9625343.html"
     },
     {
-      "title": "Bootloader-Lücke: Viele Linux-Distributionen sind gefährdet",
-      "teaser": "Im Bootloader shim, der Secure-Boot auch für nicht-Windows-Betriebssysteme erlaubt, klafft eine Sicherheitslücke.",
-      "url": "https://www.heise.de/news/Bootloader-Luecke-gefaehrdet-viele-Linux-Distributionen-9624201.html",
-      "image_title": "Security Alert"
+      "title": "US-Regierungsbehörden: IT seit Jahren durch chinesische Angreifer unterwandert",
+      "teaser": "Sicherheitsbehörden in den USA schlagen Alarm – Volt Typhoon ist bereits vor Jahren in kritische US-Infrastrukturen eingedrungen. Ursprung der Attacken: China.",
+      "url": "https://www.heise.de/news/US-Regierungsbehoerden-IT-seit-Jahren-durch-chinesische-Angreifer-unterwandert-9624187.html"
     },
     {
-      "title": "Ukraine: Russische Besatzer nutzen Medienberichten zufolge Starlink",
-      "teaser": "Eigentlich soll Elon Musks Internetdienst Starlink die Ukraine unterstützen. Doch es mehren sich Berichte, dass auch die russischen Besatzer den Dienst nutzen.",
-      "url": "https://www.heise.de/news/Ukraine-Russische-Besatzer-nutzen-Starlink-9625185.html",
-      "image_title": "Antenne"
+      "title": "Bitcoin knackt zum ersten Mal seit mehr als zwei Jahren die 50.000-Dollar-Marke",
+      "teaser": "Die Zulassung von Bitcoin-ETFs verschafft der Kryptowährung Rückenwind. Wie nachhaltig der ist, darüber gibt es verschiedene Ansichten.",
+      "url": "https://www.heise.de/news/Bitcoin-knackt-zum-ersten-Mal-seit-mehr-als-zwei-Jahren-die-50-000-Dollar-Marke-9626246.html",
+      "image_title": "Bull,Market,Trend.,Cryptocurrency.,Bitcoin,Stock,Growth.,Chart,Shows,A"
     },
     {
       "title": "Urheberrecht: Rechtliche Unsicherheit beim Coding mit KI",
@@ -53,6 +51,22 @@
       "teaser": "Das Argument Parser Argparse für Python ist ein Werkzeug, das bei der Parameterauswertung hilft, schnell Ergebnisse liefert und mit Ihrem Programm wächst.",
       "url": "https://www.heise.de/ratgeber/Programmieren-mit-Python-Kommandozeilenparameter-auswerten-mit-Python-Argparse-9622518.html",
       "image_title": ", Thorsten Hübner"
+    },
+    {
+      "title": "DNS-Server: Bind und Unbound stolpern über Sicherheitslücke \"KeyTrap\"",
+      "teaser": "Mit einer präparierten DNS-Anfrage können Angreifer eine hohe Prozessorlast verursachen und den Dienst für legitime Nutzer so blockieren. Patches stehen bereit.",
+      "url": "https://www.heise.de/news/DNS-Server-Bind-und-Unbound-stolpern-ueber-Sicherheitsluecke-KeyTrap-9627276.html"
+    },
+    {
+      "title": "Jetzt offiziell: VMware stampft kostenlosen vSphere Hypervisor ein",
+      "teaser": "Bislang ließ sich VMwares Virtualisierungstechnik einfach und gratis ausprobieren. Jetzt streicht Broadcom das ESXi-Angebot aus dem Programm.",
+      "url": "https://www.heise.de/news/Jetzt-offiziell-VMware-stampft-kostenlosen-vSphere-Hypervisor-ein-9627260.html"
+    },
+    {
+      "title": "Zukunft vieler Domains ungewiss: Was der Ausstieg von Freenom zur Folge hat",
+      "teaser": "Freenom zieht sich zurück. Der Schritt ist Folge eines Rechtsstreits mit Meta, in dem es um Cybergaunereien ging. Die Zukunft vieler Domains ist ungewiss.",
+      "url": "https://www.heise.de/news/Zukunft-vieler-Domains-ungewiss-Was-der-Ausstieg-von-Freenom-zur-Folge-hat-9627218.html",
+      "image_title": "Startseite von Freenom"
     },
     {
       "title": "iMessage: EU zwingt Apple nicht zur Öffnung",
@@ -120,21 +134,6 @@
       "teaser": "Die Vision Pro ist – trotz spannender Fähigkeiten – ein Gen-1-Produkt. Ein gut informierter Journalist machte nun Aussagen zu Apples Timeline für das Headset.",
       "url": "https://www.heise.de/news/Vision-Pro-Bis-zur-idealen-Form-koennte-es-vier-Generationen-dauern-9626236.html",
       "image_title": "Vision Pro mit Komponenten"
-    },
-    {
-      "title": "Admins gucken in die Röhre: Kein sudo für Windows Server",
-      "teaser": "Nach der verwirrenden sudo-Ankündigung zeigt sich nur langsam, was Microsoft vorhat: Windows 11 erhält den praktischen Befehl, der Server nicht.",
-      "url": "https://www.heise.de/news/sudo-nicht-fuer-den-Windows-Server-9626496.html"
-    },
-    {
-      "title": "Sicherheitslücken: Angreifer können Dell Unity kompromittieren",
-      "teaser": "Dells Storage-Appliance-Serie Unity ist über mehrere Schwachstellen attackierbar. Sicherheitspatches sind verfügbar.",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-Angreifer-koennen-Dell-Unity-kompromittieren-9626407.html"
-    },
-    {
-      "title": "Cisco: Eine weitere Security-Schicht für die Zugangskontrolle",
-      "teaser": "Im Rahmen der Cisco Live gab es einige Security-Ankündigungen. Vor allem die Zugangskontrolle will Cisco besser absichern, denn die würde nicht gut gepflegt.",
-      "url": "https://www.heise.de/news/Cisco-Eine-weitere-Security-Schicht-fuer-die-Zugangskontrolle-9626449.html"
     },
     {
       "title": "Mehr Sichtweite – mehr Kunden",
