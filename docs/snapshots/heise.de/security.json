@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-13T09:00:52",
+  "timestamp": "2024-02-13T10:00:43",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Dell Unity",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-Angreifer-koennen-Dell-Unity-kompromittieren-9626407.html"
+    },
+    {
       "title": "QTS, QuTS hero, QuTScloud",
       "url": "https://www.heise.de/news/Qnap-Sicherheitsluecken-NAS-lassen-sich-Befehle-aus-dem-Netz-unterschieben-9626319.html"
     },
@@ -44,11 +48,17 @@
       "url": "https://www.heise.de/news/Elastic-Stack-Pufferueberlauf-ermoeglicht-Codeschmuggel-in-Kibana-Komponente-9624274.html"
     },
     {
-      "title": "shim",
-      "url": "https://www.heise.de/news/Bootloader-Luecke-gefaehrdet-viele-Linux-Distributionen-9624201.html"
+      "title": "Sicherheitslücken: Angreifer können Dell Unity kompromittieren",
+      "teaser": "Dells Storage-Appliance-Serie Unity ist über mehrere Schwachstellen attackierbar. Sicherheitspatches sind verfügbar.",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-Angreifer-koennen-Dell-Unity-kompromittieren-9626407.html"
     },
     {
-      "title": "Qnap-Sicherheitslücken: NAS lassen sich Befehle aus dem Netz unterschieben",
+      "title": "Cisco: Eine weitere Security-Schicht für die Zugangskontrolle",
+      "teaser": "Im Rahmen der Cisco Live gab es einige Security-Ankündigungen. Vor allem die Zugangskontrolle will Cisco besser absichern, denn die würde nicht gut gepflegt.",
+      "url": "https://www.heise.de/news/Cisco-Eine-weitere-Security-Schicht-fuer-die-Zugangskontrolle-9626449.html"
+    },
+    {
+      "title": "Qnap: Sicherheitslücken in Firmware erlauben Einschleusen von Befehlen",
       "teaser": "Qnap warnt vor Sicherheitslücken im Betriebssystem QTS, QuTS hero und QuTScloud. Angreifer aus dem Netz können dadurch Befehle einschmuggeln.",
       "url": "https://www.heise.de/news/Qnap-Sicherheitsluecken-NAS-lassen-sich-Befehle-aus-dem-Netz-unterschieben-9626319.html"
     },
@@ -146,16 +156,6 @@
       "teaser": "Samsung bietet mit Magician eine Software zum Verwalten von SSDs, Speichersticks und -Karten des Herstellers. Ein Update schließt eine Lücke darin.",
       "url": "https://www.heise.de/news/Samsung-stopft-Sicherheitsleck-im-SSD-Tool-Magician-9622729.html",
       "image_title": "Offene Samsung-SSD auf Mainboard"
-    },
-    {
-      "title": "Sichere Softwareentwicklung: Vorträge für die heise devSec in Köln gesucht",
-      "teaser": "Der Call for Proposals für die heise devSec im Herbst ist gestartet. Ab sofort sind Blind-Bird-Tickets ebenso wie Tickets für die devSec im Frühjahr erhältlich.",
-      "url": "https://www.heise.de/news/Sichere-Softwareentwicklung-Vortraege-fuer-die-heise-devSec-in-Koeln-gesucht-9621716.html"
-    },
-    {
-      "title": "Sicherheitslücken: Codeschmuggel und Leistungsverweigerung bei ClamAV",
-      "teaser": "Der Parser für das OLE2-Dateiformat enthält einen Pufferüberlauf und mit speziell präparierten Dateinamen lassen sich offenbar eigene Befehlszeilen ausführen.",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-Codeschmuggel-und-Leistungsverweigerung-bei-ClamAV-9622674.html"
     },
     {
       "title": "\"Ändere Dein Passwort\"-Tag: Warum Ändern des Passworts kaum hilft",
