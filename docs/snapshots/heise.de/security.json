@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-13T13:00:59",
+  "timestamp": "2024-02-13T14:01:12",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Patchday SAP",
+      "url": "https://www.heise.de/news/SAP-patcht-13-Sicherheitsluecken-abgedichtet-9626592.html"
+    },
+    {
       "title": "Dell Unity",
       "url": "https://www.heise.de/news/Sicherheitsluecken-Angreifer-koennen-Dell-Unity-kompromittieren-9626407.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/PostgreSQL-laesst-sich-beliebiges-SQL-unterjubeln-9625343.html"
     },
     {
-      "title": "Kibana",
-      "url": "https://www.heise.de/news/Elastic-Stack-Pufferueberlauf-ermoeglicht-Codeschmuggel-in-Kibana-Komponente-9624274.html"
+      "title": "SAP patcht: 13 Sicherheitslücken abgedichtet",
+      "teaser": "SAP verteilt Software-Updates, die Schwachstellen aus 13 Sicherheitsmitteilungen ausbessern. Eine Lücke ist kritisch.",
+      "url": "https://www.heise.de/news/SAP-patcht-13-Sicherheitsluecken-abgedichtet-9626592.html"
+    },
+    {
+      "title": "heise Security Tour 2024 – Wissen schützt: Ab jetzt zum Blind-Bird-Tarif buchen",
+      "teaser": "Die Eintages-Konferenz hilft Security-Verantwortlichen dabei, ihre IT sicher zu halten. Mit spannenden Themen, Praxis-orientiert und Hersteller-unabhängig.",
+      "url": "https://www.heise.de/news/heise-Security-Tour-2024-Wissen-schuetzt-Ab-jetzt-zum-Blind-Bird-Tarif-buchen-9625852.html",
+      "image_title": "heise Security Tour 2023"
     },
     {
       "title": "Sicherheitslücken: Angreifer können Dell Unity kompromittieren",
@@ -143,18 +154,6 @@
       "teaser": "Im App Store für iOS war eine App verfügbar, die Lastpass nachgeahmt hat. Auch nachdem der Passwortmanager darauf hingewiesen hat, dauerte es bis zur Löschung.",
       "url": "https://www.heise.de/news/Apple-Betruegerischer-LastPass-Klon-schafft-es-in-den-App-Store-9623390.html",
       "image_title": "Handy mit Schlüsselsymbol vor Laptop"
-    },
-    {
-      "title": "Hive: 10 Millionen US-Dollar Belohnung für Hinweise zur Ransomware-Gruppe",
-      "teaser": "Vor mehr als einem Jahr wurde die Infrastruktur der Hive-Ransomware übernommen. Die Suche nach den Hinterleuten kommt aber offenbar nicht voran.",
-      "url": "https://www.heise.de/news/Hive-10-Millionen-US-Dollar-Belohnung-fuer-Hinweise-zur-Ransomware-Gruppe-9623257.html",
-      "image_title": "Hände an Laptop-Tastatur mit unscharfem Code im Hintergrund"
-    },
-    {
-      "title": "Baden-Württemberg: Lörrach und Konstanz gestehen Datenpannen ein",
-      "teaser": "Zwei Kommunen im Süden Baden-Württembergs haben nicht unerhebliche Datenpannen eingestanden. In einem Fall wurde das Ausmaß erst durch Recherchen publik.",
-      "url": "https://www.heise.de/news/Loerrach-und-Konstanz-Zwei-Datenpannen-durch-falsche-Einstellungen-9623108.html",
-      "image_title": "Hand auf Tastatur"
     },
     {
       "title": "\"Ändere Dein Passwort\"-Tag: Warum Ändern des Passworts kaum hilft",
