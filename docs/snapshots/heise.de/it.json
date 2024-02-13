@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-13T07:00:46",
+  "timestamp": "2024-02-13T08:00:57",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "Microsoft: Windows-Update-Problem für 23H2 gelöst, Blockade aufgehoben",
+      "teaser": "Auf Windows-Rechnern mit mehreren Monitoren wurde das 23H2-Update blockiert. Nun hat Microsoft ein Problem gelöst und die Bremse entfernt.",
+      "url": "https://www.heise.de/news/Windows-Update-Microsoft-loest-Installationsblockade-fuer-Windows-11-23H2-9624658.html",
+      "image_title": "Verzweifeltes Monster sitzt auf Laptop, das Windows Update ausführt"
+    },
+    {
       "title": "Bootloader-Lücke: Viele Linux-Distributionen sind gefährdet",
       "teaser": "Im Bootloader shim, der Secure-Boot auch für nicht-Windows-Betriebssysteme erlaubt, klafft eine Sicherheitslücke.",
       "url": "https://www.heise.de/news/Bootloader-Luecke-gefaehrdet-viele-Linux-Distributionen-9624201.html",
@@ -38,11 +44,6 @@
       "image_title": "Antenne"
     },
     {
-      "title": "sudo kommt für Windows",
-      "teaser": "Wieder erhält Windows ein bewährtes Unix-Werkzeug – nach hartnäckigen Gerüchten steht nun fest, dass Microsoft an einem nativen Sudo for Windows arbeitet.",
-      "url": "https://www.heise.de/news/sudo-kommt-fuer-Windows-9622489.html"
-    },
-    {
       "title": "Flottes Freifunk: Netzzugang mit VPN-Offloader beschleunigen",
       "teaser": "VPN-Tunnel zur Haftungsabsicherung fordern Freifunk-Routern viel Rechenleistung ab. Mit einem VPN-Offloader können Sie Ihren freien Netzzugang beschleunigen.",
       "url": "https://www.heise.de/ratgeber/Flottes-Freifunk-Netzzugang-mit-VPN-Offloader-beschleunigen-9619354.html",
@@ -53,6 +54,17 @@
       "teaser": "Die Ryzen-Prozessoren von AMD sind flott und unter effizient. Im Leerlauf schlucken bisherige AM5-Systeme jedoch viel Strom. Der Ryzen 8000G kann es besser.",
       "url": "https://www.heise.de/tests/AM5-Mainboard-im-Test-Asus-Prime-A620M-E-CSM-fuer-Buerocomputer-9618863.html",
       "image_title": "!!!Board hat Missi am 30.1.24 fotografiert, aber noch nicht hochgeladen,"
+    },
+    {
+      "title": "KI im Strafvollzug: Sachsen verzichtet zunächst auf Tools",
+      "teaser": "In Sachsen will die CDU-Fraktion, dass KI auch im Justizvollzug genutzt wird. Das Justizministerium winkt ab: Aktuelle Tools seien noch nicht sicher genug.",
+      "url": "https://www.heise.de/news/KI-im-Strafvollzug-Sachsen-verzichtet-zunaechst-auf-Tools-9626292.html"
+    },
+    {
+      "title": "iX-Workshop für Entwickler und Architekten: IT-Management mit Terraform",
+      "teaser": "Erstellen und verwalten Sie IT- und Cloud-Infrastrukturen als Code – Grundlagen, Installation und Nutzung von Terraform. (Last Call)",
+      "url": "https://www.heise.de/news/iX-Workshop-fuer-Entwickler-und-Architekten-IT-Management-mit-Terraform-9618925.html",
+      "image_title": "iX-Workshop: Terraform – Infrastructure as Code"
     },
     {
       "title": "Elektroauto zuhause laden: Wallboxen smart & günstig wie nie – 70 % billiger",
@@ -125,17 +137,6 @@
       "title": "Microsoft Graph Toolkit 4.0 bringt überarbeitete Suchkomponenten",
       "teaser": "Das Toolkit aus dem Hause Microsoft ist in Version 4.0 darauf ausgerichtet, die Produktivität zu steigern und eine verbesserte Benutzererfahrung zu bieten.",
       "url": "https://www.heise.de/news/Microsoft-Graph-Toolkit-4-0-Neue-Features-und-Optimierungen-9625351.html"
-    },
-    {
-      "title": "PostgreSQL lässt sich beliebiges SQL unterjubeln",
-      "teaser": "Eine hochriskante Schwachstelle in der Datenbank PostgreSQL ermöglicht Angreifern, beliebige SQL-Befehle einzuschleusen.",
-      "url": "https://www.heise.de/news/PostgreSQL-laesst-sich-beliebiges-SQL-unterjubeln-9625343.html"
-    },
-    {
-      "title": "\"Elvish\": Eine mächtige, POSIX-inkompatible Shell",
-      "teaser": "Die Shell Elvish hält sich nicht an althergebrachte Standards. So kann man zwar schöner skripten, muss sich aber umgewöhnen und verliert Kompatibilität.",
-      "url": "https://www.heise.de/ratgeber/Elvish-Eine-maechtige-POSIX-inkompatible-Shell-9622775.html",
-      "image_title": ", KI Midjourney"
     },
     {
       "title": "Mehr Sichtweite – mehr Kunden",
