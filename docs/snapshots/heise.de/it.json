@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-14T11:00:54",
+  "timestamp": "2024-02-14T12:09:24",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "Zukunft vieler Domains ungewiss: Was der Ausstieg von Freenom zur Folge hat",
+      "teaser": "Freenom zieht sich zurück. Der Schritt ist Folge eines Rechtsstreits mit Meta, in dem es um Cybergaunereien ging. Die Zukunft vieler Domains ist ungewiss.",
+      "url": "https://www.heise.de/news/Zukunft-vieler-Domains-ungewiss-Was-der-Ausstieg-von-Freenom-zur-Folge-hat-9627218.html",
+      "image_title": "Startseite von Freenom"
+    },
+    {
       "title": "Microsoft Defender: Der Erkennung mit Komma entgehen",
       "teaser": "Ein IT-Forscher hat entdeckt, dass sich die Erkennung des Microsoft Defenders mit einem Komma austricksen lässt.",
       "url": "https://www.heise.de/news/Microsoft-Defender-Der-Erkennung-mit-Komma-entgehen-9625770.html"
@@ -34,11 +40,6 @@
       "title": "DNS-Server: Bind, dnsmasq und Unbound stolpern über Sicherheitslücke \"KeyTrap\"",
       "teaser": "Mit einer präparierten DNS-Anfrage können Angreifer eine hohe Prozessorlast verursachen und den Dienst für legitime Nutzer so blockieren. Patches stehen bereit.",
       "url": "https://www.heise.de/news/DNS-Server-Bind-und-Unbound-stolpern-ueber-Sicherheitsluecke-KeyTrap-9627276.html"
-    },
-    {
-      "title": "PostgreSQL lässt sich beliebiges SQL unterjubeln",
-      "teaser": "Eine hochriskante Schwachstelle in der Datenbank PostgreSQL ermöglicht Angreifern, beliebige SQL-Befehle einzuschleusen.",
-      "url": "https://www.heise.de/news/PostgreSQL-laesst-sich-beliebiges-SQL-unterjubeln-9625343.html"
     },
     {
       "title": "Urheberrecht: Rechtliche Unsicherheit beim Coding mit KI",
@@ -50,6 +51,38 @@
       "teaser": "Das Argument Parser Argparse für Python ist ein Werkzeug, das bei der Parameterauswertung hilft, schnell Ergebnisse liefert und mit Ihrem Programm wächst.",
       "url": "https://www.heise.de/ratgeber/Programmieren-mit-Python-Kommandozeilenparameter-auswerten-mit-Python-Argparse-9622518.html",
       "image_title": ", Thorsten Hübner"
+    },
+    {
+      "title": "Datenanalyse mit großen Sprachmodellen: Wie Sie mit eigenen Daten chatten",
+      "teaser": "Große Sprachmodelle können die Auswertung von unbekannten Daten durch Analyse und Visualisierung beschleunigen. Ein Überblick stellt Methodik und Tools vor.",
+      "url": "https://www.heise.de/ratgeber/Datenanalyse-mit-grossen-Sprachmodellen-Wie-Sie-mit-eigenen-Daten-chatten-9625547.html"
+    },
+    {
+      "title": "Ezviz BC2 im Test: Kompakte Überwachungskamera mit Akku – jetzt mit 20 % Rabatt",
+      "teaser": "Die Ezviz BC2 ist sehr kompakt und lässt sich dank einer magnetischen Halterung flexibel positionieren. Wie alltagstauglich die Überwachungskamera ist, zeigt der Testbericht.",
+      "url": "https://www.techstage.de/test/ezviz-bc2-im-test-kompakte-und-guenstige-ueberwachungskamera-mit-akku-und-wlan/pw400ts?wt_mc=intern.red.techstage.newsticker.rubrikstart.teaser.teaser",
+      "image_title": "##PHxVALUE_ALT_TEXT##"
+    },
+    {
+      "title": "Mozilla schneidet Zöpfe ab: Mehr Konzentration auf Firefox",
+      "teaser": "Weniger VPN, Relay und Hubs, mehr Firefox und KI: Mozilla stellt sich neu auf. Vor allem die Bezahldienste fallen weg.",
+      "url": "https://www.heise.de/news/Mozilla-schneidet-Zoepfe-ab-Mehr-Konzentration-auf-Firefox-9628054.html"
+    },
+    {
+      "title": "Linux-Kernel-Entwickler verteilen Sicherheitskorrekturen jetzt mit CVE-Einträgen",
+      "teaser": "Das heimliche Korrigieren von Schwachstellen scheint beim Linux-Kernel ein Ende zu haben. Dieser Eindruck täuscht allerdings.",
+      "url": "https://www.heise.de/news/Linux-Kernel-Entwickler-kennzeichnen-jetzt-Sicherheitskorrekturen-9628112.html"
+    },
+    {
+      "title": "In fünf Webinaren in C++ vom Einsteiger zum Profi mit der heise Academy",
+      "teaser": "Ab dem 15. April lernen Sie die drei wichtigsten Programmier-Paradigmen für C++-Entwickler kennen: funktionale, generische und objektorientierte Programmierung.",
+      "url": "https://www.heise.de/news/In-fuenf-Webinaren-in-C-vom-Einsteiger-zum-Profi-mit-der-heise-Academy-9616799.html"
+    },
+    {
+      "title": "Zoom: Kritische Lücke erlaubt Angreifern aus dem Netz die Rechteausweitung",
+      "teaser": "Zoom warnt vor mehreren Schwachstellen in den Produkten des Unternehmens. Eine gilt als kritisches Sicherheitsrisiko.",
+      "url": "https://www.heise.de/news/Zoom-Kritische-Luecke-erlaubt-Angreifern-aus-dem-Netz-die-Rechteausweitung-9627817.html",
+      "image_title": "Mann im Homeoffice mit pinker Shorts"
     },
     {
       "title": "Gigantische KI-Chip-Pläne: Spekulation, Größenwahn oder Irrsinn? – Eine Analyse",
@@ -98,39 +131,6 @@
       "teaser": "Eine als Schutzraum für queere Menschen gedachte Mastodon-Instanz ist jetzt offline gegangen, weil die Taliban die Kontrolle über die TLD übernommen haben.",
       "url": "https://www.heise.de/news/Mastodon-Instanz-queer-af-nach-Machtuebernahme-der-Taliban-jetzt-verschwunden-9627690.html",
       "image_title": "Mastodon-Logo"
-    },
-    {
-      "title": "Sicherheitslücke in Webmailer Roundcube wird angegriffen",
-      "teaser": "Angreifer attackieren eine Sicherheitslücke in dem Webmail-Programm Roundcube. Ein Update steht bereits länger bereit.",
-      "url": "https://www.heise.de/news/Sicherheitsluecke-in-Webmailer-Roundcube-wird-angegriffen-9627763.html",
-      "image_title": "Brief"
-    },
-    {
-      "title": "Sourcecode-Editor Zed: Erfahrungen aus einem Jahr mit einem Underdog",
-      "teaser": "Das neue Werkzeug der Atom-Macher kann mit schlankem Design und einer hervorragenden Performance im Vergleich zu Visual Studio Code punkten.",
-      "url": "https://www.heise.de/hintergrund/Sourcecode-Editor-Zed-Erfahrungen-aus-einem-Jahr-mit-einem-Underdog-9623943.html",
-      "image_title": "Hände an Laptop-Tastatur mit unscharfem Code im Hintergrund"
-    },
-    {
-      "title": "Patchday: Attacken auf Windows - Sicherheitsfunktion SmartScreen umgangen",
-      "teaser": "Aufgrund von laufenden Attacken sollten Windows-Admins die aktuellen Sicherheitsupdates zügig installieren.",
-      "url": "https://www.heise.de/news/Patchday-Attacken-auf-Windows-Sicherheitsfunktion-SmartScreen-umgangen-9627694.html"
-    },
-    {
-      "title": "Neue Geräte im Home Assistant",
-      "teaser": "Home Assistant Version 2024.2 ist erschienen. Neben vielen rein kosmetischen Änderungen erlaubt das Update auch die Integration neuer Geräte.",
-      "url": "https://www.heise.de/news/Neue-Geraete-im-Home-Assistant-9627676.html"
-    },
-    {
-      "title": "\"Polens Watergate\": Neue Regierung hat Beweise für umfangreiche Spyware-Kampagne",
-      "teaser": "Nach dem Regierungswechsel in Polen könnte die Aufklärung der Spionage mit Pegasus an Fahrt aufnehmen. Donald Tusk hat eine \"sehr lange Liste\" mit Opfern.",
-      "url": "https://www.heise.de/news/Polens-Watergate-Neue-Regierung-hat-Beweise-fuer-umfangreiche-Spyware-Kampagne-9627628.html",
-      "image_title": "Hände am Smartphone im Dunkeln"
-    },
-    {
-      "title": "InfiniBand oder Ethernet für den KI-Cluster? Cisco und Nvidia lassen die Wahl​",
-      "teaser": "KI nimmt auch bei Ciscos Hausmesse großen Raum ein. Gemeinsam mit Nvidia will der Anbieter für bessere Ausstattung von KI-Rechenzentren sorgen.",
-      "url": "https://www.heise.de/news/InfiniBand-oder-Ethernet-fuer-den-KI-Cluster-Cisco-und-Nvidia-lassen-die-Wahl-9627166.html"
     },
     {
       "title": "Mehr Sichtweite – mehr Kunden",
