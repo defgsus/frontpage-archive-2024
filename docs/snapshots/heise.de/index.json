@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-14T14:00:41",
+  "timestamp": "2024-02-14T15:00:38",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -108,7 +108,7 @@
       "url": "https://www.heise.de/ratgeber/Mit-Festnetztelefonen-zu-Hause-mobil-telefonieren-9618812.html"
     },
     {
-      "title": "Kernel-EntwicklungLinux-Kernel kennzeichnet Sicherheitskorrekturen mit CVE-EInträgen",
+      "title": "Kernel-EntwicklungLinux-Kernel kennzeichnet Sicherheitskorrekturen mit CVE-Einträgen",
       "teaser": "Das heimliche Korrigieren von Schwachstellen scheint beim Linux-Kernel ein Ende zu haben. Dieser Eindruck täuscht allerdings.",
       "url": "https://www.heise.de/news/Linux-Kernel-Entwickler-kennzeichnen-jetzt-Sicherheitskorrekturen-9628112.html"
     },
@@ -147,7 +147,18 @@
       "image_title": "AI-Kopf"
     },
     {
-      "title": "AlertNächster Versuch: Privatwirtschaftliche Mondmission IM-1 vor dem Start",
+      "title": "AlertAMD meldet zahlreiche Sicherheitslücken in Prozessoren",
+      "teaser": "AMD hat Sicherheitsmitteilungen zu Schwachstellen in diversen Prozessoren veröffentlicht. Firmwareupdates sollen sie ausbessern.",
+      "url": "https://www.heise.de/news/AMD-meldet-zahlreiche-Sicherheitsluecken-in-Prozessoren-9628343.html"
+    },
+    {
+      "title": "Autozulieferer Continental will weltweit rund 7150 Stellen abbauen",
+      "teaser": "Beim Zulieferkonzern Continental sollen wegen der schwachen Konjunktur der Autoindustrie global rund 7150 Stellen wegfallen, über drei Prozent der Belegschaft.",
+      "url": "https://www.heise.de/news/Autozulieferer-Continental-will-weltweit-rund-7150-Stellen-abbauen-9628366.html",
+      "image_title": "Continental Hannover-Stöcken"
+    },
+    {
+      "title": "Nächster Versuch: Privatwirtschaftliche Mondmission IM-1 vor dem Start",
       "teaser": "Drei Versuche einer kommerziellen Mondlandung sind gescheitert, nun schickt sich Intuitive Machines an, die Serie zu brechen. Am Donnerstag soll es losgehen.",
       "url": "https://www.heise.de/news/Naechster-Versuch-Privatwirtschaftliche-Mondmission-IM-1-vor-dem-Start-9628179.html",
       "image_title": "Rakete vor dem Abendrot"
@@ -181,17 +192,6 @@
       "url": "https://www.heise.de/news/FreeBSD-verabschiedet-sich-langsam-von-der-32-Bit-Unterstuetzung-9628231.html"
     },
     {
-      "title": "Flipper Zero wird dank Raspi-Modul zum Spiele-Controller",
-      "teaser": "Mit einem neuen Modul kann man das Hacking-Tool Flipper Zero zum Spiele-Controller umrüsten. Das Addon auf Basis eines Raspi-Mikrocontrollers kostet 50 Euro.",
-      "url": "https://www.heise.de/news/Flipper-Zero-wird-dank-Raspi-Modul-zum-Spiele-Controller-9628131.html"
-    },
-    {
-      "title": "Meta-Boss testet Vision Pro – und hält eigene Quest 3 für besser",
-      "teaser": "Einem Video zufolge kam Meta-Chef Zuckerberg erst jetzt dazu, Apples Vision Pro auszuprobieren – und bekräftigt in Reaktion darauf seine Liebe zur Quest 3.",
-      "url": "https://www.heise.de/news/Meta-Boss-testet-Vision-Pro-und-haelt-eigene-Quest-3-fuer-besser-9627957.html",
-      "image_title": "Zuckerberg im Video zu Quest 3 vs. Vision Pro"
-    },
-    {
       "title": "SelbstständigkeitDiese Skills sollten IT-Freelancer mitbringen",
       "teaser": "Im Interview erklärt unser Experte, was 2024 für IT-Freelancer bringt und welche Skills gefragt sind.",
       "url": "https://www.heise.de/hintergrund/Interview-Das-bringt-2024-fuer-IT-Freiberufler-9588486.html"
@@ -213,10 +213,21 @@
       "url": "https://shop.heise.de/heise+/jubilaeumsangebot?affiliateId=38225_HP000065_26052_3_57&wt_mc=intern.abo.plus.hp_2024_jubilaeum.ho-advt.ad1.ad1"
     },
     {
+      "title": "Flipper Zero wird dank Raspi-Modul zum Spiele-Controller",
+      "teaser": "Mit einem neuen Modul kann man das Hacking-Tool Flipper Zero zum Spiele-Controller umrüsten. Das Addon auf Basis eines Raspi-Mikrocontrollers kostet 50 Euro.",
+      "url": "https://www.heise.de/news/Flipper-Zero-wird-dank-Raspi-Modul-zum-Spiele-Controller-9628131.html"
+    },
+    {
+      "title": "Meta-Boss testet Vision Pro – und hält eigene Quest 3 für besser",
+      "teaser": "Einem Video zufolge kam Meta-Chef Zuckerberg erst jetzt dazu, Apples Vision Pro auszuprobieren – und bekräftigt in Reaktion darauf seine Liebe zur Quest 3.",
+      "url": "https://www.heise.de/news/Meta-Boss-testet-Vision-Pro-und-haelt-eigene-Quest-3-fuer-besser-9627957.html",
+      "image_title": "Zuckerberg im Video zu Quest 3 vs. Vision Pro"
+    },
+    {
       "title": "AM5-Mainboard im Test: Asus Prime A620M-E-CSM für Bürocomputer",
-      "teaser": "Die Ryzen-Prozessoren von AMD sind flott und unter effizient. Im Leerlauf schlucken bisherige AM5-Systeme jedoch viel Strom. Der Ryzen 8000G kann es besser.",
+      "teaser": "Die Ryzen-Prozessoren von AMD sind flott und effizient. Im Leerlauf schlucken bisherige AM5-Systeme jedoch viel Strom. Der Ryzen 8000G kann es besser.",
       "url": "https://www.heise.de/tests/AM5-Mainboard-im-Test-Asus-Prime-A620M-E-CSM-fuer-Buerocomputer-9618863.html",
-      "image_title": "!!!Board hat Missi am 30.1.24 fotografiert, aber noch nicht hochgeladen,"
+      "image_title": "AM5-Mainboard Asus Prime A620M-E-CSM"
     },
     {
       "title": "In fünf Webinaren in C++ vom Einsteiger zum Profi mit der heise Academy",
@@ -276,6 +287,11 @@
       "url": "https://www.heise.de/news/Ladetarife-fuer-Elektroautos-im-Vergleich-7180518.html"
     },
     {
+      "title": "High-Performance Technical Computing: Wie IT anspruchsvolle Aufgaben löst",
+      "teaser": "Komplexe technische und wissenschaftliche Berechnungen stellen besonders hohe Anforderungen an die Leistungsfähigkeit von Computersystemen. Unternehmen und wissenschaftliche Einrichtungen benötigen daher Infrastrukturen, die für diese Aufgaben optimiert sind.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/high-performance-technical-computing-wie-it-anspruchsvolle-aufgaben-loest-4573/?source=hbsadersatz"
+    },
+    {
       "title": "OpenAI führt Memory für ChatGPT ein, auch Gemini merkt sich mehr",
       "teaser": "ChatGPT bekommt ein Gedächtnis. Memory merkt sich, was man mit dem Chatbot bespricht. Auch Googles Gemini speichert mehr.",
       "url": "https://www.heise.de/news/OpenAI-fuehrt-Memory-fuer-ChatGPT-ein-auch-Gemini-merkt-sich-mehr-9627789.html"
@@ -284,11 +300,6 @@
       "title": "Javalin 6 im Überblick: Modernes Web-Framework für Java und Kotlin",
       "teaser": "Das Update des Java- und Kotlin-Web-Frameworks bringt ein flexibles Routing-System sowie umfassende Konfigurationsoptionen für Webanwendungen.",
       "url": "https://www.heise.de/news/Javalin-6-im-Ueberblick-Modernes-Web-Framework-fuer-Java-und-Kotlin-9627682.html"
-    },
-    {
-      "title": "High-Performance Technical Computing: Wie IT anspruchsvolle Aufgaben löst",
-      "teaser": "Komplexe technische und wissenschaftliche Berechnungen stellen besonders hohe Anforderungen an die Leistungsfähigkeit von Computersystemen. Unternehmen und wissenschaftliche Einrichtungen benötigen daher Infrastrukturen, die für diese Aufgaben optimiert sind.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/high-performance-technical-computing-wie-it-anspruchsvolle-aufgaben-loest-4573/?source=hbsadersatz"
     },
     {
       "title": "iX-Workshop: Echtzeitüberwachung mit Prometheus und Grafana",
@@ -334,16 +345,6 @@
       "title": "Kabelloses Mikrofon: DJI Mic 2 im Test",
       "teaser": "Das DJI Mic 2 verspricht Features wie intelligentes Noise Cancelling und 32-Bit-Float-Aufnahmen zum kleinen Preis. Wir testen es in verschiedenen Szenarien.",
       "url": "https://www.heise.de/tests/Kabelloses-Mikrofon-DJI-Mic-2-im-Test-9626023.html"
-    },
-    {
-      "title": "AlertPatchday: Attacken auf Windows - Sicherheitsfunktion SmartScreen umgangen",
-      "teaser": "Aufgrund von laufenden Attacken sollten Windows-Admins die aktuellen Sicherheitsupdates zügig installieren.",
-      "url": "https://www.heise.de/news/Patchday-Attacken-auf-Windows-Sicherheitsfunktion-SmartScreen-umgangen-9627694.html"
-    },
-    {
-      "title": "Neue Geräte im Home Assistant",
-      "teaser": "Home Assistant Version 2024.2 ist erschienen. Neben vielen rein kosmetischen Änderungen erlaubt das Update auch die Integration neuer Geräte.",
-      "url": "https://www.heise.de/news/Neue-Geraete-im-Home-Assistant-9627676.html"
     },
     {
       "title": "Datenmüll von Voyager 1: \"Das größte Wunder, wenn wir sie zurückbekommen\"",
@@ -541,9 +542,9 @@
       "url": "https://www.heise.de/ratgeber/Auf-Jobsuche-mit-Xing-Gezielt-bessere-Angebote-finden-9622795.html"
     },
     {
-      "title": "Der ideale EinstiegPython: NumPy für Data Science",
-      "teaser": "Machen Sie sich mit den grundlegenden wie komplexen Funktionen der Python-Bibliothek NumPy für die numerische Berechnung vertraut.",
-      "url": "https://heise-academy.de/digitale-kurse/python-numpy-fur-data-science"
+      "title": "Ihr Weg zum zertifizierten Linux EngineerZertifizierungsvorbereitung LPIC-2 (201-450)",
+      "teaser": "Dieser Kurs bietet eine praxisnahe Anleitung für fortgeschrittene Themen der Linux-Administration und bereitet Sie optimal auf die LPIC-2-Zertifizierung (201-450) vor.",
+      "url": "https://heise-academy.de/digitale-kurse/lpic-2-linux-enterprise-zertifizierungsvorbereitung"
     },
     {
       "title": "Einstieg in die professionelle Entwicklung mit C++Die drei wichtigsten Programmier-Paradigmen für jeden C++-Entwickler",
@@ -731,35 +732,38 @@
       "url": "https://www.techstage.de/bestenliste/top-10-die-besten-smartwatches-mit-ekg-im-test/11kg4jj?wt_mc=intern.red.techstage.techstage_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Russland: Kreml sucht Kanonenfutter",
-      "teaser": "Offizielle haben im Herbst 2022 Nachteile einer Mobilmachung begriffen. Jetzt werben sie intensiv um Freiwillige. Was der Wegfall der Wagner-Truppe bedeutet.",
-      "url": "https://www.heise.de/tp/features/Russland-Kreml-sucht-Kanonenfutter-9209013.html"
-    },
-    {
       "title": "Elterngeld, Gesundheit und Pflege: Wo gestrichen wird und wo nicht",
       "teaser": "Die geplante Elterngeld-Streichung für Besserverdienende erhitzt die Gemüter. Über andere Haushaltsposten wird weniger gesprochen.",
       "url": "https://www.heise.de/tp/features/Elterngeld-Gesundheit-und-Pflege-Wo-gestrichen-wird-und-wo-nicht-9208202.html"
     },
     {
-      "title": "Warum gibt es keine deutschen Unternehmen, die nur E-Autos herstellen?",
-      "teaser": "Die Elektroauto-Verkäufe gehen weltweit steil nach oben. Auch in Deutschland. Aber Tesla und chinesische Hersteller hängen VW und Co. ab. Warum das so ist und wir aufs Elektropedal treten müssen.",
-      "url": "https://www.heise.de/tp/features/Warum-gibt-es-keine-deutschen-Unternehmen-die-nur-E-Autos-herstellen-9207186.html"
+      "title": "Verfassungsgericht stoppt Abstimmung zu Heizungsgesetz vorerst",
+      "teaser": "Rückschlag für die Ampel: Das umstrittene Gesetz darf in dieser Woche nicht beschlossen werden. Damit gab es dem Antrag eines CDU-Abgeordneten statt. Das sind die Gründe.",
+      "url": "https://www.heise.de/tp/features/Verfassungsgericht-stoppt-Abstimmung-zu-Heizungsgesetz-vorerst-9208389.html",
+      "image_title": "Umstrittenes Heizungsgesetz wurde vom Gericht gestoppt."
     },
     {
-      "title": "\"Elden Ring\" wird zum Mobilspiel umgebaut",
-      "teaser": "Einem Reuters-Bericht zufolge will Tencent aus dem Erfolg von \"Elden Ring\" Kasse schlagen – mit einem Mobilspiel. Dessen Entwicklung soll aber stocken.",
-      "url": "https://www.heise.de/news/Elden-Ring-wird-zum-Mobilspiel-9621577.html",
-      "image_title": "Screenshot aus Eldenring"
+      "title": "Wie der Verfassungsschutz in die Meinungsfreiheit eingreift",
+      "teaser": "Der deutsche Inlandsgeheimdienst wird zunehmend zum politischen Akteur. Macht sich Behördenchef Haldenwang einer strafbaren Nötigung im Amt schuldig? Und was hat das mit Orwells \"1984\" zu tun?",
+      "url": "https://www.heise.de/tp/features/Wie-der-Verfassungsschutz-in-die-Meinungsfreiheit-eingreift-9206508.html"
     },
     {
-      "title": "Strategiewechsel: Bringt Microsoft seine Xbox-Spiele auf die Playstation?",
-      "teaser": "\"Starfield\" und \"Indiana Jones\" für die Playstation? Die mögliche neue Xbox-Strategie befeuert Diskussionen. Microsoft will sich bald äußern.",
-      "url": "https://www.heise.de/news/Xbox-Spiele-auf-der-Playstation-Microsoft-plant-wohl-Strategiewechsel-9621122.html"
+      "title": "Sony: PS5-Verkaufszahlen enttäuschen",
+      "teaser": "Die Playstation 5 verkaufte sich im vergangenen Quartal nur noch schleppend. Die Verkaufszahlen sollen in den nächsten Jahren weiter zurückgehen, erwartet Sony.",
+      "url": "https://www.heise.de/news/Sony-PS5-Verkaufszahlen-enttaeuschen-9627706.html",
+      "image_title": "Person spielt mit Controller von einer Playstation"
     },
     {
-      "title": "WikiFlix: \"Wollte zeigen, welche Kleinode es gibt\"",
-      "teaser": "Prime Video und Netflix werden immer teurer. Die neue Plattform WikiFlix hat dagegen ein kostenloses Medienangebot – mit so manchem Klassiker.",
-      "url": "https://www.heise.de/hintergrund/Alternative-zu-Netflix-und-Co-WikiFlix-Initiator-will-Film-Kleinode-zeigen-9625568.html"
+      "title": "Details zu Developer Strap: Besseres virtuelles Mac-Display, Downgrade und mehr",
+      "teaser": "Der Vision Pro fehlt jeglicher physischer Anschluss nach draußen. Ein teures Spezialband für Entwickler rüstet diesen nach. So funktioniert es.",
+      "url": "https://www.heise.de/news/Details-zu-Developer-Strap-Besseres-virtuelles-Mac-Display-Downgrade-und-mehr-9622889.html",
+      "image_title": "Apple Developer Strap für die Vision Pro"
+    },
+    {
+      "title": "Prime Video: Auch Watch Party ist im Werbeabo nicht verfügbar",
+      "teaser": "Dolby Vision und Atmos funktionieren nicht, nun werden weitere Einschränkungen im Werbeabo von Prime Video bekannt: Die Funktion Watch Party wurde gestrichen.",
+      "url": "https://www.heise.de/news/Prime-Video-Auch-Watch-Party-ist-im-Werbeabo-nicht-verfuegbar-9626518.html",
+      "image_title": "Sankt-petersburg,,Russia,,March,1,,2018:,Amazon,Prime,Video,Application,Icon"
     },
     {
       "title": "[Werbung] E-Mail-Marketing: Das ändert sich bei Gmail und Yahoo!",
