@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-14T08:07:24",
+  "timestamp": "2024-02-14T09:01:18",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -52,6 +52,39 @@
       "image_title": ", Thorsten Hübner"
     },
     {
+      "title": "Patchday: Adobe schließt Schadcode-Lücken in Acrobat & Co.",
+      "teaser": "Für mehrere Adobe-Produkte sind wichtige Sicherheitsupdates erschienen. Damit haben die Entwickler unter anderem kritische Schwachstellen geschlossen.",
+      "url": "https://www.heise.de/news/Patchday-Adobe-schliesst-Schadcode-Luecken-in-Acrobat-Co-9627753.html"
+    },
+    {
+      "title": "Mastodon-Instanz queer.af nach Machtübernahme der Taliban jetzt verschwunden",
+      "teaser": "Eine als Schutzraum für queere Menschen gedachte Mastodon-Instanz ist jetzt offline gegangen, weil die Taliban die Kontrolle über die TLD übernommen haben.",
+      "url": "https://www.heise.de/news/Mastodon-Instanz-queer-af-nach-Machtuebernahme-der-Taliban-jetzt-verschwunden-9627690.html",
+      "image_title": "Mastodon-Logo"
+    },
+    {
+      "title": "Sicherheitslücke in Webmailer Roundcube wird angegriffen",
+      "teaser": "Angreifer attackieren eine Sicherheitslücke in dem Webmail-Programm Roundcube. Ein Update steht bereits länger bereit.",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-in-Webmailer-Roundcube-wird-angegriffen-9627763.html",
+      "image_title": "Brief"
+    },
+    {
+      "title": "Sourcecode-Editor Zed: Erfahrungen aus einem Jahr mit einem Underdog",
+      "teaser": "Das neue Werkzeug der Atom-Macher kann mit schlankem Design und einer hervorragenden Performance im Vergleich zu Visual Studio Code punkten.",
+      "url": "https://www.heise.de/hintergrund/Sourcecode-Editor-Zed-Erfahrungen-aus-einem-Jahr-mit-einem-Underdog-9623943.html",
+      "image_title": "Hände an Laptop-Tastatur mit unscharfem Code im Hintergrund"
+    },
+    {
+      "title": "Patchday: Attacken auf Windows - Sicherheitsfunktion SmartScreen umgangen",
+      "teaser": "Aufgrund von laufenden Attacken sollten Windows-Admins die aktuellen Sicherheitsupdates zügig installieren.",
+      "url": "https://www.heise.de/news/Patchday-Attacken-auf-Windows-Sicherheitsfunktion-SmartScreen-umgangen-9627694.html"
+    },
+    {
+      "title": "Neue Geräte im Home Assistant",
+      "teaser": "Home Assistant Version 2024.2 ist erschienen. Neben vielen rein kosmetischen Änderungen erlaubt das Update auch die Integration neuer Geräte.",
+      "url": "https://www.heise.de/news/Neue-Geraete-im-Home-Assistant-9627676.html"
+    },
+    {
       "title": "\"Polens Watergate\": Neue Regierung hat Beweise für umfangreiche Spyware-Kampagne",
       "teaser": "Nach dem Regierungswechsel in Polen könnte die Aufklärung der Spionage mit Pegasus an Fahrt aufnehmen. Donald Tusk hat eine \"sehr lange Liste\" mit Opfern.",
       "url": "https://www.heise.de/news/Polens-Watergate-Neue-Regierung-hat-Beweise-fuer-umfangreiche-Spyware-Kampagne-9627628.html",
@@ -102,39 +135,6 @@
       "teaser": "Über die Cloudplattfom MEDI:CUS sollen Patientendaten bereitstehen, wo sie benötigt werden. Dabei handele es sich laut BW nicht um eine Parallelentwicklung.",
       "url": "https://www.heise.de/news/MEDI-CUS-Baden-Wuerttemberg-startet-Cloud-Plattform-fuers-Gesundheitswesen-9627072.html",
       "image_title": "Arzt mit Stethoskop in der Hand"
-    },
-    {
-      "title": "Broadcom streicht munter weiter: Kostenloses VMware ESXi wird eingestampft",
-      "teaser": "Bislang ließ sich VMwares Virtualisierungstechnik einfach und gratis ausprobieren. Jetzt streicht Broadcom das ESXi-Angebot aus dem Programm.",
-      "url": "https://www.heise.de/news/Jetzt-offiziell-VMware-stampft-kostenlosen-vSphere-Hypervisor-ein-9627260.html"
-    },
-    {
-      "title": "Zukunft vieler Domains ungewiss: Was der Ausstieg von Freenom zur Folge hat",
-      "teaser": "Freenom zieht sich zurück. Der Schritt ist Folge eines Rechtsstreits mit Meta, in dem es um Cybergaunereien ging. Die Zukunft vieler Domains ist ungewiss.",
-      "url": "https://www.heise.de/news/Zukunft-vieler-Domains-ungewiss-Was-der-Ausstieg-von-Freenom-zur-Folge-hat-9627218.html",
-      "image_title": "Startseite von Freenom"
-    },
-    {
-      "title": "iMessage in Europa: iPhone-Nutzer bleiben unter sich",
-      "teaser": "iMessage muss keine andere Messaging-App mitspielen lassen: Die EU hat den Apple-Dienst doch nicht als Gatekeeper-Service eingestuft.",
-      "url": "https://www.heise.de/news/iMessage-EU-zwingt-Apple-nicht-zur-Oeffnung-9627148.html",
-      "image_title": "Messages-App auf dem iPhone"
-    },
-    {
-      "title": "Fedora Atomic Desktops: Alte Fedora-Varianten unter neuen Namen",
-      "teaser": "Das Fedora-Projekt sammelt ab sofort alle Desktop-Systeme mit schreibgeschütztem Root-Dateisystem unter dem neuen Namen Fedora Atomic Desktops.",
-      "url": "https://www.heise.de/news/Fedora-Atomic-Desktops-Alte-Fedora-Varianten-unter-neuen-Namen-9627094.html",
-      "image_title": "Screenshot vom Fedora Atomic Desktop"
-    },
-    {
-      "title": "GMX- und Web.de zeigen viele fehlerhafte Log-in-Versuche",
-      "teaser": "Angriffe auf Zugangsdaten nehmen zu. Derzeit fällt das etwa bei den Webmailern GMX oder Web.de verstärkt auf.",
-      "url": "https://www.heise.de/news/GMX-Web-de-Online-Dienste-Angriffe-auf-Zugangsdaten-nehmen-zu-9626994.html"
-    },
-    {
-      "title": "SAP: 13 neue Sicherheitswarnungen zum Februar-Patchday",
-      "teaser": "SAP verteilt Software-Updates, die Schwachstellen aus 13 Sicherheitsmitteilungen ausbessern. Eine Lücke ist kritisch.",
-      "url": "https://www.heise.de/news/SAP-patcht-13-Sicherheitsluecken-abgedichtet-9626592.html"
     },
     {
       "title": "Mehr Sichtweite – mehr Kunden",

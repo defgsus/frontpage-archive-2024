@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-14T08:07:27",
+  "timestamp": "2024-02-14T09:01:21",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,20 +32,36 @@
   ],
   "articles": [
     {
+      "title": "Patchday Adobe",
+      "url": "https://www.heise.de/news/Patchday-Adobe-schliesst-Schadcode-Luecken-in-Acrobat-Co-9627753.html"
+    },
+    {
+      "title": "Roundcube",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-in-Webmailer-Roundcube-wird-angegriffen-9627763.html"
+    },
+    {
+      "title": "Patchday Microsoft",
+      "url": "https://www.heise.de/news/Patchday-Attacken-auf-Windows-Sicherheitsfunktion-SmartScreen-umgangen-9627694.html"
+    },
+    {
       "title": "Bind9, dnsmasq, Unbound",
       "url": "https://www.heise.de/news/DNS-Server-Bind-und-Unbound-stolpern-ueber-Sicherheitsluecke-KeyTrap-9627276.html"
     },
     {
-      "title": "Patchday SAP",
-      "url": "https://www.heise.de/news/SAP-patcht-13-Sicherheitsluecken-abgedichtet-9626592.html"
+      "title": "Patchday: Adobe schließt Schadcode-Lücken in Acrobat & Co.",
+      "teaser": "Für mehrere Adobe-Produkte sind wichtige Sicherheitsupdates erschienen. Damit haben die Entwickler unter anderem kritische Schwachstellen geschlossen.",
+      "url": "https://www.heise.de/news/Patchday-Adobe-schliesst-Schadcode-Luecken-in-Acrobat-Co-9627753.html"
     },
     {
-      "title": "Dell Unity",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-Angreifer-koennen-Dell-Unity-kompromittieren-9626407.html"
+      "title": "Sicherheitslücke in Webmailer Roundcube wird angegriffen",
+      "teaser": "Angreifer attackieren eine Sicherheitslücke in dem Webmail-Programm Roundcube. Ein Update steht bereits länger bereit.",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-in-Webmailer-Roundcube-wird-angegriffen-9627763.html",
+      "image_title": "Brief"
     },
     {
-      "title": "QTS, QuTS hero, QuTScloud",
-      "url": "https://www.heise.de/news/Qnap-Sicherheitsluecken-NAS-lassen-sich-Befehle-aus-dem-Netz-unterschieben-9626319.html"
+      "title": "Patchday: Attacken auf Windows - Sicherheitsfunktion SmartScreen umgangen",
+      "teaser": "Aufgrund von laufenden Attacken sollten Windows-Admins die aktuellen Sicherheitsupdates zügig installieren.",
+      "url": "https://www.heise.de/news/Patchday-Attacken-auf-Windows-Sicherheitsfunktion-SmartScreen-umgangen-9627694.html"
     },
     {
       "title": "\"Polens Watergate\": Neue Regierung hat Beweise für umfangreiche Spyware-Kampagne",
@@ -138,22 +154,6 @@
       "title": "Elastic Stack: Pufferüberlauf ermöglicht Codeschmuggel in Kibana-Komponente",
       "teaser": "Der in Kibana integrierte Chromium-Browser verursachte das Problem nur auf bestimmten Plattformen. Updates und eine Übergangslösung stehen bereit.",
       "url": "https://www.heise.de/news/Elastic-Stack-Pufferueberlauf-ermoeglicht-Codeschmuggel-in-Kibana-Komponente-9624274.html"
-    },
-    {
-      "title": "US-Regierungsbehörden: IT seit Jahren durch chinesische Angreifer unterwandert",
-      "teaser": "Sicherheitsbehörden in den USA schlagen Alarm – Volt Typhoon ist bereits vor Jahren in kritische US-Infrastrukturen eingedrungen. Ursprung der Attacken: China.",
-      "url": "https://www.heise.de/news/US-Regierungsbehoerden-IT-seit-Jahren-durch-chinesische-Angreifer-unterwandert-9624187.html"
-    },
-    {
-      "title": "Bootloader-Lücke: Viele Linux-Distributionen sind gefährdet",
-      "teaser": "Im Bootloader shim, der Secure-Boot auch für nicht-Windows-Betriebssysteme erlaubt, klafft eine Sicherheitslücke.",
-      "url": "https://www.heise.de/news/Bootloader-Luecke-gefaehrdet-viele-Linux-Distributionen-9624201.html",
-      "image_title": "Security Alert"
-    },
-    {
-      "title": "Sicherheitsupdates: Authentifizierung von Ivanti Connect Secure & Co. defekt",
-      "teaser": "Angreifer können ohne Anmeldung auf Ivanti Connect Secure, Policy Secure und ZTA Gateway zugreifen.",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Authentifizierung-von-Ivanti-Connect-Secure-Co-defekt-9623653.html"
     },
     {
       "title": "\"Ändere Dein Passwort\"-Tag: Warum Ändern des Passworts kaum hilft",
