@@ -1,16 +1,10 @@
 {
-  "timestamp": "2024-02-14T07:01:05",
+  "timestamp": "2024-02-14T08:07:33",
   "url": "https://www.bild.de/auto/startseite/auto/auto-home-15478182.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/unified/wrapperMessagingWithoutDetection.js",
-      "id": null,
-      "text": null
-    },
     {
       "type": null,
       "src": "https://www.asadcdn.com/adlib/pages/bild.js",
@@ -25,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://ast.bild.de/bild-bild.de/prod/utag.js",
+      "src": "https://cmp2.bild.de/unified/wrapperMessagingWithoutDetection.js",
       "id": null,
       "text": null
     },
@@ -37,47 +31,29 @@
     },
     {
       "type": null,
-      "src": "https://a.bildstatic.de/runtime.4748fc2c.js",
+      "src": "https://ast.bild.de/bild-bild.de/prod/utag.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.51772b2b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/pages/_.8c274402.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.a479d3fa.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.992305e7.js",
+      "type": "module",
+      "src": "https://a.bildstatic.de/assets/entries/entry-server-routing.a09b1a4d.js",
       "id": null,
       "text": null
     }
   ],
   "articles": [
     {
-      "title": "Sechs Modelle im Check Diese Gebrauchten leben am längsten",
+      "title": "Fünf Stromer für 2024Auf diese E-Auto-Neuheiten lohnt es sich zu warten",
+      "url": "https://www.bild.de/bild-plus/auto/auto-news/auto-news/fuenf-stromer-2024-auf-diese-e-auto-neuheiten-lohnt-es-sich-zu-warten-87098398.bild.html"
+    },
+    {
+      "title": "Sechs Modelle im CheckDiese Gebrauchten leben am längsten",
       "url": "https://www.bild.de/bild-plus/auto/auto-news/auto-news/sechs-modelle-im-check-diese-gebrauchten-leben-am-laengsten-87081488.bild.html"
     },
     {
-      "title": "Park-Hammer für SUV und Kombi So berechnen Sie die Kosten für jedes Auto",
+      "title": "Park-Hammer für SUV und KombiSo berechnen Sie die Kosten für jedes Auto",
       "url": "https://www.bild.de/bild-plus/auto/auto-news/auto-news/park-hammer-so-berechnen-sich-die-kosten-fuer-jedes-auto-87116082.bild.html"
-    },
-    {
-      "title": "Ist der Oldie noch ein Goldie? Das ist die Achillesferse eines gebrauchten T4",
-      "url": "https://www.bild.de/bild-plus/auto/auto-news/auto-news/ist-der-oldie-noch-ein-goldie-die-achillesferse-eines-gebrauchten-t4-87095258.bild.html"
     }
   ]
 }

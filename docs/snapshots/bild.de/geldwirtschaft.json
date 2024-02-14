@@ -1,16 +1,10 @@
 {
-  "timestamp": "2024-02-14T07:01:15",
+  "timestamp": "2024-02-14T08:07:47",
   "url": "https://m.bild.de/geld/startseite/geld/geld-15683376.bildMobile.html",
   "response": {
     "status": 200
   },
   "scripts": [
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/unified/wrapperMessagingWithoutDetection.js",
-      "id": null,
-      "text": null
-    },
     {
       "type": null,
       "src": "https://www.asadcdn.com/adlib/pages/bild.js",
@@ -25,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://ast.bild.de/bild-bild.de/prod/utag.js",
+      "src": "https://cmp2.bild.de/unified/wrapperMessagingWithoutDetection.js",
       "id": null,
       "text": null
     },
@@ -37,47 +31,29 @@
     },
     {
       "type": null,
-      "src": "https://a.bildstatic.de/runtime.4748fc2c.js",
+      "src": "https://ast.bild.de/bild-bild.de/prod/utag.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.51772b2b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/pages/_.8c274402.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.a479d3fa.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.992305e7.js",
+      "type": "module",
+      "src": "https://a.bildstatic.de/assets/entries/entry-server-routing.a09b1a4d.js",
       "id": null,
       "text": null
     }
   ],
   "articles": [
     {
-      "title": "Ausgerechnet vor Valentinstag! Teuer-Schock bei Schnittblumen",
+      "title": "Aktie hebt abDeutscher Reise-Riese macht kräftig Kasse",
+      "url": "https://m.bild.de/reise/2024/wirtschaft/tui-aktie-hebt-ab-deutscher-reise-riese-macht-kraeftig-kasse-87139998.bildMobile.html"
+    },
+    {
+      "title": "Ausgerechnet vor Valentinstag!Teuer-Schock bei Schnittblumen",
       "url": "https://m.bild.de/politik/inland/politik-inland/teuer-schock-zum-valentinstag-preise-fuer-schnittblumen-explodieren-87139844.bildMobile.html"
     },
     {
-      "title": "Eine Milliarde Euro Alle Filialen neu! dm investiert Mega-Summe",
+      "title": "Eine Milliarde EuroAlle Filialen neu! dm investiert Mega-Summe",
       "url": "https://m.bild.de/news/inland/news-inland/drogerie-kette-dm-investiert-hammer-summe-alle-filialen-neu-87070150.bildMobile.html"
-    },
-    {
-      "title": "Deutsche Banken senken die Zinsen Ist mein Geld im Ausland besser aufgehoben?",
-      "url": "https://m.bild.de/bild-plus/politik/inland/politik-inland/banken-senken-die-zinsen-ist-mein-geld-im-ausland-besser-aufgehoben-87074826.bildMobile.html"
     }
   ]
 }

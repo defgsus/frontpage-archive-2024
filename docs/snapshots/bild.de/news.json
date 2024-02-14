@@ -1,16 +1,10 @@
 {
-  "timestamp": "2024-02-14T07:00:51",
+  "timestamp": "2024-02-14T08:07:21",
   "url": "https://www.bild.de/news/startseite/news/news-16804530.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/unified/wrapperMessagingWithoutDetection.js",
-      "id": null,
-      "text": null
-    },
     {
       "type": null,
       "src": "https://www.asadcdn.com/adlib/pages/bild.js",
@@ -25,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://ast.bild.de/bild-bild.de/prod/utag.js",
+      "src": "https://cmp2.bild.de/unified/wrapperMessagingWithoutDetection.js",
       "id": null,
       "text": null
     },
@@ -37,47 +31,29 @@
     },
     {
       "type": null,
-      "src": "https://a.bildstatic.de/runtime.4748fc2c.js",
+      "src": "https://ast.bild.de/bild-bild.de/prod/utag.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.51772b2b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/pages/_.8c274402.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.a479d3fa.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.992305e7.js",
+      "type": "module",
+      "src": "https://a.bildstatic.de/assets/entries/entry-server-routing.a09b1a4d.js",
       "id": null,
       "text": null
     }
   ],
   "articles": [
     {
-      "title": "Durch geheimen Terror-Tunnel Hamas-Chef flieht mit Familie",
-      "url": "https://www.bild.de/video/clip/news-ausland/durch-geheimen-terror-tunnel-hamas-chef-flieht-mit-familie-87153508.bild.html"
-    },
-    {
-      "title": "Mega-Stau auf dem Wasser Boote verstopfen Traumbucht",
-      "url": "https://www.bild.de/video/clip/news-ausland/chaos-statt-postkartenidyll-mega-stau-im-urlaubsparadies-87139772.bild.html"
-    },
-    {
-      "title": "Urlaubsparadies in Gefahr Ölpest durch Geisterschiff",
+      "title": "Rätsel um Geisterschiff Urlaubsparadies in Gefahr",
       "url": "https://www.bild.de/video/clip/news-ausland/behoerden-alarmiert-geisterschiff-verdreckt-naturparadies-87144030.bild.html"
+    },
+    {
+      "title": "Stolz des KönigreichsBriten entsenden Flugzeugträger",
+      "url": "https://www.bild.de/video/clip/news-ausland/stolz-der-briten-flugzeugtraeger-auf-weg-zu-nato-uebung-87142232.bild.html"
+    },
+    {
+      "title": "Statt PaketdienstLichterkette per ICE nach Hamburg geschickt",
+      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/berlin-lichterkette-per-ice-nach-hamburg-geschickt-87153950.bild.html"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-14T07:00:52",
+  "timestamp": "2024-02-14T08:07:24",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,20 +26,19 @@
   ],
   "articles": [
     {
+      "title": "Microsoft Defender: Der Erkennung mit Komma entgehen",
+      "teaser": "Ein IT-Forscher hat entdeckt, dass sich die Erkennung des Microsoft Defenders mit einem Komma austricksen lässt.",
+      "url": "https://www.heise.de/news/Microsoft-Defender-Der-Erkennung-mit-Komma-entgehen-9625770.html"
+    },
+    {
+      "title": "DNS-Server: Bind, dnsmasq und Unbound stolpern über Sicherheitslücke \"KeyTrap\"",
+      "teaser": "Mit einer präparierten DNS-Anfrage können Angreifer eine hohe Prozessorlast verursachen und den Dienst für legitime Nutzer so blockieren. Patches stehen bereit.",
+      "url": "https://www.heise.de/news/DNS-Server-Bind-und-Unbound-stolpern-ueber-Sicherheitsluecke-KeyTrap-9627276.html"
+    },
+    {
       "title": "PostgreSQL lässt sich beliebiges SQL unterjubeln",
       "teaser": "Eine hochriskante Schwachstelle in der Datenbank PostgreSQL ermöglicht Angreifern, beliebige SQL-Befehle einzuschleusen.",
       "url": "https://www.heise.de/news/PostgreSQL-laesst-sich-beliebiges-SQL-unterjubeln-9625343.html"
-    },
-    {
-      "title": "US-Regierungsbehörden: IT seit Jahren durch chinesische Angreifer unterwandert",
-      "teaser": "Sicherheitsbehörden in den USA schlagen Alarm – Volt Typhoon ist bereits vor Jahren in kritische US-Infrastrukturen eingedrungen. Ursprung der Attacken: China.",
-      "url": "https://www.heise.de/news/US-Regierungsbehoerden-IT-seit-Jahren-durch-chinesische-Angreifer-unterwandert-9624187.html"
-    },
-    {
-      "title": "Bitcoin knackt zum ersten Mal seit mehr als zwei Jahren die 50.000-Dollar-Marke",
-      "teaser": "Die Zulassung von Bitcoin-ETFs verschafft der Kryptowährung Rückenwind. Wie nachhaltig der ist, darüber gibt es verschiedene Ansichten.",
-      "url": "https://www.heise.de/news/Bitcoin-knackt-zum-ersten-Mal-seit-mehr-als-zwei-Jahren-die-50-000-Dollar-Marke-9626246.html",
-      "image_title": "Bull,Market,Trend.,Cryptocurrency.,Bitcoin,Stock,Growth.,Chart,Shows,A"
     },
     {
       "title": "Urheberrecht: Rechtliche Unsicherheit beim Coding mit KI",
@@ -51,6 +50,23 @@
       "teaser": "Das Argument Parser Argparse für Python ist ein Werkzeug, das bei der Parameterauswertung hilft, schnell Ergebnisse liefert und mit Ihrem Programm wächst.",
       "url": "https://www.heise.de/ratgeber/Programmieren-mit-Python-Kommandozeilenparameter-auswerten-mit-Python-Argparse-9622518.html",
       "image_title": ", Thorsten Hübner"
+    },
+    {
+      "title": "\"Polens Watergate\": Neue Regierung hat Beweise für umfangreiche Spyware-Kampagne",
+      "teaser": "Nach dem Regierungswechsel in Polen könnte die Aufklärung der Spionage mit Pegasus an Fahrt aufnehmen. Donald Tusk hat eine \"sehr lange Liste\" mit Opfern.",
+      "url": "https://www.heise.de/news/Polens-Watergate-Neue-Regierung-hat-Beweise-fuer-umfangreiche-Spyware-Kampagne-9627628.html",
+      "image_title": "Hände am Smartphone im Dunkeln"
+    },
+    {
+      "title": "InfiniBand oder Ethernet für den KI-Cluster? Cisco und Nvidia lassen die Wahl​",
+      "teaser": "KI nimmt auch bei Ciscos Hausmesse großen Raum ein. Gemeinsam mit Nvidia will der Anbieter für bessere Ausstattung von KI-Rechenzentren sorgen.",
+      "url": "https://www.heise.de/news/InfiniBand-oder-Ethernet-fuer-den-KI-Cluster-Cisco-und-Nvidia-lassen-die-Wahl-9627166.html"
+    },
+    {
+      "title": "iX-Workshop: Einführung in die SAP Business Technology Platform (BTP)",
+      "teaser": "Lernen Sie, wie Sie mit SAP BTP Anwendungen entwickeln, Schnittstellen integrieren und Geschäftsprozesse optimieren.",
+      "url": "https://www.heise.de/news/iX-Workshop-Einfuehrung-in-die-SAP-Business-Technology-Platform-BTP-9618939.html",
+      "image_title": "iX-Workshop: Einfuehrung SAP S/4 HANA"
     },
     {
       "title": "iPhone 16 Pro und Co.: Das steht in der Gerüchteküche auf der Speisekarte",
@@ -88,11 +104,6 @@
       "image_title": "Arzt mit Stethoskop in der Hand"
     },
     {
-      "title": "DNS-Server: Bind, dnsmasq und Unbound stolpern über Sicherheitslücke \"KeyTrap\"",
-      "teaser": "Mit einer präparierten DNS-Anfrage können Angreifer eine hohe Prozessorlast verursachen und den Dienst für legitime Nutzer so blockieren. Patches stehen bereit.",
-      "url": "https://www.heise.de/news/DNS-Server-Bind-und-Unbound-stolpern-ueber-Sicherheitsluecke-KeyTrap-9627276.html"
-    },
-    {
       "title": "Broadcom streicht munter weiter: Kostenloses VMware ESXi wird eingestampft",
       "teaser": "Bislang ließ sich VMwares Virtualisierungstechnik einfach und gratis ausprobieren. Jetzt streicht Broadcom das ESXi-Angebot aus dem Programm.",
       "url": "https://www.heise.de/news/Jetzt-offiziell-VMware-stampft-kostenlosen-vSphere-Hypervisor-ein-9627260.html"
@@ -124,17 +135,6 @@
       "title": "SAP: 13 neue Sicherheitswarnungen zum Februar-Patchday",
       "teaser": "SAP verteilt Software-Updates, die Schwachstellen aus 13 Sicherheitsmitteilungen ausbessern. Eine Lücke ist kritisch.",
       "url": "https://www.heise.de/news/SAP-patcht-13-Sicherheitsluecken-abgedichtet-9626592.html"
-    },
-    {
-      "title": "Bud-E: Laion arbeitet an Audio-KI mit Empathie",
-      "teaser": "Laion möchte einen KI-Audio-Assistenten auf den Markt bringen, der natürlicher und empathischer klingt – wie ein echter Freund.",
-      "url": "https://www.heise.de/news/Bud-E-Laion-arbeitet-an-Audio-KI-mit-Empathie-9626286.html"
-    },
-    {
-      "title": "heise Security Tour 2024 – Wissen schützt: Ab jetzt zum Blind-Bird-Tarif buchen",
-      "teaser": "Die Eintages-Konferenz hilft Security-Verantwortlichen dabei, ihre IT sicher zu halten. Mit spannenden Themen, Praxis-orientiert und Hersteller-unabhängig.",
-      "url": "https://www.heise.de/news/heise-Security-Tour-2024-Wissen-schuetzt-Ab-jetzt-zum-Blind-Bird-Tarif-buchen-9625852.html",
-      "image_title": "heise Security Tour 2023"
     },
     {
       "title": "Mehr Sichtweite – mehr Kunden",
