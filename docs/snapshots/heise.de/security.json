@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-15T11:00:53",
+  "timestamp": "2024-02-15T12:08:54",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Exchange Server",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-nutzen-kritische-Luecke-in-Microsoft-Exchange-Server-aus-9628861.html"
+    },
+    {
       "title": "AMD CPUs, embedded CPUs und FPGAs",
       "url": "https://www.heise.de/news/AMD-meldet-zahlreiche-Sicherheitsluecken-in-Prozessoren-9628343.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Patchday-Adobe-schliesst-Schadcode-Luecken-in-Acrobat-Co-9627753.html"
     },
     {
-      "title": "Roundcube",
-      "url": "https://www.heise.de/news/Sicherheitsluecke-in-Webmailer-Roundcube-wird-angegriffen-9627763.html"
+      "title": "Jetzt patchen! Angreifer nutzen kritische Lücke in Microsoft Exchange Server aus",
+      "teaser": "Derzeit verschaffen sich Angreifer Zugriffe auf Exchange Server, um diese zu kompromittieren. Sicherheitsupdates sind verfügbar.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-nutzen-kritische-Luecke-in-Microsoft-Exchange-Server-aus-9628861.html"
+    },
+    {
+      "title": "Ransomware: Angriffe auf kritische Infrastrukturen und Hörgerätekette Kind",
+      "teaser": "Kliniken weltweit, ein Pipelinebetreiber in Kanada und ein hessisches Wasserwerk gehören zu den Opfern der Erpressungstrojaner.",
+      "url": "https://www.heise.de/news/Ransomware-Angriffe-auf-kritische-Infrastrukturen-und-Hoergeraetekette-Kind-9628904.html",
+      "image_title": "Ransomware"
     },
     {
       "title": "iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
@@ -141,17 +152,6 @@
       "title": "ExpressVPN: DNS-Anfragen fälschlicherweise beim Provider gelandet",
       "teaser": "Eine Lücke in ExpressVPN führt dazu, dass einige DNS-Anfragen beim Provider statt VPN-Anbieter landen.",
       "url": "https://www.heise.de/news/ExpressVPN-hat-Leck-bei-DNS-Anfragen-9625543.html"
-    },
-    {
-      "title": "iX-Workshop: Cloud-native-Umgebungen aufbauen (10% Rabatt bis 20.02.)",
-      "teaser": "Bauen Sie eine Cloud-native-Umgebung mit hochverfügbarem Kubernetes-Cluster und automatischer Skalierung auf, inkl. Access Management, Monitoring und GitOps.",
-      "url": "https://www.heise.de/news/iX-Workshop-Aufbau-einer-Cloud-native-Umgebung-10-Rabatt-bis-20-02-9619041.html",
-      "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
-    },
-    {
-      "title": "PostgreSQL lässt sich beliebiges SQL unterjubeln",
-      "teaser": "Eine hochriskante Schwachstelle in der Datenbank PostgreSQL ermöglicht Angreifern, beliebige SQL-Befehle einzuschleusen.",
-      "url": "https://www.heise.de/news/PostgreSQL-laesst-sich-beliebiges-SQL-unterjubeln-9625343.html"
     },
     {
       "title": "\"Ändere Dein Passwort\"-Tag: Warum Ändern des Passworts kaum hilft",
