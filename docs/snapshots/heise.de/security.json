@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-15T15:00:52",
+  "timestamp": "2024-02-15T16:01:23",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Node.js",
+      "url": "https://www.heise.de/news/Node-js-Sicherheitsupdates-beheben-Codeschmuggel-und-Serverabstuerze-9629299.html"
+    },
+    {
       "title": "Exchange Server",
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-nutzen-kritische-Luecke-in-Microsoft-Exchange-Server-aus-9628861.html"
     },
@@ -44,8 +48,14 @@
       "url": "https://www.heise.de/news/Zoom-Kritische-Luecke-erlaubt-Angreifern-aus-dem-Netz-die-Rechteausweitung-9627817.html"
     },
     {
-      "title": "Patchday Adobe",
-      "url": "https://www.heise.de/news/Patchday-Adobe-schliesst-Schadcode-Luecken-in-Acrobat-Co-9627753.html"
+      "title": "Node.js: Sicherheitsupdates beheben Codeschmuggel und Serverabstürze",
+      "teaser": "Neben Problemen im Kern des Projekts aktualisiert das Node-Projekt auch einige externe Bibliotheken.",
+      "url": "https://www.heise.de/news/Node-js-Sicherheitsupdates-beheben-Codeschmuggel-und-Serverabstuerze-9629299.html"
+    },
+    {
+      "title": "BaFin warnt vor Renditeplaner",
+      "teaser": "Die Bundesanstalt für Finanzdienstleistungsaufsicht warnt vor Renditeplaner. Demnach biete das Unternehmen ohne Erlaubnis die Vermittlung von Geldanlagen an.",
+      "url": "https://www.heise.de/news/BaFin-warnt-vor-Renditeplaner-9629649.html"
     },
     {
       "title": "AMD-CPU-Sicherheitslücken: Erste BIOS-Updates stehen bereit",
@@ -143,16 +153,6 @@
       "title": "Cisco: Eine weitere Security-Schicht für die Zugangskontrolle",
       "teaser": "Im Rahmen der Cisco Live gab es einige Security-Ankündigungen. Vor allem die Zugangskontrolle will Cisco besser absichern, denn die würde nicht gut gepflegt.",
       "url": "https://www.heise.de/news/Cisco-Eine-weitere-Security-Schicht-fuer-die-Zugangskontrolle-9626449.html"
-    },
-    {
-      "title": "Qnap: Sicherheitslücken in Firmware erlauben Einschleusen von Befehlen",
-      "teaser": "Qnap warnt vor Sicherheitslücken im Betriebssystem QTS, QuTS hero und QuTScloud. Angreifer aus dem Netz können dadurch Befehle einschmuggeln.",
-      "url": "https://www.heise.de/news/Qnap-Sicherheitsluecken-NAS-lassen-sich-Befehle-aus-dem-Netz-unterschieben-9626319.html"
-    },
-    {
-      "title": "Nächste Woche: Der heise Security Crashkurs zum Schutz vor Ransomware",
-      "teaser": "Keine Angst vor Ransomware! Dieses unabhängige und praxisorientierte Webinar erklärt, wie Angreifer vorgehen und wie Sie ihre IT bestmöglich davor schützen.",
-      "url": "https://www.heise.de/news/Naechste-Woche-Der-heise-Security-Crashkurs-zum-Schutz-vor-Ransomware-9625123.html"
     },
     {
       "title": "\"Ändere Dein Passwort\"-Tag: Warum Ändern des Passworts kaum hilft",
