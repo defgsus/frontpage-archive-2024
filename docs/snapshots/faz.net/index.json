@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-17T16:00:45",
+  "timestamp": "2024-02-17T17:00:48",
   "url": "https://www.faz.net/aktuell/",
   "response": {
     "status": 200
@@ -74,6 +74,12 @@
     {
       "type": null,
       "src": "https://www.faz.net/dist/scripts/main_faz-gdpr.cf1eda033f6f5f1a8d3e.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://dynamic.faz.net/red/pym/pym.min.js",
       "id": null,
       "text": null
     },
@@ -164,14 +170,20 @@
   ],
   "articles": [
     {
+      "title": "Münchner Sicherheitskonferenz : Eine Mischung aus Wut und Verzweiflung",
+      "url": "https://www.faz.net/aktuell/politik/sicherheitskonferenz/wut-und-verzweiflung-auf-der-muenchner-sicherheitskonferenz-19527090.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Bundeskanzler Olaf Scholz am Samstag auf der Münchner Sicherheitskonferenz"
+    },
+    {
+      "title": "Münchner Sicherheitskonferenz : Die Europäer reden den Amerikanern ins Gewissen",
+      "url": "https://www.faz.net/aktuell/politik/sicherheitskonferenz/msc-stoltenberg-warnt-vor-raum-fuer-fehlkalkulationen-19526732.html"
+    },
+    {
       "title": "Urteil im Betrugsprozess : Das Ende der Trump-Legende",
       "url": "https://www.faz.net/aktuell/wirtschaft/urteil-im-betrugsprozess-das-ende-der-trump-legende-19526960.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Donald Trump äußert sich von seinem Mar-a-Lago-Ressort in Florida."
-    },
-    {
-      "title": "Betrugsprozess : Donald Trump soll 355 Millionen Dollar zahlen",
-      "url": "https://www.faz.net/aktuell/wirtschaft/donald-trump-muss-355-millionen-dollar-im-betrugsprozess-zahlen-19526224.html"
     },
     {
       "title": "VW-Betriebsratschefin Cavallo : „Man kann den Wechsel zum E-Auto nicht einfach nur anordnen“",
@@ -180,15 +192,15 @@
       "image_title": "Daniela Cavallo, 48, ist seit 2021 Konzern- und Gesamtbetriebsratsvorsitzende von Volkswagen."
     },
     {
-      "title": "Russland : Nawalnyj-Team wirft Behörden vor, die Übergabe des Leichnams zu verhindern",
-      "url": "https://www.faz.net/aktuell/politik/ausland/russland-team-von-alexej-nawalnyj-bestaetigt-tod-von-kremlgegner-19526391/entschlossener-protest-als-19381074.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Blumen und Bilder liegen im Gedenken an Alexej Nawalnyj am Denkmal für die Opfer politischer Repressionen am Woskresenskaja-Ufer in Sankt Petersburg."
-    },
-    {
       "title": "Open AI und Sora : Auf diese KI ist die Welt noch nicht vorbereitet",
       "teaser": "Ein Kommentar von",
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/open-ai-und-sora-auf-diese-ki-ist-die-welt-noch-nicht-vorbereitet-19525261.html",
+      "image_url": "https://www.faz.net/img/leer.gif"
+    },
+    {
+      "title": "Münchner Sicherheitskonferenz : Eine Mischung aus Wut und Verzweiflung",
+      "teaser": "Ein Kommentar von",
+      "url": "https://www.faz.net/aktuell/politik/sicherheitskonferenz/wut-und-verzweiflung-auf-der-muenchner-sicherheitskonferenz-19527090.html",
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
@@ -241,11 +253,10 @@
       "image_title": "Jan Schiefenhövel (höv.)"
     },
     {
-      "title": "Protest im Hamburger Bahnhof : Logik der Erregung",
-      "teaser": "Ein Kommentar von",
-      "url": "https://www.faz.net/aktuell/feuilleton/debatten/logik-der-erregung-wogegen-richtete-sich-der-protest-im-hamburger-bahnhof-19523649.html",
+      "title": "Russland : Nawalnyj-Team wirft Behörden vor, die Übergabe des Leichnams zu verhindern",
+      "url": "https://www.faz.net/aktuell/politik/ausland/russland-team-von-alexej-nawalnyj-bestaetigt-tod-von-kremlgegner-19526391/entschlossener-protest-als-19381074.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Jürgen Kaube (kau)"
+      "image_title": "Blumen und Bilder liegen im Gedenken an Alexej Nawalnyj am Denkmal für die Opfer politischer Repressionen am Woskresenskaja-Ufer in Sankt Petersburg."
     },
     {
       "title": "Schriftstellerin diffamiert : Drohungen auf Literaturfestival in Pakistan",
@@ -254,15 +265,10 @@
       "image_title": "Die Schirftstellerin Ronya Othmann"
     },
     {
-      "title": "Bundesliga im Liveticker : Leverkusen führt – Platzverweis für Stuttgart",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fussball-bundesliga-heute-liveticker-mit-spielplan-tabelle-und-teams-18727822.html",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "DFL-Investorensuche : Fußball ist ein schlechtes Geschäft",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/dfl-sucht-investor-fussball-ist-ein-schlechtes-geschaeft-19524959.html",
+      "title": "Kindersachen zum mieten : Bobbycar mit Leasingrate",
+      "url": "https://www.faz.net/aktuell/stil/spielzeug-und-klamotten-fuer-kinder-mieten-das-sind-die-wichtigsten-portale-19508437.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Fanproteste in Dortmund gegen die geplante Beteiligung eines Finanzinvestors"
+      "image_title": "Push cars for children, parking lot. Parade von Rutschautos für Kinder."
     },
     {
       "title": "Münchner Sicherheitskonferenz : „Wie lange erlaubt die Welt Russland noch so zu handeln?“",
@@ -271,16 +277,22 @@
       "image_title": "Wolodymyr Selenskyj spricht auf der 60. Münchner Sicherheitskonferenz."
     },
     {
-      "title": "Münchner Sicherheitskonferenz : Die Europäer reden den Amerikanern ins Gewissen",
-      "url": "https://www.faz.net/aktuell/politik/sicherheitskonferenz/msc-stoltenberg-will-nicht-ueber-europaeische-atombombe-reden-19526732.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Im Bayerischen Hof: EU-Kommissoinschefin von der Leyen und die Ministerpräsident von Norwegen und den Niederlanden, Jonas Gahrn Store und Mark Rutte"
-    },
-    {
       "title": "Münchener Sicherheitskonferenz : „Trump wirkt für eine neue Präsidentschaft besser vorbereitet“",
       "url": "https://www.faz.net/aktuell/wirtschaft/msc-peter-wittig-fuerchtet-zweite-amtszeit-trumps-19526602.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Der frühere US-Präsident Donald Trump hat Chancen, wieder ins Weiße Haus einzuziehen."
+    },
+    {
+      "title": "Münchner Sicherheitskonferenz : Wie die Luftwaffe der Zukunft aussieht",
+      "url": "https://www.faz.net/aktuell/politik/sicherheitskonferenz/muenchner-sicherheitskonferenz-wie-die-luftwaffe-der-zukunft-aussieht-19525837.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Ein deutscher Eurofighter steht am Fliegerhorst Neuburg bereit zum Start."
+    },
+    {
+      "title": "Liveblog zum Krieg in Nahost : Ungarn verhindert gemeinsamen Appell der EU-Staaten an Israel",
+      "url": "https://www.faz.net/aktuell/politik/ausland/liveticker-zum-israel-krieg-ungarn-verhindert-gemeinsamen-appell-der-eu-staaten-an-israel-19226976.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Nach der Weigerung Ungarns, die gemeinsame Erklärung zu akzeptieren, konnte EU-Außenbeauftragter Josep Borrell sie nur in seinem Namen abgeben."
     },
     {
       "title": "Ukraine-Liveblog : Kiew meldet Abschuss russischer Kampfflugzeuge",
@@ -301,16 +313,10 @@
       "image_title": "Auf dem Weg zur Parteigründung: Maaßen und seien Mitstreiter"
     },
     {
-      "title": "F.A.Z. exklusiv : Innenminister der Länder gegen Legalisierung von Cannabis",
-      "url": "https://www.faz.net/aktuell/politik/inland/innenminister-der-laender-gegen-legalisierung-von-cannabis-19526822.html",
+      "title": "Garten in England : Ein Reich von überbordender Schönheit",
+      "url": "https://www.faz.net/aktuell/wirtschaft/wohnen/town-place-garten-in-england-ein-reich-von-ueberbordender-schoenheit-19508281.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Eine Frau hält einen Joint in der Hand (Symbolbild)"
-    },
-    {
-      "title": "Biathletin Sophia Schneider : „Ich war gedanklich schon im Bus nach Hause“",
-      "url": "https://www.faz.net/aktuell/sport/wintersport/biathlon-wm-deutsche-biathletinnen-holen-bronze-in-wm-staffel-19527024.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Schnell ins Ziel: Vanessa Voigt (rechts) übergibt an Sophia Schneider."
+      "image_title": "Hier liegt was in der Luft: Mit dem Einzug 1992 hat das Ehepaar McGrath auch einen eigenen Kräutergarten angelegt."
     },
     {
       "title": "Bestattung von Haustieren : Wie ein totes Familienmitglied",
@@ -319,12 +325,24 @@
       "image_title": "Abschiednahme: Chanel wird auf einem Tierfriedhof beigesetzt."
     },
     {
-      "title": "Viktoria Preußen Frankfurt : „Das hat extreme Spuren hinterlassen“",
-      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurt-wie-viktoria-preussen-mit-dem-tod-eines-nachwuchsspielers-umgeht-19522387.html"
+      "title": "2:1 in Heidenheim : Leverkusen setzt die Bayern unter großen Druck",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/bayer-leverkusen-siegt-bei-1-fc-heidenheim-in-fussball-bundesliga-19417352.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Bayer Leverkusen freut sich über die nächsten drei Punkte."
     },
     {
-      "title": "Berater des Vizekanzlers : Robert Habeck holt sich jetzt von ihm neuen Rat",
-      "url": "https://www.faz.net/aktuell/wirtschaft/robert-habeck-holt-sich-neuen-rat-von-simon-jaeger-19524960.html"
+      "title": "1:1 in Wolfsburg : Dortmunder Muskelspiele sind nicht stark genug",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/borussia-dortmund-nur-1-1-bei-vfl-wolfsburg-in-fussball-bundesliga-19417346.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Niclas Füllkrug erzielte den Dortmunder Führungstreffer."
+    },
+    {
+      "title": "Biathletin Sophia Schneider : „Ich saß gedanklich schon im Bus nach Hause“",
+      "url": "https://www.faz.net/aktuell/sport/wintersport/biathlon-wm-deutsche-biathletinnen-holen-bronze-in-wm-staffel-19527024.html"
+    },
+    {
+      "title": "Viktoria Preußen Frankfurt : „Das hat extreme Spuren hinterlassen“",
+      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurt-wie-viktoria-preussen-mit-dem-tod-eines-nachwuchsspielers-umgeht-19522387.html"
     },
     {
       "title": "Nachrichten bei ARD und ZDF : Leicht nach links geneigt",
@@ -359,21 +377,22 @@
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
+      "title": "DFL-Investorensuche : Fußball ist ein schlechtes Geschäft",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/dfl-sucht-investor-fussball-ist-ein-schlechtes-geschaeft-19524959.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Fanproteste in Dortmund gegen die geplante Beteiligung eines Finanzinvestors"
+    },
+    {
+      "title": "F.A.Z. exklusiv : Innenminister der Länder gegen Legalisierung von Cannabis",
+      "url": "https://www.faz.net/aktuell/politik/inland/innenminister-der-laender-gegen-legalisierung-von-cannabis-19526822.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Eine Frau hält einen Joint in der Hand (Symbolbild)"
+    },
+    {
       "title": "Armin Laschet im Interview : „Wer die AfD wählt, wählt den Abstieg“",
       "url": "https://www.faz.net/aktuell/politik/inland/armin-laschet-im-interview-wer-die-afd-waehlt-waehlt-den-abstieg-19524753.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Der CDU-Bundestagsabgeordnete und frühere Parteivorsitzende Armin Laschet am Aachener Dom."
-    },
-    {
-      "title": "Verhängnis SUV : Ist er zu stark, bist du zu schwach",
-      "url": "https://www.faz.net/aktuell/feuilleton/debatten/deutschland-in-angst-kommt-der-parkaufschlag-fuer-suvs-19522929.html",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Überlaufener Notdienst : Wohin mit dem kranken Kind am Wochenende?",
-      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/kinderaerztlicher-bereitschaftsdienst-stoesst-am-wochenende-an-seine-grenzen-19517180.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Einmal die Zunge ganz weit raus: Am Wochenende kümmert sich der Bereitschaftsdienst um kranke Kinder."
     },
     {
       "title": "Mit Hilfe deutscher Behörden : Russisches Spionagenetz ausgeschaltet",
@@ -400,6 +419,12 @@
       "image_title": "Ein ukrainischer Soldat mit einem Drohnenabwehrgeschütz im April 2023 in einemn Graben Nahe Awdijiwka"
     },
     {
+      "title": "1:0 gegen FC Augsburg : Mainz 05 siegt beim Debüt von Trainer Henriksen",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fussball-bundesliga-mainz-schlaegt-augsburg-1-0-19417348.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Lust auf gute Stimmung: Mainz-Coach Bo Henriksen animiert die Fans vor dem Spiel."
+    },
+    {
       "title": "Hürdensprinterin Schneider : Angriff auf die Zahl vor dem Komma",
       "url": "https://www.faz.net/aktuell/sport/mehr-sport/huerdenlauf-rosina-schneider-startet-bei-hallen-dm-in-leipzig-19524286.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -416,12 +441,6 @@
       "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/dfl-investorendeal-das-grosse-dilemma-des-deutschen-profifussballs-19524682.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Wackelt jetzt sogar 50+1? Das Investorenprojekt hat Dinge in Bewegung gebracht, mit denen niemand gerechnet hat."
-    },
-    {
-      "title": "Der neue Mainzer Trainer : Jürgen Klopp auf Dänisch",
-      "url": "https://www.faz.net/aktuell/sport/rhein-main-sport/mainz-05/juergen-klopp-auf-daenisch-mainz-05-trainer-bo-henriksen-im-portrait-19524331.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Däne mit Power: Bo Henriksen"
     },
     {
       "title": "Beispiel Frankreich : Kernenergie ist eine zuverlässige Stromquelle",
@@ -662,6 +681,12 @@
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
+      "title": "Frankfurter Norden : Polizei weiß nichts von Bandenkriminalität in Nieder-Eschbach",
+      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/nieder-eschbach-laut-polizei-weder-bandenkriminalitaet-noch-drogenszene-19527138.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Luftaufnahme vom Frankfurter Stadtteil Nieder-Eschbach, wo sich Hoch- und Reihenhäuser abwechseln"
+    },
+    {
       "title": "Frankfurter Gesichter : Jutta Heidt-Hansel zieht Frankfurt an",
       "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurter-gesichter/jutta-heidt-hansel-zieht-mit-ihrer-boutique-fifty-eight-s-frankfurt-an-19525536.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -674,16 +699,10 @@
       "image_title": "Aus zwei mach vier: An der Station Frankfurt-Eschersheim – dem engsten Abschnitt der Ausbaustrecke – waren die Arbeiten besonders herausfordernd."
     },
     {
-      "title": "Skyline-Blick : Zugausfälle im Nahverkehr +++ LKA warnt vor Volksverhetzung als Jugendtrend",
-      "url": "https://www.faz.net/aktuell/rhein-main/bauern-gegen-bauern-demo-in-buedingen-faz-19267109.html",
+      "title": "Überlaufener Notdienst : Wohin mit dem kranken Kind am Wochenende?",
+      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/kinderaerztlicher-bereitschaftsdienst-stoesst-am-wochenende-an-seine-grenzen-19517180.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Wahrzeichen der Region: Die Frankfurter Skyline im Morgengrauen."
-    },
-    {
-      "title": "Streikwelle in Deutschland : Wieso die Streiks kritisiert werden dürfen",
-      "url": "https://www.faz.net/aktuell/rhein-main/streikwelle-warum-die-gewerkschaften-die-gesellschaft-zu-verlieren-drohen-19509988.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Blockade der Landesgrenze: Streikende auf der Rheinbrücke zwischen Wiesbaden (Hessen) und Mainz (Rheinland-Pfalz)"
+      "image_title": "Einmal die Zunge ganz weit raus: Am Wochenende kümmert sich der Bereitschaftsdienst um kranke Kinder."
     },
     {
       "title": "F.A.Z.- Bildungsmarkt : Bachelor-Studiengang: Psychologie",
