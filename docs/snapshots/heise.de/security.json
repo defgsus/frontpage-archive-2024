@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-19T14:01:01",
+  "timestamp": "2024-02-19T15:00:55",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Solarwinds ARM + Platform (Orion)",
+      "url": "https://www.heise.de/news/Solarwinds-Updates-schliessen-Codeschmuggel-Luecken-9632541.html"
+    },
+    {
       "title": "Eset",
       "url": "https://www.heise.de/news/Eset-Echtzeitscanner-ermoeglicht-Loeschen-mit-erhoehten-Rechten-9632281.html"
     },
@@ -44,19 +48,15 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-nutzen-kritische-Luecke-in-Microsoft-Exchange-Server-aus-9628861.html"
     },
     {
-      "title": "AMD CPUs, embedded CPUs und FPGAs",
-      "url": "https://www.heise.de/news/AMD-meldet-zahlreiche-Sicherheitsluecken-in-Prozessoren-9628343.html"
+      "title": "Solarwinds-Updates schließen Codeschmuggel-Lücken",
+      "teaser": "Solarwinds schließt Sicherheitslücken in Access Rights Manager und Platform (Orion). Angreifer können Schadcode einschleusen.",
+      "url": "https://www.heise.de/news/Solarwinds-Updates-schliessen-Codeschmuggel-Luecken-9632541.html"
     },
     {
-      "title": "Kritische eID-Lücke: Was davon zu halten ist",
-      "teaser": "Eine Lücke gefährdet Nutzer der Ausweisfunktion des E-Persos. Was bedeutet das in der Praxis? Eine Einschätzung von Jürgen Schmidt, Leiter heise Security.",
-      "url": "https://www.heise.de/hintergrund/eID-und-AusweisApp-kritische-Sicherheitsluecke-aber-auch-gefaehrlich-9632374.html"
-    },
-    {
-      "title": "Eset: Schwachstelle in Hintergrundscanner löscht beliebige Dateien",
-      "teaser": "Der Hintergrundwächter der Eset-Virenscanner enthält eine Schwachstelle, durch die bösartige Akteure Dateien mit Systemrechten löschen können.",
-      "url": "https://www.heise.de/news/Eset-Echtzeitscanner-ermoeglicht-Loeschen-mit-erhoehten-Rechten-9632281.html",
-      "image_title": "Ein Monster hämmert auf einen Virenscanner in Pacman-Form, der Viren am laufenden Band frisst."
+      "title": "Verfassungsschutz und Südkorea warnen: Nordkorea attackiert Rüstungsunternehmen",
+      "teaser": "Vor allem die bekannte Lazarus-Gruppe, aber auch andere Akteure aus dem kommunistischen Norden Koreas spionieren gezielt Militärgeheimnisse aus.",
+      "url": "https://www.heise.de/news/Verfassungsschutz-und-Suedkorea-warnen-Nordkorea-attackiert-Ruestungsunternehmen-9632155.html",
+      "image_title": "Flag,Of,North,Korea"
     },
     {
       "title": "Cyberangriff auf PSI Software: Kunden wohl nicht betroffen, Ermittlungen laufen",
@@ -146,6 +146,12 @@
       "url": "https://www.heise.de/news/F5-behebt-20-Sicherheitsluecken-in-Big-IP-Loadbalancer-WAF-und-nginx-9629983.html"
     },
     {
+      "title": "Online-Ausweisfunktion: Kritische Schwachstelle erlaubt Übernahme der Identität",
+      "teaser": "Die Umsetzung der Online-Ausweisfunktion auf Smartphones reißt eine immense Lücke in das Identifizierungsverfahren. Wirklich schließen lässt sich die nicht.",
+      "url": "https://www.heise.de/news/AusweisApp-Kritische-Schwachstelle-erlaubt-Uebernahme-fremder-Identitaeten-9630452.html",
+      "image_title": "Frau hält AusweisApp in die Kamera"
+    },
+    {
       "title": "Authenticator: Twilio beerdigt Desktop-Variante von Authy",
       "teaser": "Dass Authy ab März nur noch als mobile App verfügbar ist, verärgert End-User und Developer, die die Desktop-Variante als Alleinstellungsmerkmal genutzt hatten.",
       "url": "https://www.heise.de/news/Authenticator-Twilio-beerdigt-Desktop-Variante-von-Authy-9630250.html",
@@ -155,11 +161,6 @@
       "title": "Node.js: Sicherheitsupdates beheben Codeschmuggel und Serverabstürze",
       "teaser": "Neben Problemen im Kern des Projekts aktualisiert das Node-Projekt auch einige externe Bibliotheken.",
       "url": "https://www.heise.de/news/Node-js-Sicherheitsupdates-beheben-Codeschmuggel-und-Serverabstuerze-9629299.html"
-    },
-    {
-      "title": "BaFin warnt vor Renditeplaner, zinsvergleich24 und Zinsfox",
-      "teaser": "Die Bundesanstalt für Finanzdienstleistungsaufsicht warnt vor Renditeplaner. Demnach biete das Unternehmen ohne Erlaubnis die Vermittlung von Geldanlagen an.",
-      "url": "https://www.heise.de/news/BaFin-warnt-vor-Renditeplaner-9629649.html"
     },
     {
       "title": "Kritische eID-Lücke: Was davon zu halten ist",
