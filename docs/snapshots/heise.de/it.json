@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-19T11:00:41",
+  "timestamp": "2024-02-19T12:09:24",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,21 +26,27 @@
   ],
   "articles": [
     {
+      "title": "Gegen die Apokalypse: Wissenschaftler fordern \"Kill-Switch\" für KI",
+      "teaser": "Ein Forscherteam empfiehlt, Künstliche Intelligenz über Hardware wie Chips zu regulieren und diese mit einem \"Notausschalter\" zu versehen. Es gebe aber Risiken.",
+      "url": "https://www.heise.de/news/Gegen-die-Apokalypse-Wissenschaftler-fordern-Kill-Switch-fuer-KI-9631689.html",
+      "image_title": "ChatGPT Symbolbild"
+    },
+    {
+      "title": "Der lange Abschied deutscher Behörden vom Faxgerät",
+      "teaser": "Bayerns Digitalminister \"hat das Faxen dicke\", und legt einen groben Zeitplan für das Ende der Geräte in Behörden vor. Auch andere Bundesländer arbeiten daran.",
+      "url": "https://www.heise.de/news/Der-lange-Abschied-deutscher-Behoerden-vom-Faxgeraet-9631731.html",
+      "image_title": "Altes Faxgerät"
+    },
+    {
       "title": "Mozilla schneidet Zöpfe ab: Mehr Konzentration auf Firefox",
       "teaser": "Weniger VPN, Relay und Hubs, mehr Firefox und KI: Mozilla stellt sich neu auf. Vor allem die Bezahldienste fallen weg. Mitarbeiter müssen gehen.",
       "url": "https://www.heise.de/news/Mozilla-schneidet-Zoepfe-ab-Mehr-Konzentration-auf-Firefox-9628054.html"
     },
     {
-      "title": "\"Polens Watergate\": Neue Regierung hat Beweise für umfangreiche Spyware-Kampagne",
-      "teaser": "Nach dem Regierungswechsel in Polen könnte die Aufklärung der Spionage mit Pegasus an Fahrt aufnehmen. Donald Tusk hat eine \"sehr lange Liste\" mit Opfern.",
-      "url": "https://www.heise.de/news/Polens-Watergate-Neue-Regierung-hat-Beweise-fuer-umfangreiche-Spyware-Kampagne-9627628.html",
-      "image_title": "Hände am Smartphone im Dunkeln"
-    },
-    {
-      "title": "Zukunft vieler Domains ungewiss: Was der Ausstieg von Freenom zur Folge hat",
-      "teaser": "Freenom zieht sich zurück. Der Schritt ist Folge eines Rechtsstreits mit Meta, in dem es um Cybergaunereien ging. Die Zukunft vieler Domains ist ungewiss.",
-      "url": "https://www.heise.de/news/Zukunft-vieler-Domains-ungewiss-Was-der-Ausstieg-von-Freenom-zur-Folge-hat-9627218.html",
-      "image_title": "Startseite von Freenom"
+      "title": "TLS-Verbindungen mit HTTP Toolkit analysieren",
+      "teaser": "HTTP Toolkit bereitet den verschlüsselten Netzwerkverkehr von Rechnern und Smartphones zur Analyse auf. Dabei ist es besonders einsteigerfreundlich.",
+      "url": "https://www.heise.de/tests/TLS-Verbindungen-mit-HTTP-Toolkit-analysieren-9627930.html",
+      "image_title": ","
     },
     {
       "title": "Ansible für Windows: Wie Sie Control Node einrichten",
@@ -48,9 +54,26 @@
       "url": "https://www.heise.de/ratgeber/Ansible-fuer-Windows-Wie-Sie-Control-Node-einrichten-9626540.html"
     },
     {
-      "title": "Python-Coding leicht gemacht: Mu Editor für Einsteiger",
-      "teaser": "Mu ist ein übersichtlicher Python-Editor, der gerade für Coding-Anfänger interessant ist. Hinter den großen Buttons des Editors warten nützliche Funktionen.",
-      "url": "https://www.heise.de/ratgeber/Editor-fuer-Anfaenger-Mit-Mu-einfach-Python-Code-schreiben-9629733.html"
+      "title": "DORA: Neue Regulierung für mehr Resilienz in der Finanzbranche",
+      "teaser": "Die Finanzbranche ist streng reguliert. Gegenüber dem Digital Operational Resilience Act (DORA) wirken die Anforderungen von NIS2 jedoch geradezu harmlos.",
+      "url": "https://www.heise.de/hintergrund/DORA-Neue-Regulierung-fuer-mehr-Resilienz-in-der-Finanzbranche-9624238.html"
+    },
+    {
+      "title": "Intel: Tausende SPEC-Int-Benchmarks wegen Schummelei ungültig",
+      "teaser": "Intel hat seine Sapphire-Rapids-CPUs mit einer Compiler-Optimierung im SPECint-Benchmark beschleunigt. In Realanwendungen bringt diese Optimierung wenig.",
+      "url": "https://www.heise.de/news/Intel-Tausende-SPEC-Int-Benchmarks-wegen-Schummelei-ungueltig-9632263.html",
+      "image_title": "Sapphire-Rapids-Prozessor ohne Heatspreader"
+    },
+    {
+      "title": "Apple Vision Pro im privaten und beruflichen Einsatz | TNBT–Podcast",
+      "teaser": "Freizeit plus Business: Wie passt die Vision Pro in unseren Alltag und wie können Unternehmen das Headset einsetzen? Darum geht es in Episode 22.",
+      "url": "https://www.heise.de/news/Apple-Vision-Pro-im-privaten-und-beruflichen-Einsatz-TNBT-Podcast-9632277.html",
+      "image_title": "Apple Vision Pro im privaten und beruflichen Einsatz TNBT–Podcast"
+    },
+    {
+      "title": "Tickets für Kurzentschlossene: Kanban Day am 26. Februar",
+      "teaser": "In einer Woche findet der Kanban Day statt. Am 26. Februar zeigen Expertinnen und Experten, wie sich die agile Methode zielführend einsetzen lässt.",
+      "url": "https://www.heise.de/news/Tickets-fuer-Kurzentschlossene-Kanban-Day-am-26-Februar-9630922.html"
     },
     {
       "title": "KI für Xcode und Spotlight: Das testet Apple gerade",
@@ -116,30 +139,6 @@
       "teaser": "Lernen Sie, was SAP S/4HANA vom Vorgänger SAP ECC unterscheidet und wie Sie mit S/4HANA die eigenen ERP-Geschäftsprozesse abbilden. (Last Call)",
       "url": "https://www.heise.de/news/iX-Workshop-Mit-S-4HANA-die-eigenen-ERP-Geschaeftsprozesse-abbilden-9627128.html",
       "image_title": "iX-Workshop: Einfuehrung SAP S/4 HANA"
-    },
-    {
-      "title": "Gegen die Apokalypse: Wissenschaftler fordern \"Kill-Switch\" für KI",
-      "teaser": "Ein Forscherteam empfiehlt, Künstliche Intelligenz über Hardware wie Chips zu regulieren und diese mit einem \"Notausschalter\" zu versehen. Es gebe aber Risiken.",
-      "url": "https://www.heise.de/news/Gegen-die-Apokalypse-Wissenschaftler-fordern-Kill-Switch-fuer-KI-9631689.html",
-      "image_title": "ChatGPT Symbolbild"
-    },
-    {
-      "title": "iX-Praxis-Workshop: Cloud-native Softwareentwicklung mit Kubernetes und Docker",
-      "teaser": "Cloud-native Anwendungsentwicklung – der schnelle Praxiseinstieg am Beispiel von Docker und der produktionsreifen Orchestrierung mit Kubernetes (Last Call)",
-      "url": "https://www.heise.de/news/iX-Workshop-Docker-und-Kubernetes-fuer-Cloud-native-Softwareentwicklung-9624358.html",
-      "image_title": "iX-Workshop Docker und Kubernetes für die Cloud-native Softwareentwicklung"
-    },
-    {
-      "title": "Top 10: Die besten Saugroboter im Test – Die Elite wäscht mit heißem Wasser",
-      "teaser": "TechStage hat schon eine ganze Reihe unterschiedlichster Saugroboter getestet. Wer dabei am besten abgeschnitten hat, zeigen wir in dieser Bestenliste.",
-      "url": "https://www.techstage.de/bestenliste/top-10-die-besten-saugroboter-im-test-die-elite-waescht-mit-heissem-wasser/20gptmq?wt_mc=intern.red.techstage.newsticker.rubrikstart.teaser.teaser",
-      "image_title": "##PHxVALUE_ALT_TEXT##"
-    },
-    {
-      "title": "FBI und BKA übernehmen russisches Spionagenetz aus Routern",
-      "teaser": "Ein Botnetz aus Routern des Herstellers Ubiquiti soll von russischen Geheimdiensten betrieben worden sein. Es wurde nun abgeschaltet.",
-      "url": "https://www.heise.de/news/FBI-und-BKA-uebernehmen-russisches-Spionagenetz-aus-Routern-9631625.html",
-      "image_title": "Cyber-Spionage"
     },
     {
       "title": "Mehr Sichtweite – mehr Kunden",
