@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-21T11:01:05",
+  "timestamp": "2024-02-21T12:08:57",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "Crucial stellt die weltschnellste SSD vor",
+      "teaser": "Die PCIe-5.0-SSD Crucial T705 hat ein Speicher-Upgrade erfahren und schiebt sich damit an der gesamten Konkurrenz vorbei. 14,5 GByte/s sind maximal drin.",
+      "url": "https://www.heise.de/news/Crucial-T705-PCIe-5-0-auf-Speed-9632652.html",
+      "image_title": "Crucial-SSD T705"
+    },
+    {
       "title": "WLAN-Kameras von Wyze: Mehr als 1500 User haben fremde Live-Aufnahmen betrachtet",
       "teaser": "Wyze verkauft in den USA WLAN-Kameras, auch zur Überwachung von Innenräumen. Zum wiederholten Mal haben jetzt Fremde Live-Aufnahmen zu sehen bekommen.",
       "url": "https://www.heise.de/news/WLAN-Kameras-von-Wyze-Mehr-als-1500-User-haben-fremde-Live-Aufnahmen-betrachtet-9632867.html",
@@ -38,16 +44,32 @@
       "image_title": "Finger tippt auf Edge-Symbol"
     },
     {
-      "title": "Intel: Tausende SPEC-Int-Benchmarks wegen Schummelei ungültig",
-      "teaser": "Intel hat seine Sapphire-Rapids-CPUs mit einer Compiler-Optimierung im SPECint-Benchmark beschleunigt. In Realanwendungen bringt diese Optimierung wenig.",
-      "url": "https://www.heise.de/news/Intel-Tausende-SPEC-Int-Benchmarks-wegen-Schummelei-ungueltig-9632263.html",
-      "image_title": "Sapphire-Rapids-Prozessor ohne Heatspreader"
+      "title": "Sieben KI-Komponisten im Vergleich: Musik erzeugen mit KI​",
+      "teaser": "Mithilfe von generativen KIs lassen sich Musikstücke und Samples komponieren. Das funktioniert erstaunlich gut und lässt sich kostenlos ausprobieren.​",
+      "url": "https://www.heise.de/tests/Sieben-KI-Komponisten-im-Vergleich-Musik-erzeugen-mit-KI-9620014.html",
+      "image_title": "Colorful,Audio,Waveform,On,Virtual,Human,Background,,represent,Digital,Equalizer"
     },
     {
       "title": "Von Zollstock bis KI: Teilnehmerzahl auf Massenveranstaltungen ermitteln",
       "teaser": "Polizei und Veranstalter liegen in ihren Schätzungen zu Teilnehmerzahlen oft weit auseinander. Eine Menschenmenge korrekt zu berechnen, ist gar nicht so leicht.",
       "url": "https://www.heise.de/hintergrund/Von-Zollstock-bis-KI-Teilnehmerzahl-auf-Massenveranstaltungen-ermitteln-9632412.html",
       "image_title": ", KI Midjourney Collage c’t"
+    },
+    {
+      "title": "Keynote: How to scale GitOps beyond Kubernetes, Fleets and Stacks",
+      "teaser": "Auf der Onlinekonferenz \"Mastering GitOps 2023\" gab Weaveworks-CEO Alexis Richardson einen Ausblick auf die Zukunft von GitOps.",
+      "url": "https://www.heise.de/hintergrund/Keynote-How-to-scale-GitOps-beyond-Kubernetes-Fleets-and-Stacks-9633567.html",
+      "image_title": "Alexis Richardson Mastering GitOps 2023"
+    },
+    {
+      "title": "Firefox und Thunderbird: Updates bessern Schwachstellen aus",
+      "teaser": "Neue Versionen von Firefox, Firefox ESR und Thunderbird stehen bereit. Sie dichten im Kern Sicherheitslücken ab.",
+      "url": "https://www.heise.de/news/Firefox-und-Thunderbird-Updates-bessern-Schwachstellen-aus-9634418.html"
+    },
+    {
+      "title": "secIT 2024: Schlag gegen Ransomware: Strafermittler geben spannende Einblicke",
+      "teaser": "Wie kam es eigentlich dazu, dass die Polizei Göttingen mit dem FBI auf Server der ALPHV-Gruppe zugreifen konnte? Die Antwort gibt es auf der secIT 2024.",
+      "url": "https://www.heise.de/news/secIT-2024-Schlag-gegen-Ransomware-Strafermittler-geben-spannende-Einblicke-9630608.html"
     },
     {
       "title": "VPN-Router mit OpenWrt: Brume 2 von GL.iNet im Test",
@@ -84,7 +106,7 @@
       "image_title": "Workshop: Rechtskonform - IT-Produkte prüfen und zertifizieren"
     },
     {
-      "title": "Wie man eine Lichtleiter aus 3D-Druck-Filament erstellt",
+      "title": "Wie man einen Lichtleiter aus 3D-Druck-Filament erstellt",
       "teaser": "Lichtleiter kommen als Status-LED im ultraflachen Rahmen eines Fernsehers vor. Maker haben oft die Zutaten für solche Lichtleiter als 3D-Druck-Filamente daheim.",
       "url": "https://www.heise.de/ratgeber/Wie-man-eine-Lichtleiter-aus-3D-Druck-Filament-erstellt-9602203.html",
       "image_title": ","
@@ -115,29 +137,6 @@
       "teaser": "Ein smarter Ring kann Gesundheitsdaten erfassen und NFC-Funktionen anbieten. Aus Apples Sicht gibt es Gründe dafür – aber auch dagegen.",
       "url": "https://www.heise.de/news/Runde-Sache-Apple-arbeitet-angeblich-an-smartem-Ring-9633772.html",
       "image_title": "Samsungs smarter Galaxy-Ring"
-    },
-    {
-      "title": "Forscher rekonstruieren Fingerabdruck-Muster anhand von Geräuschen",
-      "teaser": "Fingerabdruck-Muster sind beliebt für die Identitätsprüfung. Jetzt haben Forscher einen \"PrintListener\" entwickelt, um diese aus Geräuschen zu rekonstruieren.",
-      "url": "https://www.heise.de/news/Forscher-rekonstruieren-Fingerabdruecke-anhand-von-Geraeuschen-9633460.html",
-      "image_title": "Frauenhand an Smartphone"
-    },
-    {
-      "title": "Microsoft Cloud: Wirbel um Systemmeldung zum Aus von Azure IoT Central",
-      "teaser": "Eine Systemnachricht hat darüber informiert, dass Azure IoT Central ab April das Erstellen neuer Ressourcen verweigert. Das Ende steht aber wohl erst 2027 an.",
-      "url": "https://www.heise.de/news/Microsoft-Cloud-Wirbel-um-Systemmeldung-zum-Aus-von-Azure-IoT-Central-9633055.html"
-    },
-    {
-      "title": "Online-Ausweis: Bund zahlte fast 30 Millionen Euro für PIN-Rücksetzdienst​",
-      "teaser": "Das weitere Angebot des PIN-Rücksetzbriefes für die eID hätte laut Bundesregierung zu \"unkalkulierbaren Kosten\" geführt. Binnen 2 Jahren kam einiges zusammen.​",
-      "url": "https://www.heise.de/news/Online-Ausweis-Bund-zahlte-fast-30-Millionen-Euro-fuer-PIN-Ruecksetzdienst-9633676.html",
-      "image_title": "https://www.pin-ruecksetzbrief-bestellen.de/"
-    },
-    {
-      "title": "Adobe veröffentlicht \"AI Assistant\" in Acrobat Reader und Acrobat Pro",
-      "teaser": "Die PDF-Anwendungen von Adobe erhalten vorerst in Betaversion einen KI-Assistenten, der Dokumente zusammenfasst und Berichte oder E-Mails vorbereitet.",
-      "url": "https://www.heise.de/news/Adobe-veroeffentlicht-AI-Assistant-in-Acrobat-Reader-und-Acrobat-Pro-9633403.html",
-      "image_title": "Screenshot vom Blogeintrag von Adobe"
     },
     {
       "title": "Mehr Sichtweite – mehr Kunden",
