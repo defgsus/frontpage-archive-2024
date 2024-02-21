@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-21T13:01:35",
+  "timestamp": "2024-02-21T14:01:09",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.225a24990f7fff636416",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.be5d0efacd33da498294",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "VMware Aria Operations, EAP Plug-in",
+      "url": "https://www.heise.de/news/Broadcom-schliesst-Sicherheitsluecken-in-VMware-Aria-Operations-und-EAP-Plug-in-9634714.html"
+    },
     {
       "title": "Firefox, Firefox ESR, Thunderbird",
       "url": "https://www.heise.de/news/Firefox-und-Thunderbird-Updates-bessern-Schwachstellen-aus-9634418.html"
@@ -44,24 +48,25 @@
       "url": "https://www.heise.de/news/Jetzt-updaten-Kritische-Codeschmuggel-Luecken-in-Connectwise-Screenconnect-9633816.html"
     },
     {
-      "title": "Solarwinds ARM + Platform (Orion)",
-      "url": "https://www.heise.de/news/Solarwinds-Updates-schliessen-Codeschmuggel-Luecken-9632541.html"
+      "title": "Broadcom schließt Sicherheitslücken in VMware Aria Operations und EAP-Plug-in",
+      "teaser": "Broadcom verteilt Updates für VMware Aria Operations und das EAP Browser Plug-in. Sie bessern teils kritische Sicherheitslücken aus.",
+      "url": "https://www.heise.de/news/Broadcom-schliesst-Sicherheitsluecken-in-VMware-Aria-Operations-und-EAP-Plug-in-9634714.html",
+      "image_title": "vmware-Update-Bild"
     },
     {
-      "title": "Firefox und Thunderbird: Updates bessern Schwachstellen aus",
-      "teaser": "Neue Versionen von Firefox, Firefox ESR und Thunderbird stehen bereit. Sie dichten im Kern Sicherheitslücken ab.",
-      "url": "https://www.heise.de/news/Firefox-und-Thunderbird-Updates-bessern-Schwachstellen-aus-9634418.html"
+      "title": "Sicherheitsanforderungen: Unterseekabel mit \"Standards auf Verteidigungsniveau\"",
+      "teaser": "Die EU-Kommission empfiehlt den Mitgliedsstaaten, die Beteiligung von Ausrüstern mit hohem Risiko bei maritimen Kabelprojekten mit einer Toolbox einzuschränken.",
+      "url": "https://www.heise.de/news/Netze-So-will-die-EU-Huawei-Co-bei-Seekabeln-staerker-aussen-vor-halten-9634651.html"
+    },
+    {
+      "title": "KI und Supply Chain Security: Jetzt noch Tickets für Frühjahrs-devSec sichern",
+      "teaser": "Am 6. und 7. März gibt es zwei Tage zu aktuellen Themen rund um sichere Softwareentwicklung: Die erste Frühjahrsausgabe der heise devSec startet in Hannover.",
+      "url": "https://www.heise.de/news/KI-und-Supply-Chain-Security-Jetzt-noch-Tickets-fuer-Fruehjahrs-devSec-sichern-9633530.html"
     },
     {
       "title": "secIT 2024: Schlag gegen Ransomware: Strafermittler geben spannende Einblicke",
       "teaser": "Wie kam es eigentlich dazu, dass die Polizei Göttingen mit dem FBI auf Server der ALPHV-Gruppe zugreifen konnte? Die Antwort gibt es auf der secIT 2024.",
       "url": "https://www.heise.de/news/secIT-2024-Schlag-gegen-Ransomware-Strafermittler-geben-spannende-Einblicke-9630608.html"
-    },
-    {
-      "title": "Google Chrome 122: Zwölf Sicherheitslecks gestopft",
-      "teaser": "Der Versionszweig 122 von Google Chrome bessert vor allem zwölf Schwachstellen aus.",
-      "url": "https://www.heise.de/news/Google-Chrome-122-Zwoelf-Sicherheitslecks-gestopft-9634253.html",
-      "image_title": "Das Logo von Google Chrome"
     },
     {
       "title": "iX-Workshop: Rechtskonform – IT-Produkte nach EU-Recht prüfen und zertifizieren",
@@ -91,6 +96,18 @@
       "teaser": "Fingerabdruck-Muster sind beliebt für die Identitätsprüfung. Jetzt haben Forscher einen \"PrintListener\" entwickelt, um diese aus Geräuschen zu rekonstruieren.",
       "url": "https://www.heise.de/news/Forscher-rekonstruieren-Fingerabdruecke-anhand-von-Geraeuschen-9633460.html",
       "image_title": "Frauenhand an Smartphone"
+    },
+    {
+      "title": "Ransomware: Lockbit durch Ermittler zerschlagen - zwei Festnahmen",
+      "teaser": "Operation Cronos: Je eine Verhaftung in Polen und der Ukraine. Ermittler haben Zugriff auf Daten und Kryptogeld sowie Websites von Lockbit erbeutet.",
+      "url": "https://www.heise.de/news/Ransomware-Lockbit-durch-Ermittler-zerschlagen-zwei-Festnahmen-9633327.html",
+      "image_title": "Die Lockbit-Webseite im Darknet wurde von Strafverfolgern übernommen und im bisherigen Stil aufgemacht."
+    },
+    {
+      "title": "Cybergang AlphV motzt über Loandepot und Prudential",
+      "teaser": "Die US-Unternehmen Loandepot und Prudential haben Cyber-Vorfälle gemeldet. Jetzt bekennt sich die Cybergang AlpHV dazu.",
+      "url": "https://www.heise.de/news/Cybergang-AlphV-motzt-ueber-Loandepot-und-Prudential-9632884.html",
+      "image_title": "Screenshots der Mitteilungen auf der AlphV-Seite im Darknet"
     },
     {
       "title": "Android-Trojaner soll auch iPhone befallen können, klaut Fotos und Bankinfos",
@@ -142,24 +159,6 @@
       "teaser": "Nach dem Ransomware-Angriff auf PSI Software, die unter anderem Dienstleister für den Energiesektor sind, laufen die Ermittlungen. Kunden wohl nicht betroffen.",
       "url": "https://www.heise.de/news/Cyberangriff-auf-PSI-Software-Kunden-wohl-nicht-betroffen-Ermittlungen-laufen-9632088.html",
       "image_title": "Hauptquartier von PSI Software SE"
-    },
-    {
-      "title": "Mastodon: Spamwelle zeigt Schwächen auf und weckt Sorge vor schlimmerer Methode",
-      "teaser": "Seit Tagen klagen einige User auf Mastodon über eine Spamwelle. Der liegen automatisierte Angriffe auf unzureichend geschützte Teile des Fediverse zugrunde.",
-      "url": "https://www.heise.de/news/Mastodon-Spamwelle-zeigt-Schwaechen-auf-und-weckt-Sorge-vor-schlimmerer-Methode-9632055.html",
-      "image_title": "Ein Stapel von Mastodon-Logos"
-    },
-    {
-      "title": "ChatGPT: Konten staatlicher Bedrohungsakteure geschlossen",
-      "teaser": "Microsoft und OpenAI haben Konten mutmaßlicher staatlicher Bedrohungsakteure geschlossen, die ChatGPT für kriminelle Zwecke nutzten.",
-      "url": "https://www.heise.de/news/KI-OpenAI-und-Microsoft-schliessen-Konten-staatlicher-Bedrohungsakteure-9631899.html",
-      "image_title": "Ai(artificial,Intelligence),Concept. Bard, ChatGPT, KI, Chatbot"
-    },
-    {
-      "title": "Cybersicherheit zwischen Whack-a-Mole und Sicherheitsstandards",
-      "teaser": "Auf der Münchner Cybersicherheitskofenrenz forderten die Teilnehmer agile Gesetzgeber, schnellere Regulierer und mehr Standards sowie Sicherheit by Design.",
-      "url": "https://www.heise.de/news/Cybersicherheit-zwischen-Whack-a-Mole-und-Sicherheitsstandards-9631741.html",
-      "image_title": "Hacker,Attack,Computer,Hardware,Microchip,While,Process,Data,Through,Internet"
     },
     {
       "title": "Kritische eID-Lücke: Was davon zu halten ist",
