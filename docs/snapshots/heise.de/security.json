@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-23T12:09:25",
+  "timestamp": "2024-02-23T13:01:15",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,20 +32,25 @@
   ],
   "articles": [
     {
+      "title": "GitLab",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-GitLab-gegen-moegliche-Attacken-abgesichert-9636995.html"
+    },
+    {
       "title": "Nagios XI",
       "url": "https://www.heise.de/news/Sicherheitsupdate-Root-Luecke-bedroht-Servermonitoringtool-Nagios-XI-9636505.html"
+    },
+    {
+      "title": "Joomla",
+      "url": "https://www.heise.de/news/CMS-Joomla-bessert-riskante-Schwachstellen-aus-9636453.html"
     },
     {
       "title": "HP Laserjet",
       "url": "https://www.heise.de/news/Codeschmuggel-Luecke-in-diversen-HP-Laser-Druckern-9635826.html"
     },
     {
-      "title": "VMware Aria Operations, EAP Plug-in",
-      "url": "https://www.heise.de/news/Broadcom-schliesst-Sicherheitsluecken-in-VMware-Aria-Operations-und-EAP-Plug-in-9634714.html"
-    },
-    {
-      "title": "Firefox, Firefox ESR, Thunderbird",
-      "url": "https://www.heise.de/news/Firefox-und-Thunderbird-Updates-bessern-Schwachstellen-aus-9634418.html"
+      "title": "Sicherheitslücken: GitLab gegen mögliche Attacken abgesichert",
+      "teaser": "Updates schließen mehrere Schwachstellen in GitLab. Eine Lücke bleibt aber offensichtlich erstmal bestehen.",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-GitLab-gegen-moegliche-Attacken-abgesichert-9636995.html"
     },
     {
       "title": "FTC will Avast zu 16,5 Millionen US-Dollar Strafe verdonnern",
@@ -56,6 +61,12 @@
       "title": "Sicherheitsupdate: Root-Lücke bedroht Servermonitoringtool Nagios XI",
       "teaser": "Admins sollten das Dienste-Monitoring mit Nagios XI aus Sicherheitsgründen zeitnah auf den aktuellen Stand bringen.",
       "url": "https://www.heise.de/news/Sicherheitsupdate-Root-Luecke-bedroht-Servermonitoringtool-Nagios-XI-9636505.html"
+    },
+    {
+      "title": "CMS Joomla bessert riskante Schwachstellen aus",
+      "teaser": "Das Joomla-Projekt schließt mit den Versionen 5.0.3 und 4.4.3 Sicherheitslücken. Angreifer können dadurch etwa Dateien manipulieren.",
+      "url": "https://www.heise.de/news/CMS-Joomla-bessert-riskante-Schwachstellen-aus-9636453.html",
+      "image_title": "Woman,Creating,Her,Own,Website,On,Computer, Wordpress, CMS, Bildschirm, Webseite,"
     },
     {
       "title": "Playstation unterstützt jetzt Passkeys",
@@ -147,18 +158,6 @@
       "teaser": "Die US-Unternehmen Loandepot und Prudential haben Cyber-Vorfälle gemeldet. Jetzt bekennt sich die Cybergang AlpHV dazu.",
       "url": "https://www.heise.de/news/Cybergang-AlphV-motzt-ueber-Loandepot-und-Prudential-9632884.html",
       "image_title": "Screenshots der Mitteilungen auf der AlphV-Seite im Darknet"
-    },
-    {
-      "title": "Android-Trojaner soll auch iPhone befallen können, klaut Fotos und Bankinfos",
-      "teaser": "Offenbar asiatische Ganoven haben eine Android-Malware an das iPhone angepasst. Die Verteilung verlangt allerdings Nutzerinteraktionen.",
-      "url": "https://www.heise.de/news/Android-Trojaner-soll-auch-iPhone-befallen-koennen-klaut-Fotos-und-Bankinfos-9631451.html",
-      "image_title": "Der Trojaner nutzt Apples Beta-Umgebung TestFlight zur Installation"
-    },
-    {
-      "title": "WLAN-Kameras von Wyze: Mehr als 1500 User haben fremde Live-Aufnahmen betrachtet",
-      "teaser": "Wyze verkauft in den USA WLAN-Kameras, auch zur Überwachung von Innenräumen. Zum wiederholten Mal haben jetzt Fremde Live-Aufnahmen zu sehen bekommen.",
-      "url": "https://www.heise.de/news/WLAN-Kameras-von-Wyze-Mehr-als-1500-User-haben-fremde-Live-Aufnahmen-betrachtet-9632867.html",
-      "image_title": "Wyze-Kamera in einem Kinderzimmer"
     },
     {
       "title": "Kritische eID-Lücke: Was davon zu halten ist",
