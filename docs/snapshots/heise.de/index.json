@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-23T15:00:37",
+  "timestamp": "2024-02-23T16:00:42",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -148,7 +148,23 @@
       "image_title": "Drei Bilder von SN 1987A, zwei zeigen in orange die Sur von Argon"
     },
     {
-      "title": "Breitband-Studie: Deutschland \"zufriedenes\" Schlusslicht bei Internet-Speed",
+      "title": "Developer Snapshots: Programmierer-News in ein, zwei Sätzen",
+      "teaser": "Unsere Übersicht kleiner, interessanter Meldungen enthält unter anderem Hare, Rust, Bevy, Flexera, TypeScript, Swift, JetBrains, JupyterLab und Kong Gateway.",
+      "url": "https://www.heise.de/news/Developer-Snapshots-Programmierer-News-in-ein-zwei-Saetzen-9635659.html",
+      "image_title": "Auf dem Bild ist ein Kopf von einem Mann auf blauem Hintergrund zu sehen, der sich selbst mit Blitzlicht fotografiert, ein Auge ist zu sehen, das andere schaut in die Linse."
+    },
+    {
+      "title": "Bundestag stimmt für neues Onlinezugangsgesetz: Verwaltung soll digitaler werden",
+      "teaser": "In Deutschland sind viele Be­hör­den­gän­ge nach wie vor nicht digital möglich. Das soll sich mit Neu­auf­la­ge des On­li­ne­zu­gangs­ge­set­zes etwas ändern.​",
+      "url": "https://www.heise.de/news/Bundestag-stimmt-fuer-neues-Onlinezugangsgesetz-Verwaltung-soll-digitaler-werden-9637349.html"
+    },
+    {
+      "title": "Streetbooster Pollux: Vollgefederter Power-E-Scoote im TechStage-Test",
+      "teaser": "Massiv wie ein E-Scooter zum Mieten und wahnsinnig stark: Wir haben uns im Test den Streetbooster Pollux mit Wechselakku, Federung, Blinker und extra-dicken Reifen ganz genau angeschaut.",
+      "url": "https://www.techstage.de/test/streetbooster-pollux-vollgefederter-power-e-scooter-ueberzeugt-im-test/7331bvh?wt_mc=intern.red.techstage.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Breitband-Studie: Deutschland entdeckt die Langsamkeit für sich",
       "teaser": "Deutschland hinkt in puncto Schnelligkeit der Internetverbindung im westeuropäischen Vergleich deutlich hinterher, wie eine Studie von Deloitte zeigt.",
       "url": "https://www.heise.de/news/Breitband-Studie-Deutschland-zufriedenes-Schlusslicht-bei-Internet-Speed-9637223.html",
       "image_title": "Große Rollen mit orangefarbenem Glasfaserkabel zur Verlegung im Boden an einer Baustelle in Beber, Niedersachsen."
@@ -175,22 +191,6 @@
       "url": "https://www.heise.de/blog/Neu-in-NET-8-0-11-Neue-Zufallsfunktionen-9637003.html"
     },
     {
-      "title": "KI-Update Deep-Dive: KI-Stimmanalyse als Gesundheitsvorsorge",
-      "teaser": "Die deutsche Firma Audeering will mithilfe von KI Stimme und Atmung analysieren. So könnten Krankheiten schneller erkannt werden.",
-      "url": "https://www.heise.de/news/KI-Update-Deep-Dive-KI-Stimmanalyse-als-Gesundheitsvorsorge-9635814.html"
-    },
-    {
-      "title": "JavaScript-Runtime Deno 1.41 verkleinert die Kompilierungs-Binaries",
-      "teaser": "Das Minor Release verkleinert die Compile Binaries deutlich, bietet einen offiziellen Linux-ARM64-Build und behebt Schwierigkeiten im Umgang mit Node.js.",
-      "url": "https://www.heise.de/news/JavaScript-Runtime-Deno-1-41-bringt-offiziellen-Support-fuer-Linux-ARM64-9636958.html"
-    },
-    {
-      "title": "Ransomware-Gang: Ermittler trollen \"LockBitSupp\"",
-      "teaser": "Die Auflösung des Rätsels, wer der Chef Lockbit-Bande ist, passt in die neue Strategie der Strafverfolgungsbehörden in ihrem Kampf gegen Cybercrime.",
-      "url": "https://www.heise.de/news/Cybercrime-Die-Aufloesung-der-10-Millionen-Dollar-Frage-Trollen-als-Strategie-9637034.html",
-      "image_title": "Die Lockbit-Webseite im Darknet wurde von Strafverfolgern übernommen und im bisherigen Stil aufgemacht."
-    },
-    {
       "title": "PraxisanalysePassivhaus: Was es leistet und wie es Kosten spart",
       "teaser": "Das Passivhaus wird nach wissenschaftlichen Methoden so konstruiert, dass die Gesamtkosten unter normalen Häusern liegen.",
       "url": "https://www.heise.de/hintergrund/Analyse-Das-Passivhaus-als-Alternative-was-es-leistet-und-wie-es-Kosten-spart-9623081.html"
@@ -210,6 +210,22 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 Euro sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "KI-Update Deep-Dive: KI-Stimmanalyse als Gesundheitsvorsorge",
+      "teaser": "Die deutsche Firma Audeering will mithilfe von KI Stimme und Atmung analysieren. So könnten Krankheiten schneller erkannt werden.",
+      "url": "https://www.heise.de/news/KI-Update-Deep-Dive-KI-Stimmanalyse-als-Gesundheitsvorsorge-9635814.html"
+    },
+    {
+      "title": "JavaScript-Runtime Deno 1.41 verkleinert die Kompilierungs-Binaries",
+      "teaser": "Das Minor Release verkleinert die Compile Binaries deutlich, bietet einen offiziellen Linux-ARM64-Build und behebt Schwierigkeiten im Umgang mit Node.js.",
+      "url": "https://www.heise.de/news/JavaScript-Runtime-Deno-1-41-bringt-offiziellen-Support-fuer-Linux-ARM64-9636958.html"
+    },
+    {
+      "title": "Ransomware-Gang: Ermittler trollen \"LockBitSupp\"",
+      "teaser": "Die Auflösung des Rätsels, wer der Chef Lockbit-Bande ist, passt in die neue Strategie der Strafverfolgungsbehörden in ihrem Kampf gegen Cybercrime.",
+      "url": "https://www.heise.de/news/Cybercrime-Die-Aufloesung-der-10-Millionen-Dollar-Frage-Trollen-als-Strategie-9637034.html",
+      "image_title": "Die Lockbit-Webseite im Darknet wurde von Strafverfolgern übernommen und im bisherigen Stil aufgemacht."
     },
     {
       "title": "DIY-Röhrenverstärker, Teil 2: Bausatz finden und Schaltplan verstehen",
@@ -266,6 +282,11 @@
       "image_title": ","
     },
     {
+      "title": "Sicherheitslücken im Visier: Cloud-Risiken entdecken",
+      "teaser": "Hacker greifen zunehmend in der Cloud laufende Geschäftsprozesse an. Sie nutzen dabei vorhandene Sicherheitslücken aus, die von Unternehmen nicht rechtzeitig erkannt und beseitigt werden.",
+      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/sicherheitsluecken-im-visier-cloud-risiken-entdecken-4674/?source=hbsad-ersatz"
+    },
+    {
       "title": "Mercedes-Benz will angesichts wirtschaftlicher Zukunft länger Verbrenner bauen",
       "teaser": "Mercedes-Benz fürchtet wegen Belastungen in der Lieferkette und größeren Investitionen langsamer zu wachsen und will länger Autos mit Verbrennungsmotoren bauen.​",
       "url": "https://www.heise.de/news/Mercedes-Benz-will-angesichts-wirtschaftlicher-Zukunft-laenger-Verbrenner-bauen-9636844.html",
@@ -281,11 +302,6 @@
       "teaser": "Die PHP-Nutzer wenden sich ab von den Hyperscalern und setzen vermehrt auf eigene Rechner. Auch Red Hat/Cent OS verlieren gegenüber Debian als Plattformen.",
       "url": "https://www.heise.de/news/PHP-Trend-geht-zu-On-Premises-und-Debian-9636677.html",
       "image_title": "Magnifying,Glass,On,Charts,Graphs,Paper.,Financial,Development,,Banking,Account,"
-    },
-    {
-      "title": "KI auf allen Ebenen",
-      "teaser": "KI-Technologien und -Services sind heute überall verfügbar. Wie sich Cloud-Services, lokale Server, Clients und Edge Devices für KI einsetzen lassen – und welche technischen Voraussetzungen dafür notwendig sind.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/ki/beitrag/ki-auf-allen-ebenen-wie-sich-kuenstliche-intelligenz-in-der-cloud-im-rechenzentrum-und-auf-endpunkten-nutzen-laesst-4689"
     },
     {
       "title": "iX-Workshop: Storage-Cluster aufsetzen und managen mit Ceph",
@@ -327,22 +343,6 @@
       "teaser": "Opel macht mit einem Sondermodell den Corsa Electric erheblich günstiger. Es dürfte nur der Auftakt zu weiteren Nachlässen für E-Autos aus dem Konzern sein.",
       "url": "https://www.heise.de/news/Opel-Corsa-Electric-Yes-Sondermodell-mit-drastischem-Preisnachlass-9636778.html",
       "image_title": "Opel Corsa Electric"
-    },
-    {
-      "title": "FTC will Avast zu 16,5 Millionen US-Dollar Strafe verdonnern",
-      "teaser": "Es geriet etwas in Vergessenheit, aber jetzt will die FTC Avast eine Millionenstrafe aufbrummen – wegen des Verkaufs von Browser-Daten.",
-      "url": "https://www.heise.de/news/FTC-will-Avast-zu-16-5-Millionen-US-Dollar-Strafe-verdonnern-9636562.html"
-    },
-    {
-      "title": "Führungskräfte auf dem Zahnfleisch: Mehrheit fühlt sich erschöpft​",
-      "teaser": "Einer Umfrage zufolge klagen fast zwei Drittel der deutschen Führungskräfte über Erschöpfung. Zugleich zeigte sich eine Mehrheit offen, Verantwortung zu teilen.",
-      "url": "https://www.heise.de/news/Deutschlands-Chefs-schwaecheln-Fast-zwei-Drittel-erschoepft-9636651.html",
-      "image_title": "Unglücklicher Arzt vor einem Kartenlesegerät und einem Computer"
-    },
-    {
-      "title": "Windows Photos bekommt KI-Bildbearbeitung \"Generative erase\"",
-      "teaser": "Bereich markiert – Hundeleine weg. So einfach soll Bildbearbeitung mit \"Generative erase\" für Windows dank KI sein.",
-      "url": "https://www.heise.de/news/Windows-Photos-bekommt-KI-Bildbearbeitung-Generative-erase-9636552.html"
     },
     {
       "title": "\"Jenseits des Möglichen\": Erneut nicht zu erklärende Galaxie im frühen Universum",
@@ -738,37 +738,34 @@
       "url": "https://www.techstage.de/bestenliste/top-10-die-besten-elektronischen-parkscheiben-mit-zulassung-im-test/98zgjxn?wt_mc=intern.red.techstage.techstage_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Wenn selbst progressive Stimmen Kriegs-Propaganda verbreiten",
-      "teaser": "Ein Fall in den USA zeigt: Der Ukraine-Krieg führt zu Kontroversen über alle Lager hinweg. Verunglimpfungen führen aber nur zu Streit. Warum sind Verhandlungen mit Russland für viele ein rotes Tuch?",
-      "url": "https://www.heise.de/tp/features/Wenn-selbst-progressive-Stimmen-Kriegs-Propaganda-verbreiten-9208224.html"
-    },
-    {
       "title": "Wie der Verfassungsschutz in die Meinungsfreiheit eingreift",
       "teaser": "Der deutsche Inlandsgeheimdienst wird zunehmend zum politischen Akteur. Macht sich Behördenchef Haldenwang einer strafbaren Nötigung im Amt schuldig? Und was hat das mit Orwells \"1984\" zu tun?",
       "url": "https://www.heise.de/tp/features/Wie-der-Verfassungsschutz-in-die-Meinungsfreiheit-eingreift-9206508.html"
     },
     {
-      "title": "Fukushima: Japan will radioaktiv kontaminiertes Wasser ins Meer leiten",
-      "teaser": "Energie und Klima – kompakt: Japans Nachbarn sind empört über das Verhalten der Regierung in Tokio. Doch wie gefährlich ist das mit Tritium verunreinigte Kühlwasser? Was bereitet Wissenschaftlern Sorgen?",
-      "url": "https://www.heise.de/tp/features/Fukushima-Japan-will-radioaktiv-kontaminiertes-Wasser-ins-Meer-leiten-9208744.html"
+      "title": "Gefährliche Stiche: Bringt der Klimawandel auch tropische Krankheiten?",
+      "teaser": "Steigende Temperaturen helfen der Asiatischen Tigermücke oder der Anopheles-Mücke, in Deutschland zu überwintern. Wann werden sie als Krankheitsüberträger gefährlich? Und was kann man tun?",
+      "url": "https://www.heise.de/tp/features/Gefaehrliche-Stiche-Bringt-der-Klimawandel-auch-tropische-Krankheiten-9207996.html"
     },
     {
-      "title": "Nvidia beerdigt seine Windows-XP-eske Treiberoberfläche",
-      "teaser": "AMD hat es vor acht Jahren vorgemacht, jetzt folgt Nvidia. Wer eine GeForce-Grafikkarte verwendet, bekommt eine moderne Treiberoberfläche.",
-      "url": "https://www.heise.de/news/Nvidia-beerdigt-seine-Windows-XP-eske-Treiberoberflaeche-9636868.html",
-      "image_title": "Die Nvidia-App"
+      "title": "Russische Bewegung für Kriegsdienstverweigerug als \"ausländischer Agent\" eingestuft",
+      "teaser": "Wehrdienstflüchtige aus Russland haben wenig Chancen auf Asyl in der EU. Es mangelt an legalen Einreisewegen. Der Kreml geht dennoch von Verbrüderung aus.",
+      "url": "https://www.heise.de/tp/features/Russische-Bewegung-fuer-Kriegsdienstverweigerug-als-auslaendischer-Agent-eingestuft-9207406.html"
     },
     {
-      "title": "US-Onlinemagazin Vice gibt eigene Website auf und entlässt hunderte Angestellte",
-      "teaser": "Vice Media steckt schon länger in Schwierigkeiten, nun soll ein großer Teil der Belegschaft gehen. Außerdem wird die eigene Website aufgegeben.",
-      "url": "https://www.heise.de/news/US-Onlinemagazin-Vice-gibt-eigene-Website-auf-und-entlaesst-hunderte-Angestellte-9636689.html",
-      "image_title": "Schild von Vice an einer Hauswand"
+      "title": "Kommentar zum NIS2-Gesetz: Jetzt haftet endlich der Chef für Cybersicherheit",
+      "teaser": "Das Gesetz ist ein Schritt in die richtige Richtung, meint KRITIS-Experte Manuel Atug, obwohl der Gesetzgeber mit vielen Ausnahmen Potenzial verschenkt.",
+      "url": "https://www.heise.de/hintergrund/Kommentar-zum-NIS2-Gesetz-Wirtschaft-geschuetzt-Verwaltung-bleibt-Zielscheibe-9626667.html"
     },
     {
-      "title": "Audi Q2 bekommt frisches Infotainmentsystem",
-      "teaser": "Audi aktualisiert ein letztes Mal das kleine SUV Q2. Es bekommt eine neue Unterhaltungselektronik und eine leicht verbesserte Serienausstattung.",
-      "url": "https://www.heise.de/news/Audi-Q2-bekommt-frisches-Infotainmentsystem-9636054.html",
-      "image_title": "Audi Q2"
+      "title": "Spotify-Konkurrent Deezer mit neuem Duo-Abo",
+      "teaser": "Der Musikstreaming-Dienst Deezer führt ein neues Duo-Abo für zwei Personen ein. Es kostet 16 Euro – und ist damit teurer als Spotify.",
+      "url": "https://www.heise.de/news/Spotify-Konkurrent-Deezer-mit-neuem-Duo-Abo-9634238.html"
+    },
+    {
+      "title": "PPSSPP: Playstation Portal wird zum PSP-Emulator",
+      "teaser": "Einer Gruppe von Programmierern ist es gelungen, PPSSPP auf der Playstation Portal zu installieren. Die Cloud-Konsole kann damit PSP-Spiele wiedergeben – lokal.",
+      "url": "https://www.heise.de/news/PPSSPP-Playstation-Portal-wird-zum-PSP-Emulator-9632921.html"
     },
     {
       "title": "VPN-Test 2024: Die besten VPN-Anbieter im Vergleich",
