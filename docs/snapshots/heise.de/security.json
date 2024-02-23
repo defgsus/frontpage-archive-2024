@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-23T13:01:15",
+  "timestamp": "2024-02-23T14:01:04",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "WS_FTP",
+      "url": "https://www.heise.de/news/WS-FTP-Update-gegen-Cross-Site-Scripting-Schwachstellen-9637107.html"
+    },
+    {
       "title": "GitLab",
       "url": "https://www.heise.de/news/Sicherheitsluecken-GitLab-gegen-moegliche-Attacken-abgesichert-9636995.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/CMS-Joomla-bessert-riskante-Schwachstellen-aus-9636453.html"
     },
     {
-      "title": "HP Laserjet",
-      "url": "https://www.heise.de/news/Codeschmuggel-Luecke-in-diversen-HP-Laser-Druckern-9635826.html"
+      "title": "Ransomware-Gang: Ermittler trollen \"LockBitSupp\"",
+      "teaser": "Die Auflösung des Rätsels, wer der Chef Lockbit-Bande ist, passt in die neue Strategie der Strafverfolgungsbehörden in ihrem Kampf gegen Cybercrime.",
+      "url": "https://www.heise.de/news/Cybercrime-Die-Aufloesung-der-10-Millionen-Dollar-Frage-Trollen-als-Strategie-9637034.html",
+      "image_title": "Die Lockbit-Webseite im Darknet wurde von Strafverfolgern übernommen und im bisherigen Stil aufgemacht."
+    },
+    {
+      "title": "WS_FTP: Updates dichten hochriskante Sicherheitslücke ab",
+      "teaser": "In WS-FTP von Progress klafft eine Sicherheitslücke, die Angreifern Cross-Site-Scripting-Angriffe ermöglicht. Ein Update steht bereit.",
+      "url": "https://www.heise.de/news/WS-FTP-Update-gegen-Cross-Site-Scripting-Schwachstellen-9637107.html"
     },
     {
       "title": "Sicherheitslücken: GitLab gegen mögliche Attacken abgesichert",
@@ -146,18 +157,6 @@
       "teaser": "Fingerabdruck-Muster sind beliebt für die Identitätsprüfung. Jetzt haben Forscher einen \"PrintListener\" entwickelt, um diese aus Geräuschen zu rekonstruieren.",
       "url": "https://www.heise.de/news/Forscher-rekonstruieren-Fingerabdruecke-anhand-von-Geraeuschen-9633460.html",
       "image_title": "Frauenhand an Smartphone"
-    },
-    {
-      "title": "Ransomware: Lockbit durch Ermittler zerschlagen - zwei Festnahmen",
-      "teaser": "Operation Cronos: Je eine Verhaftung in Polen und der Ukraine. Ermittler haben Zugriff auf Daten und Kryptogeld sowie Websites von Lockbit erbeutet.",
-      "url": "https://www.heise.de/news/Ransomware-Lockbit-durch-Ermittler-zerschlagen-zwei-Festnahmen-9633327.html",
-      "image_title": "Die Lockbit-Webseite im Darknet wurde von Strafverfolgern übernommen und im bisherigen Stil aufgemacht."
-    },
-    {
-      "title": "Cybergang AlphV motzt über Loandepot und Prudential",
-      "teaser": "Die US-Unternehmen Loandepot und Prudential haben Cyber-Vorfälle gemeldet. Jetzt bekennt sich die Cybergang AlpHV dazu.",
-      "url": "https://www.heise.de/news/Cybergang-AlphV-motzt-ueber-Loandepot-und-Prudential-9632884.html",
-      "image_title": "Screenshots der Mitteilungen auf der AlphV-Seite im Darknet"
     },
     {
       "title": "Kritische eID-Lücke: Was davon zu halten ist",
