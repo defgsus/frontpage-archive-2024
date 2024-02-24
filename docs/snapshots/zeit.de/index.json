@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-24T14:00:54",
+  "timestamp": "2024-02-24T15:00:58",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -8,6 +8,12 @@
     {
       "type": null,
       "src": "https://static.zeit.de/p/zeit.web/js/colorscheme.3ad4f2a27e71c7150b63.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
@@ -86,7 +92,7 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Drohnen im Ukraine-Krieg : So wird aus einer Drohne ein tödliches Geschoss",
+      "title": "Z+ (abopflichtiger Inhalt); Drohnen im Ukraine-Krieg : Sie kreisen, sie jagen, sie töten",
       "teaser": "Der Krieg in der Ukraine ist der erste echte Drohnenkrieg. Wir zeigen, wie sie für den Kampf aufgebaut sind – und so ganze Schlachten entscheiden.",
       "url": "https://www.zeit.de/politik/ausland/2024-02/ukraine-krieg-drohnen-truppengattung-fpv",
       "image_url": "https://img.zeit.de/politik/ausland/2024-02/ukraine-krieg-drohnen-truppengattung-fpv-bild-13/wide__980x551"
@@ -116,17 +122,35 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-02/cpac-usa-donald-trump-konferenz-kandidatur-republikaner-teaser/super__980x653"
     },
     {
+      "title": "Femizide in Österreich : Fünf Frauen und Mädchen in Wien an einem Tag getötet",
+      "teaser": "In der österreichischen Hauptstadt wurden am Freitag vier Frauen und ein Mädchen getötet. SPÖ-Politikerin Eva-Maria Holzleitner fordert eine Krisensitzung der Regierung.",
+      "url": "https://www.zeit.de/gesellschaft/2024-02/wien-mord-femizid-bordell-haeusliche-gewalt",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-02/wien-mord-femizid-bordell-haeusliche-gewalt-bild/super__980x653"
+    },
+    {
+      "title": "AfD : Chaos auf AfD-Landesparteitag in Rottweil",
+      "teaser": "Die AfD in Baden-Württemberg lässt den Saal räumen, weil der Andrang zu ihrem Parteitag zu groß ist. Es gibt Tumulte und Buhrufe. Die Landespartei ist tief zerstritten.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-02/afd-rottweil-parteitag-baden-wuerttemberg",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-02/afd-rottweil-parteitag-baden-wuerttemberg-bild/super__980x653"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Hallenfußballliga : \"Hinter der Halle wie echte Männer\"",
+      "teaser": "Die Baller League will den Fußball revolutionieren. In der Halle sieht man aber wenig Neues. Und ihr Präsident Lukas Podolski wird bei einer Frage sehr wütend.",
+      "url": "https://www.zeit.de/sport/2024-02/baller-league-hallenfussball-liga-lukas-podolski-mats-hummels",
+      "image_url": "https://img.zeit.de/sport/2024-02/baller-league-hallenfussball-liga-lukas-podolski14/wide__980x551"
+    },
+    {
+      "title": "Joshua Kimmich : Schrei nach Liebe",
+      "teaser": "Das Missverständnis Thomas Tuchel und FC Bayern zeigt sich an Joshua Kimmich. Ihre Zeit begann mit einem Irrtum – und endet mit einem Spieler in der Entwicklungskrise.",
+      "url": "https://www.zeit.de/sport/2024-02/joshua-kimmich-thomas-tuchel-fc-bayern-muenchen-leipzig",
+      "image_url": "https://img.zeit.de/sport/2024-02/joshua-kimmich-thomas-tuchel-fc-bayern-muenchen/super__980x653",
+      "image_title": "Manchmal endet Liebe, manchmal wäre es besser, man könnte sich entlieben."
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Körperliche Leistungsfähigkeit : Mit 50 kann man noch genauso fit sein wie mit 20",
       "teaser": "Im mittleren Alter ist der Körper nicht mehr so leistungsfähig? Stimmt nicht. Was Forscher über schwindende Muskelmasse, Lifestylefehler und Training im Alter wissen.",
       "url": "https://www.zeit.de/sport/2024-02/koerperliche-leistungsfaehigkeit-sport-alter-jung-bleiben",
       "image_url": "https://img.zeit.de/sport/2024-02/koerperliche-leistungsfaehigkeit-sport2/super__980x653"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Joshua Kimmich : Schrei nach Liebe",
-      "teaser": "Das Missverständnis Thomas Tuchel und FC Bayern zeigt sich an Joshua Kimmich. Ihre Zeit begann mit einem Irrtum – und endet mit einem Spieler in der Entwicklungskrise.",
-      "url": "https://www.zeit.de/sport/2024-02/joshua-kimmich-thomas-tuchel-fc-bayern-muenchen-leipzig",
-      "image_url": "https://img.zeit.de/sport/2024-02/joshua-kimmich-thomas-tuchel-fc-bayern-muenchen/wide__980x551",
-      "image_title": "Manchmal endet Liebe, manchmal wäre es besser, man könnte sich entlieben."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Sozialleistungen • Das Beste aus Z+ : Lohnt es sich für Sie, mehr zu arbeiten?",
@@ -188,6 +212,12 @@
       "image_title": "Trump-Turnschuh: Gib uns alles Gold der Welt, mehr, mehr, mehr!"
     },
     {
+      "title": "AfD Landesverband : AfD in Nordrhein-Westfalen bestätigt Landesvorsitzenden im Amt",
+      "teaser": "Martin Vincentz bleibt für zwei weitere Jahre Vorsitzender der AfD in Nordrhein-Westfalen. Ein völkisch-rechter Gegenkandidat trat überraschend nicht an.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-02/martin-vincentz-afd-nordrhein-westfalen-landesvorsitzender",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-02/martin-vincentz-afd-nordrhein-westfalen-landesvorsitzender-2/super__980x653"
+    },
+    {
       "title": "Rotes Meer : US-Militär warnt vor Umweltkatastrophe im Roten Meer",
       "teaser": "Ein Düngemittelfrachter wurde im Roten Meer von den Huthis beschossen. Ein fast 30 Kilometer langer Ölteppich und mögliche Chemikalienlecks bedrohen die marine Umwelt.",
       "url": "https://www.zeit.de/politik/ausland/2024-02/rotes-meer-huthi-raketenangriff-rubymar-umweltkatastrophe-oelteppich",
@@ -200,28 +230,22 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-02/bauern-protest-frankreich-emmanuel-macron-teaser/super__980x653"
     },
     {
-      "title": "AfD : Chaos auf AfD-Landesparteitag in Rottweil",
-      "teaser": "Die AfD in Baden-Württemberg lässt den Saal räumen, weil der Andrang zu ihrem Parteitag zu groß ist. Es gibt Tumulte und Buhrufe. Die Landespartei ist tief zerstritten.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-02/afd-rottweil-parteitag-baden-wuerttemberg",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-02/afd-rottweil-parteitag-baden-wuerttemberg-bild/super__980x653"
-    },
-    {
-      "title": "Femizide in Österreich : Fünf Frauen und Mädchen in Wien an einem Tag getötet",
-      "teaser": "In der österreichischen Hauptstadt wurden am Freitag vier Frauen und ein Mädchen getötet. SPÖ-Politikerin Eva-Maria Holzleitner fordert eine Krisensitzung der Regierung.",
-      "url": "https://www.zeit.de/gesellschaft/2024-02/wien-mord-femizid-bordell-haeusliche-gewalt",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-02/wien-mord-femizid-bordell-haeusliche-gewalt-bild/super__980x653"
-    },
-    {
       "title": "Diese Woche in der ZEIT : Wozu Putin fähig ist",
       "teaser": "Mit Alexej Nawalny sterben die letzten Hoffnungen der russischen Opposition. Sein Tod ist auch eine Warnung an den Westen",
       "url": "https://premium.zeit.de/abo/diezeit?aktionsnummer=1130785&wt_zmc=fix.int.zonpme.zeitde.epaper.z+.home.bildtext.bildtext&utm_medium=fix&utm_source=zeitde_zonpme_int&utm_campaign=epaper&utm_content=z+_home_bildtext_bildtext?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.link.link&amp;utm_medium=cross&amp;utm_source=zeitde_zonpme_int&amp;utm_campaign=printbox&amp;utm_content=ausgseite_bildtext_link_link",
       "image_url": "https://img.zeit.de/2024/09/packshot-24-09-1000x620.png/imagegroup/super__980x653"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Gebühren für Tierärzte : Teurer Freund",
+      "teaser": "Plötzlich war der Kater krank, und die Familie musste sich fragen: Soll er auf drei Beinen leben, weil eine Amputation am günstigsten ist?",
+      "url": "https://www.zeit.de/2024/09/tieraerzte-gebuehren-kosten-notfallpraxen-operation",
+      "image_url": "https://img.zeit.de/2024/09/tieraerzte-gebuehren-kosten-notfallpraxen-operation-teaserbild/wide__980x551"
+    },
+    {
       "title": "Trump-Turnschuh : Gib uns alles Gold der Welt, mehr, mehr, mehr!",
       "teaser": "Donald Trump hat ein eigenes Turnschuhmodell vorgestellt, ein weiteres geschmackloses Trump-Lizenzprodukt. Das ist gut. Denn das Vulgäre wird gebraucht.",
       "url": "https://www.zeit.de/kultur/2024-02/trump-turnschuh-donald-trump-vulgaer",
-      "image_url": "https://img.zeit.de/kultur/2024-02/trump-turnschuh-donald-trump-vulgaer-bild/wide__980x551"
+      "image_url": "https://img.zeit.de/kultur/2024-02/trump-turnschuh-donald-trump-vulgaer-bild/super__980x653"
     },
     {
       "title": "Joe Biden : Biss zur Rente",
@@ -353,16 +377,9 @@
       "url": "https://www.zeit.de/politik/deutschland/2024-02/cannabislegalisierung-aerztekammer-praesident-reinhardt-bundesrat-kritik"
     },
     {
-      "title": "Cannabislegalisierung : Bundestag stimmt für teilweise Legalisierung von Cannabis",
-      "teaser": "Ab April dürfen Erwachsene Cannabis besitzen und anbauen – unter Vorgaben. Der Bundestag hat die Legalisierung nach langem Ringen beschlossen.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-02/cannabis-legalisierung-bundestag-gesetz-abstimmung"
-    },
-    {
-      "title": "Cannabislegalisierung : Bundestag stimmt für teilweise Legalisierung von Cannabis",
-      "teaser": "Ab April dürfen Erwachsene Cannabis besitzen und anbauen – unter Vorgaben. Der Bundestag hat die Legalisierung nach langem Ringen beschlossen.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-02/cannabis-legalisierung-bundestag-gesetz-abstimmung",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-02/cannabis-freigabe-deutschland/super__980x653",
-      "image_title": "cannabis-freigabe-deutschland"
+      "title": "Alexej Nawalny : Julija Nawalnaja fordert Herausgabe von Nawalnys Leichnam",
+      "teaser": "Die Witwe von Alexej Nawalny klagt, ihr Mann sei auch im Tod noch eine Geisel. Präsident Putin wirft sie \"Satanismus\" vor und kritisiert dessen Krieg gegen die Ukraine.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-02/julia-nawalnaja-alexej-nawalny-leichnam-herausgabe"
     },
     {
       "title": "Cannabislegalisierung : Ärztepräsident fordert Stopp der Cannabislegalisierung im Bundesrat",
@@ -377,7 +394,12 @@
       "image_title": "Marcel Fratzscher"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Drohnen im Ukraine-Krieg : So wird aus einer Drohne ein tödliches Geschoss",
+      "title": "Zwei Jahre Ukraine-Krieg : Die Deutschen und der Krieg",
+      "teaser": "Soll Deutschland mehr Waffen liefern? Fühlen Sie sich persönlich bedroht? Und wer wird gewinnen? Ein Blick in die Umfragen zum zweiten Jahrestag der russischen Invasion",
+      "url": "https://www.zeit.de/politik/deutschland/2024-02/2-jahre-ukraine-krieg-deutsche-perspektive-pessimismus"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Drohnen im Ukraine-Krieg : Sie kreisen, sie jagen, sie töten",
       "teaser": "Der Krieg in der Ukraine ist der erste echte Drohnenkrieg. Wir zeigen, wie sie für den Kampf aufgebaut sind – und so ganze Schlachten entscheiden.",
       "url": "https://www.zeit.de/politik/ausland/2024-02/ukraine-krieg-drohnen-truppengattung-fpv",
       "image_url": "https://img.zeit.de/politik/ausland/2024-02/ukraine-krieg-drohnen-truppengattung-fpv-bild-13/super__980x653"
@@ -497,21 +519,22 @@
       "image_url": "https://img.zeit.de/2024-02/was-jetzt-die-woche-3/super__980x653"
     },
     {
-      "title": "AfD Landesverband : AfD in Nordrhein-Westfalen bestätigt Landesvorsitzenden im Amt",
-      "teaser": "Martin Vincentz bleibt für zwei weitere Jahre Vorsitzender der AfD in Nordrhein-Westfalen. Er gibt sich gemäßigt – doch vor dem Parteitag gab es Proteste.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-02/martin-vincentz-afd-nordrhein-westfalen-landesvorsitzender"
-    },
-    {
       "title": "Liveblog:Ukraine-Krieg : Olaf Scholz ruft zu Politik der Abschreckung auf",
       "teaser": "\"Mit unseren Verbündeten müssen wir so stark sein, dass niemand es wagt, uns anzugreifen\", sagt der Kanzler. Dmitri Medwedew will Rache für Sanktionen. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-02/ukraine-krieg-news-liveblog-olaf-scholz/super__980x653"
+      "image_url": "https://img.zeit.de/politik/ausland/2024-02/ukraine-krieg-news-liveblog-olaf-scholz/wide__980x551"
     },
     {
       "title": "Jahrestag des Ukraine-Kriegs : Die vielleicht wichtigste Schlacht des Krieges",
       "teaser": "Tausende russische Soldaten sollten vor zwei Jahren in Hostomel landen und Kiew erobern. Sie scheiterten. Heute steht der Ort symbolisch für den Kriegsverlauf.",
       "url": "https://www.zeit.de/politik/2024-02/ukraine-krieg-jahrestag-flughafen-hostomel-nachrichtenpodcast",
       "image_url": "https://img.zeit.de/politik/2024-02/ukraine-krieg-jahrestag-flughafen-hostomel/super__980x653"
+    },
+    {
+      "title": "Nachrichtenpodcast : Aufwachsen im Krieg",
+      "teaser": "Vier Millionen Kinder wurden seit Kriegsbeginn in der Ukraine vertrieben. Wie es ihnen nach zwei Jahren Krieg geht. Und: Schwerpunkt Mutterschaft auf der Berlinale",
+      "url": "https://www.zeit.de/politik/2024-02/ukraien-krieg-jahrestag-nachrichtenpodcast",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__980x653"
     },
     {
       "title": "Immanuel Kant : Königsberg, Kaliningrad und der Kampf ums Erbe",
@@ -596,11 +619,11 @@
       "image_title": "Demonstranten tragen symbolische Särge mit der Aufschrift \"Demokratie\", \"Sozialstaat\", \"Umweltschutz\" während einer Demonstration. (Archivaufnahme aus dem Jahr 2016)"
     },
     {
-      "title": "Hochbezahlte Junganwälte : „Wer es bis zum Job in einer Großkanzlei bringt, wer da oben ankommt, ist härter als andere“",
+      "title": "Hochbezahlte Junganwälte : „Wer es bis zum Job in einer Großkanzlei bringt, ist härter als andere“",
       "teaser": "Sechsstellige Einstiegsgehälter, dafür ständige Erreichbarkeit und Nachtschichten: Wer schafft den Sprung in die Großkanzlei? Und was treibt diese Elite an?",
-      "url": "https://www.wiwo.de/erfolg/beruf/hochbezahlte-junganwaelte-wer-es-bis-zum-job-in-einer-grosskanzlei-bringt-wer-da-oben-ankommt-ist-haerter-als-andere/29668186.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
+      "url": "https://www.wiwo.de/erfolg/beruf/hochbezahlte-junganwaelte-wer-es-bis-zum-job-in-einer-grosskanzlei-bringt-ist-haerter-als-andere/29668186.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
       "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/gettyimages-477439450/29669884/2-format10640.jpg%253Fformat%253Dformat10640/super__980x653",
-      "image_title": "„Wer es bis zum Job in einer Großkanzlei bringt, wer da oben ankommt, ist härter als andere“"
+      "image_title": "„Wer es bis zum Job in einer Großkanzlei bringt, ist härter als andere“"
     },
     {
       "title": "Finanzen in der Beziehung : Wenn das Gemeinschaftskonto zur Steuerfalle wird",
@@ -825,9 +848,9 @@
     },
     {
       "title": "Verlagsangebot : Welcher Beruf passt zu mir?",
-      "teaser": "Was uns im Job von anderen unterscheidet, sind nicht nur unsere Fähigkeiten – erst die Persönlichkeit macht jeden einmalig. Der BOA Berufstest hilft, sie zu erkennen.",
-      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.teaser.boa-faeuste.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=boa-verlagsteaser&amp;utm_content=bot_teaser_boa-faeuste_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/boa-faeuste/wide__350x197__desktop",
+      "teaser": "Mit dem BOA-Berufstest erfahren Berufseinsteiger mehr über die eigenen Stärken und finden den passenden Job.",
+      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.verlagsteaser.quan.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=verlagsteaserindex&amp;utm_content=bot_verlagsteaser_quan_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/boa-quan/wide__350x197__desktop",
       "image_title": "Welcher Beruf passt zu mir?"
     },
     {
@@ -916,36 +939,36 @@
       "image_url": "https://img.zeit.de/newsletter/sinn/sinn-newsletter-cp-header/super__980x653"
     },
     {
-      "title": "Überfälle: Mann überfällt Supermarkt mit Pistole: Kassierer in Schock",
-      "url": "https://www.zeit.de/news/2024-02/24/mann-ueberfaellt-supermarkt-mit-pistole-kassierer-in-schock"
+      "title": "2. Liga: «Zwei Zähler zu wenig»: Hertha-Dämpfer in Braunschweig",
+      "url": "https://www.zeit.de/news/2024-02/24/zwei-zaehler-zu-wenig-hertha-daempfer-in-braunschweig"
     },
     {
-      "title": "Bundesliga: Verkehr: Gladbach gegen Bochum beginnt zehn Minuten später",
-      "url": "https://www.zeit.de/news/2024-02/24/verkehr-gladbach-gegen-bochum-beginnt-zehn-minuten-spaeter"
+      "title": "Steuern: Landwirtschaftsverband fordert Politik zu Handeln auf",
+      "url": "https://www.zeit.de/news/2024-02/24/landwirtschaftsverband-fordert-politik-zu-handeln-auf"
     },
     {
-      "title": "Landwirtschaft: Winzervereinigung Freyburg-Unstrut wieder mit mehr Ertrag",
-      "url": "https://www.zeit.de/news/2024-02/24/winzervereinigung-freyburg-unstrut-wieder-mit-mehr-ertrag"
+      "title": "Unfall: Fahrradfahrerin wird von Auto angefahren und stirbt",
+      "url": "https://www.zeit.de/news/2024-02/24/fahrradfahrerin-wird-von-auto-angefahren-und-stirbt"
     },
     {
-      "title": "Parteien: Tumult in der Stadthalle: Landes-Parteitag der AfD eskaliert",
-      "url": "https://www.zeit.de/news/2024-02/24/tumult-in-der-stadthalle-landes-parteitag-der-afd-eskaliert"
+      "title": "Notfälle: Feuerwehr rettet gekenterten Kajakfahrer",
+      "url": "https://www.zeit.de/news/2024-02/24/feuerwehr-rettet-gekenterten-kajakfahrer"
     },
     {
-      "title": "Berlinale: «Sterben» zweimal erfolgreich bei unabhängigen Jurys",
-      "url": "https://www.zeit.de/news/2024-02/24/sterben-zweimal-erfolgreich-bei-unabhaengigen-jurys"
+      "title": "Kriminalität: Mann niedergestochen - Polizei fahndet mit Fotos",
+      "url": "https://www.zeit.de/news/2024-02/24/mann-niedergestochen-polizei-fahndet-mit-fotos"
     },
     {
-      "title": "Jahrestag: Tausende Menschen erinnern an den Angriff auf die Ukraine",
-      "url": "https://www.zeit.de/news/2024-02/24/tausende-menschen-erinnern-an-den-angriff-auf-die-ukraine"
+      "title": "Fernsehschauspieler: «Traumschiff»-Schiffsarzt Horst Naumann gestorben",
+      "url": "https://www.zeit.de/news/2024-02/24/traumschiff-schiffsarzt-horst-naumann-gestorben"
     },
     {
-      "title": "Krieg: Tausende von Menschen erinnern an Angriff auf die Ukraine",
-      "url": "https://www.zeit.de/news/2024-02/24/tausende-von-menschen-erinnern-an-angriff-auf-die-ukraine"
+      "title": "Bibliotheken: Nachlass von DDR-Fernsehkoch Kurt Drummer kommt nach Dresden",
+      "url": "https://www.zeit.de/news/2024-02/24/nachlass-von-ddr-fernsehkoch-kurt-drummer-kommt-nach-dresden"
     },
     {
-      "title": "Parteien: Martin Vincentz als Landesvorsitzender der AfD NRW bestätigt",
-      "url": "https://www.zeit.de/news/2024-02/24/martin-vincentz-als-landesvorsitzender-der-afd-nrw-bestaetigt"
+      "title": "Brände: Dachstuhl steht in Flammen - keine Verletzten",
+      "url": "https://www.zeit.de/news/2024-02/24/dachstuhl-steht-in-flammen-keine-verletzten"
     }
   ]
 }
