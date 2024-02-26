@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-26T15:01:09",
+  "timestamp": "2024-02-26T16:02:02",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -32,10 +32,16 @@
   ],
   "articles": [
     {
+      "title": "EU-Agrarministertreffen : Bauernprotest in Brüssel eskaliert – Polizei setzt Wasserwerfer ein",
+      "teaser": "Brennende Reifen, Gülle und Pyrotechnik: In Brüssel protestieren Hunderte Landwirte gegen die EU-Agrarpolitik. Mit fast 1.000 Traktoren blockieren sie die Stadt.",
+      "url": "https://www.zeit.de/wirtschaft/2024-02/bruessel-bauernproteste-eu-agrarpolitik",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-02/eu-agrarpolitik-bauernproteste-bruessel-landwirte/wide__980x551"
+    },
+    {
       "title": "Frankfurt an der Oder : Polnische Landwirte beenden Blockade der A12",
       "teaser": "Mehr als 1.000 Landwirte blockierten die Autobahn bei Frankfurt an der Oder. Ihr Protest richtete sich gegen die EU-Agrarpolitik – und ukrainische Getreideeinfuhren.",
       "url": "https://www.zeit.de/wirtschaft/2024-02/bauern-proteste-polen-autobahn-frankfurt-oder",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-02/protest-polen-deutschland-bauern-autobahn-agrarpolitik/wide__980x551"
+      "image_url": "https://img.zeit.de/wirtschaft/2024-02/protest-polen-deutschland-bauern-autobahn-agrarpolitik/super__980x653"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Deutscher Mittelstand : Ein deutscher Riesenzwerg",
@@ -47,14 +53,14 @@
       "title": "Kommunale Wärmeplanung : Eine Stadt baut vor",
       "teaser": "Rostock hat, was es bald in allen Kommunen geben soll: einen Wärmeplan. Mit Anschlusszwang an die Fernwärme. Hausbesitzer fragen sich jetzt: Was kommt da auf uns zu?",
       "url": "https://www.zeit.de/wirtschaft/2024-02/kommunale-waermeplanung-rostock-fernwaerme-konsequenzen",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-02/rostock-waermeplanung/super__980x653",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-02/rostock-waermeplanung/wide__980x551",
       "image_title": "Blick auf die Holzhalbinsel in Rostock: Die Hansestadt will nich grüner werden – und hat ihre kommunale Wärmeplanung mitsamt einer vorgesehenen Anschlusspflicht an die Fernwärme bereits abgeschlossen."
     },
     {
       "title": "Ifo-Institut : Exportstimmung hat sich im Februar verbessert",
       "teaser": "Das Ifo-Institut misst bei Exportunternehmen insgesamt bessere Erwartungen als im Januar. Im Maschinenbau hingegen sind die Firmen so pessimistisch wie Jahre nicht mehr.",
       "url": "https://www.zeit.de/wirtschaft/2024-02/ifo-institut-export-stimmung-verbessert-maschinenbau",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-02/ifo-institut-export-stimmung/wide__980x551",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-02/ifo-institut-export-stimmung/super__980x653",
       "image_title": "ifo-institut-export-stimmung"
     },
     {
@@ -69,12 +75,6 @@
       "url": "https://www.zeit.de/wirtschaft/2024-02/konjunktur-deutsche-wirtschaft-wirtschaftsstandort-fachkraeftemangel",
       "image_url": "https://img.zeit.de/wirtschaft/2024-02/deutsche-wirtschaft-wirtschaftsstandort-industrie/super__980x653",
       "image_title": "Anhaltende Schwächephase oder ausgemachte Krise? Wirtschaftsexperten sehen für 2024 wenig Aussicht auf nennenswertes Wirtschaftswachstum."
-    },
-    {
-      "title": "Bauernprotest : Polnische Bauern blockieren Autobahn zwischen Berlin und Warschau",
-      "teaser": "Mit Hunderten Traktoren haben Landwirte aus Polen einen wichtigen Grenzübergang bei Frankfurt an der Oder lahmgelegt. Damit protestieren sie gegen EU-Umweltauflagen.",
-      "url": "https://www.zeit.de/wirtschaft/2024-02/protest-eu-umweltauflagen-polen-deutschland-bauern",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-02/protest-eu-umweltauflagen-polen-deutschland-bauern-bild-2/super__980x653"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Konjunktur : Wie es wirklich um die deutsche Wirtschaft steht",
@@ -154,6 +154,12 @@
       "image_url": "https://img.zeit.de/wirtschaft/2021-06/money-matters-bild/square__980x980"
     },
     {
+      "title": "Bauernprotest : Polnische Bauern blockieren Autobahn zwischen Berlin und Warschau",
+      "teaser": "Mit Hunderten Traktoren haben Landwirte aus Polen einen wichtigen Grenzübergang bei Frankfurt an der Oder lahmgelegt. Damit protestieren sie gegen EU-Umweltauflagen.",
+      "url": "https://www.zeit.de/wirtschaft/2024-02/protest-eu-umweltauflagen-polen-deutschland-bauern",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-02/protest-eu-umweltauflagen-polen-deutschland-bauern-bild-2/super__980x653"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Zweitwohnungssteuer : Bevor das Leben aus ihrem Dorf verschwindet",
       "teaser": "In vielen Schweizer Ferienorten finden Einheimische kaum noch bezahlbare Wohnungen. In Pontresina will die Gemeindepräsidentin das mit einer umstrittenen Steuer ändern.",
       "url": "https://www.zeit.de/2024/08/zweitwohnungssteuer-pontresina-wohnraum-preise",
@@ -176,13 +182,13 @@
       "title": "Cannabis-Sommelier : \"Viele glauben, dass ich bei der Arbeit die ganze Zeit kiffe\"",
       "teaser": "Dominik Benedens ist Cannabis-Sommelier. Er prüft Qualität, Geschmack und Geruch von Gras. Hier erklärt er, wie er arbeitet – und woran man guten Stoff erkennt.",
       "url": "https://www.zeit.de/wirtschaft/2024-02/cannabis-sommelier-qualitaet-pruefung-geruch-geschmack",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-02/cannabis-sommelier-kiffen-arbeit/super__980x653"
+      "image_url": "https://img.zeit.de/wirtschaft/2024-02/cannabis-sommelier-kiffen-arbeit/wide__980x551"
     },
     {
       "title": "Hausgerätesparte BSH : Bosch will weltweit rund 3.500 Stellen in Hausgerätesparte abbauen",
       "teaser": "In den Bereichen Autozulieferung und Elektrowerkzeuge hat Bosch bereits Einsparungen angekündigt. Nun sollen zusätzlich Stellen bei der Hausgerätesparte wegfallen.",
       "url": "https://www.zeit.de/wirtschaft/2024-02/bosch-stellenabbau-haushaltgeraete-bsh",
-      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-02/bosch-bsh/wide__980x551",
+      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-02/bosch-bsh/super__980x653",
       "image_title": "Bosch BSH"
     },
     {
@@ -191,13 +197,6 @@
       "url": "https://www.zeit.de/wirtschaft/2024-02/sozialstaat-populismus-buergergeld-kindergrundsicherung-argumente",
       "image_url": "https://img.zeit.de/wirtschaft/2024-02/sozialstaat-kritik/super__980x653",
       "image_title": "Demonstranten tragen symbolische Särge mit der Aufschrift \"Demokratie\", \"Sozialstaat\", \"Umweltschutz\" während einer Demonstration. (Archivaufnahme aus dem Jahr 2016)"
-    },
-    {
-      "title": "Solarindustrie : Wirtschaftsministerium will Bedingungen für Solarindustrie verbessern",
-      "teaser": "Das Bundeswirtschaftsministerium will die Solarindustrie stärken. Zuvor hatte das Unternehmen Meyer Burger angekündigt, ein Werk wegen Marktverzerrung zu schließen.",
-      "url": "https://www.zeit.de/wirtschaft/2024-02/solarindustrie-wirtschaftsministerium-meyer-burger-china",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-02/bundeswirtschaftsministerium-rahmenbedingungen-solarindustrie/super__980x653",
-      "image_title": "Bundeswirtschaftsministerium Rahmenbedingungen Solarindustrie"
     },
     {
       "title": "Meyer Burger : Solarhersteller bereitet Werksschließung in Freiberg vor",
@@ -242,11 +241,11 @@
       "image_url": "https://img.zeit.de/geld/2024-02/immobilienpreise-hauskauf-finanzierung-kredit/super__980x653"
     },
     {
-      "title": "Heizungstausch : Von wegen Wärmepumpe: So heizen die Deutschen wirklich",
-      "teaser": "Der Umbau von alten Öl- und Gasheizungen auf klimafreundlichere Alternativen lief zuletzt schleppend – zu lange war die Förderung unsicher. Bald fließen wieder KfW-Gelder. Reicht das, um den Heizungstausch zu beleben?",
-      "url": "https://www.wiwo.de/finanzen/immobilien/heizungstausch-von-wegen-waermepumpe-so-heizen-die-deutschen-wirklich/29668664.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/heizen-deutschland-imag/29670340/2-format10640.jpg%253Fformat%253Dformat10640/super__980x653",
-      "image_title": "Von wegen Wärmepumpe: So heizen die Deutschen wirklich"
+      "title": "Chinesische E-Autos : Der erste BYD-eigene Autofrachter erreicht Deutschland – und das ist nur der Anfang",
+      "teaser": "In Bremerhaven entlädt der erste Autofrachter des chinesischen Autobauers BYD 3000 E-Fahrzeuge. Bis 2026 werden in China 200 solche Schiffe gebaut, um die Welt mit Autos aus dem Land zu fluten.",
+      "url": "https://www.wiwo.de/unternehmen/auto/chinesische-e-autos-der-erste-byd-eigene-autofrachter-erreicht-deutschland-und-das-ist-nur-der-anfang/29675236.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/byd-explorer-no-1-legt-in-bremerhaven-an/29675276/2-format10640.jpg%253Fformat%253Dformat10640/super__980x653",
+      "image_title": "Der erste BYD-eigene Autofrachter erreicht Deutschland – und das ist nur der Anfang"
     },
     {
       "title": "Modeberatung : „Das äußere Erscheinungsbild hilft bei der Karriere“",
