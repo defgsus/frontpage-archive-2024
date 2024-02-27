@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-27T11:00:43",
+  "timestamp": "2024-02-27T12:08:41",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Microsoft Edge",
+      "url": "https://www.heise.de/news/Webbrowser-Microsoft-Edge-Update-schliesst-Sicherheitsluecken-9639816.html"
+    },
+    {
+      "title": "Wordpress-Plug-in Ultimate Member",
+      "url": "https://www.heise.de/news/Kritische-Luecke-in-Wordpress-Plug-in-Ultimate-Member-leakt-Passwort-Hashes-9640177.html"
+    },
+    {
       "title": "WS_FTP",
       "url": "https://www.heise.de/news/WS-FTP-Update-gegen-Cross-Site-Scripting-Schwachstellen-9637107.html"
     },
@@ -40,12 +48,15 @@
       "url": "https://www.heise.de/news/Sicherheitsluecken-GitLab-gegen-moegliche-Attacken-abgesichert-9636995.html"
     },
     {
-      "title": "Nagios XI",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-Root-Luecke-bedroht-Servermonitoringtool-Nagios-XI-9636505.html"
+      "title": "Webbrowser: Microsoft Edge-Update schließt Sicherheitslücken",
+      "teaser": "Microsoft hat am Freitag den Browser Edge aktualisiert. Neben Chromium-Sicherheitslücken dichten die Entwickler auch eigene ab.",
+      "url": "https://www.heise.de/news/Webbrowser-Microsoft-Edge-Update-schliesst-Sicherheitsluecken-9639816.html",
+      "image_title": "Startseite von Microsoft Edge"
     },
     {
-      "title": "Joomla",
-      "url": "https://www.heise.de/news/CMS-Joomla-bessert-riskante-Schwachstellen-aus-9636453.html"
+      "title": "Kritische Lücke in Wordpress-Plug-in Ultimate Member leakt Passwort-Hashes",
+      "teaser": "Angreifer können Wordpress-Websites mit mit dem Plug-in Ultimate Member attackieren. Potenziell sind mehr als 200.000 Seiten gefährdet.",
+      "url": "https://www.heise.de/news/Kritische-Luecke-in-Wordpress-Plug-in-Ultimate-Member-leakt-Passwort-Hashes-9640177.html"
     },
     {
       "title": "Hacking: GPT-4 findet Sicherheitslücken in Websites",
@@ -146,17 +157,6 @@
       "title": "FTC will Avast zu 16,5 Millionen US-Dollar Strafe verdonnern",
       "teaser": "Es geriet etwas in Vergessenheit, aber jetzt will die FTC Avast eine Millionenstrafe aufbrummen – wegen des Verkaufs von Browser-Daten.",
       "url": "https://www.heise.de/news/FTC-will-Avast-zu-16-5-Millionen-US-Dollar-Strafe-verdonnern-9636562.html"
-    },
-    {
-      "title": "Sicherheitsupdate: Root-Lücke bedroht Servermonitoringtool Nagios XI",
-      "teaser": "Admins sollten das Dienste-Monitoring mit Nagios XI aus Sicherheitsgründen zeitnah auf den aktuellen Stand bringen.",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-Root-Luecke-bedroht-Servermonitoringtool-Nagios-XI-9636505.html"
-    },
-    {
-      "title": "CMS Joomla bessert riskante Schwachstellen aus",
-      "teaser": "Das Joomla-Projekt schließt mit den Versionen 5.0.3 und 4.4.3 Sicherheitslücken. Angreifer können dadurch etwa Dateien manipulieren.",
-      "url": "https://www.heise.de/news/CMS-Joomla-bessert-riskante-Schwachstellen-aus-9636453.html",
-      "image_title": "Woman,Creating,Her,Own,Website,On,Computer, Wordpress, CMS, Bildschirm, Webseite,"
     },
     {
       "title": "Kritische eID-Lücke: Was davon zu halten ist",
