@@ -1,9 +1,762 @@
 {
-  "timestamp": "2024-02-27T19:01:12",
+  "timestamp": "2024-02-27T20:01:01",
   "url": "https://www.volksstimme.de/leben",
   "response": {
-    "status": 404
+    "status": 200
   },
-  "scripts": [],
-  "articles": []
+  "scripts": [
+    {
+      "type": "text/javascript",
+      "src": "https://data-9f47bd3ec3.volksstimme.de/iomm/latest/bootstrap/loader.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://applets.ebxcdn.com/ebx.js",
+      "id": "ebx",
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.volksstimme.de/static/scripts/scripts.182b7588.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://static.dumontnext.de/revenue/lightworks-vs.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.volksstimme.de/static/scripts/adScripts.182b7588.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://cdn.dl.volksstimme.de/bineosmgm/content/Bineos_2_0/bineos.min.js",
+      "id": null,
+      "text": null
+    }
+  ],
+  "articles": [
+    {
+      "title": "Blick in die Glaskugel: Fortschritte bei Hologramm-Telefonie",
+      "teaser": "Corona ist längst vorbei, Homeoffice ist aber noch immer weitverbreitet. Damit sich die Kollegen dennoch gut beraten können, könnte die sogenannte Hologramm-Telefonie helfen. Es gibt Fortschritte.",
+      "url": "https://www.volksstimme.de/leben/blick-in-die-glaskugel-fortschritte-bei-hologramm-telefonie-3796273",
+      "topic": "Mobilfunk-Messe MWC"
+    },
+    {
+      "title": "Schnitt-Verbot ab 1. März: Das gilt nun im Garten",
+      "url": "https://www.volksstimme.de/leben/haus-und-garten/schnitt-verbot-ab-1-marz-das-gilt-nun-im-garten-3796206",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/27/169d571c-f447-4617-a490-fa9bc7ba9842.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Feldsperling mit Nistmaterial: Sowohl das Entfernen als auch das Zurückschneiden von Hecken sind zum Schutz von Wildtieren vom 1. März bis zum 30. September verboten.",
+      "topic": "Hecken, Sträucher und Gebüsche"
+    },
+    {
+      "title": "Opfer von Langfingern? Diese Policen brauchen Sie jetzt",
+      "url": "https://www.volksstimme.de/leben/finanzen/opfer-von-langfingern-diese-policen-brauchen-sie-jetzt-3779354",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/27/f3fd1ce8-7c04-476d-8f13-270d13b0098a.jpeg?rect=0%2C45%2C2048%2C1152&width=100",
+      "image_title": "Eine Hausratversicherung kann Sie zwar nicht vor einem Wohnungseinbruch schützen. Sie kann Ihnen aber den daraus resultierenden Schaden ersetzen.",
+      "topic": "Multitool Hausratversicherung"
+    },
+    {
+      "title": "Überhöhte Energiepreise: Beteiligung an Sammelklage möglich",
+      "url": "https://www.volksstimme.de/leben/finanzen/uberhohte-energiepreise-beteiligung-an-sammelklage-moglich-3796065",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/27/e51397a0-002c-4be6-a219-f3ffe4dff591.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Manchmal sind die Erfolgsaussichten als Einzelkläger gering. Verbraucher können sich dann einer Sammelklage anschließen.",
+      "topic": "Kunden von ExtraEnergie"
+    },
+    {
+      "title": "Italien: Eine Winterreise nach Neapel",
+      "url": "https://www.volksstimme.de/leben/italien-eine-winterreise-nach-neapel-3777919",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/27/93007d03-bb4a-4624-9ebf-1912758a2f76.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Hinauf auf das Castel Sant'Elmo: Nirgendwo ist der Ausblick auf Neapel und den Vesuv schöner.",
+      "topic": "Nebensaison"
+    },
+    {
+      "title": "T-Shirt für die Völlerei: Auf dem einsamsten Highway der USA",
+      "url": "https://www.volksstimme.de/leben/t-shirt-fur-die-vollerei-auf-dem-einsamsten-highway-der-usa-3785689",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/27/07bf2b2e-0995-4eb7-8493-993b79a3de50.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Weite und Einsamkeit - wer in Nevada unterwegs ist, sollte Mut und genügend Benzin dabeihaben.",
+      "topic": "Roadtrip"
+    },
+    {
+      "title": "Kalifornien kulinarisch: Food-Trucks und Gourmet-Sterne",
+      "url": "https://www.volksstimme.de/leben/kalifornien-kulinarisch-food-trucks-und-gourmet-sterne-3773211",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/27/42d38904-667a-4780-96d6-8555a4b86a71.jpeg?rect=0%2C133%2C2048%2C1152&width=100",
+      "image_title": "Kreationen im Gourmet-Tempel „Single Thread“ in Healdsburg: Allein das aus fast einem Dutzend Kleinigkeiten bestehende Amuse-Bouche wäre Grund genug, um wiederzukommen.",
+      "topic": "USA"
+    },
+    {
+      "title": "Overground: Londons S-Bahn-Linien bekommt Namen und Farben",
+      "url": "https://www.volksstimme.de/leben/overground-londons-s-bahn-linien-bekommt-namen-und-farben-3788154",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/27/3ae32d9d-e109-494a-bb99-01a4b4fe228d.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Seit 2007 gibt es in London auch die „Overground“ genannte S-Bahn. Sie und ihre verschiedenen Linien sollen bald leichter zu erkennen sein.",
+      "topic": "Neues Design"
+    },
+    {
+      "title": "Ski und Snowboards regelmäßig wachsen - gerade im Frühjahr",
+      "url": "https://www.volksstimme.de/leben/ski-und-snowboards-regelmassig-wachsen-gerade-im-fruhjahr-3796037",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/27/705ea477-1c75-4379-8175-2b68d2483c57.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Damit die Bretter nicht an Gleitfähigkeit verlieren, sollte man sie mindestens an jedem zweiten Skitag wachsen.",
+      "topic": "Sulz saugt Wachs"
+    },
+    {
+      "title": "Wohnungsschlüssel weg: Vermieter muss informiert werden",
+      "url": "https://www.volksstimme.de/leben/haus-und-garten/wohnungsschlussel-weg-vermieter-muss-informiert-werden-3796027",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/27/a01ed85c-adad-433d-96db-6b7293627568.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Nicht immer taucht ein verlorener Schlüssel im Fundbüro wieder auf. Ob Mieterinnen und Mieter für den Verlust selbst aufkommen müssen, hängt dann davon ab, ob sie ein Verschulden am Verschwinden des Schlüssels haben.",
+      "topic": "Teurer Verlust?"
+    },
+    {
+      "title": "Blick in die Glaskugel: Fortschritte bei Hologramm-Telefonie",
+      "url": "https://www.volksstimme.de/leben/blick-in-die-glaskugel-fortschritte-bei-hologramm-telefonie-3796273",
+      "topic": "Mobilfunk-Messe MWC"
+    },
+    {
+      "title": "Schnitt-Verbot ab 1. März: Das gilt nun im Garten",
+      "url": "https://www.volksstimme.de/leben/haus-und-garten/schnitt-verbot-ab-1-marz-das-gilt-nun-im-garten-3796206",
+      "topic": "Hecken, Sträucher und Gebüsche"
+    },
+    {
+      "title": "Opfer von Langfingern? Diese Policen brauchen Sie jetzt",
+      "url": "https://www.volksstimme.de/leben/finanzen/opfer-von-langfingern-diese-policen-brauchen-sie-jetzt-3779354",
+      "topic": "Multitool Hausratversicherung"
+    },
+    {
+      "title": "Überhöhte Energiepreise: Beteiligung an Sammelklage möglich",
+      "url": "https://www.volksstimme.de/leben/finanzen/uberhohte-energiepreise-beteiligung-an-sammelklage-moglich-3796065",
+      "topic": "Kunden von ExtraEnergie"
+    },
+    {
+      "title": "Genf: Diese Premieren lassen den Autosalon noch glänzen",
+      "url": "https://www.volksstimme.de/leben/auto/genf-diese-premieren-lassen-den-autosalon-noch-glanzen-3795390",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/27/06d506b4-d19d-48ec-8d3a-585daa019367.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Elektromobilität für den Massenmarkt: Als Nachfolger des Zoe bringt Renault den R5 zurück.",
+      "topic": "Messe-Highlights"
+    },
+    {
+      "title": "McLaren Artura fährt auch als Spider vor",
+      "url": "https://www.volksstimme.de/leben/auto/mclaren-artura-fahrt-auch-als-spider-vor-3795855",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/27/cfc8bd4d-6b28-4984-9b6a-5c9a2dd213b3.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Erleben Sie mit dem McLaren Artura Spider offenen Fahrspaß und gesteigerte Leistung.",
+      "topic": "Offenherzig"
+    },
+    {
+      "title": "Meistverkaufter VW: Wie der Tiguan den Wandel meistert",
+      "teaser": "Nein, es ist nicht mehr der Golf. Sondern der Tiguan ist aktuell der Bestseller aus Wolfsburg. Kein Wunder, dass sich VW beim Generationswechsel des SUV besonders viel Mühe gibt. Wie ist das Ergebnis?",
+      "url": "https://www.volksstimme.de/leben/auto/meistverkaufter-vw-wie-der-tiguan-den-wandel-meistert-3795539",
+      "topic": "Autotest"
+    },
+    {
+      "title": "BYD zielt mit zwei Seal-Modellen auf die Konkurrenz",
+      "url": "https://www.volksstimme.de/leben/auto/byd-zielt-mit-zwei-seal-modellen-auf-die-konkurrenz-3777172",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/26/015e0439-a74f-4f5c-9753-ecc3be8fb80f.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Made in China: Marken wie BYD wollen mit Autos wie dem Seal auch auf europäischen Boden Käufer finden.",
+      "topic": "Autotest"
+    },
+    {
+      "title": "Autojahr 2024: Das sind 10 spannende Neuheiten",
+      "url": "https://www.volksstimme.de/leben/auto/autojahr-2024-das-sind-10-spannende-neuheiten-3764478",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/26/d63c81e2-7343-43ee-a49d-ad63ec462f78.jpeg?rect=0%2C1%2C2048%2C1152&width=100",
+      "image_title": "Preiswertes Produkt: Der Dacia Duster erfreut sich Dank günstiger Einstiegspreise vor allen bei privaten Käufern großer Beliebtheit.",
+      "topic": "Von Dacia bis Polestar"
+    },
+    {
+      "title": "Vier Fiat-Studien sollen auf neue Panda-Familie einstimmen",
+      "url": "https://www.volksstimme.de/leben/auto/vier-fiat-studien-sollen-auf-neue-panda-familie-einstimmen-3795119",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/26/0acc20d9-5b0c-4741-a602-0f9c37e31c8d.jpeg?rect=0%2C0%2C2048%2C1152&width=100",
+      "image_title": "Ob das Modell am Ende wirklich so aussieht? Ihren Einstand gibt die neue Panda-Familie in diesem Sommer mit einem Citycar.",
+      "topic": "Von Citycar bis Pick-up"
+    },
+    {
+      "title": "Renault R5 feiert Comeback als Elektroauto",
+      "url": "https://www.volksstimme.de/leben/auto/renault-r5-feiert-comeback-als-elektroauto-3795079",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/26/29cacdce-dde9-4c56-8454-c93f0d3d3a2f.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Mobilität für die breite(re) Masse: Die Neuauflage des R5 soll im Herbst ab 25 000 Euro auf den Markt kommen.",
+      "topic": "Kult-Franzose"
+    },
+    {
+      "title": "Ineos kündigt E-Geländewagen Fusilier an",
+      "url": "https://www.volksstimme.de/leben/auto/ineos-kundigt-e-gelandewagen-fusilier-an-3793768",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/23/b11eb3fb-a8c4-4aa1-88da-6a69e68029fc.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Beim Design orientiert sich der Fusilier am Grenadier, aber anders als sein großer Bruder soll er elektrisch fahren.",
+      "topic": "Grenadiers kleiner Bruder"
+    },
+    {
+      "title": "Hohe Mietwagenkosten nach Unfall - wie viel ist angemessen?",
+      "url": "https://www.volksstimme.de/leben/auto/hohe-mietwagenkosten-nach-unfall-wie-viel-ist-angemessen-3793135",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/23/ea3a26a2-085b-44ac-9396-983326b1ad74.jpeg?rect=0%2C98%2C2048%2C1152&width=100",
+      "image_title": "Auf dem Land kann das Mietwagenangebot begrenzt sein - und die Kosten vergleichsweise hoch.",
+      "topic": "Auf dem Land teurer"
+    },
+    {
+      "title": "Sapphire: Lucid Air wird zur stärksten Limousine der Welt",
+      "url": "https://www.volksstimme.de/leben/auto/sapphire-lucid-air-wird-zur-starksten-limousine-der-welt-3793137",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/23/341a3cad-23b5-4f4d-adce-af693912af8d.jpeg?rect=0%2C108%2C2048%2C1152&width=100",
+      "image_title": "Lucid Air-Sportversion Sapphire: Der Viertürer ist bislang nur in den USA auf dem Markt.",
+      "topic": "Beschleunigungsmeister"
+    },
+    {
+      "title": "Große Unterschiede bei Kita-Gebühren in Sachsen-Anhalt",
+      "url": "https://www.volksstimme.de/leben/familie/grosse-unterschiede-bei-kita-gebuhren-3794043",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/24/2a485190-0dff-495f-bfe9-e59803fec98f.jpeg?rect=0%2C109%2C2048%2C1152&width=100",
+      "image_title": "Ein Junge und ein Mädchen spielen in einer Kindergruppe in einer Kindertagesstätte.",
+      "topic": "Kosten"
+    },
+    {
+      "title": "Mit Rückkehrrecht: Wann lohnt sich Brückenteilzeit?",
+      "url": "https://www.volksstimme.de/leben/familie/mit-ruckkehrrecht-wann-lohnt-sich-bruckenteilzeit-3792280",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/21/6c508548-7561-4c8f-b563-cf396358595e.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Die Brückenteilzeit kann Beschäftigte entlasten - etwa, wenn sich Vollzeitjob und Kinderbetreuung nur schwer vereinbaren lassen.",
+      "topic": "Arbeitszeit"
+    },
+    {
+      "title": "Von Honigschnecke bis Pupsi: Warum wir uns Kosenamen geben",
+      "url": "https://www.volksstimme.de/leben/familie/von-honigschnecke-bis-pupsi-warum-wir-uns-kosenamen-geben-3791555",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/20/98f8038e-102f-4f18-9600-2c8027d77291.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Gelangt ein zärtlich gehauchte Kosenamen wie „Muschi“, „Baby“ oder „Honigschnecke“ an fremde Ohren, kann das für die liebkoste Person verletzend sein.",
+      "topic": "Zweitname in der Beziehung"
+    },
+    {
+      "title": "Was Kindern bei Medikamenten hilft",
+      "url": "https://www.volksstimme.de/leben/familie/was-kindern-bei-medikamenten-hilft-3791073",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/20/64b10a43-c1b2-4a33-a76b-cc20049285bf.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Medikamentengabe beim Lieblingsfilm: Ablenkung ist eine effektive Methode, um die Kinder während der Einnahme zu entspannen.",
+      "topic": "Wenn'S nicht schmeckt"
+    },
+    {
+      "title": "Trennung ohne Rosenkrieg: Wie eine Mutter aus Magdeburg ihr Kind beschützt",
+      "url": "https://www.volksstimme.de/leben/familie/paar-psychologie-trennung-ohne-rosenkrieg-wie-eine-mutter-aus-magdeburg-ihr-kind-beschuetzt-3790451",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/19/a98b2a04-ac95-46f9-a1ef-936f395d88ef.webp?rect=19%2C0%2C1407%2C791&width=100",
+      "image_title": "Anica Schütz, die in Biederitz nahe Magdeburg wohnt, hat sich vergangenes Jahr von ihrem Partner getrennt.",
+      "topic": "Paar-Psychologie"
+    },
+    {
+      "title": "Arbeiten, wann ich will: „Flexpool“ ist in Sachsen-Anhalt im Kommen",
+      "url": "https://www.volksstimme.de/leben/familie/arbeiten-wann-ich-will-flexpool-ist-in-sachsen-anhalt-im-kommen-3790486",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/19/70108740-f275-464f-838e-d168aed5da1f.jpeg?rect=0%2C0%2C1247%2C832&width=100",
+      "image_title": "Erste Krankenhäuser in Sachsen-Anhalt setzen auf den „Flexpool“. Das Modell kommt besonders bei jungen Müttern gut an.",
+      "topic": "Krankenhaus"
+    },
+    {
+      "title": "Kinder in Sachsen-Anhalt werden ohne geforderte Untersuchung eingeschult",
+      "url": "https://www.volksstimme.de/leben/familie/arztemangel-kinder-in-sachsen-anhalt-werden-ohne-geforderte-untersuchung-eingeschult-3789818",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/18/3c888061-c136-458f-8531-5d66fbad3a43.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Mit einem Otoskop untersucht eine Kinderärztin ein Ohr eines Mädchens im Rahmen einer U9-Untersuchung.",
+      "topic": "Ärztemangel"
+    },
+    {
+      "title": "Darf das Kind im Bett der Eltern schlafen? Und wenn ja, wie lange?",
+      "url": "https://www.volksstimme.de/leben/familie/kind-schlaft-im-elternbett-wird-es-dann-unselbststandiger-3784376",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/09/4b027729-e0d2-4488-98bb-f8660707bf58.jpeg?rect=0%2C124%2C2048%2C1152&width=100",
+      "image_title": "Gelesen wird im Bett gemeinsam, wo das Kind dann letztendlich schläft, ist gar nicht mal so entscheidend.",
+      "topic": "Hartnäckiger Mythos"
+    },
+    {
+      "title": "So lernen Jugendliche den Umgang mit Geld",
+      "url": "https://www.volksstimme.de/leben/familie/so-lernen-jugendliche-den-umgang-mit-geld-3786345",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/12/58a56b31-78b4-464b-8d8b-579dfd579dcb.jpeg?rect=0%2C109%2C2048%2C1152&width=100",
+      "image_title": "Früh übt sich: Wenn Eltern ihre Kinder beim Umgang mit Geld an die Hand nehmen, haben sie bessere Startvoraussetzungen.",
+      "topic": "Konto, Konsum, Schulden"
+    },
+    {
+      "title": "Mit Video: Warum feiern wir den Valentinstag? Alles Wissenswerte zum Tag der Liebe",
+      "url": "https://www.volksstimme.de/leben/familie/valentinstag-geschichte-brauch-liebe-feier-traditionen-rosen-tulpen-geschenke-heiraten-video-3770336",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/14/39d0e9f7-a176-45bf-b85e-7da443e45d3a.jpeg?rect=0%2C0%2C1600%2C900&width=100",
+      "image_title": "Rund die Hälfte der Deutschen verschenkt etwas zum Valentinstag am 14. Februar.",
+      "topic": "fest der liebenden"
+    },
+    {
+      "title": "Von der privaten zurück in die gesetzliche Krankenkasse",
+      "url": "https://www.volksstimme.de/leben/finanzen/von-der-privaten-zuruck-in-die-gesetzliche-krankenkasse-3795535",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/26/9b004fcf-66fc-4fdd-a4c7-607ff6eb506e.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Beratung absolut sinnvoll: Wer von der privaten in die gesetzliche Krankenkasse wechseln möchte, sollte das nicht auf eigene Faust tun.",
+      "topic": "So geht's"
+    },
+    {
+      "title": "Kündigung muss eindeutig zuordenbar sein",
+      "url": "https://www.volksstimme.de/leben/finanzen/kundigung-muss-eindeutig-zuordenbar-sein-3795294",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/26/7a4fe79f-4e96-4e79-92b1-bf2031b5e005.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Für die Wirksamkeit einer Kündigung ist wichtig, dass sie eindeutig einem Vertrag zuzuordnen ist. Und das kann schon die E-Mail-Adresse sein, die aus den Kundendaten bekannt ist.",
+      "topic": "Identifikation gewährleistet?"
+    },
+    {
+      "title": "Tipps für einen frühen Steuerbescheid",
+      "url": "https://www.volksstimme.de/leben/finanzen/tipps-fur-einen-fruhen-steuerbescheid-3795216",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/26/208633f6-3e71-4378-b4a3-79d836e45ae2.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Via Elster geht es mitunter besonders schnell, weil elektronisch eingereichte Erklärungen oft vollautomatisch bearbeitet werden.",
+      "topic": "Einkommensteuererklärung 2023"
+    },
+    {
+      "title": "ÖPNV-Warnstreik: Was Pendler, Schüler und Co. wissen müssen",
+      "url": "https://www.volksstimme.de/leben/finanzen/opnv-warnstreik-was-pendler-schuler-und-co-wissen-mussen-3794886",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/26/36c66d48-71e8-4594-95bf-29c208fbd4b2.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Bundesweite Warnstreikwelle: Bis Samstag sind regional an unterschiedlichen Tagen Arbeitskämpfe geplant, mit dem Freitag (1. März) als Hauptstreiktag.",
+      "topic": "Von Montag bis Samstag"
+    },
+    {
+      "title": "„Cannabis-Aktien“: Lohnt sich der Einstieg jetzt noch?",
+      "url": "https://www.volksstimme.de/leben/finanzen/cannabis-aktien-lohnt-sich-der-einstieg-jetzt-noch-3793735",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/23/6fdc8dd8-6294-4994-a05f-1351d4d19fc0.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Cannabis-Boom in Deutschland: Wie „high“ ist das Risiko?",
+      "topic": "Goldgräberstimmung"
+    },
+    {
+      "title": "Sozialklausel: Härtefall kann Wohnungskündigung aufschieben",
+      "url": "https://www.volksstimme.de/leben/finanzen/sozialklausel-hartefall-kann-wohnungskundigung-aufschieben-3792668",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/22/c5fd2219-74f2-401d-8549-e70cddb0c918.jpeg?rect=0%2C105%2C2048%2C1152&width=100",
+      "image_title": "Kündigung vom Vermieter erhalten? Können Sie einen Widerspruch gut begründen, haben Sie reelle Chancen, in der Wohnung bleiben zu können.",
+      "topic": "Mietrecht"
+    },
+    {
+      "title": "„Amazon-Paletten“ – Die Wahrheit über die günstigen Retouren-Pakete",
+      "url": "https://www.volksstimme.de/leben/finanzen/amazon-paletten-kaufen-wahrheit-guenstiges-angebot-betrug-oder-schnaeppchen-3494499",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/11/28/f5c69433-5b7d-48fc-a403-1f8aefce7f26.jpeg?rect=0%2C405%2C3889%2C2188&width=100",
+      "image_title": "Eine Palette voller Spar-Wunder: Von einem solchen Gewinn träumen wohl viele. Doch meist sind die im Internet angebotenen \"Amazon-Paletten\" nur Betrug.",
+      "topic": "Spar-Wunder oder Betrug?"
+    },
+    {
+      "title": "Einspruch gegen Steuerbescheid: Ist das Dokument zugestellt?",
+      "url": "https://www.volksstimme.de/leben/finanzen/einspruch-gegen-steuerbescheid-ist-das-dokument-zugestellt-3791563",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/20/0e5eb953-4b22-4de9-9dd3-3c428bdc8df3.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Besser genau hinschauen, denn er muss nicht immer korrekt sein - der Steuerbescheid. Wem Unzulänglichkeiten bei der Berechnung des Finanzamts auffallen, sollte diese innerhalb kurzer Zeit mithilfe eines Einspruchs melden.",
+      "topic": "Sicherer per Elster"
+    },
+    {
+      "title": "Barrierefreies Banking: Inklusion bei Finanzgeschäften",
+      "url": "https://www.volksstimme.de/leben/finanzen/barrierefreies-banking-inklusion-bei-finanzgeschaften-3791561",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/20/00b013c0-4914-4145-b74f-d1a28dcc422e.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Blindenschrift am Geldautomat: So finden auch behinderte Menschen das Karteneingabefach.",
+      "topic": "Automat, App und Co."
+    },
+    {
+      "title": "Grundbuch: Diese Eintragungen sollten Sie unbedingt kennen",
+      "url": "https://www.volksstimme.de/leben/finanzen/grundbuch-diese-eintragungen-sollten-sie-unbedingt-kennen-3790223",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/18/fdb23782-dd4f-4053-8116-4ed750f3c179.jpeg?rect=0%2C93%2C2048%2C1152&width=100",
+      "image_title": "Ist der Zugang zum eigenen Grundstück nur über Grund und Boden des Nachbarn möglich, sollte das im Grundbuch vermerkt werden.",
+      "topic": "Grundschuld, Wegerecht und Co."
+    },
+    {
+      "title": "Das dauert keine 15 Sekunden: Paprika ganz easy schneiden",
+      "url": "https://www.volksstimme.de/leben/gesundheit/das-dauert-keine-15-sekunden-paprika-ganz-easy-schneiden-3735810",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/27/abad06a8-4464-4dfd-bd50-05509798f5df.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "1. Schritt: Wasche die Paprika zuerst und lege sie dann seitlich auf dein Schneidebrett. Schneide dann den oberen Teil kurz vor dem Strunk ab.",
+      "topic": "Lifehack für die Küche"
+    },
+    {
+      "title": "Feuer und Flammkuchen: So gibt's Knusperstücke auf die Hand",
+      "url": "https://www.volksstimme.de/leben/gesundheit/feuer-und-flammkuchen-so-gibt-s-knusperstucke-auf-die-hand-3744281",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/27/91454d28-8092-4151-9036-4fdb53bba227.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Der typische Elsässer Flammkuchen wird mit Schmand, Speckwürfel und Zwiebeln belegt. Ein Geheimtipp ist es, bereits in den Teig etwas weißen Pfeffer zu geben.",
+      "topic": "Kross und cremig zugleich"
+    },
+    {
+      "title": "Tiefkühlware: „Schütteltest“ ist Schnee von gestern",
+      "url": "https://www.volksstimme.de/leben/gesundheit/tiefkuhlware-schutteltest-ist-schnee-von-gestern-3795946",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/27/d748a1b6-902e-4480-89c0-4f28dfacf611.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "„Na, noch frisch?“ Mythos Schütteltest: Eiskristalle bilden sich auch bei Temperaturschwankungen im Minusbereich und sind kein Indiz dafür, dass das Produkt angetaut war.",
+      "topic": "Verbreiteter Irrtum"
+    },
+    {
+      "title": "Warum wir uns gründliches Kauen angewöhnen sollten",
+      "url": "https://www.volksstimme.de/leben/gesundheit/warum-wir-uns-grundliches-kauen-angewohnen-sollten-3795796",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/27/102d24f9-5e2d-4363-83f8-ea88df239bf9.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Gründliches Kauen: Ein kleiner Aufwand mit großer Wirkung für die Zahngesundheit und den intensiveren Genuss von Speisen.",
+      "topic": "Bis zu 30-mal"
+    },
+    {
+      "title": "Wie erkenne ich gesunde Fleischersatzprodukte?",
+      "url": "https://www.volksstimme.de/leben/gesundheit/wie-erkenne-ich-gesunde-fleischersatzprodukte-3739658",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/27/d37ae703-17d5-4084-aa90-bd270e57a5b7.jpeg?rect=0%2C101%2C2048%2C1152&width=100",
+      "image_title": "Heute gibt's veganes Hühnchen! Was man im Hinterkopf behalten muss: Fleischersatzprodukte sind oft stark verarbeitet.",
+      "topic": "Drei Tipps"
+    },
+    {
+      "title": "Infekte: Was die Atemwege von Pflegebedürftigen schützt",
+      "url": "https://www.volksstimme.de/leben/gesundheit/infekte-was-die-atemwege-von-pflegebedurftigen-schutzt-3795656",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/27/f01cbe06-32e7-46b3-9353-67b5a33420b2.jpeg?rect=0%2C105%2C2048%2C1152&width=100",
+      "image_title": "Mit einem aufrechten Oberkörper fällt das Atmen leichter.",
+      "topic": "Flache Atmung"
+    },
+    {
+      "title": "Kennenlernen mal anders: Gemeinsam kochen beim ersten Date",
+      "url": "https://www.volksstimme.de/leben/gesundheit/kennenlernen-mal-anders-gemeinsam-kochen-beim-ersten-date-3785687",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/26/a777092d-984a-421d-bd6a-896216b90239.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Schnippeln und flirten: Beim Koch-Dating hat man gleich ein Thema und kann Eigenheiten des Dates beobachten - ein guter Indikator, um zu schauen, ob man mehr will.",
+      "topic": "Flirten am Herd"
+    },
+    {
+      "title": "Ohne Tüte geht’s auch: Dunkle Soße einfach selber machen",
+      "url": "https://www.volksstimme.de/leben/gesundheit/ohne-tute-geht-s-auch-dunkle-sosse-einfach-selber-machen-3793131",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/26/11bdc7fb-3bb2-4a45-bd4e-0bf6b0c6ac80.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Anstatt die Soße zu binden, wird sie langsam reduziert. Das sorgt für einen intensiven Geschmack und eine schöne Farbe.",
+      "topic": "Andicken? Nein, reduzieren!"
+    },
+    {
+      "title": "So gelingt Essen fürs Klima - ganz ohne Verzicht",
+      "url": "https://www.volksstimme.de/leben/gesundheit/so-gelingt-essen-furs-klima-ganz-ohne-verzicht-3733582",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/26/fb328d1e-6c7e-4b15-8d1e-1548facdfbb7.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Ein nachhaltiger Speiseplan heißt nicht unbedingt Verzicht. Oft reicht es schon, einen Teil der Zutaten auszutauschen.",
+      "topic": "Mit Rezept-Idee"
+    },
+    {
+      "title": "Fitness-Frühstück: Körniger Frischkäse enthält viel Protein",
+      "url": "https://www.volksstimme.de/leben/gesundheit/fitness-fruhstuck-korniger-frischkase-enthalt-viel-protein-3795220",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/26/bf11b1ec-c701-49d6-a3c8-5a18430b8e8f.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Haferflocken, Apfelscheiben, Nüsse und körniger Frischkäse ergeben zusammen ein Power-Müsli.",
+      "topic": "Leichte Küche"
+    },
+    {
+      "title": "Kann der Frühjahrsputz auch problematisch sein?",
+      "url": "https://www.volksstimme.de/leben/haus-und-garten/kann-der-fruhjahrsputz-auch-problematisch-sein-3795529",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/26/92c2bde3-2a73-4140-aa5c-f95d8db0efa4.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Alles glänzt: Der Frühjahrsputz kann nicht nur der Wohnung guttun, sondern auch die Stimmung aufhellen.",
+      "topic": "Psychologie des Aufräumens"
+    },
+    {
+      "title": "Kalkflecken: Pflanzentöpfe mit Kartoffelschalen reinigen",
+      "url": "https://www.volksstimme.de/leben/haus-und-garten/kalkflecken-pflanzentopfe-mit-kartoffelschalen-reinigen-3793139",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/26/fc15e7de-716b-47ab-8f1e-a64a3bcbc650.jpeg?rect=0%2C102%2C2048%2C1152&width=100",
+      "image_title": "Kleine Töpfe können einfach in Kartoffelschalen-Wasser eingelegt werden. Bei großen Töpfen ist das Einreiben mit einer aufgeschnittenen Kartoffel einfacher.",
+      "topic": "Gartenkalender"
+    },
+    {
+      "title": "Diese Schädlinge müssen Sie im Herbst bekämpfen",
+      "url": "https://www.volksstimme.de/leben/haus-und-garten/diese-schadlinge-mussen-sie-im-herbst-bekampfen-3682409",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/26/610fa9f7-e414-466d-8357-402c58322ae9.jpeg?rect=0%2C105%2C2048%2C1152&width=100",
+      "image_title": "Der Gefurchte Dickmaulrüssler (Otiorhynchus sulcatus) ist etwa zehn Millimeter groß und gehört zu den hartnäckigsten Schädlingen im Garten.",
+      "topic": "Käfer und Co."
+    },
+    {
+      "title": "Für frühere Blüte: Dahlien vorziehen",
+      "url": "https://www.volksstimme.de/leben/haus-und-garten/fur-fruhere-blute-dahlien-vorziehen-3779356",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/26/8550db88-8e97-4df8-876a-b08d64be889b.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "So prächtig leuchten Dahlien im Sommer. Vorgezogene Pflanzen sind oft kräftiger.",
+      "topic": "Gartenkalender"
+    },
+    {
+      "title": "Cannabis-Pflanzen vor Schimmel schützen",
+      "url": "https://www.volksstimme.de/leben/haus-und-garten/cannabis-pflanzen-vor-schimmel-schutzen-3795269",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/26/b9be634a-c450-4893-9dc9-d31d95222ccd.jpeg?rect=0%2C91%2C2048%2C1152&width=100",
+      "image_title": "Ein optimal belüfteter Standort auf dem Balkon ist entscheidend für einen erfolgreichen Hanfanbau.",
+      "topic": "Hanfanbau"
+    },
+    {
+      "title": "Tierhaare auf Textilien: Tennisball in Waschmaschine legen",
+      "url": "https://www.volksstimme.de/leben/haus-und-garten/tierhaare-auf-textilien-tennisball-in-waschmaschine-legen-3795148",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/26/534bf74c-970f-4ad5-b135-4054128c101b.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Vom Schmusen mit dem Liebling haben Katzenbesitzerinnen oft noch länger etwas: in Form von Tierhaaren auf den Klamotten.",
+      "topic": "Einfacher Trick"
+    },
+    {
+      "title": "Umbau oder Neubau? So fällt die Entscheidung leichter",
+      "url": "https://www.volksstimme.de/leben/haus-und-garten/umbau-oder-neubau-so-fallt-die-entscheidung-leichter-3793127",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/23/ed76c907-b3d5-4141-9437-76a7a942427d.jpeg?rect=0%2C77%2C2048%2C1152&width=100",
+      "image_title": "Kann mit viel Aufwand und hohen Kosten verbunden sein: Eine alte Immobilie nach den eigenen Wünschen umgestalten.",
+      "topic": "Geerbte Immobilie"
+    },
+    {
+      "title": "Was tun, wenn es zu Hause brennt?",
+      "url": "https://www.volksstimme.de/leben/haus-und-garten/was-tun-wenn-es-zu-hause-brennt-3793589",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/23/8ccef6c1-bdd9-4a00-ae2b-26da55651849.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Wenn das Feuer schon sehr groß ist: nur noch raus! Wichtig: Feuerwehr rufen und Nachbarn warnen.",
+      "topic": "Raus und Nachbarn warnen"
+    },
+    {
+      "title": "Äpfel mit Charakter: Warum Einheitsäpfel passé sind",
+      "url": "https://www.volksstimme.de/leben/haus-und-garten/apfel-mit-charakter-warum-einheitsapfel-passe-sind-3790895",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/23/bf7474d8-71d1-4033-9c21-988df857fcba.jpeg?rect=0%2C75%2C2048%2C1152&width=100",
+      "image_title": "Streuobstwiesen-Projekte sind für Apfelfans ein perfekter Ort zum Austausch mit Gleichgesinnten.",
+      "topic": "Delikatessen mit Geschichte"
+    },
+    {
+      "title": "Test: Nur drei Allzweckreiniger sind „sehr gut“",
+      "url": "https://www.volksstimme.de/leben/haus-und-garten/test-nur-drei-allzweckreiniger-sind-sehr-gut-3792438",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/22/d46ef8fa-fee2-4464-8499-c8afb3993a87.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Die Experten der Zeitschrift „Öko-Test“ haben Allzweckreiniger auf ihre Reinigungskraft, chemische Beschaffenheit und Umweltfreundlichkeit überprüft. (zu dpa: „Test: Nur drei Allzweckreiniger sind „sehr gut““)",
+      "topic": "Saubere Sache?"
+    },
+    {
+      "title": "Zwischen Kümmern und Klausur: Wenn Studierende pflegen",
+      "url": "https://www.volksstimme.de/leben/job-und-bildung/zwischen-kummern-und-klausur-wenn-studierende-pflegen-3755297",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/27/f7039baf-7d4f-4669-a646-73779848a654.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Sinnvoll für Studierende, die Angehörige pflegen: Beratungsangebote an der Hochschule wahrnehmen.",
+      "topic": "Unterstützung finden"
+    },
+    {
+      "title": "Was macht eigentlich ein Fensterbauer?",
+      "url": "https://www.volksstimme.de/leben/job-und-bildung/was-macht-eigentlich-ein-fensterbauer-3776482",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/27/2350c49a-99b7-48a4-a00e-d87333c44dea.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "An einem fertigen Fenster im Haus haben viele Menschen mitgewirkt: Mathias Schulz, Tischlermeister und Produktionsleiter bei Hans Timm Fensterbau, spricht in der Glaserei mit seinen Kollegen.",
+      "topic": "Job-Protokoll"
+    },
+    {
+      "title": "Fehlerhafte E-Mail versandt: Mit Entschuldigung punkten",
+      "url": "https://www.volksstimme.de/leben/job-und-bildung/fehlerhafte-e-mail-versandt-mit-entschuldigung-punkten-3795980",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/27/1969e3da-aceb-49f6-a343-5e700e9b091b.jpeg?rect=0%2C103%2C2048%2C1152&width=100",
+      "image_title": "Upsi, falscher Anhang? Einen Fehler aktiv beim Gegenüber einzugestehen, bietet die Chance, den Fauxpas in etwas Positives zu verwandeln.",
+      "topic": "Kommunikation im Job"
+    },
+    {
+      "title": "Kreuzfahrtschiff sitzt fest: Das gilt arbeitsrechtlich",
+      "url": "https://www.volksstimme.de/leben/job-und-bildung/kreuzfahrtschiff-sitzt-fest-das-gilt-arbeitsrechtlich-3795361",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/26/5fd91391-7529-4aec-9aa8-032b92287d2e.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Wer absehen kann, dass er - obwohl gesund - ein Kreuzfahrtschiff nicht verlassen kann, sollte Kontakt zum Arbeitgeber aufnehmen und um weitere Urlaubstage bitten.",
+      "topic": "Krankheitswelle an Bord"
+    },
+    {
+      "title": "Ist künftig Kiffen am Arbeitsplatz erlaubt?",
+      "url": "https://www.volksstimme.de/leben/job-und-bildung/ist-kunftig-kiffen-am-arbeitsplatz-erlaubt-3795154",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/26/83639543-081d-43a4-99d1-b3a888c1b71e.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Joint im Job: Arbeitnehmer schulden ihre ungetrübte Arbeitsleistung.",
+      "topic": "Cannabis-Legalisierung"
+    },
+    {
+      "title": "Studieren „im Krisenmodus“: Wo bekomme ich Hilfe?",
+      "url": "https://www.volksstimme.de/leben/job-und-bildung/studieren-im-krisenmodus-wo-bekomme-ich-hilfe-3794878",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/26/984c0383-6f4c-4f69-b791-9d91160ccf29.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Wer im Studienalltag dauerhaft überfordert ist, sollte sich professionelle Hilfe suchen.",
+      "topic": "Ängste statt Leichtigkeit"
+    },
+    {
+      "title": "Betriebsbedingte Kündigung: Was gilt in Elternzeit?",
+      "url": "https://www.volksstimme.de/leben/job-und-bildung/betriebsbedingte-kundigung-was-gilt-in-elternzeit-3794877",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/26/a2d74b6b-2c4b-436b-a5ad-a9b49ee8ace4.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Alles eingepackt: Bei einer Betriebsstilllegung können auch Beschäftigte in Elternzeit unter Vorlage einer entsprechenden Genehmigung gekündigt werden.",
+      "topic": "Fragen aus dem Arbeitsrecht"
+    },
+    {
+      "title": "Warum sich Offenheit im Vorstellungsgespräch auszahlt",
+      "url": "https://www.volksstimme.de/leben/job-und-bildung/warum-sich-offenheit-im-vorstellungsgesprach-auszahlt-3793753",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/23/be69a664-aa56-45ed-8632-b81b08b8851b.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Personaler von sich zu überzeugen, ist oft keine leichte Aufgabe. Wer im Gespräch neugierig und offen agiert, hinterlässt eher einen sympathischen Eindruck und wirkt weniger unnahbar.",
+      "topic": "Persönlichkeit preisgeben"
+    },
+    {
+      "title": "Boomerang Hiring: Job-Comeback kann auch zum Flop werden",
+      "url": "https://www.volksstimme.de/leben/job-und-bildung/boomerang-hiring-job-comeback-kann-auch-zum-flop-werden-3792687",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/22/36c0e186-4950-4549-b859-ec2c4d3722fe.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Damit sich ein Comeback beim früheren Arbeitgeber nicht als Flop entpuppt, sollten Rückkehr-Kandidaten potenzielle Probleme am besten in Vorgesprächen abklären. (zu dpa: „Boomerang Hiring: Job-Comeback kann auch zum Flop werden“)",
+      "topic": "Zurück zum Ex-Arbeitgeber"
+    },
+    {
+      "title": "4 Tipps: Wie wir uns wieder an mehr Präsenzarbeit gewöhnen",
+      "url": "https://www.volksstimme.de/leben/job-und-bildung/4-tipps-wie-wir-uns-wieder-an-mehr-prasenzarbeit-gewohnen-3792283",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/02/21/5fadfccb-638f-46e2-8ee4-7bdb29d7d3a3.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Im direkten Gespräch vor Ort wird deutlich, wie wichtig persönliche Interaktion an Präsenztagen ist.",
+      "topic": "Geliebtes Homeoffice"
+    },
+    {
+      "title": "Zugverkehr nach Frankreich wegen Großstreik gestört",
+      "url": "https://www.volksstimme.de/leben/reisen/zugverkehr-nach-frankreich-wegen-grossstreik-gestort-3536145",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/02/03/79669375-523e-4a48-937e-614db6e4b7ee.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Ein einsamer Reisender geht durch den Bahnhof Montparnasse. Die französische Bahngesellschaft rät ihren Fahrgästen, wegen des Streiks zu Hause zu bleiben.",
+      "topic": "Arbeitsniederlegung"
+    },
+    {
+      "title": "Warnung vor Eisbruch im Thüringer Wald",
+      "url": "https://www.volksstimme.de/leben/reisen/warnung-vor-eisbruch-im-thuringer-wald-3536118",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/02/03/d80b8900-9025-4a71-828b-ffc4e364a97e.jpeg?rect=0%2C105%2C2048%2C1152&width=100",
+      "image_title": "Abbrechende Baumkronen und Äste, die der Schnee- und Eislast nicht mehr standhalten können, sind für Wintersportler ernstzunehmende Gefahren. Erste Loipen wurden bereits gesperrt.",
+      "topic": "Winterwetter"
+    },
+    {
+      "title": "Altes Handwerk ist in Brandenburg beliebt",
+      "url": "https://www.volksstimme.de/leben/reisen/altes-handwerk-ist-in-brandenburg-beliebt-3535331",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/02/09/61689525-4401-4363-bb1d-1463ef19f707.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Marco Wichert arbeitet in seinem „Zander Holzstudio“ am liebsten mit den alten Feilen seines Großvaters. In der alten Werkstatt, in der schon sein Urgroßvater gearbeitet hat, stellt er Servier- und Schneidebretter in traditioneller Handarbeit her.",
+      "topic": "Holz, Keramik und Posamente"
+    },
+    {
+      "title": "Streik am Düsseldorfer Airport: Diese Rechte haben Reisende",
+      "url": "https://www.volksstimme.de/leben/reisen/streik-am-dusseldorfer-airport-diese-rechte-haben-reisende-3533524",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/01/30/a5309326-b97e-42b1-9114-1a2ff6649474.jpeg?rect=0%2C210%2C2048%2C1152&width=100",
+      "image_title": "Geduld: Wegen eines Warnstreiks kam es zu Verspätungen und Flugausfällen.",
+      "topic": "Flüge verspätet und gestrichen"
+    },
+    {
+      "title": "Bis zu einem Meter Schnee auf Mallorca",
+      "url": "https://www.volksstimme.de/leben/reisen/bis-zu-einem-meter-schnee-auf-mallorca-3532755",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/01/31/9674668c-110b-4e57-945d-d64df7a57893.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Die Serra de Tramuntana auf Mallorca ist aktuell schneebedeckt.",
+      "topic": "Serra de Tramuntana in Weiß"
+    },
+    {
+      "title": "Neuer Verbindungsbahnhof in New York eröffnet",
+      "url": "https://www.volksstimme.de/leben/reisen/neuer-verbindungsbahnhof-in-new-york-eroffnet-3532683",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/02/07/62ec07df-a673-46ef-9836-452d81cbee68.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Am New Yorker Bahnhof Grand Central hat ein neues Verbindungsterminal eröffnet. Nun halten hier auch Züge aus dem Stadtteil Queens und von Long Island an.",
+      "topic": "Megaprojekt fertig"
+    },
+    {
+      "title": "Skilifte am Fichtelberg sind erneut gestartet",
+      "url": "https://www.volksstimme.de/leben/reisen/skilifte-am-fichtelberg-sind-erneut-gestartet-3531982",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/02/09/327f6dd2-7029-4088-be8a-725327dc0856.jpeg?rect=0%2C0%2C2048%2C1152&width=100",
+      "image_title": "Wintersportler sind bei Saisonstart in Sachsens größtem alpinen Skigebiet am Fichtelberg unterwegs.",
+      "topic": "Nach Pause"
+    },
+    {
+      "title": "Warnstreik am BER: Diese Rechte haben Reisende",
+      "url": "https://www.volksstimme.de/leben/reisen/warnstreik-am-ber-diese-rechte-haben-reisende-3530721",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/01/27/e5bf4bd8-737e-4f9b-8619-52a89d10b87d.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Geschlossen: Am Mittwoch können sich Fluggäste den Weg zum BER sparen - alle Passagierflüge sollen warnstreikbedingt ausfallen.",
+      "topic": "Tipps vom Reiserechtler"
+    },
+    {
+      "title": "Neue Kulturerlebnisroute führt durchs Wettiner Land",
+      "url": "https://www.volksstimme.de/leben/reisen/neue-kulturerlebnisroute-fuhrt-durchs-wettiner-land-3528044",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/02/07/cf145424-8d55-4661-b5d9-b30b3d656d56.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Die neue „Kulturerlebnisroute Wettiner Weg“ führt auch an der Burg Wettin nahe Halle vorbei.",
+      "topic": "Radtour"
+    },
+    {
+      "title": "Neuartige Scanner für Handgepäck am Frankfurter Flughafen",
+      "url": "https://www.volksstimme.de/leben/reisen/neuartige-scanner-fur-handgepack-am-frankfurter-flughafen-3528020",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/01/30/4a7e3b13-ba15-4ac9-b6c9-4f48073e7184.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Der Flughafen Frankfurt will seine Luftsicherheitskontrollen mit modernen CT-Scannern verbessern.",
+      "topic": "Gegen Abfertigungschaos"
+    },
+    {
+      "title": "Valorant Champions: Team Liquid verliert WM-Auftaktspiel",
+      "url": "https://www.volksstimme.de/leben/technik/valorant-champions-team-liquid-verliert-wm-auftaktspiel-3435922",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/31/d6da1c82-eb1d-49f6-bbea-4e32d1743102.jpeg?rect=0%2C124%2C2048%2C1152&width=100",
+      "image_title": "In Istanbul findet die Champions genannte Weltmeisterschaft in Valorant statt.",
+      "topic": "Weltmeisterschaft in Istanbul"
+    },
+    {
+      "title": "Snapchat kündigt Stellenabbau an",
+      "url": "https://www.volksstimme.de/leben/technik/snapchat-kundigt-stellenabbau-an-3435795",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/31/f09f9e10-2b79-46da-b8f0-6571e3ddfd1b.jpeg?rect=0%2C209%2C2048%2C1152&width=100",
+      "image_title": "Das Icon von Snapchat auf einem Smartphone: Bei Snap stimmen die Zahlen nicht mehr. Hunderte Mitarbeiter müssen gehen.",
+      "topic": "Sparmaßnahmen"
+    },
+    {
+      "title": "Klapp-Notebook: Asus stellt Foldable mit OLED-Screen vor",
+      "url": "https://www.volksstimme.de/leben/technik/klapp-notebook-asus-stellt-foldable-mit-oled-screen-vor-3435678",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/31/f9ecb13f-ed3f-473f-be44-d22d45c754ce.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Ein Gerät, viele Einsatzmodi. Das Zenbook 17 Fold OLED von Asus ist Tablet, Notebook oder Desktop-Ersatz.",
+      "topic": "IFA 2022"
+    },
+    {
+      "title": "Musk erklärt Twitter-Deal für ungültig",
+      "url": "https://www.volksstimme.de/leben/technik/musk-erklart-twitter-deal-fur-ungultig-3434995",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/30/f9f241bf-5d34-4ecc-a009-b00f8549d302.jpeg?rect=0%2C106%2C2048%2C1152&width=100",
+      "image_title": "Elon Musk, Gründer von Tesla, streitet sich mit Twitter vor Gericht.",
+      "topic": "Internet"
+    },
+    {
+      "title": "Sprout siegt zum Herbst-Auftakt der CS:GO ESL Meisterschaft",
+      "url": "https://www.volksstimme.de/leben/technik/sprout-siegt-zum-herbst-auftakt-der-cs-go-esl-meisterschaft-3434860",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/31/6372561e-8991-45be-9399-5a4e25b6825c.jpeg?rect=0%2C116%2C2048%2C1152&width=100",
+      "image_title": "Die ESL Meisterschaft ist in ihre Herbstsaison in CS:GO gestartet.",
+      "topic": "Trotz zwei Ersatzspielern"
+    },
+    {
+      "title": "Prepaid-Werbung für Mindestumsatz-Freiheit muss stimmen",
+      "url": "https://www.volksstimme.de/leben/technik/prepaid-werbung-fur-mindestumsatz-freiheit-muss-stimmen-3434831",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/31/9f442deb-f256-48a0-a0eb-fe3ac8c01e36.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Starter-Kit kaufen und ohne weitere Kosten dauerhaft erreichbar sein: Damit dürfen Prepaid-Kundinnen und -Kunden rechnen, wenn der Anbieter mit „kein Mindestumsatz“ wirbt.",
+      "topic": "Urteil"
+    },
+    {
+      "title": "Overwatch-League-Team London bangt um Turnierquali",
+      "url": "https://www.volksstimme.de/leben/technik/overwatch-league-team-london-bangt-um-turnierquali-3434616",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/30/cfdc16d1-0c8d-42fa-8d4b-0de61aa2a347.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Nach Niederlagen gegen Atlanta und Washington droht das Aus im Rennen um das nächste OWL-Turnier. (Archivbild)",
+      "topic": "Chance nicht genutzt"
+    },
+    {
+      "title": "Digitaler Briefversand: Post kooperiert mit Web.de und GMX",
+      "url": "https://www.volksstimme.de/leben/technik/digitaler-briefversand-post-kooperiert-mit-web-de-und-gmx-3434540",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/29/a82f624b-fc08-44eb-be6a-e5739d503876.jpeg?rect=0%2C91%2C2048%2C1152&width=100",
+      "image_title": "Der Gang zum Briefkasten könnte für Nutzerinnen und Nutzer von GMX und Web.de bald überflüssig werden. Das verspricht ein neues Angebot der Deutschen Post.",
+      "topic": "Digitalisierung"
+    },
+    {
+      "title": "Das passende Refurbished-Smartphone finden",
+      "url": "https://www.volksstimme.de/leben/technik/das-passende-refurbished-smartphone-finden-3434657",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/30/b28c67db-b656-4df6-aec4-c9fa0cd915d0.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Smartphones werden öfter durchgetauscht als für die Umwelt gut ist. Warum nicht mal ein Refurbished-Gerät statt ein neues Telefon kaufen?",
+      "topic": "Aufgemöbelt für die Umwelt"
+    },
+    {
+      "title": "Auflegen hilft: Telefon-Betrügereien werden immer dreister",
+      "url": "https://www.volksstimme.de/leben/technik/auflegen-hilft-telefon-betrugereien-werden-immer-dreister-3434376",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/30/ffd045d5-14e5-48f4-b435-44f5e14072f6.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Schon wieder die Polizei wegen dieses angeblichen Pakets? - Bei unerwarteten Anrufen ist jeder Zweifel angebracht.",
+      "topic": "Polizei warnt"
+    },
+    {
+      "title": "Verein für Bestattungskultur begrüßt Ausnahmen zur Sargpflicht",
+      "url": "https://www.volksstimme.de/leben/trauer/verein-fur-bestattungskultur-begrusst-ausnahmen-zur-sargpflicht-3178779",
+      "topic": "Bestattung"
+    },
+    {
+      "title": "Den Tag X planen: Schon zu Lebzeiten an die Beerdigung denken",
+      "url": "https://www.volksstimme.de/leben/trauer/den-tag-x-planen-schon-zu-lebzeiten-an-die-beerdigung-denken-3178777",
+      "image_url": "https://bmg-images.forward-publishing.io/2021/5/31/49385b6c-0e35-420e-8d26-904f66e80e92.jpeg?rect=3%2C1972%2C2991%2C1824&width=100",
+      "image_title": "Der Gedanke an den eigenen Tod ist für viele Menschen natürlich nicht angenehm.",
+      "topic": "Bestattung"
+    },
+    {
+      "title": "Recht: Was bei Bestattungen erlaubt ist",
+      "url": "https://www.volksstimme.de/leben/trauer/recht-was-bei-bestattungen-erlaubt-ist-1097500",
+      "image_url": "https://bmg-images.forward-publishing.io/2021/4/3/be37c0b9-ad54-48bf-b38b-7ab2a203d39e.jpeg?width=100",
+      "image_title": "Recht: Was bei Bestattungen erlaubt ist",
+      "topic": "Friedhof"
+    },
+    {
+      "title": "Was im Todesfall zu tun ist",
+      "url": "https://www.volksstimme.de/leben/trauer/was-im-todesfall-zu-tun-ist-1004229",
+      "image_url": "https://bmg-images.forward-publishing.io/2021/4/3/bcdccc4b-e0bf-40f8-8eb0-2bf93b7fd83e.jpeg?width=100",
+      "image_title": "Was im Todesfall zu tun ist",
+      "topic": "Hinterbliebene"
+    },
+    {
+      "title": "Tipps für die eigene Beerdigung",
+      "url": "https://www.volksstimme.de/leben/trauer/tipps-fur-die-eigene-beerdigung-884541",
+      "image_url": "https://bmg-images.forward-publishing.io/2021/4/3/98d84f4d-42a2-4cbb-8594-32769d9a3480.jpeg?width=100",
+      "image_title": "Tipps für die eigene Beerdigung",
+      "topic": "Bestattung"
+    },
+    {
+      "title": "Bei der Grabpflege helfen lassen",
+      "url": "https://www.volksstimme.de/leben/trauer/bei-der-grabpflege-helfen-lassen-1937745",
+      "image_url": "https://bmg-images.forward-publishing.io/2021/4/20/680f54ee-c313-481b-8662-77850da6c459.jpeg?width=100",
+      "image_title": "Bei der Grabpflege helfen lassen",
+      "topic": "Friedhof"
+    },
+    {
+      "title": "Den Tod nicht verdrängen",
+      "url": "https://www.volksstimme.de/leben/trauer/den-tod-nicht-verdrangen-1907417",
+      "image_url": "https://bmg-images.forward-publishing.io/2021/4/20/c5d13c63-5f43-44df-86fa-3a184ef4ebe6.jpeg?width=100",
+      "image_title": "Den Tod nicht verdrängen",
+      "topic": "Trauer"
+    },
+    {
+      "title": "Wenn Trauer krank macht",
+      "url": "https://www.volksstimme.de/leben/trauer/wenn-trauer-krank-macht-734679",
+      "image_url": "https://bmg-images.forward-publishing.io/2021/4/3/ecd98a6f-5038-44e6-b077-cdde32ebe891.jpeg?width=100",
+      "image_title": "Wenn Trauer krank macht",
+      "topic": "Trauerarbeit"
+    },
+    {
+      "title": "Erbvertrag kann Testament ersetzen",
+      "url": "https://www.volksstimme.de/leben/trauer/erbvertrag-kann-testament-ersetzen-693214",
+      "image_url": "https://bmg-images.forward-publishing.io/2021/4/3/a8455531-7d9e-4dda-be0c-51dd36817c81.jpeg?width=100",
+      "image_title": "Erbvertrag kann Testament ersetzen",
+      "topic": "Erbrecht"
+    },
+    {
+      "title": "Über Leben, Tod und Sterben: \"Jenseite\" will Tod und Trauer aus dem Abseits holen",
+      "url": "https://www.volksstimme.de/leben/trauer/uber-leben-tod-und-sterben-jenseite-will-tod-und-trauer-aus-dem-abseits-holen-570571",
+      "image_url": "https://bmg-images.forward-publishing.io/2021/4/3/4e1e10bc-09c0-4329-99a9-8ad61d929d23.jpeg?width=100",
+      "image_title": "Über Leben, Tod und Sterben: \"Jenseite\" will Tod und Trauer aus dem Abseits holen"
+    }
+  ]
 }
