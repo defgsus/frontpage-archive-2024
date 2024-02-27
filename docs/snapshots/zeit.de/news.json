@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-27T13:01:46",
+  "timestamp": "2024-02-27T14:01:42",
   "url": "https://www.zeit.de/news/index",
   "response": {
     "status": 200
@@ -19,29 +19,349 @@
     },
     {
       "type": null,
-      "src": "https://static.zeit.de/p/zeit.web/js/images.b8b38688229d35b1de5c.js",
+      "src": "https://static.zeit.de/p/zeit.web/js/images.6a9026e436707279a0b4.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://static.zeit.de/p/zeit.web/js/site.03fc3397816aaff26f4a.js",
+      "src": "https://static.zeit.de/p/zeit.web/js/site.254490ba7766b2b287ec.js",
       "id": null,
       "text": null
     }
   ],
   "articles": [
     {
+      "title": "Linksterroristin : Ehemalige RAF-Terroristin Daniela Klette in U-Haft",
+      "url": "https://www.zeit.de/gesellschaft/2024-02/ehemalige-raf-terroristin-daniela-klette-festgenommen"
+    },
+    {
+      "title": "Unfälle : 187 Verkehrstote in Sachsen 2023: deutlicher Anstieg",
+      "url": "https://www.zeit.de/news/2024-02/27/187-verkehrstote-in-sachsen-2023-deutlicher-anstieg"
+    },
+    {
+      "title": "Kabinettsbeschluss : Vergabegesetz auf den Weg gebracht",
+      "url": "https://www.zeit.de/news/2024-02/27/vergabegesetz-auf-den-weg-gebracht"
+    },
+    {
+      "title": "Umwelt : Saarland-Kampagne wirbt für «Respekt im Wald»",
+      "url": "https://www.zeit.de/news/2024-02/27/saarland-kampagne-wirbt-fuer-respekt-im-wald"
+    },
+    {
+      "title": "Justiz : Weiteres Todesopfer der Trierer Amokfahrt: Täter schweigt",
+      "url": "https://www.zeit.de/news/2024-02/26/trierer-amokfahrer-steht-erneut-vor-gericht"
+    },
+    {
+      "title": "Unfall : Verkehrsunfall mit zwei Schwerverletzten",
+      "url": "https://www.zeit.de/news/2024-02/27/verkehrsunfall-mit-zwei-schwerverletzten"
+    },
+    {
+      "title": "Bundesmodell : Schweriner OB: Grundsteuerreform verteuert Wohnen",
+      "url": "https://www.zeit.de/news/2024-02/27/schweriner-ob-grundsteuerreform-verteuert-wohnen"
+    },
+    {
+      "title": "Terrorismus : Justizministerin: «Deutliches Zeichen an Schwerstverbrecher»",
+      "url": "https://www.zeit.de/news/2024-02/27/justizministerin-deutliches-zeichen-an-schwerstverbrecher"
+    },
+    {
+      "title": "Verkehrsanbindung : Neue S-Bahn im Berliner Osten geplant",
+      "url": "https://www.zeit.de/news/2024-02/27/neue-s-bahn-im-berliner-osten-geplant"
+    },
+    {
+      "title": "Ukraine-Krieg : Scholz und Stoltenberg wollen keine Soldaten in die Ukraine schicken",
+      "url": "https://www.zeit.de/politik/2024-02/ukraine-krieg-nato-soldaten-entsendung-scholz"
+    },
+    {
+      "title": "Prozess : Tödliche Schüsse: Polizei sucht Waffe in Außenalster",
+      "url": "https://www.zeit.de/news/2024-02/27/toedliche-schuesse-polizei-sucht-waffe-in-aussenalster"
+    },
+    {
+      "title": "Berlinale-Skandal : Justizminister droht mit strafrechtlichen Konsequenzen",
+      "url": "https://www.zeit.de/news/2024-02/27/berlinale-eklat-buschmann-droht-mit-strafrechtlichen-folgen"
+    },
+    {
+      "title": "Prozess : Sexueller Missbrauch von Kind: Mann zu Haft verurteilt",
+      "url": "https://www.zeit.de/news/2024-02/27/sexueller-missbrauch-von-kind-mann-zu-haft-verurteilt"
+    },
+    {
+      "title": "Staatsanwaltschaft Verden : Ex-RAF-Terroristin Klette in Untersuchungshaft",
+      "url": "https://www.zeit.de/news/2024-02/27/ex-raf-terroristin-klette-in-untersuchungshaft"
+    },
+    {
+      "title": "Bundesgerichtshof : Umgang mit Kind darf nicht an Geldzahlungen geknüpft sein",
+      "url": "https://www.zeit.de/news/2024-02/27/umgang-mit-kind-darf-nicht-an-geldzahlungen-geknuepft-sein"
+    },
+    {
+      "title": "Klima : Forscher: Dürre hat sich bundesweit aufgelöst",
+      "url": "https://www.zeit.de/news/2024-02/27/forscher-duerre-hat-sich-bundesweit-aufgeloest"
+    },
+    {
+      "title": "Bundesliga : Werder-Neuzugang entschuldigt sich nach homophoben Gesängen",
+      "url": "https://www.zeit.de/news/2024-02/27/neuzugang-gruell-entschuldigung-nach-homophoben-gesaengen"
+    },
+    {
+      "title": "Prozess : Vier mutmaßliche Mitglieder einer Schleuserbande verhaftet",
+      "url": "https://www.zeit.de/news/2024-02/27/vier-mutmassliche-mitglieder-einer-schleuserbande-verhaftet"
+    },
+    {
+      "title": "Terrorismus : Ex-RAF-Terroristin Klette in Untersuchungshaft",
+      "url": "https://www.zeit.de/news/2024-02/27/fruehere-raf-terroristin-daniela-klette-in-berlin-gefasst"
+    },
+    {
       "title": "Statistik : Mehr Tote und Verletzte bei Verkehrsunfällen",
       "url": "https://www.zeit.de/news/2024-02/27/zahl-der-verkehrstoten-im-jahr-2023-gestiegen"
     },
     {
-      "title": "Wahlen : Mützenich: Berlin muss sich mehr anstrengen",
-      "url": "https://www.zeit.de/news/2024-02/27/muetzenich-berlin-muss-sich-mehr-anstrengen"
+      "title": "Kriminalität : Trierer Amokfahrer steht erneut vor Gericht",
+      "url": "https://www.zeit.de/news/2024-02/27/neuer-prozess-um-trierer-amokfahrt-belastet-betroffene"
     },
     {
-      "title": "Terrorismus : Frühere RAF-Terroristin Daniela Klette in Berlin gefasst",
-      "url": "https://www.zeit.de/news/2024-02/27/fruehere-raf-terroristin-daniela-klette-in-berlin-gefasst"
+      "title": "Justiz : Grüne fordern Aufklärung im Badewannen-Mordfall",
+      "url": "https://www.zeit.de/news/2024-02/27/gruene-fordern-aufklaerung-im-badewannen-mordfall"
+    },
+    {
+      "title": "Wissenschaft : FDP will NRW als Standort für erstes Kernfusionskraftwerk",
+      "url": "https://www.zeit.de/news/2024-02/27/fdp-will-nrw-als-standort-fuer-erstes-kernfusionskraftwerk"
+    },
+    {
+      "title": "Mansfeld-Südharz : Dritthöchste Hochwasser-Alarmstufe an der Helme aufgehoben",
+      "url": "https://www.zeit.de/news/2024-02/27/dritthoechste-hochwasser-alarmstufe-an-der-helme-aufgehoben"
+    },
+    {
+      "title": "Russische Invasion : Krieg gegen die Ukraine: So ist die Lage",
+      "url": "https://www.zeit.de/news/2024-02/27/krieg-gegen-die-ukraine-so-ist-die-lage"
+    },
+    {
+      "title": "Polizei : Abgetrenntes Bein in Park entdeckt: Großaufgebot",
+      "url": "https://www.zeit.de/news/2024-02/27/abgetrenntes-bein-in-park-entdeckt-grossaufgebot"
+    },
+    {
+      "title": "Kulturpolitik : Berlinale-Eklat: Justizminister droht mit Konsequenzen",
+      "url": "https://www.zeit.de/news/2024-02/27/berlinale-eklat-justizminister-droht-mit-konsequenzen"
+    },
+    {
+      "title": "Ermittlungen : Parolen an Friedenskirche in Frankfurt (Oder) gesprüht",
+      "url": "https://www.zeit.de/news/2024-02/27/parolen-an-friedenskirche-in-frankfurt-oder-gesprueht"
+    },
+    {
+      "title": "Prozess : Neuer Haftbefehl im Zusammenhang mit blutiger Fehde",
+      "url": "https://www.zeit.de/news/2024-02/27/neuer-haftbefehl-im-zusammenhang-mit-blutiger-fehde"
+    },
+    {
+      "title": "Tourismus : Jugendherbergen: Zuwachs bei den Schulklassen nach Corona",
+      "url": "https://www.zeit.de/news/2024-02/27/jugendherbergen-zuwachs-bei-den-schulklassen-nach-corona"
+    },
+    {
+      "title": "Bundesliga : Über Platz fünf in die Königsklasse? Kein Szenario für RB",
+      "url": "https://www.zeit.de/news/2024-02/27/ueber-platz-fuenf-in-die-koenigsklasse-kein-szenario-fuer-rb"
+    },
+    {
+      "title": "Kriminalität : Mädchen legen mutmaßlich Feuerlöscher auf Bahngleise",
+      "url": "https://www.zeit.de/news/2024-02/27/maedchen-legen-mutmasslich-feuerloescher-auf-bahngleise"
+    },
+    {
+      "title": "Digitalisierung : Städte fordern Bürokratieabbau von Bund und Ländern",
+      "url": "https://www.zeit.de/news/2024-02/27/staedte-fordern-buerokratieabbau-von-bund-und-laendern"
+    },
+    {
+      "title": "Prozess in Magdeburg : Nach Geiselnahme im Gefängnis: Urteil gegen Halle-Attentäter",
+      "url": "https://www.zeit.de/news/2024-02/27/nach-geiselnahme-im-gefaengnis-haft-fuer-halle-attentaeter"
+    },
+    {
+      "title": "Jugendherbergen : Nach Pandemie-Einbruch: Mehr Übernachtungen",
+      "url": "https://www.zeit.de/news/2024-02/27/nach-pandemie-einbruch-mehr-uebernachtungen"
+    },
+    {
+      "title": "Kommune : Streit um Cannabis-Club: Kein Hasch in Aschheim?",
+      "url": "https://www.zeit.de/news/2024-02/26/streit-um-cannabis-club-kein-hasch-in-aschheim"
+    },
+    {
+      "title": "Rügener LNG-Terminal : Gemeinde und DUH kritisieren Behörde",
+      "url": "https://www.zeit.de/news/2024-02/27/gemeinde-und-duh-kritisieren-behoerde"
+    },
+    {
+      "title": "Flüchtlinge : Grüne fordert mehr Konkretes bei Bezahlkarten-Plänen",
+      "url": "https://www.zeit.de/news/2024-02/27/gruene-fordert-mehr-konkretes-bei-bezahlkarten-plaenen"
+    },
+    {
+      "title": "Union-Neuzugang : Vertessen will mehr Spielzeit: «Bisschen enttäuscht»",
+      "url": "https://www.zeit.de/news/2024-02/27/vertessen-will-mehr-spielzeit-bisschen-enttaeuscht"
+    },
+    {
+      "title": "Katastrophenschutz : Poseck dankt Einsatzkräften in Hadamar",
+      "url": "https://www.zeit.de/news/2024-02/27/poseck-dankt-einsatzkraeften-in-hadamar"
+    },
+    {
+      "title": "Einzelhandel : Mehrere Tausend Kunden von Cyberangriff bei KaDeWe betroffen",
+      "url": "https://www.zeit.de/news/2024-02/27/mehrere-tausend-kunden-von-cyberangriff-bei-kadewe-betroffen"
+    },
+    {
+      "title": "Moderator : Gottschalk wehrt sich gegen «Tatscher»-Vorwürfe",
+      "url": "https://www.zeit.de/news/2024-02/27/gottschalk-wehrt-sich-gegen-tatscher-vorwuerfe"
+    },
+    {
+      "title": "Corona : Quarantäne: Land muss Verdienstausfall für Ungeimpfte zahlen",
+      "url": "https://www.zeit.de/news/2024-02/27/quarantaene-land-muss-verdienstausfall-fuer-ungeimpfte-zahlen"
+    },
+    {
+      "title": "Sozialgerichtsprozesse : Verfahrenslaufzeiten in MV sollen sinken",
+      "url": "https://www.zeit.de/news/2024-02/27/verfahrenslaufzeiten-in-mv-sollen-sinken"
+    },
+    {
+      "title": "Berlinale : Herrmann fordert Roth nach Vorfall zum Rücktritt auf",
+      "url": "https://www.zeit.de/news/2024-02/27/herrmann-fordert-roth-nach-vorfall-zum-ruecktritt-auf"
+    },
+    {
+      "title": "Arbeitsmarkt : Intel-Ansiedlung könnte für Zuzug von 10.900 Menschen sorgen",
+      "url": "https://www.zeit.de/news/2024-02/27/intel-ansiedlung-koennte-fuer-zuzug-von-10-900-menschen-sorgen"
+    },
+    {
+      "title": "Taxi : München erhöht Taxitarife kräftig",
+      "url": "https://www.zeit.de/news/2024-02/27/muenchen-erhoeht-taxitarife-kraeftig"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Baller League : Amateurvereine gegen Baller League",
+      "url": "https://www.zeit.de/sport/2024-02/baller-league-amateurvereine-kritik-fv-bonn-endenich"
+    },
+    {
+      "title": "Bundesliga : Eberl zwischen Trainersuche und Kaderumbau",
+      "url": "https://www.zeit.de/news/2024-02/27/eberl-zwischen-trainersuche-und-kaderumbau"
+    },
+    {
+      "title": "Berlinale-Vorfall : Herrmann fordert Roth zum Rücktritt auf",
+      "url": "https://www.zeit.de/news/2024-02/27/herrmann-fordert-roth-zum-ruecktritt-auf"
+    },
+    {
+      "title": "Energie : Anträge auf Heizungsförderung ab sofort möglich",
+      "url": "https://www.zeit.de/news/2024-02/27/antraege-auf-heizungsfoerderung-bei-kfw-ab-sofort-moeglich"
+    },
+    {
+      "title": "Prenzlauer Berg : Mann findet Ex-Frau tot in Wohnung: Mordkommission ermittelt",
+      "url": "https://www.zeit.de/news/2024-02/27/mann-findet-ex-frau-tot-in-wohnung-mordkommission-ermittelt"
+    },
+    {
+      "title": "Infrastrukturministerin : Keine Windräder im Wald: Regierung prüft Verfassungsklage",
+      "url": "https://www.zeit.de/news/2024-02/27/keine-windraeder-im-wald-regierung-prueft-verfassungsklage"
+    },
+    {
+      "title": "Verkehr : Hochbahn rechnet mit Stillstand wegen des Verdi-Warnstreiks",
+      "url": "https://www.zeit.de/news/2024-02/27/hochbahn-rechnet-mit-stillstand-wegen-des-verdi-warnstreiks"
+    },
+    {
+      "title": "Notfall : Tödlicher Notfall in Hotel auf Usedom: Ursache noch unklar",
+      "url": "https://www.zeit.de/news/2024-02/27/toedlicher-notfall-in-hotel-auf-usedom-ursache-noch-unklar"
+    },
+    {
+      "title": "Landgericht Stendal : Sieben Jahre Haft für Halle-Attentäter wegen Geiselnahme",
+      "url": "https://www.zeit.de/news/2024-02/27/geiselnahme-im-gefaengnis-7-jahre-haft-fuer-halle-attentaeter"
+    },
+    {
+      "title": "Notfall : Tödlicher Notfall in Hotel: Mehrere Verletzte in Kliniken",
+      "url": "https://www.zeit.de/news/2024-02/27/toedlicher-notfall-in-hotel-mehrere-verletzte-in-kliniken"
+    },
+    {
+      "title": "Bau : Bremen gründet Stadtentwicklungsgesellschaft",
+      "url": "https://www.zeit.de/news/2024-02/27/bremen-gruendet-stadtentwicklungsgesellschaft"
+    },
+    {
+      "title": "Verkehr : Mehr Geld für Straßen- und Radwegebau",
+      "url": "https://www.zeit.de/news/2024-02/27/mehr-geld-fuer-strassen-und-radwegebau"
+    },
+    {
+      "title": "Jüdische Gemeinde Berlin : Zentralrat der Juden suspendiert Jüdische Gemeinde zu Berlin",
+      "url": "https://www.zeit.de/gesellschaft/2024-02/zetralrat-der-juden-juedische-gemeinde-berlin-suspendiert"
+    },
+    {
+      "title": "Regierung : Wüst warnt vor Scheitern des Kohleausstiegs bis 2030",
+      "url": "https://www.zeit.de/news/2024-02/27/wuest-warnt-vor-scheitern-des-kohleausstiegs-bis-2030"
+    },
+    {
+      "title": "Auto : Mehr Menschen nutzen Carsharing-Anbieter Teilauto",
+      "url": "https://www.zeit.de/news/2024-02/27/mehr-menschen-nutzen-carsharing-anbieter-teilauto"
+    },
+    {
+      "title": "FC Bayern München : Eberl zwischen Suche und Umbau: «Bin kein Heilsbringer»",
+      "url": "https://www.zeit.de/news/2024-02/27/willkommen-dahoam-max-eberl-bekraeftigt-titelambitionen"
+    },
+    {
+      "title": "Prozess : Kirchenbrand: Neun Jahre Haft für Angeklagten",
+      "url": "https://www.zeit.de/news/2024-02/27/kirchenbrand-neun-jahre-haft-fuer-angeklagten"
+    },
+    {
+      "title": "Salzlandkreis : Wassertourismus: Baustart für neue Steganlagen an der Saale",
+      "url": "https://www.zeit.de/news/2024-02/27/wassertourismus-baustart-fuer-neue-steganlagen-an-der-saale"
+    },
+    {
+      "title": "Wettbewerb : Mehr als 200 Musiker wollen zum Robert-Schumann-Wettbewerb",
+      "url": "https://www.zeit.de/news/2024-02/27/mehr-als-200-musiker-wollen-zum-robert-schumann-wettbewerb"
+    },
+    {
+      "title": "Oberbergischer Kreis : Busfahrer mit Drogen am Steuer: Fahrgast ruft Polizei",
+      "url": "https://www.zeit.de/news/2024-02/27/busfahrer-mit-drogen-am-steuer-fahrgast-ruft-polizei"
+    },
+    {
+      "title": "Tarife : BVG sagt wegen Warnstreiks Verhandlungsrunde am Freitag ab",
+      "url": "https://www.zeit.de/news/2024-02/27/bvg-sagt-wegen-warnstreiks-verhandlungsrunde-am-freitag-ab"
+    },
+    {
+      "title": "Judentum : Zentralrat der Juden suspendiert Jüdische Gemeinde",
+      "url": "https://www.zeit.de/news/2024-02/27/zentralrat-der-juden-suspendiert-juedische-gemeinde"
+    },
+    {
+      "title": "Alternativ-Energien : Scholz informiert sich über Solar- und Wärmepumpenforschung",
+      "url": "https://www.zeit.de/news/2024-02/27/scholz-informiert-sich-ueber-solar-und-waermepumpenforschung"
+    },
+    {
+      "title": "Bielefeld : Arsenverdacht: Bielefelder Bibliothek sperrt 60.000 Bücher",
+      "url": "https://www.zeit.de/news/2024-02/27/arsenverdacht-uni-bibliothek-sperrt-60-000-buecher"
+    },
+    {
+      "title": "München : Schuldnerquote auf Tiefstand - Trendwende erwartet",
+      "url": "https://www.zeit.de/news/2024-02/27/schuldnerquote-auf-tiefstand-trendwende-erwartet"
+    },
+    {
+      "title": "Frauen : Union-Trainerin nimmt vor Pokal-Derby Favoritenrolle an",
+      "url": "https://www.zeit.de/news/2024-02/27/union-trainerin-nimmt-vor-pokal-derby-favoritenrolle-an"
+    },
+    {
+      "title": "Bundesliga : THW Kiel verlängert Vertrag von Sven Ehrig nicht",
+      "url": "https://www.zeit.de/news/2024-02/27/thw-kiel-verlaengert-vertrag-von-sven-ehrig-nicht"
+    },
+    {
+      "title": "Verkehr : «Unvermeidbar» - Harzer Schmalspurbahnen erhöhen Preise",
+      "url": "https://www.zeit.de/news/2024-02/27/unvermeidbar-harzer-schmalspurbahnen-erhoehen-preise"
+    },
+    {
+      "title": "Gesellschaft : Anwälte kritisieren Situation im «Faulen Pelz» in Heidelberg",
+      "url": "https://www.zeit.de/news/2024-02/27/anwaelte-kritisieren-situation-im-faulen-pelz-in-heidelberg"
+    },
+    {
+      "title": "Kriminalität : Neun Verdächtige wegen Drogenhandels verhaftet",
+      "url": "https://www.zeit.de/news/2024-02/27/neun-verdaechtige-wegen-drogenhandels-verhaftet"
+    },
+    {
+      "title": "Bundesregierung : Bauern protestieren lautstark bei Spatenstich mit Scholz",
+      "url": "https://www.zeit.de/news/2024-02/26/spatenstich-solarforschung-kanzler-scholz-in-suedbaden"
+    },
+    {
+      "title": "Mecklenburg-Vorpommern : Kohlenmonoxid in Heringsdorfer Hotel - ein Toter",
+      "url": "https://www.zeit.de/news/2024-02/27/kohlenmonoxid-in-heringsdorfer-hotel-ein-toter"
+    },
+    {
+      "title": "CDU-Landrat : Geflüchtete sollen für 80 Cent pro Stunde arbeiten",
+      "url": "https://www.zeit.de/news/2024-02/27/gefluechtete-sollen-fuer-80-cent-pro-stunde-arbeiten"
+    },
+    {
+      "title": "Streik : Warnstreiks bringen auch Einschränkungen für Schülerverkehr",
+      "url": "https://www.zeit.de/news/2024-02/27/warnstreiks-bringen-auch-einschraenkungen-fuer-schuelerverkehr"
+    },
+    {
+      "title": "Urteile : «Correctiv»-Bericht: Teilerfolg für Vosgerau vor Gericht",
+      "url": "https://www.zeit.de/news/2024-02/27/correctiv-bericht-teilerfolg-fuer-vosgerau-vor-gericht"
+    },
+    {
+      "title": "Wahlen : Mützenich: Berlin muss sich mehr anstrengen",
+      "url": "https://www.zeit.de/news/2024-02/27/muetzenich-berlin-muss-sich-mehr-anstrengen"
     },
     {
       "title": "Gymnasium : Amoktat: Schüler verweigert Untersuchung durch Psychiater",
@@ -58,10 +378,6 @@
     {
       "title": "Quartalszahlen : Munich Re übertrifft Gewinnziel - Dividende steigt",
       "url": "https://www.zeit.de/news/2024-02/27/rueckversicherer-munich-re-uebertrifft-gewinnziel"
-    },
-    {
-      "title": "Mecklenburg-Vorpommern : Kohlenmonoxid in Heringsdorfer Hotel - ein Toter",
-      "url": "https://www.zeit.de/news/2024-02/27/kohlenmonoxid-in-heringsdorfer-hotel-ein-toter"
     },
     {
       "title": "Kunst : Kunststiftung vergibt neues Kalifornien-Stipendium",
@@ -82,10 +398,6 @@
     {
       "title": "Prozess : Halle-Attentäter künftig in Gefängnis in Thüringen",
       "url": "https://www.zeit.de/news/2024-02/27/halle-attentaeter-kuenftig-in-gefaengnis-in-thueringen"
-    },
-    {
-      "title": "Kulturpolitik : Berlinale-Eklat: Justizminister droht mit Konsequenzen",
-      "url": "https://www.zeit.de/news/2024-02/27/berlinale-eklat-justizminister-droht-mit-konsequenzen"
     },
     {
       "title": "Hilfskonferenz in Paris : Widerspruch gegen Macron-Aussage zu Bodentruppen für Ukraine",
@@ -120,20 +432,12 @@
       "url": "https://www.zeit.de/news/2024-02/27/fall-von-ns-raubgut-erben-in-den-usa-erhalten-dokumente"
     },
     {
-      "title": "Prozess in Magdeburg : Nach Geiselnahme im Gefängnis: Urteil gegen Halle-Attentäter",
-      "url": "https://www.zeit.de/news/2024-02/27/nach-geiselnahme-im-gefaengnis-haft-fuer-halle-attentaeter"
-    },
-    {
       "title": "Kriminalität : Festnahme früherer RAF-Terroristin: LKA informiert",
       "url": "https://www.zeit.de/news/2024-02/27/festnahme-frueherer-raf-terroristin-lka-informiert"
     },
     {
       "title": "Prozess : Kirchenbrand-Prozess: Anklage fordert neun Jahre Haft",
       "url": "https://www.zeit.de/news/2024-02/27/kirchenbrand-prozess-anklage-fordert-neun-jahre-haft"
-    },
-    {
-      "title": "Linksterroristin : Ehemalige RAF-Terroristin Daniela Klette festgenommen",
-      "url": "https://www.zeit.de/gesellschaft/2024-02/ehemalige-raf-terroristin-daniela-klette-festgenommen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Ukraine-Konferenz : Und plötzlich ist die Rede von Bodentruppen für die Ukraine",
@@ -172,16 +476,8 @@
       "url": "https://www.zeit.de/news/2024-02/27/mann-faehrt-fussgaengerin-an-und-droht-ehemann-mit-schlaegen"
     },
     {
-      "title": "Urteil : Umgang mit Kind darf nicht an Geldzahlungen geknüpft sein",
-      "url": "https://www.zeit.de/news/2024-02/27/umgang-mit-kind-darf-nicht-an-geldzahlungen-geknuepft-sein"
-    },
-    {
       "title": "Terrorismus : Frühere RAF-Terroristin Daniela Klette in Berlin gefasst",
       "url": "https://www.zeit.de/news/2024-02/27/festnahme-frueherer-raf-terroristin-wohnung-wird-untersucht"
-    },
-    {
-      "title": "Tarife : BVG sagt wegen Warnstreiks Verhandlungsrunde am Freitag ab",
-      "url": "https://www.zeit.de/news/2024-02/27/bvg-sagt-wegen-warnstreiks-verhandlungsrunde-am-freitag-ab"
     },
     {
       "title": "Extremismus : Prozess um tödlichen Brandanschlag nach 32 Jahren",
@@ -226,10 +522,6 @@
     {
       "title": "Kriminalität : Mannheimer Synagoge mit Graffiti beschmiert",
       "url": "https://www.zeit.de/news/2024-02/27/mannheimer-synagoge-mit-graffiti-beschmiert"
-    },
-    {
-      "title": "FC Bayern München : «Willkommen dahoam, Max»: Eberl bekräftigt Titelambitionen",
-      "url": "https://www.zeit.de/news/2024-02/27/willkommen-dahoam-max-eberl-bekraeftigt-titelambitionen"
     },
     {
       "title": "Kriminalität : Anklage wegen Anschlagsplanung auf Fellbacher Rathaus",
@@ -284,10 +576,6 @@
       "url": "https://www.zeit.de/news/2024-02/27/uni-bremen-klagt-gegen-die-einschraenkung-von-tierversuchen"
     },
     {
-      "title": "Bundesliga : Neuzugang Grüll: Entschuldigung nach homophoben Gesängen",
-      "url": "https://www.zeit.de/news/2024-02/27/neuzugang-gruell-entschuldigung-nach-homophoben-gesaengen"
-    },
-    {
       "title": "«Plötzlich und unerwartet» : Volksbühnen-Intendant René Pollesch gestorben",
       "url": "https://www.zeit.de/news/2024-02/26/volksbuehnen-intendant-ren-pollesch-stirbt-mit-61-jahren"
     },
@@ -302,10 +590,6 @@
     {
       "title": "Leute : Album-Produzent verklagt Rapper Sean «Diddy» Combs",
       "url": "https://www.zeit.de/news/2024-02/27/album-produzent-verklagt-rapper-sean-diddy-combs"
-    },
-    {
-      "title": "Justiz : Prozessauftakt: Trierer Amokfahrer schweigt zunächst",
-      "url": "https://www.zeit.de/news/2024-02/26/trierer-amokfahrer-steht-erneut-vor-gericht"
     },
     {
       "title": "Kommunen : Heilbäder fordern finanzielle Hilfe",
@@ -400,10 +684,6 @@
       "url": "https://www.zeit.de/news/2024-02/27/tucholsky-museum-rheinsberg-vertrag-soll-erarbeitet-werden"
     },
     {
-      "title": "Einzelhandel : Mehrere Tausend Kunden von Cyberangriff bei KaDeWe betroffen",
-      "url": "https://www.zeit.de/news/2024-02/27/mehrere-tausend-kunden-von-cyberangriff-bei-kadewe-betroffen"
-    },
-    {
       "title": "CDU : Stettner kündigt Zulage für Beschäftigte freier Träger an",
       "url": "https://www.zeit.de/news/2024-02/27/stettner-kuendigt-zulage-fuer-beschaeftigte-freier-traeger-an"
     },
@@ -418,10 +698,6 @@
     {
       "title": "Tourismus : Jugendherbergen in NRW mit Übernachtungsplus: Rekord",
       "url": "https://www.zeit.de/news/2024-02/27/jugendherbergen-in-nrw-mit-uebernachtungsplus-rekord"
-    },
-    {
-      "title": "Justiz : 7 Jahre Haft für Attentäter wegen Geiselnahme im Gefängnis",
-      "url": "https://www.zeit.de/news/2024-02/27/geiselnahme-im-gefaengnis-7-jahre-haft-fuer-halle-attentaeter"
     },
     {
       "title": "Bundesliga : Hoeneß verpasst VfB-Training - Undav und Nübel dabei",
@@ -456,10 +732,6 @@
       "url": "https://www.zeit.de/news/2024-02/27/cum-ex-schluesselfigur-scheitert-am-bundesverfassungsgericht"
     },
     {
-      "title": "Bundesregierung : Sternfahrt mit 240 Traktoren aus Protest gegen Ampelpolitik",
-      "url": "https://www.zeit.de/news/2024-02/26/spatenstich-solarforschung-kanzler-scholz-in-suedbaden"
-    },
-    {
       "title": "Hilfsorganisationen : Kinderrechtsorganisation Plan International: Neue Spitze",
       "url": "https://www.zeit.de/news/2024-02/27/kinderrechtsorganisation-plan-international-neue-spitze"
     },
@@ -482,10 +754,6 @@
     {
       "title": "Statistik : Gemüsebauern fahren Rekordertrag bei Einlegegurken ein",
       "url": "https://www.zeit.de/news/2024-02/27/gemuesebauern-fahren-rekordertrag-bei-einlegegurken-ein"
-    },
-    {
-      "title": "Energie : Anträge auf Heizungsförderung bei KfW ab sofort möglich",
-      "url": "https://www.zeit.de/news/2024-02/27/antraege-auf-heizungsfoerderung-bei-kfw-ab-sofort-moeglich"
     },
     {
       "title": "Schaltjahr : 33 Kinder feiern am 29. Februar «echten» ersten Geburtstag",
@@ -534,10 +802,6 @@
     {
       "title": "Ermittlungen : 37-Jähriger getötet - Haftbefehl gegen Sohn",
       "url": "https://www.zeit.de/news/2024-02/27/37-jaehriger-getoetet-haftbefehl-gegen-sohn"
-    },
-    {
-      "title": "Gesellschaft : Anwälte kritisieren Situation im «Faulen Pelz» in Heidelberg",
-      "url": "https://www.zeit.de/news/2024-02/27/anwaelte-kritisieren-situation-im-faulen-pelz-in-heidelberg"
     },
     {
       "title": "Nationalteam : Olympia, Trainer, Popp: Viele Fragen bei den DFB-Frauen",
@@ -640,16 +904,8 @@
       "url": "https://www.zeit.de/news/2024-02/27/startup-verband-brauchen-attraktiveren-boersenstandort"
     },
     {
-      "title": "Kriminalität : Trierer Amokfahrer steht erneut vor Gericht",
-      "url": "https://www.zeit.de/news/2024-02/27/neuer-prozess-um-trierer-amokfahrt-belastet-betroffene"
-    },
-    {
       "title": "GP von Bahrain : Das muss man wissen zur Formel-1-Saison 2024",
       "url": "https://www.zeit.de/news/2024-02/27/das-muss-man-wissen-zur-formel-1-saison-2024"
-    },
-    {
-      "title": "Berlinale-Eklat : Justizminister droht mit strafrechtlichen Konsequenzen",
-      "url": "https://www.zeit.de/news/2024-02/27/berlinale-eklat-buschmann-droht-mit-strafrechtlichen-folgen"
     },
     {
       "title": "Prozesse : Nach Geiselnahme im Gefängnis: Sieben Jahre Haft für Halle-Attentäter",
@@ -658,10 +914,6 @@
     {
       "title": "Katastrophen : Fast 9000 Adressen in Sachsen-Anhalt hochwassergefährdet",
       "url": "https://www.zeit.de/news/2024-02/27/fast-9000-adressen-in-sachsen-anhalt-hochwassergefaehrdet"
-    },
-    {
-      "title": "Russische Invasion : Krieg gegen die Ukraine: So ist die Lage",
-      "url": "https://www.zeit.de/news/2024-02/27/krieg-gegen-die-ukraine-so-ist-die-lage"
     },
     {
       "title": "Versicherungen : Versicherer: Hochwassergefahr an über 28 000 Adressen in NRW",
@@ -722,10 +974,6 @@
     {
       "title": "Energiewendekonferenz : Landesbauernpräsident trifft Habeck in Cottbus",
       "url": "https://www.zeit.de/news/2024-02/27/landesbauernpraesident-trifft-habeck-in-cottbus"
-    },
-    {
-      "title": "Bielefeld : Arsenverdacht: Uni-Bibliothek sperrt 60.000 Bücher",
-      "url": "https://www.zeit.de/news/2024-02/27/arsenverdacht-uni-bibliothek-sperrt-60-000-buecher"
     },
     {
       "title": "Ludwigslust-Parchim : Nach Evakuierung an Schule: Hintergründe weiterhin unklar",
@@ -1042,10 +1290,6 @@
     {
       "title": "DWD-Prognose : Trübes Wetter in Sachsen",
       "url": "https://www.zeit.de/news/2024-02/27/truebes-wetter-in-sachsen"
-    },
-    {
-      "title": "Klimakrise : Forscher: Dürre hat sich bundesweit aufgelöst",
-      "url": "https://www.zeit.de/news/2024-02/27/forscher-duerre-hat-sich-bundesweit-aufgeloest"
     },
     {
       "title": "Feuerwehreinsatz : Ein Verletzter bei Kellerbrand in Mainz",
@@ -1702,10 +1946,6 @@
     {
       "title": "Ministerpräsident : Weil: «Dexit» wäre ökonomisch eine Katastrophe",
       "url": "https://www.zeit.de/news/2024-02/26/weil-dexit-waere-oekonomisch-eine-katastrophe"
-    },
-    {
-      "title": "Kommune : Streit um Cannabis-Club: Kein Hasch in Aschheim?",
-      "url": "https://www.zeit.de/news/2024-02/26/streit-um-cannabis-club-kein-hasch-in-aschheim"
     },
     {
       "title": "Lebensmittelverschwendung : \"Wenn etwas günstig ist, dann behandeln wir das auch so\"",
@@ -2990,246 +3230,6 @@
     {
       "title": "Gesellschaft : Projekt ArabsAsk klärt über Vorurteile gegenüber Juden auf",
       "url": "https://www.zeit.de/news/2024-02/26/projekt-arabsask-klaert-ueber-vorurteile-gegenueber-juden-auf"
-    },
-    {
-      "title": "Wissenschaft : Warum wir Babys links wiegen und Kleinkinder rechts tragen",
-      "url": "https://www.zeit.de/news/2024-02/26/warum-wir-babys-links-wiegen-und-kleinkinder-rechts-tragen"
-    },
-    {
-      "title": "Internet : Netzkosten: Mobilfunkfirmen sehen US-Konzerne in der Pflicht",
-      "url": "https://www.zeit.de/news/2024-02/26/netzkosten-mobilfunkfirmen-sehen-us-konzerne-in-der-pflicht"
-    },
-    {
-      "title": "Brasilien : Jair Bolsonaro weist Putschvorwürfe bei Großkundgebung zurück",
-      "url": "https://www.zeit.de/politik/ausland/2024-02/brasilien-jair-bolsonaro-grosskundgebung-sao-paulo"
-    },
-    {
-      "title": "Justizministerkonferenz : Neuer Appell an Union zu Gespräch über Schutz des Verfassungsgerichts",
-      "url": "https://www.zeit.de/politik/deutschland/2024-02/justizministerkonferenz-bundesverfassungsgericht-kathrin-wahlmann-cdu-csu"
-    },
-    {
-      "title": "Bundeshaushalt : DGB-Chefin lehnt Einsparungen bei Sozialleistungen ab",
-      "url": "https://www.zeit.de/politik/deutschland/2024-02/bundeshaushalt-dgb-yasmin-fahimi-sozialleistungen"
-    },
-    {
-      "title": "Rechtsextremismus : Verfassungsschutz bereitet offenbar neues AfD-Gutachten vor",
-      "url": "https://www.zeit.de/politik/deutschland/2024-02/rechtsextremismus-afd-bundesamt-fuer-verfassungsschutz-gutachten"
-    },
-    {
-      "title": "Frankreich : Weitere Anzeige wegen sexuellen Übergriffs gegen Gérard Depardieu",
-      "url": "https://www.zeit.de/kultur/film/2024-02/gerard-depardieu-sexualisierte-gewalt-ermittlungen-vergewaltigung"
-    },
-    {
-      "title": "Umwelt : Greenpeace: EU-Mercosur-Abkommen verletzt Klimagesetz",
-      "url": "https://www.zeit.de/news/2024-02/26/greenpeace-eu-mercosur-abkommen-verletzt-klimagesetz"
-    },
-    {
-      "title": "Filmfestival : Berlinale: Kritik an israelkritischen Äußerungen bei Gala",
-      "url": "https://www.zeit.de/news/2024-02/25/berlinale-2024-politisch-bis-zum-schluss"
-    },
-    {
-      "title": "Ski alpin : Slalomfahrer Straßer Dritter bei Weltcup in den USA",
-      "url": "https://www.zeit.de/news/2024-02/25/slalomfahrer-strasser-dritter-bei-weltcup-in-den-usa"
-    },
-    {
-      "title": "Unfälle : Kollision auf Bundesstraße 97: Fünf Schwerverletzte",
-      "url": "https://www.zeit.de/news/2024-02/25/kollision-auf-bundesstrasse-97-fuenf-schwerverletzte"
-    },
-    {
-      "title": "Bundesliga, 23. Spieltag – Sonntag : FC Augsburg gewinnt gegen den SC Freiburg",
-      "url": "https://www.zeit.de/sport/2024-02/bundesliga-23-spieltag-wolfsburg-frankfurt-dortmund-hoffenheim-augsburg-freiburg"
-    },
-    {
-      "title": "Nordsachsen : 28-Jähriger fährt mit Auto auf Sattelzug - und stirbt",
-      "url": "https://www.zeit.de/news/2024-02/25/28-jaehriger-faehrt-mit-auto-auf-sattelzug-und-stirbt"
-    },
-    {
-      "title": "Fußball : Augsburger Comeback-Sieg gegen entkräftete Freiburger",
-      "url": "https://www.zeit.de/news/2024-02/24/fc-augsburg-peilt-ersten-heimsieg-des-jahres-an"
-    },
-    {
-      "title": "\"Polizeiruf 110\" Rostock : Hab keine Angst, die ist nur tot",
-      "url": "https://www.zeit.de/kultur/film/2024-02/polizeiruf-110-rostock-diebe-obduktionsbericht"
-    },
-    {
-      "title": "3. Liga : Mannheim verliert bei Schlusslicht Freiburg II",
-      "url": "https://www.zeit.de/news/2024-02/25/mannheim-verliert-bei-schlusslicht-freiburg-ii"
-    },
-    {
-      "title": "Preisgala : Berlinale-Kritik: «Perfide Täter-Opfer-Umkehr» im Fall Gaza",
-      "url": "https://www.zeit.de/news/2024-02/25/untragbare-relativierung-wegner-kritisiert-berlinale-gala"
-    },
-    {
-      "title": "Eishockey : 6:4 gegen Iserlohn: Eisbären Berlin für die CHL qualifiziert",
-      "url": "https://www.zeit.de/news/2024-02/25/6-4-gegen-iserlohn-eisbaeren-berlin-fuer-die-chl-qualifiziert"
-    },
-    {
-      "title": "23. Spieltag : Augsburger Comeback-Sieg gegen entkräftete Freiburger",
-      "url": "https://www.zeit.de/news/2024-02/25/augsburger-comeback-sieg-gegen-entkraeftete-freiburger"
-    },
-    {
-      "title": "Medienbericht : Nagelsmann-Rückkehr zum FC Bayern nicht ausgeschlossen",
-      "url": "https://www.zeit.de/news/2024-02/25/nagelsmann-rueckkehr-zum-fc-bayern-nicht-ausgeschlossen"
-    },
-    {
-      "title": "Fotografie : Bilder des Tages",
-      "url": "https://www.zeit.de/news/2024-02/25/bilder-des-tages"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Martin Luther King : \"Er war kein Träumer\"",
-      "url": "https://www.zeit.de/2024/09/martin-luther-king-biografie-buch-jonathan-eig"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Annalena Baerbock : Und dann kam die Drohne",
-      "url": "https://www.zeit.de/politik/2024-02/annalena-baerbock-zweiter-jahrestag-invasion-ukraine"
-    },
-    {
-      "title": "Wahlen : Belarus wählt neues Parlament - Kritik an Manipulation",
-      "url": "https://www.zeit.de/news/2024-02/25/belarus-waehlt-neues-parlament-kritik-an-manipulation"
-    },
-    {
-      "title": "Volleyball-Bundesliga : Dresdner Volleyballerinnen gewinnen in Stuttgart",
-      "url": "https://www.zeit.de/news/2024-02/25/dresdner-volleyballerinnen-gewinnen-in-stuttgart"
-    },
-    {
-      "title": "Kommunen : Bürger in Fürstenau votieren für Flüchtlings-Aufnahmestelle",
-      "url": "https://www.zeit.de/news/2024-02/24/buergerbegehren-zur-errichtung-einer-landesaufnahmestelle"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Beziehung zum Psychotherapeuten : \"Ich hatte so Angst, dass er die Therapie beendet\"",
-      "url": "https://www.zeit.de/2024/09/beziehung-psychotherapeut-missbrauch-tuebingen"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Schlaf von Babys : Schlaf doch endlich ein",
-      "url": "https://www.zeit.de/zeit-magazin/familie/2024-01/babys-schlaf-eltern-erziehung-forschung"
-    },
-    {
-      "title": "Krieg gegen die Ukraine : Selenskyj spricht von 31.000 getöteten ukrainischen Soldaten",
-      "url": "https://www.zeit.de/politik/ausland/2024-02/krieg-ukraine-tote-wolodymyr-selenskyj"
-    },
-    {
-      "title": "Alexander Lukaschenko : Wahl in Belarus findet ohne Opposition statt",
-      "url": "https://www.zeit.de/politik/ausland/2024-02/alexander-lukaschenko-belarus-wahl-kritik-manipulation"
-    },
-    {
-      "title": "Extremismus : Zigtausende Demonstranten setzen Zeichen gegen rechts",
-      "url": "https://www.zeit.de/news/2024-02/25/zigtausende-demonstranten-setzen-zeichen-gegen-rechts"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Wiedervereinigung von Brüdern : Ein geraubtes Leben",
-      "url": "https://www.zeit.de/2024/09/wiedervereinigung-zwei-brueder-argentinien-militaerputsch-verschleppung"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); USA : Montana",
-      "url": "https://www.zeit.de/2024/09/usa-montana-american-prairie-reserve-wildtiere"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Aurubis-Prozess : Da ging einiges daneben",
-      "url": "https://www.zeit.de/hamburg/2024-02/aurubis-prozess-kupferproduzent-edelmetall-diebstahl-urteil"
-    },
-    {
-      "title": "23. Spieltag : Rückschlag für Borussia Dortmund: 2:3 gegen Hoffenheim",
-      "url": "https://www.zeit.de/news/2024-02/25/rueckschlag-fuer-borussia-dortmund-2-3-gegen-hoffenheim"
-    },
-    {
-      "title": "Bundesliga : Rückschlag für Borussia Dortmund: 2:3 gegen Hoffenheim",
-      "url": "https://www.zeit.de/news/2024-02/24/hoffenheim-will-aussenseiterchance-beim-bvb-nutzen"
-    },
-    {
-      "title": "Energie : Mehrheit für Windräder bei Bürgerentscheid in Eltville",
-      "url": "https://www.zeit.de/news/2024-02/25/mehrheit-fuer-windraeder-bei-buergerentscheid-in-eltville"
-    },
-    {
-      "title": "Ministerpräsident : Großaufgebot der Polizei bei Fastenpredigt von Kretschmann",
-      "url": "https://www.zeit.de/news/2024-02/25/grossaufgebot-der-polizei-bei-fastenpredigt-von-kretschmann"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Arbeitsmoral : Eine ganz faule Geschichte",
-      "url": "https://www.zeit.de/kultur/2024-02/arbeitsmoral-faulheit-deutschland-job-leistung"
-    },
-    {
-      "title": "Berlinale : Politiker kritisieren antiisraelische Äußerungen auf Berlinale",
-      "url": "https://www.zeit.de/kultur/2024-02/berlinale-preisverleihung-antisemitismus-vorwuerfe"
-    },
-    {
-      "title": "Festnahme : Mann in Dortmund niedergestochen",
-      "url": "https://www.zeit.de/news/2024-02/25/mann-in-dortmund-niedergestochen"
-    },
-    {
-      "title": "Fußball : Klopp und Liverpool gewinnen Liga-Pokal",
-      "url": "https://www.zeit.de/news/2024-02/25/klopp-und-liverpool-gewinnen-liga-pokal"
-    },
-    {
-      "title": "Proteste : Bauern demonstrieren gegen Agrarpolitik",
-      "url": "https://www.zeit.de/news/2024-02/25/bauern-demonstrieren-gegen-agrarpolitik"
-    },
-    {
-      "title": "Eishockey : DEG vergrößert Abstand auf DEL-Abstiegsrang",
-      "url": "https://www.zeit.de/news/2024-02/25/deg-vergroessert-abstand-auf-del-abstiegsrang"
-    },
-    {
-      "title": "Dresden : Mehrere Tausend Menschen gehen gegen rechts auf die Straße",
-      "url": "https://www.zeit.de/news/2024-02/25/mehrere-tausend-demonstrieren-gegen-rechtsextremismus"
-    },
-    {
-      "title": "Eishockey : Straubing vorzeitig in den DEL-Playoffs",
-      "url": "https://www.zeit.de/news/2024-02/25/straubing-vorzeitig-in-den-del-playoffs"
-    },
-    {
-      "title": "3. Liga : Saarbrücken rettet spätes Remis gegen Bielefeld",
-      "url": "https://www.zeit.de/news/2024-02/25/saarbruecken-rettet-spaetes-remis-gegen-bielefeld"
-    },
-    {
-      "title": "Handball : Hamburger feiern wichtigen Sieg im Abstiegskampf",
-      "url": "https://www.zeit.de/news/2024-02/25/hamburger-feiern-wichtigen-sieg-im-abstiegskampf"
-    },
-    {
-      "title": "Basketball : Blamage in Bulgarien: DBB-Team verliert in EM-Quali",
-      "url": "https://www.zeit.de/news/2024-02/25/em-quali-dbb-team-mit-blamage-in-bulgarien"
-    },
-    {
-      "title": "Handball-Bundesliga : Eisenach verliert auch gegen Rekordmeister Kiel",
-      "url": "https://www.zeit.de/news/2024-02/25/eisenach-verliert-auch-gegen-rekordmeister-kiel"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Nobuo Uematsu : \"Das war die einzige Arbeit, die mir angeboten wurde!\"",
-      "url": "https://www.zeit.de/digital/games/2024-02/nobou-uematsu-komponist-final-fantasy-videospielmusik"
-    },
-    {
-      "title": "Bundesliga : Eintracht mit Remis gegen Wolfsburg - «Punkt der Moral»",
-      "url": "https://www.zeit.de/news/2024-02/24/eintracht-will-gegen-wolfsburg-reaktion-zeigen"
-    },
-    {
-      "title": "Skispringen : Kein Podest bei Flug-Heimspiel für Wellinger und Geiger",
-      "url": "https://www.zeit.de/news/2024-02/25/skispringer-wellinger-fliegt-in-oberstdorf-auf-rang-sieben"
-    },
-    {
-      "title": "23. Spieltag : Eintracht mit Remis gegen Wolfsburg - «Punkt der Moral»",
-      "url": "https://www.zeit.de/news/2024-02/25/eintracht-mit-remis-gegen-wolfsburg"
-    },
-    {
-      "title": "Wintersport : Skiflug-Heimspiel: Wellinger hadert, Geiger enttäuscht",
-      "url": "https://www.zeit.de/news/2024-02/25/wellinger-fliegt-in-oberstdorf-auf-rang-sieben"
-    },
-    {
-      "title": "Bauernprotest : Polnische Bauern blockieren Autobahn zwischen Berlin und Warschau",
-      "url": "https://www.zeit.de/wirtschaft/2024-02/protest-eu-umweltauflagen-polen-deutschland-bauern"
-    },
-    {
-      "title": "Handball-Bundesliga : Kieler Arbeitssieg gegen Aufsteiger Eisenach",
-      "url": "https://www.zeit.de/news/2024-02/25/kieler-arbeitssieg-gegen-aufsteiger-eisenach"
-    },
-    {
-      "title": "Russischer Angriffskrieg : Ukraine-Besuch: Russische Drohne verfolgt Baerbock",
-      "url": "https://www.zeit.de/news/2024-02/25/ukraine-besuch-russische-drohne-verfolgt-baerbock"
-    },
-    {
-      "title": "Protest : Tausende in Brandenburg wenden sich gegen Rechtsextremismus",
-      "url": "https://www.zeit.de/news/2024-02/25/tausende-demonstrieren-gegen-rechtsextremismus"
-    },
-    {
-      "title": "Demonstrationen gegen rechts : Zehntausende demonstrieren am Wochenende gegen Rechtsextremismus",
-      "url": "https://www.zeit.de/politik/deutschland/2024-02/demonstrationen-gegen-rechts-hamburg"
     }
   ]
 }

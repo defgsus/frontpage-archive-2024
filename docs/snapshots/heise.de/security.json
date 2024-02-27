@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-27T13:00:50",
+  "timestamp": "2024-02-27T14:00:43",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "RustDesk",
+      "url": "https://www.heise.de/news/Remote-Desktop-RustDesk-Update-entfernt-Test-Zertifikat-9640339.html"
+    },
+    {
       "title": "Microsoft Edge",
       "url": "https://www.heise.de/news/Webbrowser-Microsoft-Edge-Update-schliesst-Sicherheitsluecken-9639816.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/WS-FTP-Update-gegen-Cross-Site-Scripting-Schwachstellen-9637107.html"
     },
     {
-      "title": "GitLab",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-GitLab-gegen-moegliche-Attacken-abgesichert-9636995.html"
+      "title": "Remote-Desktop: RustDesk-Update entfernt Test-Zertifikat",
+      "teaser": "Ein Test-Zertifkat in RustDesk für Windows führte zu Diskussionen. Ein Update entfernt es, mitsamt einiger Funktionen.",
+      "url": "https://www.heise.de/news/Remote-Desktop-RustDesk-Update-entfernt-Test-Zertifikat-9640339.html",
+      "image_title": "Remote Desktop: Rechner über das Netzwerk fernsteuern."
     },
     {
       "title": "Webbrowser: Microsoft Edge-Update schließt Sicherheitslücken",
@@ -152,11 +158,6 @@
       "title": "Sicherheitslücken: GitLab gegen mögliche Attacken abgesichert",
       "teaser": "Updates schließen mehrere Schwachstellen in GitLab. Eine Lücke bleibt aber offensichtlich erstmal bestehen.",
       "url": "https://www.heise.de/news/Sicherheitsluecken-GitLab-gegen-moegliche-Attacken-abgesichert-9636995.html"
-    },
-    {
-      "title": "FTC will Avast zu 16,5 Millionen US-Dollar Strafe verdonnern",
-      "teaser": "Es geriet etwas in Vergessenheit, aber jetzt will die FTC Avast eine Millionenstrafe aufbrummen – wegen des Verkaufs von Browser-Daten.",
-      "url": "https://www.heise.de/news/FTC-will-Avast-zu-16-5-Millionen-US-Dollar-Strafe-verdonnern-9636562.html"
     },
     {
       "title": "Kritische eID-Lücke: Was davon zu halten ist",
