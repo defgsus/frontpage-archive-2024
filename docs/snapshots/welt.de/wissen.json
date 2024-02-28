@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-28T10:00:44",
+  "timestamp": "2024-02-28T11:01:16",
   "url": "https://www.welt.de/wissenschaft/",
   "response": {
     "status": 200
@@ -7,7 +7,7 @@
   "scripts": [
     {
       "type": "module",
-      "src": "https://www.welt.de/assets/bff-section/scripts/section.module.W5jKxBOT.js",
+      "src": "https://www.welt.de/assets/bff-section/scripts/section.module.sdS0bnNL.js",
       "id": null,
       "text": null
     },
@@ -19,12 +19,20 @@
     },
     {
       "type": null,
-      "src": "https://www.welt.de/assets/bff-section/scripts/section.no-module.fI4OyJhM.js",
+      "src": "https://www.welt.de/assets/bff-section/scripts/section.no-module.RWq9Q9tF.js",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Augenprothesen aus dem 3D-Drucker",
+      "teaser": "Bisher war das Produzieren einer Augenprothese aufwendig, langwierig und unangenehm. Ein in Darmstadt entwickeltes Verfahren ist besser und schneller. Großbritannien hat es schon zugelassen, andere Länder sollen folgen.",
+      "url": "https://www.welt.de/wissenschaft/",
+      "image_url": "https://img.welt.de/img/wissenschaft/mobile250312546/2247935817-ci23x11-w20/Augenprothesen.jpg",
+      "image_title": "HANDOUT - Multi-material 3D print of a automatically designed eye prosthesis. Credit: Johann Reinhard, Fraunhofer IGD ACHTUNG: Frei nur zur redaktionellen Verwendung im Zusammenhang mit der Berichterstattung über die Studie bei Nennung des Credits. Foto: Johann Reinhard, Fraunhofer IGD",
+      "author": "Stefan Parsch"
+    },
     {
       "title": "Warum die Natur einen Linksdreh hat",
       "teaser": "Aminosäuren, die Bausteine der Proteine, können in zwei spiegelbildlichen Formen vorkommen. Doch alle Lebewesen auf der Erde bilden oder verwenden ausschließlich L-Aminosäuren. Auch die DNA-Doppelhelix, das Erbmolekül, ist immer linksgedreht. Warum ist das so?",
@@ -55,14 +63,6 @@
       "url": "https://www.welt.de/wissenschaft/",
       "image_url": "https://img.welt.de/img/wissenschaft/mobile250299546/7777930987-ci23x11-w20/Sora-Video-2.jpg",
       "image_title": "Video mit Sora, dem neuen Text-zu-Video-Generator von OpenAI erstellt. Aufforderung: Eine elegante Frau geht eine Straße in Tokio entlang, die mit warm leuchtendem Neon und animierten Stadtschildern gefüllt ist. Sie trägt eine schwarze Lederjacke, ein langes rotes Kleid und schwarze Stiefel und hat eine schwarze Handtasche dabei. Sie trägt eine Sonnenbrille und roten Lippenstift. Sie geht selbstbewusst und lässig. Die Straße ist feucht und reflektierend, was einen Spiegeleffekt der bunten Lichter erzeugt. Viele Fußgänger laufen umher.",
-      "author": "Norbert Lossau"
-    },
-    {
-      "title": "Jede überflüssige E-Mail schadet dem Klima",
-      "teaser": "Die intelligente Nutzung digitaler Technik kann beim Erreichen der Klimaziele helfen. Forscher zeigen jetzt: Wichtig ist der Verzicht auf unnötige digitale Aktivitäten. Ein Berliner Unternehmen will Computer auf Effizienz und weniger CO2-Ausstoß trimmen.",
-      "url": "https://www.welt.de/wissenschaft/plus250296458/Digitalisierung-und-Klimaschutz-Jede-E-Mail-setzt-CO-in-die-Umwelt-frei.html",
-      "image_url": "https://img.welt.de/img/wissenschaft/mobile250296456/6407936417-ci23x11-w20/KI-Symbolbild.jpg",
-      "image_title": "ARCHIV - 16.03.2015, Niedersachsen, Hannover: Ein Messebesucher geht an einem Leuchtdisplay auf der CeBIT vorbei. (zu dpa: «Mehrheit hält Föderalismus für Hemmschuh bei Digitalisierung») Foto: Peter Steffen/dpa +++ dpa-Bildfunk +++",
       "author": "Norbert Lossau"
     },
     {
@@ -125,6 +125,14 @@
       "url": "https://www.welt.de/deals/"
     },
     {
+      "title": "Jede überflüssige E-Mail schadet dem Klima",
+      "teaser": "Die intelligente Nutzung digitaler Technik kann beim Erreichen der Klimaziele helfen. Forscher zeigen jetzt: Wichtig ist der Verzicht auf unnötige digitale Aktivitäten. Ein Berliner Unternehmen will Computer auf Effizienz und weniger CO2-Ausstoß trimmen.",
+      "url": "https://www.welt.de/wissenschaft/plus250296458/Digitalisierung-und-Klimaschutz-Jede-E-Mail-setzt-CO-in-die-Umwelt-frei.html",
+      "image_url": "https://img.welt.de/img/wissenschaft/mobile250296456/6407936417-ci23x11-w20/KI-Symbolbild.jpg",
+      "image_title": "ARCHIV - 16.03.2015, Niedersachsen, Hannover: Ein Messebesucher geht an einem Leuchtdisplay auf der CeBIT vorbei. (zu dpa: «Mehrheit hält Föderalismus für Hemmschuh bei Digitalisierung») Foto: Peter Steffen/dpa +++ dpa-Bildfunk +++",
+      "author": "Norbert Lossau"
+    },
+    {
       "title": "Warum mutieren Neubausiedlungen so oft zu Zombie-Vierteln?",
       "teaser": "Neubau in Städten klingt erst einmal gut, mit Einkaufsmöglichkeiten und etwas Grün. Aber warum sehen Neubauviertel in Frankfurt, München und Berlin so gleichförmig aus – trotz guten Vorsätzen über attraktive und lebenswerte Städte? Scheitert es am Ende am Geld?",
       "url": "https://www.welt.de/podcasts/zwei-zimmer-kueche-bad/plus250182134/Langweilig-und-anspruchslos-Warum-sind-Neubauviertel-so-wie-sie-sind-Podcast.html",
@@ -153,14 +161,6 @@
       "url": "https://www.welt.de/wissenschaft/",
       "image_url": "https://img.welt.de/img/wissenschaft/mobile250264002/9297933877-ci23x11-w20/Lander-Noca-C.jpg",
       "image_title": "HANDOUT - 09.02.2024, USA, --: Der Lander Nova-C der Firma Intuitive Machines. Der silberne Kasten steht jetzt auf dem Mond und hat einiges an Gepäck hinauf gebracht. (zu dpa: «Erste private Mondlandung: «Nova-C» offenbar umgekippt») Foto: Nick Rios/Intuitive Machines/dpa +++ dpa-Bildfunk +++"
-    },
-    {
-      "title": "Planeten mit Doppelsonne – wie die Heimat von Luke Skywalker",
-      "teaser": "Die ikonische Star-Wars-Szene mit dem Doppelsonnenuntergang scheint im Universum üblich. US-Forscher haben herausgefunden, dass es gleich mehrere Systeme wie Tatooine geben muss, wie der Planet im Film heißt. Ihre Berechnungen verraten etwas über die Kindheit Luke Skywalker.",
-      "url": "https://www.welt.de/wissenschaft/",
-      "image_url": "https://img.welt.de/img/wissenschaft/mobile250248968/2387930187-ci23x11-w20/Artist-s-concept-illustrating-Kepler-16b.jpg",
-      "image_title": "Die Illustration zeigt Kepler-16b, ein Planet mit Doppelsonne",
-      "author": "Nike Heinen"
     },
     {
       "title": "„Frauen suchen oft erst, wenn sie sich bereits einsam fühlen“",
@@ -353,6 +353,14 @@
       "author": "Verena Müller"
     },
     {
+      "title": "Planeten mit Doppelsonne – wie die Heimat von Luke Skywalker",
+      "teaser": "Die ikonische Star-Wars-Szene mit dem Doppelsonnenuntergang scheint im Universum üblich. US-Forscher haben herausgefunden, dass es gleich mehrere Systeme wie Tatooine geben muss, wie der Planet im Film heißt. Ihre Berechnungen verraten etwas über die Kindheit Luke Skywalker.",
+      "url": "https://www.welt.de/wissenschaft/",
+      "image_url": "https://img.welt.de/img/wissenschaft/mobile250248968/2387930187-ci23x11-w20/Artist-s-concept-illustrating-Kepler-16b.jpg",
+      "image_title": "Die Illustration zeigt Kepler-16b, ein Planet mit Doppelsonne",
+      "author": "Nike Heinen"
+    },
+    {
       "title": "Wenn Ökosysteme durch die Wiederaufforstung zerstört werden",
       "teaser": "Bis zum Jahr 2030 sollen in Afrika 100 Millionen Hektar mehr Wald wachsen, mithilfe internationaler Gelder. Aber nicht alle Aufforstungsprojekte sind wirklich sinnvoll. Eine aktuelle Studie zeigt, welche folgenschweren Fehler dabei gemacht werden.",
       "url": "https://www.welt.de/wissenschaft/",
@@ -535,14 +543,6 @@
       "author": "Sarah Emminghaus"
     },
     {
-      "title": "Wann beruflicher Stress zur Gefahr für die Psyche wird – und wann nicht",
-      "teaser": "Schlechte Arbeitsbedingungen haben großen Einfluss auf die mentale Gesundheit. Forscher haben Stressfaktoren analysiert, die das Risiko einer Depression erhöhen – und erklären, warum reiner Zeitdruck nicht das Hauptproblem ist.",
-      "url": "https://www.welt.de/gesundheit/mentale-gesundheit/",
-      "image_url": "https://img.welt.de/img/wissenschaft/mobile248313762/9877933767-ci23x11-w20/Overworked-Businessman.jpg",
-      "image_title": "Overworked Businessman",
-      "author": "Céline Lauer"
-    },
-    {
       "title": "„Selbstdiagnosen sind zweifelhaft bis gefährlich“",
       "teaser": "Psychologen und solche, die es gerne wären, tummeln sich in den sozialen Medien wie Instagram oder Tiktok. Sie erzählen, welches Verhalten man auf welche psychischen Krankheiten zurückführen könnte. Das hört sich gefährlich an – bietet aber auch Chancen.",
       "url": "https://www.welt.de/gesundheit/",
@@ -557,6 +557,14 @@
       "image_url": "https://img.welt.de/img/gesundheit/mobile235830234/3847936807-ci23x11-w20/Family-photo-stripes.jpg",
       "image_title": "Familen",
       "author": "Katja Ridderbusch"
+    },
+    {
+      "title": "Wann beruflicher Stress zur Gefahr für die Psyche wird – und wann nicht",
+      "teaser": "Schlechte Arbeitsbedingungen haben großen Einfluss auf die mentale Gesundheit. Forscher haben Stressfaktoren analysiert, die das Risiko einer Depression erhöhen – und erklären, warum reiner Zeitdruck nicht das Hauptproblem ist.",
+      "url": "https://www.welt.de/gesundheit/mentale-gesundheit/",
+      "image_url": "https://img.welt.de/img/wissenschaft/mobile248313762/9877933767-ci23x11-w20/Overworked-Businessman.jpg",
+      "image_title": "Overworked Businessman",
+      "author": "Céline Lauer"
     },
     {
       "title": "Diese Vorteile hat Unwissen",
@@ -583,12 +591,12 @@
       "author": "Jörg Zittlau"
     },
     {
-      "title": "Wie ticken „Alltagspsychopathen“?",
-      "teaser": "Narzisstische Menschen in unserem Umfeld bekommen schnell den Stempel „Psychopath“ aufgedrückt. Sie nutzen andere Menschen aus und gehen manipulativ vor. Kriminalpsychologin Lydia Benecke erklärt, wie diese Menschen ticken und wie man mit ihnen umgeht.",
-      "url": "https://www.welt.de/wissenschaft/plus236132874/Wie-ticken-Alltagspsychopathen.html",
-      "image_url": "https://img.welt.de/img/wissenschaft/mobile227003397/9647935077-ci23x11-w20/Lydia-Benecke-by-01.jpg",
-      "image_title": "Kriminalpsychologin Lydia Benecke ist Expertin für Psychopathie, sexuelle Präferenzstörungen und Sadismus",
-      "author": "Julian Aé"
+      "title": "Augenprothesen aus dem 3D-Drucker",
+      "url": "https://www.welt.de/wissenschaft/article250312548/Perfektes-Glasauge-Augenprothesen-aus-dem-3D-Drucker.html"
+    },
+    {
+      "title": "Ehre für die Hauptschlagader: Aorta als Organ eingestuft",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wissenschaft_nt/article250312910/Ehre-fuer-die-Hauptschlagader-Aorta-als-Organ-eingestuft.html"
     },
     {
       "title": "Warum die Natur einen Linksdreh hat",
@@ -807,10 +815,6 @@
       "url": "https://www.welt.de/wissenschaft/article250153128/Artenvielfalt-Wichtig-fuer-Singvoegel-ist-dass-der-Garten-naturnah-und-insektenfreundlich-ist.html"
     },
     {
-      "title": "Kita kann soziale Ungleichheit abfedern - Platzmangel bremst",
-      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wissenschaft_nt/article250152066/Kita-kann-soziale-Ungleichheit-abfedern-Platzmangel-bremst.html"
-    },
-    {
       "title": "Was das Blut über das eigene Alzheimer-Risiko verraten kann",
       "url": "https://www.welt.de/wissenschaft/plus249807412/Demenzvorhersage-Bluttests-sollen-Alzheimer-schon-vor-ersten-Symptomen-erkennen.html"
     },
@@ -825,10 +829,6 @@
     {
       "title": "Das Masern-Problem und der Beitrag der Impfgegner",
       "url": "https://www.welt.de/wissenschaft/article250120450/Masern-Das-Masern-Problem-und-der-Beitrag-der-Impfgegner.html"
-    },
-    {
-      "title": "Wenn eine kleine Stelle im unteren Rücken das Leben zur Tortur macht",
-      "url": "https://www.welt.de/wissenschaft/plus249982958/Rueckenschmerzen-Wenn-eine-kleine-Stelle-im-unteren-Ruecken-das-Leben-zur-Tortur-macht.html"
     }
   ]
 }
