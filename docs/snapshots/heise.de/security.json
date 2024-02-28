@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-28T08:07:12",
+  "timestamp": "2024-02-28T09:01:08",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.eae5810c118b77143403",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.25ef1285646b2e977c26",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Google Chrome",
+      "url": "https://www.heise.de/news/Webbrowser-Chrome-Google-dichtet-vier-Sicherheitslecks-ab-9641080.html"
+    },
     {
       "title": "RustDesk",
       "url": "https://www.heise.de/news/Remote-Desktop-RustDesk-Update-entfernt-Test-Zertifikat-9640339.html"
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Kritische-Luecke-in-Wordpress-Plug-in-Ultimate-Member-leakt-Passwort-Hashes-9640177.html"
     },
     {
-      "title": "WS_FTP",
-      "url": "https://www.heise.de/news/WS-FTP-Update-gegen-Cross-Site-Scripting-Schwachstellen-9637107.html"
+      "title": "Webbrowser Chrome: Google dichtet vier Sicherheitslecks ab",
+      "teaser": "Googles Entwickler haben den Webbrowser Chrome in neuer Version veröffentlicht. Sie schließen damit vier Sicherheitslücken.",
+      "url": "https://www.heise.de/news/Webbrowser-Chrome-Google-dichtet-vier-Sicherheitslecks-ab-9641080.html",
+      "image_title": "Stilisierte Grafik: Brennendes Google-Chrome-Logo auf einem Laptop"
+    },
+    {
+      "title": "Marktplatz für Maulwürfe – Wie Insider ihr Wissen im Darknet verkaufen",
+      "teaser": "Immer häufiger bieten Unternehmens-Insider ihre Dienste im Darknet an, Cyberkriminelle rekrutieren sie gezielt. Sicherheitsexperte Sergey Shykevich im Interview",
+      "url": "https://www.heise.de/hintergrund/Marktplatz-fuer-Maulwuerfe-Wie-Insider-ihr-Wissen-im-Darknet-verkaufen-9639563.html"
     },
     {
       "title": "Remote-Desktop: RustDesk-Update entfernt Test-Zertifikat",
@@ -150,14 +161,9 @@
       "image_title": "Die Lockbit-Webseite im Darknet wurde von Strafverfolgern übernommen und im bisherigen Stil aufgemacht."
     },
     {
-      "title": "WS_FTP: Updates dichten hochriskante Sicherheitslücke ab",
-      "teaser": "In WS-FTP von Progress klafft eine Sicherheitslücke, die Angreifern Cross-Site-Scripting-Angriffe ermöglicht. Ein Update steht bereit.",
-      "url": "https://www.heise.de/news/WS-FTP-Update-gegen-Cross-Site-Scripting-Schwachstellen-9637107.html"
-    },
-    {
-      "title": "Sicherheitslücken: GitLab gegen mögliche Attacken abgesichert",
-      "teaser": "Updates schließen mehrere Schwachstellen in GitLab. Eine Lücke bleibt aber offensichtlich erstmal bestehen.",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-GitLab-gegen-moegliche-Attacken-abgesichert-9636995.html"
+      "title": "Marktplatz für Maulwürfe – Wie Insider ihr Wissen im Darknet verkaufen",
+      "teaser": "Immer häufiger bieten Unternehmens-Insider ihre Dienste im Darknet an, Cyberkriminelle rekrutieren sie gezielt. Sicherheitsexperte Sergey Shykevich im Interview",
+      "url": "https://www.heise.de/hintergrund/Marktplatz-fuer-Maulwuerfe-Wie-Insider-ihr-Wissen-im-Darknet-verkaufen-9639563.html"
     },
     {
       "title": "Kritische eID-Lücke: Was davon zu halten ist",
@@ -169,12 +175,6 @@
       "teaser": "Der IT-Sektor braucht mehr Fachkräfte, aber die sind rar. Ein Security-Start-up aus Düsseldorf warb eine Jordanierin an, die von ihren Erfahrungen berichtet.",
       "url": "https://www.heise.de/hintergrund/Von-Amman-nach-Duesseldorf-eingewandert-fuer-die-IT-Security-9628865.html",
       "image_title": "Viele verschiedene Menschen arbeiten in einem Start-up zusammen"
-    },
-    {
-      "title": "\"Ändere Dein Passwort\"-Tag: Warum Ändern des Passworts kaum hilft",
-      "teaser": "Alle Jahre wieder am 1. Februar sorgt der \"Ändere Dein Passwort\"-Tag für Grummeln in der Redaktion. Wir empfehlen: Besser alte Gewohnheiten ändern!",
-      "url": "https://www.heise.de/hintergrund/Aendere-Dein-Passwort-Tag-Besser-Passkeys-oder-Passwort-Manager-nutzen-9614565.html",
-      "image_title": "Lock,With,Chain,On,A,Computer,Keyboard,-,3d,Illustration"
     },
     {
       "title": "Re: Das sog „Nachfolgeforum‟ vom gulli ngb.to ist down - Inside Job?",
