@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-28T09:01:36",
+  "timestamp": "2024-02-28T10:01:00",
   "url": "https://www.spiegel.de/geschichte/",
   "response": {
     "status": 200
@@ -32,10 +32,17 @@
   ],
   "articles": [
     {
+      "title": "Schon Hugenotten und Ruhrpolen rangen mit der Integration",
+      "teaser": "Ohne die Hugenotten und »Ruhrpolen« wären wir keine Spargelnation, und Schalke 04 wäre nicht Meister geworden. Was wurde aus Deutschlands ersten großen Einwanderergruppen? Von Fabian Hillebrand",
+      "url": "https://www.spiegel.de/geschichte/fruehe-einwanderer-nach-deutschland-gekommen-und-geblieben-a-2911cf32-9635-44f7-ad3c-5982a0a20b24",
+      "image_url": "https://cdn.prod.www.spiegel.de/images/7b167100-c907-43f1-953f-8b1f4f700caf_w960_r2.194_fpx54_fpy58.jpg",
+      "image_title": "Schon Hugenotten und Ruhrpolen rangen mit der Integration - Bildarchiv Dierk Loyal",
+      "author": "Fabian Hillebrand"
+    },
+    {
       "title": "Was soll denn »deutsche Küche« sein?",
       "teaser": "Ob Weißwurst oder Frankfurter Grüne Soße: »Typisch deutsche« Gerichte sind oft alles andere als regional: Selbst Kartoffeln und Sauerkraut haben eine Migrationsgeschichte. Trotzdem gibt es eine Formel für die heimische Esskultur. Von Katja Iken",
       "url": "https://www.spiegel.de/geschichte/mythos-sauerkraut-und-kartoffelpueree-warum-es-nie-eine-deutsche-kueche-gab-a-1ed0a403-248c-4c0c-ab25-8bd95b4d75e7",
-      "image_url": "https://cdn.prod.www.spiegel.de/images/812a6eea-9286-47cc-8748-4387a1c8444a_w960_r2.194_fpx27_fpy85.jpg",
       "image_title": "Was soll denn »deutsche Küche« sein? - Sven Döring / laif / DER SPIEGEL",
       "author": "Katja Iken"
     },
@@ -52,6 +59,12 @@
       "url": "https://www.spiegel.de/geschichte/lotte-laserstein-abend-ueber-potsdam-a-8c77e63c-d993-40ab-8019-891e64a88a29",
       "image_title": "»Abend über Potsdam« - Roman März / Nationalgalerie, SMB / bpk",
       "author": "Kathrin Maas"
+    },
+    {
+      "title": "Rückblick auf die dritte RAF-Generation Die Spuren des Terrors",
+      "teaser": "Die RAF-Terroristin Daniela Klette gehörte zur dritten Generation der Terrororganisation. Der Gruppe werden zahlreiche Attentate zugeordnet, von Mordattacken bis zu Sprengstoffanschlägen. Aufgeklärt sind bisher nur wenige.",
+      "url": "https://www.spiegel.de/fotostrecke/dritte-raf-generation-die-spuren-des-terrors-fotostrecke-150437.html",
+      "image_title": "Die Spuren des Terrors - Bka / picture alliance / dpa"
     },
     {
       "title": "Drohungen gegen Polen Putins nächste Geschichtsklitterung Ein Gastbeitrag von Matthäus Wehowski",
@@ -341,19 +354,6 @@
       "author": "Solveig Grothe"
     },
     {
-      "title": "Frühe Zuwanderung nach Deutschland Schon Hugenotten und Ruhrpolen rangen mit der Integration",
-      "teaser": "Ohne die Hugenotten und »Ruhrpolen« wären wir keine Spargelnation, und Schalke 04 wäre nicht Meister geworden. Was wurde aus Deutschlands ersten großen Einwanderergruppen? Von Fabian Hillebrand",
-      "url": "https://www.spiegel.de/geschichte/fruehe-einwanderer-nach-deutschland-gekommen-und-geblieben-a-2911cf32-9635-44f7-ad3c-5982a0a20b24",
-      "image_title": "Schon Hugenotten und Ruhrpolen rangen mit der Integration - Bildarchiv Dierk Loyal",
-      "author": "Fabian Hillebrand"
-    },
-    {
-      "title": "Rückblick auf die dritte RAF-Generation Die Spuren des Terrors",
-      "teaser": "Die RAF-Terroristin Daniela Klette gehörte zur dritten Generation der Terrororganisation. Der Gruppe werden zahlreiche Attentate zugeordnet, von Mordattacken bis zu Sprengstoffanschlägen. Aufgeklärt sind bisher nur wenige.",
-      "url": "https://www.spiegel.de/fotostrecke/dritte-raf-generation-die-spuren-des-terrors-fotostrecke-150437.html",
-      "image_title": "Die Spuren des Terrors - Bka / picture alliance / dpa"
-    },
-    {
       "title": "»One Life« im Kino Warum die Produzenten eines Films über Kindertransporte das Wort »jüdisch« tilgten",
       "teaser": "Nicholas Winton holte jüdische Kinder 1939 aus Prag nach England und rettete ihnen das Leben. Der neue Film »One Life« mit Anthony Hopkins und Helena Bonham Carter erzählt diese Geschichte – und wurde zum Politikum. Von Karina Urbach",
       "url": "https://www.spiegel.de/geschichte/grossbritannien-warum-die-rettung-juedischer-kinder-im-zweiten-weltkrieg-heute-zum-streitthema-wird-a-38f5aae8-7bf3-46c5-99d0-ad74a8139c93",
@@ -475,6 +475,20 @@
       "url": "https://www.spiegel.de/geschichte/mord-auf-kreuzfahrt-hinter-dem-horizont-lauert-das-perfekte-verbrechen-a-cb7009a4-faf6-462b-bafe-8074781b2d54",
       "image_title": "Hinter dem Horizont lauert das perfekte Verbrechen - Paul A. Souders / Getty Images",
       "author": "Stefan Krücken"
+    },
+    {
+      "title": "SS-Verbrecher Erich Ehrlinger Der Massenmörder, der davonkam",
+      "teaser": "Der SS-Offizier Erich Ehrlinger war an der Ermordung von 1045 Menschen beteiligt, kam aber 1965 frei – weil ein Altnazi ihm Haftunfähigkeit attestierte. Mainzer Rechtsmediziner haben den Fall neu untersucht. Von Frank Thadeusz",
+      "url": "https://www.spiegel.de/geschichte/ss-verbrecher-erich-ehrlinger-der-massenmoerder-der-davonkam-a-84029168-7dfc-4787-8055-adda73f649f4",
+      "image_title": "Der Massenmörder, der davonkam - Harry Flesch / picture-alliance / dpa",
+      "author": "Frank Thadeusz"
+    },
+    {
+      "title": "Zeitreise – Der SPIEGEL vor 50 Jahren Mit der Schubkraft einer Rakete",
+      "teaser": "Alexander Solschenizyns »Archipel Gulag« entfaltete enorme Wucht. Die Abrechnung mit Stalins Terror und dem Sowjetsystem führte 1974 zu seiner Ausweisung. Heute ist ausgerechnet Putin ein Verehrer des Regimekritikers. Von Rainer Lübbert",
+      "url": "https://www.spiegel.de/geschichte/sowjetunion-alexander-solschenizyns-archipel-gulag-vom-verstossenen-kritiker-zu-putin-idol-a-e5bb103b-b3fc-4dbb-b2e2-9a7d568b2da9",
+      "image_title": "Mit der Schubkraft einer Rakete - Epu / IMAGO",
+      "author": "Rainer Lübbert"
     }
   ]
 }
