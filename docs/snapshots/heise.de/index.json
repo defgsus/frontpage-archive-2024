@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-28T11:00:57",
+  "timestamp": "2024-02-28T12:08:36",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,7 +25,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/hohomepage/js/hohomepage.js?.ltc.4691b97825cf7c563fbd",
+      "src": "https://www.heise.de/assets/heise/hohomepage/js/hohomepage.js?.ltc.82fa1c10247d814b75e3",
       "id": null,
       "text": null
     }
@@ -173,10 +173,71 @@
       "image_title": "Viel roter Sand und ein Rotor in der Mitte"
     },
     {
-      "title": "Vodafone: Die wahrscheinlich kleinste 5G-Station der Welt",
+      "title": "Schnellere Apps, Teil 1: Wie TornadoVM Java-Code auf GPUs beschleunigt",
+      "teaser": "Damit CPU- und GPU-Cores eine App schneller machen, muss sie für paralleles Ausführen programmiert sein. Für Java-Apps macht TornadoVM die Sache beherrschbar.",
+      "url": "https://www.heise.de/ratgeber/Schnellere-Apps-Teil-1-Wie-TornadoVM-Java-Code-auf-GPUs-beschleunigt-9592700.html"
+    },
+    {
+      "title": "MG3: Hybridantrieb mit Dreigang-Automatik vorgestellt",
+      "teaser": "MG bietet einen Kleinwagen mit ungewöhnlichem Hybridantrieb an. Der ermöglicht seriellen und parallelen Betrieb.",
+      "url": "https://www.heise.de/news/MG3-Hybridantrieb-mit-Dreigang-Automatik-vorgestellt-9641370.html",
+      "image_title": "MG3"
+    },
+    {
+      "title": "Astronomie: Spur eines verschlungenen Planeten bei Weißem Zwergstern entdeckt",
+      "teaser": "Sterne wie unsere Sonne enden als Weiße Zwerge. Die können Teile des Planetensystems verschlingen. Nun wurde eine einzigartige Spur dieses Vorgangs entdeckt.",
+      "url": "https://www.heise.de/news/Astronomie-Spur-eines-verschlungenen-Planeten-bei-Weissem-Zwergstern-entdeckt-9641377.html",
+      "image_title": "Weißer Stern mit Magnetfeld und einem dunklen Fleck"
+    },
+    {
+      "title": "AlertTeamviewer: Sicherheitslücke im Client ermöglicht Rechteausweitung",
+      "teaser": "Eine Schwachstelle im Teamviewer-Client ermöglicht Nutzern, ihre Rechte im System auszuweiten. Ein Update steht bereit.",
+      "url": "https://www.heise.de/news/Teamviewer-Sicherheitsluecke-im-Client-ermoeglicht-Rechteausweitung-9641174.html"
+    },
+    {
+      "title": "So viel CO₂ verheizen deutsche Haushalte – Statistik der Woche",
+      "teaser": "Die neue Infografik schlüsselt auf, welche Posten den größten Anteil von CO₂-Emissionen in Privathaushalten ausmachen. Heizen schlägt am stärksten zu Buche.",
+      "url": "https://www.heise.de/hintergrund/So-viel-CO-verheizen-deutsche-Haushalte-Statistik-der-Woche-9641385.html",
+      "image_title": "Graphik: Haus mit Flamme in der Mitte, darumherum Wolken mit der Beschriftung CO2"
+    },
+    {
+      "title": "Vision Pro: Geräuschbedienung für Fingerfaule",
+      "teaser": "Um zum Homescreen der Vision Pro zu gelangen, muss stets die digitale Krone gedrückt werden. Eine versteckte Barrierefreiheitsfunktion erleichtert das.",
+      "url": "https://www.heise.de/news/Vision-Pro-Geraeuschbedienung-fuer-Fingerfaule-9640810.html",
+      "image_title": "Geräuschesteuerung bei der Vision Pro"
+    },
+    {
+      "title": "iX-Workshop: Einführung in die SAP Business Technology Platform (BTP)",
+      "teaser": "Lernen Sie, wie Sie mit SAP BTP Anwendungen entwickeln, Schnittstellen integrieren und Geschäftsprozesse optimieren. (Last Call)",
+      "url": "https://www.heise.de/news/iX-Workshop-Einfuehrung-in-die-SAP-Business-Technology-Platform-BTP-9633768.html",
+      "image_title": "iX-Workshop: Einfuehrung SAP S/4 HANA"
+    },
+    {
+      "title": "Vodafone zeigt zweiten Prototyp von 5G-Station auf Raspi-Basis",
       "teaser": "Auf dem MWC zeigt Vodafone seine weiterentwickelte 5G-Basisstation im Mini-Format. Dank Akku kann sie von einer Drohne auch in Krisengebiete gebracht werden.",
       "url": "https://www.heise.de/news/Vodafone-Die-wahrscheinlich-kleinste-5G-Station-der-Welt-9641290.html",
       "image_title": "Vodafones Mini-5G-Station​"
+    },
+    {
+      "title": "Wegfall des TelefonanschlussesFestnetznummern retten und weiternutzen",
+      "teaser": "Fällt der Anschluss weg, verliert man die Festnetznummer. Ein Umzug zu einem VoIP-Provider kann die Nummer retten.",
+      "url": "https://www.heise.de/ratgeber/Wegfall-des-Telefonanschlusses-Festnetznummern-retten-und-weiternutzen-9631978.html",
+      "image_title": "Ein schwarzer Fernsprechapparat mit Wählscheibe, daneben steht ein schwarzes Schnurlostelefon in einer Ladeschale"
+    },
+    {
+      "title": "Nebo Air Wie der Feinstaubsensor für daheim funktioniert",
+      "teaser": "Die Station Nebo Air testet, wie sauber die Luft ist – mit ihr soll das besonders einfach funktionieren.",
+      "url": "https://www.heise.de/tests/Luftqualitaet-mit-Nebo-Air-pruefen-So-funktioniert-der-Feinstaubsensor-fuer-daheim-9630284.html"
+    },
+    {
+      "title": "PraxisanalysePassivhaus: Was es leistet und wie es Kosten spart",
+      "teaser": "Das Passivhaus wird nach wissenschaftlichen Methoden so konstruiert, dass die Gesamtkosten unter normalen Häusern liegen.",
+      "url": "https://www.heise.de/hintergrund/Analyse-Das-Passivhaus-als-Alternative-was-es-leistet-und-wie-es-Kosten-spart-9623081.html"
+    },
+    {
+      "title": "heise+ Jahresabo",
+      "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 Euro sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
+      "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
     },
     {
       "title": "Adblocker fürs Netz: Starthilfe und Tipps zu Pi-hole und AdGuard Home",
@@ -219,27 +280,6 @@
       "image_title": "Tim Cook"
     },
     {
-      "title": "Wegfall des TelefonanschlussesFestnetznummern retten und weiternutzen",
-      "teaser": "Fällt der Anschluss weg, verliert man die Festnetznummer. Ein Umzug zu einem VoIP-Provider kann die Nummer retten.",
-      "url": "https://www.heise.de/ratgeber/Wegfall-des-Telefonanschlusses-Festnetznummern-retten-und-weiternutzen-9631978.html",
-      "image_title": "Ein schwarzer Fernsprechapparat mit Wählscheibe, daneben steht ein schwarzes Schnurlostelefon in einer Ladeschale"
-    },
-    {
-      "title": "Nebo Air Wie der Feinstaubsensor für daheim funktioniert",
-      "teaser": "Die Station Nebo Air testet, wie sauber die Luft ist – mit ihr soll das besonders einfach funktionieren.",
-      "url": "https://www.heise.de/tests/Luftqualitaet-mit-Nebo-Air-pruefen-So-funktioniert-der-Feinstaubsensor-fuer-daheim-9630284.html"
-    },
-    {
-      "title": "PraxisanalysePassivhaus: Was es leistet und wie es Kosten spart",
-      "teaser": "Das Passivhaus wird nach wissenschaftlichen Methoden so konstruiert, dass die Gesamtkosten unter normalen Häusern liegen.",
-      "url": "https://www.heise.de/hintergrund/Analyse-Das-Passivhaus-als-Alternative-was-es-leistet-und-wie-es-Kosten-spart-9623081.html"
-    },
-    {
-      "title": "heise+ Jahresabo",
-      "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 Euro sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
-      "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
-    },
-    {
       "title": "iX-Workshop: Sicherer Betrieb von Windows 10 und 11 in Unternehmen",
       "teaser": "Lernen Sie an praktischen Beispielen, wie Sie Windows 10 / 11 Pro und Enterprise in Ihrem Unternehmen sicher und effektiv einsetzen. (10% Rabatt bis 13.03.)",
       "url": "https://www.heise.de/news/iX-Workshop-Windows-10-und-11-im-Unternehmen-absichern-9633744.html",
@@ -256,7 +296,7 @@
       "url": "https://www.heise.de/news/Hochempfindlicher-Roboter-Beruehrungssensor-reagiert-auch-auf-Abstand-9641126.html"
     },
     {
-      "title": "AlertWebbrowser Chrome: Google dichtet vier Sicherheitslecks ab",
+      "title": "AlertGoogle Chrome: Sicherheitsupdate bessert vier Schwachstellen aus",
       "teaser": "Googles Entwickler haben den Webbrowser Chrome in neuer Version veröffentlicht. Sie schließen damit vier Sicherheitslücken.",
       "url": "https://www.heise.de/news/Webbrowser-Chrome-Google-dichtet-vier-Sicherheitslecks-ab-9641080.html",
       "image_title": "Stilisierte Grafik: Brennendes Google-Chrome-Logo auf einem Laptop"
@@ -270,6 +310,11 @@
       "title": "MWC-Highlights: Notebook mit transparentem Display, Xiaomi 14 Pro | c’t uplink",
       "teaser": "Die Kollegen vor Ort liefern erste Einschätzungen: Lenovo-Notebook mit durchsichtigem Display, zwei Smartphones, ein Fitness-Ring und ein KI-Smartphone-Flop.",
       "url": "https://www.heise.de/news/MWC-Highlights-Notebook-mit-transparentem-Display-Xiaomi-14-Pro-c-t-uplink-9641086.html"
+    },
+    {
+      "title": "Sicherheitslücken im Visier: Cloud-Risiken entdecken",
+      "teaser": "Hacker greifen zunehmend in der Cloud laufende Geschäftsprozesse an. Sie nutzen dabei vorhandene Sicherheitslücken aus, die von Unternehmen nicht rechtzeitig erkannt und beseitigt werden.",
+      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/sicherheitsluecken-im-visier-cloud-risiken-entdecken-4674/?source=hbsad-ersatz"
     },
     {
       "title": "Aktionäre fragen: Wie hältst Du es mit der KI-Sicherheit, Apple?",
@@ -310,11 +355,6 @@
       "url": "https://www.heise.de/hintergrund/Marktplatz-fuer-Maulwuerfe-Wie-Insider-ihr-Wissen-im-Darknet-verkaufen-9639563.html"
     },
     {
-      "title": "High-Performance Technical Computing: Wie IT anspruchsvolle Aufgaben löst",
-      "teaser": "Komplexe technische und wissenschaftliche Berechnungen stellen besonders hohe Anforderungen an die Leistungsfähigkeit von Computersystemen. Unternehmen und wissenschaftliche Einrichtungen benötigen daher Infrastrukturen, die für diese Aufgaben optimiert sind.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/high-performance-technical-computing-wie-it-anspruchsvolle-aufgaben-loest-4573/?source=hbsadersatz"
-    },
-    {
       "title": "Grundlagen Home Assistant: So beherrschen Sie die Smart-Home-Zentrale",
       "teaser": "Home Assistant ist ein mächtiges Werkzeug, um das smarte Zuhause zu steuern. Allerdings ist es nicht intuitiv verständlich. Wir erklären die Basisfunktionen.",
       "url": "https://www.heise.de/hintergrund/Grundlagen-Home-Assistant-So-beherrschen-Sie-die-Smart-Home-Zentrale-9636852.html"
@@ -329,45 +369,6 @@
       "teaser": "Lebenslang für Hass-Beiträge + GeForce Now mit Werbung + Oppo zurück in Europa + Apple gibt iCar auf + GitHub mit KI-Assistent + Podcast zu AMDs Ryzen 8000G",
       "url": "https://www.heise.de/news/Mittwoch-Kanadas-Kampf-gegen-Online-Hass-Nvidias-Cloud-Gaming-mit-Reklame-9640936.html",
       "image_title": "Frau mit Handy hält sich Hand vor den Mund; Mittwoch: Hass-Strafen, Streaming-Werbung, Oppo-Rückkehr, iCar-Ende, GitHub-KI & Bit-Rauschen"
-    },
-    {
-      "title": "Bit-Rauschen, der Prozessor-Podcast: Die Desktop-CPU AMD Ryzen 8000G",
-      "teaser": "Die neue AMD-CPU mit starker 3D-GPU und KI-Einheit zielt auf effiziente und kompakte PCs. Manches hakt noch, verrät Folge 2024/5 des Podcasts Bit-Rauschen.",
-      "url": "https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-Die-Desktop-CPU-AMD-Ryzen-8000G-9637489.html",
-      "image_title": "Logo von Bit-Rauschen - der Prozessor-Podcast von c’t"
-    },
-    {
-      "title": "GeForce Now: Nvidia beginnt mit Werbeeinblendungen beim Cloud-Gaming",
-      "teaser": "Das Gratis-Angebot von GeForce Now bekommt Reklame. Ab 5. März wird Spielern beim Warten auf einen Server bis zu zwei Minuten Video-Werbung gezeigt.",
-      "url": "https://www.heise.de/news/GeForce-Now-Nvidia-beginnt-mit-Werbeeinblendungen-beim-Cloud-Gaming-9640926.html",
-      "image_title": "Spiele auf Monitor und TV mit Laptops und Handy"
-    },
-    {
-      "title": "Smartphones: Oppo kehrt nach Europa zurück",
-      "teaser": "Ein Patentvertrag mit Nokia öffnet Oppo die Tür zu europäischen Märkten. Jetzt schreitet Oppo hindurch und bringt Handys, Tablets und Kopfhörer.​",
-      "url": "https://www.heise.de/news/Smartphones-Oppo-kehrt-nach-Europa-zurueck-9640894.html",
-      "image_title": "Bingo Liu (lachender Chinese in blauem Nadelstreifanzug mit Brille) hält eine Präsentation; zu lesen ist \"Upcoming gen of Find series will be back in Europe\""
-    },
-    {
-      "title": "GitHub veröffentlicht Copilot Enterprise",
-      "teaser": "GitHub Copilot Enterprise enthält neue Features, mit denen Unternehmen den KI-Assistenten besser auf Bedürfnisse ihrer Organisation zuschneiden.",
-      "url": "https://www.heise.de/news/GitHub-veroeffentlicht-Copilot-Enterprise-9640864.html",
-      "image_title": "Github-Logo an Gebäudewand"
-    },
-    {
-      "title": "Top 7: Die beste Starthilfe für PKW – Auto überbrücken mit Powerbank ab 35 Euro",
-      "teaser": "Wenn die Autobatterie schlapp macht, helfen Powerbanks mit integriertem Starthilfe-Booster. TechStage zeigt die besten Modelle.",
-      "url": "https://www.techstage.de/bestenliste/top-7-die-beste-starthilfe-fuer-pkw-auto-ueberbruecken-mit-powerbank-ab-35-euro/77z7npl?wt_mc=intern.red.techstage.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Mailbox.org: Rechtswidrige behördliche Auskunftsanfragen stark angestiegen",
-      "teaser": "Nicht nur die Gesamtmenge der Ersuchen von Ermittlern ist bei mailbox.org 2023 von 55 auf 133 nach oben geschnellt, sondern auch der Anteil der unzulässigen.",
-      "url": "https://www.heise.de/news/Mailbox-org-Rechtswidrige-behoerdliche-Auskunftsanfragen-stark-angestiegen-9640860.html"
-    },
-    {
-      "title": "Loopy: Roboterschwarm formt einzelnen Roboter ohne zentrales \"Hirn\"",
-      "teaser": "Mehrere Robotermodule formen einen einzelnen Roboter. Im Kollektiv bewegen sie ihn und reagieren auf Hindernisse.",
-      "url": "https://www.heise.de/news/Loopy-Roboterschwarm-formt-einzelnen-Roboter-ohne-zentrales-Hirn-9640632.html"
     },
     {
       "title": "Fehlermeldung offenbart: Mars-Verkaufsautomat scannt Gesichter von Kunden",
@@ -765,36 +766,37 @@
       "url": "https://www.techstage.de/bestenliste/top-10-die-besten-elektronischen-parkscheiben-mit-zulassung-im-test/98zgjxn?wt_mc=intern.red.techstage.techstage_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Wenn selbst progressive Stimmen Kriegs-Propaganda verbreiten",
-      "teaser": "Ein Fall in den USA zeigt: Der Ukraine-Krieg führt zu Kontroversen über alle Lager hinweg. Verunglimpfungen führen aber nur zu Streit. Warum sind Verhandlungen mit Russland für viele ein rotes Tuch?",
-      "url": "https://www.heise.de/tp/features/Wenn-selbst-progressive-Stimmen-Kriegs-Propaganda-verbreiten-9208224.html"
+      "title": "China beschränkt Export wichtiger Mineralien: Europas grüner Wandel bedroht",
+      "teaser": "Der Umgang zwischen EU und China wird zunehmend unfreundlich. Die Entscheidung Beijings hat ein Vorspiel in Europa. Das sind die Hintergründe.",
+      "url": "https://www.heise.de/tp/features/China-beschraenkt-Export-wichtiger-Mineralien-Europas-gruener-Wandel-bedroht-9206885.html",
+      "image_title": "China schränkt Export von Mineralien für grüne Technologien ein."
     },
     {
-      "title": "Streiter für die wahre Demokratie? Lanz kanzelt Aiwanger ab",
-      "teaser": "Mediensplitter (32): Der TV-Moderator macht vor, wie leicht es ist, Etiketten zu verteilen und den Platzanweiser zu spielen. Die AfD steht als Elefant im Raum. Gefährlich ist nicht nur der Populismus.",
-      "url": "https://www.heise.de/tp/features/Streiter-fuer-die-wahre-Demokratie-Lanz-kanzelt-Aiwanger-ab-9207988.html"
+      "title": "Russische Bewegung für Kriegsdienstverweigerug als \"ausländischer Agent\" eingestuft",
+      "teaser": "Wehrdienstflüchtige aus Russland haben wenig Chancen auf Asyl in der EU. Es mangelt an legalen Einreisewegen. Der Kreml geht dennoch von Verbrüderung aus.",
+      "url": "https://www.heise.de/tp/features/Russische-Bewegung-fuer-Kriegsdienstverweigerug-als-auslaendischer-Agent-eingestuft-9207406.html"
     },
     {
-      "title": "Wie der Verfassungsschutz in die Meinungsfreiheit eingreift",
-      "teaser": "Der deutsche Inlandsgeheimdienst wird zunehmend zum politischen Akteur. Macht sich Behördenchef Haldenwang einer strafbaren Nötigung im Amt schuldig? Und was hat das mit Orwells \"1984\" zu tun?",
-      "url": "https://www.heise.de/tp/features/Wie-der-Verfassungsschutz-in-die-Meinungsfreiheit-eingreift-9206508.html"
+      "title": "Wird der Nato-Gipfel einen unendlichen Krieg in Europa eröffnen?",
+      "teaser": "Der Druck wächst, der Ukraine in Vilnius eine Beitrittsperspektive zu geben. Hardliner und einige osteuropäische Staaten wollen ein klares Zeichen. Warum das keine gute Idee ist.",
+      "url": "https://www.heise.de/tp/features/Wird-der-Nato-Gipfel-einen-unendlichen-Krieg-in-Europa-eroeffnen-9205939.html"
     },
     {
-      "title": "Audi Q2 bekommt frisches Infotainmentsystem",
-      "teaser": "Audi aktualisiert ein letztes Mal das kleine SUV Q2. Es bekommt eine neue Unterhaltungselektronik und eine leicht verbesserte Serienausstattung.",
-      "url": "https://www.heise.de/news/Audi-Q2-bekommt-frisches-Infotainmentsystem-9636054.html",
-      "image_title": "Audi Q2"
+      "title": "75 Jahre UKW in Deutschland: Die \"Welle der Freude\" wogt weiter",
+      "teaser": "1949 beginnt in Deutschland das Zeitalter des Ultrakurzwellenradios. Der kriegsbedingte Verlust von Mittelwellenfrequenzen verschafft dabei einen Vorsprung.",
+      "url": "https://www.heise.de/hintergrund/75-Jahre-UKW-in-Deutschland-Die-Welle-der-Freude-wogt-weiter-9641330.html",
+      "image_title": "HiFi-Anlage"
     },
     {
-      "title": "25 Jahre \"Silent Hill\": Horror in einer neuen Dimension​",
-      "teaser": "Vor genau einem Vierteljahrhundert erscheint \"Silent Hill\". Ausgerechnet ein Anbieter von Arcade-Ballereien prägt das Genre der Horrorspiele entscheidend.​",
-      "url": "https://www.heise.de/hintergrund/25-Jahre-Silent-Hill-Horror-in-einer-neuen-Dimension-9623843.html"
+      "title": "Kommentar zum NIS2-Gesetz: Jetzt haftet endlich der Chef für Cybersicherheit",
+      "teaser": "Das Gesetz ist ein Schritt in die richtige Richtung, meint KRITIS-Experte Manuel Atug, obwohl der Gesetzgeber mit vielen Ausnahmen Potenzial verschenkt.",
+      "url": "https://www.heise.de/hintergrund/Kommentar-zum-NIS2-Gesetz-Wirtschaft-geschuetzt-Verwaltung-bleibt-Zielscheibe-9626667.html"
     },
     {
-      "title": "Vision Pro: Teure Komponenten, doch macht Apple Gewinn?",
-      "teaser": "Einer Analyse zufolge kosten allein die Displays der Vision Pro ein Achtel des Gesamtgeräts. Auch die restlichen Komponenten sind teuer.",
-      "url": "https://www.heise.de/news/Vision-Pro-Teure-Komponenten-doch-macht-Apple-Gewinn-9638874.html",
-      "image_title": "Vision Pro mit Nutzerin"
+      "title": "Gerüchte zu Smart Ring, Kamera-AirPods, Brillen und Display-HomePods von Apple",
+      "teaser": "Apple soll mehrere neue Produktkategorien verfolgt haben, die das Unternehmen derzeit noch nicht besetzt. Ob sie wirklich kommen – unklar.",
+      "url": "https://www.heise.de/news/Geruechte-zu-Smart-Ring-Kamera-AirPods-Brillen-und-Display-HomePods-von-Apple-9638565.html",
+      "image_title": "Smarte Brillen, in die zwei Apple-Logos einkopiert wurden"
     },
     {
       "title": "Die 10 besten Cloud-Speicher",
