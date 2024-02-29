@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-29T11:00:43",
+  "timestamp": "2024-02-29T12:09:54",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "3D-Drucker von Anycubic",
+      "url": "https://www.heise.de/news/3D-Drucker-von-Anycubic-gehackt-um-vor-weiteren-Hacks-zu-warnen-9642317.html"
+    },
+    {
       "title": "Cisco NX-OS, FX-OS",
       "url": "https://www.heise.de/news/Cisco-Sicherheitsluecken-in-NX-OS-FX-OS-und-weiteren-Geraeten-geschlossen-9642225.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Webbrowser-Chrome-Google-dichtet-vier-Sicherheitslecks-ab-9641080.html"
     },
     {
-      "title": "RustDesk",
-      "url": "https://www.heise.de/news/Remote-Desktop-RustDesk-Update-entfernt-Test-Zertifikat-9640339.html"
+      "title": "3D-Drucker von Anycubic gehackt, um vor weiteren Hacks zu warnen",
+      "teaser": "Derzeit bekommen einige Besitzer von 3D-Druckern des Herstellers Anycubic eine Warnmeldung auf Geräte geschickt. Diese stammt aber nicht vom Hersteller.",
+      "url": "https://www.heise.de/news/3D-Drucker-von-Anycubic-gehackt-um-vor-weiteren-Hacks-zu-warnen-9642317.html"
     },
     {
       "title": "Cisco: Sicherheitslücken in NX-OS, FX-OS und weiteren Geräten geschlossen",
@@ -75,10 +80,20 @@
       "url": "https://www.heise.de/news/Ransomwaregruppe-Mogilevich-behauptet-Epic-Games-gehackt-zu-haben-9641576.html"
     },
     {
+      "title": "Teamviewer: Sicherheitslücke im Client ermöglicht Rechteausweitung",
+      "teaser": "Eine Schwachstelle im Teamviewer-Client ermöglicht Nutzern, ihre Rechte im System auszuweiten. Ein Update steht bereit.",
+      "url": "https://www.heise.de/news/Teamviewer-Sicherheitsluecke-im-Client-ermoeglicht-Rechteausweitung-9641174.html"
+    },
+    {
       "title": "iX-Workshop: Sicherer Betrieb von Windows 10 und 11 in Unternehmen",
       "teaser": "Lernen Sie an praktischen Beispielen, wie Sie Windows 10 / 11 Pro und Enterprise in Ihrem Unternehmen sicher und effektiv einsetzen. (10% Rabatt bis 13.03.)",
       "url": "https://www.heise.de/news/iX-Workshop-Windows-10-und-11-im-Unternehmen-absichern-9633744.html",
       "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
+    },
+    {
+      "title": "Verbraucherzentrale Hessen erholt sich von Cyberattacke",
+      "teaser": "Bei der Verbraucherzentrale Hessen gab es einen IT-Sicherheitsvorfall. Ob Daten abgeflossen sind, ist derzeit noch unklar.",
+      "url": "https://www.heise.de/news/Verbraucherzentrale-Hessen-erholt-sich-von-Cyberattacke-9641214.html"
     },
     {
       "title": "Google Chrome: Sicherheitsupdate bessert vier Schwachstellen aus",
@@ -141,24 +156,6 @@
       "title": "Windows 11: Hotpatching oder Missverständnis?",
       "teaser": "Am Wochenende kam das Gerücht auf, Microsoft teste Hotpatching in Windows 11, also Updates ohne Neustart. Das basiert wohl auf einem Missverständnis.",
       "url": "https://www.heise.de/news/Windows-11-Testet-Microsoft-Hotpatching-9638773.html"
-    },
-    {
-      "title": "ING-App versendet versehentlich alarmierende Pushnachricht",
-      "teaser": "ING-Kunden haben die Pushwarnung \"Ihre Postanschrift wurde geändert\" erhalten. Dahinter steckt ein IT-Fehler.",
-      "url": "https://www.heise.de/news/Ihre-Postanschrift-wurde-geaendert-Banking-App-der-ING-pusht-Fehlalarm-9638659.html",
-      "image_title": "Push-Nachricht der ING"
-    },
-    {
-      "title": "Microsoft pimpt Logging für Behörden und Organisationen auf",
-      "teaser": "Microsoft will insbesondere Behördenkunden bei der Umsetzung einer US-Cybersicherheitsrichtlinie entgegenkommen. Das Upgrade kommt für alle.",
-      "url": "https://www.heise.de/news/Microsoft-pimpt-Logging-fuer-Behoerden-und-Organisationen-auf-9638579.html",
-      "image_title": "Laptop im Netz wird mit Lupe untersucht"
-    },
-    {
-      "title": "Cybersicherheit: Wann und wie kommt die NIS2-Umsetzung?",
-      "teaser": "Die Vorbereitungen zur Umsetzung der \"Network and Information Systems Directive 2\" laufen auf Hochtouren. Doch es gibt noch offene Fragen und Unstimmigkeiten.",
-      "url": "https://www.heise.de/news/NIS2-Umsetzung-auf-Verdacht-9637797.html",
-      "image_title": "Viele Satelliten"
     },
     {
       "title": "Marktplatz für Maulwürfe – Wie Insider ihr Wissen im Darknet verkaufen",
