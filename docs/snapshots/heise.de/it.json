@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-29T09:00:50",
+  "timestamp": "2024-02-29T10:00:58",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -54,13 +54,34 @@
       "url": "https://www.heise.de/hintergrund/MPC-in-the-Head-erklaert-Ein-Kryptoverfahren-als-Hoffnungstraeger-9640349.html"
     },
     {
+      "title": "Rust-basierte Plattform thin-edge.io: Open-Source-Framework für IoT-Endgeräte",
+      "teaser": "Das Open-Source-Projekt für Thin-Edge-Architekturen erreicht die stabile Version 1.0. Es verbindet industrielle IoT-Endgeräte mit Cloud-Plattformen.",
+      "url": "https://www.heise.de/news/Rust-basierte-Plattform-thin-edge-io-Open-Source-Framework-fuer-IoT-Endgeraete-9642190.html"
+    },
+    {
+      "title": "Cisco: Sicherheitslücken in NX-OS, FX-OS und weiteren Geräten geschlossen",
+      "teaser": "Cisco warnt vor Sicherheitslücken in mehreren Systemen und Geräten. Aktualisierungen zum Abdichten stehen bereit.",
+      "url": "https://www.heise.de/news/Cisco-Sicherheitsluecken-in-NX-OS-FX-OS-und-weiteren-Geraeten-geschlossen-9642225.html"
+    },
+    {
+      "title": "Microsoft Copilot: Emoji-Zwang des Chatbots sorgt für Verwirrung",
+      "teaser": "Microsofts KI-Chatbot Copilot fällt erneut durch verwirrte und verstörende Antworten auf. Nutzer setzen den Emoji-Zwang des Bots gegen ihn ein.",
+      "url": "https://www.heise.de/news/Microsoft-Copilot-Emoji-Zwang-des-Chatbots-sorgt-fuer-Verwirrung-9641915.html"
+    },
+    {
+      "title": "iX-Workshop für Admins: Echtzeitüberwachung mit Prometheus und Grafana",
+      "teaser": "Infrastruktur und Anwendungen effektiv überwachen, Alarme einrichten und Probleme frühzeitig erkennen, um auf kritische Situationen reagieren zu können.",
+      "url": "https://www.heise.de/news/iX-Workshop-fuer-Admins-Echtzeitueberwachung-mit-Prometheus-und-Grafana-9633824.html",
+      "image_title": "iX-Workshop: Einfuehrung SAP S/4 HANA"
+    },
+    {
       "title": "Wie die Daten aus Krebsregistern in die Telematikinfrastruktur​ gelangen sollen",
       "teaser": "Zum aktuellen Stand der Krebsregister und warum bisher erst ein Landeskrebsregister an das Gesundheitsnetz – die Telematikinfrastruktur – angebunden ist.",
       "url": "https://www.heise.de/hintergrund/Wie-die-Daten-aus-Krebsregistern-in-die-Telematikinfrastruktur-gelangen-sollen-9641435.html",
       "image_title": "Medizinische Forschung an einem Computer, ein Kodierer bei der Arbeit"
     },
     {
-      "title": "iX-Workshop: Microsofts Entra ID (AAD) erfolgreich gegen Angriffe absichern",
+      "title": "iX-Workshop: Angriffe auf Entra ID abwehren",
       "teaser": "Lernen Sie, wie Sie Entra ID (Azure Active Directory) einschließlich Azure-Diensten härten und effektiv vor Angriffen schützen. (10% Rabatt bis 12.03.)",
       "url": "https://www.heise.de/news/iX-Workshop-Microsofts-Entra-ID-AAD-erfolgreich-gegen-Angriffe-absichern-9633792.html",
       "image_title": "iX-Workshop Entra ID (AAD) gegen Angriffe absichern"
@@ -115,27 +136,6 @@
       "teaser": "Während Unternehmen USB-Sticks wegen wachsendem Sicherheitsbewusstsein kaum noch zu Werbezwecken verteilen, erhalten Bremer Sparkassen-Kunden darüber neue AGB.",
       "url": "https://www.heise.de/news/Um-Papier-zu-sparen-Sparkasse-Bremen-verschickt-15-000-USB-Sticks-mit-AGB-9641628.html",
       "image_title": "Foto von einer Sparkassenfiliale in Berlin"
-    },
-    {
-      "title": "Ransomware: Epic Games ist angeblich Opfer einer Cyberattacke",
-      "teaser": "Kriminelle geben an, Epic Games attackiert zu haben. Dabei wollen sie fast 190 Gigabyte Daten kopiert haben. Mittlerweile mehren sich Zweifel an der Attacke.",
-      "url": "https://www.heise.de/news/Ransomwaregruppe-Mogilevich-behauptet-Epic-Games-gehackt-zu-haben-9641576.html"
-    },
-    {
-      "title": "Tibber-Stromtarif: Pulse weiterhin mit stundengenauer Abrechnung möglich",
-      "teaser": "Am Wochenende kamen Gerüchte auf, Tibber-Kunden mit Pulse bekämen nur noch Monatsdurchschnittspreis, anstatt stundengenauer Abrechnung.",
-      "url": "https://www.heise.de/news/Verwirrung-um-Tibber-Stromtarif-Stundengenaue-Abrechnung-mit-Pulse-bleibt-9641515.html"
-    },
-    {
-      "title": "Vorwurf: Nvidia ist ein GPU-Kartell",
-      "teaser": "Nvidia straft angeblich Firmen ab, die KI-Beschleuniger etwa von AMD oder Groq in Betracht ziehen.",
-      "url": "https://www.heise.de/news/Vorwuerfe-gegen-Nvidia-Kartellartige-Strukturen-bei-GPUs-und-KI-Beschleunigern-9641413.html",
-      "image_title": "Nvidias KI-Beschleuniger H100"
-    },
-    {
-      "title": "Teamviewer: Sicherheitslücke im Client ermöglicht Rechteausweitung",
-      "teaser": "Eine Schwachstelle im Teamviewer-Client ermöglicht Nutzern, ihre Rechte im System auszuweiten. Ein Update steht bereit.",
-      "url": "https://www.heise.de/news/Teamviewer-Sicherheitsluecke-im-Client-ermoeglicht-Rechteausweitung-9641174.html"
     },
     {
       "title": "Mehr Sichtweite – mehr Kunden",
