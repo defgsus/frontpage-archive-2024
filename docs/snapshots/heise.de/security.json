@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-29T14:01:03",
+  "timestamp": "2024-02-29T15:00:59",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Sophos Endpoint, Home und Server",
+      "url": "https://www.heise.de/news/IT-Sicherheitsloesungen-von-Sophos-verschlucken-sich-am-Schaltjahr-9642801.html"
+    },
+    {
       "title": "3D-Drucker von Anycubic",
       "url": "https://www.heise.de/news/3D-Drucker-von-Anycubic-gehackt-um-vor-weiteren-Hacks-zu-warnen-9642317.html"
     },
@@ -44,13 +48,25 @@
       "url": "https://www.heise.de/news/Teamviewer-Sicherheitsluecke-im-Client-ermoeglicht-Rechteausweitung-9641174.html"
     },
     {
-      "title": "Google Chrome",
-      "url": "https://www.heise.de/news/Webbrowser-Chrome-Google-dichtet-vier-Sicherheitslecks-ab-9641080.html"
+      "title": "IT-Sicherheitsprodukte von Sophos verschlucken sich am Schaltjahr",
+      "teaser": "Aufgrund eines Fehlers können Sophos Endpoint, Home und Server vor dem Besucht legitimer Websites warnen. Erste Lösungen sind bereits verfügbar.",
+      "url": "https://www.heise.de/news/IT-Sicherheitsloesungen-von-Sophos-verschlucken-sich-am-Schaltjahr-9642801.html"
+    },
+    {
+      "title": "Tails 6.0 ist da: Umstieg auf Debian 12 und Gnome 43",
+      "teaser": "Die Version 6.0 von Tails bringt die Basis des anonymisierenden Linux auf aktuellen Stand. Debian 12 und Gnome 43 bilden jetzt das Fundament.",
+      "url": "https://www.heise.de/news/Tails-6-0-ist-da-Umstieg-auf-Debian-12-und-Gnome-43-9642731.html",
+      "image_title": "Tails 6.0 auf Notebook auf Tisch"
     },
     {
       "title": "3D-Drucker von Anycubic gehackt, um vor weiteren Hacks zu warnen",
       "teaser": "Derzeit bekommen einige Besitzer von 3D-Druckern des Herstellers Anycubic eine Warnmeldung auf Geräte geschickt. Diese stammt aber nicht vom Hersteller.",
       "url": "https://www.heise.de/news/3D-Drucker-von-Anycubic-gehackt-um-vor-weiteren-Hacks-zu-warnen-9642317.html"
+    },
+    {
+      "title": "Windows-10-Rechner bekommen Umstiegshinweise auf Windows 11 – in der Domäne",
+      "teaser": "Windows 10 zeigt künftig eine Empfehlung zum Umstieg auf Windows 11. In der Ankündigung verpackt Microsoft, dass Domänen-PCs nicht mehr als verwaltet gelten.",
+      "url": "https://www.heise.de/news/Windows-10-Rechner-bekommen-Umstiegshinweise-auf-Windows-11-in-der-Domaene-9642425.html"
     },
     {
       "title": "Cisco: Sicherheitslücken in NX-OS, FX-OS und weiteren Geräten geschlossen",
@@ -140,22 +156,6 @@
       "teaser": "Ein KI-Agent auf Basis von GPT-4 war in der Lage, 11 von 15 untersuchten Sicherheitslücken auf Websites selbstständig zu finden und auszunutzen.",
       "url": "https://www.heise.de/news/Forscher-bringen-Sprachmodell-bei-Websites-zu-hacken-9638925.html",
       "image_title": "Hacker,Attack,Computer,Hardware,Microchip,While,Process,Data,Through,Internet"
-    },
-    {
-      "title": "Drei Fragen, drei Antworten: Schreckgespenst NIS2",
-      "teaser": "Die NIS2-Richtlinie soll die Cybersicherheit in der EU verbessern. Wir erklären, wer betroffen ist und was auf die Betroffenen zukommt.",
-      "url": "https://www.heise.de/news/Drei-Fragen-drei-Antworten-Schreckgespenst-NIS2-9639641.html"
-    },
-    {
-      "title": "Microsoft macht Ernst: Mail und Kalender werden durch neues Outlook ersetzt",
-      "teaser": "Wer die Apps Mail und Kalender startet, wird womöglich durch eine Umzugsmeldung zum neuen Outlook überrascht. Noch lässt sich das umkehren.",
-      "url": "https://www.heise.de/news/Microsoft-macht-Ernst-Mail-und-Kalender-wird-durch-neues-Outlook-ersetzt-9639173.html",
-      "image_title": "Startbildschirm des neuen Outlook"
-    },
-    {
-      "title": "Windows 11: Hotpatching oder Missverständnis?",
-      "teaser": "Am Wochenende kam das Gerücht auf, Microsoft teste Hotpatching in Windows 11, also Updates ohne Neustart. Das basiert wohl auf einem Missverständnis.",
-      "url": "https://www.heise.de/news/Windows-11-Testet-Microsoft-Hotpatching-9638773.html"
     },
     {
       "title": "Marktplatz für Maulwürfe – Wie Insider ihr Wissen im Darknet verkaufen",
