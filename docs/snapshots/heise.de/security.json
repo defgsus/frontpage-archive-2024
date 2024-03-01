@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-01T08:00:48",
+  "timestamp": "2024-03-01T09:00:58",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Nvidia-GPU-Treiber",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Nividia-Grafikkarten-Treiber-als-Einfallstor-fuer-Angreifer-9643306.html"
+    },
+    {
       "title": "Sophos Endpoint, Home und Server",
       "url": "https://www.heise.de/news/IT-Sicherheitsloesungen-von-Sophos-verschlucken-sich-am-Schaltjahr-9642801.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Cisco-Sicherheitsluecken-in-NX-OS-FX-OS-und-weiteren-Geraeten-geschlossen-9642225.html"
     },
     {
-      "title": "Teamviewer",
-      "url": "https://www.heise.de/news/Teamviewer-Sicherheitsluecke-im-Client-ermoeglicht-Rechteausweitung-9641174.html"
+      "title": "Sicherheitsupdate: Nividia-Grafikkarten-Treiber als Einfallstor für Angreifer",
+      "teaser": "Angreifer können Linux- und Windows-PCs mit Nvidia-GPUs ins Visier nehmen. Es kann Schadcode auf Systeme gelangen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Nividia-Grafikkarten-Treiber-als-Einfallstor-fuer-Angreifer-9643306.html"
     },
     {
       "title": "Klage von WhatsApp: NSO Group muss Quellcode von Pegasus-Spyware herausrücken",
@@ -150,12 +155,6 @@
       "teaser": "Ein Test-Zertifkat in RustDesk für Windows führte zu Diskussionen. Ein Update entfernt es, mitsamt einiger Funktionen.",
       "url": "https://www.heise.de/news/Remote-Desktop-RustDesk-Update-entfernt-Test-Zertifikat-9640339.html",
       "image_title": "Remote Desktop: Rechner über das Netzwerk fernsteuern."
-    },
-    {
-      "title": "Webbrowser: Microsoft Edge-Update schließt Sicherheitslücken",
-      "teaser": "Microsoft hat am Freitag den Browser Edge aktualisiert. Neben Chromium-Sicherheitslücken dichten die Entwickler auch eigene ab.",
-      "url": "https://www.heise.de/news/Webbrowser-Microsoft-Edge-Update-schliesst-Sicherheitsluecken-9639816.html",
-      "image_title": "Startseite von Microsoft Edge"
     },
     {
       "title": "Marktplatz für Maulwürfe – Wie Insider ihr Wissen im Darknet verkaufen",
