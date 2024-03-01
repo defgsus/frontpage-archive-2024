@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-01T07:00:38",
+  "timestamp": "2024-03-01T08:00:45",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,11 @@
   ],
   "articles": [
     {
+      "title": "Microsoft Copilot: KI-Bot ist therapiebedürftig und braucht Emojis",
+      "teaser": "Microsofts KI-Chatbot Copilot fällt erneut durch verwirrte und verstörende Antworten auf. Nutzer setzen den Emoji-Zwang des Bots gegen ihn ein.",
+      "url": "https://www.heise.de/news/Microsoft-Copilot-Emoji-Zwang-des-Chatbots-sorgt-fuer-Verwirrung-9641915.html"
+    },
+    {
       "title": "Teamviewer: Sicherheitslücke im Client ermöglicht Rechteausweitung",
       "teaser": "Eine Schwachstelle im Teamviewer-Client ermöglicht Nutzern, ihre Rechte im System auszuweiten. Ein Update steht bereit.",
       "url": "https://www.heise.de/news/Teamviewer-Sicherheitsluecke-im-Client-ermoeglicht-Rechteausweitung-9641174.html"
@@ -37,11 +42,6 @@
       "image_title": "Lupe auf der Website Wordpress.com"
     },
     {
-      "title": "Ihre Erfahrungen sind gefragt: Hindernisse beim Umstieg von IPv4 auf IPv6",
-      "teaser": "AWS hat öffentliche IPv4-Adressen teuer gemacht. Wir wollen es genau wissen: Wie hält es Ihre IT mit den IPv4-Adressen? Haben Sie schon auf IPv6 umgestellt?",
-      "url": "https://www.heise.de/news/Wie-umgehen-mit-teuren-IPv4-Adressen-9640191.html"
-    },
-    {
       "title": "FAQ: c’t-Notfall-Windows 2024",
       "teaser": "Unser Bausatz in c’t 2/2024 erstellt ein Notfallsystem, das vom USB-Stick startet. Durch externe Einflussfaktoren gelingt das nicht immer im ersten Anlauf.",
       "url": "https://www.heise.de/ratgeber/FAQ-c-t-Notfall-Windows-2024-9640976.html"
@@ -50,6 +50,16 @@
       "title": "Kirby 4 vs. WordPress: Was das flexible CMS besser macht",
       "teaser": "Kirby 4 ist da: Das CMS aus Deutschland hat sich als flexible Alternative zu WordPress etabliert. Es verzichtet auf eine Datenbank und bietet viele Freiheiten.",
       "url": "https://www.heise.de/ratgeber/Kirby-4-vs-WordPress-Was-das-flexible-CMS-besser-macht-9642526.html"
+    },
+    {
+      "title": "KI in DevSecOps – Vom Copiloten zum Autopiloten",
+      "teaser": "Beim autonomen Fahren ebenso wie in der Softwareentwicklung nimmt die Unterstützung durch Künstliche Intelligenz zu, auf dem Weg hin zur Vollautomatisierung.",
+      "url": "https://www.heise.de/hintergrund/KI-in-DevSecOps-Vom-Copiloten-zum-Autopiloten-9640331.html"
+    },
+    {
+      "title": "c’t-Workshop: Einführung in GitLab",
+      "teaser": "Im praxisorientierten Workshop erfahren Admins, wie sie eine GitLab-Instanz konfigurieren, betreiben und an die eigenen Anforderungen anpassen.",
+      "url": "https://www.heise.de/news/c-t-Workshop-Einfuehrung-in-GitLab-9611959.html"
     },
     {
       "title": "\"Crimemarket\": Polizei beschlagnahmt kriminelle Handelsplattform im Internet",
@@ -122,17 +132,6 @@
       "title": "c't-Webinar zu ChatGPT, Midjourney & Co. in der April-Edition",
       "teaser": "Das Webinar bietet einen praxisnahen, umfassenden Einstieg in verschiedene KI-Tools und zeigt den Einfluss von KI-Werkzeugen auf die Arbeitswelt.",
       "url": "https://www.heise.de/news/c-t-Webinar-zu-ChatGPT-Midjourney-Co-in-der-April-Edition-9633039.html"
-    },
-    {
-      "title": "Intel veröffentlicht Baupläne für Chipfabrik Magdeburg",
-      "teaser": "Für die Genehmigung der Fabs 29.1 und 29.2 bei Magdeburg liegen nun die Pläne offen; der Betrieb soll Ende 2027 starten.",
-      "url": "https://www.heise.de/news/Intel-veroeffentlicht-Bauplaene-fuer-Chipfabrik-Magdeburg-9642443.html"
-    },
-    {
-      "title": "Git 2.44 unterstützt Wiederverwendung von Objekten über mehrere Packs hinweg",
-      "teaser": "Die Versionsverwaltungssoftware Git erlaubt mit Version 2.44 das Wiederverwenden von Mulit-Pack-Dateien und führt mit Replay ein neues Rebase-Werkzeug ein.",
-      "url": "https://www.heise.de/news/Versionsverwaltung-Git-2-44-Schnelleres-Paken-durch-Multi-Wiederverwendung-9642375.html",
-      "image_title": "Colored,File,Folder,With,Tabs,Close,Up."
     },
     {
       "title": "Mehr Sichtweite – mehr Kunden",
