@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-01T09:00:55",
+  "timestamp": "2024-03-01T10:00:56",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "Intel gründet Altera neu",
+      "teaser": "2015 hat Intel Altera gekauft und den Markennamen eingestampft. Jetzt soll Altera als eigenständige Firma neu aufleben.",
+      "url": "https://www.heise.de/news/Intel-gruendet-Altera-neu-9642997.html",
+      "image_title": "Karte mit Altera-5-FPGA"
+    },
+    {
       "title": "Microsoft Copilot: KI-Bot ist therapiebedürftig und braucht Emojis",
       "teaser": "Microsofts KI-Chatbot Copilot fällt erneut durch verwirrte und verstörende Antworten auf. Nutzer setzen den Emoji-Zwang des Bots gegen ihn ein.",
       "url": "https://www.heise.de/news/Microsoft-Copilot-Emoji-Zwang-des-Chatbots-sorgt-fuer-Verwirrung-9641915.html"
@@ -36,20 +42,27 @@
       "url": "https://www.heise.de/news/Teamviewer-Sicherheitsluecke-im-Client-ermoeglicht-Rechteausweitung-9641174.html"
     },
     {
-      "title": "OpenAI und Midjourney: Inhalte von Wordpress.com und Tumblr für KI-Training",
-      "teaser": "Auch Automattic will mit nutzergenerierten Inhalten Geld machen und sie fürs KI-Training freigeben. Wer das nicht will, muss tätig werden.",
-      "url": "https://www.heise.de/news/Inhalte-von-Wordpress-com-und-Tumblr-sollen-fuer-KI-Training-freigegeben-werden-9640984.html",
-      "image_title": "Lupe auf der Website Wordpress.com"
+      "title": "GraphQL-APIs mit GraphQL Editor designen",
+      "teaser": "GraphQL Editor ermöglicht es, visuell GraphQL-Schemata, Abfragen und Mutationen zu erstellen, anzuzeigen und zu testen.",
+      "url": "https://www.heise.de/ratgeber/GraphQL-APIs-mit-GraphQL-Editor-designen-9642279.html"
     },
     {
-      "title": "FAQ: c’t-Notfall-Windows 2024",
-      "teaser": "Unser Bausatz in c’t 2/2024 erstellt ein Notfallsystem, das vom USB-Stick startet. Durch externe Einflussfaktoren gelingt das nicht immer im ersten Anlauf.",
-      "url": "https://www.heise.de/ratgeber/FAQ-c-t-Notfall-Windows-2024-9640976.html"
+      "title": "Diodenlaser mit 40 Watt Leistung: Creality Falcon 2 im Test",
+      "teaser": "Aktuelle Diodenlaser bieten mit 40 Watt Laserleistung so viel Power wie ihre CO2-Kollegen. Wir haben den Creality Falcon 2 getestet.",
+      "url": "https://www.heise.de/tests/Diodenlaser-mit-40-Watt-Leistung-Creality-Falcon-2-im-Test-9612673.html",
+      "image_title": ","
     },
     {
-      "title": "Kirby 4 vs. WordPress: Was das flexible CMS besser macht",
-      "teaser": "Kirby 4 ist da: Das CMS aus Deutschland hat sich als flexible Alternative zu WordPress etabliert. Es verzichtet auf eine Datenbank und bietet viele Freiheiten.",
-      "url": "https://www.heise.de/ratgeber/Kirby-4-vs-WordPress-Was-das-flexible-CMS-besser-macht-9642526.html"
+      "title": "Cloudflare stellt Rust-Framework Pingora Open Source",
+      "teaser": "Der Quellcode für das Rust-Framework Pingora steht ab sofort frei zur Verfügung. Das Tool soll bei der Konstruktion von HTTP-Proxy-Diensten helfen.",
+      "url": "https://www.heise.de/news/Cloudflare-stellt-Rust-Framework-Pingora-Open-Source-9643382.html",
+      "image_title": "Abstrakte Visualisierung von Nervenzellen"
+    },
+    {
+      "title": "iX-Workshop: ISO 27001 - Informationssicherheit im Unternehmen umsetzen",
+      "teaser": "Der Workshop zeigt, wie man Informationssicherheit im Unternehmen mit dem Sicherheitsstandard ISO 27001 umsetzt und welche Herausforderungen sich dabei stellen.",
+      "url": "https://www.heise.de/news/iX-Workshop-ISO-27001-Informationssicherheit-im-Unternehmen-umsetzen-9633844.html",
+      "image_title": "ix-Workshop IT-Sicherheit nach ISO 27001 umsetzen"
     },
     {
       "title": "LockBit-Drohung mit Leak zu Verfahren gegen Donald Trump wohl nur ein Bluff",
@@ -107,12 +120,6 @@
       "url": "https://www.heise.de/news/Kiffer-Listen-Mit-der-Cannabis-Legalisierung-droht-ein-Datenschutz-Fiasko-9643041.html"
     },
     {
-      "title": "Intel gründet Altera neu",
-      "teaser": "2015 hat Intel Altera gekauft und den Markennamen eingestampft. Jetzt soll Altera als eigenständige Firma neu aufleben.",
-      "url": "https://www.heise.de/news/Intel-gruendet-Altera-neu-9642997.html",
-      "image_title": "Karte mit Altera-5-FPGA"
-    },
-    {
       "title": "Doctipharma: EuGH genehmigt Apotheken-Verbundportal für rezeptfreie Mittel​",
       "teaser": "Der Verkauf rezeptfreier Medikamente im Fernabsatz ist laut EuGH prinzipiell zulässig, wenn über eine Plattform nur Verkäufer und Kunden zusammengeführt werden.",
       "url": "https://www.heise.de/news/Doctipharma-EuGH-genehmigt-Apotheken-Verbundportal-fuer-rezeptfreie-Mittel-9642962.html",
@@ -128,11 +135,6 @@
       "title": "macOS auf jedem beliebigen PC zum Laufen bringen: Hackintosh im Video",
       "teaser": "Aus jedem PC kann man mit ein wenig Bastelei einen Mac machen: Der Hackintosh ist geboren. Heise-Redakteur Alexander Spier hat ihn im Video getestet.",
       "url": "https://www.heise.de/ratgeber/macOS-auf-jedem-beliebigen-PC-zum-Laufen-bringen-Hackintosh-im-Video-9642411.html"
-    },
-    {
-      "title": "IT-Sicherheitsprodukte von Sophos verschlucken sich am Schaltjahr",
-      "teaser": "Aufgrund eines Fehlers können Sophos Endpoint, Home und Server vor dem Besuch legitimer Websites warnen. Erste Lösungen sind bereits verfügbar.",
-      "url": "https://www.heise.de/news/IT-Sicherheitsloesungen-von-Sophos-verschlucken-sich-am-Schaltjahr-9642801.html"
     },
     {
       "title": "Mehr Sichtweite – mehr Kunden",
