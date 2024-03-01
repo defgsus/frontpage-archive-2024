@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-01T13:00:38",
+  "timestamp": "2024-03-01T14:00:39",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Microsoft Streaming Service",
+      "url": "https://www.heise.de/news/Halbes-Jahr-alte-Windows-Luecke-wird-angegriffen-9643763.html"
+    },
+    {
       "title": "Nvidia-GPU-Treiber",
       "url": "https://www.heise.de/news/Sicherheitsupdate-Nividia-Grafikkarten-Treiber-als-Einfallstor-fuer-Angreifer-9643306.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/3D-Drucker-von-Anycubic-gehackt-um-vor-weiteren-Hacks-zu-warnen-9642317.html"
     },
     {
-      "title": "Cisco NX-OS, FX-OS",
-      "url": "https://www.heise.de/news/Cisco-Sicherheitsluecken-in-NX-OS-FX-OS-und-weiteren-Geraeten-geschlossen-9642225.html"
+      "title": "Halbes Jahr alte Windows-Lücke wird angegriffen",
+      "teaser": "Die CISA warnt vor Angriffen auf eine Lücke in Microsofts Streaming Service. Updates gibt es seit mehr als einem halben Jahr.",
+      "url": "https://www.heise.de/news/Halbes-Jahr-alte-Windows-Luecke-wird-angegriffen-9643763.html",
+      "image_title": "Stilisierte Grafik: Brennendes Windows-Logo auf einem Laptop"
     },
     {
       "title": "EU-Parlament beschließt Online-Ausweis, beschränkt staatliche Root-Zertifikate",
@@ -150,11 +156,6 @@
       "title": "Ransomware: Epic Games ist angeblich Opfer einer Cyberattacke",
       "teaser": "Kriminelle geben an, Epic Games attackiert zu haben. Dabei wollen sie fast 190 Gigabyte Daten kopiert haben. Mittlerweile mehren sich Zweifel an der Attacke.",
       "url": "https://www.heise.de/news/Ransomwaregruppe-Mogilevich-behauptet-Epic-Games-gehackt-zu-haben-9641576.html"
-    },
-    {
-      "title": "Teamviewer: Sicherheitslücke im Client ermöglicht Rechteausweitung",
-      "teaser": "Eine Schwachstelle im Teamviewer-Client ermöglicht Nutzern, ihre Rechte im System auszuweiten. Ein Update steht bereit.",
-      "url": "https://www.heise.de/news/Teamviewer-Sicherheitsluecke-im-Client-ermoeglicht-Rechteausweitung-9641174.html"
     },
     {
       "title": "Marktplatz für Maulwürfe – Wie Insider ihr Wissen im Darknet verkaufen",
