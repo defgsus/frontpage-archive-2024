@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-02T14:00:40",
+  "timestamp": "2024-03-02T15:00:59",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -12,14 +12,14 @@
       "text": null
     },
     {
-      "type": null,
-      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
     {
-      "type": "module",
-      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -99,13 +99,13 @@
     },
     {
       "title": "Bundeswehr : Olaf Scholz verspricht schnelle Aufklärung von Taurus-Abhöraffäre",
-      "teaser": "Die Debatte um einen geleakten Mitschnitt ranghoher Bundeswehroffiziere nennt der Bundeskanzler \"sehr ernst\". Er kündigt sorgfältige und schnelle Aufklärung an.",
+      "teaser": "Den Fall eines geleakten Mitschnitts von Bundeswehroffizieren nennt der Kanzler \"sehr ernst\" und verspricht Aufklärung. Die Echtheit des Audios ist inzwischen bestätigt.",
       "url": "https://www.zeit.de/politik/deutschland/2024-03/olaf-scholz-verspricht-schnelle-aufklaerung-von-taurus-abhoeraffaere",
       "image_url": "https://img.zeit.de/politik/deutschland/2024-03/scholz-aufklaerung-taurus-abhoeraffaere-bild/super__980x653"
     },
     {
       "title": "Russland : Menschen trauern weiter an Nawalnys Grab in Moskau",
-      "teaser": "Viele Menschen legen auch am Tag nach der Beerdigung Alexej Nawalnys Blumen auf dem Friedhof Borissowskoje ab. Auch die Mutter des Verstorbenen besuchte das Grab.",
+      "teaser": "Viele Menschen legen auch am Tag nach der Beerdigung Alexej Nawalnys Blumen auf dem Friedhof Borissowskoje ab. Auch die Mutter des Verstorbenen besuchte erneut das Grab.",
       "url": "https://www.zeit.de/politik/ausland/2024-03/alexej-nawalny-friedhof-moskau-trauer",
       "image_url": "https://img.zeit.de/politik/ausland/2024-03/alexej-nawalny-friedhof-moskau-trauer-bild/super__980x653"
     },
@@ -116,12 +116,6 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-03/gaza-tote-hilfsgueter-israel-hamas-faq-bild/super__980x653"
     },
     {
-      "title": "US-Wahl : Biden vs. Trump, die Zweite",
-      "teaser": "Trotz aller Anklagen könnte Donald Trump Präsidentschaftskandidat werden und wieder gegen Joe Biden antreten. Bleibt alles beim Alten?",
-      "url": "https://www.zeit.de/politik/2024-02/us-wahl-joe-biden-donald-trump-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-02/us-wahl-joe-biden-donald-trump-nachrichtenpodcast-bild/super__980x653"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Reiseziele : Urlaub mit Kindern? Hier lieber nicht!",
       "teaser": "Ein Haus in der Toskana klingt nach Erholung? Mit Kindern wird es zur Urlaubsfalle. Hier sind Reisen, die man sich als Familie sparen kann – und entspannte Alternativen.",
       "url": "https://www.zeit.de/zeit-magazin/familie/2024-02/reiseziele-kinder-familie-urlaubsorte-tipps",
@@ -129,9 +123,21 @@
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Kuckuckskinder : Sag mir, wer mein Vater ist!",
-      "teaser": "Seit zehn Jahren will Sabine Zimmer wissen, wer ihr biologischer Vater ist. Die Antwort könnte sie retten. Doch die Eltern schweigen.",
+      "teaser": "Seit zehn Jahren will Sandra Zimmer wissen, wer ihr biologischer Vater ist. Die Antwort könnte sie retten. Doch die Eltern schweigen.",
       "url": "https://www.zeit.de/2024/10/kuckuckskinder-biologische-eltern-vater-mutter",
       "image_url": "https://img.zeit.de/2024/10/sag-mir-wer-mein-vater-ist-bild-1/wide__980x551"
+    },
+    {
+      "title": "US-Wahl : Biden vs. Trump, die Zweite",
+      "teaser": "Trotz aller Anklagen könnte Donald Trump Präsidentschaftskandidat werden und wieder gegen Joe Biden antreten. Bleibt alles beim Alten?",
+      "url": "https://www.zeit.de/politik/2024-02/us-wahl-joe-biden-donald-trump-nachrichtenpodcast",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-02/us-wahl-joe-biden-donald-trump-nachrichtenpodcast-bild/super__980x653"
+    },
+    {
+      "title": "Nordrhein-Westfalen : 15.000 Menschen protestieren in Duisburg gegen rechts",
+      "teaser": "Die Proteste gegen die AfD reißen auch nach fast zwei Monaten nicht ab. In Duisburg haben sich 15.000 Menschen auf der Straße versammelt, um sich zu positionieren.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-03/nordrhein-westfalen-duisburg-demonstration-gegen-rechts",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-03/nordrhein-westfalen-duisburg-demonstration-gegen-rechts-bild/super__980x653"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Interaktiver Rechner • Das Beste aus Z+ : Mieten oder Kaufen? Der endgültige Rechner",
@@ -200,22 +206,16 @@
       "image_url": "https://img.zeit.de/sport/2024-03/baller-league-fanprotest-amateurfussball/wide__980x551"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Klaus-Michael Kühne : Nur ein \"einflussloser Fan\"?",
-      "teaser": "Klaus-Michael Kühne ist als Anteilseigner des Hamburger SV mächtiger als je zuvor. Und der Fußballclub sorgt dafür, dass das auch so bleibt.",
-      "url": "https://www.zeit.de/2024/10/klaus-michael-kuehne-hamburger-sv-milliardaer-anteilseigner",
-      "image_url": "https://img.zeit.de/2024/10/nur-ein-einflussloser-fan-bild-1/super__980x653"
-    },
-    {
       "title": "Frauen-Bundesliga : Männer an die Pfeife!",
       "teaser": "Unseren Kolumnisten treibt eine politisch heikle Wahrheit um: Dass nur Frauen in der Bundesliga pfeifen dürfen, ist ungerecht und Grund für eine Schiri-Shitshow.",
       "url": "https://www.zeit.de/sport/2024-03/frauen-bundesliga-schiedsrichter-maenner-fussball",
       "image_url": "https://img.zeit.de/sport/2024-03/wochenende-gruenflaeche-frauen-fussball-schiedsrichterin/super__980x653"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Beziehung zu den Eltern : Wer nah sein will, muss Abstand suchen",
-      "teaser": "Die Beziehung zu den Eltern ist die erste und oft die komplizierteste im Leben. Wie man es schafft, sich von seinen Eltern zu lösen und ihnen trotzdem nah zu bleiben.",
-      "url": "https://www.zeit.de/campus/2024/02/beziehung-eltern-freiheit-verbundenheit-erwachsene",
-      "image_url": "https://img.zeit.de/campus/2024/02/fuer-immer-kind-bild-3/super__980x653"
+      "title": "Z+ (abopflichtiger Inhalt); Hobbys : Warum es großartig ist, in etwas schlecht zu sein",
+      "teaser": "Hässliche Tassen töpfern, maximal peinlich surfen: In der Freizeit darf man schlecht in etwas sein. Für die Psyche. Das Leben hat so viel mehr zu bieten als nur Talent.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2024-02/hobbys-scheitern-talent-bereicherung",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-02/hobbys-scheitern-talent-bereicherung-teaser/super__980x653"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Erinnerungsvermögen : \"Wer seine Perspektive wechselt, erinnert sich an längst Vergessenes\"",
@@ -290,10 +290,10 @@
       "image_url": "https://img.zeit.de/wirtschaft/2024-03/bitkom-afd-positionen-schaden-deutschlands-digitalwirtschaft-bild-2/super__980x653"
     },
     {
-      "title": "Mode : US-Mode-Ikone Iris Apfel ist tot",
-      "teaser": "Sie prägte die Modebranche und beriet neun US-Präsidenten zur Inneneinrichtung im Weißen Haus: Iris Apfel ist im Alter von 102 Jahren in New York gestorben.",
-      "url": "https://www.zeit.de/gesellschaft/2024-03/iris-apfel-tod-mode-ikone-usa",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-03/modeikone-iris-apfel-verstorben-bild-2/super__980x653"
+      "title": "Z+ (abopflichtiger Inhalt); Sängerin Lary : Hardcore-Chanson",
+      "teaser": "Schalke verliert mal wieder, aber das macht nichts. Ein Wochenende mit der deutschen Sängerin und Schauspielerin Lary in ihrer Heimatstadt Gelsenkirchen",
+      "url": "https://www.zeit.de/2024/10/lary-saengerin-schauspielerin-gelsenkirchen-ruhrgebiet",
+      "image_url": "https://img.zeit.de/2024/10/hardcore-chanson-bild-1/super__980x653"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Bodypositivity : Früher fühlte es sich wie Weltuntergang an auf der Waage",
@@ -353,9 +353,15 @@
       "url": "https://www.zeit.de/politik/deutschland/2024-03/krieg-karl-lauterbach-gesundheitsminister-krankenhaus-versorgung-gesetzentwurf-notfall-plan"
     },
     {
-      "title": "Migration : Was ändert sich durch die Bezahlkarte für Asylbewerber?",
-      "teaser": "Asylsuchende sollen in Deutschland ihre Leistungen künftig über eine Karte beziehen. Was sind die Folgen – und was ist die Kritik am Vorhaben?",
-      "url": "https://www.zeit.de/politik/deutschland/2024-03/bezahlkarte-asylbewerber-gefluechtete-bargeld-deutschland-faq"
+      "title": "Gazastreifen : Nicaragua wirft Deutschland Beihilfe zu Genozid vor",
+      "teaser": "Wegen deutscher Unterstützung für Israel hat Nicaragua vor dem Internationalen Gerichtshof Klage eingereicht. Deutschland erleichtere \"die Begehung eines Völkermordes\".",
+      "url": "https://www.zeit.de/politik/2024-03/nicaragua-israel-genozid-gazastreifen-gerichtshof"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Klaus-Michael Kühne : Nur ein \"einflussloser Fan\"?",
+      "teaser": "Klaus-Michael Kühne ist als Anteilseigner des Hamburger SV mächtiger als je zuvor. Und der Fußballclub sorgt dafür, dass das auch so bleibt.",
+      "url": "https://www.zeit.de/2024/10/klaus-michael-kuehne-hamburger-sv-milliardaer-anteilseigner",
+      "image_url": "https://img.zeit.de/2024/10/nur-ein-einflussloser-fan-bild-1/super__980x653"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Gazastreifen : Auf der Flucht in einem Trümmerfeld",
@@ -368,12 +374,6 @@
       "teaser": "Trotz des großen Polizeiaufgebots nehmen Tausende in Moskau Abschied von Alexej Nawalny. Sie danken ihm – und äußern lautstark ihre Kritik an Wladimir Putin.",
       "url": "https://www.zeit.de/gesellschaft/2024-03/alexej-nawalny-beerdigung-trauerfeier-moskau",
       "image_url": "https://img.zeit.de/gesellschaft/2024-03/alexej-nawalny-beerdigung-trauerfeier/super__980x653"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Schimpfwörter : Leider hat das Kind das Fluchen entdeckt",
-      "teaser": "\"Du doofe Mama\" war vielleicht noch süß. Wenn das Kind mit \"Fick dich\" nach Hause kommt, ist die Grenze vieler Eltern überschritten. Dabei gäbe es auch Grund zur Freude.",
-      "url": "https://www.zeit.de/zeit-magazin/familie/2024-02/schimpfwoerter-kinder-erziehung-fluchen-eltern",
-      "image_url": "https://img.zeit.de/zeit-magazin/familie/2024-03/schimpfwoerter-kinder-erziehung-fluchen/super__980x653"
     },
     {
       "title": "Verlagsangebot : 5 Tipps, um die Liebe wieder aufzufrischen",
@@ -545,10 +545,16 @@
       "image_url": "https://img.zeit.de/arbeit/2024-02/jens-mollenhauer-polizei-jugendschutz-arbeit-podcast-bild-2/super__980x653"
     },
     {
+      "title": "Mode : US-Mode-Ikone Iris Apfel ist tot",
+      "teaser": "Sie prägte die Modebranche und beriet neun US-Präsidenten zur Inneneinrichtung im Weißen Haus: Iris Apfel ist im Alter von 102 Jahren in New York gestorben.",
+      "url": "https://www.zeit.de/gesellschaft/2024-03/iris-apfel-tod-mode-ikone-usa",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-03/modeikone-iris-apfel-verstorben-bild-2/wide__980x551"
+    },
+    {
       "title": "Niedersachsen : Haftbefehl gegen Bundeswehrsoldaten wegen mutmaßlichen Mordes",
       "teaser": "In Scheeßel und Brockel soll ein Soldat vier Menschen erschossen haben. Das Motiv ist weiter unklar, der mutmaßliche Täter in Haft.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-03/niedersachsen-haftbefehl-bundeswehr-soldat-mord",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-03/verden-haftbefehl-bundeswehrsoldaten/wide__980x551",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-03/verden-haftbefehl-bundeswehrsoldaten/super__980x653",
       "image_title": "Verden Haftbefehl Bundeswehrsoldaten"
     },
     {
@@ -556,12 +562,6 @@
       "teaser": "Die RAF-Terroristin Daniela Klette lebte mitten in Berlin, doch die Polizei brauchte Jahrzehnte, um sie zu finden. Denn das mächtigste Werkzeug darf sie nicht nutzen.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-03/daniela-klette-fahndung-polizei-raf-terroristin",
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-03/daniela-klette-fahndung-polizei-raf/super__980x653"
-    },
-    {
-      "title": "Daniela Klette : BKA bittet um Unterstützung bei Fahndung nach Ex-RAF-Terroristen",
-      "teaser": "Bei der Suche nach den Komplizen von Daniela Klette hoffen die Fahnder auf Hinweise aus der Bevölkerung. Deren Wohnung wird noch immer von der Polizei durchsucht.",
-      "url": "https://www.zeit.de/gesellschaft/2024-03/raf-terroristin-klette-durchsuchung-polizei",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-03/raf-fahndungsfoto-bild/super__980x653"
     },
     {
       "title": "Börse : Chip-Hersteller Nvidia knackt Börsenwert von zwei Billionen Dollar",
@@ -593,9 +593,7 @@
     {
       "title": "WiWo History Durchbruch : Wie ein 23-Jähriger mit seinem „Eau de Cologne“ den Parfummarkt revolutionierte",
       "teaser": "Johann Maria Farina kreierte vor mehr als 300 Jahren das erste Eau de Cologne und revolutionierte den Duftmarkt. Die kleine, feine Firma existiert bis heute – und heißt nicht 4711.",
-      "url": "https://www.wiwo.de/unternehmen/wiwo-history-durchbruch-wie-ein-23-jaehriger-mit-seinem-eau-de-cologne-den-parfummarkt-revolutionierte/29682744.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/farina/29682806/2-format10640.jpg%253Fformat%253Dformat10640/super__980x653",
-      "image_title": "Wie ein 23-Jähriger mit seinem „Eau de Cologne“ den Parfummarkt revolutionierte"
+      "url": "https://www.wiwo.de/unternehmen/wiwo-history-durchbruch-wie-ein-23-jaehriger-mit-seinem-eau-de-cologne-den-parfummarkt-revolutionierte/29682744.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett"
     },
     {
       "title": "Femizid : Männer sind immer noch ein Problem",
@@ -642,28 +640,28 @@
       "image_title": "Thermosbecher Stanley Cup"
     },
     {
-      "title": "Ukraine-Krieg : Niederlande und Ukraine vereinbaren Sicherheitsabkommen",
-      "teaser": "In Charkiw haben Mark Rutte und Wolodymyr Selenskyj ein Sicherheitsabkommen geschlossen. Es sieht Militärhilfen von zwei Milliarden Euro allein für 2024 vor.",
-      "url": "https://www.zeit.de/video/2024-03/6348019395112/ukraine-krieg-niederlande-und-ukraine-vereinbaren-sicherheitsabkommen",
-      "image_url": "https://img.zeit.de/video/2024-03/6348019395112-still/wide__980x551"
+      "title": "An dieser Stelle ist ein externer Inhalt eingebunden",
+      "teaser": "Zum Anschauen benötigen wir Ihre Zustimmung",
+      "url": "https://www.zeit.de/gesellschaft/2024-02/demonstrationen-gegen-rechtsextremismus-kinder-rassismus-schule",
+      "image_url": "https://img.zeit.de/video/2024-02/otis-demonstrationen-rechts-angst/wide__980x551"
     },
     {
-      "title": "Warnstreiks : Ver.di und Fridays for Future demonstrieren für bessere Arbeitsbedingungen",
-      "teaser": "Ver.di hat erneut zu einem Warnstreik für bessere Arbeitsbedingungen aufgerufen. Unterstützt wird die Gewerkschaft von der Klimabewegung Fridays for Future.",
-      "url": "https://www.zeit.de/video/2024-03/6348007343112/warnstreiks-ver-di-und-fridays-for-future-demonstrieren-fuer-bessere-arbeitsbedingungen",
-      "image_url": "https://img.zeit.de/video/2024-03/6348007343112-still/super__980x653"
+      "title": "Gaza-Krieg : Biden bekräftigt Hoffnung auf Waffenstillstand vor Ramadan",
+      "teaser": "Die US-Regierung denkt weiter darüber nach, humanitäre Güter über dem Gazastreifen abzuwerfen. Laut UN sind dort eine halbe Million Menschen akut durch Hunger gefährdet.",
+      "url": "https://www.zeit.de/video/2024-03/6348078669112/gaza-krieg-biden-bekraeftigt-hoffnung-auf-waffenstillstand-vor-ramadan",
+      "image_url": "https://img.zeit.de/video/2024-03/6348078669112-still/super__980x653"
+    },
+    {
+      "title": "Parlamentswahl im Iran : Wahlbeteiligung im Iran liegt offenbar bei rund 40 Prozent",
+      "teaser": "Obwohl Chamenei die Stimmabgabe zur religiösen Pflicht erklärt hatte, sank die Wahlbeteiligung wohl auf einen Tiefstwert. Der Iran wählt erstmals seit den Protesten 2022.",
+      "url": "https://www.zeit.de/video/2024-03/6348075086112/parlamentswahl-im-iran-wahlbeteiligung-im-iran-liegt-offenbar-bei-rund-40-prozent",
+      "image_url": "https://img.zeit.de/video/2024-03/6348075086112-still/super__980x653"
     },
     {
       "title": "Kinder im Krieg : \"Diese Ereignisse hinterlassen bei Kindern katastrophale Spuren\"",
       "teaser": "Angstzustände, extremes Klammern, Schlafstörungen. Psychotherapeutin Barbara Winzely im Gespräch über die traumatischen Auswirkungen von Krieg auf Kinder und Jugendliche",
       "url": "https://www.zeit.de/politik/2024-02/kinder-krieg-trauma-angststoerung-psychologie-jugendliche",
       "image_url": "https://img.zeit.de/politik/2024-02/kinder-krieg-gaza-thumb/super__980x653"
-    },
-    {
-      "title": "Frieden in Nahost : Ein Staat, zwei Staaten, Konföderation?",
-      "teaser": "Eine Einigung zwischen Israel und den Palästinensern scheint momentan unmöglich. Wie es nach dem Krieg weitergehen könnte, und welche Lösungsansätze realistisch sind.",
-      "url": "https://www.zeit.de/politik/ausland/2023-11/nahost-konflikt-einigung-loesungsansaetze-israel-palaestinenser",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-11/thumbnail-gaza-video-neu/super__980x653"
     },
     {
       "title": "Ägyptomanie : Ein Mumienfuß als Mitbringsel",
@@ -786,22 +784,22 @@
       "image_url": "https://img.zeit.de/mobilitaet/2024-03/streik-verdi-oepnv/super__980x653"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Schimpfwörter : Leider hat das Kind das Fluchen entdeckt",
+      "teaser": "\"Du doofe Mama\" war vielleicht noch süß. Wenn das Kind mit \"Fick dich\" nach Hause kommt, ist die Grenze vieler Eltern überschritten. Dabei gäbe es auch Grund zur Freude.",
+      "url": "https://www.zeit.de/zeit-magazin/familie/2024-02/schimpfwoerter-kinder-erziehung-fluchen-eltern",
+      "image_url": "https://img.zeit.de/zeit-magazin/familie/2024-03/schimpfwoerter-kinder-erziehung-fluchen/wide__980x551"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Bierkonsum : Das Bier sind wir",
       "teaser": "Die Deutschen trinken immer weniger Bier, doch der fränkische Brauer David Hertl kommt mit der Produktion kaum nach. Was macht er richtig?",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-02/bierkonsum-brauerei-franken-david-hertl-tradition",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-02/bierkonsum-brauerei-franken-david-hertl-tradition-teaser/wide__980x551"
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-02/bierkonsum-brauerei-franken-david-hertl-tradition-teaser/super__980x653"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Kai Pflaume : Die Affäre Schraubglas",
       "teaser": "Kai Pflaume überlässt nichts dem Zufall, deswegen nimmt er sich sein Frühstück mit ins Café. Doch wie schlimm wäre ein Morgen ohne individuell justierte Overnight-Oats?",
       "url": "https://www.zeit.de/zeit-magazin/unterhaltung/2024-03/kai-pflaume-sunset-club-podcast-overnight-oats-cafe",
       "image_url": "https://img.zeit.de/zeit-magazin/unterhaltung/2024-03/kai-pflaume-sunset-club-podcast-overnight/super__980x653"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Skinny Jeans : Bein des Anstoßes",
-      "teaser": "Mehr als 20 Jahre waren sie unzertrennlich: unser Autor und seine Skinny Jeans. Als seine Tochter protestierte, ging er mit gutem Beispiel voran – und suchte das Weite.",
-      "url": "https://www.zeit.de/zeit-magazin/2024/10/skinny-jeans-mode-maenner-trend-wandel",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-02/skinny-jeans-mode-maenner-trend-wandel-bild/super__980x653"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Antidepressiva : \"Glückspillen, das ist eine völlig falsche Bezeichnung\"",
@@ -902,36 +900,36 @@
       "image_url": "https://img.zeit.de/newsletter/stimmen/stimmen-nl-teaser/super__980x653"
     },
     {
-      "title": "Bundesfamilienministerin: Lisa Paus: Engagierte gegen rechts mehr unterstützen",
-      "url": "https://www.zeit.de/news/2024-03/02/lisa-paus-engagierte-gegen-rechts-mehr-unterstuetzen"
+      "title": "Feste: Rhein empfängt Produkt-Hoheiten und Regionalvertreter",
+      "url": "https://www.zeit.de/news/2024-03/02/rhein-empfaengt-produkt-hoheiten-und-regionalvertreter"
     },
     {
-      "title": "Grundschulen: Söder verteidigt Bedeutung des Religionsunterrichts",
-      "url": "https://www.zeit.de/news/2024-03/02/soeder-verteidigt-bedeutung-des-religionsunterrichts"
+      "title": "Migration: Mamad Mohamad: Sachsen-Anhalt ist kein Einwanderungsland",
+      "url": "https://www.zeit.de/news/2024-03/02/mamad-mohamad-sachsen-anhalt-ist-kein-einwanderungsland"
     },
     {
-      "title": "Formel 1: Weltverbandschef: Horner-Angelegenheit schadet dem Sport",
-      "url": "https://www.zeit.de/news/2024-03/02/weltverbandschef-horner-angelegenheit-schadet-dem-sport"
+      "title": "Regierung: Ramelow kritisiert Wahrnehmung der Ostdeutschen",
+      "url": "https://www.zeit.de/news/2024-03/02/ramelow-kritisiert-wahrnehmung-der-ostdeutschen"
     },
     {
-      "title": "Verkehrsunfälle: Zwei Verletzte bei Unfall auf B9",
-      "url": "https://www.zeit.de/news/2024-03/02/zwei-verletzte-bei-unfall-auf-b9"
+      "title": "Soziales: Mehr als 500 Besucher bei MV-Ehrenamtsmessen in Waren",
+      "url": "https://www.zeit.de/news/2024-03/02/mehr-als-500-besucher-bei-mv-ehrenamtsmessen-in-waren"
     },
     {
-      "title": "Weltcup: Biathletinnen im Massenstart in Oslo ohne Top-Ten-Platz",
-      "url": "https://www.zeit.de/news/2024-03/02/biathletinnen-im-massenstart-in-oslo-ohne-top-ten-platz"
+      "title": "Protest: Umweltbündnis: Politik soll Tesla-Erweiterung verhindern",
+      "url": "https://www.zeit.de/news/2024-03/02/umweltbuendnis-politik-soll-tesla-erweiterung-verhindern"
     },
     {
-      "title": "Energie: Land vereinfacht Regeln für Solaranlagen auf Denkmalen",
-      "url": "https://www.zeit.de/news/2024-03/02/land-vereinfacht-regeln-fuer-solaranlagen-auf-denkmalen"
+      "title": "Demonstrationen: Umweltaktivisten blockieren Berliner Elsenbrücke",
+      "url": "https://www.zeit.de/news/2024-03/02/umweltaktivisten-blockieren-berliner-elsenbruecke"
     },
     {
-      "title": "Royals: König Harald bekommt temporären Herzschrittmacher",
-      "url": "https://www.zeit.de/news/2024-03/02/koenig-harald-bekommt-temporaeren-herzschrittmacher"
+      "title": "Tarife: Verdi ruft erneut zu Kino-Warnstreik auf",
+      "url": "https://www.zeit.de/news/2024-03/02/verdi-ruft-erneut-zu-kino-warnstreik-auf"
     },
     {
-      "title": "Gesundheit: Mehr Borreliosefälle 2023: 90 Fälle seit Dezember",
-      "url": "https://www.zeit.de/news/2024-03/02/mehr-borreliosefaelle-2023-90-faelle-seit-dezember"
+      "title": "Finanzen: Ratingagentur bewertet Freistaat mit Bestnote",
+      "url": "https://www.zeit.de/news/2024-03/02/ratingagentur-bewertet-freistaat-mit-bestnote"
     }
   ]
 }
