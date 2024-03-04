@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-04T07:52:20",
+  "timestamp": "2024-03-04T09:17:56",
   "url": "https://www.welt.de/regionales/",
   "response": {
     "status": 200
@@ -26,18 +26,25 @@
   ],
   "articles": [
     {
+      "title": "Vier Tote und 23 Verletzte bei Brand in Seniorenheim",
+      "teaser": "Bei einem Feuer in einem Seniorenheim in Bedburg-Hau am Niederrhein sind vier Menschen ums Leben gekommen, mindestens 23 weitere wurden verletzt. Die Feuerwehr hatte Fenster einschlagen müssen, um die Bewohner des Heims zu retten.",
+      "url": "https://www.welt.de/vermischtes/",
+      "image_url": "https://img.welt.de/img/eilmeldung/mobile250386766/5837938087-ci23x11-w20/Tote-bei-Brand-in-Seniorenheim.jpg",
+      "image_title": "Polizei und Feuerwehr im Einsatz, nach dem Brand in einem Seniorenheim in Bedburg-Hau"
+    },
+    {
+      "title": "Mist und Gülle auf Bundesstraße führen zu Unfällen mit Verletzten",
+      "teaser": "Protestierende Bauern haben am Morgen auf der Bundesstraße 5 Gülle und Mist über mehrere hundert Meter auf der Fahrbahn verteilt. Dadurch kam es zu Verkehrsunfällen mit drei Verletzten. In Berlin soll der Protest weitergehen und bis zum Nachmittag andauern.",
+      "url": "https://www.welt.de/vermischtes/",
+      "image_url": "https://img.welt.de/img/vermischtes/mobile250388188/0737937717-ci23x11-w20/Bauernprotest-Mist-auf-der-Strasse-verursacht-Unfaelle.jpg",
+      "image_title": "Bauernprotest - Mist auf der Straße verursacht Unfälle"
+    },
+    {
       "title": "Baumgart ist knietief in der HSV-Realität angekommen",
       "teaser": "Die Niederlage gegen die in Unterzahl spielenden Osnabrücker kommt für den neuen HSV-Trainer überraschend. Steffen Baumgart hat Arbeit vor sich und will Dinge hinterfragen. Immerhin diente die Pleite Xabi Alonso als Mahnung für Leverkusen.",
       "url": "https://www.welt.de/regionales/hamburg/",
       "image_url": "https://img.welt.de/img/sport/mobile250382406/6237930057-ci23x11-w20/Hamburger-SV-v-VfL-Osnabrueck-Second-Bundesliga-2.jpg",
       "image_title": "HAMBURG, GERMANY - MARCH 03: Steffen Baumgart, Head Coach of Hamburger SV, gestures during the Second Bundesliga match between Hamburger SV and VfL Osnabrück at Volksparkstadion on March 03, 2024 in Hamburg, Germany. (Photo by Cathrin Mueller/Getty Images)"
-    },
-    {
-      "title": "Vier Tote bei Brand in Seniorenheim – viele Verletzte",
-      "teaser": "Bei einem Feuer in einem Seniorenheim in Bedburg-Hau am Niederrhein sind vier Menschen ums Leben gekommen, etliche weitere wurden verletzt. Die Feuerwehr hatte Fenster einschlagen müssen, um die Bewohner des Heims zu retten.",
-      "url": "https://www.welt.de/eilmeldung/",
-      "image_url": "https://img.welt.de/img/eilmeldung/mobile250386766/5837938087-ci23x11-w20/Tote-bei-Brand-in-Seniorenheim.jpg",
-      "image_title": "Polizei und Feuerwehr im Einsatz, nach dem Brand in einem Seniorenheim in Bedburg-Hau"
     },
     {
       "title": "„Es gibt keine Wachstumsstrategie für den Hafen“",
@@ -53,13 +60,6 @@
       "url": "https://www.welt.de/vermischtes/kriminalitaet/",
       "image_url": "https://img.welt.de/img/vermischtes/kriminalitaet/mobile250384216/5277931857-ci23x11-w20/Shots-Fired-As-Police-Seek-Remaining-RAF-Terrorists.jpg",
       "image_title": "Shots Fired As Police Seek Remaining RAF Terrorists"
-    },
-    {
-      "title": "Bundeswehrsoldat vor Tat im Kreis Rotenburg wegen Bedrohung angezeigt",
-      "teaser": "Im Kreis Rotenburg soll ein Bundeswehrsoldat vier Menschen erschossen haben, darunter ein Kind. Wie nun bekannt wurde, hatte sich dessen Ex-Partnerin zuvor an die Polizei gewandt. Die Beamten führten deshalb eine Gefährderansprache durch.",
-      "url": "https://www.welt.de/vermischtes/kriminalitaet/",
-      "image_url": "https://img.welt.de/img/vermischtes/kriminalitaet/mobile250382976/3547933517-ci23x11-w20/Schuesse-im-Landkreis-Rotenburg-Mehrere-Tote.jpg",
-      "image_title": "Beamte der Spurensicherung vor dem Tatort in der Gemeinde Scheeßel"
     },
     {
       "title": "Lieferando-Gutschein",
@@ -251,6 +251,13 @@
       "author": "Theresa Zachäus"
     },
     {
+      "title": "Bundeswehrsoldat vor Tat im Kreis Rotenburg wegen Bedrohung angezeigt",
+      "teaser": "Im Kreis Rotenburg soll ein Bundeswehrsoldat vier Menschen erschossen haben, darunter ein Kind. Wie nun bekannt wurde, hatte sich dessen Ex-Partnerin zuvor an die Polizei gewandt. Die Beamten führten deshalb eine Gefährderansprache durch.",
+      "url": "https://www.welt.de/vermischtes/kriminalitaet/",
+      "image_url": "https://img.welt.de/img/vermischtes/kriminalitaet/mobile250382976/3547933517-ci23x11-w20/Schuesse-im-Landkreis-Rotenburg-Mehrere-Tote.jpg",
+      "image_title": "Beamte der Spurensicherung vor dem Tatort in der Gemeinde Scheeßel"
+    },
+    {
       "title": "Autofahrer überschlägt sich bei Flucht vor Polizei mehrfach",
       "teaser": "Ein 34-jähriger Mann ist in Niedersachsen schwer mit dem Auto verunglückt. Polizisten in Cloppenburg wollten den Autofahrer kontrollieren und stoppen, als dieser beschleunigte, von der Straße abkam und sich mehrfach überschlug. Der Fahrer stand mutmaßlich unter Alkoholeinfluss.",
       "url": "https://www.welt.de/vermischtes/",
@@ -264,13 +271,6 @@
       "image_url": "https://img.welt.de/img/politik/deutschland/mobile250224808/3087937137-ci23x11-w20/Buergerentscheid-Fluechtlingsunterkunft-in-Fuerstenau-15.jpg",
       "image_title": "Die frühere Pommernkaserne in Fürstenau steht zurzeit leer",
       "author": "Ulrich Exner"
-    },
-    {
-      "title": "Mehrere Sexualtaten – Prozess gegen deutschen Maddie-Verdächtigen beginnt",
-      "teaser": "Christian B. sitzt wegen Vergewaltigung derzeit bereits in Strafhaft. Nun muss er sich erneut wegen mutmaßlich mehrerer Fälle von sexuellem Missbrauch verantworten. Im Vermisstenfall Maddie McCann wird ebenfalls gegen den 47-Jährigen ermittelt.",
-      "url": "https://www.welt.de/vermischtes/kriminalitaet/",
-      "image_url": "https://img.welt.de/img/vermischtes/kriminalitaet/mobile250029590/5737933207-ci23x11-w20/Landgericht-Braunschweig.jpg",
-      "image_title": "Der Haupteingangsbereich im Landgericht Braunschweig"
     },
     {
       "title": "Bauern blockieren Zufahrten zum Frankfurter Flughafen",
@@ -404,6 +404,98 @@
       "image_title": "Lubmin (Mecklenburg-Vorpommern), Ziel der Pipeline Nord Stream 2"
     },
     {
+      "title": "Reul dankt Helfern nach tödlichem Brand in Seniorenheim",
+      "url": "https://www.welt.de/regionales/nrw/article250388280/Reul-dankt-Helfern-nach-toedlichem-Brand-in-Seniorenheim.html"
+    },
+    {
+      "title": "Kleinlaster zwei Tage in Folge mit zu viel Ladung erwischt",
+      "url": "https://www.welt.de/regionales/bayern/article250388192/Kleinlaster-zwei-Tage-in-Folge-mit-zu-viel-Ladung-erwischt.html"
+    },
+    {
+      "title": "«Richtiges Theater»: Toni Schumachers Bühnen-Auftritt mit 70",
+      "url": "https://www.welt.de/regionales/nrw/article250388176/Richtiges-Theater-Toni-Schumachers-Buehnen-Auftritt-mit-70.html"
+    },
+    {
+      "title": "Vier Tote und 23 Verletzte bei Brand in Seniorenheim",
+      "url": "https://www.welt.de/vermischtes/article250386306/Nordrhein-Westfalen-Vier-Tote-und-23-Verletzte-bei-Brand-in-Seniorenheim.html"
+    },
+    {
+      "title": "Eisbären-Profi Wiederer vor Hauptrunden-Finale: «Freuen uns»",
+      "url": "https://www.welt.de/regionales/berlin/article250388094/Eisbaeren-Profi-Wiederer-vor-Hauptrunden-Finale-Freuen-uns.html"
+    },
+    {
+      "title": "Männer auf Gleisen zwingen ICE zu Bremsung",
+      "url": "https://www.welt.de/regionales/niedersachsen/article250388036/Maenner-auf-Gleisen-zwingen-ICE-zu-Bremsung.html"
+    },
+    {
+      "title": "Mix aus Wolken und etwas Regen zum Wochenstart",
+      "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article250387962/Mix-aus-Wolken-und-etwas-Regen-zum-Wochenstart.html"
+    },
+    {
+      "title": "Lotto-Millionengewinne in Thüringen und Sachsen-Anhalt",
+      "url": "https://www.welt.de/regionales/sachsen-anhalt/article250387842/Lotto-Millionengewinne-in-Thueringen-und-Sachsen-Anhalt.html"
+    },
+    {
+      "title": "Real, EM-Titel, RB Leipzig: Die Zukunftspläne von Simons",
+      "url": "https://www.welt.de/regionales/sachsen/article250387804/Real-EM-Titel-RB-Leipzig-Die-Zukunftsplaene-von-Simons.html"
+    },
+    {
+      "title": "S6 fährt nach Hangrutsch wieder bis Ratingen",
+      "url": "https://www.welt.de/regionales/nrw/article250387790/S6-faehrt-nach-Hangrutsch-wieder-bis-Ratingen.html"
+    },
+    {
+      "title": "Brand im Seniorenheim: Vier Tote und 23 Verletzte",
+      "url": "https://www.welt.de/regionales/nrw/article250387778/Brand-im-Seniorenheim-Vier-Tote-und-23-Verletzte.html"
+    },
+    {
+      "title": "Wirtschaftsministerium: Übernachtungsrekord 2023",
+      "url": "https://www.welt.de/regionales/berlin/article250387672/Wirtschaftsministerium-Uebernachtungsrekord-2023.html"
+    },
+    {
+      "title": "Semesterticket wird zum vergünstigten Deutschlandticket",
+      "url": "https://www.welt.de/regionales/hamburg/article250387612/Semesterticket-wird-zum-verguenstigten-Deutschlandticket.html"
+    },
+    {
+      "title": "BR Volleys hoffen auf «Schub für den Saison-Endspurt»",
+      "url": "https://www.welt.de/regionales/berlin/article250387618/BR-Volleys-hoffen-auf-Schub-fuer-den-Saison-Endspurt.html"
+    },
+    {
+      "title": "Räuber stehlen Rentner die Armbanduhr und die dritten Zähne",
+      "url": "https://www.welt.de/regionales/berlin/article250387610/Raeuber-stehlen-Rentner-die-Armbanduhr-und-die-dritten-Zaehne.html"
+    },
+    {
+      "title": "Wohnungsdurchsuchung bei Fahndung nach Ex-RAF-Terroristen",
+      "url": "https://www.welt.de/regionales/berlin/article250387566/Wohnungsdurchsuchung-bei-Fahndung-nach-Ex-RAF-Terroristen.html"
+    },
+    {
+      "title": "Potsdam nach Pokalfinale: «Nichts hat richtig funktioniert»",
+      "url": "https://www.welt.de/regionales/berlin/article250387562/Potsdam-nach-Pokalfinale-Nichts-hat-richtig-funktioniert.html"
+    },
+    {
+      "title": "Radfahrerin von Auto angefahren und verletzt",
+      "url": "https://www.welt.de/regionales/berlin/article250387478/Radfahrerin-von-Auto-angefahren-und-verletzt.html"
+    },
+    {
+      "title": "Mist und Gülle auf Bundesstraße führen zu Unfällen mit Verletzten",
+      "url": "https://www.welt.de/vermischtes/article250386516/Bauern-Protest-in-Brandenburg-Mist-und-Guelle-auf-der-B5-fuehren-zu-Unfaellen-mit-Verletzten.html"
+    },
+    {
+      "title": "Zweitägiger Verdi-Warnstreik bei Lufthansa trifft Passagiere",
+      "url": "https://www.welt.de/regionales/hessen/article250387200/Zweitaegiger-Verdi-Warnstreik-bei-Lufthansa-trifft-Passagiere.html"
+    },
+    {
+      "title": "Anklage nach Tötung am Lindenauer Hafen in Leipzig erhoben",
+      "url": "https://www.welt.de/regionales/sachsen/article250387194/Anklage-nach-Toetung-am-Lindenauer-Hafen-in-Leipzig-erhoben.html"
+    },
+    {
+      "title": "Frühlingshaft mild und wechselhaft zu Wochenbeginn",
+      "url": "https://www.welt.de/regionales/sachsen-anhalt/article250387052/Fruehlingshaft-mild-und-wechselhaft-zu-Wochenbeginn.html"
+    },
+    {
+      "title": "Mix aus Wolken und Regen, dann zunehmend freundliches Wetter",
+      "url": "https://www.welt.de/regionales/nrw/article250387048/Mix-aus-Wolken-und-Regen-dann-zunehmend-freundliches-Wetter.html"
+    },
+    {
       "title": "Steinbach: Goodyear-Reifenstandort noch nicht verloren",
       "url": "https://www.welt.de/regionales/berlin/article250386892/Steinbach-Goodyear-Reifenstandort-noch-nicht-verloren.html"
     },
@@ -444,96 +536,8 @@
       "url": "https://www.welt.de/regionales/hessen/article250386550/Sperrmuellcontainer-am-Fuldaer-Wertstoffhof-in-Brand-geraten.html"
     },
     {
-      "title": "Brand in Mehrfamilienhaus in Kassel",
-      "url": "https://www.welt.de/regionales/hessen/article250386558/Brand-in-Mehrfamilienhaus-in-Kassel.html"
-    },
-    {
-      "title": "Henkel erwartet weniger Wachstum",
-      "url": "https://www.welt.de/regionales/nrw/article250386542/Henkel-erwartet-weniger-Wachstum.html"
-    },
-    {
-      "title": "Sechs Verletzte bei Unfall in Muldenhammer",
-      "url": "https://www.welt.de/regionales/sachsen/article250386444/Sechs-Verletzte-bei-Unfall-in-Muldenhammer.html"
-    },
-    {
-      "title": "Suche nach Ex-RAF-Terroristen: Fahnder durchsuchen Objekt",
-      "url": "https://www.welt.de/regionales/niedersachsen/article250386430/Suche-nach-Ex-RAF-Terroristen-Fahnder-durchsuchen-Objekt.html"
-    },
-    {
-      "title": "MV-Kommune skeptisch bei Plänen für Schulbau-Gesellschaft",
-      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article250386424/MV-Kommune-skeptisch-bei-Plaenen-fuer-Schulbau-Gesellschaft.html"
-    },
-    {
-      "title": "Verwaltung: 2000 Stellen werden gestrichen",
-      "url": "https://www.welt.de/regionales/nrw/article250386400/Verwaltung-2000-Stellen-werden-gestrichen.html"
-    },
-    {
-      "title": "Chemiekonzern Evonik geht vorsichtig ins neue Jahr",
-      "url": "https://www.welt.de/regionales/nrw/article250386392/Chemiekonzern-Evonik-geht-vorsichtig-ins-neue-Jahr.html"
-    },
-    {
-      "title": "Vier Tote bei Brand in Seniorenheim",
-      "url": "https://www.welt.de/regionales/nrw/article250386382/Vier-Tote-bei-Brand-in-Seniorenheim.html"
-    },
-    {
-      "title": "Frühlingswetter in Niedersachsen am Montag",
-      "url": "https://www.welt.de/regionales/niedersachsen/article250386374/Fruehlingswetter-in-Niedersachsen-am-Montag.html"
-    },
-    {
-      "title": "Experte: Erster Spargel könnte Ostern beim Verbraucher sein",
-      "url": "https://www.welt.de/regionales/niedersachsen/article250386360/Experte-Erster-Spargel-koennte-Ostern-beim-Verbraucher-sein.html"
-    },
-    {
-      "title": "Kreativwettbewerb zu den 25. Ringelganstagen startet",
-      "url": "https://www.welt.de/regionales/hamburg/article250386352/Kreativwettbewerb-zu-den-25-Ringelganstagen-startet.html"
-    },
-    {
-      "title": "Frühlingshafte Temperaturen am Montag",
-      "url": "https://www.welt.de/regionales/hamburg/article250386340/Fruehlingshafte-Temperaturen-am-Montag.html"
-    },
-    {
-      "title": "Baumgart nach Niederlage: «Ergebnis eine Katastrophe»",
-      "url": "https://www.welt.de/regionales/hamburg/article250386336/Baumgart-nach-Niederlage-Ergebnis-eine-Katastrophe.html"
-    },
-    {
-      "title": "Vier Tote bei Brand in Seniorenheim – viele Verletzte",
-      "url": "https://www.welt.de/eilmeldung/article250386306/Nordrhein-Westfalen-Vier-Tote-bei-Brand-in-Seniorenheim-viele-Verletzte.html"
-    },
-    {
-      "title": "Erster Datenträgerspürhund der Polizei noch in Ausbildung",
-      "url": "https://www.welt.de/regionales/hamburg/article250386322/Erster-Datentraegerspuerhund-der-Polizei-noch-in-Ausbildung.html"
-    },
-    {
-      "title": "Vergewaltigung kommt nach drei Jahren vor Gericht",
-      "url": "https://www.welt.de/regionales/hamburg/article250386326/Vergewaltigung-kommt-nach-drei-Jahren-vor-Gericht.html"
-    },
-    {
-      "title": "Hoffenheims Coach stellt Torjäger Beier Fleißnote aus",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article250386314/Hoffenheims-Coach-stellt-Torjaeger-Beier-Fleissnote-aus.html"
-    },
-    {
-      "title": "Einschüchterungsversuche bei Demos: Gefahr im Wahlkampf?",
-      "url": "https://www.welt.de/regionales/berlin/article250386208/Einschuechterungsversuche-bei-Demos-Gefahr-im-Wahlkampf.html"
-    },
-    {
-      "title": "Bewölkter Wochenstart in Berlin und Brandenburg",
-      "url": "https://www.welt.de/regionales/berlin/article250386230/Bewoelkter-Wochenstart-in-Berlin-und-Brandenburg.html"
-    },
-    {
-      "title": "Gülle auf der Straße: Drei Verletzte bei Bauern-Protesten",
-      "url": "https://www.welt.de/regionales/berlin/article250386202/Guelle-auf-der-Strasse-Drei-Verletzte-bei-Bauern-Protesten.html"
-    },
-    {
       "title": "„Es gibt keine Wachstumsstrategie für den Hafen“",
       "url": "https://www.welt.de/regionales/hamburg/article250352082/Brandbrief-der-Wirtschaft-Es-gibt-keine-Wachstumsstrategie-fuer-den-Hafen.html"
-    },
-    {
-      "title": "Sieben Verletzte bei Schlägerei nach Fußballspiel",
-      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article250386194/Sieben-Verletzte-bei-Schlaegerei-nach-Fussballspiel.html"
-    },
-    {
-      "title": "Falsche Polizisten: Prozess gegen 24-jährigen Hintermann",
-      "url": "https://www.welt.de/regionales/nrw/article250386198/Falsche-Polizisten-Prozess-gegen-24-jaehrigen-Hintermann.html"
     },
     {
       "title": "Staub und Garweg weiterhin flüchtig – Polizei findet Wohnwagen eines Gesuchten",
@@ -638,10 +642,6 @@
     {
       "title": "Dealender 17-Jähriger führt Polizei zu dealendem Stiefvater",
       "url": "https://www.welt.de/regionales/hamburg/article250344908/Hamburg-Dealender-17-Jaehriger-fuehrt-Polizei-zu-dealendem-Stiefvater.html"
-    },
-    {
-      "title": "Prozess um tödliche Schüsse – Polizei sucht Waffe in der Außenalster",
-      "url": "https://www.welt.de/regionales/hamburg/article250345096/Hamburg-Prozess-um-toedliche-Schuesse-Polizei-sucht-Waffe-in-der-Aussenalster.html"
     }
   ]
 }
