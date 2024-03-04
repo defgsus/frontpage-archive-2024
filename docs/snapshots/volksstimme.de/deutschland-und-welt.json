@@ -1,16 +1,347 @@
 {
-  "timestamp": "2024-03-04T16:00:49",
+  "timestamp": "2024-03-04T17:00:40",
   "url": "https://www.volksstimme.de/deutschland-und-welt",
   "response": {
-    "status": 404
+    "status": 200
   },
   "scripts": [
+    {
+      "type": "text/javascript",
+      "src": "https://data-9f47bd3ec3.volksstimme.de/iomm/latest/bootstrap/loader.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://applets.ebxcdn.com/ebx.js",
+      "id": "ebx",
+      "text": null
+    },
     {
       "type": null,
       "src": "https://www.volksstimme.de/static/scripts/scripts.182b7588.js",
       "id": null,
       "text": null
+    },
+    {
+      "type": null,
+      "src": "https://static.dumontnext.de/revenue/lightworks-vs.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.volksstimme.de/static/scripts/adScripts.182b7588.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://cdn.dl.volksstimme.de/bineosmgm/content/Bineos_2_0/bineos.min.js",
+      "id": null,
+      "text": null
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "Trump siegt vor Supreme Court",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/trump-siegt-vor-supreme-court-3799988",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/04/a66fb291-0ea7-4448-9496-7c708b45906b.jpeg?rect=0%2C96%2C2048%2C1152&width=100",
+      "image_title": "US-Wahlen: Trump siegt vor Supreme Court",
+      "topic": "US-Wahlen"
+    },
+    {
+      "title": "EM-Finale und viel Sonne - davon träumen die Baumärkte 2024",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/em-finale-und-viel-sonne-davon-traumen-die-baumarkte-2024-3799747",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/04/bc3444b9-ef0c-42ca-ad74-e1b4d1cd0683.jpeg?rect=0%2C117%2C2048%2C1152&width=100",
+      "image_title": "Handel: EM-Finale und viel Sonne - davon träumen die Baumärkte 2024",
+      "topic": "Handel"
+    },
+    {
+      "title": "Der Druck auf die Ex-RAF-Terroristen steigt",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/der-druck-auf-die-ex-raf-terroristen-steigt-3799548",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/04/b8c352e2-9e3d-4d8a-bddb-012c3590362d.jpeg?rect=0%2C0%2C2048%2C1152&width=100",
+      "image_title": "Berlin: Der Druck auf die Ex-RAF-Terroristen steigt",
+      "topic": "Berlin"
+    },
+    {
+      "title": "Lauschangriff aus Russland: Deutschland mit offener Flanke",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/lauschangriff-aus-russland-deutschland-mit-offener-flanke-3799598",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/04/fc7beb36-0b92-4502-9db5-a0130393212a.jpeg?rect=0%2C113%2C2048%2C1152&width=100",
+      "image_title": "Krieg: Lauschangriff aus Russland: Deutschland mit offener Flanke",
+      "topic": "Krieg"
+    },
+    {
+      "title": "Erster Sieg für Haley im Vorwahl-Duell gegen Trump",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/erster-sieg-fur-haley-im-vorwahl-duell-gegen-trump-3799559",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/04/ce87ec32-be9e-40c5-91fc-769fd5bebb71.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "US-Republikaner: Erster Sieg für Haley im Vorwahl-Duell gegen Trump",
+      "topic": "US-Republikaner"
+    },
+    {
+      "title": "Milliarden-Aktienkapital für die Rente - was die Ampel plant",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/milliarden-aktienkapital-fur-die-rente-was-die-ampel-plant-3799895",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/04/4afe80ba-b53b-44f7-ad20-507053224ad0.jpeg?rect=0%2C106%2C2048%2C1152&width=100",
+      "image_title": "Fragen & Antworten: Milliarden-Aktienkapital für die Rente - was die Ampel plant",
+      "topic": "Fragen & Antworten"
+    },
+    {
+      "title": "Mist und Gülle über hunderte Meter auf der B5 - Drei Unfälle mit fünf Verletzten",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/bauernproteste-brandenburg-auf-b5-mist-und-guelle-auf-bundesstrasse-unfaelle-und-verletzte-3799880",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/04/0ec50387-c5a9-4ef5-ae6f-fec0cb6a44a2.jpeg?rect=0%2C131%2C2048%2C1152&width=100",
+      "image_title": "Auf der Bundesstraße 5 ist es bei Bauernprotesten zu mehreren Unfällen gekommen, weil Misthaufen auf der Fahrbahn lagen.",
+      "topic": "bauernproteste"
+    },
+    {
+      "title": "Neuer Generalbundesanwalt: Behörde ist „Dienerin des Rechts“",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/neuer-generalbundesanwalt-behorde-ist-dienerin-des-rechts-3799928",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/04/22567a16-7f21-4a72-ba6e-106f36f3e291.jpeg?rect=0%2C164%2C2048%2C1152&width=100",
+      "image_title": "Jens Rommel: Neuer Generalbundesanwalt: Behörde ist „Dienerin des Rechts“",
+      "topic": "Jens Rommel"
+    },
+    {
+      "title": "Hersteller: Russlands neuester Panzer zu teuer für den Krieg",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/hersteller-russlands-neuester-panzer-zu-teuer-fur-den-krieg-3799908",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/04/ea1e6c18-5280-465c-a4df-6241fdc127cd.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Rüstungsindustrie: Hersteller: Russlands neuester Panzer zu teuer für den Krieg",
+      "topic": "Rüstungsindustrie"
+    },
+    {
+      "title": "Nato-Truppen überqueren bei Militärübung die Weichsel",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/nato-truppen-uberqueren-bei-militarubung-die-weichsel-3799580",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/04/e12cbe96-fa95-43e6-803e-f347fe2733b4.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Polen: Nato-Truppen überqueren bei Militärübung die Weichsel",
+      "topic": "Polen"
+    },
+    {
+      "title": "Deutsche Bahn warnt: GDL-Streik wird \"massive Auswirkungen\" haben - Auch Flüge fallen aus",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/streik-gdl-tarif-deutsche-bahn-wirtschaft-ausfall-zug-verkehr-gdl-streik-wird-3799790",
+      "topic": "Zugausfall"
+    },
+    {
+      "title": "Trump meldet sich nach Nawalnys Tod mit bizarrem Vergleich",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/trump-meldet-sich-nach-nawalnys-tod-mit-bizarrem-vergleich-3790581",
+      "topic": "Kremlgegner"
+    },
+    {
+      "title": "Die zehn häufigsten Nachnamen im Land",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/die-zehn-haufigsten-nachnamen-im-land-944582",
+      "topic": "Statistik"
+    },
+    {
+      "title": "Putin kritisiert deutsche Außenministerin Baerbock",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/putin-kritisiert-deutsche-aussenministerin-baerbock-3787852",
+      "topic": "International"
+    },
+    {
+      "title": "Deutsche Bahn warnt: GDL-Streik wird \"massive Auswirkungen\" haben - Auch Flüge fallen aus",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/streik-gdl-tarif-deutsche-bahn-wirtschaft-ausfall-zug-verkehr-gdl-streik-wird-3799790",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/04/cf886a97-d2d7-4e52-8b88-efc1a312dc1f.jpeg?rect=0%2C298%2C3512%2C1975&width=100",
+      "image_title": "Ab Donnerstag kommt es erneut zu Einschränkungen bei der Bahn durch einen Streik der GDL.",
+      "topic": "Zugausfall"
+    },
+    {
+      "title": "Schlagabtausch vor Asylgipfel",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/schlagabtausch-vor-asylgipfel-3799803",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/04/e24eac51-ac4f-417a-8917-1b946d916aa0.jpeg?rect=0%2C196%2C2048%2C1152&width=100",
+      "image_title": "Migration: Schlagabtausch vor Asylgipfel",
+      "topic": "Migration"
+    },
+    {
+      "title": "Scholz: „Ich bin der Kanzler, und deshalb gilt das“",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/scholz-ich-bin-der-kanzler-und-deshalb-gilt-das-3799839",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/04/02e64d79-c6c8-462a-af89-33b72697b202.jpeg?rect=0%2C122%2C2048%2C1152&width=100",
+      "image_title": "Debatte um Taurus-Lieferung: Scholz: „Ich bin der Kanzler, und deshalb gilt das“",
+      "topic": "Debatte um Taurus-Lieferung"
+    },
+    {
+      "title": "Habeck: Haben bei der Sicherheit zu lange zu wenig getan",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/habeck-haben-bei-der-sicherheit-zu-lange-zu-wenig-getan-3799521",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/04/2736a66a-4bd4-445c-8cda-1e30cee3165f.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Verteidigung: Habeck: Haben bei der Sicherheit zu lange zu wenig getan",
+      "topic": "Verteidigung"
+    },
+    {
+      "title": "Angriff auf Grünen-Kandidat - Politischer Hintergrund",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/angriff-auf-grunen-kandidat-politischer-hintergrund-3799183",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/04/abb12d22-3e6d-48b4-a19c-47433193a207.jpeg?rect=0%2C93%2C2048%2C1152&width=100",
+      "image_title": "Baden-Württemberg: Angriff auf Grünen-Kandidat - Politischer Hintergrund",
+      "topic": "Baden-Württemberg"
+    },
+    {
+      "title": "Wie die Kirche Rechtsextremisten aus Gremien fernhalten will",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/wie-die-kirche-rechtsextremisten-aus-gremien-fernhalten-will-3799603",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/04/6dcc1381-5b5c-4f6c-be50-6391c44f6075.jpeg?rect=0%2C130%2C2048%2C1152&width=100",
+      "image_title": "Extremismus: Wie die Kirche Rechtsextremisten aus Gremien fernhalten will",
+      "topic": "Extremismus"
+    },
+    {
+      "title": "Immer mehr Rentner beziehen Grundsicherung",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/immer-mehr-rentner-beziehen-grundsicherung-3799600",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/04/93ec2263-5bc5-4d37-a8f7-26e101d02fab.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Soziales: Immer mehr Rentner beziehen Grundsicherung",
+      "topic": "Soziales"
+    },
+    {
+      "title": "Söder: Eigene Kanzlerkandidatur „extremst unwahrscheinlich“",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/soder-eigene-kanzlerkandidatur-extremst-unwahrscheinlich-3799555",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/04/1275af74-c790-4fcb-9971-bd399d2963ff.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Wahlen: Söder: Eigene Kanzlerkandidatur „extremst unwahrscheinlich“",
+      "topic": "Wahlen"
+    },
+    {
+      "title": "AfD-Politiker gewinnt Bürgermeisterwahl in Großschirma",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/afd-politiker-gewinnt-burgermeisterwahl-in-grossschirma-3799551",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/04/b9975fc6-d1d1-4fe9-960f-f153b516ede4.jpeg?rect=0%2C92%2C2048%2C1152&width=100",
+      "image_title": "Sachsen: AfD-Politiker gewinnt Bürgermeisterwahl in Großschirma",
+      "topic": "Sachsen"
+    },
+    {
+      "title": "Polizei durchsucht bei RAF-Fahndung Wagenburg und Wohnung",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/polizei-durchsucht-bei-raf-fahndung-wagenburg-und-wohnung-3799538",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/03/fe6218b8-fcb1-4720-8d20-cc12018d4aa2.jpeg?rect=0%2C105%2C2048%2C1152&width=100",
+      "image_title": "Auf dem Bauwagengelände sind nach LKA-Angaben zehn Menschen angetroffen und vorläufig festgehalten worden.",
+      "topic": "Terrorismus"
+    },
+    {
+      "title": "Flüchtlingsboot kentert in Nordfrankreich: Siebenjährige tot",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/fluchtlingsboot-kentert-in-nordfrankreich-siebenjahrige-tot-3799363",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/04/97712f48-ba47-499b-a909-9e6f979027bd.jpeg?rect=16%2C0%2C2016%2C1134&width=100",
+      "image_title": "Migration: Flüchtlingsboot kentert in Nordfrankreich: Siebenjährige tot",
+      "topic": "Migration"
+    },
+    {
+      "title": "Union setzt im Europawahlkampf Fokus auf militärische Stärke",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/union-setzt-im-europawahlkampf-fokus-auf-militarische-starke-3799416",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/04/7573486a-608f-4ec6-9e4a-70061c44e703.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Parteien: Union setzt im Europawahlkampf Fokus auf militärische Stärke",
+      "topic": "Parteien"
+    },
+    {
+      "title": "Wahlen im Iran: „Beginn einer Ära der Radikalisierung“",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/wahlen-im-iran-beginn-einer-ara-der-radikalisierung-3799188",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/04/676d3703-5f1d-4e72-9056-5e5033097c25.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Islamische Republik: Wahlen im Iran: „Beginn einer Ära der Radikalisierung“",
+      "topic": "Islamische Republik"
+    },
+    {
+      "title": "Orthodoxer Jude in Zürich niedergestochen",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/orthodoxer-jude-in-zurich-niedergestochen-3799312",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/04/dd94a12f-7245-49b4-b34b-cee5ff86b7c3.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Kriminalität: Orthodoxer Jude in Zürich niedergestochen",
+      "topic": "Kriminalität"
+    },
+    {
+      "title": "Haitis Regierung ruft Ausnahmezustand aus",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/haitis-regierung-ruft-ausnahmezustand-aus-3799664",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/04/fe46923e-186c-4d82-a1da-3439ee0fb3cb.jpeg?rect=0%2C84%2C2048%2C1152&width=100",
+      "image_title": "Nach Angriff auf Gefängnis: Haitis Regierung ruft Ausnahmezustand aus",
+      "topic": "Nach Angriff auf Gefängnis"
+    },
+    {
+      "title": "Baerbock: Westbalkanstaaten auf Weg in EU unterstützen",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/baerbock-westbalkanstaaten-auf-weg-in-eu-unterstutzen-3799612",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/04/9f15aebc-abe4-404e-9f8c-56776a273764.jpeg?rect=0%2C171%2C2048%2C1152&width=100",
+      "image_title": "Bundesregierung: Baerbock: Westbalkanstaaten auf Weg in EU unterstützen",
+      "topic": "Bundesregierung"
+    },
+    {
+      "title": "USA werfen Lebensmittel über dem Gazastreifen ab",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/usa-werfen-lebensmittel-uber-dem-gazastreifen-ab-3798937",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/04/05d2de63-f80e-45cb-b3c2-4a60059b78df.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Humanitäre Hilfsgüter werden von den USA über Gaza-Stadt abgeworfen.",
+      "topic": "Gaza-Krieg"
+    },
+    {
+      "title": "Einigung auf Feuerpause in Gaza auf der Kippe",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/einigung-auf-feuerpause-in-gaza-auf-der-kippe-3799586",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/04/ce1b1c7d-1f61-4261-9e56-efbe09c64db8.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Krieg in Nahost: Einigung auf Feuerpause in Gaza auf der Kippe",
+      "topic": "Krieg in Nahost"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: So ist die Lage",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/krieg-gegen-die-ukraine-so-ist-die-lage-3799576",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/04/851dce90-f558-4591-a4da-8931162ebe0a.jpeg?rect=0%2C111%2C2048%2C1152&width=100",
+      "image_title": "Russische Invasion: Krieg gegen die Ukraine: So ist die Lage",
+      "topic": "Russische Invasion"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: So ist die Lage",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/krieg-gegen-die-ukraine-so-ist-die-lage-3799076",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/03/d2d58209-20d9-45a8-99e6-1355bfa137f0.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Hundeführer stehen neben einem Wohnhaus in Odessa, das von einer russischen Drohne zerstört wurde.",
+      "topic": "Russische Invasion"
+    },
+    {
+      "title": "Chemiekonzern Evonik will weltweit 2000 Stellen abbauen",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/chemiekonzern-evonik-will-weltweit-2000-stellen-abbauen-3799914",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/04/588d9c23-27f5-4b72-abd8-673e8dd190e2.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Umstrukturierung: Chemiekonzern Evonik will weltweit 2000 Stellen abbauen",
+      "topic": "Umstrukturierung"
+    },
+    {
+      "title": "IW: Trump könnte deutsche Wirtschaft Milliarden kosten",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/iw-trump-konnte-deutsche-wirtschaft-milliarden-kosten-3799811",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/04/40ed0dd1-328b-48ad-a053-92576733306c.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "US-Wahlkampf: IW: Trump könnte deutsche Wirtschaft Milliarden kosten",
+      "topic": "US-Wahlkampf"
+    },
+    {
+      "title": "Gewerkschaften: Zeitgleiche Streiks bei Bahn und Lufthansa",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/gewerkschaften-zeitgleiche-streiks-bei-bahn-und-lufthansa-3799906",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/04/09132e89-ab7a-41e1-9140-93104f63f20b.jpeg?rect=0%2C155%2C2048%2C1152&width=100",
+      "image_title": "Fragen & Antworten: Gewerkschaften: Zeitgleiche Streiks bei Bahn und Lufthansa",
+      "topic": "Fragen & Antworten"
+    },
+    {
+      "title": "Happy Birthday, Trabi",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/happy-birthday-trabi-3799667",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/04/66283451-2651-4ed8-a28f-f358bbc74091.jpeg?rect=0%2C103%2C2048%2C1152&width=100",
+      "image_title": "Kultauto: Happy Birthday, Trabi",
+      "topic": "Kultauto"
+    },
+    {
+      "title": "Mehr Firmenpleiten 2024 erwartet",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/mehr-firmenpleiten-2024-erwartet-3799572",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/04/e7f8eb85-3b34-4a6a-a1ae-8c3fb4fcf984.jpeg?rect=0%2C1%2C2048%2C1152&width=100",
+      "image_title": "Weiterer Anstieg: Mehr Firmenpleiten 2024 erwartet",
+      "topic": "Weiterer Anstieg"
+    },
+    {
+      "title": "Dax hält sich stabil knapp unter Rekordhoch",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/dax-halt-sich-stabil-knapp-unter-rekordhoch-3799719",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/04/4fa94e5e-2f82-46c9-9f34-0fbe4816e585.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Börse in Frankfurt: Dax hält sich stabil knapp unter Rekordhoch",
+      "topic": "Börse in Frankfurt"
+    },
+    {
+      "title": "„Bittere Medizin“ oder Hilfe für Chinas Wirtschaft?",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/bittere-medizin-oder-hilfe-fur-chinas-wirtschaft-3799711",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/04/0fe9b987-0e69-4278-a8e5-f15ad77acd89.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Volkskongress: „Bittere Medizin“ oder Hilfe für Chinas Wirtschaft?",
+      "topic": "Volkskongress"
+    },
+    {
+      "title": "Nächster Verdi-Warnstreik bei Lufthansa trifft Passagiere",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/nachster-verdi-warnstreik-bei-lufthansa-trifft-passagiere-3799690",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/04/188c7203-90cb-4edf-9f83-455a9b7c8c38.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Luftverkehr: Nächster Verdi-Warnstreik bei Lufthansa trifft Passagiere",
+      "topic": "Luftverkehr"
+    },
+    {
+      "title": "„Reisehunger stärker denn je“ - Rekordhoch bei Buchungen",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/reisehunger-starker-denn-je-rekordhoch-bei-buchungen-3799594",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/04/c5f33a9a-4bb9-4870-b72c-0b9302ec2ab8.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Tourismus: „Reisehunger stärker denn je“ - Rekordhoch bei Buchungen",
+      "topic": "Tourismus"
+    },
+    {
+      "title": "Ausstand bei der Bahn - Weselsky setzt auf Wellenstreiks",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/ausstand-bei-der-bahn-weselsky-setzt-auf-wellenstreiks-3799570",
+      "image_url": "https://bmg-images.forward-publishing.io/2024/03/04/f1758d73-7d2a-4476-a6ad-ace226ea151b.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Deutsche Bahn: Ausstand bei der Bahn - Weselsky setzt auf Wellenstreiks",
+      "topic": "Deutsche Bahn"
+    }
+  ]
 }
