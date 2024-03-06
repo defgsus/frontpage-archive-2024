@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-06T09:00:55",
+  "timestamp": "2024-03-06T10:00:48",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -19,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.8a7c4aa3fafa54606627",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.957242c53b83e592d75e",
       "id": null,
       "text": null
     },
@@ -31,6 +31,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "IBM",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-Angreifer-koennen-Systeme-mit-IBM-Software-attackieren-9646368.html"
+    },
     {
       "title": "Google Chrome",
       "url": "https://www.heise.de/news/Google-Chrome-Update-dichtet-drei-hochriskante-Sicherheitslecks-ab-9647279.html"
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Patchday-Kritische-Schadcode-Luecken-bedrohen-Android-12-13-und-14-9646073.html"
     },
     {
-      "title": "Dell",
-      "url": "https://www.heise.de/news/Angreifer-koennen-Systeme-mit-Dell-Software-kompromittieren-9644978.html"
+      "title": "Sicherheitslücken: Angreifer können Systeme mit IBM-Software attackieren",
+      "teaser": "Es gibt wichtige Sicherheitsupdates für IBM Business Automation Workflow und IBM WebSphere. Es kann Schadcode auf Systeme gelangen.",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-Angreifer-koennen-Systeme-mit-IBM-Software-attackieren-9646368.html"
+    },
+    {
+      "title": "iX-Workshop: Sicherheitsstrategien für Linux-Server",
+      "teaser": "Linux-Server und Netzwerkdienste effektiv und umfassend vor Angriffen schützen - von physischer Sicherheit über Verschlüsselung und 2FA bis hin zu SELinux.",
+      "url": "https://www.heise.de/news/iX-Workshop-Sicherheitsstrategien-fuer-Linux-Server-9638867.html",
+      "image_title": "iX-Workshop: Linux-Server härten"
     },
     {
       "title": "Datenabfluss nach Ransomware-Angriff auf Klinikverbund im Kreis Soest",
@@ -147,17 +158,6 @@
       "title": "Handelskette Pepco verliert 15,5 Millionen Euro durch Phishing",
       "teaser": "Die Pepco-Gruppe wurde Opfer eines Phishing-Angriffs. Dabei hat das Unternehmen 15,5 Millionen Euro verloren.",
       "url": "https://www.heise.de/news/Handelskette-Pepco-verliert-15-5-Millionen-Euro-durch-Phishing-9644599.html"
-    },
-    {
-      "title": "iX-Workshop: Rechtskonform – IT-Produkte nach EU-Recht prüfen und zertifizieren",
-      "teaser": "Lernen Sie, wie Sie IT-Produkte für die Prüfung und Zertifizierung nach Standards wie CC, BSZ und NESAS vorbereiten – Anwendungen, Stolpersteine, Prüfpraxis",
-      "url": "https://www.heise.de/news/iX-Workshop-Rechtskonform-IT-Produkte-nach-EU-Recht-pruefen-und-zertifizieren-9639621.html",
-      "image_title": "Workshop: Rechtskonform - IT-Produkte prüfen und zertifizieren"
-    },
-    {
-      "title": "GitHub als Malware-Schleuder",
-      "teaser": "Eine Sicherheitsfirma berichtet über eine neue Masche, wie Schadcode im großen Stil verteilt wird: über kompromittierte Klon-Repositories auf GitHub.",
-      "url": "https://www.heise.de/news/GitHub-als-Malware-Schleuder-9644525.html"
     },
     {
       "title": "Marktplatz für Maulwürfe – Wie Insider ihr Wissen im Darknet verkaufen",
