@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-06T11:01:00",
+  "timestamp": "2024-03-06T12:10:25",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,20 +26,21 @@
   ],
   "articles": [
     {
+      "title": "Anthropic: Claude 3 schneidet in Tests besser ab als GPT-4",
+      "teaser": "Claude 3 soll in zahlreichen Tests besser abschneiden als ChatGPT 4. Anthropics Chatbot kommt in drei Größen.",
+      "url": "https://www.heise.de/news/Anthropic-Claude-3-schneidet-in-Tests-besser-ab-als-GPT-4-9645971.html"
+    },
+    {
+      "title": "Taurus-Leak: Warum \"Shooting the Messenger\" das Problem nicht löst",
+      "teaser": "Warum die Debatte über WebEx im Abhörskandal der Bundeswehr erneut zu nichts führen wird, erklärt Manuel Atug im Interview.",
+      "url": "https://www.heise.de/hintergrund/Cybersicherheitsexperte-Die-Bundeswehr-hat-ein-strukturelles-Sicherheitsproblem-9645892.html",
+      "image_title": "Licht aus einem Schlüsselloch, mehrere Schlüssellöcher sind auf dem Bild zu sehen"
+    },
+    {
       "title": "Intel gründet Altera neu",
       "teaser": "2015 hat Intel Altera gekauft und den Markennamen eingestampft. Jetzt soll Altera als eigenständige Firma neu aufleben.",
       "url": "https://www.heise.de/news/Intel-gruendet-Altera-neu-9642997.html",
       "image_title": "Karte mit Altera-5-FPGA"
-    },
-    {
-      "title": "Microsoft Copilot: KI-Bot ist therapiebedürftig und braucht Emojis",
-      "teaser": "Microsofts KI-Chatbot Copilot fällt erneut durch verwirrte und verstörende Antworten auf. Nutzer setzen den Emoji-Zwang des Bots gegen ihn ein.",
-      "url": "https://www.heise.de/news/Microsoft-Copilot-Emoji-Zwang-des-Chatbots-sorgt-fuer-Verwirrung-9641915.html"
-    },
-    {
-      "title": "Teamviewer: Sicherheitslücke im Client ermöglicht Rechteausweitung",
-      "teaser": "Eine Schwachstelle im Teamviewer-Client ermöglicht Nutzern, ihre Rechte im System auszuweiten. Ein Update steht bereit.",
-      "url": "https://www.heise.de/news/Teamviewer-Sicherheitsluecke-im-Client-ermoeglicht-Rechteausweitung-9641174.html"
     },
     {
       "title": "Streaming-Profi: So gut arbeitet Logitechs neue Webcam am Mac",
@@ -52,12 +53,42 @@
       "url": "https://www.heise.de/hintergrund/Testframework-CodeceptJS-UI-Tests-mit-KI-durchfuehren-9645386.html"
     },
     {
+      "title": "Funktionsverlust abseits der EU: Apple-Geosperre für alternative iPhone-Läden",
+      "teaser": "iPhone-Nutzern gewährt Apple auf längeren Reisen außerhalb der EU nur eine Schonfrist, bis App-Läden nicht mehr richtig arbeiten. Das schlägt auf Apps durch.",
+      "url": "https://www.heise.de/news/Funktionsverlust-abseits-der-EU-Apple-Geosperre-fuer-alternative-iPhone-Laeden-9647790.html",
+      "image_title": "Mann am Flughafen hält iPhone in der Hand"
+    },
+    {
+      "title": "Audio-Codec Opus erhält KI-Update",
+      "teaser": "Der lizenzgebührenfreie Audio-Codec Opus soll dank Maschinenlernen bessere Qualität und eine allgemein verbesserte \"Audio-Erfahrung\" liefern.",
+      "url": "https://www.heise.de/news/Audio-Codec-Opus-erhaelt-KI-Update-9647752.html",
+      "image_title": "Colorful,Audio,Waveform,On,Virtual,Human,Background,,represent,Digital,Equalizer"
+    },
+    {
+      "title": "Fritz.box: Domain aus dem Verkehr gezogen",
+      "teaser": "Unbekannte sicherten sich im Januar die Domain fritz.box. Doch das Stiften von Verwirrung hielt nicht lange an. Jetzt wurde die Adresse aus dem Verkehr gezogen.",
+      "url": "https://www.heise.de/news/Fritz-box-Domain-aus-dem-Verkehr-gezogen-9647776.html",
+      "image_title": "AVM-Router Fritzbox 7590 AX"
+    },
+    {
+      "title": "Kontextwechsel und unproduktive Meetings bremsen Entwickler aus",
+      "teaser": "Eine neue Studie untersucht, wie Developer besser zusammenarbeiten können. Kleinere Teams sind oft agiler, zufriedener und produktiver.",
+      "url": "https://www.heise.de/news/Kleinere-Entwicklungsteams-arbeiten-produktiver-und-zufriedener-9647531.html",
+      "image_title": "Szene in einem farbenarmen Büro: 2 Männer und 1 Frau, alle mit dunklerem Teint, sind vor einem Schreibtisch mit Bildschirm versammelt; die Frau (Mitte) zeigt auf den Bildschirm."
+    },
+    {
+      "title": "iX-Workshop: Kostenkontrolle in der Public Cloud",
+      "teaser": "Einblick in die Gebührenmodelle der großen Public-Cloud-Anbieter: Entdecken Sie, wie Sie mit den richtigen Einstellungen & Tools Kosten reduzieren. (Last Call)",
+      "url": "https://www.heise.de/news/iX-Workshop-Kostenkontrolle-in-der-Public-Cloud-9639597.html",
+      "image_title": "iX-Workshop Kosteneffiziente Cloud-Nutzung"
+    },
+    {
       "title": "Tipp: iPhone und Watch am iPad-Keyboard aufladen",
       "teaser": "Besitzer des Magic Keyboard können andere Apple-Geräte daran aufladen – aber nur, wenn man weiß, wie.",
       "url": "https://www.heise.de/ratgeber/Tipp-iPhone-und-Watch-am-iPad-Keyboard-aufladen-9647692.html"
     },
     {
-      "title": "Bitknauserei: Lassen sich Paramter von Sprachmodellen auf ein Bit reduzieren?",
+      "title": "1-Bit-LLMs: Neuer Ansatz will Rechenaufwand für Sprachmodelle reduzieren",
       "teaser": "Um dem Hardwarehunger von großen Sprachmodellen Herr zu werden, setzt man auf Quantisierung. Einen neuen Ansatz stellen Microsoft-Forscher zur Diskussion.",
       "url": "https://www.heise.de/news/Bitknauserei-Lassen-sich-Paramter-von-Sprachmodellen-auf-ein-Bit-reduzieren-9647612.html",
       "image_title": "Young,Female,Teacher,Giving,A,Data,Science,Presentation,In,A"
@@ -106,34 +137,6 @@
       "teaser": "Die Firmen hinter der Spyware Predator wurden bereits 2023 sanktioniert. Jetzt gehen die USA erstmals auch gegen leitende Personen solcher Organisationen vor.",
       "url": "https://www.heise.de/news/USA-gehen-gegen-fuehrende-Koepfe-der-Spyware-Entwickler-von-Intellexa-vor-9647214.html",
       "image_title": "Hände am Smartphone, alles gehüllt in rotes Licht"
-    },
-    {
-      "title": "Windows Subsystem für Android: Amazon stellt Appstore ein, Microsoft das WSA",
-      "teaser": "Amazon entfernt seinen Appstore aus Microsofts Store. Offenbar beerdigt Microsoft das Projekt Windows Subsystem für Android.",
-      "url": "https://www.heise.de/news/Android-in-Windows-Amazon-schliesst-Store-da-Microsoft-WSA-einstampfen-will-9647176.html"
-    },
-    {
-      "title": "Microsoft Powertoys: Feinschliff für Funktionen in Version 0.79.0",
-      "teaser": "Microsoft hat die Werkzeugsammlung Powertoys in Version 0.79.0 veröffentlicht. Im Kern gibt es Funktionsfeinschliff.",
-      "url": "https://www.heise.de/news/Microsoft-Powertoys-0-79-0-Feature-Feinschliff-9647144.html",
-      "image_title": "Ein geöffneter Laptop auf einem Tisch; rund um den Laptop liegen nicht identifizierbare Werkzeuge"
-    },
-    {
-      "title": "Sideloading und mehr in iOS 17.4: Diese Features bringt das iPhone-Update",
-      "teaser": "iOS 17.4 ist mehr als ein Punkt-Update für iPhones: Apple muss das Betriebssystem in Europa grundlegend öffnen. Neue Funktionen gibt es auch.",
-      "url": "https://www.heise.de/news/Sideloading-und-mehr-in-iOS-17-4-Diese-Features-bringt-das-iPhone-Update-9645818.html",
-      "image_title": "iPhone Rückseite"
-    },
-    {
-      "title": "Amazon verhindert Verkaufsstopp: Patenteinigung mit Huawei",
-      "teaser": "Amazon drohte in Deutschland ein Verkaufsverbot seiner Kindle-Reader und Echo-Lautsprecher. Jetzt hat sich die Firma mit dem Kläger Huawei geeinigt.",
-      "url": "https://www.heise.de/news/Patentstreit-Amazon-und-Huawei-einigen-sich-hinter-verschlossenen-Tueren-9647079.html",
-      "image_title": "Woman,Reading,A,Novel,On,A,Tablet,And,Drinking,Her, E-Book, Kindle, Reader"
-    },
-    {
-      "title": "Wichtiges Mittel oder Totgeburt? Streit über Gesichtserkennung bei RAF-Fahndung​",
-      "teaser": "Journalisten soll es gelungen sein, die mutmaßliche RAF-Terroristin Daniela Klette vor der Polizei aufzuspüren. Das weckt Begehrlichkeiten bei den Ermittlern.​",
-      "url": "https://www.heise.de/news/Wichtiges-Mittel-oder-Totgeburt-Streit-ueber-Gesichtserkennung-bei-RAF-Fahndung-9646900.html"
     },
     {
       "title": "Mehr Sichtweite – mehr Kunden",
