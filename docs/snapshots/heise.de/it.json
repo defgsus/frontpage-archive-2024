@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-08T11:00:53",
+  "timestamp": "2024-03-08T12:08:57",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "Europas nächster eigener Prozessor kommt mit Chiplets",
+      "teaser": "SiPearl entwickelt für neue Supercomputer den zweiten europäischen Prozessor Rhea-2. Er wird komplexer als Rhea-1.",
+      "url": "https://www.heise.de/news/Europas-naechster-eigener-Prozessor-kommt-mit-Chiplets-9649025.html",
+      "image_title": "Render-Bild eines Chips"
+    },
+    {
       "title": "Anthropic: Claude 3 schneidet in Tests besser ab als GPT-4",
       "teaser": "Claude 3 soll in zahlreichen Tests besser abschneiden als ChatGPT 4. Anthropics Chatbot kommt in drei Größen.",
       "url": "https://www.heise.de/news/Anthropic-Claude-3-schneidet-in-Tests-besser-ab-als-GPT-4-9645971.html"
@@ -37,12 +43,6 @@
       "image_title": "Sicherheitsschloss vor Google-Schriftzug"
     },
     {
-      "title": "Taurus-Leak: Warum \"Shooting the Messenger\" das Problem nicht löst",
-      "teaser": "Warum die Debatte über WebEx im Abhörskandal der Bundeswehr erneut zu nichts führen wird, erklärt Manuel Atug im Interview.",
-      "url": "https://www.heise.de/hintergrund/Cybersicherheitsexperte-Die-Bundeswehr-hat-ein-strukturelles-Sicherheitsproblem-9645892.html",
-      "image_title": "Licht aus einem Schlüsselloch, mehrere Schlüssellöcher sind auf dem Bild zu sehen"
-    },
-    {
       "title": "Daten retten mit ddrescue : Erfolg bei der Datenrettung durch ideale Strategien",
       "teaser": "Defekte Datenträger bemerkt man oft zu spät. Mit ddrescue und einer auf das Fehlerbild ausgerichteten Strategie können Sie den größten Teil Ihrer Daten retten.",
       "url": "https://www.heise.de/ratgeber/Daten-retten-mit-ddrescue-Erfolg-bei-der-Datenrettung-durch-ideale-Strategien-9645491.html",
@@ -52,6 +52,28 @@
       "title": "Techniken zur Langzeitarchivierung vorgestellt",
       "teaser": "Laser und Glas sind die Grundstoffe für neue Techniken zur Langzeitarchivierung von Daten. Softwareriese Microsoft und Cerabyte sind schon weit vorangekommen.",
       "url": "https://www.heise.de/hintergrund/Techniken-zur-Langzeitarchivierung-vorgestellt-9644870.html"
+    },
+    {
+      "title": "Neu in .NET 8.0 [12]: Leistung von FrozenSet",
+      "teaser": "Eine Menge des Typs FrozenSet gewinnt beim tausendmaligen Aufruf von Contains() gegenüber anderen Objektmengen.",
+      "url": "https://www.heise.de/blog/Neu-in-NET-8-0-12-Leistung-von-FrozenSet-9649523.html"
+    },
+    {
+      "title": "Cisco: Angreifer können sich zum Root-Nutzer unter Linux machen",
+      "teaser": "Die Softwareentwickler des Netzwerkausrüsters Cisco haben mehrere Sicherheitslücken geschlossen.",
+      "url": "https://www.heise.de/news/Cisco-Angreifer-koennen-sich-zum-Root-Nutzer-unter-Linux-machen-9649863.html"
+    },
+    {
+      "title": "Apple vereinfacht Browser-Wechsel und Umzug auf Android",
+      "teaser": "iPhone-Nutzer sollen künftig mehr Kontrolle über iOS und ihre Daten erhalten, auch für den Browser-Wechsel – oder einen Switch auf Android.",
+      "url": "https://www.heise.de/news/Apple-vereinfacht-Browser-Wechsel-und-Umzug-auf-Android-9649855.html",
+      "image_title": "Safari auf dem iPhone"
+    },
+    {
+      "title": "iX-Workshop: Moderne Python-Entwicklung für Fortgeschrittene",
+      "teaser": "Best Practices für die Arbeit an größeren Softwareprojekten: Abhängigkeiten managen, Codequalität und Wartbarkeit sicherstellen, Type Hints und Tests einsetzen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Moderne-Python-Entwicklung-fuer-Fortgeschrittene-9639334.html",
+      "image_title": "iX-Workshop Datenanalyse mit Python"
     },
     {
       "title": "Erweiterungen für den Raspberry Pi 5: 2,5 Gbit/s-LAN, Doppel-M.2, PCIe-Adapter",
@@ -88,7 +110,7 @@
       "image_title": "Ein offener Laptop wird von einer Person mit blauem Hemd bedient; über der Tastatur schweben der Schriftzug ChatGPT und einigen abstrakte Symbole"
     },
     {
-      "title": "iX-Workshop IT-Sicherheit: Penetrationstests verstehen, ausschreiben, auswerten",
+      "title": "iX-Workshop IT-Sicherheit: Pentests methodisch planen, anfordern und analysieren",
       "teaser": "Schritt für Schritt zum sicheren System: Penetrationstests methodisch planen, beauftragen und auswerten, um Schwachstellen in der eigenen IT aufzuspüren.",
       "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-Penetrationstests-verstehen-ausschreiben-auswerten-9639040.html",
       "image_title": "Penetrationstests: Methodik, Ausschreibung und Auswertung"
@@ -116,30 +138,6 @@
       "teaser": "Hässliche Bücherstapel auf dem Schreibtisch und eine unergonomische Haltung beim Arbeiten sind mit einer Bildschirmhalterung passé. Zehn VESA-Mounts im Test.",
       "url": "https://www.heise.de/tests/Hilfreiche-Halter-VESA-Monitorarme-nicht-nur-fuer-Apple-Nutzer-im-Test-9648202.html",
       "image_title": ", Kasto, stock.adobe.com"
-    },
-    {
-      "title": "Autonomes Fahren: Mobileye-Vorstand Johann Jungwirth im Interview",
-      "teaser": "Johann Jungwirth ist die personifizierte Schnittstelle zwischen Auto und IT. Im Interview gibt er einen Einblick in die Zukunft der Mobilität.",
-      "url": "https://www.heise.de/ratgeber/Autonomes-Fahren-Mobileye-Vorstand-Johann-Jungwirth-im-Interview-9634373.html",
-      "image_title": ", Dirk Kunde"
-    },
-    {
-      "title": "Softwareentwicklung: Ankündigung der tech:lounge Masterclass",
-      "teaser": "Die the native web GmbH veranstaltet ab kommender Woche insgesamt zwölf Webinare zu den Themen Go, TypeScript, skalierbare APIs und moderne, native Web-UIs.",
-      "url": "https://www.heise.de/blog/Softwareentwicklung-Ankuendigung-der-tech-lounge-Masterclass-9646306.html",
-      "image_title": "E-learning,Education,,Internet,Lessons,And,Online,Webinar.,Education,Internet,Technology."
-    },
-    {
-      "title": "FBI-Bericht: Verluste in Höhe von 12 Milliarden US-Dollar durch Cybercrime",
-      "teaser": "Das FBI vermeldet in seinem Internetkriminalitätsbericht eine Rekordzahl von 880.418 Fällen mit geschätzten Verlusten von über 12,5 Milliarden US-Dollar.​",
-      "url": "https://www.heise.de/news/FBI-Bericht-Verluste-in-Hoehe-von-12-Milliarden-US-Dollar-durch-Cybercrime-9649305.html",
-      "image_title": "Vorhängeschloss, aus dessen Schlüsselloch ein blauer Lichtstrahl dringt"
-    },
-    {
-      "title": "Fortnite: EU deutet Rückkehr aufs iPhone an – trotz Apple-Blockade",
-      "teaser": "Dank der neuen Wettbewerbsregeln könnten iPhone-Nutzer bald wieder das getilgte Fortnite spielen, heißt es bei der EU. Apple scheint das ganz anders zu sehen.",
-      "url": "https://www.heise.de/news/Fortnite-EU-deutet-Rueckkehr-aufs-iPhone-an-trotz-Apple-Blockade-9649169.html",
-      "image_title": "Fortnite-Poster mit Game-Controller"
     },
     {
       "title": "Mehr Sichtweite – mehr Kunden",
