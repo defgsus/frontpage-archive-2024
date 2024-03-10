@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-10T01:41:42",
+  "timestamp": "2024-03-10T02:17:14",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -110,6 +110,12 @@
       "image_url": "https://img.zeit.de/gesellschaft/2024-03/papst-franziskus/super__980x653"
     },
     {
+      "title": "Liveblog:Krieg in Israel und Gaza : Tausende Israelis protestieren für Geiseldeal und gegen Netanjahu",
+      "teaser": "In israelischen Städten demonstrierten Menschen für die Geiseln und gegen Premier Netanjahu. Die Hamas ist offenbar zu weiteren Verhandlungen bereit. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/2023-12/news-israel-gaza-krieg-live",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-03/demonstration-tel-aviv-netanjahu-hostages/super__980x653"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Sabine Döring : Sokrates gegen SUV-Fahrer",
       "teaser": "Die Philosophin Sabine Döring ist als Staatssekretärin in den Maschinenraum der Politik gewechselt. Dabei will die Liberale den Egoisten der Freiheit den Kampf ansagen.",
       "url": "https://www.zeit.de/2024/11/sabine-doering-philosophie-bundesregierung",
@@ -182,12 +188,6 @@
       "image_url": "https://img.zeit.de/mobilitaet/2024-03/weselsky-gdl-seiler-bahn/super__980x653"
     },
     {
-      "title": "Arbeitskampf : Flugbegleitergewerkschaft ruft zu Streik bei Lufthansa auf",
-      "teaser": "Wenige Stunden nach dem Ende des Warnstreiks des Bodenpersonals steht bei der Lufthansa der nächste Streik an. Ab Dienstag soll das Flugpersonal die Arbeit niederlegen.",
-      "url": "https://www.zeit.de/arbeit/2024-03/flugbegleitergewerkschaft-ruft-zu-streik-bei-lufthansa-auf",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-03/flugbegleitergewerkschaft-ruft-zu-streik-bei-lufthansa-auf-bil-3/super__980x653"
-    },
-    {
       "title": "Rentenkonzept der Bundesregierung : Gewerkschaft der Polizei gegen Abschaffung der Pensionen",
       "teaser": "Die Bundesregierung will auch Beamte, Selbstständige und Politiker in die Rente einzahlen lassen. Was DGB und andere Parteien unterstützen, löst bei der GdP Protest aus.",
       "url": "https://www.zeit.de/politik/deutschland/2024-03/rentenkonzept-ampelkoalition-gewerkschaft-polizei-pensionen",
@@ -200,7 +200,7 @@
       "image_url": "https://img.zeit.de/2024-03/lieferdienste-fahrer-berlin-wolt-flink-bild-01/super__980x653"
     },
     {
-      "title": "Bundesliga 25. Spieltag – Samstag : Dortmund siegt in Bremen, Bayern schießt acht Tore",
+      "title": "Bundesliga, 25. Spieltag – Samstag : Dortmund siegt in Bremen, Bayern schießt acht Tore",
       "teaser": "Der BVB spielt eine Halbzeit in Unterzahl und gewinnt trotzdem. In München kassiert Mainz eine hohe Niederlage, im Rheinderby gibt es keinen Sieger. Die Spielberichte",
       "url": "https://www.zeit.de/sport/2024-03/bundesliga-25-spieltag-samstag-gladbach-koeln-bremen-dortmund",
       "image_url": "https://img.zeit.de/sport/2024-03/donyell-malen-bremen-dortmund/super__980x653"
@@ -302,6 +302,12 @@
       "image_url": "https://img.zeit.de/gesellschaft/2024-03/jesiden-reportage/super__980x653"
     },
     {
+      "title": "Arbeitskampf : Flugbegleitergewerkschaft ruft zu Streik bei Lufthansa auf",
+      "teaser": "Wenige Stunden nach dem Ende des Warnstreiks des Bodenpersonals steht bei der Lufthansa der nächste Streik an. Ab Dienstag soll das Flugpersonal die Arbeit niederlegen.",
+      "url": "https://www.zeit.de/arbeit/2024-03/flugbegleitergewerkschaft-ruft-zu-streik-bei-lufthansa-auf",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-03/flugbegleitergewerkschaft-ruft-zu-streik-bei-lufthansa-auf-bil-3/super__980x653"
+    },
+    {
       "title": "AfD : Thüringer Landtag hebt Immunität von Björn Höcke erneut auf",
       "teaser": "Weil er eine verbotene Nazi-Parole verwendet haben soll, wurde die Immunität des Thüringer AfD-Landesvorsitzenden Höcke aufgehoben. Die Staatsanwaltschaft Gera ermittelt.",
       "url": "https://www.zeit.de/politik/deutschland/2024-03/afd-bjoern-hoecke-immunitaet-aufgehoben-nazi-parole",
@@ -342,12 +348,6 @@
       "teaser": "Die kurzzeitige Entlassung von OpenAI-Chef Sam Altman sorgte für Aufsehen. Jetzt ist er zurück im Verwaltungsrat – und hat damit wieder alle vorherigen Posten inne.",
       "url": "https://www.zeit.de/digital/2024-03/openai-chatgpt-sam-altman-verwaltungsrat",
       "image_url": "https://img.zeit.de/digital/2024-03/openai-chatgpt-sam-altman-verwaltungsrat-bild/super__980x653"
-    },
-    {
-      "title": "Ver.di : Warnstreik bei der Lufthansa beendet",
-      "teaser": "Das Bodenpersonal der Lufthansa hat nach zwei Tagen Streik die Arbeit wieder aufgenommen. Der Betrieb läuft langsam wieder an, vereinzelt kommt es noch zu Flugausfällen.",
-      "url": "https://www.zeit.de/wirtschaft/deutschland/2024-03/luftverkehr-lufthansa-streik-ende-ausstand-gewerkschaft",
-      "image_url": "https://img.zeit.de/wirtschaft/deutschland/2024-03/lufthansa-maschinen/super__980x653"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Fragen Sie ZEIT ONLINE : Haben Sie ein Thema verpasst?",
@@ -818,17 +818,16 @@
       "image_url": "https://img.zeit.de/digital/2024-02/plagiat-forscherin-jaegerin-bild/super__980x653"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Streikwelle : \"Wenn ein Streik nicht wehtut, wirkt er nicht\"",
-      "teaser": "Vielerorts fallen Flüge und Züge aus, weil gestreikt wird. Das nervt Kunden, aber manche Betroffene finden die Forderungen angemessen – und streiken gerne passiv mit.",
-      "url": "https://www.zeit.de/arbeit/2024-03/streikwelle-deutsche-bahn-flugverkehr-verstaendnis",
-      "image_url": "https://img.zeit.de/arbeit/2024-03/streikwelle-deutsche-bahn-flugverkehr-verstaendnis-2/wide__980x551"
+      "title": "Ver.di : Warnstreik bei der Lufthansa beendet",
+      "teaser": "Das Bodenpersonal der Lufthansa hat nach zwei Tagen Streik die Arbeit wieder aufgenommen. Der Betrieb läuft langsam wieder an, vereinzelt kommt es noch zu Flugausfällen.",
+      "url": "https://www.zeit.de/wirtschaft/deutschland/2024-03/luftverkehr-lufthansa-streik-ende-ausstand-gewerkschaft",
+      "image_url": "https://img.zeit.de/wirtschaft/deutschland/2024-03/lufthansa-maschinen/wide__980x551"
     },
     {
-      "title": "Arbeit : Noch immer deutlich mehr Frauen als Männer in Teilzeit beschäftigt",
-      "teaser": "Die Zahl der Frauen in Teilzeit hat im Vergleich zum Vorjahr zugenommen. Im EU-weiten Vergleich sind in Deutschland am drittmeisten Frauen teilzeitbeschäftigt.",
-      "url": "https://www.zeit.de/arbeit/2024-03/teilzeitbeschaeftigung-frauen-maenner-arbeit",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-03/teilzeitbeschaeftigung-frauen-maenner/super__980x653",
-      "image_title": "teilzeitbeschaeftigung-frauen-maenner"
+      "title": "Z+ (abopflichtiger Inhalt); Gleichberechtigung : Weshalb Männer endlich weniger arbeiten sollten",
+      "teaser": "Im Job sind Frauen noch immer nicht gleichberechtigt. Sie arbeiten meist in Teilzeit, nehmen mehr Elternzeit und verdienen weniger. Was wirklich helfen würde.",
+      "url": "https://www.zeit.de/arbeit/2024-03/gleichberechtigung-maenner-arbeit-frauen",
+      "image_url": "https://img.zeit.de/arbeit/2024-03/gleichberechtigung-maenner-arbeit-frauen-wippe/super__980x653"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Mascara von Catrice : Klimper, klimper",
@@ -855,11 +854,11 @@
       "image_url": "https://img.zeit.de/campus/2024-03/aufruf-ausbildung-erfahrungen-bild/wide__980x551"
     },
     {
-      "title": "Verlagsangebot : Durchblick im Studiendschungel",
-      "teaser": "Bei 20.000 möglichen Studiengängen in Deutschland verliert man schnell den Überblick. Unterstützung bietet die Suchmaschine für Studiengänge und Hochschulen.",
-      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.whiteboard_studiendschungel.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_whiteboard_studiendschungel_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-3-klein/man-wearing-black-and-white-stripe-shirt-looking-at-white-197.jpg",
-      "image_title": "Durchblick im Studiendschungel"
+      "title": "Verlagsangebot : Welcher Beruf passt zu mir?",
+      "teaser": "Was uns im Job von anderen unterscheidet, sind nicht nur unsere Fähigkeiten – erst die Persönlichkeit macht jeden einmalig. Der BOA Berufstest hilft, sie zu erkennen.",
+      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.teaser.boa-faeuste.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=boa-verlagsteaser&amp;utm_content=bot_teaser_boa-faeuste_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/boa-faeuste/wide__350x197__desktop",
+      "image_title": "Welcher Beruf passt zu mir?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Wehrpflicht : \"Ich könnte eingezogen werden. Ohne Chance, mich darauf vorzubereiten\"",
@@ -946,6 +945,10 @@
       "image_url": "https://img.zeit.de/newsletter/stimmen/stimmen-nl-teaser/super__980x653"
     },
     {
+      "title": "Extremismus: Faeser verurteilt Solidaritäts-Demo für Ex-RAF-Terroristen",
+      "url": "https://www.zeit.de/news/2024-03/10/faeser-verurteilt-solidaritaets-demo-fuer-ex-raf-terroristen"
+    },
+    {
       "title": "Soziales: DGB-Chefin Fahimi: Rentenniveau «für immer» garantieren",
       "url": "https://www.zeit.de/news/2024-03/10/dgb-chefin-fahimi-rentenniveau-fuer-immer-garantieren"
     },
@@ -972,10 +975,6 @@
     {
       "title": "Weltcup: «Den Schalter umgelegt»: Zweiter Platz für DSV-Biathletinnen",
       "url": "https://www.zeit.de/news/2024-03/09/deutsche-frauen-zum-abschluss-mit-bester-staffel-platzierung"
-    },
-    {
-      "title": "Altonaer Theater: «Das Kabinett des Zauberers» - Drei ??? ermitteln",
-      "url": "https://www.zeit.de/news/2024-03/09/das-kabinett-des-zauberers-drei-ermitteln"
     }
   ]
 }
