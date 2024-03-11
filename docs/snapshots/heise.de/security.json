@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-11T08:08:09",
+  "timestamp": "2024-03-11T09:00:42",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "ArubaOS",
+      "url": "https://www.heise.de/news/ArubaOS-Sicherheitsluecken-erlauben-Befehlsschmuggel-9650985.html"
+    },
+    {
       "title": "Qnap QTS, QuTS Hero, QuTScloud",
       "url": "https://www.heise.de/news/Qnap-warnt-vor-kritischer-Luecke-in-QTS-QuTS-Hero-und-QuTScloud-9650933.html"
     },
@@ -42,15 +46,6 @@
     {
       "title": "Cisco",
       "url": "https://www.heise.de/news/Cisco-Angreifer-koennen-sich-zum-Root-Nutzer-unter-Linux-machen-9649863.html"
-    },
-    {
-      "title": "macOS",
-      "url": "https://www.heise.de/news/Zuegig-installieren-Apple-patcht-Schwachstellen-in-macOS-watchOS-Co-9649559.html"
-    },
-    {
-      "title": "Qnap warnt vor kritischer Lücke in QTS, QuTS Hero und QuTScloud",
-      "teaser": "Qnap hat Warnungen vor Sicherheitslücken in QTS, QuTS Hero und QuTScloud veröffentlicht. Aktualisierte Firmware dichtet sie ab.",
-      "url": "https://www.heise.de/news/Qnap-warnt-vor-kritischer-Luecke-in-QTS-QuTS-Hero-und-QuTScloud-9650933.html"
     },
     {
       "title": "Ransomware kostete Anhalt-Bitterfeld rund 2,5 Millionen Euro",
@@ -69,6 +64,12 @@
       "url": "https://www.heise.de/news/Bundesnetzagentur-fordert-nach-Anschlag-auf-Stromnetz-mehr-Schutz-fuer-Kritis-9650426.html"
     },
     {
+      "title": "Angeblicher Tesla-Hack mit Flipper Zero entpuppt sich als Sturm im Wasserglas",
+      "teaser": "Mittels eines gefälschten Gast-WLANs im Tesla-Design könnten Angreifer an Superchargern oder in Service-Centern Zugänge abgreifen, warnen die Experten.",
+      "url": "https://www.heise.de/news/Angeblicher-Tesla-Hack-mit-Flipper-Zero-entpuppt-sich-als-Sturm-im-Wasserglas-9650018.html",
+      "image_title": "Flipper Zero mit aufgestecktem Wifi Devboard"
+    },
+    {
       "title": "Jetzt patchen! Deutschland führt Liste mit verwundbaren TeamCity-Systemen an",
       "teaser": "Angreifer kompromittieren derzeit gehäuft das Software-Distributionssystem TeamCity. Das kann ein Ausgangspunkt für eine Supply-Chain-Attacke sein.",
       "url": "https://www.heise.de/news/Jetzt-patchen-Deutschland-fuehrt-Liste-mit-verwundbaren-TeamCity-Systemen-an-9649959.html"
@@ -77,6 +78,12 @@
       "title": "Cisco: Angreifer können sich zum Root-Nutzer unter Linux machen",
       "teaser": "Die Softwareentwickler des Netzwerkausrüsters Cisco haben mehrere Sicherheitslücken geschlossen.",
       "url": "https://www.heise.de/news/Cisco-Angreifer-koennen-sich-zum-Root-Nutzer-unter-Linux-machen-9649863.html"
+    },
+    {
+      "title": "Sichere Webbrowser: Mozilla Firefox erfüllt alle Mindestanforderungen des BSI",
+      "teaser": "Das BSI hat Version 3.0 seiner Mindestanforderungen an sichere Webbrowser veröffentlicht und zeigt unter anderem, wie es um deren Sicherheit bestellt ist.",
+      "url": "https://www.heise.de/news/Sichere-Webbrowser-Mozilla-Firefox-erfuellt-alle-Mindestanforderungen-des-BSI-9649480.html",
+      "image_title": "Working,At,Home,With,Laptop,Woman,Writing,A,Blog.,Female"
     },
     {
       "title": "iX-Workshop IT-Sicherheit: Pentests methodisch planen, anfordern und analysieren",
@@ -153,12 +160,6 @@
       "title": "NIS2 erzwingt IT-Sicherheit – aber ausgerechnet nicht bei kommunalen Behörden",
       "teaser": "Trotz zahlreicher Angriffe auf kommunale Behörden sollen diese nicht den Sicherheitsvorgaben von NIS2 unterliegen – was aber nur die halbe Wahrheit ist.",
       "url": "https://www.heise.de/news/EU-Richtlinie-NIS2-Warum-kommunale-Behoerden-nicht-sicherer-werden-muessen-9646781.html"
-    },
-    {
-      "title": "Ransomware: ALPHV/Blackcat betrügt offenbar Partner und zieht sich zurück",
-      "teaser": "Die Fakten legen nahe, dass ALPHV/Blackcat einen Cybercrime-Partner um 22 Millionen US-Dollar betrogen und sich nun zurückgezogen hat.",
-      "url": "https://www.heise.de/news/Ransomware-ALPHV-Blackcat-betruegt-offenbar-Partner-und-zieht-sich-zurueck-9646707.html",
-      "image_title": "Ransomware im Netzwerk"
     },
     {
       "title": "Marktplatz für Maulwürfe – Wie Insider ihr Wissen im Darknet verkaufen",
