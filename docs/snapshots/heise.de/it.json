@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-11T07:00:48",
+  "timestamp": "2024-03-11T08:08:06",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "Neues BIOS: Undervolting von Core-i-14000 CPU ohne Performanceverlust",
+      "teaser": "MSIs neue BIOS-Versionen ermöglichen Undervolting von Core-i-14000-CPUs ohne Performanceverlust; das war bislang den K-Modellen vorbehalten.",
+      "url": "https://www.heise.de/news/Neues-BIOS-Undervolting-von-Core-i-14000-CPU-ohne-Performanceverlust-9650726.html",
+      "image_title": "Chip auf Mainboard"
+    },
+    {
       "title": "Europas nächster eigener Prozessor kommt mit Chiplets",
       "teaser": "SiPearl entwickelt für neue Supercomputer den zweiten europäischen Prozessor Rhea-2. Er wird komplexer als Rhea-1.",
       "url": "https://www.heise.de/news/Europas-naechster-eigener-Prozessor-kommt-mit-Chiplets-9649025.html",
@@ -37,12 +43,6 @@
       "url": "https://www.heise.de/news/Anthropic-Claude-3-schneidet-in-Tests-besser-ab-als-GPT-4-9645971.html"
     },
     {
-      "title": "Google verabschiedet sich von C++",
-      "teaser": "Google will Speichersicherheit stärker fokussieren und künftig Sprachen wie Java, Rust oder Carbon einsetzen. Für Altlasten gibt es eine spezielle Strategie.",
-      "url": "https://www.heise.de/news/Neue-Sicherheitsstrategie-bei-Google-Rust-statt-C-9646686.html",
-      "image_title": "Sicherheitsschloss vor Google-Schriftzug"
-    },
-    {
       "title": "Dual-CPU Workstation der Luxusklasse: Lenovo Thinkstation PX im Test",
       "teaser": "Die Thinkstation PX ist mit zwei Xeon-60-Kern-Prozessoren, 1 TByte RAM und zwei Nvidia-RTX-A5500-Grafikkarten eine Workstation der Luxusklasse.",
       "url": "https://www.heise.de/tests/Dual-CPU-Workstation-der-Luxusklasse-Lenovo-Thinkstation-PX-im-Test-9646324.html"
@@ -52,6 +52,16 @@
       "teaser": "Für Text, einfache Tabellen und Grafiken reicht oft ein Schwarzweißdrucker. Wer nur wenig und selten druckt, freut sich über platzsparende Kleindrucker.",
       "url": "https://www.heise.de/tests/Im-Vergleich-Sieben-kompakte-Monochromdrucker-fuer-den-Schreibtisch-9647561.html",
       "image_title": ","
+    },
+    {
+      "title": "Qnap warnt vor kritischer Lücke in QTS, QuTS Hero und QuTScloud",
+      "teaser": "Qnap hat Warnungen vor Sicherheitslücken in QTS, QuTS Hero und QuTScloud veröffentlicht. Aktualisierte Firmware dichtet sie ab.",
+      "url": "https://www.heise.de/news/Qnap-warnt-vor-kritischer-Luecke-in-QTS-QuTS-Hero-und-QuTScloud-9650933.html"
+    },
+    {
+      "title": "KI-Management – lernen Sie in fünf Webinaren KI-Tools im Unternehmen einzuführen",
+      "teaser": "Ab dem 23. April lernen Sie, Künstliche Intelligenz in Arbeitsprozesse zu integrieren: von Prompting über Implementierung bis zu Regulierung und Ethik.",
+      "url": "https://www.heise.de/news/KI-Management-lernen-Sie-in-fuenf-Webinaren-KI-Tools-im-Unternehmen-einzufuehren-9648589.html"
     },
     {
       "title": "Bit-Rauschen: OpenAI-Chef Altman will die Chipbranche umkrempeln",
@@ -75,12 +85,6 @@
       "title": "Ransomware kostete Anhalt-Bitterfeld rund 2,5 Millionen Euro",
       "teaser": "Der Cyberangriff auf den Landkreis Anhalt-Bitterfeld vor fast drei Jahren hat die Verwaltung nach eigenen Angaben mehr Geld gekostet als zunächst angenommen.",
       "url": "https://www.heise.de/news/Ransomware-kostete-Anhalt-Bitterfeld-rund-2-5-Millionen-Euro-9650816.html"
-    },
-    {
-      "title": "Neues BIOS: Undervolting von Core-i-14000 CPU ohne Performanceverlust",
-      "teaser": "MSIs neue BIOS-Versionen ermöglichen Undervolting von Core-i-14000-CPUs ohne Performanceverlust; das war bislang den K-Modellen vorbehalten.",
-      "url": "https://www.heise.de/news/Neues-BIOS-Undervolting-von-Core-i-14000-CPU-ohne-Performanceverlust-9650726.html",
-      "image_title": "Chip auf Mainboard"
     },
     {
       "title": "YouTuber prüfen Burn-in beim Steam Deck OLED",
@@ -131,12 +135,6 @@
       "title": "Kinonikons und Leica-Vollformat – die Fotonews der Woche 10/2024",
       "teaser": "Dem deutschen Fotomarkt geht es gut, Nikon kauft Red, und Leica stellt die SL3 vor. Gute Nachrichten allenthalben – bis auf die unselige Fototapete.",
       "url": "https://www.heise.de/news/Kinonikons-und-Leica-Vollformat-die-Fotonews-der-Woche-10-2024-9650048.html"
-    },
-    {
-      "title": "iX-Workshop: Storage-Cluster aufsetzen und managen mit Ceph",
-      "teaser": "Lernen Sie die Speicherlösung Ceph kennen und erfahren Sie, wie Sie mit Ceph einen eigenen Storage Cluster aufsetzen und betreiben. (Last Call)",
-      "url": "https://www.heise.de/news/iX-Workshop-Storage-Cluster-aufsetzen-und-managen-mit-Ceph-9639603.html",
-      "image_title": "Online-Workshop: Software-defined Storage mit Ceph"
     },
     {
       "title": "Mehr Sichtweite – mehr Kunden",
