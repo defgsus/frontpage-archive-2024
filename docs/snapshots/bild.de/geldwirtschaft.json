@@ -1,22 +1,59 @@
 {
-  "timestamp": "2024-03-11T23:01:33",
+  "timestamp": "2024-03-12T00:25:33",
   "url": "https://m.bild.de/geld/startseite/geld/geld-15683376.bildMobile.html",
   "response": {
-    "status": 502
+    "status": 200
   },
   "scripts": [
     {
       "type": null,
-      "src": "https://m.bild.de/code/core-js,27210750.bild.js",
+      "src": "https://cmp2.bild.de/unified/wrapperMessagingWithoutDetection.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://m.bild.de/code/code/webtrekk-js,15400926.bild.js",
+      "src": "https://www.asadcdn.com/adlib/pages/bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://data-861bbf2127.bild.de/iomm/latest/bootstrap/loader.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://a.bildstatic.de/assets/entries/entry-server-routing.CDjVLUS4.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "Mildes Wetter und SchädlingeWerden Äpfel und Kirschen jetzt teurer?",
+      "url": "https://m.bild.de/geld/wirtschaft/wirtschaft/mildes-wetter-fruehe-bluete-sind-unsere-aepfel-und-kirschen-in-gefahr-87462752.bildMobile.html"
+    },
+    {
+      "title": "Kaum noch Technik-StudentenDeutsche Top-Firmen fürchten Nachwuchs-Kollaps",
+      "url": "https://m.bild.de/politik/inland/politik-inland/technik-studenten-fehlen-top-firmen-fuerchten-nachwuchs-kollaps-87417596.bildMobile.html"
+    },
+    {
+      "title": "Wichtig für Deutschlands WirtschaftHamburg kriegt neue Köhlbrandbrücke",
+      "url": "https://m.bild.de/news/inland/hamburg-regional-politik-und-wirtschaft/hamburg-kriegt-neue-koehlbrandbruecke-sie-wird-noch-hoeher-als-die-alte-87458640.bildMobile.html"
+    }
+  ]
 }
