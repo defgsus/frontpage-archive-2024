@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-12T08:07:12",
+  "timestamp": "2024-03-12T09:00:52",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Patchday SAP",
+      "url": "https://www.heise.de/news/SAP-schliesst-zehn-Sicherheitsluecken-am-Maerz-Patchday-9652057.html"
+    },
+    {
       "title": "ArubaOS",
       "url": "https://www.heise.de/news/ArubaOS-Sicherheitsluecken-erlauben-Befehlsschmuggel-9650985.html"
     },
@@ -44,13 +48,9 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Deutschland-fuehrt-Liste-mit-verwundbaren-TeamCity-Systemen-an-9649959.html"
     },
     {
-      "title": "Cisco",
-      "url": "https://www.heise.de/news/Cisco-Angreifer-koennen-sich-zum-Root-Nutzer-unter-Linux-machen-9649863.html"
-    },
-    {
-      "title": "Frankreichs Regierung Ziel von Cyberangriffen in \"nie dagewesener Intensität\"",
-      "teaser": "Ab Sonntag sind verschiedene Internetangebote der französischen Regierung Ziel von besonders heftigen DDoS-Attacken geworden. Es gibt auch Bekennerschreiben.",
-      "url": "https://www.heise.de/news/Frankreichs-Regierung-Ziel-von-Cyberangriffen-in-nie-dagewesener-Intensitaet-9651907.html"
+      "title": "SAP schließt zehn Sicherheitslücken am März-Patchday",
+      "teaser": "SAP hat zehn neue Sicherheitsmitteilungen zum März-Patchday veröffentlicht. Zwei der geschlossenen Lücken gelten als kritisch.",
+      "url": "https://www.heise.de/news/SAP-schliesst-zehn-Sicherheitsluecken-am-Maerz-Patchday-9652057.html"
     },
     {
       "title": "Privatsphäre: Airbnb verbannt Sicherheitskameras ganz aus vermieteten Apartments",
@@ -85,6 +85,16 @@
       "teaser": "Hunderte Kommunen in NRW lassen ihre IT-Sicherheit überprüfen, die Landesregierung bezahlt das. Sie will das Land künftig besser vorbereitet wissen.",
       "url": "https://www.heise.de/news/Nach-verheerendem-Angriff-auf-Suedwestfalen-IT-205-Kommunen-lassen-IT-pruefen-9651073.html",
       "image_title": "Hand auf Tastatur"
+    },
+    {
+      "title": "ArubaOS: Sicherheitslücken erlauben Befehlsschmuggel",
+      "teaser": "HPE Aruba hat eine Sicherheitsmitteilung zu mehreren Lücken herausgegeben. Angreifer können Befehle einschleusen oder einen DoS auslösen.",
+      "url": "https://www.heise.de/news/ArubaOS-Sicherheitsluecken-erlauben-Befehlsschmuggel-9650985.html"
+    },
+    {
+      "title": "Qnap hat teils kritische Lücken in seinen Betriebssystemen geschlossen",
+      "teaser": "Qnap hat Warnungen vor Sicherheitslücken in QTS, QuTS Hero und QuTScloud veröffentlicht. Aktualisierte Firmware dichtet sie ab.",
+      "url": "https://www.heise.de/news/Qnap-warnt-vor-kritischer-Luecke-in-QTS-QuTS-Hero-und-QuTScloud-9650933.html"
     },
     {
       "title": "Ransomware kostete Anhalt-Bitterfeld rund 2,5 Millionen Euro",
@@ -147,18 +157,6 @@
       "teaser": "Nach einer Datenpanne bei einem Drittanbieter informiert American Express US-Kunden. Diese sollen wachsam sein und betrügerische Aktivitäten melden.",
       "url": "https://www.heise.de/news/Datenpanne-bei-Drittanbieter-Finanzdienstleister-American-Express-warnt-Kunden-9648290.html",
       "image_title": "Stilisiertes Smartphone mit Kreditkarte"
-    },
-    {
-      "title": "VMware schließt Schlupflöcher für Ausbruch aus virtueller Maschine",
-      "teaser": "Angreifer können Systeme mit VMware ESXi, Fusion und Workstation attackieren. Sicherheitsupdates stehen zum Download.",
-      "url": "https://www.heise.de/news/VMware-schliesst-Schlupfloecher-fuer-Ausbruch-aus-virtueller-Maschine-9648396.html",
-      "image_title": "Update"
-    },
-    {
-      "title": "Fritz.box: Domain aus dem Verkehr gezogen",
-      "teaser": "Unbekannte sicherten sich im Januar die Domain fritz.box. Doch die Verwirrung hielt nicht lange an. Jetzt wurde die Adresse aus dem Verkehr gezogen.",
-      "url": "https://www.heise.de/news/Fritz-box-Domain-aus-dem-Verkehr-gezogen-9647776.html",
-      "image_title": "AVM-Router Fritzbox 7590 AX"
     },
     {
       "title": "Taurus, Webex und Huawei: Warum der Fatalismus der Regierung unerträglich ist​",
