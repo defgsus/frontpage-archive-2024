@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-12T11:00:59",
+  "timestamp": "2024-03-12T12:08:47",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -43,17 +43,50 @@
       "url": "https://www.heise.de/news/Anthropic-Claude-3-schneidet-in-Tests-besser-ab-als-GPT-4-9645971.html"
     },
     {
+      "title": "Virtualisierung: Alternativen zu VMware",
+      "teaser": "Virtualisierung ohne VMware ist möglich. Wir geben einen unvollständigen Überblick über Alternativen für die klassische Server- und Storage-Virtualisierung.",
+      "url": "https://www.heise.de/hintergrund/Virtualisierung-Alternativen-zu-VMware-9652023.html"
+    },
+    {
       "title": "Sicherheitsstrategien: Vorbereitet für den Cyber-Ernstfall",
       "teaser": "Nach einem Cyberangriff ist die IT des Unternehmens in den meisten Fällen platt. Im Vorteil sind diejenigen, die sich auf das Schlimmste vorbereitet haben.",
       "url": "https://www.heise.de/hintergrund/Sicherheitsstrategien-Vorbereitet-fuer-den-Cyber-Ernstfall-9647877.html"
     },
     {
-      "title": "Blazor 8 vereint Blazor Server und Blazor WebAssembly",
-      "teaser": "Die Blazor-Version in .NET 8.0 bringt neue Renderoptionen, die den Einsatzbereich von Blazor bei der Entwicklung von Webanwendungen stark erweitern.",
-      "url": "https://www.heise.de/ratgeber/Blazor-8-vereint-Blazor-Server-und-Blazor-WebAssembly-9648541.html"
+      "title": "Mehr Sideloading: Apps dürfen künftig direkt auf EU-iPhones",
+      "teaser": "Das iPhone öffnet sich weiter: Künftig können (manche) Entwickler iOS-Apps direkt über ihre Webseite vertreiben. Auch andere Regeln muss Apple lockern.",
+      "url": "https://www.heise.de/news/Mehr-Sideloading-Apps-duerfen-kuenftig-direkt-auf-EU-iPhones-9652318.html",
+      "image_title": "iPhone zeigt Homescreen"
     },
     {
-      "title": "Synology dichtet Sicherheitslecks in SRM ab",
+      "title": "Apple Silicon: Arbeit am MacBook Pro M4, Apple Car mit vier M2 Ultras",
+      "teaser": "Nach dem M3 kommt der M4 – und Apple hat angeblich mit der Arbeit an einem ersten MacBook Pro mit dem SoC begonnen. Neue Berichte betreffen auch das Apple Car.",
+      "url": "https://www.heise.de/news/Apple-Silicon-Arbeit-am-MacBook-Pro-M4-Apple-Car-mit-vier-M2-Ultras-9652352.html",
+      "image_title": "Apple Silicon SoC."
+    },
+    {
+      "title": "Musk kündigt an: Grok soll Open-Source werden",
+      "teaser": "Grok, der Chatbot, den Elon Musks xAI herausbringt, soll Open-Source werden und noch in dieser Woche frei verfügbar sein.",
+      "url": "https://www.heise.de/news/Musk-kuendigt-an-Grok-soll-Open-Source-werden-9652341.html",
+      "image_title": "Businessman,Holding,Digital,Chatbot,Are,Assistant,Conversation,For,Provide,Access"
+    },
+    {
+      "title": "Intel knackt wieder die 50 Millionen CPU-Verkäufe",
+      "teaser": "Intel hat Ende 2023 gut sechsmal so viele Prozessoren verkauft wie AMD. Insbesondere Lenovo und HP bauen Ryzen-CPUs in ihre Desktop-PCs und Notebooks.",
+      "url": "https://www.heise.de/news/Lenovo-ist-AMDs-wichtigster-PC-Verkaeufer-9652279.html"
+    },
+    {
+      "title": "Kommentar: Apples Sturheit beim App Store gefährdet Unternehmen",
+      "teaser": "Um die DMA-Regulierung möglichst weit zu umgehen, gefährdet Apple die Sicherheit seiner Kunden. Das muss sofort wieder aufhören, meint Martin Gerhard Loschwitz.",
+      "url": "https://www.heise.de/meinung/Kommentar-Apples-Sturheit-beim-App-Store-gefaehrdet-Unternehmen-9652117.html"
+    },
+    {
+      "title": "enterJS 2024: Keynotes zu Vanilla-Web und Ethik in der Softwareentwicklung",
+      "teaser": "Die Keynotes der JavaScript-Konferenz beleuchten den Trend Vanilla-Web und Ethik in der Softwareentwicklung. Jetzt noch eine Woche Frühbucherrabatt sichern!",
+      "url": "https://www.heise.de/news/enterJS-2024-Keynotes-zu-Vanilla-Web-und-Ethik-in-der-Softwareentwicklung-9651182.html"
+    },
+    {
+      "title": "Synology: Update schließt \"wichtige\" Lücken in Synology Router Manager",
       "teaser": "Im Synology Router Manager (SRM) klaffen Sicherheitslecks, durch die Angreifer etwa Scripte einschleusen können. Ein Update steht bereit.",
       "url": "https://www.heise.de/news/Synology-dichtet-Sicherheitslecks-in-SRM-ab-9652225.html"
     },
@@ -101,41 +134,6 @@
       "title": "Frankreichs Regierung Ziel von Cyberangriffen in \"nie dagewesener Intensität\"",
       "teaser": "Ab Sonntag sind verschiedene Internetangebote der französischen Regierung Ziel von besonders heftigen DDoS-Attacken geworden. Es gibt auch Bekennerschreiben.",
       "url": "https://www.heise.de/news/Frankreichs-Regierung-Ziel-von-Cyberangriffen-in-nie-dagewesener-Intensitaet-9651907.html"
-    },
-    {
-      "title": "eHealth: Warum die \"elektronische Patientenakte für alle\" mit Abstrichen kommt",
-      "teaser": "Für die ePA ist ein schrittweiser Ausbau geplant – nach GesundheitsID, E-Rezept und Co. folgen 2025 Labordaten, E-Arztbrief und elektronische Medikationsliste.",
-      "url": "https://www.heise.de/news/Digital-Health-Kommt-die-elektronische-Patientenakte-mit-Abstrichen-9621632.html",
-      "image_title": "Futuristisches Bild zu Gesundheitsdaten. Zu sehen ist ein Finger von Krankenhauspersonal auf einem Tablet."
-    },
-    {
-      "title": "Ivanti- und Fortinet-Lecks: Weiter viele Geräte verwundbar – auch CISA betroffen",
-      "teaser": "Unter den Lecks in FortiNet-Produkten leiden weiter über 140.000 Systeme, 2000 davon in Deutschland. Auch Ivanti-Gateways der US-Cyberbehörde wurden attackiert.",
-      "url": "https://www.heise.de/news/Ivanti-und-Fortinet-Lecks-Weiter-viele-Geraete-verwundbar-auch-CISA-betroffen-9651510.html",
-      "image_title": "Young,It,Engeneer,Business,Man,With,Thin,Modern,Aluminium,Laptop"
-    },
-    {
-      "title": "iOS 18 macht AirPods Pro angeblich zur Hörhilfe",
-      "teaser": "Dass Apple klassischen Hörgeräten Konkurrenz machen will, ist schon länger im Gespräch. In wenigen Monaten könnte es so weit sein.",
-      "url": "https://www.heise.de/news/iOS-18-macht-AirPods-Pro-angeblich-zur-Hoerhilfe-9651743.html",
-      "image_title": "Apple AirPods im Ladekästchen"
-    },
-    {
-      "title": "Powerstation Tallpower V2400 im TechStage-Test: Mehr Kapazität war nie günstiger",
-      "teaser": "Die V2400 von Tallpower bietet eine Leistung von 2400 Watt und Kapazität von 2,1 kWh zum niedrigen Preis. TechStage hat die alltagstaugliche Powerstation getestet.",
-      "url": "https://www.techstage.de/test/powerstation-tallpower-v2400-fuer-769-euro-im-test-mehr-kapazitaet-war-nie-guenstiger/ddz7p66?wt_mc=intern.red.techstage.newsticker.rubrikstart.teaser.teaser",
-      "image_title": "##PHxVALUE_ALT_TEXT##"
-    },
-    {
-      "title": "ARM-Notebooks: Samsungs Galaxy Book 4 Edge konkurriert mit Apples MacBook Air M3",
-      "teaser": "Samsung will offenbar das Galaxy Book 4 Edge mit Qualcomms Prozessor Snapdragon X Elite bringen. Ein erster Benchmark ist schon aufgetaucht.",
-      "url": "https://www.heise.de/news/ARM-Notebooks-Samsungs-Galaxy-Book-4-Edge-konkurriert-mit-Apples-MacBook-Air-M3-9651574.html",
-      "image_title": "Samsung Galaxy Book 4 Ultra"
-    },
-    {
-      "title": "Taurus, Webex und Huawei: Warum der Fatalismus der Regierung unerträglich ist​",
-      "teaser": "Statt sich nach dem Taurus-Skandal ernsthaft um die eigene IT-Sicherheit zu kümmern, sucht Deutschland die Schuldigen im Ausland, meint Dennis-Kenji Kipker.​",
-      "url": "https://www.heise.de/meinung/Taurus-Webex-und-Huawei-Warum-der-Fatalismus-der-Regierung-unertraeglich-ist-9651476.html"
     },
     {
       "title": "Mehr Sichtweite – mehr Kunden",
