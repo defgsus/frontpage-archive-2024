@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-13T10:01:09",
+  "timestamp": "2024-03-13T11:01:15",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -32,10 +32,16 @@
   ],
   "articles": [
     {
+      "title": "Brandenburg : Tesla nimmt Produktion in Grünheide wieder auf",
+      "teaser": "Ein Brandanschlag auf die Stromversorgung hatte das Tesla-Werk in Brandenburg lahmgelegt. Die Produktion ist wieder angelaufen. Elon Musk wird dort erwartet.",
+      "url": "https://www.zeit.de/wirtschaft/2024-03/tesla-anschlag-gruenheide-fabrik-musk",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-03/tesla-anschlag-gruenheide-fabrik-musk-bild/wide__980x551"
+    },
+    {
       "title": "Wohnungsnot in Großstädten : Neuer Job, aber keine Wohnung",
       "teaser": "Eine Anstellung lässt sich heute leicht finden, Personal wird dringend gebraucht. Doch die Wohnungssuche ist oft ein Albtraum – worunter zunehmend die Unternehmen leiden.",
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-03/wohnungsnot-grossstaedte-fachkraeftemangel-wirtschaft",
-      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-03/wohnungsnot-grossstaedte-fachkraeftemangel-wirtschaft-bild/wide__980x551"
+      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-03/wohnungsnot-grossstaedte-fachkraeftemangel-wirtschaft-bild/super__980x653"
     },
     {
       "title": "Verbraucherpreise : Inflation in den USA legt überraschend zu",
@@ -47,13 +53,13 @@
       "title": "China : Xiaomi will noch im März erste E-Autos verkaufen",
       "teaser": "Bisher vor allem für Smartphones bekannt, bringt Xiaomi nun sein erstes Elektroauto auf den Markt. Noch in diesem Monat soll der Verkauf des ersten Modells beginnen.",
       "url": "https://www.zeit.de/wirtschaft/2024-03/china-e-autos-tech-konzern-wettbewerb",
-      "image_url": "https://img.zeit.de/wirtschaft/boerse/2024-03/xiaomi-elektroauto-suv7-china-bild/super__980x653"
+      "image_url": "https://img.zeit.de/wirtschaft/boerse/2024-03/xiaomi-elektroauto-suv7-china-bild/wide__980x551"
     },
     {
       "title": "Energiepreise : Inflation sinkt im Februar auf 2,5 Prozent",
       "teaser": "Das Statistische Bundesamt hat eine Schätzung bestätigt, wonach die Inflation im Februar so tief war wie zuletzt im Juni 2021. Dazu trugen sinkende Energiepreise bei.",
       "url": "https://www.zeit.de/wirtschaft/2024-03/inflation-februar-energie-verbraucherpreise",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-03/inflation-februar-energie-verbraucherpreise-bild-2/wide__980x551"
+      "image_url": "https://img.zeit.de/wirtschaft/2024-03/inflation-februar-energie-verbraucherpreise-bild-2/super__980x653"
     },
     {
       "title": "US-Flugzeughersteller : Boeing 737 Max fällt durch ein Drittel der Sicherheitstests",
@@ -66,12 +72,6 @@
       "teaser": "Frankreich dient Befürwortern der Kernkraft oft als Vorzeigebeispiel. Der Strom sei dank der AKWs besonders günstig, heißt es vielfach – einer von zahlreichen Mythen.",
       "url": "https://www.zeit.de/wirtschaft/2024-03/atomkraft-frankreich-energieversorgung-strompreise-subventionen",
       "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-03/atomkraft-frankreich-energieversorgung-strompreise-subventionen-bild/super__980x653"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Schweinehaltung : Was kommt nach dem Schwein?",
-      "teaser": "Niedersachsens Schweinegürtel muss sich neu erfinden, weil der Fleischkonsum sinkt. In die leeren Ställe soll jetzt die Schwarze Soldatenfliege einziehen. Bitte wer?",
-      "url": "https://www.zeit.de/wirtschaft/2024-03/schweinehaltung-strukturwandel-landwirtschaft-guelleguertel-niedersachsen",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-03/schweinehaltung-strukturwandel-landwirtschaft-guelleguertel/super__980x653"
     },
     {
       "title": "Wohnungsnot in Großstädten : Neuer Job, aber keine Wohnung",
@@ -147,6 +147,12 @@
       "image_url": "https://img.zeit.de/wirtschaft/2021-06/money-matters-bild/square__980x980"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Schweinehaltung : Was kommt nach dem Schwein?",
+      "teaser": "Niedersachsens Schweinegürtel muss sich neu erfinden, weil der Fleischkonsum sinkt. In die leeren Ställe soll jetzt die Schwarze Soldatenfliege einziehen. Bitte wer?",
+      "url": "https://www.zeit.de/wirtschaft/2024-03/schweinehaltung-strukturwandel-landwirtschaft-guelleguertel-niedersachsen",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-03/schweinehaltung-strukturwandel-landwirtschaft-guelleguertel/super__980x653"
+    },
+    {
       "title": "Boeing : 50 Verletzte nach technischen Problemen bei Boeing-Flugzeug",
       "teaser": "Bei einem Flug von Sydney nach Auckland ist eine Boeing 787 plötzlich abgesackt. Die Airline spricht von einem \"technischen Problem\" – davon hatte Boeing zuletzt viele.",
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-03/boeing-787-latam-turbulenz-50-verletzte",
@@ -168,25 +174,19 @@
       "title": "Wohnhäuser : Marco Buschmann will gegen Geschäfte mit Schrottimmobilien vorgehen",
       "teaser": "Der Bundesjustizminister plant eine Neuregelung von Zwangsversteigerungen. Skrupellose Geschäftsleute hätten die bisherige Rechtslage ausgenutzt.",
       "url": "https://www.zeit.de/wirtschaft/2024-03/marko-buschmann-neuregelung-zwangsversteigerungen-schrottimmobilien",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-03/zwangsversteigerung-schrottimmobilie-marco-buschmann/super__980x653"
+      "image_url": "https://img.zeit.de/wirtschaft/2024-03/zwangsversteigerung-schrottimmobilie-marco-buschmann/wide__980x551"
     },
     {
       "title": "Tarifstreit : Ärzte streiken an Unikliniken in mehreren Bundesländern",
       "teaser": "Der Marburger Bund hat zu Warnstreiks aufgerufen. Mediziner an 23 Unikliniken sollen die Arbeit niederlegen. Patienten müssen sich auf längere Wartezeiten einstellen.",
       "url": "https://www.zeit.de/wirtschaft/2024-03/aerzte-warnstreik-tarifverhandlungen-bundeslaender",
-      "image_url": "https://img.zeit.de/gesundheit/2024-03/aerztestreik-rostock-verhandlungen/wide__980x551"
+      "image_url": "https://img.zeit.de/gesundheit/2024-03/aerztestreik-rostock-verhandlungen/super__980x653"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); LEG-Chef Lars von Lackum : \"Für Mieter wird es immer, immer teurer\"",
       "teaser": "Der Chef des zweitgrößten deutschen Wohnungskonzerns verteidigt Mieterhöhungen. Die Lage auf dem Mietmarkt macht Lars von Lackum noch aus anderen Gründen Sorgen.",
       "url": "https://www.zeit.de/wirtschaft/2024-03/leg-chef-lars-von-lackum-deutscher-wohnungsmarkt-mieterhoehungen",
       "image_url": "https://img.zeit.de/wirtschaft/2024-03/deutscher-wohnungsmarkt-mieterhoehungen-leg-bild/super__980x653"
-    },
-    {
-      "title": "Rentenkonzept : Gewerkschaft der Polizei gegen Abschaffung der Pensionen",
-      "teaser": "Die Bundesregierung will auch Beamte, Selbstständige und Politiker in die Rente einzahlen lassen. Was viele unterstützen, löst bei der Polizei Protest aus.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-03/rentenkonzept-ampelkoalition-gewerkschaft-polizei-pensionen",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-03/polizisten-deutschland/super__980x653"
     },
     {
       "title": "Industrieproduktion : Deutsche Firmen starten mit \"spürbarem Plus\" ins neue Jahr",
