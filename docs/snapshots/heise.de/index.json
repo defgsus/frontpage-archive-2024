@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-13T14:01:26",
+  "timestamp": "2024-03-13T15:00:46",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -60,6 +60,26 @@
       "teaser": "Sicherheitsprobleme bei Boeing wirken sich zunehmend auf das Geschäft aus. Profitieren könnte Airbus.",
       "url": "https://www.heise.de/news/United-Airlines-Boeing-hat-Jahrzehnte-Problem-9652985.html",
       "image_title": "Flugzeugsitze, daneben ein großes Loch im Rumpf"
+    },
+    {
+      "title": "ÜberblickVirtualisierung – Alternativen zu VMware",
+      "teaser": "Virtualisierung ohne VMware ist möglich. Wir geben einen unvollständigen Überblick über Alternativen für die klassische Server- und Storage-Virtualisierung.",
+      "url": "https://www.heise.de/hintergrund/Virtualisierung-Alternativen-zu-VMware-9652023.html"
+    },
+    {
+      "title": "RatgeberSo gelingt die Migration von VMware zu Proxmox",
+      "teaser": "Viele VMware-Nutzer wollen zu Proxmox wechseln, fürchten jedoch den Migrationsaufwand. Wir zeigen, was dabei zu beachten ist und wie einfach es gehen kann.",
+      "url": "https://www.heise.de/hintergrund/So-gelingt-die-Migration-von-VMware-zu-Proxmox-9649738.html"
+    },
+    {
+      "title": "VirtualisierungsplattformWas Proxmox VE kann und was nicht",
+      "teaser": "Proxmox VE ist Open Source und nutzt bewährte Linux-Techniken. Es kann oft eine Alternative zu vSphere und vCenter sein, erfordert aber Umgewöhnung.",
+      "url": "https://www.heise.de/hintergrund/Virtualisierungsplattform-Proxmox-VE-Was-es-kann-und-was-nicht-9649499.html"
+    },
+    {
+      "title": "Virtuelle Windows-Installation Von VMware Workstation nach Hyper-V übertragen",
+      "teaser": "Es gibt gute Argumente, den Desktop-Virtualisierer VMware Workstation durch Hyper-V zu ersetzen: Hyper-V ist stabiler, weniger nervig und oft gratis.",
+      "url": "https://www.heise.de/ratgeber/Virtuelle-Windows-Installation-von-VMware-Workstation-nach-Hyper-V-uebertragen-9647497.html"
     },
     {
       "title": "OnlinehandelAmazon verkürzt Rückgabefrist für Elektronikartikel",
@@ -136,26 +156,6 @@
       "image_title": "MacBook Air 13\" und MacBook Air 15\" 2024"
     },
     {
-      "title": "ÜberblickVirtualisierung – Alternativen zu VMware",
-      "teaser": "Virtualisierung ohne VMware ist möglich. Wir geben einen unvollständigen Überblick über Alternativen für die klassische Server- und Storage-Virtualisierung.",
-      "url": "https://www.heise.de/hintergrund/Virtualisierung-Alternativen-zu-VMware-9652023.html"
-    },
-    {
-      "title": "RatgeberSo gelingt die Migration von VMware zu Proxmox",
-      "teaser": "Viele VMware-Nutzer wollen zu Proxmox wechseln, fürchten jedoch den Migrationsaufwand. Wir zeigen, was dabei zu beachten ist und wie einfach es gehen kann.",
-      "url": "https://www.heise.de/hintergrund/So-gelingt-die-Migration-von-VMware-zu-Proxmox-9649738.html"
-    },
-    {
-      "title": "VirtualisierungsplattformWas Proxmox VE kann und was nicht",
-      "teaser": "Proxmox VE ist Open Source und nutzt bewährte Linux-Techniken. Es kann oft eine Alternative zu vSphere und vCenter sein, erfordert aber Umgewöhnung.",
-      "url": "https://www.heise.de/hintergrund/Virtualisierungsplattform-Proxmox-VE-Was-es-kann-und-was-nicht-9649499.html"
-    },
-    {
-      "title": "Virtuelle Windows-Installation Von VMware Workstation nach Hyper-V übertragen",
-      "teaser": "Es gibt gute Argumente, den Desktop-Virtualisierer VMware Workstation durch Hyper-V zu ersetzen: Hyper-V ist stabiler, weniger nervig und oft gratis.",
-      "url": "https://www.heise.de/ratgeber/Virtuelle-Windows-Installation-von-VMware-Workstation-nach-Hyper-V-uebertragen-9647497.html"
-    },
-    {
       "title": "E-RezeptRegelmäßige TI-Störungen, Betroffene genervt",
       "teaser": "Fast täglich sind Dienste der Telematikinfrastruktur gestört, so wie heute. Die Betroffenen sehen sich nicht umfassend informiert.",
       "url": "https://www.heise.de/news/eHealth-TI-regelmaessig-gestoert-Betroffene-von-Informationspolitik-genervt-9651330.html",
@@ -173,19 +173,43 @@
       "url": "https://www.heise.de/news/Tour-de-France-Erstmaliger-Einsatz-von-Kameradrohnen-in-Diskussion-9652754.html"
     },
     {
+      "title": "EU-Kommission fordert Maßnahmen gegen Verkehrslärm​",
+      "teaser": "Deutschland macht zu wenig, um die Belastung durch verkehrsbedingten Lärm zu reduzieren, meint die EU-Kommission. ​Sie fordert Aktionspläne für Hauptstraßen.",
+      "url": "https://www.heise.de/news/EU-Kommission-fordert-Massnahmen-gegen-Verkehrslaerm-9653999.html",
+      "image_title": "Sportabgasanlage"
+    },
+    {
+      "title": "KI: Devin befördert KI-Assistenten vom Codeschreiber zum Software-Engineer",
+      "teaser": "Das Start-up Cognition stellt den KI-Agenten Devin vor, der anhand weniger Instruktionen Softwareprojekte umsetzen und GitHub-Issues auflösen soll.",
+      "url": "https://www.heise.de/news/KI-Devin-befoerdert-KI-Assistenten-vom-Codeschreiber-zum-Software-Engineer-9653656.html",
+      "image_title": "Zwei Roboterhände auf einer ergonomischen Tastatur"
+    },
+    {
+      "title": "AI Act beschlossen: Zwischen vertrauenswürdiger KI und dystopischen Technologien",
+      "teaser": "Die KI-Verordnung reduziere Risiken und schaffe Chancen, feiern Berichterstatter das \"weltweit erste verbindliche Gesetz\" für die Technik. Doch es gibt Kritik.",
+      "url": "https://www.heise.de/news/AI-Act-beschlossen-Zwischen-vertrauenswuerdiger-KI-und-dystopischen-Technologien-9653984.html",
+      "image_title": "A,Person's,Head,Covered,By,An,Ai-labeled,Dark,Cloud"
+    },
+    {
+      "title": "KeePassXC 2.7.7 bringt Unterstützung für Passkeys mit",
+      "teaser": "Die Entwickler von KeePassXC haben Version 2.7.7 veröffentlicht. Sie liefert offiziell Passkey-Unterstützung mit.",
+      "url": "https://www.heise.de/news/KeePassXC-Version-2-7-7-liefert-Passkey-Unterstuetzung-9653875.html",
+      "image_title": "Stilisierte Grafik: ein Schloss mit biometrischen Schlüsseln"
+    },
+    {
       "title": "Grundwissen: Asymmetrische Kryptografie erklärt, Teil 3",
       "teaser": "Wenn man ein fehlerhaftes Zertifikat widerrufen muss, blättert von der Public-Key-Infrastruktur schnell der Lack ab. Wir erklären, an welchen Stellen es klemmt.",
       "url": "https://www.heise.de/hintergrund/Grundwissen-Asymmetrische-Kryptografie-erklaert-Teil-3-9642194.html",
       "image_title": ","
     },
     {
-      "title": "AMD und Intel schließen CPU-Sicherheitslücken in Core- und Ryzen-CPUs",
+      "title": "Speculative Race Conditions: Spectre-V1-Angriffe kehren zurück",
       "teaser": "Zum Patch-Tuesday räumen AMD und Intel weitere Sicherheitslücken in ihren Prozessoren ein. Es geht unter anderem um Race Conditions.",
       "url": "https://www.heise.de/news/AMD-und-Intel-schliessen-CPU-Sicherheitsluecken-in-Core-und-Ryzen-CPUs-9653846.html",
       "image_title": "Core i9-12900K und Ryzen 9 5950X nebeneinander"
     },
     {
-      "title": "EU-Auswahldialog auf iPhones: Browser Brave freut sich über Download-Zuwachs",
+      "title": "EU-Auswahldialog auf iPhones: Browser \"Brave\" freut sich über Download-Zuwachs",
       "teaser": "Der von der EU vorgeschriebene Auswahldialog in iOS 17.4 zeigt laut dem Browser-Hersteller Wirkung. Nutzer würden sich für Safari-Alternativen interessieren.",
       "url": "https://www.heise.de/news/EU-Auswahldialog-auf-iPhones-Browser-Brave-freut-sich-ueber-Download-Zuwachs-9653904.html",
       "image_title": "Neuer Auswahldialog für Browser in iOS 17.4"
@@ -195,30 +219,6 @@
       "teaser": "Die Beobachtungen des Weltraumteleskops James Webb im besonders frühen Universum passen nicht zu den Theorien. Das gilt auch für zwei verschmelzende Galaxien.",
       "url": "https://www.heise.de/news/Astronomie-Riesige-Galaxienkollision-schon-510-Millionen-Jahre-nach-dem-Urknall-9653515.html",
       "image_title": "Ein heller Fleck mit mehreren kleinen Flecken auf einer Seite"
-    },
-    {
-      "title": "Unsicherheiten zum Digitalpakt 2.0 – klare Zusagen vom Bund stehen aus",
-      "teaser": "KMK-Präsidentin Streichert-Clivot fordert auf der Bitkom-Bildungskonferenz erneut, dass die Bundesregierung ihren Zusagen zu einem Digitalpakt 2.0 nachkommt.",
-      "url": "https://www.heise.de/news/Unsicherheiten-zum-Digitalpakt-2-0-klare-Zusagen-vom-Bund-stehen-aus-9653762.html",
-      "image_title": "Ein kleines Glas mit Münzen, auf dem ein aus Pappe nachgebildeter Graduierten-Hut liegt, auf einem Stapel Schulbücher. Im Hintergrund eine Schultafel."
-    },
-    {
-      "title": "AlertFortinet-Patchday: Kritische Lücken in FortiOS, FortiProxy und FortiClientEMS",
-      "teaser": "Fortinet hat zum März-Patchday Sicherheitslücken in FortiOS, FortiProxy, FortiClientEMS und im FortiManager geschlossen.",
-      "url": "https://www.heise.de/news/Fortinet-Patchday-Kritische-Luecken-in-FortiOS-FortiProxy-und-FortiClientEMS-9653730.html",
-      "image_title": "Fortinet Update"
-    },
-    {
-      "title": "Webinar: MDM – iPhones optimal im Unternehmen einsetzen",
-      "teaser": "Das Webinar erklärt, wie Sie die Konfiguration von iPhones und iPads im Unternehmen optimieren und auch Geräte wie die Watch integrieren.",
-      "url": "https://www.heise.de/news/Webinar-MDM-iPhones-optimal-im-Unternehmen-einsetzen-9652367.html",
-      "image_title": "Webinar MDM iPhones optimal im Unternehmen einsetzen"
-    },
-    {
-      "title": "Grafana Observability Survey: Kosten bereiten Sorge, KI spielt noch keine Rolle​",
-      "teaser": "Der Einsatz von Observability-Tools und -Methoden nimmt weiter zu. Laut einer Grafana-Umfrage bereiten Anwendern aber die Kosten zunehmend Sorgen.​",
-      "url": "https://www.heise.de/news/Grafana-Observability-Survey-Kosten-bereiten-Sorge-KI-spielt-noch-keine-Rolle-9653585.html",
-      "image_title": "Symbolbild Grafana Observability Survey 2024"
     },
     {
       "title": "Wordpress-AlternativeKirby 4 vs. WordPress – Was das flexible CMS besser macht",
@@ -240,6 +240,30 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 Euro sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Bildungskonferenz: KMK-Präsidentin erneuert Forderung nach Digitalpakt 2.0",
+      "teaser": "KMK-Präsidentin Streichert-Clivot fordert auf der Bitkom-Bildungskonferenz erneut, dass die Bundesregierung ihren Zusagen zu einem Digitalpakt 2.0 nachkommt.",
+      "url": "https://www.heise.de/news/Unsicherheiten-zum-Digitalpakt-2-0-klare-Zusagen-vom-Bund-stehen-aus-9653762.html",
+      "image_title": "Ein kleines Glas mit Münzen, auf dem ein aus Pappe nachgebildeter Graduierten-Hut liegt, auf einem Stapel Schulbücher. Im Hintergrund eine Schultafel."
+    },
+    {
+      "title": "AlertFortinet-Patchday: Updates gegen kritische Schwachstellen",
+      "teaser": "Fortinet hat zum März-Patchday Sicherheitslücken in FortiOS, FortiProxy, FortiClientEMS und im FortiManager geschlossen.",
+      "url": "https://www.heise.de/news/Fortinet-Patchday-Kritische-Luecken-in-FortiOS-FortiProxy-und-FortiClientEMS-9653730.html",
+      "image_title": "Fortinet Update"
+    },
+    {
+      "title": "Webinar: MDM – iPhones optimal im Unternehmen einsetzen",
+      "teaser": "Das Webinar erklärt, wie Sie die Konfiguration von iPhones und iPads im Unternehmen optimieren und auch Geräte wie die Watch integrieren.",
+      "url": "https://www.heise.de/news/Webinar-MDM-iPhones-optimal-im-Unternehmen-einsetzen-9652367.html",
+      "image_title": "Webinar MDM iPhones optimal im Unternehmen einsetzen"
+    },
+    {
+      "title": "Grafana Observability Survey: Kosten bereiten Sorge, KI spielt noch keine Rolle​",
+      "teaser": "Der Einsatz von Observability-Tools und -Methoden nimmt weiter zu. Laut einer Grafana-Umfrage bereiten Anwendern aber die Kosten zunehmend Sorgen.​",
+      "url": "https://www.heise.de/news/Grafana-Observability-Survey-Kosten-bereiten-Sorge-KI-spielt-noch-keine-Rolle-9653585.html",
+      "image_title": "Symbolbild Grafana Observability Survey 2024"
     },
     {
       "title": "Zuckerbergs nächster Diss gegen Vision Pro: \"Wir sagen, die Quest ist besser\"",
@@ -292,6 +316,11 @@
       "image_title": "Bad,News,On,Screen.,Confused,Frustrated,Young,Latin,Lady,Cover, Frau, traurig, mit Smartphone"
     },
     {
+      "title": "KI auf allen Ebenen",
+      "teaser": "KI-Technologien und -Services sind heute überall verfügbar. Wie sich Cloud-Services, lokale Server, Clients und Edge Devices für KI einsetzen lassen – und welche technischen Voraussetzungen dafür notwendig sind.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/ki/beitrag/ki-auf-allen-ebenen-wie-sich-kuenstliche-intelligenz-in-der-cloud-im-rechenzentrum-und-auf-endpunkten-nutzen-laesst-4689"
+    },
+    {
       "title": "Spotify-App bekommt Musikvideos",
       "teaser": "In der Handy-App und auf dem Desktop kann Spotify nun auch Musikvideos abspielen. Aktuell befindet sich das Feature noch in der Testphase.",
       "url": "https://www.heise.de/news/Spotify-App-bekommt-Musikvideos-9653470.html",
@@ -312,11 +341,6 @@
       "teaser": "Apple sucht nach neuen Einnahmequellen im Dienstebereich. Dabei sollen KI-Werkzeuge für Werbung im App Store ebenso helfen wie reklamefinanziertes Streaming.",
       "url": "https://www.heise.de/news/Mehr-Reklame-bei-Apple-KI-System-fuer-Werbung-TV-billiger-mit-Spots-9653225.html",
       "image_title": "Apple-Logo und Werbefläche"
-    },
-    {
-      "title": "KI auf allen Ebenen",
-      "teaser": "KI-Technologien und -Services sind heute überall verfügbar. Wie sich Cloud-Services, lokale Server, Clients und Edge Devices für KI einsetzen lassen – und welche technischen Voraussetzungen dafür notwendig sind.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/ki/beitrag/ki-auf-allen-ebenen-wie-sich-kuenstliche-intelligenz-in-der-cloud-im-rechenzentrum-und-auf-endpunkten-nutzen-laesst-4689"
     },
     {
       "title": "Wie gut GPT-4 in der Kriegsplanung ist",
@@ -353,29 +377,6 @@
       "image_title": "Barrierefreiheitsfunktionen auf dem iPhone"
     },
     {
-      "title": "Python-Kompetenz in drei Tagen: iX-Workshop für Programmier-Profis",
-      "teaser": "Für alle, die bereits eine andere Programmiersprache beherrschen und in drei Tagen die Ins-and-Outs von Python lernen wollen. (10% Rabatt bis 26.03.)",
-      "url": "https://www.heise.de/news/Python-Kompetenz-in-drei-Tagen-iX-Workshop-fuer-Programmier-Profis-9645121.html",
-      "image_title": "iX-Workshop Python für Umsteiger von anderen Programmiersprachen"
-    },
-    {
-      "title": "Letzte Hürde gemeistert: Spanien genehmigt Megafusion von Orange und MásMóvil",
-      "teaser": "Spaniens Mobilfunkmarkt ist bislang von einem scharfen Wettbewerb zwischen vier fast gleich großen Anbietern geprägt. Nun dürfen zwei davon fusionieren.",
-      "url": "https://www.heise.de/news/Letzte-Huerde-gemeistert-Spanien-genehmigt-Megafusion-von-Orange-und-MasMovil-9653100.html",
-      "image_title": "Spanische Flagge"
-    },
-    {
-      "title": "Elektromotorrad Sur-Ron Storm Bee: Sturm im Bienenkorb",
-      "teaser": "Sur-Ron bringt eine elektrische 22-kW-Geländemaschine auf den Markt. Die erwachsen wirkende Storm Bee wiegt 136 kg und ist mit 9750 Euro konkurrenzlos.",
-      "url": "https://www.heise.de/news/Elektromotorrad-Sur-Ron-Storm-Bee-Elektrisch-durchs-Gelaende-9652310.html",
-      "image_title": "Sur-Ron Storm Bee E"
-    },
-    {
-      "title": "UpdateKompakt-Barebone für Ryzen 7000 und 8000G: Asrock DeskMeet X600 im Test",
-      "teaser": "Der im Mini-ITX-Format gefertigte DeskMeet X600 nimmt aktuelle Ryzen-Prozessoren sowie eine Dual-Slot-Grafikkarte auf. Dabei kommt er ohne Chipsatz aus.",
-      "url": "https://www.heise.de/tests/Kompakt-Barebone-fuer-Ryzen-7000-und-8000G-Asrock-DeskMeet-X600-im-Test-9642109.html"
-    },
-    {
       "title": "Wegen Manipulationsverdacht: Agenturen ziehen Bild von Prinzessin Kate zurück",
       "url": "https://www.heise.de/news/Wegen-Manipulationsverdacht-Agenturen-ziehen-Bild-von-Prinzessin-Kate-zurueck-9650917.html",
       "image_title": "Ausschnitt des Fotos mit dem Ärmel, bei dem etwas nicht stimmt."
@@ -402,16 +403,17 @@
       "url": "https://www.heise.de/tests/27-Mac-Perlen-ohne-Abo-Es-muss-nicht-immer-mieten-sein-9637056.html"
     },
     {
-      "title": "18-Jähriger setzt per App die StVO durch",
-      "url": "https://www.heise.de/news/Neues-aus-der-Parallelwelt-Falschparker-anzeigen-als-Berufung-9648000.html"
-    },
-    {
       "title": "Gebrauchte Elektroautos: Der Markt rüttelt sich zurecht",
-      "url": "https://www.heise.de/hintergrund/Gebrauchte-Elektroautos-Der-Markt-ruettelt-sich-zurecht-9649395.html"
+      "url": "https://www.heise.de/hintergrund/Gebrauchte-Elektroautos-Der-Markt-ruettelt-sich-zurecht-9649395.html",
+      "image_title": "VW ID.3"
     },
     {
       "title": "Bundesrechnungshof kritisiert: Energiewende vom Kurs abgekommen?",
       "url": "https://www.heise.de/news/Stromversorgung-gefaehrdet-Bundesrechnungshof-sieht-Energiewende-nicht-auf-Kurs-9650310.html"
+    },
+    {
+      "title": "Tret-Fahrzeug Hopper: \"Das ist kein Gokart, sondern ein Fahrrad\"",
+      "url": "https://www.heise.de/tests/Tret-Fahrzeug-Hopper-Wie-sich-das-e-Bike-mit-Dach-faehrt-9648865.html"
     },
     {
       "title": "Phishing-MascheBetrüger setzen auf Paypals AGB-Änderungen auf",
@@ -757,24 +759,19 @@
       "url": "https://www.techstage.de/bestenliste/top-10-die-besten-smartwatches-mit-ekg-im-test/11kg4jj?wt_mc=intern.red.techstage.techstage_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Elterngeld, Gesundheit und Pflege: Wo gestrichen wird und wo nicht",
-      "teaser": "Die geplante Elterngeld-Streichung für Besserverdienende erhitzt die Gemüter. Über andere Haushaltsposten wird weniger gesprochen.",
-      "url": "https://www.heise.de/tp/features/Elterngeld-Gesundheit-und-Pflege-Wo-gestrichen-wird-und-wo-nicht-9208202.html"
+      "title": "Ukraine-Krieg, Nato und Russland: Perverses Spiel mit der nuklearen Gefahr",
+      "teaser": "Die Zeichen stehen auf Eskalation. Die größte Bedrohung wird im Westen leichtfertig abgetan. Wie dramatisch die Zuspitzung ist, zeigt ein Abgleich der Debatte mit der Lage Ende 2018.",
+      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Nato-und-Russland-Perverses-Spiel-mit-der-nuklearen-Gefahr-9208766.html"
     },
     {
-      "title": "AfD: Warum dieser Rechtsruck?",
-      "teaser": "German Angst statt Klima-Angst: Was macht die ultrarechte Partei attraktiv? Erklärungen wie \"aggressives Selbstmitleid\" von Ostdeutschen reichen wohl nicht.",
-      "url": "https://www.heise.de/tp/features/AfD-Warum-dieser-Rechtsruck-9208552.html"
+      "title": "Streiter für die wahre Demokratie? Lanz kanzelt Aiwanger ab",
+      "teaser": "Mediensplitter (32): Der TV-Moderator macht vor, wie leicht es ist, Etiketten zu verteilen und den Platzanweiser zu spielen. Die AfD steht als Elefant im Raum. Gefährlich ist nicht nur der Populismus.",
+      "url": "https://www.heise.de/tp/features/Streiter-fuer-die-wahre-Demokratie-Lanz-kanzelt-Aiwanger-ab-9207988.html"
     },
     {
-      "title": "Russische Bewegung für Kriegsdienstverweigerug als \"ausländischer Agent\" eingestuft",
-      "teaser": "Wehrdienstflüchtige aus Russland haben wenig Chancen auf Asyl in der EU. Es mangelt an legalen Einreisewegen. Der Kreml geht dennoch von Verbrüderung aus.",
-      "url": "https://www.heise.de/tp/features/Russische-Bewegung-fuer-Kriegsdienstverweigerug-als-auslaendischer-Agent-eingestuft-9207406.html"
-    },
-    {
-      "title": "Nach Strafe für Apple: Spotify probierts mit detaillierten Preisangaben",
-      "teaser": "Sogenannte Anti-Steering-Maßnahmen sind laut der EU-Kommission verboten. Nun will der Musikdienst Spotify iPhone-Nutzer explizit auf billigere Preise hinweisen.",
-      "url": "https://www.heise.de/news/Nach-Strafe-fuer-Apple-Spotify-probierts-mit-detaillierten-Preisangaben-9650971.html"
+      "title": "Bud Light: Biertrinker falsch abgeholt",
+      "teaser": "Werbekampagne mit Transgender-Star geht daneben. Schäumende Entrüstung, Geschäft bricht ein. Kulturkampf-Boykott gewinnt. Fabriken schließen. Angestellte werden arbeitslos.",
+      "url": "https://www.heise.de/tp/features/Bud-Light-Biertrinker-falsch-abgeholt-9209052.html"
     },
     {
       "title": "\"Bring Back Buttons\". Endlich will EuroNCAP Touchscreens kritisch bewerten",
@@ -783,14 +780,21 @@
       "image_title": "BMW i4 Cockpit"
     },
     {
-      "title": "Midi-Synthesizer-Modul für Mikrocontroller",
-      "teaser": "Nur 48 x 24 x 16 mm groß ist dieses Synthesizer-Modul für ESP-, Arduino- und andere Mikrocontroller-Boards inklusive Verstärker und Lautsprecher.",
-      "url": "https://www.heise.de/news/Midi-Synthesizer-Modul-fuer-Mikrocontroller-9650995.html"
+      "title": "Sieger der Open Competition der Sony World Photography Awards 2024 stehen fest",
+      "teaser": "Bei den Sony World Photography Awards wurden Sieger in zehn unterschiedlichen Kategorien gekürt, darunter Wildlife, Bewegung und Porträt.",
+      "url": "https://www.heise.de/news/Sieger-der-Open-Competition-der-Sony-World-Photography-Awards-2024-stehen-fest-9653577.html",
+      "image_title": "Raubkatze, die Krokodil beißt"
     },
     {
-      "title": "Hostinger im Test: Website-Hosting leicht gemacht",
-      "teaser": "Der Hosting-Anbieter \"Hostinger\" setzt auf Kundenfreundlichkeit, niedrige Preise und hohe Geschwindigkeit. Alles, was Hosting-Kunden wünschen – oder?",
-      "url": "https://www.heise.de/download/specials/Hostinger-im-Test-Website-Hosting-leicht-gemacht-9341569"
+      "title": "Spotify-App bekommt Musikvideos",
+      "teaser": "In der Handy-App und auf dem Desktop kann Spotify nun auch Musikvideos abspielen. Aktuell befindet sich das Feature noch in der Testphase.",
+      "url": "https://www.heise.de/news/Spotify-App-bekommt-Musikvideos-9653470.html",
+      "image_title": "Handys mit Spotify-App vor buntem Hintergrund"
+    },
+    {
+      "title": "VPN-Deals: Aktuelle Angebote im März 2024",
+      "teaser": "Welche VPN-Anbieter gibt es aktuell besonders günstig? Wir haben die Preise bekannter Dienste geprüft und zeigen aktuelle VPN-Rabatte in der Übersicht.",
+      "url": "https://www.heise.de/download/specials/VPN-Deals-Aktuelle-VPN-Angebote-Gutscheine-und-Rabatt-Codes-9341921"
     },
     {
       "title": "Microsoft Copilot",

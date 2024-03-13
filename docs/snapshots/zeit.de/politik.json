@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-13T14:01:40",
+  "timestamp": "2024-03-13T15:01:00",
   "url": "https://www.zeit.de/politik/index",
   "response": {
     "status": 200
@@ -32,22 +32,23 @@
   ],
   "articles": [
     {
+      "title": "Protestaktion im Bundestag : AfD provoziert Eklat im Gesundheitsausschuss",
+      "teaser": "Der Gesundheitsausschuss des Bundestages hatte einen AfD-Politiker als Vorsitzenden verhindert. Mit einer Protestaktion riss dieser den Vorsitz nun symbolisch an sich.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-03/gesundheitsausschuss-bundestag-afd-vorsitz-protest-ziegler",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-03/kay-uwe-ziegler-gesundheitsausschuss-bundestag-afd-vorsitz-protest/wide__980x551",
+      "image_title": "Kay-Uwe Ziegler gesundheitsausschuss-bundestag-afd-vorsitz-protest"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Demonstrationen gegen rechts : Soll die Union gegen rechts protestieren?",
+      "teaser": "Reiner Haseloff warnt vor einem TV-Duell mit Höcke, er sieht zudem Demokratieproteste als Bürgerpflicht. Schwerins CDU-Generalsekretär Daniel Peters sieht das anders.",
+      "url": "https://www.zeit.de/2024/12/demonstrationen-gegen-rechts-cdu-afd",
+      "image_url": "https://img.zeit.de/2024/12/demonstrationen-gegen-rechts-cdu-afd-bild/super__980x653"
+    },
+    {
       "title": "AfD-Klage : Verfassungsschutz weist Einfluss von V-Leuten auf AfD zurück",
       "teaser": "Im Berufungsverfahren um die Einstufung der AfD als rechtsextremistischer Verdachtsfall wirft die Partei dem Verfassungsschutz Manipulation vor. Der widerspricht.",
       "url": "https://www.zeit.de/politik/deutschland/2024-03/afd-verhandlung-verfassungsschutz-rechtsextremistisch-oberverwaltungsgericht-muenster",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-03/oberverwaltungsgericht-zweiter-verhandlungstag-rechtsstreit-afd-und-bundesamt-fuer-verfassungsschutz-bild/wide__980x551"
-    },
-    {
-      "title": "Vertrauter von Alexej Nawalny : Litauen geht von russischer Attacke auf Wolkow aus",
-      "teaser": "Der litauische Geheimdienst vermutet Russland hinter dem Angriff auf den russischen Oppositionellen Leonid Wolkow. Litauens Präsident kündigt Ermittlungen an.",
-      "url": "https://www.zeit.de/politik/ausland/2024-03/leonid-wolkow-litauens-geheimdienst-russischer-auftrag",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-03/litauen-geheimdienst-russische-attacke-wolkow-bild/super__980x653"
-    },
-    {
-      "title": "Taurus-Lieferungen an Ukraine : \"Besonnenheit ist das, worauf die Bürger einen Anspruch haben\"",
-      "teaser": "Als \"ausgeschlossen\" bezeichnet der Kanzler die Lieferung der Marschflugkörper. Bei der Debatte im Bundestag zu Waffenlieferungen beharrt Scholz auf seiner Position.",
-      "url": "https://www.zeit.de/politik/2024-03/scholz-taurus-debatte-bundestag-lieferung-ukraine",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-03/scholz-taurus-debatte-bundestag-lieferung-ukraine-bild/super__980x653"
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-03/oberverwaltungsgericht-zweiter-verhandlungstag-rechtsstreit-afd-und-bundesamt-fuer-verfassungsschutz-bild/super__980x653"
     },
     {
       "title": "Taurus-Abhöraffäre : Boris Pistorius will Putin in Taurus-Affäre \"nicht auf den Leim gehen\"",
@@ -112,16 +113,28 @@
       "image_url": "https://img.zeit.de/politik/deutschland/2024-03/ingo-gerhartz-taurus-affaere-luftwaffe-bild/super__980x653"
     },
     {
-      "title": "An dieser Stelle ist ein externer Inhalt eingebunden",
-      "teaser": "Zum Anschauen benötigen wir Ihre Zustimmung",
+      "title": "Vertrauter von Alexej Nawalny : Litauen geht von russischer Attacke auf Wolkow aus",
+      "teaser": "Der litauische Geheimdienst vermutet Russland hinter dem Angriff auf den russischen Oppositionellen Leonid Wolkow. Litauens Präsident kündigt Ermittlungen an.",
+      "url": "https://www.zeit.de/politik/ausland/2024-03/leonid-wolkow-litauens-geheimdienst-russischer-auftrag",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-03/litauen-geheimdienst-russische-attacke-wolkow-bild/wide__980x551"
+    },
+    {
+      "title": "Taurus-Lieferungen an Ukraine : \"Besonnenheit ist das, worauf die Bürger einen Anspruch haben\"",
+      "teaser": "Als \"ausgeschlossen\" bezeichnet der Kanzler die Lieferung der Marschflugkörper. Bei der Debatte im Bundestag zu Waffenlieferungen beharrt Scholz auf seiner Position.",
+      "url": "https://www.zeit.de/politik/2024-03/scholz-taurus-debatte-bundestag-lieferung-ukraine",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-03/scholz-taurus-debatte-bundestag-lieferung-ukraine-bild/super__980x653"
+    },
+    {
+      "title": "Livestream:Olaf Scholz : Der Kanzler stellt sich der Taurus-Debatte im Bundestag",
+      "teaser": "In der Regierungsbefragung im Bundestag will die Opposition den Kanzler beim Thema Taurus-Lieferungen unter Druck setzen. Folgen Sie der Debatte im Livestream.",
       "url": "https://www.zeit.de/politik/deutschland/2024-03/olaf-scholz-regierungsbefragung-bundestag-taurus-live",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-03/olaf-scholz-bundestag-regierungsbefragung/wide__980x551"
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-03/olaf-scholz-bundestag-regierungsbefragung/super__980x653"
     },
     {
       "title": "AfD : Bärbel Bas fordert strengere Sicherheitsvorkehrungen im Bundestag",
       "teaser": "Die AfD-Bundestagsfraktion soll zahlreiche Mitarbeiter aus dem Umfeld von Neonazis und der Identitären Bewegung beschäftigen. Die Bundestagsspitze will dagegen vorgehen.",
       "url": "https://www.zeit.de/politik/deutschland/2024-03/baerbel-bas-sicherheitsvorkehrungen-parlament-adf",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-03/sicherheit-parlament-baerbel-bas/super__980x653"
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-03/sicherheit-parlament-baerbel-bas/wide__980x551"
     },
     {
       "title": "Matthias Platzeck zu Bahnstreiks : \"Mit der Lösung müssen beide Seiten gleich schlecht leben können\"",
@@ -133,13 +146,13 @@
       "title": "Bürokratie : Kabinett stimmt Gesetz zum Bürokratieabbau zu",
       "teaser": "Viele Unternehmen klagen über zu viel Bürokratie. Die Bundesregierung will dem entgegenwirken. Die Wirtschaft sieht in dem Gesetzentwurf aber nur einen ersten Schritt.",
       "url": "https://www.zeit.de/politik/deutschland/2024-03/buerukratie-deutschland-abbau-buschmann-gesetz",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-03/deutschland-buerokratie-abbau-bild/wide__980x551"
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-03/deutschland-buerokratie-abbau-bild/super__980x653"
     },
     {
       "title": "Frankreich : Wenn ein Millionär zum Gesicht einer linken Kampagne wird",
       "teaser": "Die französische Linke will Nichtwähler zur Stimmabgabe bei der Europawahl motivieren – mit Fotos von reichen und konservativen Persönlichkeiten. Nun gibt es Klagen.",
       "url": "https://www.zeit.de/politik/ausland/2024-03/frankreich-eu-wahl-nichtwaehler-kampagne",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-03/frankreich-eu-wahl-nichtwaehler-kampagne-bild/super__980x653"
+      "image_url": "https://img.zeit.de/politik/ausland/2024-03/frankreich-eu-wahl-nichtwaehler-kampagne-bild/wide__980x551"
     },
     {
       "title": "Europawahl : Letzte Generation sammelt genug Unterschriften für Bewerbung",
@@ -151,13 +164,13 @@
       "title": "Deutscher Aktienindex : Dax überschreitet erstmals 18.000-Punkte-Marke",
       "teaser": "Trotz der schwächelnden deutschen Wirtschaft stellt der Leitindex fast täglich neue Rekorde auf. Erstmals überschreitet er die 18.000 Punkte. Experten warnen aber auch.",
       "url": "https://www.zeit.de/politik/deutschland/2024-03/leitindex-dax-rekord",
-      "image_url": "https://img.zeit.de/wirtschaft/boerse/2024-03/aktienindex-dax-steigt-erstmals-ueber-18000-punkte-bild/wide__980x551"
+      "image_url": "https://img.zeit.de/wirtschaft/boerse/2024-03/aktienindex-dax-steigt-erstmals-ueber-18000-punkte-bild/super__980x653"
     },
     {
       "title": "Nato-Beitritt : Putin will Truppen an Grenze zu Finnland stationieren",
       "teaser": "Wegen des Nato-Beitritts Schwedens und Finnlands will Putin Soldaten und Waffensysteme an der finnischen Grenze stationieren. Erneut warnt er auch mit Atomwaffen.",
       "url": "https://www.zeit.de/politik/ausland/2024-03/wladimir-putin-stationierung-truppen-grenze-finnland-atomwaffen",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-03/ukraine-krieg-news-liveblog-bild-8/super__980x653"
+      "image_url": "https://img.zeit.de/politik/ausland/2024-03/ukraine-krieg-news-liveblog-bild-8/wide__980x551"
     },
     {
       "title": "Ukraine-Karte aktuell : Russische Truppen rücken bei Awdijiwka und Donezk vor",
@@ -169,7 +182,7 @@
       "title": "Liveblog:Ukraine-Krieg : Russland meldet zahlreiche ukrainische Drohnenangriffe",
       "teaser": "Die Ukraine soll in der Nacht sechs russische Regionen mit Drohnen angegriffen haben. Nach russischen Angriffen auf die Ukraine gibt es Tote und Verletzte. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-03/news-israel-gaza-krieg-live-bild-18/wide__980x551"
+      "image_url": "https://img.zeit.de/politik/ausland/2024-03/news-israel-gaza-krieg-live-bild-18/super__980x653"
     },
     {
       "title": "Hungersnot in Gaza : Humanitäre Hilfe erreicht erstmals seit Wochen Gaza-Stadt",
@@ -202,18 +215,6 @@
       "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__980x653"
     },
     {
-      "title": "Hilfsgüter für den Gazastreifen : Was die Hilfswege in den Gazastreifen versperrt",
-      "teaser": "Lkw, Luftbrücke oder Hilfsgüter per Schiff: Was bei den Menschen im Gazastreifen ankommt, reicht bei Weitem nicht. Ein Nothafen wäre eine logistische Herausforderung.",
-      "url": "https://www.zeit.de/politik/ausland/2024-03/gazastreifen-hilfsgueter-luftbruecke-seekorridor-grenzuebergaenge",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-03/gazastreifen-hilfsgueter-luftbruecke-seekorridor-grenzuebergaenge-bild/super__980x653"
-    },
-    {
-      "title": "Liveblog:Krieg in Israel und Gaza : Hilfskonvoi erreicht erstmals wieder nördlichen Gazastreifen",
-      "teaser": "Die humanitäre Lage in Gaza ist katastrophal, die UN warnen vor einer Hungersnot. Nun ließ Israel sechs LKW mit Hilfsgütern direkt nach Nord-Gaza. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/2023-12/news-israel-gaza-krieg-live",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-03/gazastreifen-humanitaer-hilfe/super__980x653"
-    },
-    {
       "title": "AfD-Angestellte : Bundestagsvizepräsidentin will Zugang für Extremisten beschränken",
       "teaser": "Die AfD-Fraktion beschäftigt offenbar mehr als 100 Rechtsextreme. Yvonne Magwas spricht von \"Abgründen\" – und kündigt eine Verschärfung der Hausordnung an.",
       "url": "https://www.zeit.de/politik/deutschland/2024-03/afd-angestellte-rechtsextrem-bundestagsvizepraesidentin-yvonne-magwas-zugangsbeschraenkungen",
@@ -238,22 +239,22 @@
       "image_url": "https://img.zeit.de/politik/2024-03/tilman-kuban-politikpodcast-ehrlich-jetzt-aufmacherfoto/super__980x653"
     },
     {
+      "title": "Hilfsgüter für den Gazastreifen : Was die Hilfswege in den Gazastreifen versperrt",
+      "teaser": "Lkw, Luftbrücke oder Hilfsgüter per Schiff: Was bei den Menschen im Gazastreifen ankommt, reicht bei Weitem nicht. Ein Nothafen wäre eine logistische Herausforderung.",
+      "url": "https://www.zeit.de/politik/ausland/2024-03/gazastreifen-hilfsgueter-luftbruecke-seekorridor-grenzuebergaenge",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-03/gazastreifen-hilfsgueter-luftbruecke-seekorridor-grenzuebergaenge-bild/super__980x653"
+    },
+    {
+      "title": "Liveblog:Krieg in Israel und Gaza : Hilfskonvoi erreicht erstmals wieder nördlichen Gazastreifen",
+      "teaser": "Die humanitäre Lage in Gaza ist katastrophal, die UN warnen vor einer Hungersnot. Nun ließ Israel sechs LKW mit Hilfsgütern direkt nach Nord-Gaza. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/2023-12/news-israel-gaza-krieg-live",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-03/gazastreifen-humanitaer-hilfe/super__980x653"
+    },
+    {
       "title": "US-Vorwahlen : Auch Trump sichert sich Delegiertenzahl für Präsidentschaftskandidatur",
       "teaser": "Joe Biden und Donald Trump haben weitere Vorwahlen ihrer Parteien gewonnen. Den USA steht damit die erste Neuauflage desselben Duells seit 70 Jahren bevor.",
       "url": "https://www.zeit.de/politik/ausland/2024-03/donald-trump-usa-vorwahlen-praesidentschaftskandidat-republikaner",
       "image_url": "https://img.zeit.de/politik/ausland/2024-03/donald-trump-usa-vorwahlen-praesidentschaftskandidat-republikaner-bild/super__980x653"
-    },
-    {
-      "title": "US-Wahlkampf : Joe Biden erreicht notwendige Zahl an Delegiertenstimmen",
-      "teaser": "US-Präsident Biden hat sich bei weiteren Vorwahlen der Demokraten durchgesetzt. Damit ist seine Nominierung zum Präsidentschaftskandidat so gut wie sicher.",
-      "url": "https://www.zeit.de/politik/ausland/2024-03/joe-biden-vorwahlen-us-demokraten-kandidat",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-03/joe-biden-nominierung-usa/super__980x653"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Anklagen : Was Donald Trump vor Gericht droht",
-      "teaser": "Ex-Präsident Trump muss sich in zahlreichen Verfahren verantworten. Um was geht es, und welche Strafen drohen ihm? Eine Übersicht in Grafiken",
-      "url": "https://www.zeit.de/politik/ausland/2024-01/anklagen-gegen-donald-trump-gericht-uebersicht-grafik",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-08/anklagen-gegen-donald-trump-uebersicht/super__980x653"
     },
     {
       "title": "Anzeige : Studieren in Berlin",
