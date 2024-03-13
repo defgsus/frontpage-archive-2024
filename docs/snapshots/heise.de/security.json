@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-13T13:00:58",
+  "timestamp": "2024-03-13T14:01:33",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "FortiOS, -Proxy, -ClientEMS, -Manager",
+      "url": "https://www.heise.de/news/Fortinet-Patchday-Kritische-Luecken-in-FortiOS-FortiProxy-und-FortiClientEMS-9653730.html"
+    },
+    {
       "title": "Patchday Adobe",
       "url": "https://www.heise.de/news/Adobe-Patchday-Angreifer-koennen-verwundbare-Systeme-uebernehmen-9653271.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Google-Chrome-Drei-Sicherheitsloecher-gestopft-9653082.html"
     },
     {
-      "title": "Synology Router Manager (SRM)",
-      "url": "https://www.heise.de/news/Synology-dichtet-Sicherheitslecks-in-SRM-ab-9652225.html"
+      "title": "AMD und Intel schließen CPU-Sicherheitslücken in Core- und Ryzen-CPUs",
+      "teaser": "Zum Patch-Tuesday räumen AMD und Intel weitere Sicherheitslücken in ihren Prozessoren ein. Es geht unter anderem um Race Conditions.",
+      "url": "https://www.heise.de/news/AMD-und-Intel-schliessen-CPU-Sicherheitsluecken-in-Core-und-Ryzen-CPUs-9653846.html",
+      "image_title": "Core i9-12900K und Ryzen 9 5950X nebeneinander"
+    },
+    {
+      "title": "Fortinet-Patchday: Kritische Lücken in FortiOS, FortiProxy und FortiClientEMS",
+      "teaser": "Fortinet hat zum März-Patchday Sicherheitslücken in FortiOS, FortiProxy, FortiClientEMS und im FortiManager geschlossen.",
+      "url": "https://www.heise.de/news/Fortinet-Patchday-Kritische-Luecken-in-FortiOS-FortiProxy-und-FortiClientEMS-9653730.html",
+      "image_title": "Fortinet Update"
     },
     {
       "title": "Meta Quest: Hackangriff wie im Film \"Inception\" legt alle Daten offen",
@@ -145,17 +157,6 @@
       "title": "Bundesnetzagentur fordert nach Anschlag auf Stromnetz mehr Schutz für Kritis",
       "teaser": "Das Tesla-Werk steht nach einem Anschlag auf die Stromversorgung still. Die zentrale Infrastrukturbehörde Deutschlands sieht Handlungsbedarf.",
       "url": "https://www.heise.de/news/Bundesnetzagentur-fordert-nach-Anschlag-auf-Stromnetz-mehr-Schutz-fuer-Kritis-9650426.html"
-    },
-    {
-      "title": "Angeblicher Tesla-Hack mit Flipper Zero entpuppt sich als Sturm im Wasserglas",
-      "teaser": "Mittels eines gefälschten Gast-WLANs im Tesla-Design könnten Angreifer an Superchargern oder in Service-Centern Zugänge abgreifen, warnen die Experten.",
-      "url": "https://www.heise.de/news/Angeblicher-Tesla-Hack-mit-Flipper-Zero-entpuppt-sich-als-Sturm-im-Wasserglas-9650018.html",
-      "image_title": "Flipper Zero mit aufgestecktem Wifi Devboard"
-    },
-    {
-      "title": "Jetzt patchen! Deutschland führt Liste mit verwundbaren TeamCity-Systemen an",
-      "teaser": "Angreifer kompromittieren derzeit gehäuft das Software-Distributionssystem TeamCity. Das kann ein Ausgangspunkt für eine Supply-Chain-Attacke sein.",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Deutschland-fuehrt-Liste-mit-verwundbaren-TeamCity-Systemen-an-9649959.html"
     },
     {
       "title": "Meta Quest: Hackangriff wie im Film \"Inception\" legt alle Daten offen",
