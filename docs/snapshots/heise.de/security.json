@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-14T09:01:20",
+  "timestamp": "2024-03-14T10:00:54",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "HP BIOS",
+      "url": "https://www.heise.de/news/HP-verteilt-BIOS-Updates-gegen-Codeschmuggel-Luecke-9654678.html"
+    },
+    {
+      "title": "Cisco IOS XR",
+      "url": "https://www.heise.de/news/Cisco-schliesst-hochriskante-Luecken-in-IOS-XR-9654542.html"
+    },
+    {
       "title": "FortiOS, -Proxy, -ClientEMS, -Manager",
       "url": "https://www.heise.de/news/Fortinet-Patchday-Kritische-Luecken-in-FortiOS-FortiProxy-und-FortiClientEMS-9653730.html"
     },
@@ -40,12 +48,22 @@
       "url": "https://www.heise.de/news/Adobe-Patchday-Angreifer-koennen-verwundbare-Systeme-uebernehmen-9653271.html"
     },
     {
-      "title": "Patchday Microsoft",
-      "url": "https://www.heise.de/news/Microsoft-Patchday-Hersteller-stopft-59-Sicherheitsluecken-9653157.html"
+      "title": "HP verteilt BIOS-Updates gegen Codeschmuggel-Lücke",
+      "teaser": "Eine BIOS-Sicherheitsfunktion von HP-Laptops und -PCs kann von Angreifern umgangen werden. BIOS-Updates stehen bereit oder werden grad entwickelt.",
+      "url": "https://www.heise.de/news/HP-verteilt-BIOS-Updates-gegen-Codeschmuggel-Luecke-9654678.html",
+      "image_title": "Stilisierte Grafik: zersplitterter Sicherheitsschild auf einem Laptop"
     },
     {
-      "title": "Google Chrome",
-      "url": "https://www.heise.de/news/Google-Chrome-Drei-Sicherheitsloecher-gestopft-9653082.html"
+      "title": "Cisco schließt hochriskante Lücken in IOS XR",
+      "teaser": "Cisco warnt vor SIcherheitslücken mit teils hohem Risiko im Router-Betriebssystem IOS XR. Updates stehen bereit.",
+      "url": "https://www.heise.de/news/Cisco-schliesst-hochriskante-Luecken-in-IOS-XR-9654542.html",
+      "image_title": "Stilisierte Grafik: eine brennende Appliance im Netz"
+    },
+    {
+      "title": "iX-Workshop: Effiziente IT-Sicherheit für kleine und mittlere Unternehmen",
+      "teaser": "Erhalten Sie einen Überblick über Methoden und Best Practices für eine effiziente Cybersicherheitsstrategie. (10% Rabatt bis 19.03.)",
+      "url": "https://www.heise.de/news/iX-Workshop-Effiziente-IT-Sicherheit-fuer-kleine-und-mittlere-Unternehmen-9652700.html",
+      "image_title": "iX-Workshop: IT-Sicherheit für KMU"
     },
     {
       "title": "Online-Kriminalität: Erneut zehntausende Fälle 2023 in Niedersachsen",
@@ -142,24 +160,6 @@
       "title": "Taurus, Webex und Huawei: Warum der Fatalismus der Regierung unerträglich ist​",
       "teaser": "Statt sich nach dem Taurus-Skandal ernsthaft um die eigene IT-Sicherheit zu kümmern, sucht Deutschland die Schuldigen im Ausland, meint Dennis-Kenji Kipker.​",
       "url": "https://www.heise.de/meinung/Taurus-Webex-und-Huawei-Warum-der-Fatalismus-der-Regierung-unertraeglich-ist-9651476.html"
-    },
-    {
-      "title": "1Password spendiert Android-App Passkey-Unterstützung",
-      "teaser": "Die Passkey-Unterstützung von 1Password ist weit gediehen. Jetzt beherrscht auch die Android-App die Verwaltung von Passkeys.",
-      "url": "https://www.heise.de/news/1Password-spendiert-Android-App-Passkey-Unterstuetzung-9651342.html",
-      "image_title": "Stilisierte Grafik: ein Schloss mit biometrischen Schlüsseln"
-    },
-    {
-      "title": "iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
-      "teaser": "Lernen Sie, wie Sie Angriffe auf das Active Directory Ihres Unternehmens sicher erkennen und effektiv verhindern können. (10% Rabatt bis 20.03.)",
-      "url": "https://www.heise.de/news/iX-Workshop-Lokales-Active-Directory-gegen-Angriffe-absichern-9645085.html",
-      "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
-    },
-    {
-      "title": "Nach verheerendem Angriff auf Südwestfalen-IT: 205 Kommunen lassen IT prüfen",
-      "teaser": "Hunderte Kommunen in NRW lassen ihre IT-Sicherheit überprüfen, die Landesregierung bezahlt das. Sie will das Land künftig besser vorbereitet wissen.",
-      "url": "https://www.heise.de/news/Nach-verheerendem-Angriff-auf-Suedwestfalen-IT-205-Kommunen-lassen-IT-pruefen-9651073.html",
-      "image_title": "Hand auf Tastatur"
     },
     {
       "title": "Meta Quest: Hackangriff wie im Film \"Inception\" legt alle Daten offen",
