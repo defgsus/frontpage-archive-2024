@@ -1,8 +1,8 @@
 {
-  "timestamp": "2024-03-15T22:00:56",
+  "timestamp": "2024-03-15T23:01:07",
   "url": "https://www.welt.de/food/",
   "response": {
-    "status": 404
+    "status": 200
   },
   "scripts": [
     {
@@ -13,10 +13,381 @@
     },
     {
       "type": null,
+      "src": "https://www.asadcdn.com/adlib/pages/welt.js?1",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
       "src": "https://www.welt.de/assets/bff-section/scripts/section.no-module.p2L6a_9o.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "Bei diesem Salat bekommt die Küche Hitzefrei",
+      "teaser": "Wenn Sie in den letzten Tagen in den Wetterbericht geschaut haben, dann wissen Sie es wahrscheinlich schon: Das Wochenende wird brüllend heiß. Wie gut, dass Sie für diesen erfrischenden, üppigen Salat nur den Kühlschrank öffnen müssen.",
+      "url": "https://www.welt.de/food/essen/plus239394983/Mit-Raeucherfisch-und-Dill-Vinaigrette-Bei-diesem-Salat-bekommt-die-Kueche-Hitzefrei.html",
+      "image_url": "https://img.welt.de/img/bildergalerien/mobile239394749/6647931417-ci23x11-w20/weltfood-wedgesalat-9199.jpg",
+      "image_title": "weltfood_wedgesalat-9199",
+      "author": "Katharina James"
+    },
+    {
+      "title": "Die zarte Süße von Holunderblüten",
+      "teaser": "Die Blüten des Holunders, am Waldrand geerntet, können das Leben versüßen: Der selbstgemachte Sirup verfeinert Drinks genauso wie Salatdressings – hier schmeckt er zu Erdbeeren, die einen French Toast ergänzen.",
+      "url": "https://www.welt.de/food/essen/plus239121621/French-Toast-mit-in-Holunderbluetensirup-marinierten-Erdbeeren.html",
+      "image_url": "https://img.welt.de/img/food/essen/mobile239121617/8746582107-ci23x11-w20/WS-Stil-Hobl-Kranz-28295-2022.jpg",
+      "image_title": "Leckeres und schön anzusehendes Frühsommerfrühstück: French Toast mit in Holunderblütensirupo marinierten Erdbeeren",
+      "author": "Volker Hobl"
+    },
+    {
+      "title": "Kartoffelsalat nach Art der grünen Göttin",
+      "teaser": "Wie ungerecht, wenn von „Beilagen“ die Rede ist: Dieser Kartoffelsalat ist ein Kunstwerk, das auch ohne Steak oder Bratwurst für sich stehen kann. Mit aber auch. Ein leuchtend grünes, cremiges Kräuterdressing macht ihn besonders köstlich.",
+      "url": "https://www.welt.de/food/essen/plus238691655/Mit-vielen-Kraeutern-Kartoffelsalat-nach-Art-der-gruenen-Goettin.html",
+      "image_url": "https://img.welt.de/img/food/essen/mobile238691839/6207931167-ci23x11-w20/weltfood-kartoffelsalat-8683.jpg",
+      "image_title": "weltfood_kartoffelsalat-8683",
+      "author": "Katharina James"
+    },
+    {
+      "title": "Das Hähnchen vom Grill, das immer gelingt und jedem schmeckt",
+      "teaser": "Gegrillte Hähnchenbrust ist praktisch, kann aber schnell trocken werden. Da kommt diese Marinade ins Spiel: Sie schützt das Fleisch vorm Austrocknen, sodass es saftig, zart und würzig vom Rost kommt. Eine Zutat überrascht.",
+      "url": "https://www.welt.de/food/essen/plus238699433/Haehnchen-grillen-Blitzschnelles-Rezept-das-immer-gelingt-und-jedem-schmeckt.html",
+      "image_url": "https://img.welt.de/img/food/essen/mobile238699797/8627937087-ci23x11-w20/weltfood-huehnchen-8914.jpg",
+      "image_title": "weltfood_huehnchen-8914",
+      "author": "Katharina James"
+    },
+    {
+      "title": "Mairübchen, ein Genuss von der Wurzel bis zum Blatt",
+      "teaser": "Die kleinen weißen Mairüben sind ein unterschätztes Gemüse. Hier kommen sie mit scharfen Buletten und Bulgur auf den Teller. Der Bulgur wird dabei mit den gedünsteten Blättern der Rübchen verfeinert.",
+      "url": "https://www.welt.de/food/essen/plus238984441/Bulgur-mit-Mairueben-und-Minibuletten.html",
+      "image_url": "https://img.welt.de/img/food/essen/mobile238984437/0441628427-ci23x11-w20/WS-STiL-Kochschule-22-5-2022.jpg",
+      "image_title": "WS STiL Kochschule 22.5.2022",
+      "author": "Volker Hobl"
+    },
+    {
+      "title": "Wiener Schnitzel",
+      "url": "https://www.welt.de/videos/video172868586/Wiener-Schnitzel-Rezeptvideo.html",
+      "image_url": "https://img.welt.de/img/videos/mobile188419181/7381625967-ci16x9-w20/Wiener-Schnitzel.jpg",
+      "image_title": "Wiener Schnitzel",
+      "author": "1 Min"
+    },
+    {
+      "title": "Hasselback-Kartoffeln",
+      "url": "https://www.welt.de/videos/video172819998/Rezeptvideo-Hasselback-Kartoffeln.html",
+      "image_url": "https://img.welt.de/img/food/essen/mobile188301391/2910311307-ci16x9-w20/Hasselback-Kartoffeln.jpg",
+      "image_title": "Hasselback Kartoffeln",
+      "author": "37 Sek"
+    },
+    {
+      "title": "Ein Klassiker der italienischen Küche",
+      "url": "https://www.welt.de/videos/video172826285/Linguine-alla-Carbonara.html",
+      "image_url": "https://img.welt.de/img/videos/mobile188676091/7202640807-ci16x9-w20/Linguine-alla-Carbonara.jpg",
+      "image_title": "Linguine alla Carbonara",
+      "author": "58 Sek"
+    },
+    {
+      "title": "Lamm-Tajine mit Aprikosen und Pistazien",
+      "url": "https://www.welt.de/videos/video186838394/Lamm-Tajine-mit-Aprikosen-und-Pistazien-Rezeptvideo.html",
+      "image_url": "https://img.welt.de/img/food/essen/mobile187029724/9420243877-ci16x9-w20/Lamm-Tajine-mit-Aprikosen-und-Pistazien.jpg",
+      "image_title": "Lamm-Tajine mit Aprikosen und Pistazien",
+      "author": "1 Min"
+    },
+    {
+      "title": "Die einzig wahre Lasagne",
+      "url": "https://www.welt.de/videos/video172820008/FOODBARN-Lasagne.html",
+      "image_url": "https://img.welt.de/img/videos/mobile175820704/9810316687-ci16x9-w20/FOODBARN-Lasagne-Titelbild-jpg.jpg",
+      "image_title": "Kein alternativer Text für dieses Bild vorhanden",
+      "author": "2 Min"
+    },
+    {
+      "title": "Pizzateig selber machen",
+      "url": "https://www.welt.de/videos/video172868656/Pizzateig-selber-machen-Rezeptvideo.html",
+      "image_url": "https://img.welt.de/img/videos/mobile185331430/1891354477-ci16x9-w20/Pizzateig-selber-machen.jpg",
+      "image_title": "Kein alternativer Text für dieses Bild vorhanden",
+      "author": "40 Sek"
+    },
+    {
+      "title": "Warmer Bohnensalat mit Porree und Senf",
+      "teaser": "Wenn es schnell gehen soll, aber raffiniert schmecken: Seidig-süß geschmorte Porreefäden wickeln sich bei diesem Salat um cremige Riesenbohnen. Ein scharf-sauer-herbes Senfdressing verhindert, dass es fad schmeckt.",
+      "url": "https://www.welt.de/food/essen/plus250582072/Vorspeise-Beilage-Hauptgericht-Warmer-Bohnensalat-mit-Porree-und-Senf.html",
+      "image_url": "https://img.welt.de/img/bildergalerien/mobile250582060/2667935237-ci23x11-w20/Warmer-Salat-aus-Lauch-und-Bohnen.jpg",
+      "image_title": "Warmer Salat aus Lauch und Bohnen",
+      "author": "Katharina James"
+    },
+    {
+      "title": "Diese Pasta macht Reste-Essen zum Festessen",
+      "teaser": "Parmesan ist lecker, aber keine Pflicht zu Pasta. Im weniger wohlhabenden Süden Italiens wurden Nudeln stattdessen gern mit kräftig gewürzten, kross gerösteten Brotbröseln serviert. Das damalige Arme-Leute-Gericht hat längst ein Eigenleben angenommen und ist nicht nur zum Monatsende zu empfehlen.",
+      "url": "https://www.welt.de/food/essen/plus250565766/Spaghetti-con-la-Mollica-Diese-Pasta-macht-Reste-Essen-zum-Festessen.html",
+      "image_url": "https://img.welt.de/img/bildergalerien/mobile226695703/3857939107-ci23x11-w20/weltfood-9703.jpg",
+      "image_title": "weltfood-9703_",
+      "author": "Katharina James"
+    },
+    {
+      "title": "Pasta? Brathähnchen? Wie wär‘s mit beidem?",
+      "teaser": "Zwei Leibspeisen, ein Gericht: Dieses Rezept aus dem venezianischen Ghetto vereint knusprig gebratenes Hähnchenfleisch mit bissfest gekochten Nudeln. Eine besondere Rolle spielt der köstliche Bratensaft.",
+      "url": "https://www.welt.de/food/essen/plus250481472/Pasta-Frisinsal-Pasta-Brathaehnchen-Wie-waer-s-mit-beidem.html",
+      "image_url": "https://img.welt.de/img/food/essen/mobile250481474/0597938757-ci23x11-w20/Pasta-Frisinsal.jpg",
+      "image_title": "Pasta Frisinsal",
+      "author": "Katharina James"
+    },
+    {
+      "title": "Otto-Gutschein",
+      "url": "https://www.welt.de/deals/"
+    },
+    {
+      "title": "eBay-Gutscheine",
+      "url": "https://www.welt.de/deals/"
+    },
+    {
+      "title": "dyson-Gutscheincode",
+      "url": "https://www.welt.de/deals/"
+    },
+    {
+      "title": "Saturn-Gutscheine",
+      "url": "https://www.welt.de/deals/"
+    },
+    {
+      "title": "Chronext-Gutscheine",
+      "url": "https://www.welt.de/deals/"
+    },
+    {
+      "title": "LiveFresh-Gutscheine",
+      "url": "https://www.welt.de/deals/"
+    },
+    {
+      "title": "Thalia-Gutscheine",
+      "url": "https://www.welt.de/deals/"
+    },
+    {
+      "title": "CHRIST-Rabattcodes",
+      "url": "https://www.welt.de/deals/"
+    },
+    {
+      "title": "Sephora-Rabattcodes",
+      "url": "https://www.welt.de/deals/"
+    },
+    {
+      "title": "ESN-Gutscheine",
+      "url": "https://www.welt.de/deals/"
+    },
+    {
+      "title": "Eis.de Gutscheine",
+      "url": "https://www.welt.de/deals/"
+    },
+    {
+      "title": "Zehn Sommerdrinks mit niedrigem Kater-Risiko",
+      "teaser": "Achtung vor dem Pornstar Martini: Er gilt als der Drink, der den schlimmsten Kater verursacht. Hier finden Sie verträglichere Alternativen – vom alkoholfreien Spritz bis zum Sunshine Fizz. Plus: Der Lieblingsdrink von Deutschlands bestem Barkeeper.",
+      "url": "https://www.welt.de/iconist/essen-und-trinken/",
+      "image_url": "https://img.welt.de/img/iconist/essen-und-trinken/mobile231697555/5317935167-ci23x11-w20/Studio-shot-of-drinks-on-tray.jpg",
+      "image_title": "Drinks für heiße Tage",
+      "author": "ICONIST-Redaktion"
+    },
+    {
+      "title": "Brauereiverband rechnet mit „teuerstem Biergarten-Sommer aller Zeiten“",
+      "teaser": "Jetzt schlägt die Inflation auch in den Biergärten zu: Der noch zu Jahresbeginn als „utopisch“ geltende Bierpreis von 7,50 Euro für den halben Liter in ersten Schankbetrieben sei bereits durchbrochen, so der Brauereiverband Berlin-Brandenburg.",
+      "url": "https://www.welt.de/wirtschaft/",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile245224060/7757931427-ci23x11-w20/Biergarten-in-Berlin.jpg",
+      "image_title": "Biergarten in Berlin"
+    },
+    {
+      "title": "Das sind die zehn besten Gins der Welt",
+      "teaser": "Was braucht ein Gin, um Kenner zu überzeugen? Unser Autor und Spirituosen-Experte hat sich durchprobiert und stellt hier seine persönliche Bestenliste vor - von kernig bis fruchtig.",
+      "url": "https://www.welt.de/iconist/essen-und-trinken/",
+      "image_url": "https://img.welt.de/img/iconist/essen-und-trinken/mobile188783977/6147935787-ci23x11-w20/Drink-on-vintage-cocktail-bar-counter-Florence-Italy.jpg",
+      "image_title": "Die zehn besten Gins der Welt",
+      "author": "Patrick Lindner"
+    },
+    {
+      "title": "In den Walliser Alpen ist Cholera etwas Feines zum Essen",
+      "teaser": "Der Alltag der Walliser Bergbevölkerung war einst karg. Zu den typischen Gerichten zählte auch Cholera. Unsere Autorin ließ sich in einem Wirtshaus das Rezept geben und verspricht: Nachmachen lohnt sich, es schmeckt vorzüglich!",
+      "url": "https://www.welt.de/reise/nah/",
+      "image_url": "https://img.welt.de/img/reise/mobile229903823/5037936937-ci23x11-w20/WIRTSHAUS-GODSWAERGJISTUBU-2.jpg",
+      "image_title": "Wallis in der Schweiz: Das Haus, in dem sich das Restaurant „Godswärgjistubu“ in Albinen befindet, stammt aus dem Jahr 1636",
+      "author": "Barbara Blunschi"
+    },
+    {
+      "title": "SodaStream oder doch lieber eine Alternative – Diese Modelle gibt es",
+      "teaser": "Wassersprudler erfreuen sich großer Beliebtheit. Kein Wunder, bieten die Geräte doch neben der Entlastung vom Kistenschleppen auch eine positive Umweltbilanz im Vergleich zu abgefülltem Wasser. Dabei finden Sie auch abseits des bekannten Herstellers SodaStream einige Alternativen, mit denen sie in den Genuss von selbst gesprudeltem Wasser kommen.",
+      "url": "https://www.welt.de/wirtschaft/webwelt/",
+      "image_url": "https://img.welt.de/img/wirtschaft/webwelt/mobile203360912/6717933477-ci23x11-w20/Wasser-trinken.jpg",
+      "image_title": "Ein Glas Wasser mit Kohlensäure, hergestellt mit einer Sodastream-Alternative",
+      "author": "Markus Brandstetter"
+    },
+    {
+      "title": "Den Kühlschrank putzen – So geht es richtig",
+      "teaser": "Wer seinen Kühlschrank regelmäßig und gründlich reinigt, spart Energie und verhindert, dass sich Keime darin vermehren. Hier finden Sie eine Schritt-für-Schritt-Anleitung und Checkliste.",
+      "url": "https://www.welt.de/food/entdecken/",
+      "image_url": "https://img.welt.de/img/food/entdecken/mobile192435783/0757933087-ci23x11-w20/Kuehlschrank-putzen.jpg",
+      "image_title": "Frau putzt ihren Kühlschrank"
+    },
+    {
+      "title": "Diese nachhaltigen Produkte sind Alternativen zum Backpapier",
+      "teaser": "Muss es noch Backpapier sein? Inzwischen ist die Auswahl an Alternativen groß: von Dauerbackpapier über Silikon-Backmatten zu Backsteinen.",
+      "url": "https://www.welt.de/food/kaufberatung-kueche/",
+      "image_url": "https://img.welt.de/img/kmpkt/mobile185795344/6017933147-ci23x11-w20/Making-christmas-cookies-with-mold.jpg",
+      "image_title": "Ein Mann sticht mit Formen Plätzchen aus",
+      "author": "Moritz Barthoff"
+    },
+    {
+      "title": "Darum ist dieser Trend mehr als kalter Kaffee",
+      "teaser": "Sie möchten kalt gebrauten Kaffee selber machen? Hier erfahren Sie, wie es geht, was Sie für das erfrischende Sommergetränk benötigen - und in welcher Kombination es besonders gut schmeckt.",
+      "url": "https://www.welt.de/food/kaufberatung-kueche/",
+      "image_url": "https://img.welt.de/img/kaufberatung/kueche/mobile210959981/9892642437-ci23x11-w20/Close-up-cold-brew-coffee-with-ice-ball-with-roasted-coffee-seed.jpg",
+      "image_title": "Cold Brew mit Eis und daneben ein paar Kaffeebonen auf einem Tisch",
+      "author": "Kristina Baum"
+    },
+    {
+      "title": "Mit diesen Zuckeralternativen versüßen Sie ihr Leben",
+      "teaser": "Heutzutage ist in fast allen Produkten Zucker enthalten. Aber kann man Getränke und Gerichte – und damit auch das Leben – nicht auf andere Art versüßen? Von Süßstoffen über Zuckeraustauschstoffen bis hin zu Sirups, das sind die besten Zuckeralternativen.",
+      "url": "https://www.welt.de/food/kaufberatung-kueche/",
+      "image_url": "https://img.welt.de/img/gesundheit/mobile144312071/2707932707-ci23x11-w20/Suesskraut.jpg",
+      "image_title": "In einer Schale sind ein paar Würfel Haushaltszucker, daneben liegen ein paar Süßkrautblätter",
+      "author": "Alexandra Beste"
+    },
+    {
+      "title": "Holzhocker, Campingtische, Tierklinik-Ambiente – und das Essen eine Offenbarung",
+      "teaser": "Ein Restaurant braucht kein teures Porzellan oder gestärkte Tischwäsche, um den Guide Michelin – und im besten Fall auch die Gäste – zu überzeugen. Das beweist eine fast 80-Jährige, die mit Skibrille am Wok die weltbesten Krabbenomeletts zubereitet.",
+      "url": "https://www.welt.de/iconist/essen-und-trinken/article250519700/Streetfood-mit-Michelin-Stern-Alles-andere-als-luxurioes-aber-eine-Offenbarung.html",
+      "image_url": "https://img.welt.de/img/iconist/essen-und-trinken/mobile250555238/8557930757-ci23x11-w20/THAILAND-BANGKOK-STREET-FOOD-JAY-FAI.jpg",
+      "image_title": "Streetfood mit Stern: Bei Jay Fai stehen die Menschen ab sieben Uhr morgens für einen Platz an",
+      "author": "Christian Bau"
+    },
+    {
+      "title": "Sieben kulinarische Geheimwaffen, über die Feinschmecker nie reden",
+      "teaser": "Nur keine Berührungsängste: Auch sehr banale Zutaten können ein Gericht von „so lala“ zu „wow, das macht Spaß im Mund“ aufwerten. Sieben Zutaten, die in James Kitchen immer vorrätig sind.",
+      "url": "https://www.welt.de/food/essen/plus250375728/Stets-auf-Vorrat-Sieben-kulinarische-Geheimwaffen-ueber-die-Feinschmecker-nie-reden.html",
+      "image_url": "https://img.welt.de/img/food/essen/mobile250375744/4887934207-ci23x11-w20/Smiling-daughter-talking-to-father-while-standing-by-closet-at-ho.jpg",
+      "image_title": "Junge Frau greift in die Vorratskammer",
+      "author": "Katharina James"
+    },
+    {
+      "title": "Olivenöl-Brioche mit Honig",
+      "teaser": "Ein weicher, lockerer und nur sparsam gesüßter Hefeteig verträgt sich sowohl mit süßem als auch mit herzhaftem Belag. Honig und Olivenöl verleihen ihm etwa ein angenehmes Aroma und lassen ihn länger saftig bleiben.",
+      "url": "https://www.welt.de/food/essen/plus250231094/Olivenoel-Brioche-mit-Honig-Die-perfekte-Beilage-zu-herzhaftem-Essen-oder-als-Burger-Bun.html",
+      "image_url": "https://img.welt.de/img/food/essen/mobile250231360/5607938377-ci23x11-w20/Olivenoel-Brioche-mit-Honig.jpg",
+      "image_title": "Olivenöl-Brioche mit Honig",
+      "author": "Katharina James"
+    },
+    {
+      "title": "Avocado-Grapefruit-Salat",
+      "teaser": "Der Spätwinter ist eine Zumutung. Zum Glück gibt es Zitrusfrüchte und diesen Salat, bei dem bitter-süß-saure Grapefruitfilets auf cremig-milde Avocado treffen.",
+      "url": "https://www.welt.de/food/essen/plus250141936/Schnell-und-speziell-Avocado-Grapefruit-Salat.html",
+      "image_url": "https://img.welt.de/img/bildergalerien/mobile250141922/1727934737-ci23x11-w20/Avocado-Grapefruit-Salat.jpg",
+      "image_title": "Avocado-Grapefruit-Salat",
+      "author": "Katharina James"
+    },
+    {
+      "title": "Weißes Chili con Carne mit Hähnchenfleisch",
+      "teaser": "Mit Hähnchen, weißen Bohnen und grüner Chili schmeckt der beliebte Eintopf leichter und frischer, aber kein bisschen weniger lecker. Nachkochen lohnt sich – als kulinarische Begleitung zum Superbowl oder für einen gemütlichen Abend am Küchentisch.",
+      "url": "https://www.welt.de/food/essen/plus249997422/Ein-Topf-viel-Geschmack-Weisses-Chili-con-Carne-mit-Haehnchenfleisch.html",
+      "image_url": "https://img.welt.de/img/bildergalerien/mobile249997416/7577934137-ci23x11-w20/White-Chicken-Chili.jpg",
+      "image_title": "White Chicken Chili",
+      "author": "Katharina James"
+    },
+    {
+      "title": "Tarte au Citron mit ganzer Zitrone",
+      "teaser": "Tarte au Citron strahlt im Winter gegen graue Himmel und saisonalen Trübsinn an. Dieses Rezept für den Dessert-Klassiker führt zwei Abkürzungen ein, die es sogar noch besser machen – ausgedacht von einem erfahrenen Patissier.",
+      "url": "https://www.welt.de/food/essen/plus249900106/Volle-Zitruskraft-voraus-Tarte-au-Citron-mit-ganzer-Zitrone.html",
+      "image_url": "https://img.welt.de/img/bildergalerien/mobile249900120/2907933917-ci23x11-w20/Tarte-au-Citron.jpg",
+      "image_title": "Tarte au Citron",
+      "author": "Katharina James"
+    },
+    {
+      "title": "Solo für die Kartoffel",
+      "teaser": "Die Kartoffel wird viel zu oft als selbstverständliche Sättigungsbeilage angesehen. An einem kalten Winterabend kann die bescheidene Knolle aber auch ganz allein Wärme und Trost spenden.",
+      "url": "https://www.welt.de/food/essen/",
+      "image_url": "https://img.welt.de/img/food/essen/mobile249736230/4267939187-ci23x11-w20/GettyImages-502124489.jpg",
+      "image_title": "Ofenkartoffel mit Butter und Salz",
+      "author": "Katharina James"
+    },
+    {
+      "title": "Graupen ohne Grauen",
+      "teaser": "Wer Graupen nach dem Risotto-Prinzip zubereitet, muss nicht so oft umrühren und erhält ein herrlich nussig schmeckendes Gericht. Wir geben viel Gemüse dazu und schmecken mit Zitrone und Mandeln ab.",
+      "url": "https://www.welt.de/food/essen/plus249735894/Mit-Mangold-Zitrone-und-Mandeln-Graupen-ohne-Grauen.html",
+      "image_url": "https://img.welt.de/img/food/essen/mobile249736130/2697936347-ci23x11-w20/Graupen-mit-Mangold-Zitrone-und-Mandeln.jpg",
+      "image_title": "Graupen mit Mangold, Zitrone und Mandeln",
+      "author": "Katharina James"
+    },
+    {
+      "title": "Wohlfühlessen und Salat – das passt gut zusammen",
+      "teaser": "Im Winter ist die Lust auf Deftiges groß. Zum Ausgleich gibt es diesen Salat: Knackig, nahrhaft und würzig, mit einem cremig-scharfen Dressing. Schmeckt gut zu Tofu und Reis, aber auch zu Steak.",
+      "url": "https://www.welt.de/food/essen/plus249487898/Wintersalat-mit-Sesamdressing-Wohlfuehlessen-und-Salat-das-passt-gut-zusammen.html",
+      "image_url": "https://img.welt.de/img/bildergalerien/mobile249487896/7097934457-ci23x11-w20/Gruenkohlsalat-mit-Miso-Sesam-Dressing.jpg",
+      "image_title": "Grünkohlsalat mit Miso-Sesam-Dressing",
+      "author": "Katharina James"
+    },
+    {
+      "title": "Es ist sinnlos, Lebensmittel über das zu vermarkten, was sie nicht sind",
+      "teaser": "Sie haben sich vorgenommen, im Januar auf Fleisch oder Alkohol zu verzichten? Die Lebensmittelindustrie hat da ein paar Ersatzvorschläge für Sie. Ich habe viele gekostet - und empfehle eine Alternative zu den Alternativen.",
+      "url": "https://www.welt.de/food/essen/plus249298830/Vegane-Ersatzprodukte-Es-ist-sinnlos-Lebensmittel-ueber-das-zu-vermarkten-was-sie-nicht-sind.html",
+      "image_url": "https://img.welt.de/img/newsletter/mobile238152465/1657930597-ci23x11-w20/teaser-beschnittbogen-james-kitchen-1x-jpg.jpg",
+      "image_title": "Kein alternativer Text für dieses Bild vorhanden",
+      "author": "Katharina James"
+    },
+    {
+      "title": "Die Reste vom Fest",
+      "teaser": "Nach dem oder den Festessen ist vor dem Kühlschrank-Tetris. Wir haben Tipps und Rezepte zusammengestellt, mit denen die Leckereien vom Weihnachtsmenü einen zweiten (oder dritten) Auftritt bekommen, ohne dass es nach Resteverwertung schmeckt.",
+      "url": "https://www.welt.de/food/essen/plus249168376/Tipps-und-Rezepte-Die-Reste-vom-Fest.html",
+      "image_url": "https://img.welt.de/img/food/essen/mobile249168552/0507939687-ci23x11-w20/Man-holding-serving-dish-with-roast-potatoes-and-a-sprig-of-holly.jpg",
+      "image_title": "Familie beim Weihnachtsessen",
+      "author": "Katharina James"
+    },
+    {
+      "title": "Keine Angst vor Rosenkohl – wie aus dem gefürchteten Gemüse ein leckerer Auflauf wird",
+      "teaser": "Walter Stemberg und sein Sohn Sascha betreiben in Velbert das Sternerestaurant „Haus Stemberg“. Gemeinsam schreiben sie auf welt.de über die Grundlagen des Kochens. Diesmal nehmen sie sich einen umstrittenen Gemüseklassiker vor und machen daraus mit wenigen Zutaten ein delikates Gericht.",
+      "url": "https://www.welt.de/regionales/nrw/article243896433/Rosenkohl-mal-anders-Auflauf-mit-Salsiccia-Burrata-und-Zitrone-Rezept.html",
+      "image_url": "https://img.welt.de/img/regionales/nrw/mobile243892229/4987938137-ci23x11-w20/Kombo-Stemberg-Rosenkohl.jpg",
+      "image_title": "Die Köche Sascha und Walter Stemberg, im Hintergrund liegen Rosenkohlköpfchen",
+      "author": "Sascha & Walter Stemberg"
+    },
+    {
+      "title": "Einfach mal die Stopptaste drücken",
+      "teaser": "Die Adventszeit ist schön – und manchmal so intensiv, dass man am Heiligabend schon ganz ausgefeiert ist. Für eine Pause von Glanz und Besinnlichkeit kochen wir ein Gericht, das unweihnachtlicher nicht schmecken könnte.",
+      "url": "https://www.welt.de/food/essen/plus249066476/Scharfe-Nudeln-mit-Blattgemuese-Einfach-mal-die-Stopptaste-druecken.html",
+      "image_url": "https://img.welt.de/img/bildergalerien/mobile249066452/3047932117-ci23x11-w20/Scharfe-Nudeln-mit-Blattgemuese.jpg",
+      "image_title": "Scharfe Nudeln mit Blattgemüse",
+      "author": "Katharina James"
+    },
+    {
+      "title": "Wann man wirklich einen Thermomix braucht",
+      "teaser": "Die Schubladen quellen über, in den Schränken wird bereits jeder Zentimeter ausgenutzt. Dennoch gelten Küchenutensilien als ideale Geschenke. Welche Anschaffung sich lohnt und wie Sie herausfinden können, was Sie wirklich im Alltag benötigen, verrät eine Haushaltsexpertin.",
+      "url": "https://www.welt.de/vermischtes/plus249048798/Kuechengeraete-auswaehlen-Auf-keinen-Fall-eine-Pfanne-mit-Teflon-Beschichtung.html",
+      "image_url": "https://img.welt.de/img/vermischtes/mobile249054254/6687934477-ci23x11-w20/437751598.jpg",
+      "image_title": "437751598",
+      "author": "Katja Mitić"
+    },
+    {
+      "title": "Short Ribs mit Portwein und Meerrettich-Crème",
+      "teaser": "Dieses Gericht ist wie ein Geschenk: Das Rezept braucht Vorbereitung und einen soliden Zeitplan. Doch das fertige Fleisch lässt sich mit dem Löffel zerteilen und strotzt nur so vor Geschmack – ein Fest!",
+      "url": "https://www.welt.de/food/essen/plus248853194/Festliches-Hauptgericht-Short-Ribs-mit-Portwein-und-Meerrettich-Creme.html",
+      "image_url": "https://img.welt.de/img/food/essen/mobile248853200/5377939987-ci23x11-w20/Shortribs-mit-Portwein-auf-Buttermilch-Pueree.jpg",
+      "image_title": "Shortribs mit Portwein auf Buttermilch-Püree",
+      "author": "Katharina James"
+    },
+    {
+      "title": "Ein Weihnachtsstern zum 1. Advent – mit süßer Füllung",
+      "teaser": "Was leuchtet golden und verheißend in der Adventszeit? Genau, der Stern aus Hefeteig mit einer süßen Kardamomfüllung. Wer den Teig über Nacht gehen lässt, kann das frische Gebäck zum Frühstück genießen und trotzdem ausschlafen.",
+      "url": "https://www.welt.de/food/essen/plus248818522/Brioche-mit-Kardamom-Ein-Weihnachtsstern-zum-1-Advent-mit-suesser-Fuellung.html",
+      "image_url": "https://img.welt.de/img/food/essen/mobile248818752/9847935617-ci23x11-w20/Brioche-Stern-mit-Kardamom-Butter.jpg",
+      "image_title": "Brioche-Stern mit Kardamom-Butter",
+      "author": "Katharina James"
+    },
+    {
+      "title": "Pastinaken-Pommes mit Zaatar",
+      "teaser": "Pastinaken sind nur etwas für Babys und Pferde? Mitnichten! Wer sie noch nie geröstet gekostet hat, weiß einfach nicht, was er verpasst. Wir geben eine aromatische Gewürzmischung und ein zitroniges Kräuterdressing dazu.",
+      "url": "https://www.welt.de/food/essen/plus248736994/Wuerzige-Wurzeln-Pastinaken-Pommes-mit-Zaatar.html",
+      "image_url": "https://img.welt.de/img/regionales/mobile248736980/8667933247-ci23x11-w20/Pastinaken-Pommes-mit-Zaatar.jpg",
+      "image_title": "Pastinaken-Pommes mit Zaatar",
+      "author": "Katharina James"
+    },
+    {
+      "title": "Ein Falscher Hase, wie die Cape Malay ihn kochen",
+      "teaser": "Bobotie ist das geschmackliche Update zum Hackbraten, von dem Sie noch nicht wussten, dass Sie es brauchten. Der Hackfleischauflauf der südafrikanischen Cape Malay schmeckt fruchtig, leicht scharf und sehr aromatisch.",
+      "url": "https://www.welt.de/food/essen/plus248580706/Bobotie-Ein-Falscher-Hase-wie-die-Cape-Malay-ihn-kochen.html",
+      "image_url": "https://img.welt.de/img/bildergalerien/mobile248580704/5277938487-ci23x11-w20/Bobotie.jpg",
+      "image_title": "Bobotie",
+      "author": "Katharina James"
+    }
+  ]
 }
