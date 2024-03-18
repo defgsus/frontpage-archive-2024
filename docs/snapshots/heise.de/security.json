@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-18T08:07:41",
+  "timestamp": "2024-03-18T09:01:15",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Spring Framework",
+      "url": "https://www.heise.de/news/Spring-Framework-Updates-beheben-neue-alte-Sicherheitsluecke-9657496.html"
+    },
+    {
       "title": "HP BIOS",
       "url": "https://www.heise.de/news/HP-verteilt-BIOS-Updates-gegen-Codeschmuggel-Luecke-9654678.html"
     },
@@ -42,10 +46,6 @@
     {
       "title": "FortiOS, -Proxy, -ClientEMS, -Manager",
       "url": "https://www.heise.de/news/Fortinet-Patchday-Kritische-Luecken-in-FortiOS-FortiProxy-und-FortiClientEMS-9653730.html"
-    },
-    {
-      "title": "Patchday Adobe",
-      "url": "https://www.heise.de/news/Adobe-Patchday-Angreifer-koennen-verwundbare-Systeme-uebernehmen-9653271.html"
     },
     {
       "title": "Cybervorfall beim internationalen Währungsfonds und NHS",
@@ -75,6 +75,18 @@
       "teaser": "Diese Woche gab es erneut einige IT-Vorfälle, die teils viele Menschen betreffen. Kriminelle wurden dabei auch zu Opfern.",
       "url": "https://www.heise.de/news/Cyberangriffe-Keine-Ehre-unter-Kriminellen-Millionen-Franzosen-betroffen-9656333.html",
       "image_title": "Ransomware im Netzwerk"
+    },
+    {
+      "title": "Angreifer belauschen KI-Antworten – trotz Verschlüsselung und mit Hilfe von KI",
+      "teaser": "Mit einem neuartigen Seitenkanalangriff gelang es israelischen Forschern, die Antworten nahezu aller Chat-KIs aus abgefangenen Netzwerkdaten zu rekonstruieren.",
+      "url": "https://www.heise.de/news/Angreifer-belauschen-KI-Antworten-trotz-Verschluesselung-und-mit-Hilfe-von-KI-9656113.html",
+      "image_title": "Guy,Student,Using,Laptop,,Artificial,Intelligence,For,Education."
+    },
+    {
+      "title": "Digitale Zertifikate: Online-Sperrung wird optional, Sperrlisten zur Pflicht",
+      "teaser": "Das Echtzeit-Protokoll OCSP hatte mit Zuverlässigkeitsproblemen und Datenschutzbedenken zu kämpfen. Ab heute müssen CAs ihre Sperrlisten besser pflegen.",
+      "url": "https://www.heise.de/news/Digitale-Zertifikate-Online-Sperrung-wird-optional-Sperrlisten-zur-Pflicht-9655904.html",
+      "image_title": "Schloss als Symbol für Zensur"
     },
     {
       "title": "Zwei Backdoors in Ivanti-Appliances analysiert",
@@ -153,18 +165,6 @@
       "teaser": "Erhalten Sie einen Überblick über Methoden und Best Practices für eine effiziente Cybersicherheitsstrategie. (10% Rabatt bis 19.03.)",
       "url": "https://www.heise.de/news/iX-Workshop-Effiziente-IT-Sicherheit-fuer-kleine-und-mittlere-Unternehmen-9652700.html",
       "image_title": "iX-Workshop: IT-Sicherheit für KMU"
-    },
-    {
-      "title": "Online-Kriminalität: Erneut zehntausende Fälle 2023 in Niedersachsen",
-      "teaser": "Das LKA Niedersachsen verzeichnet auch im Jahr 2023 hohe Fallzahlen bei der Online-Kriminalität.",
-      "url": "https://www.heise.de/news/Online-Kriminalitaet-Erneut-zehntausende-Faelle-2023-in-Niedersachsen-9654376.html",
-      "image_title": "Krimineller angelt Kreditkartendaten."
-    },
-    {
-      "title": "Microsofts KI-Copilot für Security ist ab April zum Stundenlohn verfügbar",
-      "teaser": "Auf Security trainierte, generative KI soll IT-Sicherheitsexperten bei der Arbeit unterstützen. Microsoft berechnet den Copilot für Security nach Nutzungszeit.",
-      "url": "https://www.heise.de/news/Microsofts-KI-Copilot-fuer-Security-ist-ab-April-zum-Stundenlohn-verfuegbar-9654323.html",
-      "image_title": "Szene in einem farbenarmen Büro: 2 Männer und 1 Frau, alle mit dunklerem Teint, sind vor einem Schreibtisch mit Bildschirm versammelt; die Frau (Mitte) zeigt auf den Bildschirm."
     },
     {
       "title": "Meta Quest: Hackangriff wie im Film \"Inception\" legt alle Daten offen",
