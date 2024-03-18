@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-18T15:01:28",
+  "timestamp": "2024-03-18T16:01:14",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -32,10 +32,16 @@
   ],
   "articles": [
     {
-      "title": "Wohnungsbau : Zahl der Baugenehmigungen auf niedrigsten Stand seit elf Jahren",
+      "title": "René Benko : Treuhänder soll Immobiliengeschäft von Signa abwickeln",
+      "teaser": "Die Gläubiger der Signa-Gruppe haben etwa 12,8 Milliarden Euro Forderungen angemeldet. Einem neuen Plan zufolge soll nun ein Treuhänder alle Vermögenswerte verkaufen.",
+      "url": "https://www.zeit.de/wirtschaft/2024-03/signa-insolvenz-ren-benko-treuhaender-verkauf-immobilien",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-03/signa-rene-benko-sanierungsplan/wide__980x551"
+    },
+    {
+      "title": "Wohnungsbau : Bau-Verband sieht \"schwächsten Jahresstart seit elf Jahren\"",
       "teaser": "Wer jetzt kein Haus hat, baut sich auch erst mal keins: Der Rückgang bei neu genehmigten Wohnungen hält an. Teure Materialien und Finanzierung schrecken Investoren ab.",
       "url": "https://www.zeit.de/wirtschaft/2024-03/wohnungsbau-baugenehmigung-rueckgang-kosten-investoren",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-03/wohnungsbau-baugenehmigung-rueckgang-kosten-investoren-bild/wide__980x551"
+      "image_url": "https://img.zeit.de/wirtschaft/2024-03/wohnungsbau-baugenehmigung-rueckgang-kosten-investoren-bild/super__980x653"
     },
     {
       "title": "Teuerung : Inflationsrate in der Eurozone erneut gesunken",
@@ -47,13 +53,13 @@
       "title": "Bauernproteste : Polnische Landwirte blockieren zwei Grenzübergänge nach Deutschland",
       "teaser": "Zwei Grenzübergänge nach Polen sind bis Mitte der Woche dicht. Grund dafür sind Proteste polnischer Landwirte. Sie richten sich gegen die Agrarpolitik der EU.",
       "url": "https://www.zeit.de/wirtschaft/2024-03/polen-bauernprotest-grenze-eu-agrarpolitik",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-03/polnische-landwirte-blockieren-grenze-bild/super__980x653"
+      "image_url": "https://img.zeit.de/wirtschaft/2024-03/polnische-landwirte-blockieren-grenze-bild/wide__980x551"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Emissionshandel in Europa : CO₂ zum Schnäppchenpreis",
       "teaser": "Binnen eines Jahres ist der CO₂-Preis in der EU um die Hälfte gefallen. Dabei sollte er doch steigen. Funktioniert der Handel mit dem Klima-Killer?",
       "url": "https://www.zeit.de/2024/12/emissionshandel-europa-co2-preis-klimapolitik",
-      "image_url": "https://img.zeit.de/2024/12/emissionshandel-europa-co2-preis-klimapolitik-bild/wide__980x551"
+      "image_url": "https://img.zeit.de/2024/12/emissionshandel-europa-co2-preis-klimapolitik-bild/super__980x653"
     },
     {
       "title": "Tim Cook : Apple soll nach Cook-Äußerungen zu China Millionenstrafe zahlen",
@@ -66,12 +72,6 @@
       "teaser": "Die Bundesregierung will Cannabis teilweise legalisieren, doch es hakt. Für Firmen wie Demecan, die medizinisches Cannabis produzieren, wäre das ein gutes Geschäft.",
       "url": "https://www.zeit.de/wirtschaft/2024-03/cannabis-legalisierung-podcast-wirtschaft-demecan",
       "image_url": "https://img.zeit.de/wirtschaft/2024-03/cannabis-legalisierung-podcast-wirtschaft-demecan-1/super__980x653"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Dollar-Stores : Das Problem mit den Billigketten",
-      "teaser": "Lange profitierten große US-Discounter von Wirtschaftskrisen. Nun herrscht bei zwei Anbietern selbst Flaute. Politiker stört das nicht – obwohl viele Jobs in Gefahr sind.",
-      "url": "https://www.zeit.de/wirtschaft/2024-03/usa-stores",
-      "image_url": "https://img.zeit.de/2024-03/fuenf-vor-acht-1-dollar-stores-bild/super__980x653"
     },
     {
       "title": "Sylt : Kreis Nordfriesland geht gegen illegale Ferienwohnungen auf Sylt vor",
@@ -148,6 +148,12 @@
       "image_url": "https://img.zeit.de/wirtschaft/2021-06/money-matters-bild/square__980x980"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Dollar-Stores : Das Problem mit den Billigketten",
+      "teaser": "Lange profitierten große US-Discounter von Wirtschaftskrisen. Nun herrscht bei zwei Anbietern selbst Flaute. Politiker stört das nicht – obwohl viele Jobs in Gefahr sind.",
+      "url": "https://www.zeit.de/wirtschaft/2024-03/usa-stores",
+      "image_url": "https://img.zeit.de/2024-03/fuenf-vor-acht-1-dollar-stores-bild/super__980x653"
+    },
+    {
       "title": "Bauernproteste : Polnische Bauern blockieren Grenzübergang nach Deutschland",
       "teaser": "Weil ihnen EU-Umweltauflagen zu streng sind, haben polnische Bauern erneut eine Autobahn Richtung Deutschland blockiert. Die Aktion soll noch bis Mittwoch dauern.",
       "url": "https://www.zeit.de/wirtschaft/2024-03/bauernproteste-autobahnblockade-deutsch-polnische-grenze",
@@ -169,13 +175,13 @@
       "title": "Piraten : Indische Marine befreit Frachtschiff im Arabischen Meer",
       "teaser": "Somalische Piraten hatten die \"MV Ruen\" Ende Dezember gekapert. Jetzt haben sie sich einem indischen Kriegsschiff ergeben, die Crewmitglieder sind unverletzt.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-03/indien-marine-frachtschiff-piraten-somalia-befreit",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-03/indien-marine-frachtschiff-piraten-somalia-befreit-bild/super__980x653"
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-03/indien-marine-frachtschiff-piraten-somalia-befreit-bild/wide__980x551"
     },
     {
       "title": "Sylt : Kreis Nordfriesland geht gegen illegale Ferienwohnungen auf Sylt vor",
       "teaser": "2023 hat die Bauaufsicht bereits 50 Ferienwohnungen auf Sylt stillgelegt. Der Baurat moniert zudem Verstöße – etwa fehlende Fluchtwege und mangelnder Brandschutz.",
       "url": "https://www.zeit.de/wirtschaft/2024-03/sylt-illegale-ferienwohnungen-baurat-wirtschaft",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-03/ferienwohnungen-sylt-illegal-ermittlungen-bild/wide__980x551"
+      "image_url": "https://img.zeit.de/wirtschaft/2024-03/ferienwohnungen-sylt-illegal-ermittlungen-bild/super__980x653"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Bürgergeld : Ein bestrafender Sozialstaat schadet sich selbst",
@@ -183,12 +189,6 @@
       "url": "https://www.zeit.de/wirtschaft/2024-03/buergergeld-cdu-reform-grundsicherung-sanktionen",
       "image_url": "https://img.zeit.de/politik/deutschland/2024-03/buergergeld-cdu-reform-grundsicherung-sanktionen-bild/super__980x653",
       "image_title": "Vor allem Frauen sind von Altersarmut betroffen; viele verzichten aber auf die Inanspruchnahme der Grundsicherung im Alter und gehen zum Beispiel lieber Pfandflaschen sammeln."
-    },
-    {
-      "title": "Betriebsratswahl bei Tesla : IG Metall fordert einen Tarifvertrag bei Tesla",
-      "teaser": "Während Protesten und Produktionschaos: Die Beschäftigten bei Tesla in Grünheide wählen einen neuen Betriebsrat. Die IG Metall stellt weitreichende Forderungen.",
-      "url": "https://www.zeit.de/wirtschaft/2024-03/tesla-wahl-betriebsrat-igmetall-gruenheide",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-03/tesla-wahl-betriebsrat-igmetall-gruenheide-2/super__980x653"
     },
     {
       "title": "Luftfahrt : Weitere Boeing verliert Rumpfteil im Flug",
@@ -242,7 +242,9 @@
     {
       "title": "A Job Abroad #32 | Brasilien : „Besonders in São Paulo sind sehr viele reiche Menschen mit Helikoptern unterwegs“",
       "teaser": "Valeri Beinik arbeitet für den Technologiekonzern Körber in São Paulo. Er erzählt, welche Regeln er in Brasilien beachten muss, wie er das Land mit Kindern erlebt und was ihn im Berufsleben überrascht hat.",
-      "url": "https://www.wiwo.de/my/erfolg/beruf/a-job-abroad-32-brasilien-besonders-in-so-paulo-sind-sehr-viele-reiche-menschen-mit-helikoptern-unterwegs/29709142.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett"
+      "url": "https://www.wiwo.de/my/erfolg/beruf/a-job-abroad-32-brasilien-besonders-in-so-paulo-sind-sehr-viele-reiche-menschen-mit-helikoptern-unterwegs/29709142.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/valeri-beinik-expat-in-brasilien/29709224/2-format10640.png%253Fformat%253Dformat10640/super__980x653",
+      "image_title": "„Besonders in São Paulo sind sehr viele reiche Menschen mit Helikoptern unterwegs“"
     }
   ]
 }
