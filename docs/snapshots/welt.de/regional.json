@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-18T11:01:17",
+  "timestamp": "2024-03-18T12:09:42",
   "url": "https://www.welt.de/regionales/",
   "response": {
     "status": 200
@@ -26,6 +26,28 @@
   ],
   "articles": [
     {
+      "title": "Kind des Olymp",
+      "teaser": "In der Neuen Flora wird Disneys „Hercules“ auf Deutsch zum Musical – eine Weltpremiere. Die Vorbereitungen auf und hinter der Bühne laufen vor der Gala am kommenden Sonntag auf Hochtouren.",
+      "url": "https://www.welt.de/regionales/hamburg/",
+      "image_url": "https://img.welt.de/img/bildergalerien/mobile250599966/9707930517-ci23x11-w20/Vorstellung-Disneys-HERCULES-Musical.jpg",
+      "image_title": "Mae Ann Jorolan als Megara und Benét Montero als Hercules",
+      "author": "Stefan Grund"
+    },
+    {
+      "title": "Zahl der Gewalttaten an Berliner Schulen deutlich gestiegen",
+      "teaser": "In den Jahren 2021 und 2022 verzeichnete die Berliner Polizei eine hohe Zahl sogenannter Rohheitsdelikte an Schulen. Meistens handelte es sich bei den Delikten um vorsätzliche einfache Körperverletzungen. Für das vergangene Jahr zeichnet sich bereits eine deutliche Steigerung ab.",
+      "url": "https://www.welt.de/politik/deutschland/",
+      "image_url": "https://img.welt.de/img/politik/deutschland/mobile250621450/7507936867-ci23x11-w20/Alarm-an-Schule-in-Berlin.jpg",
+      "image_title": "Polizeieinsatz in Berliner Schule (Archivbild)"
+    },
+    {
+      "title": "Zahl der Übergriffe an Schulen in Hamburg deutlich gestiegen",
+      "teaser": "Gefährliche Körperverletzung, Raub und Erpressung, Sexualdelikte – insgesamt ist die Zahl der Gewalttaten an Hamburgs Schulen weiter niedrig. Im Vergleich zu Vorjahren ist sie jedoch deutlich gestiegen. Die Schulbehörde glaubt, den Grund zu kennen.",
+      "url": "https://www.welt.de/regionales/hamburg/",
+      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile250627483/1487932297-ci23x11-w20/Gewalt-auf-dem-Schulhof-Violence-in-the-schoolyard.jpg",
+      "image_title": "Gewalt auf dem Schulhof"
+    },
+    {
       "title": "Fahrrad und E-Roller auf Gleise geworfen – S-Bahn muss evakuiert werden",
       "teaser": "Ein Fahrrad und zwei E-Roller auf den Gleisen der Hamburger S-Bahn sorgen am Sonntagabend für Beeinträchtigungen. Außerdem muss ein Zug evakuiert werden. Es ist nicht der erste Fall dieser Art in der Hansestadt. Sind es gefährliche Jugendstreiche?",
       "url": "https://www.welt.de/regionales/hamburg/",
@@ -38,28 +60,6 @@
       "url": "https://www.welt.de/vermischtes/",
       "image_url": "https://img.welt.de/img/vermischtes/mobile250624412/0737930247-ci23x11-w20/Illegales-Autorennen-Symbolbild.jpg",
       "image_title": "Illegales Autorennen (Symbolbild)"
-    },
-    {
-      "title": "„Elitäre Hamburgensie“ – Verkürzung der März-Ferien?",
-      "teaser": "Eine „elitäre Hamburgensie“ nennen die Linken die Hamburger Märzferien, denn sie seien nur für Familien attraktiv, die sich Ski- oder Fernreisen leisten können. Auch im grünen Teil des Senats gibt es offenbar Sympathien die Schulferienregelung zu ändern.",
-      "url": "https://www.welt.de/regionales/hamburg/",
-      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile250624158/1357934657-ci23x11-w20/Winterurlaub-in-den-Alpen.jpg",
-      "image_title": "Winterurlaub in den Alpen"
-    },
-    {
-      "title": "„Falls jemand anfängt, die Bäume zu fällen, müssen wir was unternehmen“",
-      "teaser": "In Berlin-Pankow soll ein Asylheim in einem Innenhof entstehen. Anwohner wehren sich, sie fürchten um Bäume und Grünflächen. Und sie rügen eine Instrumentalisierung von Migranten durch den Senat, um Wohnraum zu schaffen. Ein Besuch bei Menschen, die sich übergangen fühlen.",
-      "url": "https://www.welt.de/politik/deutschland/plus250510714/Asylheim-in-Pankow-Falls-jemand-anfaengt-die-Baeume-zu-faellen-muessen-wir-was-unternehmen.html",
-      "image_url": "https://img.welt.de/img/politik/deutschland/mobile250518282/8357936207-ci23x11-w20/Kombo-Pankow-neu.jpg",
-      "image_title": "Gegen das Asylheim, nicht gegen Migranten: Stefan Gelbhaar (Grüne), Jürgen Roth, Miriam Lück",
-      "author": "Nicolas Walter"
-    },
-    {
-      "title": "Zahl der Gewalttaten an Berliner Schulen deutlich gestiegen",
-      "teaser": "In den Jahren 2021 und 2022 verzeichnete die Berliner Polizei eine hohe Zahl sogenannter Rohheitsdelikte an Schulen. Meistens handelte es sich bei den Delikaten um vorsätzliche einfache Körperverletzungen. Für das vergangene Jahr zeichnet sich bereits eine deutliche Steigerung ab.",
-      "url": "https://www.welt.de/politik/deutschland/",
-      "image_url": "https://img.welt.de/img/politik/deutschland/mobile250621450/7507936867-ci23x11-w20/Alarm-an-Schule-in-Berlin.jpg",
-      "image_title": "Polizeieinsatz in Berliner Schule (Archivbild)"
     },
     {
       "title": "Lieferando-Gutschein",
@@ -82,10 +82,17 @@
       "url": "https://www.welt.de/deals/"
     },
     {
+      "title": "„Elitäre Hamburgensie“ – Verkürzung der Märzferien?",
+      "teaser": "Eine „elitäre Hamburgensie“ nennen die Linken die Hamburger Märzferien, denn sie seien nur für Familien attraktiv, die sich Ski- oder Fernreisen leisten können. Auch im grünen Teil des Senats gibt es offenbar Sympathien die Schulferienregelung zu ändern.",
+      "url": "https://www.welt.de/regionales/hamburg/",
+      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile250624158/1357934657-ci16x9-w20/Winterurlaub-in-den-Alpen.jpg",
+      "image_title": "Winterurlaub in den Alpen"
+    },
+    {
       "title": "„Es ist es wert, sich für Deutschland einzusetzen“",
       "teaser": "Seit dem russischen Angriffskrieg auf die Ukraine verzeichnet das Landeskommando Hamburg der Bundeswehr einen enormen Zulauf an Reservisten. Selbst einst Ungediente wollen sich jetzt engagieren und „Deutschland schützen“. Ein Besuch bei der Truppe.",
       "url": "https://www.welt.de/regionales/hamburg/",
-      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile250575720/4097937787-ci16x9-w20/HEIMATSCHUTZKOMPANIE-HAMBURG.jpg",
+      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile250575720/4097937787-ci23x11-w20/HEIMATSCHUTZKOMPANIE-HAMBURG.jpg",
       "image_title": "Die Reservisten der Heimatschutzkompanie Hamburg proben den Ernstfall auf der Standortschießanlage in Heist",
       "author": "Jana Werner"
     },
@@ -120,18 +127,17 @@
       "image_title": "Ein Geflüchteter hält eine Debitcard in der Hand – 357 davon wurden bisher in Hamburg ausgegeben"
     },
     {
-      "title": "„Die Bundeswehr braucht und verdient die Aufmerksamkeit, die sie jetzt bekommt“",
-      "teaser": "Anlässlich der Eröffnung einer Ausstellung zur Geschichte der Bundeswehr in Hamburg findet Innensenator Andy Grote deutliche Worte zum Stellenwert der Streitkräfte in Deutschland. Die Hansestadt war einst die zweitgrößte Garnisonsstadt der Bundesrepublik.",
-      "url": "https://www.welt.de/regionales/hamburg/",
-      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile250590548/8267931437-ci23x11-w20/Ausstellung-Bundeswehr-Hamburg.jpg",
-      "image_title": "Ausstellung Bundeswehr Hamburg",
-      "author": "Julia Witte genannt Vedder"
+      "title": "„Falls jemand anfängt, die Bäume zu fällen, müssen wir was unternehmen“",
+      "teaser": "In Berlin-Pankow soll ein Asylheim in einem Innenhof entstehen. Anwohner wehren sich, sie fürchten um Bäume und Grünflächen. Und sie rügen eine Instrumentalisierung von Migranten durch den Senat, um Wohnraum zu schaffen. Ein Besuch bei Menschen, die sich übergangen fühlen.",
+      "url": "https://www.welt.de/politik/deutschland/plus250510714/Asylheim-in-Pankow-Falls-jemand-anfaengt-die-Baeume-zu-faellen-muessen-wir-was-unternehmen.html",
+      "image_url": "https://img.welt.de/img/politik/deutschland/mobile250518282/8357936207-ci16x9-w20/Kombo-Pankow-neu.jpg",
+      "image_title": "Gegen das Asylheim, nicht gegen Migranten: Stefan Gelbhaar (Grüne), Jürgen Roth, Miriam Lück",
+      "author": "Nicolas Walter"
     },
     {
       "title": "Protest gegen Tesla – Aktivisten rechnen mit steigenden Teilnehmerzahlen",
-      "teaser": "Bis Montag müssen die Aktivisten, die in der Nähe des Tesla Werks in Grünheide campieren, ihre Baumhäuser abbauen. Doch die Initiative „Tesla stoppen“ kündigte an, den Auflagen nicht nachkommen und alle juristischen Mittel ausschöpfen zu wollen.",
-      "url": "https://www.welt.de/wirtschaft/",
-      "image_url": "https://img.welt.de/img/bildergalerien/mobile250605110/8817938127-ci16x9-w20/Waldbesetzung-bei-Tesla-Werk-in-Gruenheide.jpg",
+      "url": "https://www.welt.de/wirtschaft/article250605140/Tesla-Aktivisten-wollen-Baumhaus-Camp-in-Gruenheide-nicht-raeumen-und-sich-juristisch-wehren.html",
+      "image_url": "https://img.welt.de/img/bildergalerien/mobile250605110/8817938127-ci102l-w20/Waldbesetzung-bei-Tesla-Werk-in-Gruenheide.jpg",
       "image_title": "Das Camp der Initiative „Tesla stoppen“ in einem Kiefernwald nahe der Tesla-Gigafactory Berlin-Brandenburg"
     },
     {
@@ -153,13 +159,6 @@
       "url": "https://www.welt.de/wirtschaft/article250523848/Tesla-Werk-Stromversorgung-ist-wieder-angelaufen-Produktion-erst-nach-und-nach.html",
       "image_url": "https://img.welt.de/img/wirtschaft/mobile250523874/8467935727-ci102l-w20/FILE-PHOTO-Tesla-s-Gigafactory-halts-its-production-after-a-susp.jpg",
       "image_title": "Das Tesla-Werk in Grünheide"
-    },
-    {
-      "title": "Rekonstruktion eines schrecklichen Unfalls",
-      "url": "https://www.welt.de/vermischtes/article250519952/Unfall-in-Berlin-Mutter-und-Kind-getoetet-Rekonstruktion-eines-schrecklichen-Ungluecks.html",
-      "image_url": "https://img.welt.de/img/vermischtes/mobile250521846/2797932707-ci102l-w20/Mahnwache-nach-schwerem-Verkehrsunfall-in-Berlin-5.jpg",
-      "image_title": "Weiße Silhouetten erinnern an die Opfer des tödlichen Verkehrsunfalls auf der Leipziger Straße in Berlin",
-      "author": "Leonhard Landes"
     },
     {
       "title": "Hoffen auf die Trendwende",
@@ -408,12 +407,112 @@
       "image_title": "Polizei im Einsatz (Symbolbild)"
     },
     {
+      "title": "Kind des Olymp",
+      "url": "https://www.welt.de/regionales/hamburg/article250601044/Urauffuehrung-Kind-des-Olymp.html"
+    },
+    {
+      "title": "Zahl der Gewalttaten an Berliner Schulen deutlich gestiegen",
+      "url": "https://www.welt.de/politik/deutschland/article250621444/Berlin-Zahl-der-Gewalttaten-an-Schulen-deutlich-gestiegen.html"
+    },
+    {
+      "title": "Bund Naturschutz ruft zum Hummeln zählen auf",
+      "url": "https://www.welt.de/regionales/bayern/article250629197/Bund-Naturschutz-ruft-zum-Hummeln-zaehlen-auf.html"
+    },
+    {
+      "title": "Schule in Borna nach Drohung evakuiert",
+      "url": "https://www.welt.de/regionales/sachsen/article250629025/Schule-in-Borna-nach-Drohung-evakuiert.html"
+    },
+    {
+      "title": "Sechs Verletze nach Brand in Papierfabrik in Rosengarten",
+      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article250629089/Sechs-Verletze-nach-Brand-in-Papierfabrik-in-Rosengarten.html"
+    },
+    {
+      "title": "«Zäsur für den Verein»: Petersens Würdigung für Streich",
+      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article250628921/Zaesur-fuer-den-Verein-Petersens-Wuerdigung-fuer-Streich.html"
+    },
+    {
+      "title": "Bürgermeister entlang der Gäubahn fürchten Abkopplung",
+      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article250628867/Buergermeister-entlang-der-Gaeubahn-fuerchten-Abkopplung.html"
+    },
+    {
+      "title": "«Hat alles gegeben»: Ex-Präsident Keller dankt Streich",
+      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article250628705/Hat-alles-gegeben-Ex-Praesident-Keller-dankt-Streich.html"
+    },
+    {
+      "title": "Unfall mit Schulbus endet für Kinder glimpflich",
+      "url": "https://www.welt.de/regionales/bayern/article250628537/Unfall-mit-Schulbus-endet-fuer-Kinder-glimpflich.html"
+    },
+    {
+      "title": "DFB-Debütant Mittelstädt traut sich Startelf zu",
+      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article250628497/DFB-Debuetant-Mittelstaedt-traut-sich-Startelf-zu.html"
+    },
+    {
+      "title": "Demo vor Schulamt nach Lehrer-Angriff auf zwei Schüler",
+      "url": "https://www.welt.de/regionales/berlin/article250628489/Demo-vor-Schulamt-nach-Lehrer-Angriff-auf-zwei-Schueler.html"
+    },
+    {
+      "title": "Serie von Angriffen auf Bahnhöfen: BGH hebt Strafe auf",
+      "url": "https://www.welt.de/regionales/hamburg/article250628323/Serie-von-Angriffen-auf-Bahnhoefen-BGH-hebt-Strafe-auf.html"
+    },
+    {
+      "title": "Anweisung zum Löschen im Ministerium?",
+      "url": "https://www.welt.de/regionales/sachsen-anhalt/article250628277/Anweisung-zum-Loeschen-im-Ministerium.html"
+    },
+    {
+      "title": "Teile der Hochstraße werden nach Brand von Müllberg geprüft",
+      "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article250628255/Teile-der-Hochstrasse-werden-nach-Brand-von-Muellberg-geprueft.html"
+    },
+    {
+      "title": "Kröten, Unken, Frösche: Nabu appelliert zu Rücksicht",
+      "url": "https://www.welt.de/regionales/thueringen/article250628243/Kroeten-Unken-Froesche-Nabu-appelliert-zu-Ruecksicht.html"
+    },
+    {
+      "title": "Zahl der Übergriffe an Schulen in Hamburg deutlich gestiegen",
+      "url": "https://www.welt.de/regionales/hamburg/article250627081/Kinder-und-Jugendgewalt-Zahl-der-Uebergriffe-an-Schulen-in-Hamburg-deutlich-gestiegen.html"
+    },
+    {
+      "title": "Ehemann von vermisster Frau tot in Wohnung gefunden",
+      "url": "https://www.welt.de/regionales/bayern/article250628137/Ehemann-von-vermisster-Frau-tot-in-Wohnung-gefunden.html"
+    },
+    {
+      "title": "Verein: Drastischer Anstieg rechter Gewalttaten",
+      "url": "https://www.welt.de/regionales/berlin/article250627929/Verein-Drastischer-Anstieg-rechter-Gewalttaten.html"
+    },
+    {
+      "title": "Beifahrerin stirbt bei Verkehrsunfall im Kreis Osnabrück",
+      "url": "https://www.welt.de/regionales/niedersachsen/article250627889/Beifahrerin-stirbt-bei-Verkehrsunfall-im-Kreis-Osnabrueck.html"
+    },
+    {
+      "title": "A42 bekommt am Rhein-Herne-Kanal zweite Schrankenanlage",
+      "url": "https://www.welt.de/regionales/nrw/article250627879/A42-bekommt-am-Rhein-Herne-Kanal-zweite-Schrankenanlage.html"
+    },
+    {
+      "title": "Einsturzgefahr bei Brand in einer Lagerhalle",
+      "url": "https://www.welt.de/regionales/berlin/article250627539/Einsturzgefahr-bei-Brand-in-einer-Lagerhalle.html"
+    },
+    {
+      "title": "Deutlich mehr Unternehmen in Hessen meldeten Insolvenz an",
+      "url": "https://www.welt.de/regionales/hessen/article250627523/Deutlich-mehr-Unternehmen-in-Hessen-meldeten-Insolvenz-an.html"
+    },
+    {
+      "title": "Waldfläche in Sachsen-Anhalt wächst weiter",
+      "url": "https://www.welt.de/regionales/sachsen-anhalt/article250627325/Waldflaeche-in-Sachsen-Anhalt-waechst-weiter.html"
+    },
+    {
+      "title": "Drohne spürt flüchtigen Unfallfahrer auf",
+      "url": "https://www.welt.de/regionales/niedersachsen/article250627227/Drohne-spuert-fluechtigen-Unfallfahrer-auf.html"
+    },
+    {
+      "title": "Wirtz-Vater über Opa-Verwechslung: «Haben herzlich gelacht»",
+      "url": "https://www.welt.de/regionales/nrw/article250627203/Wirtz-Vater-ueber-Opa-Verwechslung-Haben-herzlich-gelacht.html"
+    },
+    {
       "title": "Fahrrad und E-Roller auf Gleise geworfen – S-Bahn muss evakuiert werden",
       "url": "https://www.welt.de/regionales/hamburg/article250624610/Unfall-Fahrrad-und-E-Roller-auf-Gleise-geworfen-S-Bahn-muss-evakuiert-werden.html"
     },
     {
-      "title": "Torhüter Baumann dankt Streich: Hat mich groß gemacht",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article250626879/Torhueter-Baumann-dankt-Streich-Hat-mich-gross-gemacht.html"
+      "title": "Baumann und Koch danken Streich: Riesenverlust",
+      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article250626879/Baumann-und-Koch-danken-Streich-Riesenverlust.html"
     },
     {
       "title": "Betriebsratswahl bei Tesla angelaufen",
@@ -444,108 +543,16 @@
       "url": "https://www.welt.de/regionales/sachsen-anhalt/article250626681/55-Lehrer-im-Seiteneinstieg-bekommen-Abschlusszertifikate.html"
     },
     {
-      "title": "Streit über Verkehr wird handgreiflich: Ein Verletzter",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article250626643/Streit-ueber-Verkehr-wird-handgreiflich-Ein-Verletzter.html"
-    },
-    {
-      "title": "Abschiebehäftling flüchtet nach Behandlung",
-      "url": "https://www.welt.de/regionales/sachsen/article250626451/Abschiebehaeftling-fluechtet-nach-Behandlung.html"
-    },
-    {
-      "title": "Daimler-Buses-Chef: «Die Krise ist jetzt vorbei»",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article250626409/Daimler-Buses-Chef-Die-Krise-ist-jetzt-vorbei.html"
-    },
-    {
       "title": "Zwei Männer liefern sich Autorennen auf der Stadtautobahn",
       "url": "https://www.welt.de/vermischtes/article250624358/Berlin-Zwei-Maenner-liefern-sich-Autorennen-auf-der-Stadtautobahn.html"
     },
     {
-      "title": "Geständnis im Prozess um tödlichen Raserunfall in München",
-      "url": "https://www.welt.de/regionales/bayern/article250626205/Gestaendnis-im-Prozess-um-toedlichen-Raserunfall-in-Muenchen.html"
-    },
-    {
-      "title": "Industrieumsatz in Thüringen deutlich gesunken",
-      "url": "https://www.welt.de/regionales/thueringen/article250626041/Industrieumsatz-in-Thueringen-deutlich-gesunken.html"
-    },
-    {
-      "title": "Literaturpreis Mecklenburg-Vorpommern ausgeschrieben",
-      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article250626037/Literaturpreis-Mecklenburg-Vorpommern-ausgeschrieben.html"
-    },
-    {
-      "title": "Dua Lipa kündigt Tour an: Auftakt in Berlin",
-      "url": "https://www.welt.de/regionales/berlin/article250626025/Dua-Lipa-kuendigt-Tour-an-Auftakt-in-Berlin.html"
-    },
-    {
-      "title": "Autotransporter von Straße abgekommen: Bergung mit Kran",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article250625957/Autotransporter-von-Strasse-abgekommen-Bergung-mit-Kran.html"
-    },
-    {
-      "title": "Brandbrief zu Entziehungsanstalt: Ministerium will Gespräch",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article250625927/Brandbrief-zu-Entziehungsanstalt-Ministerium-will-Gespraech.html"
-    },
-    {
-      "title": "Bauernprotest in Polen: Verkehrsbehinderungen an der Grenze",
-      "url": "https://www.welt.de/regionales/berlin/article250625983/Bauernprotest-in-Polen-Verkehrsbehinderungen-an-der-Grenze.html"
-    },
-    {
-      "title": "Ministerin: Fachkräftemangel in Kitas noch auf Jahre hinaus",
-      "url": "https://www.welt.de/regionales/niedersachsen/article250625644/Ministerin-Fachkraeftemangel-in-Kitas-noch-auf-Jahre-hinaus.html"
-    },
-    {
-      "title": "Raser-Prozess verzögert sich nach Antrag der Verteidiger",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article250625446/Raser-Prozess-verzoegert-sich-nach-Antrag-der-Verteidiger.html"
-    },
-    {
-      "title": "Alkohol bleibt drängendstes Problem in Suchtberatungsstellen",
-      "url": "https://www.welt.de/regionales/sachsen/article250625228/Alkohol-bleibt-draengendstes-Problem-in-Suchtberatungsstellen.html"
-    },
-    {
-      "title": "Das Küssen soll sie gestört haben: Frau geht Paar in Zug an",
-      "url": "https://www.welt.de/regionales/bayern/article250625066/Das-Kuessen-soll-sie-gestoert-haben-Frau-geht-Paar-in-Zug-an.html"
-    },
-    {
-      "title": "Förderinstitut WIBank mit gesunkenem Fördervolumen",
-      "url": "https://www.welt.de/regionales/hessen/article250625010/Foerderinstitut-WIBank-mit-gesunkenem-Foerdervolumen.html"
-    },
-    {
-      "title": "Männer liefern sich Autorennen auf derb Stadtautobahn",
-      "url": "https://www.welt.de/regionales/berlin/article250625064/Maenner-liefern-sich-Autorennen-auf-derb-Stadtautobahn.html"
-    },
-    {
-      "title": "Woth übernimmt als Trainer bei DHB-Pokalsieger Metzingen",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article250624814/Woth-uebernimmt-als-Trainer-bei-DHB-Pokalsieger-Metzingen.html"
-    },
-    {
-      "title": "Feuer in Flüchtlingsunterkunft brach in Schlafabteil aus",
-      "url": "https://www.welt.de/regionales/berlin/article250624976/Feuer-in-Fluechtlingsunterkunft-brach-in-Schlafabteil-aus.html"
-    },
-    {
-      "title": "Wirtschaftsförderung Sachsen verbucht 2023 als Erfolgsjahr",
-      "url": "https://www.welt.de/regionales/sachsen/article250624802/Wirtschaftsfoerderung-Sachsen-verbucht-2023-als-Erfolgsjahr.html"
-    },
-    {
-      "title": "Besucher-Plus für Schlösser und Gärten: Fokus auf Maulbronn",
-      "url": "https://www.welt.de/regionales/bayern/article250624720/Besucher-Plus-fuer-Schloesser-und-Gaerten-Fokus-auf-Maulbronn.html"
-    },
-    {
-      "title": "53-Jähriger bei Kellerbrand in Zwönitz schwer verletzt",
-      "url": "https://www.welt.de/regionales/sachsen/article250624614/53-Jaehriger-bei-Kellerbrand-in-Zwoenitz-schwer-verletzt.html"
-    },
-    {
-      "title": "„Elitäre Hamburgensie“ – Verkürzung der März-Ferien?",
+      "title": "„Elitäre Hamburgensie“ – Verkürzung der Märzferien?",
       "url": "https://www.welt.de/regionales/hamburg/article250623486/Schule-Elitaere-Hamburgensie-Verkuerzung-der-Maerz-Ferien.html"
-    },
-    {
-      "title": "Bundeswehrübung im Norden Sachsen-Anhalts begonnen",
-      "url": "https://www.welt.de/regionales/sachsen-anhalt/article250624342/Bundeswehruebung-im-Norden-Sachsen-Anhalts-begonnen.html"
     },
     {
       "title": "„Falls jemand anfängt, die Bäume zu fällen, müssen wir was unternehmen“",
       "url": "https://www.welt.de/politik/deutschland/plus250510714/Asylheim-in-Pankow-Falls-jemand-anfaengt-die-Baeume-zu-faellen-muessen-wir-was-unternehmen.html"
-    },
-    {
-      "title": "Zahl der Gewalttaten an Berliner Schulen deutlich gestiegen",
-      "url": "https://www.welt.de/politik/deutschland/article250621444/Berlin-Zahl-der-Gewalttaten-an-Schulen-deutlich-gestiegen.html"
     },
     {
       "title": "„Es ist es wert, sich für Deutschland einzusetzen“",
@@ -638,14 +645,6 @@
     {
       "title": "„Der Bund hat entscheidende Hebel in der Hand, um das Bauen zu erleichtern“",
       "url": "https://www.welt.de/regionales/hamburg/article250566396/Teurer-Wohnungsbau-Der-Bund-hat-entscheidende-Hebel-in-der-Hand-um-das-Bauen-zu-erleichtern.html"
-    },
-    {
-      "title": "„Braune Sümpfe trockenlegen“ – SPD will Landtagsmitarbeiter durchleuchten lassen",
-      "url": "https://www.welt.de/politik/deutschland/article250565640/Rheinland-Pfalz-SPD-will-Landtagsmitarbeiter-durchleuchten-lassen.html"
-    },
-    {
-      "title": "Wie können Preis-Auswüchse bei der Fernwärme gestoppt werden?",
-      "url": "https://www.welt.de/regionales/hamburg/article250567554/Hohe-Nachzahlungen-Wie-koennen-Preis-Auswuechse-bei-der-Fernwaerme-gestoppt-werden.html"
     }
   ]
 }
