@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-19T09:01:05",
+  "timestamp": "2024-03-19T10:01:04",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Spring Security",
+      "url": "https://www.heise.de/news/Spring-Security-Zugriffskontrollmechanismen-in-Java-Framework-kaputt-9658786.html"
+    },
+    {
       "title": "RaspberryMatic",
       "url": "https://www.heise.de/news/RaspberryMatic-Kritische-Luecke-erlaubt-Codeschmuggel-9658709.html"
     },
@@ -44,14 +48,10 @@
       "url": "https://www.heise.de/news/HP-verteilt-BIOS-Updates-gegen-Codeschmuggel-Luecke-9654678.html"
     },
     {
-      "title": "Cisco IOS XR",
-      "url": "https://www.heise.de/news/Cisco-schliesst-hochriskante-Luecken-in-IOS-XR-9654542.html"
-    },
-    {
-      "title": "Spring Security: Zugriffskontrollmechanismen in Java-Framework kaputt",
-      "teaser": "Die auf Sicherheitsmechanismen spezialisierte Unterbibliothek des Java-Entwicklungsframeworks kommt in manchen Fallen aus dem Tritt. Updates sind verfügbar.",
-      "url": "https://www.heise.de/news/Spring-Security-Zugriffskontrollmechanismen-in-Java-Framework-kaputt-9658786.html",
-      "image_title": "Update-Taste auf dem Keyboard"
+      "title": "iX-Workshop: Angriffe auf Entra ID abwehren",
+      "teaser": "Lernen Sie, wie Sie Entra ID (Azure Active Directory) einschließlich Azure-Diensten härten und effektiv vor Angriffen schützen. (Last Call)",
+      "url": "https://www.heise.de/news/iX-Workshop-Angriffe-auf-Entra-ID-abwehren-9652915.html",
+      "image_title": "iX-Workshop Entra ID (AAD) gegen Angriffe absichern"
     },
     {
       "title": "Phishing: Bank warnt vor dubiosen Anrufern",
@@ -64,11 +64,6 @@
       "teaser": "Ab Juli 2024 gelten in der EU für Neuwagen höhere Sicherheitsanforderungen gegen Cyberattacken. Auch deshalb werden Modelle aus dem Programm genommen.​",
       "url": "https://www.heise.de/news/Anforderungen-an-Cyber-Security-steigen-Pkw-Angebot-schrumpft-9658782.html",
       "image_title": "Renault Espace 2024"
-    },
-    {
-      "title": "RaspberryMatic: Kritische Lücke erlaubt Codeschmuggel",
-      "teaser": "Im freien HomeMatic-Server RaspberryMatic klafft eine Codeschmuggel-Lücke. Sie gilt als kritisch. Ein Update steht bereit.",
-      "url": "https://www.heise.de/news/RaspberryMatic-Kritische-Luecke-erlaubt-Codeschmuggel-9658709.html"
     },
     {
       "title": "Betrugsnachrichten: KI-Chatbot Scamio soll bei Betrugserkennung helfen",
@@ -91,6 +86,16 @@
       "teaser": "Mitten im Spiel tauchten Cheat-Menüs auf und Profispieler betrogen unfreiwillig. Die Spielergemeinschaft rätselt nun über das Einfallstor der Angriffe.",
       "url": "https://www.heise.de/news/Cheats-bei-Meisterschaftsspiel-Geruechte-um-Codeschmuggel-Luecke-in-Apex-Legends-9657626.html",
       "image_title": "Drei Spielercharaktere aus Apex Legends richten die Waffen auf die Kamera"
+    },
+    {
+      "title": "Microsoft: RSA-Schlüssellängen von 2048 Bit reichen für TLS-Zertifikate",
+      "teaser": "Microsoft betrachtet TLS-Zertifikate mit RSA-Schlüsseln mit weniger als 2048-Bit als ungültig. Jedoch nicht in allen Fällen.",
+      "url": "https://www.heise.de/news/Microsoft-RSA-Schluessellaengen-von-2048-Bit-reichen-fuer-TLS-Zertifikate-9657480.html"
+    },
+    {
+      "title": "Spring Framework: Updates beheben neue, alte Sicherheitslücke",
+      "teaser": "Nutzen Spring-basierte Anwendungen eine URL-Parsing-Funktion des Frameworks, öffnen sie sich für verschiedene Attacken. Nicht zum ersten Mal.",
+      "url": "https://www.heise.de/news/Spring-Framework-Updates-beheben-neue-alte-Sicherheitsluecke-9657496.html"
     },
     {
       "title": "Cybervorfall beim internationalen Währungsfonds und NHS",
@@ -158,12 +163,6 @@
       "image_title": "Ein Laptop mit einem Schutzschild auf dem Bildschirm"
     },
     {
-      "title": "Cardlink für Online-Apotheken: Gesundheitsministerium überstimmt Gematik-Partner",
-      "teaser": "Nur mit den Stimmen des Bundesgesundheitsministeriums beschließt die Gematik das Cardlink-Verfahren. Damit können Versicherte bei Online-Apotheke bestellen.",
-      "url": "https://www.heise.de/news/Cardlink-fuer-Online-Apotheken-Gesundheitsministerium-ueberstimmt-Gematik-Partner-9655392.html",
-      "image_title": "Frauenhand an Smartphone"
-    },
-    {
       "title": "Meta Quest: Hackangriff wie im Film \"Inception\" legt alle Daten offen",
       "teaser": "Sicherheitsforschern ist es gelungen, Metas Quest-VR-System zu knacken. Sie konnten sensible Informationen wie das Kamerabild abgreifen. Aber nicht nur das.",
       "url": "https://www.heise.de/hintergrund/Meta-Quest-Hackangriff-wie-bei-Inception-legt-alle-Daten-offen-9652154.html",
@@ -180,14 +179,14 @@
       "url": "https://www.heise.de/hintergrund/Marktplatz-fuer-Maulwuerfe-Wie-Insider-ihr-Wissen-im-Darknet-verkaufen-9639563.html"
     },
     {
+      "title": "Re: Früher war das ein Scherz, ...",
+      "teaser": "Forum: Viren & Würmer",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Viren-Wuermer/Re-Frueher-war-das-ein-Scherz/posting-43796877/show/"
+    },
+    {
       "title": "Re: Richtiges ventoy persistence file for desinfec't",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Richtiges-ventoy-persistence-file-for-desinfec-t/posting-43789947/show/"
-    },
-    {
-      "title": "Früher war das ein Scherz, ...",
-      "teaser": "Forum: Viren & Würmer",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Viren-Wuermer/Frueher-war-das-ein-Scherz/posting-43789319/show/"
     },
     {
       "title": "Re: Desinfect 2023/24: Update / Upgrade nicht möglich",
