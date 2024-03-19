@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-19T14:00:42",
+  "timestamp": "2024-03-19T15:01:07",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Firefox, Firefox ESR, Thunderbird",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-fuer-Firefox-und-Thunderbird-9659433.html"
+    },
+    {
       "title": "Spring Security",
       "url": "https://www.heise.de/news/Spring-Security-Zugriffskontrollmechanismen-in-Java-Framework-kaputt-9658786.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Spring-Framework-Updates-beheben-neue-alte-Sicherheitsluecke-9657496.html"
     },
     {
-      "title": "HP BIOS",
-      "url": "https://www.heise.de/news/HP-verteilt-BIOS-Updates-gegen-Codeschmuggel-Luecke-9654678.html"
+      "title": "Sicherheitsupdates für Firefox und Thunderbird",
+      "teaser": "Mozilla dichtet zahlreiche Sicherheitslücken im Webbrowser Firefox und Mailer Thunderbird ab.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-fuer-Firefox-und-Thunderbird-9659433.html",
+      "image_title": "Stilisierte Grafik: Brennendes Firefox-Logo auf einem Laptop"
+    },
+    {
+      "title": "Malware-Analyse mit Capa: Schadcode-Fähigkeiten schnell und einfach einschätzen",
+      "teaser": "Sie haben Malware entdeckt und wollen wissen, was diese im Schilde führt? Das kostenlose Tool Capa übernimmt die Analyse für Sie.",
+      "url": "https://www.heise.de/hintergrund/Malware-Analyse-mit-Capa-Schadcode-Faehigkeiten-schnell-und-einfach-einschaetzen-9645001.html",
+      "image_title": "Creative,Code,Skull,Hologram,On,Modern,Computer,Background,,Cybercrime,And"
     },
     {
       "title": "Tweaks-Malware nimmt Kinder und Jugendliche in Roblox ins Visier",
@@ -65,7 +77,7 @@
       "url": "https://www.heise.de/news/Pentagon-hat-bereits-50-000-Schwachstellenmeldungen-erhalten-9659004.html"
     },
     {
-      "title": "iX-Workshop: Angriffe auf Entra ID abwehren",
+      "title": "iX-Workshop: Entra ID (Azure Active Directory) gegen Angriffe absichern",
       "teaser": "Lernen Sie, wie Sie Entra ID (Azure Active Directory) einschließlich Azure-Diensten härten und effektiv vor Angriffen schützen. (Last Call)",
       "url": "https://www.heise.de/news/iX-Workshop-Angriffe-auf-Entra-ID-abwehren-9652915.html",
       "image_title": "iX-Workshop Entra ID (AAD) gegen Angriffe absichern"
@@ -150,32 +162,22 @@
       "image_title": "Guy,Student,Using,Laptop,,Artificial,Intelligence,For,Education."
     },
     {
-      "title": "Digitale Zertifikate: Online-Sperrung wird optional, Sperrlisten zur Pflicht",
-      "teaser": "Das Echtzeit-Protokoll OCSP hatte mit Zuverlässigkeitsproblemen und Datenschutzbedenken zu kämpfen. Ab heute müssen CAs ihre Sperrlisten besser pflegen.",
-      "url": "https://www.heise.de/news/Digitale-Zertifikate-Online-Sperrung-wird-optional-Sperrlisten-zur-Pflicht-9655904.html",
-      "image_title": "Schloss als Symbol für Zensur"
+      "title": "Malware-Analyse mit Capa: Schadcode-Fähigkeiten schnell und einfach einschätzen",
+      "teaser": "Sie haben Malware entdeckt und wollen wissen, was diese im Schilde führt? Das kostenlose Tool Capa übernimmt die Analyse für Sie.",
+      "url": "https://www.heise.de/hintergrund/Malware-Analyse-mit-Capa-Schadcode-Faehigkeiten-schnell-und-einfach-einschaetzen-9645001.html",
+      "image_title": "Creative,Code,Skull,Hologram,On,Modern,Computer,Background,,Cybercrime,And"
     },
     {
-      "title": "Zwei Backdoors in Ivanti-Appliances analysiert",
-      "teaser": "Security-Spezialisten haben auf Ivanti-Geräten zwei Backdoors entdeckt und analysiert, die sich gut verstecken und tief in die Netze eindringen.",
-      "url": "https://www.heise.de/news/Zwei-Backdoors-in-Invanti-Appliances-analysiert-9656137.html",
-      "image_title": "Symbolbild: Mann läuft durch Türschloss"
+      "title": "Malware-Analyse mit Capa: Schadcode-Fähigkeiten schnell und einfach einschätzen",
+      "teaser": "Sie haben Malware entdeckt und wollen wissen, was diese im Schilde führt? Das kostenlose Tool Capa übernimmt die Analyse für Sie.",
+      "url": "https://www.heise.de/hintergrund/Malware-Analyse-mit-Capa-Schadcode-Faehigkeiten-schnell-und-einfach-einschaetzen-9645001.html",
+      "image_title": "Creative,Code,Skull,Hologram,On,Modern,Computer,Background,,Cybercrime,And"
     },
     {
       "title": "Meta Quest: Hackangriff wie im Film \"Inception\" legt alle Daten offen",
       "teaser": "Sicherheitsforschern ist es gelungen, Metas Quest-VR-System zu knacken. Sie konnten sensible Informationen wie das Kamerabild abgreifen. Aber nicht nur das.",
       "url": "https://www.heise.de/hintergrund/Meta-Quest-Hackangriff-wie-bei-Inception-legt-alle-Daten-offen-9652154.html",
       "image_title": "Jakarta,,Indonesia,-,10,May,2022:,Oculus,Quest,2,Or"
-    },
-    {
-      "title": "Taurus, Webex und Huawei: Warum der Fatalismus der Regierung unerträglich ist​",
-      "teaser": "Statt sich nach dem Taurus-Skandal ernsthaft um die eigene IT-Sicherheit zu kümmern, sucht Deutschland die Schuldigen im Ausland, meint Dennis-Kenji Kipker.​",
-      "url": "https://www.heise.de/meinung/Taurus-Webex-und-Huawei-Warum-der-Fatalismus-der-Regierung-unertraeglich-ist-9651476.html"
-    },
-    {
-      "title": "Marktplatz für Maulwürfe – Wie Insider ihr Wissen im Darknet verkaufen",
-      "teaser": "Immer häufiger bieten Unternehmens-Insider ihre Dienste im Darknet an, Cyberkriminelle rekrutieren sie gezielt. Sicherheitsexperte Sergey Shykevich im Interview",
-      "url": "https://www.heise.de/hintergrund/Marktplatz-fuer-Maulwuerfe-Wie-Insider-ihr-Wissen-im-Darknet-verkaufen-9639563.html"
     },
     {
       "title": "Re: Früher war das ein Scherz, ...",
