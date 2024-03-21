@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-21T10:01:01",
+  "timestamp": "2024-03-21T11:00:47",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Ivanti Standalone Sentry, Neurons for ITSM",
+      "url": "https://www.heise.de/news/Attacken-auf-Ivanti-Standalone-Sentry-und-Neurons-moeglich-9661304.html"
+    },
+    {
       "title": "Atlassian Bamboo, Bitbucket, Confluence und Jira",
       "url": "https://www.heise.de/news/Atlassian-Patch-Reigen-im-Maerz-fuer-Bamboo-Bitbucket-Confluence-und-Jira-9660075.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-fuer-Firefox-und-Thunderbird-9659433.html"
     },
     {
-      "title": "Spring Security",
-      "url": "https://www.heise.de/news/Spring-Security-Zugriffskontrollmechanismen-in-Java-Framework-kaputt-9658786.html"
+      "title": "Attacken auf Ivanti Standalone Sentry und Neurons möglich",
+      "teaser": "Angreifer können an kritische Sicherheitslücken in Ivanti-Software ansetzen. Sicherheitsupdates sind verfügbar.",
+      "url": "https://www.heise.de/news/Attacken-auf-Ivanti-Standalone-Sentry-und-Neurons-moeglich-9661304.html",
+      "image_title": "Update"
     },
     {
       "title": "Microsoft: März-Updates können Windows Server lahmlegen",
@@ -54,7 +60,7 @@
       "image_title": "Verzweifeltes Monster sitzt auf Laptop, das Windows Update ausführt"
     },
     {
-      "title": "Mit KI gegen Schwachstellen im Sourcecode: GitHub startet Code Scanning Autofix",
+      "title": "KI fixt Schwachstellen automatisch: GitHub startet Code Scanning Autofix",
       "teaser": "Kunden von GitHub Advanced Security erhalten automatische Vorschläge zum Beheben von Schwachstellen. Grundlage sind Copilot und die Analyse-Engine CodeQL.",
       "url": "https://www.heise.de/news/Mit-KI-gegen-Schwachstellen-im-Sourcecode-GitHub-startet-Code-Scanning-Autofix-9661229.html",
       "image_title": "Künstliche Intelligenz: Roboterkopf mit Hand und Schrift \"AI\" vor Globus"
@@ -157,11 +163,6 @@
       "title": "Linux-Kernel 6.8.1: Korrekturen für Kernel 6.8",
       "teaser": "Kernel 6.8 hat mehr zu bieten: etwa den ersten funktionsfähigen Treiber in Rust, ein optimierter Realtime-Scheduler und aufgepeppte TCP-Performance.",
       "url": "https://www.heise.de/news/Linux-Kernel-6-8-1-Korrekturen-fuer-Kernel-6-8-9658035.html"
-    },
-    {
-      "title": "Datenleck: Daten aus AT&T-Datenleck von 2021 im Netz veröffentlicht",
-      "teaser": "Rund 70 Millionen Datensätze wollen Cyberkriminelle 2021 bei AT&T erbeutet haben. Seit Sonntag ist der Datensatz frei verfügbar.",
-      "url": "https://www.heise.de/news/Datenleck-70-Millionen-Datensaetze-von-AT-T-frei-im-Netz-verfuegbar-9657772.html"
     },
     {
       "title": "Malware-Analyse mit Capa: Schadcode-Fähigkeiten schnell und einfach einschätzen",
