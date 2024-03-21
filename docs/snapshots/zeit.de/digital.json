@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-21T15:01:16",
+  "timestamp": "2024-03-21T16:02:19",
   "url": "https://www.zeit.de/digital/index",
   "response": {
     "status": 200
@@ -32,10 +32,16 @@
   ],
   "articles": [
     {
+      "title": "Smartphones : US-Regierung klagt Apple wegen Kartellverstößen an",
+      "teaser": "Das US-Justizministerium wirft Apple vor, beim iPhone ein illegales Monopol aufgebaut zu haben. Das Unternehmen verlange seinen Kunden exzessive Preise ab.",
+      "url": "https://www.zeit.de/wirtschaft/2024-03/usa-apple-monopol-iphone-preise",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-03/apple-usa-bundesanwaltschaft-monopol-iphone/wide__980x551"
+    },
+    {
       "title": "Künstliche Intelligenz : Zwei Drittel der Studierenden in Deutschland nutzen KI-Systeme",
       "teaser": "Eine Studie zur Nutzung von KI an deutschen Hochschulen zeigt: KI wird von einer Mehrheit genutzt. Jedoch gibt es meist keine klaren Regeln für den Gebrauch.",
       "url": "https://www.zeit.de/digital/2024-03/deutschland-hochschule-ki-assistent-studierende",
-      "image_url": "https://img.zeit.de/digital/2024-03/deutschland-hochschule-ki-assistent-studierende-bild/wide__980x551"
+      "image_url": "https://img.zeit.de/digital/2024-03/deutschland-hochschule-ki-assistent-studierende-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Nvidia Blackwell : \"Viel kleiner geht nicht mehr\"",
@@ -49,12 +55,6 @@
       "teaser": "Der Ausbau des Mobilfunkstandards 5G erfüllt die Erwartungen der Bundesnetzagentur. Schnelles Netz wird immer verfügbarer – doch vor allem mobil nutzen es nur wenige.",
       "url": "https://www.zeit.de/digital/mobil/2024-03/bundesnetzagentur-zufrieden-5g-ausbau",
       "image_url": "https://img.zeit.de/digital/mobil/2024-03/bundesnetzagentur-zufrieden-5g-ausbau-bild/super__430x286"
-    },
-    {
-      "title": "Gehirnimplantat : Patient mit Neuralink-Chip spielt Schach mit seinen Gedanken",
-      "teaser": "Im Januar wurde einem gelähmten Mann ein Chip der Firma Neuralink von Elon Musk ins Gehirn implantiert. Nun zeigte er sich im Livestream beim digitalen Schachspielen.",
-      "url": "https://www.zeit.de/wissen/2024-03/neuralink-implantat-patient-spielt-schach-gedanken",
-      "image_url": "https://img.zeit.de/wissen/2024-03/neuralink-implantat-patient-spielt-schach-gedanken-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Plattformen : Die Verschlimmscheißerung des Internets",
@@ -81,9 +81,9 @@
       "url": "https://www.zeit.de/digital/mobil/2024-03/apple-google-ki-iphone-gemini-abkommen"
     },
     {
-      "title": "Soziale Medien : TikTok drosselt Reichweite von AfD-Politiker",
-      "teaser": "Der AfD-Europaabgeordnete Maximilian Krah ist äußerst erfolgreich auf TikTok. Die Onlineplattform schränkt nach homophoben Aussagen und Hetze seine Reichweite ein.",
-      "url": "https://www.zeit.de/digital/2024-03/krah-afd-tiktok-reichweite-einschraenkung"
+      "title": "Z+ (abopflichtiger Inhalt); Nvidia Blackwell : \"Viel kleiner geht nicht mehr\"",
+      "teaser": "Blackwell soll der \"stärkste Chip der Welt\" für KI sein, Nvidia hat ihn diese Woche präsentiert. Doch was kann er wirklich? KI-Chipexperte Hussam Amrouch klärt auf.",
+      "url": "https://www.zeit.de/digital/internet/2024-03/nvidia-blackwell-ki-gpu-chip"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Handyverbot an Schulen : \"Es gibt Leute, die sagen: Schreiben brauchen wir ohnehin nicht mehr\"",
@@ -119,6 +119,12 @@
       "url": "https://www.zeit.de/digital/2024-03/krah-afd-tiktok-reichweite-einschraenkung"
     },
     {
+      "title": "Gehirnimplantat : Patient mit Neuralink-Chip spielt Schach mit seinen Gedanken",
+      "teaser": "Im Januar wurde einem gelähmten Mann ein Chip der Firma Neuralink von Elon Musk ins Gehirn implantiert. Nun zeigte er sich im Livestream beim digitalen Schachspielen.",
+      "url": "https://www.zeit.de/wissen/2024-03/neuralink-implantat-patient-spielt-schach-gedanken",
+      "image_url": "https://img.zeit.de/wissen/2024-03/neuralink-implantat-patient-spielt-schach-gedanken-bild/super__430x286"
+    },
+    {
       "title": "TikTok : Politiker fordern Prüfung von TikTok-Verbot",
       "teaser": "Der CDU-Politiker Roderich Kiesewetter sieht in TikTok ein Instrument der hybriden Kriegsführung Chinas. Auch aus anderen Parteien kommen Forderungen nach mehr Kontrolle.",
       "url": "https://www.zeit.de/digital/2024-03/tiktok-roderich-kiesewetter-spd-gruene-regulierung",
@@ -129,12 +135,6 @@
       "teaser": "Apple verhandelt wohl ein Abkommen, das künstliche Intelligenz von Google aufs iPhone bringen soll. Gibt Apple also im KI-Rennen auf? Ganz im Gegenteil.",
       "url": "https://www.zeit.de/digital/mobil/2024-03/apple-google-ki-iphone-gemini-abkommen",
       "image_url": "https://img.zeit.de/wissen/2024-03/apple-google-ki-zusammenarbeit-bild/super__430x286"
-    },
-    {
-      "title": "Künstliche Intelligenz : Datenschutzbeauftragter mahnt zur Einhaltung der Grundrechte bei KI",
-      "teaser": "Durch den Einsatz von KI könne es zu Grundrechtsverletzungen und Diskriminierung kommen, warnt der Datenschutzbeauftragte. Auch die geplante Chatkontrolle kritisiert er.",
-      "url": "https://www.zeit.de/digital/datenschutz/2024-03/ki-kuenstliche-intelligenz-grundrechte-datenschutz-privatsphaere",
-      "image_url": "https://img.zeit.de/digital/2024-03/datenschutzbeauftragter-einhaltung-grundrechte-ki-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); AfD auf TikTok : Jung, schnell, witzig, rechts",
@@ -161,6 +161,12 @@
       "image_url": "https://img.zeit.de/digital/2024-02/schule-handy-verbot-bild/square__430x430"
     },
     {
+      "title": "Künstliche Intelligenz : Datenschutzbeauftragter mahnt zur Einhaltung der Grundrechte bei KI",
+      "teaser": "Durch den Einsatz von KI könne es zu Grundrechtsverletzungen und Diskriminierung kommen, warnt der Datenschutzbeauftragte. Auch die geplante Chatkontrolle kritisiert er.",
+      "url": "https://www.zeit.de/digital/datenschutz/2024-03/ki-kuenstliche-intelligenz-grundrechte-datenschutz-privatsphaere",
+      "image_url": "https://img.zeit.de/digital/2024-03/datenschutzbeauftragter-einhaltung-grundrechte-ki-bild/super__430x286"
+    },
+    {
       "title": "Soziale Medien : TikTok drosselt Reichweite von AfD-Politiker",
       "teaser": "Der AfD-Europaabgeordnete Maximilian Krah ist äußerst erfolgreich auf TikTok. Die Onlineplattform schränkt nach homophoben Aussagen und Hetze seine Reichweite ein.",
       "url": "https://www.zeit.de/digital/2024-03/krah-afd-tiktok-reichweite-einschraenkung",
@@ -174,23 +180,16 @@
       "image_title": "Die Kette von Starlink-Satelliten lässt sich mit bloßem Auge am Himmel erkennen."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Dustin Moskovitz : Der Milliardär, der die Apokalypse verhindern will",
-      "teaser": "Facebook-Mitgründer Dustin Moskovitz warnt, dass KI die Menschheit vernichten wird. Er investiert Millionen, um sie zu stoppen. In Brüssel hat er damit leichtes Spiel.",
-      "url": "https://www.zeit.de/2024/12/dustin-moskovitz-facebook-kuenstliche-intelligenz",
-      "image_url": "https://img.zeit.de/2024/12/der-milliardaer-und-die-apokalypse-bild-1/super__430x286"
-    },
-    {
       "title": "Anzeige : Studiengänge aus diesem Jahrtausend",
       "teaser": "Der digitale Wandel verändert nicht nur Wirtschaft und Arbeitsmarkt. Auch Studienangebote werden digitaler und beschäftigen sich mit den Technologien von morgen",
       "url": "https://studiengaenge.zeit.de/studienangebote?suche=digital&wt_zmc=fix.int.zonpmr.zeitde.verlagsteaserdigital.suma.verlagsteaser.vrbrille.x&utm_medium=fix&utm_source=zeitde_zonpmr_int&utm_campaign=verlagsteaserdigital&utm_content=suma_verlagsteaser_vrkind_x",
       "image_url": "https://img.zeit.de/angebote/Links/ressort-teaser-oa/oa-bilder/stoa1-digital/super__430x286"
     },
     {
-      "title": "Bitcoin : Australier ist nicht Bitcoin-Erfinder Satoshi Nakamoto",
-      "teaser": "Der Australier Craig Wright behauptet, das Bitcoin-System erfunden zu haben. Nun urteilt ein Gericht: Er ist nicht der geheimnisumwitterte Erfinder der Cyberwährung.",
-      "url": "https://www.zeit.de/wirtschaft/2024-03/bitcoin-erfinder-satoshi-nakamoto-urteil",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-03/dr-craig-wright-bitcoin/super__430x286",
-      "image_title": "Dr. Craig Wright Bitcoin"
+      "title": "Z+ (abopflichtiger Inhalt); Dustin Moskovitz : Der Milliardär, der die Apokalypse verhindern will",
+      "teaser": "Facebook-Mitgründer Dustin Moskovitz warnt, dass KI die Menschheit vernichten wird. Er investiert Millionen, um sie zu stoppen. In Brüssel hat er damit leichtes Spiel.",
+      "url": "https://www.zeit.de/2024/12/dustin-moskovitz-facebook-kuenstliche-intelligenz",
+      "image_url": "https://img.zeit.de/2024/12/der-milliardaer-und-die-apokalypse-bild-1/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"Enshrouded\" : Da ist er, der Hit aus Deutschland",
