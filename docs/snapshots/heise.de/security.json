@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-21T13:05:32",
+  "timestamp": "2024-03-21T14:00:54",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Ruby-Gems RDoc, StringIO",
+      "url": "https://www.heise.de/news/Luecken-in-Ruby-Gems-ermoeglichen-Codeschmuggel-und-Datenleck-9661929.html"
+    },
+    {
       "title": "Ivanti Standalone Sentry, Neurons for ITSM",
       "url": "https://www.heise.de/news/Attacken-auf-Ivanti-Standalone-Sentry-und-Neurons-moeglich-9661304.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Webbrowser-Chrome-Google-dichtet-mehrere-Sicherheitslecks-ab-9659978.html"
     },
     {
-      "title": "Firefox, Firefox ESR, Thunderbird",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-fuer-Firefox-und-Thunderbird-9659433.html"
+      "title": "Lücken in Ruby-Gems ermöglichen Codeschmuggel und Datenleck",
+      "teaser": "Angreifer könnten eigenen Code im Kontext eines Ruby-Programms ausführen. Nutzer der RDoc- und StringIO-Gems sollten aktualisierte Versionen einspielen.",
+      "url": "https://www.heise.de/news/Luecken-in-Ruby-Gems-ermoeglichen-Codeschmuggel-und-Datenleck-9661929.html",
+      "image_title": "Update"
+    },
+    {
+      "title": "LockBit: Operator im Interview, Ex-Mitarbeiter zu Haftstrafe verurteilt",
+      "teaser": "Im Interview übt der Ransomware-Betreiber Selbstkritik, teilt aber auch kräftig gegen Fahnder aus. Derweil erwartet einen seiner Komplizen eine Haftstrafe.",
+      "url": "https://www.heise.de/news/LockBit-Operator-im-Interview-Ex-Mitarbeiter-zu-Haftstrafe-verurteilt-9661853.html",
+      "image_title": "Trojanisches Pferd"
     },
     {
       "title": "LKA Schleswig-Holstein warnt vor neuer Handy-Betrugsmasche",
@@ -152,17 +164,6 @@
       "teaser": "Ab Juli 2024 gelten in der EU für Neuwagen höhere Sicherheitsanforderungen gegen Cyberattacken. Auch deshalb werden Modelle aus dem Programm genommen.​",
       "url": "https://www.heise.de/news/Anforderungen-an-Cyber-Security-steigen-Pkw-Angebot-schrumpft-9658782.html",
       "image_title": "Renault Espace 2024"
-    },
-    {
-      "title": "Home- und Raspberry-Matic: Kritische Lücke erlaubt Codeschmuggel",
-      "teaser": "In HomeMatic sowie in RaspberryMatic klafft eine Codeschmuggel-Lücke. Sie gilt als kritisch. Ein Update steht bereit.",
-      "url": "https://www.heise.de/news/RaspberryMatic-Kritische-Luecke-erlaubt-Codeschmuggel-9658709.html"
-    },
-    {
-      "title": "Betrugsnachrichten: KI-Chatbot Scamio soll bei Betrugserkennung helfen",
-      "teaser": "Wer sich nicht sicher ist, ob eine Nachricht echt ist oder es sich um Betrugsversuche wie bei Phishing handelt, kann Bitdefenders KI-Chatbot Scamio befragen.",
-      "url": "https://www.heise.de/news/Scamio-KI-Chatbot-von-Bitdefender-soll-bei-Betrugserkennung-helfen-9658152.html",
-      "image_title": "KI-Chatbot Scamio auf Laptop auf Tisch"
     },
     {
       "title": "heise security tour 2024",
