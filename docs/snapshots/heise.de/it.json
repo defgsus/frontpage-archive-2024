@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-22T12:09:39",
+  "timestamp": "2024-03-22T13:00:40",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -56,6 +56,35 @@
       "image_title": ","
     },
     {
+      "title": "Europawahl: Wie Google und andere Desinformation bekämpfen wollen",
+      "teaser": "Es ist Superwahljahr und Google und Youtube versprechen, alles zu tun, damit es keine Manipulationsversuche gibt. Aber wie?",
+      "url": "https://www.heise.de/news/Europawahl-Wie-Google-und-andere-Desinformation-bekaempfen-wollen-9661703.html",
+      "image_title": "Eine Gebäude mit Google-Schriftzug"
+    },
+    {
+      "title": "Cyberangriff auf Yacht-Anbieter, Daten von Vans gestohlen, Fujitsu prüft Vorfall",
+      "teaser": "Rhysida behauptet im Besitz von Marinemax-Daten zu sein. Gleichzeitig informiert Vans seine Kunden über ein Datenleck, Fujitsu prüft einen Sicherheitsvorfall.",
+      "url": "https://www.heise.de/news/Cyberangriff-auf-Yacht-Anbieter-Daten-von-Vans-gestohlen-Fujitsu-prueft-Vorfall-9662901.html"
+    },
+    {
+      "title": "Android 15: Funktionen für PDF, Spracherkennung und bessere Startzeiten",
+      "teaser": "Die zweite Vorschauversion bringt neue APIs für die Satellitenkommunikation, das PDF-Rendering, die Spracherkennung und die Effizienz beim Starten von Apps.",
+      "url": "https://www.heise.de/news/Android-15-Funktionen-fuer-PDF-Spracherkennung-und-bessere-Startzeiten-9662801.html",
+      "image_title": "Android neben Smartphone"
+    },
+    {
+      "title": "Scam: Krabbenjesus und andere KI-Bilder bei Facebook und Instagram",
+      "teaser": "KI-Bilder spammen die sozialen Netzwerke voll, sie sind aber oft nicht bloß harmlose Störer in den Timelines, sondern Scam.",
+      "url": "https://www.heise.de/news/Scam-Krabbenjesus-und-andere-KI-Bilder-bei-Facebook-und-Instagram-9663038.html",
+      "image_title": "Ein Jesus aus Shrimps."
+    },
+    {
+      "title": "Microsoft spendiert dem Windows-Editor eine Rechtschreibprüfung",
+      "teaser": "Wer Vorschauversionen von Windows in den Insider-Kanälen abonniert hat, kann jetzt den Windows-Editor mit Rechtschreibkorrektur nutzen.",
+      "url": "https://www.heise.de/news/Windows-Editor-erhaelt-Rechtschreibpruefung-9663020.html",
+      "image_title": "Rechtschreibprüfung im Windows-Editor"
+    },
+    {
       "title": "Ohrfeige für SAP: Anwender wollen nicht in die Cloud, KI-Strategie zu unklar",
       "teaser": "Die jüngste DSAG-Umfrage bekräftigt: Cloud-Betriebsmodelle für S/4HANA spielen bei SAP-Anwendern in der DACH-Region nach wie vor eine untergeordnete Rolle.",
       "url": "https://www.heise.de/news/Anwender-fremdeln-weiterhin-mit-SAPs-Cloud-Strategie-9663103.html"
@@ -67,7 +96,7 @@
       "image_title": "Neues Webinar: KI-gestützt programmieren"
     },
     {
-      "title": "Redis wertet die Communty Edition in Version 8 auf und kündigt Copilot an",
+      "title": "Redis wertet die Community Edition in Version 8 auf und kündigt Copilot an",
       "teaser": "Der Hersteller der NoSQL-Datenbank Redis veröffentlicht einen Blick in die Zukunft mit Fokus auf KI, Geschwindigkeit und Konsistenz zwischen den Versionen.",
       "url": "https://www.heise.de/news/Redis-wertet-die-Communty-Edition-in-Version-8-auf-und-kuendigt-Copilot-an-9663016.html",
       "image_title": "Blick in einen Serverraum"
@@ -111,34 +140,6 @@
       "title": "Multiplattform-Entwicklung für Android und Web? Kotlin macht‘s möglich!",
       "teaser": "Kotlin Multiplatform kann mehr als nur Mobile. Seit Kotlin 1.9.20 gilt es neben den Versionen für Android, iOS und Desktop für das Web als stabil.",
       "url": "https://www.heise.de/hintergrund/Multiplattform-Entwicklung-fuer-Android-und-Web-Kotlin-macht-s-moeglich-9657934.html"
-    },
-    {
-      "title": "Microsoft schließt Sicherheitslücke in Xbox-Gaming-Dienst – nach Hickhack",
-      "teaser": "Microsoft hat ein Sicherheitsleck im Xbox Gaming Service abgedichtet. Dem ging jedoch eine Diskussion voraus.",
-      "url": "https://www.heise.de/news/Microsoft-schliesst-Sicherheitsluecke-in-Xbox-Gaming-Dienst-nach-Hickhack-9662746.html",
-      "image_title": "Joystick,Controller,For,Playing,On,The,New,Xbox,Series,X"
-    },
-    {
-      "title": "Datenleck bei beliebter KiTa-App Stay Informed",
-      "teaser": "Bei der App \"Stay Informed\", die in über 11.000 Kitas, Horten & Schulen zum Einsatz kommt, gab es ein Datenleck. Potenziell betroffen sind über 800.000 Nutzer.",
-      "url": "https://www.heise.de/news/Datenleck-bei-beliebter-KiTa-App-Stay-Informed-9662578.html"
-    },
-    {
-      "title": "Sicherheit contra Offenheit – ein Kommentar zu Secure Boot",
-      "teaser": "Secure Boot ist kompliziert, frickelig und wird von Microsoft dominiert. Stattdessen brauchen wir offene sichere Systeme, meint Christof Windeck.",
-      "url": "https://www.heise.de/meinung/Sicherheit-contra-Offenheit-ein-Kommentar-zu-Secure-Boot-9659071.html",
-      "image_title": "Bild mit Schriftzug \"Kommentar\". Dahinter ist ein Chip zu sehen mit roter Overlay-Grafik, die vor einem \"Security Alert\" warnt."
-    },
-    {
-      "title": "iX-Workshop: Microsoft 365 sicher und datenschutzfreundlich konfigurieren",
-      "teaser": "Microsoft 365 sicher betreiben und notwendige Maßnahmen in Bezug auf Datenschutz und Informationssicherheit umsetzen. (10% Rabatt bis 09.04.)",
-      "url": "https://www.heise.de/news/iX-Workshop-Microsoft-365-sicher-und-datenschutzfreundlich-konfigurieren-9652941.html",
-      "image_title": "Sicherer Einsatz von Microsoft 365 (iX-Workshop)"
-    },
-    {
-      "title": "Das richtige Storage-Design für Machine Learning wählen",
-      "teaser": "Auch Machine Learning braucht Storage und stellt hohe Anforderungen an Durchsatz und Latenz – das stresst den Storage zugleich durch viele Metadatenoperationen.",
-      "url": "https://www.heise.de/hintergrund/Das-richtige-Storage-Design-fuer-Machine-Learning-waehlen-9652562.html"
     },
     {
       "title": "Bertsch Innovation ist Champion im Bereich Product Information Management",
