@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-22T10:00:55",
+  "timestamp": "2024-03-22T11:00:56",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "Threads von Meta öffnet sich: Mark Zuckerberg ist jetzt im Fediverse",
+      "teaser": "In den ersten Staaten können Konten auf Threads nun ans Fediverse angebunden werden – Deutschland ist nicht dabei. Noch gibt es erhebliche Einschränkungen.",
+      "url": "https://www.heise.de/news/Threads-von-Meta-oeffnet-sich-Mark-Zuckerberg-ist-jetzt-im-Fediverse-9662594.html",
+      "image_title": "Zwei Posts von Mark Zuckerberg in Mastodon"
+    },
+    {
       "title": "Illegaler Darknet-Marktplatz für Drogenhandel und Cybercrime abgeschaltet",
       "teaser": "Der \"Nemesis Market\" für etwa Drogen und Cybercrime-Angebote hatte über 150.000 Nutzer. Jetzt wurden die Server in Deutschland und Litauen beschlagnahmt.",
       "url": "https://www.heise.de/news/Illegaler-Darknet-Marktplatz-fuer-Drogenhandel-und-Cybercrime-abgeschaltet-9662670.html",
@@ -36,12 +42,6 @@
       "teaser": "Die US-Bundesstaaten sollen dafür sorgen, dass die Wasserversorgung vor Cyberangriffen geschützt ist, fordert Washington. Sie empfiehlt simple Maßnahmen.",
       "url": "https://www.heise.de/news/USA-Weisses-Haus-warnt-vor-gefaehrlichen-Cyberangriffen-auf-Wasserwerke-9659925.html",
       "image_title": "Wasserhahn mit einem einzelnen Tropfen"
-    },
-    {
-      "title": "Funkmasten alle 1000 Meter: Deutsche Bahn beginnt Testfahrten für 5G im ICE",
-      "teaser": "Seit Monaten bereitet die Deutsche Bahn einen Test für den 5G-Empfang in Schnellzügen vor, es war viel zu tun. Nun steht die erste Versuchsfahrt an.",
-      "url": "https://www.heise.de/news/5G-im-ICE-Deutsche-Bahn-beginnt-Testfahrten-in-Mecklenburg-Vorpommern-9658681.html",
-      "image_title": "Ein Techniker an einem Funkmast im Winter, im Hintergrund die Zugstrecke"
     },
     {
       "title": "Das eigene KI-Modell programmieren: So geht's mit Swift",
@@ -55,13 +55,19 @@
       "url": "https://www.heise.de/hintergrund/Das-richtige-Storage-Design-fuer-Machine-Learning-waehlen-9652562.html"
     },
     {
+      "title": "Redis wertet die Communty Edition in Version 8 auf und kündigt Copilot an",
+      "teaser": "Der Hersteller der NoSQL-Datenbank Redis veröffentlicht einen Blick in die Zukunft mit Fokus auf KI, Geschwindigkeit und Konsistenz zwischen den Versionen.",
+      "url": "https://www.heise.de/news/Redis-wertet-die-Communty-Edition-in-Version-8-auf-und-kuendigt-Copilot-an-9663016.html",
+      "image_title": "Blick in einen Serverraum"
+    },
+    {
       "title": "Bugfix-Updates: Apple stellt iOS 17.4.1, iPadOS 17.4.1 und visionOS 1.1.1 bereit",
       "teaser": "Apple hat in der Nacht zum Freitag kleinere Updates für iPads, iPhones und die Vision Pro publiziert. Sie enthalten teils wichtige Bugfixes.",
       "url": "https://www.heise.de/news/Bugfix-Updates-Apple-stellt-iOS-17-4-1-iPadOS-17-4-1-und-visionOS-1-1-1-bereit-9662806.html",
       "image_title": "iOS 17"
     },
     {
-      "title": "Drei Fragen und Antworten: KI im eigenen Rechenzentrum",
+      "title": "Drei Fragen und Antworten: Was Sie beim KI-Betrieb im eigenen RZ beachten müssen",
       "teaser": "Datenschutz, keine teuren Cloud-Dienste, Unabhängigkeit bei den Modellen – für die KI aus dem eigenen RZ gibt es gute Gründe. Aber einfach ist das nicht.",
       "url": "https://www.heise.de/news/Drei-Fragen-und-Antworten-KI-im-eigenen-Rechenzentrum-9662893.html",
       "image_title": "Roboter mit Sprechblase mit drei Punkten."
@@ -132,12 +138,6 @@
       "title": "IT-Infrastruktur im RZ: Netze modernisieren nicht nur für ML",
       "teaser": "Ein schnelles und latenzarmes Netz ist eine oft unterschätzte, aber essenzielle Komponente für ML-Infrastrukturen und bringt auch anderen Anwendungen Vorteile.",
       "url": "https://www.heise.de/hintergrund/IT-Infrastruktur-im-RZ-Netze-modernisieren-nicht-nur-fuer-ML-9652147.html"
-    },
-    {
-      "title": "Secure-Boot: Massenhaft Startverbote für Bootloader spätestens ab Oktober 2024",
-      "teaser": "Secure Boot hat Konstruktionsfehler. Microsofts Versuche, die Folgen auszugleichen, funktionieren nicht korrekt und führt zu Schwierigkeiten.",
-      "url": "https://www.heise.de/ratgeber/Secure-Boot-Massenhaft-Startverbote-fuer-Bootloader-spaetestens-ab-Oktober-2024-9650055.html",
-      "image_title": "Eine Beschreibung des Aufmachers würde helfen, die Titelzeilen einzuschätzen. Das Bild zeigt ein leckgeschlagenes \"Secure-Boot\", richtig?, Michael Vogt"
     },
     {
       "title": "Bertsch Innovation ist Champion im Bereich Product Information Management",
