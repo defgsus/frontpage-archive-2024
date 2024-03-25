@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-25T19:00:38",
+  "timestamp": "2024-03-25T20:01:05",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -144,7 +144,7 @@
     },
     {
       "title": "Vom HPC lernenMachine Learning im Rechenzentrum",
-      "teaser": "Die Anforderungen, die ML an die Hardware und Infrastruktur stellt, unterscheiden sich sehr von Anforderungen der Enterprise-IT.",
+      "teaser": "Viele Infrastrukturprojekte für Machine Learning scheitern, doch man kann HPC-Umfeld lernen.",
       "url": "https://www.heise.de/hintergrund/Von-High-Performance-Computing-lernen-Machine-Learning-im-Rechenzentrum-9652209.html",
       "image_title": ","
     },
@@ -155,13 +155,18 @@
     },
     {
       "title": "SpeicherinfrastrukturDas richtige Storage-Design für ML",
-      "teaser": "Einen generischen Storage für alle ML-Anwendungsfälle gibt es nicht. Beim Design des Storage ist deshalb Detailarbeit gefragt.",
+      "teaser": "Es gibt keinen generischen Storage für alle ML-Anwendungen, deshalb ist beim Design Detailarbeit gefragt.",
       "url": "https://www.heise.de/hintergrund/Das-richtige-Storage-Design-fuer-Machine-Learning-waehlen-9652562.html"
     },
     {
-      "title": "HPC und MLParallelisierte Rechenpower fürs maschinelle Lernen",
-      "teaser": "Massiv paralleles Rechnen ist die Paradedisziplin von GPUs. Nicht nur deshalb kommt ML nicht ohne sie aus.",
+      "title": "HPC und MLParallelisierte Rechenpower für ML",
+      "teaser": "GPUs rechnen massiv parallel. Nicht nur deshalb kommt ML nicht ohne sie aus.",
       "url": "https://www.heise.de/hintergrund/Parallelisierte-Rechenpower-fuers-maschinelle-Lernen-9652435.html"
+    },
+    {
+      "title": "DAB+ und Internetradios: Das bieten moderne Radios für Küche & Co. ab 40 Euro",
+      "teaser": "Neben klassichen analogen Radios für Mittelwelle und UKW sind digitale Empfänger für DAB+ und Internetradio immer beliebter. TechStage gibt einen Überblick.",
+      "url": "https://www.techstage.de/ratgeber/dab-und-internetradios-das-bieten-moderne-radios-fuer-kueche-und-co-ab-40-euro/g4np24c?wt_mc=intern.red.techstage.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "KI-Update kompakt: UN-Resolution, Karibik-Hype, Sora in Hollywood, mehr Copilot",
@@ -169,7 +174,7 @@
       "url": "https://www.heise.de/news/KI-Update-kompakt-UN-Resolution-Karibik-Hype-Sora-in-Hollywood-mehr-Copilot-9666069.html"
     },
     {
-      "title": "iOS 18: iPhone-Homescreen wird angeblich flexibler",
+      "title": "iPhone bekommt mit iOS 18 angeblich neuen Homescreen",
       "teaser": "Viele iPhone-Nutzer würden Apps auf dem Home-Bildschirm gerne frei anordnen, so etwas sieht Apple bislang partout nicht vor. Das könnte sich bald ändern.",
       "url": "https://www.heise.de/news/iOS-18-iPhone-Homescreen-wird-angeblich-flexibler-9665604.html",
       "image_title": "Der iPhone-Homescreen, hier von iOS 17 mit Widgets"
@@ -202,11 +207,6 @@
       "url": "https://www.heise.de/news/Dokumentation-auf-Vue-js-Basis-VitePress-erreicht-Version-1-0-9665116.html"
     },
     {
-      "title": "Tüfteln im Paradies: Eindrücke vom Smart Green Island Makeathon",
-      "teaser": "Rauchende Köpfe und surrende Technik: Studierende von über 60 Universitäten haben sich auf Gran Canaria beim siebten Smart Green Island Makeathon getroffen.",
-      "url": "https://www.heise.de/hintergrund/Tuefteln-im-Paradies-Eindruecke-vom-Smart-Green-Island-Makeathon-9657948.html"
-    },
-    {
       "title": "Mac mini im EigenbauOffice-PC in Hackintosh verwandeln mit macOS Sonoma",
       "teaser": "Unser Mini-PC-Bauvorschlag mit AMD Ryzen 5700G lässt sich einfach zum Hackintosh mit aktuellem macOS 14 umbauen.​ So geht's.",
       "url": "https://www.heise.de/ratgeber/Mac-mini-im-Eigenbau-Ryzen-Office-PC-als-Hackintosh-mit-macOS-14-9632928.html"
@@ -226,6 +226,11 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 Euro sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Tüfteln im Paradies: Eindrücke vom Smart Green Island Makeathon",
+      "teaser": "Rauchende Köpfe und surrende Technik: Studierende von über 60 Universitäten haben sich auf Gran Canaria beim siebten Smart Green Island Makeathon getroffen.",
+      "url": "https://www.heise.de/hintergrund/Tuefteln-im-Paradies-Eindruecke-vom-Smart-Green-Island-Makeathon-9657948.html"
     },
     {
       "title": "KI Navigator: Zweite Konferenz zu KI-Praxis in IT, Wirtschaft und Gesellschaft",
@@ -298,14 +303,14 @@
       "image_title": ","
     },
     {
+      "title": "Smart City – mit VR die Stadt von morgen erkunden",
+      "teaser": "Was verbirgt sich wirklich hinter dem Versprechen der „Smart City“? In einem Webcast können Sie in eine virtuelle Welt eintauchen und hautnah erleben, wie „Smart Parking“ und „Smart Lighting“ die Stadt von morgen lebenswerter machen.",
+      "url": "https://business-services.heise.de/it-management/virtualisierung/beitrag/smart-city-mit-vr-die-stadt-von-morgen-erkunden-4701/?source=nat_teas"
+    },
+    {
       "title": "Zeit in C++20: Neue Datentypen für die Tageszeit und das Kalenderdatum",
       "teaser": "Der neue Datentyp std::chrono::hh_mm_ss in C++20 steht für die Tageszeit und der Typ std::chrono::year_month_day für ein Kalenderdatum.",
       "url": "https://www.heise.de/blog/Zeit-in-C-20-Neue-Datentypen-fuer-die-Tageszeit-und-das-Kalenderdatum-9664010.html"
-    },
-    {
-      "title": "Generative KI unter eigener Kontrolle - Methoden, Modelle und Werkzeuge im Überblick",
-      "teaser": "Viele Unternehmen überlegen, wie Sie in das Thema KI einsteigen und davon profitieren können. Im Live Webcast am 11.4. gibt Ulrich Wolf, stellvertretender Chefredakteur des Profi-IT-Magazins iX, einen Überblick über die Möglichkeiten von moderner KI.",
-      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/generative-ki-unter-eigener-kontrolle-methoden-modelle-und-werkzeuge-im-ueberblick-4709/?source=hbsad-ersatz"
     },
     {
       "title": "Wegen \"zentralisierter KI\": Stability AI verliert CEO",
@@ -359,12 +364,6 @@
       "title": "Fürs Homeoffice: Elektrisch höhenverstellbare Schreibtische im Test",
       "teaser": "Acht Stunden lang sitzen – danach schmerzt der Rücken. Elektrische Stehschreibtische erleichtern es, sich im Büroalltag zu bewegen. Wir testen vier Modelle.",
       "url": "https://www.heise.de/ratgeber/Elektronische-Stehschreibtische-im-Test-Wo-liegen-die-Unterschiede-9633434.html"
-    },
-    {
-      "title": "Generative KI für iOS 18: Apple sprach auch mit Baidu und Anthropic",
-      "teaser": "Der iPhone-Hersteller plant wohl nicht nur eigene Software für neue KI-Funktionen in iOS 18. Die Gespräche gingen weiter als Google und OpenAI, heißt es nun.",
-      "url": "https://www.heise.de/news/Generative-KI-fuer-iOS-18-Apple-sprach-auch-mit-Baidu-und-Anthropic-9664385.html",
-      "image_title": "Illustration: iPhone mit KI"
     },
     {
       "title": "Staaten verpflichten sich zu beschleunigtem Ausbau von Atomkraft",
@@ -660,18 +659,18 @@
     },
     {
       "title": "Vom HPC lernenMachine Learning im Rechenzentrum",
-      "teaser": "Die Anforderungen, die ML an die Hardware und Infrastruktur stellt, unterscheiden sich sehr von Anforderungen der Enterprise-IT.",
+      "teaser": "Viele Infrastrukturprojekte für Machine Learning scheitern, doch man kann HPC-Umfeld lernen.",
       "url": "https://www.heise.de/hintergrund/Von-High-Performance-Computing-lernen-Machine-Learning-im-Rechenzentrum-9652209.html",
       "image_title": ","
     },
     {
-      "title": "HPC und MLParallelisierte Rechenpower fürs maschinelle Lernen",
-      "teaser": "Massiv paralleles Rechnen ist die Paradedisziplin von GPUs. Nicht nur deshalb kommt ML nicht ohne sie aus.",
+      "title": "HPC und MLParallelisierte Rechenpower für ML",
+      "teaser": "GPUs rechnen massiv parallel. Nicht nur deshalb kommt ML nicht ohne sie aus.",
       "url": "https://www.heise.de/hintergrund/Parallelisierte-Rechenpower-fuers-maschinelle-Lernen-9652435.html"
     },
     {
       "title": "SpeicherinfrastrukturDas richtige Storage-Design für ML",
-      "teaser": "Einen generischen Storage für alle ML-Anwendungsfälle gibt es nicht. Beim Design des Storage ist deshalb Detailarbeit gefragt.",
+      "teaser": "Es gibt keinen generischen Storage für alle ML-Anwendungen, deshalb ist beim Design Detailarbeit gefragt.",
       "url": "https://www.heise.de/hintergrund/Das-richtige-Storage-Design-fuer-Machine-Learning-waehlen-9652562.html"
     },
     {
@@ -748,42 +747,42 @@
       "url": "https://www.techstage.de/bestenliste/top-10-die-besten-elektronischen-parkscheiben-mit-zulassung-im-test/98zgjxn?wt_mc=intern.red.techstage.techstage_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Ukraine-Krieg, Nato und Russland: Perverses Spiel mit der nuklearen Gefahr",
-      "teaser": "Die Zeichen stehen auf Eskalation. Die größte Bedrohung wird im Westen leichtfertig abgetan. Wie dramatisch die Zuspitzung ist, zeigt ein Abgleich der Debatte mit der Lage Ende 2018.",
-      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Nato-und-Russland-Perverses-Spiel-mit-der-nuklearen-Gefahr-9208766.html"
+      "title": "Gefährliche Stiche: Bringt der Klimawandel auch tropische Krankheiten?",
+      "teaser": "Steigende Temperaturen helfen der Asiatischen Tigermücke oder der Anopheles-Mücke, in Deutschland zu überwintern. Wann werden sie als Krankheitsüberträger gefährlich? Und was kann man tun?",
+      "url": "https://www.heise.de/tp/features/Gefaehrliche-Stiche-Bringt-der-Klimawandel-auch-tropische-Krankheiten-9207996.html"
     },
     {
-      "title": "China beschränkt Export wichtiger Mineralien: Europas grüner Wandel bedroht",
-      "teaser": "Der Umgang zwischen EU und China wird zunehmend unfreundlich. Die Entscheidung Beijings hat ein Vorspiel in Europa. Das sind die Hintergründe.",
-      "url": "https://www.heise.de/tp/features/China-beschraenkt-Export-wichtiger-Mineralien-Europas-gruener-Wandel-bedroht-9206885.html",
-      "image_title": "China schränkt Export von Mineralien für grüne Technologien ein."
+      "title": "Bud Light: Biertrinker falsch abgeholt",
+      "teaser": "Werbekampagne mit Transgender-Star geht daneben. Schäumende Entrüstung, Geschäft bricht ein. Kulturkampf-Boykott gewinnt. Fabriken schließen. Angestellte werden arbeitslos.",
+      "url": "https://www.heise.de/tp/features/Bud-Light-Biertrinker-falsch-abgeholt-9209052.html"
     },
     {
-      "title": "Wird der Nato-Gipfel einen unendlichen Krieg in Europa eröffnen?",
-      "teaser": "Der Druck wächst, der Ukraine in Vilnius eine Beitrittsperspektive zu geben. Hardliner und einige osteuropäische Staaten wollen ein klares Zeichen. Warum das keine gute Idee ist.",
-      "url": "https://www.heise.de/tp/features/Wird-der-Nato-Gipfel-einen-unendlichen-Krieg-in-Europa-eroeffnen-9205939.html"
+      "title": "Streiter für die wahre Demokratie? Lanz kanzelt Aiwanger ab",
+      "teaser": "Mediensplitter (32): Der TV-Moderator macht vor, wie leicht es ist, Etiketten zu verteilen und den Platzanweiser zu spielen. Die AfD steht als Elefant im Raum. Gefährlich ist nicht nur der Populismus.",
+      "url": "https://www.heise.de/tp/features/Streiter-fuer-die-wahre-Demokratie-Lanz-kanzelt-Aiwanger-ab-9207988.html"
     },
     {
-      "title": "Jetzt gilt Pflicht zu Offenlegung von KI bei Youtube​",
-      "teaser": "Mit generativer Künstlicher Intelligenz gestaltete Youtube-Videos müssen gekennzeichnet werden. Die Liste der Ausnahmen ist lang.​",
-      "url": "https://www.heise.de/news/Youtubes-Pflicht-zu-Offenlegung-von-KI-Inhalten-greift-9658669.html",
-      "image_title": "Handy, auf dem Youtube-Logo und -Schriftzug zu sehen sind; links und rechts davon liegt jeweils ein schwarzer, kabelloser In-Ohr-Kopfhörer"
+      "title": "UpdateCheats bei Meisterschaftsspiel: Gerüchte um Codeschmuggel-Lücke in Apex Legends",
+      "teaser": "Mitten im Spiel tauchten Cheat-Menüs auf und Profispieler betrogen unfreiwillig. Die Spielergemeinschaft rätselt nun über das Einfallstor der Angriffe.",
+      "url": "https://www.heise.de/news/Cheats-bei-Meisterschaftsspiel-Geruechte-um-Codeschmuggel-Luecke-in-Apex-Legends-9657626.html",
+      "image_title": "Drei Spielercharaktere aus Apex Legends richten die Waffen auf die Kamera"
     },
     {
-      "title": "Vision Pro: Apple experimentiert mit Hirnwellenerfassung",
-      "teaser": "Ein neuer Patentantrag von Apple beschreibt ein nichtinvasives \"Neural Interface\". Es könnte in einem späteren Modell der Vision Pro landen.",
-      "url": "https://www.heise.de/news/Vision-Pro-Apple-experimentiert-mit-Hirnwellenerfassung-9662787.html",
-      "image_title": "Auszug aus Apples Patentantrag"
+      "title": "40 Jahre Peeks und Pokes: 64er Magazin erscheint nun monatlich im Netz",
+      "teaser": "Als Kunstprojekt deklariert, veröffentlicht ein Fan alle Ausgaben der damals einflussreichen Zeitschrift online – wie damals eine Ausgabe monatlich.",
+      "url": "https://www.heise.de/news/40-Jahre-Peeks-und-Pokes-64er-Magazin-erscheint-nun-monatlich-im-Netz-9660689.html",
+      "image_title": "64'er - das Magazin für Computer-Fans"
     },
     {
-      "title": "Web-Tipps: Quicksort, getanzt",
-      "teaser": "Ungarische Volkstanzgruppen treffen auf Sortieralgorithmen. Am Ende des Tanzes steht eine geordnete Zahlenfolge. Prüfen lassen sich die Algorithmen auf Toptal.",
-      "url": "https://www.heise.de/news/Web-Tipps-Quicksort-getanzt-9646602.html"
+      "title": "Bugfix-Updates: Apple stellt iOS 17.4.1, iPadOS 17.4.1 und visionOS 1.1.1 bereit",
+      "teaser": "Apple hat in der Nacht zum Freitag kleinere Updates für iPads, iPhones und die Vision Pro publiziert. Sie enthalten teils wichtige Bugfixes.",
+      "url": "https://www.heise.de/news/Bugfix-Updates-Apple-stellt-iOS-17-4-1-iPadOS-17-4-1-und-visionOS-1-1-1-bereit-9662806.html",
+      "image_title": "iOS 17"
     },
     {
-      "title": "VPN-Test 2024: Die besten VPN-Anbieter im Vergleich",
-      "teaser": "Eine VPN-Verbindung ist die beste Lösung, um anonym zu surfen oder Geoblocking-Sperren zu umgehen. Wir stellen eine Auswahl der besten VPN-Anbieter 2024 vor.",
-      "url": "https://www.heise.de/download/specials/Anonym-surfen-mit-VPN-Die-besten-VPN-Anbieter-im-Vergleich-3798036"
+      "title": "Usenet-Anbieter: So finden Sie den besten Provider",
+      "teaser": "Neben Diskussionen findet man im Usenet auch Binärdaten wie Audio- oder Video-Inhalte. Für uneingeschränkten Zugriff benötigt man jedoch einen Premium-Zugang.",
+      "url": "https://www.heise.de/download/specials/Usenet-Anbieter-So-finden-Sie-den-besten-Provider-5996846"
     },
     {
       "title": "Microsoft Copilot",
