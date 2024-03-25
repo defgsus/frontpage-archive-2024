@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-25T15:00:59",
+  "timestamp": "2024-03-25T16:00:50",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -8,24 +8,18 @@
     {
       "type": null,
       "src": "https://cmp.heise.de/unified/wrapperMessagingWithoutDetection.js",
-      "id": null,
+      "id": "sourcepoint-js",
       "text": null
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.b2ac6ee5309f3f29f9b4",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
       "src": "https://hl.upscore.com/config/heise.de.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.heise.de/assets/heise/hohomepage/js/hohomepage.js?.ltc.d810da47fe54eac42937",
       "id": null,
       "text": null
     }
@@ -175,7 +169,12 @@
       "url": "https://www.heise.de/ratgeber/20-Jahre-Fritzbox-Exotische-Einsatzorte-seltsame-Ausfaelle-und-Langzeitbetrieb-9644858.html"
     },
     {
-      "title": "Wizpr: Ring nimmt Sprachbefehle an und steuert E-Mail, Maps und Smarthome",
+      "title": "Ordnung im Auto: Reinigungsschleim, Hochdruckreiniger mit Akku & Soßenhalter",
+      "teaser": "Nach langen Autofahrten sieht der Pkw aus wie eine Müllhalde? TechStage zeigt praktische Gadgets, die helfen, Ordnung zu halten oder das Auto wieder sauber machen.",
+      "url": "https://www.techstage.de/ratgeber/ordnung-im-auto-reinigungsschleim-mini-hochdruckreiniger-mit-akku-und-sossenhalter/3447tvd?wt_mc=intern.red.techstage.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Wizpr: Über Ring Fernseher und andere smarte Geräte bedienen",
       "teaser": "Der smarte Ring \"Wizpr\" soll sich allein durch Flüstern bedienen lassen und steuert verschiedene Apps. Im Hintergrund ist ein großes Sprachmodell wie GPT aktiv.",
       "url": "https://www.heise.de/news/Wizpr-Ring-nimmt-Sprachbefehle-an-und-steuert-E-Mail-Maps-und-Smarthome-9664723.html",
       "image_title": "Wizpr Ring am Finger einer Dame die gerade auf dem Weg zur CES ist"
@@ -212,12 +211,6 @@
       "url": "https://www.heise.de/news/KI-Navigator-Zweite-Konferenz-zu-KI-Praxis-in-IT-Wirtschaft-und-Gesellschaft-9663484.html"
     },
     {
-      "title": "Nigeria vs. Binance: Manager gelingt Flucht aus Hausarrest, neue Vorwürfe",
-      "teaser": "Seit fast einem Monat hat Nigeria zwei hochrangige Binance-Manager festgehalten. Nun ist einem die Flucht gelungen. Offenbar hat er das Land bereits verlassen.",
-      "url": "https://www.heise.de/news/Nigeria-vs-Binance-Manager-gelingt-Flucht-aus-Hausarrest-neue-Vorwuerfe-9665230.html",
-      "image_title": "Kryptomünzen auf Laptop mit Binance geöffnet"
-    },
-    {
       "title": "Mac mini im EigenbauOffice-PC in Hackintosh verwandeln mit macOS Sonoma",
       "teaser": "Unser Mini-PC-Bauvorschlag mit AMD Ryzen 5700G lässt sich einfach zum Hackintosh mit aktuellem macOS 14 umbauen.​ So geht's.",
       "url": "https://www.heise.de/ratgeber/Mac-mini-im-Eigenbau-Ryzen-Office-PC-als-Hackintosh-mit-macOS-14-9632928.html"
@@ -229,14 +222,20 @@
       "image_title": ", Moritz Reichartz"
     },
     {
-      "title": "Home AssistantWie Sie Ihr Smart Home effizient steuern",
-      "teaser": "Home Assistant ist ein mächtiges Werkzeug, um das smarte Zuhause zu steuern. Allerdings ist es nicht intuitiv.",
-      "url": "https://www.heise.de/hintergrund/Grundlagen-Home-Assistant-So-beherrschen-Sie-die-Smart-Home-Zentrale-9636852.html"
+      "title": "Hohe RenditechancenVermögenswirksame Leistungen in ETFs investieren",
+      "teaser": "Wir erklären, wie Sie vermögenswirksame Leistungen in einen Fondssparplan anlegen. Denn: ETFs locken mit hohen Renditechancen.",
+      "url": "https://www.heise.de/ratgeber/Geldanlage-Vermoegenswirksame-Leistungen-in-ETFs-investieren-9609392.html"
     },
     {
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 Euro sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Nigeria vs. Binance: Manager gelingt Flucht aus Hausarrest, neue Vorwürfe",
+      "teaser": "Seit fast einem Monat hat Nigeria zwei hochrangige Binance-Manager festgehalten. Nun ist einem die Flucht gelungen. Offenbar hat er das Land bereits verlassen.",
+      "url": "https://www.heise.de/news/Nigeria-vs-Binance-Manager-gelingt-Flucht-aus-Hausarrest-neue-Vorwuerfe-9665230.html",
+      "image_title": "Kryptomünzen auf Laptop mit Binance geöffnet"
     },
     {
       "title": "Mehr als 100 EU- und US-Organisationen angegriffen: StrelaStealer will an Mails",
@@ -309,15 +308,15 @@
       "image_title": "Bilder von Stable Diffusion"
     },
     {
+      "title": "Strategien für eine erfolgreiche IT-Modernisierung",
+      "teaser": "Rechenzentren sind den steigenden Anforderungen häufig nicht gewachsen. Unternehmen müssen dann entweder neue Strukturen On-Premises aufbauen, Cloud-Ressourcen nutzen oder einen hybriden Ansatz wählen. Die Vor- und Nachteile der drei Strategien.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/strategien-fuer-eine-erfolgreiche-it-modernisierung-4681"
+    },
+    {
       "title": "Journal-App: Apple schaltet Erkennung durch andere an",
       "teaser": "Die mit iOS 17.2 gestartete Journal-App kann automatisiert viele Daten sammeln. Eine nun frisch aktivierte Trackingfunktion verwirrt Nutzer.",
       "url": "https://www.heise.de/news/Journal-App-Apple-schaltet-Erkennung-durch-andere-an-9663885.html",
       "image_title": "Erkennungsoption in Journal"
-    },
-    {
-      "title": "Generative KI unter eigener Kontrolle - Methoden, Modelle und Werkzeuge im Überblick",
-      "teaser": "Viele Unternehmen überlegen, wie Sie in das Thema KI einsteigen und davon profitieren können. Im Live Webcast am 11.4. gibt Ulrich Wolf, stellvertretender Chefredakteur des Profi-IT-Magazins iX, einen Überblick über die Möglichkeiten von moderner KI.",
-      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/generative-ki-unter-eigener-kontrolle-methoden-modelle-und-werkzeuge-im-ueberblick-4709/?source=hbsad-ersatz"
     },
     {
       "title": "Zeitmanagement mit Methode: So geht es mit den richtigen Apps",
@@ -372,12 +371,6 @@
       "image_title": "Batterie im E-Auto"
     },
     {
-      "title": "Geneditierte Schweineniere in lebenden Menschen transplantiert",
-      "teaser": "Chirurgen am Massachusetts General Hospital haben erstmals einem lebenden Menschen eine Schweineniere transplantiert. Der 62-Jährige erhole sich gut, heißt es.",
-      "url": "https://www.heise.de/news/Geneditierte-Schweineniere-in-lebenden-Menschen-transplantiert-9664509.html",
-      "image_title": "Schweineniere im OP"
-    },
-    {
       "title": "Staaten verpflichten sich zu beschleunigtem Ausbau von Atomkraft",
       "url": "https://www.heise.de/news/Staaten-verpflichten-sich-zu-beschleunigtem-Ausbau-von-Atomkraft-9663186.html",
       "image_title": "Politiker posieren vor Brüssels Atomium"
@@ -408,12 +401,12 @@
       "image_title": "Adobes Firefly hat Bilder generiert, die deutsche Soldaten des Zweiten Weltkriegs zeigen. ​"
     },
     {
-      "title": "Studie zur Atomkraft: Alternative Reaktoren lösen nicht das Endlagerproblem",
-      "url": "https://www.heise.de/news/Studie-zur-Atomkraft-Alternative-Reaktoren-loesen-nicht-das-Endlagerproblem-9663529.html"
-    },
-    {
       "title": "China verbannt AMD, Intel und Microsoft aus Regierungscomputern",
       "url": "https://www.heise.de/news/China-verbannt-AMD-Intel-und-Microsoft-aus-Regierungscomputern-9664322.html"
+    },
+    {
+      "title": "Studie zur Atomkraft: Alternative Reaktoren lösen nicht das Endlagerproblem",
+      "url": "https://www.heise.de/news/Studie-zur-Atomkraft-Alternative-Reaktoren-loesen-nicht-das-Endlagerproblem-9663529.html"
     },
     {
       "title": "Threads von Meta öffnet sichMark Zuckerberg ist jetzt im Fediverse",
@@ -553,12 +546,6 @@
       "image_title": "Raumsonde mit großer Antennenenschüssel"
     },
     {
-      "title": "Missing LinkIndiens Software-Brain-Drain kehrt sich um",
-      "teaser": "Indiens digitaler Aufstieg, neue Visa-Regelungen und die starke Nachfrage von Big Tech locken IT-Fachkräfte zurück nach Indien.",
-      "url": "https://www.heise.de/hintergrund/Missing-Link-Indiens-Software-Brain-Drain-kehrt-sich-um-9658746.html",
-      "image_title": "Szene in einem Büro ohne kräftige Farben: 3 Brillenträger, möglicherweise Inder, haben sich an einem Schreibtisch mit Computermonitor versammelt; die Frau (in der Mitte) zeigt auf den Bildschirm"
-    },
-    {
       "title": "Missing Link: India's Software Brain Drain Turns the Tide to Talent Shortage",
       "teaser": "From India’s own digital rise to new visa dynamics to a huge demand for talent by Big Tech – there are many levers pulling IT professionals back to India.",
       "url": "https://www.heise.de/hintergrund/Missing-Link-India-s-Software-Brain-Drain-Turns-the-Tide-to-Talent-Shortage-9658730.html",
@@ -567,12 +554,18 @@
     {
       "title": "Umfrage unter Angestellten\"Wir planen um Meetings herum, um Zeit für Arbeit zu haben​\"",
       "teaser": "Halten Meetings Sie auch von der Arbeit ab, obwohl kaum was dabei herauskommt? Dann sind Sie nicht allein.​",
-      "url": "https://www.heise.de/news/Studie-Das-haeufigste-Ergebnis-von-Meetings-sind-weitere-Meetings-9663734.html"
+      "url": "https://www.heise.de/news/Studie-Das-haeufigste-Ergebnis-von-Meetings-sind-weitere-Meetings-9663734.html",
+      "image_title": "Man mit Kopfhörern vor Laptop mit Videkonferenz"
     },
     {
       "title": "Hybrides ArbeitenBeschäftige beklagen mangelnde Büroausstattung",
       "teaser": "Die Rückkehr ins Büro wird eher von mangelnder Ausstattung als von mangelnder Bereitschaft der Angestellten behindert.​",
       "url": "https://www.heise.de/news/Studie-zum-hybriden-Arbeiten-Die-Idee-ist-gut-doch-das-Buero-noch-nicht-bereit-9663490.html"
+    },
+    {
+      "title": "BürokratieabbauKoalition einigt sich auf Zulassung digitaler Arbeitsverträge",
+      "teaser": "Arbeitsverträge und wesentliche Bedingungen sollen künftig digital vereinbart werden können, das Schriftformerfordernis fallen.",
+      "url": "https://www.heise.de/news/Buerokratieabbau-Koalition-einigt-sich-auf-Einfuehrung-digitaler-Arbeitsvertraege-9662598.html"
     },
     {
       "title": "Künstliche Intelligenz in der PraxisKI-Management: Einsatz von KI im Unternehmen beurteilen und steuern",
@@ -759,37 +752,38 @@
       "url": "https://www.techstage.de/bestenliste/top-10-die-besten-elektronischen-parkscheiben-mit-zulassung-im-test/98zgjxn?wt_mc=intern.red.techstage.techstage_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Streiter für die wahre Demokratie? Lanz kanzelt Aiwanger ab",
-      "teaser": "Mediensplitter (32): Der TV-Moderator macht vor, wie leicht es ist, Etiketten zu verteilen und den Platzanweiser zu spielen. Die AfD steht als Elefant im Raum. Gefährlich ist nicht nur der Populismus.",
-      "url": "https://www.heise.de/tp/features/Streiter-fuer-die-wahre-Demokratie-Lanz-kanzelt-Aiwanger-ab-9207988.html"
+      "title": "Le Pen: Mit ihr vergeht die deutsch-französische Freundschaft?",
+      "teaser": "Unruhen in Frankreich: Es wird wieder über das vorzeitige Ende der Regierung Macron spekuliert. Für Deutschland wären das keine guten Aussichten. Die Krisen-Gewinnerin will einen deutlichen Kurswechsel.",
+      "url": "https://www.heise.de/tp/features/Le-Pen-Mit-ihr-vergeht-die-deutsch-franzoesische-Freundschaft-9208505.html"
     },
     {
-      "title": "Gefährliche Stiche: Bringt der Klimawandel auch tropische Krankheiten?",
-      "teaser": "Steigende Temperaturen helfen der Asiatischen Tigermücke oder der Anopheles-Mücke, in Deutschland zu überwintern. Wann werden sie als Krankheitsüberträger gefährlich? Und was kann man tun?",
-      "url": "https://www.heise.de/tp/features/Gefaehrliche-Stiche-Bringt-der-Klimawandel-auch-tropische-Krankheiten-9207996.html"
+      "title": "Ukraine-Krieg, Nato und Russland: Perverses Spiel mit der nuklearen Gefahr",
+      "teaser": "Die Zeichen stehen auf Eskalation. Die größte Bedrohung wird im Westen leichtfertig abgetan. Wie dramatisch die Zuspitzung ist, zeigt ein Abgleich der Debatte mit der Lage Ende 2018.",
+      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Nato-und-Russland-Perverses-Spiel-mit-der-nuklearen-Gefahr-9208766.html"
     },
     {
-      "title": "Wenn selbst progressive Stimmen Kriegs-Propaganda verbreiten",
-      "teaser": "Ein Fall in den USA zeigt: Der Ukraine-Krieg führt zu Kontroversen über alle Lager hinweg. Verunglimpfungen führen aber nur zu Streit. Warum sind Verhandlungen mit Russland für viele ein rotes Tuch?",
-      "url": "https://www.heise.de/tp/features/Wenn-selbst-progressive-Stimmen-Kriegs-Propaganda-verbreiten-9208224.html"
+      "title": "Debatte ums Elterngeld: Wie mit falschen Zahlen Stimmung gemacht wird",
+      "teaser": "Große Aufregung über die Pläne, das Elterngeld einzuschränken. Alle möglichen Argumente werden vorgetragen, doch einige sind nicht ganz richtig. Ein Faktencheck.",
+      "url": "https://www.heise.de/tp/features/Debatte-ums-Elterngeld-Wie-mit-falschen-Zahlen-Stimmung-gemacht-wird-9209177.html",
+      "image_title": "Falsche Zahlen in Debatte ums Elterngeld"
     },
     {
-      "title": "40 Jahre Peeks und Pokes: 64er Magazin erscheint nun monatlich im Netz",
-      "teaser": "Als Kunstprojekt deklariert, veröffentlicht ein Fan alle Ausgaben der damals einflussreichen Zeitschrift online – wie damals eine Ausgabe monatlich.",
-      "url": "https://www.heise.de/news/40-Jahre-Peeks-und-Pokes-64er-Magazin-erscheint-nun-monatlich-im-Netz-9660689.html",
-      "image_title": "64'er - das Magazin für Computer-Fans"
+      "title": "Überfüllung in der Lieferkette: Sony pausiert angeblich PS-VR2-Produktion",
+      "teaser": "Die Lager sind offenbar überfüllt mit Sonys Virtual-Reality-Brille. Der Hersteller soll sich daher zu einem drastischen Schritt entschieden haben.",
+      "url": "https://www.heise.de/news/Sony-pausiert-angeblich-PS-VR2-Produktion-9658403.html",
+      "image_title": "Sonys PS VR2"
     },
     {
-      "title": "Jetzt gilt Pflicht zu Offenlegung von KI bei Youtube​",
-      "teaser": "Mit generativer Künstlicher Intelligenz gestaltete Youtube-Videos müssen gekennzeichnet werden. Die Liste der Ausnahmen ist lang.​",
-      "url": "https://www.heise.de/news/Youtubes-Pflicht-zu-Offenlegung-von-KI-Inhalten-greift-9658669.html",
-      "image_title": "Handy, auf dem Youtube-Logo und -Schriftzug zu sehen sind; links und rechts davon liegt jeweils ein schwarzer, kabelloser In-Ohr-Kopfhörer"
+      "title": "Produktionsfirma von \"Barbie\": \"Die Sims\" sollen verfilmt werden",
+      "teaser": "Eine Handlung gibt es bei \"Die Sims\" nicht. Trotzdem soll die enorm erfolgreiche Videospielreihe jetzt von namhaften Beteiligten verfilmt werden.",
+      "url": "https://www.heise.de/news/Produktionsfirma-von-Barbie-Die-Sims-sollen-verfilmt-werden-9662495.html",
+      "image_title": "Screenshot zeigt tanzende Sims"
     },
     {
-      "title": "Larian stampft DLCs für \"Baldur's Gate 3\" ein",
-      "teaser": "Mit \"Baldur's Gate 3\" gelang dem Studio Larian der große Wurf. Doch die Belgier kehren der Marke nun den Rücken zu. Bereits geplante DLCs werden eingestampft.",
-      "url": "https://www.heise.de/news/Baldur-s-Gate-3-Larian-macht-nicht-mehr-weiter-9664068.html",
-      "image_title": "Figur aus \"Baldur's Gate 3\""
+      "title": "Nvidia: OpenUSD aus der Omniverse Cloud kommt auf die Vision Pro",
+      "teaser": "Nvidia hat auf der GTC ein neues Framework gezeigt, das es künftig erlaubt, OpenUSD-Szenen an die Vision Pro zu schicken – mit kombiniertem Rendering.",
+      "url": "https://www.heise.de/news/Nvidia-OpenUSD-aus-der-Omniverse-Cloud-kommt-auf-die-Vision-Pro-9659307.html",
+      "image_title": "\"Digital Twins\" mit Nvidia-Technik auf der Vision Pro"
     },
     {
       "title": "VPN-Test 2024: Die besten VPN-Anbieter im Vergleich",
