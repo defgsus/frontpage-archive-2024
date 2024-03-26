@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-26T07:00:46",
+  "timestamp": "2024-03-26T08:00:57",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -53,6 +53,35 @@
       "teaser": "Eve hat seine HomeKit-Kamera auf einen aktuellen Stand gebracht. Die Eve Cam bringt USB-C und verbesserte Nachtsicht mit. Wir haben sie getestet.",
       "url": "https://www.heise.de/tests/Waches-Auge-Eve-Cam-2-fuer-HomeKit-Secure-Video-im-Test-9663010.html",
       "image_title": "Die Eve Cam 2"
+    },
+    {
+      "title": "l+f: \"Unsaflok\" – unsichere Hotel-Türschlösser",
+      "teaser": "Mit einem Paar gefälschter Karten lassen sich Millionen Hotelzimmer öffnen. Im März sind rund ein Drittel der Schlösser gefixt.",
+      "url": "https://www.heise.de/news/l-f-Unsaflok-unsichere-Hotel-Tuerschloesser-9666299.html",
+      "image_title": "Handy vor Türschloss"
+    },
+    {
+      "title": "Schwarzmarkt für Starlink-Antennen: Illegale Nutzung nimmt international zu",
+      "teaser": "Offiziell ist Starlink in vielen Staaten nicht zugelassen, benutzt wird es dort trotzdem. Dazu gehören auch Bürgerkriegsgebiete wie der Sudan.",
+      "url": "https://www.heise.de/news/Schwarzmarkt-fuer-Starlink-Antennen-Illegale-Nutzung-nimmt-international-zu-9666277.html",
+      "image_title": "Starlink-Antenne​ vor Wohnmobil"
+    },
+    {
+      "title": "Persistenz in Java: Neues seit Hibernate ORM 6, Teil 2",
+      "teaser": "Seit dem großen 6.0-Release hat Hibernate zahlreiche nützliche Ergänzungen, unter anderem für die Abfragesprache Hiberante Query Language erhalten.",
+      "url": "https://www.heise.de/hintergrund/Persistenz-in-Java-Neues-seit-Hibernate-ORM-6-Teil-2-9664620.html"
+    },
+    {
+      "title": "Loadbalancer: Sicherheitslücken in Loadmaster von Progress/Kemp",
+      "teaser": "In der Loadbalancer-Software Loadmaster von Progress/Kemp klaffen Sicherheitslücken, durch die Angreifer etwa Befehle einschleusen können.",
+      "url": "https://www.heise.de/news/Loadbalancer-Sicherheitsluecken-in-Loadmaster-von-Progress-Kemp-9666253.html",
+      "image_title": "Ein Kreis-Pfeil, auf den ein Mensch mit Finger klickt."
+    },
+    {
+      "title": "iX-Workshop: Passwortlose Authentifizierung mit Passkeys, FIDO, SSO und mehr",
+      "teaser": "Wie man FIDO2 und SSO in Webdienste integriert: Konzepte, Protokolle und Best Practices für eine sichere Authentifizierung mit und ohne Passwort.",
+      "url": "https://www.heise.de/news/iX-Workshop-Passwortlose-Authentifizierung-mit-Passkeys-FIDO-SSO-und-mehr-9658583.html",
+      "image_title": "iX-Workshop: SSO und IAM mit Keycloak"
     },
     {
       "title": "Cyberangriff auf Wahlkommission: Großbritannien und USA sanktioneren Chinesen",
@@ -109,35 +138,6 @@
       "teaser": "IT-Sicherheitsforscher haben Malware-Kampagnen mit dem StrelaStealer beobachtet. Von mehr als 100 EU- und US-Einrichtungen wollten Angreifer E-Mail-Zugänge.",
       "url": "https://www.heise.de/news/StrelaStealer-Malware-will-E-Mail-Zugangsdaten-von-mehr-als-100-Organisationen-9665204.html",
       "image_title": "Krimineller angelt Kreditkartendaten."
-    },
-    {
-      "title": "iPhone-Sideloading, Apple-Gebühren und mehr: Was die EU konkret untersucht",
-      "teaser": "Die EU vermutet, dass Apples Änderungen an iOS 17 nicht ausreichen, um die neuen Regeln zu erfüllen. Gleich mehrere Bereiche geraten jetzt unter die Lupe.",
-      "url": "https://www.heise.de/news/iPhone-Sideloading-Apple-Gebuehren-und-mehr-Was-die-EU-konkret-untersucht-9665150.html",
-      "image_title": "Ein iPhone 15 liegt auf der Packung"
-    },
-    {
-      "title": "Optical Inserts: So kommt man an die Vision-Pro-Brillengläser",
-      "teaser": "Die Vision Pro ist standardmäßig nicht für Brillenträger geeignet. Um an passende Gläser zu gelangen, muss man einige Schritte durchlaufen.",
-      "url": "https://www.heise.de/news/Optical-Inserts-So-kommt-man-an-die-Vision-Pro-Brillenglaeser-9628739.html",
-      "image_title": "Optical Inserts von Zeiss für die Vision Pro"
-    },
-    {
-      "title": "CyberRisikoCheck: BSI will IT-Sicherheit in kleinen Unternehmen stärken",
-      "teaser": "Das BSI hat gemeinsam mit Branchenverbänden ein Sicherheits-Interview erarbeitet, das geschulte Dienstleister durchführen. Finanzielle Hilfen gibt es auch.",
-      "url": "https://www.heise.de/news/CyberRisikoCheck-BSI-will-IT-Sicherheit-in-kleinen-Unternehmen-staerken-9664791.html",
-      "image_title": "Checkliste Sicherheitsgesetz"
-    },
-    {
-      "title": "Mastering Observability: Softwaresysteme verstehen, steuern und verbessern​",
-      "teaser": "Wie sich mit Observability Anwendungsverfügbarkeit sichern, Leistung steigern, Probleme erkennen und lösen lassen, zeigt die Online-Konferenz am 11. Juni 2024.​",
-      "url": "https://www.heise.de/news/Mastering-Observability-Softwaresysteme-verstehen-steuern-und-verbessern-9663236.html",
-      "image_title": "Mastering GitOps 2023"
-    },
-    {
-      "title": "Zeit in C++20: Neue Datentypen für die Tageszeit und das Kalenderdatum",
-      "teaser": "Der neue Datentyp std::chrono::hh_mm_ss in C++20 steht für die Tageszeit und der Typ std::chrono::year_month_day für ein Kalenderdatum.",
-      "url": "https://www.heise.de/blog/Zeit-in-C-20-Neue-Datentypen-fuer-die-Tageszeit-und-das-Kalenderdatum-9664010.html"
     },
     {
       "title": "Bertsch Innovation ist Champion im Bereich Product Information Management",

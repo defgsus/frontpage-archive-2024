@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-26T07:00:49",
+  "timestamp": "2024-03-26T08:01:00",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Progress Kemp LoadMaster",
+      "url": "https://www.heise.de/news/Loadbalancer-Sicherheitsluecken-in-Loadmaster-von-Progress-Kemp-9666253.html"
+    },
+    {
       "title": "WiX Toolset",
       "url": "https://www.heise.de/news/Sicherheitsluecken-in-Microsofts-WiX-Installer-Toolset-gestopft-9664602.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-FortiClientEMS-wird-angegriffen-9662866.html"
     },
     {
-      "title": "Xbox GamingService",
-      "url": "https://www.heise.de/news/Microsoft-schliesst-Sicherheitsluecke-in-Xbox-Gaming-Dienst-nach-Hickhack-9662746.html"
+      "title": "l+f: \"Unsaflok\" – unsichere Hotel-Türschlösser",
+      "teaser": "Mit einem Paar gefälschter Karten lassen sich Millionen Hotelzimmer öffnen. Im März sind rund ein Drittel der Schlösser gefixt.",
+      "url": "https://www.heise.de/news/l-f-Unsaflok-unsichere-Hotel-Tuerschloesser-9666299.html",
+      "image_title": "Handy vor Türschloss"
+    },
+    {
+      "title": "Loadbalancer: Sicherheitslücken in Loadmaster von Progress/Kemp",
+      "teaser": "In der Loadbalancer-Software Loadmaster von Progress/Kemp klaffen Sicherheitslücken, durch die Angreifer etwa Befehle einschleusen können.",
+      "url": "https://www.heise.de/news/Loadbalancer-Sicherheitsluecken-in-Loadmaster-von-Progress-Kemp-9666253.html",
+      "image_title": "Ein Kreis-Pfeil, auf den ein Mensch mit Finger klickt."
     },
     {
       "title": "Cyberangriff auf Wahlkommission: Großbritannien und USA sanktioneren Chinesen",
@@ -150,17 +162,6 @@
       "title": "Datenleck bei beliebter KiTa-App Stay Informed",
       "teaser": "Bei der App \"Stay Informed\", die in über 11.000 Kitas, Horten & Schulen zum Einsatz kommt, gab es ein Datenleck. Potenziell betroffen sind über 800.000 Nutzer.",
       "url": "https://www.heise.de/news/Datenleck-bei-beliebter-KiTa-App-Stay-Informed-9662578.html"
-    },
-    {
-      "title": "Illegaler Darknet-Marktplatz für Drogenhandel und Cybercrime abgeschaltet",
-      "teaser": "Der \"Nemesis Market\" für etwa Drogen und Cybercrime-Angebote hatte über 150.000 Nutzer. Jetzt wurden die Server in Deutschland und Litauen beschlagnahmt.",
-      "url": "https://www.heise.de/news/Illegaler-Darknet-Marktplatz-fuer-Drogenhandel-und-Cybercrime-abgeschaltet-9662670.html",
-      "image_title": "Meldung des BKA beim Aufruf des Nemesis Market: Beschlagnahmt"
-    },
-    {
-      "title": "Monitoring-Software: Checkmk behebt Privilegieneskalation und Credential-Leck",
-      "teaser": "Mehrere checkmk-Plugins ermöglichen Angreifern, Befehle als Root-User auszuführen, eines schludert mit Datenbank-Zugangsdaten.",
-      "url": "https://www.heise.de/news/Monitoring-Software-Checkmk-behebt-Privilegieneskalation-und-Credential-Leck-9661965.html"
     },
     {
       "title": "heise security tour 2024",
