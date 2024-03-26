@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-26T04:00:54",
+  "timestamp": "2024-03-26T05:01:21",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -32,16 +32,28 @@
   ],
   "articles": [
     {
+      "title": "Z+ (abopflichtiger Inhalt); Orafol : Die Erfolgsformel vom Weltmarktführer",
+      "teaser": "Mit Folien für Verkehrsschilder steigt Orafol vom DDR-Betrieb zum Weltkonzern auf. Fünf Lektionen aus dem Unternehmen, um Krisen zu trotzen",
+      "url": "https://www.zeit.de/zeit-fuer-unternehmer/2024/01/orafol-unternehmen-erfolg-krise-motivation",
+      "image_url": "https://img.zeit.de/zeit-fuer-unternehmer/2024/01/orafol-unternehmen-erfolg-krise-motivation-bild/wide__980x551"
+    },
+    {
+      "title": "Flugzeughersteller : Boeings CEO springt ab – und landet weich",
+      "teaser": "Dave Calhoun ist damit gescheitert, Boeing zu reformieren. Dass er Chef wurde, ist symptomatisch: Zu lange setzte der Konzern auf Gewinne und nicht auf Ingenieurskunst.",
+      "url": "https://www.zeit.de/wirtschaft/2024-03/boeing-chefwechsel-flugzeug-usa",
+      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-03/chefwechsel-bei-boeing-dave-calhoun/super__430x286"
+    },
+    {
       "title": "Wursthersteller : Pfeifer & Langen darf Rügenwalder Mühle übernehmen",
       "teaser": "Die EU hat die Übernahme der Rügenwalder Mühle durch den Kölner Lebensmittelkonzern Pfeifer & Langen genehmigt. Es drohe keine Verletzung des fairen Wettbewerbs.",
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-03/wursthersteller-ruegenwalder-muehle-uebernahme-pfeifer-langen-kartellbehoerde",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-03/wursthersteller-ruegenwalder-muehle-uebernahme-pfeifer-langen-kartell-behoerde/wide__980x551"
+      "image_url": "https://img.zeit.de/wirtschaft/2024-03/wursthersteller-ruegenwalder-muehle-uebernahme-pfeifer-langen-kartell-behoerde/super__430x286"
     },
     {
       "title": "Dave Calhoun : Boeing-Vorstandschef legt Amt zum Jahresende nieder",
       "teaser": "Seit Monaten steht der US-Flugzeughersteller Boeing wegen Sicherheitsproblemen in der Kritik. Mit dem Abschied des Vorstandschefs gibt es nun personelle Konsequenzen.",
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-03/boeing-vorstandschef-dave-calhoun-legt-amt-zum-jahresende-nieder",
-      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-03/boeing-vorstandschef-dave-calhoun-amt-niedergelegt/super__430x286"
+      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-03/boeing-vorstandschef-dave-calhoun-amt-niedergelegt/wide__892x501"
     },
     {
       "title": "Elektromobilität : Northvolt beginnt Bau einer Batteriefabrik in Schleswig-Holstein",
@@ -53,25 +65,13 @@
       "title": "Baubranche : Bauhauptgewerbe bleibt zum Jahresbeginn in der Krise",
       "teaser": "Weniger Umsatz und weniger neue Aufträge: Der Hoch- und Tiefbau in Deutschland bleibt im Krisenmodus. Im Jahresvergleich besserte sich die Lage im Januar jedoch leicht.",
       "url": "https://www.zeit.de/wirtschaft/2024-03/baubranche-jahresbeginn-2024-krise-bau",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-03/durchwachsener-jahresauftakt-bauhauptgewerbe-bild/wide__892x501"
+      "image_url": "https://img.zeit.de/gesellschaft/2024-03/durchwachsener-jahresauftakt-bauhauptgewerbe-bild/super__430x286"
     },
     {
       "title": "ifo Institut : Deutsche Industrie erwartet Anstieg der Exporte",
       "teaser": "Die Exporte deutscher Unternehmen könnten einer Umfrage des ifo Instituts zufolge deutlich ansteigen. Doch nicht in allen Branchen ist der Optimismus ausgeprägt.",
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-03/export-industrie-ifo-institut-stimmung-maerz",
       "image_url": "https://img.zeit.de/wirtschaft/2024-03/export-industrie-ifo-institut-stimmung-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Streit um Apple : Kartellwächter wollen Apples Gartenmauer einreißen",
-      "teaser": "In den USA konnten Techunternehmen nahezu unbehelligt mächtige Plattformen aufbauen. Das wollen Wettbewerbshüter jetzt ändern – mit einem Mittel aus dem Silicon Valley.",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-03/streit-apple-kartellrecht-usa-justizministerium",
-      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-03/streit-apple-kartellrecht-usa-justizministerium-bild/super__430x286"
-    },
-    {
-      "title": "David Reger über Robotik : \"Aus Angstinvestments kann nichts Neues, nichts Großes entstehen\"",
-      "teaser": "David Regers Unternehmen entwickelt in Metzingen kognitive Roboter. Er sagt, dass in Deutschland Geräte erschaffen werden könnten, die niemand nachbauen kann.",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-03/david-reger-robotik-neura-deutschland",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-03/neura-robotics-kognitive-roboter-metzingen/super__430x286"
     },
     {
       "title": "Arbeitszeit : Linke stellt Konzept für Viertagewoche bei vollem Lohnausgleich vor",
@@ -148,6 +148,18 @@
       "image_url": "https://img.zeit.de/wirtschaft/2021-06/money-matters-bild/square__430x430"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Streit um Apple : Kartellwächter wollen Apples Gartenmauer einreißen",
+      "teaser": "In den USA konnten Techunternehmen nahezu unbehelligt mächtige Plattformen aufbauen. Das wollen Wettbewerbshüter jetzt ändern – mit einem Mittel aus dem Silicon Valley.",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-03/streit-apple-kartellrecht-usa-justizministerium",
+      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-03/streit-apple-kartellrecht-usa-justizministerium-bild/super__430x286"
+    },
+    {
+      "title": "David Reger über Robotik : \"Aus Angstinvestments kann nichts Neues, nichts Großes entstehen\"",
+      "teaser": "David Regers Unternehmen entwickelt in Metzingen kognitive Roboter. Er sagt, dass in Deutschland Geräte erschaffen werden könnten, die niemand nachbauen kann.",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-03/david-reger-robotik-neura-deutschland",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-03/neura-robotics-kognitive-roboter-metzingen/super__430x286"
+    },
+    {
       "title": "Arbeitszeit : Linke stellt Konzept für Viertagewoche bei vollem Lohnausgleich vor",
       "teaser": "Bei Einführung der verkürzten Wochenarbeitszeit soll der öffentliche Dienst der Linken zufolge eine Vorreiterrolle einnehmen. Kleine Betriebe könnten Zuschüsse bekommen.",
       "url": "https://www.zeit.de/wirtschaft/2024-03/arbeitszeit-linke-viertagewoche-lohnausgleich-konzept",
@@ -163,7 +175,7 @@
       "title": "Kohleausstieg : Sieben Braunkohle-Blöcke werden endgültig stillgelegt",
       "teaser": "Etliche Kohlekraftwerke durften während der Energiekrise weiterlaufen, um den Verbrauch von Erdgas zu senken. Für sieben Blöcke ist nun Schluss.",
       "url": "https://www.zeit.de/wirtschaft/2024-03/braunkohle-kohleausstieg-energiekrise-stilllegung",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-03/braunkohle-kohleausstieg-energiekrise-stilllegung-bild/super__430x286"
+      "image_url": "https://img.zeit.de/wirtschaft/2024-03/braunkohle-kohleausstieg-energiekrise-stilllegung-bild/wide__892x501"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Fernwärme : Wer braucht schon Warmwasser?",
@@ -175,20 +187,7 @@
       "title": "Notlandung von 737 Max : FBI sieht nach Boeing-Panne mögliches Verbrechen",
       "teaser": "Anfang des Jahres musste eine Boeing notlanden, weil ein Teil der Kabinenwand herausgebrochen war. Nun ermittelt das FBI in dem Fall und kontaktiert Passagiere.",
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-03/boeing-fbi-usa-briefe-an-passagiere-verbrechen",
-      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-03/boeing-loch-kabinenwand-fbi-ermittlungen/wide__892x501"
-    },
-    {
-      "title": "Sportartikelhersteller : Geschichte eines Konkurrenzkampfes",
-      "teaser": "Das US-Unternehmen Nike ist schon lange der größte Rivale von Adidas. Die wirtschaftliche Entwicklung der beiden Sportmarken im Überblick",
-      "url": "https://www.zeit.de/sport/2024-03/adidas-geschichte-zahlen",
-      "image_url": "https://img.zeit.de/sport/2024-03/adidas-geschichte-zahlen-2/super__430x286"
-    },
-    {
-      "title": "USA : Donald Trump geht mit Medienunternehmen an die Börse",
-      "teaser": "Nach Schätzungen könnte Donald Trump mit dem Börsengang seines Unternehmens TMTG Milliarden einnehmen. Das Geld braucht er nach einer Verurteilung dringend.",
-      "url": "https://www.zeit.de/wirtschaft/boerse/2024-03/usa-praesident-donald-trump-tmtg",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-03/donald-trump-schmuck/super__430x286",
-      "image_title": "Donald Trump Schmuck"
+      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-03/boeing-loch-kabinenwand-fbi-ermittlungen/super__430x286"
     },
     {
       "title": "Signa : Österreichische Staatsanwaltschaft ermittelt gegen Signa-Manager",
