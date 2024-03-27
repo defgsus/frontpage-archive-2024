@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-27T09:00:40",
+  "timestamp": "2024-03-27T10:00:47",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "Mini-PC: Intel legt ein KI-Dev-Kit mit Asus' NUC auf",
+      "teaser": "Intel weitet sein AI PC Acceleration Program erheblich aus. Zudem kommt ein Dev-Kit, das alle Interessierten kaufen können.",
+      "url": "https://www.heise.de/news/Mini-PC-Intel-legt-ein-KI-Dev-Kit-mit-Asus-NUC-auf-9667661.html",
+      "image_title": "Intel Meteor-Lake-Chips"
+    },
+    {
       "title": "Intel Lunar Lake: Erste Notebooks im Umlauf",
       "teaser": "Der CPU-Sommer ist vielversprechend: Intels Lunar Lake tritt gegen Qualcomms Snapdragon X Elite und Apples M3 an.",
       "url": "https://www.heise.de/news/Intel-Lunar-Lake-Erste-Notebooks-im-Umlauf-9666676.html",
@@ -38,10 +44,9 @@
       "image_title": "Zwei Posts von Mark Zuckerberg in Mastodon"
     },
     {
-      "title": "Illegaler Darknet-Marktplatz für Drogenhandel und Cybercrime abgeschaltet",
-      "teaser": "Der \"Nemesis Market\" für etwa Drogen und Cybercrime-Angebote hatte über 150.000 Nutzer. Jetzt wurden die Server in Deutschland und Litauen beschlagnahmt.",
-      "url": "https://www.heise.de/news/Illegaler-Darknet-Marktplatz-fuer-Drogenhandel-und-Cybercrime-abgeschaltet-9662670.html",
-      "image_title": "Meldung des BKA beim Aufruf des Nemesis Market: Beschlagnahmt"
+      "title": "Marimo: Alternative zu Jupyter-Notebooks kurz vorgestellt",
+      "teaser": "Marimo ist eine spannende Alternative zu Jupyter-Notebooks. Es setzt auf Abhängigkeitsmanagement und liegt abgespeichert als reiner Python-Code vor.",
+      "url": "https://www.heise.de/ratgeber/Marimo-Alternative-zu-Jupyter-Notebooks-kurz-vorgestellt-9666661.html"
     },
     {
       "title": "WLAN in Wokwi nutzen mit dem ESP32 und dem Pi Pico W",
@@ -50,10 +55,16 @@
       "image_title": ","
     },
     {
-      "title": "Einhandcontroller zum Zocken: Zwei Eingabehilfen im Test",
-      "teaser": "Einhandcontroller wie der MoveMaster RSG und der Azeron Cyborg mit anpassbaren Tasten verbessern die Reaktionszeit am PC, erfordern aber Eingewöhnung.",
-      "url": "https://www.heise.de/tests/Einhandcontroller-zum-Zocken-Zwei-Eingabehilfen-im-Test-9664543.html",
-      "image_title": ","
+      "title": "Software-Supply-Chain-Attacken abwenden: GitLab plant eine Dependency-Firewall",
+      "teaser": "Eine erhöhte Sicherheit in der Supply Chain plant GitLab in der zweiten Jahreshälfte durch eine Dependency-Firewall. Neu erschienen ist GitLab 16.10.",
+      "url": "https://www.heise.de/news/Software-Supply-Chain-Attacken-abwenden-GitLab-plant-eine-Dependency-Firewall-9668355.html",
+      "image_title": "Symbolbild Abwehr gegen Gewalt"
+    },
+    {
+      "title": "Analyse: KI als Ende des Software-Engineerings? Wohl kaum!",
+      "teaser": "Der KI-Assistent Devin kann eigenständig Softwareprojekte umsetzen, stößt aber bald an seine Grenzen, meint Lars Röwekamp.",
+      "url": "https://www.heise.de/meinung/Analyse-KI-als-Ende-des-Software-Engineerings-Wohl-kaum-9668031.html",
+      "image_title": "Zwei Roboterhände auf einer ergonomischen Tastatur"
     },
     {
       "title": "Für mehr IT-Security: Airbus übernimmt Cybersicherheitsunternehmen Infodas",
@@ -79,16 +90,16 @@
       "image_title": "Stilisierte Grafik: Brennendes Google-Chrome-Logo auf einem Laptop"
     },
     {
+      "title": "Einhandcontroller zum Zocken: Zwei Eingabehilfen im Test",
+      "teaser": "Einhandcontroller wie der MoveMaster RSG und der Azeron Cyborg mit anpassbaren Tasten verbessern die Reaktionszeit am PC, erfordern aber Eingewöhnung.",
+      "url": "https://www.heise.de/tests/Einhandcontroller-zum-Zocken-Zwei-Eingabehilfen-im-Test-9664543.html",
+      "image_title": ","
+    },
+    {
       "title": "Bit-Rauschen, der Prozessor-Podcast: UEFI Secure Boot im Detail",
       "teaser": "Da rollt etwas auf uns zu: Microsoft verändert Secure Boot für Windows. Die Tücken der Sicherheitsfunktion im Podcast Bit-Rauschen, Folge 2024/7.",
       "url": "https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-UEFI-Secure-Boot-im-Detail-9652818.html",
       "image_title": "Logo von Bit-Rauschen - der Prozessor-Podcast von c’t"
-    },
-    {
-      "title": "Mini-PC: Intel legt ein KI-Dev-Kit mit Asus' NUC auf",
-      "teaser": "Intel weitet sein AI PC Acceleration Program erheblich aus. Zudem kommt ein Dev-Kit, das alle Interessierten kaufen können.",
-      "url": "https://www.heise.de/news/Mini-PC-Intel-legt-ein-KI-Dev-Kit-mit-Asus-NUC-auf-9667661.html",
-      "image_title": "Intel Meteor-Lake-Chips"
     },
     {
       "title": "iOS 18 und mehr: Apple-Keynote und WWDC 2024 im Juni",
@@ -131,18 +142,6 @@
       "teaser": "Ugreen steigt in den NAS-Markt ein. Die Erstlingsmodelle verwenden Intel-CPUs mit bis zu 10 CPU-Kernen. Mit dabei sind schnelle Anschlüsse.",
       "url": "https://www.heise.de/news/Ugreen-NAS-systems-with-fast-Intel-processors-9667288.html",
       "image_title": "NAS-Systeme von Ugreen"
-    },
-    {
-      "title": "Die Produktwerker: Leadership Skills für Produktmenschen",
-      "teaser": "Produktmanager und Product Owner führen auf unterschiedliche Weise. Welche Leadership Skills sind essenziell? Zu Gast: Simonetta Batteiger.",
-      "url": "https://www.heise.de/blog/Die-Produktwerker-Leadership-Skills-fuer-Produktmenschen-9666330.html",
-      "image_title": "Produktwerker auf einem Bild"
-    },
-    {
-      "title": "Schadcode in Python-Paketen trifft Discord-Bot-Plattform mit 170.000 Usern",
-      "teaser": "Eine mehrstufige Supply-Chain-Attacke hat unter anderem erfolgreich die Platform Top.gg infiltriert und Schadcode an die User verteilt.",
-      "url": "https://www.heise.de/news/Schadcode-in-Python-Paketen-trifft-Discord-Bot-Plattform-mit-170-000-Usern-9666293.html",
-      "image_title": "Schadecode auf Rechner"
     },
     {
       "title": "Bertsch Innovation ist Champion im Bereich Product Information Management",
