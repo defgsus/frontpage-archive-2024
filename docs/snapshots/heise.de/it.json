@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-28T17:00:38",
+  "timestamp": "2024-03-28T18:01:00",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -19,12 +19,18 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.baa3c07a14e2948f2670",
+      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.46d4bdfa6c9fbebc482b",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "So definieren Microsoft und Intel einen \"AI-PC\"",
+      "teaser": "Wenn Microsoft von \"AI-PCs\" spricht, meint das Systeme mit Windows 11, einer NPU und einer Copilot-Taste. Künftig kommen höhere Anforderungen.",
+      "url": "https://www.heise.de/news/So-definieren-Microsoft-und-Intel-einen-AI-PC-9670022.html",
+      "image_title": "Edel-Notebooks verschiedener Hersteller"
+    },
     {
       "title": "Mini-PC: Intel legt ein KI-Dev-Kit mit Asus' NUC auf",
       "teaser": "Intel weitet sein AI PC Acceleration Program erheblich aus. Zudem kommt ein Dev-Kit, das alle Interessierten kaufen können.",
@@ -38,12 +44,6 @@
       "image_title": "Wafer mit Meteor-Lake-Dies"
     },
     {
-      "title": "Threads von Meta öffnet sich: Mark Zuckerberg ist jetzt im Fediverse",
-      "teaser": "In den ersten Staaten können Konten auf Threads nun ans Fediverse angebunden werden – Deutschland ist nicht dabei. Noch gibt es erhebliche Einschränkungen.",
-      "url": "https://www.heise.de/news/Threads-von-Meta-oeffnet-sich-Mark-Zuckerberg-ist-jetzt-im-Fediverse-9662594.html",
-      "image_title": "Zwei Posts von Mark Zuckerberg in Mastodon"
-    },
-    {
       "title": "Elgato Facecam MK.2 im Test: Streambegleiter",
       "teaser": "Die Elgato-Webcam nimmt Videos mit hohen Frameraten auf und ist flexibel: Bildeinstellungen lassen sich auf einem integrierten Flash-Chip speichern.",
       "url": "https://www.heise.de/tests/Elgato-Facecam-MK-2-im-Test-Streambegleiter-9670311.html",
@@ -54,6 +54,29 @@
       "teaser": "Hersteller und Händler bieten allerlei Zubehör für Apple-Produkte an. Mac & i wirft regelmäßig einen kritischen Blick auf Gadgets – von cool bis Kernschrott.",
       "url": "https://www.heise.de/tests/Gadget-Inspector-9665438.html",
       "image_title": "Der Gadget Inspector"
+    },
+    {
+      "title": "Klavier spielen, DJing und SteamVR mit der Vision Pro | TNBT-Podcast",
+      "teaser": "Was Piano-Apps in Mixed Reality taugen, wie sich DJ-Controller steuern lassen und wie gut Gaming über SteamVR in Apples Headset funktioniert.",
+      "url": "https://www.heise.de/news/Klavier-spielen-DJing-und-SteamVR-mit-der-Vision-Pro-TNBT-Podcast-9670540.html",
+      "image_title": "Klavier spielen, DJing und SteamVR mit der Vision Pro TNBT-Podcast"
+    },
+    {
+      "title": "Forscher entwickeln KI-Systeme für den Schockraum",
+      "teaser": "Um Krankenhauspersonal im hektischen Schockraum-Alltag zu entlasten, haben Forscher zwei Prototypen zum automatischen Informationsmanagement entwickelt.",
+      "url": "https://www.heise.de/news/Forscher-entwickeln-KI-Systeme-fuer-den-Schockraum-9670580.html",
+      "image_title": "Ärzte im Krankenhaus"
+    },
+    {
+      "title": "KI Update kompakt: OpenAI, Amazon & Anthropic, Adobe, Grok & Intel AI",
+      "teaser": "Das \"KI-Update\" liefert werktäglich eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
+      "url": "https://www.heise.de/news/KI-Update-kompakt-OpenAI-Amazon-Anthropic-Adobe-Grok-Intel-AI-9670692.html",
+      "image_title": "KI-Update"
+    },
+    {
+      "title": "Datenleck bei Urban Sports Club: Daten Tausender Mitglieder waren öffentlich",
+      "teaser": "Tausende sensible Dateien des Fitnessanbieters lagen auf einem öffentlich zugänglichen Cloudspeicher. Bis zu 50.000 Kundendatensätze sind betroffen.",
+      "url": "https://www.heise.de/news/Datenleck-bei-Urban-Sports-Club-Daten-Tausender-Mitglieder-waren-oeffentlich-9668240.html"
     },
     {
       "title": "Digitale Verwaltung: NRW setzt auf Cloud-Lösung von Ionos und Computacenter",
@@ -105,12 +128,6 @@
       "url": "https://www.heise.de/news/c-t-Workshop-CI-CD-mit-GitLab-lernen-und-vertiefen-9669970.html"
     },
     {
-      "title": "So definieren Microsoft und Intel einen \"AI-PC\"",
-      "teaser": "Wenn Microsoft von \"AI-PCs\" spricht, meint das Systeme mit Windows 11, einer NPU und einer Copilot-Taste. Künftig kommen höhere Anforderungen.",
-      "url": "https://www.heise.de/news/So-definieren-Microsoft-und-Intel-einen-AI-PC-9670022.html",
-      "image_title": "Edel-Notebooks verschiedener Hersteller"
-    },
-    {
       "title": "Kanada: UPS-Angestellter klaut iPhones und mehr für 890.000 Euro",
       "teaser": "Ein einzelner Mitarbeiter in einem Lager eines großen Paketdienstleisters soll in Kanada über 850 Apple-Produkte aus Paketen gestohlen haben.",
       "url": "https://www.heise.de/news/UPS-Angestellter-klaut-iPhones-und-mehr-fuer-890-000-Euro-9668640.html",
@@ -121,23 +138,6 @@
       "teaser": "Der Cloud-Service Chromatic absolviert visuelle Tests deutlich schneller als bisher und bringt neben Storybook auch Anbindungen an Playwright und Cypress.",
       "url": "https://www.heise.de/news/Cloud-Service-Chromatic-Visuelles-Testing-in-Storybook-Playwright-und-Cypress-9669774.html",
       "image_title": "Symbolbild Hände an Laptop-Tastatur"
-    },
-    {
-      "title": "Entwurf für Medizinforschungsgesetz beschlossen, neuralgische Punkte bleiben",
-      "teaser": "Die Bundesregierung hat einen Entwurf für ein Medizinforschungsgesetz beschlossen. Künftig sollen Forschungsanträge im Eilverfahren genehmigt werden können.",
-      "url": "https://www.heise.de/news/Entwurf-fuer-Medizinforschungsgesetz-beschlossen-neuralgische-Punkte-bleiben-9669606.html",
-      "image_title": "Geld und Pillen"
-    },
-    {
-      "title": "Eve Blinds Collection: Rollos für HomeKit und Matter zur freien Konfiguration",
-      "teaser": "Wer seine Fenster automatisch beschatten will, greift zu smarten Rollos. HomeKit- und Matter-Spezialist Eve erweitert sein Angebot um viele Konfigurationen.",
-      "url": "https://www.heise.de/news/Eve-Blinds-Collection-Rollos-fuer-HomeKit-und-Matter-zur-freien-Konfiguration-9668686.html",
-      "image_title": "Eve Blinds in Zimmer"
-    },
-    {
-      "title": "Wenn Entwickler eine Übergangslösung bauen, bleibt der Windows-Dialog 30 Jahre",
-      "teaser": "Ein Microsoft-Entwickler hat den Dialog zum Formatieren von Datenträgen 1994 \"vorübergehend\" so erstellt, wie er heute noch in Windows 11 erscheint.",
-      "url": "https://www.heise.de/news/Wenn-Entwickler-eine-Uebergangsloesung-bauen-bleibt-der-Windows-Dialog-30-Jahre-9669570.html"
     },
     {
       "title": "Bertsch Innovation ist Champion im Bereich Product Information Management",
