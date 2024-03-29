@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-29T07:00:21",
+  "timestamp": "2024-03-29T08:00:37",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -164,6 +164,12 @@
       "url": "https://www.heise.de/hintergrund/Parallelisierte-Rechenpower-fuers-maschinelle-Lernen-9652435.html"
     },
     {
+      "title": "Apple Vision Pro: Texte schreiben durch die \"rosarote\" Brille",
+      "teaser": "Läuten Augmented-Reality-Tools wie Apple Vision Pro auch für Office-Aufgaben wie das Schreiben von Texten eine neue Zeit ein? Ein Praxistest liefert Antworten.",
+      "url": "https://www.heise.de/hintergrund/Apple-Vision-Pro-Texte-schreiben-durch-die-rosarote-Brille-9664875.html",
+      "image_title": "Der App Store auf dem iPhone"
+    },
+    {
       "title": "ChatGPT im Pflegeheim: So schlägt sich der soziale Roboter Navel",
       "teaser": "Der soziale Roboter Navel nutzt KI und spricht Menschen an. In einem Pflegeheim in Hannover haben wir ein Testmodell getroffen: Wie gut kann er mit Menschen?",
       "url": "https://www.heise.de/hintergrund/ChatGPT-im-Pflegeheim-So-schlaegt-sich-der-soziale-Roboter-Navel-9643725.html"
@@ -203,12 +209,6 @@
       "image_title": "KI-Update"
     },
     {
-      "title": "Digitale Verwaltung: NRW setzt auf Cloud-Lösung von Ionos und Computacenter",
-      "teaser": "US-Hyperscaler wie Amazon oder Google können in NRW vorerst nicht fensterln. Das Land will die Verwaltung mit europäischen Dienstleistern nach vorn bringen.",
-      "url": "https://www.heise.de/news/Digitale-Verwaltung-NRW-setzt-auf-Cloud-Loesung-von-Ionos-und-Computacenter-9670616.html",
-      "image_title": "Server-Hardware"
-    },
-    {
       "title": "HeizungstauschHeizungsförderung 2024 – was Sie wissen müssen",
       "teaser": "Seit kurzem können Eigentümer die neue Heizungsförderung beantragen. Was Sie beachten müssen.",
       "url": "https://www.heise.de/ratgeber/Heizungsfoerderung-2024-beantragen-So-funktioniert-s-das-muessen-Sie-wissen-9654482.html",
@@ -229,6 +229,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 Euro sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Digitale Verwaltung: NRW setzt auf Cloud-Lösung von Ionos und Computacenter",
+      "teaser": "US-Hyperscaler wie Amazon oder Google können in NRW vorerst nicht fensterln. Das Land will die Verwaltung mit europäischen Dienstleistern nach vorn bringen.",
+      "url": "https://www.heise.de/news/Digitale-Verwaltung-NRW-setzt-auf-Cloud-Loesung-von-Ionos-und-Computacenter-9670616.html",
+      "image_title": "Server-Hardware"
     },
     {
       "title": "Marimo: Alternative zu Jupyter-Notebooks kurz vorgestellt",
@@ -297,14 +303,14 @@
       "image_title": "Stern mit Materiestrom"
     },
     {
-      "title": "c’t-Workshop: CI/CD mit GitLab lernen und vertiefen",
-      "teaser": "Im zweitägigen c’t-Workshop lernen Sie Continuous Integration und Continuous Delivery mit GitLab kennen, üben den Umgang und vertiefen Ihr Wissen.",
-      "url": "https://www.heise.de/news/c-t-Workshop-CI-CD-mit-GitLab-lernen-und-vertiefen-9669970.html"
-    },
-    {
       "title": "So wird das Data Center fit für KI",
       "teaser": "Cloud-Services für KI sind einfach und flexibel zu nutzen, haben aber auch Nachteile. Wann das eigene Rechenzentrum die bessere Alternative ist und was bei der KI-freundlichen Data-Center-Modernisierung zu beachten ist!",
       "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/ki/beitrag/so-wird-das-data-center-fit-fuer-kuenstliche-intelligenz-4703"
+    },
+    {
+      "title": "c’t-Workshop: CI/CD mit GitLab lernen und vertiefen",
+      "teaser": "Im zweitägigen c’t-Workshop lernen Sie Continuous Integration und Continuous Delivery mit GitLab kennen, üben den Umgang und vertiefen Ihr Wissen.",
+      "url": "https://www.heise.de/news/c-t-Workshop-CI-CD-mit-GitLab-lernen-und-vertiefen-9669970.html"
     },
     {
       "title": "WLAN in Wokwi nutzen mit dem ESP32 und dem Pi Pico W",
@@ -359,12 +365,6 @@
       "teaser": "Die Kompaktkameras GR-III und GR-IIIx erhalten mit dem Zusatz HDF einen Highlight-Diffusion-Filter.",
       "url": "https://www.heise.de/news/Glanzlichtfilter-fuer-Ricohs-GR-III-Kompaktkameras-9669865.html",
       "image_title": "GR-III-Kameras auf Tisch"
-    },
-    {
-      "title": "Diesel-Skandal: Klage gegen Mercedes erfolgreich",
-      "teaser": "Das OLG Stuttgart urteilt, dass unzulässige Abschalteinrichtungen in Mercedes-Dieselmotoren waren. Für Verbraucherschützer ist das aber nur ein Teilerfolg.",
-      "url": "https://www.heise.de/news/Diesel-Skandal-Klage-gegen-Mercedes-Erfolgreich-9669861.html",
-      "image_title": "Mercedes-Stern"
     },
     {
       "title": "USA: Polizei will Daten zu allen, die bestimmte YouTube-Videos angesehen haben",
@@ -627,16 +627,15 @@
       "image_title": "WALTER-Board. Man sieht den ESP-32 und das 5G-Modul."
     },
     {
-      "title": "3D-Drucker im Test: Drucker Prusa MK4 und Bambu Lab P1S",
-      "teaser": "3D-Druck war lange ein Hobby für Spezialisten. Mit dem Prusa MK4 und dem Bambu Lab P1S beweisen zwei Drucker, dass es einfacher geht. Wir haben sie getestet.",
-      "url": "https://www.heise.de/tests/3D-Drucker-im-Test-Drucker-Prusa-MK4-und-Bambu-Lab-P1S-9665173.html",
-      "image_title": ","
-    },
-    {
       "title": "Smart Home: Was der Adminstrator bei der Wartung des Systems beachten sollte",
       "teaser": "Einmal im Jahr sollte sich der Admin hinsetzen und gezielt das Smart-Home-System auf den aktuellsten Stand bringen. So klappt das systematisch und effizient.",
       "url": "https://www.heise.de/ratgeber/Smart-Home-Was-der-Adminstrator-bei-der-Wartung-des-Systems-beachten-sollte-9648824.html",
       "image_title": ", Www.freepik.com/Designed by macrovector"
+    },
+    {
+      "title": "Arduino-Lehrsystem Cube: Alles auf einem Board",
+      "teaser": "Alles, was man zum Lernen mit und über den Arduino braucht, bietet das Lehrsystem Funduino Cube auf einem Board.",
+      "url": "https://www.heise.de/news/Arduino-Lehrsystem-Cube-Alles-auf-einem-Board-9665038.html"
     },
     {
       "title": "Die Renaissance der analogen Fotografie",
@@ -751,36 +750,38 @@
       "url": "https://www.techstage.de/bestenliste/top-7-die-besten-maehroboter-ohne-begrenzungskabel-mit-kamera-und-gps/sdv0h6p?wt_mc=intern.red.techstage.techstage_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Ukraine-Krieg, Nato und Russland: Perverses Spiel mit der nuklearen Gefahr",
-      "teaser": "Die Zeichen stehen auf Eskalation. Die größte Bedrohung wird im Westen leichtfertig abgetan. Wie dramatisch die Zuspitzung ist, zeigt ein Abgleich der Debatte mit der Lage Ende 2018.",
-      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Nato-und-Russland-Perverses-Spiel-mit-der-nuklearen-Gefahr-9208766.html"
+      "title": "Fukushima: Japan will radioaktiv kontaminiertes Wasser ins Meer leiten",
+      "teaser": "Energie und Klima – kompakt: Japans Nachbarn sind empört über das Verhalten der Regierung in Tokio. Doch wie gefährlich ist das mit Tritium verunreinigte Kühlwasser? Was bereitet Wissenschaftlern Sorgen?",
+      "url": "https://www.heise.de/tp/features/Fukushima-Japan-will-radioaktiv-kontaminiertes-Wasser-ins-Meer-leiten-9208744.html"
     },
     {
-      "title": "Gefährliche Stiche: Bringt der Klimawandel auch tropische Krankheiten?",
-      "teaser": "Steigende Temperaturen helfen der Asiatischen Tigermücke oder der Anopheles-Mücke, in Deutschland zu überwintern. Wann werden sie als Krankheitsüberträger gefährlich? Und was kann man tun?",
-      "url": "https://www.heise.de/tp/features/Gefaehrliche-Stiche-Bringt-der-Klimawandel-auch-tropische-Krankheiten-9207996.html"
+      "title": "China beschränkt Export wichtiger Mineralien: Europas grüner Wandel bedroht",
+      "teaser": "Der Umgang zwischen EU und China wird zunehmend unfreundlich. Die Entscheidung Beijings hat ein Vorspiel in Europa. Das sind die Hintergründe.",
+      "url": "https://www.heise.de/tp/features/China-beschraenkt-Export-wichtiger-Mineralien-Europas-gruener-Wandel-bedroht-9206885.html",
+      "image_title": "China schränkt Export von Mineralien für grüne Technologien ein."
     },
     {
-      "title": "Debatten: Wovon Whataboutism ablenkt",
-      "teaser": "Eine rhetorische Allzweckwaffe und ihr Einsatz in Diskussionen über Assange oder den Ukraine-Krieg. Warum das in polarisierten Meinungsstreits so beliebte Totschlagargument hochproblematisch ist.",
-      "url": "https://www.heise.de/tp/features/Debatten-Wovon-Whataboutism-ablenkt-9207254.html"
+      "title": "Wenn selbst progressive Stimmen Kriegs-Propaganda verbreiten",
+      "teaser": "Ein Fall in den USA zeigt: Der Ukraine-Krieg führt zu Kontroversen über alle Lager hinweg. Verunglimpfungen führen aber nur zu Streit. Warum sind Verhandlungen mit Russland für viele ein rotes Tuch?",
+      "url": "https://www.heise.de/tp/features/Wenn-selbst-progressive-Stimmen-Kriegs-Propaganda-verbreiten-9208224.html"
     },
     {
-      "title": "Warum \"Horizon Forbidden West\" auf dem PC ohne Raytracing erscheint",
-      "teaser": "Der PC-Port von \"Horizon Forbidden West\" muss ohne verbesserte Raytracing-Beleuchtung auskommen. Dafür gibt es mehrere Gründe.",
-      "url": "https://www.heise.de/news/Warum-Horizon-Forbidden-West-auf-dem-PC-ohne-Raytracing-erscheint-9665693.html"
+      "title": "Geklaute AirPods sorgen für SWAT-Einsatz bei unschuldiger Familie",
+      "teaser": "Apples \"Wo ist?\"-Funktion kann zu problematischen Behördeneinsätzen führen, wie der Fall einer Familie aus der Nähe von Saint Louis zeigt.",
+      "url": "https://www.heise.de/news/Geklaute-AirPods-sorgen-fuer-SWAT-Einsatz-bei-unschuldiger-Familie-9667046.html",
+      "image_title": "Symboilbild: SWAT-Angriff auf AirPods​"
     },
     {
-      "title": "Tipp: YouTube Music auf dem HomePod hinterlegen und abspielen",
-      "teaser": "Es muss nicht immer Apple Music sein: Auch alternative Streamingdienste sind über Apples Smartspeaker abhörbar. So klappt es mit YouTube Music.",
-      "url": "https://www.heise.de/ratgeber/Tipp-YouTube-Music-auf-dem-HomePod-hinterlegen-und-abspielen-9666220.html",
-      "image_title": "eSIM-Übertragung nicht möglich"
+      "title": "China: Apple kann angeblich Tencent für wichtige Vision-Pro-Apps gewinnen",
+      "teaser": "China soll einer der nächsten Märkte für Apples Augmented-Reality-Headset werden. Nun soll sich Apple mit dem großen Player Tencent einig geworden sein.",
+      "url": "https://www.heise.de/news/China-Apple-kann-angeblich-Tencent-fuer-wichtige-Vision-Pro-Apps-gewinnen-9667411.html",
+      "image_title": "Vision Pro mit Logos von Tencent-Apps"
     },
     {
-      "title": "Kawasaki Ninja 500 SE / Z 500: Modellpflege mit Hubraum-Plus",
-      "teaser": "Kawasaki wertet seine beliebten Einsteigermodelle erheblich auf. Größerer Hubraum bringt mehr Drehmoment und bessere Fahrbarkeit, der Preis bleibt fast gleich.",
-      "url": "https://www.heise.de/hintergrund/Kawasaki-Ninja-500-SE-Z-500-Modellpflege-mit-Hubraum-Plus-9658953.html",
-      "image_title": "Kawasaki 500"
+      "title": "Bugfix-Updates: Apple stellt iOS 17.4.1, iPadOS 17.4.1 und visionOS 1.1.1 bereit",
+      "teaser": "Apple hat in der Nacht zum Freitag kleinere Updates für iPads, iPhones und die Vision Pro publiziert. Sie enthalten teils wichtige Bugfixes.",
+      "url": "https://www.heise.de/news/Bugfix-Updates-Apple-stellt-iOS-17-4-1-iPadOS-17-4-1-und-visionOS-1-1-1-bereit-9662806.html",
+      "image_title": "iOS 17"
     },
     {
       "title": "VPN-Test 2024: Die besten VPN-Anbieter im Vergleich",
