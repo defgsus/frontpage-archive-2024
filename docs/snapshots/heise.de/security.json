@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-30T08:00:43",
+  "timestamp": "2024-03-30T09:00:59",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Backdoor in liblzma",
+      "url": "https://www.heise.de/news/Hintertuer-in-xz-Bibliothek-gefaehrdet-SSH-Verbindungen-9671317.html"
+    },
+    {
       "title": "SugarCRM",
       "url": "https://www.heise.de/news/Neue-SugarCRM-Versionen-schliessen-kritische-Luecken-9670436.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Loadbalancer-Sicherheitsluecken-in-Loadmaster-von-Progress-Kemp-9666253.html"
     },
     {
-      "title": "WiX Toolset",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-in-Microsofts-WiX-Installer-Toolset-gestopft-9664602.html"
+      "title": "Hintertür in xz-Bibliothek gefährdet SSH-Verbindungen",
+      "teaser": "Der Angriff wurde offenbar von langer Hand geplant. Ein möglicherweise staatlicher Akteur versteckte eine Backdoor in der liblzma-Bibliothek.",
+      "url": "https://www.heise.de/news/Hintertuer-in-xz-Bibliothek-gefaehrdet-SSH-Verbindungen-9671317.html",
+      "image_title": "Künstlerische Darstellung einer Computerplatine mit aufgemaltem Pferd"
     },
     {
       "title": "iX-Workshop IT-Sicherheit für KMUs: Effektive Maßnahmen und Best Practices",
@@ -154,11 +160,6 @@
       "title": "Last Call: Ethical Hacking für Admins – werde Pentester in unserer Webinar-Serie",
       "teaser": "In fünf Webinaren, vom 24. April bis 19. Juni, lernen Interessierte das Handwerk des Penetration Testers. Damit sind Sie Angreifern immer einen Schritt voraus.",
       "url": "https://www.heise.de/news/Last-Call-Ethical-Hacking-fuer-Admins-werde-Pentester-in-unserer-Webinar-Serie-9657452.html"
-    },
-    {
-      "title": "Nach Taurus-Leaks: Neues BSI-Sicherheitskennzeichen für Videokonferenzen",
-      "teaser": "Grundlage für das Kennzeichen ist eine Selbstverpflichtung der Anbieter. Einige wichtige Sicherheitsmerkmale sind jedoch weiter freiwillig.",
-      "url": "https://www.heise.de/news/Nach-Taurus-Leaks-Neues-BSI-Sicherheitskennzeichen-fuer-Videokonferenzen-9666336.html"
     },
     {
       "title": "heise security tour 2024",
