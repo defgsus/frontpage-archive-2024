@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-31T15:00:31",
+  "timestamp": "2024-03-31T16:00:54",
   "url": "https://www.faz.net/aktuell/",
   "response": {
     "status": 200
@@ -74,6 +74,12 @@
     {
       "type": null,
       "src": "https://www.faz.net/dist/scripts/main_faz-gdpr.dbb9086b646827b435d8.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://dynamic.faz.net/red/pym/pym.min.js",
       "id": null,
       "text": null
     },
@@ -164,7 +170,7 @@
   ],
   "articles": [
     {
-      "title": "Spitzengastronomie : Das Sterben der Sternerestaurants",
+      "title": "Spitzengastronomie : Warum die Spitzengastronomie in der Krise steckt",
       "url": "https://www.faz.net/aktuell/wirtschaft/das-sterben-der-sternerestaurants-19605481.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Kleine Portionen für großes Geld: Vielen sind die Sternerestaurants zu teuer geworden."
@@ -253,15 +259,19 @@
       "image_title": "Werbung mit Witwen"
     },
     {
-      "title": "Rassismus im Fußball : Der Vorkämpfer Vinicius Junior",
-      "url": "https://www.faz.net/aktuell/sport/fussball/rassismus-im-fussball-vorkaempfer-vinicius-junior-von-real-madrid-19617669.html",
+      "title": "Fitnessgeräte : Es geht bergab für die Peloton-Aktie",
+      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/fitnessgeraete-es-geht-bergab-fuer-die-peloton-aktie-19610739.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Hofft auf Veränderung: Vinicius von Real Madrid"
+      "image_title": "Nach der Corona-Krise sind viele Sportler wieder in ein richtiges Fitnessstudio zurückgekehrt und trainieren nicht mehr nur zu Hause."
     },
     {
-      "title": "Bundesliga im Liveticker : Köln hofft auf mehr als einen Punkt in Augsburg",
+      "title": "Bundesliga im Liveticker : Stuttgarts frühes Tor zählt nicht",
       "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fussball-bundesliga-heute-liveticker-mit-spielplan-tabelle-und-teams-18727822.html",
       "image_url": "https://www.faz.net/img/leer.gif"
+    },
+    {
+      "title": "Papst über Benedikt : Franziskus sieht seinen Vorgänger als „Übergangspapst“",
+      "url": "https://www.faz.net/aktuell/politik/ausland/papst-franziskus-sieht-in-benedikt-uebergangspapst-19623175.html"
     },
     {
       "title": "Zweite Liga am Sonntag : HSV und Schalke stolpern schon wieder",
@@ -270,28 +280,38 @@
       "image_title": "Nicht zu fassen: HSV-Trainer Steffen Baumgart während der Partie gegen Fürth"
     },
     {
-      "title": "In der Nähe von Turin : 25 Menschen erleiden nach Gasleck in Kirche Kohlenmonoxid-Vergiftung",
-      "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/italien-25-menschen-nach-gasleck-in-kirche-im-krankenhaus-19623108.html"
+      "title": "Testen Sie ihr Oster-Wissen : Wer verfasste den „Osterspaziergang“?",
+      "url": "https://www.faz.net/aktuell/spiele/news-quiz/wer-verfasste-den-osterspaziergang-testen-sie-ihr-wissen-im-quiz-der-faz-19605899.html"
     },
     {
-      "title": "Motorradfahrer stürzt schwer : Tödlicher Unfall auf dem Hockenheimring",
-      "url": "https://www.faz.net/aktuell/sport/formel-1/motorsport/toedlicher-unfall-mann-stirbt-auf-hockenheimring-bei-racefoxx-1000-km-19623039.html"
+      "title": "Leverkusener Last-Minute-Sieg : „Mein Herz macht das nicht mehr lange mit“",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/bayer-leverkusen-nach-2-1-gegen-tsg-hoffenheim-vor-bundesliga-meisterschaft-19622791.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Leverkusen wie es tanzt und lacht: Das Team von Xabi Alonso (Mitte) gewinnt auch gegen Hoffenheim."
     },
     {
-      "title": "Kommunalwahlen in der Türkei : Schüsse auf die Wahlgegner",
-      "url": "https://www.faz.net/aktuell/politik/ausland/kommunalwahlen-in-der-tuerkei-schuesse-auf-die-wahlgegner-19622937.html"
+      "title": "Nächstes Remis in Augsburg : Köln bleibt auf Abstiegsplatz",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/1-fc-koeln-spielt-gegen-fc-augsburg-remis-und-bleibt-auf-abstiegsplatz-19591917.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Sargis Adamyan und der 1. FC Köln spielen Remis beim FC Augsburg."
     },
     {
-      "title": "Film „Herrscher der Zeit“ : In den Tiefen des Alls begegnet der Mensch vor allem sich selbst",
+      "title": "0:2 in Bundesliga gegen BVB : Schonungslose Kritik beim FC Bayern",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fc-bayern-muenchen-unterliegt-borussia-dortmund-kritik-von-joshua-kimmich-19622664.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "„Die Einstellung ist unerklärlich“: Joshua Kimmich übt deutliche Kritik an der Leistung des FC Bayern."
+    },
+    {
+      "title": "Der Walkman ist wieder da : Läuft wieder",
+      "url": "https://www.faz.net/aktuell/technik-motor/technik/der-walkman-ist-wieder-da-19608757.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Frisch aus China: Der Walkman. Wer hat noch alte Kassetten?"
+    },
+    {
+      "title": "Film „Herrscher der Zeit“ : Geraucht wird selbst im Raumschiffcockpit",
       "url": "https://www.faz.net/aktuell/feuilleton/medien/science-fiction-animationsfilm-herrscher-der-zeit-von-rene-laloux-19615575.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Irrfahrt durchs All ohne Eile: Jaffar und seine Crew wollen Piel auf Perdide retten."
-    },
-    {
-      "title": "„Seventy One Gin“ : Ein Getränk wie ein Luxus-Parfum",
-      "url": "https://www.faz.net/aktuell/stil/essen-trinken/getraenke/seventy-one-gin-neuer-luxus-gin-von-mode-fotograf-mert-alas-19611275.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Goldener Martini mit „Seventy One Gin“"
     },
     {
       "title": "Ukraine-Liveblog : Russland zieht 150.000 Wehrpflichtige ein",
@@ -312,12 +332,12 @@
       "image_title": "Franziskus während des Palmsonntag-Gottesdienstes in Rom"
     },
     {
-      "title": "Patrick Dempsey im Interview : „Meine Frau hat mir gezeigt, wie ich meine Haut richtig pflege\"",
-      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/wie-patrick-dempsey-privat-ist-19577606.html"
+      "title": "Rassismus im Fußball : Der Vorkämpfer Vinicius Junior",
+      "url": "https://www.faz.net/aktuell/sport/fussball/rassismus-im-fussball-vorkaempfer-vinicius-junior-von-real-madrid-19617669.html"
     },
     {
-      "title": "Die große Osterlüge : Ist es gut, wenn Kinder an den Osterhasen glauben?",
-      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/warum-man-kindern-nicht-vom-osterhasen-vorluegen-sollte-19616477.html"
+      "title": "Kommunalwahlen in der Türkei : Schüsse auf die Wahlgegner",
+      "url": "https://www.faz.net/aktuell/politik/ausland/kommunalwahlen-in-der-tuerkei-schuesse-auf-die-wahlgegner-19622937.html"
     },
     {
       "title": "Robert Habeck im Interview : „Wenn Putin nicht gestoppt wird, hört er nicht auf“",
@@ -392,22 +412,28 @@
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
-      "title": "0:2 in Bundesliga gegen BVB : Schonungslose Kritik beim FC Bayern",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fc-bayern-muenchen-unterliegt-borussia-dortmund-kritik-von-joshua-kimmich-19622664.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "„Die Einstellung ist unerklärlich“: Joshua Kimmich übt deutliche Kritik an der Leistung des FC Bayern."
-    },
-    {
       "title": "Bücher über Sexfilme : Teile deinen Porno!",
       "url": "https://www.faz.net/aktuell/feuilleton/bilder-und-zeiten/welche-sachbuecher-ueber-pornographie-lesenswert-sind-19402604.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Madita Oeming zufolge haben wir „bis heute weder als Gesellschaft noch als sexuelle Individuen einen Umgang mit Pornos gefunden“."
     },
     {
+      "title": "Die große Osterlüge : Ist es gut, wenn Kinder an den Osterhasen glauben?",
+      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/warum-man-kindern-nicht-vom-osterhasen-vorluegen-sollte-19616477.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Wenn Kinder erfahren, dass es den Osterhasen gar nicht gibt, sind sie mitunter enttäuscht."
+    },
+    {
       "title": "Neuer Chef von Hensoldt : Verteidigung als Lebensaufgabe",
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/neuer-hensoldt-chef-oliver-doerre-lebensaufgabe-verteidigung-19613421.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Oliver Dörre übernimmt bei Hensoldt den Vorstandsvorsitz."
+    },
+    {
+      "title": "Gewalt vor den Wahlen : Abermals Bürgermeister in Mexiko erschossen",
+      "url": "https://www.faz.net/aktuell/politik/ausland/abermals-buergermeister-in-mexiko-erschossen-19623173.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Nach dem Mord: Spurensicherung am Tatort"
     },
     {
       "title": "Für Bier und gegen Gras : Ist Kiffen der CSU zu links?",
@@ -428,10 +454,10 @@
       "image_title": "Eine Demonstration gegen Gewalt gegen Frauen im Mai 2022 in Berlin"
     },
     {
-      "title": "Bayerns Ministerpräsident : Söder verlost „Mega-Osterei“ mit seinem Gesicht",
-      "url": "https://www.faz.net/aktuell/politik/inland/auf-x-soeder-verlost-mega-osterei-mit-seinem-gesicht-19622772.html",
+      "title": "Motorradfahrer stürzt schwer : Tödlicher Unfall auf dem Hockenheimring",
+      "url": "https://www.faz.net/aktuell/sport/formel-1/motorsport/toedlicher-unfall-mann-stirbt-auf-hockenheimring-bei-racefoxx-1000-km-19623039.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Markus Söder mit seinem Osterei"
+      "image_title": "Auf dem Hockenheimring hat sich ein tödlicher Unfall ereignet (Symbolbild)."
     },
     {
       "title": "Nicht zu viel wollen : Das sind die größten Fehler beim Laufen im Frühjahr",
@@ -450,12 +476,6 @@
       "url": "https://www.faz.net/aktuell/sport/mehr-sport/flandern-rundfahrt-matteo-jorgenson-im-fokus-nach-van-aert-sturz-19620071.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Wird nicht mehr unterschätzt: Matteo Jorgenson"
-    },
-    {
-      "title": "Klare Niederlage gegen BVB : Der FC Bayern gratuliert Leverkusen zur Meisterschaft",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fc-bayern-muenchen-verliert-gegen-bvb-in-bundesliga-leverkusen-vor-titel-19591915.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Beinahe ungläubig: FC-Bayern-Trainer Thomas Tuchel beim Spiel gegen den BVB"
     },
     {
       "title": "Pflegeleichte Hydrokultur : Jenseits von Erden",
@@ -610,6 +630,18 @@
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
+      "title": "In der Nähe von Turin : 25 Menschen erleiden nach Gasleck in Kirche Kohlenmonoxid-Vergiftung",
+      "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/italien-25-menschen-nach-gasleck-in-kirche-im-krankenhaus-19623108.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Die Kirchgänger wurden von dem Gasleck überrascht."
+    },
+    {
+      "title": "Patrick Dempsey im Interview : „Meine Frau hat mir gezeigt, wie ich meine Haut richtig pflege\"",
+      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/wie-patrick-dempsey-privat-ist-19577606.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Patrick Dempsey, geboren am 13. Januar 1966 im amerikanischen Bundesstaat Maine, ist Schauspieler und Model. Bekannt wurde er vor allem durch seine Rolle in der Fernsehserie „Grey's Anatomy“."
+    },
+    {
       "title": "Neun Monate nach Verschwinden : Knochen von verschwundenem Zweijährigen in Frankreich gefunden",
       "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/frankreich-knochen-von-verschwundenem-zweijaehrigen-gefunden-19623019.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -622,16 +654,10 @@
       "image_title": "Glücklicher Inselbewohner: Lenny Kravitz"
     },
     {
-      "title": "Auftritt nach Krebsdiagnose : König Charles III. besucht Ostergottesdienst",
-      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/koenig-charles-iii-besucht-ostergottesdienst-19622912.html",
+      "title": "„Seventy One Gin“ : Ein Getränk wie ein Luxus-Parfum",
+      "url": "https://www.faz.net/aktuell/stil/essen-trinken/getraenke/seventy-one-gin-neuer-luxus-gin-von-mode-fotograf-mert-alas-19611275.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Das Königspaar am Sonntag in Windsor."
-    },
-    {
-      "title": "Hohe Feinstaubkonzentration : Saharastaub über Deutschland zieht ab",
-      "url": "https://www.faz.net/aktuell/gesellschaft/saharastaub-ueber-deutschland-zieht-ab-19622891.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Schlechte Sicht: Saharastaub in Stuttgart im Jahr 2021."
+      "image_title": "Goldener Martini mit „Seventy One Gin“"
     },
     {
       "title": "Weltbeste marokkanische Köchin : „Beim Kochen müssen Sie Ihr Ego völlig hintanstellen“",
@@ -644,12 +670,6 @@
       "url": "https://www.faz.net/aktuell/stil/essen-trinken/wo-es-an-ostern-schon-spargel-gibt-und-wo-nicht-19622281.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Die ganze Kiste voll: Ein Erntehelfer im hessischen Weiterstadt am Karsamstag mit einem Korb voller Spargel."
-    },
-    {
-      "title": "Bildband über die Alpen : Hoch über Tirol",
-      "url": "https://www.faz.net/aktuell/stil/drinnen-draussen/tirol-magie-der-berge-von-heinz-zak-ein-besonderer-bildband-19576840.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Wolkentürme am Salfeinssee überwölben die Kalkkögel in den Stubaier Alpen."
     },
     {
       "title": "F.A.Z. Machtprobe : US-Wahl Spezial: „Bidens größter Feind ist die Couch“",
@@ -694,6 +714,12 @@
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
+      "title": "Metallindustrie Wetzlar : Herz aus Stahl mit Rhythmusstörung",
+      "url": "https://www.faz.net/aktuell/rhein-main/wirtschaft/bedrohte-arbeitsplaetze-in-wetzlar-krise-in-der-metallindustrie-19621039.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Abschiedsstimmung: Dem Conti-Standort Wetzlar droht das Aus - trotz seiner Entwicklungserfolge"
+    },
+    {
       "title": "Buch über Klaus Traube : Vom Atommanager zum Kernkraftgegner",
       "url": "https://www.faz.net/aktuell/rhein-main/wie-klaus-traube-vom-atommanager-zum-kernkraftgegner-wurde-19616394.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -709,12 +735,6 @@
       "url": "https://www.faz.net/aktuell/rhein-main/familientag-mit-gratis-eintritt-in-frankfurter-museen-faz-19267109.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Blick auf die Skyline von Frankfurt."
-    },
-    {
-      "title": "175 Jahre Nationalversammlung : Einigung auf allgemeine, gleiche, geheime und direkte Wahlen",
-      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/175-jahre-nationalversammlung-einigung-auf-allgemeine-wahlen-in-der-paulskirche-19613814.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Die Nationalversammlung in Frankfurt: Das Parlament tagte weit in das Jahr 1849 hinein. Im März wurde ein Gesetz beschlossen, dass künftige Wahlen regeln sollte."
     },
     {
       "title": "Exklusiv für FAZ-Leser : Osteraktion: Gemüsekonzentrat plus Geschenk der Woche",
@@ -765,12 +785,6 @@
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
-      "title": "Der Walkman ist wieder da : Läuft wieder",
-      "url": "https://www.faz.net/aktuell/technik-motor/technik/der-walkman-ist-wieder-da-19608757.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Frisch aus China: Der Walkman. Wer hat noch alte Kassetten?"
-    },
-    {
       "title": "Schlusslicht : Welche Bürokratie?",
       "url": "https://www.faz.net/aktuell/technik-motor/welche-buerokratie-19617983.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -787,6 +801,12 @@
       "url": "https://www.faz.net/aktuell/technik-motor/digital/kompaktkamera-fujifilm-x100-vi-im-test-19608759.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Retro ist angesagt: Die neue Fujifilm X100 VI kommt in zwei Farben, wenn sie überhaupt erhältlich ist."
+    },
+    {
+      "title": "Probefahrt Suzuki Swift : Alles einfach waku-waku",
+      "url": "https://www.faz.net/aktuell/technik-motor/motor/siebter-suzuki-swift-kommt-ende-april-19608741/flotter-383er-neuer-swift-19608736.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Flotter 383er: Neuer Swift"
     },
     {
       "title": "F.A.Z.-Stellenmarkt : Management: Jobs finden",
