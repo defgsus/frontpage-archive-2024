@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-03T07:00:59",
+  "timestamp": "2024-04-03T08:07:45",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Wordpress-Plug-in Layerslider",
+      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-Wordpress-Plug-in-Layerslider-9673458.html"
+    },
+    {
+      "title": "VMware SD-WAN Edge und Orchestrator",
+      "url": "https://www.heise.de/news/Codeschmuggelluecke-in-VMware-SD-WAN-Edge-und-Orchestrator-9673416.html"
+    },
+    {
       "title": "Google Chrome",
       "url": "https://www.heise.de/news/Google-Chrome-Entwickler-dichten-drei-Luecken-ab-arbeiten-an-Cookie-Schutz-9673342.html"
     },
@@ -40,12 +48,15 @@
       "url": "https://www.heise.de/news/Synology-Surveillance-Station-Mehrere-Luecken-gefaehrden-Sicherheit-9672500.html"
     },
     {
-      "title": "Cisco",
-      "url": "https://www.heise.de/news/Cisco-schliesst-Sicherheitsluecken-und-gibt-Tipps-zur-VPN-Absicherung-9672342.html"
+      "title": "Kritische Sicherheitslücke in Wordpress-Plug-in Layerslider",
+      "teaser": "IT-Forscher haben eine kritische Lücke im Wordpress-Plug-in Layerslider entdeckt. Es ist auf mehr als einer Million Seiten installiert.",
+      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-Wordpress-Plug-in-Layerslider-9673458.html"
     },
     {
-      "title": "Microsoft Sharepoint",
-      "url": "https://www.heise.de/news/CISA-warnt-vor-Angriffen-auf-Sharepoint-Sicherheitsluecken-9672371.html"
+      "title": "Codeschmuggellücke in VMware SD-WAN Edge und Orchestrator",
+      "teaser": "Drei Sicherheitslücken in VMwares SD-WAN Edge und Orchestrator ermöglichen Angreifern unter anderem, Schadcode einzuschleusen.",
+      "url": "https://www.heise.de/news/Codeschmuggelluecke-in-VMware-SD-WAN-Edge-und-Orchestrator-9673416.html",
+      "image_title": "Stilisierte Grafik: Brennendes VMware-Logo auf einem Laptop"
     },
     {
       "title": "Google Chrome: Entwickler dichten drei Lücken ab, arbeiten an Cookie-Schutz",
@@ -147,18 +158,6 @@
       "title": "Schon wieder zu viel Schadcode: Keine neuen Projekte für Python-Registry PyPI",
       "teaser": "Ein Ansturm von Paketen mit Schadcode hat die Betreiber des Python Package Index dazu veranlasst, die Aufnahme neuer Projekte und User zu stoppen.",
       "url": "https://www.heise.de/news/Schon-wieder-zu-viel-Schadcode-Keine-neuen-Projekte-fuer-Python-Registry-PyPI-9670240.html"
-    },
-    {
-      "title": "Benchmark: Welche KI taugt am besten für Cybersecurity?​",
-      "teaser": "Sicherheitsforscher von Sophos haben Kriterien für den Sicherheitsnutzen großer Sprachmodelle aufgestellt und die Modelle anschließend miteinander verglichen.​",
-      "url": "https://www.heise.de/news/Benchmark-Welche-KI-taugt-am-besten-fuer-Cybersecurity-9670198.html",
-      "image_title": "Ein technischen Symbolen umgebener Roboterkopf, der KI symbolisieren soll, schwebt zwischen zwei Händen."
-    },
-    {
-      "title": "\"Push Bombing\": Erneut Angriffe auf iPhone-Nutzer",
-      "teaser": "Kriminelle versuchen, Apple-Accounts gezielt zu übernehmen. Dafür nerven sie zuerst mit Push-Nachrichten auf den iPhones ihrer Opfer.",
-      "url": "https://www.heise.de/news/Push-Bombing-Erneut-Angriffe-auf-iPhone-Nutzer-9669386.html",
-      "image_title": "Person hält iPhone in der Hand"
     },
     {
       "title": "heise security tour 2024",
