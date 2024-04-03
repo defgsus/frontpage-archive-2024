@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-03T06:07:21",
+  "timestamp": "2024-04-03T07:00:59",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Google Chrome",
+      "url": "https://www.heise.de/news/Google-Chrome-Entwickler-dichten-drei-Luecken-ab-arbeiten-an-Cookie-Schutz-9673342.html"
+    },
+    {
       "title": "Synology Surveillance Station",
       "url": "https://www.heise.de/news/Synology-Surveillance-Station-Mehrere-Luecken-gefaehrden-Sicherheit-9672500.html"
     },
@@ -44,18 +48,10 @@
       "url": "https://www.heise.de/news/CISA-warnt-vor-Angriffen-auf-Sharepoint-Sicherheitsluecken-9672371.html"
     },
     {
-      "title": "Backdoor in liblzma",
-      "url": "https://www.heise.de/news/Hintertuer-in-xz-Bibliothek-gefaehrdet-SSH-Verbindungen-9671317.html"
-    },
-    {
-      "title": "Die xz-Hintertür: Das verborgene Oster-Drama​ der IT",
-      "teaser": "Mit einer Hintertür in einer unbekannten Kompressionsbibliothek hätten Unbekannte beinahe große Teile des Internets übernehmen können. Leider kein Scherz.",
-      "url": "https://www.heise.de/hintergrund/Die-xz-Hintertuer-das-verborgene-Oster-Drama-der-IT-9673038.html"
-    },
-    {
-      "title": "Bitdefender hat hochriskante Sicherheitslücke abgedichtet",
-      "teaser": "Durch eine Sicherheitslücke konnten Angreifer auf Rechnern mit Bitdefender-Virenschutz ihre Rechte ausweiten. Die Lücke wurde geschlossen.",
-      "url": "https://www.heise.de/news/Bitdefender-hat-hochriskante-Sicherheitsluecke-abgedichtet-9672841.html"
+      "title": "Google Chrome: Entwickler dichten drei Lücken ab, arbeiten an Cookie-Schutz",
+      "teaser": "Im Webbrowser Chrome wurden drei Sicherheitslücken entdeckt. Google arbeitet zudem an Mechanismen gegen Cookie-Diebstahl.",
+      "url": "https://www.heise.de/news/Google-Chrome-Entwickler-dichten-drei-Luecken-ab-arbeiten-an-Cookie-Schutz-9673342.html",
+      "image_title": "Stilisierte Grafik: Brennendes Google-Chrome-Logo auf einem Laptop"
     },
     {
       "title": "Fehlkonfiguration: Datenleak beim Open Worldwide Application Security Project",
@@ -86,6 +82,12 @@
       "url": "https://www.heise.de/news/Cisco-schliesst-Sicherheitsluecken-und-gibt-Tipps-zur-VPN-Absicherung-9672342.html"
     },
     {
+      "title": "Sharepoint-Sicherheitslücken: CISA warnt vor Angriffen in freier Wildbahn",
+      "teaser": "Die CISA warnt vor Angriffen, die auf Sicherheitslücken in Sharepoint beobachtet wurden. Updates gibt es schon länger.",
+      "url": "https://www.heise.de/news/CISA-warnt-vor-Angriffen-auf-Sharepoint-Sicherheitsluecken-9672371.html",
+      "image_title": "Stilisiertes Bild: Software-Update auf Laptop"
+    },
+    {
       "title": "Datenleck: AT&T setzt die Passwörter von Millionen von Kunden zurück",
       "teaser": "Nachdem Kontodaten von etwa 73 Millionen aktuellen und ehemaligen AT&T-Kontoinhabern im Dark Web aufgetaucht sind, wird das Unternehmen aktiv.",
       "url": "https://www.heise.de/news/Datenleck-AT-T-setzt-die-Passwoerter-von-Millionen-von-Kunden-zurueck-9672185.html",
@@ -106,6 +108,12 @@
       "title": "Nach Cyberangriff auf schottische Gesundheitsbehörde erste Daten veröffentlicht",
       "teaser": "Nach einem Ransomware-Angriff auf die schottische Gesundheitsbehörde \"NHS Dumfries and Galloway\" haben die Cyberkriminellen erste Daten veröffentlicht.",
       "url": "https://www.heise.de/news/Nach-Cyberangriff-auf-schottische-Gesundheitsbehoerde-erste-Daten-veroeffentlicht-9671652.html"
+    },
+    {
+      "title": "xz-Attacke: Hintertür enträtselt, weitere Details zu betroffenen Distros",
+      "teaser": "Experten halten die Hintertür in liblzma für den bis dato ausgeklügeltesten Supplychain-Angriff. Er erlaubt Angreifern, aus der Ferne Kommandos einzuschleusen.",
+      "url": "https://www.heise.de/news/xz-Attacke-Hintertuer-entraetselt-weitere-Details-zu-betroffenen-Distros-9671588.html",
+      "image_title": "Scherenschnitt: Durch eine leicht geöffnete Tür fällt Licht in einen dunklen Raum; in das Licht ist Binärcode eingeschrieben"
     },
     {
       "title": "Nachruf: Security-Legende Ross Anderson verstorben",
@@ -151,11 +159,6 @@
       "teaser": "Kriminelle versuchen, Apple-Accounts gezielt zu übernehmen. Dafür nerven sie zuerst mit Push-Nachrichten auf den iPhones ihrer Opfer.",
       "url": "https://www.heise.de/news/Push-Bombing-Erneut-Angriffe-auf-iPhone-Nutzer-9669386.html",
       "image_title": "Person hält iPhone in der Hand"
-    },
-    {
-      "title": "Phishing: Polizei nimmt mutmaßlichen Internetbetrüger fest",
-      "teaser": "In Brandenburg hat die Polizei einen Mann festgenommen, der sich Bankzugangsdaten per Phishing erschlich und sich telefonisch als Bank-Mitarbeiter ausgab.",
-      "url": "https://www.heise.de/news/Phishing-Polizei-nimmt-mutmasslichen-Internetbetrueger-fest-9669327.html"
     },
     {
       "title": "heise security tour 2024",
