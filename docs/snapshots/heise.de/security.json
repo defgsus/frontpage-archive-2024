@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-04T08:00:41",
+  "timestamp": "2024-04-04T09:01:03",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "IBM",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-DoS-Attacken-auf-IBM-Datenbank-Db2-moeglich-9674755.html"
+    },
+    {
       "title": "Ivanti Connect Secure, Policy Secure Gateways",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Ivanti-Schadcode-kann-durch-VPN-Verbindungen-schluepfen-9674642.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Patchday-Android-Angreifer-koennen-sich-hoehere-Rechte-verschaffen-9673480.html"
     },
     {
-      "title": "Wordpress-Plug-in Layerslider",
-      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-Wordpress-Plug-in-Layerslider-9673458.html"
+      "title": "Sicherheitslücken: DoS-Attacken auf IBM-Datenbank Db2 möglich",
+      "teaser": "Angreifer können an mehreren Lücken in IBM App Connect Enterprise, Db2 und Rational Build Forge ansetzen.",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-DoS-Attacken-auf-IBM-Datenbank-Db2-moeglich-9674755.html"
+    },
+    {
+      "title": "Sicherheitsupdates für Ivanti: Schadcode kann durch VPN-Verbindungen schlüpfen",
+      "teaser": "Es sind wichtige Sicherheitspatches für Ivanti Connect Secure und Policy Secure Gateways erschienen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Ivanti-Schadcode-kann-durch-VPN-Verbindungen-schluepfen-9674642.html",
+      "image_title": "Abstraktes Bild zu Netzwerken"
     },
     {
       "title": "Cisco dichtet Schwachstellen in mehreren Produkten ab",
@@ -149,18 +160,6 @@
       "teaser": "Die CISA warnt vor Angriffen, die auf Sicherheitslücken in Sharepoint beobachtet wurden. Updates gibt es schon länger.",
       "url": "https://www.heise.de/news/CISA-warnt-vor-Angriffen-auf-Sharepoint-Sicherheitsluecken-9672371.html",
       "image_title": "Stilisiertes Bild: Software-Update auf Laptop"
-    },
-    {
-      "title": "Datenleck: AT&T setzt die Passwörter von Millionen von Kunden zurück",
-      "teaser": "Nachdem Kontodaten von etwa 73 Millionen aktuellen und ehemaligen AT&T-Kontoinhabern im Dark Web aufgetaucht sind, wird das Unternehmen aktiv.",
-      "url": "https://www.heise.de/news/Datenleck-AT-T-setzt-die-Passwoerter-von-Millionen-von-Kunden-zurueck-9672185.html",
-      "image_title": "AT&T-Logo"
-    },
-    {
-      "title": "In-App-Browser als Spitzel: Aktivisten fordern Änderungen in Android und iOS",
-      "teaser": "In Apps integrierte Browser sind hochgradig problematisch, monieren Web-Entwickler. Sie fordern die EU zum Einschreiten gegen Apple und Google auf.",
-      "url": "https://www.heise.de/news/In-App-Browser-als-Spitzel-Aktivisten-fordern-Aenderungen-in-Android-und-iOS-9671930.html",
-      "image_title": "Person nutzt Social-Media-App auf Smartphone"
     },
     {
       "title": "heise security tour 2024",
