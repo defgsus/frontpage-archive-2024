@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-04T06:07:29",
+  "timestamp": "2024-04-04T07:01:00",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Cisco",
+      "url": "https://www.heise.de/news/Cisco-dichtet-Schwachstellen-in-mehreren-Produkten-ab-9674559.html"
+    },
+    {
       "title": "Patchday Android",
       "url": "https://www.heise.de/news/Patchday-Android-Angreifer-koennen-sich-hoehere-Rechte-verschaffen-9673480.html"
     },
@@ -44,20 +48,16 @@
       "url": "https://www.heise.de/news/Codeschmuggelluecke-in-VMware-SD-WAN-Edge-und-Orchestrator-9673416.html"
     },
     {
-      "title": "Google Chrome",
-      "url": "https://www.heise.de/news/Google-Chrome-Entwickler-dichten-drei-Luecken-ab-arbeiten-an-Cookie-Schutz-9673342.html"
+      "title": "Cisco dichtet Schwachstellen in mehreren Produkten ab",
+      "teaser": "Cisco hat zwölf Sicherheitsmitteilungen veröffentlicht. Die zugehörigen Updates dichten zahlreiche Sicherheitslücken ab.",
+      "url": "https://www.heise.de/news/Cisco-dichtet-Schwachstellen-in-mehreren-Produkten-ab-9674559.html",
+      "image_title": "Stilisiertes Bild: Ein Stapel brennender Cisco-Appliances"
     },
     {
       "title": "Politische Parteien vor der EU-Wahl häufiger Ziel von Cyberangriffen",
       "teaser": "Cyberangreifer konzentrieren sich derzeit offenbar stark auf politische Akteure und Parteien. Gefahr bestehe besonders durch sogenannte Hack-and-Leak-Angriffe.",
       "url": "https://www.heise.de/news/Politische-Parteien-vor-der-EU-Wahl-haeufiger-Ziel-von-Cyberangriffen-9674511.html",
       "image_title": "Ein Mann steht im Hoodie gebeugt vor einer Wand mit Nullen und Einsen."
-    },
-    {
-      "title": "Gestohlener Azure-Master-Key: Microsofts Sicherheitsversagen ist jetzt amtlich",
-      "teaser": "Vermeidbare Fehler, Unternehmenskultur der Unsicherheit: Die US-amerikanische Cybersicherheitsbehörde CISA erhebt massive Vorwürfe gegen Microsoft.",
-      "url": "https://www.heise.de/news/Klatsche-fuer-Microsoft-US-Behoerde-wirft-MS-Sicherheitsversagen-vor-9674431.html",
-      "image_title": "Microsoft Logo auf Niederlassung"
     },
     {
       "title": "Schwachstelle gepatcht: Playstation Portal kann keine PSP-Titel mehr spielen",
@@ -70,12 +70,6 @@
       "teaser": "Das US-amerikanische NIST unterhält die Schwachstellendatenbank NVD. Die hat einen großen Rückstau an Analysen. Jetzt sucht das NIST nach Auswegen.",
       "url": "https://www.heise.de/news/Sicherheitslueckendatenbank-NVD-NIST-sucht-den-Ausweg-aus-Analyserueckstand-9673988.html",
       "image_title": "Serverracks, die hellblau illuminiert sind"
-    },
-    {
-      "title": "Microsoft gibt Preise für verlängerten Windows-10-Support bekannt",
-      "teaser": "Wer Windows 10 über das offizielle Support-Ende hinaus nutzen will, kann erweiterten Support kaufen. Microsoft nennt jetzt Preise.",
-      "url": "https://www.heise.de/news/Microsoft-gibt-Preise-fuer-verlaengerten-Windows-10-Support-bekannt-9673555.html",
-      "image_title": "Stilisiertes Bild: Windows Update auf Laptop"
     },
     {
       "title": "Patchday Android: Angreifer können sich höhere Rechte verschaffen",
@@ -111,6 +105,16 @@
       "teaser": "Im Webbrowser Chrome wurden drei Sicherheitslücken entdeckt. Google arbeitet zudem an Mechanismen gegen Cookie-Diebstahl.",
       "url": "https://www.heise.de/news/Google-Chrome-Entwickler-dichten-drei-Luecken-ab-arbeiten-an-Cookie-Schutz-9673342.html",
       "image_title": "Stilisierte Grafik: Brennendes Google-Chrome-Logo auf einem Laptop"
+    },
+    {
+      "title": "Die xz-Hintertür: Das verborgene Oster-Drama​ der IT",
+      "teaser": "Mit einer Hintertür in einer unbekannten Kompressionsbibliothek hätten Unbekannte beinahe große Teile des Internets übernehmen können. Leider kein Scherz.",
+      "url": "https://www.heise.de/hintergrund/Die-xz-Hintertuer-das-verborgene-Oster-Drama-der-IT-9673038.html"
+    },
+    {
+      "title": "Bitdefender hat hochriskante Sicherheitslücke abgedichtet",
+      "teaser": "Durch eine Sicherheitslücke konnten Angreifer auf Rechnern mit Bitdefender-Virenschutz ihre Rechte ausweiten. Die Lücke wurde geschlossen.",
+      "url": "https://www.heise.de/news/Bitdefender-hat-hochriskante-Sicherheitsluecke-abgedichtet-9672841.html"
     },
     {
       "title": "Fehlkonfiguration: Datenleak beim Open Worldwide Application Security Project",
@@ -157,11 +161,6 @@
       "teaser": "In Apps integrierte Browser sind hochgradig problematisch, monieren Web-Entwickler. Sie fordern die EU zum Einschreiten gegen Apple und Google auf.",
       "url": "https://www.heise.de/news/In-App-Browser-als-Spitzel-Aktivisten-fordern-Aenderungen-in-Android-und-iOS-9671930.html",
       "image_title": "Person nutzt Social-Media-App auf Smartphone"
-    },
-    {
-      "title": "BSI-Chefin: Deutschland auf Cyberangriffe schlecht vorbereitet",
-      "teaser": "Die deutsche Abwehr gegen Hacker-Attacken hat nach Einschätzung von Claudia Plattner gefährliche Lücken.",
-      "url": "https://www.heise.de/news/BSI-Chefin-Deutschland-auf-Cyberangriffe-schlecht-vorbereitet-9671760.html"
     },
     {
       "title": "heise security tour 2024",
