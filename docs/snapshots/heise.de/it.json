@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-04T12:09:35",
+  "timestamp": "2024-04-04T13:00:53",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "Microsoft gibt Preise für verlängerten Windows-10-Support bekannt",
+      "teaser": "Wer Windows 10 über das offizielle Support-Ende hinaus nutzen will, kann erweiterten Support kaufen. Microsoft nennt jetzt Preise.",
+      "url": "https://www.heise.de/news/Microsoft-gibt-Preise-fuer-verlaengerten-Windows-10-Support-bekannt-9673555.html",
+      "image_title": "Stilisiertes Bild: Windows Update auf Laptop"
+    },
+    {
       "title": "\"Man-in-the-Middle\"-Methode: Facebook hat wohl Snapchat-Verschlüsselung umgangen",
       "teaser": "Im Rahmen einer Sammelklage gegen Facebook sind nun Dokumente zu einem alten Skandal aufgetaucht. Das Vorgehen gegen Snapchat war wohl aggressiver als gedacht.",
       "url": "https://www.heise.de/news/Man-in-the-Middle-Methode-Facebook-hat-wohl-Snapchat-Verschluesselung-umgangen-9668386.html",
@@ -38,10 +44,9 @@
       "image_title": "Edel-Notebooks verschiedener Hersteller"
     },
     {
-      "title": "Mini-PC: Intel legt ein KI-Dev-Kit mit Asus' NUC auf",
-      "teaser": "Intel weitet sein AI PC Acceleration Program erheblich aus. Zudem kommt ein Dev-Kit, das alle Interessierten kaufen können.",
-      "url": "https://www.heise.de/news/Mini-PC-Intel-legt-ein-KI-Dev-Kit-mit-Asus-NUC-auf-9667661.html",
-      "image_title": "Intel Meteor-Lake-Chips"
+      "title": "Arista EOS im Test: Switches und Netzwerkplattform fürs Datacenter",
+      "teaser": "Der Netzwerkausrüster Arista macht mit seiner einheitlichen Architektur einiges anders als die Konkurrenz. Wie die Architektur aufgebaut, zeigt unser Test.",
+      "url": "https://www.heise.de/tests/Arista-EOS-im-Test-Switches-und-Netzwerkplattform-fuers-Datacenter-9674570.html"
     },
     {
       "title": "Kurztests: Zwei CPU-Kühler und eine ultraleise Grafikkarte",
@@ -49,13 +54,25 @@
       "url": "https://www.heise.de/tests/Kurztests-Zwei-CPU-Kuehler-und-eine-ultraleise-Grafikkarte-9672872.html"
     },
     {
-      "title": "Secure Boot und Startverbote unter Linux",
-      "teaser": "Secure Boot soll Bootviren und Schadcode vorbeugen, indem das UEFI-BIOS nur signierte Bootloader und Kernel startet. Das gilt auch für Linux.",
-      "url": "https://www.heise.de/hintergrund/Secure-Boot-und-Startverbote-unter-Linux-9672292.html",
-      "image_title": "KI Midjourney Collage c’t"
+      "title": "Cloudflare passt seine Workers-Plattform auf Python an",
+      "teaser": "Mit der Integration von Pyodide in die Workers Runtime steht Entwicklern beim Schreiben neuer Cloudflare Workers Python alternativ zu JavaScript zur Verfügung.",
+      "url": "https://www.heise.de/news/Cloudflare-passt-seine-Workers-Plattform-auf-Python-an-9675212.html",
+      "image_title": "Cloudflare passt seine Workers-Plattform auf Python an"
     },
     {
-      "title": "Künstliche Intelligenz soll Gender-Klischees in Kinderbüchern aufdecken",
+      "title": "Störungen bei Kartenzahlung bei mehreren Banken und Sparkassen",
+      "teaser": "Am Donnerstagmorgen gab es Störungen beim Zahlungsverkehr mehrerer Banken und Sparkassen. Der DSGV nennt Ursachen.",
+      "url": "https://www.heise.de/news/Stoerungen-bei-Kartenzahlung-bei-mehreren-Banken-und-Sparkassen-9675242.html",
+      "image_title": "Stilisiertes Bild: Ein Geldautomat lehnt eine Zahlkarte ab"
+    },
+    {
+      "title": "Reolink Argus Track im Test: Kabellose 4K-Überwachungskamera mit zwei Objektiven",
+      "teaser": "Mit zwei dreh- und schwenkbaren Objektiven verfolgt die PTZ-Überwachungskamera Reolink Argus Track erkannte Objekte automatisch – inklusive sechsfachem Zoom.",
+      "url": "https://www.techstage.de/test/reolink-argus-track-im-test-kabellose-4k-ueberwachungskamera-mit-zwei-objektiven/2s6pe9p?wt_mc=intern.red.techstage.newsticker.rubrikstart.teaser.teaser",
+      "image_title": "##PHxVALUE_ALT_TEXT##"
+    },
+    {
+      "title": "Gender-Klischees in Kinderbüchern: KI-Tool erkennt Stereotype",
       "teaser": "Ein KI-Tool soll Gender-Klischees in Kinderbüchern aufdecken, ohne selbst Stereotype zu entwickeln. Ein Score soll über den Gender Bias aufklären.",
       "url": "https://www.heise.de/news/Kuenstliche-Intelligenz-soll-Gender-Klischees-in-Kinderbuechern-aufdecken-9674807.html",
       "image_title": "Ein aufgeschlagenes Buch, aus dem Glitzer aufsteigt"
@@ -67,7 +84,7 @@
       "image_title": "Hand auf Maus, die andere auf einer Tastatur"
     },
     {
-      "title": "NetBSD 10 mit WireGuard und verbesserter Virtualisierung erschienen",
+      "title": "NetBSD: Version 10 spricht WireGuard und verbessert Virtualisierung",
       "teaser": "NetBSD 10.0 unterstützt WireGuard-VPNs, verbessert die Leistung und baut Virtualisierung aus.",
       "url": "https://www.heise.de/news/NetBSD-10-mit-WireGuard-und-verbesserter-Virtualisierung-erschienen-9675102.html",
       "image_title": "NetBSD mit ctwm-Desktopumgebung auf Notebook, das auf Tisch steht"
@@ -85,7 +102,7 @@
       "image_title": "Arc will den Browser-Markt aufrollen"
     },
     {
-      "title": "Malware als Spiele-Cracks über Youtube verteilt",
+      "title": "Malware: Cyberkriminelle verteilen Malware über Videos auf Youtube",
       "teaser": "Teils auf verifizierten Youtube-Kanälen werden Spiele-Cracks versprochen. In Wirklichkeit jedoch wird Malware geliefert.",
       "url": "https://www.heise.de/news/Malware-als-Spiele-Cracks-ueber-Youtube-verteilt-9674800.html",
       "image_title": "Stilisiertes Bild: Ein Laptop zeigt das Youtube-Logo, rundherum fliegen Viren"
@@ -107,7 +124,7 @@
       "image_title": "iWork-Programme auf verschiedenen Plattformen"
     },
     {
-      "title": "iX-Workshop: Kostenkontrolle in der Public Cloud",
+      "title": "iX-Workshop: Was kostet die Cloud? Mit dem richtigen Durchblick Geld sparen",
       "teaser": "Einblick in die Gebührenmodelle der großen Public-Cloud-Anbieter: Entdecken Sie, wie Sie mit den richtigen Einstellungen & Tools Kosten reduzieren. (Last Call)",
       "url": "https://www.heise.de/news/iX-Workshop-Kostenkontrolle-in-der-Public-Cloud-9672826.html",
       "image_title": "iX-Workshop Kosteneffiziente Cloud-Nutzung"
@@ -123,23 +140,6 @@
       "teaser": "Test des MacBook Air mit M3 • Vision Pro • Katastrophensichere Backups • iPhone-Kamera ausreizen • Apple-Familienfreigabe nutzen • 4K-Monitore • USB-C-Hubs",
       "url": "https://www.heise.de/news/Mac-i-Heft-2-2024-jetzt-vorab-im-heise-Shop-erhaeltlich-9673452.html",
       "image_title": "Cover der Mac & i Heft 2/2024"
-    },
-    {
-      "title": "Bei X gibt es jetzt gratis blaue Haken für manche Konten",
-      "teaser": "Wer 2500 verifizierte Abonnenten bei X hat, bekommt nun alle Premium-Funktionen – kostenlos und ohne Möglichkeit, Einspruch einzulegen.",
-      "url": "https://www.heise.de/news/Bei-X-gibt-es-jetzt-gratis-blaue-Haken-fuer-manche-Konten-9674549.html",
-      "image_title": "Elon Musik mit X im Hintergrund"
-    },
-    {
-      "title": "Cisco dichtet Schwachstellen in mehreren Produkten ab",
-      "teaser": "Cisco hat zwölf Sicherheitsmitteilungen veröffentlicht. Die zugehörigen Updates dichten zahlreiche Sicherheitslücken ab.",
-      "url": "https://www.heise.de/news/Cisco-dichtet-Schwachstellen-in-mehreren-Produkten-ab-9674559.html",
-      "image_title": "Stilisiertes Bild: Ein Stapel brennender Cisco-Appliances"
-    },
-    {
-      "title": "Last Call: KI-Management – lernen Sie KI-Tools im Unternehmen einzuführen",
-      "teaser": "Ab dem 23. 4. lernen Sie in 5 Webinaren, Künstliche Intelligenz in Arbeitsprozesse zu integrieren: von Einrichtung über Prompting bis zu Regulierung und Ethik.",
-      "url": "https://www.heise.de/news/Last-Call-KI-Management-lernen-Sie-KI-Tools-im-Unternehmen-einzufuehren-9657801.html"
     },
     {
       "title": "Low-Code ist nicht immer gleich Low-Code.",
