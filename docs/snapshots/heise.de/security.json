@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-05T05:00:58",
+  "timestamp": "2024-04-05T06:07:34",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Lexmark-Drucker",
+      "url": "https://www.heise.de/news/Lexmark-Hochriskante-Luecken-erlauben-Codeschmuggel-auf-Drucker-9675861.html"
+    },
+    {
       "title": "IBM",
       "url": "https://www.heise.de/news/Sicherheitsluecken-DoS-Attacken-auf-IBM-Datenbank-Db2-moeglich-9674755.html"
     },
@@ -44,20 +48,10 @@
       "url": "https://www.heise.de/news/Cisco-dichtet-Schwachstellen-in-mehreren-Produkten-ab-9674559.html"
     },
     {
-      "title": "Patchday Android",
-      "url": "https://www.heise.de/news/Patchday-Android-Angreifer-koennen-sich-hoehere-Rechte-verschaffen-9673480.html"
-    },
-    {
-      "title": "Google One VPN: Übergriffige Zugangs-App gefährdet Datenschutz",
-      "teaser": "Googles VPN-App verdreht eigenmächtig die DNS-Einstellungen von Windows. Das kann den Datenschutz negativ beeinflussen. Laut Google ist das Verhalten gewollt.",
-      "url": "https://www.heise.de/news/Google-One-VPN-Uebergriffige-Zugangs-App-gefaehrdet-Datenschutz-9675391.html",
-      "image_title": "Router mit angeschlossenen Kabeln"
-    },
-    {
-      "title": "Malware: Cyberkriminelle verteilen Malware über Videos auf Youtube",
-      "teaser": "Teils auf verifizierten Youtube-Kanälen werden Spiele-Cracks versprochen. In Wirklichkeit jedoch wird Malware geliefert.",
-      "url": "https://www.heise.de/news/Malware-als-Spiele-Cracks-ueber-Youtube-verteilt-9674800.html",
-      "image_title": "Stilisiertes Bild: Ein Laptop zeigt das Youtube-Logo, rundherum fliegen Viren"
+      "title": "Lexmark: Hochriskante Lücken erlauben Codeschmuggel auf Drucker",
+      "teaser": "Lexmark warnt vor Sicherheitslücken in diversen Drucker-Firmwares. Angreifer können Schadcode einschleusen. Updates sind verfügbar.",
+      "url": "https://www.heise.de/news/Lexmark-Hochriskante-Luecken-erlauben-Codeschmuggel-auf-Drucker-9675861.html",
+      "image_title": "Stilisierte Grafik: ein brennender Netzwerkdrucker"
     },
     {
       "title": "Sicherheitslücken: DoS-Attacken auf IBM-Datenbank Db2 möglich",
@@ -83,6 +77,12 @@
       "image_title": "Ein Mann steht im Hoodie gebeugt vor einer Wand mit Nullen und Einsen."
     },
     {
+      "title": "Gestohlener Azure-Master-Key: Microsofts Sicherheitsversagen ist jetzt amtlich",
+      "teaser": "Vermeidbare Fehler, Unternehmenskultur der Unsicherheit: Die US-amerikanische Cybersicherheitsbehörde CISA erhebt massive Vorwürfe gegen Microsoft.",
+      "url": "https://www.heise.de/news/Klatsche-fuer-Microsoft-US-Behoerde-wirft-MS-Sicherheitsversagen-vor-9674431.html",
+      "image_title": "Microsoft Logo auf Niederlassung"
+    },
+    {
       "title": "Schwachstelle gepatcht: Playstation Portal kann keine PSP-Titel mehr spielen",
       "teaser": "Sony hat eine Schwachstelle geschlossen, über die PSP-Spiele auf der Playstation Portal gespielt werden konnten. Die Hacker hatten den Fehler selbst gemeldet.",
       "url": "https://www.heise.de/news/Playstation-Portal-als-PSP-Emulator-Sony-patcht-die-Schwachstelle-9674255.html",
@@ -93,6 +93,12 @@
       "teaser": "Das US-amerikanische NIST unterhält die Schwachstellendatenbank NVD. Die hat einen großen Rückstau an Analysen. Jetzt sucht das NIST nach Auswegen.",
       "url": "https://www.heise.de/news/Sicherheitslueckendatenbank-NVD-NIST-sucht-den-Ausweg-aus-Analyserueckstand-9673988.html",
       "image_title": "Serverracks, die hellblau illuminiert sind"
+    },
+    {
+      "title": "Microsoft gibt Preise für verlängerten Windows-10-Support bekannt",
+      "teaser": "Wer Windows 10 über das offizielle Support-Ende hinaus nutzen will, kann erweiterten Support kaufen. Microsoft nennt jetzt Preise.",
+      "url": "https://www.heise.de/news/Microsoft-gibt-Preise-fuer-verlaengerten-Windows-10-Support-bekannt-9673555.html",
+      "image_title": "Stilisiertes Bild: Windows Update auf Laptop"
     },
     {
       "title": "Patchday Android: Angreifer können sich höhere Rechte verschaffen",
@@ -156,11 +162,6 @@
       "teaser": "Lernen Sie die wichtigsten Sicherheitslücken in Web-Anwendungen kennen und erfahren Sie, wie Sie sich erfolgreich schützen können. (10% Rabatt bis 15.04.)",
       "url": "https://www.heise.de/news/iX-Workshop-OWASP-Top-10-Sicherheitsrisiken-fuer-Webanwendungen-vermeiden-9665954.html",
       "image_title": "Online-Workshop: OWASP Top 10 – Sicherheitslücken in Webanwendungen vermeiden"
-    },
-    {
-      "title": "Synology Surveillance Station: Mehrere Lücken gefährden Sicherheit",
-      "teaser": "In der Software Surveillance Station von Synology klaffen Sicherheitslecks, die Angreifern etwa Codeschmuggel erlauben. Updates stopfen sie.",
-      "url": "https://www.heise.de/news/Synology-Surveillance-Station-Mehrere-Luecken-gefaehrden-Sicherheit-9672500.html"
     },
     {
       "title": "heise security tour 2024",
