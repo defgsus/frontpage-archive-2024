@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-06T17:00:54",
+  "timestamp": "2024-04-06T18:00:41",
   "url": "https://www.welt.de/politik/",
   "response": {
     "status": 200
@@ -26,11 +26,25 @@
   ],
   "articles": [
     {
-      "title": "Greta Thunberg bei Straßenblockade in Den Haag festgenommen",
+      "title": "Luftwaffe fängt russische Militärmaschine über der Ostsee ab",
+      "teaser": "Ein russisches Aufklärungsflugzeug, das ohne Transpondersignal unterwegs war, wurde von der deutschen Luftwaffe über der Ostsee abgefangen. Dazu waren Eurofighter am Samstag von Lettland aus gestartet.",
+      "url": "https://www.welt.de/politik/deutschland/",
+      "image_url": "https://img.welt.de/img/politik/deutschland/mobile250908458/5627938487-ci23x11-w20/Verabschiedungsappell-Luftwaffengeschwader-74.jpg",
+      "image_title": "Eurofighter starteten, um das russische Flugzeug abzufangen"
+    },
+    {
+      "title": "Greta Thunberg bei Protesten in Den Haag zweimal festgenommen",
       "teaser": "Die schwedische Klimaaktivistin Greta Thunberg ist während einer Blockade-Demonstration in den Niederlanden zweimal festgenommen worden. Zweck des Protests war es, gegen fossile Subventionen der Regierung zu demonstrieren.",
       "url": "https://www.welt.de/politik/ausland/",
       "image_url": "https://img.welt.de/img/bildergalerien/mobile250906250/4097932367-ci23x11-w20/NETHERLANDS-ENVIRONMENT-CLIMATE-DEMO.jpg",
       "image_title": "Polizisten nehmen Greta Thunberg in Den Haag fest"
+    },
+    {
+      "title": "AfD Brandenburg wählt Fraktionschef Berndt zum Spitzenkandidaten",
+      "teaser": "Hans-Christoph Berndt ist der AfD-Spitzenkandidat für die Landtagswahl im September in Brandenburg. Vor Parteimitgliedern warb der 68-Jährige unter anderem für das umstrittene rechte Konzept der sogenannten Remigration.",
+      "url": "https://www.welt.de/politik/deutschland/",
+      "image_url": "https://img.welt.de/img/politik/deutschland/mobile250908416/7217934297-ci23x11-w20/Landesparteitag-AfD-Brandenburg.jpg",
+      "image_title": "Landesparteitag AfD Brandenburg"
     },
     {
       "title": "Rund 750 Personen bei Al-Quds-Demonstration",
@@ -45,20 +59,6 @@
       "url": "https://www.welt.de/politik/ausland/",
       "image_url": "https://img.welt.de/img/bildergalerien/mobile250906890/1517931207-ci23x11-w20/MIDEAST-GAZA-KHAN-YOUNIS-ISRAEL-MILITARY-OPERATIONS.jpg",
       "image_title": "Israelische Soldaten in Chan Junis (Archivfoto)"
-    },
-    {
-      "title": "„Drohgebärden und Einschüchterungsversuche“ – Ampel will Kommunalpolitiker besser schützen",
-      "teaser": "Nach zahlreichen Angriffen auf Kommunalpolitiker sollen diese besser geschützt werden. Die Ampel-Regierung plant, sogenannte „Auskunftssperren“ einfacher beantragen zu können. Diese sollen es erschweren, Wohnadressen aus dem Melderegister zu erfragen.",
-      "url": "https://www.welt.de/politik/deutschland/",
-      "image_url": "https://img.welt.de/img/politik/deutschland/mobile250906692/5707938257-ci23x11-w20/Bundesinnenministerin-Nancy-Faeser-SPD.jpg",
-      "image_title": "Bundesinnenministerin Nancy Faeser (SPD)"
-    },
-    {
-      "title": "Deutscher Museumschef will für Meloni-Lager Bürgermeister von Florenz werden",
-      "teaser": "Der Deutsch-Italiener Eike Schmidt will sich für das Bürgermeisteramt von Florenz bewerben. Er geht für das Lager von Italiens Ministerpräsidentin Giorgia Meloni ins Rennen. Schmidt war zuletzt Direktor am Nationalmuseum in Neapel und stammt aus Freiburg.",
-      "url": "https://www.welt.de/politik/ausland/",
-      "image_url": "https://img.welt.de/img/bildergalerien/mobile250906252/9907930387-ci23x11-w20/Direktor-der-Uffizien-Galerie-Eike-Schmidt.jpg",
-      "image_title": "Eike Schmidt, ehemals Direktor der Uffizien-Galerie, während eines Interviews (Archivfoto)"
     },
     {
       "title": "„Die Polizei hat sich die Banner vorher zeigen lassen“",
@@ -94,6 +94,13 @@
       "image_url": "https://img.welt.de/img/politik/ausland/mobile250903486/3907934477-ci16x9-w20/Bildschirmfoto-2024-04-06-um-08-09-02-png.jpg",
       "image_title": "Kein alternativer Text für dieses Bild vorhanden",
       "author": "5 Min"
+    },
+    {
+      "title": "„Drohgebärden und Einschüchterungsversuche“ – Ampel will Kommunalpolitiker besser schützen",
+      "teaser": "Nach zahlreichen Angriffen auf Kommunalpolitiker sollen diese besser geschützt werden. Die Ampel-Regierung plant, sogenannte „Auskunftssperren“ einfacher beantragen zu können. Diese sollen es erschweren, Wohnadressen aus dem Melderegister zu erfragen.",
+      "url": "https://www.welt.de/politik/deutschland/",
+      "image_url": "https://img.welt.de/img/politik/deutschland/mobile250906692/5707938257-ci23x11-w20/Bundesinnenministerin-Nancy-Faeser-SPD.jpg",
+      "image_title": "Bundesinnenministerin Nancy Faeser (SPD)"
     },
     {
       "title": "Thüringer FDP wählt Thomas Kemmerich zum Spitzenkandidaten",
@@ -133,13 +140,6 @@
       "author": "Ricarda Breyton"
     },
     {
-      "title": "Schäuble wusste seit 2006 von langsam wachsenden Krebs",
-      "teaser": "2005 wurde Wolfgang Schäuble wieder Bundesinnenminister. Kurz nach Beginn der Legislaturperiode fanden Ärzte bei dem CDU-Politiker damals ein Prostatakarzinom, schreibt Schäuble in seinen Memoiren, die nun posthum erscheinen. Von der Erkrankung habe er nur Angela Merkel unterrichtet.",
-      "url": "https://www.welt.de/politik/deutschland/",
-      "image_url": "https://img.welt.de/img/bildergalerien/mobile250903652/2487932317-ci23x11-w20/80th-anniversary-of-the-Night-of-Broken-Glass-in-Germany.jpg",
-      "image_title": "Wolfgang Schäuble im Bundestag (Archivfoto)"
-    },
-    {
       "title": "Weltbild-Gutschein",
       "url": "https://www.welt.de/deals/"
     },
@@ -158,6 +158,13 @@
     {
       "title": "Thalia-Gutschein",
       "url": "https://www.welt.de/deals/"
+    },
+    {
+      "title": "Deutscher Museumschef will für Meloni-Lager Bürgermeister von Florenz werden",
+      "teaser": "Der Deutsch-Italiener Eike Schmidt will sich für das Bürgermeisteramt von Florenz bewerben. Er geht für das Lager von Italiens Ministerpräsidentin Giorgia Meloni ins Rennen. Schmidt war zuletzt Direktor am Nationalmuseum in Neapel und stammt aus Freiburg.",
+      "url": "https://www.welt.de/politik/ausland/",
+      "image_url": "https://img.welt.de/img/bildergalerien/mobile250906252/9907930387-ci23x11-w20/Direktor-der-Uffizien-Galerie-Eike-Schmidt.jpg",
+      "image_title": "Eike Schmidt, ehemals Direktor der Uffizien-Galerie, während eines Interviews (Archivfoto)"
     },
     {
       "title": "Auslaufmodell Erdogan – Die Türkei auf dem Weg in die Zukunft",
@@ -198,11 +205,11 @@
       "author": "Philipp Fritz"
     },
     {
-      "title": "Präsidentin trägt Schmuck-Imitate und will Luxusuhren nur geliehen haben",
-      "teaser": "Perus Präsidentin Boluarte wird nach einer Hausdurchsuchung von der Staatsanwaltschaft befragt. Es geht beim „Rolexgate“ um teure Uhren, ein Armband, Halsketten, Ohrringe. Ihre neueste Erklärung klingt anders als alles, was bisher bekannt war.",
-      "url": "https://www.welt.de/politik/ausland/",
-      "image_url": "https://img.welt.de/img/bildergalerien/mobile250903056/2397937357-ci23x11-w20/TOPSHOT-PERU-POLITICS-CORRUPTION-BOLUARTE.jpg",
-      "image_title": "TOPSHOT-PERU-POLITICS-CORRUPTION-BOLUARTE"
+      "title": "Schäuble wusste seit 2006 von langsam wachsenden Krebs",
+      "teaser": "2005 wurde Wolfgang Schäuble wieder Bundesinnenminister. Kurz nach Beginn der Legislaturperiode fanden Ärzte bei dem CDU-Politiker damals ein Prostatakarzinom, schreibt Schäuble in seinen Memoiren, die nun posthum erscheinen. Von der Erkrankung habe er nur Angela Merkel unterrichtet.",
+      "url": "https://www.welt.de/politik/deutschland/",
+      "image_url": "https://img.welt.de/img/bildergalerien/mobile250903652/2487932317-ci23x11-w20/80th-anniversary-of-the-Night-of-Broken-Glass-in-Germany.jpg",
+      "image_title": "Wolfgang Schäuble im Bundestag (Archivfoto)"
     },
     {
       "title": "„Judenwitze“, „Sieg Heil“-Schriftzüge und „Hitlergrüße“ im Klassenzimmer",
@@ -227,6 +234,13 @@
       "image_url": "https://img.welt.de/img/politik/deutschland/mobile250897384/6167937857-ci23x11-w20/Raubueberfall.jpg",
       "image_title": "Raubüberfall",
       "author": "Martin Lutz"
+    },
+    {
+      "title": "Präsidentin trägt Schmuck-Imitate und will Luxusuhren nur geliehen haben",
+      "teaser": "Perus Präsidentin Boluarte wird nach einer Hausdurchsuchung von der Staatsanwaltschaft befragt. Es geht beim „Rolexgate“ um teure Uhren, ein Armband, Halsketten, Ohrringe. Ihre neueste Erklärung klingt anders als alles, was bisher bekannt war.",
+      "url": "https://www.welt.de/politik/ausland/",
+      "image_url": "https://img.welt.de/img/bildergalerien/mobile250903056/2397937357-ci23x11-w20/TOPSHOT-PERU-POLITICS-CORRUPTION-BOLUARTE.jpg",
+      "image_title": "TOPSHOT-PERU-POLITICS-CORRUPTION-BOLUARTE"
     },
     {
       "title": "USA rechnen mit Irans Vergeltungsschlag bis Ende des Ramadans",
@@ -370,20 +384,6 @@
       "url": "https://www.welt.de/politik/ausland/",
       "image_url": "https://img.welt.de/img/vermischtes/kriminalitaet/mobile250884194/4927933337-ci23x11-w20/Rishi-Sunak-Departs-Downing-Street-for-PMQs-in-London.jpg",
       "image_title": "Westminster Palace, Sitz des britischen Parlaments in London"
-    },
-    {
-      "title": "„Große Bedrohung“ – 821 schwerkriminelle Banden agieren in Europa",
-      "teaser": "Italienische Mafia, albanische Familien-Clans, marokkanisch-niederländische Banden: Europol hat einen Bericht zu schwerkriminellen Netzwerken in Europa vorgelegt. Die 821 bedrohlichsten Banden hätten insgesamt mehr als 25.000 Mitglieder. Es geht um Drogenhandel und Menschenschmuggel.",
-      "url": "https://www.welt.de/politik/ausland/",
-      "image_url": "https://img.welt.de/img/bildergalerien/mobile250884074/1847934277-ci23x11-w20/Europol.jpg",
-      "image_title": "Blick auf das Gebäude von Europol in Den Haag"
-    },
-    {
-      "title": "Mehr als 1000 Rechtsextremisten haben Waffen-Erlaubnisse",
-      "teaser": "In Deutschland gab es Ende 2022 rund 1000 Rechtsextremisten und mehrere Hundert sogenannte Reichsbürger, die legal Waffen tragen dürfen. Das sind weniger als im Vorjahr – was allerdings auch an der Erfassungsweise liegen könnte. Eine Abgeordnete der Linken forderte „konkretes Handeln der Behörden“.",
-      "url": "https://www.welt.de/politik/deutschland/",
-      "image_url": "https://img.welt.de/img/bildergalerien/mobile250882966/1077939397-ci23x11-w20/Antrag-fuer-Ausstellung-eines-Waffenscheines.jpg",
-      "image_title": "Pistole mit Antrag für die Ausstellung eines Waffenscheines (Symbolbild)"
     },
     {
       "title": "„Dann wird Russland die Nato so schnell wie möglich angreifen wollen“",
