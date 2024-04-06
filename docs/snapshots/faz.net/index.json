@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-06T15:00:43",
+  "timestamp": "2024-04-06T16:01:03",
   "url": "https://www.faz.net/aktuell/",
   "response": {
     "status": 200
@@ -74,6 +74,12 @@
     {
       "type": null,
       "src": "https://www.faz.net/dist/scripts/main_faz-gdpr.dbb9086b646827b435d8.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://dynamic.faz.net/red/pym/pym.min.js",
       "id": null,
       "text": null
     },
@@ -164,25 +170,26 @@
   ],
   "articles": [
     {
+      "title": "Russlands Demographieproblem : Mehr Kinder für Putin",
+      "url": "https://www.faz.net/aktuell/wirtschaft/russlands-demographieproblem-putin-will-mehr-geburten-19633441.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Fest in Sankt Petersburg: Der Krieg macht das demographische Problem in aller Schärfe sichtbar."
+    },
+    {
       "title": "Ukraine in Not : Die Warnungen vor einem russischen Durchbruch",
-      "url": "https://www.faz.net/aktuell/politik/ausland/ukraine-krieg-warnungen-vor-einem-russischen-durchbruch-19633677.html",
+      "url": "https://www.faz.net/aktuell/politik/ausland/ukraine-krieg-warnungen-vor-einem-russischen-durchbruch-19633677.html"
+    },
+    {
+      "title": "Nächster Rückschlag : FC Bayern blamiert sich gegen Aufsteiger Heidenheim",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fc-bayern-muenchen-verliert-beim-1-fc-heidenheim-in-bundesliga-nach-fuehrung-19625630.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Rufer in der Trümmerwüste: Der ukrainische Präsident Wolodymyr Selenskyj im Gespräch mit dem Sender CBS"
+      "image_title": "Unzufrieden: Serge Gnabry vom FC Bayern München in Heidenheim"
     },
     {
-      "title": "Russlands Grenzen : Wie Russland die Ukraine erobern und teilen will",
-      "url": "https://www.faz.net/aktuell/politik/ausland/wie-russland-die-ukraine-erobern-und-teilen-will-19606043.html"
-    },
-    {
-      "title": "Bundesliga im Liveticker : Zwei Tore in zwei Minuten – Heidenheim überrumpelt FC Bayern",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fussball-bundesliga-heute-liveticker-mit-spielplan-tabelle-und-teams-18727822.html",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Extremisten im Internet : Was der Hass auf Tiktok mit Jugendlichen macht",
-      "url": "https://www.faz.net/aktuell/feuilleton/medien/tiktok-was-der-hass-auf-der-plattform-mit-jugendlichen-macht-19633802.html",
+      "title": "Die Vermögensfrage : An den Börsen steigt noch immer die KI-Party",
+      "url": "https://www.faz.net/aktuell/finanzen/meine-finanzen/die-vermoegensfrage-tesla-flop-kuenstliche-intelligenz-top-19633150.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "„Rabbit Hole“: Tiktok als Kaninchenloch, durch das man unter Verschwörungstheoretiker und Hassrednern landet"
+      "image_title": "Tesla enttäuschte zuletzt."
     },
     {
       "title": "Mehr Einwohner in Rhein-Main : Schmerzen des Wachstums",
@@ -247,16 +254,16 @@
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
-      "title": "Soziologe im Interview : „Neid ist nützlich“",
-      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/warum-neid-etwas-gutes-ist-19628383.html",
+      "title": "Eike Schmidt kandidiert : Vom Museumsdirektor zum Bürgermeister von Florenz?",
+      "url": "https://www.faz.net/aktuell/politik/ausland/wird-museumsdirektor-eike-schmidt-buergermeister-von-florenz-19635860.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "„Wieso hat sie mehr als ich?“ – Neidgefühle kennen wir alle."
+      "image_title": "Aus der Kunstwelt in die Politik: Eike Schmidt im Jahr 2019 in der Uffizien-Galerie"
     },
     {
-      "title": "Aktivistin aus Schweden : Greta Thunberg in Den Haag zweimal festgenommen",
-      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/greta-thunberg-in-den-haag-festgenommen-19635809.html",
+      "title": "Israel nach dem Massaker : Der Alltag trägt die Spuren des Grauens",
+      "url": "https://www.faz.net/aktuell/feuilleton/debatten/israel-ein-halbes-jahr-nach-dem-hamas-massaker-19633584.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Greta Thunberg am Samstag in den Niederlanden"
+      "image_title": "Gelbe Schleifen symbolisieren in Tel Aviv die Geiseln der Hamas."
     },
     {
       "title": "Begehrte Luxusimmobilien : Nicht nur in Mailand fließen Milliardenbeträge",
@@ -265,8 +272,14 @@
       "image_title": "Wo die Luxusmodemarken zuhause sind: Die Einkaufsstraße Via Monte Napoleone in Mailand"
     },
     {
-      "title": "Entschärfer im Einsatz : Verdacht des Bombenbaus ‒ 36 Jahre alter Mann aus Halle in Gewahrsam",
-      "url": "https://www.faz.net/aktuell/gesellschaft/verdacht-auf-bau-einer-bombe-in-halle-an-der-saale-19635805.html"
+      "title": "Aktivistin aus Schweden : Greta Thunberg in Den Haag zweimal festgenommen",
+      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/greta-thunberg-in-den-haag-festgenommen-19635809.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Greta Thunberg am Samstag in den Niederlanden"
+    },
+    {
+      "title": "Soziologe im Interview : „Neid ist nützlich“",
+      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/warum-neid-etwas-gutes-ist-19628383.html"
     },
     {
       "title": "Nach Wirbel um Design : Nummer 4 auf DFB-Trikot neu gestaltet",
@@ -275,14 +288,40 @@
       "image_title": "Bibiane Schulze Solano läuft als Erste mit dem neuen Design der Trikotnummer 4 auf."
     },
     {
-      "title": "Aquakultur in Island : Kampf um den wilden Lachs",
-      "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/aquakultur-in-island-kampf-um-den-wilden-lachs-19619157.html"
+      "title": "Entschärfer im Einsatz : Verdacht des Bombenbaus ‒ 36 Jahre alter Mann aus Halle in Gewahrsam",
+      "url": "https://www.faz.net/aktuell/gesellschaft/verdacht-auf-bau-einer-bombe-in-halle-an-der-saale-19635805.html"
     },
     {
-      "title": "Kaiserslautern verliert 1:2 : HSV vergrößert Abstiegssorgen des Pokalfinalisten",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/hamburger-sv-vergroessert-sorgen-vom-1-fc-kaiserslautern-in-liga-zwei-19591762.html",
+      "title": "FC dreht Spiel gegen Bochum : Kölner Ekstase in der Nachspielzeit",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/1-fc-koeln-dreht-bundesliga-partie-gegen-vfl-bochum-spaet-19625628.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Die Hamburger Profis jubeln, Boris Tomiak (rechts) moniert."
+      "image_title": "In der Nachspielzeit geht es rund: Erst fällt das 1:1, dann dreht der 1. FC Köln das Spiel."
+    },
+    {
+      "title": "Sieg gegen Union Berlin : Leverkusen kann am nächsten Spieltag Meister werden",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/bayer-leverkusen-besiegt-union-berlin-1-0-und-steht-vor-bundesliga-titel-19625621.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Umjubelter Torschütze: Florian Wirtz schießt Bayer Leverkusen in Berlin zum Sieg."
+    },
+    {
+      "title": "Fahrbericht Ford Bronco : Nur springen kann er nicht",
+      "url": "https://www.faz.net/aktuell/technik-motor/motor/fahrbericht-ford-bronco-19618990.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Fahrbericht Ford Bronco"
+    },
+    {
+      "title": "Olympiabauten in Paris : Ein Fest für die Vorstadt",
+      "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/die-olympia-bauten-in-paris-sollen-eine-neue-stadtbaukunst-inspirieren-19633071.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Das olympische Dorf, mit der Tour Pleyel im Hintergrund"
+    },
+    {
+      "title": "Extremisten im Internet : Was der Hass auf Tiktok mit Jugendlichen macht",
+      "url": "https://www.faz.net/aktuell/feuilleton/medien/tiktok-was-der-hass-auf-der-plattform-mit-jugendlichen-macht-19633802.html"
+    },
+    {
+      "title": "Wolfgang Schäuble : Wie Merkel die europäische Einigung torpedierte",
+      "url": "https://www.faz.net/aktuell/wirtschaft/schaeuble-memoiren-merkel-torpedierte-die-europaeische-einigung-19633115.html"
     },
     {
       "title": "Ukraine-Liveblog : Ukraine dementiert russischen Durchbruch im Osten",
@@ -303,24 +342,10 @@
       "image_title": "Ein ukrainischer Luftwaffenpilot steht neben einem Su-25-Erdkampfflugzeug auf einem Stützpunkt in der Ostukraine. (Archivbild)"
     },
     {
-      "title": "Fahrbericht Ford Bronco : Nur springen kann er nicht",
-      "url": "https://www.faz.net/aktuell/technik-motor/motor/fahrbericht-ford-bronco-19618990.html",
+      "title": "Russlands Grenzen : Wie Russland die Ukraine erobern und teilen will",
+      "url": "https://www.faz.net/aktuell/politik/ausland/wie-russland-die-ukraine-erobern-und-teilen-will-19606043.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Fahrbericht Ford Bronco"
-    },
-    {
-      "title": "Olympiabauten in Paris : Ein Fest für die Vorstadt",
-      "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/die-olympia-bauten-in-paris-sollen-eine-neue-stadtbaukunst-inspirieren-19633071.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Das olympische Dorf, mit der Tour Pleyel im Hintergrund"
-    },
-    {
-      "title": "Wolfgang Schäuble : Wie Merkel die europäische Einigung torpedierte",
-      "url": "https://www.faz.net/aktuell/wirtschaft/schaeuble-memoiren-merkel-torpedierte-die-europaeische-einigung-19633115.html"
-    },
-    {
-      "title": "Israel sechs Monate später : Sie haben überlebt. Und jetzt?",
-      "url": "https://www.faz.net/aktuell/politik/ausland/israel-wie-ueberlebende-der-hamas-attacke-um-die-zukunft-ringen-19634039.html"
+      "image_title": "Medwedjews Auftritt in Sotschi am 4. März vor einer Landkarte, auf der die Ukraine zwischen Russland, Polen, der Ukraine und Ungarn aufgeteilt ist"
     },
     {
       "title": "F.A.Z. Exklusiv : „Finanzinvestoren sitzen auf 3 Billionen Dollar“",
@@ -339,12 +364,6 @@
       "url": "https://www.faz.net/aktuell/politik/ausland/angst-vor-wladimir-putin-viele-polen-planen-schon-ihre-flucht-19628676.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Eine Demo im Februar in Warschau anlässlich des zweiten Jahrestages des russischen Überfalls auf die Ukraine"
-    },
-    {
-      "title": "Wolfgang Kubicki antwortet : Haldenwangs Worten fehlt oft die Grundlage",
-      "url": "https://www.faz.net/aktuell/politik/inland/wolfgang-kubicki-antwortet-haldenwangs-worten-fehlt-oft-die-grundlage-19630653.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "„Kein Verfassungsorgan“: Wolfgang Kubicki antwortet in der F.A.Z. auf Thomas Haldewang."
     },
     {
       "title": ": Angriff auf Hilfskonvoi: Israelische Armee stellt Bericht vor",
@@ -413,6 +432,12 @@
       "image_title": "Noch nie haben in Frankfurt so viele Menschen gewohnt wie derzeit. Zum Stichtag 31. Dezember 2023 waren mehr als 770.000 Frankfurter mit Hauptwohnsitz in Hessens größter Stadt gemeldet."
     },
     {
+      "title": "Israel sechs Monate später : Sie haben überlebt. Und jetzt?",
+      "url": "https://www.faz.net/aktuell/politik/ausland/israel-wie-ueberlebende-der-hamas-attacke-um-die-zukunft-ringen-19634039.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Sie haben überlebt: Avidor Schwartzman, Keren Flash und die gemeinsame Tochter im November in Shefayim, wo sie vorübergehend untergekommen sind."
+    },
+    {
       "title": "Iranischer Exil-Sender : Verletzter Journalist äußert sich nach Messerangriff in London",
       "url": "https://www.faz.net/aktuell/politik/ausland/verletzter-journalist-aeussert-sich-nach-angriff-in-london-19635703.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -431,10 +456,16 @@
       "image_title": "Ecuadorianische Soldaten vor der mexikanischen Botschaft in Quito"
     },
     {
-      "title": "Italiens Justiz : Meloni will psychologische Tests für angehende Richter",
-      "url": "https://www.faz.net/aktuell/politik/ausland/italien-meloni-will-das-justizsystem-reformieren-19631216.html",
+      "title": "Klares 4:0 im Kellerduell : Mainz schießt Darmstadt Richtung Liga zwei",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/mainz-schiesst-darmstadt-aus-der-fussball-bundesliga-in-richtung-liga-zwei-19625626.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Giorgia Meloni und Justizminister Carlo Nordio im September 2023 in Rom."
+      "image_title": "Wichtige Punkte: Jae-Sung Lee und die Mainzer kämpfen um den Klassenverbleib."
+    },
+    {
+      "title": "1:4-Niederlage gegen Leipzig : Zu wenig vom SC Freiburg",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/sc-freiburg-ohne-chance-gegen-rb-leipzig-in-der-fussball-bundesliga-19625623.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Nicht nur in den Zweikämpfen: Der SC Freiburg hat gegen Rasenballsport Leipzig nichts zu melden."
     },
     {
       "title": "FC-Bayern-Sportdirektor Freund : Wie finden Sie den nächsten Sadio Mané?",
@@ -449,16 +480,10 @@
       "image_title": "Bundestrainer Horst Hrubesch beim Spiel der DFB-Frauen gegen Österreich"
     },
     {
-      "title": "Formel 1 in Japan : „Mensch, wo kommt diese halbe Sekunde Vorsprung her?“",
-      "url": "https://www.faz.net/aktuell/sport/formel-1/formel-1-in-japan-verstappen-gewinnt-qualifying-und-hamilton-ist-ratlos-19635368.html",
+      "title": "Aquakultur in Island : Kampf um den wilden Lachs",
+      "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/aquakultur-in-island-kampf-um-den-wilden-lachs-19619157.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Unzufriedenheit bei Mercedes: Lewis Hamilton fährt im Qualifying nicht um die Spitzenplätze mit."
-    },
-    {
-      "title": "Degenkolb bei Paris–Roubaix : Der Pflasterstein aus der „Hölle des Nordens“",
-      "url": "https://www.faz.net/aktuell/sport/mehr-sport/john-degenkolb-vor-paris-roubaix-rad-profis-in-der-hoelle-des-nordens-19630554.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Bei seinem Lieblingsrennen geht es zur Sache: John Degenkolb bei Paris-Roubaix"
+      "image_title": "Wilde Lachse schaffen es, aus dem Meer in die oberen Gewässer vorzudringen, um dort Eier zu befruchten."
     },
     {
       "title": "Umfrage : Warum die Inflation so unpopulär ist",
@@ -477,12 +502,6 @@
       "url": "https://www.faz.net/aktuell/wirtschaft/plaene-geaendert-homoeopathie-koennte-kassenleistung-bleiben-19635497.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Kleine Kugeln mit großen Fans: Globuli sind zum Symbol für homöopathische Therapien geworden."
-    },
-    {
-      "title": "Nikolas Stihl im Interview : „Die Schweiz ist für uns günstiger als Deutschland“",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nikolas-stihl-schweiz-ist-fuer-uns-guenstiger-als-deutschland-19633974.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Nikolas Stihl, Beiratsvorsitzender des Kettensägenherstellers Stihl in der sogenannten Markenwelt am Firmenstandort in Waiblingen"
     },
     {
       "title": "Digitale Transformation : „Die X-Initiativen sind keine einfache Weiterführung der Industrie-4.0-Illusion“",
