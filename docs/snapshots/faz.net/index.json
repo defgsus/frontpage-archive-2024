@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-07T13:00:48",
+  "timestamp": "2024-04-07T14:00:51",
   "url": "https://www.faz.net/aktuell/",
   "response": {
     "status": 200
@@ -74,6 +74,12 @@
     {
       "type": null,
       "src": "https://www.faz.net/dist/scripts/main_faz-gdpr.dbb9086b646827b435d8.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://dynamic.faz.net/red/pym/pym.min.js",
       "id": null,
       "text": null
     },
@@ -164,26 +170,26 @@
   ],
   "articles": [
     {
+      "title": "Streit ums Erbe : So geht Erben in der Patchworkfamilie",
+      "url": "https://www.faz.net/aktuell/finanzen/so-geht-erben-in-der-patchworkfamilie-19634137.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Damit der Erbfall nicht zum Horror wird: In Patchwork-Familien sollte ein Testament das Erbe regeln."
+    },
+    {
+      "title": "Den Nachlass regeln : „Wie vererbe ich mein Vermögen?“",
+      "url": "https://www.faz.net/aktuell/finanzen/vermoegen-vererben-wie-ein-paar-mit-drei-kindern-sein-testament-macht-19540971.html"
+    },
+    {
       "title": "Bayern-Untergang in Heidenheim : Münchner Tagträumer im Tiefschlaf",
       "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fc-bayern-muenchen-geht-in-heidenheim-unter-tagtraeumer-im-tiefschlaf-19636705.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Fassungslosigkeit beim FC Bayern nach der Niederlage in Heidenheim"
     },
     {
-      "title": "Die Sensation der Bundesliga : Schwäbische Zaubereien",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/bundesliga-sensation-kommentar-zu-vfb-stuttgart-und-heidenheim-19636736.html"
-    },
-    {
       "title": "Energiewende : Wie sieht die Zukunft der Atomkraft aus?",
       "url": "https://www.faz.net/aktuell/wirtschaft/energiewende-wie-sieht-die-zukunft-der-atomkraft-aus-19633982.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Baustelle des Atomkraftwerks Hinkley Point C in der englischen Grafschaft Somerset."
-    },
-    {
-      "title": "Liveblog zum Krieg in Nahost : Israel zieht Großteil der Bodentruppen im Süden Gazas ab",
-      "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-zu-krieg-in-nahost-israel-zieht-grossteil-der-bodentruppen-im-sueden-gazas-ab-19589481.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Ein israelischer Panzer an der südlichen Grenze zum Gaza-Streifen."
     },
     {
       "title": "Nach sechs Monaten : Wir müssen an Israels Seite stehen",
@@ -248,10 +254,10 @@
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
-      "title": "Folgen des 7. Oktobers : Manchmal würde ich gern schreien",
-      "url": "https://www.faz.net/aktuell/feuilleton/debatten/israel-ein-halbes-jahr-nach-dem-angriff-der-hamas-19629109.html",
+      "title": "Liveblog zum Krieg in Nahost : Israel zieht Großteil der Bodentruppen im Süden Gazas ab",
+      "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-zu-krieg-in-nahost-israel-zieht-grossteil-der-bodentruppen-im-sueden-gazas-ab-19589481.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Mit dem Maschinengewehr ins Café – Alltag in den Straßen von Tel Aviv seit dem vergangenen Oktober."
+      "image_title": "Ein israelischer Panzer an der südlichen Grenze zum Gaza-Streifen."
     },
     {
       "title": "Zum Tod von Peter Sodann : Freiheit war für ihn, sich in alles einzumischen",
@@ -284,25 +290,27 @@
       "image_title": "Die zerschossene Statue des ukrainischen Poeten Taras Schewtschenko in Borodjanka."
     },
     {
-      "title": "Großdemonstration gegen Orbán : „Wir wollen unsere Heimat zurück“",
-      "url": "https://www.faz.net/aktuell/politik/ausland/zehntausende-demonstrieren-in-budapest-gegen-orban-19636803.html"
-    },
-    {
-      "title": "Alonso mit Leverkusen vor Titel : „Ich bin sehr stolz auf die Mannschaft“",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/xabi-alonso-mit-bayer-leverkusen-nach-sieg-bei-union-berlin-vor-meisterschaft-19636943.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Glücklicher Trainer: Xabi Alonso von Bayer Leverkusen"
-    },
-    {
-      "title": "Trumps Ex-Stratege : Steve Bannon will deutschen Podcast herausbringen",
-      "url": "https://www.faz.net/aktuell/feuilleton/medien/steve-bannon-will-deutschen-podcast-herausbringen-19636815.html",
+      "title": "Bundesliga im Liveticker : 2:0 – Jetzt macht Hoffenheim ernst",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fussball-bundesliga-heute-liveticker-mit-spielplan-tabelle-und-teams-18727822.html",
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
-      "title": "Wetter in Deutschland : „Stellenweise ist in der Früh wieder Auto kratzen angesagt“",
-      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/sommerliches-wetter-endet-mit-schauern-und-gewittern-19636675.html",
+      "title": "Großdemonstration gegen Orbán : „Wir wollen unsere Heimat zurück“",
+      "url": "https://www.faz.net/aktuell/politik/ausland/zehntausende-demonstrieren-in-budapest-gegen-orban-19636803.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Schön warm war es am Wochenende auch am Frankfurter Flughafen – doch damit ist es bald wieder vorbei."
+      "image_title": "Demonstranten am Samstag in Budapest"
+    },
+    {
+      "title": "Unterschiedliche Missionen : Drei Astronauten von der ISS zurückgekehrt",
+      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/drei-astronauten-von-der-iss-zurueckgekehrt-19636748.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Wohlbehalten zurückgekehrt: Die amerikanische Astronautin ­Loral O’Hara (links) zusammen mit der Belarussin Marina Wassilewskaja (rechts) und dem russischen Kosmonauten Oleg Nowizkij."
+    },
+    {
+      "title": "Zweite Liga : Später Rückschlag für Schalke 04",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fc-schalke-04-nur-mit-remis-gegen-hannover-96-in-zweiter-liga-19591766.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Nicht zu glauben: Die Schalker hätten gerne zwei Punkte mehr mitgenommen gegen Hannover 96."
     },
     {
       "title": "„Tatort“ aus München : Der Mörder will, dass wir ihm zusehen",
@@ -317,12 +325,24 @@
       "image_title": "Mögen sich jetzt auch charakterlich: die Beckhams"
     },
     {
-      "title": "Anlegen und Investieren : Welche Rolle Einzelaktien im Depot spielen",
-      "url": "https://www.faz.net/aktuell/finanzen/meine-finanzen/anlegen-und-investieren-welche-rolle-einzelaktien-im-depot-spielen-19633786.html"
+      "title": "Die Sensation der Bundesliga : Schwäbische Zaubereien",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/bundesliga-sensation-kommentar-zu-vfb-stuttgart-und-heidenheim-19636736.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Freuen sich auf die europäischen Auftritte in der kommenden Saison: Fans und Spieler des VfB Stuttgart"
     },
     {
-      "title": "Völkermord in Ruanda : Der mühevolle Kampf wider das Vergessen",
-      "url": "https://www.faz.net/aktuell/politik/ausland/voelkermord-in-ruanda-der-muehevolle-kampf-gegen-das-vergessen-19633507.html"
+      "title": "Heidenheims Tim Kleindienst : Das Rundumpaket der ersten Güteklasse",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/heidenheims-tim-kleindienst-das-rundumpaket-der-ersten-gueteklasse-19636985.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Bereit für höhere Aufgaben? Heidenheims Tim Kleindienst bleibt zurückhaltend."
+    },
+    {
+      "title": "Haarproben untersucht : Beethovens Gentest zeigt kein herausragendes Taktgefühl",
+      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/beethovens-gentest-zeigt-kein-herausragendes-taktgefuehl-19624440.html"
+    },
+    {
+      "title": "Auch NATO interessiert : Start-up punktet mit digitalem Nummernschild für Drohnen",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/das-interessiert-auch-die-nato-start-up-punktet-mit-digitalem-drohnen-nummernschild-19631011.html"
     },
     {
       "title": "Russlands Grenzen : Wie Russland die Ukraine erobern und teilen will",
@@ -421,22 +441,22 @@
       "image_title": "Provoziert noch immer: Gerhard Schröder in seiner Kanzlei"
     },
     {
+      "title": "400 Demonstranten : Hunderte zeigen Solidarität nach Anschlag auf Oldenburger Synagoge",
+      "url": "https://www.faz.net/aktuell/politik/inland/hunderte-zeigen-solidaritaet-nach-anschlag-auf-oldenburger-synagoge-19637082.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Blumen und Kerzen liegen vor der Synagoge im Stadtzentrum Oldenburgs"
+    },
+    {
       "title": "Kriminalstatistik : Deutlich mehr Straftaten in Deutschland",
       "url": "https://www.faz.net/aktuell/politik/kriminalstatistik-deutlich-mehr-straftaten-in-deutschland-19636946.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Ein EInbrecher (Symbolbild)"
     },
     {
-      "title": "Laut Rechenschaftsberichten : Das sind die Haupteinnahmequellen der Parteien",
-      "url": "https://www.faz.net/aktuell/sonntagsfrage-welche-partei-ist-in-den-umfragen-am-staerksten-19459939.html",
+      "title": "Völkermord in Ruanda : Der mühevolle Kampf wider das Vergessen",
+      "url": "https://www.faz.net/aktuell/politik/ausland/voelkermord-in-ruanda-der-muehevolle-kampf-gegen-das-vergessen-19633507.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Bundeskanzler Scholz und sein Kabinett im Bundestag (Symbolbild)"
-    },
-    {
-      "title": "Simon Harris : Künftiger Regierungschef Irlands wählt scharfen Ton gegen Israel",
-      "url": "https://www.faz.net/aktuell/politik/ausland/irland-simon-harris-waehlt-scharfen-ton-gegen-israel-19636460.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Fine-Gael-Chef Simon Harris"
+      "image_title": "Flüchtlingslager in Tansania, in das ruandische Tutsi vor dem Völkermord geflohen sind"
     },
     {
       "title": "Sieg für Formel-1-Weltmeister : Verstappen ist nicht zu bremsen in Japan",
@@ -451,16 +471,22 @@
       "image_title": "Mochte gar nicht mehr hinsehen: Bayern-Trainer Thomas Tuchel bei der Pressekonferenz."
     },
     {
+      "title": "WM-Titelkampf im Boxen : Schlagabtausch mit dem Schläger",
+      "url": "https://www.faz.net/aktuell/sport/mehr-sport/wm-titelkampf-im-boxen-jack-culcay-unterliegt-bakhram-murtazaliew-19637204.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Harte Treffer: Murtazaliew bezwingt Culcay (rechts) vorzeitig."
+    },
+    {
       "title": "Trainingsunfall auf Teneriffa : Radprofi Kämna kann Intensivstation verlassen",
       "url": "https://www.faz.net/aktuell/sport/mehr-sport/lennard-kaemna-radprofi-verlaesst-nach-unfall-intensivstation-auf-teneriffa-19636592.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Lennard Kämna ist auf dem Weg der Besserung in Teneriffa."
     },
     {
-      "title": "Pflaster bei Paris–Roubaix : Die besondere Arbeit der Freunde der Hölle",
-      "url": "https://www.faz.net/aktuell/sport/mehr-sport/amis-de-paris-roubaix-wie-sich-ein-verein-um-das-kopfsteinpflaster-kuemmert-19631824.html",
+      "title": "Russlands Demographieproblem : Mehr Kinder für Putin",
+      "url": "https://www.faz.net/aktuell/wirtschaft/russlands-demographieproblem-putin-will-mehr-geburten-19633441.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Im Bann: Das Radrennen zieht die Zuschauer an die Strecke."
+      "image_title": "Fest in Sankt Petersburg: Der Krieg macht das demographische Problem in aller Schärfe sichtbar."
     },
     {
       "title": "Potentieller Milliarden-Deal : Warner Music gibt kein Angebot für Believe ab",
@@ -481,12 +507,6 @@
       "image_title": "Teuer wohnen: Singapur zahlt seinen Bürgern hohe Zuschüsse."
     },
     {
-      "title": "Russlands Demographieproblem : Mehr Kinder für Putin",
-      "url": "https://www.faz.net/aktuell/wirtschaft/russlands-demographieproblem-putin-will-mehr-geburten-19633441.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Fest in Sankt Petersburg: Der Krieg macht das demographische Problem in aller Schärfe sichtbar."
-    },
-    {
       "title": "Digitale Transformation : „Die X-Initiativen sind keine einfache Weiterführung der Industrie-4.0-Illusion“",
       "url": "https://www.faz.net/pro/d-economy/transformation/die-x-initiativen-sind-keine-einfache-weiterfuehrung-der-industrie-4-0-illusion-19626273.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -503,6 +523,12 @@
       "url": "https://www.faz.net/pro/d-economy/prompt-der-woche/wie-kuenstliche-intelligenz-ki-texte-entlarvt-19625513.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Künstliche Intelligenz kann sich selbst entlarven. (Symbolbild)"
+    },
+    {
+      "title": "Anlegen und Investieren : Welche Rolle Einzelaktien im Depot spielen",
+      "url": "https://www.faz.net/aktuell/finanzen/meine-finanzen/anlegen-und-investieren-welche-rolle-einzelaktien-im-depot-spielen-19633786.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Neobroker machen es einfach, immer und überall die Entwicklung der eigenen Aktien zu verfolgen."
     },
     {
       "title": "Tesla-Aktie als Geldanlage : Bei Tesla trügt der Schein",
@@ -523,34 +549,28 @@
       "image_title": "Alte Türme, neue Türme: Auf den langen Boom bei Frankfurter Immobilien folgen spürbare Preisrückgänge. Nur langsam gibt es Konsequenzen."
     },
     {
-      "title": "Neues vom Finanzplatz : Bundesbank stellt in Harvard aus",
-      "url": "https://www.faz.net/aktuell/finanzen/bundesbank-stellt-expressionistische-kunst-in-harvard-aus-19633875.html",
+      "title": "Essen und Weltgeschichte : Die Grenze zwischen Öl und Butter verdient Aufmerksamkeit",
+      "url": "https://www.faz.net/aktuell/feuilleton/buecher/rezensionen/sachbuch/andreas-viestads-buch-ein-abendessen-in-rom-19530807.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Ida Kerkovius, Komposition, 1955"
+      "image_title": "Auch ungekocht hübsch anzusehen: Andreas Viestad zufolge bildet Pasta die Identität der Italiener."
+    },
+    {
+      "title": "Folgen des 7. Oktobers : Manchmal würde ich gern schreien",
+      "url": "https://www.faz.net/aktuell/feuilleton/debatten/israel-ein-halbes-jahr-nach-dem-angriff-der-hamas-19629109.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Mit dem Maschinengewehr ins Café – Alltag in den Straßen von Tel Aviv seit dem vergangenen Oktober."
+    },
+    {
+      "title": "Trumps Ex-Stratege : Steve Bannon will deutschen Podcast herausbringen",
+      "url": "https://www.faz.net/aktuell/feuilleton/medien/steve-bannon-will-deutschen-podcast-herausbringen-19636815.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Verbreitet in seinem Podcast rechte Verschwörungstheorien: Steve Bannon"
     },
     {
       "title": "Rechtsextreme in Deutschland : Einen Grauen Wolf erkennen",
       "url": "https://www.faz.net/aktuell/feuilleton/debatten/rechtsextreme-in-deutschland-die-tuerkischen-grauen-woelfe-19629514.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Eine Fahne in München mit dem Bild des türkischen Ministerpräsidenten Erdogan, daneben die Flagge der Grauen Wölfe"
-    },
-    {
-      "title": "Frankfurter Anthologie : Johann Wolfgang Goethe: „Celebrität“",
-      "url": "https://www.faz.net/aktuell/feuilleton/buecher/frankfurter-anthologie/goethes-celebritaet-in-der-frankfurter-anthologie-19633449.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Visionär seiner Zeit: Gerhard von Kügelgens Porträt Goethes aus dem Jahr 1810"
-    },
-    {
-      "title": "Jackie Chan wird 70 : Fürs Publikum Leib und Leben riskieren",
-      "url": "https://www.faz.net/aktuell/trailer-rumble-in-the-bronx-19633152.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Jackie Chan"
-    },
-    {
-      "title": "Medien und Justiz in den USA : Die Reporterin, der die Rapper vertrauen",
-      "url": "https://www.faz.net/aktuell/feuilleton/medien/die-amerikanische-gerichtsreporterin-meghann-cuniff-19630133.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Meghann Cuniff in ihrem Büro in San Celemente"
     },
     {
       "title": "Indische Studierende : Zwischen Traum und Wirklichkeit",
@@ -619,10 +639,16 @@
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
-      "title": "Unterschiedliche Missionen : Drei Astronauten von der ISS zurückgekehrt",
-      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/drei-astronauten-von-der-iss-zurueckgekehrt-19636748.html",
+      "title": "Klimaaktivistin in Den Haag : Greta Thunberg nach Festnahmen zufrieden",
+      "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/thunberg-zufrieden-nach-festnahme-in-den-haag-19636932.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Wohlbehalten zurückgekehrt: Die amerikanische Astronautin ­Loral O’Hara (links) zusammen mit der Belarussin Marina Wassilewskaja (rechts) und dem russischen Kosmonauten Oleg Nowizkij."
+      "image_title": "Protest in Den Haag: Klimaaktivistin Greta Thunberg wird am Samstag gleich zweimal festgenommen."
+    },
+    {
+      "title": "Wetter in Deutschland : „Stellenweise ist in der Früh wieder Auto kratzen angesagt“",
+      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/sommerliches-wetter-endet-mit-schauern-und-gewittern-19636675.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Schön warm war es am Wochenende auch am Frankfurter Flughafen – doch damit ist es bald wieder vorbei."
     },
     {
       "title": "Ungefährliche Rauchkringel : „Der Ätna hat beschlossen, etwas einfach Schönes zu tun“",
@@ -635,12 +661,6 @@
       "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/tausende-menschen-in-russland-wegen-hochwassers-in-sicherheit-gebracht-19636707.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Aufnahme des russischen Katastrophenschutzministeriums aus Orsk: Anwohner und Haustiere werden gerettet."
-    },
-    {
-      "title": "Nach Hochzeit im Jahr 2022 : Gypsy-Rose Blanchard trennt sich von Ehemann",
-      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/gypsy-rose-blanchard-trennt-sich-von-ehemann-19636637.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Gypsy-Rose Blanchard hatte in sozialen Medien Millionen Anhänger."
     },
     {
       "title": "Guide Michelin in Vietnam : Hanoi Cuisine",
