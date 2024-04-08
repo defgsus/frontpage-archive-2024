@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-08T13:02:11",
+  "timestamp": "2024-04-08T14:00:57",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "Das Erdbeben in Taiwan lässt die Weltwirtschaft erzittern",
+      "teaser": "Weltweit sind Firmen von Chips aus Taiwan abhängig. Daran ändert sich trotz enormer Risiken wenig, wie Christof Windeck analysiert.",
+      "url": "https://www.heise.de/hintergrund/Das-Erdbeben-in-Taiwan-laesst-die-Weltwirtschaft-erzittern-9676135.html",
+      "image_title": "Nahaufnahme eines Chip-Wafers"
+    },
+    {
       "title": "Kaufberatung zu Mini-PCs (2024) | c’t uplink",
       "teaser": "Mini-PCs kommen mit wenig Platz, Strom und Geld aus – so die Hoffnung. Wir diskutieren Prozessoren, Ausstattung sowie vermeintliche und echte Schnäppchen.",
       "url": "https://www.heise.de/news/Kaufberatung-zu-Mini-PCs-2024-c-t-uplink-9675755.html",
@@ -38,12 +44,6 @@
       "image_title": "Justitia vor Bücherregal"
     },
     {
-      "title": "\"Man-in-the-Middle\"-Methode: Facebook hat wohl Snapchat-Verschlüsselung umgangen",
-      "teaser": "Im Rahmen einer Sammelklage gegen Facebook sind nun Dokumente zu einem alten Skandal aufgetaucht. Das Vorgehen gegen Snapchat war wohl aggressiver als gedacht.",
-      "url": "https://www.heise.de/news/Man-in-the-Middle-Methode-Facebook-hat-wohl-Snapchat-Verschluesselung-umgangen-9668386.html",
-      "image_title": "Snapchat-App-Symbol auf Smartphone"
-    },
-    {
       "title": "OpenWrt: Heimnetze miteinander verbinden und abgeschottete Bereiche bauen",
       "teaser": "Es gibt Geräte, die man gut mit vertrauten Nachbarn teilen kann. Mit einem OpenWrt-Router klappt das Routing zwischen mehreren Heimnetzen – so geht's!",
       "url": "https://www.heise.de/ratgeber/OpenWrt-Heimnetze-miteinander-verbinden-und-abgeschottete-Bereiche-bauen-9672886.html",
@@ -53,6 +53,24 @@
       "title": "Marktübersicht EDR-Systeme für Unternehmen: Sicherheit auf den Punkt",
       "teaser": "Endpoint Detection and Response (EDR) schützt die Endgeräte in Unternehmen auf vielerlei Weise. Was die Produkte leisten und worauf Unternehmen achten müssen.",
       "url": "https://www.heise.de/tests/Marktuebersicht-EDR-Systeme-fuer-Unternehmen-Sicherheit-auf-den-Punkt-9674955.html"
+    },
+    {
+      "title": "TSMC baut Halbleiterwerke für 65 Milliarden US-Dollar in Arizona",
+      "teaser": "Der Weltmarktführer TSMC investiert so viel wie noch nie im Ausland. Auch Samsung will angeblich mehr in den USA bauen.",
+      "url": "https://www.heise.de/news/TSMC-baut-Halbleiterwerke-fuer-65-Milliarden-US-Dollar-in-Arizona-9678198.html",
+      "image_title": "Chipfertigung"
+    },
+    {
+      "title": "Neu in .NET 8.0 [17]: Zeitabstraktion für Tests mit Zeitangaben",
+      "teaser": "In .NET 8.0 existiert mit der abstrakten Klasse TimeProvider ein einfacher Weg, Zeitangaben inklusive Zeitzone beliebig im Rahmen von Tests vorzutäuschen.",
+      "url": "https://www.heise.de/blog/Neu-in-NET-8-0-17-Zeitabstraktion-fuer-Tests-mit-Zeitangaben-9675891.html",
+      "image_title": "Frau dreht an der Uhr"
+    },
+    {
+      "title": "Cloudflare veröffentlicht in Rust geschriebene Nginx-Alternative",
+      "teaser": "Pingora hat sich beim Content Delivery Network von Cloudflare als HTTP-Proxy, Load Balancer und Failover-Software bewährt.",
+      "url": "https://www.heise.de/news/Sicher-schnell-und-in-Rust-geschrieben-Nginx-Alternative-von-Cloudflare-9678221.html",
+      "image_title": "Netzwerkswitch mit Ethernetkabeln"
     },
     {
       "title": "Sichere Softwareentwicklung: Jetzt noch Vortrag zur heise devSec einreichen",
@@ -123,24 +141,6 @@
       "teaser": "Schritt für Schritt zum sicheren System: Penetrationstests methodisch planen, beauftragen und auswerten, um Schwachstellen in der eigenen IT aufzuspüren.",
       "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-Pentests-methodisch-planen-anfordern-und-analysieren-9675564.html",
       "image_title": "Penetrationstests: Methodik, Ausschreibung und Auswertung"
-    },
-    {
-      "title": "Jetzt patchen! Rund 16.500 VPN-Instanzen von Ivanti potenziell angreifbar",
-      "teaser": "Scans zeigen, dass weltweit tausende VPN-Instanzen von Ivanti des Typs Connect Secure und Policy Secure Gateway verwundbar sind. Auch in Deutschland.",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Rund-16-500-VPN-Instanzen-von-Ivanti-potenziell-angreifbar-9677551.html",
-      "image_title": "Hände am Laptop im Gegenlicht, Vordergrund im Dunklen"
-    },
-    {
-      "title": "Estland: Fast 700.000 Kundendaten von Apothekendienstleister abgeflossen",
-      "teaser": "Fast die Hälfte der estnischen Bevölkerung ist nach einem Cyberangriff auf ein Kundenkartensystem für Apotheken betroffen. Jetzt werden Betroffene informiert.",
-      "url": "https://www.heise.de/news/Estland-Fast-700-000-Kunden-von-Apothekendienstleister-abgeflossen-9677527.html",
-      "image_title": "White,Collar,Worker,Hand,Holding,Virtual,Cell,Phone,In,Open"
-    },
-    {
-      "title": "Neue Deals: Big AI Tech zahlt Millionen für Trainingsdaten",
-      "teaser": "Zwei Cent für ein Shutterstock Bild, sieben Dollar für eine Nacktaufnahme – die großen KI-Anbieter zahlen Millionen für Trainingsdaten.",
-      "url": "https://www.heise.de/news/Neue-Deals-Big-AI-Tech-zahlt-Millionen-fuer-Trainingsdaten-9677447.html",
-      "image_title": "A,Person's,Head,Covered,By,An,Ai-labeled,Dark,Cloud"
     },
     {
       "title": "Low-Code ist nicht immer gleich Low-Code.",
