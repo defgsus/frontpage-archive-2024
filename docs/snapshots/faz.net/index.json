@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-08T11:00:58",
+  "timestamp": "2024-04-08T12:09:28",
   "url": "https://www.faz.net/aktuell/",
   "response": {
     "status": 200
@@ -132,8 +132,38 @@
       "text": null
     },
     {
+      "type": "text/javascript",
+      "src": "https://www.faz.net/aktuell/finanzen/boersen-maerkte/global/js/jquery/core/3.5.1/jquery-3.5.1.min.js",
+      "id": null,
+      "text": null
+    },
+    {
       "type": null,
-      "src": "https://prodo-api.ariva-services.de/clientjs/ProdoClient.js",
+      "src": "https://www.faz.net/aktuell/finanzen/boersen-maerkte/scripts/jquery/financechart.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.faz.net/aktuell/finanzen/boersen-maerkte/scripts/jquery/financechart.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.faz.net/aktuell/finanzen/boersen-maerkte/scripts/jquery/financechart.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.faz.net/aktuell/finanzen/boersen-maerkte/scripts/jquery/financechart.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.faz.net/aktuell/finanzen/boersen-maerkte/scripts/jquery/financechart.js",
       "id": null,
       "text": null
     },
@@ -165,12 +195,12 @@
   "articles": [
     {
       "title": "F.A.Z.-Serie Schneller Schlau : Die sieben Irrtümer der Altersvorsorge",
-      "url": "https://www.faz.net/aktuell/wirtschaft/schneller-schlau/die-sieben-irrtuemer-der-altersvorsorge-19617843.html",
+      "url": "https://www.faz.net/aktuell/wirtschaft/schneller-schlau/die-sieben-irrtuemer-der-altersvorsorge-ist-die-rente-sicher-19617843.html",
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
-      "title": "Furcht vor Doppelbesteuerung : Die Rentensteuer als Rechenspiel",
-      "url": "https://www.faz.net/aktuell/wirtschaft/furcht-vor-doppelbesteuerung-was-aendert-sich-bei-der-rentensteuer-19613451.html"
+      "title": "Nach dem Berufsleben : So gelingt die finanzielle Gestaltung des Ruhestands",
+      "url": "https://www.faz.net/aktuell/finanzen/volker-looman/rente-so-gelingt-die-finanzielle-gestaltung-des-ruhestands-19579054.html"
     },
     {
       "title": "Wolfgang Schäubles Memoiren : „Merkel war ein Glücksfall“",
@@ -247,10 +277,16 @@
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
-      "title": "Deutsche Rassismus-Debatte : Mein Name ist Ausländer",
-      "url": "https://www.faz.net/aktuell/feuilleton/buecher/gilda-sahebis-buch-wie-wir-uns-rassismus-beibringen-19584544.html",
+      "title": "Dorothee Blessing : Eine Deutsche im Olymp des Investmentbankings",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/dorothee-blessing-bei-j-p-morgan-eine-deutsche-im-olymp-des-investmentbankings-19633913.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Die deutsch-iranische Journalistin Gilda Sahebi"
+      "image_title": "Dorothee Blessing"
+    },
+    {
+      "title": "Kyrills Pakt mit Putin : Ein heiliger Krieg für Großrussland",
+      "url": "https://www.faz.net/aktuell/politik/ausland/kyrills-pakt-mit-wladimir-putin-ein-heiliger-krieg-fuer-grossrussland-19636893.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Sind eng verbunden: Patriarch Kyrill und Wladimir Putin"
     },
     {
       "title": "Hochreligiöse : Jung, christlich und sehr engagiert",
@@ -259,10 +295,8 @@
       "image_title": "Gelobt sei der Herr: Influencer Jonny vom Dahl und andere musizieren in der Kirchengemeinde „Und Marburg“."
     },
     {
-      "title": "Dorothee Blessing : Eine Deutsche im Olymp des Investmentbankings",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/dorothee-blessing-und-j-p-morgan-die-erfolgreichste-deutsche-investmentbankerin-19633913.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Dorothee Blessing"
+      "title": "Lebenslange Freiheitsstrafe : Altenpfleger wegen Mordes und versuchten Mordes verurteilt",
+      "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/altenpfleger-wegen-mordes-und-versuchten-mordes-verurteilt-19638811.html"
     },
     {
       "title": "Scholz zu Tiktok-Kanal : „Ich tanze nicht. Versprochen“",
@@ -271,18 +305,14 @@
       "image_title": "Bundeskanzler Olaf Scholz (SPD), hier am 27. März 2024 in Berlin"
     },
     {
-      "title": "Fußball-Nationalmannschaft : DFB verlängert Vertrag mit Sportdirektor Völler",
-      "url": "https://www.faz.net/aktuell/sport/fussball-em/deutsches-team/dfb-verlaengert-vertrag-mit-sportdirektor-rudi-voeller-bis-fussball-wm-2026-19638519.html"
+      "title": "„Ernsthafte Bedrohung“ : Schweden weist Journalistin wegen Spionage für China aus",
+      "url": "https://www.faz.net/aktuell/politik/ausland/schweden-weist-journalistin-wegen-spionage-fuer-china-aus-19638765.html"
     },
     {
-      "title": "Korrespondenten berichten : China überwacht Reporter mit Drohnen",
-      "url": "https://www.faz.net/aktuell/feuilleton/medien/wie-china-auslandskorrespondenten-ueberwacht-19638586.html",
+      "title": "Liverpool-Trainer Jürgen Klopp : „Das wäre das Dümmste, das wir machen könnten“",
+      "url": "https://www.faz.net/aktuell/sport/fussball/juergen-klopp-warnt-fc-liverpool-im-titelrennen-in-englands-premier-league-19638279.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Filmen verboten: Ein Sicherheitsbeamter des Wuhan Instituts für Virologie hindert Journalisten beim Besuch eines Teams der Weltgesundheitsorganisation WHO an ihrer Arbeit. Aufnahme vom 3. Februar 2021."
-    },
-    {
-      "title": "Frankreich : Polizei entdeckt 70 Kilo Haschisch in Haus von Bürgermeisterin",
-      "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/frankreich-polizei-entdeckt-70-kilo-haschisch-in-haus-von-buergermeisterin-19638406.html"
+      "image_title": "Mit Emotionen an der Seitenlinie: Liverpool-Trainer Jürgen Klopp"
     },
     {
       "title": "Einsatz in Litauen : Eine deutsche Brigade gegen Russland",
@@ -291,10 +321,10 @@
       "image_title": "Ein Leopard-2-Kampfpanzer und eine Panzerhaubitze 2000 während der NATO-Übung „Griffin Storm“ im Juni 2023 in Vilnius"
     },
     {
-      "title": "Ukraine-Liveblog : Selenskyj: Ohne US-Hilfe wird Ukraine verlieren",
-      "url": "https://www.faz.net/aktuell/politik/ukraine-liveticker-selenskyj-ohne-us-hilfe-wird-ukraine-verlieren-faz-19030454.html",
+      "title": "Ukraine-Liveblog : Ukraine macht Russland für Drohnenangriff auf AKW verantwortlich",
+      "url": "https://www.faz.net/aktuell/politik/ukraine-liveticker-ukraine-macht-russland-fuer-drohnenangriff-auf-akw-verantwortlich-faz-19030454.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Ein ukrainischer Soldat sitzt in Donezk auf seinem Bett."
+      "image_title": "Das AKW Saporischschja wird seit Beginn der russischen Invasion in der Ukraine vor mehr als zwei Jahren von der russischen Armee besetzt."
     },
     {
       "title": "Wie russische Museen mauscheln : Auf einmal will die Eremitage drei neue Leonardos haben",
@@ -303,24 +333,24 @@
       "image_title": "Eremitagedirektor Michail Piotrowski (links) und Igor Potapenko, Regionalchef der russischen Gefängnisverwaltung, stellen das gemeinsame Rembrandt-Projekt vor."
     },
     {
-      "title": "Schausteller auf der Kirmes : „Das Karussell ist mein Leben“",
-      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/so-sieht-das-leben-eines-schaustellers-aus-19634376.html",
+      "title": "Sydney Sweeney in „Immaculate“ : Eine Nonne wird sexualisiert und zur Schau gestellt",
+      "url": "https://www.faz.net/aktuell/feuilleton/medien/filmrezension-immaculate-mit-sydney-sweeney-19633906.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Darf es noch ein wenig rasanter sein? Von seinem Kontrollstand aus behält Alexander Schramm routiniert der Überblick."
+      "image_title": "Nonnenalbtraum: Sydney Sweeney in der Rolle der Novizin"
     },
     {
-      "title": "Gutes Olivenöl : „Achten Sie darauf, dass das Öl möglichst frisch ist“",
-      "url": "https://www.faz.net/aktuell/stil/essen-trinken/kuechen-koeche/gutes-olivenoel-darauf-sollten-sie-beim-kauf-achten-19630786.html",
+      "title": "Faszination Rollstuhlrugby : Jeder Crash ein bisschen Freiheit",
+      "url": "https://www.faz.net/aktuell/sport/rhein-main-sport/rollstuhlrugby-nationalmannschaft-christian-riedel-ueber-die-faszination-19634484.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Der Preis für viele Öle ist kräftig gestiegen – weil der Klimawandel das Angebot verknappt."
+      "image_title": "Wie Autoscooter: Der Sport sei ungefährlicher, als er aussieht, sagt Riedel (mit Ball)."
     },
     {
-      "title": "Chinesischer Online-Marktplatz : Bundesregierung wirft Temu manipulative Kaufanreize vor",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/bundesregierung-wirft-onlinemarktplatz-temu-manipulative-kaufanreize-vor-19638447.html"
+      "title": "Deutsche Rassismus-Debatte : Mein Name ist Ausländer",
+      "url": "https://www.faz.net/aktuell/feuilleton/buecher/wie-wir-uns-rassismus-beibringen-von-gilda-sahebi-mein-name-ist-auslaender-19584544.html"
     },
     {
-      "title": "Brisante ZEW-Studie : Deutschlands versteckte Haftung für 262 Milliarden Euro",
-      "url": "https://www.faz.net/aktuell/wirtschaft/deutschlands-schulden-versteckte-haftung-fuer-262-milliarden-euro-19637010.html"
+      "title": "Wert, Schrift und Bild : Meinungsfreiheit für Unis?",
+      "url": "https://www.faz.net/aktuell/wissen/forschung-politik/kommt-universitaeten-auf-dem-umweg-der-wissenschaftsfreiheit-meinungsfreiheit-zu-19547875.html"
     },
     {
       "title": "Erste Anzeichen und Bluttests : Was Sie über Alzheimer und Parkinson wissen müssen",
@@ -345,6 +375,10 @@
       "url": "https://www.faz.net/aktuell/politik/inland/oberst-johann-schmid-wie-russland-seinen-hybriden-krieg-fuehrt-19633766.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Oberst Johann Schmid im Zentrum für Militaergeschichte und Sozialwissenschaften der Bundeswehr in Potsdam"
+    },
+    {
+      "title": ": UN-Atomaufsichtsbehörde: Nukleare Sicherheit in Saporischschja nicht gefährdet",
+      "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
       "title": ": Überwachung Nordkoreas: Südkorea schickt weiteren Aufklärungssatelliten ins All",
@@ -391,8 +425,10 @@
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
-      "title": ": Olympia in Paris: Countdown-Uhr wegen Hochwasser verlegt",
-      "image_url": "https://www.faz.net/img/leer.gif"
+      "title": "Brisante ZEW-Studie : Deutschlands versteckte Haftung für 262 Milliarden Euro",
+      "url": "https://www.faz.net/aktuell/wirtschaft/deutschlands-schulden-versteckte-haftung-fuer-262-milliarden-euro-19637010.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Bei disziplinierter Haushaltsführung werde die Schuldenquote im Jahr 2028 unter 60 Prozent der Wirtschaftsleistung liegen, sagt Finanzminister Lindner (FDP) zuletzt."
     },
     {
       "title": "F.A.Z. exklusiv : Philip Morris gibt Kampf gegen die Einweg-E-Zigarette auf",
@@ -405,12 +441,6 @@
       "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/als-der-fingerabdruck-vor-120-jahren-zum-beweismittel-wurde-19637489.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Kriminalistik mit Fingerspitzengefühl: der Frankfurter Gerichtschemiker Georg Popp (1861–1943) am Mikroskop."
-    },
-    {
-      "title": "Verkehrswende fatal : Und plötzlich fährt vier Jahre lang kein Zug mehr",
-      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/rb-11-zwischen-frankfurt-hoechst-und-bad-soden-faellt-aus-wo-bis-2028-kein-zug-mehr-faehrt-19637544.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Altbekanntes Spiel: Schon im September 2023 mussten die Sulzbacher im Taunus in schöner Regelmäßigkeit Zugausfälle verkraften."
     },
     {
       "title": "Kommunalwahlen in Polen : PiS laut Prognosen stärkste Kraft",
@@ -449,16 +479,16 @@
       "image_title": "Finanzvorstand Philipp Koecke, Vorstandschef Daniel Hannemann, Technikvorstand Simon Schandert"
     },
     {
+      "title": "Chinesischer Online-Marktplatz : Bundesregierung wirft Temu manipulative Kaufanreize vor",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/bundesregierung-wirft-onlinemarktplatz-temu-manipulative-kaufanreize-vor-19638447.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Blick auf einen Laptop mit dem Logo der App Temu"
+    },
+    {
       "title": "Schlichtung für Luftsicherheit : Vorerst keine weiteren Streiks an Flughäfen",
       "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/vorerst-keine-weiteren-streiks-an-flughaefen-schlichter-bringt-tarifloesung-19638336.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Im Terminal 2 am Flughafen Hamburg stehen Fluggäste beim Check-In an. Für die rund 25 000 Luftsicherheitskräfte an den deutschen Flughäfen gibt es eine Tariflösung."
-    },
-    {
-      "title": "Konjunktur : Deutsche Produktion mit stärkstem Anstieg seit gut einem Jahr",
-      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/deutsche-produktion-mit-staerkstem-anstieg-seit-gut-einem-jahr-19638297.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Die Silhouette eines Bauarbeiters zeichnet sich auf einer Baustelle vor dem verfärbten Morgenhimmel ab."
     },
     {
       "title": "Plattformökonomie : Netflix beherrscht den Streaming-Markt in Europa",
@@ -503,6 +533,12 @@
       "image_title": "Tesla enttäuschte zuletzt."
     },
     {
+      "title": "Korrespondenten berichten : China überwacht Reporter mit Drohnen",
+      "url": "https://www.faz.net/aktuell/feuilleton/medien/wie-china-auslandskorrespondenten-ueberwacht-und-kontrolliert-19638586.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Filmen verboten: Ein Sicherheitsbeamter des Wuhan Instituts für Virologie hindert Journalisten beim Besuch eines Teams der Weltgesundheitsorganisation WHO an ihrer Arbeit. Aufnahme vom 3. Februar 2021."
+    },
+    {
       "title": "Christoph Hein wird achtzig : Verlusterfahrung als Gewinn",
       "url": "https://www.faz.net/aktuell/feuilleton/buecher/autoren/christoph-hein-wird-80-der-letzte-prominente-schriftsteller-der-ddr-19636807.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -519,12 +555,6 @@
       "url": "https://www.faz.net/aktuell/feuilleton/debatten/israel-warum-in-nahost-krieg-keine-wende-erfolgt-19636787.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Menschen protestieren in Jerusalem gegen Netanjahu."
-    },
-    {
-      "title": "„Der Millionen Raub“ im ZDF : Wann sind endlich die Männer aus dem Weg?",
-      "url": "https://www.faz.net/video/trailer-zu-der-millionen-raub-19636600.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Kriegsrat der Frauen: Anja Kling, Sabrina Amali, Inaam Al Battat, Anica Dobra und Sina Tkotsch (von links)"
     },
     {
       "title": "Arbeitsmarkt : Wie sich Migration auf Karrieren einheimischer Pflegekräfte auswirkt",
@@ -593,6 +623,18 @@
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
+      "title": "Fußball-Nationalmannschaft : DFB verlängert Vertrag mit Sportdirektor Völler",
+      "url": "https://www.faz.net/aktuell/sport/fussball-em/deutsches-team/dfb-verlaengert-vertrag-mit-sportdirektor-rudi-voeller-bis-fussball-wm-2026-19638519.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Rudi Völler bleibt auch über die Europameisterschaft hinaus Sportdirektor beim DFB."
+    },
+    {
+      "title": "Bundesligaklub in Abstiegsnot : VfL Bochum trennt sich von Trainer Letsch",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/thomas-letsch-muss-beim-vfl-bochum-gehen-aus-fuer-bundesliga-trainer-19638778.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Thomas Letsch hatte den Trainerjob beim VfL im Bochum im September 2022 übernommen."
+    },
+    {
       "title": "Fenerbahce verlässt Rasen : Supercup in Türkei endet nach einer Minute mit Eklat",
       "url": "https://www.faz.net/aktuell/sport/fussball/fenerbahce-verlaesst-platz-nach-gegentor-supercup-endet-nach-einer-minute-mit-eklat-19638203.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -605,22 +647,22 @@
       "image_title": "„Es ist schwierig, sowas zu gewinnen. Wenige wissen das besser als ich“: Caitlin Clark"
     },
     {
-      "title": "Bayern-Untergang in Heidenheim : Münchner Tagträumer im Tiefschlaf",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fc-bayern-muenchen-geht-in-heidenheim-unter-tagtraeumer-im-tiefschlaf-19636705.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Fassungslosigkeit beim FC Bayern nach der Niederlage in Heidenheim"
-    },
-    {
-      "title": "Formel 1 in Japan : Mercedes und das perfekte Auto – im Kopf",
-      "url": "https://www.faz.net/aktuell/sport/formel-1/formel-1-in-japan-max-verstappen-siegt-mercedes-weiter-in-der-krise-19637096.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Blütenträume: Mercedes, hier mit George Russell im W15, träumt von einer Solotour wie einst."
-    },
-    {
       "title": "Autorin Ali Hazelwood : Ein Leben zwischen Herz und Hirn",
       "url": "https://www.faz.net/aktuell/gesellschaft/menschen/autorin-ali-hazelwood-ihre-heissen-liebesromane-darf-ihr-mann-nicht-lesen-19632706.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Seit zehn Jahren lebt die Italienerin Ali Hazelwood in den USA. Gerade war sie auf einer kleinen Deutschland-Tour."
+    },
+    {
+      "title": "Schausteller auf der Kirmes : „Das Karussell ist mein Leben“",
+      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/das-karussell-ist-mein-leben-so-sieht-das-leben-eines-schaustellers-aus-19634376.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Darf es noch ein wenig rasanter sein? Von seinem Kontrollstand aus behält Alexander Schramm routiniert der Überblick."
+    },
+    {
+      "title": "Frankreich : Polizei entdeckt 70 Kilo Haschisch in Haus von Bürgermeisterin",
+      "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/frankreich-polizei-entdeckt-70-kilo-haschisch-in-haus-von-buergermeisterin-19638406.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Beschlagnahmtes Haschisch (Archivbild)"
     },
     {
       "title": "Juristin Tricia Rojo Bushnell : „Diese Praktik kann für einen Angeklagten tödlich enden“",
@@ -629,16 +671,10 @@
       "image_title": "Wartet seit gut 23 Jahren auf seine Hinrichtung: Todeskandidat Marcellus Williams im Jahr 2014"
     },
     {
-      "title": "Kaninchenplage in Frankreich : Bürgermeister plakatiert Ragout-Rezept",
-      "url": "https://www.faz.net/aktuell/gesellschaft/tiere/kaninchen-plage-in-frankreich-buergermeister-plakatiert-rezept-fuer-ragout-19637716.html",
+      "title": "Gutes Olivenöl : „Achten Sie darauf, dass das Öl möglichst frisch ist“",
+      "url": "https://www.faz.net/aktuell/stil/essen-trinken/kuechen-koeche/gutes-olivenoel-darauf-sollten-sie-beim-kauf-achten-19630786.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Ein Kaninchen sitzt an einer Düne."
-    },
-    {
-      "title": "Vor Cholera geflohen : Mindestens 90 Tote bei Schiffsunglück in Mosambik",
-      "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/mindestens-90-tote-bei-schiffsunglueck-in-mosambik-19637964.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Flüchtlinge sind vergangenen Februar in der Provinz Nampula in Mosambik auf einer Straße unterwegs."
+      "image_title": "Der Preis für viele Öle ist kräftig gestiegen – weil der Klimawandel das Angebot verknappt."
     },
     {
       "title": "Nachhaltigkeit beim Design : Sie verdienen ein zweites Leben",
@@ -650,12 +686,6 @@
       "title": "Guide Michelin in Vietnam : Hanoi Cuisine",
       "url": "https://www.faz.net/aktuell/stil/essen-trinken/restaurants/guide-michelin-in-hanoi-bib-gourmands-in-vietnam-19629253.html",
       "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Ungefährliche Rauchkringel : „Der Ätna hat beschlossen, etwas einfach Schönes zu tun“",
-      "url": "https://www.faz.net/aktuell/stil/drinnen-draussen/aetna-auf-sizilien-vulkan-pustet-grosse-rauchkringel-aus-19636630.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Es raucht in Kringeln aus dem Vulkan: Vollständig erforscht ist das Phänomen noch nicht."
     },
     {
       "title": "F.A.Z. Podcast für Deutschland : Der Fall „Voice of Europe“: Bezahlt Russland unsere Politiker?",
