@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-09T08:00:51",
+  "timestamp": "2024-04-09T09:02:00",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -44,15 +44,50 @@
       "image_title": "c't uplink – autonome Autos"
     },
     {
+      "title": "Herkömmliche Raumthermostate clever ins Smart Home integrieren",
+      "teaser": "Bestehende, nicht Smart-Home-fähige Thermostate werden zu maßgeschneiderten Wächtern über die Raumtemperatur. Außen schick und mit Touchkeys, innen ein ESP32.",
+      "url": "https://www.heise.de/ratgeber/Herkoemmliche-Raumthermostate-clever-ins-Smart-Home-integrieren-9653744.html"
+    },
+    {
       "title": "OpenWrt: Heimnetze miteinander verbinden und abgeschottete Bereiche bauen",
       "teaser": "Es gibt Geräte, die man gut mit vertrauten Nachbarn teilen kann. Mit einem OpenWrt-Router klappt das Routing zwischen mehreren Heimnetzen – so geht's!",
       "url": "https://www.heise.de/ratgeber/OpenWrt-Heimnetze-miteinander-verbinden-und-abgeschottete-Bereiche-bauen-9672886.html",
       "image_title": ","
     },
     {
-      "title": "Marktübersicht EDR-Systeme für Unternehmen: Sicherheit auf den Punkt",
-      "teaser": "Endpoint Detection and Response (EDR) schützt die Endgeräte in Unternehmen auf vielerlei Weise. Was die Produkte leisten und worauf Unternehmen achten müssen.",
-      "url": "https://www.heise.de/tests/Marktuebersicht-EDR-Systeme-fuer-Unternehmen-Sicherheit-auf-den-Punkt-9674955.html"
+      "title": "iMessage für Android: Sunbird-App fordert Apple heraus",
+      "teaser": "Sunbird bringt seine inoffizielle iMessage-App für Android wieder in Umlauf. Zuvor wurde der Dienst wegen massiver Sicherheitsprobleme eingestellt.",
+      "url": "https://www.heise.de/news/iMessage-fuer-Android-Sunbird-App-fordert-Apple-heraus-9678896.html",
+      "image_title": "Ein Smartphone mit geöffneter Messaging-App in einer menschlichen Hand, auf dem Bildschirm ist verschwommen ein Chat zu sehen."
+    },
+    {
+      "title": "Notepad++: Entwickler warnt vor Parasiten-Webseite und bittet um Mithilfe",
+      "teaser": "Die unautorisierte Webseite bezeichnet sich als \"Fan-Projekt\", der Notepad++-Entwickler fürchtet jedoch schädliche Auswirkungen. Die Community soll helfen.",
+      "url": "https://www.heise.de/news/Notepad-Entwickler-warnt-vor-Parasiten-Webseite-und-bittet-um-Mithilfe-9678725.html",
+      "image_title": "Stilisiertes Bild: Suche liefert Spam und Malware"
+    },
+    {
+      "title": "xAI sammelt Milliarden, Musk glaubt an baldige AGI",
+      "teaser": "Drei Milliarden Investition für xAI und den fragwürdigen Chatbot Grok. Musk glaubt, KI ist in zwei Jahren klüger als der klügste Mensch.",
+      "url": "https://www.heise.de/news/xAI-sammelt-Milliarden-Musk-glaubt-an-baldige-AGI-9678708.html",
+      "image_title": "Elon Musk"
+    },
+    {
+      "title": "SAP-Patchday: Zehn Sicherheitsmitteilungen im April",
+      "teaser": "Insgesamt zehn Sicherheitsnotizen gibt SAP am April-Patchday heraus. Drei der behandelten Lücken gelten als hochriskant.",
+      "url": "https://www.heise.de/news/SAP-Patchday-Zehn-Sicherheitsmitteilungen-im-April-9678796.html",
+      "image_title": "Stilisiertes Bild: Laptop mit SAP-Logo brennt, vor Serverracks"
+    },
+    {
+      "title": "Nvidias Chatbot-App ChatRTX ist für Schadcode-Attacken anfällig",
+      "teaser": "In einer aktualisierten Ausgabe haben die Entwickler von Nvidia ChatRTX gegen mögliche Attacken abgesichert.",
+      "url": "https://www.heise.de/news/Nvidias-Chatbot-App-ChatRTX-ist-fuer-Schadcode-Attacken-anfaellig-9678840.html"
+    },
+    {
+      "title": "iX-Workshop: IT-Recht für Admins – Stolperfallen und Praxis",
+      "teaser": "Die eigene Unternehmens-IT rechtssicher betreiben. Lernen Sie anhand der wichtigsten, praxisrelevanten Themen aus dem Alltag von Sysadmins. (Last Call)",
+      "url": "https://www.heise.de/news/iX-Workshop-IT-Recht-fuer-Admins-Stolperfallen-und-Praxis-9675598.html",
+      "image_title": "ix-Tagesworkshop IT-Recht für Administrator:innen"
     },
     {
       "title": "Angriff auf Wissenschaftsdatenbank: Cyberkriminelle legen Genios lahm",
@@ -104,41 +139,6 @@
       "teaser": "In dieser Podcastfolge erläutert Nadja Deuerlein Parallelen zwischen Yoga und ihrer Arbeit als Product Owner.",
       "url": "https://www.heise.de/blog/Die-Produktwerker-Was-Product-Owner-von-Yogis-lernen-koennen-9677895.html",
       "image_title": "Produktwerker auf einem Bild (3 Männer), dazu Textg \"Der Podcast für Product Owner\""
-    },
-    {
-      "title": "Drittes US-Halbleiterwerk: TSMC kleckert nicht, sondern klotzt",
-      "teaser": "Der Weltmarktführer TSMC investiert so viel wie noch nie im Ausland. Auch Samsung will angeblich mehr in den USA bauen.",
-      "url": "https://www.heise.de/news/TSMC-baut-Halbleiterwerke-fuer-65-Milliarden-US-Dollar-in-Arizona-9678198.html",
-      "image_title": "Chipfertigung"
-    },
-    {
-      "title": "Neu in .NET 8.0 [17]: Zeitabstraktion für Tests mit Zeitangaben",
-      "teaser": "In .NET 8.0 existiert mit der abstrakten Klasse TimeProvider ein einfacher Weg, Zeitangaben inklusive Zeitzone beliebig im Rahmen von Tests vorzutäuschen.",
-      "url": "https://www.heise.de/blog/Neu-in-NET-8-0-17-Zeitabstraktion-fuer-Tests-mit-Zeitangaben-9675891.html",
-      "image_title": "Frau dreht an der Uhr"
-    },
-    {
-      "title": "Cloudflare veröffentlicht in Rust geschriebene Nginx-Alternative",
-      "teaser": "Pingora hat sich beim Content Delivery Network von Cloudflare als HTTP-Proxy, Load Balancer und Failover-Software bewährt.",
-      "url": "https://www.heise.de/news/Sicher-schnell-und-in-Rust-geschrieben-Nginx-Alternative-von-Cloudflare-9678221.html",
-      "image_title": "Netzwerkswitch mit Ethernetkabeln"
-    },
-    {
-      "title": "Sichere Softwareentwicklung: Jetzt noch Vortrag zur heise devSec einreichen",
-      "teaser": "Der Call for Proposals zur heise devSec läuft noch bis zum 15. April. Bis zur Veröffentlichung des Programms gibt es besonders günstige Blind-Bird-Tickets.",
-      "url": "https://www.heise.de/news/Sichere-Softwareentwicklung-Jetzt-noch-Vortrag-zur-heise-devSec-einreichen-9676252.html"
-    },
-    {
-      "title": "Fritzbox-Vorturner: Fritzsmart Gateway steuert neue Zigbee-Geräteklassen an",
-      "teaser": "Erstmals lassen sich darüber Sensoren per Zigbee-Funk ins Smart Home von Fritzboxen einbinden. Die neuen Funktionen sollen bald auch manche Fritzboxen erhalten.",
-      "url": "https://www.heise.de/news/Fritzbox-Vorturner-Fritzsmart-Gateway-steuert-neue-Zigbee-Geraeteklassen-an-9677664.html",
-      "image_title": "Fritzsmart Gateway auf blauem Hintergrund"
-    },
-    {
-      "title": "iPad Pro 2024 mit OLED-Display: Kommt Anfang Mai, wird wohl teurer",
-      "teaser": "Apple peilt offenbar den Mai für die Einführung von iPad Pro und iPad Air an, auch neue Eingabegeräte werden erwartet. iPad mini 7 und iPad 11 folgen später.",
-      "url": "https://www.heise.de/news/iPad-Pro-2024-Apples-erstes-OLED-Tablet-wird-angeblich-teuer-9677981.html",
-      "image_title": "iPad Pro 12,9\" neben iPad 10"
     },
     {
       "title": "Low-Code ist nicht immer gleich Low-Code.",
