@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-10T11:00:52",
+  "timestamp": "2024-04-10T12:09:28",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -44,16 +44,32 @@
       "image_title": "Social,Network,And,City."
     },
     {
+      "title": "Wie Sie Dokumente mit Python indizieren und finden",
+      "teaser": "Das Maß für Worthäufigkeiten TF-IDF schlägt Transformer-basierte Textsuche bei kleinen Datensammlungen, beschleunigt die Suche und liefert ein Ergebnis-Ranking.",
+      "url": "https://www.heise.de/ratgeber/Wie-Sie-Dokumente-mit-Python-indizieren-und-finden-9676629.html"
+    },
+    {
       "title": "Was Windows 11 Version 24H2 Neues bringt – und was rausfliegt",
       "teaser": "Im Herbst 2024 steht unweigerlich wieder eine frische Windows-Version mit einem Schwung neuer Funktionen an. Was drinsteckt, ist bereits gut zu erkennen.",
       "url": "https://www.heise.de/hintergrund/Was-Windows-11-Version-24H2-Neues-bringt-und-was-rausfliegt-9676336.html",
       "image_title": ", Collage c‘t"
     },
     {
-      "title": "Eigene Domain für zu Hause: Reverse-Proxy auf dem Raspberry Pi einrichten",
-      "teaser": "Mit der Software Caddy lassen sich mit verschiedenen Domains unterschiedliche Server im gleichen Netzwerk aufrufen. Wir zeigen, wie es geht.",
-      "url": "https://www.heise.de/ratgeber/Eigene-Domain-fuer-zu-Hause-Reverse-Proxy-auf-dem-Raspberry-Pi-einrichten-9662023.html",
-      "image_title": ","
+      "title": "Multi-Agenten-Systeme: Automatisierte Leistungsanpassung für bessere KI",
+      "teaser": "Programme wie AutoGen verknüpfen spezifisch angepasste KIs zu einem Multi-Agenten-System, das automatisiert die Präzision und Leistung von LLMs steigern soll.",
+      "url": "https://www.heise.de/hintergrund/Multi-Agenten-Systeme-Automatisierte-Leistungsanpassung-fuer-bessere-KI-9677800.html"
+    },
+    {
+      "title": "Blackwell: GeForce RTX 5090 und 5080 sollen noch dieses Jahr erscheinen",
+      "teaser": "Neue Gaming-Grafikkarten von Nvidia könnten früher kommen als gedacht. Mehrere Quellen sprechen von einem Start bis zum Jahresende.",
+      "url": "https://www.heise.de/news/Blackwell-GeForce-RTX-5090-und-5080-sollen-noch-dieses-Jahr-erscheinen-9680512.html",
+      "image_title": "GeForce Grafikkarten verschiedener Hersteller nebeneinander"
+    },
+    {
+      "title": "Threads öffnet sich Ende Juni für Entwickler",
+      "teaser": "Meta öffnet sein soziales Netzwerk Threads für Entwickler. Wer allerdings auf einen alternativen Client hofft, schaut in die Röhre.",
+      "url": "https://www.heise.de/news/Threads-oeffnet-sich-Ende-Juni-fuer-Entwickler-9680497.html",
+      "image_title": "Logo von Threads"
     },
     {
       "title": "Malvertising-Kampagne zielt auf Systemadministratoren",
@@ -70,7 +86,7 @@
       "title": "Nach Drängen der Online-Apotheken: DocMorris erhält Zulassung für Cardlink",
       "teaser": "DocMorris erhält als erste Online-Apotheke Zulassung für digitale E-Rezept-Einlösung über die elektronische Gesundheitskarte​.",
       "url": "https://www.heise.de/news/Nach-Draengen-der-Online-Apotheken-Docmorris-erhaelt-Zulassung-fuer-Cardlink-9680324.html",
-      "image_title": "Docmorris in Hamburg"
+      "image_title": "Docmorris mit neuem Logo"
     },
     {
       "title": "Patchday Adobe: Schadcode-Attacken auf Experience Manager & Co. möglich",
@@ -97,6 +113,12 @@
       "image_title": "Online-Workshops: Systematische Sicherheit mit dem IT-Grundschutz des BSI"
     },
     {
+      "title": "Eigene Domain für zu Hause: Reverse-Proxy auf dem Raspberry Pi einrichten",
+      "teaser": "Mit der Software Caddy lassen sich mit verschiedenen Domains unterschiedliche Server im gleichen Netzwerk aufrufen. Wir zeigen, wie es geht.",
+      "url": "https://www.heise.de/ratgeber/Eigene-Domain-fuer-zu-Hause-Reverse-Proxy-auf-dem-Raspberry-Pi-einrichten-9662023.html",
+      "image_title": ","
+    },
+    {
       "title": "Sam Altman und Jony Ive arbeiten an neuem KI-Gerät",
       "teaser": "Wie kann KI das Smartphone ablösen? Daran arbeiten nun auch Sam Altman und der ehemalige Designchef von Apple, Jony Ive.",
       "url": "https://www.heise.de/news/Sam-Altman-und-Jony-Ive-arbeiten-an-neuem-KI-Geraet-9679942.html",
@@ -117,30 +139,6 @@
       "title": "Backup: Kubernetes-Umgebung mit Kasten K10 sichern",
       "teaser": "Kubernetes stellt Backup-Anwendungen vor nicht erfüllbare Herausforderungen. Das speziell für Kubernetes-Umgebungen entwickelte Kasten K10 verspricht Abhilfe.",
       "url": "https://www.heise.de/ratgeber/Backup-Kubernetes-Umgebung-mit-Kasten-K10-sichern-9678815.html"
-    },
-    {
-      "title": "iX-Workshop Softwarearchitektur: CPSA Foundation Level mit iSAQB-Zertifizierung",
-      "teaser": "Werden Sie zum Certified Professional for Software Architecture (CPSA). Online Intensiv-Schulung mit anschließender iSAQB-Zertifizierung. Rabatt bis 22.04.",
-      "url": "https://www.heise.de/news/iX-Workshop-Softwarearchitektur-CPSA-Foundation-Level-mit-iSAQB-Zertifizierung-9638878.html",
-      "image_title": "iX-Workshop Softwarearchitektur iSAQB Foundation Level"
-    },
-    {
-      "title": "Fortinet liefert Updates: Admin-Cookie-Klau in FortiOS und FortiProxy möglich",
-      "teaser": "In FortiOS und FortiProxy klaffen mehrere Sicherheitslücken. Unter anderem können Angreifer Admin-Cookies klauen und damit Zugriff erlangen.",
-      "url": "https://www.heise.de/news/Fortinet-liefert-Updates-Admin-Cookie-Klau-in-FortiOS-und-FortiProxy-moeglich-9679909.html",
-      "image_title": "Stilisierte Grafik: eine brennende Appliance im Netz"
-    },
-    {
-      "title": "Bit-Rauschen, der Prozessor-Podcast: OLED-Technik für tolle Displays",
-      "teaser": "Organische Leuchtdioden (OLEDs) liefern tolle Farben und Kontraste. Wir erläutern die Technik und kommende Neuheiten im Podcast Bit-Rauschen, Folge 2024/8.",
-      "url": "https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-OLED-Technik-fuer-tolle-Displays-9652850.html",
-      "image_title": "Logo von Bit-Rauschen - der Prozessor-Podcast von c’t"
-    },
-    {
-      "title": "KI: Meta verspricht Open-Source-Sprachmodell Llama 3 für den nächsten Monat",
-      "teaser": "Das erneut quelloffene KI-Sprachmodell Llama 3 wird bereits in Kürze veröffentlicht. Meta kündigt verschiedene Versionen mit unterschiedlichen Fähigkeiten an.",
-      "url": "https://www.heise.de/news/KI-Meta-verspricht-Open-Source-Sprachmodell-Llama-3-fuer-den-naechsten-Monat-9679860.html",
-      "image_title": "Zwei Alpakas mit blauem Himmel"
     },
     {
       "title": "Low-Code ist nicht immer gleich Low-Code.",

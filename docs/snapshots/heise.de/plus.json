@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-10T11:01:03",
+  "timestamp": "2024-04-10T12:09:39",
   "url": "https://www.heise.de/plus/",
   "response": {
     "status": 200
@@ -26,37 +26,48 @@
   ],
   "articles": [
     {
-      "title": "RatgeberMit ETFs und Fonds in Schwellenländer investieren: Wie Sie vom Boom profitieren",
-      "teaser": "Emerging Markets fristen seit Jahren ein Schattendasein an der Börse. Dabei boten einige Länder zuletzt überdurchschnittliche Renditen.",
-      "url": "https://www.heise.de/ratgeber/Mit-ETFs-und-Fonds-in-Schwellenlaender-investieren-Wie-Sie-vom-Boom-profitieren-9672303.html"
-    },
-    {
-      "title": "RatgeberIkea-Hack: LED-Leuchtwürfel in ein smartes Gerät umbauen",
-      "teaser": "Tauscht man den Original-Controller beim Frekvens gegen einen ESP8266 aus, lässt sich die LED-Matrix des Würfels intelligent steuern, etwa als autonome Uhr.",
-      "url": "https://www.heise.de/ratgeber/Ikea-Hack-LED-Leuchtwuerfel-in-ein-smartes-Geraet-umbauen-9665055.html",
+      "title": "RatgeberWie Sie alte Macs mit jungem macOS aufbrezeln",
+      "teaser": "Alte Macs kann man mit einem modernen macOS aufrüsten und weiternutzen, obwohl Apple das nicht vorsieht.",
+      "url": "https://www.heise.de/ratgeber/OpenCore-Legacy-Patcher-Wie-Sie-alte-Macs-mit-jungem-macOS-aufbrezeln-9673338.html",
       "image_title": ","
     },
     {
-      "title": "HintergrundWindows: Was der sudo-Befehl kann",
-      "teaser": "Unter Windows Programme mit Administratorrechten auszuführen, ist für Konsolennutzer ziemlich umständlich. Das will Microsoft mit dem Befehl sudo ändern.",
-      "url": "https://www.heise.de/hintergrund/Windows-Was-der-sudo-Befehl-kann-9673409.html"
+      "title": "RatgeberWie Sie Dokumente mit Python indizieren und finden",
+      "teaser": "Das Maß für Worthäufigkeiten TF-IDF schlägt Transformer-basierte Textsuche bei kleinen Datensammlungen, beschleunigt die Suche und liefert ein Ergebnis-Ranking.",
+      "url": "https://www.heise.de/ratgeber/Wie-Sie-Dokumente-mit-Python-indizieren-und-finden-9676629.html"
     },
     {
-      "title": "Tests22 schnelle SSDs mit PCIe 4.0 und 5.0 im Test",
-      "teaser": "PCIe 4.0 ist die neue Standardklasse für flotte SSDs, und die Kühlkörper der noch schnelleren 5.0er-Modelle wachsen weiter in die Höhe. Wir haben sie getestet.",
-      "url": "https://www.heise.de/tests/22-schnelle-SSDs-mit-PCIe-4-0-und-5-0-im-Test-9661261.html",
+      "title": "TestsFünf Monitore im Test: 27 Zoll mit 4K-Auflösung und USB-C-Eingang",
+      "teaser": "Ultrahochauflösende 27-Zoll-Monitore kombinieren viel Bildfläche mit kompakter Bauform. Aktuelle Displays können viel und sind schon ab 340 Euro zu haben.",
+      "url": "https://www.heise.de/tests/Fuenf-Monitore-im-Test-27-Zoll-mit-4K-Aufloesung-und-USB-C-Eingang-9675972.html",
       "image_title": ","
     },
     {
-      "title": "TestsLinux: Gnome 46 mit verbesserter Suche",
-      "teaser": "Gnome 46 bringt eine globale Suchfunktion und eine neue grafische Fernanmeldung. Im Wayland-Modus unterstützt Gnome erstmals variable Bildwiederholraten.",
-      "url": "https://www.heise.de/tests/Linux-Gnome-46-mit-verbesserter-Suche-9673623.html"
+      "title": "RatgeberEigene Domain für zu Hause: Reverse-Proxy auf dem Raspberry Pi einrichten",
+      "teaser": "Mit der Software Caddy lassen sich mit verschiedenen Domains unterschiedliche Server im gleichen Netzwerk aufrufen. Wir zeigen, wie es geht.",
+      "url": "https://www.heise.de/ratgeber/Eigene-Domain-fuer-zu-Hause-Reverse-Proxy-auf-dem-Raspberry-Pi-einrichten-9662023.html",
+      "image_title": ","
     },
     {
-      "title": "TestsCalliope mini 3 ausprobiert: Vielseitiges Mikrocontroller-Board für Schüler",
-      "teaser": "Mit dem Calliope mini 3 ist eine weitere Version des bekannten Mikrocontroller-Boards erschienen. Wir testen, welche Features er mitbringt.",
-      "url": "https://www.heise.de/tests/Calliope-mini-3-ausprobiert-Guenstiges-Mikrocontroller-Board-fuer-Schueler-9664755.html",
-      "image_title": ","
+      "title": "HintergrundWas Windows 11 Version 24H2 Neues bringt – und was rausfliegt",
+      "teaser": "Im Herbst 2024 steht unweigerlich wieder eine frische Windows-Version mit einem Schwung neuer Funktionen an. Was drinsteckt, ist bereits gut zu erkennen.",
+      "url": "https://www.heise.de/hintergrund/Was-Windows-11-Version-24H2-Neues-bringt-und-was-rausfliegt-9676336.html",
+      "image_title": ", Collage c‘t"
+    },
+    {
+      "title": "RatgeberBackup: Kubernetes-Umgebung mit Kasten K10 sichern",
+      "teaser": "Kubernetes stellt Backup-Anwendungen vor nicht erfüllbare Herausforderungen. Das speziell für Kubernetes-Umgebungen entwickelte Kasten K10 verspricht Abhilfe.",
+      "url": "https://www.heise.de/ratgeber/Backup-Kubernetes-Umgebung-mit-Kasten-K10-sichern-9678815.html"
+    },
+    {
+      "title": "Multi-Agenten-Systeme: Automatisierte Leistungsanpassung für bessere KI",
+      "teaser": "Programme wie AutoGen verknüpfen spezifisch angepasste KIs zu einem Multi-Agenten-System, das automatisiert die Präzision und Leistung von LLMs steigern soll.",
+      "url": "https://www.heise.de/hintergrund/Multi-Agenten-Systeme-Automatisierte-Leistungsanpassung-fuer-bessere-KI-9677800.html"
+    },
+    {
+      "title": "Wie Sie Dokumente mit Python indizieren und finden",
+      "teaser": "Das Maß für Worthäufigkeiten TF-IDF schlägt Transformer-basierte Textsuche bei kleinen Datensammlungen, beschleunigt die Suche und liefert ein Ergebnis-Ranking.",
+      "url": "https://www.heise.de/ratgeber/Wie-Sie-Dokumente-mit-Python-indizieren-und-finden-9676629.html"
     },
     {
       "title": "Was Windows 11 Version 24H2 Neues bringt – und was rausfliegt",
@@ -133,16 +144,6 @@
       "url": "https://www.heise.de/ratgeber/Mit-ETFs-und-Fonds-in-Schwellenlaender-investieren-Wie-Sie-vom-Boom-profitieren-9672303.html"
     },
     {
-      "title": "heise+ Update vom 5. April 2024: Lesetipps fürs Wochenende",
-      "teaser": "Der wöchentliche Newsletter von heise+ diesmal mit den Themen: Elektroautos, Prepaidtarife, Darknet, PSP reparieren und WordPress-Alternativen.",
-      "url": "https://www.heise.de/news/heise-Update-vom-5-April-2024-Lesetipps-fuers-Wochenende-9676129.html"
-    },
-    {
-      "title": "Windows: Was der sudo-Befehl kann",
-      "teaser": "Unter Windows Programme mit Administratorrechten auszuführen, ist für Konsolennutzer ziemlich umständlich. Das will Microsoft mit dem Befehl sudo ändern.",
-      "url": "https://www.heise.de/hintergrund/Windows-Was-der-sudo-Befehl-kann-9673409.html"
-    },
-    {
       "title": "Apple Car: Warum Apples Fahrzeugprojekt gescheitert ist",
       "url": "https://www.heise.de/hintergrund/Apple-Car-Warum-Apples-Fahrzeugprojekt-gescheitert-ist-9675187.html",
       "image_title": ", KI-generiert von Midjourney; Montage: Mac & i."
@@ -156,6 +157,16 @@
       "title": "UpdateTesla Model 3 Highland im Test: Das bringt das Facelift",
       "url": "https://www.heise.de/tests/Tesla-Model-3-Highland-im-Test-Das-bringt-das-Facelift-9667349.html",
       "image_title": "Tesla Model 3 Highland"
+    },
+    {
+      "title": "heise+ Update vom 5. April 2024: Lesetipps fürs Wochenende",
+      "teaser": "Der wöchentliche Newsletter von heise+ diesmal mit den Themen: Elektroautos, Prepaidtarife, Darknet, PSP reparieren und WordPress-Alternativen.",
+      "url": "https://www.heise.de/news/heise-Update-vom-5-April-2024-Lesetipps-fuers-Wochenende-9676129.html"
+    },
+    {
+      "title": "Windows: Was der sudo-Befehl kann",
+      "teaser": "Unter Windows Programme mit Administratorrechten auszuführen, ist für Konsolennutzer ziemlich umständlich. Das will Microsoft mit dem Befehl sudo ändern.",
+      "url": "https://www.heise.de/hintergrund/Windows-Was-der-sudo-Befehl-kann-9673409.html"
     },
     {
       "title": "22 schnelle SSDs mit PCIe 4.0 und 5.0 im Test",
@@ -231,17 +242,6 @@
       "title": "Arista EOS im Test: Switches und Netzwerkplattform fürs Datacenter",
       "teaser": "Der Netzwerkausrüster Arista macht mit seiner einheitlichen Architektur einiges anders als die Konkurrenz. Wie die Architektur aufgebaut, zeigt unser Test.",
       "url": "https://www.heise.de/tests/Arista-EOS-im-Test-Switches-und-Netzwerkplattform-fuers-Datacenter-9674570.html"
-    },
-    {
-      "title": "Kurztests: Zwei CPU-Kühler und eine ultraleise Grafikkarte",
-      "teaser": "Wir haben die CPU-Kühler von Scythe und Deepcool getestet sowie die Spielergrafikkarte Radeon RX 7900 GRE.",
-      "url": "https://www.heise.de/tests/Kurztests-Zwei-CPU-Kuehler-und-eine-ultraleise-Grafikkarte-9672872.html"
-    },
-    {
-      "title": "Künstliche Intelligenz: Eine Frage des Bewusstseins",
-      "teaser": "Nicht nur Philosophen, sondern auch Kognitionswissenschaftler und Ingenieure beschäftigen sich mit der Frage, was nötig wäre, damit KI ein Bewusstsein erlangt.",
-      "url": "https://www.heise.de/hintergrund/Wie-viel-Geist-steckt-in-der-Maschine-9669982.html",
-      "image_title": ", Illustration: Stuart Bradford"
     },
     {
       "title": "Solaranlage optimierenMehr Ertrag aus der PV-Anlage – Das bringen Leistungsoptimierer",
@@ -359,6 +359,11 @@
       "url": "https://www.heise.de/hintergrund/Web-development-What-HTMX-is-good-for-in-practice-9663514.html"
     },
     {
+      "title": "Künstliche Intelligenz: Eine Frage des Bewusstseins",
+      "url": "https://www.heise.de/hintergrund/Wie-viel-Geist-steckt-in-der-Maschine-9669982.html",
+      "image_title": ", Illustration: Stuart Bradford"
+    },
+    {
       "title": "Statt Hitze: US-Start-up entwickelt völlig neue Methode zur Zement-Herstellung",
       "url": "https://www.heise.de/hintergrund/Statt-Hitze-US-Start-up-entwickelt-voellig-neue-Methode-zur-Zement-Herstellung-9669909.html",
       "image_title": "Der klimafreundliche Zement von Sublime kann in beliebige Formen gebracht werden., Fotos: Bob O’Connor"
@@ -367,11 +372,6 @@
       "title": "Medizin: Programmierte Killerzellen gegen Krebs",
       "url": "https://www.heise.de/hintergrund/Medizin-Programmierte-Killerzellen-gegen-Krebs-9661632.html",
       "image_title": "\"Grüne\" T-Zellen zerstören \"blaue\" Zellen eines Gehirntumors. In der Realität ist der Kampf der Zellen weniger farbenfroh. Die Aufnahme stammt von einer Gewebeprobe im Elektronenmikroskop und wurde nachkoloriert. , Science Photo Library / Steve Gschmeissner"
-    },
-    {
-      "title": "Post-Quanten-Kryptografie: Die Suche nach der perfekten Verschlüsselung",
-      "url": "https://www.heise.de/hintergrund/Kryptografie-Die-Suche-nach-der-perfekten-Verschluesselung-9661568.html",
-      "image_title": "Stilisierte Grafik: ein Schloss mit biometrischen Schlüsseln"
     },
     {
       "title": "Der Ruhrtal-Radweg",
