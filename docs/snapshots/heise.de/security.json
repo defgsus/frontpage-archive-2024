@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-10T13:02:36",
+  "timestamp": "2024-04-10T14:00:44",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "BatBadBut: Rust und weitere Programmiersprachen",
+      "url": "https://www.heise.de/news/BatBadBut-Kritische-Befehlsschmuggel-Luecke-in-Windows-etwa-in-Rust-9680576.html"
+    },
+    {
       "title": "Patchday Adobe",
       "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Attacken-auf-Experience-Manager-Co-moeglich-9680064.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Fortinet-liefert-Updates-Admin-Cookie-Klau-in-FortiOS-und-FortiProxy-moeglich-9679909.html"
     },
     {
-      "title": "HP Poly CCX IP Phones",
-      "url": "https://www.heise.de/news/HP-Poly-CCX-IP-Telefone-erlauben-unbefugten-Zugriff-9679027.html"
+      "title": "BatBadBut: Kritische Befehlsschmuggel-Lücke in Windows etwa in Rust",
+      "teaser": "BatBadBut heißt eine kritische Befehlsschmuggel-Lücke, die mehrere Programmiersprachen unter Windows betrifft. Abhilfe ist schwer.",
+      "url": "https://www.heise.de/news/BatBadBut-Kritische-Befehlsschmuggel-Luecke-in-Windows-etwa-in-Rust-9680576.html",
+      "image_title": "Stilisiertes Bild: Laptop zeigt Eingabeaufforderung mit einer .bat-Datei"
     },
     {
       "title": "Am besten abschalten: Alte NAS-Geräte von D-Link führen Fremdcode aus",
@@ -157,12 +163,6 @@
       "teaser": "Lernen Sie, professionelle Incident Response Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können. (Last Call)",
       "url": "https://www.heise.de/news/iX-Workshop-Digital-Forensics-Incident-Response-Schuetzen-Erkennen-Reagieren-9665982.html",
       "image_title": "iX-Workshop Digital Forensics & Incident Response"
-    },
-    {
-      "title": "Malvertising: Betrügerische Werbung auch bei Microsofts Bing",
-      "teaser": "Malvertising, also Werbeanzeigen mit bösartigen Zielen, gibt es nicht nur bei Google, sondern auch bei Microsofts Bing-Suchmaschine.",
-      "url": "https://www.heise.de/news/Malvertising-Betruegerische-Werbung-auch-bei-Microsofts-Bing-9676256.html",
-      "image_title": "Stilisiertes Bild: Suche liefert Spam und Malware"
     },
     {
       "title": "heise security tour 2024",
