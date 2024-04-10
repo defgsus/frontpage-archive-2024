@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-10T07:00:38",
+  "timestamp": "2024-04-10T08:08:16",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Patchday Microsoft",
+      "url": "https://www.heise.de/news/Patchday-Angreifer-umgehen-erneut-Sicherheitsfunktion-und-attackieren-Windows-9679989.html"
+    },
+    {
       "title": "FortiOS und FortiProxy",
       "url": "https://www.heise.de/news/Fortinet-liefert-Updates-Admin-Cookie-Klau-in-FortiOS-und-FortiProxy-moeglich-9679909.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/SAP-Patchday-Zehn-Sicherheitsmitteilungen-im-April-9678796.html"
     },
     {
-      "title": "Nvidia ChatRTX",
-      "url": "https://www.heise.de/news/Nvidias-Chatbot-App-ChatRTX-ist-fuer-Schadcode-Attacken-anfaellig-9678840.html"
+      "title": "Patchday: Angreifer umgehen erneut Sicherheitsfunktion und attackieren Windows",
+      "teaser": "Microsoft hat wichtige Sicherheitsupdates für unter anderem Bitlocker, Office und Windows Defender veröffentlicht. Zwei Lücken nutzen Angreifer bereits aus.",
+      "url": "https://www.heise.de/news/Patchday-Angreifer-umgehen-erneut-Sicherheitsfunktion-und-attackieren-Windows-9679989.html",
+      "image_title": "Microsoft-Logo mit Rissen und der Aufschrift \"Patchday\""
     },
     {
       "title": "Fortinet liefert Updates: Admin-Cookie-Klau in FortiOS und FortiProxy möglich",
@@ -157,12 +163,6 @@
       "teaser": "Ein wichtiges Sicherheitsupdate schließt eine Schwachstelle im BIOS von Servern des Computerherstellers Dell.",
       "url": "https://www.heise.de/news/Dell-Server-BIOS-Luecke-als-Einfallstor-fuer-Angreifer-9675994.html",
       "image_title": "Stilisiertes Bild: Ein Stapel brennender Appliances"
-    },
-    {
-      "title": "Lexmark: Hochriskante Lücken erlauben Codeschmuggel auf Drucker",
-      "teaser": "Lexmark warnt vor Sicherheitslücken in diversen Drucker-Firmwares. Angreifer können Schadcode einschleusen. Updates sind verfügbar.",
-      "url": "https://www.heise.de/news/Lexmark-Hochriskante-Luecken-erlauben-Codeschmuggel-auf-Drucker-9675861.html",
-      "image_title": "Stilisierte Grafik: ein brennender Netzwerkdrucker"
     },
     {
       "title": "heise security tour 2024",
