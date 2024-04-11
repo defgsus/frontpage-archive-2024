@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-11T07:00:54",
+  "timestamp": "2024-04-11T08:07:25",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.74e2d2e1207f2979ed41",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.b735d67960fe269da120",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Google Chrome",
+      "url": "https://www.heise.de/news/Google-Chrome-Sandbox-Ausbruch-durch-bestimmte-Gesten-moeglich-9681413.html"
+    },
     {
       "title": "BatBadBut: Rust und weitere Programmiersprachen",
       "url": "https://www.heise.de/news/BatBadBut-Kritische-Befehlsschmuggel-Luecke-in-Windows-etwa-in-Rust-9680576.html"
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Patchday-Angreifer-umgehen-erneut-Sicherheitsfunktion-und-attackieren-Windows-9679989.html"
     },
     {
-      "title": "FortiOS und FortiProxy",
-      "url": "https://www.heise.de/news/Fortinet-liefert-Updates-Admin-Cookie-Klau-in-FortiOS-und-FortiProxy-moeglich-9679909.html"
+      "title": "iX-Workshop IT-Sicherheit: Angriffstechniken verstehen und erfolgreich abwehren",
+      "teaser": "Analysieren Sie aktuelle Angriffstechniken, um die Wirksamkeit Ihrer Schutzmaßnahmen und die Verletzlichkeit Ihrer IT einzuschätzen. (Last Call)",
+      "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-Angriffstechniken-verstehen-und-erfolgreich-abwehren-9675614.html",
+      "image_title": "iX-Workshop Cybersicherheit: aktuelle Bedrohungen und ihre Abwehr"
+    },
+    {
+      "title": "Google Chrome: Sandbox-Ausbruch durch bestimmte Gesten möglich",
+      "teaser": "Google hat den Chrome-Webbrowser aktualisiert. Angreifer können Sicherheitslücken zum Ausführen von Schadcode missbrauchen.",
+      "url": "https://www.heise.de/news/Google-Chrome-Sandbox-Ausbruch-durch-bestimmte-Gesten-moeglich-9681413.html",
+      "image_title": "Stilisierte Grafik: Brennendes Google-Chrome-Logo auf einem Laptop"
     },
     {
       "title": "X veränderte User-Beiträge: Gefundenes Fressen für Phisher",
@@ -152,17 +164,6 @@
       "teaser": "Schritt für Schritt zum sicheren System: Penetrationstests methodisch planen, beauftragen und auswerten, um Schwachstellen in der eigenen IT aufzuspüren.",
       "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-Pentests-methodisch-planen-anfordern-und-analysieren-9675564.html",
       "image_title": "Penetrationstests: Methodik, Ausschreibung und Auswertung"
-    },
-    {
-      "title": "Jetzt patchen! Rund 16.500 VPN-Instanzen von Ivanti potenziell angreifbar",
-      "teaser": "Scans zeigen, dass weltweit tausende VPN-Instanzen von Ivanti des Typs Connect Secure und Policy Secure Gateway verwundbar sind. Auch in Deutschland.",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Rund-16-500-VPN-Instanzen-von-Ivanti-potenziell-angreifbar-9677551.html",
-      "image_title": "Hände am Laptop im Gegenlicht, Vordergrund im Dunklen"
-    },
-    {
-      "title": "Kritisches Datenleck in Kinderüberwachungs-App \"Kid Security\"",
-      "teaser": "Millionen Datensätze waren bei der Tracking-App Kid Security laut Sicherheitsforschern offen einsehbar, darunter GPS-Daten, Audioaufnahmen und private Chats.​",
-      "url": "https://www.heise.de/news/Kritisches-Datenleck-in-Kinderueberwachungs-App-Kid-Security-9677127.html"
     },
     {
       "title": "heise security tour 2024",
