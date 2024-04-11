@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-11T11:01:01",
+  "timestamp": "2024-04-11T12:09:28",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.b735d67960fe269da120",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.c259ae58f39adac84c23",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "WLAN-Access-Points von TP-Link",
+      "url": "https://www.heise.de/news/WLAN-Access-Points-von-TP-Link-15-Minuten-nach-Reboot-attackierbar-9681863.html"
+    },
     {
       "title": "Google Chrome",
       "url": "https://www.heise.de/news/Google-Chrome-Sandbox-Ausbruch-durch-bestimmte-Gesten-moeglich-9681413.html"
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Attacken-auf-Experience-Manager-Co-moeglich-9680064.html"
     },
     {
-      "title": "Patchday Microsoft",
-      "url": "https://www.heise.de/news/Patchday-Angreifer-umgehen-erneut-Sicherheitsfunktion-und-attackieren-Windows-9679989.html"
+      "title": "WLAN-Access-Points von TP-Link 15 Minuten lang nach Reboot attackierbar",
+      "teaser": "Zwei TP-Link-WLAN-Access-Points sind unter anderem für DoS-Attacken anfällig. Sicherheitsupdates sind verfügbar.",
+      "url": "https://www.heise.de/news/WLAN-Access-Points-von-TP-Link-15-Minuten-nach-Reboot-attackierbar-9681863.html",
+      "image_title": "Update-Tastatur"
     },
     {
       "title": "Gezielte Spyware bespitzelt iPhones: Apple warnt Nutzer in vielen Ländern",
@@ -64,6 +70,12 @@
       "teaser": "Google hat den Chrome-Webbrowser aktualisiert. Angreifer können Sicherheitslücken zum Ausführen von Schadcode missbrauchen.",
       "url": "https://www.heise.de/news/Google-Chrome-Sandbox-Ausbruch-durch-bestimmte-Gesten-moeglich-9681413.html",
       "image_title": "Stilisierte Grafik: Brennendes Google-Chrome-Logo auf einem Laptop"
+    },
+    {
+      "title": "Microsoft-Code und -Passwörter standen frei im Netz",
+      "teaser": "Die Bing-Abteilung stellte Passwörter und Quellcode bei Azure online. Zur freien Entnahme. Selbst nach einem Hinweis.​",
+      "url": "https://www.heise.de/news/Microsoft-Code-und-Passwoerter-standen-frei-im-Netz-9681295.html",
+      "image_title": "Ein Mann blickt erschrocken auf eine künstlerich dargestellte Datenwolke, in der \"Data Leak\" steht"
     },
     {
       "title": "X veränderte User-Beiträge: Gefundenes Fressen für Phisher",
@@ -153,17 +165,6 @@
       "teaser": "Die Ransomware-Bande AlphV hatte einen ihrer Handlanger geneppt und sich mit 22 Millionen US-Dollar aus dem Staub gemacht. Das Opfer wird nun erneut erpresst.",
       "url": "https://www.heise.de/news/Ransomware-US-Gesundheitsplattform-soll-nach-AlphV-Betrug-doppelt-zahlen-9678433.html",
       "image_title": "Ransomware auf einem Rechner"
-    },
-    {
-      "title": "Microsoft: Neuer Treiber schützt Standard-Browser-Einstellung",
-      "teaser": "Stillschweigend hat Microsoft Windows einen Treiber zum Schutz der Einstellung etwa des Standard-Browsers verpasst.",
-      "url": "https://www.heise.de/news/Microsoft-Neuer-Treiber-schuetzt-Standard-Browser-Einstellung-9678592.html",
-      "image_title": "Stilisierte Grafik: zersplitterter Sicherheitsschild auf einem Laptop"
-    },
-    {
-      "title": "Sichere Softwareentwicklung: Jetzt noch Vortrag zur heise devSec einreichen",
-      "teaser": "Der Call for Proposals zur heise devSec läuft noch bis zum 15. April. Bis zur Veröffentlichung des Programms gibt es besonders günstige Blind-Bird-Tickets.",
-      "url": "https://www.heise.de/news/Sichere-Softwareentwicklung-Jetzt-noch-Vortrag-zur-heise-devSec-einreichen-9676252.html"
     },
     {
       "title": "heise security tour 2024",
