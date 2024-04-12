@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-12T10:01:01",
+  "timestamp": "2024-04-12T11:00:54",
   "url": "https://www.heise.de/plus/",
   "response": {
     "status": 200
@@ -58,6 +58,17 @@
       "title": "RatgeberBackup: Kubernetes-Umgebung mit Kasten K10 sichern",
       "teaser": "Kubernetes stellt Backup-Anwendungen vor nicht erfüllbare Herausforderungen. Das speziell für Kubernetes-Umgebungen entwickelte Kasten K10 verspricht Abhilfe.",
       "url": "https://www.heise.de/ratgeber/Backup-Kubernetes-Umgebung-mit-Kasten-K10-sichern-9678815.html"
+    },
+    {
+      "title": "Workstation-CPU: Intel Xeon mit 24 Kernen im Test",
+      "teaser": "Für einen Workstation-Prozessor ist Intels 24-kerniger Xeon w7-2495X noch halbwegs günstig, hat schnelle AVX512-Einheiten und integrierte KI-Beschleuniger AMX.",
+      "url": "https://www.heise.de/tests/Workstation-CPU-Intel-Xeon-mit-24-Kernen-im-Test-9674988.html"
+    },
+    {
+      "title": "High-End-Workstation mit 96-Kern-Prozessor und zwei Profi-Grafikkarten im Test",
+      "teaser": "Enorme Performance: Dell rüstet die Precision 7875 mit der stärksten Workstation-CPU Ryzen Threadripper Pro 7995WX und zwei Nvidia RTX 6000 Ada aus.",
+      "url": "https://www.heise.de/tests/High-End-Workstation-mit-96-Kern-Prozessor-und-zwei-Profi-Grafikkarten-im-Test-9674553.html",
+      "image_title": ","
     },
     {
       "title": "Kurztests: Zwei Apps für Menschen mit Sehbehinderung und eine Mathe-App",
@@ -129,17 +140,6 @@
       "image_title": ", Collage c‘t"
     },
     {
-      "title": "Eigene Domain für zu Hause: Reverse-Proxy auf dem Raspberry Pi einrichten",
-      "teaser": "Mit der Software Caddy lassen sich mit verschiedenen Domains unterschiedliche Server im gleichen Netzwerk aufrufen. Wir zeigen, wie es geht.",
-      "url": "https://www.heise.de/ratgeber/Eigene-Domain-fuer-zu-Hause-Reverse-Proxy-auf-dem-Raspberry-Pi-einrichten-9662023.html",
-      "image_title": ","
-    },
-    {
-      "title": "Backup: Kubernetes-Umgebung mit Kasten K10 sichern",
-      "teaser": "Kubernetes stellt Backup-Anwendungen vor nicht erfüllbare Herausforderungen. Das speziell für Kubernetes-Umgebungen entwickelte Kasten K10 verspricht Abhilfe.",
-      "url": "https://www.heise.de/ratgeber/Backup-Kubernetes-Umgebung-mit-Kasten-K10-sichern-9678815.html"
-    },
-    {
       "title": "Apple Car: Warum Apples Fahrzeugprojekt gescheitert ist",
       "url": "https://www.heise.de/hintergrund/Apple-Car-Warum-Apples-Fahrzeugprojekt-gescheitert-ist-9675187.html",
       "image_title": ", KI-generiert von Midjourney; Montage: Mac & i."
@@ -153,6 +153,17 @@
       "title": "UpdateTesla Model 3 Highland im Test: Das bringt das Facelift",
       "url": "https://www.heise.de/tests/Tesla-Model-3-Highland-im-Test-Das-bringt-das-Facelift-9667349.html",
       "image_title": "Tesla Model 3 Highland"
+    },
+    {
+      "title": "Eigene Domain für zu Hause: Reverse-Proxy auf dem Raspberry Pi einrichten",
+      "teaser": "Mit der Software Caddy lassen sich mit verschiedenen Domains unterschiedliche Server im gleichen Netzwerk aufrufen. Wir zeigen, wie es geht.",
+      "url": "https://www.heise.de/ratgeber/Eigene-Domain-fuer-zu-Hause-Reverse-Proxy-auf-dem-Raspberry-Pi-einrichten-9662023.html",
+      "image_title": ","
+    },
+    {
+      "title": "Backup: Kubernetes-Umgebung mit Kasten K10 sichern",
+      "teaser": "Kubernetes stellt Backup-Anwendungen vor nicht erfüllbare Herausforderungen. Das speziell für Kubernetes-Umgebungen entwickelte Kasten K10 verspricht Abhilfe.",
+      "url": "https://www.heise.de/ratgeber/Backup-Kubernetes-Umgebung-mit-Kasten-K10-sichern-9678815.html"
     },
     {
       "title": "Fünf Monitore im Test: 27 Zoll mit 4K-Auflösung und USB-C-Eingang",
@@ -228,17 +239,6 @@
       "image_title": ","
     },
     {
-      "title": "Linux: Gnome 46 mit verbesserter Suche",
-      "teaser": "Gnome 46 bringt eine globale Suchfunktion und eine neue grafische Fernanmeldung. Im Wayland-Modus unterstützt Gnome erstmals variable Bildwiederholraten.",
-      "url": "https://www.heise.de/tests/Linux-Gnome-46-mit-verbesserter-Suche-9673623.html"
-    },
-    {
-      "title": "Calliope mini 3 ausprobiert: Vielseitiges Mikrocontroller-Board für Schüler",
-      "teaser": "Mit dem Calliope mini 3 ist eine weitere Version des bekannten Mikrocontroller-Boards erschienen. Wir testen, welche Features er mitbringt.",
-      "url": "https://www.heise.de/tests/Calliope-mini-3-ausprobiert-Guenstiges-Mikrocontroller-Board-fuer-Schueler-9664755.html",
-      "image_title": ","
-    },
-    {
       "title": "Solaranlage optimierenMehr Ertrag aus der PV-Anlage – Das bringen Leistungsoptimierer",
       "teaser": "Sie versprechen, die Ausbeute der eigenen Photovoltaikanlagen zu verbessern: Leistungsoptimierer. Wir zeigen, was sie bringen.",
       "url": "https://www.heise.de/ratgeber/Mehr-Ertrag-aus-der-PV-Anlage-Das-bringen-Leistungsoptimierer-9665358.html",
@@ -300,19 +300,18 @@
       "url": "https://www.heise.de/news/Ladetarife-fuer-Elektroautos-im-Vergleich-7180518.html"
     },
     {
+      "title": "Workstation-CPU: Intel Xeon mit 24 Kernen im Test",
+      "url": "https://www.heise.de/tests/Workstation-CPU-Intel-Xeon-mit-24-Kernen-im-Test-9674988.html"
+    },
+    {
+      "title": "High-End-Workstation mit 96-Kern-Prozessor und zwei Profi-Grafikkarten im Test",
+      "url": "https://www.heise.de/tests/High-End-Workstation-mit-96-Kern-Prozessor-und-zwei-Profi-Grafikkarten-im-Test-9674553.html",
+      "image_title": ","
+    },
+    {
       "title": "Recht: Unzulässiger Einsatz von ChatGPT für studentischen Bewerbungs-Essay",
       "url": "https://www.heise.de/hintergrund/Recht-Unzulaessiger-Einsatz-von-ChatGPT-fuer-studentischen-Bewerbungs-Essay-9673494.html",
       "image_title": "Illustration eines Roboters mit menschlicher Maske"
-    },
-    {
-      "title": "Was Windows 11 Version 24H2 Neues bringt – und was rausfliegt",
-      "url": "https://www.heise.de/hintergrund/Was-Windows-11-Version-24H2-Neues-bringt-und-was-rausfliegt-9676336.html",
-      "image_title": ", Collage c‘t"
-    },
-    {
-      "title": "Fünf Monitore im Test: 27 Zoll mit 4K-Auflösung und USB-C-Eingang",
-      "url": "https://www.heise.de/tests/Fuenf-Monitore-im-Test-27-Zoll-mit-4K-Aufloesung-und-USB-C-Eingang-9675972.html",
-      "image_title": ","
     },
     {
       "title": "Räumliche Videos mit dem iPhone aufnehmen: So geht's",
@@ -329,6 +328,11 @@
       "image_title": "Elgato Facecam Mk.2 vor buntem Hintergrund"
     },
     {
+      "title": "Calliope mini 3 ausprobiert: Vielseitiges Mikrocontroller-Board für Schüler",
+      "url": "https://www.heise.de/tests/Calliope-mini-3-ausprobiert-Guenstiges-Mikrocontroller-Board-fuer-Schueler-9664755.html",
+      "image_title": ","
+    },
+    {
       "title": "Ikea-Hack: LED-Leuchtwürfel in ein smartes Gerät umbauen",
       "url": "https://www.heise.de/ratgeber/Ikea-Hack-LED-Leuchtwuerfel-in-ein-smartes-Geraet-umbauen-9665055.html",
       "image_title": ","
@@ -337,10 +341,6 @@
       "title": "Überblick: Private Maker-Tools auf dem Raspberry Pi",
       "url": "https://www.heise.de/ratgeber/Ueberblick-Private-Maker-Tools-auf-dem-Raspberry-Pi-9662949.html",
       "image_title": ", Andrey_Popov / Shutterstock.com"
-    },
-    {
-      "title": "Lerncomputer für die Hosentasche im Test: Oxocard Science+ und Connect",
-      "url": "https://www.heise.de/tests/Lerncomputer-fuer-die-Hosentasche-im-Test-Oxocard-Science-und-Connect-9664761.html"
     },
     {
       "title": "Arista EOS im Test: Switches und Netzwerkplattform fürs Datacenter",

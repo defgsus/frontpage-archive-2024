@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-12T10:00:53",
+  "timestamp": "2024-04-12T11:00:46",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Palo Alto Firewalls",
+      "url": "https://www.heise.de/news/BSI-warnt-vor-aktiv-angegriffener-Sicherheitsluecke-in-Palo-Alto-Firewalls-9683153.html"
+    },
+    {
       "title": "Juniper",
       "url": "https://www.heise.de/news/Sicherheitsluecken-Angreifer-koennen-Juniper-Netzwerkgeraete-lahmlegen-9682955.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Google-Chrome-Sandbox-Ausbruch-durch-bestimmte-Gesten-moeglich-9681413.html"
     },
     {
-      "title": "BatBadBut: Rust und weitere Programmiersprachen",
-      "url": "https://www.heise.de/news/BatBadBut-Kritische-Befehlsschmuggel-Luecke-in-Windows-etwa-in-Rust-9680576.html"
+      "title": "BSI warnt vor aktiv angegriffener Sicherheitslücke in Palo-Alto-Firewalls",
+      "teaser": "Das BSI warnt vor einer kritischen Sicherheitslücke in Firewalls von Palo Alto Networks. Sie wird bereits attackiert. Angreifer erhalten root-Zugriff.",
+      "url": "https://www.heise.de/news/BSI-warnt-vor-aktiv-angegriffener-Sicherheitsluecke-in-Palo-Alto-Firewalls-9683153.html",
+      "image_title": "Stilisierte Grafik: eine brennende Appliance im Netz"
     },
     {
       "title": "Sicherheitslücken: Angreifer können Juniper-Netzwerkgeräte lahmlegen",
@@ -158,12 +164,6 @@
       "teaser": "Microsoft hat wichtige Sicherheitsupdates für unter anderem Bitlocker, Office und Windows Defender veröffentlicht. Zwei Lücken nutzen Angreifer bereits aus.",
       "url": "https://www.heise.de/news/Patchday-Angreifer-umgehen-erneut-Sicherheitsfunktion-und-attackieren-Windows-9679989.html",
       "image_title": "Microsoft-Logo mit Rissen und der Aufschrift \"Patchday\""
-    },
-    {
-      "title": "Fortinet liefert Updates: Admin-Cookie-Klau in FortiOS und FortiProxy möglich",
-      "teaser": "In FortiOS und FortiProxy klaffen mehrere Sicherheitslücken. Unter anderem können Angreifer Admin-Cookies klauen und damit Zugriff erlangen.",
-      "url": "https://www.heise.de/news/Fortinet-liefert-Updates-Admin-Cookie-Klau-in-FortiOS-und-FortiProxy-moeglich-9679909.html",
-      "image_title": "Stilisierte Grafik: eine brennende Appliance im Netz"
     },
     {
       "title": "heise security tour 2024",
