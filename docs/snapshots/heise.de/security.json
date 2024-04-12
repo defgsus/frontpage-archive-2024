@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-12T09:01:02",
+  "timestamp": "2024-04-12T10:00:53",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Juniper",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-Angreifer-koennen-Juniper-Netzwerkgeraete-lahmlegen-9682955.html"
+    },
+    {
       "title": "WLAN-Access-Points von TP-Link",
       "url": "https://www.heise.de/news/WLAN-Access-Points-von-TP-Link-15-Minuten-nach-Reboot-attackierbar-9681863.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/BatBadBut-Kritische-Befehlsschmuggel-Luecke-in-Windows-etwa-in-Rust-9680576.html"
     },
     {
-      "title": "D-Link NAS",
-      "url": "https://www.heise.de/news/Am-besten-abschalten-Alte-NAS-Geraete-von-D-Link-fuehren-Fremdcode-aus-9680520.html"
+      "title": "Sicherheitslücken: Angreifer können Juniper-Netzwerkgeräte lahmlegen",
+      "teaser": "Wichtige Patches schließen mehrere Schwachstellen in Junos OS, die Firewalls, Router und Switches verwundbar machen.",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-Angreifer-koennen-Juniper-Netzwerkgeraete-lahmlegen-9682955.html"
     },
     {
       "title": "Interview zum Schutz von Gesundheitsdaten: \"Niemand geht in der Masse unter\"",
@@ -159,12 +164,6 @@
       "teaser": "In FortiOS und FortiProxy klaffen mehrere Sicherheitslücken. Unter anderem können Angreifer Admin-Cookies klauen und damit Zugriff erlangen.",
       "url": "https://www.heise.de/news/Fortinet-liefert-Updates-Admin-Cookie-Klau-in-FortiOS-und-FortiProxy-moeglich-9679909.html",
       "image_title": "Stilisierte Grafik: eine brennende Appliance im Netz"
-    },
-    {
-      "title": "Robot Operating System: Zahlreiche Schwachstellen gefunden und geschlossen",
-      "teaser": "In unterschiedlichen Robot Operating System-Versionen wurden mehrere Sicherheitslücken entdeckt. Updates stehen bereit.",
-      "url": "https://www.heise.de/news/Robot-Operating-System-Zahlreiche-Schwachstellen-gefunden-und-geschlossen-9679260.html",
-      "image_title": "Roboter mit Pinsel vor Leinwand, der Betrachter anguckt"
     },
     {
       "title": "heise security tour 2024",
