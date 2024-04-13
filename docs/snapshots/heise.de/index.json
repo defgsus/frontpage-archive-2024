@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-13T07:00:47",
+  "timestamp": "2024-04-13T08:00:47",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -145,6 +145,12 @@
       "url": "https://www.heise.de/news/TGIQF-Das-Quiz-rund-um-Juri-Gagarin-und-das-Space-Shuttle-9680795.html"
     },
     {
+      "title": "Developer Snapshots: Programmierer-News in ein, zwei Sätzen",
+      "teaser": "Unsere Übersicht kleiner, interessanter Meldungen enthält unter anderem Visual Studio Code, Crystal, Shorebird, GitLab, Spring, Gretel und VAST Data.",
+      "url": "https://www.heise.de/news/Developer-Snapshots-Programmierer-News-in-ein-zwei-Saetzen-9681980.html",
+      "image_title": "Auf dem Bild ist ein Kopf von einem Mann auf blauem Hintergrund zu sehen, der sich selbst mit Blitzlicht fotografiert, ein Auge ist zu sehen, das andere schaut in die Linse."
+    },
+    {
       "title": "aider hilft bei der KI-Programmierung mit kompletten GitHub-Repositories",
       "teaser": "Das Open-Source-Tool aider erweitert die Möglichkeiten von Code-Assistenten wie ChatGPT, indem es ihren Kontext auf die komplette Code-Basis ausdehnt.",
       "url": "https://www.heise.de/news/aider-hilft-bei-der-KI-Programmierung-mit-kompletten-GitHub-Repositories-9682259.html",
@@ -185,12 +191,6 @@
       "image_title": "Ein weiter Himmel, flaches, grünes Land und ein paar Windräder sind typisch für Ostfriesland und prägen das Bild der Region im äußersten Nordwesten Deutschlands., Alle Bilder: Stephan Giesers"
     },
     {
-      "title": "Neu in .NET 8.0 [18]: Ein Zeitraffer mit eigenem FakeTimeProvider",
-      "teaser": "Auf Basis der Klasse TimeProvider kann man sich in .NET 8.0 einen eigenen TimeProvider erstellen, der in Tests Uhrzeiten vorgaukelt.",
-      "url": "https://www.heise.de/blog/Neu-in-NET-8-0-18-Ein-Zeitraffer-mit-eigenem-FakeTimeProvider-9683197.html",
-      "image_title": "5,Min,Before,12,O`clock,On,A,Wall,Clock"
-    },
-    {
       "title": "Solaranlage optimierenMehr Ertrag aus der PV-Anlage – Das bringen Leistungsoptimierer",
       "teaser": "Sie versprechen, die Ausbeute der eigenen Photovoltaikanlagen zu verbessern: Leistungsoptimierer. Wir zeigen, was sie bringen.",
       "url": "https://www.heise.de/ratgeber/Mehr-Ertrag-aus-der-PV-Anlage-Das-bringen-Leistungsoptimierer-9665358.html",
@@ -210,6 +210,12 @@
       "title": "Ihre Meinung ist gefragt!",
       "teaser": "Nehmen Sie an unserer Umfrage zu heise online teil und gewinnen Sie mit etwas Glück einen von 20 Amazon-Gutscheinen im Wert von 25 €.",
       "url": "https://survey.vocatus.de/jfe/form/SV_dakTjmDexo5tzlc?chan=ws&subchan=adver"
+    },
+    {
+      "title": "Neu in .NET 8.0 [18]: Ein Zeitraffer mit eigenem FakeTimeProvider",
+      "teaser": "Auf Basis der Klasse TimeProvider kann man sich in .NET 8.0 einen eigenen TimeProvider erstellen, der in Tests Uhrzeiten vorgaukelt.",
+      "url": "https://www.heise.de/blog/Neu-in-NET-8-0-18-Ein-Zeitraffer-mit-eigenem-FakeTimeProvider-9683197.html",
+      "image_title": "5,Min,Before,12,O`clock,On,A,Wall,Clock"
     },
     {
       "title": "Krypto-Scams: Coinbase warnt EU-Kunden vor iPhone-Sideloading",
@@ -280,14 +286,14 @@
       "image_title": "Illustration eines Roboters mit menschlicher Maske"
     },
     {
+      "title": "Smart City – mit VR die Stadt von morgen erkunden",
+      "teaser": "Was verbirgt sich hinter dem Versprechen einer „Smart City“? In einem Webcast können Sie in eine virtuelle Welt eintauchen und hautnah erleben, wie „Smart Parking“ und „Smart Lighting“ die Stadt von morgen lebenswerter machen.",
+      "url": "https://business-services.heise.de/it-management/virtualisierung/beitrag/smart-city-mit-vr-die-stadt-von-morgen-erkunden-4701/?source=nat_teas"
+    },
+    {
       "title": "Zufallsexperte: ACM Turing-Award geht in diesem Jahr an Avi Wigderson",
       "teaser": "Der Mathematikprofessor Wigderson lehrt und forscht zu theoretischer Informatik an der Uni Princeton, speziell zu Zufallszahlen.",
       "url": "https://www.heise.de/news/Zufallsexperte-ACM-Turing-Award-geht-in-diesem-Jahr-an-Avi-Wigderson-9682668.html"
-    },
-    {
-      "title": "Wie NIS2 für mehr IT-Sicherheit sorgt",
-      "teaser": "Die EU-Sicherheitsrichtlinie NIS2 muss bis Oktober 2024 in nationales Recht umgesetzt werden. Was NIS2 bedeutet, wen es betrifft und was zu tun ist, erfahren Sie im Webcast am 30.4. um 11 Uhr.",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/wie-nis2-fuer-mehr-it-sicherheit-sorgt-4717/?source=hbsad-ersatz"
     },
     {
       "title": "AlertBSI warnt vor aktiv angegriffener Sicherheitslücke in Palo-Alto-Firewalls",
@@ -339,11 +345,6 @@
       "teaser": "Das Framework Next.js 14.2 bringt den Release Candidate für Turbopack mit. Der schnellere webpack-Ersatz besteht nun nahezu alle Integrationstests.",
       "url": "https://www.heise.de/news/JavaScript-Framework-Next-js-14-2-erhebt-Turbopack-zum-Release-Candidate-9682690.html",
       "image_title": "Ein Javascript-Schriftzug vor einem Bildschirm mit Daten."
-    },
-    {
-      "title": "AlertSicherheitslücken: Angreifer können Juniper-Netzwerkgeräte lahmlegen",
-      "teaser": "Wichtige Patches schließen mehrere Schwachstellen in Junos OS, die Firewalls, Router und Switches verwundbar machen.",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-Angreifer-koennen-Juniper-Netzwerkgeraete-lahmlegen-9682955.html"
     },
     {
       "title": "US-Wettersatellit liefert beeindruckende Fotos der totalen Sonnenfinsternis",
@@ -712,36 +713,37 @@
       "url": "https://www.techstage.de/bestenliste/top-7-die-besten-maehroboter-ohne-begrenzungskabel-mit-kamera-und-gps/sdv0h6p?wt_mc=intern.red.techstage.techstage_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Wird der Nato-Gipfel einen unendlichen Krieg in Europa eröffnen?",
-      "teaser": "Der Druck wächst, der Ukraine in Vilnius eine Beitrittsperspektive zu geben. Hardliner und einige osteuropäische Staaten wollen ein klares Zeichen. Warum das keine gute Idee ist.",
-      "url": "https://www.heise.de/tp/features/Wird-der-Nato-Gipfel-einen-unendlichen-Krieg-in-Europa-eroeffnen-9205939.html"
+      "title": "Debatte ums Elterngeld: Wie mit falschen Zahlen Stimmung gemacht wird",
+      "teaser": "Große Aufregung über die Pläne, das Elterngeld einzuschränken. Alle möglichen Argumente werden vorgetragen, doch einige sind nicht ganz richtig. Ein Faktencheck.",
+      "url": "https://www.heise.de/tp/features/Debatte-ums-Elterngeld-Wie-mit-falschen-Zahlen-Stimmung-gemacht-wird-9209177.html",
+      "image_title": "Falsche Zahlen in Debatte ums Elterngeld"
     },
     {
-      "title": "Bud Light: Biertrinker falsch abgeholt",
-      "teaser": "Werbekampagne mit Transgender-Star geht daneben. Schäumende Entrüstung, Geschäft bricht ein. Kulturkampf-Boykott gewinnt. Fabriken schließen. Angestellte werden arbeitslos.",
-      "url": "https://www.heise.de/tp/features/Bud-Light-Biertrinker-falsch-abgeholt-9209052.html"
+      "title": "Russische Bewegung für Kriegsdienstverweigerug als \"ausländischer Agent\" eingestuft",
+      "teaser": "Wehrdienstflüchtige aus Russland haben wenig Chancen auf Asyl in der EU. Es mangelt an legalen Einreisewegen. Der Kreml geht dennoch von Verbrüderung aus.",
+      "url": "https://www.heise.de/tp/features/Russische-Bewegung-fuer-Kriegsdienstverweigerug-als-auslaendischer-Agent-eingestuft-9207406.html"
     },
     {
-      "title": "Debatten: Wovon Whataboutism ablenkt",
-      "teaser": "Eine rhetorische Allzweckwaffe und ihr Einsatz in Diskussionen über Assange oder den Ukraine-Krieg. Warum das in polarisierten Meinungsstreits so beliebte Totschlagargument hochproblematisch ist.",
-      "url": "https://www.heise.de/tp/features/Debatten-Wovon-Whataboutism-ablenkt-9207254.html"
+      "title": "Wie der Verfassungsschutz in die Meinungsfreiheit eingreift",
+      "teaser": "Der deutsche Inlandsgeheimdienst wird zunehmend zum politischen Akteur. Macht sich Behördenchef Haldenwang einer strafbaren Nötigung im Amt schuldig? Und was hat das mit Orwells \"1984\" zu tun?",
+      "url": "https://www.heise.de/tp/features/Wie-der-Verfassungsschutz-in-die-Meinungsfreiheit-eingreift-9206508.html"
     },
     {
-      "title": "X veränderte User-Beiträge: Gefundenes Fressen für Phisher",
-      "teaser": "Ohne Erlaubnis hat X die Zeichenfolge twitter.com in Tweets durch x.com ersetzt. Was kann schon schiefgehen, wenn Links plötzlich anders angezeigt werden?​",
-      "url": "https://www.heise.de/news/X-veraenderte-User-Beitraege-Gefundenes-Fressen-fuer-Phischer-9681259.html",
-      "image_title": "Eien Frau greift sich an die Stirn"
+      "title": "UpdateNach Pocketbook: Auch Tolino verkauft Reader mit farbigem E-Ink-Display",
+      "teaser": "Nun gibt es auch von Tolino erste E-Reader mit Farbdisplay. Zum Einsatz kommt die Technik Kaleido 3, die etwa Comics in 4096 Farben anzeigen kann.",
+      "url": "https://www.heise.de/news/Vision-Color-und-Shine-Color-Tolino-verkauft-erste-E-Reader-mit-Farbdisplay-9679905.html",
+      "image_title": "Zwei Reader mit Farbdisplay"
     },
     {
-      "title": "High-End-Smartphones im Kameravergleich: Duell um die beste Bildqualität",
-      "teaser": "Von Apple iPhone 15 Pro Max bis Xiaomi 14 Ultra: High-End-Smartphones haben immer aufwendigere Kameras. Unser Duell zeigt, welches die besten Bilder liefert.",
-      "url": "https://www.heise.de/tests/High-End-Smartphones-im-Kameravergleich-Duell-um-die-beste-Bildqualitaet-9681454.html"
+      "title": "Web-Tipps: Luftschmutzkarten",
+      "teaser": "Luftqualität wird durch Schadstoffe verringert, welche unsere Gesundheit beeinträchtigen. Verschiedene Websites zeichnen via Messtechnik die Entwicklung auf.",
+      "url": "https://www.heise.de/news/Web-Tipps-Luftschmutzkarten-9673650.html"
     },
     {
-      "title": "UpdateAmazon: \"Fallout\"-Serie kommt um 3 Uhr nachts",
-      "teaser": "Amazon hat seine \"Fallout\"-Serie vorverlegt: Sie erscheint am 11. April in der Nacht. Eine zweite Staffel gilt derweil als gesichert.",
-      "url": "https://www.heise.de/news/Amazon-Fallout-Serie-wird-frueher-veroeffentlicht-9678641.html",
-      "image_title": "Szene aus der \"Fallout\"-Serie"
+      "title": "Live-Nacktbilder mit KI-Kamera - Kunstprojekt soll Diskussionen anregen",
+      "teaser": "In Sekundenschnelle erstellt die Kamera \"Nuca\" eine Nackbild-Version anhand des Menschen, der vor der Linse steht. Ein Kunstprojekt, das provozieren will.",
+      "url": "https://www.heise.de/news/Kunst-Projekt-KI-Kamera-generiert-live-Nacktbilder-des-Fotomodels-9676633.html",
+      "image_title": "Ein Bild zweier Männer: links der Oberkörper des bekleideten Fotomodels, das in die Kamera lächelt, rechts das generierte Nacktbild der KI-Kamera"
     },
     {
       "title": "VPN-Test 2024: Die besten VPN-Anbieter im Vergleich",
