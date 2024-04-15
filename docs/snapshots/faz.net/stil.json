@@ -1,10 +1,16 @@
 {
-  "timestamp": "2024-04-15T02:55:52",
+  "timestamp": "2024-04-15T04:10:36",
   "url": "https://www.faz.net/aktuell/stil/",
   "response": {
     "status": 200
   },
   "scripts": [
+    {
+      "type": "text/javascript",
+      "src": "https://data-4ede7e9c86.faz.net/iomm/latest/bootstrap/loader.js",
+      "id": "ivw-bootstrap-loader",
+      "text": null
+    },
     {
       "type": null,
       "src": "https://www.faz.net/js/adobe/atarget.js",
@@ -13,247 +19,28 @@
     },
     {
       "type": "text/javascript",
-      "src": "https://assets.adobedtm.com/101b76c36d9a/3e3b81cff9aa/launch-ae2dd1b4fde7.min.js",
-      "id": null,
+      "src": "https://assets.adobedtm.com/101b76c36d9a/299bb2761e13/launch-b62c4c37ed74.min.js",
+      "id": "adobe-launch-head",
       "text": null
     },
     {
-      "type": null,
-      "src": "https://static.cleverpush.com/channel/loader/v3LddGcmHMyc4wNxg.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://consent.faz.net/wrapperMessagingWithoutDetection.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://www.faz.net/js/jquery-2.1.1.min.533adf8a.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://www.faz.net/js/jquery_all.min.8282a139.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://www.faz.net/js/all_scripts.min.ff1bf31b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://static.faz.net/f6/ad/faz/iq.faz.net/V2/dist/FAZ_secondary-info.min.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://data-4ede7e9c86.faz.net/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.faz.net/dist/scripts/jquery.5baa25b61bc17bd557cf.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.faz.net/dist/scripts/webfontloader.09ec00be78068bac9f52.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.faz.net/dist/scripts/main_faz-gdpr.a446dbbb8feab0b21bc9.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "application/javascript",
-      "src": "https://www.faz.net/sharebuttons/js/sharebuttons-1.1.9.min.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.faz.net/dist/scripts/a11y-toggle.64d6151d94edf1df245f.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.faz.net/dist/scripts/main.e12f84135f497ba7310d.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "module",
       "src": "https://snacks.faz.net/faz-snackswidget.min.js",
       "id": null,
       "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.faz.net/_nuxt/B09LhTuy.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://static.cleverpush.com/channel/loader/v3LddGcmHMyc4wNxg.js",
+      "id": "clever-push",
+      "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Kaffemaschine Ligre youn : Ein guter Espresso kann so einfach sein",
-      "url": "https://www.faz.net/aktuell/stil/mode-design/kaffemaschine-ligre-youn-ein-guter-espresso-kann-so-einfach-sein-19642614.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Das für sie intensivste Projekt: Ana Relvão and Gerhardt Kellermann haben mit der Ligre youn eine formschöne, aber auch innovative Espressomaschine entworfen."
-    },
-    {
-      "title": "Erinnerung an Amy Winehouse : „Sie war dafür geschaffen, berühmt zu sein“",
-      "url": "https://www.faz.net/aktuell/trailer-zu-back-to-black-19643690.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Sie faszinierte, schockierte und berührte viele Menschen: Amy Winehouse, die 1983 geboren wurde, starb schon 2011."
-    },
-    {
-      "title": "Zum Tod von Roberto Cavalli : Als „sexy“ noch nicht abgegriffen klang",
-      "url": "https://www.faz.net/aktuell/stil/mode-design/zum-tod-von-roberto-cavalli-sein-name-glaenzt-weiter-19651255.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Roberto Cavalli steht nach einer Modeschau seines Labels im Juni 2014 In Mailand zwischen seinen Models."
-    },
-    {
-      "title": "Die aktuelle Ausgabe : Das F.A.Z.-Magazin zum Download",
-      "url": "https://zeitung.faz.net/meine-ausgaben/magazin/",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Geht doch! : Verklemmte Deckel schnell öffnen",
-      "url": "https://www.faz.net/aktuell/stil/haushaltstipp-so-oeffnen-sie-verklemmte-deckel-schnell-19636081.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Der Schuh ist schwarz, der Schuh ist schick: Doch dafür muss das Döschen mit der Schuhcreme sich erst öffnen."
-    },
-    {
-      "title": "Möbelneuheiten des Frühjahrs : Mal was Neues",
-      "url": "https://www.faz.net/aktuell/stil/mode-design/vor-dem-salone-in-mailand-die-moebelneuheiten-des-fruehjahrs-19647139.html",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Im Alter von 83 Jahren : Modedesigner Roberto Cavalli ist tot",
-      "url": "https://www.faz.net/aktuell/stil/mode-design/italienischer-modedesigner-roberto-cavalli-mit-83-gestorben-19650841.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Der italienische Modedesigner Roberto Cavalli ist gestorben. Hier posierte er für ein Foto in Sydney."
-    },
-    {
-      "title": "Wie die Abnehmspritze wirkt : „Ich habe das Essen einfach vergessen!“",
-      "url": "https://www.faz.net/aktuell/stil/leib-seele/hilft-die-abnehmspritze-wirklich-welche-erfahrungen-es-gibt-19633395.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Wundermittel gibt es in der Medizin nicht. Aber bei den richtigen Patienten kann die Abnehmspritze helfen."
-    },
-    {
-      "title": "Zerstörtes Vertrauen : Muss Untreue das Aus für die Beziehung sein?",
-      "url": "https://www.faz.net/aktuell/stil/leib-seele/untreue-in-der-beziehung-muessen-paare-danach-schluss-machen-19630802.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Zerstörtes Vertrauen und verlorene Sicherheit lassen sich nicht in wenigen Monaten wiederherstellen."
-    },
-    {
-      "title": "Gutes Olivenöl : „Achten Sie darauf, dass das Öl möglichst frisch ist“",
-      "url": "https://www.faz.net/aktuell/stil/essen-trinken/kuechen-koeche/wie-man-gutes-olivenoel-erkennt-und-welches-oel-sich-zum-anbraten-eignet-19630786.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Der Preis für viele Öle ist kräftig gestiegen – weil der Klimawandel das Angebot verknappt."
-    },
-    {
-      "title": "Germany’s Next Topmodel : Dafür hätte Karl Lagerfeld lebenslanges Paris-Verbot gegeben",
-      "url": "https://www.faz.net/aktuell/stil/trends-nischen/gntm-2024-ist-heidi-klums-woke-detektor-kaputt-19641176.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Julian (links) und Felix posen zusammen in Folge 9."
-    },
-    {
-      "title": "Modelabels aus Paris : Neue Männer",
-      "url": "https://www.faz.net/aktuell/stil/mode-design/mode-aus-paris-shooting-mit-neuen-marken-19611220.html",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Über die Cartiers : Gefragt war Schmuck, der zu einem Prinzen passt",
-      "url": "https://www.faz.net/aktuell/feuilleton/buecher/rezensionen/sachbuch/francesca-cartier-brickells-buch-die-cartiers-19570519/cartier-schmuckstueck-der-19572699.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Cartier-Schmuckstück: Der Sunrise Rubin- und Diamantring mit einem Gewicht von 25,59 Karat aus dem Nachlass der österreichischen Milliardärin Heidi Horten"
-    },
-    {
-      "title": "Zeitenwende in der Mode : Was siehst du?",
-      "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/wie-klappt-die-zeitenwende-in-der-mode-was-siehst-du-19632991.html",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Das „Grill Royal Hamburg“ : Kommt ein Steak aus der Hauptstadt",
-      "url": "https://www.faz.net/aktuell/stil/essen-trinken/restaurants/wie-schmeckt-es-im-grill-royal-hamburg-19630797.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Das Restaurant Grill Royal in Hamburg: eine vornehme und großzügig dimensionierte Immobilie an der Binnenalster"
-    },
-    {
-      "title": "Trend Sauerteig : Regional, gesund und länger haltbar",
-      "url": "https://www.faz.net/aktuell/stil/sauerteig-im-trend-baeckerei-ouwe-in-frankfurt-arbeitet-ausschliesslich-damit-19644587.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Komplizierter und unkalkulierbarer als anderes Backen: Linus Schäfer (links) und Eike Becher portionieren den Brotteig und formen Leibe daraus."
-    },
-    {
-      "title": "Nährstoffreiche Ernährung : Frische Kräuter statt farbloser Fertiggerichte im Krankenhaus",
-      "url": "https://www.faz.net/aktuell/stil/gegen-triste-fertiggerichte-wenn-krankenhaeuser-selbst-kraeuter-anbauen-19604891.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Kräuter aus der Schublade"
-    },
-    {
-      "title": "Kolumne „Alles auf Anfang“ : Dieser Moment ist einer der schlimmsten an der Trennung",
-      "url": "https://www.faz.net/aktuell/stil/leib-seele/kolumnen/trennung-vom-partner-dieser-moment-ist-einer-der-schlimmsten-19639107.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Autor und Journalist: Alexander Krützfeldt schreibt die neue Kolumne „Alles auf Anfang“ auf FAZ.NET."
-    },
-    {
-      "title": "So werden Sie zufrieden alt : „Wer spirituell ist, hat im Alter die besten Karten“",
-      "url": "https://www.faz.net/aktuell/stil/leib-seele/psychologin-verraet-wie-wir-zufrieden-alt-werden-koennen-19615053.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Unter Spiritualität fallen verschiedene Charakterstärken wie Liebe, Hoffnung und der Glaube an etwas – ob es Gott, das Universum oder einfach die Liebe ist. Spirituelle Menschen könnten auf etwas vertrauen, und das erzeuge Sinn, sagt die Psychologin Pasqualina Perrig-Chiello."
-    },
-    {
-      "title": "Autorin Ali Hazelwood : Ein Leben zwischen Herz und Hirn",
-      "url": "https://www.faz.net/aktuell/stil/autorin-ali-hazelwood-ihre-heissen-liebesromane-darf-ihr-mann-nicht-lesen-19632706.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Seit zehn Jahren lebt die Italienerin Ali Hazelwood in den USA. Gerade war sie auf einer kleinen Deutschland-Tour."
-    },
-    {
-      "title": "Weinbau der Zukunft : Elsbeere und Erle mitten in der „Wildsau“",
-      "url": "https://www.faz.net/aktuell/stil/weinbau-der-zukunft-elsbeere-und-erle-in-der-wildsau-19639764.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Mehr Widerstand gegen Hitze und Dürre: Das Rheingauer Weingut Engelmann-Schlepper experimentiert mit Bäumen zwischen den Rebstöcken."
-    },
-    {
-      "title": "Hanne Willmann : „Mit Fahrrad fühle ich mich am freiesten“",
-      "url": "https://www.faz.net/aktuell/stil/trends-nischen/hanne-willmann-im-stil-fragebogen-19642450.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Die Designerin Hanne Willmann mit ihrer Lampe „Flakes“ in ihrem Berliner Studio im Februrar 2020"
-    },
-    {
-      "title": "Geschäftsgang : In der Bike Boutique gibt es schicke Räder, aber kein Babboe",
-      "url": "https://www.faz.net/aktuell/stil/bike-boutique-in-frankfurt-schicke-bikes-kein-babboe-19636051.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Mit Altbau-Charme: die neue Bike Boutique"
-    },
-    {
-      "title": "Hofgut Oberfeld in Darmstadt : Wo das Kälbchen die Hand ableckt",
-      "url": "https://www.faz.net/aktuell/rhein-main/hofgut-oberfeld-in-darmstadt-landwirtschaft-fuer-kinder-19640061/naehe-auf-dem-hof-oberfeld-19640076.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Nähe: Auf dem Hof Oberfeld dürfen Kinder die Tiere anfassen - Anschauen geht auch in einem Buch, sagt die Pädagogin des Lernbauernhofs."
-    },
-    {
-      "title": "Der Wandertipp : Mitten durch die Wand",
-      "url": "https://www.faz.net/aktuell/stil/der-wandertipp-fuehrt-zu-burgen-im-hintertaunus-19647792.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Burgen muss man suchen im Taunus. Zu den wenigen erhaltenen, respektive wieder aufgebauten gehört die Anlage in Altweilnau. Der 18 Meter hohe Turm der dreiseitigen Feste aus dem frühen 13. Jahrhundert kann über enge Stufen bestiegen werden und gibt den Blick frei auf das Schloss von Neuweilnau. Die Herrschaftssitze gehen auf zwei Linien der Grafen von Diez(-Weilnau) zurück."
-    },
-    {
-      "title": "Ungefährliche Rauchkringel : „Der Ätna hat beschlossen, etwas einfach Schönes zu tun“",
-      "url": "https://www.faz.net/aktuell/stil/drinnen-draussen/aetna-auf-sizilien-vulkan-pustet-grosse-rauchkringel-aus-19636630.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Es raucht in Kringeln aus dem Vulkan: Vollständig erforscht ist das Phänomen noch nicht."
-    }
-  ]
+  "articles": []
 }

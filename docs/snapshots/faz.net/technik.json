@@ -1,10 +1,16 @@
 {
-  "timestamp": "2024-04-15T02:55:54",
+  "timestamp": "2024-04-15T04:10:39",
   "url": "https://www.faz.net/aktuell/technik-motor/",
   "response": {
     "status": 200
   },
   "scripts": [
+    {
+      "type": "text/javascript",
+      "src": "https://data-4ede7e9c86.faz.net/iomm/latest/bootstrap/loader.js",
+      "id": "ivw-bootstrap-loader",
+      "text": null
+    },
     {
       "type": null,
       "src": "https://www.faz.net/js/adobe/atarget.js",
@@ -13,377 +19,28 @@
     },
     {
       "type": "text/javascript",
-      "src": "https://assets.adobedtm.com/101b76c36d9a/3e3b81cff9aa/launch-ae2dd1b4fde7.min.js",
-      "id": null,
+      "src": "https://assets.adobedtm.com/101b76c36d9a/299bb2761e13/launch-b62c4c37ed74.min.js",
+      "id": "adobe-launch-head",
       "text": null
     },
     {
-      "type": null,
-      "src": "https://static.cleverpush.com/channel/loader/v3LddGcmHMyc4wNxg.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://consent.faz.net/wrapperMessagingWithoutDetection.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://www.faz.net/js/jquery-2.1.1.min.533adf8a.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://www.faz.net/js/jquery_all.min.8282a139.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://www.faz.net/js/all_scripts.min.ff1bf31b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://static.faz.net/f6/ad/faz/iq.faz.net/V2/dist/FAZ_secondary-info.min.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://data-4ede7e9c86.faz.net/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.faz.net/dist/scripts/jquery.5baa25b61bc17bd557cf.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.faz.net/dist/scripts/webfontloader.09ec00be78068bac9f52.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.faz.net/dist/scripts/main_faz-gdpr.a446dbbb8feab0b21bc9.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "application/javascript",
-      "src": "https://www.faz.net/sharebuttons/js/sharebuttons-1.1.9.min.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.faz.net/dist/scripts/a11y-toggle.64d6151d94edf1df245f.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.faz.net/dist/scripts/main.e12f84135f497ba7310d.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "module",
       "src": "https://snacks.faz.net/faz-snackswidget.min.js",
       "id": null,
       "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.faz.net/_nuxt/B09LhTuy.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://static.cleverpush.com/channel/loader/v3LddGcmHMyc4wNxg.js",
+      "id": "clever-push",
+      "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Comeback für den Opel Frontera : Opel holt den Frontera wieder ins Modellprogramm",
-      "url": "https://www.faz.net/aktuell/technik-motor/opel-frontera-kommt-zurueck-19636857.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Neues Logo: Der Frontera ist der erste Opel mit dem jüngsten Blitz."
-    },
-    {
-      "title": "Schlusslicht : Deutsches Schlagloch",
-      "url": "https://www.faz.net/aktuell/technik-motor/schlusslicht-das-deutsche-schlagloch-19646718.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Eine Rennradrunde kann unangenehm werden, wenn die Straße nicht ordentlich geteert ist. (Symbolbild)"
-    },
-    {
-      "title": "Moto Guzzi V85 : Adler der Herzen",
-      "url": "https://www.faz.net/aktuell/technik-motor/motor/moto-guzzi-v85-adler-der-herzen-19636879.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Die V85 ist die Moto Guzzi fürs Herz."
-    },
-    {
-      "title": "Mehr Ruhe im Straßenverkehr : Wir müssen anders",
-      "url": "https://www.faz.net/aktuell/technik-motor/zu-viel-aggressivitaet-im-strassenverkehr-19636889.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Die Zahl der Verkehrsunfälle nimmt zu. (Symbolbild)"
-    },
-    {
-      "title": "Test: Audi SQ8 TFSI quattro : Durstig, teuer und gefragt",
-      "url": "https://www.faz.net/aktuell/technik-motor/motor/test-audi-sq8-tfsi-quattro-19636853.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Die Höchstgeschwindigkeit liegt bei 250 km/h."
-    },
-    {
-      "title": "Fahrbericht EQE SUV : Hoch will er leben",
-      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/fahrbericht-mercedes-benz-eqe-suv-hoch-will-er-leben-19636856.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Mercedes hat seinen SUV zum EQE einen Akku mit 90 kWh Kapazität auf den Weg gegeben."
-    },
-    {
-      "title": "Fünf am Freitag : Einmal Spielkind, immer Spielkind",
-      "url": "https://www.faz.net/aktuell/technik-motor/fuenf-am-freitag-einmal-spielkind-immer-spielkind-19648562.html",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Aus Fortwo wird Project Two : Fortsetzung folgt in Kürze",
-      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/aus-fortwo-wird-project-two-fortsetzung-folgt-in-kuerze-19630574.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Der Smart EQ Fortwo Prime"
-    },
-    {
-      "title": "Der Walkman ist wieder da : Läuft wieder",
-      "url": "https://www.faz.net/aktuell/technik-motor/technik/der-walkman-ist-wieder-da-19608757.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Frisch aus China: Der Walkman. Wer hat noch alte Kassetten?"
-    },
-    {
-      "title": "Gusseisenpfanne im Test : Lebenslänglich ohne Haft",
-      "url": "https://www.faz.net/aktuell/technik-motor/technik/stur-pfanne-aus-gusseisen-im-test-lebenslaenglich-ohne-haft-19608730.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Aus einem Guss: Stur-Pfannen in den Größen 28 und 24 Zentimeter."
-    },
-    {
-      "title": "Kompaktkamera Leica Q3 im Test : Dieser Genuss darf teuer sein",
-      "url": "https://www.faz.net/aktuell/technik-motor/digital/kompaktkamera-leica-q3-im-test-19612844.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Kaventsmann: Die Leica Q3 mit sehr lichtempfindlicher Festbrennweite"
-    },
-    {
-      "title": "F.A.Z. D:Economy-Podcast : Das Elend mit den Elektroautos",
-      "url": "https://www.faz.net/aktuell/technik-motor/f-a-z-d-economy-podcast-das-elend-mit-den-elektroautos-19633422.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Schwieriger Start: Aus dem umgebauten Ford-Werk in Köln kommen nur noch Elektroautos, doch die Nachfrage nach E-Autos schwächelt."
-    },
-    {
-      "title": "Fahrbericht: Peugeot 508 SW : Schnell und schnell leer",
-      "url": "https://www.faz.net/aktuell/technik-motor/motor/fahrbericht-peugeot-508-sw-19618988.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Fahrbericht Peugeot 508 SW"
-    },
-    {
-      "title": "Fahrbericht Ford Bronco : Nur springen kann er nicht",
-      "url": "https://www.faz.net/aktuell/technik-motor/motor/fahrbericht-ford-bronco-19618990.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Fahrbericht Ford Bronco"
-    },
-    {
-      "title": "Erstes vollelektrisches SUV : Bühne frei für den neuen Alfa Romeo Milano",
-      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/buehne-frei-fuer-den-neuen-alfa-romeo-milano-19645110/der-neue-alfa-romeo-milano-19645151.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Der neue Alfa Romeo Milano feierte in Mailand Weltpremiere."
-    },
-    {
-      "title": "Weltpremiere am 15. April : Maserati unter Strom",
-      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/maserati-gran-cabrio-feiert-weltpremiere-am-15-april-19636880.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Der Blitz: Als Folgore fährt das Gran Cabrio elektrisch."
-    },
-    {
-      "title": "Zulassungen in Deutschland : Das Elektroauto säuft ab",
-      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/elektroautos-zulassungen-in-deutschland-sinken-im-maerz-um-29-prozent-19632746.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Der Trend dreht sich. Ein Mitarbeiter der Porsche AG montiert im Stammwerk in Zuffenhausen einen vollelektrischen Porsche Taycan."
-    },
-    {
-      "title": "TAG Heuer Carrera Glassbox : Der neue Zyklop",
-      "url": "https://www.faz.net/aktuell/technik-motor/technik/tag-heuer-carrera-glassbox-debuetiert-in-genf-19636839.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Glasboden: TAG Heuer Glassbox Dato"
-    },
-    {
-      "title": "Gartenteich selber anlegen : Teich und schön",
-      "url": "https://www.faz.net/aktuell/technik-motor/technik/gartenteich-selber-anlegen-teich-und-schoen-19630270.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Ein Gartenteich lockt Tiere an."
-    },
-    {
-      "title": "Flasche aus Aluminium : Weinmetall",
-      "url": "https://www.faz.net/aktuell/technik-motor/technik/aluminium-als-alternative-zur-heiligen-weinflasche-aus-glas-19636837.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Recycelbar und nachhaltig: Weinflasche ohne Glas und Korken"
-    },
-    {
-      "title": "Rasenmäher im Test : Der beste Akku-Rasenmäher",
-      "teaser": "Kaufkompass :",
-      "url": "https://www.faz.net/kaufkompass/test/der-beste-akku-rasenmaeher/?utm_source=faz&utm_medium=verlagsbox&utm_campaign=rasenmaeher-test",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Sonnencremes im Test : Die beste Sonnencreme",
-      "teaser": "Kaufkompass :",
-      "url": "https://www.faz.net/kaufkompass/test/die-beste-sonnencreme/?utm_source=faz&utm_medium=verlagsbox&utm_campaign=sonnencreme-test",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Internetradios im Test : Die besten Internetradios",
-      "teaser": "Kaufkompass :",
-      "url": "https://www.faz.net/kaufkompass/test/die-besten-internetradios/?utm_source=faz&utm_medium=verlagsbox&utm_campaign=internetradios-test",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Werkzeuggürtel im Test : Der beste Werkzeuggürtel",
-      "teaser": "Kaufkompass :",
-      "url": "https://www.faz.net/kaufkompass/test/der-beste-werkzeugguertel/?utm_source=faz&utm_medium=verlagsbox&utm_campaign=werkzeugguertel-test",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Fahrradgriffe im Test : Die besten Fahrradgriffe",
-      "teaser": "Kaufkompass :",
-      "url": "https://www.faz.net/kaufkompass/test/die-besten-fahrradgriffe/?utm_source=faz&utm_medium=verlagsbox&utm_campaign=fahrradgriffe-test",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Neuwagenmarkt : Neuwagen finden mit MeinAuto.de",
-      "teaser": "Services :",
-      "url": "https://automarkt.faz.net/meinauto-de-die-smarte-art-autos-online-zu-kaufen/?utm_source=faz&utm_medium=verlagsbox&utm_campaign=empfehlungen-meinauto-LP",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Gemüsehobel im Test : Der beste Gemüsehobel",
-      "teaser": "Kaufkompass :",
-      "url": "https://www.faz.net/kaufkompass/test/der-beste-gemuesehobel/?utm_source=faz&utm_medium=verlagsbox&utm_campaign=gemuesehobel-im-test",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Was eignet sich für mich? : Fitness-Tracker, Sportuhr oder Smartwatch",
-      "teaser": "Kaufkompass :",
-      "url": "https://www.faz.net/kaufkompass/ratgeber/fitness-tracker-sportuhr-oder-smartwatch-was-eignet-sich-fuer-mich/?utm_source=faz&utm_medium=verlagsbox&utm_campaign=fitness-test",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Multiroomsystem von Loewe : Achtkantig rein",
-      "url": "https://www.faz.net/aktuell/technik-motor/digital/multiroomsystem-von-loewe-im-test-19618952.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Macht Passivboxen smart: Multiroom Amp von Loewe"
-    },
-    {
-      "title": "Smarte Ringe im Vergleichstest : Iss nicht so spät zu Abend",
-      "url": "https://www.faz.net/aktuell/technik-motor/digital/smarte-ringe-im-vergleich-was-gut-funktioniert-und-wo-es-tuecken-gibt-19619003.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Originelles Design: Der Smart Ring von Evie will den weiblichen Menstruationszyklus erfassen."
-    },
-    {
-      "title": "Kameras für Videokonferenzen : Mehr Schärfe in der Konferenz",
-      "url": "https://www.faz.net/aktuell/technik-motor/digital/kameras-fuer-videokonferenzen-im-test-19618477.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Das virtuelle Treffen: Alle im Blick"
-    },
-    {
-      "title": ": Auf einen Daimler Truck mit Technik & Motor",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "„Freightliner“ von Daimler: In Amerika ist die lange Haube Regel."
-    },
-    {
-      "title": ": Auf einen McLaren mit Technik & Motor",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Zu guter Letzt: Beflügelter McLaren 750S"
-    },
-    {
-      "title": ": Predictive Policing: Warum KI bei der Polizei Diskriminierung fördern kann",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": ": Auf einen Porsche Macan mit Technik & Motor",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Prototypen-Parade: Im sonnigen Kalifornien absolvieren elektrische Macan aus der Vorserienproduktion ihre letzten Testfahrten."
-    },
-    {
-      "title": ": Frauscher Fantom: Boot von Porsche",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Auf zu neuen Ufern: Frauscher 850 Fantom Air mit Elektroantrieb auf der ersten Probefahrt"
-    },
-    {
-      "title": ": Auf einen Lamborghini Revuelto mit Technik & Motor",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Lamborghini Revuelto"
-    },
-    {
-      "title": ": Auf einen BMW i5 mit Technik & Motor",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Konventionell ist nur die Form: BMW i5 M60"
-    },
-    {
-      "title": ": Auf einen BMW 750e mit Technik & Motor",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "BMW 750e"
-    },
-    {
-      "title": ": Das steckt im neuen iPhone 15",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": ": Wasserstoff-Flieger könnte Luftfahrt revolutionieren",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": ": Das bringt der technologische Fortschritt der Künstlichen Intelligenz",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": ": Auf einen Mercedes Concept CLA mit Technik & Motor",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Schlusslicht : Welche Bürokratie?",
-      "url": "https://www.faz.net/aktuell/technik-motor/welche-buerokratie-19617983.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Das ist eine echte Fruchtfliege."
-    },
-    {
-      "title": "Erstes vollelektrisches SUV : Bühne frei für den neuen Alfa Romeo Milano",
-      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/buehne-frei-fuer-den-neuen-alfa-romeo-milano-19645110/der-neue-alfa-romeo-milano-19645151.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Der neue Alfa Romeo Milano feierte in Mailand Weltpremiere."
-    },
-    {
-      "title": "Schlusslicht : Deutsches Schlagloch",
-      "url": "https://www.faz.net/aktuell/technik-motor/schlusslicht-das-deutsche-schlagloch-19646718.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Eine Rennradrunde kann unangenehm werden, wenn die Straße nicht ordentlich geteert ist. (Symbolbild)"
-    },
-    {
-      "title": "Glutenfrei backen : Abendbrot mit Säge",
-      "url": "https://www.faz.net/aktuell/technik-motor/technik/glutenfreies-brot-selbst-backen-oder-aufwendig-suchen-19576704.html"
-    },
-    {
-      "title": "Moto Guzzi V85 : Adler der Herzen",
-      "url": "https://www.faz.net/aktuell/technik-motor/motor/moto-guzzi-v85-adler-der-herzen-19636879.html"
-    },
-    {
-      "title": "Energiespeicher : Lückenfüller",
-      "url": "https://www.faz.net/aktuell/technik-motor/energie/weltgroesstes-druckluftspeicher-kraftwerk-19636878.html"
-    },
-    {
-      "title": "Neuer Ineos Fusilier : Der nächste Streich",
-      "url": "https://www.faz.net/aktuell/technik-motor/motor/neuer-ineos-fusilier-vorgestellt-19561313.html"
-    },
-    {
-      "title": "Test: Audi SQ8 TFSI quattro : Durstig, teuer und gefragt",
-      "url": "https://www.faz.net/aktuell/technik-motor/motor/test-audi-sq8-tfsi-quattro-19636853.html"
-    },
-    {
-      "title": "Fahrbericht EQE SUV : Hoch will er leben",
-      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/fahrbericht-mercedes-benz-eqe-suv-hoch-will-er-leben-19636856.html"
-    }
-  ]
+  "articles": []
 }

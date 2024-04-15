@@ -1,10 +1,16 @@
 {
-  "timestamp": "2024-04-15T02:55:50",
+  "timestamp": "2024-04-15T04:10:34",
   "url": "https://www.faz.net/aktuell/gesellschaft/",
   "response": {
     "status": 200
   },
   "scripts": [
+    {
+      "type": "text/javascript",
+      "src": "https://data-4ede7e9c86.faz.net/iomm/latest/bootstrap/loader.js",
+      "id": "ivw-bootstrap-loader",
+      "text": null
+    },
     {
       "type": null,
       "src": "https://www.faz.net/js/adobe/atarget.js",
@@ -13,340 +19,28 @@
     },
     {
       "type": "text/javascript",
-      "src": "https://assets.adobedtm.com/101b76c36d9a/3e3b81cff9aa/launch-ae2dd1b4fde7.min.js",
-      "id": null,
+      "src": "https://assets.adobedtm.com/101b76c36d9a/299bb2761e13/launch-b62c4c37ed74.min.js",
+      "id": "adobe-launch-head",
       "text": null
     },
     {
-      "type": null,
-      "src": "https://static.cleverpush.com/channel/loader/v3LddGcmHMyc4wNxg.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://consent.faz.net/wrapperMessagingWithoutDetection.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://www.faz.net/js/jquery-2.1.1.min.533adf8a.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://www.faz.net/js/jquery_all.min.8282a139.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://www.faz.net/js/all_scripts.min.ff1bf31b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://static.faz.net/f6/ad/faz/iq.faz.net/V2/dist/FAZ_secondary-info.min.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://data-4ede7e9c86.faz.net/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.faz.net/dist/scripts/jquery.5baa25b61bc17bd557cf.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.faz.net/dist/scripts/webfontloader.09ec00be78068bac9f52.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.faz.net/dist/scripts/main_faz-gdpr.a446dbbb8feab0b21bc9.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "application/javascript",
-      "src": "https://www.faz.net/sharebuttons/js/sharebuttons-1.1.9.min.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.faz.net/dist/scripts/a11y-toggle.64d6151d94edf1df245f.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.faz.net/dist/scripts/main.e12f84135f497ba7310d.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "module",
       "src": "https://snacks.faz.net/faz-snackswidget.min.js",
       "id": null,
       "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.faz.net/_nuxt/B09LhTuy.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://static.cleverpush.com/channel/loader/v3LddGcmHMyc4wNxg.js",
+      "id": "clever-push",
+      "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Aufregung in Italien : Darf ein Auto „Milano“ heißen, wenn es aus Polen kommt?",
-      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/streit-um-alfa-romeo-darf-ein-in-polen-hergestelltes-auto-milano-heissen-19653043.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Von Alfa Romeo aus Tychy: Milano"
-    },
-    {
-      "title": "Starke Regenfälle : Mindestens 58 Todesopfer durch Überschwemmungen in Tansania",
-      "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/starke-regenfaelle-mindestens-58-todesopfer-durch-ueberschwemmungen-in-tansania-19653773.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Schon im Dezember gab es in Tansania Überschwemmungen. Die Stadt Katesh wurde von heftigen Regenfällen heimgesucht, die Straßen mit Schlamm und Wasser blockierten."
-    },
-    {
-      "title": "Auto „abgefackelt“ : Feuer bei Rapper Capital Bra",
-      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/auto-abgefackelt-feuer-bei-rapper-capital-bra-keine-verletzten-19653712.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Capital Bra, deutscher Rapper, tritt in der Maimarkthalle während seines Tourauftakts auf."
-    },
-    {
-      "title": "Die aktuelle Ausgabe : Das F.A.Z.-Magazin zum Download",
-      "url": "https://zeitung.faz.net/meine-ausgaben/magazin/",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Herzblatt-Geschichten : Er zeigt ihr seinen Wurm",
-      "url": "https://www.faz.net/aktuell/gesellschaft/smalltalk/herzblatt-geschichten/neues-von-den-promis-harry-kane-die-beckhams-und-marcel-reif-19649201.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Hat seiner Frau jetzt erst seinen Wurm gezeigt: David Beckham (mit Victoria Beckham)."
-    },
-    {
-      "title": "Südpfalz : Kinder helfen Polizei bei Aufklärung von Unfallflucht",
-      "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/kinder-helfen-polizei-bei-aufklaerung-von-unfallflucht-19653432.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Eine Polizistin steht neben einem Polizeifahrzeug. (Symbolbild)"
-    },
-    {
-      "title": "Stasi-Mord in Berlin : Sie wollten auf Klassenfahrt – und wurden Zeuginnen eines Mordes",
-      "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/stasi-mord-von-1974-drei-zeuginnen-erinnern-sich-19649281.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Weil in der Ausreisehalle schmerzliche Abschiede stattfanden, nannte man sie Tränenpalast: Aufnahme aus den 1970er Jahren"
-    },
-    {
-      "title": "Lösung für Gänswein in Sicht : Ciao ciao, Breisgau!",
-      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/endet-das-freiburger-exil-fuer-den-kurienerzbischof-georg-gaenswein-19653073.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Georg Gänswein im Juni 2023 in Bochum"
-    },
-    {
-      "title": "Sechs Tote in Sydney : Täter war auf Messer „fixiert“",
-      "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/sydney-polizei-geht-nach-messerangriff-nicht-von-terrormotiv-aus-19652236.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Der australische Ministerpräsident Anthony Albanese (Mitte links) und der Regierungschef von New South Wales, Chris Minns (rechts daneben), legen gemeinsam mit anderen Politikern Blumen am Tatort ab."
-    },
-    {
-      "title": ": Modedesigner Roberto Cavalli ist tot",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": ": Mehrere Tote nach Messerangriff in Einkaufszentrum in Sydney",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": ": Toter und Verletzte bei Seilbahnunglück in Antalya",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": ": Gestrandete von einsamer Pazifik-Insel gerettet",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": ": Sam Bankman-Fried legt Berufung gegen Haftstrafe ein",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": ": Peru: Fälle von Dengue-Fieber verdreifacht",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": ": O.J. Simpson ist tot",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": ": Überschwemmungen: Pegelstände in Russland und Kasachstan steigen weiter",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": ": Explosion mit mehreren Toten an Stausee in Norditalien",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": ": Weltweit wärmster März seit Aufzeichnungsbeginn",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": ": Dammbrüche in Russland: Noch keine Entwarnung in Hochwassergebieten",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Erste Anzeichen und Bluttests : Was Sie über Alzheimer und Parkinson wissen müssen",
-      "url": "https://www.faz.net/aktuell/gesellschaft/gesundheit/alzheimer-und-parkinson-was-sie-zu-ersten-anzeichen-und-bluttests-wissen-muessen-19605765.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Die Parkinsonerkrankung entsteht im Körper schon lange, bevor sich die ersten Symptome zeigen."
-    },
-    {
-      "title": "Diane Kruger im Interview : „Den Shot Wodka vor Sexszenen brauche ich nicht mehr“",
-      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/diane-kruger-den-shot-wodka-vor-sexszenen-brauche-ich-nicht-mehr-19646323.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Für ihre Rolle stand sie acht Wochen allein vor der Kamera: Diane Kruger als Pilotin Estelle in „Visions“"
-    },
-    {
-      "title": "Cihan Çelik im Gespräch : „Die Legalisierung ist einen Versuch wert“",
-      "url": "https://www.faz.net/aktuell/gesellschaft/gesundheit/cihan-celik-ueber-die-aufarbeitung-der-pandemie-und-die-cannabis-legalisierung-19647752.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Lungenfacharzt Dr. Cihan Çelik im Klinikum Darmstadt."
-    },
-    {
-      "title": "Leben mit Vierlingen : Mit einem Mal Großfamilie",
-      "url": "https://www.faz.net/aktuell/gesellschaft/wie-eine-familie-mit-vierlingen-den-alltag-bewaeltigt-19604651.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Sind ein eingespieltes Team: Elisabeth und Sergio Pax mit ihren Kindern (von links) Sophie, Arthur, Ronja und Hellen."
-    },
-    {
-      "title": "Unmut wegen TÜV-Pflicht : Tausende Motorradfahrer protestieren in Paris",
-      "url": "https://www.faz.net/aktuell/gesellschaft/tuev-pflicht-in-frankreich-tausende-motorrdfahrer-protestieren-in-paris-19652182.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Motorradfahrer demonstrieren auf dem Place de la République in Paris gegen die Einführung der TÜV-Pflicht für motorisierte Zweiräder."
-    },
-    {
-      "title": "Neues von den Promis : Britischer Starkoch Ramsay hat Ärger mit Hausbesetzern",
-      "url": "https://www.faz.net/aktuell/gesellschaft/smalltalk/britischer-starkoch-ramsay-hat-aerger-mit-hausbesetzern-19651854.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Starkoch Gordon Ramsay (Archivbild)"
-    },
-    {
-      "title": "Vorsitzender der Tafel : „Ein Viertel der Kunden ist inzwischen im Rentenalter“",
-      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/vorsitzender-der-tafel-viertel-der-kunden-ist-im-rentenalter-19651622.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Kisten mit Lebensmittelspenden stehen im Lager der Arbeiterwohlfahrt im Kreisverband Salzland. (Symbolbild)"
-    },
-    {
-      "title": "Messerangriff in Sydney : Sechstes Opfer stirbt nach Attacke in Einkaufszentrum",
-      "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/attacke-in-sydney-mann-toetet-sechs-menschen-im-einkaufszentrum-19651179.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Angriff im Einkaufszentrum: Eine Menschenmenge versammelt sich vor dem Westfield Shopping Centre."
-    },
-    {
-      "title": "Urteil in Mannheim : Neues Cannabisgesetz führt zu Freispruch in Schmuggel-Prozess",
-      "url": "https://www.faz.net/aktuell/gesellschaft/mannheim-neues-cannabisgesetz-fuehrt-zu-freispruch-in-schmuggel-prozess-19650589.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Cannabis-Blüten in den Händen eines Mitarbeiters (Symbolbild)."
-    },
-    {
-      "title": "Esoterik-Schwindel : Angeblicher Wahrsager betrügt Frau um mehrere hunderttausend Euro",
-      "url": "https://www.faz.net/aktuell/gesellschaft/wahrsager-betruegt-in-bayern-frau-um-mehrere-hunderttausend-euro-19650790.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Eine Wahrsagerin blickt auf der Stuttgarter Esoterik-Messe in eine Kristallkugel."
-    },
-    {
-      "title": "„Großer Schreck“ : Tourbus von Mark Forster verunglückt",
-      "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/tourbus-von-mark-forster-verunglueckt-19652989.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Der verunglückte Bus am Sonntagmorgen auf der Auffahrt zur A24"
-    },
-    {
-      "title": "Nordrhein-Westfalen : Zwei Kinder sterben bei Verkehrsunfall",
-      "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/borgentreich-in-nrw-zwei-kinder-sterben-bei-verkehrsunfall-19652529.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Ein Rettungswagen fährt durch eine Straße. (Symbolbild)"
-    },
-    {
-      "title": "Baden-Württemberg : Vorfahrt missachtet – neun Verletzte nach Zusammenstoß",
-      "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/vorfahrt-missachtet-neun-verletzte-nach-zusammenstoss-19651572.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Ein Krankenwagen fährt über eine Straße. (Symbolbild)"
-    },
-    {
-      "title": "GKV-Spitzenverband : Sprunghafter Anstieg bei Pflegefällen festgestellt",
-      "url": "https://www.faz.net/aktuell/gesellschaft/um-11-prozent-sprunghafter-anstieg-bei-pflegefaellen-festgestellt-19652354.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Eine Pflegerin und eine Heimbewohnerin schauen zusammen aus einem Fenster im Wohnbereich des Pflegeheims."
-    },
-    {
-      "title": "F.A.Z.-Gesundheitspodcast : Warum ein gesundes Mikrobiom so wichtig ist",
-      "url": "https://www.faz.net/aktuell/gesellschaft/warum-ein-gesundes-mikrobiom-so-wichtig-ist-19645731.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Viel Obst und Gemüse sind ein guter Plan, um das Mikrobiom bei Laune zu halten."
-    },
-    {
-      "title": "Schwangerschaftsabbrüche : „Viele Frauen fühlen sich im Stich gelassen“",
-      "url": "https://www.faz.net/aktuell/gesellschaft/abtreibung-in-deutschland-viele-frauen-fuehlen-sich-im-stich-gelassen-19648475.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Demonstranten protestieren 2015 in Berlin für die Entkriminalisierung von Schwangerschaftsabbrüchen."
-    },
-    {
-      "title": "Artenschutz : Hoffnung für den Feldhamster",
-      "url": "https://www.faz.net/aktuell/gesellschaft/hessen-hilft-hamstern-19648761.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Gefährdet: Die possierlichen Feldhamster sind in ihrer Art bedroht."
-    },
-    {
-      "title": "Studie des Nabu : Nosferatu-Spinne in fast ganz Deutschland verbreitet",
-      "url": "https://www.faz.net/aktuell/gesellschaft/tiere/nosferatu-spinne-in-fast-ganz-deutschland-biss-kann-haut-durchdringen-19648977.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Weiter verbreitet als gedacht: die Nosferatu-Spinne"
-    },
-    {
-      "title": "Allesfresser : Waschbären bedrohen heimische Tierarten",
-      "url": "https://www.faz.net/aktuell/gesellschaft/warum-waschbaeren-heimische-tierarten-bedrohen-19646129.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Anpassungsfähig:Waschbären sind clever und finden immer eine sichere Unterkunft wie diesen hohlen Baumstamm."
-    },
-    {
-      "title": "Carbon Capture : Kann die Operation Weltrettung gelingen?",
-      "url": "https://www.faz.net/aktuell/stil/quarterly/co2-aus-der-luft-holen-carbon-capture-soll-die-klima-katastrophe-abwenden-19617614.html",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Schöpferische Kraft : Schafft Neues!",
-      "url": "https://www.faz.net/aktuell/feuilleton/debatten/innovation-was-macht-schoepferische-kraft-aus-19610211.html",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Transgender in der Oper : Wen interessiert das Geschlecht, wenn die Stimme toll ist?",
-      "url": "https://www.faz.net/aktuell/gesellschaft/transgender-in-der-oper-lucia-lucas-wurde-nach-ihrer-transition-gekuendigt-19598747.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Die Heldenbaritonistin Lucia Lucas"
-    },
-    {
-      "title": "Vinyl ist beliebt : Digital Natives entdecken den Plattenbau",
-      "url": "https://www.faz.net/aktuell/gesellschaft/jugend-schreibt/pallas-aus-diepholz-ist-eines-von-fuenf-schallplattenunternehmen-in-europa-19487281.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Eine Schallplatte wird aus der Presse genommen."
-    },
-    {
-      "title": "Insektenfreundlich gärtnern : Es ist immer der Gärtner",
-      "url": "https://www.faz.net/aktuell/gesellschaft/jugend-schreibt/insektenfreundlich-gaertnern-19586716.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Butterweich fühlen sich die Blätter des Woll-Ziest an. Es braucht nicht viel, vor allem aber etwas Wissen und Offenheit, um einen Garten naturnah und insektenfreundlich zu gestalten."
-    },
-    {
-      "title": "Igelpflegestation Schweiz : Da rappelt’s im Karton",
-      "url": "https://www.faz.net/aktuell/gesellschaft/jugend-schreibt/schweizer-igelpflegestation-19586735.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Raus aus dem Winterschlaf und hoffentlich ist kein Mähroboter in Sicht. ."
-    }
-  ]
+  "articles": []
 }

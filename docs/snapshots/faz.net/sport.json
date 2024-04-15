@@ -1,10 +1,16 @@
 {
-  "timestamp": "2024-04-15T02:55:47",
+  "timestamp": "2024-04-15T04:10:32",
   "url": "https://www.faz.net/aktuell/sport/",
   "response": {
     "status": 200
   },
   "scripts": [
+    {
+      "type": "text/javascript",
+      "src": "https://data-4ede7e9c86.faz.net/iomm/latest/bootstrap/loader.js",
+      "id": "ivw-bootstrap-loader",
+      "text": null
+    },
     {
       "type": null,
       "src": "https://www.faz.net/js/adobe/atarget.js",
@@ -13,323 +19,64 @@
     },
     {
       "type": "text/javascript",
-      "src": "https://assets.adobedtm.com/101b76c36d9a/3e3b81cff9aa/launch-ae2dd1b4fde7.min.js",
-      "id": null,
+      "src": "https://assets.adobedtm.com/101b76c36d9a/299bb2761e13/launch-b62c4c37ed74.min.js",
+      "id": "adobe-launch-head",
       "text": null
     },
     {
-      "type": null,
-      "src": "https://static.cleverpush.com/channel/loader/v3LddGcmHMyc4wNxg.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://consent.faz.net/wrapperMessagingWithoutDetection.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://www.faz.net/js/jquery-2.1.1.min.533adf8a.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://www.faz.net/js/jquery_all.min.8282a139.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://www.faz.net/js/all_scripts.min.ff1bf31b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://static.faz.net/f6/ad/faz/iq.faz.net/V2/dist/FAZ_secondary-info.min.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://data-4ede7e9c86.faz.net/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.faz.net/dist/scripts/jquery.5baa25b61bc17bd557cf.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.faz.net/dist/scripts/webfontloader.09ec00be78068bac9f52.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.faz.net/dist/scripts/main_faz-gdpr.a446dbbb8feab0b21bc9.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://dynamic.faz.net/red/pym/pym.min.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://dynamic.faz.net/red/pym/pym.min.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://dynamic.faz.net/red/pym/pym.min.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "application/javascript",
-      "src": "https://www.faz.net/sharebuttons/js/sharebuttons-1.1.9.min.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.faz.net/dist/scripts/a11y-toggle.64d6151d94edf1df245f.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.faz.net/dist/scripts/main.e12f84135f497ba7310d.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "module",
       "src": "https://snacks.faz.net/faz-snackswidget.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.faz.net/_nuxt/B09LhTuy.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://static.cleverpush.com/channel/loader/v3LddGcmHMyc4wNxg.js",
+      "id": "clever-push",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://dynamic.faz.net/red/pym/pym.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://dynamic.faz.net/red/pym/pym.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://dynamic.faz.net/red/pym/pym.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://dynamic.faz.net/red/pym/pym.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://dynamic.faz.net/red/pym/pym.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://dynamic.faz.net/red/pym/pym.min.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Leverkusen deutscher Meister : Der ewige Zweite wird zum Giganten",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/bayer-leverkusen-mit-xabi-alonso-in-fussball-bundesliga-deutscher-meister-19653118.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Jubeln ausgelassen: Die Fußballprofis von Bayer Leverkusen sind deutscher Meister."
-    },
-    {
-      "title": "Ende der Münchner Titelserie : Offene Wunden beim FC Bayern",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fc-bayern-muenchen-offene-wunden-nach-ende-der-meister-serie-19652953.html"
-    },
-    {
-      "title": "Arsenal-Duell in Königsklasse : Die Bienen des FC Bayern schwänzeln",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fc-bayern-muenchen-mit-sorgen-vor-champions-league-spiel-gegen-fc-arsenal-19653168.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Ein Kandidat für die Planstelle im Angriff: Thomas Müller empfiehlt sich mit seinem Treffer gegen Köln für einen Einsatz gegen Arsenal London."
-    },
-    {
-      "title": "Jägers Premiere in Augusta : „Das hatte mit Golf nichts zu tun“",
-      "url": "https://www.faz.net/aktuell/sport/mehr-sport/stephan-jaeger-spielt-erstmals-beim-golf-masters-in-augusta-19652718.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Angekommen: Stephan Jäger beim Masters in Augusta"
-    },
-    {
-      "title": "Klaus Toppmöller im Interview : „Jetzt haben wir Meisterkusen“",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/klaus-toppmoeller-ueber-bayer-leverkusen-jetzt-haben-wir-meisterkusen-19648688.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Anno 2002: Beinahe wäre Klaus Toppmöller mit Bayer Leverkusen deutscher Meister geworden."
-    },
-    {
-      "title": "Früherer Frankfurter Ndicka : Fußballprofi sackt zusammen – Spiel abgebrochen",
-      "url": "https://www.faz.net/aktuell/sport/fussball/evan-ndicka-von-as-rom-bricht-zusammen-spiel-gegen-udine-abgebrochen-19653967.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Rettungskräfte tragen Evan N’Dicka vom Platz."
-    },
-    {
-      "title": "Nervenstark zum Triumph : Magdeburg gewinnt Handball-Pokal",
-      "url": "https://www.faz.net/aktuell/sport/mehr-sport/trotz-doping-affaere-sc-magdeburg-handball-pokalsieger-gegen-melsungen-19653803.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Die Magdeburger Spieler um Christian O'Sullivan feiern mit dem Pokal."
-    },
-    {
-      "title": "Nächste Niederlage für Klopp : Liverpool und Arsenal straucheln",
-      "url": "https://www.faz.net/aktuell/sport/fussball/liverpool-und-klopp-verlieren-gegen-crystal-palace-in-premier-league-19653642.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Schmerzhafte Niederlage: Jürgen Klopp tröstet Profi Alexis Mac Allister."
-    },
-    {
-      "title": "Stagnation in der Bundesliga : Großbaustelle Eintracht Frankfurt",
-      "url": "https://www.faz.net/aktuell/sport/rhein-main-sport/eintracht-frankfurt/eintracht-frankfurt-ist-nach-0-3-beim-vfb-stuttgart-eine-grossbaustelle-19653352.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Trainer Dino Toppmöller und die Eintracht müssen sich an die eigene Nase fassen."
-    },
-    {
-      "title": "Niederlage gegen Freiburg : Darmstadt fügt sich dem Schicksal",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/darmstadt-98-nach-niederlage-gegen-freiburg-vor-bundesliga-abstieg-19626157.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Bei der nächsten Niederlage von Fabian Holland und Darmstadt 98 stünde der Abstieg in die zweite Bundesliga fest."
-    },
-    {
-      "title": "Champions-League-Viertelfinale : Das Zwei-Gesichter-Problem des FC Bayern",
-      "url": "https://www.faz.net/aktuell/sport/fussball/champions-league/fc-bayern-warum-zeigen-die-muenchner-in-der-champions-league-ein-anderes-gesicht-19643167.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Ärgerte sich nach dem Spiel über einen „Kinderfehler“: Thomas Tuchel, Trainer des FC Bayern München"
-    },
-    {
-      "title": "Tennis im hohen Alter : Herbert Althaus und ein Leben am Netz",
-      "url": "https://www.faz.net/aktuell/sport/mehr-sport/tennis-im-hohen-alter-herbert-althaus-spielt-turniere-auf-der-ganzen-welt-19631815.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Analytischer Blick: „Da will ich jetzt mal versuchen, ob mir das auch gelingt“, sagt Althaus."
-    },
-    {
-      "title": "BVB in Champions League : „Die haben uns aufgefressen in den Zweikämpfen“",
-      "url": "https://www.faz.net/aktuell/sport/fussball/champions-league/champions-league-borussia-dortmund-mit-1-2-bei-atletico-madrid-im-viertelfinale-19645663.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Belebte das Dortmunder Spiel und hatte kurz vor Schluss die große Chance zum Ausgleich: BVB-Profi Julian Brandt"
-    },
-    {
-      "title": "Fragen zur BVB-Zukunft : So kompliziert ist die Machtverschiebung in Dortmund",
-      "url": "https://www.faz.net/aktuell/sport/fussball/champions-league/bvb-rueckkehr-von-sven-mislintat-das-aendert-sich-zukuenftig-in-dortmund-19641733.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Sven Mislintat soll in Zukunft bei Borussia Dortmund wieder eine wichtige Rolle einnehmen."
-    },
-    {
-      "title": ": FC Bundestag: Parlamentsfußballer wollen nicht mehr mit AfD spielen",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": ": Champions-League-Viertelfinale: Bayern mit Rückkehrern gegen Arsenal",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Bochum nach Trainerwechsel : Entsetzen und Jubel dank Schlotterbeck",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/keven-schlotterbeck-beim-vfl-bochum-erst-eigentor-dann-gluecksgefuehle-19653159.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Keven Schlotterbeck trifft erst ins eigene Tor – und darf später doch noch jubeln."
-    },
-    {
-      "title": "Zweite Liga am Sonntag : St. Pauli verliert Tabellenführung, auch HSV patzt",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/2-bundesliga-st-pauli-verliert-tabellenfuehrung-auch-hsv-patzt-19591780.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Die Aufsteiger von der SV Elversberg bringen den FC St. Pauli zu Fall."
-    },
-    {
-      "title": "Borussia Dortmund : Die Verwandlung des Marcel Sabitzer",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/marcel-sabitzer-glaenzt-bei-borussia-dortmund-mit-zwei-toren-in-gladbach-19652941.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Herzliche Grüße: Marcel Sabitzer erzielt zwei Tore in Gladbach."
-    },
-    {
-      "title": "Krise in der Bundesliga : Eintracht Frankfurt rätselt an sich selbst",
-      "url": "https://www.faz.net/aktuell/sport/rhein-main-sport/eintracht-frankfurt/eintracht-frankfurt-raetselt-nach-0-3-bei-vfb-stuttgart-an-sich-selbst-19652806.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Kluft zwischen Anspruch und Realität: Die Frankfurter sind schon im vierten Spiel in Serie ohne Sieg."
-    },
-    {
-      "title": "Kandidatenturnier in Toronto : Das indische Schachwunder",
-      "url": "https://www.faz.net/aktuell/sport/mehr-sport/dommaraju-gukesh-und-rameshbabu-praggnanandhaa-beim-schach-kandidatenturnier-19648896.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Kultivierte einen klassischen, positionellen Spielstil: Dommaraju Gukesh"
-    },
-    {
-      "title": "Mit Mühe Weltcup-Dritter : Dem Deutschland-Achter fehlt Konstanz",
-      "url": "https://www.faz.net/aktuell/sport/mehr-sport/deutschland-achter-bei-weltcup-in-varese-vor-olympia-nur-auf-platz-drei-19653408.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Der Deutschland-Achter ist noch nicht in Bestform. (Bild von der Vorstellung Anfang April)"
-    },
-    {
-      "title": "Sicherheit im Galoppsport : „Schrecklich, doch Unfälle sind unvermeidlich“",
-      "url": "https://www.faz.net/aktuell/sport/mehr-sport/grand-national-in-liverpool-tote-pferde-bei-rennen-trotz-neuer-sicherheit-19652665.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Siegerpferd I Am Maximus und Jockey Peter Townend beim Grand National"
-    },
-    {
-      "title": "Billie Jean King Cup : Deutsche Tennisfrauen erreichen Finalrunde",
-      "url": "https://www.faz.net/aktuell/sport/mehr-sport/billie-jean-king-cup-deutsches-tennis-team-erreicht-in-brasilien-finalrunde-19652492.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Laura Siegemund gewinnt in Brasilien auch ihr zweites Einzel."
-    },
-    {
-      "title": "Formel 1 in Japan : Mercedes und das perfekte Auto – im Kopf",
-      "url": "https://www.faz.net/aktuell/sport/formel-1/formel-1-in-japan-max-verstappen-siegt-mercedes-weiter-in-der-krise-19637096.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Blütenträume: Mercedes, hier mit George Russell im W15, träumt von einer Solotour wie einst."
-    },
-    {
-      "title": "Sieg für Formel-1-Weltmeister : Verstappen ist nicht zu bremsen in Japan",
-      "url": "https://www.faz.net/aktuell/sport/formel-1/max-verstappen-gewinnt-formel-1-rennen-in-japan-vor-perez-und-sainz-19625717.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "„Das Auto wurde immer besser während des Rennens“: Max Verstappen"
-    },
-    {
-      "title": "Formel 1 in Japan : „Mensch, wo kommt diese halbe Sekunde Vorsprung her?“",
-      "url": "https://www.faz.net/aktuell/sport/formel-1/formel-1-in-japan-verstappen-gewinnt-qualifying-und-hamilton-ist-ratlos-19635368.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Unzufriedenheit bei Mercedes: Lewis Hamilton fährt im Qualifying nicht um die Spitzenplätze mit."
-    },
-    {
-      "title": "Formel 1 in Japan : Die Decodierung des Red Bulls",
-      "url": "https://www.faz.net/aktuell/sport/formel-1/formel-1-in-japan-ferrari-und-die-decodierung-des-red-bulls-19633457.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Muss er um seine Dominanz fürchten? Ferrari hat aufgeholt auf Red Bull und Weltmeister Max Verstappen."
-    },
-    {
-      "title": "Luxusuhren und Prostituierte : Früherer Biathlon-Präsident zu Haftstrafe verurteilt",
-      "url": "https://www.faz.net/aktuell/sport/sportpolitik/anders-besseberg-ehemaliger-biathlon-praesident-wegen-korruption-verurteilt-19649543.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Anders Besseberg sagte, das Urteil habe ihn überrascht. Er legte Berufung ein."
-    },
-    {
-      "title": "Sebastian Coe : Der Lord bittet zur Kasse",
-      "url": "https://www.faz.net/aktuell/sport/olympia/sportpolitik/geld-fuer-olympia-sieg-in-paris-coe-verteilt-als-erster-verbandschef-praemien-19647727.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Das Geld spricht für Sebastian Coe."
-    },
-    {
-      "title": "Änderung im Modernen Fünfkampf : Coubertin steigt aus dem Sattel",
-      "url": "https://www.faz.net/aktuell/sport/mehr-sport/aenderung-im-modernen-fuenfkampf-coubertin-steigt-aus-dem-sattel-19646997.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Bilder, die in Erinnerung blieben: Die deuitsche Fünfkämpferin Annika Schleu mit ihrem Pferd Saint Boy bei den Olympischen Spielen"
-    },
-    {
-      "title": "Sebastian Coes Prämien : Geld für Gold bei Olympia",
-      "url": "https://www.faz.net/aktuell/sport/olympia/sportpolitik/geld-fuer-gold-bei-olympia-2024-leichtathletik-zahlt-sieg-praemien-in-paris-19644410.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Wer bei Olympia in Paris in der Leichtathletik Gold gewinnt, bekommt auch noch Geld."
-    },
-    {
-      "title": "Frauenfußball-Bundesliga : Bangen um das Minimalziel der Eintracht",
-      "url": "https://www.faz.net/aktuell/sport/rhein-main-sport/eintracht-frankfurt/frauenfussball-bundesliga-eintracht-frankfurt-unterliegt-bayer-leverkusen-19653269.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Auch Nicole Anyomi traf nicht für die Eintracht-Frauen."
-    },
-    {
-      "title": "„Lilien“ vor Bundesliga-Abstieg : Der komplizierte Neuaufbau in Darmstadt",
-      "url": "https://www.faz.net/aktuell/sport/rhein-main-sport/darmstadt-98/darmstadt-98-vor-bundesliga-abstieg-paul-fernie-und-der-neuaufbau-19649075.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Tabellenletzter der Fußball-Bundesliga: Darmstadt 98 um Oscar Vilhelmsson"
-    },
-    {
-      "title": "Frankfurt in der Bundesliga : Darum ist die Eintracht vom Kurs abgekommen",
-      "url": "https://www.faz.net/aktuell/sport/rhein-main-sport/eintracht-frankfurt/darum-ist-eintracht-frankfurt-in-der-fussball-bundesliga-vom-kurs-abgekommen-19649241.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Im Gespräch: Dino Toppmöller (links) und Jean-Mattéo Bahoya"
-    },
-    {
-      "title": "Vor Rückkehr in Bundesliga : Ein Tischtennis-Weltmeister für Bad Homburg",
-      "url": "https://www.faz.net/aktuell/sport/rhein-main-sport/vor-rueckkehr-in-bundesliga-ein-tischtennis-weltmeister-fuer-bad-homburg-19643869.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Schlagfertig: Kristian Karlsson"
-    }
-  ]
+  "articles": []
 }

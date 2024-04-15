@@ -1,10 +1,16 @@
 {
-  "timestamp": "2024-04-15T02:55:58",
+  "timestamp": "2024-04-15T04:10:41",
   "url": "https://www.faz.net/aktuell/reise/",
   "response": {
     "status": 200
   },
   "scripts": [
+    {
+      "type": "text/javascript",
+      "src": "https://data-4ede7e9c86.faz.net/iomm/latest/bootstrap/loader.js",
+      "id": "ivw-bootstrap-loader",
+      "text": null
+    },
     {
       "type": null,
       "src": "https://www.faz.net/js/adobe/atarget.js",
@@ -13,337 +19,28 @@
     },
     {
       "type": "text/javascript",
-      "src": "https://assets.adobedtm.com/101b76c36d9a/3e3b81cff9aa/launch-ae2dd1b4fde7.min.js",
-      "id": null,
+      "src": "https://assets.adobedtm.com/101b76c36d9a/299bb2761e13/launch-b62c4c37ed74.min.js",
+      "id": "adobe-launch-head",
       "text": null
     },
     {
-      "type": null,
-      "src": "https://static.cleverpush.com/channel/loader/v3LddGcmHMyc4wNxg.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://consent.faz.net/wrapperMessagingWithoutDetection.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://www.faz.net/js/jquery-2.1.1.min.533adf8a.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://www.faz.net/js/jquery_all.min.8282a139.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://www.faz.net/js/all_scripts.min.ff1bf31b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://static.faz.net/f6/ad/faz/iq.faz.net/V2/dist/FAZ_secondary-info.min.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://data-4ede7e9c86.faz.net/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.faz.net/dist/scripts/jquery.5baa25b61bc17bd557cf.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.faz.net/dist/scripts/webfontloader.09ec00be78068bac9f52.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.faz.net/dist/scripts/main_faz-gdpr.a446dbbb8feab0b21bc9.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "application/javascript",
-      "src": "https://www.faz.net/sharebuttons/js/sharebuttons-1.1.9.min.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.faz.net/dist/scripts/a11y-toggle.64d6151d94edf1df245f.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.faz.net/dist/scripts/main.e12f84135f497ba7310d.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "module",
       "src": "https://snacks.faz.net/faz-snackswidget.min.js",
       "id": null,
       "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.faz.net/_nuxt/B09LhTuy.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://static.cleverpush.com/channel/loader/v3LddGcmHMyc4wNxg.js",
+      "id": "clever-push",
+      "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Zentralafrikanische Republik : Der Schatz im Kongobecken",
-      "url": "https://www.faz.net/aktuell/reise/zentralafrikanische-republik-gefaehrliches-tropenparadies-19647687.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Touristen auf dem Weg zur Dzanga Bai im Dzanga-Ndoki-Nationalpark"
-    },
-    {
-      "title": "Auf Martinique : Buch der Karibik",
-      "url": "https://www.faz.net/aktuell/reise/spurensuche-auf-der-franzoesischen-antilleninsel-martinique-19647653.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "„Alles ist mit dem Umstand verbunden, als Mensch von seinem Ursprung vertrieben worden zu sein.“ – Der Dichter und Bürgermeister Aimé Césaire 2007"
-    },
-    {
-      "title": "Urlaub in Deutschland : Wo die junge Isar rauscht",
-      "url": "https://www.faz.net/aktuell/reise/urlaub-in-deutschland-wo-die-junge-isar-rauscht-19642197.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Sprung ins Wasser: Im Frühling ist die Isar eiskalt, im Sommer herrlich erfrischend."
-    },
-    {
-      "title": "Kraniche beobachten : Gut gelandet!",
-      "url": "https://www.faz.net/aktuell/reise/kraniche-und-kunst-entdecken-in-mecklenburg-vorpommern-18715869.html",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Spektakel am Polarkreis : Nicht jedes Rentier ist ein Renntier",
-      "url": "https://www.faz.net/aktuell/reise/rentier-rennen-in-finnland-nicht-jedes-rentier-ist-ein-renntier-19643278.html",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Ein Landstrich für Poeten : Ganz oben auf der Liste",
-      "url": "https://www.faz.net/aktuell/reise/lake-district-in-grossbritannien-eine-gegend-fuer-ein-gefuehl-von-frueher-19630213.html",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Kochen ohne Fesseln : Die neue Originalität in den Küchen von Paris",
-      "url": "https://www.faz.net/aktuell/reise/paris-kulinarisch-originell-weltkueche-im-hinterhof-19641545.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Halb marokkanischer Riad, halb New Yorker Loft: Das Restaurant „Bloom Garden“ hinter dem Pariser Gare de l’Est gehört zu den ersten Adressen der Cuisine faubourgeoise."
-    },
-    {
-      "title": "In der friesischen Karibik : Auftaktgefühle",
-      "url": "https://www.faz.net/aktuell/reise/wellnessurlaub-auf-foehr-lohnt-es-sich-19632685.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Ein Ausblick, der mit allem versöhnt: Hotel Upstalsboom auf Föhr"
-    },
-    {
-      "title": "Bilanz der Skigebiete : Es bleibt durchwachsen",
-      "url": "https://www.faz.net/aktuell/reise/skigebiete-in-der-krise-19631802.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Wo ist der Schnee? Vor allem in den niederen Lagen beklagen Skigebiete eine schlechte Saison."
-    },
-    {
-      "title": "F.A.Z.- Bildungsmarkt : Lernen Sie für Ihre nächste Reise einfach online Italienisch",
-      "teaser": "Reise :",
-      "url": "https://bildungsmarkt.faz.net/sprachkurs-italienisch/?utm_source=faz&utm_medium=reisemarkt&utm_campaign=verlagsbox-reisemarkt-italienisch&rfextension=Verlagsbox-reisemarkt-italienisch",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "F.A.Z.- Bildungsmarkt : Verbessern Sie Ihr Englisch auf Reisen",
-      "teaser": "Reise :",
-      "url": "https://bildungsmarkt.faz.net/sprachkurs-englisch/?utm_source=faz&utm_medium=reisemarkt&utm_campaign=verlagsbox-reisemarkt-englisch&rfextension=Verlagsbox-reisemarkt-englisch",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Neuwagenmarkt : Die besten Autos für Ihre nächste Reise",
-      "teaser": "Reise :",
-      "url": "https://automarkt.faz.net/neuwagen-kaufen-mit-meinauto-de/?utm_source=faz&utm_medium=verlagsbox&utm_campaign=reisebox-meinauto",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "F.A.Z.- Bildungsmarkt : Lernen Sie Spanisch für die Reise einfach online",
-      "teaser": "Reise :",
-      "url": "https://bildungsmarkt.faz.net/sprachkurs-spanisch/?utm_source=faz&utm_medium=reisemarkt&utm_campaign=verlagsbox-reisemarkt-spanisch&rfextension=Verlagsbox-reisemarkt-spanisch",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "F.A.Z.- Bildungsmarkt : Für Ihre nächste Reise nach Frankreich",
-      "teaser": "Reise :",
-      "url": "https://bildungsmarkt.faz.net/sprachkurs-franzoesisch/?utm_source=faz&utm_medium=reisemarkt&utm_campaign=verlagsbox-reisemarkt-franzoesisch&rfextension=Verlagsbox-reisemarkt-franzoesisch",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Koffer im Test : Der beste Koffer",
-      "teaser": "Reise :",
-      "url": "https://www.faz.net/kaufkompass/test/der-beste-koffer/?utm_source=faz&utm_medium=verlagsbox&utm_campaign=koffer-test",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "F.A.Z. Selection : Große Weine aus Kalifornien inklusive Booklet",
-      "teaser": "Services :",
-      "url": "https://shop.faz.net/selection/genuss/f.a.z.-weinselection-grosse-weine-aus-kalifornien?campID=BA_FAZNET_SEC_na_na_na_na_na_na_slider-kalifornien_na&utm_source=faznet&utm_medium=banner&utm_campaign=SEC_SEC_BA_FAZnet_na_slider-kalifornien_na_na_&utm_term=faznet",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Sofortbildkameras im Test : Für den besonderen Schnappschuss im Urlaub",
-      "teaser": "Reise :",
-      "url": "https://www.faz.net/kaufkompass/test/die-beste-sofortbildkamera/?utm_source=faz&utm_medium=verlagsbox&utm_campaign=sofortbildkameras-test",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Fahrradmitnahme im Zug : Radfahrer lieben die Bahn, aber die Bahn nicht die Radfahrer",
-      "url": "https://www.faz.net/aktuell/reise/fahrrad-im-zug-die-bahn-macht-es-kompliziert-19632687.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Die Fahrradmitnahme ist in der beginnenden Radlersaison ein föderales Abenteuer mit vielen länderspezifischen Überraschungen."
-    },
-    {
-      "title": "Thailändische Entdeckungen : Die Schildkröte und das Karma",
-      "url": "https://www.faz.net/aktuell/reise/unbekanntes-bangkok-entdeckungen-in-thonburi-19623900.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Stiller Beschützer in Überlebensgröße: der große Buddha des Paknam Bhasicharoen-Tempels in Thonburi."
-    },
-    {
-      "title": "Tückische Malediven : Parasitenbefall im Paradies",
-      "url": "https://www.faz.net/aktuell/reise/das-malediven-paradies-ist-tueckisch-parasitenbefall-unter-palmen-19610838.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Zu schön, um wahr zu sein? Die Malediven verzaubern jeden."
-    },
-    {
-      "title": "Hotel mit Geschichte : Der etwas andere Luxus in Luxor",
-      "url": "https://www.faz.net/aktuell/reise/der-etwas-andere-luxus-in-luxor-unter-einem-dach-mit-archaeologen-19603670.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Dinner unter Palmen und Sternen: Das Marsam-Hotel in Luxor"
-    },
-    {
-      "title": "Kreuzfahrtmarkt : Volle Kraft voraus",
-      "url": "https://www.faz.net/aktuell/reise/kreuzfahrt-verzeichnet-wieder-rekordzahlen-19618263.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Schwimmende Städte vor Hochhauskulisse: Kreuzfahrthafen Miami, Januar 2024"
-    },
-    {
-      "title": "Mythos Masuren : Man mecht’s nich gloubn",
-      "url": "https://www.faz.net/aktuell/reise/mythos-masuren-gibt-es-das-melancholische-masuren-eines-siegfried-lenz-19623891.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Eine Landschaft wie aus Poesie gemacht: Wolken über dem Dargin-See, der zur masurischen Seenplatte gehört."
-    },
-    {
-      "title": "Landschaftskunst in Belgien : Fließende Gärten",
-      "url": "https://www.faz.net/aktuell/reise/die-gaerten-von-annevoie-im-maastal-19626346.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Perspektivwechsel: Aus der Luft sind die Wassergärten von Annevoie fast genauso schön wie am Boden."
-    },
-    {
-      "title": "Saudi Arabien : Reingewaschene Tage",
-      "url": "https://www.faz.net/aktuell/reise/hotel-mit-haram-blick-in-medina-19618264.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Zehntausende Pilger kommen nach Medina."
-    },
-    {
-      "title": "Amerikanische Riviera : Renaissance einer Sehnsucht",
-      "url": "https://www.faz.net/aktuell/reise/renaissance-einer-sehnsucht-zurueck-in-kalifornien-19618288.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Der Strand von Santa Barbara in einem glühenden Moment des Tages, der ihn zwangsläufig als Fototapete prädestiniert."
-    },
-    {
-      "title": "Wandern in der Niederen Tatra : Nimm einen kräftigen Zug",
-      "url": "https://www.faz.net/aktuell/reise/bahnreisen-in-der-slowakei-nimm-einen-kraeftigen-zug-19616919.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Dieser Zug in Čierny Balog fuhr einst für die Schweizer Waldenburgerbahn. Doch das Bier hier in der Bahnhofskneipe Lampáreň ist hier deutlich günstiger."
-    },
-    {
-      "title": "Andermatt am Gotthard : Luxus aus der Retorte",
-      "url": "https://www.faz.net/aktuell/reise/andermatt-in-der-zentralschweiz-als-luxusdestination-19614027.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Schneesicher: manchmal noch im Juni. Im Urserental schneit es"
-    },
-    {
-      "title": "Schlossstadt Chantilly : Schlag die Sahne, sattele das Pferd",
-      "url": "https://www.faz.net/aktuell/reise/chantilly-sahne-creme-und-pferdetradition-19614072.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Auf hohem Ross: hippologisches Flair im Schlosspark von Chantilly"
-    },
-    {
-      "title": "Auf den Spuren der Kelten : Im Land der wilden Gallier",
-      "url": "https://www.faz.net/aktuell/reise/asterix-und-obelix-auf-den-spuren-im-land-der-wilden-gallier-19612615.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Hier lohnt ein Spaziergang: Der Wald rund um den Hunnenring"
-    },
-    {
-      "title": "Drei Sterne für Edip Sigl : Deutschlands neuer Küchenstar",
-      "url": "https://www.faz.net/aktuell/reise/hotel-das-achental-edip-sigl-erhaelt-drei-michelin-sterne-19614102.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Ein hochbegabter Weltenwanderer: Edip Sigl"
-    },
-    {
-      "title": "Triumph der Spitzenküche : Keine Krise in der Küche",
-      "url": "https://www.faz.net/aktuell/reise/guide-michelin-2024-rekordzahl-an-deutschen-restaurants-ausgezeichnet-19614092.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Gehört nun zum Kreis der Drei-Sterne-Köche: Edip Sigl"
-    },
-    {
-      "title": "Algerien öffnet sich : Besuch in einer anderen Welt",
-      "url": "https://www.faz.net/aktuell/reise/algerien-oeffnet-sich-fuer-tourismus-zu-besuch-in-einer-anderen-welt-19603671.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Ob Wüste oder Oase – in der algerischen Sahara ist der Besucher nie allein, denn ohne einheimischen Reisebegleiter darf kein Tourist aus dem Flughafengebäude."
-    },
-    {
-      "title": "Ferien im Wasser : Vom Winde verdreht",
-      "url": "https://www.faz.net/aktuell/reise/wassersport-auf-zypern-19603692.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Eine windige Angelegenheit, aber dafür jetzt schon Temperaturen über 20 Grad: Kitesurfer und ihr Publikum auf Zypern"
-    },
-    {
-      "title": "Via Engadina in der Schweiz : So weit die Füße tragen",
-      "url": "https://www.faz.net/aktuell/reise/weitwandern-im-egadin-so-weit-die-fuesse-tragen-19603655.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Die Via Engiadina ist einer der schönsten Weitwanderwege der Schweiz – und führt auch an Ruinen vorbei."
-    },
-    {
-      "title": "In Hongkong : Aufbruchsstimmung über der Stadt",
-      "url": "https://www.faz.net/aktuell/reise/hongkong-geht-neue-wege-im-tourismus-19588522.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Häuserschlucht im Zentrum von Hongkong"
-    },
-    {
-      "title": "Wanderung durch die Cevennen : Gesäbelt, geplündert, gemordet",
-      "url": "https://www.faz.net/aktuell/reise/eine-wanderung-durch-die-cevennen-mit-robert-louis-stevenson-19597420.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "„Dem Ort mit südliche Note an“, schrieb Stevenson über Le Pont-de-Montvert. So ist es bis heute. seinen Häusernund Gassen und seinem glitzernden Flussbett haftet eine nicht zu beschreibende"
-    },
-    {
-      "title": "Wintersport in Livigno : Sollen die Spiele ruhig kommen",
-      "url": "https://www.faz.net/aktuell/reise/sollen-die-spiele-ruhig-kommen-19597609.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Spitzname „Klein-Tibet“: Livigno liegt zwar mitten in Europa, ist aber wie von einer anderen Welt."
-    },
-    {
-      "title": "Küchenkunst in Österreich : Der Geschmack des Großglockner-Gletschers",
-      "url": "https://www.faz.net/aktuell/reise/andreas-doellerer-der-erfinder-der-alpine-cuisine-19597022.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Die Raffinesse des Einfachen: Die Gletscherrübe gehört zu den Klassikern von Andreas Döllerers Küche."
-    },
-    {
-      "title": "Nichts wie raus! : Ein bisschen Jurassic Park am Rande Berlins",
-      "url": "https://www.faz.net/aktuell/reise/berlin-expedition-ins-artenreich-in-der-doeberitzer-heide-19589348.html",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Schutzgebiet Resex Canavieiras in Brasilien : Menschen des Meeres",
-      "url": "https://www.faz.net/aktuell/reise/gemeindebasierter-tourismus-in-brasilien-19588530.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "João Barba fährt durch einen Seitenarm des Rio Pardos. Ausflüge mit Touristen bietet sein Neffe Sérgio an."
-    }
-  ]
+  "articles": []
 }

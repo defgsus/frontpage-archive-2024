@@ -1,10 +1,16 @@
 {
-  "timestamp": "2024-04-15T02:55:56",
+  "timestamp": "2024-04-15T04:10:40",
   "url": "https://www.faz.net/aktuell/wissen/",
   "response": {
     "status": 200
   },
   "scripts": [
+    {
+      "type": "text/javascript",
+      "src": "https://data-4ede7e9c86.faz.net/iomm/latest/bootstrap/loader.js",
+      "id": "ivw-bootstrap-loader",
+      "text": null
+    },
     {
       "type": null,
       "src": "https://www.faz.net/js/adobe/atarget.js",
@@ -13,68 +19,26 @@
     },
     {
       "type": "text/javascript",
-      "src": "https://assets.adobedtm.com/101b76c36d9a/3e3b81cff9aa/launch-ae2dd1b4fde7.min.js",
+      "src": "https://assets.adobedtm.com/101b76c36d9a/299bb2761e13/launch-b62c4c37ed74.min.js",
+      "id": "adobe-launch-head",
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://snacks.faz.net/faz-snackswidget.min.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "module",
+      "src": "https://www.faz.net/_nuxt/B09LhTuy.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://static.cleverpush.com/channel/loader/v3LddGcmHMyc4wNxg.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://consent.faz.net/wrapperMessagingWithoutDetection.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://www.faz.net/js/jquery-2.1.1.min.533adf8a.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://www.faz.net/js/jquery_all.min.8282a139.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://www.faz.net/js/all_scripts.min.ff1bf31b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://static.faz.net/f6/ad/faz/iq.faz.net/V2/dist/FAZ_secondary-info.min.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://data-4ede7e9c86.faz.net/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.faz.net/dist/scripts/jquery.5baa25b61bc17bd557cf.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.faz.net/dist/scripts/webfontloader.09ec00be78068bac9f52.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.faz.net/dist/scripts/main_faz-gdpr.a446dbbb8feab0b21bc9.js",
-      "id": null,
+      "id": "clever-push",
       "text": null
     },
     {
@@ -82,268 +46,7 @@
       "src": "https://dynamic.faz.net/red/2023/klimawidget/release/js/app.js",
       "id": null,
       "text": null
-    },
-    {
-      "type": "application/javascript",
-      "src": "https://www.faz.net/sharebuttons/js/sharebuttons-1.1.9.min.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.faz.net/dist/scripts/a11y-toggle.64d6151d94edf1df245f.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.faz.net/dist/scripts/main.e12f84135f497ba7310d.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://snacks.faz.net/faz-snackswidget.min.js",
-      "id": null,
-      "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Klinikalltag : Der Mythos von der schönen Geburt",
-      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/der-mythos-von-der-schoenen-geburt-19648758.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Alles unter Kontrolle? Eltern während der Geburt in einem Geburtshaus in Berlin."
-    },
-    {
-      "title": "Soziale Systeme : Wir vertrauen nur Verwandten",
-      "url": "https://www.faz.net/aktuell/wissen/geist-soziales/warum-enge-familienbande-den-argwohn-gegen-fremde-steigern-19648800.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Familienbande: Der Berliner Clanchef Arafat Abu-Chaker im September 2020"
-    },
-    {
-      "title": "Planetenentstehung : Schwierige Planetengeburt",
-      "url": "https://www.faz.net/aktuell/wissen/weltraum/um-ein-planetensystem-entwickeln-zu-koennen-braucht-ein-stern-eine-ruhige-umgebung-19639939.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Geburt eines Gasriesen in der Umlaufbahn um einen jungen Stern. Zu schwere Nachbarsterne können diesen Prozess unterbinden."
-    },
-    {
-      "title": "Fahrverbot und Menschenrechte : Das Klimading der anderen",
-      "teaser": "Ein Kommentar von",
-      "url": "https://www.faz.net/aktuell/wissen/wissing-droht-mit-fahrverbot-warum-klimaschutz-kein-ding-der-anderen-ist-19648822.html",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Wie Spitzenforscher handeln : Für eine Fehlerkultur ohne Angst",
-      "teaser": "Ein Kommentar von",
-      "url": "https://www.faz.net/aktuell/wissen/nobelpreistraeger-thomas-suedhof-und-die-fehlerkultur-19639610.html",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Geschlechtsinkongruenz : Keine Evidenz, keine Therapie?",
-      "url": "https://www.faz.net/aktuell/wissen/kommentar-zu-geschlechtsinkongruenz-keine-evidenz-keine-therapie-19650023.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Das neue Selbstbestimmungsrecht hilft Trans-Menschen."
-    },
-    {
-      "title": "F.A.Z. Wissen – der Podcast : Wie sollen wir im Genom heilen?",
-      "url": "https://www.faz.net/aktuell/wissen/f-a-z-wissen-der-podcast-wie-sollen-wir-im-genom-heilen-19650308.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Erfolgreiche Genom-Editierung: im Labor."
-    },
-    {
-      "title": "Soziale Systeme : Und, hat es Zoom gemacht?",
-      "url": "https://www.faz.net/aktuell/wissen/geist-soziales/dates-in-zeiten-der-pandemie-19632970.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "So ein virtuelles Tête-à-tête muss man sich nicht immer schöntrinken."
-    },
-    {
-      "title": "Engpässe drohen : Kann das Recycling von Solarzellen gelingen?",
-      "url": "https://www.faz.net/aktuell/wissen/physik-mehr/kreislaufwirtschaft-bei-photovoltaik-drohen-solarzellen-engpaesse-19639994.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Die in Solarzellen verbaute Materialien sind zu wertvoll, um sie einfach zu entsorgen. Mit dem Photovoltaik-Boom werden Recycling-Strategien immer wichtiger."
-    },
-    {
-      "title": "Wegen Klimawandel : Meteoriten werden seltener",
-      "url": "https://www.faz.net/aktuell/wissen/weltraum/durch-den-klimawandel-werden-meteoriten-in-der-antarktis-seltener-19639940.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Meteoritensammeln in der Antarktis"
-    },
-    {
-      "title": "Medizin der Zukunft : Droht uns eine Gesundheitsdiktatur?",
-      "teaser": "In der ARD-Serie „Charité“ wird nicht behandelt, wer Prävention ablehnt. Dafür werden Organe gedruckt, Depressive geheilt – und Locked-in-Patienten sind in der virtuellen Welt nicht mehr gelähmt. Dystopie, Utopie oder Blödsinn? Ein Realitätscheck.",
-      "url": "https://www.faz.net/aktuell/das-beste-von-faz-plus/",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "In der Serie „Charité“ müssen Ärzte mit ethischen und technischen Fragen kämpfen."
-    },
-    {
-      "title": "Neue Studien: Krebsauslöser? : E-Zigaretten unter Verdacht",
-      "url": "https://www.faz.net/aktuell/wissen/krebsmedizin/e-zigaretten-unter-verdacht-zellversuche-legen-krebsverdacht-nahe-19639995.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Verdampfer: Weniger schädliche Substanzen als Tabak - aber dennoch schädlich?"
-    },
-    {
-      "title": "Evidenz in der Medizin : Wie sicher sind Pubertätsblocker?",
-      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/trans-kinder-in-behandlung-wie-sicher-sind-pubertaetsblocker-19641752.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Die Offenheit für Transidentitäten nimmt zu."
-    },
-    {
-      "title": "„Winzige Fehler“ zugegeben : Medizin-Nobelpreisträger Südhof unter Druck von Plagiatsjägern",
-      "url": "https://www.faz.net/aktuell/wissen/nobelpreistraeger-thomas-suedhof-unter-druck-von-plagiatsjaegern-19637699.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Thomas Südhof bei der Verleihung des Nobelpreises 2013"
-    },
-    {
-      "title": "Schutz vor Brustkrebs : Mammographie-Screening schon ab 45 Jahren sinnvoll",
-      "url": "https://www.faz.net/aktuell/wissen/krebsmedizin/mammographie-screening-laut-bundesbehoerde-schon-ab-45-jahren-sinnvoll-19601091.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Medizinisches Personal untersucht bei einem Mammographie-Screening die Brust einer Frau auf Brustkrebs."
-    },
-    {
-      "title": "Erfolgreiche Krebstherapie : Mit rasenden Teilchen gegen Tumoren",
-      "url": "https://www.faz.net/aktuell/wissen/partikeltherapie-gegen-krebs-soll-verbessert-werden-19638725.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Künstlicher Torso im Visier der Ionenkanone: An Modellen werden im GSI-Helmholtzzentrum neue Bestrahlungstechniken erprobt."
-    },
-    {
-      "title": "Mitgründer von Biontech : Der Feind des Krebses",
-      "url": "https://www.faz.net/aktuell/wissen/biontech-gruender-und-krebsmediziner-christoph-huber-wird-80-19516702.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Hat sich nie entmutigen lassen: Christoph Huber"
-    },
-    {
-      "title": "Astrophysik : Sehr kleines Loch oder sehr dicker Stern?",
-      "teaser": "Eine neue Beobachtung einer Gravitationswelle füllt die Lücke zwischen Neutronensternen und Schwarzen Löchern. Mit herkömmlichen Instrumenten war derlei noch nie zu beobachten.",
-      "url": "https://www.faz.net/aktuell/wissen/weltraum/",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Die Kollision in der Computersimulation: Ein Schwarzes Loch im Bereich der unteren Massenlücke (dunkelgraue Oberfläche) und ein Neutronenstern (orange Kugel) umkreisen einander auf immer enger werdenden Bahnen. Die dabei abgestrahlten Gravitationswellen sind mit Farben von dunkelblau bis cyan dargestellt."
-    },
-    {
-      "title": "Emotionen : Welches Mittel japanische Forscher gegen Wut vorschlagen",
-      "url": "https://www.faz.net/aktuell/wissen/leben-gene/psychologen-aus-japan-untersuchen-wie-man-wut-abbauen-kann-19640714.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Japanische Forscher haben untersucht, wie man Wut unterdrückt. (Symbolbild)"
-    },
-    {
-      "title": "Igel in Gefahr : Nachtfahrverbot für Mähroboter?",
-      "url": "https://www.faz.net/aktuell/wissen/leben-gene/maehroboter-igel-in-gefahr-experten-fordern-nachtfahrverbot-19626412.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Gegen die scharfen Klingen eines Rasenmähers sind die Stacheln machtlos: Igel sind besonders gefährdet. Titel für Suchmaschinen"
-    },
-    {
-      "title": "Evolution : Vielfalt der Vögel",
-      "url": "https://www.faz.net/aktuell/wissen/leben-gene/wie-voegel-wurden-was-sie-sind-19624867.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Rätsel der Evolution: Wieso haben sich so markante Vögel wie der Bienenfresser entwickelt?"
-    },
-    {
-      "title": "Umweltproblem PFAS : USA erlassen landesweite Grenzwerte für „ewige Chemikalien“ in Leitungswasser",
-      "url": "https://www.faz.net/aktuell/wissen/usa-grenzwerte-fuer-ewige-chemikalien-im-trinkwasser-19643737.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Fahndung nach per- und polyfluorierte Alkylen: Analytik bei der Environmental Protection Agency in Cincinnati."
-    },
-    {
-      "title": "Kipppunkt – F.A.Z. Klimablog : Welche Rolle CO₂-Filter beim Klimaschutz spielen sollen",
-      "url": "https://www.faz.net/aktuell/wissen/erde-klima/klimablog-welche-rolle-co2-filter-beim-klimaschutz-spielen-sollen-18134531.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Kokerei Prosper in Bottrop."
-    },
-    {
-      "title": "Klimapolitik : Akademie dringt auf „unverzügliche“ nationale Kohlenstoff-Strategie",
-      "url": "https://www.faz.net/aktuell/wissen/klimapolitik-co2-plaene-der-ampel-muessen-laut-leopoldina-nachgebessert-werden-19642751.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Forschungsanlage zur Abscheidung von Kohlendioxid in Brandenburg"
-    },
-    {
-      "title": "Zum Tod von Peter Higgs : Der Vater des „Gottesteilchens“",
-      "url": "https://www.faz.net/aktuell/wissen/physik-mehr/peter-higgs-mit-94-jahren-gestorben-der-vater-des-gottesteilchens-19642697.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Peter Higgs bei einem Besuch am Forschungszentrum CERN. Im Hintergrund der CMS-Teilchendetektor, mit dem 2012 die Existenz des Higgs-Bosons nachgewiesen werden konnte."
-    },
-    {
-      "title": "Zeitmessung : Genauer als genau",
-      "url": "https://www.faz.net/aktuell/wissen/physik-mehr/kernuhr-in-garching-praeziser-als-eine-atomuhr-19618470.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Peter Thirolf betreibt Experimentalphysik am Limit."
-    },
-    {
-      "title": "Vanillin : Aroma für alle",
-      "url": "https://www.faz.net/aktuell/wissen/150-jahre-vanillin-synthese-19601849.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Vanilleschoten und deren Extrakte."
-    },
-    {
-      "title": "Cybercrime : Woher die Kriminalität im Internet stammt",
-      "url": "https://www.faz.net/aktuell/wissen/computer-mathematik/kriminalitaet-im-internet-stammt-vor-allem-aus-russland-19644840.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Geographische Verteilung eines Botnets aus Zombierechnern: Wo die Täter wirklich stecken, ist bei Cyberkriminalität schwer zu sagen. (Symboldbild)"
-    },
-    {
-      "title": "Künstliche Intelligenz : ChatGPT legt den „Turbo“ ein",
-      "url": "https://www.faz.net/aktuell/wissen/chatgpt-was-die-neuste-funktion-der-ki-alles-kann-19648082.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Die neueste ChatGPT-Version werde weniger ausschweifende Texte formulieren, verspricht Entwickler OpenAI."
-    },
-    {
-      "title": "Künstliche Intelligenz : Gehirn gegen Computer: Wie die KI noch besser wird",
-      "url": "https://www.faz.net/aktuell/wissen/wie-ki-von-erkenntnissen-der-hirnforschung-profitieren-kann-19637078.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Die Integration von Erkenntnissen aus Hirnforschung und KI eröffnet neue Perspektiven."
-    },
-    {
-      "title": "Archäologie : Wo der Käse auf Fisch traf",
-      "url": "https://www.faz.net/aktuell/wissen/archaeologie-altertum/bauern-aus-anatolien-brachten-die-milchwirtschaft-mit-19563739.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Keramikscherben aus der Jungsteinzeit: Forschen konnten dank Spuren an solchen Gefäßen die Ausbreitung der Milchwirtschaft in Europa rekonstruieren."
-    },
-    {
-      "title": "Ramses-Ausstellung : Getäuschtes Publikum",
-      "url": "https://www.faz.net/aktuell/wissen/die-ausstellung-ramses-das-gold-der-pharaonen-taeuscht-ihr-publikum-19586788.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Das ist sehr wahrscheinlich nicht Ramses II.: Der Sarkophag „Cairo CG 610202“ berückt auch ohne das Gold, das ihn einst umgab-"
-    },
-    {
-      "title": "„Peltocephalus maturin“ : Forscher entdecken riesige fossile Süßwasserschildkröte",
-      "url": "https://www.faz.net/aktuell/wissen/leben-gene/forscher-entdecken-riesige-fossile-suesswasserschildkroete-19585664.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Am Amazonas im Pleistozän: Computergenerierte Illustration der Riesenschildkröte Peltocephalus maturin zusammen mit einigen zeitgenössischen Capybaras, Nagetiere aus der Familie der Meerschweinchen."
-    },
-    {
-      "title": "Korngolds Neubewertung : Er lebte von Kunst",
-      "url": "https://www.faz.net/aktuell/wissen/geist-soziales/erich-wolfgang-korngolds-neubewertung-19547878.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Goethe war gut, lieferte immer ein verwandlungsfähiges Zitat: „das Un-glaubliche hier wird Ereignis“ – so gratulierte Erich Wolfgang Korngold am 22. August 1949 Alma Mahler-Werfel zum siebzigsten Geburtstag."
-    },
-    {
-      "title": "Wert, Schrift und Bild : Meinungsfreiheit für Unis?",
-      "url": "https://www.faz.net/aktuell/wissen/forschung-politik/universitaeten-ueber-die-wissenschaftsfreiheit-auch-zur-meinungsfreiheit-19547875.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Der Vortrag der Biologin Marie-Luise Vollbrecht an der Humboldt-Universität lieferte den Fall, mit dem sich das Berliner Verwaltungsgericht zu beschäftigen hatte."
-    },
-    {
-      "title": "Joachim Latacz : Der Mann Homers",
-      "url": "https://www.faz.net/aktuell/wissen/joachim-latacz-zum-neunzigsten-geburtstag-19628372.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Joachim Latacz"
-    },
-    {
-      "title": "Leopoldina-Tagung : Die akademische Freiheit ist auch in Europa bedroht",
-      "url": "https://www.faz.net/aktuell/wissen/forschung-politik/tagung-der-leopoldina-akademische-freiheit-auch-in-europa-bedroht-19611720.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Die Central European University zog nach restriktiven Änderungen des ungarischen Hochschulgesetzes 2019 von Budapest nach Wien."
-    },
-    {
-      "title": "Debatte an Hochschulen : Genderzwang oder Genderverbot",
-      "url": "https://www.faz.net/aktuell/wissen/zwang-oder-verbot-staatsminister-blume-zum-gendern-an-universitaeten-19584075.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Gendern oder nicht gendern - und wenn ja, wie?"
-    },
-    {
-      "title": "Notker Hammerstein gestorben : Im öffentlichen Dienst seiner Universität",
-      "url": "https://www.faz.net/aktuell/wissen/der-frankfurter-historiker-notker-hammerstein-ist-gestorben-19593451.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Norddeutsche Fachgenossen pflegte Notker Hammerstein im Gespräch mit der Theorie zu ärgern, die Kulturgrenze verlaufe am Main. Er selbst, in Offenbach aufgewachsen, tat aber schon als Schüler des Staatlichen Gymnasiums zu Frankfurt am Main, des heutigen Gagern-Gymnasiums, den Schritt über den Fluss."
-    }
-  ]
+  "articles": []
 }
