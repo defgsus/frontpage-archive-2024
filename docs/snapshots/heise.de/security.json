@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-16T09:00:40",
+  "timestamp": "2024-04-16T10:01:07",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Delinea Secret Server",
+      "url": "https://www.heise.de/news/Zugriffsmanagement-Kritische-Admin-Luecke-in-Delinea-Secret-Server-geschlossen-9686457.html"
+    },
+    {
       "title": "Lancom",
       "url": "https://www.heise.de/news/Lancom-Setup-Assistent-leert-Root-Passwort-9682694.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/BSI-warnt-vor-aktiv-angegriffener-Sicherheitsluecke-in-Palo-Alto-Firewalls-9683153.html"
     },
     {
-      "title": "Juniper",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-Angreifer-koennen-Juniper-Netzwerkgeraete-lahmlegen-9682955.html"
+      "title": "Zugriffsmanagement: Kritische Admin-Lücke in Delinea Secret Server geschlossen",
+      "teaser": "Die Privileged-Access-Management-Lösung (PAM) Secret Server von Delinea ist verwundbar. Ein Sicherheitsupdate ist verfügbar.",
+      "url": "https://www.heise.de/news/Zugriffsmanagement-Kritische-Admin-Luecke-in-Delinea-Secret-Server-geschlossen-9686457.html"
     },
     {
       "title": "Nexperia: Ransomware-Gruppe will 1 TByte Daten erbeutet haben",
@@ -155,12 +160,6 @@
       "teaser": "IT-Sicherheitsforscher haben eine Malware-Kampagne mit gefälschten Metro-Rechnungen entdeckt, die auf deutsche Unternehmen zielt.",
       "url": "https://www.heise.de/news/Angriffe-mit-KI-generiertem-Schadcode-in-angeblichen-Metro-Rechnungen-9682026.html",
       "image_title": "Stilisiertes Bild: Spam und Malware kommen aus dem Rechner"
-    },
-    {
-      "title": "Details zum Microsoft-Leak: Über eine Million interne Dateien waren öffentlich",
-      "teaser": "Der Entdecker des weit offenstehenden Datenspeichers voller interner Microsoft-Informationen verriet heise Security weitere Details – Redmond ist schmallippig.",
-      "url": "https://www.heise.de/news/Details-zum-Microsoft-Leak-Ueber-eine-Million-interne-Dateien-waren-oeffentlich-9681391.html",
-      "image_title": "Bild von Microsoft"
     },
     {
       "title": "heise security tour 2024",
