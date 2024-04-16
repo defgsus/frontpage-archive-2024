@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-16T12:09:22",
+  "timestamp": "2024-04-16T13:02:50",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.a947bbfc49c7b4cc9d0d",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.a7fefd0b2dc6e3efb5a8",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "IBM QRadar SIEM",
+      "url": "https://www.heise.de/news/IBM-QRadar-SIEM-Kritische-Luecke-durch-Drittherstellerkomponente-9686740.html"
+    },
     {
       "title": "Lenovo Server-Enclosures und PCs",
       "url": "https://www.heise.de/news/Lenovo-Sicherheitsluecken-in-Server-Enclosure-Firmware-9686547.html"
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Lancom-Setup-Assistent-leert-Root-Passwort-9682694.html"
     },
     {
-      "title": "PHP",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Schwachstellen-in-PHP-gefaehrden-Websites-9684558.html"
+      "title": "IBM QRadar SIEM: Kritische Lücke durch Drittherstellerkomponente",
+      "teaser": "IBM QRadar SIEM bringt einige Dritthersteller-Module mit. In diesen klaffen teils kritische Lücken. Updates stehen bereit.",
+      "url": "https://www.heise.de/news/IBM-QRadar-SIEM-Kritische-Luecke-durch-Drittherstellerkomponente-9686740.html",
+      "image_title": "Stilisierte Grafik: zersplitterter Sicherheitsschild auf einem Laptop"
+    },
+    {
+      "title": "Sicherheitsvorfall beim MFA-Code-Provider für Ciscos Sicherheitsplattform Duo",
+      "teaser": "Angreifer hatten Zugriff auf Kundendaten von Cisco Duo. Die Daten leakten bei einem Provider von Multi-Faktor-Authentifizierungscodes.",
+      "url": "https://www.heise.de/news/Sicherheitsvorfall-beim-MFA-Code-Provider-fuer-Ciscos-Sicherheitsplattform-Duo-9686795.html",
+      "image_title": "Server-Hardware"
     },
     {
       "title": "Lenovo: Sicherheitslücken in Server-Enclosure-Firmware",
@@ -148,18 +160,6 @@
       "teaser": "Zunächst schienen nur einige D-Link-Speichersysteme angreifbar, nun gibt der Hersteller zu: Das war nicht alles. Die CISA warnt, sie werden angegriffen.",
       "url": "https://www.heise.de/news/Am-besten-alle-abschalten-Noch-mehr-D-Link-NAS-fuer-Codeschmuggel-anfaellig-9682099.html",
       "image_title": "Stilisierte Grafik: eine brennende Appliance im Netz"
-    },
-    {
-      "title": "Nach Microsoft-Fiasko müssen US-Behörden groß aufräumen",
-      "teaser": "Viel Arbeit haben IT-Admins ziviler US-Behörden. Es geht um Schadensbegrenzung nach dem russischen Einbruch bei Microsoft. Dieser läuft weiter.",
-      "url": "https://www.heise.de/news/Nach-Microsoft-Hack-muessen-US-Behoerden-gross-aufraeumen-9682556.html",
-      "image_title": "Zerbrochenes Windows-Logo"
-    },
-    {
-      "title": "Intellexa: Spyware des Predator-Herstellers kommt über Online-Werbung",
-      "teaser": "Der Malware-Dealer Intellexa stellt Spähsoftware vor, die Handys rein über Werbebanner infiziert.​ Ohne Klick.",
-      "url": "https://www.heise.de/news/Intellexa-Spyware-des-Predator-Herstellers-kommt-ueber-Online-Werbung-9682500.html",
-      "image_title": "Hölzerne Spielfiguren symbolisieren Menschen auf einem Platz. Nur eine Figur ist signalrot markiert."
     },
     {
       "title": "heise security tour 2024",
