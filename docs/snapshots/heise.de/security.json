@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-17T11:01:13",
+  "timestamp": "2024-04-17T12:09:57",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.665844b41f7e241abecd",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.ce7a2c54d8b0a97a0faa",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Oracle Critical Patch Update",
+      "url": "https://www.heise.de/news/Oracle-Critical-Patch-Update-bringt-441-Sicherheitskorrekturen-9687914.html"
+    },
     {
       "title": "PuTTY",
       "url": "https://www.heise.de/news/Nur-NIST-P-521-betroffen-PuTTY-Luecke-kompromittiert-private-SSH-Schluessel-9687539.html"
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Webbrowser-Chrome-und-Firefox-dichten-zahlreiche-Sicherheitslecks-ab-9687372.html"
     },
     {
-      "title": "IBM QRadar SIEM",
-      "url": "https://www.heise.de/news/IBM-QRadar-SIEM-Kritische-Luecke-durch-Drittherstellerkomponente-9686740.html"
+      "title": "Oracle: Critical Patch Update bringt 441 Sicherheitskorrekturen",
+      "teaser": "Im April liefert Oracle zum Critical Patch Update (CPU) sehr viele Sicherheitsaktualisierungen aus – 441 an der Zahl.",
+      "url": "https://www.heise.de/news/Oracle-Critical-Patch-Update-bringt-441-Sicherheitskorrekturen-9687914.html",
+      "image_title": "Stilisiertes Bild: Oracle-Logo auf Appliances, mit Flammen"
+    },
+    {
+      "title": "PQC: Neuer Quantencomputer-Algorithmus bedroht gitternetzbasierte Verfahren",
+      "teaser": "Kryptografen weltweit diskutieren ein aufsehenerregendes Paper dazu, wie man Post-Quantum-Krypto knacken könnte. Doch noch ist es viel zu früh für Panik.",
+      "url": "https://www.heise.de/news/PQC-Neuer-Quantencomputer-Algorithmus-bedroht-gitternetzbasierte-Verfahren-9687718.html",
+      "image_title": "Stilisierte Darstellung von Quantencomputer"
     },
     {
       "title": "Last Call: c't-Webinar Passkeys statt Passwörter",
@@ -151,16 +163,6 @@
       "teaser": "Der Anbieter des Passwortmanagers Lastpass gibt Einblick in einen Sicherheitsvorfall, der schlimme Folgen hätte haben können.",
       "url": "https://www.heise.de/news/Deepfake-Anruf-Lastpass-Mitarbeiter-faellt-fast-auf-Fake-CEO-rein-9684594.html",
       "image_title": "Deepfake-Schriftzug vor Handy in Menschenhand"
-    },
-    {
-      "title": "Python und Telegram: Buchstabendreher ermöglichte Schadcode-Attacken",
-      "teaser": "Unter bestimmten Umständen hätten Angreifer der Windows-Version von Telegram Skripte mit Schadcode unterschieben können.",
-      "url": "https://www.heise.de/news/Python-und-Telegram-Buchstabendreher-ermoeglichte-Schadcode-Attacken-9684574.html"
-    },
-    {
-      "title": "Sicherheitsupdates: Schwachstellen in PHP gefährden Websites",
-      "teaser": "Die PHP-Entwickler haben mehrere Schwachstellen geschlossen. Eine Sicherheitslücke gilt als kritisch.",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Schwachstellen-in-PHP-gefaehrden-Websites-9684558.html"
     },
     {
       "title": "heise security tour 2024",
