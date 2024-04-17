@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-17T03:00:48",
+  "timestamp": "2024-04-17T04:00:47",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -8,6 +8,12 @@
     {
       "type": null,
       "src": "https://static.zeit.de/p/zeit.web/js/colorscheme.127e25a5ec589a0dbdff.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -74,10 +80,29 @@
   ],
   "articles": [
     {
+      "title": "Z+ (abopflichtiger Inhalt); Erdbeeren aus Spanien : Warum 1,50 Euro für Erdbeeren ein unverschämter Preis ist",
+      "teaser": "Erdbeeren aus Spanien gibt es zu unschlagbar günstigen Preisen im Supermarkt. Obwohl ihre Produktion sehr viel Wasser verbraucht – und Rekorddürre herrscht. Wie geht das?",
+      "url": "https://www.zeit.de/wirtschaft/2024-04/erdbeeren-spanien-billig-wasser-duerre",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-04/erdbeeren-spanien-billig-wasser-duerre-bild/wide__1000x562",
+      "image_title": "Entscheidender Faktor für die billigen Preise sind die sehr niedrigen Löhne in Spanien: Immer wieder gibt es Berichte über schlechte Arbeitsbedingungen oder menschenunwürdige Unterbringung migrantischer Arbeiter."
+    },
+    {
       "title": "Nahostkonflikt : USA kündigen neue Sanktionen gegen den Iran an",
       "teaser": "Die USA wollen wegen der iranischen Drohnenangriffe auf Israel neue Sanktionen verhängen. Ziel sind unter anderem das Raketen- und Drohnenprogramm des Irans.",
       "url": "https://www.zeit.de/politik/ausland/2024-04/usa-iran-ankuendigung-sanktionen",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-04/usa-ankuendigung-sanktionen-iran-bild/wide__1000x562"
+      "image_url": "https://img.zeit.de/politik/ausland/2024-04/usa-ankuendigung-sanktionen-iran-bild/super__620x413"
+    },
+    {
+      "title": "Olaf Scholz in China : Wenn schon ein 45-minütiges Gespräch ein Erfolg ist",
+      "teaser": "Große Gesten, übersichtliche Wirkung: Olaf Scholz trifft Präsident Xi und wird mit allen Ehren empfangen. Die Wirkung ist am Ende allenfalls atmosphärisch.",
+      "url": "https://www.zeit.de/politik/ausland/2024-04/olaf-scholz-china-reise-xi-jingping-geopolitik",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-04/olaf-scholz-xi-jinping-doppel/super__620x413"
+    },
+    {
+      "title": "Schweigegeldaffäre : Erste sieben Geschworene in Strafprozess gegen Trump stehen fest",
+      "teaser": "Kommende Woche sollen die Eröffnungsplädoyers im Schweigegeldprozess gegen Donald Trump gehalten werden. Doch die Suche nach Jurymitgliedern läuft noch.",
+      "url": "https://www.zeit.de/politik/ausland/2024-04/donald-trump-strafprozess-geschworene",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-04/donald-trump-geschworene-schweigegeldprozess-bild/super__620x413"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Robert Habeck : Er würde schon wollen. Darf er auch?",
@@ -86,47 +111,64 @@
       "image_url": "https://img.zeit.de/politik/deutschland/2024-04/robert-habeck-annalena-baerbock-kanzlerkandidatur-buendnis-90-die-gruenen-bild/super__620x413"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Borussia Dortmund : Wie damals gegen Málaga",
+      "teaser": "Erst Eigentor, dann Siegtreffer: Nach einer lange ersehnten Fußballnacht steht der BVB zum ersten Mal seit elf Jahren wieder im Halbfinale der Champions League.",
+      "url": "https://www.zeit.de/sport/2024-04/champions-league-borussia-dortmund-atletico-madrid-halbfinale",
+      "image_url": "https://img.zeit.de/sport/2024-04/champions-league-borussia-dortmund-atletico-madrid-bild/super__620x413"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Jonas Deichmann : Jeden Tag ein Iron Man. Ernsthaft?",
+      "teaser": "Der Abenteurer Jonas Deichmann will schaffen, was noch keinem gelang: 3,8 km schwimmen, 180 km Rad fahren, 42,2 km laufen. Und das vier Monate lang, 120 Mal.",
+      "url": "https://www.zeit.de/2024/16/jonas-deichmann-ironman-extremsport-triathlon",
+      "image_url": "https://img.zeit.de/2024/16/jonas-deichmann-ironman-extremsport-triathlon-bild/wide__822x462"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Fibo 2024 : Uh! Ah!",
+      "teaser": "Hier tragen die Frauen Leggings, die die Poritzen betonen, und die Männer können vor Kraft kaum laufen. Ein Besuch auf der Fibo, der größten Fitnessmesse der Welt",
+      "url": "https://www.zeit.de/2024/17/fibo-2024-fitness-bodybuilding-messe",
+      "image_url": "https://img.zeit.de/2024/17/fibo-2024-fitness-bodybuilding-messe-teaser/super__620x413"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Schlechte Chefs : Die sieben Arten der Manipulation",
+      "teaser": "Flache Hierarchien? Aufpassen. Schlechte Vorgesetzte beeinflussen ihre Mitarbeiter heute mit subtileren Methoden als Rumbrüllen. Wer die erkennt, kann sich schützen.",
+      "url": "https://www.zeit.de/arbeit/2024-04/schlechte-chefs-manipulation-hierarchie",
+      "image_url": "https://img.zeit.de/arbeit/2024-04/schlechte-chefs-manipulation-2/super__620x413"
+    },
+    {
       "title": "Liveblog:Ukraine-Krieg : Tschechien hat Geld für 500.000 Schuss Munition für Ukraine gesammelt",
       "teaser": "Eine internationale Initiative soll außerhalb Europas Artilleriemunition für die Ukraine besorgen. Selenskyj will sich erneut an den Nato-Ukraine-Rat wenden. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
       "image_url": "https://img.zeit.de/politik/ausland/2024-04/ukraine-liveblog-petr-fiala/super__620x413"
     },
     {
-      "title": "Schweigegeldaffäre : Erste sieben Geschworene in Strafprozess gegen Trump stehen fest",
-      "teaser": "Kommende Woche sollen die Eröffnungsplädoyers im Schweigegeldprozess gegen Donald Trump gehalten werden. Doch die Suche nach Jury-Mitgliedern läuft noch.",
-      "url": "https://www.zeit.de/politik/ausland/2024-04/donald-trump-strafprozess-geschworene",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-04/donald-trump-geschworene-schweigegeldprozess-bild/super__620x413"
-    },
-    {
-      "title": "Olaf Scholz in China : Keine Annäherung, keine Konzessionen",
-      "teaser": "Olaf Scholz wurde in China pompös empfangen, Xi bot ihm das ganz große diplomatische Tschingderassabum. Doch am Ende bleibt vor allem: Ernüchterung.",
-      "url": "https://www.zeit.de/politik/ausland/2024-04/olaf-scholz-china-reise-xi-jingping-geopolitik",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-04/olaf-scholz-xi-jinping-doppel/super__620x413"
-    },
-    {
-      "title": "China und Deutschland : \"Wir brauchen in allen Bereichen mehr China-Wissen\"",
-      "teaser": "Bundeskanzler Scholz ist in China. Nadine Godehardt meint, in Deutschland gäbe es zu wenig Expertise für den Umgang mit der Volksrepublik und benennt die Defizite.",
-      "url": "https://www.zeit.de/politik/ausland/2024-04/china-deutschland-olaf-scholz-bundesregierung-xi-jinping",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-04/scholz-china/super__620x413",
-      "image_title": "Scholz China"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Fibo 2024 : Uh! Ah!",
-      "teaser": "Hier tragen die Frauen Leggings, die die Poritzen betonen, und die Männer können vor Kraft kaum laufen. Ein Besuch auf der Fibo, der größten Fitnessmesse der Welt",
-      "url": "https://www.zeit.de/2024/17/fibo-2024-fitness-bodybuilding-messe",
-      "image_url": "https://img.zeit.de/2024/17/fibo-2024-fitness-bodybuilding-messe-teaser/wide__822x462"
-    },
-    {
-      "title": "Champions League : Dortmund erreicht erstmals seit 2013 Halbfinale der Champions League",
-      "teaser": "Der BVB hat sich gegen Atlético Madrid einen Platz im Halbfinale der Champions League erkämpft. Mbappé führt PSG gegen den FC Barcelona zum Sieg. Die Spielberichte",
-      "url": "https://www.zeit.de/sport/2024-04/champions-league-viertelfinale-rueckspiel-dortmund-madrid-barcelona-paris",
-      "image_url": "https://img.zeit.de/sport/2024-04/champions-league-viertelfinale-rueckspiel-dortmund-madrid-barcelona-paris-2/super__620x413"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Kopenhagen : 400 Jahre Kulturerbe in Rauch aufgegangen",
       "teaser": "Die Kopenhagener Börse mit ihrem Drachenturm war eins der wichtigsten Wahrzeichen der Stadt. Nun ist der nach einem Brand eingestürzt. Die Dänen können es nicht fassen.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-04/kopenhagen-daenemark-historische-boerse-brand-feuerwehr",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-04/kopenhagen-daenemark-historische-boerse-brand-feuerwehr-bild/wide__892x501"
+      "image_url": "https://img.zeit.de/gesellschaft/2024-04/kopenhagen-daenemark-historische-boerse-brand-feuerwehr-bild/super__620x413"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Kosten eines Kindes : Kleine Kinder, kleine Kosten – große Kinder, große Kosten",
+      "teaser": "Ein Kind ist eine Anlage, die finanziell nicht profitabel ist. Es kann so teuer sein wie ein Haus. Aber Paare ohne Nachwuchs sind trotzdem nicht viel reicher.",
+      "url": "https://www.zeit.de/geld/2023-05/kinder-kosten-bildung-betreuung-elterngeld-kindergeld",
+      "image_url": "https://img.zeit.de/geld/2023-08/kinder-kosten-bildung-betreuung-elterngeld-2/super__620x413"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Hautpflege : Was man für die Haut tun kann, bevor sie alt ist",
+      "teaser": "Muss man schon mit Mitte 20 Botox spritzen oder jeden Abend Retinol benutzen? Fünf Expert:innen erklären, welche Skincaretipps übertrieben sind – und welche richtig gut.",
+      "url": "https://www.zeit.de/zett/2024-02/hautpflege-skincare-routine-tipps-anti-aging-1-hautton-5-1",
+      "image_url": "https://img.zeit.de/zett/2024-02/hautpflege-skincare-routine-tipps-anti-aging-maske/super__620x413"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Abnehmen mit Sport : \"Durch Sport nimmt man nur wenig ab\"",
+      "teaser": "Regelmäßiges Joggen, doch das Gewicht bleibt gleich? Der Wissenschaftler Karsten Köhler erklärt, warum manche trotz Sport zunehmen. Und was beim Abnehmen wirklich hilft.",
+      "url": "https://www.zeit.de/sport/2023-07/sport-abnehmen-gewicht-karsten-koehler",
+      "image_url": "https://img.zeit.de/sport/2023-07/sport-abnehmen-gewicht/super__620x413"
+    },
+    {
+      "title": "Nachrichtenpodcast : Israel unter Zugzwang",
+      "teaser": "Am Wochenende griff der Iran das erste Mal direkt Israel an. Wie geht es jetzt weiter? Und: Womöglich steht der Kanzlerkandidat der Grünen schon fest.",
+      "url": "https://www.zeit.de/politik/2024-04/israel-iran-gegenangriff-nachrichtenpodcast",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__620x413"
     },
     {
       "title": "Rolle des Islam : Zentralrat der Muslime empört über Passage in CDU-Grundsatzprogramm",
@@ -141,22 +183,10 @@
       "image_url": "https://img.zeit.de/geld/2023-08/balkonkraftwerke-solarpaket-stromkosten-energiewende/super__620x413"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Schlechte Chefs : Die sieben Arten der Manipulation",
-      "teaser": "Flache Hierarchien? Aufpassen. Schlechte Vorgesetzte beeinflussen ihre Mitarbeiter heute mit subtileren Methoden als Rumbrüllen. Wer die erkennt, kann sich schützen.",
-      "url": "https://www.zeit.de/arbeit/2024-04/schlechte-chefs-manipulation-hierarchie",
-      "image_url": "https://img.zeit.de/arbeit/2024-04/schlechte-chefs-manipulation-2/super__620x413"
-    },
-    {
-      "title": "Antisemitismus : USA verzeichnen so viele antisemitische Vorfälle wie noch nie",
-      "teaser": "In den USA hat es 2023 so viele antisemitische Taten gegeben wie nie seit 1979. Mehr als die Hälfte der Fälle ereignete sich nach dem Hamas-Massaker in Israel.",
-      "url": "https://www.zeit.de/politik/ausland/2024-04/usa-antisemitismus-hoechststand-2023-hamas-massaker",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-04/antisemitismus-usa-hamas-massaker-bild/super__620x413"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Ralf Reichert : \"Kommerziell ist das für mich eine ganz einfache Logik\"",
-      "teaser": "Das größte Videospielturnier aller Zeiten steigt in Saudi-Arabien. Das Land will das Zentrum der Szene werden. E-Sport-Urvater Ralf Reichert sieht darin kein Problem.",
-      "url": "https://www.zeit.de/digital/games/2024-04/ralf-reichert-esports-world-cup-saudi-arabien-gaming-videospiele",
-      "image_url": "https://img.zeit.de/digital/games/2024-04/esports-worldcup-ralf-reichert-saudi-arabien-bild-2/wide__822x462"
+      "title": "Louisa Specht-Riemenschneider : Diese Frau soll künftig Ihre Daten schützen",
+      "teaser": "Der Datenschutzbeauftragte Ulrich Kelber durfte nicht weitermachen. Nun wurde eine Nachfolgerin vorgeschlagen. Die könnte den Job anders machen als er.",
+      "url": "https://www.zeit.de/digital/datenschutz/2024-04/louisa-specht-riemenschneider-ulrich-kelber-datenschutzbeauftragte-bundesregierung",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-04/louisa-specht-riemenschneider-bundesbeaftragte-datenschutz-informationssicherheit-bfdi/super__620x413"
     },
     {
       "title": "Lobbyismus in Brüssel : EU-Prüfer kritisieren mangelnde Transparenz über Lobbyismus",
@@ -165,58 +195,10 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-04/lobbyismus-eu-bericht-kritik-bild/super__620x413"
     },
     {
-      "title": "Louisa Specht-Riemenschneider : Diese Frau soll künftig Ihre Daten schützen",
-      "teaser": "Der Datenschutzbeauftragte Ulrich Kelber durfte nicht weitermachen. Nun wurde eine Nachfolgerin vorgeschlagen. Die könnte den Job anders machen als er.",
-      "url": "https://www.zeit.de/digital/datenschutz/2024-04/louisa-specht-riemenschneider-ulrich-kelber-datenschutzbeauftragte-bundesregierung",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-04/louisa-specht-riemenschneider-bundesbeaftragte-datenschutz-informationssicherheit-bfdi/super__620x413"
-    },
-    {
-      "title": "Russland : FBI soll AfD-Politiker Krah zu russischer Einflussnahme befragt haben",
-      "teaser": "Die US-Kriminalpolizei hat Medien zufolge den AfD-Spitzenkandidaten für die Europawahl vernommen. Es soll um mögliche Zahlungen von Putin-Vertrauten gegangen sein.",
-      "url": "https://www.zeit.de/politik/2024-04/krah-maximilian-afd-fbi-befragung-russland-kreml-zahlungen-spiegel-zdf",
-      "image_url": "https://img.zeit.de/politik/2024-04/krah-maximilian-afd-fbi-befragung-russland-kreml-zahlungen-spiegel-zdf-bild-2/super__620x413"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Demokratie und Revolution : Es braucht eine Revolution – in der Demokratie für die Demokratie",
-      "teaser": "Die liberale Demokratie ist bedroht von innen wie außen, die Nebenfolgen unserer Lebensweise kehren heim. Wie die globalisierten Eliten auf diese Epoche reagieren müssen.",
-      "url": "https://www.zeit.de/2024/16/demokratie-und-revolution-krisen-rechtsruck",
-      "image_url": "https://img.zeit.de/2024/16/demokratie-und-revolution-krisen-rechtsruck-bild/super__620x413"
-    },
-    {
-      "title": "\"Mensch Merz\" : Nicht bunt, nicht divers, kein Hauch von Patchwork",
-      "teaser": "Eine Dokumentation im ZDF porträtiert den CDU-Chef und seinen Versuch, Kanzlerkandidat zu werden. In den Nebenrollen: Charlotte Merz, Luisa Neubauer und Renate Künast",
-      "url": "https://www.zeit.de/kultur/film/2024-04/friedrich-merz-mensch-merz-zdf-doku-cdu-kanzleramt",
-      "image_url": "https://img.zeit.de/kultur/2024-04/zdf-dokumentation-friedrich-merz-bild/super__620x413"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Selbstsabotage in der Beziehung : \"Wenn man selbst die Beziehung zerstört, kann es der andere nicht tun\"",
-      "teaser": "Wer Beziehungen beginnt, sie aber nicht aufrechterhalten kann, sabotiert sich möglicherweise selbst. Oft geht es um Kontrolle. Aber aus dem Muster kann man ausbrechen.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2024-03/sebstsabotage-beziehung-liebe-psychologie-raquel-peel",
-      "image_url": "https://img.zeit.de/zeit-magazin/leben/2024-04/sebstsabotage-beziehung-liebe-psychologie-raquel-peel-bild/super__620x413"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Jugendkriminalität : 13-Jährige, die Heroin spritzen, Millionärssöhne mit Strafregister",
-      "teaser": "Der Sozialarbeiter Martin von Necker kennt die Storys hinter der Kriminalstatistik – und weiß, was wirklich gegen Jugendkriminalität hilft.",
-      "url": "https://www.zeit.de/campus/2024-04/jugendkriminalitaet-jugendtreff-jugendliche-straftat-streetwork",
-      "image_url": "https://img.zeit.de/campus/2024-04/jugendkriminalitaet-jugendtreff-jugendliche6/super__620x413"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Allergien : \"Wenn man mit Allergien in der Klinik aufläuft, ist es schon zu spät\"",
-      "teaser": "Aus einer Allergie können viele werden. Ein Immunologe erklärt, wie Allergien entstehen, wie man dem vorbeugen kann und welche Bäume in keine Stadt gehören.",
-      "url": "https://www.zeit.de/arbeit/2023-11/allergien-heuschnupfen-job-arbeitnehmer-therapie",
-      "image_url": "https://img.zeit.de/arbeit/2023-11/allergien-heuschnupfen-job/super__620x413"
-    },
-    {
-      "title": "Liveblog:Krieg in Israel und Gaza : Israel meldet Tötung von Hisbollah-Kommandeur",
-      "teaser": "Bei einem israelischen Angriff im Libanon ist ein Anführer der Terrormiliz Hisbollah getötet worden. Die EU prüft weitere Sanktionen gegen den Iran. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/2023-12/news-israel-gaza-krieg-live",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-04/news-israel-gaza-krieg-live-bild-16/super__620x413"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Iran : Neue Allianzen wären Israels beste Verteidigung",
-      "teaser": "Israel scheint sich ungewohnt einig zu sein bei der Frage eines passenden Gegenschlags gegen den Iran: Er darf die Verbündeten nicht verprellen. Ein Grund für Zuversicht?",
-      "url": "https://www.zeit.de/politik/ausland/2024-04/iran-israel-gegenschlag-benjamin-netanjahu-nahost",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-04/iran-israel-gegenschlag-benjamin-netanjahu-nahost-3/super__620x413"
+      "title": "Myanmar : Militärregime meldet Verlegung von Aung San Suu Kyi in Hausarrest",
+      "teaser": "Die Friedensnobelpreisträgerin Aung San Suu Kyi hat offenbar das Gefängnis verlassen dürfen. Nach Angaben der Junta drohte der Ex-Regierungschefin ein Hitzschlag.",
+      "url": "https://www.zeit.de/politik/ausland/2024-04/myanmar-aung-san-suu-kyi-hausarrest-hitzschlag",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-04/aung-san-suu-kyi-myanmar-hausarrest-hitze-bild/super__620x413"
     },
     {
       "title": "Bürgerkriegsland : UN-Sondergesandter für Libyen tritt zurück",
@@ -225,10 +207,28 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-04/abdoulaye-bathily-un-sonderbeauftragter-libyen-ruecktritt/super__620x413"
     },
     {
+      "title": "Antisemitismus : USA verzeichnen so viele antisemitische Vorfälle wie noch nie",
+      "teaser": "In den USA hat es 2023 so viele antisemitische Taten gegeben wie nie seit 1979. Mehr als die Hälfte der Fälle ereignete sich nach dem Hamas-Massaker in Israel.",
+      "url": "https://www.zeit.de/politik/ausland/2024-04/usa-antisemitismus-hoechststand-2023-hamas-massaker",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-04/antisemitismus-usa-hamas-massaker-bild/super__620x413"
+    },
+    {
       "title": "Nahrungsmittelkrise : Länder sagen Äthiopien Hilfen in Millionenhöhe zu",
       "teaser": "Bei einer UN-Geberkonferenz sind 610 Millionen Dollar für Äthiopien zusammengekommen. Die Summe ist ein Bruchteil dessen, was das Land im Kampf gegen den Hunger benötigt.",
       "url": "https://www.zeit.de/politik/2024-04/aethiopien-un-geberkonferenz-hunger",
       "image_url": "https://img.zeit.de/politik/ausland/2024-04/aethiopien-nahrungsmittelkrise-un-geberkonferenz-bild/super__620x413"
+    },
+    {
+      "title": "Champions League : Dortmund erreicht erstmals seit 2013 Halbfinale der Champions League",
+      "teaser": "Der BVB hat sich gegen Atlético Madrid einen Platz im Halbfinale der Champions League erkämpft. Mbappé führt PSG gegen den FC Barcelona zum Sieg. Die Spielberichte",
+      "url": "https://www.zeit.de/sport/2024-04/champions-league-viertelfinale-rueckspiel-dortmund-madrid-barcelona-paris",
+      "image_url": "https://img.zeit.de/sport/2024-04/champions-league-viertelfinale-rueckspiel-dortmund-madrid-barcelona-paris-2/super__620x413"
+    },
+    {
+      "title": "Russland : FBI soll AfD-Politiker Krah zu russischer Einflussnahme befragt haben",
+      "teaser": "Die US-Kriminalpolizei hat Medien zufolge den AfD-Spitzenkandidaten für die Europawahl vernommen. Es soll um mögliche Zahlungen von Putin-Vertrauten gegangen sein.",
+      "url": "https://www.zeit.de/politik/2024-04/krah-maximilian-afd-fbi-befragung-russland-kreml-zahlungen-spiegel-zdf",
+      "image_url": "https://img.zeit.de/politik/2024-04/krah-maximilian-afd-fbi-befragung-russland-kreml-zahlungen-spiegel-zdf-bild-2/super__620x413"
     },
     {
       "title": "Konferenz \"Unser Ozean\" : Staaten geben gut neun Milliarden Euro für Schutz der Weltmeere",
@@ -249,47 +249,10 @@
       "image_url": "https://img.zeit.de/wirtschaft/2024-04/rene-benko-ermittlungen-kreditbetrug-bild/super__620x413"
     },
     {
-      "title": "Netzausbau : Bundesnetzagentur kritisiert Stadt Oranienburg wegen Stromengpässen",
-      "teaser": "In Oranienburg können neue Gebäude nicht mehr ans Stromnetz angeschlossen werden. Die Bundesnetzagentur spricht von einer \"Fehleinschätzung bei der Planung\".",
-      "url": "https://www.zeit.de/wirtschaft/2024-04/oranienburg-bundesnetzagentur-stromengpaesse",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-04/oranienburg-bundesnetzagentur-stromengpaesse-bild/super__620x413"
-    },
-    {
-      "title": "Corona : Lauterbach will Versorgung von Long-Covid-Betroffenen verbessern",
-      "teaser": "\"Das Problem ist ungelöst\": Laut Bundesgesundheitsminister gibt es für viele Formen von Long Covid noch immer keine Heilung. Ihre Versorgung aber sei an einem Wendepunkt.",
-      "url": "https://www.zeit.de/gesundheit/2024-04/lauterbach-karl-long-covid-corona-runder-tisch-versorgung",
-      "image_url": "https://img.zeit.de/gesundheit/2024-04/lauterbach-karl-long-covid-corona-runder-tisch-versorgung-bild/super__620x413"
-    },
-    {
-      "title": "Thüringen-Monitor : Mehr Menschen in Thüringen vertreten rechtsextreme Positionen",
-      "teaser": "Fünf Monate vor der Landtagswahl sind viele Thüringer einer Studie zufolge unzufrieden mit der Demokratie. Fast jeder Fünfte teilt rechtsextreme Einstellungen.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-04/studie-demokratie-thueringen-rechtsextremismus",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-04/studie-demokratie-thueringen-rechtsextremismus-bild/super__620x413"
-    },
-    {
-      "title": "Kanzler in China : China laut Scholz bereit zu Bemühungen um Frieden in der Ukraine",
-      "teaser": "Nach seinem Gespräch mit Chinas Präsident Xi Jinping sieht der Kanzler gemeinsame Interessen in der Außenpolitik. Beide Länder wollten Frieden in der Ukraine, sagte er.",
-      "url": "https://www.zeit.de/politik/2024-04/scholz-olaf-xi-jinping-china-russland-ukraine-interessen-reise",
-      "image_url": "https://img.zeit.de/politik/2024-04/scholz-olaf-xi-jinping-china-russland-ukraine-interessen-reise-bild/super__620x413"
-    },
-    {
-      "title": "Konjunktur : IWF senkt Wachstumsprognose für Deutschland erneut ab",
-      "teaser": "Für die Weltwirtschaft gibt der Internationale Währungsfonds weitgehend Entwarnung – sie soll deutlich wachsen. Doch für Deutschland sanken die Erwartungen erneut ab.",
-      "url": "https://www.zeit.de/wirtschaft/2024-04/iwf-senkt-wachstumsprognose-fuer-deutschland-erneut-ab",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-04/iwf-senkt-wachstumsprognose-fuer-deutschland-erneut-ab-bild/super__620x413"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Sexuelle Übergriffe beim Yoga : \"Ich glaube, ich war stolz darauf, seine Auserwählte zu sein\"",
-      "teaser": "Für viele bedeutet Yoga Ausgleich, Entspannung, Fallenlassen. Doch es gibt auch Fälle von Missbrauch. Viele erkennen erst mit Abstand die Gewalt. Drei Frauen erzählen.",
-      "url": "https://www.zeit.de/campus/2024/03/sexuelle-uebergriffe-yoga-missbrauch-betroffene",
-      "image_url": "https://img.zeit.de/campus/2024/03/n-a-m-a-s-t-bild-3/wide__822x462"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Queer : Mehr als nur ein Wort",
-      "teaser": "In sozialen Medien bezeichnen sich zunehmend auch Heterosexuelle als \"queer\". Doch der Begriff sollte kein Kostüm sein, das man sich einfach überstreifen kann.",
-      "url": "https://www.zeit.de/kultur/2024-04/queer-social-media-aneignung-baiting-heterosexuell-identitaet",
-      "image_url": "https://img.zeit.de/kultur/2024-04/queer-social-media-aneignung-baiting-heterosexuell/super__620x413",
-      "image_title": "/queer-social-media-aneignung-baiting-heterosexuell"
+      "title": "Ralf Reichert : \"Kommerziell ist das für mich eine ganz einfache Logik\"",
+      "teaser": "Das größte Videospielturnier aller Zeiten steigt in Saudi-Arabien. Das Land will das Zentrum der Szene werden. E-Sport-Urvater Ralf Reichert sieht darin kein Problem.",
+      "url": "https://www.zeit.de/digital/games/2024-04/ralf-reichert-esports-world-cup-saudi-arabien-gaming-videospiele",
+      "image_url": "https://img.zeit.de/digital/games/2024-04/esports-worldcup-ralf-reichert-saudi-arabien-bild-2/super__620x413"
     },
     {
       "title": "Diese Woche in der ZEIT : Mensch gegen Tier",
@@ -298,10 +261,11 @@
       "image_url": "https://img.zeit.de/2024/16/packshot-24-16-1000x620.png/imagegroup/super__1000x666"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); \"Pudels Kern\" von Rocko Schamoni : Hier schwappt nicht nur das Bier",
-      "teaser": "Der Musiker, Autor und einstige Dorfpunk Rocko Schamoni erzählt in seinem neuen Buch \"Pudels Kern\" von seiner Jugend. Es ist eine als Roman titulierte Anekdotensammlung.",
-      "url": "https://www.zeit.de/2024/16/pudels-kern-rocko-schamoni-jugend-erinnerungen-roman",
-      "image_url": "https://img.zeit.de/2024/16/hier-schwappt-nicht-nur-das-bier-bild-1/super__620x413"
+      "title": "Queer : Mehr als nur ein Wort",
+      "teaser": "In sozialen Medien bezeichnen sich zunehmend auch Heterosexuelle als \"queer\". Doch der Begriff sollte kein Kostüm sein, das man sich einfach überstreifen kann.",
+      "url": "https://www.zeit.de/kultur/2024-04/queer-social-media-aneignung-baiting-heterosexuell-identitaet",
+      "image_url": "https://img.zeit.de/kultur/2024-04/queer-social-media-aneignung-baiting-heterosexuell/super__620x413",
+      "image_title": "/queer-social-media-aneignung-baiting-heterosexuell"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Fragen Sie ZEIT ONLINE : Haben Sie ein Thema verpasst?",
@@ -326,20 +290,20 @@
       "url": "https://www.zeit.de/politik/ausland/2024-04/iran-angriff-nahost-staaten-reaktionen-syrien"
     },
     {
-      "title": "Nahostüberblick : Israel kündigt Reaktion auf Irans Angriff an, Furcht vor Eskalation",
-      "teaser": "Benjamin Netanjahu setzt laut einem Bericht auf Nervosität im Iran. Grünenchef Omid Nouripour fordert mehr Härte gegen das Regime in Teheran. Die Nacht",
-      "url": "https://www.zeit.de/politik/ausland/2024-04/israel-iran-angriff-reaktion-nahost-ueberblick",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-04/israel-iran-angriff-reaktion-nahost-ueberblick-bild-2/super__430x286"
-    },
-    {
       "title": "Dänemark : Historische Börse in Kopenhagen nach Brand teilweise eingestürzt",
       "teaser": "Während der Renovierung der historischen Börse in Kopenhagen ist ein Feuer ausgebrochen. Mehrere umliegende Gebäude wurden geräumt. Die Brandursache ist noch unklar.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-04/historische-boerse-altstadt-kopenhagen-brennt"
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-04/historische-boerse-altstadt-kopenhagen-brennt",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-04/historische-boerse-altstadt-kopenhagen-brennt-bild/super__430x286"
     },
     {
       "title": "Cannabislegalisierung : Bayern verbietet Kiffen auf Volksfesten und in Biergärten",
       "teaser": "Oktoberfest, Englischer Garten, Biergärten: Trotz Legalisierung darf in Bayern vielerorts nicht gekifft werden. Das hat das Landeskabinett in München beschlossen.",
       "url": "https://www.zeit.de/politik/deutschland/2024-04/bayern-kiffen-gesetz-einschraenkung-oktoberfest"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Schlechte Chefs : Die sieben Arten der Manipulation",
+      "teaser": "Flache Hierarchien? Aufpassen. Schlechte Vorgesetzte beeinflussen ihre Mitarbeiter heute mit subtileren Methoden als Rumbrüllen. Wer die erkennt, kann sich schützen.",
+      "url": "https://www.zeit.de/arbeit/2024-04/schlechte-chefs-manipulation-hierarchie"
     },
     {
       "title": "Cannabislegalisierung : Bayern verbietet Kiffen auf Volksfesten und in Biergärten",
@@ -370,10 +334,10 @@
       "image_url": "https://img.zeit.de/hamburg/2024-04/hfbk-hamburg-universitaet-haifa-partnerschaft-antisemitismus-kunst-bild/super__620x413"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Kopenhagen : 400 Jahre Kulturerbe in Rauch aufgegangen",
-      "teaser": "Die Kopenhagener Börse mit ihrem Drachenturm war eins der wichtigsten Wahrzeichen der Stadt. Nun ist der nach einem Brand eingestürzt. Die Dänen können es nicht fassen.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-04/kopenhagen-daenemark-historische-boerse-brand-feuerwehr",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-04/kopenhagen-daenemark-historische-boerse-brand-feuerwehr-bild/super__620x413"
+      "title": "Z+ (abopflichtiger Inhalt); Iran : Neue Allianzen wären Israels beste Verteidigung",
+      "teaser": "Israel scheint sich ungewohnt einig zu sein bei der Frage eines passenden Gegenschlags gegen den Iran: Er darf die Verbündeten nicht verprellen. Ein Grund für Zuversicht?",
+      "url": "https://www.zeit.de/politik/ausland/2024-04/iran-israel-gegenschlag-benjamin-netanjahu-nahost",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-04/iran-israel-gegenschlag-benjamin-netanjahu-nahost-3/super__620x413"
     },
     {
       "title": "Verlagsangebot : 7 Tipps für eine bessere Verdauung",
@@ -484,22 +448,23 @@
       "image_url": "https://img.zeit.de/2024-04/was-jetzt-die-woche/super__620x413"
     },
     {
+      "title": "China und Deutschland : \"Wir brauchen in allen Bereichen mehr China-Wissen\"",
+      "teaser": "Bundeskanzler Scholz ist in China. Nadine Godehardt meint, in Deutschland gäbe es zu wenig Expertise für den Umgang mit der Volksrepublik und benennt die Defizite.",
+      "url": "https://www.zeit.de/politik/ausland/2024-04/china-deutschland-olaf-scholz-bundesregierung-xi-jinping",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-04/scholz-china/wide__822x462",
+      "image_title": "Scholz China"
+    },
+    {
       "title": "Nachrichtenpodcast : Fleisch und Äpfel statt eines Friedensversprechens",
       "teaser": "Olaf Scholz hat Xi Jinping getroffen. Im Podcast sprechen wir über das, was Scholz im Gespräch mit Chinas Präsident erreicht hat. Und: Trumps erster Strafprozess",
       "url": "https://www.zeit.de/politik/2024-04/china-reise-olaf-scholz-xi-jinping-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__822x462"
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__620x413"
     },
     {
-      "title": "Islam in Deutschland : Die CDU war schon mal weiter",
-      "teaser": "Die Christdemokraten ändern in ihrem Grundsatzprogramm einen zentralen Satz zum Islam in Deutschland. Doch auch die neue Formulierung ist problematisch.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-04/cdu-islam-grundsatzprogramm-entwurf-aenderung",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-04/cdu-islam-grundsatzprogramm-entwurf-aenderung-2/super__620x413"
-    },
-    {
-      "title": "\"DiscoverEU\" : EU-Kommission schickt junge Menschen erneut mit dem Zug durch Europa",
-      "teaser": "Die EU-Kommission verlost erneut Zugtickets an junge Menschen. Um die mehr als 35.000 Fahrkarten können sich auch Teilnehmer aus einigen Nicht-EU-Ländern bewerben.",
-      "url": "https://www.zeit.de/politik/ausland/2024-04/eu-kommission-discovereu-reisen-tickets",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-04/eu-kommission-discovereu-reisen-tickets-bild-2/super__620x413"
+      "title": "Thüringen-Monitor : Mehr Menschen in Thüringen vertreten rechtsextreme Positionen",
+      "teaser": "Fünf Monate vor der Landtagswahl sind viele Thüringer einer Studie zufolge unzufrieden mit der Demokratie. Fast jeder Fünfte teilt rechtsextreme Einstellungen.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-04/studie-demokratie-thueringen-rechtsextremismus",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-04/studie-demokratie-thueringen-rechtsextremismus-bild/super__620x413"
     },
     {
       "title": "Kriminalpodcast : Eine Rose für den Attentäter",
@@ -562,22 +527,22 @@
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-04/historische-boerse-altstadt-kopenhagen-brennt-bild/super__620x413"
     },
     {
+      "title": "Netzausbau : Bundesnetzagentur kritisiert Stadt Oranienburg wegen Stromengpässen",
+      "teaser": "In Oranienburg können neue Gebäude nicht mehr ans Stromnetz angeschlossen werden. Die Bundesnetzagentur spricht von einer \"Fehleinschätzung bei der Planung\".",
+      "url": "https://www.zeit.de/wirtschaft/2024-04/oranienburg-bundesnetzagentur-stromengpaesse",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-04/oranienburg-bundesnetzagentur-stromengpaesse-bild/wide__822x462"
+    },
+    {
+      "title": "Konjunktur : IWF senkt Wachstumsprognose für Deutschland erneut ab",
+      "teaser": "Für die Weltwirtschaft gibt der Internationale Währungsfonds weitgehend Entwarnung – sie soll deutlich wachsen. Doch für Deutschland sanken die Erwartungen erneut ab.",
+      "url": "https://www.zeit.de/wirtschaft/2024-04/iwf-senkt-wachstumsprognose-fuer-deutschland-erneut-ab",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-04/iwf-senkt-wachstumsprognose-fuer-deutschland-erneut-ab-bild/super__620x413"
+    },
+    {
       "title": "Elektromobilität : Tesla will in Grünheide wohl weniger als 3.000 Stellen streichen",
       "teaser": "Elon Musk will jede zehnte Stelle bei Tesla streichen. Auch in Brandenburg werde ein Abbau geprüft – Berichte über 3.000 betroffene Jobs entbehrten aber jeder Grundlage.",
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-04/tesla-gigafactory-gruenheide-stellenabbau-elon-musk",
-      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-04/tesla-gigafactory-gruenheide-stellenabbau-elon-musk-bild/wide__822x462"
-    },
-    {
-      "title": "Künstliche Intelligenz : IW-Studie sieht in KI großes Potenzial für Deutschlands Industrie",
-      "teaser": "Das verarbeitende Gewerbe könnte laut einer Studie durch künstliche Intelligenz Milliardensummen generieren. Zwei Bereiche seien besonders von Veränderung betroffen.",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-04/generative-kuenstliche-intelligenz-verarbeitendes-gewerbe-milliardensumme-google-studie",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-04/iw-studie-kuenstliche-intelligenz-bild/super__620x413"
-    },
-    {
-      "title": "Elektromobilität : Tesla streicht laut Berichten Tausende Jobs – auch in Deutschland",
-      "teaser": "Nach Jahren des Wachstums stagniert derzeit der Elektroautomarkt. Elon Musk will Berichten zufolge beim Personal sparen. Auch der deutsche Standort soll betroffen sein.",
-      "url": "https://www.zeit.de/wirtschaft/2024-04/tesla-streicht-weltweit-jobs",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-04/tesla-weltweit-jobs-abbau/super__620x413"
+      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-04/tesla-gigafactory-gruenheide-stellenabbau-elon-musk-bild/super__620x413"
     },
     {
       "title": "Bundesbank-Bericht : Wie ungleich Vermögen in Deutschland verteilt ist",
@@ -612,16 +577,16 @@
       "image_url": "https://img.zeit.de/zett/2024-04/enthaltsamkeit-junge-menschen-sex-bild/super__620x413"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); \"Knife\" : Die Intimität des Mordens",
-      "teaser": "Salman Rushdies neues Buch \"Knife\" ist weit mehr als eine eindrückliche Schilderung des brutalen Attentats auf ihn. Es gipfelt in einem fiktiven Dialog mit dem Täter.",
-      "url": "https://www.zeit.de/2024/17/knife-salman-rushdies-attentat-islamistischer-taeter",
-      "image_url": "https://img.zeit.de/2024/17/die-intimitaet-des-mordens-bild-1/wide__822x462"
+      "title": "Z+ (abopflichtiger Inhalt); \"Pudels Kern\" von Rocko Schamoni : Hier schwappt nicht nur das Bier",
+      "teaser": "Der Musiker, Autor und einstige Dorfpunk Rocko Schamoni erzählt in seinem neuen Buch \"Pudels Kern\" von seiner Jugend. Es ist eine als Roman titulierte Anekdotensammlung.",
+      "url": "https://www.zeit.de/2024/16/pudels-kern-rocko-schamoni-jugend-erinnerungen-roman",
+      "image_url": "https://img.zeit.de/2024/16/hier-schwappt-nicht-nur-das-bier-bild-1/wide__822x462"
     },
     {
-      "title": "Venedig : Israelischer Pavillon auf der Biennale bleibt vorerst geschlossen",
-      "teaser": "Die Situation in Gaza sei \"so viel größer als ich\", sagt Ruth Patir, die Israel auf der Biennale repräsentiert. Ihr Pavillon soll erst im Fall einer Waffenruhe öffnen.",
-      "url": "https://www.zeit.de/kultur/kunst/2024-04/biennale-venedig-israel-pavillon-schliessung-ruth-patir",
-      "image_url": "https://img.zeit.de/kultur/2024-04/biennale-venedig-israel-pavillon-schliessung-ruth-patir-bild/super__620x413"
+      "title": "\"Mensch Merz\" : Nicht bunt, nicht divers, kein Hauch von Patchwork",
+      "teaser": "Eine Dokumentation im ZDF porträtiert den CDU-Chef und seinen Versuch, Kanzlerkandidat zu werden. In den Nebenrollen: Charlotte Merz, Luisa Neubauer und Renate Künast",
+      "url": "https://www.zeit.de/kultur/film/2024-04/friedrich-merz-mensch-merz-zdf-doku-cdu-kanzleramt",
+      "image_url": "https://img.zeit.de/kultur/2024-04/zdf-dokumentation-friedrich-merz-bild/super__620x413"
     },
     {
       "title": "Verlagsangebot : Englischquiz – wie gut ist Ihr Business Englisch?",
@@ -630,10 +595,10 @@
       "image_url": "https://img.zeit.de/administratives/2024-01/freunde-der-zeit-quiz-teaser/super__620x413"
     },
     {
-      "title": "Meinungsfreiheit : Bundesverfassungsgericht gibt Beschwerde von Julian Reichelt statt",
-      "teaser": "Ein Gericht hatte Julian Reichelt eine Äußerung über die Bundesregierung untersagt. Reichelt sah seine Grundrechte verletzt, die Verfassungsrichter geben ihm recht.",
-      "url": "https://www.zeit.de/kultur/2024-04/bundesverfassungsgericht-meinungsfreiheit-julian-reichelt-bundesregierung",
-      "image_url": "https://img.zeit.de/kultur/2024-04/bundesverfassungsgericht-meinungsfreiheit-julian-reichelt-bundesregierung-bild-2/super__620x413"
+      "title": "Z+ (abopflichtiger Inhalt); \"Knife\" : Die Intimität des Mordens",
+      "teaser": "Salman Rushdies neues Buch \"Knife\" ist weit mehr als eine eindrückliche Schilderung des brutalen Attentats auf ihn. Es gipfelt in einem fiktiven Dialog mit dem Täter.",
+      "url": "https://www.zeit.de/2024/17/knife-salman-rushdies-attentat-islamistischer-taeter",
+      "image_url": "https://img.zeit.de/2024/17/die-intimitaet-des-mordens-bild-1/super__620x413"
     },
     {
       "title": "Israels Armeechef : \"Der Iran wird die Konsequenzen für sein Handeln tragen\"",
@@ -726,22 +691,22 @@
       "image_url": "https://img.zeit.de/administratives/2015-10/zeit-shop-bilder/farbtrends-flowerpot/super__320x213"
     },
     {
+      "title": "Corona : Lauterbach will Versorgung von Long-Covid-Betroffenen verbessern",
+      "teaser": "\"Das Problem ist ungelöst\": Laut Bundesgesundheitsminister gibt es für viele Formen von Long Covid noch immer keine Heilung. Ihre Versorgung aber sei an einem Wendepunkt.",
+      "url": "https://www.zeit.de/gesundheit/2024-04/lauterbach-karl-long-covid-corona-runder-tisch-versorgung",
+      "image_url": "https://img.zeit.de/gesundheit/2024-04/lauterbach-karl-long-covid-corona-runder-tisch-versorgung-bild/wide__822x462"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Psychotherapie : So finden Sie einen Therapieplatz",
       "teaser": "Der Weg zum Therapeuten ist kompliziert, aber viele Wege führen zum Ziel. Unsere Grafik zeigt, wie Sie möglichst schnell professionelle Hilfe bekommen.",
       "url": "https://www.zeit.de/gesundheit/2024-04/therapieplatz-finden-psychotherapie-psychische-erkrankungen-kosten-tipps",
-      "image_url": "https://img.zeit.de/gesundheit/2024-04/therapieplatz-finden-psychotherapie-psychische-erkrankungen-teaser/wide__822x462"
+      "image_url": "https://img.zeit.de/gesundheit/2024-04/therapieplatz-finden-psychotherapie-psychische-erkrankungen-teaser/super__620x413"
     },
     {
       "title": "Gesundheitswesen : Wie lange warten Sie auf einen Termin beim Hausarzt?",
       "teaser": "Karl Lauterbach warnt vor einem gravierenden Mangel bei der hausärztlichen Versorgung. Wie ist die Situation bei Ihnen? Und machen Sie sich Sorgen? Schreiben Sie uns!",
       "url": "https://www.zeit.de/gesundheit/2024-04/gesundheitswesen-hausarzt-termine-mangel",
       "image_url": "https://img.zeit.de/gesundheit/2024-04/gesundheitswesen-hausarzt-termine-mangel-bild/super__620x413"
-    },
-    {
-      "title": "Gesundheitsversorgung : Geplante Gesundheitskioske kommen laut Bericht nicht wie geplant",
-      "teaser": "Gesundheitskioske sollten den Zugang zur Gesundheitsversorgung verbessern. Das Gesundheitsministerium könnte das Vorhaben laut einem Bericht nun auf Eis legen.",
-      "url": "https://www.zeit.de/gesundheit/2024-04/gesundheitskioske-gesundheitsversorgung-karl-lauterbach",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-04/lauterbach-bild/super__620x413"
     },
     {
       "title": "Kurzbotschaftendienst : Elon Musk will neue X-Nutzer nur gegen Gebühr posten lassen",
@@ -786,29 +751,29 @@
       "image_url": "https://img.zeit.de/zeit-magazin/2024-04/harald-martenstein-journalismus-geschichte-bild/super__620x413__F6AD94"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Sexuelle Übergriffe beim Yoga : \"Ich glaube, ich war stolz darauf, seine Auserwählte zu sein\"",
+      "teaser": "Für viele bedeutet Yoga Ausgleich, Entspannung, Fallenlassen. Doch es gibt auch Fälle von Missbrauch. Viele erkennen erst mit Abstand die Gewalt. Drei Frauen erzählen.",
+      "url": "https://www.zeit.de/campus/2024/03/sexuelle-uebergriffe-yoga-missbrauch-betroffene",
+      "image_url": "https://img.zeit.de/campus/2024/03/n-a-m-a-s-t-bild-3/wide__822x462"
+    },
+    {
+      "title": "Verlagsangebot : Nicht nur irgendwas studieren",
+      "teaser": "Studieren! Aber was? Der Studiuminteressentest unterstützt Unschlüssige bei ihrer Suche nach dem passenden Studium, basierend auf den eigenen Interessen.",
+      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.textbild.schwarzer-hut_nichtnurirgendwas.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=sit_textbild_schwarzer-hut_nichtnurirgendwas_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-2-klein/brooke-cagle-tlg2hcpitze-unsplash-197.jpg",
+      "image_title": "Nicht nur irgendwas studieren"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Soffie : \"Das Politische floss beim Schreiben irgendwie aus mir heraus\"",
       "teaser": "Ihr Song \"Für immer Frühling\" gehörte für viele zum Protest gegen den Rechtsruck. Er machte Soffie zum Indie-Newcomer. Ein Gespräch über die AfD, TikTok und ihre Pläne",
       "url": "https://www.zeit.de/campus/2024/03/soffie-saengerin-fuer-immer-fruehling-tiktok-afd",
-      "image_url": "https://img.zeit.de/campus/2024/03/wir-sollten-alle-mehr-traeumen-bild-1/wide__822x462"
+      "image_url": "https://img.zeit.de/campus/2024/03/wir-sollten-alle-mehr-traeumen-bild-1/super__620x413"
     },
     {
-      "title": "Verlagsangebot : Was kann man wo studieren?",
-      "teaser": "Deutschlands größte Suchmaschine für Studiengänge und Hochschulen bietet Orientierung und hilft bei der Studienwahl.",
-      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.automation.bleistift-biss.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=verlagsteaser&amp;utm_content=suma_automation_bleistift-biss_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/suma-teaser-januar2019/wide__430x286__desktop",
-      "image_title": "Was kann man wo studieren?"
-    },
-    {
-      "title": "Generation Z : Paul von Preußen, was will die Gen Z denn nun?",
-      "teaser": "Die Gen Z triggert die Boomer-Generation. Wie der Urururenkel des letzten Deutschen Kaisers versucht, die Generationen zu versöhnen – und daraus ein Geschäft gemacht hat.",
-      "url": "https://www.zeit.de/arbeit/2024-04/generation-z-versoehnung-uni-podcast",
-      "image_url": "https://img.zeit.de/arbeit/2024-04/generation-z-versoehnung-uni-podcast-2/super__620x413"
-    },
-    {
-      "title": "Studium : Studierendenwerk fordert mehr staatliche Unterstützung",
-      "teaser": "Weil die Preise für Wohnen, Essen und Energie gestiegen sind, ist es auch teurer zu studieren. Um ein Studium allen zu ermöglichen, will das Studierendenwerk mehr Geld.",
-      "url": "https://www.zeit.de/campus/2024-04/studierendenwerk-studium-finanzierung-hochschule-geld",
-      "image_url": "https://img.zeit.de/campus/2024-04/studierendenwerk-studium-finanzierung-hochschule-geld-bild-2/super__620x413"
+      "title": "Z+ (abopflichtiger Inhalt); Jugendkriminalität : 13-Jährige, die Heroin spritzen, Millionärssöhne mit Strafregister",
+      "teaser": "Der Sozialarbeiter Martin von Necker kennt die Storys hinter der Kriminalstatistik – und weiß, was wirklich gegen Jugendkriminalität hilft.",
+      "url": "https://www.zeit.de/campus/2024-04/jugendkriminalitaet-jugendtreff-jugendliche-straftat-streetwork",
+      "image_url": "https://img.zeit.de/campus/2024-04/jugendkriminalitaet-jugendtreff-jugendliche6/super__620x413"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Maskottchen : \"Sobald ich die Augen befestigt habe, verliebe ich mich\"",
@@ -829,16 +794,16 @@
       "image_url": "https://img.zeit.de/angebote/Links/bilder-zeit-reisen/bilder-2023/nordspanien-c-mimadeo-istock-467204776-erweiterte-lizenz-207-aufmacher-1160x656/super__620x413"
     },
     {
+      "title": "\"DiscoverEU\" : EU-Kommission schickt junge Menschen erneut mit dem Zug durch Europa",
+      "teaser": "Die EU-Kommission verlost erneut Zugtickets an junge Menschen. Um die mehr als 35.000 Fahrkarten können sich auch Teilnehmer aus einigen Nicht-EU-Ländern bewerben.",
+      "url": "https://www.zeit.de/politik/ausland/2024-04/eu-kommission-discovereu-reisen-tickets",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-04/eu-kommission-discovereu-reisen-tickets-bild-2/wide__822x462"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Citymaut : Fahren bald nur noch Reiche durch Manhattan?",
       "teaser": "15 US-Dollar für eine Fahrt durch Big Apple: Die geplante Citymaut für die Innenstadt empört New Yorker und Pendler. Manche sehen sogar die Broadway-Theater in Gefahr.",
       "url": "https://www.zeit.de/mobilitaet/2024-04/city-maut-new-york-autofahrer-oepnv-pendler",
-      "image_url": "https://img.zeit.de/mobilitaet/2024-04/city-maut-new-york-autofahrer/wide__822x462"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Rose Bikes : \"Das Gravelbike ist eine Einstiegsdroge\"",
-      "teaser": "Der Radanbieter Rose baut seinen Erfolg auf geländegängigen Rennrädern, sagt Geschäftsführer Heckrath-Rose. Und die seien nicht mehr nur bei mittelalten Männern gefragt.",
-      "url": "https://www.zeit.de/mobilitaet/2024-04/rose-bikes-fahrraeder-rennraeder-gravelbike",
-      "image_url": "https://img.zeit.de/mobilitaet/2024-04/rose-bikes-fahrraeder-gravelbike/super__620x413"
+      "image_url": "https://img.zeit.de/mobilitaet/2024-04/city-maut-new-york-autofahrer/super__620x413"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Hells-Angels-Prozess : \"Blutrache ist bei uns Gesetz\"",
@@ -883,36 +848,36 @@
       "image_url": "https://img.zeit.de/newsletter/beziehungsweise/beziehungsweise-titelbild/super__620x413"
     },
     {
-      "title": "Gesundheit: Bund und Länder beraten wieder über Krankenhausreform",
-      "url": "https://www.zeit.de/news/2024-04/17/bund-und-laender-beraten-wieder-ueber-krankenhausreform"
+      "title": "Literatur: «Frottee-Zwerge»: Verlag löst Empörung mit DDR-Foto aus",
+      "url": "https://www.zeit.de/news/2024-04/17/frottee-zwerge-verlag-loest-empoerung-mit-ddr-foto-aus"
     },
     {
-      "title": "Dänemark: Ermittlungen nach Brand in Kopenhagens historischer Börse",
-      "url": "https://www.zeit.de/news/2024-04/17/ermittlungen-nach-brand-in-kopenhagens-historischer-boerse"
+      "title": "Verkehr: Wie geht es weiter mit dem Deutschlandticket?",
+      "url": "https://www.zeit.de/news/2024-04/17/wie-geht-es-weiter-mit-dem-deutschlandticket"
     },
     {
-      "title": "Krieg in Nahost: USA und EU kündigen Sanktionen gegen Iran an",
-      "url": "https://www.zeit.de/news/2024-04/17/usa-und-eu-kuendigen-sanktionen-gegen-iran-an"
+      "title": "Extremismus: Meldungen antisemitischer Hetze: Zahl sprunghaft gestiegen",
+      "url": "https://www.zeit.de/news/2024-04/17/meldungen-antisemitischer-hetze-zahl-sprunghaft-gestiegen"
     },
     {
-      "title": "Luftverkehr: US-Senat nimmt Sicherheitsprobleme bei Boeing in den Fokus",
-      "url": "https://www.zeit.de/news/2024-04/17/us-senat-nimmt-sicherheitsprobleme-bei-boeing-in-den-fokus"
+      "title": "Bahnverkehr: Tjarks: Entgegenkommen von Bund und Ländern bei Schienausbau",
+      "url": "https://www.zeit.de/news/2024-04/17/tjarks-entgegenkommen-von-bund-und-laendern-bei-schienausbau"
     },
     {
-      "title": "Gaza-Krieg: Auch US-Regierung kündigt neue Sanktionen gegen den Iran an",
-      "url": "https://www.zeit.de/news/2024-04/17/us-regierung-kuendigt-neue-sanktionen-gegen-den-iran-an"
+      "title": "Bahn: Mehr Verspätungen im Regionalbahnverkehr",
+      "url": "https://www.zeit.de/news/2024-04/17/mehr-verspaetungen-im-regionalbahnverkehr"
     },
     {
-      "title": "Religion: Zentralrat der Muslime empört über CDU-Grundsatzprogramm",
-      "url": "https://www.zeit.de/news/2024-04/17/zentralrat-der-muslime-empoert-ueber-cdu-grundsatzprogramm"
+      "title": "Aktionstag: Polizei will gegen Straftaten im öffentlichen Raum vorgehen",
+      "url": "https://www.zeit.de/news/2024-04/17/polizei-will-gegen-straftaten-im-oeffentlichen-raum-vorgehen"
     },
     {
-      "title": "Fotografie: Bilder des Tages",
-      "url": "https://www.zeit.de/news/2024-04/17/bilder-des-tages"
+      "title": "Landkreis Schwäbisch Hall: 29-Jährige stirbt bei Lkw-Unfall am Stauende auf A7",
+      "url": "https://www.zeit.de/news/2024-04/17/29-jaehrige-stirbt-bei-lkw-unfall-am-stauende-auf-a7"
     },
     {
-      "title": "Champions League: PSG-Comeback in Überzahl: 4:1-Sieg in Barcelona",
-      "url": "https://www.zeit.de/news/2024-04/16/psg-comeback-in-ueberzahl-4-1-sieg-in-barcelona"
+      "title": "Russische Invasion: Krieg gegen die Ukraine: So ist die Lage",
+      "url": "https://www.zeit.de/news/2024-04/17/krieg-gegen-die-ukraine-so-ist-die-lage"
     }
   ]
 }
