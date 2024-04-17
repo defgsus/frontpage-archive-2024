@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-17T13:02:37",
+  "timestamp": "2024-04-17T14:01:04",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Palo Alto Networks PAN-OS",
+      "url": "https://www.heise.de/news/Palo-Alto-Firewalls-Mehr-Angriffe-und-Proofs-of-Concept-aufgetaucht-9688195.html"
+    },
+    {
       "title": "Oracle Critical Patch Update",
       "url": "https://www.heise.de/news/Oracle-Critical-Patch-Update-bringt-441-Sicherheitskorrekturen-9687914.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Kritische-Luecken-in-Ivanti-Avalanche-MDM-gefaehrden-Mobilgeraete-in-Firmen-9687545.html"
     },
     {
-      "title": "Chrome, Firefox, Thunderbird",
-      "url": "https://www.heise.de/news/Webbrowser-Chrome-und-Firefox-dichten-zahlreiche-Sicherheitslecks-ab-9687372.html"
+      "title": "Palo-Alto-Firewalls: Mehr Angriffe und Proofs-of-Concept aufgetaucht",
+      "teaser": "Für die root-Zugriffslücke in Firewalls von Palo Alto Networks sind Proof-of-Concept-Exploits aufgetaucht. Angriffe nehmen zu.",
+      "url": "https://www.heise.de/news/Palo-Alto-Firewalls-Mehr-Angriffe-und-Proofs-of-Concept-aufgetaucht-9688195.html",
+      "image_title": "Stilisierte Grafik: Brennende Appliances im Netz"
     },
     {
       "title": "Oracle: Critical Patch Update bringt 441 Sicherheitskorrekturen",
@@ -157,12 +163,6 @@
       "teaser": "Die VMware-Konkurrenten Citrix Xenserver und Hypervisor haben Schwachstellen, die Angreifern die Übernahme der Systeme erlauben.",
       "url": "https://www.heise.de/news/Citrix-Updates-schliessen-Sicherheitsluecken-in-Xenserver-und-Hypervisor-9684797.html",
       "image_title": "Stilisiertes Bild: Software-Update auf Laptop"
-    },
-    {
-      "title": "Deepfake-Anruf: Lastpass-Mitarbeiter fällt fast auf Fake-CEO rein",
-      "teaser": "Der Anbieter des Passwortmanagers Lastpass gibt Einblick in einen Sicherheitsvorfall, der schlimme Folgen hätte haben können.",
-      "url": "https://www.heise.de/news/Deepfake-Anruf-Lastpass-Mitarbeiter-faellt-fast-auf-Fake-CEO-rein-9684594.html",
-      "image_title": "Deepfake-Schriftzug vor Handy in Menschenhand"
     },
     {
       "title": "heise security tour 2024",
