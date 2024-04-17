@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-17T09:00:54",
+  "timestamp": "2024-04-17T10:01:37",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "PuTTY",
+      "url": "https://www.heise.de/news/Nur-NIST-P-521-betroffen-PuTTY-Luecke-kompromittiert-private-SSH-Schluessel-9687539.html"
+    },
+    {
+      "title": "Ivanti Avalanche MDM",
+      "url": "https://www.heise.de/news/Kritische-Luecken-in-Ivanti-Avalanche-MDM-gefaehrden-Mobilgeraete-in-Firmen-9687545.html"
+    },
+    {
       "title": "Chrome, Firefox, Thunderbird",
       "url": "https://www.heise.de/news/Webbrowser-Chrome-und-Firefox-dichten-zahlreiche-Sicherheitslecks-ab-9687372.html"
     },
@@ -40,12 +48,16 @@
       "url": "https://www.heise.de/news/IBM-QRadar-SIEM-Kritische-Luecke-durch-Drittherstellerkomponente-9686740.html"
     },
     {
-      "title": "Lenovo Server-Enclosures und PCs",
-      "url": "https://www.heise.de/news/Lenovo-Sicherheitsluecken-in-Server-Enclosure-Firmware-9686547.html"
+      "title": "Nur NIST P-521 betroffen: PuTTY-Lücke kompromittiert private SSH-Schlüssel",
+      "teaser": "Bereits seit sieben Jahren schlummert die Lücke im freien Terminalclient PuTTY. Angreifer müssen jedoch einige Hürden nehmen, um SSH-Schlüssel zu klauen.",
+      "url": "https://www.heise.de/news/Nur-NIST-P-521-betroffen-PuTTY-Luecke-kompromittiert-private-SSH-Schluessel-9687539.html",
+      "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
     },
     {
-      "title": "Delinea Secret Server",
-      "url": "https://www.heise.de/news/Zugriffsmanagement-Kritische-Admin-Luecke-in-Delinea-Secret-Server-geschlossen-9686457.html"
+      "title": "Kritische Lücken in Ivanti Avalanche MDM gefährden Mobilgeräte in Firmen",
+      "teaser": "Ivantis Mobile-Device-Management-Lösung Avalanche ist verwundbar. Eine abgesicherte Version steht zum Download bereit.",
+      "url": "https://www.heise.de/news/Kritische-Luecken-in-Ivanti-Avalanche-MDM-gefaehrden-Mobilgeraete-in-Firmen-9687545.html",
+      "image_title": "Ein Bildschirm, auf dem der Schriftzug Update erscheint."
     },
     {
       "title": "Webbrowser: Sicherheitsupdates für Chrome und Firefox",
@@ -60,7 +72,7 @@
       "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
     },
     {
-      "title": "Kommentar: Microsofts Sicherheitspraxis wird zur Gefahr – und das BSI schweigt",
+      "title": "Kommentar: Die gefährliche Beißhemmung des BSI gegenüber Microsoft",
       "teaser": "Nach den Vorfällen bei Microsoft greifen die US-Behörden durch. Das passive BSI sollte sich ein Beispiel an den US-Kollegen nehmen, meint Jürgen Schmidt.",
       "url": "https://www.heise.de/meinung/Kommentar-Microsofts-Sicherheitspraxis-wird-zur-Gefahr-und-das-BSI-schweigt-9686629.html",
       "image_title": "Windows-Logo mit Rissen, darüber das Wort \"Kommentar\""
@@ -151,30 +163,18 @@
       "url": "https://www.heise.de/news/Zweiter-Vorfall-bei-Roku-Fast-600-000-Nutzerkonten-betroffen-9684445.html"
     },
     {
-      "title": "Ransomware bei Kinderwunsch-Zentrum, Cyberangriff auf französische Gemeinden",
-      "teaser": "In einem Kinderwunschzentrum in Bielefeld hat es einen Ransomware-Vorfall gegeben, in Frankreich wurden die Server von fünf Gemeinden lahmgelegt.",
-      "url": "https://www.heise.de/news/Ransomware-bei-Kinderwunsch-Zentrum-Cyberangriff-auf-franzoesischen-Gemeinden-9682909.html",
-      "image_title": "Hand hält Baby-Füße"
-    },
-    {
-      "title": "BKA schaltet kriminellen Online-Marktplatz ab",
-      "teaser": "Am Dienstag hat das BKA einen Online-Marktplatz abgeschaltet, auf dem Dienste zur Umgehung von Virenschutz angeboten wurden.",
-      "url": "https://www.heise.de/news/BKA-schaltet-kriminellen-Online-Marktplatz-ab-9683283.html",
-      "image_title": "Einsatzbereite Handschellen"
-    },
-    {
       "title": "heise security tour 2024",
       "teaser": "Wissen schützt! Die Eintages-Konferenz hilft Security-Verantwortlichen dabei, ihre IT sicher zu halten. Die Hands-on-Workshops am Vortag bieten vertieftes Praxiswissen.",
       "url": "https://security-tour.heise.de/?wt_mc=intern.academy.security.konf_sectour.hs_teaser.teaser.teaser"
     },
     {
-      "title": "Kommentar: Microsofts Sicherheitspraxis wird zur Gefahr – und das BSI schweigt",
+      "title": "Kommentar: Die gefährliche Beißhemmung des BSI gegenüber Microsoft",
       "teaser": "Nach den Vorfällen bei Microsoft greifen die US-Behörden durch. Das passive BSI sollte sich ein Beispiel an den US-Kollegen nehmen, meint Jürgen Schmidt.",
       "url": "https://www.heise.de/meinung/Kommentar-Microsofts-Sicherheitspraxis-wird-zur-Gefahr-und-das-BSI-schweigt-9686629.html",
       "image_title": "Windows-Logo mit Rissen, darüber das Wort \"Kommentar\""
     },
     {
-      "title": "Kommentar: Microsofts Sicherheitspraxis wird zur Gefahr – und das BSI schweigt",
+      "title": "Kommentar: Die gefährliche Beißhemmung des BSI gegenüber Microsoft",
       "teaser": "Nach den Vorfällen bei Microsoft greifen die US-Behörden durch. Das passive BSI sollte sich ein Beispiel an den US-Kollegen nehmen, meint Jürgen Schmidt.",
       "url": "https://www.heise.de/meinung/Kommentar-Microsofts-Sicherheitspraxis-wird-zur-Gefahr-und-das-BSI-schweigt-9686629.html",
       "image_title": "Windows-Logo mit Rissen, darüber das Wort \"Kommentar\""
