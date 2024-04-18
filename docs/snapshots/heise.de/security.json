@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-18T07:01:02",
+  "timestamp": "2024-04-18T08:08:30",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Solarwinds Serv-U",
+      "url": "https://www.heise.de/news/Update-fuer-Solarwinds-FTP-Server-Serv-U-schliesst-Luecke-mit-hohem-Risiko-9689092.html"
+    },
+    {
+      "title": "Cisco",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Root-Attacken-auf-Cisco-IMC-koennen-bevorstehen-9689086.html"
+    },
+    {
       "title": "Palo Alto Networks PAN-OS",
       "url": "https://www.heise.de/news/Palo-Alto-Firewalls-Mehr-Angriffe-und-Proofs-of-Concept-aufgetaucht-9688195.html"
     },
@@ -40,18 +48,15 @@
       "url": "https://www.heise.de/news/Oracle-Critical-Patch-Update-bringt-441-Sicherheitskorrekturen-9687914.html"
     },
     {
-      "title": "PuTTY",
-      "url": "https://www.heise.de/news/Nur-NIST-P-521-betroffen-PuTTY-Luecke-kompromittiert-private-SSH-Schluessel-9687539.html"
+      "title": "Update für Solarwinds FTP-Server Serv-U schließt Lücke mit hohem Risiko",
+      "teaser": "Im Solarwinds Serv-U-FTP-Server klafft eine als hohes Risiko eingestufte Sicherheitslücke. Der Hersteller dichtet sie mit einem Update ab.",
+      "url": "https://www.heise.de/news/Update-fuer-Solarwinds-FTP-Server-Serv-U-schliesst-Luecke-mit-hohem-Risiko-9689092.html",
+      "image_title": "Ein Laptop mit einem Schutzschild auf dem Bildschirm"
     },
     {
-      "title": "Ivanti Avalanche MDM",
-      "url": "https://www.heise.de/news/Kritische-Luecken-in-Ivanti-Avalanche-MDM-gefaehrden-Mobilgeraete-in-Firmen-9687545.html"
-    },
-    {
-      "title": "Kapeka: Neuartige Malware aus Russland?",
-      "teaser": "Berichte über eine neuartige \"Kapeka\"-Malware tauchen allerorten auf. Die ist jedoch gar nicht neu und seit fast einem Jahr nicht mehr aktiv.",
-      "url": "https://www.heise.de/news/Kapeka-Neuartige-Malware-aus-Russland-9688970.html",
-      "image_title": "Stilisiertes Bild: Viren fliegen um einen Laptop"
+      "title": "Jetzt patchen! Root-Attacken auf Cisco IMC können bevorstehen",
+      "teaser": "Es sind wichtige Sicherheitsupdates für Cisco Integrated Management Controller und IOS erschienen. Exploitcode ist in Umlauf.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Root-Attacken-auf-Cisco-IMC-koennen-bevorstehen-9689086.html"
     },
     {
       "title": "Dubiose Werbung zu unnützen eIDAS-Zertifikaten",
@@ -119,6 +124,12 @@
       "image_title": "Mädchenhände an beleuchteter Laptoptastatur"
     },
     {
+      "title": "Interview mit einem Hacker: Viel Intuition beim Finden von Sicherheitslücken",
+      "teaser": "Manfred Paul hat den Wettbewerb Pwn2Own in Vancouver gewonnen. Gegenüber heise online gibt er Einblick in seine Arbeitsweise.",
+      "url": "https://www.heise.de/hintergrund/Interview-mit-einem-Hacker-Viel-Intuition-beim-Finden-von-Sicherheitsluecken-9686614.html",
+      "image_title": "Icons der Internetbrowser Safari, Chrome, Edge und Firefox"
+    },
+    {
       "title": "IBM QRadar SIEM: Kritische Lücke durch Drittherstellerkomponente",
       "teaser": "IBM QRadar SIEM bringt einige Dritthersteller-Module mit. In diesen klaffen teils kritische Lücken. Updates stehen bereit.",
       "url": "https://www.heise.de/news/IBM-QRadar-SIEM-Kritische-Luecke-durch-Drittherstellerkomponente-9686740.html",
@@ -152,17 +163,6 @@
       "teaser": "Wer Lancom-Router mit dem Windows-Setup-Assistenten konfiguriert, läuft Gefahr, das Root-Passwort durch ein leeres zu ersetzen.",
       "url": "https://www.heise.de/news/Lancom-Setup-Assistent-leert-Root-Passwort-9682694.html",
       "image_title": "Stilisiertes Bild: Ein Stapel brennender Appliances"
-    },
-    {
-      "title": "Ethical Hacking für Admins – werde Pentester in unserer Webinar-Serie",
-      "teaser": "In fünf Webinaren, vom 24. April bis 19. Juni, lernen Interessierte das Handwerk des Penetration Testers. Damit sind Sie Angreifern immer einen Schritt voraus.",
-      "url": "https://www.heise.de/news/Ethical-Hacking-fuer-Admins-werde-Pentester-in-unserer-Webinar-Serie-9682366.html"
-    },
-    {
-      "title": "Google Titan-Sicherheitsschlüssel: Keine Passkey-Verwaltung",
-      "teaser": "Googles Titan-Sicherheitsschlüssel speichern sehr viele Passkeys. Verwalten kann man die jedoch nicht: Wer den Speicher aufräumen will, muss alles löschen.",
-      "url": "https://www.heise.de/news/Google-Titan-Sicherheitsschluessel-Keine-Passkey-Verwaltung-9684858.html",
-      "image_title": "Foto eines Google Titan-Sicherheitsschlüssels"
     },
     {
       "title": "heise security tour 2024",
