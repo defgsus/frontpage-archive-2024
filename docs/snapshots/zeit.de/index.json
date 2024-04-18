@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-18T03:02:15",
+  "timestamp": "2024-04-18T04:00:40",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -8,6 +8,12 @@
     {
       "type": null,
       "src": "https://static.zeit.de/p/zeit.web/js/colorscheme.127e25a5ec589a0dbdff.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -86,10 +92,10 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-04/eu-gipfel-olaf-scholz-iran-sanktionen/wide__1000x562"
     },
     {
-      "title": "Nahost : EU-Staaten rufen Iran und Israel zu Deeskalation auf",
-      "teaser": "Die EU-Staats- und Regierungschefs mahnen Israel nach den Angriffen des Iran zur Zurückhaltung. Zugleich einigen sich die Länder auf eine Ausweitung der Iran-Sanktionen.",
-      "url": "https://www.zeit.de/politik/ausland/2024-04/eu-gipfel-iran-israel-aufruf-sanktionen",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-04/eu-gipfel-iran-israel-deeskalation-sanktionen-bild/super__620x413"
+      "title": "Nahostüberblick : EU und UN mahnen Israel zur Mäßigung, Katar überdenkt Vermittlerrolle",
+      "teaser": "Katar sieht seine Vermittlerrolle im Gaza-Krieg missbraucht, Jordanien warnt vor einer \"regionalen Explosion\". Appelle kommen auch von UN und EU. Die Nacht",
+      "url": "https://www.zeit.de/politik/ausland/2024-04/nahost-ueberblick",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-04/nahost-ueberblick-explosion-nuseirat/super__620x413"
     },
     {
       "title": "Liveblog:Krieg in Israel und Gaza : UNRWA-Chef wirft Israel \"heimtückische Kampagne\" vor",
@@ -98,34 +104,22 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-04/un-sicherheitsrat-lazzarini/super__620x413"
     },
     {
+      "title": "Ukraine-Hilfen : EU sichert Ukraine weitere Unterstützung zu",
+      "teaser": "Die EU-Staaten haben der Ukraine weitere Militärhilfen zugesagt. Eine Entscheidung für mehr Luftverteidigungssysteme erwartet Ratspräsident Charles Michel in Kürze.",
+      "url": "https://www.zeit.de/politik/ausland/2024-04/eu-gipfel-ukraine-luftabwehr-patriot",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-04/ukraine-flugabwehr/super__620x413"
+    },
+    {
       "title": "Champions League : Bayern München steht im Halbfinale",
       "teaser": "Nach dem Halbfinaleinzug von Borussia Dortmund schaffen es auch die Bayern. Real Madrid setzt sich gegen Manchester City im Elfmeterschießen durch.",
       "url": "https://www.zeit.de/sport/2024-04/champions-league-bayern-muenchen-arsenal-manchester-city-real-madrid",
       "image_url": "https://img.zeit.de/sport/2024-04/kimmich-jubelt-2/super__620x413"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Fremdgehen : \"Mein Ehemann hat keine anderen weiblichen Freundinnen mehr\"",
-      "teaser": "Schreiben mit anderen Leuten? Fremdknutschen? Fünf Menschen erzählen, wo in ihren Beziehungen Betrug beginnt. Und was sie ihren Partner:innen erlauben.",
-      "url": "https://www.zeit.de/zett/liebe-sex/2024-04/fremdgehen-untreue-beziehung-betruegen",
-      "image_url": "https://img.zeit.de/2024-04/fremdgehen-untreue-beziehung-betruegen-bild/wide__822x462"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Sexueller Kindesmissbrauch : Die zweite Chance, die ihnen niemand geben will",
-      "teaser": "Kaum ein Straftäter wird so verachtet wie jemand, der Kinder missbraucht hat. Markus Gerber ist einer von ihnen. Seine Strafe hat er verbüßt. Darf er neu anfangen?",
-      "url": "https://www.zeit.de/gesellschaft/2024-04/sexueller-kindesmissbrauch-straftaeter-resozialisierung-therapie",
-      "image_url": "https://img.zeit.de/wissen/2024-04/sexueller-kindesmissbrauch-straftaeter-resozialisierung-therapie/super__620x413"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Schlechte Chefs • Das Beste aus Z+ : Die sieben Arten der Manipulation",
-      "teaser": "Flache Hierarchien? Aufpassen. Schlechte Vorgesetzte beeinflussen ihre Mitarbeiter heute mit subtileren Methoden als Rumbrüllen. Wer die erkennt, kann sich schützen.",
-      "url": "https://www.zeit.de/arbeit/2024-04/schlechte-chefs-manipulation-hierarchie",
-      "image_url": "https://img.zeit.de/arbeit/2024-04/schlechte-chefs-manipulation-2/super__620x413"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Deutsche Bahn : Wie Sie bald im ICE Ihr digitales Handtuch auswerfen",
-      "teaser": "Vierer-, Zweier- und Einzelabteile, neue Busse für den Ersatzverkehr und nie mehr Angst, vom Platz vertrieben zu werden: So will die Bahn Zugreisen komfortabler machen.",
-      "url": "https://www.zeit.de/mobilitaet/2024-04/deutsche-bahn-neuerungen-zweier-abteile-app-features-messe",
-      "image_url": "https://img.zeit.de/mobilitaet/2024-04/deutsche-bahn-neuerungen/super__620x413"
+      "title": "Z+ (abopflichtiger Inhalt); Arbeitsteilung in Beziehungen : \"Er fühlt sich von mir fremdbestimmt\"",
+      "teaser": "Nina und Nico haben zwei Kinder und arbeiten beide in Vollzeit. Er weigert sich, den Haushalt zu machen, sie arbeitet oft am Wochenende. Wie gelingt ihr Alltag?",
+      "url": "https://www.zeit.de/arbeit/2024-04/arbeitsteilung-beziehungen-haushalt-alltag-familie",
+      "image_url": "https://img.zeit.de/arbeit/2024-04/arbeitsteilung-beziehungen-haushalt-alltag-familie-bild/wide__822x462"
     },
     {
       "title": "Tabakkonsum : Drogenbeauftragter will stärker gegen Rauchen vorgehen",
@@ -134,28 +128,10 @@
       "image_url": "https://img.zeit.de/politik/deutschland/2024-04/rauchen-tabakkonsum-drogenbeauftragter/super__620x413"
     },
     {
-      "title": "Diese Woche in der ZEIT : Die brutale Logik von Schlag und Gegenschlag",
-      "teaser": "Warum im Nahen und Mittleren Osten das Prinzip der Vergeltung regiert. Und wie weit die Gewalt eskalieren könnte",
-      "url": "https://premium.zeit.de/abo/diezeit?aktionsnummer=1130785&wt_zmc=fix.int.zonpme.zeitde.epaper.z+.home.bildtext.bildtext&utm_medium=fix&utm_source=zeitde_zonpme_int&utm_campaign=epaper&utm_content=z+_home_bildtext_bildtext?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.link.link&amp;utm_medium=cross&amp;utm_source=zeitde_zonpme_int&amp;utm_campaign=printbox&amp;utm_content=ausgseite_bildtext_link_link",
-      "image_url": "https://img.zeit.de/2024/17/packshot-24-17-1000x620.png/imagegroup/super__620x413"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Corpus Delicti\" : Juli Zeh verrät, was Abiturienten zu ihrem Buch wissen müssen",
-      "teaser": "Derzeit laufen die Abiturprüfungen, in vielen Bundesländern ist Juli Zehs Roman \"Corpus Delicti\" Klausurthema. Wer könnte da besser helfen als die Autorin selbst?",
-      "url": "https://www.zeit.de/kultur/literatur/2024-04/juli-zeh-roman-corpus-delicti-abitur-klausurvorbereitung",
-      "image_url": "https://img.zeit.de/kultur/2024-04/juli-zeh-roman-corpus-delicti-abitur-klausurvorbereitung-bild/super__620x413"
-    },
-    {
-      "title": "Ukraine-Hilfen : EU sichert Ukraine weitere Unterstützung zu",
-      "teaser": "Die EU-Staaten haben der Ukraine weitere Militärhilfen zugesagt. Eine Entscheidung für mehr Luftverteidigungssysteme erwartet Ratspräsident Charles Michel in Kürze.",
-      "url": "https://www.zeit.de/politik/ausland/2024-04/eu-gipfel-ukraine-luftabwehr-patriot",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-04/ukraine-flugabwehr/super__620x413"
-    },
-    {
-      "title": "EU-Gipfel : EU will Türkei Wiederbelebung von Beziehungen anbieten",
-      "teaser": "Das EU-Verhältnis zur Türkei ist angespannt, der Beitrittsprozess eingefroren. Angesichts der Weltlage sieht die EU nun ein strategisches Interesse für eine Annäherung.",
-      "url": "https://www.zeit.de/politik/ausland/2024-04/eu-gipfel-tuerkei-annaeherung-zypern",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-04/eu-tuerkei-annaeherung-bild/super__620x413"
+      "title": "Z+ (abopflichtiger Inhalt); Ersan Mondtag : Alle werden weinen",
+      "teaser": "\"Für mich kamen nur Berufe infrage, in denen ich Macht über andere Menschen hätte\": Nun gestaltet Regisseur Ersan Mondtag den Deutschen Pavillon auf der Kunstbiennale.",
+      "url": "https://www.zeit.de/zeit-magazin/2024/17/ersan-mondtag-regisseur-theater-biennale-venedig",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024/17/fuer-mich-kamen-nur-berufe-infrage-in-denen-ich-macht-ueber-andere-menschen-haette-bild-1/wide__822x462"
     },
     {
       "title": "Kroatien : Konservative bleiben stärkste Kraft in Kroatien",
@@ -164,22 +140,40 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-04/kroatien-wahl-andrej-plenkovic/super__620x413"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Angststörung : Was geschieht im Gehirn, wenn wir uns Ängsten stellen?",
-      "teaser": "Wer sich Ängsten aussetzt, kann sein Gedächtnis und Selbstbild verändern. Die Folgen sind weitreichender als gedacht. Was neue Studien über die Exposition zeigen.",
-      "url": "https://www.zeit.de/gesundheit/2024-04/angststoerung-aengsten-stellen-expositionstherapie",
-      "image_url": "https://img.zeit.de/gesundheit/2024-04/angststoerung-aengsten-stellen-expositionstherapie-bild-2/super__620x413"
+      "title": "Z+ (abopflichtiger Inhalt); Antientzündliche Ernährung • Das Beste aus Z+ : \"Bauchfett beschleunigt auch Entzündungen in der Leber oder im Knie\"",
+      "teaser": "Chronische Entzündungen schwelen oft unbemerkt im Körper. Bessere Ernährung schützt, sagt Wissenschaftler Martin Smollich. Über Bauchfett, Darmbakterien, Ballaststoffe",
+      "url": "https://www.zeit.de/gesundheit/2024-04/antientzuendliche-ernaehrung-uebergewicht-bauchfett-gesundheit",
+      "image_url": "https://img.zeit.de/gesundheit/2024-04/antientzuendliche-ernaehrung-uebergewicht-bauchfett-gesundheit-2/super__620x413"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Übergewicht in der Beziehung : \"Dass er so schlank ist, verstärkte meine Selbstzweifel\"",
-      "teaser": "Viola ist mehrgewichtig, ihr Freund nicht. Sie schämt sich für ihren Körper, auf Fotos und beim Sex. Für Nils ist am schlimmsten, wenn er ihr verbieten soll, zu essen.",
-      "url": "https://www.zeit.de/zett/2024-04/uebergewicht-beziehung-liebe-fettfeindlichkeit-partner",
-      "image_url": "https://img.zeit.de/zett/2024-04/uebergewicht-beziehung-liebe-fettfeindlichkeit/super__620x413"
+      "title": "Z+ (abopflichtiger Inhalt); Stillzeit : So klappt das Abstillen",
+      "teaser": "Beim Abstillen fließen oft Tränen – von Mutter und Kind. Wann ist der richtige Zeitpunkt? Wie können Partner unterstützen? Und was tun, wenn die Hormone verrückt spielen?",
+      "url": "https://www.zeit.de/zeit-magazin/familie/2024-04/stillzeit-mutter-kind-schmerzen",
+      "image_url": "https://img.zeit.de/zeit-magazin/familie/2024-04/stillzeit-mutter-kind-schmerzen-bild/super__620x413"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Handwerk : \"Jeder kann in seinem Leben mindestens eine Immobilie kaufen\"",
-      "teaser": "Paul Neudorf ist 26, Bodenleger und hat es ohne Erbe zum Millionär geschafft. Nur mit Arbeit. Er glaubt, dass das jeder schaffen kann. Doch der Erfolg hat seinen Preis.",
-      "url": "https://www.zeit.de/arbeit/2024-04/handwerk-vermoegen-millionen-arbeit-leistung",
-      "image_url": "https://img.zeit.de/arbeit/2024-04/handwerk-vermoegen-millionen-arbeit/super__620x413"
+      "title": "Z+ (abopflichtiger Inhalt); Familienmodelle : Was ist das überhaupt, Familie?",
+      "teaser": "Warum die klassische Familie für viele Menschen kein Modell mehr ist. Und was Eltern und Kinder brauchen, wenn sie anders zusammenleben.",
+      "url": "https://www.zeit.de/2023/34/familienmodelle-eltern-kinder-familienrecht-politik",
+      "image_url": "https://img.zeit.de/2023/34/das-neue-durcheinander-bild-1/super__620x413"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Erfolgsdruck : Lass mal gut sein",
+      "teaser": "Mit 30 soll man als Frau Erfolg im Job haben, einen Partner und ein Kind in Planung? Im Gegenteil: Glücklich wird, wer alles falsch macht.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2023-10/erfolgsdruck-persoenlichkeit-karriere-beziehung-familie",
+      "image_url": "https://img.zeit.de/zeit-magazin/leben/2023-10/erfolgsdruck-persoenlichkeit-karriere-beziehung-familie-2/super__620x413"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Fremdgehen : \"Mein Ehemann hat keine anderen weiblichen Freundinnen mehr\"",
+      "teaser": "Schreiben mit anderen Leuten? Fremdknutschen? Fünf Menschen erzählen, wo in ihren Beziehungen Betrug beginnt. Und was sie ihren Partner:innen erlauben.",
+      "url": "https://www.zeit.de/zett/liebe-sex/2024-04/fremdgehen-untreue-beziehung-betruegen",
+      "image_url": "https://img.zeit.de/2024-04/fremdgehen-untreue-beziehung-betruegen-bild/super__620x413"
+    },
+    {
+      "title": "Diese Woche in der ZEIT : Die brutale Logik von Schlag und Gegenschlag",
+      "teaser": "Warum im Nahen und Mittleren Osten das Prinzip der Vergeltung regiert. Und wie weit die Gewalt eskalieren könnte",
+      "url": "https://premium.zeit.de/abo/diezeit?aktionsnummer=1130785&wt_zmc=fix.int.zonpme.zeitde.epaper.z+.home.bildtext.bildtext&utm_medium=fix&utm_source=zeitde_zonpme_int&utm_campaign=epaper&utm_content=z+_home_bildtext_bildtext?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.link.link&amp;utm_medium=cross&amp;utm_source=zeitde_zonpme_int&amp;utm_campaign=printbox&amp;utm_content=ausgseite_bildtext_link_link",
+      "image_url": "https://img.zeit.de/2024/17/packshot-24-17-1000x620.png/imagegroup/super__620x413"
     },
     {
       "title": "Ölsektor : USA verhängen erneut Sanktionen gegen Venezuelas Öl- und Gassektor",
@@ -194,28 +188,16 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-04/maui-fire/super__620x413"
     },
     {
-      "title": "Dubai : So viel Regen ist nicht eingeplant",
-      "teaser": "Trockenheit und 50 Grad Celsius: Das sind die Wetterextreme, die man in Dubai kennt. Doch jetzt war alles anders: Unwetter brachen herein, die Stadt ging Land unter.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-04/dubai-unwetter-flut-regen-wueste-fs",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-04/dubai-unwetter-flut-regen-wueste-fs-a-bild/super__620x413"
+      "title": "EU-Gipfel : EU will Türkei Wiederbelebung von Beziehungen anbieten",
+      "teaser": "Das EU-Verhältnis zur Türkei ist angespannt, der Beitrittsprozess eingefroren. Angesichts der Weltlage sieht die EU nun ein strategisches Interesse für eine Annäherung.",
+      "url": "https://www.zeit.de/politik/ausland/2024-04/eu-gipfel-tuerkei-annaeherung-zypern",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-04/eu-tuerkei-annaeherung-bild/super__620x413"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Klimawandel : So viel kostet die Klimakrise",
-      "teaser": "Der Klimawandel sorgt für Verluste, die bisherige Wirtschaftskrisen in den Schatten stellen. Neue Daten zeigen, wie günstig Klimaschutz im Vergleich zu den Schäden ist.",
-      "url": "https://www.zeit.de/wissen/umwelt/2024-04/klimawandel-wirkung-klimaschaeden-weltwirtschaft-studie",
-      "image_url": "https://img.zeit.de/wissen/2024-04/klimawandel-wirkung-klimaschaeden-weltwirtschaft-studie-bild/wide__822x462"
-    },
-    {
-      "title": "Alpenpodcast : Die Schweizerinnen klagen am besten",
-      "teaser": "Ein spektakuläres Urteil könnte die Klimapolitik nicht nur in der Schweiz verändern – wobei man das vor Jahren auch von einem deutschen Urteil dachte. Und: Parkbänke",
-      "url": "https://www.zeit.de/gesellschaft/2024-04/schweiz-klimaklage-menschenrechtsgerichtshof-klimapolitik-alpenpodcast",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-04/schweiz-klimaklage-menschenrechtsgerichtshof/super__620x413"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Blaues Wunder Dresden : Brücke der Wut",
-      "teaser": "Am Blauen Wunder in Dresden wurde ein Radweg aufgepinselt. Es kommt zu Staus, der Streit eskaliert. Wer hier die Systemfrage stellt, muss mit Morddrohungen rechnen.",
-      "url": "https://www.zeit.de/2024/17/blaues-wunder-dresden-fahrradweg-verkehrswende",
-      "image_url": "https://img.zeit.de/2024/17/blaues-wunder-dresden-fahrradweg/super__620x413"
+      "title": "Nahost : EU-Staaten rufen Iran und Israel zu Deeskalation auf",
+      "teaser": "Die EU-Staats- und Regierungschefs mahnen Israel nach den Angriffen des Iran zur Zurückhaltung. Zugleich einigen sich die Länder auf eine Ausweitung der Iran-Sanktionen.",
+      "url": "https://www.zeit.de/politik/ausland/2024-04/eu-gipfel-iran-israel-aufruf-sanktionen",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-04/eu-gipfel-iran-israel-deeskalation-sanktionen-bild/super__620x413"
     },
     {
       "title": "Iran-Sanktionen : Scholz hält Terroreinstufung von Revolutionsgarden für möglich",
@@ -248,46 +230,34 @@
       "image_url": "https://img.zeit.de/wirtschaft/2024-04/cashback-bargeld-auszahlungr-supermarkt-kasse/super__620x413"
     },
     {
-      "title": "E-Mobilität : Chinesische E-Autohersteller werden immer innovativer",
-      "teaser": "Keine andere E-Autofirma ist so innovativ wie Tesla. Doch jene aus China holen auf – und punkten mit niedrigen Preisen. Für die Konkurrenz eine doppelte Herausforderung.",
-      "url": "https://www.zeit.de/mobilitaet/2024-04/e-auto-china-innovation-tesla-ranking",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-04/china-e-autohersteller-studie-technische-innovationen/super__620x413"
+      "title": "Z+ (abopflichtiger Inhalt); Sexueller Kindesmissbrauch : Die zweite Chance, die ihnen niemand geben will",
+      "teaser": "Kaum ein Straftäter wird so verachtet wie jemand, der Kinder missbraucht hat. Markus Gerber ist einer von ihnen. Seine Strafe hat er verbüßt. Darf er neu anfangen?",
+      "url": "https://www.zeit.de/gesellschaft/2024-04/sexueller-kindesmissbrauch-straftaeter-resozialisierung-therapie",
+      "image_url": "https://img.zeit.de/wissen/2024-04/sexueller-kindesmissbrauch-straftaeter-resozialisierung-therapie/super__620x413"
     },
     {
-      "title": "Automobilhersteller : Mercedes-Benz ruft erneut Hunderttausende SUVs zurück",
-      "teaser": "Bereits vergangene Woche gab es einen Rückruf wegen einer möglichen Brandgefahr, nun gibt es einen neuen Grund. Wieder sind die Modelle GLE und GLS betroffen.",
-      "url": "https://www.zeit.de/mobilitaet/2024-04/mercedes-benz-rueckruf-suv-gle-gls-softwarefehler",
-      "image_url": "https://img.zeit.de/mobilitaet/2024-04/mercedes-benz-suv-rueckruf-gls-gle/super__620x413"
+      "title": "Z+ (abopflichtiger Inhalt); Deutsche Bahn : Wie Sie bald im ICE Ihr digitales Handtuch auswerfen",
+      "teaser": "Vierer-, Zweier- und Einzelabteile, neue Busse für den Ersatzverkehr und nie mehr Angst, vom Platz vertrieben zu werden: So will die Bahn Zugreisen komfortabler machen.",
+      "url": "https://www.zeit.de/mobilitaet/2024-04/deutsche-bahn-neuerungen-zweier-abteile-app-features-messe",
+      "image_url": "https://img.zeit.de/mobilitaet/2024-04/deutsche-bahn-neuerungen/super__620x413"
     },
     {
-      "title": "Reichsbürgernetzwerk : Prinz Reuß soll Kontakt zu russischen Nachtwölfen gehabt haben",
-      "teaser": "Die Reichsbürgergruppe hatte wohl engere russische Kontakte als bisher bekannt. Laut Ermittlern soll Russland sie jederzeit für \"aktive Maßnahmen\" habe nutzen können.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-04/reichsbuerger-prinz-reuss-kontakt-russland",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-04/reichsbuerger-netzwerk-kontakt-russische-diplomaten-extremismus/super__620x413"
+      "title": "Z+ (abopflichtiger Inhalt); Klimawandel : So viel kostet die Klimakrise",
+      "teaser": "Der Klimawandel sorgt für Verluste, die bisherige Wirtschaftskrisen in den Schatten stellen. Neue Daten zeigen, wie günstig Klimaschutz im Vergleich zu den Schäden ist.",
+      "url": "https://www.zeit.de/wissen/umwelt/2024-04/klimawandel-wirkung-klimaschaeden-weltwirtschaft-studie",
+      "image_url": "https://img.zeit.de/wissen/2024-04/klimawandel-wirkung-klimaschaeden-weltwirtschaft-studie-bild/super__620x413"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"Franklin\" : Reden, revoltieren und dann noch ein bisschen reden",
       "teaser": "Geduldig und gesprächslastig ist die Serie, in der Michael Douglas dem US-Gründungsvater Benjamin Franklin ein weiteres Denkmal setzt. Kriegsromantik vermisst man nicht.",
       "url": "https://www.zeit.de/kultur/film/2024-04/franklin-serie-michael-douglas-apple-tv",
-      "image_url": "https://img.zeit.de/kultur/film/2024-04/franklin-2/wide__822x462"
+      "image_url": "https://img.zeit.de/kultur/film/2024-04/franklin-2/super__620x413"
     },
     {
       "title": "Aufenthaltsstipendium mit Kind : Anders als Keats oder Byron bin ich kein alleinstehender Jüngling",
       "teaser": "Aufenthaltsstipendien sind wichtige Geldquellen für Autorinnen, doch wenig familienfreundlich. Unsere Autorin kam mit ihrem Sohn nach New York – und kaum zum Schreiben.",
       "url": "https://www.zeit.de/kultur/2024-04/aufenthaltsstipendium-kind-new-york-work-life-balance-10nach8",
       "image_url": "https://img.zeit.de/kultur/2024-04/aufenthaltsstipendium-kind-new-york-work-life-balance/super__620x413"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); West-Eastern Divan Orchestra : Die Kraft kommt aus der Musik",
-      "teaser": "Seit 25 Jahren steht Daniel Barenboims West-Eastern Divan Orchestra für Völkerverständigung in Nahost. Das Geburtstagskonzert fand ungestört statt, glücklicherweise.",
-      "url": "https://www.zeit.de/2024/17/west-eastern-divan-orchestra-nahostkonflikt-berlin",
-      "image_url": "https://img.zeit.de/2024/17/west-eastern-divan-orchestra/super__620x413"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Zitronentarte : Das Debüt einer kulinarischen Legende",
-      "teaser": "Ruth Reichl hat ein halbes Jahrhundert Profiküchen-Erfahrung. Dieses Rezept stand schon in ihrem allerersten Kochbuch, das sie mit 22 schrieb. Es ist keinen Tag gealtert.",
-      "url": "https://www.zeit.de/zeit-magazin/2024/14/zitronentarte-rezept-ruth-reichl",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024/14/nichts-zu-meckern-bild-6/super__620x413"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Fragen Sie ZEIT ONLINE : Haben Sie ein Thema verpasst?",
@@ -312,21 +282,20 @@
       "url": "https://www.zeit.de/arbeit/2024-04/altersdiskriminierung-arbeitsplatz-ageismus-bewerbungen-job"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Erdbeeren aus Spanien : Warum 1,50 Euro für Erdbeeren ein unverschämter Preis ist",
-      "teaser": "Erdbeeren aus Spanien gibt es zu unschlagbar günstigen Preisen im Supermarkt. Obwohl ihre Produktion sehr viel Wasser verbraucht – und Rekorddürre herrscht. Wie geht das?",
-      "url": "https://www.zeit.de/wirtschaft/2024-04/erdbeeren-spanien-billig-wasser-duerre",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-04/erdbeeren-spanien-billig-wasser-duerre-bild/super__620x413",
-      "image_title": "Entscheidender Faktor für die billigen Preise sind die sehr niedrigen Löhne in Spanien: Immer wieder gibt es Berichte über schlechte Arbeitsbedingungen oder menschenunwürdige Unterbringung migrantischer Arbeiter."
-    },
-    {
       "title": "Russland : Neue russische Cyberwaffe entdeckt",
       "teaser": "Russlands Geheimdienst hat offenbar ein neues Werkzeug entwickelt, um Firmen auszuspionieren. Es gibt nur wenige Spuren, denn die Schadsoftware löscht sich teils selbst.",
-      "url": "https://www.zeit.de/digital/2024-04/russland-schadsoftware-geheimdienst-angriff-cyberkriminalitaet"
+      "url": "https://www.zeit.de/digital/2024-04/russland-schadsoftware-geheimdienst-angriff-cyberkriminalitaet",
+      "image_url": "https://img.zeit.de/digital/2024-04/russland-schadsoftware-geheimdienst-angriff-cyberkriminalitaet-bild/super__620x413"
     },
     {
       "title": "Die Grünen : Wählerschaft der Mitte wendet sich von den Grünen ab",
       "teaser": "In einer Umfrage votieren noch zwölf Prozent für die Grünen. Die eher linke Kernklientel bleibt der Partei treu, doch in der politischen Mitte verliert sie an Zustimmung.",
       "url": "https://www.zeit.de/politik/deutschland/2024-04/die-gruenen-forsa-waehler-mitte-energiepolitik"
+    },
+    {
+      "title": "Vereinigte Arabische Emirate : Land unter in der Wüste – Wassermassen überfluten Dubai",
+      "teaser": "Regen ist in den Vereinigten Arabischen Emiraten selten. Doch jetzt stehen Teile des Landes unter Wasser. In Dubai sind Straßen überschwemmt, am Flughafen herrscht Chaos.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-04/dubai-ueberschwemmungen-regenfaelle-niederschlag"
     },
     {
       "title": "Die Grünen : Wählerschaft der Mitte wendet sich von den Grünen ab",
@@ -489,6 +458,12 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-04/ukraine-krieg-news-liveblog-russische-tote/super__620x413"
     },
     {
+      "title": "Alpenpodcast : Die Schweizerinnen klagen am besten",
+      "teaser": "Ein spektakuläres Urteil könnte die Klimapolitik nicht nur in der Schweiz verändern – wobei man das vor Jahren auch von einem deutschen Urteil dachte. Und: Parkbänke",
+      "url": "https://www.zeit.de/gesellschaft/2024-04/schweiz-klimaklage-menschenrechtsgerichtshof-klimapolitik-alpenpodcast",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-04/schweiz-klimaklage-menschenrechtsgerichtshof/super__620x413"
+    },
+    {
       "title": "Xabi Alonso : Der James Bond des Fußballs",
       "teaser": "Xabi Alonso sieht gut aus, ist klug und mit Bayer Leverkusen Meister geworden. Was seine Karriere als Weltklassespieler mit seiner Exzellenz als Trainer zu tun hat.",
       "url": "https://www.zeit.de/sport/2024-04/xabi-alonso-bayer-leverkusen-spieler-trainer-podcast",
@@ -525,28 +500,22 @@
       "image_url": "https://img.zeit.de/wissen/2024-04/mikroabenteuer-podcast-bild/super__620x413"
     },
     {
-      "title": "Podcast \"English, please!\" : Ein packender Thriller und ein charmantes Wort des Jahres",
-      "teaser": "Wie wäre es, 130 oder 150 Jahre alt zu werden? Plus: das englische Wort des Jahres und unser Buchtipp, dieses Mal ein Krimi. Der neue Sprachenpodcast – auf Englisch",
-      "url": "https://www.zeit.de/wissen/2024-04/ewiges-leben-verlaengern-forschung-englisch-podcast",
-      "image_url": "https://img.zeit.de/zeit-verlag/2024-03/podcast-english-please-team/super__620x413"
+      "title": "Dubai : So viel Regen ist nicht eingeplant",
+      "teaser": "Trockenheit und 50 Grad Celsius: Das sind die Wetterextreme, die man in Dubai kennt. Doch jetzt war alles anders: Unwetter brachen herein, die Stadt ging Land unter.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-04/dubai-unwetter-flut-regen-wueste-fs",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-04/dubai-unwetter-flut-regen-wueste-fs-a-bild/wide__822x462"
+    },
+    {
+      "title": "Reichsbürgernetzwerk : Prinz Reuß soll Kontakt zu russischen Nachtwölfen gehabt haben",
+      "teaser": "Die Reichsbürgergruppe hatte wohl engere russische Kontakte als bisher bekannt. Laut Ermittlern soll Russland sie jederzeit für \"aktive Maßnahmen\" habe nutzen können.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-04/reichsbuerger-prinz-reuss-kontakt-russland",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-04/reichsbuerger-netzwerk-kontakt-russische-diplomaten-extremismus/super__620x413"
     },
     {
       "title": "Medienvertrauen : Ein Viertel der Deutschen fühlt sich von Medien nicht repräsentiert",
       "teaser": "Wie relevant sind die Medien für den Alltag der Menschen? Laut einer Langzeitstudie fühlt sich ein größerer Teil der Gesellschaft nicht mehr ernst und wahrgenommen.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-04/medienvertrauen-studie-mainz-kluft-repraesentation",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-04/medienvertrauen-studie-mainz-kluft-repraesentation-journalismus/wide__822x462"
-    },
-    {
-      "title": "Katholische Kirche : Bistum Trier entlässt AfD-Landespolitiker aus Kirchenamt",
-      "teaser": "Der Generalvikar sieht einen \"irreparablen\" Vertrauensverlust: Der saarländische AfD-Fraktionsvize Christoph Schaufert darf in seiner Gemeinde nicht mehr tätig sein.",
-      "url": "https://www.zeit.de/gesellschaft/2024-04/afd-bistum-trier-ausschluss-kirche-amt",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-04/bistum-trier-afd-landespolitiker-kirchenamt-christoph-schaufert/super__620x413"
-    },
-    {
-      "title": "Vereinigte Arabische Emirate : Land unter in der Wüste – Wassermassen überfluten Dubai",
-      "teaser": "Regen ist in den Vereinigten Arabischen Emiraten selten. Doch jetzt stehen Teile des Landes unter Wasser. In Dubai sind Straßen überschwemmt, am Flughafen herrscht Chaos.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-04/dubai-ueberschwemmungen-regenfaelle-niederschlag",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2024-04/ueberschwemmungen-dubai-schwerer-regen-vereinigten-arabische-emirate/super__620x413"
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-04/medienvertrauen-studie-mainz-kluft-repraesentation-journalismus/super__620x413"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Iran-Israel-Konflikt : Droht eine neue Ölkrise?",
@@ -581,10 +550,16 @@
       "image_title": "„Es geht nicht um primitiven Ellebogen-Karrierismus“"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Übergewicht in der Beziehung : \"Dass er so schlank ist, verstärkte meine Selbstzweifel\"",
+      "teaser": "Viola ist mehrgewichtig, ihr Freund nicht. Sie schämt sich für ihren Körper, auf Fotos und beim Sex. Für Nils ist am schlimmsten, wenn er ihr verbieten soll, zu essen.",
+      "url": "https://www.zeit.de/zett/2024-04/uebergewicht-beziehung-liebe-fettfeindlichkeit-partner",
+      "image_url": "https://img.zeit.de/zett/2024-04/uebergewicht-beziehung-liebe-fettfeindlichkeit/wide__822x462"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Björn Höcke im TV-Duell : Wer sich überschätzt, verliert",
       "teaser": "Im TV-Duell mit CDU-Mann Mario Voigt zeigte Björn Höcke Schwäche. Doch zur Schau gestellte Handzahmheit – genau das ist seine Strategie. Und sie ging auf.",
       "url": "https://www.zeit.de/zett/politik/2024-04/bjoern-hoecke-tv-duell-strategie-afd-rechtsextremismus",
-      "image_url": "https://img.zeit.de/zett/2024-04/bjoern-hoecke-tv-duell-strategie/wide__822x462"
+      "image_url": "https://img.zeit.de/zett/2024-04/bjoern-hoecke-tv-duell-strategie/super__620x413"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Enthaltsamkeit : \"Sex war für mich Stressbewältigung. Dafür machen andere Sport\"",
@@ -593,22 +568,16 @@
       "image_url": "https://img.zeit.de/zett/2024-04/enthaltsamkeit-junge-menschen-sex-bild/super__620x413"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Kommunalwahlen in der Türkei : \"Wir hatten sehr viel Wut und wenig Hoffnung\"",
-      "teaser": "Tausende Menschen haben in der Türkei dagegen protestiert, dass Erdoğan den Wahlsieg des prokurdischen Bürgermeisterkandidaten Abdullah Zeydan torpediert. Mit Erfolg.",
-      "url": "https://www.zeit.de/zett/politik/2024-04/kommunalwahlen-tuerkei-recep-tayyip-erdogan-opposition-protest",
-      "image_url": "https://img.zeit.de/zett/politik/2024-04/kommunalwahlen-tuerkei-recep-tayyip-erdogan-opposition-protest-header/super__620x413"
+      "title": "Z+ (abopflichtiger Inhalt); West-Eastern Divan Orchestra : Die Kraft kommt aus der Musik",
+      "teaser": "Seit 25 Jahren steht Daniel Barenboims West-Eastern Divan Orchestra für Völkerverständigung in Nahost. Das Geburtstagskonzert fand ungestört statt, glücklicherweise.",
+      "url": "https://www.zeit.de/2024/17/west-eastern-divan-orchestra-nahostkonflikt-berlin",
+      "image_url": "https://img.zeit.de/2024/17/west-eastern-divan-orchestra/wide__822x462"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"Civil War\" : Sturm aufs Weiße Haus",
       "teaser": "Ein Land führt Krieg gegen sich selbst: Alex Garland beschwört in seinem Spielfilm \"Civil War\" den Albtraum, die USA könnten in naher Zukunft im Bürgerkrieg versinken.",
       "url": "https://www.zeit.de/2024/17/civil-war-alex-garland-buergerkrieg-usa-film",
-      "image_url": "https://img.zeit.de/2024/17/roadtrip-an-die-front-bild-1/wide__822x462"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Aktivismus bei der Biennale : Wzzzzffff Bu Buuhh!",
-      "teaser": "Der israelische Pavillon lässt aus Protest die Türen zu, Russland vermietet an Bolivien. Ein Streifzug durch die politische Welt der Biennale in krisenreichen Zeiten",
-      "url": "https://www.zeit.de/2024/17/aktivismus-biennale-pavillons-israel-ukraine",
-      "image_url": "https://img.zeit.de/2024/17/biennale-pavillons-bild-1/super__620x413"
+      "image_url": "https://img.zeit.de/2024/17/roadtrip-an-die-front-bild-1/super__620x413"
     },
     {
       "title": "Verlagsangebot : Englischquiz – wie gut ist Ihr Business Englisch?",
@@ -617,10 +586,10 @@
       "image_url": "https://img.zeit.de/administratives/2024-01/freunde-der-zeit-quiz-teaser/super__620x413"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Biennale Venedig 2024 : Eine Biennale des guten Gewissens",
-      "teaser": "Weibliche, schwule, queere, indigene Künstler, fast alle aus dem Süden der Welt, haben in Venedig ihren großen Auftritt. Das Ergebnis ist leider langweilig.",
-      "url": "https://www.zeit.de/2024/17/biennale-venedig-2024-diskriminierung-kunst-frauen-queerness",
-      "image_url": "https://img.zeit.de/2024/17/biennale-venedig-2024-diskriminierung/super__620x413"
+      "title": "Z+ (abopflichtiger Inhalt); Aktivismus bei der Biennale : Wzzzzffff Bu Buuhh!",
+      "teaser": "Der israelische Pavillon lässt aus Protest die Türen zu, Russland vermietet an Bolivien. Ein Streifzug durch die politische Welt der Biennale in krisenreichen Zeiten",
+      "url": "https://www.zeit.de/2024/17/aktivismus-biennale-pavillons-israel-ukraine",
+      "image_url": "https://img.zeit.de/2024/17/biennale-pavillons-bild-1/super__620x413"
     },
     {
       "title": "Baerbock in Israel : \"Daraus darf kein regionaler Flächenbrand werden\"",
@@ -779,11 +748,11 @@
       "image_url": "https://img.zeit.de/campus/2024/03/n-a-m-a-s-t-bild-3/wide__822x462"
     },
     {
-      "title": "Verlagsangebot : Welcher Beruf passt zu mir?",
-      "teaser": "Mit dem BOA-Berufstest erfahren Berufseinsteiger mehr über die eigenen Stärken und finden den passenden Job.",
-      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.verlagsteaser.quan.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=verlagsteaserindex&amp;utm_content=bot_verlagsteaser_quan_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/boa-quan/wide__430x286__desktop",
-      "image_title": "Welcher Beruf passt zu mir?"
+      "title": "Verlagsangebot : Durchblick im Studiendschungel",
+      "teaser": "Bei 20.000 möglichen Studiengängen in Deutschland verliert man schnell den Überblick. Unterstützung bietet die Suchmaschine für Studiengänge und Hochschulen.",
+      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.whiteboard_studiendschungel.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_whiteboard_studiendschungel_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-3-klein/man-wearing-black-and-white-stripe-shirt-looking-at-white-197.jpg",
+      "image_title": "Durchblick im Studiendschungel"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Soffie : \"Das Politische floss beim Schreiben irgendwie aus mir heraus\"",
@@ -816,16 +785,16 @@
       "image_url": "https://img.zeit.de/angebote/Links/bilder-zeit-reisen/bilder-2023/ecuador-quito-nacht-c-ammit-jack-shutterstock-77660701-standardlizenz-1160x656/super__620x413"
     },
     {
-      "title": "Verkehrsministerkonferenz : Verkehrsminister beraten über Finanzierung des Deutschlandtickets",
-      "teaser": "Preiserhöhungen könnten künftig die Regel beim Deutschlandticket sein, hieß es vor der Verkehrsministerkonferenz. Dort wird es auch um den Ausbau des ÖPNV gehen.",
-      "url": "https://www.zeit.de/mobilitaet/2024-04/verkehrsministerkonferenz-deutschlandticket-bus-bahn-finanzierung",
-      "image_url": "https://img.zeit.de/mobilitaet/2024-04/verkehrsministerkonferenz-deutschlandticket-bus-bahn-finanzierung-bild/wide__822x462"
+      "title": "E-Mobilität : Chinesische E-Autohersteller werden immer innovativer",
+      "teaser": "Keine andere E-Autofirma ist so innovativ wie Tesla. Doch jene aus China holen auf – und punkten mit niedrigen Preisen. Für die Konkurrenz eine doppelte Herausforderung.",
+      "url": "https://www.zeit.de/mobilitaet/2024-04/e-auto-china-innovation-tesla-ranking",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-04/china-e-autohersteller-studie-technische-innovationen/wide__822x462"
     },
     {
-      "title": "\"DiscoverEU\" : EU-Kommission schickt junge Menschen erneut mit dem Zug durch Europa",
-      "teaser": "Die EU-Kommission verlost erneut Zugtickets an junge Menschen. Um die mehr als 35.000 Fahrkarten können sich auch Teilnehmer aus einigen Nicht-EU-Ländern bewerben.",
-      "url": "https://www.zeit.de/politik/ausland/2024-04/eu-kommission-discovereu-reisen-tickets",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-04/eu-kommission-discovereu-reisen-tickets-bild-2/super__620x413"
+      "title": "Automobilhersteller : Mercedes-Benz ruft erneut Hunderttausende SUVs zurück",
+      "teaser": "Bereits vergangene Woche gab es einen Rückruf wegen einer möglichen Brandgefahr, nun gibt es einen neuen Grund. Wieder sind die Modelle GLE und GLS betroffen.",
+      "url": "https://www.zeit.de/mobilitaet/2024-04/mercedes-benz-rueckruf-suv-gle-gls-softwarefehler",
+      "image_url": "https://img.zeit.de/mobilitaet/2024-04/mercedes-benz-suv-rueckruf-gls-gle/super__620x413"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Archäologische Ausgrabungen : Hoch die Tassen!",
@@ -870,36 +839,36 @@
       "image_url": "https://img.zeit.de/newsletter/beziehungsweise/beziehungsweise-titelbild/super__620x413"
     },
     {
-      "title": "Justiz: Richterbund beklagt Zeitlupen-Tempo bei Digitalisierung",
-      "url": "https://www.zeit.de/news/2024-04/18/richterbund-beklagt-zeitlupen-tempo-bei-digitalisierung"
+      "title": "Technik: Humanoider Roboter Atlas wird elektrisch",
+      "url": "https://www.zeit.de/news/2024-04/18/humanoider-roboter-atlas-wird-elektrisch"
     },
     {
-      "title": "Verkehr: Fahrerlose Lkw kommen auf die Autobahn",
-      "url": "https://www.zeit.de/news/2024-04/18/fahrerlose-lkw-kommen-auf-die-autobahn"
+      "title": "Umstrittenes Game: Der Ukraine-Krieg als Computerspiel: «Es ist Propaganda»",
+      "url": "https://www.zeit.de/news/2024-04/18/der-ukraine-krieg-als-computerspiel-es-ist-propaganda"
     },
     {
-      "title": "Extremismus: SA-Parole verwendet? Höcke vor Gericht",
-      "url": "https://www.zeit.de/news/2024-04/18/sa-parole-verwendet-hoecke-vor-gericht"
+      "title": "Russische Invasion: Krieg gegen die Ukraine: So ist die Lage",
+      "url": "https://www.zeit.de/news/2024-04/18/krieg-gegen-die-ukraine-so-ist-die-lage"
     },
     {
-      "title": "Finanzen: EU-Gipfel soll Bewegung in Kapitalmarktunion bringen",
-      "url": "https://www.zeit.de/news/2024-04/18/eu-gipfel-soll-bewegung-in-kapitalmarktunion-bringen"
+      "title": "BGH prüft: Wann dürfen Unternehmen mit Klimaneutralität werben?",
+      "url": "https://www.zeit.de/news/2024-04/18/wann-duerfen-unternehmen-mit-klimaneutralitaet-werben"
     },
     {
-      "title": "Umfrage: Brexit hemmt Geschäfte deutscher Firmen in Großbritannien",
-      "url": "https://www.zeit.de/news/2024-04/18/brexit-hemmt-geschaefte-deutscher-firmen-in-grossbritannien"
+      "title": "Prozess: 15-jähriger Schüler wegen Mordverdachts vor Gericht",
+      "url": "https://www.zeit.de/news/2024-04/18/15-jaehriger-schueler-wegen-mordverdachts-vor-gericht"
     },
     {
-      "title": "Krieg in Nahost: Appelle zu Gewaltverzicht an Israel und Iran",
-      "url": "https://www.zeit.de/news/2024-04/18/appelle-zu-gewaltverzicht-an-israel-und-iran"
+      "title": "Abermilliarden Insekten: USA steht doppelte Zikaden-Invasion bevor",
+      "url": "https://www.zeit.de/news/2024-04/18/usa-steht-doppelte-zikaden-invasion-bevor"
     },
     {
-      "title": "Globale Krisen: Weltbank-Manager warnt vor Abkopplung: «Alles wird global»",
-      "url": "https://www.zeit.de/news/2024-04/18/weltbank-manager-warnt-vor-abkopplung-alles-wird-global"
+      "title": "Bundestag: Linke kritisiert höhere Steuern bei Ost-Renten",
+      "url": "https://www.zeit.de/news/2024-04/18/linke-kritisiert-hoehere-steuern-bei-ost-renten"
     },
     {
-      "title": "Baby-News: US-Sängerin Ashanti und Rapper Nelly erwarten Nachwuchs",
-      "url": "https://www.zeit.de/news/2024-04/18/us-saengerin-ashanti-und-rapper-nelly-erwarten-nachwuchs"
+      "title": "Auto: Tesla will neue Aktionärsabstimmung über Milliarden für Musk",
+      "url": "https://www.zeit.de/news/2024-04/18/tesla-will-neue-aktionaersabstimmung-ueber-milliarden-fuer-musk"
     }
   ]
 }
