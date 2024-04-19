@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-19T06:08:31",
+  "timestamp": "2024-04-19T07:00:45",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Mitel SIP-Phones & Konferenzlösung",
+      "url": "https://www.heise.de/news/Mitel-SIP-Phones-anfaellig-fuer-unbefugte-Zugriffe-9690432.html"
+    },
+    {
       "title": "Solarwinds Serv-U",
       "url": "https://www.heise.de/news/Update-fuer-Solarwinds-FTP-Server-Serv-U-schliesst-Luecke-mit-hohem-Risiko-9689092.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Palo-Alto-Firewalls-Mehr-Angriffe-und-Proofs-of-Concept-aufgetaucht-9688195.html"
     },
     {
-      "title": "Oracle Critical Patch Update",
-      "url": "https://www.heise.de/news/Oracle-Critical-Patch-Update-bringt-441-Sicherheitskorrekturen-9687914.html"
+      "title": "Mitel SIP-Phones anfällig für unbefugte Zugriffe",
+      "teaser": "Mitel-SIP-Phones und -Konferenz-Produkte ermöglichen unbefugte Zugriffe und das Ausführen von Schadcode. Updates stehen bereit.",
+      "url": "https://www.heise.de/news/Mitel-SIP-Phones-anfaellig-fuer-unbefugte-Zugriffe-9690432.html",
+      "image_title": "Stilisiertes Bild: Einbrecher am Telefon"
     },
     {
       "title": "Microsoft: Edge-Update kann ungewollt Copilot-App installieren",
@@ -158,11 +164,6 @@
       "teaser": "Die Firmware von Lenovos Server-Enclosures hat Sicherheitslecks, die etwa eine Rechteerhöhung ermöglichen. Recovery-Bootloader alter PCs sind auch verwundbar.",
       "url": "https://www.heise.de/news/Lenovo-Sicherheitsluecken-in-Server-Enclosure-Firmware-9686547.html",
       "image_title": "Stilisierte Grafik: brennende Appliances"
-    },
-    {
-      "title": "Zugriffsmanagement: Kritische Admin-Lücke in Delinea Secret Server geschlossen",
-      "teaser": "Die Privileged-Access-Management-Lösung (PAM) Secret Server von Delinea ist verwundbar. Ein Sicherheitsupdate ist verfügbar.",
-      "url": "https://www.heise.de/news/Zugriffsmanagement-Kritische-Admin-Luecke-in-Delinea-Secret-Server-geschlossen-9686457.html"
     },
     {
       "title": "Kommentar: Die gefährliche Beißhemmung des BSI gegenüber Microsoft",
