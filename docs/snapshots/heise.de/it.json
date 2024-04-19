@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-19T09:00:56",
+  "timestamp": "2024-04-19T10:00:36",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "Meta AI läuft jetzt mit Llama 3",
+      "teaser": "Meta Llama 3 ersetzt Llama 2. Bigger, better, faster, more!​",
+      "url": "https://www.heise.de/news/Meta-AI-laeuft-jetzt-mit-Llama-3-9690318.html",
+      "image_title": "Meta-Logo und Kopf eines weiblichen Roboters"
+    },
+    {
       "title": "Odroid H4: Bastelcomputer mit mehr Leistung und Anschlüssen",
       "teaser": "Die neue Odroid-Generation bekommt viel mehr Leistung. Dafür wachsen sie und setzen neue Gehäuse voraus.",
       "url": "https://www.heise.de/news/Odroid-H4-Bastelcomputer-mehr-Leistung-und-Anschluesse-9688591.html",
@@ -38,10 +44,9 @@
       "image_title": "Mädchenhände an beleuchteter Laptoptastatur"
     },
     {
-      "title": "Lancom-Setup-Assistent leert Root-Passwort",
-      "teaser": "Wer Lancom-Router mit dem Windows-Setup-Assistenten konfiguriert, läuft Gefahr, das Root-Passwort durch ein leeres zu ersetzen.",
-      "url": "https://www.heise.de/news/Lancom-Setup-Assistent-leert-Root-Passwort-9682694.html",
-      "image_title": "Stilisiertes Bild: Ein Stapel brennender Appliances"
+      "title": "Retrogaming: Atari ST im günstigen FPGA-Board Tang Nano 20K nachgebaut",
+      "teaser": "Für ein authentisches Spielerlebnis kann man Retrocomputer und Spielkonsolen in FPGAs klonen. Ein FPGA-Entwickler zeigt, wie das günstig für den Atari ST geht.",
+      "url": "https://www.heise.de/hintergrund/Retrogaming-Atari-ST-im-guenstigen-FPGA-Board-Tang-Nano-20K-nachgebaut-9684977.html"
     },
     {
       "title": "Breitbandanschlüsse auf Kupferbasis ab 40 Mbit/s im Vergleich",
@@ -50,10 +55,15 @@
       "image_title": ","
     },
     {
-      "title": "Proxmox VE: Was es kann und was man dafür braucht",
-      "teaser": "Proxmox VE ist eine Linux-Distribution für Server- und Desktop-Virtualisierung, die viel Platz sparen kann.",
-      "url": "https://www.heise.de/ratgeber/Proxmox-VE-Was-es-kann-und-was-man-dafuer-braucht-9678913.html",
-      "image_title": ", Collage c't"
+      "title": "CISA und Europol teilen wichtige Details im Kampf gegen Akira-Ransomware",
+      "teaser": "Die Cyberkriminellen hinter Akira erpressen weltweit Millionenbeträge. In einem Beitrag verschiedener Institutionen gibt es wichtige Fakten zur Abwehr.",
+      "url": "https://www.heise.de/news/CISA-und-Europol-teilen-wichtige-Details-im-Kampf-gegen-Akira-Ransomware-9690899.html"
+    },
+    {
+      "title": "Immer wieder Störungen beim E-Rezept: Betroffene weiterhin frustriert",
+      "teaser": "Immer wieder kommt es zu Störungen der Dienste rund um die Telematikinfrastruktur, dem Gesundheitsnetz. Ob und wann die Probleme behoben werden, ist unklar.",
+      "url": "https://www.heise.de/news/Immer-wieder-Stoerungen-beim-E-Rezept-Betroffene-weiterhin-frustriert-9690701.html",
+      "image_title": "White,Collar,Worker,Hand,Holding,Virtual,Cell,Phone,In,Open"
     },
     {
       "title": "Flugmodus für Meta Quest: Funde deuten auf neue Funktion hin",
@@ -104,6 +114,12 @@
       "image_title": "iX-Workshop: SSO und IAM mit Keycloak"
     },
     {
+      "title": "Proxmox VE: Was es kann und was man dafür braucht",
+      "teaser": "Proxmox VE ist eine Linux-Distribution für Server- und Desktop-Virtualisierung, die viel Platz sparen kann.",
+      "url": "https://www.heise.de/ratgeber/Proxmox-VE-Was-es-kann-und-was-man-dafuer-braucht-9678913.html",
+      "image_title": ", Collage c't"
+    },
+    {
       "title": "Virtualisierungsoftware: Alternativen zu VMware",
       "teaser": "VMware ist vielen Bereichen nicht mehr das Maß der Dinge. Wir sehen uns die spannendsten Alternativen an, von denen viele sogar kostenlos oder Open Source sind.",
       "url": "https://www.heise.de/ratgeber/Virtualisierungsoftware-Alternativen-zu-VMware-9678215.html",
@@ -126,23 +142,6 @@
       "teaser": "Um das Smartphone unterwegs vor dem Ausgehen zu bewahren, reichen Powerbanks unter 10 Euro. TechStage hat getestet, was so günstige Modelle tatsächlich bieten.",
       "url": "https://www.techstage.de/bestenliste/top-10-die-besten-powerbanks-bis-10-euro-im-test/gf2x1nt?wt_mc=intern.red.techstage.newsticker.rubrikstart.teaser.teaser",
       "image_title": "##PHxVALUE_ALT_TEXT##"
-    },
-    {
-      "title": "Klimaneutralität als Ziel: Apple meldet Fortschritte",
-      "teaser": "Apple kommt laut dem hauseigenen Umweltbericht dem selbstgestecken Ziel näher, bis 2030 klimaneutral zu arbeiten – mitsamt der riesigen Lieferkette.",
-      "url": "https://www.heise.de/news/Klimaneutralitaet-als-Ziel-Apple-meldet-Fortschritte-9690078.html",
-      "image_title": "Apple-Logo auf einem iPhone"
-    },
-    {
-      "title": "Anonymisierungskongress: Um Daten zu nutzen, braucht es Vorgaben und Methoden",
-      "teaser": "Daten sind die Grundlage unserer digitalen Gesellschaft. Damit, wie wir sie schützen, befasst sich ein vom Bundesforschungsministerium unterstütztes Netzwerk.",
-      "url": "https://www.heise.de/news/Anonymisierungskongress-Um-Daten-zu-nutzen-braucht-es-Vorgaben-und-Methoden-9688604.html",
-      "image_title": "Vernetzte Welt"
-    },
-    {
-      "title": "Günstiges Display samt Einplatinencomputer für Bastelanfänger im Kurztest",
-      "teaser": "Das \"Cheap Yellow Display\" samt ESP32 ist günstig und bereits verlötet. Bastler können es zum Informationen anzeigen oder zum Steuern des smarten Heims nutzen.",
-      "url": "https://www.heise.de/tests/Guenstiges-Display-samt-Einplatinencomputer-fuer-Bastelanfaenger-im-Kurztest-9669818.html"
     },
     {
       "title": "Low-Code ist nicht immer gleich Low-Code.",

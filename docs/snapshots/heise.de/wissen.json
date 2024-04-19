@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-19T09:00:57",
+  "timestamp": "2024-04-19T10:00:37",
   "url": "https://www.heise.de/newsticker/wissen/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "Boston Dynamics zeigt Atlas-Nachfolger für den kommerziellen Einsatz",
+      "teaser": "Atlas ist tot, es lebe Atlas. Boston Dynamics hat einen Nachfolger des alten Atlas präsentiert. Der arbeitet nun elektrisch und ist deutlich beweglicher.",
+      "url": "https://www.heise.de/news/Atlas-ist-zurueck-Boston-Dynamics-zeigt-neuen-humanoiden-Roboter-9688922.html",
+      "image_title": "Der neue Atlas"
+    },
+    {
       "title": "Mission bestätigt: NASA-Drohne Dragonfly soll 2034 über Saturnmond Titan fliegen",
       "teaser": "Lange war es um die ambitionierte NASA-Mission Dragonfly ruhig geworden, nun wurden die Pläne bestätigt. Ab 2034 soll die Drohne über den Titan fliegen.",
       "url": "https://www.heise.de/news/Mission-bestaetigt-NASA-Drohne-Dragonfly-soll-2034-ueber-Saturnmond-Titan-fliegen-9689592.html",
@@ -36,12 +42,6 @@
       "teaser": "Der Stellarator Muse des Princeton Plasma Physics Laboratory kommt mit Permanentmagneten, preisgünstigen Teilen von der Stange und aus dem 3D-Drucker aus.",
       "url": "https://www.heise.de/news/Muse-Stellarator-Kostenguenstiger-Fusionsreaktor-mit-Teilen-aus-dem-3D-Drucker-9689080.html",
       "image_title": "Stellartor mit Permanentmagneten des PPPL."
-    },
-    {
-      "title": "Nach Abschied von Mars-Helikopter: Ingenuity soll jahrelang weiter Daten sammeln",
-      "teaser": "Ingenuity darf nicht in den Ruhestand: Der Kontakt zum Helikopter ist zwar abgebrochen, aber er sammelt weiter Daten. Diese können eines Tages abgeholt werden.",
-      "url": "https://www.heise.de/news/Nach-Abschied-von-Mars-Helikopter-Ingenuity-soll-jahrelang-weiter-Daten-sammeln-9687287.html",
-      "image_title": "Der Helikopter auf rotem Sand"
     },
     {
       "title": "Günstiges Display samt Einplatinencomputer für Bastelanfänger im Kurztest",
@@ -55,7 +55,7 @@
       "image_title": ","
     },
     {
-      "title": "Astronomie: In alten Hubble-Aufnahmen über 1000 unbekannte Asteroiden entdeckt",
+      "title": "Alte Hubble-Aufnahmen: Überraschend viele kleine Asteroiden im Asteroidengürtel",
       "teaser": "Tausende Freiwillige haben dabei geholfen, alte Aufnahmen des Weltraumteleskops Hubble nach Spuren von Asteroiden zu durchsuchen. Nun ist die Arbeit fertig.",
       "url": "https://www.heise.de/news/Astronomie-In-alten-Hubble-Aufnahmen-ueber-1000-unbekannte-Asteroiden-entdeckt-9690754.html",
       "image_title": "Foto der Galaxie mit einem mehrteiligen Strich davor"
@@ -130,15 +130,14 @@
       "image_title": "BMW Smart Laden"
     },
     {
-      "title": "Boston Dynamics zeigt Atlas-Nachfolger für den kommerziellen Einsatz",
-      "teaser": "Atlas ist tot, es lebe Atlas. Boston Dynamics hat einen Nachfolger des alten Atlas präsentiert. Der arbeitet nun elektrisch und ist deutlich beweglicher.",
-      "url": "https://www.heise.de/news/Atlas-ist-zurueck-Boston-Dynamics-zeigt-neuen-humanoiden-Roboter-9688922.html",
-      "image_title": "Der neue Atlas"
-    },
-    {
       "title": "Wärmepumpe simpel und effektiv: Über die Rolle von Dämmung, Solar und Co.",
       "teaser": "Eine unkomplizierte Heranführung an Wärmepumpen-Nutzung: Was brauchen Sie? Was ist wichtig? Und wie können Sie das einigermaßen simpel halten?",
       "url": "https://www.heise.de/hintergrund/Keeping-it-simple-Was-brauche-ich-mindestens-fuer-eine-Waermepumpen-Anlage-9681815.html"
+    },
+    {
+      "title": "KI-Update kompakt: Deepfakes, Reka Core, Wissenskollaps, Atlas",
+      "teaser": "Das \"KI-Update\" liefert werktäglich eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
+      "url": "https://www.heise.de/news/KI-Update-kompakt-Deepfakes-Reka-Core-Wissenskollaps-Atlas-9688022.html"
     }
   ]
 }
