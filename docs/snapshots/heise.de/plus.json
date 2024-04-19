@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-19T05:01:10",
+  "timestamp": "2024-04-19T06:08:40",
   "url": "https://www.heise.de/plus/",
   "response": {
     "status": 200
@@ -58,6 +58,30 @@
       "title": "HintergrundMarktübersicht: Sicherheitsscanner für Container-Images",
       "teaser": "Container bieten Vorteile bei der Entwicklung und Bereitstellung, aber sie bergen auch Risiken. Eine robuste Containersicherheitsstrategie kann diese mindern.",
       "url": "https://www.heise.de/hintergrund/Marktuebersicht-Sicherheitsscanner-fuer-Container-Images-9682078.html"
+    },
+    {
+      "title": "DSGVO-konforme Apps entwickeln: So geht es für das iPhone",
+      "teaser": "Smartphones beherbergen zunehmend sehr persönliche Daten. So behalten iOS-Entwickler die rechtlichen Anforderungen im Blick und arbeiten mit Verschlüsselung.",
+      "url": "https://www.heise.de/ratgeber/DSGVO-konforme-Apps-entwickeln-So-geht-es-fuer-das-iPhone-9688840.html",
+      "image_title": ", KI-generiert mit Midjourney von Madlen Grunert, Mac & i"
+    },
+    {
+      "title": "Proxmox VE: Was es kann und was man dafür braucht",
+      "teaser": "Proxmox VE ist eine Linux-Distribution für Server- und Desktop-Virtualisierung, die viel Platz sparen kann.",
+      "url": "https://www.heise.de/ratgeber/Proxmox-VE-Was-es-kann-und-was-man-dafuer-braucht-9678913.html",
+      "image_title": ", Collage c't"
+    },
+    {
+      "title": "Virtualisierungsoftware: Alternativen zu VMware",
+      "teaser": "VMware ist vielen Bereichen nicht mehr das Maß der Dinge. Wir sehen uns die spannendsten Alternativen an, von denen viele sogar kostenlos oder Open Source sind.",
+      "url": "https://www.heise.de/ratgeber/Virtualisierungsoftware-Alternativen-zu-VMware-9678215.html",
+      "image_title": ", Collage c’t"
+    },
+    {
+      "title": "Virtualisierung: Wie man Proxmox Virtual Environment produktiv nutzt",
+      "teaser": "Wir zeigen, wie Sie Proxmox aufsetzen, virtuelle Maschinen erstellen oder bestehende importieren und was man beachten muss, um es produktiv zu nutzen.",
+      "url": "https://www.heise.de/ratgeber/Virtualisierung-Wie-man-Proxmox-Virtual-Environment-produktiv-nutzt-9676708.html",
+      "image_title": ","
     },
     {
       "title": "Günstiges Display samt Einplatinencomputer für Bastelanfänger im Kurztest",
@@ -121,6 +145,21 @@
       "url": "https://www.heise.de/tests/Kurztests-Paket-Tabmanager-und-Markdown-Erweiterung-9686705.html"
     },
     {
+      "title": "Elektroauto MG4 Trophy im Test: Bestseller mit Batterie-Upgrade",
+      "url": "https://www.heise.de/tests/Elektroauto-MG4-Trophy-im-Test-Bestseller-mit-Batterie-Upgrade-9683076.html",
+      "image_title": "MG4"
+    },
+    {
+      "title": "Apple Car: Warum Apples Fahrzeugprojekt gescheitert ist",
+      "url": "https://www.heise.de/hintergrund/Apple-Car-Warum-Apples-Fahrzeugprojekt-gescheitert-ist-9675187.html",
+      "image_title": ", KI-generiert von Midjourney; Montage: Mac & i."
+    },
+    {
+      "title": "Dauertest Audi e-tron: Was toll ist, was besser ginge und was unfassbar nervt",
+      "url": "https://www.heise.de/tests/Dauertest-Audi-e-tron-Was-toll-ist-was-besser-ginge-und-was-unfassbar-nervt-9670277.html",
+      "image_title": "Audi e-tron Sportback"
+    },
+    {
       "title": "Vektorsuche mit den Datenbanken Qdrant und PostgreSQL im Vergleich",
       "teaser": "Vektordatenbanken haben sich zur Informationsergänzung etabliert, während klassische Datenbanken Vektorfunktionen nachrüsten. Beide Varianten im Vergleich.",
       "url": "https://www.heise.de/tests/Vektorsuche-mit-den-Datenbanken-Qdrant-und-PostgreSQL-im-Vergleich-9681644.html"
@@ -140,21 +179,6 @@
       "title": "Smart Generator von Ecoflow im Test",
       "teaser": "Mit fossilen Energieträgern kann Notstrom erzeugt werden. Der Generator von EcoFlow lässt sich dabei mit anderen Produkten des Herstellers smart vernetzen.",
       "url": "https://www.heise.de/ratgeber/Smart-Generator-von-Ecoflow-im-Test-9684782.html"
-    },
-    {
-      "title": "Elektroauto MG4 Trophy im Test: Bestseller mit Batterie-Upgrade",
-      "url": "https://www.heise.de/tests/Elektroauto-MG4-Trophy-im-Test-Bestseller-mit-Batterie-Upgrade-9683076.html",
-      "image_title": "MG4"
-    },
-    {
-      "title": "Apple Car: Warum Apples Fahrzeugprojekt gescheitert ist",
-      "url": "https://www.heise.de/hintergrund/Apple-Car-Warum-Apples-Fahrzeugprojekt-gescheitert-ist-9675187.html",
-      "image_title": ", KI-generiert von Midjourney; Montage: Mac & i."
-    },
-    {
-      "title": "Dauertest Audi e-tron: Was toll ist, was besser ginge und was unfassbar nervt",
-      "url": "https://www.heise.de/tests/Dauertest-Audi-e-tron-Was-toll-ist-was-besser-ginge-und-was-unfassbar-nervt-9670277.html",
-      "image_title": "Audi e-tron Sportback"
     },
     {
       "title": "Das Musikprogramm Ableton Live 12 im Test",
@@ -220,27 +244,6 @@
       "image_title": "heise+ Update Briefumschlag"
     },
     {
-      "title": "CI/CD mit GitLab: Deployment einer statischen Website auf einen eigenen Server",
-      "teaser": "Anwendungen tut es gut, wenn man sie in kleinen Inkrementen entwickelt und testet. Die Basis dafür ist CI/CD. Wir geben Ihnen eine Einführung mit GitLab CI.",
-      "url": "https://www.heise.de/hintergrund/CI-CD-mit-GitLab-Deployment-einer-statischen-Website-auf-einen-eigenen-Server-9680277.html"
-    },
-    {
-      "title": "Workstation-CPU: Intel Xeon mit 24 Kernen im Test",
-      "teaser": "Für einen Workstation-Prozessor ist Intels 24-kerniger Xeon w7-2495X noch halbwegs günstig, hat schnelle AVX512-Einheiten und integrierte KI-Beschleuniger AMX.",
-      "url": "https://www.heise.de/tests/Workstation-CPU-Intel-Xeon-mit-24-Kernen-im-Test-9674988.html"
-    },
-    {
-      "title": "High-End-Workstation mit 96-Kern-Prozessor und zwei Profi-Grafikkarten im Test",
-      "teaser": "Enorme Performance: Dell rüstet die Precision 7875 mit der stärksten Workstation-CPU Ryzen Threadripper Pro 7995WX und zwei Nvidia RTX 6000 Ada aus.",
-      "url": "https://www.heise.de/tests/High-End-Workstation-mit-96-Kern-Prozessor-und-zwei-Profi-Grafikkarten-im-Test-9674553.html",
-      "image_title": ","
-    },
-    {
-      "title": "Kurztests: Zwei Apps für Menschen mit Sehbehinderung und eine Mathe-App",
-      "teaser": "Wir haben drei Apps getestet: SOVI und Be My Eyes unterstützen Menschen mit Sehbehinderung im Alltag, Mambio hilft Kindern spielerisch beim Mathelernen.",
-      "url": "https://www.heise.de/tests/Kurztests-Zwei-Apps-fuer-Menschen-mit-Sehbehinderung-und-eine-Mathe-App-9678917.html"
-    },
-    {
       "title": "Solaranlage optimierenMehr Ertrag aus der PV-Anlage – Das bringen Leistungsoptimierer",
       "teaser": "Sie versprechen, die Ausbeute der eigenen Photovoltaikanlagen zu verbessern: Leistungsoptimierer. Wir zeigen, was sie bringen.",
       "url": "https://www.heise.de/ratgeber/Mehr-Ertrag-aus-der-PV-Anlage-Das-bringen-Leistungsoptimierer-9665358.html",
@@ -303,18 +306,19 @@
       "image_title": "Renault Espace 2024"
     },
     {
-      "title": "Know-How: Ein Leitfaden durch das Technik-Wirrwarr um Outlook-Add-ins",
-      "url": "https://www.heise.de/ratgeber/Know-How-Ein-Leitfaden-durch-das-Technik-Wirrwarr-um-Outlook-Add-ins-9686834.html",
-      "image_title": ","
+      "title": "Proxmox VE: Was es kann und was man dafür braucht",
+      "url": "https://www.heise.de/ratgeber/Proxmox-VE-Was-es-kann-und-was-man-dafuer-braucht-9678913.html",
+      "image_title": ", Collage c't"
     },
     {
-      "title": "Smartes Türschloss im Test: Nuki 4 Pro mit Thread und Matter",
-      "url": "https://www.heise.de/tests/Smartes-Tuerschloss-im-Test-Nuki-4-Pro-mit-Thread-und-Matter-9686653.html",
-      "image_title": ","
+      "title": "Virtualisierungsoftware: Alternativen zu VMware",
+      "url": "https://www.heise.de/ratgeber/Virtualisierungsoftware-Alternativen-zu-VMware-9678215.html",
+      "image_title": ", Collage c’t"
     },
     {
-      "title": "Boox Note Air3 C im Test: Hybrid-Tablet mit farbigem E-Paper-Display",
-      "url": "https://www.heise.de/tests/Boox-Note-Air3-C-im-Test-Hybrid-Tablet-mit-farbigem-E-Paper-Display-9686376.html"
+      "title": "Virtualisierung: Wie man Proxmox Virtual Environment produktiv nutzt",
+      "url": "https://www.heise.de/ratgeber/Virtualisierung-Wie-man-Proxmox-Virtual-Environment-produktiv-nutzt-9676708.html",
+      "image_title": ","
     },
     {
       "title": "Inhalte teilen, Geld sparenApples Familienfreigabe auskosten",
@@ -345,16 +349,16 @@
       "image_title": ","
     },
     {
+      "title": "CI/CD mit GitLab: Deployment einer statischen Website auf einen eigenen Server",
+      "url": "https://www.heise.de/hintergrund/CI-CD-mit-GitLab-Deployment-einer-statischen-Website-auf-einen-eigenen-Server-9680277.html"
+    },
+    {
       "title": "Mehr Sicherheit durch risiko- und kontextbasierte Multi-Faktor-Authentifizierung",
       "url": "https://www.heise.de/hintergrund/Mehr-Sicherheit-durch-risiko-und-kontextbasierte-Multi-Faktor-Authentifizierung-9680813.html"
     },
     {
       "title": "Statt Passwörter: Passkeys in eigenen Anwendungen nutzen",
       "url": "https://www.heise.de/hintergrund/Statt-Passwoerter-Passkeys-in-eigenen-Anwendungen-nutzen-9680373.html"
-    },
-    {
-      "title": "Eigene Server mit Pushauthentifizierung schützen",
-      "url": "https://www.heise.de/hintergrund/Eigene-Server-mit-Pushauthentifizierung-schuetzen-9680041.html"
     },
     {
       "title": "Künstliche Intelligenz: Eine Frage des Bewusstseins",
