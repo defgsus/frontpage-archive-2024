@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-23T00:26:54",
+  "timestamp": "2024-04-23T01:42:10",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -38,10 +38,16 @@
   ],
   "articles": [
     {
+      "title": "Bundesfinanzministerium : Bund nahm im ersten Halbjahr mehr Steuern ein",
+      "teaser": "Die Steuereinnahmen des Bundes sind erneut gestiegen – trotz eines schwachen März. Den Ausblick bezeichnet das Bundesfinanzministerium als \"aufgehellt\".",
+      "url": "https://www.zeit.de/wirtschaft/2024-04/steuern-2024-einnahmen-steigen-erstes-quartal-finanzministerium",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-04/steuern-bund-mehr/wide__1000x562"
+    },
+    {
       "title": "Solarindustrie : Branchenverband kritisiert Solarpakt der Regierung",
       "teaser": "Das Solarpaket der Ampel genügt der Branche nicht. Die Koalition vergebe damit \"vielleicht die letzte Chance für eine Renaissance der Solarindustrie in Deutschland\".",
       "url": "https://www.zeit.de/wirtschaft/2024-04/deutschland-wirtschaft-solar-industrie-photovoltaik",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-04/solarpaket-klimaschutz-energie-standortwettbewerb/wide__1000x562"
+      "image_url": "https://img.zeit.de/wirtschaft/2024-04/solarpaket-klimaschutz-energie-standortwettbewerb/super__430x286"
     },
     {
       "title": "Anne Brorhilker : Chefermittlerin im Cum-Ex-Skandal kündigt",
@@ -53,13 +59,13 @@
       "title": "Verrat von Militärtechnik : Drei Deutsche wegen mutmaßlicher Spionage für China festgenommen",
       "teaser": "Drei deutsche Staatsbürger sollen für den chinesischen Geheimdienst Wirtschaftsspionage betrieben haben. Es gehe um die Übergabe von militärisch relevantem Technikwissen.",
       "url": "https://www.zeit.de/politik/ausland/2024-04/zwei-deutsche-wegen-mutmasslicher-spionage-fuer-china-festgenommen",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-04/zwei-deutsche-wegen-mutmasslicher-spionage-fuer-china-festgenommen-bild-2/super__430x286"
+      "image_url": "https://img.zeit.de/politik/ausland/2024-04/zwei-deutsche-wegen-mutmasslicher-spionage-fuer-china-festgenommen-bild-2/wide__892x501"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Dürre in Katalonien : Wer darf noch in den Pool?",
       "teaser": "In Spanien wächst der Ärger über verschwenderische Touristen. Katalanische Hotels sollen ihre Pools nun auch Einheimischen öffnen. Lieber entsalzen sie Meerwasser.",
       "url": "https://www.zeit.de/wirtschaft/2024-04/duerre-katalonien-wassernotstand-hotels-tourismus",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-04/duerre-katalonien-wassernotstand-hotels-tourismus-bild/wide__892x501"
+      "image_url": "https://img.zeit.de/wirtschaft/2024-04/duerre-katalonien-wassernotstand-hotels-tourismus-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Wasserpfeifen : Tabak aus der Badewanne",
@@ -72,12 +78,6 @@
       "teaser": "Kanzler Scholz hat die Hannover Messe eröffnet und Kritik aus der Industrie zurückgewiesen. Deutschlands Konjunktur bessere sich. Nun müsse Bürokratie abgebaut werden.",
       "url": "https://www.zeit.de/wirtschaft/2024-04/bundeskanzler-olaf-scholz-hannover-messe-energiewende",
       "image_url": "https://img.zeit.de/wirtschaft/2024-04/bundeskanzler-olaf-scholz-hannover-messe-energiewende-bild/super__430x286"
-    },
-    {
-      "title": "E-Autos : Tesla senkt wegen geringer Nachfrage Preise in China und den USA",
-      "teaser": "Der Markt für Elektroautos schwächelt weltweit. Insbesondere Tesla steht unter Druck. Auf dem größten Automarkt der Welt in China werden einheimische Marken beliebter.",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-04/tesla-preissenkung-china-geringe-nachfrage",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-04/tesla-preissenkung-china/super__430x286"
     },
     {
       "title": "Anne Brorhilker : Chefermittlerin im Cum-Ex-Skandal kündigt",
@@ -155,6 +155,12 @@
       "image_url": "https://img.zeit.de/wirtschaft/2021-06/money-matters-bild/square__430x430"
     },
     {
+      "title": "E-Autos : Tesla senkt wegen geringer Nachfrage Preise in China und den USA",
+      "teaser": "Der Markt für Elektroautos schwächelt weltweit. Insbesondere Tesla steht unter Druck. Auf dem größten Automarkt der Welt in China werden einheimische Marken beliebter.",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-04/tesla-preissenkung-china-geringe-nachfrage",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-04/tesla-preissenkung-china/super__430x286"
+    },
+    {
       "title": "Volkswagen : Chinesische Hacker sollen VW in großem Stil ausspioniert haben",
       "teaser": "Tausende Dateien über technologische Details sollen Medienberichten zufolge ab 2010 bei VW abgeflossen sein. Verdächtigt werden chinesische Staatshacker.",
       "url": "https://www.zeit.de/wirtschaft/2024-04/volkswagen-hacker-china",
@@ -176,25 +182,19 @@
       "title": "Volkswagen : Beschäftigte von VW in Tennessee stimmen für Gewerkschaftsbeitritt",
       "teaser": "Zweimal war die US-Gewerkschaft UAW gescheitert, die VW-Belegschaft in Chattanooga zu vertreten. Jetzt hat eine große Mehrheit der Arbeiter für einen Beitritt gestimmt.",
       "url": "https://www.zeit.de/arbeit/2024-04/vw-beschaeftigte-usa-abstimmung-gewerkschaft",
-      "image_url": "https://img.zeit.de/arbeit/2024-04/vw-beschaeftigte-usa-abstimmung-gewerkschaft-bild/super__430x286"
+      "image_url": "https://img.zeit.de/arbeit/2024-04/vw-beschaeftigte-usa-abstimmung-gewerkschaft-bild/wide__892x501"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Schuldenbremse : Was will dieser Mann?",
       "teaser": "Christian Lindner hat eine Wirtschaftswende ausgerufen, doch es ist kein Geld da. Deshalb sucht der Bundesfinanzminister nach Alternativen.",
       "url": "https://www.zeit.de/wirtschaft/2024-04/christian-lindner-schuldenbremse-iwf-wirtschaftswende",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-04/christian-lindner-washington-usa-wirtschaftswende-bild/wide__892x501"
+      "image_url": "https://img.zeit.de/wirtschaft/2024-04/christian-lindner-washington-usa-wirtschaftswende-bild/super__430x286"
     },
     {
       "title": "Kryptowährungen : Bitcoin-Halving abgeschlossen",
       "teaser": "Etwa alle vier Jahre halbiert sich der Nachschub an neuen Bitcoins, die an großen Rechnern geschürft werden. Das dürfte langfristig den Preis nach oben treiben.",
       "url": "https://www.zeit.de/wirtschaft/geldanlage/2024-04/bitcoin-halving-krypto-investition",
       "image_url": "https://img.zeit.de/wirtschaft/geldanlage/2024-04/bitcoin-halving-krypto-investition-bild/super__430x286"
-    },
-    {
-      "title": "Kredite für Klimaschutz : Weltbank erhöht Kreditvolumen um 70 Milliarden US-Dollar",
-      "teaser": "Deutschland und zehn weitere Industriestaaten haben der Weltbank zusätzliche Mittel zugesagt. Neue Kredite sollen unter anderem beim Klimaschutz zum Einsatz kommen.",
-      "url": "https://www.zeit.de/wirtschaft/2024-04/weltbank-kreditvolumen-70-milliarden-klimaschutz",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-04/weltbank-kreditvolumen-70-milliarden-klimaschutz-bild/super__430x286"
     },
     {
       "title": "USA : Tesla ruft Tausende Cybertrucks wegen Problemen am Gaspedal zurück",
@@ -248,9 +248,7 @@
     {
       "title": "Automobilbranche : Die Zulieferer schlagen Alarm",
       "teaser": "Die Zulieferindustrie ist unter Druck. Energiekosten, Fachkräftemangel, Umweltvorgaben und nicht zuletzt die Konkurrenz aus Fernost. Wie lange geht das noch gut?",
-      "url": "https://www.wiwo.de/unternehmen/auto/automobilbranche-die-zulieferer-schlagen-alarm/29766386.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/continental-produktion-48-volt-elektroantrieb/29766534/3-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
-      "image_title": "Die Zulieferer schlagen Alarm"
+      "url": "https://www.wiwo.de/unternehmen/auto/automobilbranche-die-zulieferer-schlagen-alarm/29766386.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett"
     }
   ]
 }
