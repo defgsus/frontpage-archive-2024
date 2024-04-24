@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-24T10:01:00",
+  "timestamp": "2024-04-24T11:01:01",
   "url": "https://www.welt.de/regionales/",
   "response": {
     "status": 200
@@ -26,6 +26,21 @@
   ],
   "articles": [
     {
+      "title": "Wie eine Brauerei zum Vorreiter für die Verkehrswende wird",
+      "teaser": "In Nordrhein-Westfalen demonstriert die Warsteiner Brauerei, wie man Güter effizient auf die Schienen einer Nebenstrecke bringt – und die Straße spürbar entlastet. In der Region wird der Ruf laut, das auf den Personennahverkehr auszuweiten. Doch die Hürden sind hoch.",
+      "url": "https://www.welt.de/politik/deutschland/",
+      "image_url": "https://img.welt.de/img/politik/deutschland/mobile251177038/3797930537-ci23x11-w20/E-Lok-der-Warsteiner-Brauerei-Transport-3.jpg",
+      "image_title": "Ein Güterzug mit E-Lok der Warsteiner Brauerei",
+      "author": "Matthias Kamann"
+    },
+    {
+      "title": "Fast alle Ermittlungen zu rechtsextremen Vorfällen an Schule in Burg eingestellt",
+      "teaser": "Gegen mehrere Schüler aus Südbrandenburg wurde wegen rechtsextremer Äußerungen ermittelt. Die Beschuldigten hätten ein „jugendtypisches, unreflektiertes“ Verhalten gezeigt, sagt eine Sprecherin. Die Schule leidet derweil weiter unter der Abwanderung von Lehrern.",
+      "url": "https://www.welt.de/vermischtes/kriminalitaet/",
+      "image_url": "https://img.welt.de/img/vermischtes/kriminalitaet/mobile251190878/7047932437-ci23x11-w20/Schule-in-Burg-im-Spreewald.jpg",
+      "image_title": "Brandenburg, Burg: Das Wort «Rücksicht» steht auf einem Transparent vor der Grund- und Oberschule im Spreewald"
+    },
+    {
       "title": "CDU fordert härteres Vorgehen gegen Jugendgang vom Jungfernstieg",
       "teaser": "Der Rechtsstaat müsse der Gruppe, deren Mitglieder als äußerst gewalttätig gelten, mit aller Härte entgegentreten, fordert die Hamburger CDU nach der Verhaftung eines 18-Jährigen. Ihm werden schwerer Raub, gefährliche Körperverletzung, Bedrohung und Drogenhandel vorgeworfen.",
       "url": "https://www.welt.de/regionales/hamburg/",
@@ -46,21 +61,6 @@
       "image_url": "https://img.welt.de/img/incoming/mobile251184468/8907932217-ci23x11-w20/54-Sitzung-des-Landtags-Nordrhein-Westfalen.jpg",
       "image_title": "NRW-Justizminister Benjamin Limbach (Grüne)",
       "author": "Kristian Frigelj"
-    },
-    {
-      "title": "Suche nach vermisstem autistischen Jungen – Luftwaffe hilft mit Aufklärungsjet",
-      "teaser": "Der sechsjährige Arian aus dem niedersächsischen Bremervörde wird weiter vermisst. Nach zwei kalten Nächten spricht die Polizei von einer „sehr ernsten“ Lage. Hilfe kommt nun von höchster Stelle.",
-      "url": "https://www.welt.de/vermischtes/weltgeschehen/",
-      "image_url": "https://img.welt.de/img/vermischtes/weltgeschehen/mobile251189336/9397930847-ci23x11-w20/Polizei-sucht-nach-vermisstem-Sechsjaehrigen.jpg",
-      "image_title": "Bremervörde: Einsatzkräfte laufen über einen Feldweg auf den Wald zu"
-    },
-    {
-      "title": "In Zeitz gibt es den „lebendigsten Käse der Welt“",
-      "teaser": "Im Juni eröffnet das schickste Käsemuseum Frankreichs, und auch die Schweizer sind groß in der Käse-Vermarktung. Davon könnte sich Deutschland eine Scheibe abschneiden, denn auch hierzulande gibt es Potenzial – inklusive einer kuriosen Spezialität.",
-      "url": "https://www.welt.de/reise/deutschland/",
-      "image_url": "https://img.welt.de/img/reise/mobile251166178/6867934827-ci23x11-w20/Kaesemilbe-das-grosse-Krabbeln-in-Wuerschwitz.jpg",
-      "image_title": "Milbenkäse aus Würchwitz bei Zeitz in Sachsen-Anhalt",
-      "author": "Kira Hanser"
     },
     {
       "title": "Lieferando-Gutschein",
@@ -254,6 +254,13 @@
       "image_title": "Ein Streifenwagen der Polizei mit eingeschaltetem Blaulicht"
     },
     {
+      "title": "Suche nach vermisstem autistischen Jungen – Luftwaffe hilft mit Aufklärungsjet",
+      "teaser": "Der sechsjährige Arian aus dem niedersächsischen Bremervörde wird weiter vermisst. Nach zwei kalten Nächten spricht die Polizei von einer „sehr ernsten“ Lage. Hilfe kommt nun von höchster Stelle.",
+      "url": "https://www.welt.de/vermischtes/weltgeschehen/",
+      "image_url": "https://img.welt.de/img/vermischtes/weltgeschehen/mobile251189336/9397930847-ci23x11-w20/Polizei-sucht-nach-vermisstem-Sechsjaehrigen.jpg",
+      "image_title": "Bremervörde: Einsatzkräfte laufen über einen Feldweg auf den Wald zu"
+    },
+    {
       "title": "Autistischer Sechsjähriger verschwunden – große Suchaktion in Niedersachsen",
       "teaser": "In Niedersachsen sucht ein Großaufgebot an Polizisten und Rettungskräften nach einem autistischen Sechsjährigen. Der Junge kann sich nicht ausdrücken und reagiert nicht auf Ansprache. Für Meldungen aus der Bevölkerung wurde ein Hinweistelefon freigeschaltet.",
       "url": "https://www.welt.de/vermischtes/weltgeschehen/",
@@ -267,13 +274,6 @@
       "image_url": "https://img.welt.de/img/politik/deutschland/mobile251111364/4157933617-ci23x11-w20/Fruehjahrstagung-der-SPD-Landesgruppen-auf-Norderney.jpg",
       "image_title": "Saskia Esken, SPD-Bundesvorsitzende, auf der Fähre nach Norderney",
       "author": "Hannah Bethke"
-    },
-    {
-      "title": "Islam-Verband wünscht sich Ramadan-Beleuchtung in Hannover",
-      "teaser": "In diesem Jahr wurden bereits einige deutsche Städte anlässlich des Ramadans mit Fest-Beleuchtung geschmückt. Der Islam-Verband Schura wünscht sich das auch für die niedersächsische Landeshauptstadt. Er argumentiert mit der Gleichberechtigung aller Religionen.",
-      "url": "https://www.welt.de/politik/deutschland/",
-      "image_url": "https://img.welt.de/img/bildergalerien/mobile250934668/2497934187-ci23x11-w20/Ramadan-in-Frankfurt.jpg",
-      "image_title": "Der Schriftzug «Happy Ramadan» leuchtete in diesem Jahr unter anderem in Frankfurt am Main"
     },
     {
       "title": "„Höllenloch, Zombieland, Deutschlands gefährlichster Slum“",
@@ -344,6 +344,14 @@
       "author": "Frederik Schindler"
     },
     {
+      "title": "In Zeitz gibt es den „lebendigsten Käse der Welt“",
+      "teaser": "Im Juni eröffnet das schickste Käsemuseum Frankreichs, und auch die Schweizer sind groß in der Käse-Vermarktung. Davon könnte sich Deutschland eine Scheibe abschneiden, denn auch hierzulande gibt es Potenzial – inklusive einer kuriosen Spezialität.",
+      "url": "https://www.welt.de/reise/deutschland/",
+      "image_url": "https://img.welt.de/img/reise/mobile251166178/6867934827-ci23x11-w20/Kaesemilbe-das-grosse-Krabbeln-in-Wuerschwitz.jpg",
+      "image_title": "Milbenkäse aus Würchwitz bei Zeitz in Sachsen-Anhalt",
+      "author": "Kira Hanser"
+    },
+    {
       "title": "AfD-naher Pfarrer aus Sachsen-Anhalt weist Vorwürfe der Evangelischen Kirche zurück",
       "teaser": "Wegen seiner Kandidatur als Parteiloser auf der AfD-Liste bei der Wahl in Quedlinburg, leitete die Evangelische Kirche ein Disziplinarverfahren gegen den Pfarrer Martin Michaelis ein. Der wies die Vorwürfe nun zurück. Er beabsichtigt, an seiner Kandidatur festzuhalten.",
       "url": "https://www.welt.de/politik/deutschland/",
@@ -356,13 +364,6 @@
       "url": "https://www.welt.de/politik/deutschland/",
       "image_url": "https://img.welt.de/img/bildergalerien/mobile250732802/6617937607-ci23x11-w20/Debatte-ueber-den-Umgang-mit-der-AfD.jpg",
       "image_title": "Das Parteilogo der AfD"
-    },
-    {
-      "title": "Unbekannte sprühen Hakenkreuz an ehemalige Synagoge",
-      "teaser": "In Eisleben in Sachsen-Anhalt haben bislang unbekannte Täter verfassungsfeindliche Symbole an eine ehemalige Synagoge gesprüht. In der Nähe wurde außerdem noch der Schriftzug „Mörder“ entdeckt. Die Polizei ermittelt.",
-      "url": "https://www.welt.de/vermischtes/",
-      "image_url": "https://img.welt.de/img/vermischtes/mobile250428304/1767932327-ci23x11-w20/Geldautomat-in-Thale-gesprengt.jpg",
-      "image_title": "Geldautomat in Thale gesprengt"
     },
     {
       "title": "Prozess gegen Höcke – AfD-Politiker schweigt vor Gericht",
@@ -407,6 +408,122 @@
       "image_title": "Die „Atlantic Navigator II“ im Überseehafen Rostock"
     },
     {
+      "title": "AfD klagt gegen Einstufung als rechtsextremistisch",
+      "url": "https://www.welt.de/regionales/sachsen-anhalt/article251194600/AfD-klagt-gegen-Einstufung-als-rechtsextremistisch.html"
+    },
+    {
+      "title": "München bekommt eine zusätzliche S-Bahnlinie",
+      "url": "https://www.welt.de/regionales/bayern/article251194592/Muenchen-bekommt-eine-zusaetzliche-S-Bahnlinie.html"
+    },
+    {
+      "title": "Pegel: Keine mangelnde Verfolgung ausländischer Straftäter",
+      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article251194586/Pegel-Keine-mangelnde-Verfolgung-auslaendischer-Straftaeter.html"
+    },
+    {
+      "title": "«Unter Druck» - Ausstellung rund um die Zugtoilette",
+      "url": "https://www.welt.de/regionales/bayern/article251194560/Unter-Druck-Ausstellung-rund-um-die-Zugtoilette.html"
+    },
+    {
+      "title": "«Schockanruf» bei 78-Jährigem: Polizei fasst Betrüger",
+      "url": "https://www.welt.de/regionales/berlin/article251194484/Schockanruf-bei-78-Jaehrigem-Polizei-fasst-Betrueger.html"
+    },
+    {
+      "title": "Erneut Corona-Verordnung auf Prüfstand -Entscheidung im Juni",
+      "url": "https://www.welt.de/regionales/thueringen/article251194396/Erneut-Corona-Verordnung-auf-Pruefstand-Entscheidung-im-Juni.html"
+    },
+    {
+      "title": "Woidke sieht «gute Bilanz» und weist Kritik zurück",
+      "url": "https://www.welt.de/regionales/berlin/article251194386/Woidke-sieht-gute-Bilanz-und-weist-Kritik-zurueck.html"
+    },
+    {
+      "title": "Ökonom Felbermayr: Wachstum reicht für Klimawende nicht aus",
+      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article251194388/Oekonom-Felbermayr-Wachstum-reicht-fuer-Klimawende-nicht-aus.html"
+    },
+    {
+      "title": "Ex-Freundin auf Gehweg erstochen: 52-Jähriger schweigt",
+      "url": "https://www.welt.de/regionales/hamburg/article251194362/Ex-Freundin-auf-Gehweg-erstochen-52-Jaehriger-schweigt.html"
+    },
+    {
+      "title": "Brüderpaar Welzmüller beendet Karriere in Unterhaching",
+      "url": "https://www.welt.de/regionales/bayern/article251194244/Bruederpaar-Welzmueller-beendet-Karriere-in-Unterhaching.html"
+    },
+    {
+      "title": "18-Jähriger soll aus Hotelzimmer Drogen verkauft haben: Haft",
+      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article251194168/18-Jaehriger-soll-aus-Hotelzimmer-Drogen-verkauft-haben-Haft.html"
+    },
+    {
+      "title": "Untersuchung belastet früheren Beratungsstellen-Leiter",
+      "url": "https://www.welt.de/regionales/niedersachsen/article251194194/Untersuchung-belastet-frueheren-Beratungsstellen-Leiter.html"
+    },
+    {
+      "title": "BVG: Einige Anzeigetafeln zeigen keine Abfahrtszeiten",
+      "url": "https://www.welt.de/regionales/berlin/article251194196/BVG-Einige-Anzeigetafeln-zeigen-keine-Abfahrtszeiten.html"
+    },
+    {
+      "title": "Ahouansou verlässt Löwen und wechselt nach Wetzlar",
+      "url": "https://www.welt.de/regionales/hessen/article251194116/Ahouansou-verlaesst-Loewen-und-wechselt-nach-Wetzlar.html"
+    },
+    {
+      "title": "Saar-Beamte bekommen mehr Geld - und auch die Abgeordneten",
+      "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article251194164/Saar-Beamte-bekommen-mehr-Geld-und-auch-die-Abgeordneten.html"
+    },
+    {
+      "title": "Kind nach Unfall weiter in Lebensgefahr",
+      "url": "https://www.welt.de/regionales/niedersachsen/article251194114/Kind-nach-Unfall-weiter-in-Lebensgefahr.html"
+    },
+    {
+      "title": "Brezen-Falle entlarvt Dieb in Bäckerei in der Oberpfalz",
+      "url": "https://www.welt.de/regionales/bayern/article251194090/Brezen-Falle-entlarvt-Dieb-in-Baeckerei-in-der-Oberpfalz.html"
+    },
+    {
+      "title": "Wie eine Brauerei zum Vorreiter für die Verkehrswende wird",
+      "url": "https://www.welt.de/politik/deutschland/article251170670/Schiene-statt-Strasse-Wie-eine-Brauerei-zum-Vorreiter-fuer-die-Verkehrswende-wird.html"
+    },
+    {
+      "title": "Kristjansson vermisst gesperrten Portner: «Ich glaube Niko»",
+      "url": "https://www.welt.de/regionales/sachsen/article251193418/Kristjansson-vermisst-gesperrten-Portner-Ich-glaube-Niko.html"
+    },
+    {
+      "title": "Land Berlin kauft der Vonovia rund 4500 Wohnungen ab",
+      "url": "https://www.welt.de/regionales/berlin/article251193566/Land-Berlin-kauft-der-Vonovia-rund-4500-Wohnungen-ab.html"
+    },
+    {
+      "title": "Neu beim New Faces Award: Publikum darf einen Preis vergeben",
+      "url": "https://www.welt.de/regionales/berlin/article251193136/Neu-beim-New-Faces-Award-Publikum-darf-einen-Preis-vergeben.html"
+    },
+    {
+      "title": "Dresdner Volleyballerinnen verpflichten Julie Lengweiler",
+      "url": "https://www.welt.de/regionales/thueringen/article251192594/Dresdner-Volleyballerinnen-verpflichten-Julie-Lengweiler.html"
+    },
+    {
+      "title": "Nachwuchs bei den Amurtigern im Kölner Zoo",
+      "url": "https://www.welt.de/regionales/nrw/article251192522/Nachwuchs-bei-den-Amurtigern-im-Koelner-Zoo.html"
+    },
+    {
+      "title": "Zwei Verletzte nach Wohnhausbrand im Kreis Sigmaringen",
+      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article251192406/Zwei-Verletzte-nach-Wohnhausbrand-im-Kreis-Sigmaringen.html"
+    },
+    {
+      "title": "Greuther Fürth leiht Hoffenheimer Torwarttalent aus",
+      "url": "https://www.welt.de/regionales/bayern/article251192324/Greuther-Fuerth-leiht-Hoffenheimer-Torwarttalent-aus.html"
+    },
+    {
+      "title": "Fast alle Ermittlungen zu rechtsextremen Vorfällen an Schule in Burg eingestellt",
+      "url": "https://www.welt.de/vermischtes/kriminalitaet/article251190324/Brandenburg-Fast-alle-Ermittlungen-zu-rechtsextremen-Vorfaellen-an-Schule-in-Burg-eingestellt.html"
+    },
+    {
+      "title": "Große Arbeitskräftelücke in Schleswig-Holstein erwartet",
+      "url": "https://www.welt.de/regionales/hamburg/article251192296/Grosse-Arbeitskraefteluecke-in-Schleswig-Holstein-erwartet.html"
+    },
+    {
+      "title": "Kneipp erleidet vor EU-Gericht Niederlage in Markenstreit",
+      "url": "https://www.welt.de/regionales/bayern/article251192228/Kneipp-erleidet-vor-EU-Gericht-Niederlage-in-Markenstreit.html"
+    },
+    {
+      "title": "Neuer Landgerichtspräsident in Dresden nun offiziell im Amt",
+      "url": "https://www.welt.de/regionales/sachsen/article251192100/Neuer-Landgerichtspraesident-in-Dresden-nun-offiziell-im-Amt.html"
+    },
+    {
       "title": "Optendrenk: NRW benötigt 580.000 Plätze im offenen Ganztag",
       "url": "https://www.welt.de/regionales/nrw/article251192094/Optendrenk-NRW-benoetigt-580-000-Plaetze-im-offenen-Ganztag.html"
     },
@@ -415,128 +532,20 @@
       "url": "https://www.welt.de/regionales/berlin/article251191966/Juristin-Heide-Pfarr-mit-Berliner-Frauenpreis-ausgezeichnet.html"
     },
     {
-      "title": "Über 300 Krankheitsfälle nach Besuch des Frühlingsfestes",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article251191898/Ueber-300-Krankheitsfaelle-nach-Besuch-des-Fruehlingsfestes.html"
-    },
-    {
-      "title": "Teewurst auf der A61 sorgt für Verkehrsbehinderungen",
-      "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article251191858/Teewurst-auf-der-A61-sorgt-fuer-Verkehrsbehinderungen.html"
-    },
-    {
-      "title": "Bündnis veröffentlicht Wahlaufruf: Unterstützung von Bela B",
-      "url": "https://www.welt.de/regionales/hamburg/article251191834/Buendnis-veroeffentlicht-Wahlaufruf-Unterstuetzung-von-Bela-B.html"
-    },
-    {
-      "title": "Hoffenheim verleiht U20-Nationaltorwart nach Fürth",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article251191812/Hoffenheim-verleiht-U20-Nationaltorwart-nach-Fuerth.html"
-    },
-    {
-      "title": "Nonnemacher: CDU-Vorschlag zu Bezahlkarte nicht unterstützen",
-      "url": "https://www.welt.de/regionales/berlin/article251191820/Nonnemacher-CDU-Vorschlag-zu-Bezahlkarte-nicht-unterstuetzen.html"
-    },
-    {
-      "title": "Freiburg nimmt Kurs auf Verpackungssteuer",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article251191874/Freiburg-nimmt-Kurs-auf-Verpackungssteuer.html"
-    },
-    {
-      "title": "Neureuther traut Hirscher Comeback zu: «Er will abliefern»",
-      "url": "https://www.welt.de/regionales/bayern/article251191814/Neureuther-traut-Hirscher-Comeback-zu-Er-will-abliefern.html"
-    },
-    {
-      "title": "Keine Mehrheit für AfD-Kandidat Korell",
-      "url": "https://www.welt.de/regionales/sachsen-anhalt/article251191770/Keine-Mehrheit-fuer-AfD-Kandidat-Korell.html"
-    },
-    {
-      "title": "Frau in Bad Kreuznach schwer verletzt",
-      "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article251191788/Frau-in-Bad-Kreuznach-schwer-verletzt.html"
-    },
-    {
-      "title": "Kölner Haie ernennen Baldys zum Sportdirektor",
-      "url": "https://www.welt.de/regionales/nrw/article251191660/Koelner-Haie-ernennen-Baldys-zum-Sportdirektor.html"
-    },
-    {
-      "title": "Bislang mehr als 6000 Bäume für Wildkatzenwälder gepflanzt",
-      "url": "https://www.welt.de/regionales/thueringen/article251191640/Bislang-mehr-als-6000-Baeume-fuer-Wildkatzenwaelder-gepflanzt.html"
-    },
-    {
-      "title": "Diebstahl und Drogen: Polizei nimmt Vater und Sohn fest",
-      "url": "https://www.welt.de/regionales/hessen/article251191504/Diebstahl-und-Drogen-Polizei-nimmt-Vater-und-Sohn-fest.html"
-    },
-    {
-      "title": "St. Pauli erhöht vor Rostock-Spiel die Sicherheitsmaßnahmen",
-      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article251191638/St-Pauli-erhoeht-vor-Rostock-Spiel-die-Sicherheitsmassnahmen.html"
+      "title": "Mehr als 300 Krankheitsfälle nach Besuch von Frühlingsfest",
+      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article251191898/Mehr-als-300-Krankheitsfaelle-nach-Besuch-von-Fruehlingsfest.html"
     },
     {
       "title": "CDU fordert härteres Vorgehen gegen Jugendgang vom Jungfernstieg",
       "url": "https://www.welt.de/regionales/hamburg/article251190084/Hamburg-CDU-fordert-haerteres-Vorgehen-gegen-Jugendgang-vom-Jungfernstieg.html"
     },
     {
-      "title": "Chefdirigent leitet künftig auch israelisches Orchester",
-      "url": "https://www.welt.de/regionales/thueringen/article251190970/Chefdirigent-leitet-kuenftig-auch-israelisches-Orchester.html"
-    },
-    {
-      "title": "Ärztekammer: Flächendeckende Versorgung gefährdet",
-      "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article251190954/Aerztekammer-Flaechendeckende-Versorgung-gefaehrdet.html"
-    },
-    {
-      "title": "Bundestrainer happy: Top-Kader, NHL-Verstärkungen in Sicht",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article251190894/Bundestrainer-happy-Top-Kader-NHL-Verstaerkungen-in-Sicht.html"
-    },
-    {
-      "title": "Europa-Park startet neue Achterbahn «Voltron Nevera»",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article251190800/Europa-Park-startet-neue-Achterbahn-Voltron-Nevera.html"
-    },
-    {
-      "title": "Zwei Geldautomaten gesprengt - Unbekannte flüchten",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article251190768/Zwei-Geldautomaten-gesprengt-Unbekannte-fluechten.html"
-    },
-    {
-      "title": "Friedrichshafen glaubt an Titel",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article251190774/Friedrichshafen-glaubt-an-Titel.html"
-    },
-    {
-      "title": "Großteil der Ermittlungen nach Vorfällen in Burg eingestellt",
-      "url": "https://www.welt.de/regionales/berlin/article251190732/Grossteil-der-Ermittlungen-nach-Vorfaellen-in-Burg-eingestellt.html"
-    },
-    {
-      "title": "Besucher klagen nach Besuch von Frühlingsfest über Übelkeit",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article251190724/Besucher-klagen-nach-Besuch-von-Fruehlingsfest-ueber-Uebelkeit.html"
-    },
-    {
-      "title": "Tausch im Schwenninger Tor: Bitzer kommt für Brenner",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article251190472/Tausch-im-Schwenninger-Tor-Bitzer-kommt-fuer-Brenner.html"
-    },
-    {
-      "title": "Ministerin bespricht mit U-Ausschuss Aktenlieferung zur Flut",
-      "url": "https://www.welt.de/regionales/nrw/article251190486/Ministerin-bespricht-mit-U-Ausschuss-Aktenlieferung-zur-Flut.html"
-    },
-    {
       "title": "„Verstörend“ – Senat warnt Schulen vor Videos zu „Vergewaltigungstag“",
       "url": "https://www.welt.de/politik/deutschland/article251186836/Berlin-Senat-warnt-Schulen-vor-Vergewaltigungstag-im-Internet.html"
     },
     {
-      "title": "Rostock braucht 600 Wahlhelfer: Zwangsverpflichtung möglich",
-      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article251190496/Rostock-braucht-600-Wahlhelfer-Zwangsverpflichtung-moeglich.html"
-    },
-    {
       "title": "Besetzungsaffäre um grünen Minister – „Symptomatisch für eine tiefgreifende Justizkrise“",
       "url": "https://www.welt.de/politik/deutschland/article251184064/NRW-Besetzungsaffaere-um-gruenen-Minister-Limbach-Symptomatisch-fuer-eine-tiefgreifende-Justizkrise.html"
-    },
-    {
-      "title": "Gomez über RB-Meisterchancen: «Uns fehlt die Konstanz»",
-      "url": "https://www.welt.de/regionales/sachsen-anhalt/article251190376/Gomez-ueber-RB-Meisterchancen-Uns-fehlt-die-Konstanz.html"
-    },
-    {
-      "title": "Größter Teil der Berufsschüler in dualer Ausbildung",
-      "url": "https://www.welt.de/regionales/sachsen-anhalt/article251190348/Groesster-Teil-der-Berufsschueler-in-dualer-Ausbildung.html"
-    },
-    {
-      "title": "Intershop liegt nur noch leicht im Minus",
-      "url": "https://www.welt.de/regionales/thueringen/article251190322/Intershop-liegt-nur-noch-leicht-im-Minus.html"
-    },
-    {
-      "title": "Ärzteverband warnt vor Nachwuchsmangel",
-      "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article251190320/Aerzteverband-warnt-vor-Nachwuchsmangel.html"
     },
     {
       "title": "Suche nach vermisstem autistischen Jungen – Luftwaffe hilft mit Aufklärungsjet",
@@ -637,14 +646,6 @@
     {
       "title": "„Der Besuch zeigt, dass wir nicht allein sind“",
       "url": "https://www.welt.de/regionales/hamburg/article251143720/Tschentschers-Ukraine-Besuch-Der-Besuch-zeigt-dass-wir-nicht-allein-sind.html"
-    },
-    {
-      "title": "Wagenknecht-Bündnis strebt Regierungsbeteiligung in Sachsen an",
-      "url": "https://www.welt.de/politik/deutschland/article251142254/Wagenknecht-Buendnis-strebt-Regierungsbeteiligung-in-Sachsen-an.html"
-    },
-    {
-      "title": "Das Hamburger Stadtderby könnte Schauplatz einer besonderen Demütigung werden",
-      "url": "https://www.welt.de/regionales/hamburg/article251142042/Zweite-Liga-Das-Hamburger-Stadtderby-koennte-Schauplatz-einer-besonderen-Demuetigung-werden.html"
     }
   ]
 }
