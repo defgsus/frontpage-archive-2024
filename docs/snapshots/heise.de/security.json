@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-24T08:00:48",
+  "timestamp": "2024-04-24T09:00:47",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "AMD Radeon",
+      "url": "https://www.heise.de/news/AMD-Radeon-Grafiktreiber-Update-schliesst-Codeschmuggel-Luecke-9695994.html"
+    },
+    {
       "title": "CrushFTP",
       "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Dateiuebertragungsserver-CrushFTP-beobachtet-9693009.html"
     },
@@ -44,8 +48,22 @@
       "url": "https://www.heise.de/news/Mitel-SIP-Phones-anfaellig-fuer-unbefugte-Zugriffe-9690432.html"
     },
     {
-      "title": "Solarwinds Serv-U",
-      "url": "https://www.heise.de/news/Update-fuer-Solarwinds-FTP-Server-Serv-U-schliesst-Luecke-mit-hohem-Risiko-9689092.html"
+      "title": "AMD Radeon-Grafiktreiber: Update schließt Codeschmuggel-Lücke",
+      "teaser": "AMD hat Updates für Radeon-Grafiktreiber für DirectX 11 veröffentlicht. Sie schließen Sicherheitslücken, durch die Angreifer Schadcode einschleusen können.",
+      "url": "https://www.heise.de/news/AMD-Radeon-Grafiktreiber-Update-schliesst-Codeschmuggel-Luecke-9695994.html",
+      "image_title": "Stilisierte Grafik: zersplitterter Sicherheitsschild auf einem Laptop"
+    },
+    {
+      "title": "Forscher extrahiert DRM-Schlüssel von Microsoft und lädt Netflix-Filme runter",
+      "teaser": "Microsofts Kopierschutz PlayReady für VoD-Inhalte ist löchrig. Das zeigt ein Sicherheitsforscher nun erneut auf.",
+      "url": "https://www.heise.de/news/Forscher-extrahiert-DRM-Schluessel-von-Microsoft-und-laedt-Netflix-Filme-runter-9696020.html",
+      "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
+    },
+    {
+      "title": "iX-Workshop für KMUs: Schritt für Schritt zur sicheren IT",
+      "teaser": "Erhalten Sie einen Überblick über Methoden und Best Practices für eine effiziente Cybersicherheitsstrategie. (Last Call)",
+      "url": "https://www.heise.de/news/iX-Workshop-fuer-KMUs-Schritt-fuer-Schritt-zur-sicheren-IT-9689478.html",
+      "image_title": "iX-Workshop: IT-Sicherheit für KMU"
     },
     {
       "title": "Ransomware: Immer weniger Opfer zahlen Lösegeld – Zahlungsverbot in weiter Ferne",
@@ -72,7 +90,7 @@
       "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
     },
     {
-      "title": "iX-Workshop: Sich selbst hacken – Pentesting mit Open-Source-Werkzeugen",
+      "title": "iX-Workshop: Schwachstellen aufdecken – Pentesting mit Open-Source-Tools",
       "teaser": "Lernen Sie, wie Sie Sicherheitslücken in der eigenen Unternehmens-IT mit Hacker-Tools aufdecken und beseitigen. (10% Rabatt bis 06.05.)",
       "url": "https://www.heise.de/news/iX-Workshop-Sich-selbst-hacken-Pentesting-mit-Open-Source-Werkzeugen-9688753.html",
       "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
@@ -144,23 +162,6 @@
       "teaser": "Internationale Strafverfolger haben eine DDoS-as-a-service-Plattform abgeschaltet und die Domain beschlagnahmt.",
       "url": "https://www.heise.de/news/DDoS-Plattform-von-internationalen-Strafverfolgern-abgeschaltet-9691053.html",
       "image_title": "Handscheillen auf einer Tastatur"
-    },
-    {
-      "title": "CISA und Europol teilen wichtige Details im Kampf gegen Akira-Ransomware",
-      "teaser": "Die Cyberkriminellen hinter Akira erpressen weltweit Millionenbeträge. In einem Beitrag verschiedener Institutionen gibt es wichtige Fakten zur Abwehr.",
-      "url": "https://www.heise.de/news/CISA-und-Europol-teilen-wichtige-Details-im-Kampf-gegen-Akira-Ransomware-9690899.html"
-    },
-    {
-      "title": "FIDO2-Sticks: Lücke in Yubikey-Verwaltungssoftware erlaubt Rechteausweitung",
-      "teaser": "Um die FIDO2-Sticks von Yubikey zu verwalten, stellt der Hersteller eine Software bereit. Eine Lücke darin ermöglicht die Ausweitung der Rechte.",
-      "url": "https://www.heise.de/news/FIDO2-Sticks-Luecke-in-Yubikey-Verwaltungssoftware-erlaubt-Rechteausweitung-9690597.html",
-      "image_title": "Stilisierte Grafik: ein Schloss mit biometrischen Schlüsseln"
-    },
-    {
-      "title": "\"iMessage abschalten\": Warnung vor angeblichem Exploit verunsichert Nutzer",
-      "teaser": "Ein bekanntes Krypto-Wallet warnt iOS-Nutzer vor einem \"hochriskanten Zero-Day-Exploit für iMessage\". Der angebliche Exploit könnte aber ein Scam sein.",
-      "url": "https://www.heise.de/news/iMessage-abschalten-Warnung-vor-angeblichem-Exploit-verunsichert-Nutzer-9690778.html",
-      "image_title": "Messages-App auf dem iPhone"
     },
     {
       "title": "Kommentar: Die gefährliche Beißhemmung des BSI gegenüber Microsoft",
