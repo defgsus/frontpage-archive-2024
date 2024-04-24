@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-24T09:00:45",
+  "timestamp": "2024-04-24T10:00:38",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "Blogging-Plattform: Auch Ghost wird komplett ans Fediverse angebunden",
+      "teaser": "Das Fediverse wächst weiter: Über das zugrundeliegende Protokoll ActivityPub soll in diesem Jahr auch die Blogging- und Newsletter-Plattform Ghost föderieren.",
+      "url": "https://www.heise.de/news/Blogging-Plattform-Auch-Ghost-wird-komplett-ans-Fediverse-angebunden-9694569.html",
+      "image_title": "Text auf Tablet: \"It’s time to bring back the open web.\""
+    },
+    {
       "title": "Robotaxi fährt lange im Gegenverkehr: Waymo spricht von Risikovermeidung",
       "teaser": "Die Robotaxis von Waymo sind lange ohne große Zwischenfälle unterwegs. Nun zeigt ein Video, wie eines davon 30 Sekunden lang im Gegenverkehr unterwegs ist.",
       "url": "https://www.heise.de/news/Robotaxi-faehrt-lange-im-Gegenverkehr-Waymo-spricht-von-Risikovermeidung-9694365.html",
@@ -38,12 +44,6 @@
       "image_title": "Hände auf Tastatur im Dunklen"
     },
     {
-      "title": "VASA: Microsoft-KI generiert aus Foto und Sprachaufnahme \"sprechendes Gesicht\"",
-      "teaser": "Bei Microsoft wurde ein Videogenerator entwickelt, der aus einem Foto und einer Audioaufnahme von Sprache ein Video erschafft. Veröffentlicht wird er nicht.",
-      "url": "https://www.heise.de/news/VASA-Microsoft-KI-generiert-aus-Foto-und-Sprachaufnahme-sprechendes-Gesicht-9690420.html",
-      "image_title": "Mehrere fotorealistisch erscheinende Bilder von Gesichtern mit starker Mimik"
-    },
-    {
       "title": "Leitfaden: Schriftarten rechtssicher lizenzieren",
       "teaser": "Mitarbeiter in Unternehmen verletzen Lizenzen oft aus Unkenntnis. Tipps helfen, Schriftlizenzierung zu verstehen und rechtliche Fallstricke zu vermeiden.",
       "url": "https://www.heise.de/hintergrund/Leitfaden-Schriftarten-rechtssicher-lizenzieren-9691510.html",
@@ -54,6 +54,30 @@
       "teaser": "Mobilprozessoren rechnen dank KI-Beschleunigern, Hybrid-Kernen und Chiplet-Aufbau immer schneller und effizienter. Wir helfen, den passenden Chip zu finden.",
       "url": "https://www.heise.de/tests/Notebook-Prozessoren-von-AMD-Apple-und-Intel-im-Vergleich-9686247.html",
       "image_title": ", KI Midjourney Bearbeitung c't"
+    },
+    {
+      "title": "Microsoft korrigiert Exchange-Probleme der März-Updates mit Hotfix",
+      "teaser": "Microsoft hat einen Hotfix im April für Exchange-Server veröffentlicht. Der korrigiert unter anderem Probleme, die das März-Sicherheitsupdate mitbrachte.",
+      "url": "https://www.heise.de/news/Microsoft-korrigiert-Exchange-Probleme-der-Maerz-Updates-mit-Hotfix-9696216.html",
+      "image_title": "Mail-Logo auf Bildschirm"
+    },
+    {
+      "title": "Octapharma: Nach \"auffälligen Aktivitäten\" Eintrag auf Leaksite entdeckt",
+      "teaser": "Nachdem das Pharmaunternehmen Octapharma Plasma \"auffällige Netzwerkaktivitäten\" festgestellt hat, ist ein Hinweis zu gestohlenen Daten im Darknet aufgetaucht.",
+      "url": "https://www.heise.de/news/Octapharma-Plasma-Nach-auffaelligen-Aktivitaeten-in-den-USA-Eintrag-auf-Leaksite-9696044.html",
+      "image_title": "Plasmaspende (Symbolbild)"
+    },
+    {
+      "title": "Weiterhin Drittanbieter-Cookies – Google verschiebt Privacy Sandbox",
+      "teaser": "Google will Drittanbieter-Cookies nun erst 2025 abschaffen. Der Fahrplan für die Privacy Sandbox verschiebt sich damit erneut.",
+      "url": "https://www.heise.de/news/Google-verschiebt-Privacy-Sandbox-erneut-auf-2025-9696124.html",
+      "image_title": "Kind isst Kekse, spielt an einem Tablet und streckt die Zunge in die Kamera"
+    },
+    {
+      "title": "BGH-Urteil: Amazons überragende marktübergreifende Bedeutung bestätigt",
+      "teaser": "Das Bundeskartellamt sieht eine große Macht bei Amazon und hat den Konzern unter verschärfte Wettbewerbsaufsicht gestellt. Der BGH stärkt den Rücken.",
+      "url": "https://www.heise.de/news/BGH-bestaetigt-Amazons-ueberragende-marktuebergreifende-Bedeutung-9696277.html",
+      "image_title": "Detailaufnahme eines Amazon-Pakets. Auf dem orangen Klebeneband steht neben dem Amazon-Logo \"Spend less. Smile more.\""
     },
     {
       "title": "Wegen KI-Boom: Erdgasbranche erwartet mehr Nachfrage bis Ende des Jahrzehnts",
@@ -120,30 +144,6 @@
       "teaser": "Dieses Mal ist Fedora um weitreichende Neuerungen nicht verlegen: Unified Kernel Images (UKIs) sind nachrüstbar. Die KDE-Version verabschiedet sich von Xorg.",
       "url": "https://www.heise.de/news/Fedora-40-Unified-Kernel-Images-kommen-9695684.html",
       "image_title": "Fedora 40-Desktop auf Laptop auf Schreibtisch"
-    },
-    {
-      "title": "EU-Parlament beschließt Recht auf Reparatur und Ökodesign-Gesetz​",
-      "teaser": "Der neue Anspruch der Verbraucher auf Reparatur defekter Geräte wie Smartphones oder Waschmaschinen soll die Kreislaufwirtschaft beflügeln.​",
-      "url": "https://www.heise.de/news/EU-Parlament-beschliesst-Recht-auf-Reparatur-und-Oekodesign-Gesetz-9695607.html",
-      "image_title": "Zwei Menschen reparieren einen Computer und beugen sich mit Werkzeug in der Hand über ein geöffnetes PC-Gehäuse."
-    },
-    {
-      "title": "eHealth: Nach Cyberangriff droht US-Bevölkerung großer Datenleak",
-      "teaser": "Change Healthcare hat nach einem Cyberangriff zugegeben, Lösegeld gezahlt zu haben. Dieser soll das Unternehmen bereits 1 Milliarde US-Dollar gekostet haben.",
-      "url": "https://www.heise.de/news/eHealth-Nach-Cyberangriff-droht-US-Bevoelkerung-grosser-Datenleak-9695208.html",
-      "image_title": "Person am Rechner, neben ihr einzelne Datenpunkte"
-    },
-    {
-      "title": "Virtualisieren mit Proxmox | c’t uplink",
-      "teaser": "In diesem c’t uplink gehts um Proxmox, eine kostenlose Virtualisierungsplattform.",
-      "url": "https://www.heise.de/news/Virtualisieren-mit-Proxmox-c-t-uplink-9691494.html",
-      "image_title": "c't uplink Thumbnail"
-    },
-    {
-      "title": "\"Lass dich frei\": Apple kündigt Event für den 7. Mai an​",
-      "teaser": "Die lange erwartete Ankündigung neuer iPads konkretisiert sich. Apple hat für Dienstag, 7. Mai, ein Event angekündigt.​",
-      "url": "https://www.heise.de/news/Lass-dich-frei-Apple-kuendigt-Event-fuer-den-7-Mai-an-9695497.html",
-      "image_title": "Logo der Einladung zum Apple Event"
     },
     {
       "title": "Low-Code ist nicht immer gleich Low-Code.",
