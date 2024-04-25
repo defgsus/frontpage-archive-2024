@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-25T06:07:33",
+  "timestamp": "2024-04-25T07:00:59",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -147,21 +147,27 @@
       "image_title": "Mini Aceman"
     },
     {
+      "title": "Infrastructure-as-Code: Automatisch planen und aufräumen mit Pulumi Deployments",
+      "teaser": "Für umfassendes IaC-Workflow-Management bietet Pulumi neue Funktionen, darunter Erkennen und Beseitigen von Drift sowie Bereitstellen nach Zeitplan.",
+      "url": "https://www.heise.de/news/Infrastructure-as-Code-Automatisch-planen-und-aufraeumen-mit-Pulumi-Deployments-9696843.html",
+      "image_title": "Infrastructure-as-Code: Automatisch planen und aufräumen mit Pulumi Deployments"
+    },
+    {
       "title": "iX-Workshop: Effektive zentrale Authentifizierung mit Entra ID (Azure AD)",
       "teaser": "Erfahren Sie, wie Sie Entra ID (bisher Azure Active Directory) als Cloud-basierten Authentifizierungsdienst einsetzen und hybride Identitäten sicher verwalten.",
       "url": "https://www.heise.de/news/iX-Workshop-Effektive-zentrale-Authentifizierung-mit-Entra-ID-Azure-AD-9690920.html",
       "image_title": "Workshop Azure AD als zentralen Verzeichnisdienst inrichten"
     },
     {
+      "title": "Kompromittierte Kennwörter: Ursachen und Lösung",
+      "teaser": "Unsichere oder kompromittierte Kennwörter sind das Haupteinfallstor für Cyberkriminelle in die IT-Infrastruktur. Dabei lassen sich auch komplexe Systeme mit den richtigen Tools und Verfahren sowie vergleichsweise geringem Aufwand weitreichend gegen unberechtigte Zugriffe absichern.",
+      "url": "https://www.heise.de/solutions/specops/kompromittierte-kennwoerter-in-der-it-infrastruktur-ursachen-und-loesung//?source=nat_teas"
+    },
+    {
       "title": "Netflix erhöht die Preise auch für Bestandskunden",
       "teaser": "Zuerst galten die neuen Netflix-Preise für Neukunden – bald werden aber auch Bestandskunden verstärkt zur Kasse gebeten. Darüber informiert Netflix per Mail.",
       "url": "https://www.heise.de/news/Netflix-erhoeht-die-Preise-auch-fuer-Bestandskunden-9697377.html",
       "image_title": "Handy mit Netflix-Logo"
-    },
-    {
-      "title": "Kompromittierte Kennwörter: Ursachen und Lösung",
-      "teaser": "Unsichere oder kompromittierte Kennwörter sind das Haupteinfallstor für Cyberkriminelle in die IT-Infrastruktur. Dabei lassen sich auch komplexe Systeme mit den richtigen Tools und Verfahren sowie vergleichsweise geringem Aufwand weitreichend gegen unberechtigte Zugriffe absichern.",
-      "url": "https://www.heise.de/solutions/specops/kompromittierte-kennwoerter-in-der-it-infrastruktur-ursachen-und-loesung//?source=nat_teas"
     },
     {
       "title": "Büroarbeiter bangen wegen KI kaum um ihre Jobs",
@@ -192,12 +198,6 @@
       "url": "https://www.heise.de/news/heiseshow-Europol-vs-E2E-TikTok-Ultimatum-KI-Zukunft-9697069.html"
     },
     {
-      "title": "TikTok wehrt sich gegen Zwangsverkauf und US-Verbot: \"Wir gehen nirgendwo hin!\"",
-      "teaser": "Nachdem TikTok in den USA zum Verkauf der App gezwungen werden soll, kündigt der TikTok-Chef den Kampf gegen das Gesetz an. Er erwartet einen Sieg vor Gericht.",
-      "url": "https://www.heise.de/news/TikTok-wehrt-sich-gegen-US-Auflagen-Wir-gehen-nirgendwo-hin-9697314.html",
-      "image_title": "TikTok-Logo auf einem Smartphone, in dem sich die US-Flagge spiegelt."
-    },
-    {
       "title": "Anleitung Raumthermostate clever ins Smart Home integrieren",
       "teaser": "Bestehende, nicht Smart-Home-fähige Thermostate werden zu maßgeschneiderten Temperatur-Wächtern.",
       "url": "https://www.heise.de/ratgeber/Herkoemmliche-Raumthermostate-clever-ins-Smart-Home-integrieren-9653744.html"
@@ -218,6 +218,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 Euro sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "TikTok wehrt sich gegen Zwangsverkauf und US-Verbot: \"Wir gehen nirgendwo hin!\"",
+      "teaser": "Nachdem TikTok in den USA zum Verkauf der App gezwungen werden soll, kündigt der TikTok-Chef den Kampf gegen das Gesetz an. Er erwartet einen Sieg vor Gericht.",
+      "url": "https://www.heise.de/news/TikTok-wehrt-sich-gegen-US-Auflagen-Wir-gehen-nirgendwo-hin-9697314.html",
+      "image_title": "TikTok-Logo auf einem Smartphone, in dem sich die US-Flagge spiegelt."
     },
     {
       "title": "Meta Platforms scheffelt Geld für mehr KI, Aktie fällt",
@@ -288,15 +294,15 @@
       "image_title": "Plattformarbeiter nimmt an Schreibtisch Auftrag entgegen"
     },
     {
+      "title": "Smart City – mit VR die Stadt von morgen erkunden",
+      "teaser": "Was verbirgt sich hinter dem Versprechen einer „Smart City“? In einem Webcast können Sie in eine virtuelle Welt eintauchen und hautnah erleben, wie „Smart Parking“ und „Smart Lighting“ die Stadt von morgen lebenswerter machen.",
+      "url": "https://business-services.heise.de/it-management/virtualisierung/beitrag/smart-city-mit-vr-die-stadt-von-morgen-erkunden-4701/?source=nat_teas"
+    },
+    {
       "title": "KI-Update kompakt: LLMs untertrainiert, Verbraucherschutz, Photoshop, Civil War",
       "teaser": "Das \"KI-Update\" liefert werktäglich eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
       "url": "https://www.heise.de/news/KI-Update-kompakt-LLMs-untertrainiert-Verbraucherschutz-Photoshop-Civil-War-9696440.html",
       "image_title": "Logo zum Podcast KI Update"
-    },
-    {
-      "title": "Smart City – mit VR die Stadt von morgen erkunden",
-      "teaser": "Was verbirgt sich hinter dem Versprechen einer „Smart City“? In einem Webcast können Sie in eine virtuelle Welt eintauchen und hautnah erleben, wie „Smart Parking“ und „Smart Lighting“ die Stadt von morgen lebenswerter machen.",
-      "url": "https://business-services.heise.de/it-management/virtualisierung/beitrag/smart-city-mit-vr-die-stadt-von-morgen-erkunden-4701/?source=nat_teas"
     },
     {
       "title": "Aristas neue Access-Points: Schnell – und bislang einmalige Security-Features",
@@ -351,12 +357,6 @@
       "teaser": "Die Linux-Distribution Tails zum anonymen Bewegen im Netz ist in Version 6.2 erschienen. Hauptaugemerkt lag auf den Übersetzungen.",
       "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-6-2-legt-Schwerpunkt-auf-Uebersetzungen-9696516.html",
       "image_title": "Der Tails-Desktop"
-    },
-    {
-      "title": "KI-Brille übersetzt Zeichensprache on the Fly",
-      "teaser": "Mithilfe eines Raspberry Pi Zero und cloudbasierter KI kann eine 3D-gedruckte Brille Zeichensprache in gesprochenes Wort übersetzen.",
-      "url": "https://www.heise.de/news/KI-Brille-uebersetzt-Zeichensprache-on-the-Fly-9696498.html",
-      "image_title": "Eine weiße, 3D-gedruckte Brille vor orangem Hintergrund. In der Mitte zwischen den Linsen ist eine Kamera zu sehen."
     },
     {
       "title": "Jim Keller über KI: \"In 10 Jahren ist alle Software weg\"",
@@ -604,6 +604,12 @@
       "image_title": "Von iOS bis watchOS: Wie es um Apples Betriebssysteme steht Mac & i-Podcast"
     },
     {
+      "title": "KI-Brille übersetzt Zeichensprache on the Fly",
+      "teaser": "Mithilfe eines Raspberry Pi Zero und cloudbasierter KI kann eine 3D-gedruckte Brille Zeichensprache in gesprochenes Wort übersetzen.",
+      "url": "https://www.heise.de/news/KI-Brille-uebersetzt-Zeichensprache-on-the-Fly-9696498.html",
+      "image_title": "Eine weiße, 3D-gedruckte Brille vor orangem Hintergrund. In der Mitte zwischen den Linsen ist eine Kamera zu sehen."
+    },
+    {
       "title": "Multimaterial-Filament: Kombination von Materialien und Farben",
       "teaser": "Entwickelt wurden Verfahren, verschiedene Thermoplaste in einem Filamentstrang zu vereinen. So werden dekorative und technische Eigenschaften kombiniert.",
       "url": "https://www.heise.de/news/Multimaterial-Filament-Kombination-von-Materialien-und-Farben-9695096.html"
@@ -612,12 +618,6 @@
       "title": "Jetzt in der Make 2/24: Thermostate ins Netz bringen",
       "teaser": "Einfache Thermostate lassen sich mit einem ESP32 auch nachträglich ins Smart Home einbinden. Wie das geht, erklären wir in der Make 2/24.",
       "url": "https://www.heise.de/news/Jetzt-in-der-Make-2-24-Thermostate-ins-Netz-bringen-9688735.html"
-    },
-    {
-      "title": "Intel basiertes Compute-Modul mit Open-Source Carrierdesigns",
-      "teaser": "Der LattePanda MU ist ein zu Windows kompatibles Compute-Modul auf Basis des 3,4-GHz-Intel-Prozessors N100. Die Trägerboards für das Modul sind Open-Source.",
-      "url": "https://www.heise.de/news/Intel-basiertes-Compute-Modul-mit-Open-Source-Carrierdesigns-9687936.html",
-      "image_title": "Das LattePanda Mu Board vor grauem Hintergrund."
     },
     {
       "title": "Fujifilm X100VI im Test: Neuauflage der beliebten Edelkompaktkamera",
@@ -715,38 +715,37 @@
       "url": "https://www.techstage.de/bestenliste/top-10-die-besten-e-scooter-von-ninebot-bis-xiaomi-im-test/1wx49v3?wt_mc=intern.red.techstage.techstage_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Fukushima: Japan will radioaktiv kontaminiertes Wasser ins Meer leiten",
-      "teaser": "Energie und Klima – kompakt: Japans Nachbarn sind empört über das Verhalten der Regierung in Tokio. Doch wie gefährlich ist das mit Tritium verunreinigte Kühlwasser? Was bereitet Wissenschaftlern Sorgen?",
-      "url": "https://www.heise.de/tp/features/Fukushima-Japan-will-radioaktiv-kontaminiertes-Wasser-ins-Meer-leiten-9208744.html"
+      "title": "Warum gibt es keine deutschen Unternehmen, die nur E-Autos herstellen?",
+      "teaser": "Die Elektroauto-Verkäufe gehen weltweit steil nach oben. Auch in Deutschland. Aber Tesla und chinesische Hersteller hängen VW und Co. ab. Warum das so ist und wir aufs Elektropedal treten müssen.",
+      "url": "https://www.heise.de/tp/features/Warum-gibt-es-keine-deutschen-Unternehmen-die-nur-E-Autos-herstellen-9207186.html"
     },
     {
-      "title": "El Niño gestartet: Warum das nichts Gutes für die Welt bedeutet",
-      "teaser": "Energie und Klima – kompakt: Wichtige Wind- und Meeresströmungen ändern sich. Die Meteorologen warnen vor extremen Temperaturen, aber auch Unwettern. Warum ist das so?",
-      "url": "https://www.heise.de/tp/features/El-Nino-gestartet-Warum-das-nichts-Gutes-fuer-die-Welt-bedeutet-9207700.html"
+      "title": "Ukraine-Krieg, Nato und Russland: Perverses Spiel mit der nuklearen Gefahr",
+      "teaser": "Die Zeichen stehen auf Eskalation. Die größte Bedrohung wird im Westen leichtfertig abgetan. Wie dramatisch die Zuspitzung ist, zeigt ein Abgleich der Debatte mit der Lage Ende 2018.",
+      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Nato-und-Russland-Perverses-Spiel-mit-der-nuklearen-Gefahr-9208766.html"
     },
     {
-      "title": "Verfassungsgericht stoppt Abstimmung zu Heizungsgesetz vorerst",
-      "teaser": "Rückschlag für die Ampel: Das umstrittene Gesetz darf in dieser Woche nicht beschlossen werden. Damit gab es dem Antrag eines CDU-Abgeordneten statt. Das sind die Gründe.",
-      "url": "https://www.heise.de/tp/features/Verfassungsgericht-stoppt-Abstimmung-zu-Heizungsgesetz-vorerst-9208389.html",
-      "image_title": "Umstrittenes Heizungsgesetz wurde vom Gericht gestoppt."
+      "title": "Ukraine-Krieg: Nukleare Eskalation unwahrscheinlich – und doch wahrscheinlicher",
+      "teaser": "Nach der Wagner-Revolte muss der Kreml Stärke beweisen. Das steigert das Risiko, meint der russische Politologe Michail Troizki. Er weist auf ein Paradoxon hin .",
+      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Nukleare-Eskalation-unwahrscheinlich-und-doch-wahrscheinlicher-9207244.html"
     },
     {
-      "title": "Civil War: A24 nutzt KI-generierte Werbebilder – samt Artefakten",
-      "teaser": "Um den Film Civil War zu bewerben, hat das Studio dahinter Bilder von US-amerikanischen Kriegsschauplätzen generieren lassen.",
-      "url": "https://www.heise.de/news/Civil-War-A24-nutzt-KI-generierte-Werbebilder-samt-Artefakten-9694783.html",
-      "image_title": "Ein KI-generiertes Bild zeigt Soldaten in San Francisco."
+      "title": "Steam schränkt Rückerstattungen von Spielen mit Vorabzugang ein",
+      "teaser": "Bei Steam darf man Titel zurückgeben, die bis zu zwei Stunden gespielt wurden. Bei Spielen mit Vorabzugang zählte der Timer erst nach Release – das ändert sich.",
+      "url": "https://www.heise.de/news/Steam-schraenkt-Rueckerstattungen-von-Spielen-mit-Vorabzugang-ein-9695861.html",
+      "image_title": "Steam-Logo auf Laptop-Bildschirm"
     },
     {
-      "title": "\"Star Wars Outlaws\": Ubisoft verbrennt sich mit exklusiver Premium-Mission",
-      "teaser": "Eine bestimmte Mission mit Jabba dem Hutten darf man nur spielen, wenn man den Season Pass von \"Star Wars Outlaws\" kauft. Spiele-Fans sind empört.",
-      "url": "https://www.heise.de/news/Star-Wars-Outlaws-Aerger-um-Premium-exklusive-Jabba-Mission-9687260.html",
-      "image_title": "Screenshot aus \"Star Wars Outlaws\" zeigt Frau auf fremdem Planeten"
+      "title": "Meta AI läuft jetzt mit Llama 3",
+      "teaser": "Meta Llama 3 ersetzt Llama 2. Bigger, better, faster, more!​",
+      "url": "https://www.heise.de/news/Meta-AI-laeuft-jetzt-mit-Llama-3-9690318.html",
+      "image_title": "Meta-Logo und Kopf eines weiblichen Roboters"
     },
     {
-      "title": "Take-Two: \"GTA 6\"-Publisher entlässt 5 Prozent der Belegschaft",
-      "teaser": "Take-Two entlässt Mitarbeiter – und folgt damit Sony, Microsoft und weitere Spielefirmen. Der \"GTA 6\"-Publisher will so jährlich 165 Millionen Dollar sparen.",
-      "url": "https://www.heise.de/news/Take-Two-GTA-6-Publisher-entlaesst-5-Prozent-der-Belegschaft-9687383.html",
-      "image_title": "Artwork zu \"GTA 6\" zeigt Paar auf Autohaube"
+      "title": "Bericht: FIFA steht angeblich kurz vor einem TV-Deal mit Apple",
+      "teaser": "Laut einem Bericht der New York Times steht Apple kurz vor einer Einigung mit der FIFA über die Streaming-Rechte an der neuen Fußball-Klub-WM im kommenden Jahr.",
+      "url": "https://www.heise.de/news/Bericht-FIFA-steht-angeblich-kurz-vor-einem-TV-Deal-mit-Apple-9694261.html",
+      "image_title": "Fans bei einem Fußballspiel im Stadion"
     },
     {
       "title": "VPN-Test 2024: Die besten VPN-Anbieter im Vergleich",
