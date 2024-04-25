@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-25T13:00:55",
+  "timestamp": "2024-04-25T14:00:45",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "Der schnellste Arbeitsspeicher muss jetzt nicht mehr verlötet sein",
+      "teaser": "Lenovos Thinkpad P1 Gen 7 hat schnellen LPDDR5X-Speicher, der sich erstmals austauschen lässt. Dafür kommen neue Module zum Einsatz.",
+      "url": "https://www.heise.de/news/Der-schnellste-Arbeitsspeicher-muss-jetzt-nicht-mehr-verloetet-sein-9697045.html",
+      "image_title": "Lenovo Notebook Thinkpad P1 Gen 7 auf blau-weißem Farbverlauf"
+    },
+    {
       "title": "Blogging-Plattform: Auch Ghost wird komplett ans Fediverse angebunden",
       "teaser": "Das Fediverse wächst weiter: Über das zugrundeliegende Protokoll ActivityPub soll in diesem Jahr auch die Blogging- und Newsletter-Plattform Ghost föderieren.",
       "url": "https://www.heise.de/news/Blogging-Plattform-Auch-Ghost-wird-komplett-ans-Fediverse-angebunden-9694569.html",
@@ -36,12 +42,6 @@
       "teaser": "Die Robotaxis von Waymo sind lange ohne große Zwischenfälle unterwegs. Nun zeigt ein Video, wie eines davon 30 Sekunden lang im Gegenverkehr unterwegs ist.",
       "url": "https://www.heise.de/news/Robotaxi-faehrt-lange-im-Gegenverkehr-Waymo-spricht-von-Risikovermeidung-9694365.html",
       "image_title": "Weißes Fahrzeug auf der Gegenspur, ein Pkw kommt entgegen, auf der eigentlichen Spur mehrere PErsonen auf Scootern."
-    },
-    {
-      "title": "Großbritannien: Sexualstraftäter darf jahrelang keine KI-Werkzeuge benutzen",
-      "teaser": "Ein Urteil gegen einen Sexualstraftäter in Großbritannien hat wohl zum ersten Mal das Verbot umfasst, für Jahre jegliche KI-Generatoren zu benutzen.",
-      "url": "https://www.heise.de/news/Grossbritannien-Sexualstraftaeter-darf-jahrelang-keine-KI-Werkzeuge-benutzen-9692867.html",
-      "image_title": "Hände auf Tastatur im Dunklen"
     },
     {
       "title": "Kurztests: Stimmenverstärker-, Konzentrations-App und Insektenstichheiler",
@@ -55,13 +55,19 @@
       "url": "https://www.heise.de/tests/DxO-Nik-Collection-fuer-macOS-im-Test-Restaurierter-Bildprofi-9697543.html"
     },
     {
+      "title": "Mehr Transparenz: Klinik-Atlas startet bald mit Erkenntnissen aus Weisser Liste",
+      "teaser": "Für mehr Transparenz in der Krankenhauslandschaft soll ein Klinik-Atlas des Bundes sorgen. Kritiker fürchten jedoch das Aus kleinerer Kliniken.",
+      "url": "https://www.heise.de/news/Klinik-Atlas-Gesundheitsministerium-setzt-auf-Wissen-der-Bertelsmann-Stiftung-9697434.html",
+      "image_title": "Ärzte im Krankenhaus"
+    },
+    {
       "title": "Mastering Kubernetes am 18. Juni: Energieverbrauch im Cluster im Blick",
       "teaser": "Die von Heise veranstaltete Konferenz widmet sich Werkzeugen aus dem Kubernetes-Ökosystem – von Entwicklerplattformen bis zur Analyse des Energiebedarfs.",
       "url": "https://www.heise.de/news/Mastering-Kubernetes-am-18-Juni-Energieverbrauch-im-Cluster-im-Blick-9697170.html"
     },
     {
       "title": "IBM kauft den Terraform-Anbieter HashiCorp für 6,4 Milliarden US-Dollar​",
-      "teaser": "Nach Red Hat und Apptio und baut IBM mit der Übernahme von HashiCorp seine Patchwork-Familie für das Cloud-Geschäft weiter aus.​",
+      "teaser": "Nach Red Hat und Apptio baut IBM mit der Übernahme von HashiCorp seine Patchwork-Familie für das Cloud-Geschäft weiter aus.​",
       "url": "https://www.heise.de/news/IBM-kauft-den-Terraform-Anbieter-HashiCorp-fuer-6-4-Milliarden-US-Dollar-9698023.html",
       "image_title": "Mann in Anzug hält breit gefächerte Dollarscheine in die Kamera"
     },
@@ -132,12 +138,6 @@
       "teaser": "Für umfassendes IaC-Workflow-Management bietet Pulumi neue Funktionen, darunter Erkennen und Beseitigen von Drift sowie Bereitstellen nach Zeitplan.",
       "url": "https://www.heise.de/news/Infrastructure-as-Code-Automatisch-planen-und-aufraeumen-mit-Pulumi-Deployments-9696843.html",
       "image_title": "Infrastructure-as-Code: Automatisch planen und aufräumen mit Pulumi Deployments"
-    },
-    {
-      "title": "iX-Workshop: Effektive zentrale Authentifizierung mit Entra ID (Azure AD)",
-      "teaser": "Erfahren Sie, wie Sie Entra ID (bisher Azure Active Directory) als Cloud-basierten Authentifizierungsdienst einsetzen und hybride Identitäten sicher verwalten.",
-      "url": "https://www.heise.de/news/iX-Workshop-Effektive-zentrale-Authentifizierung-mit-Entra-ID-Azure-AD-9690920.html",
-      "image_title": "Workshop Azure AD als zentralen Verzeichnisdienst inrichten"
     },
     {
       "title": "Low-Code ist nicht immer gleich Low-Code.",
