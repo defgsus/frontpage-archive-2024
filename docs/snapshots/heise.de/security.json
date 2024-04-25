@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-25T10:00:45",
+  "timestamp": "2024-04-25T11:00:57",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "pfSense",
+      "url": "https://www.heise.de/news/Cross-Site-Scripting-Sicherheitsluecken-in-pfSense-ermoeglichen-Admin-Cookieklau-9696756.html"
+    },
+    {
       "title": "Cisco ASA / FTD",
       "url": "https://www.heise.de/news/Cisco-Angreifer-plazieren-mithilfe-neuer-0-Day-Luecke-Hintertueren-auf-Firewalls-9697459.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Dateiuebertragungsserver-CrushFTP-beobachtet-9693009.html"
     },
     {
-      "title": "Yubikey Manager",
-      "url": "https://www.heise.de/news/FIDO2-Sticks-Luecke-in-Yubikey-Verwaltungssoftware-erlaubt-Rechteausweitung-9690597.html"
+      "title": "Cross-Site Scripting: Sicherheitslücken in pfSense ermöglichen Admin-Cookieklau",
+      "teaser": "Die Open-Source-Firewall pfSense hat mehrere Löcher, durch die Angreifer eigenen Javascript-Code einschleusen können. Updates sind verfügbar.",
+      "url": "https://www.heise.de/news/Cross-Site-Scripting-Sicherheitsluecken-in-pfSense-ermoeglichen-Admin-Cookieklau-9696756.html"
     },
     {
       "title": "Anonymisierendes Linux: Tails 6.2 legt Schwerpunkt auf Übersetzungen",
@@ -70,6 +75,12 @@
       "teaser": "AMD hat Updates für Radeon-Grafiktreiber für DirectX 11 veröffentlicht. Sie schließen Sicherheitslücken, durch die Angreifer Schadcode einschleusen können.",
       "url": "https://www.heise.de/news/AMD-Radeon-Grafiktreiber-Update-schliesst-Codeschmuggel-Luecke-9695994.html",
       "image_title": "Stilisierte Grafik: zersplitterter Sicherheitsschild auf einem Laptop"
+    },
+    {
+      "title": "Forscher extrahiert DRM-Schlüssel von Microsoft und lädt Netflix-Filme runter",
+      "teaser": "Microsofts Kopierschutz PlayReady für VoD-Inhalte ist löchrig. Das zeigt ein Sicherheitsforscher nun erneut auf.",
+      "url": "https://www.heise.de/news/Forscher-extrahiert-DRM-Schluessel-von-Microsoft-und-laedt-Netflix-Filme-runter-9696020.html",
+      "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
     },
     {
       "title": "iX-Workshop für KMUs: Schritt für Schritt zur sicheren IT",
@@ -151,17 +162,6 @@
       "teaser": "Linux-Server und Netzwerkdienste effektiv und umfassend vor Angriffen schützen - von physischer Sicherheit über Verschlüsselung und 2FA bis hin zu SELinux.",
       "url": "https://www.heise.de/news/iX-Workshop-Linux-Server-haerten-9688739.html",
       "image_title": "iX-Workshop: Linux-Server härten"
-    },
-    {
-      "title": "Vermutlich chinesische Industriespione stahlen VW Daten zu E-Antriebstechnik",
-      "teaser": "Zwischen 2010 und 2015 erbeuteten mutmaßlich chinesische Cyberspione rund 19.000 Dateien über E-Mobilität und Antriebstechnologien vom Volkswagen-Konzern.",
-      "url": "https://www.heise.de/news/Industriespionage-VW-jahrelang-Ziel-mutmasslich-chinesischer-Angreifer-9692407.html"
-    },
-    {
-      "title": "NATO-Cyberübung \"Locked Shields\": Phishing verhindern, Container verteidigen",
-      "teaser": "Das Cybersicherheitszentrum der NATO bittet zur Großübung. Sie simuliert, wie kritische Infrastruktur vor digitalen Angriffen geschützt werden kann.",
-      "url": "https://www.heise.de/news/NATO-Cyberuebung-Locked-Shields-Phishing-verhindern-Container-verteidigen-9691854.html",
-      "image_title": "Cybersoldaten in Uniform an Rechnern"
     },
     {
       "title": "heise security tour 2024",
