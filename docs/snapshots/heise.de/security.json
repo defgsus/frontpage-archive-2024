@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-26T08:00:54",
+  "timestamp": "2024-04-26T09:00:51",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "GitLab",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-GitLab-Accounts-uebernehmen-9699252.html"
+    },
+    {
       "title": "pfSense",
       "url": "https://www.heise.de/news/Cross-Site-Scripting-Sicherheitsluecken-in-pfSense-ermoeglichen-Admin-Cookieklau-9696756.html"
     },
@@ -44,8 +48,22 @@
       "url": "https://www.heise.de/news/AMD-Radeon-Grafiktreiber-Update-schliesst-Codeschmuggel-Luecke-9695994.html"
     },
     {
-      "title": "CrushFTP",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Dateiuebertragungsserver-CrushFTP-beobachtet-9693009.html"
+      "title": "Betrugsprävention: Japanische Polizei testet Bezahlkarte, um Scam zu verhindern",
+      "teaser": "In Japan hat die Polizei spezielle Gutscheinkarten eingesetzt, um gegen Betrug vorzugehen. Potenzielle Opfer sollen dabei sensibilisiert werden.",
+      "url": "https://www.heise.de/news/Betrugspraevention-Japanische-Polizei-testet-Bezahlkarte-um-Scam-zu-verhindern-9699131.html",
+      "image_title": "Plastikkarte mit Notebook im Hintergrund"
+    },
+    {
+      "title": "Globales Super-Wahljahr: Google befürchtet Manipulationen und Desinformation",
+      "teaser": "Weltweit sind über zwei Milliarden Menschen zum Gang an die Wahlurne aufgerufen. Cyberkrieger werden Wahlen und Wähler angreifen, so die Google-Analyse.",
+      "url": "https://www.heise.de/news/Globales-Super-Wahljahr-Google-befuerchtet-Manipulationen-und-Desinformation-9698748.html",
+      "image_title": "Eine Wahlurne"
+    },
+    {
+      "title": "Sicherheitsupdates: Angreifer können GitLab-Accounts übernehmen",
+      "teaser": "Wichtige Sicherheitsupdates schließen mehrere Sicherheitslücken in GitLab. Der Anbieter rät zu einem zügigen Update.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-GitLab-Accounts-uebernehmen-9699252.html",
+      "image_title": "Ein Update-Schild auf einer Holzplatte"
     },
     {
       "title": "iX-Workshop: OWASP® Top 10 – Sicherheitsrisiken für Webanwendungen verstehen",
@@ -147,22 +165,6 @@
       "image_title": "Krimineller angelt Kreditkartendaten."
     },
     {
-      "title": "Each one teach one: Mitre-Organisation gibt Einblicke in Cyberattacke",
-      "teaser": "Angreifer haben zwei Ivanti-VPN-Lücken kombiniert und sind in eine Forschungsumgebung der Mitre-Organisation eingestiegen.",
-      "url": "https://www.heise.de/news/Each-one-teach-one-Mitre-Organisation-gibt-Einblicke-in-Cyberattacke-9693285.html",
-      "image_title": "Washington Post: Trump bestätigt Cyberangriff gegen Russland 2018"
-    },
-    {
-      "title": "Ransomware: Quellcode von \"Witcher 3\" und \"Cyberpunk 2077\" veröffentlicht",
-      "teaser": "Die Gruppe \"HelloKitty\" stellte den Quellcode der polnischen Spieleschmiede, darunter \"Cyberpunk 2077\" und \"Witcher 3\" ins Netz. Die Daten stammen von 2021.",
-      "url": "https://www.heise.de/news/Ransomware-Quellcode-von-Witcher-3-und-Cyberpunk-2077-veroeffentlicht-9693040.html"
-    },
-    {
-      "title": "Jetzt patchen! Attacken auf Dateiübertragungsserver CrushFTP beobachtet",
-      "teaser": "Angreifer haben Zugriff auf Systemdaten von CrushFTP-Servern. Verwundbare Systeme gibt es auch in Deutschland.",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Dateiuebertragungsserver-CrushFTP-beobachtet-9693009.html"
-    },
-    {
       "title": "heise security tour 2024",
       "teaser": "Die Konferenz zum Thema IT-Security. Nutzen Sie die einzigartige Gelegenheit, sich direkt aus der ersten Reihe über die neuesten Trends, Technologien und Bedrohungen in der Welt der IT-Sicherheit zu informieren. Dieses Jahr findet die Tour in Köln, Hannover, Stuttgart und online statt.",
       "url": "https://security-tour.heise.de/?wt_mc=intern.academy.security.konf_sectour.hs_teaser.teaser.teaser"
@@ -186,6 +188,11 @@
       "image_title": "Icons der Internetbrowser Safari, Chrome, Edge und Firefox"
     },
     {
+      "title": "Umfrage für Bachelorarbeit - Softwareprodukte für ISMS Einführung",
+      "teaser": "Forum: Diverses",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Diverses/Umfrage-fuer-Bachelorarbeit-Softwareprodukte-fuer-ISMS-Einfuehrung/posting-43930078/show/"
+    },
+    {
       "title": "Re: Virensignaturen werden nicht gespeichert",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Virensignaturen-werden-nicht-gespeichert/posting-43928216/show/"
@@ -194,11 +201,6 @@
       "title": "Nachdem TOR vom US Militär ist wie nun weiter?",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Nachdem-TOR-vom-US-Militaer-ist-wie-nun-weiter/posting-43928123/show/"
-    },
-    {
-      "title": "Re: Im Gegenteil, jetzt erst recht.....",
-      "teaser": "Forum: Passwörter: BSI verabschiedet sich vom präventiven, regelmäßigen Passwort-Wechsel",
-      "url": "https://www.heise.de/forum/heise-Security/News-Kommentare/Passwoerter-BSI-verabschiedet-sich-vom-praeventiven-regelmaessigen-Passwort-Wechsel/Re-Im-Gegenteil-jetzt-erst-recht/posting-43893475/show/"
     }
   ]
 }
