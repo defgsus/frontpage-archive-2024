@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-26T10:00:57",
+  "timestamp": "2024-04-26T11:00:39",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "Ubuntu 24.04 LTS ist da: Das ist neu, das ändert sich, das fällt weg",
+      "teaser": "Pünktlich hat Canonical Ubuntu 24.04 veröffentlicht. Wie üblich bei einer LTS-Version bietet sie viel Evolution, aber nichts wirklich Bahnbrechendes. Gut so.",
+      "url": "https://www.heise.de/news/Ubuntu-24-04-LTS-Viel-Evolution-keine-Revolution-9696939.html",
+      "image_title": "Ubuntu-Logo"
+    },
+    {
       "title": "Gegen China: USA nehmen RISC-V ins Visier",
       "teaser": "US-Gesetzgeber wollen offenbar Chinas Zugriff auf RISC-V-Technik einschränken. Das ist allerdings schwierig, weil der Befehlssatz ohne Lizenz nutzbar ist.",
       "url": "https://www.heise.de/news/Gegen-China-USA-nehmen-RISC-V-ins-Visier-9698248.html",
@@ -38,12 +44,6 @@
       "image_title": "Stilisiertes Bild: Ein Stapel brennender Cisco-Appliances"
     },
     {
-      "title": "QEMU 9.0.0 emuliert (fast) einen kompletten Raspberry Pi 4B​",
-      "teaser": "QEMU-Version 9.0.0 wird Raspberry-Pi-Freunde erfreuen. Es gibt SPI und I²C für ältere Modelle, zudem lässt sich ein fast kompletter Raspberry Pi 4B emulieren.​",
-      "url": "https://www.heise.de/news/QEMU-9-0-0-emuliert-fast-einen-kompletten-Raspberry-Pi-4B-9697578.html",
-      "image_title": "Ein Banner mit Comic-Pinguin und Open-Source-Schriftzug."
-    },
-    {
       "title": "Kurztests: Stimmenverstärker-, Konzentrations-App und Insektenstichheiler",
       "teaser": "Wir haben drei Apps getestet: Whispp für Menschen mit Spracheinschränkung, Ambie fördert die Konzentration und HeatIt ist ein Insektenstichheiler mit App.",
       "url": "https://www.heise.de/tests/Kurztests-Stimmenverstaerker-Konzentrations-App-und-Insektenstichheiler-9694744.html",
@@ -53,6 +53,23 @@
       "title": "DxO Nik Collection für macOS im Test: Restaurierter Bildprofi",
       "teaser": "Mit der DxO Nik Collection überarbeiten Sie einzelne Fotos . Version 6.3 finalisiert die jahrelange Komplettüberarbeitung der acht Apps.",
       "url": "https://www.heise.de/tests/DxO-Nik-Collection-fuer-macOS-im-Test-Restaurierter-Bildprofi-9697543.html"
+    },
+    {
+      "title": "iOS und macOS: Neue Funktionen für Taschenrechner und Notizen-App im Anmarsch",
+      "teaser": "Appe arbeitet an Veränderungen beliebter interner Programme in macOS und iOS. Sie sollen mit Konkurrenz-Apps gleichziehen.",
+      "url": "https://www.heise.de/news/iOS-und-macOS-Neue-Funktionen-fuer-Taschenrechner-und-Notizen-App-im-Anmarsch-9693060.html",
+      "image_title": "Mac mit Tastatur"
+    },
+    {
+      "title": "Tuta Mail beschwert sich bei der EU: Google schränke Sichtbarkeit ein",
+      "teaser": "Google der Gatekeeper: Die Tuta GmbH hat offizielle Beschwerde bei der EU eingereicht, weil sie in den Suchergebnissen kaum mehr auftauchen.",
+      "url": "https://www.heise.de/news/Tuta-Mail-beschwert-sich-bei-der-EU-Google-schraenke-Sichtbarkeit-ein-9699151.html",
+      "image_title": "Frau vor einem Computer wundert sich über ein Projekt"
+    },
+    {
+      "title": "Horizons 2024: Die Zukunft der Digitalisierung gemeinsam gestalten",
+      "teaser": "Starkes Line-Up bietet Unternehmen und Führungskräften wertvolle Einblicke in die Themen der digitalen Transformation.",
+      "url": "https://www.heise.de/news/Horizons-2024-Die-Zukunft-der-Digitalisierung-gemeinsam-gestalten-9697065.html"
     },
     {
       "title": "TechStage-Test: Überraschend guter Mini-PC Gxmo N42 für nur 84 Euro",
@@ -124,23 +141,6 @@
       "teaser": "Lernen Sie die wichtigsten Sicherheitslücken in Web-Anwendungen kennen und erfahren Sie, wie Sie sich erfolgreich schützen können. (10% Rabatt bis 15.04.)",
       "url": "https://www.heise.de/news/iX-Workshop-OWASP-R-Top-10-Sicherheitsrisiken-fuer-Webanwendungen-verstehen-9691096.html",
       "image_title": "Online-Workshop: OWASP Top 10 – Sicherheitslücken in Webanwendungen vermeiden"
-    },
-    {
-      "title": "Vorsicht, Kunde! – der c't-Podcast: Kein Strom vom Balkonkraftwerk",
-      "teaser": "Wenn Balkonkraftwerke keinen Strom liefern, liegt es oft am Wechselrichter. Was Kunden tun können, wenn dieser defekt geliefert wird, besprechen wir im Podcast.",
-      "url": "https://www.heise.de/news/Vorsicht-Kunde-der-c-t-Podcast-Kein-Strom-vom-Balkonkraftwerk-9690390.html"
-    },
-    {
-      "title": "Vorsicht, Kunde: Netto-Balkonkraftwerk liefert keine Energie",
-      "teaser": "Solaranlagen boomen. An dem Geschäft wollen auch Lebensmittel-Discounter verdienen. Doch bei Reklamationen sieht der Service nicht immer sonnig aus.",
-      "url": "https://www.heise.de/ratgeber/Netto-Balkonkraftwerk-liefert-keine-Energie-9668636.html",
-      "image_title": ","
-    },
-    {
-      "title": "Erfahrungsbericht: Deepl startet Schreibhilfe Write Pro für Deutsch und Englisch",
-      "teaser": "Nach einem Jahr ist die Betaphase beendet: Deepl Write hübscht Texte auf, die Qualität schwankte jedoch zuletzt, wie unser Erfahrungsbericht zeigt.",
-      "url": "https://www.heise.de/news/Erfahrungsbericht-Deepl-startet-Schreibhilfe-Write-Pro-fuer-Deutsch-und-Englisch-9698795.html",
-      "image_title": "2 Hände tippen in eine Laptopttastatur"
     },
     {
       "title": "Low-Code ist nicht immer gleich Low-Code.",
