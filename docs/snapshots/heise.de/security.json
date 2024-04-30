@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-30T13:03:45",
+  "timestamp": "2024-04-30T14:00:52",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Acronis Cyber Protect",
+      "url": "https://www.heise.de/news/Acronis-Cyber-Protect-Rechteausweitung-und-Informationsleck-moeglich-9704081.html"
+    },
+    {
       "title": "Qnap NAS",
       "url": "https://www.heise.de/news/Netzwerkspeicher-Qnap-schliesst-Sicherheitsluecken-aus-Hacker-Wettbewerb-Pwn2Own-9701977.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Cross-Site-Scripting-Sicherheitsluecken-in-pfSense-ermoeglichen-Admin-Cookieklau-9696756.html"
     },
     {
-      "title": "Cisco ASA / FTD",
-      "url": "https://www.heise.de/news/Cisco-Angreifer-plazieren-mithilfe-neuer-0-Day-Luecke-Hintertueren-auf-Firewalls-9697459.html"
+      "title": "Acronis Cyber Protect: Rechteausweitung und Informationsleck möglich",
+      "teaser": "Sicherheitslecks in Acronis Cyber Protect ermöglichen die Ausweitung der Rechte und Informationsabfluss. Updates korrigieren das.",
+      "url": "https://www.heise.de/news/Acronis-Cyber-Protect-Rechteausweitung-und-Informationsleck-moeglich-9704081.html",
+      "image_title": "Warndreieck"
     },
     {
       "title": "Neues URI-Schema wegen EU-Regulierung: Website-Verfolgung in Apples Safari",
@@ -156,11 +162,6 @@
       "title": "Cross-Site Scripting: Sicherheitslücken in pfSense ermöglichen Admin-Cookieklau",
       "teaser": "Die Open-Source-Firewall pfSense hat mehrere Löcher, durch die Angreifer eigenen Javascript-Code einschleusen können. Updates sind verfügbar.",
       "url": "https://www.heise.de/news/Cross-Site-Scripting-Sicherheitsluecken-in-pfSense-ermoeglichen-Admin-Cookieklau-9696756.html"
-    },
-    {
-      "title": "WhatsApp rollt Passkey-Funktion für iOS aus",
-      "teaser": "WhatsApp hat damit begonnen, Passkeys in der iOS-Version des Messengers einzuführen. Der sichere Login ist eine Alternative zum Einmalcode per SMS.",
-      "url": "https://www.heise.de/news/WhatsApp-rollt-Passkey-Funktion-fuer-iOS-aus-9697927.html"
     },
     {
       "title": "heise security tour 2024",
