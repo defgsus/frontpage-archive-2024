@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-05-02T11:00:58",
+  "timestamp": "2024-05-02T12:09:53",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Gitlab & Windows Smartscreen",
+      "url": "https://www.heise.de/news/Angreifer-umgehen-Microsoft-Smartscreen-und-brechen-in-Gitlab-ein-9705715.html"
+    },
+    {
       "title": "ArubaOS",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-WLAN-Gateways-von-Aruba-kompromittieren-9705095.html"
     },
@@ -44,11 +48,19 @@
       "url": "https://www.heise.de/news/Netzwerkspeicher-Qnap-schliesst-Sicherheitsluecken-aus-Hacker-Wettbewerb-Pwn2Own-9701977.html"
     },
     {
-      "title": "GitLab",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-GitLab-Accounts-uebernehmen-9699252.html"
+      "title": "CISA warnt: Microsoft Smartcreen- und Gitlab-Sicherheitslücke werden angegriffen",
+      "teaser": "Die US-Cybersicherheitsbehörde CISA hat Angriffe auf eine Lücke im Microsoft Smartscreen und auf eine Gitlab-Schwachstelle gesichtet.",
+      "url": "https://www.heise.de/news/Angreifer-umgehen-Microsoft-Smartscreen-und-brechen-in-Gitlab-ein-9705715.html",
+      "image_title": "Stilisiertes Bild: Spam und Malware umkreisen einen Rechner"
     },
     {
-      "title": "Ransomware REvil: Cyberkrimineller in den USA zu 13 Jahren Haft verurteilt",
+      "title": "2,8 Millionen Docker-Hub-Repositories mit Malware oder Phishing verseucht",
+      "teaser": "Erneut gab es Angriffe auf öffentliche Repositories, diesmal auf Docker Hub. Die Hacker verteilten Trojaner oder stahlen Kreditkartendaten.",
+      "url": "https://www.heise.de/news/2-8-Millionen-Docker-Hub-Repositories-mit-Malware-oder-Phishing-verseucht-9705402.html",
+      "image_title": "Stilisiertes Bild: Ein Stapel brennender Appliances"
+    },
+    {
+      "title": "Sodinokibi/REvil: Ukrainer muss für Ransomware-Angriffe 13 Jahre ins Gefängnis",
       "teaser": "Der 24-Jährige hat sich in den USA schuldig bekannt, mehr als 2500 Ransomware-Angriffe ausgeführt und 700 Millionen US-Dollar Lösegeld verlangt zu haben.",
       "url": "https://www.heise.de/news/Ransomware-REvil-Cyberkrimineller-in-den-USA-zu-13-Jahren-Haft-verurteilt-9705498.html",
       "image_title": "Hände an Laptop-Tastatur mit unscharfem Code im Hintergrund"
@@ -149,18 +161,6 @@
       "title": "Qnap schließt NAS-Sicherheitslücken aus Hacker-Wettbewerb Pwn2Own",
       "teaser": "NAS-Modelle von Qnap sind verwundbar. Nun hat der Hersteller Sicherheitsupdates für das Betriebssystem und Apps veröffentlicht.",
       "url": "https://www.heise.de/news/Netzwerkspeicher-Qnap-schliesst-Sicherheitsluecken-aus-Hacker-Wettbewerb-Pwn2Own-9701977.html"
-    },
-    {
-      "title": "iX-Workshop KRITIS: Zusätzliche Prüfverfahrenskompetenz für § 8a BSIG",
-      "teaser": "Erlangen Sie spezielle Prüfverfahrenskompetenz für § 8a BSIG; inklusive Abschlussprüfung und Zertifizierung. (Last Call)",
-      "url": "https://www.heise.de/news/iX-Workshop-KRITIS-Zusaetzliche-Pruefverfahrenskompetenz-fuer-8a-BSIG-9694159.html",
-      "image_title": "Online-Workshop: KRITIS – Zusätzliche Prüfverfahrenskompetenz für § 8a BSIG"
-    },
-    {
-      "title": "Apple-ID: Nutzer erhalten unerklärliche Passwortresets",
-      "teaser": "Bei einigen Nutzern kam es zu unerwünschten Passwort-Zurücksetzungen ihrer Apple-ID, einige blieben sogar ausgesperrt. Apple sagt zu alldem bislang nichts.",
-      "url": "https://www.heise.de/news/Passwort-Probleme-am-Wochenende-User-aus-Apple-Accounts-ausgeloggt-9701389.html",
-      "image_title": "Apple-ID-Website"
     },
     {
       "title": "heise security tour 2024",
