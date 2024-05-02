@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-05-02T10:01:25",
+  "timestamp": "2024-05-02T11:00:58",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -48,7 +48,30 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-GitLab-Accounts-uebernehmen-9699252.html"
     },
     {
-      "title": "Content Delivery Network JSDelivr: Ausfall trifft zahlreiche Websites",
+      "title": "Ransomware REvil: Cyberkrimineller in den USA zu 13 Jahren Haft verurteilt",
+      "teaser": "Der 24-Jährige hat sich in den USA schuldig bekannt, mehr als 2500 Ransomware-Angriffe ausgeführt und 700 Millionen US-Dollar Lösegeld verlangt zu haben.",
+      "url": "https://www.heise.de/news/Ransomware-REvil-Cyberkrimineller-in-den-USA-zu-13-Jahren-Haft-verurteilt-9705498.html",
+      "image_title": "Hände an Laptop-Tastatur mit unscharfem Code im Hintergrund"
+    },
+    {
+      "title": "Systemd-Alternative zu sudo soll Linux sicherer machen",
+      "teaser": "run0 lässt reguläre Benutzer Programme mit root-Rechten ausführen. Es ähnelt sudo, nutzt aber andere Mechanismen zur Privilegienerhöhung und soll sicherer sein.",
+      "url": "https://www.heise.de/news/Systemd-Alternative-zu-sudo-soll-Linux-sicherer-machen-9705458.html",
+      "image_title": "Illustration Hacker"
+    },
+    {
+      "title": "Microsoft: Patchday-Nebenwirkungen – VPN- und NTLM-Probleme",
+      "teaser": "Die Windows-Sicherheitsupdates aus dem April sorgen für Probleme. In Windows 11 hapert es beim VPN, Server kämpfen mit NTLM.",
+      "url": "https://www.heise.de/news/Microsoft-Patchday-Nebenwirkungen-VPN-und-NTLM-Probleme-9705290.html",
+      "image_title": "Ein felliges Monster mit spitzen Zähne regt sich vor einem Windows-Logo auf"
+    },
+    {
+      "title": "Digitale Signatur: Datenleak bei Dropbox Sign",
+      "teaser": "Unbekannte Angreifer konnten auf Kundendaten des digitalen Signaturservices Dropbox Sign zugreifen. Andere Dropbox-Produkte sollen nicht betroffen sein.",
+      "url": "https://www.heise.de/news/Digitale-Signatur-Datenleak-bei-Dropbox-Sign-9705355.html"
+    },
+    {
+      "title": "Open-Source-CDN JSDelivr: Ausfall trifft zahlreiche Sites weltweit",
       "teaser": "Ein abgelaufenes Zertifikat von Cloudflare hat das öffentliche Content Delivery Network JSDelivr für einige Stunden lahmgelegt.",
       "url": "https://www.heise.de/news/Content-Delivery-Network-JSDelivr-Ausfall-trifft-zahlreiche-Websites-9705222.html"
     },
@@ -138,30 +161,6 @@
       "teaser": "Bei einigen Nutzern kam es zu unerwünschten Passwort-Zurücksetzungen ihrer Apple-ID, einige blieben sogar ausgesperrt. Apple sagt zu alldem bislang nichts.",
       "url": "https://www.heise.de/news/Passwort-Probleme-am-Wochenende-User-aus-Apple-Accounts-ausgeloggt-9701389.html",
       "image_title": "Apple-ID-Website"
-    },
-    {
-      "title": "Nach Vertrauensverlust: Microsoft macht IT-Sicherheit zu \"Priorität Nummer 1\"",
-      "teaser": "Microsoft nimmt die Vorwürfe der CISA offenbar ernst. Geschäftsführer Nadella sprach vor Analysten davon, die Sicherheit vor alles andere zu stellen.",
-      "url": "https://www.heise.de/news/Microsoft-will-Anstrengungen-bei-IT-Sicherheit-verdoppeln-9701576.html",
-      "image_title": "Satya Nadella spricht in Microsofts Berliner Niederlassung über die Chancen von KI."
-    },
-    {
-      "title": "Winrar: Gefälschte Ausgaben unter Linux möglich und MotW-Probleme in Windows",
-      "teaser": "Die Version 7.00 der Archiv-Software Winrar schließt auch Sicherheitslücken. Unter Linux lassen sich Ausgaben fälschen, in Windows MotW-Markierungen.",
-      "url": "https://www.heise.de/news/Winrar-MotW-Probleme-in-Windows-und-eine-Linux-Luecke-korrigiert-9701474.html",
-      "image_title": "Stilisierte Grafik: zersplitterter Sicherheitsschild auf einem Laptop"
-    },
-    {
-      "title": "KGB von Belarus angeblich gehackt: Telegram-Bot soll Angestellte deanonymisieren",
-      "teaser": "Beim Geheimdienst von Belarus wurden angeblich fast zehntausend Personalakten abgegriffen. Wer will, soll nun Angestellte über ein Foto identifizieren können.",
-      "url": "https://www.heise.de/news/Cyberangriff-in-Belarus-Telegram-Bot-soll-KGB-Angestellte-deanonymisieren-9701449.html",
-      "image_title": "Silhouette eines Mannes mit Kopfhörern vor der Flagge von Belarus"
-    },
-    {
-      "title": "Datenleck: Android-TV kann E-Mails und Dateien von Nutzern offenlegen",
-      "teaser": "Auf Smart-TVs mit Android lassen sich Gmail-Postfächer und Cloud-Speicher ausspähen. Ein physischer Gerätezugriff ist nötig, die Sache trotzdem problematisch.",
-      "url": "https://www.heise.de/news/Datenleck-Android-TV-kann-E-Mails-und-Dateien-von-Nutzern-offenlegen-9700851.html",
-      "image_title": "Sicherheitsschloss vor Google-Schriftzug"
     },
     {
       "title": "heise security tour 2024",
