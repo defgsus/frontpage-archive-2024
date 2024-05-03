@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-05-03T09:00:47",
+  "timestamp": "2024-05-03T10:00:56",
   "url": "https://www.welt.de/sport/",
   "response": {
     "status": 200
@@ -25,6 +25,13 @@
     }
   ],
   "articles": [
+    {
+      "title": "„Bayer Leverkusen, die perfekte Maschine“",
+      "teaser": "Bayer 04 Leverkusen siegt 2:0 beim AS Rom und steht mit einem Bein im Finale der Europa League. Die italienischen Medien huldigen der deutschen Mannschaft, die in dieser Saison noch kein Spiel verloren hat.",
+      "url": "https://www.welt.de/sport/fussball/",
+      "image_url": "https://img.welt.de/img/sport/fussball/mobile251340992/8837932907-ci23x11-w20/Italy-Soccer-Europa-League.jpg",
+      "image_title": "Gleicher Look, unterschiedlicher Meinung: Roms Leonardo Spinazzola (l.) und Leverkusens Robert Andrich"
+    },
     {
       "title": "„Magische Nacht“ – Das Handball-Wunder von Kiel",
       "teaser": "Der THW Kiel feiert im Viertelfinale der Champions League einen der größten Siege seiner Vereinsgeschichte. Gegen Montpellier machen die Deutschen die hohe Niederlage aus dem Hinspiel wett. Die Spieler überbieten sich in verbalen Superlativen.",
@@ -54,11 +61,11 @@
       "image_title": "Europa League - Semi Final - First Leg - AS Roma v Bayer Leverkusen"
     },
     {
-      "title": "Der Bergische HC zieht gegen den Handball-Ligaverband vor Gericht",
-      "teaser": "Streit in der Handball-Bundesliga: Es geht um die Lizenz des HSV Hamburg in der laufenden und kommenden Spielzeit. Bis Freitag müssen die Hanseaten die Schließung einer Finanzlücke nachweisen.",
-      "url": "https://www.welt.de/sport/handball/",
-      "image_url": "https://img.welt.de/img/sport/handball/mobile251332134/8147939947-ci23x11-w20/Handball-Bundesliga.jpg",
-      "image_title": "Handball-Bundesliga"
+      "title": "Melsungen rettet mit starker Aufholjagd Remis in Erlangen – Die Highlights im Video",
+      "url": "https://www.welt.de/sport/handball/video251322656/HC-Erlangen-MT-Melsungen-Die-Highlights-im-Video-Handball-Bundesliga.html",
+      "image_url": "https://img.welt.de/img/sport/handball/mobile251343650/6317933037-ci16x9-w20/Erlangen-Melsungen.jpg",
+      "image_title": "Erlangen Melsungen",
+      "author": "3 Min"
     },
     {
       "title": "„Sie haben nichts zu verlieren, wir haben alles zu verlieren“, mahnt Alonso",
@@ -115,13 +122,6 @@
       "image_url": "https://img.welt.de/img/sport/formel1/mobile251313430/3067934527-ci16x9-w20/FILES-AUTO-PRIX-REDBULL-HORNER-NEWEY.jpg",
       "image_title": "FILES-AUTO-PRIX-REDBULL-HORNER-NEWEY",
       "author": "56 Sek"
-    },
-    {
-      "title": "Union Berlin und Trainer Bjelica trennen sich im Sommer",
-      "url": "https://www.welt.de/sport/video251310966/Laut-Medienbericht-Union-Berlin-und-Trainer-Bjelica-trennen-sich-im-Sommer.html",
-      "image_url": "https://img.welt.de/img/sport/fussball/bundesliga/mobile251309658/3697936587-ci16x9-w20/Fuenf-Fakten-zum-Spiel-des-1-FC-Union-Berlin.jpg",
-      "image_title": "Fünf Fakten zum Spiel des 1. FC Union Berlin",
-      "author": "33 Sek"
     },
     {
       "title": "„Keinen Anspruch mehr“ – Magath lässt seinen ganzen Frust über den HSV ab",
@@ -231,6 +231,13 @@
       "image_title": "Nach dem Spitzenspiel waren Trainer und Spieler gleichermaßen von den Entscheidungen der Schiedsrichter irritiert"
     },
     {
+      "title": "Der Bergische HC zieht gegen den Handball-Ligaverband vor Gericht",
+      "teaser": "Streit in der Handball-Bundesliga: Es geht um die Lizenz des HSV Hamburg in der laufenden und kommenden Spielzeit. Bis Freitag müssen die Hanseaten die Schließung einer Finanzlücke nachweisen.",
+      "url": "https://www.welt.de/sport/handball/",
+      "image_url": "https://img.welt.de/img/sport/handball/mobile251332134/8147939947-ci23x11-w20/Handball-Bundesliga.jpg",
+      "image_title": "Handball-Bundesliga"
+    },
+    {
       "title": "„Ich brauche keine Schulterklopfer. Sobald es nicht läuft, kommt viel Gift“",
       "teaser": "Leistungsschwankungen bestimmen die Saison des THW Kiel. Der Handball-Rekordmeister muss nun in der Champions League ein kleines Wunder vollbringen, um die Spielzeit noch versöhnlich zu gestalten. Trainer Jicha glaubt fest daran.",
       "url": "https://www.welt.de/sport/handball/",
@@ -244,13 +251,6 @@
       "url": "https://www.welt.de/sport/",
       "image_url": "https://img.welt.de/img/sport/mobile251317668/9857931017-ci23x11-w20/SC-Magdeburg-KS-Kielce.jpg",
       "image_title": "Am Ende eines unglaublichen Handball-Abends: Magdeburgs Trainer Bennet Wiegert"
-    },
-    {
-      "title": "„Nach wie vor sehr wichtiger Teil unseres Teams“ – Wohin mit Weber?",
-      "teaser": "Deutschlands einstiger Spielmacher Philipp Weber macht schwere Zeiten durch: Im DHB-Team wird er nicht berücksichtigt, beim SC Magdeburg ist er nur zweite Wahl. Sein Trainer glaubt zwar an ihn, doch die Konkurrenz macht Druck.",
-      "url": "https://www.welt.de/sport/handball/",
-      "image_url": "https://img.welt.de/img/sport/mobile251213558/0247936787-ci23x11-w20/440605990-1.jpg",
-      "image_title": "440605990 (1)"
     },
     {
       "title": "Personalbeben bei Red Bull nach Sex-Affäre",
@@ -442,13 +442,6 @@
       "image_title": "Diego Maradona"
     },
     {
-      "title": "„Jude und ich haben davon geträumt, solche Spiele zu spielen“",
-      "teaser": "FC Bayern gegen Real Madrid – das heißt auch Musiala kontra Bellingham. In der Jugend kickten sie zusammen für England. Im Halbfinale sind sie Gegner. Von solch wegweisenden Momenten haben sie lange geträumt.",
-      "url": "https://www.welt.de/sport/",
-      "image_url": "https://img.welt.de/img/sport/mobile251292240/6737939217-ci23x11-w20/Fussball-International-Europameisterschaft-2021-England-Deutschland.jpg",
-      "image_title": "FUSSBALL Euro 2021 Achtelfinale Spiel 44 in London England - Deutschland 29.06.2021 Jamal Musiala (Mitte, Deutschland) klatscht nach dem Spiel Kyle Walker (li, England) und Jude Bellingham (re, England) ab FOTO: ULMER Pressebildagentur xxNOxMODELxRELEASExx"
-    },
-    {
       "title": "„Den Schritt müssen wir gehen, am besten schon beim Frühstück“",
       "teaser": "Eine Reihe von Profisportlern gibt sich in die Hände der Ernährungsberaterin Christiane Franke. Die jüngsten Empfehlungen der Deutsche Gesellschaft für Ernährung empfindet sie als zu bevormundend. Hier gibt Franke Tipps für ein gesünderes Leben.",
       "url": "https://www.welt.de/sport/fitness/plus251260442/Ernaehrung-Den-Schritt-muessen-wir-gehen-am-besten-schon-beim-Fruehstueck.html",
@@ -589,6 +582,10 @@
       "url": "https://www.welt.de/sport/fussball/2-bundesliga/video251218336/FC-Schalke-04-Fortuna-Duesseldorf-Die-Highlights-im-Video-2-Bundesliga.html",
       "image_url": "https://img.welt.de/img/sport/fussball/2-bundesliga/mobile251259178/2887939947-ci16x9-w20/FC-Schalke-04-Fortuna-Duesseldorf.jpg",
       "image_title": "FC Schalke 04 - Fortuna Düsseldorf"
+    },
+    {
+      "title": "„Bayer Leverkusen, die perfekte Maschine“",
+      "url": "https://www.welt.de/sport/fussball/article251340938/Europapokal-Bayer-Leverkusen-die-perfekte-Maschine.html"
     },
     {
       "title": "Leverkusens Andrich bannt sein Rom-Trauma",
@@ -801,10 +798,6 @@
     {
       "title": "Als es um seine Zukunft geht, verweist Kroos auf die aktuelle Lage",
       "url": "https://www.welt.de/sport/fussball/champions-league/article251309050/Toni-Kroos-Ueber-Vertragsverlaengerung-bei-Real-Madrid-wird-spaeter-entschieden.html"
-    },
-    {
-      "title": "„Gute Segelflieger sind auch im Beruf deutlich erfolgreicher als der Durchschnitt“",
-      "url": "https://www.welt.de/sport/plus251221576/Bruno-Gantenbrink-Segelfliegen-ist-eine-ideale-Schule-fuer-Manager.html"
     },
     {
       "title": "Bericht: Union und Trainer Bjelica trennen sich im Sommer",
