@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-05-03T08:00:54",
+  "timestamp": "2024-05-03T09:00:39",
   "url": "https://www.heise.de/newsticker/wissen/",
   "response": {
     "status": 200
@@ -13,7 +13,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.94d59715e298102be641",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.774d6f02fd8d66279e3a",
       "id": null,
       "text": null
     },
@@ -25,6 +25,12 @@
     }
   ],
   "articles": [
+    {
+      "title": "Dank Google Cloud: Algorithmus findet 27.500 Asteroiden in alten Aufnahmen",
+      "teaser": "Ohne dass dafür eine einzige neue astronomische Beobachtung nötig war, wurden mit KI-Technik jetzt fast 30.000 bislang unbekannte Asteroiden gefunden.",
+      "url": "https://www.heise.de/news/Dank-Google-Cloud-Algorithmus-findet-27-500-Asteroiden-in-alten-Aufnahmen-9706215.html",
+      "image_title": "Viele kreisförmig angeordnete grüne Spuren"
+    },
     {
       "title": "Inbetriebnahme: Chinas Röntgenteleskop \"Einstein Probe\" übertrifft Erwartungen",
       "teaser": "Chinas Weltraumteleskop \"Einstein Probe\" durchsucht den Himmel im Röntgenspektrum nach vorübergehenden Quellen. Nun zeigen erste Aufnahmen das Potenzial.",
@@ -38,12 +44,6 @@
       "image_title": "Startrampe mit einer schiefen Rakete"
     },
     {
-      "title": "NASA-Sonde Psyche: Laser-Kommunikation über 226 Millionen Kilometer erfolgreich",
-      "teaser": "Die NASA-Sonde Psyche soll einen außergewöhnlichen Asteroiden erforschen. Zudem kann sie per Laser mit der Erde kommunizieren und hat einen Rekord aufgestellt.",
-      "url": "https://www.heise.de/news/Per-Laser-NASA-Sonde-schickt-Daten-mit-25-Mbit-s-ueber-226-Millionen-Kilometer-9699135.html",
-      "image_title": "Computergeneriertes Bild der Sonde"
-    },
-    {
       "title": "Starthilfe für den privaten Einstieg in die solare Energieproduktion",
       "teaser": "Egal ob kleines Balkonkraftwerk oder große Dachanlage, wir zeigen, was geht, wie so eine PV-Anlage funktioniert und wo Stolperfallen lauern können.",
       "url": "https://www.heise.de/ratgeber/Starthilfe-fuer-den-privaten-Einstieg-in-die-solare-Energieproduktion-9689109.html",
@@ -54,6 +54,17 @@
       "teaser": "Das Auslegen einer PV-Anlage mit Speicher ist schwierig. Jahreszeitliche Unterschiede spielen genau so eine Rolle wie steuerliche Fragen und technische Grenzen.",
       "url": "https://www.heise.de/ratgeber/Photovoltaik-Anlagen-dimensionieren-Wirtschaftlichkeit-berechnen-9688108.html",
       "image_title": ", Moritz Reichartz"
+    },
+    {
+      "title": "Neue dehnbare Roboterhaut verhindert taktile Fehlmessungen",
+      "teaser": "Künstliche Haut, die dehnbar ist, kann unerwünschte Messergebisse produzieren. Die E-Skin texanischer Forscher liefert dagegen richtige taktile Werte.",
+      "url": "https://www.heise.de/news/Neue-dehnbare-Roboterhaut-verhindert-taktile-Fehlmessungen-9706785.html"
+    },
+    {
+      "title": "3D-Druck: Diese Räder reagieren auf ihre Umgebung",
+      "teaser": "Fahrende Roboter sind nicht die besten Kletterer. Mit diesen 3D-gedruckten Rädern bezwingen sie aber ganz mühelos auch unwegsames Gelände.",
+      "url": "https://www.heise.de/news/3D-Druck-Diese-Raeder-reagieren-auf-ihre-Umgebung-9706416.html",
+      "image_title": "Fahrzeug mit dem Reifendesign erklimt Hindernis"
     },
     {
       "title": "Mehr als 50.000 kWh: China stellt vollelektrisches Containerschiff in Dienst",
@@ -78,12 +89,6 @@
       "teaser": "Multigigabit-Ethernet sichert Backups und kopiert VM-Images schnell. Konfigurierbare Netzverteiler sind nun auch mit 2,5 Gbit/s erschwinglicher – eine Auswahl.",
       "url": "https://www.heise.de/ratgeber/Schlaue-Multigigabit-Switches-in-der-Uebersicht-9689011.html",
       "image_title": ","
-    },
-    {
-      "title": "Dank Google Cloud: Algorithmus findet 27.500 Asteroiden in alten Aufnahmen",
-      "teaser": "Ohne dass dafür eine einzige neue astronomische Beobachtung nötig war, wurden mit KI-Technik jetzt fast 30.000 bislang unbekannte Asteroiden gefunden.",
-      "url": "https://www.heise.de/news/Dank-Google-Cloud-Algorithmus-findet-27-500-Asteroiden-in-alten-Aufnahmen-9706215.html",
-      "image_title": "Viele kreisförmig angeordnete grüne Spuren"
     },
     {
       "title": "Mars: Unerwartete Manganvorkommen weisen auf einst lebensfreundliche Bedingungen",
@@ -136,12 +141,6 @@
       "title": "Flexibler Barebone-PC mit Ryzen-7-CPU im Test",
       "teaser": "Fernöstliche Shops halten viele IT-Wundertüten bereit. Wir haben einen ungewöhnlich konstruierten PC-Barebone gründlich erprobt und stellenweise gestaunt.",
       "url": "https://www.heise.de/tests/Flexibler-Barebone-PC-mit-Ryzen-7-CPU-im-Test-9699674.html"
-    },
-    {
-      "title": "KI, Halbleiter, Quantencomputer: EU und Japan stärken digitale Partnerschaft",
-      "teaser": "Der zweite Rat für Digitale Partnerschaft beschließt stärkere Zusammenarbeit bei Schlüsseltechnologien wie Halbleiter, KI, Quantenrechner und 6G.",
-      "url": "https://www.heise.de/news/EU-und-Japan-staerken-digitale-Partnerschaft-9704739.html",
-      "image_title": "The,Flag,Of,The,European,Union,Waving,In,The,Wind."
     }
   ]
 }
