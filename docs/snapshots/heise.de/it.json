@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-05-07T11:00:39",
+  "timestamp": "2024-05-07T12:09:47",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -44,15 +44,40 @@
       "image_title": "Mann ist sauer, Mann am Smartphone"
     },
     {
-      "title": "Leistungsfähiges Dateisystem für Linux: Bcachefs im Test",
-      "teaser": "Bcachefs verspricht die Vorteile bekannter Vertreter wie Btrfs oder ZFS, will aber leistungsfähiger, sauberer und einfacher sein. Ein Realitätscheck.",
-      "url": "https://www.heise.de/tests/Leistungsfaehiges-Dateisystem-fuer-Linux-Bcachefs-im-Test-9707467.html"
+      "title": "Auf Kante genäht: Was hinter dem Aus von Apple-Händler Gravis steckt",
+      "teaser": "Aus vagen Gerüchten wurde bittere Wahrheit. Gravis, einer der führenden Apple-Reseller Deutschlands, gibt auf. Wir erklären die Hintergründe.",
+      "url": "https://www.heise.de/hintergrund/Auf-Kante-genaeht-Warum-Freenet-bei-Gravis-die-Notbremse-zieht-9709990.html",
+      "image_title": ", Christoph Dernbach"
     },
     {
-      "title": "Ubuntu 24.04 für Server: Viele Aktualisierungen, keine gravierende Umwälzungen",
-      "teaser": "Ubuntu 24.04 glänzt mit aktueller Software und bringt sonst nur wenige große Neuerungen. Für Admins bestehender Server ist das Update eine sichere Bank.",
-      "url": "https://www.heise.de/tests/Ubuntu-24-04-fuer-Server-Viele-Aktualisierungen-keine-gravierende-Umwaelzungen-9707127.html",
-      "image_title": "Ubuntu 24.04"
+      "title": "Im Test: Ubuntu 24.04 mit GNOME 46 und aufpoliertem Installer",
+      "teaser": "Ubuntu 24.04 liefert mit GNOME 46, frischem Installer und viel Neuem einen soliden Linux-Desktop. Für Unmut sorgt der fortgesetzte Snap-Zwang. Ein Überblick.",
+      "url": "https://www.heise.de/tests/Im-Test-Ubuntu-24-04-mit-GNOME-46-und-aufpoliertem-Installer-9709540.html",
+      "image_title": "Ubuntu 24.04 Destop im Test"
+    },
+    {
+      "title": "Taylor Swift: Konzertkartenklau mit Credential Stuffing",
+      "teaser": "Kriminelle haben versucht, auf Nutzerkonten beim Ticketanbieter Eventim zuzugreifen. Ziel: Konzertkarten für Taylor Swift.",
+      "url": "https://www.heise.de/news/Taylor-Swift-Konzertkartenklau-mit-Credential-Stuffing-9710655.html",
+      "image_title": "Taylor Swift auf einem Konzert"
+    },
+    {
+      "title": "iX-Workshop: Passwortlose Authentifizierung mit Passkeys, FIDO, SSO und mehr",
+      "teaser": "Wie man FIDO2 und SSO in Webdienste integriert: Konzepte, Protokolle und Best Practices für eine sichere Authentifizierung mit und ohne Passwort. (Last Call)",
+      "url": "https://www.heise.de/news/iX-Workshop-Passwortlose-Authentifizierung-mit-Passkeys-FIDO-SSO-und-mehr-9707296.html",
+      "image_title": "iX-Workshop: SSO und IAM mit Keycloak"
+    },
+    {
+      "title": "Tunnelvision: Angreifer können VPNs aushebeln und Daten umleiten",
+      "teaser": "Mit einer 22 Jahre alten DHCP-Option können Angreifer bewirken, dass Datenverkehr am VPN vorbeiläuft. Weder Nutzer noch VPN-Betreiber bekommen das mit.",
+      "url": "https://www.heise.de/news/Tunnelvision-Angreifer-koennen-VPNs-aushebeln-und-Daten-umleiten-9710188.html",
+      "image_title": "Einschaltoption für ein VPN auf einem Smartphone"
+    },
+    {
+      "title": "Apple Silicon: Apple verbaut angeblich eigene Chips für KI-Server",
+      "teaser": "Apple investiert viel Geld in den Aufbau einer eigenen Infrastruktur für generative KI. Dabei soll es sich nicht um Hardware von der Stange handeln.",
+      "url": "https://www.heise.de/news/Apple-Silicon-Apple-verbaut-angeblich-eigene-Chips-fuer-KI-Server-9710297.html",
+      "image_title": "M2 Ultra mit Gehirn-Emoji"
     },
     {
       "title": "iX-Workshop: IT-Sicherheit nach ISO 27001 – Herausforderungen und Chancen",
@@ -100,6 +125,11 @@
       "image_title": "Elektronische Signatur"
     },
     {
+      "title": "Leistungsfähiges Dateisystem für Linux: Bcachefs im Test",
+      "teaser": "Bcachefs verspricht die Vorteile bekannter Vertreter wie Btrfs oder ZFS, will aber leistungsfähiger, sauberer und einfacher sein. Ein Realitätscheck.",
+      "url": "https://www.heise.de/tests/Leistungsfaehiges-Dateisystem-fuer-Linux-Bcachefs-im-Test-9707467.html"
+    },
+    {
       "title": "Ende des Warenverkaufs: Gravis macht zum 15. Juni dicht",
       "teaser": "Das Ende kommt schneller als gedacht: Mitte nächsten Monat stellt die Apple-Kette den Betrieb weitestgehend ein. Für Mitarbeiter soll es einen Sozialplan geben.",
       "url": "https://www.heise.de/news/Ende-des-Warenverkaufs-Gravis-macht-zum-15-Juni-dicht-9709974.html",
@@ -109,34 +139,6 @@
       "title": "c't-Workshop: Threat Modeling kennenlernen und etablieren",
       "teaser": "Im Halbtages-Workshop von c't erfahren Sie, wie Sie möglichst früh potenzielle Bedrohungen erkennen und die Softwareentwicklung effizienter gestalten können.",
       "url": "https://www.heise.de/news/c-t-Workshop-Threat-Modeling-kennenlernen-und-etablieren-9705442.html"
-    },
-    {
-      "title": "Großbritannien: Einbruch in Militär-Gehaltsabrechnungssystem – wohl von China",
-      "teaser": "Unbekannten ist es angeblich gelungen, in das System für Gehaltsabrechnungen des britischen Militärs einzudringen. Das wurde umgehend offline genommen.",
-      "url": "https://www.heise.de/news/Grossbritannien-Gehaltsabrechnungssystem-des-Militaers-gehackt-wohl-von-China-9710040.html",
-      "image_title": "Soldat in Uniform mit britischer Flagge"
-    },
-    {
-      "title": "Bericht: Microsoft plant eigenes KI-Sprachmodell",
-      "teaser": "Der US-Tech-Konzern bereitet ein neues KI-Modell vor, um mit Google und OpenAI zu konkurrieren, berichtet The Information. Es könnte bald vorgestellt werden.",
-      "url": "https://www.heise.de/news/Bericht-Microsoft-plant-eigenes-KI-Sprachmodell-9709892.html",
-      "image_title": "Microsoft-Schild an dunklem Geböude"
-    },
-    {
-      "title": "iOS 17.5: Release des nächsten iPhone-Updates naht",
-      "teaser": "Apple bereitet ein größeres Update für seine Betriebssysteme vor. In der EU öffnet der Hersteller das iPhone damit für App-Downloads aus dem Web.",
-      "url": "https://www.heise.de/news/Web-Sideloading-und-mehr-iOS-17-5-bald-verfuegbar-9709814.html"
-    },
-    {
-      "title": "4fach-SSD-Shield für Raspberry Pi 5",
-      "teaser": "Das Shield X1011, erweitert den Raspberry Pi 5 um vier Steckplätze für NVMe-SSDs. Dem Aufbau eines größeren NAS steht somit nichts mehr im Wege,",
-      "url": "https://www.heise.de/news/4fach-SSD-Shield-fuer-Raspberry-Pi-5-9709369.html"
-    },
-    {
-      "title": "Null Vertrauen bei Microsoft: Windows erhält Zero-Trust-DNS-Client",
-      "teaser": "Mit Zero Trust DNS will Microsoft das Admin-Leben einfacher und vor allem sicherer machen. Wir zeigen, was sich dahinter verbirgt – und welche Probleme es gibt.",
-      "url": "https://www.heise.de/news/Null-Vertrauen-bei-Microsoft-Windows-erhaelt-Zero-Trust-DNS-Client-9709449.html",
-      "image_title": "Acess Denied steht vor Servern"
     },
     {
       "title": "Low-Code ist nicht immer gleich Low-Code.",
