@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-05-07T06:07:46",
+  "timestamp": "2024-05-07T07:00:46",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Patchday Android",
+      "url": "https://www.heise.de/news/Android-Patchday-Angreifer-koennen-Rechte-im-System-ausweiten-9710075.html"
+    },
+    {
       "title": "Trend Micro Antivirus One",
       "url": "https://www.heise.de/news/Trend-Micro-Antivirus-One-Codeschmuggel-im-macOS-Scanner-moeglich-9709419.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Angreifer-umgehen-Microsoft-Smartscreen-und-brechen-in-Gitlab-ein-9705715.html"
     },
     {
-      "title": "ArubaOS",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-WLAN-Gateways-von-Aruba-kompromittieren-9705095.html"
+      "title": "Android-Patchday: Angreifer können Rechte im System ausweiten",
+      "teaser": "Google schließt am Android-Patchday mehrere Lücken, durch die Angreifer ihre Rechte ausweiten können.",
+      "url": "https://www.heise.de/news/Android-Patchday-Angreifer-koennen-Rechte-im-System-ausweiten-9710075.html",
+      "image_title": "Stilisiertes Bild: Smartphone mit Android-Roboter auf dem Bildschirm, steht in Flammen"
     },
     {
       "title": "Großbritannien: Einbruch in Militär-Gehaltsabrechnungssystem – wohl von China",
@@ -66,15 +72,15 @@
       "image_title": "Virus detected steht vor Servern"
     },
     {
+      "title": "Das Cyber-Risiko einschätzen, reduzieren und überwachen",
+      "teaser": "Vor einer Attacke prüfen Cyberkriminelle oft zuerst die Angriffsfläche (Attack Surface) potenzieller Opfer auf Schwachstellen und suchen dabei nach leichter Beute. Deshalb ist es wichtig, sein Unternehmensnetzwerk für Cyberkriminelle so unattraktiv wie möglich zu machen.",
+      "url": "https://www.heise.de/solutions/outpost24/cyber-risiko-einschaetzen-reduzieren-ueberwachen/?source=nat_teas"
+    },
+    {
       "title": "Googles Android-Bug-Bounty: Erfolgsbilanz nach einem Jahr und Prämienerhöhung",
       "teaser": "Seit einem Jahr gibt es das Android Bug-Bounty-Programm. Google findet es einen vollen Erfolg und erhöht die Meldeprämien.",
       "url": "https://www.heise.de/news/Googles-Android-Bug-Bounty-Erfolgsbilanz-nach-einem-Jahr-und-Praemienerhoehung-9709135.html",
       "image_title": "US-Dollar-Scheine"
-    },
-    {
-      "title": "Das Cyber-Risiko einschätzen, reduzieren und überwachen",
-      "teaser": "Vor einer Attacke prüfen Cyberkriminelle oft zuerst die Angriffsfläche (Attack Surface) potenzieller Opfer auf Schwachstellen und suchen dabei nach leichter Beute. Deshalb ist es wichtig, sein Unternehmensnetzwerk für Cyberkriminelle so unattraktiv wie möglich zu machen.",
-      "url": "https://www.heise.de/solutions/outpost24/cyber-risiko-einschaetzen-reduzieren-ueberwachen/?source=nat_teas"
     },
     {
       "title": "c't-Webinar: Passkeys statt Passwörter",
@@ -165,12 +171,6 @@
       "image_title": "Hände an Laptop-Tastatur mit unscharfem Code im Hintergrund"
     },
     {
-      "title": "Systemd-Alternative zu sudo soll Linux sicherer machen",
-      "teaser": "run0 lässt reguläre Benutzer Programme mit root-Rechten ausführen. Es ähnelt sudo, nutzt aber andere Mechanismen zur Privilegienerhöhung und soll sicherer sein.",
-      "url": "https://www.heise.de/news/Systemd-Alternative-zu-sudo-soll-Linux-sicherer-machen-9705458.html",
-      "image_title": "Illustration Hacker"
-    },
-    {
       "title": "heise security tour 2024",
       "teaser": "Die Konferenz zum Thema IT-Security. Nutzen Sie die einzigartige Gelegenheit, sich direkt aus der ersten Reihe über die neuesten Trends, Technologien und Bedrohungen in der Welt der IT-Sicherheit zu informieren. Dieses Jahr findet die Tour in Köln, Hannover, Stuttgart und online statt.",
       "url": "https://security-tour.heise.de/?wt_mc=intern.academy.security.konf_sectour.hs_teaser.teaser.teaser"
@@ -194,6 +194,11 @@
       "image_title": "Icons der Internetbrowser Safari, Chrome, Edge und Firefox"
     },
     {
+      "title": "Re: Virensignaturen werden nicht gespeichert",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Virensignaturen-werden-nicht-gespeichert/posting-43965087/show/"
+    },
+    {
       "title": "Re: Ein Yubikey für Passwortsafe und Google-Konto",
       "teaser": "Forum: Desktopsicherheit",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desktopsicherheit/Re-Ein-Yubikey-fuer-Passwortsafe-und-Google-Konto/posting-43944208/show/"
@@ -202,11 +207,6 @@
       "title": "Desinfec't 2023p1 füllt SWAP und hängt dann",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Desinfec-t-2023p1-fuellt-SWAP-und-haengt-dann/posting-43935550/show/"
-    },
-    {
-      "title": "Umfrage für Bachelorarbeit - Softwareprodukte für ISMS Einführung",
-      "teaser": "Forum: Diverses",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Diverses/Umfrage-fuer-Bachelorarbeit-Softwareprodukte-fuer-ISMS-Einfuehrung/posting-43930078/show/"
     }
   ]
 }
