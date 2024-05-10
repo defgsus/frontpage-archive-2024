@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-05-10T08:00:46",
+  "timestamp": "2024-05-10T09:01:00",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Citrix Hypervisor",
+      "url": "https://www.heise.de/news/Admins-muessen-selbst-handeln-PuTTY-Sicherheitsluecke-bedroht-Citrix-Hypervisor-9713898.html"
+    },
+    {
+      "title": "F5 BIG-IP",
+      "url": "https://www.heise.de/news/Software-Schwachstellen-Admin-Luecken-bedrohen-BIG-IP-Applicanes-von-F5-9713816.html"
+    },
+    {
       "title": "VMware Avi Load Balancer",
       "url": "https://www.heise.de/news/VMware-Avi-Load-Balancer-Rechteausweitung-zu-root-moeglich-9711733.html"
     },
@@ -40,15 +48,13 @@
       "url": "https://www.heise.de/news/Android-Patchday-Angreifer-koennen-Rechte-im-System-ausweiten-9710075.html"
     },
     {
-      "title": "Trend Micro Antivirus One",
-      "url": "https://www.heise.de/news/Trend-Micro-Antivirus-One-Codeschmuggel-im-macOS-Scanner-moeglich-9709419.html"
+      "title": "iX-Workshop: Linux-Server vor Angriffen wirksam schützen",
+      "teaser": "Linux-Server und Netzwerkdienste effektiv und umfassend vor Angriffen schützen - von physischer Sicherheit über Verschlüsselung und 2FA bis hin zu SELinux.",
+      "url": "https://www.heise.de/news/iX-Workshop-Linux-Server-vor-Angriffen-wirksam-schuetzen-9707503.html",
+      "image_title": "iX-Workshop: Linux-Server härten"
     },
     {
-      "title": "Cisco IP Phone",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-IP-Telefone-von-Cisco-ausspionieren-9706717.html"
-    },
-    {
-      "title": "Software-Schwachstellen: Admin-Lücken bedrohen BIG-IP-Appliances von F5",
+      "title": "Angreifer können Kontrolle über BIG-IP-Appliances von F5 erlangen",
       "teaser": "Mehrere Sicherheitslücken gefährden BIG-IP Next Central Manager. Updates stehen zum Download bereit.",
       "url": "https://www.heise.de/news/Software-Schwachstellen-Admin-Luecken-bedrohen-BIG-IP-Applicanes-von-F5-9713816.html",
       "image_title": "Stilisiertes Bild: Ein Stapel brennender Appliances"
@@ -59,10 +65,15 @@
       "url": "https://www.heise.de/news/NIS2-Umsetzungsgesetz-zwischen-deutschem-Foederalismus-und-Weltpolitik-9713472.html"
     },
     {
-      "title": "l+f: Daten sind schön – vierstellige PINs visualisiert",
-      "teaser": "Zeichnet man alle vierstelligen Ziffernkombinationen nach ihrer Häufigkeit aus Datenleaks auf, ergeben sich augenfällige Muster.",
-      "url": "https://www.heise.de/news/l-f-Daten-sind-schoen-vierstellige-PINs-visualisiert-9713203.html",
-      "image_title": "Pin-Code beim iPhone"
+      "title": "Yubikey: Neue Firmware unterstützt bis zu 100 Passkeys auf FIDO-Sticks",
+      "teaser": "Yubikey kündigt eine verbesserte Firmware-Version für neue FIDO2-Sicherheitsschlüssel an. Der Platz für Passkeys wächst auf 100 Stück an.",
+      "url": "https://www.heise.de/news/Yubikey-FIDO2-Sicherheitsschluessel-kuenftig-mit-Platz-fuer-100-Passkeys-9712346.html",
+      "image_title": "Stilisierte Grafik: ein Schloss mit biometrischen Schlüsseln"
+    },
+    {
+      "title": "Das Cyber-Risiko einschätzen, reduzieren und überwachen",
+      "teaser": "Vor einer Attacke prüfen Cyberkriminelle oft zuerst die Angriffsfläche (Attack Surface) potenzieller Opfer auf Schwachstellen und suchen dabei nach leichter Beute. Deshalb ist es wichtig, sein Unternehmensnetzwerk für Cyberkriminelle so unattraktiv wie möglich zu machen.",
+      "url": "https://www.heise.de/solutions/outpost24/cyber-risiko-einschaetzen-reduzieren-ueberwachen/?source=nat_teas"
     },
     {
       "title": "IT-Sicherheitstag Mainz: Themen der Konferenz stehen fest, Anmeldung möglich",
@@ -71,15 +82,16 @@
       "image_title": "Test Bild für quadratische Teaserbilder"
     },
     {
-      "title": "Das Cyber-Risiko einschätzen, reduzieren und überwachen",
-      "teaser": "Vor einer Attacke prüfen Cyberkriminelle oft zuerst die Angriffsfläche (Attack Surface) potenzieller Opfer auf Schwachstellen und suchen dabei nach leichter Beute. Deshalb ist es wichtig, sein Unternehmensnetzwerk für Cyberkriminelle so unattraktiv wie möglich zu machen.",
-      "url": "https://www.heise.de/solutions/outpost24/cyber-risiko-einschaetzen-reduzieren-ueberwachen/?source=nat_teas"
-    },
-    {
       "title": "iX-Workshop: Sich selbst hacken – Pentesting mit Open-Source-Werkzeugen",
       "teaser": "Lernen Sie, wie Sie Sicherheitslücken in der eigenen Unternehmens-IT mit Hacker-Tools aufdecken und beseitigen. (Last Call)",
       "url": "https://www.heise.de/news/iX-Workshop-Wie-Angreifer-vorgehen-Pentesting-mit-Open-Source-Tools-9707341.html",
       "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
+    },
+    {
+      "title": "Bundeswehr: Webex für externe Kommunikation gesperrt",
+      "teaser": "Am Wochenende wurde bekannt, dass Webex-Konferenzen der Bundeswehr einsehbar waren. Für externe Kommunikation wurde Webex nun gesperrt.",
+      "url": "https://www.heise.de/news/Bundeswehr-setzt-Webex-Nutzung-fuer-externe-Kommunikation-aus-9711962.html",
+      "image_title": "Stilisiertes Bild: Zwei Soldaten halten eine Webkonferenz ab. Im Hintergrund steht \"Cisco Webex\""
     },
     {
       "title": "Über 850.000 Opfer: Bande in China steckt hinter zehntausenden Fake-Shops",
@@ -156,18 +168,6 @@
       "teaser": "Unbekannten ist es angeblich gelungen, in das System für Gehaltsabrechnungen des britischen Militärs einzudringen. Das wurde umgehend offline genommen.",
       "url": "https://www.heise.de/news/Grossbritannien-Gehaltsabrechnungssystem-des-Militaers-gehackt-wohl-von-China-9710040.html",
       "image_title": "Soldat in Uniform mit britischer Flagge"
-    },
-    {
-      "title": "Cyberangriffe: Ex-BND-Chef fordert Hackbacks und Knacken von Kommunikation",
-      "teaser": "Nach der mutmaßlich russischen Spionage-Attacke auf die SPD verlangt der frühere BND-Chef Schindler deutlich mehr Überwachungsbefugnisse für die Geheimdienste.​",
-      "url": "https://www.heise.de/news/Cyberangriffe-Ex-BND-Chef-fordert-Hackbacks-und-Knacken-von-Kommunikation-9709880.html",
-      "image_title": "Soldaten vor Überwachungsbildschirmen"
-    },
-    {
-      "title": "Trend Micro Antivirus One: Codeschmuggel im macOS-Scanner möglich",
-      "teaser": "Trend Micros Antivirus One lässt sich durch eine Schwachstelle unter macOS beliebigen Code unterjubeln. Ein Update steht bereit.",
-      "url": "https://www.heise.de/news/Trend-Micro-Antivirus-One-Codeschmuggel-im-macOS-Scanner-moeglich-9709419.html",
-      "image_title": "Virus detected steht vor Servern"
     },
     {
       "title": "heise security tour 2024",
