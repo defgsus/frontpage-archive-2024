@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-05-13T20:00:48",
+  "timestamp": "2024-05-13T21:01:12",
   "url": "https://www.welt.de/wirtschaft/",
   "response": {
     "status": 200
@@ -25,6 +25,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "OpenAI zeigt Künstliche Intelligenz mit Emotionen",
+      "teaser": "Die am Montag vorgestellte KI „GPT4o“ von OpenAI antwortet flüssig und ohne Stocken. Sie erkennt sogar die Emotionen in der Stimme des Gegenübers und geht direkt darauf ein. Die Fähigkeiten sind beeindruckend – und ein Stück weit erschreckend.",
+      "url": "https://www.welt.de/wirtschaft/webwelt/",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile251499908/4737938417-ci23x11-w20/Tecno-Ecosystem-At-Mobile-World-Congress-Barcelona-2024.jpg",
+      "image_title": "Tecno Ecosystem At Mobile World Congress Barcelona 2024",
+      "author": "Benedikt Fuest"
+    },
     {
       "title": "„Die Party ist vorbei“ – Jetzt stellt Lindner das grüne Herzensprojekt auf den Prüfstand",
       "teaser": "Der Finanzminister skizziert vor 1500 Steuerberatern, wie er sich Deutschland in Zukunft vorstellt. Schlechte Nachrichten hat Christian Lindner unter anderem für die Betreiber von Solaranlagen und Windparks – und er hinterfragt die Ausgaben für Entwicklungshilfe und Sozialleistungen.",
@@ -55,14 +63,6 @@
       "image_url": "https://img.welt.de/img/finanzen/immobilien/mobile251390856/9547936557-ci23x11-w20/Portrait-of-young-couple-with-toddler-girl-standing-indoors-at-home.jpg",
       "image_title": "Kein alternativer Text für dieses Bild vorhanden",
       "author": "Christian Hunziker"
-    },
-    {
-      "title": "„Wir rechnen zwischen 2030 und 2045 mit einem signifikanten Rückgang der Erdgasanschlüsse“",
-      "teaser": "Der städtische Netzbetreiber geht davon aus, dass in den kommenden zwei Jahrzehnten wegen eines sinkenden Bedarfs bereits Teile des Erdgasnetzes stillgelegt werden. Gebäudewärme soll künftig direkt aus Strom und aus regenerativ hergestelltem Wasserstoff erzeugt werden.",
-      "url": "https://www.welt.de/regionales/hamburg/",
-      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile251490628/3397930577-ci23x11-w20/Gasnetz-Hamburg-GmbH-GasuebernahmestationinReitbrook.jpg",
-      "image_title": "Die Gasübernahmestation von Gasnetz Hamburg in Reitbrook",
-      "author": "Olaf Preuß"
     },
     {
       "title": "Diese Frauen bringen McDonald’s nach vorn",
@@ -255,6 +255,10 @@
       "url": "https://www.welt.de/wirtschaft/",
       "image_url": "https://img.welt.de/img/wirtschaft/mobile235813724/3920249907-ci16x9-w20/20211221-DWO-Champagne-Exports-STAT-jpg.jpg",
       "image_title": "Kein alternativer Text für dieses Bild vorhanden"
+    },
+    {
+      "title": "OpenAI zeigt Künstliche Intelligenz mit Emotionen",
+      "url": "https://www.welt.de/wirtschaft/webwelt/article251499884/GPT4o-OpenAI-zeigt-Kuenstliche-Intelligenz-mit-Emotionen.html"
     },
     {
       "title": "„Die Party ist vorbei“ – Jetzt stellt Lindner das grüne Herzensprojekt auf den Prüfstand",
@@ -465,10 +469,6 @@
       "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article251449662/Dickes-Auftragsminus-fuer-deutsche-Elektroindustrie.html"
     },
     {
-      "title": "Wie die tickende Schuldenbombe in den USA das globale Finanzsystem bedroht",
-      "url": "https://www.welt.de/finanzen/plus251388864/USA-Wie-die-tickende-Schuldenbombe-das-globale-Finanzsystem-bedroht.html"
-    },
-    {
       "title": "Allianz lässt nun auch gebrauchte Ersatzteile zu",
       "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article251448288/Allianz-laesst-nun-auch-gebrauchte-Ersatzteile-zu.html"
     },
@@ -521,12 +521,12 @@
       "url": "https://www.welt.de/deals/"
     },
     {
-      "title": "Das Ende eines Statussymbols",
-      "teaser": "Lange haben Händler und Hersteller von Küchen von den besonderen Bedingungen der Corona-Pandemie profitiert. Nun kommt die Krise auch bei ihnen an: Umsatz und Stückzahlen sinken deutlich, allen voran im Premiumsegment. Doch die Industrie hat einen Plan B.",
-      "url": "https://www.welt.de/wirtschaft/plus251286218/Kuechen-in-der-Krise-Das-Ende-eines-Statussymbols.html",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile251286574/7877938727-ci23x11-w20/Interior-of-modern-kitchen-in-loft-apartment-2.jpg",
-      "image_title": "Schicke Küchen lassen sich wieder schwieriger verkaufen als zu Corona-Zeiten",
-      "author": "Carsten Dierig"
+      "title": "Dreckiger als erlaubt – jetzt eskaliert die Lage bei PCK Schwedt",
+      "teaser": "Die PCK-Raffinerie in Schwedt hat seit jeher ein Emissionsproblem. Jetzt ist die Fabrik in einen heiklen Schwebezustand geraten – denn eine wichtige Ausnahmegenehmigung gilt nicht mehr. Die Betreiber scheinen jedoch kaum bemüht, daran etwas zu ändern. Nun wächst der Druck – auch aus Polen.",
+      "url": "https://www.welt.de/wirtschaft/plus251070100/PCK-Raffinerie-in-Schwedt-Dreckige-als-erlaubt-Nun-waechst-der-Druck-auch-aus-Polen.html",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile251078022/4307934547-ci23x11-w20/PCK-Raffinerie-in-Schwedt.jpg",
+      "image_title": "PCK-Raffinerie in Schwedt",
+      "author": "Aleksandra Fedorska"
     },
     {
       "title": "„Wie Weihnachten, Ostern und Geburtstag zusammen“ – Lindners harte Kollegen-Schelte",
@@ -537,20 +537,20 @@
       "author": "Karsten Seibel"
     },
     {
+      "title": "Das Ende eines Statussymbols",
+      "teaser": "Lange haben Händler und Hersteller von Küchen von den besonderen Bedingungen der Corona-Pandemie profitiert. Nun kommt die Krise auch bei ihnen an: Umsatz und Stückzahlen sinken deutlich, allen voran im Premiumsegment. Doch die Industrie hat einen Plan B.",
+      "url": "https://www.welt.de/wirtschaft/plus251286218/Kuechen-in-der-Krise-Das-Ende-eines-Statussymbols.html",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile251286574/7877938727-ci23x11-w20/Interior-of-modern-kitchen-in-loft-apartment-2.jpg",
+      "image_title": "Schicke Küchen lassen sich wieder schwieriger verkaufen als zu Corona-Zeiten",
+      "author": "Carsten Dierig"
+    },
+    {
       "title": "Deutschlands alarmierende Bildungslücke",
       "teaser": "Die Lage auf dem Ausbildungsmarkt hat sich nach den Coronajahren leicht verbessert, doch weiterhin gibt es mehr Stellen als Bewerber. Eine Zahl entsetzt regelrecht – fast jeder fünfte unter 35 hat keinen Berufsabschluss, das sind 2,9 Millionen. Ein Experte spricht von einem „No-Go“ für den Standort.",
       "url": "https://www.welt.de/wirtschaft/plus251435110/Arbeitsmarkt-Jugend-ohne-Abschluss-Experten-sehen-No-Go-fuer-Standort-Deutschland.html",
       "image_url": "https://img.welt.de/img/wirtschaft/mobile251436128/9027936447-ci23x11-w20/Apprentice-electronics-engineer-in-electronics-assembly-factory.jpg",
       "image_title": "Kein alternativer Text für dieses Bild vorhanden",
       "author": "Jan Klauth"
-    },
-    {
-      "title": "Dreckiger als erlaubt – jetzt eskaliert die Lage bei PCK Schwedt",
-      "teaser": "Die PCK-Raffinerie in Schwedt hat seit jeher ein Emissionsproblem. Jetzt ist die Fabrik in einen heiklen Schwebezustand geraten – denn eine wichtige Ausnahmegenehmigung gilt nicht mehr. Die Betreiber scheinen jedoch kaum bemüht, daran etwas zu ändern. Nun wächst der Druck – auch aus Polen.",
-      "url": "https://www.welt.de/wirtschaft/plus251070100/PCK-Raffinerie-in-Schwedt-Dreckige-als-erlaubt-Nun-waechst-der-Druck-auch-aus-Polen.html",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile251078022/4307934547-ci23x11-w20/PCK-Raffinerie-in-Schwedt.jpg",
-      "image_title": "PCK-Raffinerie in Schwedt",
-      "author": "Aleksandra Fedorska"
     },
     {
       "title": "Rabatte bis zu 80 Prozent – Der verhängnisvolle Fahrrad-Zyklus fordert erste Opfer",
