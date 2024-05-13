@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-05-13T07:01:10",
+  "timestamp": "2024-05-13T08:08:38",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Veeam Service Provider",
+      "url": "https://www.heise.de/news/Backup-Managementtool-Schadcode-Luecke-bedroht-Veeam-Service-Provider-9715535.html"
+    },
+    {
       "title": "Junos OS, Junos OS Evolved",
       "url": "https://www.heise.de/news/Juniper-schliesst-OpenSSH-Luecken-in-Junos-OS-und-Junos-OS-Evolved-9715517.html"
     },
@@ -44,13 +48,10 @@
       "url": "https://www.heise.de/news/Admins-muessen-selbst-handeln-PuTTY-Sicherheitsluecke-bedroht-Citrix-Hypervisor-9713898.html"
     },
     {
-      "title": "F5 BIG-IP",
-      "url": "https://www.heise.de/news/Software-Schwachstellen-Admin-Luecken-bedrohen-BIG-IP-Applicanes-von-F5-9713816.html"
-    },
-    {
-      "title": "heise Security Tour 2024 – nächste Woche geht's los",
-      "teaser": "Die Eintages-Konferenz von heise Security vermittelt praxisrelevantes Wissen zu aktuellen Security-Themen – 100% unabhängig. Am 22. Mai geht's bereits los.",
-      "url": "https://www.heise.de/news/heise-Security-Tour-2024-naechste-Woche-geht-s-los-9706832.html"
+      "title": "Backup-Managementtool: Schadcode-Lücke bedroht Veeam Service Provider",
+      "teaser": "Um eine kritische Schwachstelle zu schließen, sollten Admins Veeam Service Provider zeitnah auf den aktuellen Stand bringen.",
+      "url": "https://www.heise.de/news/Backup-Managementtool-Schadcode-Luecke-bedroht-Veeam-Service-Provider-9715535.html",
+      "image_title": "Taste auf Tastatur mit Aufdruck \"Update\""
     },
     {
       "title": "Juniper schließt OpenSSH-Lücken in Junos OS und Junos OS Evolved",
@@ -68,11 +69,6 @@
       "teaser": "Das Bundesamt für Sicherheit in der Informationstechnik zeigt den Stand der kritischen Infrastrukturen in Deutschland. Einige Branchen müssen noch nachbessern.",
       "url": "https://www.heise.de/news/KRITIS-in-Zahlen-BSI-gibt-Einblicke-in-Stand-der-IT-Sicherheit-9714985.html",
       "image_title": "Eine Person sitzt am Computer"
-    },
-    {
-      "title": "Das Cyber-Risiko einschätzen, reduzieren und überwachen",
-      "teaser": "Vor einer Attacke prüfen Cyberkriminelle oft zuerst die Angriffsfläche (Attack Surface) potenzieller Opfer auf Schwachstellen und suchen dabei nach leichter Beute. Deshalb ist es wichtig, sein Unternehmensnetzwerk für Cyberkriminelle so unattraktiv wie möglich zu machen.",
-      "url": "https://www.heise.de/solutions/outpost24/cyber-risiko-einschaetzen-reduzieren-ueberwachen/?source=nat_teas"
     },
     {
       "title": "Dell reagierte nicht auf Warnung vor Diebstahl von Kundendaten",
@@ -100,6 +96,18 @@
       "teaser": "Weil sie einen Online-Handel mit angeblich neuer Kryptowährung aufgezogen und damit Investoren abgezockt haben, wurden nun sechs Österreicher verhaftet.",
       "url": "https://www.heise.de/news/Krypto-Betrueger-Sechs-Oesterreicher-festgenommen-9714300.html",
       "image_title": "Brennende Geldscheine"
+    },
+    {
+      "title": "Microsoft wird konkreter mit veralteten TLS-Zertifikaten",
+      "teaser": "Microsoft hatte bereits im März erklärt, dass TLS-Zertifikate mit schwachem RSA-Key als veraltet gelten. Das Unternehmen wird konkreter.",
+      "url": "https://www.heise.de/news/Microsoft-wird-konkreter-mit-veralteten-TLS-Zertifikaten-9714145.html",
+      "image_title": "Ein Laptop mit einem Schutzschild auf dem Bildschirm"
+    },
+    {
+      "title": "Über 100 neue Leaks: LockBit entfaltet nach Doxxing hektische Aktivität",
+      "teaser": "Viele der vorgeblich neuen Leaks sind alt, ein prominentes Opfer dementiert zudem einen Angriff. Auch von Lockbit kam ein Dementi, jedoch in eigener Sache.",
+      "url": "https://www.heise.de/news/Ueber-100-neue-Leaks-LockBit-entfaltet-nach-Doxxing-hektische-Aktivitaet-9713751.html",
+      "image_title": "Ransomware im Netzwerk"
     },
     {
       "title": "Dell: Einbruch in Kundenportal führt zu Datenabfluss",
@@ -153,18 +161,6 @@
       "teaser": "Lernen Sie, wie Sie Sicherheitslücken in der eigenen Unternehmens-IT mit Hacker-Tools aufdecken und beseitigen. (Last Call)",
       "url": "https://www.heise.de/news/iX-Workshop-Wie-Angreifer-vorgehen-Pentesting-mit-Open-Source-Tools-9707341.html",
       "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
-    },
-    {
-      "title": "Bundeswehr: Webex für externe Kommunikation gesperrt",
-      "teaser": "Am Wochenende wurde bekannt, dass Webex-Konferenzen der Bundeswehr einsehbar waren. Für externe Kommunikation wurde Webex nun gesperrt.",
-      "url": "https://www.heise.de/news/Bundeswehr-setzt-Webex-Nutzung-fuer-externe-Kommunikation-aus-9711962.html",
-      "image_title": "Stilisiertes Bild: Zwei Soldaten halten eine Webkonferenz ab. Im Hintergrund steht \"Cisco Webex\""
-    },
-    {
-      "title": "Über 850.000 Opfer: Bande in China steckt hinter zehntausenden Fake-Shops",
-      "teaser": "Mit einem ausgeklügelten System haben Kriminelle aus China hunderttausenden Menschen Kreditkartendaten abgeluchst. Das geschieht über zehntausende Fake-Shops.",
-      "url": "https://www.heise.de/news/BogusBazaar-Bande-in-China-steckt-hinter-zehntausenden-Fake-Shops-9711839.html",
-      "image_title": "Man am Laptop und mit Kreditkarte in der Hand, die andere vor dem Gesicht"
     },
     {
       "title": "heise security tour 2024",
