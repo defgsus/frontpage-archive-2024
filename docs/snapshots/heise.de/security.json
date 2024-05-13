@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-05-13T05:01:47",
+  "timestamp": "2024-05-13T06:08:31",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Junos OS, Junos OS Evolved",
+      "url": "https://www.heise.de/news/Juniper-schliesst-OpenSSH-Luecken-in-Junos-OS-und-Junos-OS-Evolved-9715517.html"
+    },
+    {
       "title": "Google Chrome",
       "url": "https://www.heise.de/news/Google-Chrome-Exploit-fuer-Zero-Day-Luecke-gesichtet-9714519.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Software-Schwachstellen-Admin-Luecken-bedrohen-BIG-IP-Applicanes-von-F5-9713816.html"
     },
     {
-      "title": "VMware Avi Load Balancer",
-      "url": "https://www.heise.de/news/VMware-Avi-Load-Balancer-Rechteausweitung-zu-root-moeglich-9711733.html"
+      "title": "heise Security Tour 2024 – nächste Woche geht's los",
+      "teaser": "Die Eintages-Konferenz von heise Security vermittelt praxisrelevantes Wissen zu aktuellen Security-Themen – 100% unabhängig. Am 22. Mai geht's bereits los.",
+      "url": "https://www.heise.de/news/heise-Security-Tour-2024-naechste-Woche-geht-s-los-9706832.html"
+    },
+    {
+      "title": "Juniper schließt OpenSSH-Lücken in Junos OS und Junos OS Evolved",
+      "teaser": "Junos OS und Junos OS Evolved enthalten OpenSSH. Sicherheitslücken darin schließt Juniper nun mit Betriebssystem-Updates.",
+      "url": "https://www.heise.de/news/Juniper-schliesst-OpenSSH-Luecken-in-Junos-OS-und-Junos-OS-Evolved-9715517.html",
+      "image_title": "Stilisierte Grafik: Brennende Appliances im Netz"
     },
     {
       "title": "Einbruch in Forum von Europol",
@@ -59,6 +70,11 @@
       "image_title": "Eine Person sitzt am Computer"
     },
     {
+      "title": "Das Cyber-Risiko einschätzen, reduzieren und überwachen",
+      "teaser": "Vor einer Attacke prüfen Cyberkriminelle oft zuerst die Angriffsfläche (Attack Surface) potenzieller Opfer auf Schwachstellen und suchen dabei nach leichter Beute. Deshalb ist es wichtig, sein Unternehmensnetzwerk für Cyberkriminelle so unattraktiv wie möglich zu machen.",
+      "url": "https://www.heise.de/solutions/outpost24/cyber-risiko-einschaetzen-reduzieren-ueberwachen/?source=nat_teas"
+    },
+    {
       "title": "Dell reagierte nicht auf Warnung vor Diebstahl von Kundendaten",
       "teaser": "Während ein Angreifer über eine API von Dell Kundendaten abgriff, schickte er Mails an das Unternehmen. Das reagierte erst, als die Daten veröffentlicht wurden.",
       "url": "https://www.heise.de/news/Dell-reagierte-nicht-auf-Warnung-vor-Diebstahl-von-Kundendaten-9714977.html"
@@ -67,11 +83,6 @@
       "title": "Selbstverpflichtung: Über 60 Hersteller geloben, \"Secure by Design\" zu werden",
       "teaser": "Neben Verbesserungen wie Zweifaktor-Authentifizierung müssen Unterzeichner binnen Jahresfrist auch ihr Software und Patchmanagement verbessern.",
       "url": "https://www.heise.de/news/Selbstverpflichtung-Ueber-60-Hersteller-geloben-Secure-by-Design-zu-werden-9714438.html"
-    },
-    {
-      "title": "Das Cyber-Risiko einschätzen, reduzieren und überwachen",
-      "teaser": "Vor einer Attacke prüfen Cyberkriminelle oft zuerst die Angriffsfläche (Attack Surface) potenzieller Opfer auf Schwachstellen und suchen dabei nach leichter Beute. Deshalb ist es wichtig, sein Unternehmensnetzwerk für Cyberkriminelle so unattraktiv wie möglich zu machen.",
-      "url": "https://www.heise.de/solutions/outpost24/cyber-risiko-einschaetzen-reduzieren-ueberwachen/?source=nat_teas"
     },
     {
       "title": "Cyberangriffe: Abrechnungssystem britischer Armee; Testsystem bei IT-Sec-Firma",
@@ -154,18 +165,6 @@
       "teaser": "Mit einem ausgeklügelten System haben Kriminelle aus China hunderttausenden Menschen Kreditkartendaten abgeluchst. Das geschieht über zehntausende Fake-Shops.",
       "url": "https://www.heise.de/news/BogusBazaar-Bande-in-China-steckt-hinter-zehntausenden-Fake-Shops-9711839.html",
       "image_title": "Man am Laptop und mit Kreditkarte in der Hand, die andere vor dem Gesicht"
-    },
-    {
-      "title": "iX-Workshop: Sicherer Betrieb von Windows 10 und 11 in Unternehmen",
-      "teaser": "Lernen Sie an praktischen Beispielen, wie Sie Windows 10 / 11 Pro und Enterprise in Ihrem Unternehmen sicher und effektiv einsetzen. (Last Call)",
-      "url": "https://www.heise.de/news/iX-Workshop-Sicherer-Betrieb-von-Windows-10-und-11-in-Unternehmen-9707367.html",
-      "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
-    },
-    {
-      "title": "Raspberry Pi Connect: Einfacher Fernzugriff im Browser",
-      "teaser": "Das Raspberry Pi-Projekt hat mit \"Connect\" jetzt die Beta eines einfachen Fernwartungsdienstes gestartet. Zugriff gelingt mit dem Webbrowser.",
-      "url": "https://www.heise.de/news/Raspberry-Pi-Connect-Einfacher-Fernzugriff-im-Browser-9711803.html",
-      "image_title": "Screenshot vom Raspberry Pi Connect Server und einem zugreifenden Webbrowser"
     },
     {
       "title": "heise security tour 2024",
