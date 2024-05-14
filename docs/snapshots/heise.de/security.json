@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-05-14T08:00:47",
+  "timestamp": "2024-05-14T09:00:44",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Patchday SAP",
+      "url": "https://www.heise.de/news/SAP-Patchday-Angreifer-koennen-Systeme-durch-Sicherheitsluecke-kompromittieren-9717205.html"
+    },
+    {
       "title": "Cacti",
       "url": "https://www.heise.de/news/Monitoring-Software-Cacti-Sicherheitsluecken-erlauben-Einschleusen-von-Schadcode-9717005.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/IBM-dichtet-Codeschmuggel-Leck-und-mehr-in-Security-Guardium-ab-9716163.html"
     },
     {
-      "title": "Veeam Service Provider",
-      "url": "https://www.heise.de/news/Backup-Managementtool-Schadcode-Luecke-bedroht-Veeam-Service-Provider-9715535.html"
+      "title": "SAP-Patchday: Angreifer können Systeme durch Sicherheitslücke kompromittieren",
+      "teaser": "SAP gibt zum Mai-Patchday 14 neue Sicherheitsnotizen heraus. Angreifer können durch die Lücken etwa Schadcode einschmuggeln.",
+      "url": "https://www.heise.de/news/SAP-Patchday-Angreifer-koennen-Systeme-durch-Sicherheitsluecke-kompromittieren-9717205.html",
+      "image_title": "Stilisiertes Bild: Laptop mit SAP-Logo brennt, vor Serverracks"
     },
     {
       "title": "Monitoring-Software: Cacti-Sicherheitslücken erlauben Einschleusen von Schadcode",
@@ -71,14 +77,10 @@
       "image_title": "macOS 14 Sonoma"
     },
     {
-      "title": "Das Cyber-Risiko einschätzen, reduzieren und überwachen",
-      "teaser": "Vor einer Attacke prüfen Cyberkriminelle oft zuerst die Angriffsfläche (Attack Surface) potenzieller Opfer auf Schwachstellen und suchen dabei nach leichter Beute. Deshalb ist es wichtig, sein Unternehmensnetzwerk für Cyberkriminelle so unattraktiv wie möglich zu machen.",
-      "url": "https://www.heise.de/solutions/outpost24/cyber-risiko-einschaetzen-reduzieren-ueberwachen/?source=nat_teas"
-    },
-    {
-      "title": "Bundeslagebild Cybercrime: Die Lunte brennt – angezündet wird oft ganz woanders",
-      "teaser": "Phishing, Ransomware und DDoS bleiben die größten Geißeln von Cyberkriminellen, sagt das BKA. Das BSI vergleicht das mit vielen Lagerhäusern voll mit Dynamit.",
-      "url": "https://www.heise.de/news/Bundeslagebild-Cybercrime-Die-Lunte-brennt-angezuendet-wird-oft-ganz-woanders-9716670.html"
+      "title": "iOS 17.5 zum Download bereit: Diese Neuerungen bringt das iPhone-Update",
+      "teaser": "iOS 17.5 liefert neue Funktionen, darunter App-Sideloading in der EU sowie plattformübergreifende Warnungen vor fremden Bluetooth-Trackern.",
+      "url": "https://www.heise.de/news/iOS-17-5-zum-Download-bereit-Diese-Neuerungen-bringt-das-iPhone-Update-9716622.html",
+      "image_title": "iPhone 15 Pro liegt auf der Verpackung"
     },
     {
       "title": "IBM Security Guardium: Lücken erlauben Codeschmuggel und Rechtausweitung",
@@ -103,6 +105,12 @@
       "teaser": "Um eine kritische Schwachstelle zu schließen, sollten Admins Veeam Service Provider zeitnah auf den aktuellen Stand bringen.",
       "url": "https://www.heise.de/news/Backup-Managementtool-Schadcode-Luecke-bedroht-Veeam-Service-Provider-9715535.html",
       "image_title": "Taste auf Tastatur mit Aufdruck \"Update\""
+    },
+    {
+      "title": "Microsoft-Präsident Brad Smith erhält Vorladung vor das US-Repräsentantenhaus",
+      "teaser": "US-Behörden und -Regierung reagieren auf die IT-Sicherheitsverfehlungen von Microsoft. Brad Smith soll vor dem US-Repräsentantenhaus erscheinen.",
+      "url": "https://www.heise.de/news/Microsoft-Praesident-Brad-Smith-erhaelt-Vorladung-vor-das-US-Repraesentantenhaus-9715570.html",
+      "image_title": "Brad Smith"
     },
     {
       "title": "Juniper schließt OpenSSH-Lücken in Junos OS und Junos OS Evolved",
@@ -153,18 +161,6 @@
       "teaser": "Microsoft hatte bereits im März erklärt, dass TLS-Zertifikate mit schwachem RSA-Key als veraltet gelten. Das Unternehmen wird konkreter.",
       "url": "https://www.heise.de/news/Microsoft-wird-konkreter-mit-veralteten-TLS-Zertifikaten-9714145.html",
       "image_title": "Ein Laptop mit einem Schutzschild auf dem Bildschirm"
-    },
-    {
-      "title": "Über 100 neue Leaks: LockBit entfaltet nach Doxxing hektische Aktivität",
-      "teaser": "Viele der vorgeblich neuen Leaks sind alt, ein prominentes Opfer dementiert zudem einen Angriff. Auch von Lockbit kam ein Dementi, jedoch in eigener Sache.",
-      "url": "https://www.heise.de/news/Ueber-100-neue-Leaks-LockBit-entfaltet-nach-Doxxing-hektische-Aktivitaet-9713751.html",
-      "image_title": "Ransomware im Netzwerk"
-    },
-    {
-      "title": "Dell: Einbruch in Kundenportal führt zu Datenabfluss",
-      "teaser": "Dell schreibt derzeit viele Kunden an, dass ihre Daten abgeflossen seien. Angreifer sind in ein Kundenportal eingebrochen.",
-      "url": "https://www.heise.de/news/Dell-Einbruch-in-Kundenportal-fuehrt-zu-Datenabfluss-9713949.html",
-      "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
     },
     {
       "title": "heise security tour 2024",
