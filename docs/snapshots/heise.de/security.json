@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-05-14T06:09:25",
+  "timestamp": "2024-05-14T07:00:58",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Cacti",
+      "url": "https://www.heise.de/news/Monitoring-Software-Cacti-Sicherheitsluecken-erlauben-Einschleusen-von-Schadcode-9717005.html"
+    },
+    {
       "title": "Google Chrome",
       "url": "https://www.heise.de/news/Jetzt-updaten-Erneut-Zeroday-Luecke-in-Google-Chrome-Exploit-verfuegbar-9716922.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Backup-Managementtool-Schadcode-Luecke-bedroht-Veeam-Service-Provider-9715535.html"
     },
     {
-      "title": "Junos OS, Junos OS Evolved",
-      "url": "https://www.heise.de/news/Juniper-schliesst-OpenSSH-Luecken-in-Junos-OS-und-Junos-OS-Evolved-9715517.html"
+      "title": "Monitoring-Software: Cacti-Sicherheitslücken erlauben Einschleusen von Schadcode",
+      "teaser": "Eine aktualisierte Version der Monitoring-Software Cacti schließt mehrere, teils kritische Sicherheitslücken. Angreifer können dadurch Code einschmuggeln.",
+      "url": "https://www.heise.de/news/Monitoring-Software-Cacti-Sicherheitsluecken-erlauben-Einschleusen-von-Schadcode-9717005.html",
+      "image_title": "Stilisiertes Bild: Laptop steht auf Schreibtisch vor Serverschränken, es brennt"
+    },
+    {
+      "title": "Drei Fragen und Antworten: Warum sind Repositories so beliebt bei Angriffen?",
+      "teaser": "In den letzten Wochen wurden viele Angriffe auf Software-Repositories bekannt: XZ, Python oder zuletzt Docker Hub. Repos scheinen es Hackern leichtzumachen.",
+      "url": "https://www.heise.de/news/Drei-Fragen-und-Antworten-Warum-sind-Repositories-so-beliebt-bei-Angriffen-9716252.html"
     },
     {
       "title": "Jetzt updaten! Erneut Zeroday-Lücke in Google Chrome, Exploit verfügbar",
@@ -60,6 +71,11 @@
       "image_title": "macOS 14 Sonoma"
     },
     {
+      "title": "Das Cyber-Risiko einschätzen, reduzieren und überwachen",
+      "teaser": "Vor einer Attacke prüfen Cyberkriminelle oft zuerst die Angriffsfläche (Attack Surface) potenzieller Opfer auf Schwachstellen und suchen dabei nach leichter Beute. Deshalb ist es wichtig, sein Unternehmensnetzwerk für Cyberkriminelle so unattraktiv wie möglich zu machen.",
+      "url": "https://www.heise.de/solutions/outpost24/cyber-risiko-einschaetzen-reduzieren-ueberwachen/?source=nat_teas"
+    },
+    {
       "title": "Bundeslagebild Cybercrime: Die Lunte brennt – angezündet wird oft ganz woanders",
       "teaser": "Phishing, Ransomware und DDoS bleiben die größten Geißeln von Cyberkriminellen, sagt das BKA. Das BSI vergleicht das mit vielen Lagerhäusern voll mit Dynamit.",
       "url": "https://www.heise.de/news/Bundeslagebild-Cybercrime-Die-Lunte-brennt-angezuendet-wird-oft-ganz-woanders-9716670.html"
@@ -69,11 +85,6 @@
       "teaser": "IBM hat für seine Cloud-Sicherheitssoftware Security Guardium Updates bereitgestellt. Sie schließen teils kritische Sicherheitslücken.",
       "url": "https://www.heise.de/news/IBM-dichtet-Codeschmuggel-Leck-und-mehr-in-Security-Guardium-ab-9716163.html",
       "image_title": "Stilisiertes Bild: Laptop steht auf Schreibtisch vor Serverschränken, es brennt"
-    },
-    {
-      "title": "Das Cyber-Risiko einschätzen, reduzieren und überwachen",
-      "teaser": "Vor einer Attacke prüfen Cyberkriminelle oft zuerst die Angriffsfläche (Attack Surface) potenzieller Opfer auf Schwachstellen und suchen dabei nach leichter Beute. Deshalb ist es wichtig, sein Unternehmensnetzwerk für Cyberkriminelle so unattraktiv wie möglich zu machen.",
-      "url": "https://www.heise.de/solutions/outpost24/cyber-risiko-einschaetzen-reduzieren-ueberwachen/?source=nat_teas"
     },
     {
       "title": "Ransomware Black Basta zählt nach zwei Jahren weltweit über 500 Opfer",
@@ -154,18 +165,6 @@
       "teaser": "Dell schreibt derzeit viele Kunden an, dass ihre Daten abgeflossen seien. Angreifer sind in ein Kundenportal eingebrochen.",
       "url": "https://www.heise.de/news/Dell-Einbruch-in-Kundenportal-fuehrt-zu-Datenabfluss-9713949.html",
       "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
-    },
-    {
-      "title": "Admins müssen selbst handeln: PuTTY-Sicherheitslücke bedroht Citrix Hypervisor",
-      "teaser": "Um XenCenter für Citrix Hypervisor abzusichern, müssen Admins händisch ein Sicherheitsupdate für das SSH-Tool PuTTY installieren.",
-      "url": "https://www.heise.de/news/Admins-muessen-selbst-handeln-PuTTY-Sicherheitsluecke-bedroht-Citrix-Hypervisor-9713898.html",
-      "image_title": "Fortschrittsbalken mit dem Text \"Update\""
-    },
-    {
-      "title": "iX-Workshop: Linux-Server vor Angriffen wirksam schützen",
-      "teaser": "Linux-Server und Netzwerkdienste effektiv und umfassend vor Angriffen schützen - von physischer Sicherheit über Verschlüsselung und 2FA bis hin zu SELinux.",
-      "url": "https://www.heise.de/news/iX-Workshop-Linux-Server-vor-Angriffen-wirksam-schuetzen-9707503.html",
-      "image_title": "iX-Workshop: Linux-Server härten"
     },
     {
       "title": "heise security tour 2024",
