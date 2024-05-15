@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-05-15T12:10:56",
+  "timestamp": "2024-05-15T13:07:35",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -53,6 +53,41 @@
       "url": "https://www.heise.de/tests/Kurztests-Software-Switch-Musikplayer-und-E-Book-Reader-Software-9711970.html"
     },
     {
+      "title": "KI-gestützte Wasseranalyse",
+      "teaser": "Mithilfe von selbst trainierter KI und Maker-Technik lässt sich abfallende Wasserqualität erkennen, bevor es für Aquarien-Bewohner gefährlich wird.",
+      "url": "https://www.heise.de/news/KI-gestuetzte-Wasseranalyse-9719345.html",
+      "image_title": "Man sieht ein Aquarium, an dem ein Tintenfisch-förmiges Gehäuse angebracht ist. Daneben liegt ein l-förmiger Arm."
+    },
+    {
+      "title": "LibreOffice: Falscher Klick kann zur Ausführung von Schadcode führen",
+      "teaser": "Eine Sicherheitslücke im quelloffenen LibreOffice ermöglicht Angreifern, Opfern Schadcode unterzujubeln. Die müssen nur einmal klicken.",
+      "url": "https://www.heise.de/news/LibreOffice-Falscher-Klick-kann-zur-Ausfuehrung-von-Schadcode-fuehren-9719334.html",
+      "image_title": "Stilisiertes Bild: Spam und Malware auf und um dem Rechner"
+    },
+    {
+      "title": "AMD Ryzen 8000F: Getarnte Ryzen 7000 jetzt auch einzeln verfügbar",
+      "teaser": "Der Ryzen 7 8700F und Ryzen 5 8400F kommen ohne GPU. 7000er-Modelle sind allerdings günstiger und schneller.",
+      "url": "https://www.heise.de/news/AMD-Ryzen-8000F-Getarnte-Ryzen-7000-jetzt-auch-einzeln-verfuegbar-9719303.html",
+      "image_title": "Renderbild eines Ryzen Prozessors im Mainboard"
+    },
+    {
+      "title": "Ubiquiti erzwingt ab Juli Zwei-Faktor-Authentifizierung für Netzwerk-Admins",
+      "teaser": "Der Hersteller von Netzwerk- und Smart-Home-Komponenten erzwingt bald die Anmeldung mittels zweitem Faktor. Admins müssen zwischen Apps und E-Mail wählen.",
+      "url": "https://www.heise.de/news/Ubiquiti-erzwingt-ab-Juli-Zwei-Faktor-Authentifizierung-fuer-Netzwerk-Admins-9719163.html"
+    },
+    {
+      "title": "Marketingchef für iPad und Mac: Keine Zusammenführung geplant",
+      "teaser": "Die Frage, einen Mac mit Touchscreen auszurüsten oder ein iPad mit macOS, wird regelmäßig gestellt. Apples zuständiger Marketingchef glaubt nicht daran.",
+      "url": "https://www.heise.de/news/Marketingchef-fuer-iPad-und-Mac-Keine-Zusammenfuehrung-geplant-9717527.html",
+      "image_title": "iPad Pro M4 in beiden Varianten"
+    },
+    {
+      "title": "Gesetzentwurf: Gematik soll als \"Digitalagentur Gesundheit\" durchregieren",
+      "teaser": "Ziel des Gesetzes für eine Digitalagentur für Gesundheit ist es, der Gematik mehr Befugnisse einzuräumen. So soll das Gesundheitswesen endlich digital werden.",
+      "url": "https://www.heise.de/news/Entwurf-fuer-Digitalagentur-Gesetz-Gematik-soll-durchregieren-und-transformieren-9719070.html",
+      "image_title": "Ärztin am PC"
+    },
+    {
       "title": "Broadcom macht ein Virtualisierungs-Geschenk – für Endanwender",
       "teaser": "Auch die Desktop-Virtualisierung baut Broadcom um. Endnutzer müssen nicht mehr für Workstation und Fusion zahlen, für Firmen gibt es nur noch eine Abo-Lizenz.",
       "url": "https://www.heise.de/news/VMware-fuer-den-Desktop-jetzt-gratis-fuer-Endanwender-9719002.html",
@@ -65,7 +100,7 @@
       "image_title": "Stilisiertes Bild: Eine Wolke mit EU-Flagge darin, vor Serverracks im Hintergrund"
     },
     {
-      "title": "Google I/O: Gemini Flash, Nano, 1.5 Pro, Gemma, Project Astra, Live, what?!",
+      "title": "Google I/O: Coole Produkte, aber kaum jemand versteht es",
       "teaser": "Google hat bei der diesjährigen I/O mit den Geminis nur so um sich geworfen. Warum das schwierig ist und wer oder was sie alle sind.",
       "url": "https://www.heise.de/meinung/Google-I-O-Gemini-Flash-Nano-1-5-Pro-Gemma-Project-Astra-Live-what-9718561.html",
       "image_title": "Das Dach der Veranstaltungshalle der Google I/O."
@@ -104,41 +139,6 @@
       "teaser": "In VMware Workstation und Fusion klaffen Sicherheitslücken, die beim Pwn2Own-Wettbewerb missbraucht wurden. Sie ermöglichen den Ausbruch aus dem Gastsystem.",
       "url": "https://www.heise.de/news/VMware-Workstation-und-Fusion-Ausbruch-aus-Gastsystem-moeglich-9718624.html",
       "image_title": "Stilisierte Grafik: Brennendes VMware-Logo auf einem Laptop"
-    },
-    {
-      "title": "Patchday: Angreifer attackieren Windows und verschaffen sich Systemrechte",
-      "teaser": "Microsoft hat wichtige Sicherheitsupdates für unter anderem Edge, Dynamics 365 und Windows veröffentlicht. Es gibt bereits Attacken.",
-      "url": "https://www.heise.de/news/Patchday-Angreifer-attackieren-Windows-und-verschaffen-sich-Systemrechte-9718608.html",
-      "image_title": "Windows-Logo mit Flecken und der Aufschrift \"Patchday\""
-    },
-    {
-      "title": "iX-Workshop: DevSecOps – Automatisierte Sicherheitstests für Webanwendungen",
-      "teaser": "Automatisierte Sicherheitsprüfungen auf Anwendungsebene in den DevSecOps-Prozess integrieren. (10% Rabbat bis 28.05.)",
-      "url": "https://www.heise.de/news/iX-Workshop-DevSecOps-Automatisierte-Sicherheitstests-fuer-Webanwendungen-9712831.html",
-      "image_title": "Workshop DevSecOps: Automatisierte Sicherheitstests für die Webentwicklung"
-    },
-    {
-      "title": "Neue Bundeswehr-Drohne Heron TP beginnt Demonstrationsflugbetrieb",
-      "teaser": "Aus Israel bekommt die Bundeswehr neue Drohnen, die nun auch mit Waffen bestückt werden können. Am Mittwoch beginnt der offizielle Flugbetrieb der Heron TP.",
-      "url": "https://www.heise.de/news/Neue-Bundeswehr-Drohne-Heron-TP-beginnt-Demonstrationsflugbetrieb-9718565.html",
-      "image_title": "Schulter eines Soldaten der Bundeswehr im gefleckten Tarnanzug mit Schulterklappe und Deutschlandflagge auf dem Oberarm."
-    },
-    {
-      "title": "Display Week: Selbstleuchtende Quantenpunkte für Notebooks und Monitore",
-      "teaser": "LCDs und OLEDs waren gestern, jetzt kommen selbstleuchtende Quantenpunkte. Das verspricht Hersteller TCL auf der Display Week mit einem bestechenden Prototyp.",
-      "url": "https://www.heise.de/news/Display-Week-Selbstleuchtende-Quantenpunkte-fuer-Notebooks-und-Monitore-9718484.html",
-      "image_title": "Aufgeklappter Laptop mit 14-Zoll-Bildschirm"
-    },
-    {
-      "title": "Raspberry Pi 5: Der \"offizielle\" SSD-Adapter ist jetzt für 13 Euro lieferbar",
-      "teaser": "Gut Ding will Weile haben: Die Raspi-Entwickler liefern endlich ihren hauseigenen NVMe-SSD-Adapter \"M.2 HAT+\" aus, auf den eine 2230- oder 2242-SSD passt.",
-      "url": "https://www.heise.de/news/Raspberry-Pi-5-Der-offizielle-SSD-Adapter-ist-jetzt-fuer-13-Euro-lieferbar-9718368.html",
-      "image_title": "Raspberry Pi M.2 HAT+, ein NVMe-SSD-Adapter für den Raspi 5​"
-    },
-    {
-      "title": "TPU: Googles Trillium soll fünfmal schneller als sein Vorgänger sein",
-      "teaser": "Die sechste Generation von Googles hauseigenen Tensor Processing Units hört auf den Namen \"Trillium\" und soll deutlich flotter arbeiten als ihr Vorgänger.​",
-      "url": "https://www.heise.de/news/Google-I-O-Googles-naechste-TPU-Generation-heisst-Trillium-9718404.html"
     },
     {
       "title": "Low-Code ist nicht immer gleich Low-Code.",
