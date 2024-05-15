@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-05-15T15:01:00",
+  "timestamp": "2024-05-15T16:00:45",
   "url": "https://www.welt.de/wirtschaft/",
   "response": {
     "status": 200
@@ -25,6 +25,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "Der Fall Burberry ist ein Warnsignal für die gesamte Luxus-Branche",
+      "teaser": "Die Mode mit der „Britishness“ ist weniger gefragt, seit der erste Boom der Wohlhabenden nach dem Ende der Corona-Krise abgeflaut ist. Zudem ist auch der Andrang in den Shopping-Malls geringer geworden. Auch die Konkurrenz im Luxus-Segment hat es schwer – bis auf eine Ausnahme.",
+      "url": "https://www.welt.de/wirtschaft/",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile251534266/1427939517-ci23x11-w20/Street-Style-Berlin-September-04-2019.jpg",
+      "image_title": "Burberry ist bekannt für seine markant großen Karos",
+      "author": "Claudia Wanner"
+    },
     {
       "title": "In der China-Falle – Moral ist die falsche Antwort auf die US-Zölle",
       "teaser": "Die USA schotten ihren Markt gegen Produkte aus China ab. Nun fürchtet Europa eine Flut chinesischer Importe. Es braucht eine kluge, radikal andere Außenwirtschaftspolitik. Die EU muss sich wehren. Denn eigene hitzige Strafaktionen kann sie sich schlicht nicht leisten.",
@@ -55,14 +63,6 @@
       "url": "https://www.welt.de/wirtschaft/",
       "image_url": "https://img.welt.de/img/wirtschaft/mobile251532342/9997937377-ci23x11-w20/Containerterminal-im-Hafen-Hamburg.jpg",
       "image_title": "Container im Hamburger Hafen"
-    },
-    {
-      "title": "Riesiger Abrechnungs-Betrug in Deutschlands Gesundheitswesen",
-      "teaser": "Betrug und Korruption kosten jedes Jahr viel Geld, gefährden das Leben von Patienten und bringen das Gesundheitssystem in Verruf. Vor allem in der Pflege nehmen die kriminellen Machenschaften offenbar deutlich zu, wie ein neuer Krankenkassen-Report aufdeckt.",
-      "url": "https://www.welt.de/wirtschaft/",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile251529916/6457936517-ci23x11-w20/Contemplated-senior-female-sitting-on-wheelchair.jpg",
-      "image_title": "Contemplated senior female sitting on wheelchair",
-      "author": "Anja Ettel"
     },
     {
       "title": "„Wirtschaftsweise“ senken Konjunkturprognose",
@@ -249,6 +249,10 @@
       "image_title": "Kein alternativer Text für dieses Bild vorhanden"
     },
     {
+      "title": "Der Fall Burberry ist ein Warnsignal für die gesamte Luxus-Branche",
+      "url": "https://www.welt.de/wirtschaft/article251534268/Mode-Luxus-schwaechelt-diese-Burberry-Warnung-schockt-die-Branche.html"
+    },
+    {
       "title": "Taco Bell will Filialen in Deutschland eröffnen",
       "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article251535814/Taco-Bell-will-Filialen-in-Deutschland-eroeffnen.html"
     },
@@ -290,7 +294,7 @@
     },
     {
       "title": "Modekette Esprit meldet Insolvenz an – 1500 Mitarbeiter betroffen",
-      "url": "https://www.welt.de/wirtschaft/article251527228/Restrukturierung-geplant-Modekette-Esprit-meldet-Insolvenz-an-1500-Mitarbeiter-betroffen.html"
+      "url": "https://www.welt.de/wirtschaft/article251527228/Esprit-Modekette-meldet-Insolvenz-an-1500-Mitarbeiter-betroffen.html"
     },
     {
       "title": "EU-Kommission senkt Wachstumsprognose für Euroraum – Deutschland fast ganz hinten",
@@ -374,7 +378,7 @@
     },
     {
       "title": "100 Prozent auf chinesische E-Autos – das kommt jetzt auf VW, Mercedes und Co. zu",
-      "url": "https://www.welt.de/wirtschaft/plus251514246/US-Zoelle-100-Prozent-auf-chinesische-E-Autos-Das-kommt-jetzt-auf-VW-Mercedes-und-Co-zu.html"
+      "url": "https://www.welt.de/wirtschaft/plus251514246/Zoelle-100-Prozent-auf-chinesische-E-Autos-Das-kommt-jetzt-auf-VW-Mercedes-und-Co-zu.html"
     },
     {
       "title": "Europa vs. USA – können wir Amerika doch noch einholen?",
@@ -457,10 +461,6 @@
       "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article251500412/Pfingstferien-Oft-tankt-es-sich-am-Urlaubsziel-billiger.html"
     },
     {
-      "title": "In diesen Städten zeichnet sich der nächste Immobilien-Boom ab",
-      "url": "https://www.welt.de/finanzen/immobilien/plus251492084/Eigentumswohnungen-In-dieser-Stadt-wird-der-naechste-Immobilienboom-stattfinden.html"
-    },
-    {
       "title": "Start bundesweiter Chemie-Tarifverhandlungen",
       "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article251500120/Start-bundesweiter-Chemie-Tarifverhandlungen.html"
     },
@@ -513,52 +513,50 @@
       "url": "https://www.welt.de/deals/"
     },
     {
-      "title": "Das Ende eines Statussymbols",
-      "teaser": "Lange haben Händler und Hersteller von Küchen von den besonderen Bedingungen der Corona-Pandemie profitiert. Nun kommt die Krise auch bei ihnen an: Umsatz und Stückzahlen sinken deutlich, allen voran im Premiumsegment. Doch die Industrie hat einen Plan B.",
-      "url": "https://www.welt.de/wirtschaft/plus251286218/Kuechen-in-der-Krise-Das-Ende-eines-Statussymbols.html",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile251286574/7877938727-ci23x11-w20/Interior-of-modern-kitchen-in-loft-apartment-2.jpg",
-      "image_title": "Schicke Küchen lassen sich wieder schwieriger verkaufen als zu Corona-Zeiten",
-      "author": "Carsten Dierig"
+      "title": "„Wir rechnen zwischen 2030 und 2045 mit einem signifikanten Rückgang der Erdgasanschlüsse“",
+      "teaser": "Der städtische Netzbetreiber geht davon aus, dass in den kommenden zwei Jahrzehnten wegen eines sinkenden Bedarfs bereits Teile des Erdgasnetzes stillgelegt werden. Gebäudewärme soll künftig direkt aus Strom und aus regenerativ hergestelltem Wasserstoff erzeugt werden.",
+      "url": "https://www.welt.de/regionales/hamburg/",
+      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile251490628/3397930577-ci23x11-w20/Gasnetz-Hamburg-GmbH-GasuebernahmestationinReitbrook.jpg",
+      "image_title": "Die Gasübernahmestation von Gasnetz Hamburg in Reitbrook",
+      "author": "Olaf Preuß"
     },
     {
-      "title": "Zu viel „Gegenwind“ aus Brüssel – Das Schreckens-Szenario des Lufthansa-Chefs",
-      "teaser": "Die Lufthansa will mit dem Slogan „Yes to Europe“ und dem europäischen Sternenkranz zur Wahl im Juni motivieren. Mit der Politik der EU hadert Lufthansa-Chef Carsten Spohr dennoch: Wegen überhöhter Regulierung stehe nicht weniger auf dem Spiel als Europas Anbindung an die Welt.",
+      "title": "4 Prozent auf geparktes Guthaben bei Trade Republic",
+      "teaser": "In Zeiten niedriger Zinsen suchen immer mehr Anleger nach Alternativen zum Tagesgeld. Mit attraktiven Guthabenzinsangeboten, die höhere Renditen versprechen, stellen Broker wie Trade Republic eine Alternative dar. Doch lohnt sich das Angebot?",
+      "url": "https://www.welt.de/finanzen/",
+      "image_url": "https://img.welt.de/img/finanzen/mobile250668585/0397931537-ci23x11-w20/Trade-Republic-Aufmacherelement.jpg",
+      "image_title": "Trade Republic Zinsen: Die Grafik zeigt Geldmünzen, die aufeinandergestapelt sind."
+    },
+    {
+      "title": "Verkannter Antrieb? So wird Wasserstoff zur sinnvollen Verbrenner-Alternative",
+      "teaser": "Wasserstoff gilt neben der Batterie als Energieträger der Zukunft im Verkehr. Bei den Olympischen Spielen in Paris werden viele Gäste erstmals die Technologie kennenlernen. Und die Autokonzerne haben konkrete Pläne für die Serienproduktion.",
+      "url": "https://www.welt.de/wirtschaft/plus251295212/Benzin-und-Diesel-Wie-Wasserstoff-zur-Verbrenner-Alternative-wird.html",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile251347802/8997936807-ci23x11-w20/Wasserstoffauto.jpg",
+      "image_title": "Kein alternativer Text für dieses Bild vorhanden",
+      "author": "Daniel Zwick"
+    },
+    {
+      "title": "So viel verdienen die Deutschen",
+      "teaser": "Ein gutes Gehalt bleibt das wichtigste Kriterium für Zufriedenheit im Job. Mit der richtigen Kombination aus Branche, Beruf, Führungsverantwortung und mehr kann man einiges dafür tun. Wo verdient man besonders viel, was bleibt netto übrig? WELT zeigt alle Daten.",
+      "url": "https://www.welt.de/wirtschaft/plus250875546/Durchschnittsgehalt-Deutschland-Wo-verdienen-die-Deutschen-besonders-viel.html",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile250878256/3437931827-ci23x11-w20/DWO-Teaser-Kaufkraft-cg-jpg.jpg",
+      "image_title": "Kein alternativer Text für dieses Bild vorhanden",
+      "author": "Sebastian Freier"
+    },
+    {
+      "title": "Bis zu 4,01 Prozent Zinsen – Hier lohnen sich Fest- und Tagesgeld",
+      "teaser": "Der Inflationsrückgang könnte die EZB dazu veranlassen, eine Senkung des Leitzinses in Erwägung zu ziehen; allerdings ist dies bisher nicht gewiss. Dennoch bleiben die hohen Zinsen, welche Banken zur Gewinnung neuer Kunden einsetzen, vorerst bestehen. Sie bieten attraktive Tages- und Festgeldangebote für Sparer an. Wir haben eine Auswahl dieser Angebote zusammengestellt und für Sie verglichen.",
+      "url": "https://www.welt.de/finanzen/",
+      "image_url": "https://img.welt.de/img/deals/mobile249801762/1107936707-ci23x11-w20/04-Aufmacherelement.jpg",
+      "image_title": "04 - Aufmacherelement"
+    },
+    {
+      "title": "Plötzlich investiert Paris in Lilium – und plant bereits ein Werk in Frankreich",
+      "teaser": "Paris stellt Subventionen und Kreditbürgschaften für den Flugtaxi-Hersteller Lilium in Aussicht. In Frankreich sollen Arbeitsplätze und eine Großserienproduktion entstehen. Dahinter steht wohl ein Airbus-Netzwerk. Deutschland hingegen zögert bei weiteren Investitionen.",
       "url": "https://www.welt.de/wirtschaft/",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile251496936/5157939267-ci23x11-w20/Airbus-uebergibt-600-Maschine-an-Lufthansa-2.jpg",
-      "image_title": "Carsten Spohr, Vorstandsvorsitzender der Deutschen Lufthansa AG, steht vor einem Triebwerk nach der Übergabe des Airbus A321neo „Münster“ an die Lufthansa auf dem Gelände vom Airbus-Werk in Finkenwerder. Der A321neo ist der 600. Airbus in der Flotte der Fluggesellschaft Lufthansa.",
-      "author": "Stefan Beutelsbacher"
-    },
-    {
-      "title": "Ihr bester Mitarbeiter will kündigen? So überzeugen Sie ihn, zu bleiben",
-      "teaser": "Wenn ausgerechnet ein wichtiger Angestellter seine Kündigung einreicht, muss noch längst nicht alles verloren sein. WELT erklärt, wie Arbeitgeber ihre Mitarbeiter zum Bleiben motivieren. Und welche Strategien sie in jedem Fall vermeiden sollten.",
-      "url": "https://www.welt.de/wirtschaft/plus251465710/Karriere-Ihre-besten-Mitarbeiter-wollen-kuendigen-So-halten-Sie-die-Kollegen-von-der-Kuendigung-ab.html",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile251465984/2577935647-ci23x11-w20/GettyImages-2116635858.jpg",
-      "image_title": "GettyImages-2116635858_",
-      "author": "Jan Schulte"
-    },
-    {
-      "title": "Die ersten Profiteure der Cannabis-Legalisierung kristallisieren sich heraus",
-      "teaser": "Seit dem 1. April darf in Deutschland legal gekifft werden. Bundesgesundheitsminister Lauterbach will zwar eine Cannabis-Industrie und die damit zusammenhängende Vermarktung hierzulande vermeiden. Dennoch zeigen sich bereits mehrere Gewinner der Legalisierung.",
-      "url": "https://www.welt.de/wirtschaft/",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile251219922/9167938197-ci23x11-w20/Close-up-of-young-adult-man-rolling-a-marijuana-joint-on-blur-bac.jpg",
-      "image_title": "Close-up of young adult man rolling a marijuana joint on blur background.",
-      "author": "Andreas Macho"
-    },
-    {
-      "title": "Schrebergarten-Kolonien – schützenswerte Oasen oder verschwendetes Bauland?",
-      "teaser": "Egal, ob man sie spießig oder idyllisch findet: In manchen Städten warten Kleingarten-Bewerber jahrelang auf eine Parzelle und zahlen tausende Euro für ihren privaten Garten. Doch angesichts des knappen Bodens fragen manche: Sollten hier nicht besser Wohnungen gebaut werden?",
-      "url": "https://www.welt.de/wirtschaft/plus251211812/Schrebergarten-Schuetzenswerte-Oasen-oder-verschwendetes-Bauland-Podcast.html",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile251403396/9847930177-ci23x11-w20/Kleingaerten-des-Heimgartenbundes-Altona-die-auf-den-A7-Deckel-a.jpg",
-      "image_title": "Kleingaerten des Heimgartenbundes Altona, die auf den A7 Deckel ausweichen sollen, Luftbild, allotment garden Heimgartenbundes Altona, aerial view",
-      "author": "Michael Fabricius"
-    },
-    {
-      "title": "15 Euro Mindestlohn? Mehr Netto vom Brutto ist richtig, aber nicht so",
-      "teaser": "Höhere Löhne sind gerade in Zeiten von Reallohnverlusten der richtige Weg. Maßvolle Erhöhungen beim Mindestlohn sind eigentlich schon vereinbart. Doch nun will der Kanzler deutlich mehr. Dabei aber zugleich Steuern und Abgaben außer Acht zu lassen, dazu gehört eine Portion Chuzpe.",
-      "url": "https://www.welt.de/wirtschaft/plus251518270/Mindestlohn-15-Euro-Mindestlohn-Mehr-Netto-vom-Brutto-ist-richtig-aber-nicht-so.html",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile251519702/3697934137-ci23x11-w20/ONLINE-Kommentar-kombo-Jan-Klauth-zu-Min.jpg",
-      "image_title": "Die SPD sollte besser einen Blick auf Steuern und Abgaben haben, rät WELT-Redakteur Jan Klauth",
-      "author": "Jan Klauth"
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile251488914/3637938197-ci23x11-w20/Lilium-Sign-NetJets-Deal-To-Bring-150-eVTOL-Aircraft-To-The-Skies-2.jpg",
+      "image_title": "VIDEO AVAILABLE: CONTACT INFO@COVERMG.COM German eVTOL jet maker Lilium has signed a deal with NetJets Inc., the largest private aviation company in the world, and FlightSafety International, the leader in professional aviation training to provide them with 150 aircraft. They also anticipate supporting Lilium with a private sales campaign for individuals to purchase Lilium aircraft and explore a business model for the operation of Lilium’s network in Florida as well as other regions in the US and Europe. The electric vertical take-off and landing (eVTOL) Lilium Jet generates lift conventionally by propellers, but the propellers are rotated via purely electromagnetic means. It will accommodate six passengers and one pilot. It is powered by 36 electric motors, six on each of the two front wings and twelve on each rear wing. The engines are installed above twelve tiltable rear flaps. The drive-carrying flaps pivot downwards for vertical launch. At the transition to the horizontal position, forward thrust is generated. The aim is to have commercially available versions of the Lilium jets available by 2024. NetJets operates the world’s largest fleet of private jets, and their strong owner base will provide Lilium with scale and support for its ecosystem in the US, where plans for a Florida transport hub continue to progress. Daniel Wiegand, Co-Founder and CEO of Lilium said: “This partnership is a major step in our mission to build radically better ways of moving and to electrify regional air travel. We believe that the private and business professional segments will be highly attractive markets in the future and, likewise, early adopters of the eVTOL revolution. We couldn’t be happier to collaborate with NetJets and FlightSafety to electrify this market and hope to forge a long-term strategic partnership to bring high speed regional electric air mobility to the world.”“Our focus on technology and adaptive learning will help prepare aviation professionals w",
+      "author": "Gerhard Hegmann"
     }
   ]
 }
