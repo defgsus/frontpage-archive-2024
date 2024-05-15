@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-05-15T06:07:58",
+  "timestamp": "2024-05-15T07:00:47",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -143,6 +143,29 @@
       "url": "https://www.heise.de/news/Sonnensturm-geht-weiter-so-fotografiert-man-Polarlichter-ohne-Aufwand-9715078.html"
     },
     {
+      "title": "Tool: Malwareanalyse mit dem Open-Source-Debugger x64dbg",
+      "teaser": "Der Open-Source-Debugger x64dbg eignet sich für Reverse Engineering und Malwareanalyse. Er bietet viele Funktionen zum Nachvollziehen innerer Programmabläufe.",
+      "url": "https://www.heise.de/ratgeber/Tool-Malwareanalyse-mit-dem-Open-Source-Debugger-x64dbg-9710458.html",
+      "image_title": "Magnifying,Glass,Enlarging,Malware,In,Computer,Machine,Code"
+    },
+    {
+      "title": "AlertVMware Workstation und Fusion: Ausbruch aus Gastsystem möglich",
+      "teaser": "In VMware Workstation und Fusion klaffen Sicherheitslücken, die beim Pwn2Own-Wettbewerb missbraucht wurden. Sie ermöglichen den Ausbruch aus dem Gastsystem.",
+      "url": "https://www.heise.de/news/VMware-Workstation-und-Fusion-Ausbruch-aus-Gastsystem-moeglich-9718624.html",
+      "image_title": "Stilisierte Grafik: Brennendes VMware-Logo auf einem Laptop"
+    },
+    {
+      "title": "Das Cyber-Risiko einschätzen, reduzieren und überwachen",
+      "teaser": "Vor einer Attacke prüfen Cyberkriminelle oft zuerst die Angriffsfläche (Attack Surface) potenzieller Opfer auf Schwachstellen und suchen dabei nach leichter Beute. Deshalb ist es wichtig, sein Unternehmensnetzwerk für Cyberkriminelle so unattraktiv wie möglich zu machen.",
+      "url": "https://www.heise.de/solutions/outpost24/cyber-risiko-einschaetzen-reduzieren-ueberwachen/?source=nat_teas"
+    },
+    {
+      "title": "AlertPatchday: Angreifer attackieren Windows und verschaffen sich Systemrechte",
+      "teaser": "Microsoft hat wichtige Sicherheitsupdates für unter anderem Edge, Dynamics 365 und Windows veröffentlicht. Es gibt bereits Attacken.",
+      "url": "https://www.heise.de/news/Patchday-Angreifer-attackieren-Windows-und-verschaffen-sich-Systemrechte-9718608.html",
+      "image_title": "Windows-Logo mit Flecken und der Aufschrift \"Patchday\""
+    },
+    {
       "title": "iX-Workshop: DevSecOps – Automatisierte Sicherheitstests für Webanwendungen",
       "teaser": "Automatisierte Sicherheitsprüfungen auf Anwendungsebene in den DevSecOps-Prozess integrieren. (10% Rabbat bis 28.05.)",
       "url": "https://www.heise.de/news/iX-Workshop-DevSecOps-Automatisierte-Sicherheitstests-fuer-Webanwendungen-9712831.html",
@@ -153,11 +176,6 @@
       "teaser": "Der Mitbegründer und Leitende Wissenschaftler Ilya Sutskever verlässt OpenAI. Eine Nachfolge ist bereits bestimmt.",
       "url": "https://www.heise.de/news/OpenAIs-Mitbegruender-und-leitender-Wissenschaftler-Ilya-Sutskever-verlaesst-Firma-9718598.html",
       "image_title": "ChatGPT Symbolbild"
-    },
-    {
-      "title": "Das Cyber-Risiko einschätzen, reduzieren und überwachen",
-      "teaser": "Vor einer Attacke prüfen Cyberkriminelle oft zuerst die Angriffsfläche (Attack Surface) potenzieller Opfer auf Schwachstellen und suchen dabei nach leichter Beute. Deshalb ist es wichtig, sein Unternehmensnetzwerk für Cyberkriminelle so unattraktiv wie möglich zu machen.",
-      "url": "https://www.heise.de/solutions/outpost24/cyber-risiko-einschaetzen-reduzieren-ueberwachen/?source=nat_teas"
     },
     {
       "title": "Alternative Kopfhörerpolster im Test",
@@ -175,24 +193,6 @@
       "teaser": "Aus Israel bekommt die Bundeswehr neue Drohnen, die nun auch mit Waffen bestückt werden können. Am Mittwoch beginnt der offizielle Flugbetrieb der Heron TP.",
       "url": "https://www.heise.de/news/Neue-Bundeswehr-Drohne-Heron-TP-beginnt-Demonstrationsflugbetrieb-9718565.html",
       "image_title": "Schulter eines Soldaten der Bundeswehr im gefleckten Tarnanzug mit Schulterklappe und Deutschlandflagge auf dem Oberarm."
-    },
-    {
-      "title": "Mittwoch: Boeings Starliner mit neuem Problem, Untersuchung von Waymo-Robotaxis",
-      "teaser": "Starliner-Start später + Unfälle selbstfahrender Autos + Trailer von Fantasy-Serien + Displays mit Quantenpunkten + SSDs für Raspi 5 + Google-TPU beschleunigt",
-      "url": "https://www.heise.de/news/Mittwoch-Boeings-Starliner-mit-neuem-Problem-Untersuchung-von-Waymo-Robotaxis-9718555.html",
-      "image_title": "Rakete mit Starliner-Kapsel an Startrampe; Mittwoch: Starliner-Aufschub, Waymo-Unfälle, Fantasy-Trailer, Display-Neuheit, Raspi-SSDs & Google-TPU"
-    },
-    {
-      "title": "NASA: Starliner-Start erneut verschoben, wegen Heliumleck an Boeings Raumschiff",
-      "teaser": "Das für den letzten Aufschub verantwortliche Ventil ist erfolgreich ersetzt, doch es wurde ein neues Problem gefunden. Der nächste Startversuch ist am 21. Mai.",
-      "url": "https://www.heise.de/news/NASA-Starliner-Start-erneut-verschoben-wegen-Heliumleck-an-Boeings-Raumschiff-9718538.html",
-      "image_title": "Rakete der ULA mit Starliner-Kapsel an der Startrampe im Dunkeln"
-    },
-    {
-      "title": "Waymo-Robotaxis: US-Behörde untersucht Unfallserie",
-      "teaser": "Unfälle selbstfahrender Waymos wecken behördliche Zweifel an der Verkehrssicherheit. Amazon.com und Fisker kommen ebenfalls unter die Lupe.​",
-      "url": "https://www.heise.de/news/Waymo-Robotaxis-US-Behoerde-untersucht-Unfallserie-9718526.html",
-      "image_title": "Weißes Waymo-Robotaxi"
     },
     {
       "title": "EnergiewendeGünstiger Wärmepumpenstrom – was Sie jetzt wissen müssen",
@@ -214,6 +214,24 @@
       "title": "heise+ Aktionsangebot",
       "teaser": "1 Jahr heise+ zum Aktionspreis: Jetzt heise+ für nur 1,90 € pro Woche lesen und 1 Jahr lang geballtes, brandaktuelles IT- und Tech-Wissen sichern. Unbegrenzter Zugriff auf alle heise+ Beiträge inklusive der Inhalte aller Heise-Magazine. Nur bis zum 31. Mai!",
       "url": "https://shop.heise.de/heise+/jahresaboaktion?affiliateId=39402_HP000064_27007_3_57&wt_mc=intern.abo.plus.hp_2024_fruehjahr.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Mittwoch: Boeings Starliner mit neuem Problem, Untersuchung von Waymo-Robotaxis",
+      "teaser": "Starliner-Start später + Unfälle selbstfahrender Autos + Trailer von Fantasy-Serien + Displays mit Quantenpunkten + SSDs für Raspi 5 + Google-TPU beschleunigt",
+      "url": "https://www.heise.de/news/Mittwoch-Boeings-Starliner-mit-neuem-Problem-Untersuchung-von-Waymo-Robotaxis-9718555.html",
+      "image_title": "Rakete mit Starliner-Kapsel an Startrampe; Mittwoch: Starliner-Aufschub, Waymo-Unfälle, Fantasy-Trailer, Display-Neuheit, Raspi-SSDs & Google-TPU"
+    },
+    {
+      "title": "NASA: Starliner-Start erneut verschoben, wegen Heliumleck an Boeings Raumschiff",
+      "teaser": "Das für den letzten Aufschub verantwortliche Ventil ist erfolgreich ersetzt, doch es wurde ein neues Problem gefunden. Der nächste Startversuch ist am 21. Mai.",
+      "url": "https://www.heise.de/news/NASA-Starliner-Start-erneut-verschoben-wegen-Heliumleck-an-Boeings-Raumschiff-9718538.html",
+      "image_title": "Rakete der ULA mit Starliner-Kapsel an der Startrampe im Dunkeln"
+    },
+    {
+      "title": "Waymo-Robotaxis: US-Behörde untersucht Unfallserie",
+      "teaser": "Unfälle selbstfahrender Waymos wecken behördliche Zweifel an der Verkehrssicherheit. Amazon.com und Fisker kommen ebenfalls unter die Lupe.​",
+      "url": "https://www.heise.de/news/Waymo-Robotaxis-US-Behoerde-untersucht-Unfallserie-9718526.html",
+      "image_title": "Weißes Waymo-Robotaxi"
     },
     {
       "title": "Display Week: Selbstleuchtende Quantenpunkte für Notebooks und Monitore",
@@ -274,6 +292,11 @@
       "image_title": "Ein Schild mit Bundesnetzagentur an einem Gebäude."
     },
     {
+      "title": "Smart City – mit VR die Stadt von morgen erkunden",
+      "teaser": "Was verbirgt sich hinter dem Versprechen einer „Smart City“? In einem Webcast können Sie in eine virtuelle Welt eintauchen und hautnah erleben, wie „Smart Parking“ und „Smart Lighting“ die Stadt von morgen lebenswerter machen.",
+      "url": "https://business-services.heise.de/it-management/virtualisierung/beitrag/smart-city-mit-vr-die-stadt-von-morgen-erkunden-4701/?source=nat_teas"
+    },
+    {
       "title": "Mit einer großen Portion KI: Apple veröffentlicht Updates für Logic Pro",
       "teaser": "Die Musiksoftware Logic Pro gibt möglicherweise einen Vorgeschmack auf Apples große KI-Pläne. Jetzt sind die Updates für iPad und Mac erschienen.",
       "url": "https://www.heise.de/news/Mit-einer-grossen-Portion-KI-Apple-veroeffentlicht-Updates-fuer-Logic-Pro-9718174.html",
@@ -289,11 +312,6 @@
       "title": "Erste Panasonic-TVs mit TiVo-Betriebssystem",
       "teaser": "Panasonic gibt heute sein Line-up an OLED- und LED-Fernsehern für 2024 bekannt. Darunter sind die ersten Modelle des Herstellers mit dem Betriebssystem TiVo.",
       "url": "https://www.heise.de/news/Erste-Panasonic-TVs-mit-TiVo-Betriebssystem-9717990.html"
-    },
-    {
-      "title": "Smart City – mit VR die Stadt von morgen erkunden",
-      "teaser": "Was verbirgt sich hinter dem Versprechen einer „Smart City“? In einem Webcast können Sie in eine virtuelle Welt eintauchen und hautnah erleben, wie „Smart Parking“ und „Smart Lighting“ die Stadt von morgen lebenswerter machen.",
-      "url": "https://business-services.heise.de/it-management/virtualisierung/beitrag/smart-city-mit-vr-die-stadt-von-morgen-erkunden-4701/?source=nat_teas"
     },
     {
       "title": "Mähroboter Husqvarna Automower 410XE Nera mit Epos im Test: Chaos ohne Draht",
@@ -335,24 +353,6 @@
       "teaser": "Das \"KI-Update\" liefert werktäglich eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
       "url": "https://www.heise.de/news/KI-Update-kompakt-GPT-4o-Claude-in-Europa-Grok-im-Test-KI-in-der-Medizin-9717143.html",
       "image_title": "Logo KI Update"
-    },
-    {
-      "title": "Schiedsverfahren gewonnen: Domain \"fritz.box\" gehört nun AVM",
-      "teaser": "Schuld an der widerrechtlichen Registrierung trüge der Registrar, so die WIPO. Wer die Domain für sich registriert hatte, bleibt weiter unklar.",
-      "url": "https://www.heise.de/news/Schiedsverfahren-gewonnen-Domain-fritz-box-gehoert-nun-AVM-9717847.html",
-      "image_title": "AVM Fritzbox 7490"
-    },
-    {
-      "title": "Europawahl 2024: Die große Angst vor Einflussnahme",
-      "teaser": "Die anstehende Europawahl, die in Deutschland am 9. Juni stattfinden wird, steht angesichts der weltpolitischen Lage unter besonderen Vorzeichen.",
-      "url": "https://www.heise.de/hintergrund/Europawahl-2024-Die-grosse-Angst-vor-Einflussnahme-9707123.html",
-      "image_title": ", KI Midjourney Collage c’t"
-    },
-    {
-      "title": "iX-Workshop: Einführung in die Software-Architektur",
-      "teaser": "Lernen Sie die Aufgaben eines Software-Architekten kennen und stärken Sie Ihre Fähigkeiten, robuste IT-Systeme zu entwerfen. (10% Rabatt bis 19.05.)",
-      "url": "https://www.heise.de/news/iX-Workshop-Einfuehrung-in-die-Software-Architektur-9712787.html",
-      "image_title": "iX-Workshop: KRITIS-Anforderungen in der Praxis"
     },
     {
       "title": "Sonnensturm geht weiter – so fotografiert man Polarlichter ohne Aufwand",
@@ -691,37 +691,37 @@
       "url": "https://www.techstage.de/bestenliste/top-10-die-besten-e-scooter-von-ninebot-bis-xiaomi-im-test/1wx49v3?wt_mc=intern.red.techstage.techstage_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Elterngeld, Gesundheit und Pflege: Wo gestrichen wird und wo nicht",
-      "teaser": "Die geplante Elterngeld-Streichung für Besserverdienende erhitzt die Gemüter. Über andere Haushaltsposten wird weniger gesprochen.",
-      "url": "https://www.heise.de/tp/features/Elterngeld-Gesundheit-und-Pflege-Wo-gestrichen-wird-und-wo-nicht-9208202.html"
-    },
-    {
-      "title": "Warum gibt es keine deutschen Unternehmen, die nur E-Autos herstellen?",
-      "teaser": "Die Elektroauto-Verkäufe gehen weltweit steil nach oben. Auch in Deutschland. Aber Tesla und chinesische Hersteller hängen VW und Co. ab. Warum das so ist und wir aufs Elektropedal treten müssen.",
-      "url": "https://www.heise.de/tp/features/Warum-gibt-es-keine-deutschen-Unternehmen-die-nur-E-Autos-herstellen-9207186.html"
-    },
-    {
       "title": "Russland: Kreml sucht Kanonenfutter",
       "teaser": "Offizielle haben im Herbst 2022 Nachteile einer Mobilmachung begriffen. Jetzt werben sie intensiv um Freiwillige. Was der Wegfall der Wagner-Truppe bedeutet.",
       "url": "https://www.heise.de/tp/features/Russland-Kreml-sucht-Kanonenfutter-9209013.html"
     },
     {
-      "title": "Der unsterbliche Mythos: 25 Jahre \"Die Mumie\"",
-      "teaser": "Seinerzeit Sakrileg, heute ein liebgewonnener Klassiker: Wenn Brendan Fraser gegen \"Die Mumie\" kämpft, wird die Horror-Ikone zum Indiana-Jones-Verschnitt.",
-      "url": "https://www.heise.de/hintergrund/Der-unsterbliche-Mythos-25-Jahre-Die-Mumie-9714258.html",
-      "image_title": "Drei Charaktere des Films \"Die Mumie\" blicken in einen mit Gold, Statuen und ägyptischen Figuren gefüllten Saal"
+      "title": "Wie der Verfassungsschutz in die Meinungsfreiheit eingreift",
+      "teaser": "Der deutsche Inlandsgeheimdienst wird zunehmend zum politischen Akteur. Macht sich Behördenchef Haldenwang einer strafbaren Nötigung im Amt schuldig? Und was hat das mit Orwells \"1984\" zu tun?",
+      "url": "https://www.heise.de/tp/features/Wie-der-Verfassungsschutz-in-die-Meinungsfreiheit-eingreift-9206508.html"
     },
     {
-      "title": "Square Enix: Multiplatform strategy to pave the way out of the crisis",
-      "teaser": "Square Enix wants to offer its games on all popular platforms in future - a change of strategy for the \"Final Fantasy\" developer.",
-      "url": "https://www.heise.de/en/news/Square-Enix-Multiplattform-Strategie-soll-Weg-aus-Krise-ebnen-9717196.html",
-      "image_title": "Screenshot aus \"Final Fantasy 7 Rebirth\""
+      "title": "Debatten: Wovon Whataboutism ablenkt",
+      "teaser": "Eine rhetorische Allzweckwaffe und ihr Einsatz in Diskussionen über Assange oder den Ukraine-Krieg. Warum das in polarisierten Meinungsstreits so beliebte Totschlagargument hochproblematisch ist.",
+      "url": "https://www.heise.de/tp/features/Debatten-Wovon-Whataboutism-ablenkt-9207254.html"
     },
     {
-      "title": "UpdatemacOS 14.5, tvOS 17.5, watchOS 10.5 und HomePod OS 17.5 verfügbar",
-      "teaser": "Neben iOS und iPadOS 17.5 sind auch alle anderen Betriebssysteme des iPhone-Herstellers aktualisiert worden. Für alte Versionen gibt es Sicherheitsfixes.",
-      "url": "https://www.heise.de/news/macOS-14-5-tvOS-17-5-watchOS-10-5-und-HomePod-OS-17-5-verfuegbar-9716820.html",
-      "image_title": "macOS 14 Sonoma"
+      "title": "Sony: Dual leadership to replace Jim Ryan as Playstation boss",
+      "teaser": "Playstation is getting two new CEOs: Hideaki Nishino and Hermen Hulst are replacing Jim Ryan. This is also accompanied by a new business structure.",
+      "url": "https://www.heise.de/en/news/Sony-Doppelspitze-soll-Jim-Ryan-als-Playstation-Chef-abloesen-9717268.html",
+      "image_title": "Playstation-Gamepads auf Tisch vor Fernseher"
+    },
+    {
+      "title": "Account-Zwang: Verwirrung um PC-Version von Sonys \"Ghost of Tsushima\"",
+      "teaser": "Erneut ist Sonys Umgang mit Account-Pflicht auf dem PC ein Thema: Die PC-Fassung von \"Ghost of Tsushima\" kann in einigen Ländern nicht mehr gekauft werden.",
+      "url": "https://www.heise.de/news/PSN-Chaos-Steam-nimmt-Vorbestellungen-von-Ghost-of-Tshushima-zurueck-9715605.html",
+      "image_title": "Screenshot aus \"Ghost of Tsushima\""
+    },
+    {
+      "title": "Report: Vision Pro after June 10 in more countries, including Germany",
+      "teaser": "The wait will soon be over: Apple's mixed reality headset is about to be launched outside the USA. The company is currently training international employees.",
+      "url": "https://www.heise.de/en/news/Bericht-Vision-Pro-nach-dem-10-Juni-in-mehr-Laendern-darunter-Deutschland-9717366.html",
+      "image_title": "Vision-Pro-Verkaufsgespräch im Apple Store"
     },
     {
       "title": "Hostinger im Test: Website-Hosting leicht gemacht",
