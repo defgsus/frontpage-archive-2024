@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-05-16T05:01:04",
+  "timestamp": "2024-05-16T06:03:01",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Google Chrome",
+      "url": "https://www.heise.de/news/Chrome-Weitere-Zero-Day-Luecke-mit-Update-geschlossen-9720152.html"
+    },
+    {
       "title": "LibreOffice",
       "url": "https://www.heise.de/news/LibreOffice-Falscher-Klick-kann-zur-Ausfuehrung-von-Schadcode-fuehren-9719334.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Patchday-Angreifer-koennen-Schadcode-durch-Luecken-in-Adobe-Software-schieben-9718639.html"
     },
     {
-      "title": "VMware Workstation und Fusion",
-      "url": "https://www.heise.de/news/VMware-Workstation-und-Fusion-Ausbruch-aus-Gastsystem-moeglich-9718624.html"
+      "title": "Chrome: Weitere Zero-Day-Lücke mit Update geschlossen",
+      "teaser": "Zum dritten Mal innerhalb einer Woche aktualisiert Google den Chrome-Webbrowser. Erneut kursiert ein Exploit für eine Zero-Day-Lücke darin.",
+      "url": "https://www.heise.de/news/Chrome-Weitere-Zero-Day-Luecke-mit-Update-geschlossen-9720152.html",
+      "image_title": "Stilisierte Grafik: Brennendes Google-Chrome-Logo auf einem Laptop"
     },
     {
       "title": "Datenhehler-Forum BreachForums polizeilich beschlagnahmt nach Europol-Einbruch",
@@ -66,27 +72,21 @@
       "image_title": "Digital,Banking,,Internet,Payment,,Online,Marketing,,Personal,Financial,Data,Protection"
     },
     {
-      "title": "Android 15 bekommt neue Sicherheitsfunktionen",
-      "teaser": "Android 15 bringt etliche Funktionen mit, die Sicherheit und Datenschutz erhöhen und automatisch Maßnahmen ergreifen, wenn das Handy geklaut wird.",
-      "url": "https://www.heise.de/news/Neue-Sicherheitsfunktionen-fuer-Android-15-9719596.html",
-      "image_title": "Grüner Androide, davor liegt ein Handy"
-    },
-    {
       "title": "Das Cyber-Risiko einschätzen, reduzieren und überwachen",
       "teaser": "Vor einer Attacke prüfen Cyberkriminelle oft zuerst die Angriffsfläche (Attack Surface) potenzieller Opfer auf Schwachstellen und suchen dabei nach leichter Beute. Deshalb ist es wichtig, sein Unternehmensnetzwerk für Cyberkriminelle so unattraktiv wie möglich zu machen.",
       "url": "https://www.heise.de/solutions/outpost24/cyber-risiko-einschaetzen-reduzieren-ueberwachen/?source=nat_teas"
+    },
+    {
+      "title": "Betrugsversuche im App Store: Jede vierte App-Einreichung wurde abgelehnt",
+      "teaser": "Der App Store von Apple ist eine einträgliche Einnahmequelle für Apple und die Entwickler. Dies zieht auch Kriminelle an, gegen die Apple sich zur Wehr setzt.",
+      "url": "https://www.heise.de/news/Betrugsversuche-im-App-Store-Jede-vierte-App-Einreichung-wurde-abgelehnt-9719757.html",
+      "image_title": "Der App Store auf dem iPhone"
     },
     {
       "title": "SPD: Webex-Lücke erlaubte unbefugte Meeting-Teilnahme",
       "teaser": "Eine Reporterin der Zeit hat sich unbemerkt und unbefugt in SPD-Webex-Konferenzen eingeklinkt. Die Partei hat ihr Webex-System seitdem abgeschaltet.",
       "url": "https://www.heise.de/news/SPD-Webex-Luecke-erlaubte-unbefugte-Meeting-Teilnahme-9719521.html",
       "image_title": "Webkonferenz mit Smartphones als Kamera"
-    },
-    {
-      "title": "LibreOffice: Verklickt – und Malware ausgeführt",
-      "teaser": "Eine Sicherheitslücke im quelloffenen LibreOffice ermöglicht Angreifern, Opfern Schadcode unterzujubeln. Die müssen nur einmal klicken.",
-      "url": "https://www.heise.de/news/LibreOffice-Falscher-Klick-kann-zur-Ausfuehrung-von-Schadcode-fuehren-9719334.html",
-      "image_title": "Stilisiertes Bild: Spam und Malware auf und um dem Rechner"
     },
     {
       "title": "Ubiquiti erzwingt ab Juli Zwei-Faktor-Authentifizierung für Netzwerk-Admins",
@@ -106,10 +106,22 @@
       "image_title": "iX-Workshop Digital Forensics & Incident Response"
     },
     {
+      "title": "Patchday: Angreifer können Schadcode durch Lücken in Adobe-Software schieben",
+      "teaser": "Der Softwarehersteller Adobe hat unter anderem Animate, Illustrator und Reader vor möglichen Attacken abgesichert.",
+      "url": "https://www.heise.de/news/Patchday-Angreifer-koennen-Schadcode-durch-Luecken-in-Adobe-Software-schieben-9718639.html",
+      "image_title": "Adobe-Logo mit Flecken und der Aufschrift \"Patchday\""
+    },
+    {
       "title": "VMware Workstation und Fusion: Ausbruch aus Gastsystem möglich",
       "teaser": "In VMware Workstation und Fusion klaffen Sicherheitslücken, die beim Pwn2Own-Wettbewerb missbraucht wurden. Sie ermöglichen den Ausbruch aus dem Gastsystem.",
       "url": "https://www.heise.de/news/VMware-Workstation-und-Fusion-Ausbruch-aus-Gastsystem-moeglich-9718624.html",
       "image_title": "Stilisierte Grafik: Brennendes VMware-Logo auf einem Laptop"
+    },
+    {
+      "title": "Patchday: Angreifer attackieren Windows und verschaffen sich Systemrechte",
+      "teaser": "Microsoft hat wichtige Sicherheitsupdates für unter anderem Edge, Dynamics 365 und Windows veröffentlicht. Es gibt bereits Attacken.",
+      "url": "https://www.heise.de/news/Patchday-Angreifer-attackieren-Windows-und-verschaffen-sich-Systemrechte-9718608.html",
+      "image_title": "Windows-Logo mit Flecken und der Aufschrift \"Patchday\""
     },
     {
       "title": "Schiedsverfahren gewonnen: Domain \"fritz.box\" gehört nun AVM",
@@ -157,17 +169,6 @@
       "teaser": "Neben iOS und iPadOS 17.5 sind auch alle anderen Betriebssysteme des iPhone-Herstellers aktualisiert worden. Für alte Versionen gibt es Sicherheitsfixes.",
       "url": "https://www.heise.de/news/macOS-14-5-tvOS-17-5-watchOS-10-5-und-HomePod-OS-17-5-verfuegbar-9716820.html",
       "image_title": "macOS 14 Sonoma"
-    },
-    {
-      "title": "Bundeslagebild Cybercrime: Die Lunte brennt – angezündet wird oft ganz woanders",
-      "teaser": "Phishing, Ransomware und DDoS bleiben die größten Geißeln von Cyberkriminellen, sagt das BKA. Das BSI vergleicht das mit vielen Lagerhäusern voll mit Dynamit.",
-      "url": "https://www.heise.de/news/Bundeslagebild-Cybercrime-Die-Lunte-brennt-angezuendet-wird-oft-ganz-woanders-9716670.html"
-    },
-    {
-      "title": "iOS 17.5 zum Download bereit: Diese Neuerungen bringt das iPhone-Update",
-      "teaser": "iOS 17.5 liefert neue Funktionen, darunter App-Sideloading in der EU sowie plattformübergreifende Warnungen vor fremden Bluetooth-Trackern.",
-      "url": "https://www.heise.de/news/iOS-17-5-zum-Download-bereit-Diese-Neuerungen-bringt-das-iPhone-Update-9716622.html",
-      "image_title": "iPhone 15 Pro liegt auf der Verpackung"
     },
     {
       "title": "heise security tour 2024",
