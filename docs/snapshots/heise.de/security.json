@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-05-16T08:01:05",
+  "timestamp": "2024-05-16T09:00:42",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Aruba",
+      "url": "https://www.heise.de/news/Access-Points-von-Aruba-verwundbar-keine-Updates-fuer-aeltere-Versionen-9720385.html"
+    },
+    {
+      "title": "Fortinet",
+      "url": "https://www.heise.de/news/Netzwerksicherheit-Diverse-Fortinet-Produkte-fuer-verschiedene-Attacken-anfaellig-9720252.html"
+    },
+    {
       "title": "Cisco",
       "url": "https://www.heise.de/news/Cisco-Updates-schliessen-Sicherheitsluecken-in-mehreren-Produkten-9720226.html"
     },
@@ -40,12 +48,21 @@
       "url": "https://www.heise.de/news/Chrome-Weitere-Zero-Day-Luecke-mit-Update-geschlossen-9720152.html"
     },
     {
-      "title": "LibreOffice",
-      "url": "https://www.heise.de/news/LibreOffice-Falscher-Klick-kann-zur-Ausfuehrung-von-Schadcode-fuehren-9719334.html"
+      "title": "Access Points von Aruba verwundbar – keine Updates für ältere Versionen",
+      "teaser": "Aufgrund von mehreren Sicherheitslücken in ArubaOS und InstantOS sind Schadcode-Attacken auf Aruba-Geräte möglich.",
+      "url": "https://www.heise.de/news/Access-Points-von-Aruba-verwundbar-keine-Updates-fuer-aeltere-Versionen-9720385.html"
     },
     {
-      "title": "Firefox, Thunderbird",
-      "url": "https://www.heise.de/news/Firefox-und-Thunderbird-Funktionsverbesserungen-und-Sicherheitsfixes-9718696.html"
+      "title": "Cybervorfälle: Christie's-Webseite, Helsinkis Verwaltungsnetz und Santander",
+      "teaser": "Im Laufe der Woche meldeten einige namhafte Organisationen Cyberangriffe. Betroffen sind Christie's, Helsinkis Stadtverwaltung und die Santander-Bank.",
+      "url": "https://www.heise.de/news/Cybervorfaelle-Christie-s-Webseite-Helsinkis-Verwaltungsnetz-und-Santander-9720371.html",
+      "image_title": "Futuristische Datenmatrix"
+    },
+    {
+      "title": "Netzwerksicherheit: Diverse Fortinet-Produkte für verschiedene Attacken anfällig",
+      "teaser": "Es sind wichtige Sicherheitsupdates für unter anderem FortiSandbox, FortiPortal und FortiWebManager erschienen.",
+      "url": "https://www.heise.de/news/Netzwerksicherheit-Diverse-Fortinet-Produkte-fuer-verschiedene-Attacken-anfaellig-9720252.html",
+      "image_title": "Time to update"
     },
     {
       "title": "Cisco: Updates schließen Sicherheitslücken in mehreren Produkten",
@@ -147,23 +164,6 @@
       "teaser": "SAP gibt zum Mai-Patchday 14 neue Sicherheitsnotizen heraus. Angreifer können durch die Lücken etwa Schadcode einschmuggeln.",
       "url": "https://www.heise.de/news/SAP-Patchday-Angreifer-koennen-Systeme-durch-Sicherheitsluecke-kompromittieren-9717205.html",
       "image_title": "Stilisiertes Bild: Laptop mit SAP-Logo brennt, vor Serverracks"
-    },
-    {
-      "title": "Monitoring-Software: Cacti-Sicherheitslücken erlauben Einschleusen von Schadcode",
-      "teaser": "Eine aktualisierte Version der Monitoring-Software Cacti schließt mehrere, teils kritische Sicherheitslücken. Angreifer können dadurch Code einschmuggeln.",
-      "url": "https://www.heise.de/news/Monitoring-Software-Cacti-Sicherheitsluecken-erlauben-Einschleusen-von-Schadcode-9717005.html",
-      "image_title": "Stilisiertes Bild: Laptop steht auf Schreibtisch vor Serverschränken, es brennt"
-    },
-    {
-      "title": "Drei Fragen und Antworten: Warum sind Repositories so beliebt bei Angriffen?",
-      "teaser": "In den letzten Wochen wurden viele Angriffe auf Software-Repositories bekannt: XZ, Python oder zuletzt Docker Hub. Repos scheinen es Hackern leichtzumachen.",
-      "url": "https://www.heise.de/news/Drei-Fragen-und-Antworten-Warum-sind-Repositories-so-beliebt-bei-Angriffen-9716252.html"
-    },
-    {
-      "title": "Jetzt updaten! Erneut Zeroday-Lücke in Google Chrome, Exploit verfügbar",
-      "teaser": "Google veröffentlicht erneut ein Notfall-Update für den Webbrowser Chrome. Es gibt schon einen Exploit für die Zero-Day-Lücke.",
-      "url": "https://www.heise.de/news/Jetzt-updaten-Erneut-Zeroday-Luecke-in-Google-Chrome-Exploit-verfuegbar-9716922.html",
-      "image_title": "Stilisierte Grafik: Brennendes Google-Chrome-Logo auf einem Laptop"
     },
     {
       "title": "heise security tour 2024",
