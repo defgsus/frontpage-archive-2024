@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-05-18T03:00:50",
+  "timestamp": "2024-05-18T04:07:06",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -8,6 +8,12 @@
     {
       "type": null,
       "src": "https://static.zeit.de/p/zeit.web/js/colorscheme.7fabba81098517c5d294.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -86,22 +92,10 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Israel und USA : Eine Freundschaft im Kriegszustand",
-      "teaser": "Der Streit zwischen Israel und den USA beschränkt sich nicht auf das Für und Wider einer Eroberung von Rafah. Über ein Zerwürfnis, das wesentlich tiefer reicht",
-      "url": "https://www.zeit.de/2024/22/israel-usa-gazastreifen-waffenlieferung-unterstuetzung",
-      "image_url": "https://img.zeit.de/2024/22/eine-freundschaft-im-kriegszustand-bild-1/wide__1000x562"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Unwetter : Erdrutsche und Stromausfälle nach Überschwemmungen im Saarland",
-      "teaser": "In 24 Stunden fielen im Saarland mehr als 100 Liter Regen. Olaf Scholz reist ins Hochwassergebiet. Die Landesregierung macht den Weg für finanzielle Hilfen frei.",
-      "url": "https://www.zeit.de/gesellschaft/2024-05/unwetter-saarland-saarbruecken-warnung-ueberflutung-dauerregen",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-05/saarbruecken-unter-wasser/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Gazastreifen : Israelische Armee meldet Fund der Leiche von Shani Louk",
-      "teaser": "Das israelische Militär hat im Gazastreifen die Leichen von drei Vermissten geborgen. Darunter ist den Angaben zufolge die Leiche der Deutsch-Israelin Shani Louk.",
-      "url": "https://www.zeit.de/politik/ausland/2024-05/gazastreifen-israelische-armee-meldet-fund-der-leiche-von-shani-louk",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-05/gazastreifen-israelische-armee-meldet-fund-der-leiche-von-shani-louk/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Überschwemmungen : Ministerpräsidentin nennt Hochwasserlage im Saarland \"sehr angespannt\"",
+      "teaser": "Erdrutsche, Evakuierungen und Stromausfälle werden aus dem gesamten Saarland gemeldet. Olaf Scholz informiert sich am Ort. Die Bahn rät vor Reisen in die Region ab.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-05/ueberschwemmungen-saarland-hochwasser-evakuierung-erdrutsche-stromausfaelle",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-05/ueberschwemmungen-saarland-hochwasser-zugausfaelle-evakuierungen-bild/wide__1000x562"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Petr Bystron : AfD-Spitze fordert von Bystron Verzicht auf weitere Wahlkampfauftritte",
@@ -110,10 +104,16 @@
       "image_url": "https://img.zeit.de/politik/deutschland/2024-05/afd-kandidat-petr-bystron/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Lage in der Ukraine : Wowtschansk könnte nur der Anfang sein",
-      "teaser": "Ein tiefer Vorstoß ist Russland in Charkiw bislang nicht gelungen. Die Kämpfe in der Grenzstadt Wowtschansk lassen eine andere Strategie vermuten. Der Wochenrückblick",
-      "url": "https://www.zeit.de/politik/ausland/2024-05/ukraine-lage-charkiw-offensive-wowtschansk-russland-raketenangriffe-krim-woche",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-05/ukraine-lage-charkiw-offensive-wowtschansk-russland-raketenangriffe-krim-woche-bild-2/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Gazastreifen : Israelische Armee meldet Fund der Leiche von Shani Louk",
+      "teaser": "Das israelische Militär hat im Gazastreifen die Leichen von drei Vermissten geborgen. Darunter ist den Angaben zufolge die Leiche der Deutsch-Israelin Shani Louk.",
+      "url": "https://www.zeit.de/politik/ausland/2024-05/gazastreifen-israelische-armee-meldet-fund-der-leiche-von-shani-louk",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-05/gazastreifen-israelische-armee-meldet-fund-der-leiche-von-shani-louk/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Slowakei : Mutmaßlicher Fico-Attentäter muss erstmals vor Gericht erscheinen",
+      "teaser": "Drei Tage nach dem Attentat auf den slowakischen Regierungschef Robert Fico muss der 71-jährige mutmaßliche Angreifer vor Gericht. Man wirft ihm politische Motive vor.",
+      "url": "https://www.zeit.de/politik/ausland/2024-05/slowakei-attentaeter-robert-fico-gericht-termin",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-05/slowakische-flagge/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Boris Pistorius : An der klaren Kante stößt man sich leicht",
@@ -122,10 +122,28 @@
       "image_url": "https://img.zeit.de/politik/2024-05/wochenende-20-politisch-motiviert-bild-3/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Nachrichtenpodcast : Charkiw unter Beschuss",
+      "teaser": "Russische Truppen sind in die Region um Charkiw vorgedrungen. Wie konnte das passieren? Und: Als eines der ersten Länder erhält Malawi Geld für Klimaschäden.",
+      "url": "https://www.zeit.de/politik/2024-05/charkiw-russland-truppen-ukraine-krieg-nachrichtenpodcast",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Israel und USA : Eine Freundschaft im Kriegszustand",
+      "teaser": "Der Streit zwischen Israel und den USA beschränkt sich nicht auf das Für und Wider einer Eroberung von Rafah. Über ein Zerwürfnis, das wesentlich tiefer reicht",
+      "url": "https://www.zeit.de/2024/22/israel-usa-gazastreifen-waffenlieferung-unterstuetzung",
+      "image_url": "https://img.zeit.de/2024/22/eine-freundschaft-im-kriegszustand-bild-1/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); USA : Angreifer von Nancy Pelosis Ehemann zu 30 Jahren Haft verurteilt",
       "teaser": "Beim Versuch, die US-Demokratin Nancy Pelosi zu entführen, attackierte ein 44-jähriger Kanadier Paul Pelosi mit einem Hammer. Dafür muss er nun 30 Jahre ins Gefängnis.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-05/usa-angriff-nancy-pelosi-ehemann-haftstrafe",
       "image_url": "https://img.zeit.de/politik/deutschland/2024-05/nancy-pelosi-angriff-urteil-bild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Alabama : Mercedes-Beschäftigte stimmen gegen Gewerkschaftsvertretung in Alabama",
+      "teaser": "Bei VW konnte sich die US-Gewerkschaft zuletzt durchsetzen, doch die Mitarbeiter bei Mercedes in Alabama lehnten eine Vertretung ab. Dabei hatte es Beschwerden gegeben.",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-05/usa-mercedes-alabama-gewerschaft-abstimmung",
+      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-05/mercedes-werk-in-alabama/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Kroatien : Parlament in Kroatien stimmt für rechte Koalition",
@@ -200,22 +218,22 @@
       "image_url": "https://img.zeit.de/kultur/2024-05/wochenende-20-pflichtverteidigung-bild/wide__892x501"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); KitKatClub : \"Ich habe meinen Arsch, glaube ich, eine halbe Stunde lang rasiert\"",
-      "teaser": "Berlin, Freitagnacht, nackte Haut blitzt unter den Jacken hervor. Hunderte Meter lang ist die Schlange vor dem KitKat. Wir haben uns angestellt und gelauscht.",
-      "url": "https://www.zeit.de/zeit-magazin/2024/21/kitkatclub-schlange-gespraeche-nachtleben",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024/21/mitgehoert-bild-1/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Frühstücksbrötchen : Die Backstube hat geöffnet",
+      "teaser": "Ein Teig, kein Kneten. So gelingt das frisch gebackene Brötchen. Der Clou? Für dieses Rezept muss niemand früh aufstehen. Und jeder Morgen wird zum Feiertag.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-03/fruehstuecksbroetchen-rezept-wochenmarkt",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-03/fruehstuecksbroetchen-rezept-wochenmarkt-teaser/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Werdende Eltern : 99 Dinge, die wir gerne vor dem ersten Kind gewusst hätten",
-      "teaser": "Mit dem ersten Kind ändert sich alles. Doch was genau? Es gibt Menschen, die das wissen müssen: eine Sammlung der besten Ratschläge – von Eltern für werdende Eltern.",
-      "url": "https://www.zeit.de/zeit-magazin/familie/2022-09/werdende-eltern-kinder-schwangerschaft-erziehung-tipps",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023-09/werdende-eltern-kinder-schwangerschaft/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Auszug von Frauen : \"Ich bin unbemerkt in eine Familienfalle getappt\"",
+      "teaser": "Sie macht den Haushalt, er profitiert: Viele Leserinnen schrieben uns, dass sie lieber allein wohnen als mit einem Mann. Wie verhindern Paare, dass es so weit kommt?",
+      "url": "https://www.zeit.de/arbeit/2023-12/auszug-frauen-haushalt-geld-familie",
+      "image_url": "https://img.zeit.de/arbeit/2023-12/auszug-frauen-haushalt/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Trainingsplan : So bauen Sie Ihre Muskeln auf",
-      "teaser": "Eigenkörpergewicht oder Maschinen? Spezieller Leg-Day oder alle Muskeln an einem Tag? Wir erklären, was Sie über effektives Fitnesstraining wissen müssen.",
-      "url": "https://www.zeit.de/sport/2024-03/trainingsplan-fitness-trainingsziele-muskelgruppen-tipps",
-      "image_url": "https://img.zeit.de/sport/2024-03/trainingsplan-fitnessstudio-grundlagen/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Geldanlage : So legen Sie 15.000 Euro am besten an",
+      "teaser": "Wer sein Geld auf dem Girokonto parkt, dem entgehen schnell Hunderte oder gar Tausende Euro. Hier sind drei Strategien, wie die Anlage gelingt, passend für jedes Budget.",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-04/geldanlage-strategien-money-matters",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-04/geldanlage-strategien-money-matters-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); All-inclusive-Urlaub : Im Resort für die ärmeren Reichen",
@@ -230,10 +248,10 @@
       "image_url": "https://img.zeit.de/kultur/2024-05/teodor-currentzis-brucker-konzert-utopia-berliner-philharmonie-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Alabama : Mercedes-Beschäftigte stimmen gegen Gewerkschaftsvertretung in Alabama",
-      "teaser": "Bei VW konnte sich die US-Gewerkschaft zuletzt durchsetzen, doch die Mitarbeiter bei Mercedes in Alabama lehnten eine Vertretung ab. Dabei hatte es Beschwerden gegeben.",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-05/usa-mercedes-alabama-gewerschaft-abstimmung",
-      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-05/mercedes-werk-in-alabama/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Lage in der Ukraine : Wowtschansk könnte nur der Anfang sein",
+      "teaser": "Ein tiefer Vorstoß ist Russland in Charkiw bislang nicht gelungen. Die Kämpfe in der Grenzstadt Wowtschansk lassen eine andere Strategie vermuten. Der Wochenrückblick",
+      "url": "https://www.zeit.de/politik/ausland/2024-05/ukraine-lage-charkiw-offensive-wowtschansk-russland-raketenangriffe-krim-woche",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-05/ukraine-lage-charkiw-offensive-wowtschansk-russland-raketenangriffe-krim-woche-bild-2/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Krieg in der Ukraine : Wir können uns nicht auf den Krieg vorbereiten",
@@ -290,6 +308,12 @@
       "image_url": "https://img.zeit.de/sport/2024-05/eishockey-deutschland-kasachstan-bild/super__320x213"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Unwetter : Erdrutsche und Stromausfälle nach Überschwemmungen im Saarland",
+      "teaser": "In 24 Stunden fielen im Saarland mehr als 100 Liter Regen. Olaf Scholz reist ins Hochwassergebiet. Die Landesregierung macht den Weg für finanzielle Hilfen frei.",
+      "url": "https://www.zeit.de/gesellschaft/2024-05/unwetter-saarland-saarbruecken-warnung-ueberflutung-dauerregen",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-05/saarbruecken-unter-wasser/super__320x213"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Helgoland : Gesunkener Frachter \"Verity\" soll mit Schwimmkran geborgen werden",
       "teaser": "Vor mehr als einem halben Jahr sank der Frachter \"Verity\" bei einer Schiffskollision vor Helgoland. Nun soll das Wrack in zwei Teilen aus der Nordsee gehoben werden.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-05/nordsee-helgoland-kollision-frachter-bergung",
@@ -318,12 +342,6 @@
       "teaser": "Welches Krankenhaus bietet welche Behandlung an? Das sollen Patienten online im Bundes-Klinik-Atlas erfahren. Das Portal vergleicht Informationen zu 1.700 Kliniken.",
       "url": "https://www.zeit.de/politik/deutschland/2024-05/klinik-atlas-soll-krankenhaussuche-vereinfachen",
       "image_url": "https://img.zeit.de/gesundheit/2024-05/klinik-atlas-lauterbach-bild/super__320x213"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Islamverband : Ditib erweitert Imam-Ausbildung in Deutschland",
-      "teaser": "Ab 2025 will der Islamverband Ditib jährlich 75 Imame in Deutschland ausbilden. Die jungen Männer sollen intensive Deutsch- und Integrationskurse erhalten.",
-      "url": "https://www.zeit.de/gesellschaft/2024-05/islamverband-ditib-imam-ausbildung-deutschland",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-05/ditib-imam-ausbildung-bild/super__320x213"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Kombucha mit Holunderblüte : Den Duft des Holunders potenzieren",
@@ -372,20 +390,20 @@
       "url": "https://www.zeit.de/2024/22/glutenfreie-ernaehrung-zoeliakie-verzicht-diaet"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); VO₂max : Der vielleicht beste Indikator für Fitness – und Lebenserwartung",
-      "teaser": "Lange interessierte der VO₂max-Wert nur Leistungssportler, heute steht er auf vielen Fitnessuhren. Was er mit der Lebenserwartung zu tun hat und wie man ihn steigert.",
-      "url": "https://www.zeit.de/sport/2024-05/vo2-max-wert-fitness-indikator-lebenserwartung-sport",
-      "image_url": "https://img.zeit.de/sport/2024-05/vo2-max-wert-fitness-mann/super__430x286"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Gazastreifen : Israelische Armee meldet Fund der Leiche von Shani Louk",
       "teaser": "Das israelische Militär hat im Gazastreifen die Leichen von drei Vermissten geborgen. Darunter ist den Angaben zufolge die Leiche der Deutsch-Israelin Shani Louk.",
-      "url": "https://www.zeit.de/politik/ausland/2024-05/gazastreifen-israelische-armee-meldet-fund-der-leiche-von-shani-louk"
+      "url": "https://www.zeit.de/politik/ausland/2024-05/gazastreifen-israelische-armee-meldet-fund-der-leiche-von-shani-louk",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-05/gazastreifen-israelische-armee-meldet-fund-der-leiche-von-shani-louk/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Eltern im Ausland : \"Ich zahle einer Babysitterin hier 35 Dollar die Stunde\"",
       "teaser": "Eltern mit Kindern rotieren in Deutschland hart durch den Alltag. Läuft es in anderen Ländern besser? Was deutsche Eltern erleben, die ihre Kinder im Ausland großziehen.",
       "url": "https://www.zeit.de/zeit-magazin/familie/2024-04/eltern-ausland-auswandern-kinder-erziehung"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); FC Bayern : Nein, nein, nein, nein, nein, danke",
+      "teaser": "Einen Trainer zu vergraulen, den man schon gefeuert hat: Das schafft nur der FC Bayern. Über das Nein von Thomas Tuchel und eine unendliche Trainerposse",
+      "url": "https://www.zeit.de/sport/2024-05/fc-bayern-muenchen-thomas-tuchel-trainer-absage-suche"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); ZDF-Politibarometer : Mehrheit sieht AfD als Gefahr für Demokratie",
@@ -584,6 +602,12 @@
       "image_url": "https://img.zeit.de/administratives/2024-05/english-quiz-teaserbild/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Hamburg-Podcast \"Elbvertiefung\" : Passt der Kiezclub in die Bundesliga?",
+      "teaser": "Dem FC St. Pauli ist gelungen, was der HSV seit Jahren vergeblich versucht: der Aufstieg in die Erste Bundesliga. Welche Folgen hat das für Hamburg – und für den Verein?",
+      "url": "https://www.zeit.de/hamburg/2024-05/fc-st-pauli-hamburger-sv-hamburg-stadion-bundesliga",
+      "image_url": "https://img.zeit.de/hamburg/2024-05/hamburg-podcast-fc-st-pauli-bild/super__320x213"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); \"Und was machst du am Wochenende?\" : \"Wenn ich Delfine sehe, spiele ich Tina Turner, das lieben sie\"",
       "teaser": "Die Olympiaseglerin Sanni Beucke surft am Wochenende und repariert ihr Boot. In den Tag startet sie aber mit einem – wie sie findet – \"peinlichen\" Ritual.",
       "url": "https://www.zeit.de/entdecken/2024-05/sanni-beucke-segeln-wochenende-tipps-podcast",
@@ -620,22 +644,16 @@
       "image_url": "https://img.zeit.de/sport/2024-05/leon-goretzka-fussball-podcast/super__320x213"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Krisenpodcast \"Auch das noch?\" : \"Wir verkaufen die Zukunft für unser gegenwärtiges Leben\"",
-      "teaser": "Die Krise unseres Planeten ist nicht ohne den Kapitalismus denkbar. Der Soziologe Jens Beckert erforscht ihn. In dieser Podcastfolge fragen wir ihn: Geht es auch anders?",
-      "url": "https://www.zeit.de/wissen/2024-05/planetare-krise-kapitalismus-jens-beckert-krisenpodcast",
-      "image_url": "https://img.zeit.de/2024-05/planetare-krise-kapitalismus-jens-beckert/super__320x213"
+      "title": "Z+ (abopflichtiger Inhalt); Islamverband : Ditib erweitert Imam-Ausbildung in Deutschland",
+      "teaser": "Ab 2025 will der Islamverband Ditib jährlich 75 Imame in Deutschland ausbilden. Die jungen Männer sollen intensive Deutsch- und Integrationskurse erhalten.",
+      "url": "https://www.zeit.de/gesellschaft/2024-05/islamverband-ditib-imam-ausbildung-deutschland",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-05/ditib-imam-ausbildung-bild/wide__892x501"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Bundesrat billigt Namensrecht : Eltern und ihre Kinder erhalten mehr Freiheit bei der Namenswahl",
       "teaser": "Ein Doppelname für die ganze Familie – ohne Bindestrich: Nach neuem Namensrecht ist das möglich. Das Gesetz gilt ab dem 1. Mai 2025 und sieht noch weitere Freiheiten vor.",
       "url": "https://www.zeit.de/gesellschaft/familie/2024-05/namensrecht-namenswahl-reform-bundesrat",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-05/doppelnamen-bild/wide__892x501"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Digitalpakt 2.0 : Auf Kosten der Kinder – und der Demokratie",
-      "teaser": "Schüler sollten lernen, wie die digitale Welt funktioniert. Doch nach fünf Jahren läuft die Förderung dafür aus. Statt rasch nachzulegen, zanken Bund und Länder.",
-      "url": "https://www.zeit.de/gesellschaft/schule/2024-05/digitalpakt-2-0-schule-foerderung-bund-laender",
-      "image_url": "https://img.zeit.de/gesellschaft/schule/2024-05/digitalpakt-schule-bild/super__430x286"
+      "image_url": "https://img.zeit.de/gesellschaft/2024-05/doppelnamen-bild/super__430x286"
     },
     {
       "title": "Verlagsangebot : Risotto: 6 einfache Rezepte zum Nachkochen",
@@ -891,9 +909,9 @@
     },
     {
       "title": "Verlagsangebot : Welcher Beruf passt zu mir?",
-      "teaser": "Mit dem BOA-Berufstest erfahren Berufseinsteiger mehr über die eigenen Stärken und finden den passenden Job.",
-      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.verlagsteaser.quan.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=verlagsteaserindex&amp;utm_content=bot_verlagsteaser_quan_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/boa-quan/wide__430x286__desktop",
+      "teaser": "Was uns im Job von anderen unterscheidet, sind nicht nur unsere Fähigkeiten – erst die Persönlichkeit macht jeden einmalig. Der BOA Berufstest hilft, sie zu erkennen.",
+      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.teaser.boa-faeuste.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=boa-verlagsteaser&amp;utm_content=bot_teaser_boa-faeuste_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/boa-faeuste/wide__430x286__desktop",
       "image_title": "Welcher Beruf passt zu mir?"
     },
     {
@@ -982,6 +1000,22 @@
       "image_url": "https://img.zeit.de/geld/wip/visuals/header-cp-5/super__430x286"
     },
     {
+      "title": "Krieg in der Ukraine: Klingbeil setzt auf Teilnahme Chinas an Friedenskonferenz",
+      "url": "https://www.zeit.de/news/2024-05/18/klingbeil-setzt-auf-teilnahme-chinas-an-friedenskonferenz"
+    },
+    {
+      "title": "Europawahlkampf: AfD-Chefs fordern von Bystron vorerst Verzicht auf Auftritte",
+      "url": "https://www.zeit.de/news/2024-05/18/afd-chefs-fordern-von-bystron-vorerst-verzicht-auf-auftritte"
+    },
+    {
+      "title": "Russische Invasion: Krieg gegen die Ukraine: So ist die Lage",
+      "url": "https://www.zeit.de/news/2024-05/18/krieg-gegen-die-ukraine-so-ist-die-lage"
+    },
+    {
+      "title": "Krieg in Nahost: Israel fliegt Luftangriff im Westjordanland",
+      "url": "https://www.zeit.de/news/2024-05/18/israel-fliegt-luftangriff-im-westjordanland"
+    },
+    {
       "title": "Fotografie: Bilder des Tages",
       "url": "https://www.zeit.de/news/2024-05/18/bilder-des-tages"
     },
@@ -996,22 +1030,6 @@
     {
       "title": "NRW-Innenminister: Reul: Acht Begegnungen mit mutmaßlichem Schleuserbanden-Chef",
       "url": "https://www.zeit.de/news/2024-05/17/reul-acht-begegnungen-mit-mutmasslichem-schleuserbanden-chef"
-    },
-    {
-      "title": "Politik: AfD-Chefs fordern von Bystron Auftrittsverzicht im Wahlkampf",
-      "url": "https://www.zeit.de/news/2024-05/17/afd-chefs-fordern-von-bystron-auftrittsverzicht-im-wahlkampf"
-    },
-    {
-      "title": "Landkreis Vorpommern-Rügen: Zwei Häuser bei Brand an der Ostsee zerstört",
-      "url": "https://www.zeit.de/news/2024-05/17/zwei-haeuser-bei-brand-an-der-ostsee-zerstoert"
-    },
-    {
-      "title": "Basketball-Bundesliga: Alba Berlin und Chemnitz starten mit Siegen in die Playoffs",
-      "url": "https://www.zeit.de/news/2024-05/17/alba-berlin-und-chemnitz-starten-mit-siegen-in-die-playoffs"
-    },
-    {
-      "title": "Musik: AC/DC rocken auf Schalke: Start der Europatour",
-      "url": "https://www.zeit.de/news/2024-05/17/ac-dc-rocken-auf-schalke-start-der-europatour"
     }
   ]
 }
