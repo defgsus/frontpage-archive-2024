@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-05-21T08:08:01",
+  "timestamp": "2024-05-21T09:00:45",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Qnap NAS",
+      "url": "https://www.heise.de/news/Warten-auf-Patches-Sicherheitsforscher-untersuchen-NAS-System-Qnap-OTS-9724519.html"
+    },
+    {
       "title": "Trellix ePolicy Orchestrator",
       "url": "https://www.heise.de/news/Trellix-ePolicy-Orchestrator-ermoeglicht-Rechteausweitung-9722391.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Freies-Admin-Panel-Codeschmuggel-durch-Cross-Site-Scripting-in-Froxlor-9721569.html"
     },
     {
-      "title": "Aruba",
-      "url": "https://www.heise.de/news/Access-Points-von-Aruba-verwundbar-keine-Updates-fuer-aeltere-Versionen-9720385.html"
+      "title": "Warten auf Patches: Sicherheitsforscher untersuchen NAS-System Qnap OTS",
+      "teaser": "Sicherheitsforscher haben 15 Schwachstellen im NAS-Betriebssystem Qnap QTS entdeckt. Bislang wurden nicht alle Lücken geschlossen.",
+      "url": "https://www.heise.de/news/Warten-auf-Patches-Sicherheitsforscher-untersuchen-NAS-System-Qnap-OTS-9724519.html"
     },
     {
       "title": "git schließt fünf Sicherheitslücken und führt tiefgehende Abwehrmechanismen ein",
@@ -159,12 +164,6 @@
       "teaser": "FBI & Co schließen das berüchtigte BreachForums, in dem gestohlene Daten angeboten und preisgegeben wurden, etwa aus dem jüngsten Einbruch in ein Europol-Forum.",
       "url": "https://www.heise.de/news/Datenhehler-Forum-BreachForums-polizeilich-beschlagnahmt-nach-Europol-Einbruch-9720110.html",
       "image_title": "Meldung nach BreachForums-Aufruf: Domain beschlagnahmt"
-    },
-    {
-      "title": "Cannabis-Rezepte im Netz: Datenschutzbehörde hat Fragen",
-      "teaser": "Bei dem Online-Portal des umstrittenen Telemedizinanbieters DrAnsay hat es eine gravierende Sicherheitslücke gegeben. Jetzt äußert sich Dr. Ansay.",
-      "url": "https://www.heise.de/news/Dr-Ansay-aeussert-sich-zu-online-einsehbaren-Cannabis-Rezepten-9719920.html",
-      "image_title": "Startseite von Dr. Ansay mit Werbung für Krankschreibungen."
     },
     {
       "title": "heise security tour 2024",
