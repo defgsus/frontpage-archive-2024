@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-05-21T11:00:33",
+  "timestamp": "2024-05-21T12:10:07",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Wireshark",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-DoS-Luecken-in-Netzwerkanalysetool-Wireshark-geschlossen-9725317.html"
+    },
+    {
       "title": "Qnap NAS",
       "url": "https://www.heise.de/news/Warten-auf-Patches-Sicherheitsforscher-untersuchen-NAS-System-Qnap-OTS-9724519.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Patchday-Intel-schliesst-unter-anderem-kritische-Luecke-mit-Hoechstwertung-9722185.html"
     },
     {
-      "title": "Froxlor",
-      "url": "https://www.heise.de/news/Freies-Admin-Panel-Codeschmuggel-durch-Cross-Site-Scripting-in-Froxlor-9721569.html"
+      "title": "Sicherheitsupdate: DoS-Lücken in Netzwerkanalysetool Wireshark geschlossen",
+      "teaser": "In der aktuellen Version von Wireshark haben die Entwickler drei Sicherheitslücken geschlossen und mehrere Bugs gefixt.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-DoS-Luecken-in-Netzwerkanalysetool-Wireshark-geschlossen-9725317.html",
+      "image_title": "Laptop im Netz wird mit Lupe untersucht"
     },
     {
       "title": "git schließt fünf Sicherheitslücken und führt tiefgehende Abwehrmechanismen ein",
@@ -159,12 +165,6 @@
       "teaser": "Zum dritten Mal innerhalb einer Woche aktualisiert Google den Chrome-Webbrowser. Erneut kursiert ein Exploit für eine Zero-Day-Lücke darin.",
       "url": "https://www.heise.de/news/Chrome-Weitere-Zero-Day-Luecke-mit-Update-geschlossen-9720152.html",
       "image_title": "Stilisierte Grafik: Brennendes Google-Chrome-Logo auf einem Laptop"
-    },
-    {
-      "title": "Datenhehler-Forum BreachForums polizeilich beschlagnahmt nach Europol-Einbruch",
-      "teaser": "FBI & Co schließen das berüchtigte BreachForums, in dem gestohlene Daten angeboten und preisgegeben wurden, etwa aus dem jüngsten Einbruch in ein Europol-Forum.",
-      "url": "https://www.heise.de/news/Datenhehler-Forum-BreachForums-polizeilich-beschlagnahmt-nach-Europol-Einbruch-9720110.html",
-      "image_title": "Meldung nach BreachForums-Aufruf: Domain beschlagnahmt"
     },
     {
       "title": "heise security tour 2024",

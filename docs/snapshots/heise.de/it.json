@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-05-21T11:00:30",
+  "timestamp": "2024-05-21T12:10:04",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -42,15 +42,43 @@
       "url": "https://www.heise.de/news/OpenAI-Keine-Suche-kein-GPT-5-aber-GPT-4o-fuer-ChatGPT-und-GPT-4-9716626.html"
     },
     {
+      "title": "Ansible für Windows: Servermanagement einrichten",
+      "teaser": "Ansible ist in der Windows-Server-Welt angekommen. Wir zeigen, wie man eine fiktive Anwendung mit von Playbooks konfiguriert und die Automatisierung optimiert.",
+      "url": "https://www.heise.de/ratgeber/Ansible-fuer-Windows-Servermanagement-einrichten-9722739.html"
+    },
+    {
       "title": "Raspi: Eigene Serverdienste mit einem Klick einrichten",
       "teaser": "Die Software Umbrel ermöglicht, Cloud-Dienste wie Home Assistant mit einem Klick einzurichten. Dadurch wird die Softwareverwaltung auf einem Raspi erleichtert.",
       "url": "https://www.heise.de/ratgeber/Raspi-Eigene-Serverdienste-mit-einem-Klick-einrichten-9722226.html"
     },
     {
-      "title": "Wo künstliche Intelligenz im c’t-Redaktionsalltag hilft",
-      "teaser": "Wenn Sprachmodelle selbstständig Texte verfassen, gruselt es viele Medienschaffende. Bei c’t unterstützt KI den Redaktionsalltag – stets unter Aufsicht.",
-      "url": "https://www.heise.de/hintergrund/Wo-kuenstliche-Intelligenz-im-c-t-Redaktionsalltag-hilft-9708934.html",
-      "image_title": ", KI Midjourney Bearbeitung c’t"
+      "title": "Sicherheitsupdate: DoS-Lücken in Netzwerkanalysetool Wireshark geschlossen",
+      "teaser": "In der aktuellen Version von Wireshark haben die Entwickler drei Sicherheitslücken geschlossen und mehrere Bugs gefixt.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-DoS-Luecken-in-Netzwerkanalysetool-Wireshark-geschlossen-9725317.html",
+      "image_title": "Laptop im Netz wird mit Lupe untersucht"
+    },
+    {
+      "title": "Tschüss, Pavilion: HP besinnt sich zurück zum OmniBook",
+      "teaser": "Künftige Consumer-Notebooks von HP tragen den neuen alten Familiennamen OmniBook. All-in-Ones werden auf OmniStudio und Desktop-PCs auf OmniDesk umgestellt.",
+      "url": "https://www.heise.de/news/Tschuess-Pavilion-HP-besinnt-sich-zurueck-zum-OmniBook-9725202.html",
+      "image_title": "HPs OmniBook X AI PC"
+    },
+    {
+      "title": "KI weiß, was du getan hast: Smarte Suche mit Microsoft Recall",
+      "teaser": "Inhalte auf einem PC zu suchen, soll künftig deutlich leichter sein – dank Recall. Zudem gibt es Verbesserungen für die Bildbearbeitung.",
+      "url": "https://www.heise.de/news/Microsoft-Recall-Neue-Suchfunktion-und-mehr-KI-Anwendungen-fuer-Copilot-PCs-9724721.html",
+      "image_title": "Screenshot aus dem Werbevideo von Microsoft.​"
+    },
+    {
+      "title": "Die Produktwerker: Produkte entwickeln, die Kunden lieben",
+      "teaser": "In dieser Podcastfolge ist Ulf Schubert zu Gast: Durch erfolgreiches Produktdesign lassen sich Produkte entwickeln, die Kunden lieben.",
+      "url": "https://www.heise.de/blog/Die-Produktwerker-Produkte-entwickeln-die-Kunden-lieben-9725073.html",
+      "image_title": "Produktwerker auf einem Bild (3 Männer), dazu Text \"Der Podcast für Product Owner\""
+    },
+    {
+      "title": "GitHub Enterprise Server 3.13 erlaubt Metadaten für Repositories",
+      "teaser": "Der Release Candidate bringt das neue Feature Custom Properties sowie schnellere Rebase Commits und aktualisiert Elasticsearch auf Version 8.",
+      "url": "https://www.heise.de/news/GitHub-Enterprise-Server-3-13-erlaubt-Metadaten-fuer-Repositories-9724807.html"
     },
     {
       "title": "heise-Konferenz zu Storage, Server, Network: Programm ist online",
@@ -58,8 +86,8 @@
       "url": "https://www.heise.de/news/heise-Konferenz-zu-Storage-Server-Network-Programm-ist-online-9724533.html"
     },
     {
-      "title": "Gesundheitsministerium gibt Einblick in geplantes Registergesetz​",
-      "teaser": "Mit dem Registergesetz als wichtigem Baustein für die Verknüpfung von Registerdaten ist unter anderem eine eindeutige Forschungskennziffer geplant.​",
+      "title": "Geplantes Registergesetz: Mit Forschungskennziffer Gesundheitsdaten verknüpfen",
+      "teaser": "Für die Verknüpfung von Daten aus medizinischen Registern ist unter anderem eine Forschungskennziffer geplant. Diese basiert auf der Krankenversichertennummer.",
       "url": "https://www.heise.de/news/Gesundheitsministerium-gibt-Einblick-in-geplantes-Registergesetz-9724743.html",
       "image_title": "Markus Algermissen vom Bundesgesundheitsministerium auf den Registertagen"
     },
@@ -107,34 +135,6 @@
       "teaser": "IEC 62443 für industrielle Kommunikationsnetze - Wie Sie Ihre Produktentwicklung von Anfang an sicher und normenkonform gestalten. (Last Call)",
       "url": "https://www.heise.de/news/iX-Workshop-IEC-62443-IT-Sicherheit-in-der-Produktentwicklung-9718841.html",
       "image_title": "iX-Workshop: KRITIS-Anforderungen in der Praxis"
-    },
-    {
-      "title": "Durchsichtige OLED-Mikrodisplays für AR-Brillen",
-      "teaser": "Optische Systeme in AR-Brillen brauchen viel Akkuleistung. Das Fraunhofer IPMS erzeugt die virtuellen Bilder stattdessen am Mikro-OLED zum direkten Durchgucken.",
-      "url": "https://www.heise.de/news/Durchsichtige-OLED-Mikrodisplays-fuer-AR-Brillen-9724044.html"
-    },
-    {
-      "title": "iX-Praxis-Workshop: Cloud-native Softwareentwicklung mit Kubernetes und Docker",
-      "teaser": "Cloud-native Anwendungsentwicklung – der schnelle Praxiseinstieg am Beispiel von Docker und der produktionsreifen Orchestrierung mit Kubernetes (Last Call)",
-      "url": "https://www.heise.de/news/iX-Praxis-Workshop-Cloud-native-Softwareentwicklung-mit-Kubernetes-und-Docker-9717903.html",
-      "image_title": "iX-Workshop Docker und Kubernetes für die Cloud-native Softwareentwicklung"
-    },
-    {
-      "title": "Scarlett Johansson \"schockiert und verärgert\": OpenAI nimmt KI-Stimme offline",
-      "teaser": "Nach den jüngsten Neuerungen von OpenAI gab es viele Hinweise, dass eine KI-Stimme wie Scarlett Johansson klingt. Die ist empört, die Firma zieht Konsequenzen.",
-      "url": "https://www.heise.de/news/Scarlett-Johansson-schockiert-und-veraergert-OpenAI-nimmt-KI-Stimme-offline-9724494.html",
-      "image_title": "Scarlett Johansson"
-    },
-    {
-      "title": "Microsoft kündigt Copilot Plus PCs mit integrierter KI-Hardware an",
-      "teaser": "Für den US-Tech-Konzern ist es der Beginn einer neuen Generation von Windows-Laptops. Die ersten Modelle werden von Qualcomm und nicht von Intel angetrieben.",
-      "url": "https://www.heise.de/news/Microsoft-kuendigt-Copilot-Plus-PCs-mit-integrierter-KI-Hardware-an-9724460.html"
-    },
-    {
-      "title": "Partnerschaft zwischen Apple und OpenAI soll WWDC dominieren",
-      "teaser": "Mit iOS 18 sollen die KI-Funktionen von OpenAI auf iPhones Einzug halten. Daneben arbeitet Apple Berichten zufolge auch an KI auf dem Gerät selbst.",
-      "url": "https://www.heise.de/news/Partnerschaft-zwischen-Apple-und-OpenAI-soll-WWDC-dominieren-9724372.html",
-      "image_title": "iPhone 15 und 15 Plus"
     },
     {
       "title": "Low-Code ist nicht immer gleich Low-Code.",
