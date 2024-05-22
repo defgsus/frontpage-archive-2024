@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-05-22T08:08:24",
+  "timestamp": "2024-05-22T09:00:58",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.4f6aa7039b3b5218227c",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.bf20be237f234287b7f7",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Fluent Bit",
+      "url": "https://www.heise.de/news/DoS-Luecke-in-Loggingtool-Fluent-Bit-mit-13-Milliarden-Downloads-geschlossen-9726542.html"
+    },
     {
       "title": "Veeam Backup & Replication",
       "url": "https://www.heise.de/news/Kritische-Luecke-gewaehrt-Angreifern-Zugriff-auf-Veeam-Backup-Enterprise-Manager-9726433.html"
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Warten-auf-Patches-Sicherheitsforscher-untersuchen-NAS-System-Qnap-OTS-9724519.html"
     },
     {
-      "title": "Trellix ePolicy Orchestrator",
-      "url": "https://www.heise.de/news/Trellix-ePolicy-Orchestrator-ermoeglicht-Rechteausweitung-9722391.html"
+      "title": "DoS-Lücke in Loggingtool Fluent Bit mit 13 Milliarden Downloads geschlossen",
+      "teaser": "Sicherheitsforscher warnen vor einer kritischen Sicherheitslücke in Fluent Bit. Das Loggigntool kommt unter anderem bei vielen Cloudanbietern zum Einsatz.",
+      "url": "https://www.heise.de/news/DoS-Luecke-in-Loggingtool-Fluent-Bit-mit-13-Milliarden-Downloads-geschlossen-9726542.html",
+      "image_title": "Netzwerk-Hardware"
     },
     {
       "title": "Kritische Lücke gewährt Angreifern Zugriff auf Veeam Backup Enterprise Manager",
@@ -158,11 +164,6 @@
       "teaser": "Die CISA empfiehlt Cyber-Abwehrmaßnahmen für zivilgesellschaftliche Organisationen mit begrenzten Ressourcen. Das BSI hat auch was im Köcher.",
       "url": "https://www.heise.de/news/CISA-empfiehlt-Abwehrmassnahmen-fuer-zivilgesellschaftliche-Organisationen-9720624.html",
       "image_title": "Ein Laptop mit einem Schutzschild auf dem Bildschirm"
-    },
-    {
-      "title": "Access Points von Aruba verwundbar – keine Updates für ältere Versionen",
-      "teaser": "Aufgrund von mehreren Sicherheitslücken in ArubaOS und InstantOS sind Schadcode-Attacken auf Aruba-Geräte möglich.",
-      "url": "https://www.heise.de/news/Access-Points-von-Aruba-verwundbar-keine-Updates-fuer-aeltere-Versionen-9720385.html"
     },
     {
       "title": "heise security tour 2024",
