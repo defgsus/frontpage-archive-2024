@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-05-23T06:08:25",
+  "timestamp": "2024-05-23T07:00:52",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Cisco ASA und Firepower",
+      "url": "https://www.heise.de/news/Cisco-Root-Zugriff-durch-SQL-Injection-Luecke-in-Firepower-moeglich-9729121.html"
+    },
+    {
       "title": "Patchday Atlassian",
       "url": "https://www.heise.de/news/Patchday-Atlassian-ruestet-Data-Center-unter-anderem-gegen-Schadcode-Attacken-9728466.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Kritische-Luecke-gewaehrt-Angreifern-Zugriff-auf-Veeam-Backup-Enterprise-Manager-9726433.html"
     },
     {
-      "title": "Wireshark",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-DoS-Luecken-in-Netzwerkanalysetool-Wireshark-geschlossen-9725317.html"
+      "title": "Cisco: Root-Zugriff durch SQL-Injection-Lücke in Firepower möglich",
+      "teaser": "Cisco warnt vor Sicherheitslücken in ASA- und Firepower-Appliances. Angreifer können mit SQL-Injection Firepower-Geräte kompromittieren.",
+      "url": "https://www.heise.de/news/Cisco-Root-Zugriff-durch-SQL-Injection-Luecke-in-Firepower-moeglich-9729121.html",
+      "image_title": "Stilisiertes Bild: Ein Stapel brennender Cisco-Appliances"
     },
     {
       "title": "Deutschlandticket: Massenhafter Betrug mit gestohlenen Kontodaten",
@@ -156,12 +162,6 @@
       "teaser": "Verbrechens-Profite in Milliardenhöhe wurden und werden mit Tornado Cash gewaschen. Einer der Entwickler ist nun in den Niederlanden verurteilt.​",
       "url": "https://www.heise.de/news/Krypto-Geldwaesche-mit-Tornado-Cash-5-Jahre-Haft-fuer-Programmierer-9721947.html",
       "image_title": "Geldscheine mit Kluppen zum Trocknen aufgehängt"
-    },
-    {
-      "title": "FCC-Chefin will das Border Gateway Protocol absichern",
-      "teaser": "Das Internet ist seit jeher anfällig für Fehler beim Datenrouting. RPKI würde abhelfen, ISPs sind dazu aber nicht verpflichtet. Die FCC-Chefin will das ändern.​",
-      "url": "https://www.heise.de/news/FCC-Chefin-will-das-Border-Gateway-Protocol-absichern-9721893.html",
-      "image_title": "Routerports mit Ethernetkabeln"
     },
     {
       "title": "heise security tour 2024",
