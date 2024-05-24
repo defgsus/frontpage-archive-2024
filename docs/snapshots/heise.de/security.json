@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-05-24T08:00:51",
+  "timestamp": "2024-05-24T09:00:40",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Windows Server 2019",
+      "url": "https://www.heise.de/news/Windows-Server-2019-Aktualisiertes-Sicherheitsupdate-behebt-Installationsfehler-9730657.html"
+    },
+    {
       "title": "Gitlab",
       "url": "https://www.heise.de/news/GitLab-Accountuebernahme-nach-1-Klick-Attacke-moeglich-9730570.html"
     },
@@ -44,20 +48,16 @@
       "url": "https://www.heise.de/news/Workaround-vonnoeten-Kritische-Luecken-bedrohen-Ivanti-Endpoint-Manager-9729388.html"
     },
     {
-      "title": "VMware",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-VMware-Schadcode-kann-aus-VM-ausbuechsen-9729288.html"
+      "title": "Windows Server 2019: Aktualisiertes Sicherheitsupdate behebt Installationsfehler",
+      "teaser": "Das Sicherheitsupdate für Windows Server 2019 schlug mit den Fehlernummern 0x800f0982 und 0x80004005 fehl. Ein aktualisiertes Update ist verfügbar.",
+      "url": "https://www.heise.de/news/Windows-Server-2019-Aktualisiertes-Sicherheitsupdate-behebt-Installationsfehler-9730657.html",
+      "image_title": "Stilisierte Grafik: Brennendes Windows-Logo auf einem Laptop"
     },
     {
-      "title": "GitLab: Accountübernahme nach 1-Klick-Attacke möglich",
-      "teaser": "Mehrere Sicherheitslücken in GitLab gefährden Systeme. Gegen mögliche Attacken gerüstete Versionen stehen zum Download bereit.",
-      "url": "https://www.heise.de/news/GitLab-Accountuebernahme-nach-1-Klick-Attacke-moeglich-9730570.html",
-      "image_title": "Eine Person sitzt am Computer"
-    },
-    {
-      "title": "Google Chrome: Vierte bereits missbrauchte Zero-Day-Lücke in zwei Wochen",
-      "teaser": "Google schließt eine Zero-Day-Lücke im Chrome-Webbrowser, die bereits angegriffen wird. Die vierte in zwei Wochen.",
-      "url": "https://www.heise.de/news/Google-Chrome-Vierte-bereits-missbrauchte-Zero-Day-Luecke-in-zwei-Wochen-9730530.html",
-      "image_title": "Stilisierte Grafik: Brennendes Google-Chrome-Logo auf einem Laptop"
+      "title": "IT-Sicherheitstag Mainz: Letzte Chance auf ein Frühbucher-Ticket nutzen",
+      "teaser": "Neue Security-Normen betreffen auch Dienstleister in den Lieferketten. Der IT-Sicherheitstag Mainz zeigt, wie Cybersecurity Management At Scale funktioniert.",
+      "url": "https://www.heise.de/news/IT-Sicherheitstag-Mainz-Letzte-Chance-auf-ein-Fruehbucher-Ticket-nutzen-9729409.html",
+      "image_title": "Ein Tablet zeigt die Skyline von Mainz und Symbole für Sicherheit und Wissen."
     },
     {
       "title": "Anklage und mögliche Millionenstrafen wegen Robocalls mit Deepfake-Biden",
@@ -70,6 +70,11 @@
       "teaser": "Jedes iPhone schickt den Standort aller WLANs in der Umgebung an Apple. Angreifer konnten diese Daten offenbar ungehindert und großflächig abfragen.",
       "url": "https://www.heise.de/news/Grossflaechiges-Datenschutzproblem-Apple-verraet-wo-der-WLAN-Router-steht-9729602.html",
       "image_title": "Ein auf einem Tisch liegendes iPhone zeigt den Sperrbildschirm"
+    },
+    {
+      "title": "Workaround vonnöten: Kritische Lücken bedrohen Ivanti Endpoint Manager",
+      "teaser": "Gegen mögliche Schadcode-Attacken gerüstete Ivanti-EPM-Versionen lassen noch auf sich warten. Bislang gibt es nur einen Hot Patch für eine Version.",
+      "url": "https://www.heise.de/news/Workaround-vonnoeten-Kritische-Luecken-bedrohen-Ivanti-Endpoint-Manager-9729388.html"
     },
     {
       "title": "Sicherheitsupdates VMware: Schadcode kann aus VM ausbüchsen",
@@ -93,6 +98,11 @@
       "teaser": "Fast alle Verkehrsunternehmen in Deutschland sind von Betrugsversuchen beim Kauf von Deutschlandtickets betroffen.",
       "url": "https://www.heise.de/news/Deutschlandticket-Massenhafter-Betrug-mit-gestohlenen-Kontodaten-9728819.html",
       "image_title": "Symbol für das Deutschlandticket"
+    },
+    {
+      "title": "Passwort: Neuer Podcast von heise security ist jetzt verfügbar",
+      "teaser": "Zielgruppe sind Security-Interessierte und -Profis, die erste Ausgabe befasst sich mit einer der erfolgreichsten Cybercrime-Banden des letzten Jahrzehnts.",
+      "url": "https://www.heise.de/news/Passwort-Neuer-Podcast-von-heise-security-ist-jetzt-verfuegbar-9725100.html"
     },
     {
       "title": "Patchday: Atlassian rüstet Data Center gegen Schadcode-Attacken",
@@ -149,17 +159,6 @@
       "teaser": "Ein git-Update schließt eine Reihe teilweise kritischer sowie hoher Sicherheitslücken und bringt ein neues Defense-in-Depth-Konzept.",
       "url": "https://www.heise.de/news/git-Update-beseitigt-fuenf-teilweise-kritische-Sicherheitsluecken-in-den-Clients-9722852.html",
       "image_title": "Stilisiertes Bild: Software-Update auf Laptop"
-    },
-    {
-      "title": "Dr. Ansay: Rezepte für Cannabis jetzt nicht mehr in Suchmaschinen auffindbar",
-      "teaser": "Nachdem Rezepte eines Telemedizinanbieters online waren, sind diese aus dem Cache der Suchmaschinen verschwunden. Dazu wurde eine Sitemap hochgeladen.",
-      "url": "https://www.heise.de/news/Tausende-Rezepte-fuer-Cannabis-auffindbar-Suchmaschinenbetreiber-unschuldig-9722795.html",
-      "image_title": "Seite von Dr. Ansay"
-    },
-    {
-      "title": "BSI verklagt Microsoft auf Herausgabe von Informationen zu Security-Desaster",
-      "teaser": "Das Bundesamt für Sicherheit in der Informationstechnik hat offenbar ein offizielles Verfahren gegen Microsoft eingeleitet – und wartet weiter auf Antworten.",
-      "url": "https://www.heise.de/news/BSI-verklagt-Microsoft-auf-Herausgabe-von-Informationen-zu-Security-Desaster-9721245.html"
     },
     {
       "title": "heise security tour 2024",

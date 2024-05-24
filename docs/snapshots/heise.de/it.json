@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-05-24T08:00:45",
+  "timestamp": "2024-05-24T09:00:38",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "MS Teams: Microsoft will künftig wissen, wer wo und wann arbeitet",
+      "teaser": "Auf der Build zeigte Microsoft viele neue Funktionen für Teams – mit erfrischend wenig KI-Experimenten. Stattdessen sind Detail-Features angesagt.",
+      "url": "https://www.heise.de/news/Code-im-Chat-eigene-Emojis-Places-App-kommt-Microsofts-neue-Teams-Features-9727008.html",
+      "image_title": "Symbolbild Kollaboration"
+    },
+    {
       "title": "Windows on ARM: Alle angekündigten Notebooks mit Snapdragon X Elite",
       "teaser": "Windows on ARM nimmt so viel Fahrt auf wie noch nie. Alle großen Notebook-Hersteller bringen Snapdragon-X-Geräte; der Intel-Primus Dell sogar ein XPS 13.",
       "url": "https://www.heise.de/news/Windows-on-ARM-Alle-angekuendigten-Notebooks-mit-Snapdragon-X-Elite-9728630.html",
@@ -38,12 +44,6 @@
       "image_title": "Microsoft-Schild an dunklem Gebäude"
     },
     {
-      "title": "ARM-Devkit: Mini-PC mit dem stärksten Snapdragon X Elite",
-      "teaser": "Microsoft und Qualcomm legen zusammen einen Mini-PC als Devkit für Windows on ARM auf. Der Snapdragon X Elite wird da an die Grenze getrieben.",
-      "url": "https://www.heise.de/news/ARM-Devkit-Mini-PC-mit-dem-staerksten-Snapdragon-X-Elite-9725953.html",
-      "image_title": "Qualcomm Devkit in einem durchsichtigen Gehäuse"
-    },
-    {
       "title": "Warum sich Datenschutzbehörden mit ChatGPT und Co. schwertun",
       "teaser": "Die deutschen Datenschutzbehörden haben eine \"Orientierungshilfe\" zum Umgang mit generativer Sprach-KI veröffentlicht. Vieles bleibt jedoch schwammig.",
       "url": "https://www.heise.de/hintergrund/Warum-sich-Datenschutzbehoerden-mit-ChatGPT-und-Co-schwertun-9725332.html"
@@ -53,6 +53,58 @@
       "teaser": "Das iPad Pro ist flacher und schneller als jedes Apple-Tablet zuvor. Wir haben das Spitzenmodell mit entspiegeltem OLED-Display getestet. Lohnt der Umstieg?",
       "url": "https://www.heise.de/tests/iPad-Pro-13-M4-im-Test-Was-Apples-3000-Euro-Tablet-taugt-9729351.html",
       "image_title": "iPad Pro M4 mit Magic Keyboard und Apple Pencil"
+    },
+    {
+      "title": "150-Euro-Zollfreigrenze soll fallen: Neue Hürden für Temu, Shein und Co.",
+      "teaser": "Bislang dürfen Warensendungen aus Drittländern mit einem Wert von unter 150 Euro zollfrei importiert werden. Das könnte sich im Jahr 2028 ändern.",
+      "url": "https://www.heise.de/news/150-Euro-Zollfreigrenze-soll-fallen-Neue-Huerden-fuer-Temu-Shein-und-Co-9730850.html"
+    },
+    {
+      "title": "Rückkehr unerwünschter Fotos in iOS 17.5: erste Antworten, offene Fragen",
+      "teaser": "Dass iOS 17.5 eigentlich längst gelöschte Fotos zurückbringen kann, hat viele iPhone-Nutzer aufgeschreckt. Jetzt gibt es erste Erklärungsansätze.",
+      "url": "https://www.heise.de/news/iPhone-loescht-Fotos-nicht-richtig-iCloud-angeblich-unbeteiligt-9730788.html",
+      "image_title": "Ein auf dem Tisch liegendes iPhone zeigt den Homescreen mit Fotos-App"
+    },
+    {
+      "title": "Meta AI: Alle geposteten Beiträge bei Facebook wandern in die KI",
+      "teaser": "Alle Beiträge, die Menschen bei Facebook posten, wandern in Meta AI – werden also für das KI-Training und KI-Dienste genutzt.",
+      "url": "https://www.heise.de/news/Meta-AI-Alle-geposteten-Beitraege-bei-Facebook-wandern-in-die-KI-9730590.html",
+      "image_title": "Social,Network,And,City."
+    },
+    {
+      "title": "Ministertreffen: Deutscher Umgang mit Huawei bleibt unklar​",
+      "teaser": "Die Debatte um chinesische Netzausrüster geht weiter. Nach einem Spitzentreffen der Bundesregierung gibt es Ankündigungen über eine baldige Entscheidung.",
+      "url": "https://www.heise.de/news/Ministertreffen-Deutscher-Umgang-mit-Huawei-bleibt-unklar-9730661.html",
+      "image_title": "Imaginative,Visual,Of,Smart,Digital,City,With,Globalization,Abstract,Graphic"
+    },
+    {
+      "title": "Windows Server 2019: Aktualisiertes Sicherheitsupdate behebt Installationsfehler",
+      "teaser": "Das Sicherheitsupdate für Windows Server 2019 schlug mit den Fehlernummern 0x800f0982 und 0x80004005 fehl. Ein aktualisiertes Update ist verfügbar.",
+      "url": "https://www.heise.de/news/Windows-Server-2019-Aktualisiertes-Sicherheitsupdate-behebt-Installationsfehler-9730657.html",
+      "image_title": "Stilisierte Grafik: Brennendes Windows-Logo auf einem Laptop"
+    },
+    {
+      "title": "\"Gottes Influencer\": Papst ermöglicht Heiligsprechung von jungem Webdesigner",
+      "teaser": "Kurz vor seinem Tod hat ein 15-jähriger Italiener eine Website zu katholischen Wundern erstellt, die ihn bekannt machte. Bald könnte er als Heiliger gelten.",
+      "url": "https://www.heise.de/news/Bekannt-fuer-eine-Website-Papst-ermoeglicht-Heiligsprechung-von-Jugendlichem-9730613.html",
+      "image_title": "Silhouette des Peterdosm vor rötlichem Himmel"
+    },
+    {
+      "title": "Arzneimittelforschung mit KI: Lamarr-Institut, b-it und TüCAD2 tun sich zusammen",
+      "teaser": "Für eine effizientere Suche nach Medikamenten mittels Künstlicher Intelligenz haben sich das Lamarr-Institut, b-it und TüCAD2 zusammengetan.",
+      "url": "https://www.heise.de/news/Arzneimittelforschung-mit-KI-Lamarr-Institut-b-it-und-TueCAD2-tun-sich-zusammen-9730584.html"
+    },
+    {
+      "title": "Verbraucherschützer fordern Tracking-Verbot​",
+      "teaser": "Profilbildung setze gezielt auf Schwächen der Nutzer, der Bundesverband der Verbraucherzentralen fordert daher einen Neustart der E-Privacy-Verordnung​.",
+      "url": "https://www.heise.de/news/Verbraucherschuetzer-fordern-Tracking-Verbot-9730635.html",
+      "image_title": "Hand am Smartphone zeigt auf grünen Haken"
+    },
+    {
+      "title": "IT-Sicherheitstag Mainz: Letzte Chance auf ein Frühbucher-Ticket nutzen",
+      "teaser": "Neue Security-Normen betreffen auch Dienstleister in den Lieferketten. Der IT-Sicherheitstag Mainz zeigt, wie Cybersecurity Management At Scale funktioniert.",
+      "url": "https://www.heise.de/news/IT-Sicherheitstag-Mainz-Letzte-Chance-auf-ein-Fruehbucher-Ticket-nutzen-9729409.html",
+      "image_title": "Ein Tablet zeigt die Skyline von Mainz und Symbole für Sicherheit und Wissen."
     },
     {
       "title": "GitLab: Accountübernahme nach 1-Klick-Attacke möglich",
@@ -89,60 +141,6 @@
       "teaser": "Was aus Sicht des Verbands für Dokumentation und Informationsmanagement in der Medizin für eine erfolgreiche Digitalisierung des Gesundheitswesens wichtig ist.",
       "url": "https://www.heise.de/hintergrund/Garbage-In-Garbage-Out-Warum-Dokumentation-im-Gesundheitswesen-wichtig-ist-9728393.html",
       "image_title": "DVMD-Veranstaltung"
-    },
-    {
-      "title": "IT-Jobs: Sichere Zukunftsberufe, aber bei Jugendlichen wenig beliebt",
-      "teaser": "Berufe in der IT haben ein hohes Zukunftspotenzial, zeigt eine Studie. Die Präferenzen Jugendlicher liegen aber woanders – sofern sie einen Berufswunsch haben.",
-      "url": "https://www.heise.de/news/Studie-IT-Berufe-mit-hohem-Zukunftspotenzial-aber-bei-Jugendlichen-unbeliebt-9730175.html",
-      "image_title": "Eine junge Frau in Businesskleidung freut sich vor ihrem Laptop"
-    },
-    {
-      "title": "Copilot, Gemini und GPT: Fliegt Apple nur Economy? | Mac & i-Podcast",
-      "teaser": "Samsung, Google und Microsoft wollen Apple mit einer Flut an KI-Funktionen abhängen. Wie nützlich diese sind und was beim iPhone ansteht, klärt Episode 72.",
-      "url": "https://www.heise.de/news/Copilot-Gemini-und-GPT-Fliegt-Apple-nur-Economy-Mac-i-Podcast-9730181.html",
-      "image_title": "Copilot, Gemini und GPT: Fliegt Apple nur Economy? Mac & i-Podcast"
-    },
-    {
-      "title": "Webframework Angular 18 stabilisiert Support für Material 3 und Deferrable Views",
-      "teaser": "Die neuen Features umfassen Change Detection ohne die Bibliothek zone.js sowie stabilen Support für Material 3 und Deferrable Views.",
-      "url": "https://www.heise.de/news/Angular-18-ist-der-naechste-Meilenstein-fuer-das-Webframework-9729932.html",
-      "image_title": "Symbolbild Frameworks"
-    },
-    {
-      "title": "Überwachungskamera Instar IN8401 2K+ im Test: Personenerkennung, Homekit & Onvif",
-      "teaser": "Die Instar IN-8401 2K+ bietet eine hohe Auflösung, Onvif-Support, Dual-WLAN, Personen- und Geräuscherkennung sowie eine Ethernet-Schnittstelle. Wie gut die Überwachungskamera ist, zeigt der Test.",
-      "url": "https://www.techstage.de/test/ueberwachungskamera-instar-in8401-2k-im-test-personenerkennung-homekit-und-onvif/mtc6rch?wt_mc=intern.red.techstage.newsticker.rubrikstart.teaser.teaser",
-      "image_title": "##PHxVALUE_ALT_TEXT##"
-    },
-    {
-      "title": "Nvidia soll ARM-Prozessoren für Notebooks entwickeln",
-      "teaser": "Nvidia will offenbar ein größeres Stück vom \"AI PC\"-Kuchen abhaben. Die Firma soll aktuell komplette Systems-on-Chip für Notebooks entwerfen.",
-      "url": "https://www.heise.de/news/Nvidia-soll-ARM-Prozessoren-fuer-Notebooks-entwickeln-9730068.html",
-      "image_title": "Renderbild von Nvidias Tegra X1"
-    },
-    {
-      "title": "Leiser Mini-PC mit Spitzenleistung: Awow HA7 mit Ryzen 7, USB 4 & RGB im Test",
-      "teaser": "Mit dem Awow HA7 kann man für günstige 630 Euro moderne Spiele zocken. Noch dazu bleibt das System richtig leise. Techstage zeigt, wo der Mini-PC noch überrascht.",
-      "url": "https://www.techstage.de/test/leiser-mini-pc-mit-spitzenleistung-awow-ha7-mit-ryzen-7-usb-4-und-rgb-im-test/2qlppdw?wt_mc=intern.red.techstage.newsticker.rubrikstart.teaser.teaser",
-      "image_title": "##PHxVALUE_ALT_TEXT##"
-    },
-    {
-      "title": "BND verwehrt Einsicht in Unterlagen – Bundesdatenschutzbeauftragter klagt",
-      "teaser": "Der BND hat der Datenschutzaufsicht Einsicht in Unterlagen verwehrt, die diese für die Kontrolle für unerlässlich hält. Ein Fall fürs Bundesverwaltungsgericht.​",
-      "url": "https://www.heise.de/news/Kontrolle-Bundesdatenschutzbeauftragter-klagt-gegen-Bundesnachrichtendienst-9729938.html",
-      "image_title": "Der europäische Sternenkreis auf einer blauen Karte mit einem Schloss und dem Schriftzug DSGVO in der Mitte"
-    },
-    {
-      "title": "Microsoft: Fahrplan für das VBS-Ende steht",
-      "teaser": "Microsoft will Visual Basic Scripting Edition loswerden. Nun hat das Unternehmen einen Fahrplan vorgelegt, wie es den Abschied staffelt.",
-      "url": "https://www.heise.de/news/Microsoft-legt-Fahrplan-fuer-VBS-Ende-vor-9729749.html",
-      "image_title": "Ein aus Platinen und Kabeln gebastelter Roboter"
-    },
-    {
-      "title": "Großflächiges Datenschutzproblem: Apple verrät, wo der WLAN-Router steht",
-      "teaser": "Jedes iPhone schickt den Standort aller WLANs in der Umgebung an Apple. Angreifer konnten diese Daten offenbar ungehindert und großflächig abfragen.",
-      "url": "https://www.heise.de/news/Grossflaechiges-Datenschutzproblem-Apple-verraet-wo-der-WLAN-Router-steht-9729602.html",
-      "image_title": "Ein auf einem Tisch liegendes iPhone zeigt den Sperrbildschirm"
     },
     {
       "title": "Low-Code ist nicht immer gleich Low-Code.",
