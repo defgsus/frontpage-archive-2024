@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-05-24T07:00:49",
+  "timestamp": "2024-05-24T08:00:51",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Gitlab",
+      "url": "https://www.heise.de/news/GitLab-Accountuebernahme-nach-1-Klick-Attacke-moeglich-9730570.html"
+    },
+    {
       "title": "Google Chrome",
       "url": "https://www.heise.de/news/Google-Chrome-Vierte-bereits-missbrauchte-Zero-Day-Luecke-in-zwei-Wochen-9730530.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-VMware-Schadcode-kann-aus-VM-ausbuechsen-9729288.html"
     },
     {
-      "title": "Cisco ASA und Firepower",
-      "url": "https://www.heise.de/news/Cisco-Root-Zugriff-durch-SQL-Injection-Luecke-in-Firepower-moeglich-9729121.html"
+      "title": "GitLab: Accountübernahme nach 1-Klick-Attacke möglich",
+      "teaser": "Mehrere Sicherheitslücken in GitLab gefährden Systeme. Gegen mögliche Attacken gerüstete Versionen stehen zum Download bereit.",
+      "url": "https://www.heise.de/news/GitLab-Accountuebernahme-nach-1-Klick-Attacke-moeglich-9730570.html",
+      "image_title": "Eine Person sitzt am Computer"
     },
     {
       "title": "Google Chrome: Vierte bereits missbrauchte Zero-Day-Lücke in zwei Wochen",
@@ -154,12 +160,6 @@
       "title": "BSI verklagt Microsoft auf Herausgabe von Informationen zu Security-Desaster",
       "teaser": "Das Bundesamt für Sicherheit in der Informationstechnik hat offenbar ein offizielles Verfahren gegen Microsoft eingeleitet – und wartet weiter auf Antworten.",
       "url": "https://www.heise.de/news/BSI-verklagt-Microsoft-auf-Herausgabe-von-Informationen-zu-Security-Desaster-9721245.html"
-    },
-    {
-      "title": "Trellix ePolicy Orchestrator ermöglicht Rechteausweitung",
-      "teaser": "Vor zwei Sicherheitslücken in ePolicy Orchestrator warnt Hersteller Trellix. Bösartige Akteure können ihre Rechte ausweiten.",
-      "url": "https://www.heise.de/news/Trellix-ePolicy-Orchestrator-ermoeglicht-Rechteausweitung-9722391.html",
-      "image_title": "Ein Laptop mit einem Schutzschild auf dem Bildschirm"
     },
     {
       "title": "heise security tour 2024",
