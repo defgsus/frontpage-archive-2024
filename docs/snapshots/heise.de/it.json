@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-05-28T07:00:39",
+  "timestamp": "2024-05-28T08:09:20",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,22 +26,21 @@
   ],
   "articles": [
     {
+      "title": "Gesichtserkennung in Großbritannien: Unschuldige verdächtigt",
+      "teaser": "In London und Manchester wurden zwei Personen aufgrund einer Gesichtserkennungs-KI zu Unrecht wie Kriminelle behandelt. Das zieht Klagen nach sich.",
+      "url": "https://www.heise.de/news/Gesichsterkennung-in-Grossbritannien-Unschuldige-zu-Unrecht-verdaechtigt-9733112.html",
+      "image_title": "Gesichtserkennungs-KI im Einsatz"
+    },
+    {
+      "title": "ESP-32-CAM als Rückfahrkamera im Auto – guter Plan, klappt aber nicht",
+      "teaser": "Geplant war eine selbstgebaute Rückfahrkamera für den Camper, herausgekommen ist am Ende nur ein schickes Gehäuse für das Board – und eine Menge an Erfahrungen.",
+      "url": "https://www.heise.de/ratgeber/ESP-32-CAM-als-Rueckfahrkamera-im-Auto-guter-Plan-klappt-aber-nicht-9729436.html"
+    },
+    {
       "title": "Großflächiges Datenschutzproblem: Apple verrät, wo der WLAN-Router steht",
       "teaser": "Jedes iPhone schickt den Standort aller WLANs in der Umgebung an Apple. Angreifer konnten diese Daten offenbar ungehindert und großflächig abfragen.",
       "url": "https://www.heise.de/news/Grossflaechiges-Datenschutzproblem-Apple-verraet-wo-der-WLAN-Router-steht-9729602.html",
       "image_title": "Ein auf einem Tisch liegendes iPhone zeigt den Sperrbildschirm"
-    },
-    {
-      "title": "MS Teams: Microsoft will künftig wissen, wer wo und wann arbeitet",
-      "teaser": "Auf der Build zeigte Microsoft viele neue Funktionen für Teams – mit erfrischend wenig KI-Experimenten. Stattdessen sind Detail-Features angesagt.",
-      "url": "https://www.heise.de/news/Code-im-Chat-eigene-Emojis-Places-App-kommt-Microsofts-neue-Teams-Features-9727008.html",
-      "image_title": "Symbolbild Kollaboration"
-    },
-    {
-      "title": "Windows on ARM: Alle angekündigten Notebooks mit Snapdragon X Elite",
-      "teaser": "Windows on ARM nimmt so viel Fahrt auf wie noch nie. Alle großen Notebook-Hersteller bringen Snapdragon-X-Geräte; der Intel-Primus Dell sogar ein XPS 13.",
-      "url": "https://www.heise.de/news/Windows-on-ARM-Alle-angekuendigten-Notebooks-mit-Snapdragon-X-Elite-9728630.html",
-      "image_title": "Microsofts Surface Laptop 7 in vier Farben"
     },
     {
       "title": "Gefährdete Router: Verkehr mit dubiosen Internetdomains verhindern",
@@ -54,6 +53,23 @@
       "teaser": "In kleinen Netzen teilen sich alle dasselbe WLAN-Passwort, was Lauschangriffe erleichtert. Mit OpenWrt kann man jedem Gerät einen eigenen Schlüssel geben.",
       "url": "https://www.heise.de/ratgeber/WLAN-mit-individuellen-Schluesseln-sichern-9729234.html",
       "image_title": ","
+    },
+    {
+      "title": "Mastering Kubernetes: Das hilft gegen ausufernde Kosten in der Cloud",
+      "teaser": "Kubernetes kann die Cloudkosten in die Höhe treiben, wenn Einblicke in die Cluster fehlen. Die Onlinekonferenz Mastering Kubernetes zeigt, was dagegen hilft.",
+      "url": "https://www.heise.de/news/Mastering-Kubernetes-Das-hilft-gegen-ausufernde-Kosten-in-der-Cloud-9733918.html"
+    },
+    {
+      "title": "Speicherverbrauch in Mikrocontrollern erklärt",
+      "teaser": "Dieser Artikel erklärt, wo im Arbeitsspeicher (RAM) welche Art von Daten gespeichert werden.",
+      "url": "https://www.heise.de/ratgeber/Speicherverbrauch-in-Mikrocontrollern-erklaert-9730630.html",
+      "image_title": ","
+    },
+    {
+      "title": "Ukrainisches CERT warnt vor Angriffen mit Minesweeper",
+      "teaser": "Das CERT-UA warnt vor gezielten Angriffen zum Erlangen unbefugten Zugriffs auf Computer. Als Köder nutzen die Täter Minesweeper.",
+      "url": "https://www.heise.de/news/Ukrainisches-CERT-warnt-vor-Angriffen-mit-Minesweeper-9734899.html",
+      "image_title": "Stilisiertes Bild: Laptop mit Minesweeper, umgeben von Viren"
     },
     {
       "title": "Nach Ausfall von wichtigem Unterseekabel nach Spitzbergen: Fotos zeigen Schäden",
@@ -125,24 +141,6 @@
       "teaser": "Laut dieser Podcastfolge beeinflussen die Qualität des Entscheidungsprozesses und Glück die Ergebnisse von Entscheidungen als Product Owner – wie im Pokerspiel.",
       "url": "https://www.heise.de/blog/Die-Produktwerker-Product-Owner-sind-Pokerspieler-9733354.html",
       "image_title": "Produktwerker auf einem Bild (3 Männer), dazu Text \"Der Podcast für Product Owner\""
-    },
-    {
-      "title": "iX-Workshop IEC 62443: IT-Sicherheit in der Produktentwicklung",
-      "teaser": "IEC 62443 für industrielle Kommunikationsnetze - Wie Sie Ihre Produktentwicklung von Anfang an sicher und normenkonform gestalten. (10% Rabatt bis 03.06.)",
-      "url": "https://www.heise.de/news/iX-Workshop-IEC-62443-IT-Sicherheit-in-der-Produktentwicklung-9730722.html",
-      "image_title": "iX-Workshop: KRITIS-Anforderungen in der Praxis"
-    },
-    {
-      "title": "Neues Outlook: Rückkehr zu klassischem Outlook soll weniger einfach werden",
-      "teaser": "Microsoft bietet einen Schalter zum Test des neuen Outlook in der Titelleiste der App. Der Weg zurück soll etwas weniger einfach werden.",
-      "url": "https://www.heise.de/news/Neues-Outlook-Rueckkehr-zu-klassischem-Outlook-soll-weniger-einfach-werden-9733317.html",
-      "image_title": "Fenster \"Microsoft Office Home\". Eine Lupe vergrößert das Logo für Outlook. Daneben die Logos für OneDrive, Word, Excel und Powerpoint."
-    },
-    {
-      "title": "Gesichtserkennung in Großbritannien: Unschuldige verdächtigt",
-      "teaser": "In London und Manchester wurden zwei Personen aufgrund einer Gesichtserkennungs-KI zu Unrecht wie Kriminelle behandelt. Das zieht Klagen nach sich.",
-      "url": "https://www.heise.de/news/Gesichsterkennung-in-Grossbritannien-Unschuldige-zu-Unrecht-verdaechtigt-9733112.html",
-      "image_title": "Gesichtserkennungs-KI im Einsatz"
     },
     {
       "title": "Low-Code ist nicht immer gleich Low-Code.",
