@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-05-29T10:00:52",
+  "timestamp": "2024-05-29T11:00:32",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Ivanti Endpoint Manager",
+      "url": "https://www.heise.de/news/Supportende-Rechte-Sicherheitsluecke-gefaehrdet-Ivanti-Endpoint-Manager-2021-9738243.html"
+    },
+    {
       "title": "TP-Link-Router C5400X",
       "url": "https://www.heise.de/news/Sicherheitsupdate-Angreifer-koennen-TP-Link-Router-C5400X-uebernehmen-9736602.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/GitLab-Accountuebernahme-nach-1-Klick-Attacke-moeglich-9730570.html"
     },
     {
-      "title": "Google Chrome",
-      "url": "https://www.heise.de/news/Google-Chrome-Vierte-bereits-missbrauchte-Zero-Day-Luecke-in-zwei-Wochen-9730530.html"
+      "title": "Supportende: Rechte-Sicherheitslücke gefährdet Ivanti Endpoint Manager 2021",
+      "teaser": "Angreifer können Schadcode mit erhöhten Rechten ausführen. Admins müssen Ivanti EPM auf eine noch unterstützte Version upgraden.",
+      "url": "https://www.heise.de/news/Supportende-Rechte-Sicherheitsluecke-gefaehrdet-Ivanti-Endpoint-Manager-2021-9738243.html",
+      "image_title": "Finger drückt auf Knopf"
+    },
+    {
+      "title": "iX-Workshop: IT-Sicherheit nach ISO 27001 – Herausforderungen und Chancen",
+      "teaser": "Der Workshop zeigt, wie man Informationssicherheit im Unternehmen mit dem Sicherheitsstandard ISO 27001 umsetzt und welche Herausforderungen sich dabei stellen.",
+      "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-nach-ISO-27001-Herausforderungen-und-Chancen-9730886.html",
+      "image_title": "ix-Workshop IT-Sicherheit nach ISO 27001 umsetzen"
     },
     {
       "title": "Elon Musk und Chef von WhatsApp streiten um Datenschutz des Messengers",
@@ -54,14 +66,15 @@
       "image_title": "Apps von Threads, Facebook, Instagram, WhatsApp, Messenger und Meta auf einem Smartphone"
     },
     {
-      "title": "BreachForums: Admin klaut Domain des Cybercrime-Marktplatzes offenbar zurück",
-      "teaser": "Durch eine simple Anfrage beim Domainregistrar bekam der Admin des Untergrundforums seine Domain zurück – das Forum ist wieder online. Zweifel bleiben jedoch.",
-      "url": "https://www.heise.de/news/BreachForums-Cybercrime-Plattform-nach-FBI-Razzia-offenbar-zurueck-im-Netz-9737561.html"
-    },
-    {
       "title": "Kritische Sicherheitslücke gewährt Angreifern Zugriff auf TP-Link-Router C5400X",
       "teaser": "Der TP-Link-WLAN-Router C5400X ist verwundbar. Ein Sicherheitspatch schließt eine kritische Schwachstelle.",
       "url": "https://www.heise.de/news/Sicherheitsupdate-Angreifer-koennen-TP-Link-Router-C5400X-uebernehmen-9736602.html"
+    },
+    {
+      "title": "Kriminelle drohen mit DSGVO-Strafe: Auktionshaus Christie's Opfer von Ransomware",
+      "teaser": "Bei Christie's wurden Daten abgegriffen, die bald publik werden sollen. Das Auktionshaus fürchtet vor allem, dass publik wird, wo Kunstwerke aufbewahrt werden.",
+      "url": "https://www.heise.de/news/Christie-s-Cyberkriminelle-drohen-mit-Veroeffentlichung-von-erbeuteten-Daten-9733972.html",
+      "image_title": "Schild von Christie's"
     },
     {
       "title": "Gefälschte Antivirus-Webseiten wollen Opfern Malware unterjubeln",
@@ -150,16 +163,6 @@
       "teaser": "Fast alle Verkehrsunternehmen in Deutschland sind von Betrugsversuchen beim Kauf von Deutschlandtickets betroffen.",
       "url": "https://www.heise.de/news/Deutschlandticket-Massenhafter-Betrug-mit-gestohlenen-Kontodaten-9728819.html",
       "image_title": "Symbol für das Deutschlandticket"
-    },
-    {
-      "title": "Passwort: Neuer Podcast von heise security ist jetzt verfügbar",
-      "teaser": "Zielgruppe sind Security-Interessierte und -Profis, die erste Ausgabe befasst sich mit einer der erfolgreichsten Cybercrime-Banden des letzten Jahrzehnts.",
-      "url": "https://www.heise.de/news/Passwort-Neuer-Podcast-von-heise-security-ist-jetzt-verfuegbar-9725100.html"
-    },
-    {
-      "title": "Patchday: Atlassian rüstet Data Center gegen Schadcode-Attacken",
-      "teaser": "Admins sollten aus Sicherheitsgründen unter anderem Jira Data Center and Server und Service Management auf den aktuellen Stand bringen.",
-      "url": "https://www.heise.de/news/Patchday-Atlassian-ruestet-Data-Center-unter-anderem-gegen-Schadcode-Attacken-9728466.html"
     },
     {
       "title": "heise security tour 2024",
