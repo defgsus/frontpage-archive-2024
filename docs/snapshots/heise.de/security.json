@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-05-30T09:00:54",
+  "timestamp": "2024-05-30T10:01:00",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Checkmk",
+      "url": "https://www.heise.de/news/IT-Monitoring-Checkmk-schliesst-Luecke-die-Aenderung-von-Dateien-ermoeglicht-9741274.html"
+    },
+    {
       "title": "Check Point Network Security Gateways",
       "url": "https://www.heise.de/news/Notfallpatch-Angreifer-attackieren-VPN-Verbindungen-von-Check-Point-Gateways-9741056.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Proof-of-Concept-Exploits-fuer-kritische-FortiSIEM-Luecken-Jetzt-patchen-9739871.html"
     },
     {
-      "title": "Ivanti Endpoint Manager",
-      "url": "https://www.heise.de/news/Supportende-Rechte-Sicherheitsluecke-gefaehrdet-Ivanti-Endpoint-Manager-2021-9738243.html"
+      "title": "IT-Monitoring: Checkmk schließt Lücke, die Änderung von Dateien ermöglicht",
+      "teaser": "Eine Sicherheitslücke in der Monitoring-Software Checkmk ermöglicht Angreifern, unbefugt lokale Dateien auf dem Checkmk-Server zu lesen und zu schreiben.",
+      "url": "https://www.heise.de/news/IT-Monitoring-Checkmk-schliesst-Luecke-die-Aenderung-von-Dateien-ermoeglicht-9741274.html",
+      "image_title": "Mann steht vor Bildschirmen"
     },
     {
       "title": "iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
@@ -160,12 +166,6 @@
       "image_title": "Eine Person sitzt am Computer"
     },
     {
-      "title": "Google Chrome: Vierte bereits missbrauchte Zero-Day-Lücke in zwei Wochen",
-      "teaser": "Google schließt eine Zero-Day-Lücke im Chrome-Webbrowser, die bereits angegriffen wird. Die vierte in zwei Wochen.",
-      "url": "https://www.heise.de/news/Google-Chrome-Vierte-bereits-missbrauchte-Zero-Day-Luecke-in-zwei-Wochen-9730530.html",
-      "image_title": "Stilisierte Grafik: Brennendes Google-Chrome-Logo auf einem Laptop"
-    },
-    {
       "title": "heise security tour 2024",
       "teaser": "Die Konferenz zum Thema IT-Security. Nutzen Sie die einzigartige Gelegenheit, sich direkt aus der ersten Reihe über die neuesten Trends, Technologien und Bedrohungen in der Welt der IT-Sicherheit zu informieren. Dieses Jahr findet die Tour in Köln, Hannover, Stuttgart und online statt.",
       "url": "https://security-tour.heise.de/?wt_mc=intern.academy.security.konf_sectour.hs_teaser.teaser.teaser"
@@ -191,7 +191,7 @@
     {
       "title": "Re: Downloadrate bei Signaturupdate extrem langsam",
       "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Downloadrate-bei-Signaturupdate-extrem-langsam/posting-44037020/show/"
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Downloadrate-bei-Signaturupdate-extrem-langsam/posting-44037510/show/"
     },
     {
       "title": "Re: desinfect 2024",
