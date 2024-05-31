@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-05-31T06:08:47",
+  "timestamp": "2024-05-31T07:00:53",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Linux-Kernel",
+      "url": "https://www.heise.de/news/Linux-Luecke-Angreifer-verschaffen-sich-root-Rechte-9742699.html"
+    },
+    {
       "title": "Checkmk",
       "url": "https://www.heise.de/news/IT-Monitoring-Checkmk-schliesst-Luecke-die-Aenderung-von-Dateien-ermoeglicht-9741274.html"
     },
@@ -44,20 +48,16 @@
       "url": "https://www.heise.de/news/Foxit-PDF-Reader-Halbherzige-Zertifikatpruefung-ermoeglicht-Rechteausweitung-9740346.html"
     },
     {
-      "title": "FortiSIEM",
-      "url": "https://www.heise.de/news/Proof-of-Concept-Exploits-fuer-kritische-FortiSIEM-Luecken-Jetzt-patchen-9739871.html"
+      "title": "Linux: root-Lücke wird aktiv missbraucht",
+      "teaser": "Die IT-Sicherheitsbehörde CISA warnt vor aktiven Angriffen auf eine Linux-Lücke. Angreifer verschaffen sich damit root-Rechte.",
+      "url": "https://www.heise.de/news/Linux-Luecke-Angreifer-verschaffen-sich-root-Rechte-9742699.html",
+      "image_title": "Stilisiertes Bild: Laptop zeigt brennenden Pinguin"
     },
     {
       "title": "iX-Workshop: Angriffe auf Entra ID abwehren",
       "teaser": "Lernen Sie, wie Sie Entra ID (Azure Active Directory) einschließlich Azure-Diensten härten und effektiv vor Angriffen schützen. (10% Rabatt bis 04.06.)",
       "url": "https://www.heise.de/news/iX-Workshop-Angriffe-auf-Entra-ID-abwehren-9731097.html",
       "image_title": "iX-Workshop Entra ID (AAD) gegen Angriffe absichern"
-    },
-    {
-      "title": "Mysteriös: Malware zerstört Tausende Router pro Stunde",
-      "teaser": "In nur 72 Stunden ging beim US-Provider Windstream die Hälfte aller Kunden offline. Hunderttausende Router mussten ausgetauscht werden. Der ISP schweigt.​",
-      "url": "https://www.heise.de/news/Hunderttausende-Router-eines-US-Providers-zerstoert-9742582.html",
-      "image_title": "Von Ketten umschlossener WLAN-Router"
     },
     {
       "title": "Putin-kritische Journalisten in der EU mit Pegasus-Spyware angegriffen",
@@ -88,6 +88,12 @@
       "teaser": "Checkpoint hat ein Notfall-Sicherheitsupdate veröffentlicht. Derzeit haben Angreifer Network Security Gateways wie Quantum Maestro im Visier.",
       "url": "https://www.heise.de/news/Notfallpatch-Angreifer-attackieren-VPN-Verbindungen-von-Check-Point-Gateways-9741056.html",
       "image_title": "Ausrufezeichen im Warndreieck"
+    },
+    {
+      "title": "Operation Endgame: Großer Schlag gegen weltweite Cyberkriminalität",
+      "teaser": "Strafverfolgern aus sieben Ländern ist es gelungen, gegen diverse Botnetze vorzugehen und diese vom Netz zu nehmen.",
+      "url": "https://www.heise.de/news/Operation-Endgame-Grosser-Schlag-gegen-weltweite-Cyberkriminalitaet-9741012.html",
+      "image_title": "Emblem der \"Operation Endgame\""
     },
     {
       "title": "\"Größtes Botnet der Geschichte\" 911 S5: Verdächtiger verhaftet",
@@ -160,12 +166,6 @@
       "image_title": "Stilisiertes Bild: Suche liefert Spam und Malware"
     },
     {
-      "title": "Microsoft: Optimierungssoftware PC Manager wird Bestandteil von Windows 11",
-      "teaser": "Länger war es still um die Optimierungssoftware PC Manager von Microsoft. Jetzt wird sie Bestandteil von Windows 11.",
-      "url": "https://www.heise.de/news/Microsoft-Optimierungssoftware-PC-Manager-wird-Bestandteil-von-Windows-11-9732764.html",
-      "image_title": "Microsoft PC Manager auf Windows-Desktop"
-    },
-    {
       "title": "heise security tour 2024",
       "teaser": "Die Konferenz zum Thema IT-Security. Nutzen Sie die einzigartige Gelegenheit, sich direkt aus der ersten Reihe über die neuesten Trends, Technologien und Bedrohungen in der Welt der IT-Sicherheit zu informieren. Dieses Jahr findet die Tour in Köln, Hannover, Stuttgart und online statt.",
       "url": "https://security-tour.heise.de/?wt_mc=intern.academy.security.konf_sectour.hs_teaser.teaser.teaser"
@@ -189,6 +189,11 @@
       "image_title": "Icons der Internetbrowser Safari, Chrome, Edge und Firefox"
     },
     {
+      "title": "Re: Downloadrate bei Signaturupdate extrem langsam",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Downloadrate-bei-Signaturupdate-extrem-langsam/posting-44039773/show/"
+    },
+    {
       "title": "Re: WithSecure Lizenz-Status ungültig",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-WithSecure-Lizenz-Status-ungueltig/posting-44039525/show/"
@@ -197,11 +202,6 @@
       "title": "Keine Tastatur und Touchpad in ctdesinfect2024",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Keine-Tastatur-und-Touchpad-in-ctdesinfect2024/posting-44038607/show/"
-    },
-    {
-      "title": "Desinfect 2024 - Tastaturlayout auf Schweiz ändern",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Desinfect-2024-Tastaturlayout-auf-Schweiz-aendern/posting-44038254/show/"
     }
   ]
 }
