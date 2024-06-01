@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-06-01T05:01:11",
+  "timestamp": "2024-06-01T06:07:31",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -14,6 +14,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -98,22 +104,28 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Schuldspruch gegen Donald Trump : Das Volk ist die Jury",
-      "teaser": "Die verbreitete Freude über das Urteil gegen Donald Trump ist trügerisch: Politische Probleme lassen sich nicht von Gerichten lösen. Das gilt auch für andere Fälle.",
-      "url": "https://www.zeit.de/politik/ausland/2024-06/donald-trump-schuldspruch-politik-justiz-kommentar",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-06/donald-trump-schuldspruch-politik-justiz-kommentar-bild/wide__1000x562"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Donald Trump : Die Show muss ja weitergehen",
-      "teaser": "Der ehemalige US-Präsident ist jetzt ein verurteilter Straftäter. In New York City startet Donald Trump seinen Wahlkampf neu – der ab sofort vor allem ein Thema hat.",
-      "url": "https://www.zeit.de/politik/ausland/2024-05/donald-trump-pressekonferenz-new-york-schuldspruch",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-05/donald-trump-new-york-pressekonferenz-schuldspruch-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Inflation : Was Sie sich früher für 50 Euro leisten konnten – und was heute",
+      "teaser": "Die Inflation schlägt bei jedem Wocheneinkauf zu, aber nicht gleich stark. Wir zeigen, welcher Einkaufstyp am meisten draufzahlt. Und wie sich noch Geld sparen lässt.",
+      "url": "https://www.zeit.de/wirtschaft/2024-06/inflation-preisvergleich-wocheneinkauf-2020-2024",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-05/inflation-preisvergleich-wocheneinkauf-2020-2024-teaser/wide__1000x562"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Süddeutschland : Behörden warnen regional vor Jahrhunderthochwasser",
       "teaser": "In Teilen Bayerns und Baden-Württembergs herrscht akute Hochwassergefahr. 1.300 Menschen wird geraten, ihre Häuser zu verlassen. In Günzburg gilt der Katastrophenfall.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-05/regen-hochwasser-bayern-baden-wuerttemberg-evakuierungen",
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-05/regen-hochwasser-bayern-baden-wuerttemberg-evakuierungen-bild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Schuldspruch gegen Donald Trump : Das Volk ist die Jury",
+      "teaser": "Die verbreitete Freude über das Urteil gegen Donald Trump ist trügerisch: Politische Probleme lassen sich nicht von Gerichten lösen. Das gilt auch für andere Fälle.",
+      "url": "https://www.zeit.de/politik/ausland/2024-06/donald-trump-schuldspruch-politik-justiz-kommentar",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-06/donald-trump-schuldspruch-politik-justiz-kommentar-bild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Donald Trump : Die Show muss ja weitergehen",
+      "teaser": "Der ehemalige US-Präsident ist jetzt ein verurteilter Straftäter. In New York City startet Donald Trump seinen Wahlkampf neu – der ab sofort vor allem ein Thema hat.",
+      "url": "https://www.zeit.de/politik/ausland/2024-05/donald-trump-pressekonferenz-new-york-schuldspruch",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-05/donald-trump-new-york-pressekonferenz-schuldspruch-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Angriff in Mannheim : Ein Messerangriff und eine folgenschwere Verwechslung",
@@ -126,12 +138,6 @@
       "teaser": "International findet Israels Vorschlag für eine Waffenruhe lobende Worte. Deutschlands Außenministerin spricht von einem \"Hoffnungsschimmer\". Die Hamas ist zurückhaltend.",
       "url": "https://www.zeit.de/politik/ausland/2024-06/israel-vorschlag-waffenruhe-reaktionen-annalena-baerbock",
       "image_url": "https://img.zeit.de/politik/ausland/2024-06/israel-vorschlag-waffenruhe-annalena-baerbock-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Nachrichtenpodcast : Die Ukraine darf auf russischen Boden schießen",
-      "teaser": "Olaf Scholz erlaubt der Ukraine, deutsche Waffen gegen Ziele in Russland einzusetzen. Woher kommt die Kehrtwende? Und: Warum regnet es gerade so viel?",
-      "url": "https://www.zeit.de/politik/2024-05/deutsche-waffen-ukraine-krieg-russland-regen-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Toni Kroos : Mit Abstand der beste Deutsche",
@@ -152,16 +158,22 @@
       "image_url": "https://img.zeit.de/wissen/2024-04/blutzucker-trend-glukose-cgm-glucose-goddess-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Care-Arbeit • Das Beste aus Z+ : Wer macht mehr im Haushalt?",
-      "teaser": "Finanzen, Kinder, Reparaturen: Ist die Care-Arbeit bei Ihnen zu Hause wirklich gerecht verteilt? Hier können Sie es ausrechnen – und sich mit Ihrem Partner vergleichen.",
-      "url": "https://www.zeit.de/zeit-magazin/familie/2024-05/care-arbeit-rechner-partner-test",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-05/care-arbeit-teaser/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Russlanddeutsche Erziehung • Z+ Empfehlung : Gehorsam ist ein giftiges Erbe",
+      "teaser": "Dreißig Jahre lang waren sie beste Freundinnen, doch mit den Kindern kam der Bruch: weil Erziehungsmethoden immer verraten, wo man herkommt – und wo man hingeht.",
+      "url": "https://www.zeit.de/zeit-magazin/familie/2024-05/russlanddeutsche-erziehung-kinder-muetter-sowjetunion-erziehungsstil",
+      "image_url": "https://img.zeit.de/zeit-magazin/familie/2024-05/russlanddeutsche-erziehung-kinder-muetter-sowjetunion/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Bundeswehr : Strack-Zimmermann fordert Aktivierung von 900.000 Reservisten",
       "teaser": "\"Putin trimmt sein Volk auf Krieg\", warnt die Vorsitzende des Verteidigungsausschusses. Aus ihrer Sicht sollte Deutschland Reservisten mobilisieren.",
       "url": "https://www.zeit.de/politik/ausland/2024-06/strack-zimmermann-bundeswehr-reservisten-aktivierung",
       "image_url": "https://img.zeit.de/politik/ausland/2024-06/bundeswehr-soldaten-reservisten-strack-zimmermann/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Nachrichtenpodcast : Die Ukraine darf auf russischen Boden schießen",
+      "teaser": "Olaf Scholz erlaubt der Ukraine, deutsche Waffen gegen Ziele in Russland einzusetzen. Woher kommt die Kehrtwende? Und: Warum regnet es gerade so viel?",
+      "url": "https://www.zeit.de/politik/2024-05/deutsche-waffen-ukraine-krieg-russland-regen-nachrichtenpodcast",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__430x286"
     },
     {
       "title": "Ausgabe 22/2024 : Warmspielen. Willkommen im Wochenende.",
@@ -224,6 +236,18 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-05/jekaterina-dunzowa-russland/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Georgine Kellermann : \"Sei du selbst. Und sei es kompromisslos\"",
+      "teaser": "Über 60 Jahre lang hat Georgine Kellermann eine Rolle gespielt – als Mann, der sie nie war. Sie hat sich daraus befreit und steht heute zu ihrer Identität als trans Frau.",
+      "url": "https://www.zeit.de/2024/24/georgine-kellermann-transsexualitaet-selbstbestimmung-frust",
+      "image_url": "https://img.zeit.de/2024/24/georgine-kellermann-transsexualitaet-selbstbestimmung-frust-teaserbild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Care-Arbeit • Das Beste aus Z+ : Wer macht mehr im Haushalt?",
+      "teaser": "Finanzen, Kinder, Reparaturen: Ist die Care-Arbeit bei Ihnen zu Hause wirklich gerecht verteilt? Hier können Sie es ausrechnen – und sich mit Ihrem Partner vergleichen.",
+      "url": "https://www.zeit.de/zeit-magazin/familie/2024-05/care-arbeit-rechner-partner-test",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-05/care-arbeit-teaser/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Küchenschaben : Der Aufstieg der Kakerlake",
       "teaser": "Sie vernichtet Vorräte und macht Menschen krank: Trotzdem krabbelt die Deutsche Schabe durch Küchen aller Kontinente. Eine Studie zeigt, wie sie den Globus erobert hat.",
       "url": "https://www.zeit.de/wissen/2024-05/kuechenschaben-kakerlake-deutschland-studie-schaedlinge",
@@ -248,10 +272,10 @@
       "image_url": "https://img.zeit.de/zeit-magazin/2024-05/zwe-beziehungen-fremdgehen-liebe-meines-lebens-illustration/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Georgine Kellermann : \"Sei du selbst. Und sei es kompromisslos\"",
-      "teaser": "Über 60 Jahre lang hat Georgine Kellermann eine Rolle gespielt – als Mann, der sie nie war. Sie hat sich daraus befreit und steht heute zu ihrer Identität als trans Frau.",
-      "url": "https://www.zeit.de/2024/24/georgine-kellermann-transsexualitaet-selbstbestimmung-frust",
-      "image_url": "https://img.zeit.de/2024/24/georgine-kellermann-transsexualitaet-selbstbestimmung-frust-teaserbild/wide__892x501"
+      "title": "Z+ (abopflichtiger Inhalt); Mannheim : Polizist schwebt nach Messerangriff in Mannheim weiter in Lebensgefahr",
+      "teaser": "Beim Angriff auf den Islamkritiker Michael Stürzenberger in Mannheim wurde ein Polizist schwer verletzt. Der Täter ist laut LKA derzeit nicht vernehmungsfähig.",
+      "url": "https://www.zeit.de/gesellschaft/2024-06/mannheim-messerangriff-islamkritiker-polizist-lebensgefahr",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-06/mannheim-messerangriff-polizist-lebensgefahr/super__320x213"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Yasmin Fahimi : DGB-Chefin warnt vor abnehmender Akzeptanz für Klima-Transformation",
@@ -294,12 +318,6 @@
       "teaser": "Zehn Stunden nach dem Geschworenenurteil sollen 39 Millionen Dollar in Donald Trumps Wahlkampfkasse eingegangen sein. Größtenteils soll es sich um Kleinspenden handeln.",
       "url": "https://www.zeit.de/politik/ausland/2024-05/donald-trump-urteil-wahlkampf-spenden",
       "image_url": "https://img.zeit.de/politik/ausland/2024-05/donald-trump-verurteilung-schweigegeldprozess-millionen-wahlkampfspende-bild/super__320x213"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Messerattacke in Mannheim : Staatsschutz ermittelt nach Angriff auf islamfeindlichen Aktivisten",
-      "teaser": "Nach dem Angriff in Mannheim hat der Staatsschutz die Ermittlungen übernommen. Mannheims Oberbürgermeister sprach von einer \"niederträchtigen, brutalen Terrorattacke\".",
-      "url": "https://www.zeit.de/gesellschaft/2024-05/mannheim-messerangriff-pax-europa-staatsschutz-ermittlungen",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-05/mannheim-messerangriff-pax-europa-staatsschutz-ermittlungen-bild-2/super__320x213"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); EM 2012 : Als Mario Balotelli zum Meme wurde",
@@ -355,9 +373,9 @@
       "url": "https://www.zeit.de/politik/deutschland/2024-05/bundesregierung-erlaubt-ukraine-waffeneinsatz-gegen-ziele-in-russland"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Europawahl-Kandidaten im ZDF : Die Hauptsache wurde vergessen",
-      "teaser": "Das ZDF hat die Spitzenkandidaten für die Europawahl zur Diskussion geladen. Das Ergebnis ist kurzweilig, aber auch ein Ärgernis. Vor allem der Umgang mit der AfD.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-05/europawahl-2024-tv-kritik-zdf-kandidatenrunde"
+      "title": "Z+ (abopflichtiger Inhalt); Angriff in Mannheim : Ein Messerangriff und eine folgenschwere Verwechslung",
+      "teaser": "In Mannheim hat ein Mann auf den Islamkritiker Michael Stürzenberger eingestochen. Der Täter war nach Informationen von ZEIT ONLINE nicht als Extremist bekannt.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-05/angriff-mannheim-koerperverletzung-messer-islam-faq"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Ukraine-Krieg : Bundesregierung erlaubt Ukraine Einsatz deutscher Waffen in Russland",
@@ -598,16 +616,16 @@
       "image_url": "https://img.zeit.de/sport/2024-05/bvb-podcast/super__320x213"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Messerattacke in Mannheim : Staatsschutz ermittelt nach Angriff auf islamfeindlichen Aktivisten",
+      "teaser": "Nach dem Angriff in Mannheim hat der Staatsschutz die Ermittlungen übernommen. Mannheims Oberbürgermeister sprach von einer \"niederträchtigen, brutalen Terrorattacke\".",
+      "url": "https://www.zeit.de/gesellschaft/2024-05/mannheim-messerangriff-pax-europa-staatsschutz-ermittlungen",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-05/mannheim-messerangriff-pax-europa-staatsschutz-ermittlungen-bild-2/wide__892x501"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Einreiseverbot : Rechtsextremist Sellner darf vorläufig doch einreisen",
       "teaser": "Ein Gericht hat das Einreiseverbot gegen den österreichischen Rechtsextremisten Martin Sellner fürs Erste aufgehoben. Eine Gefährdung sei nicht hinreichend belegt worden.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-05/martin-sellner-bundesweites-einreiseverbot-aufgehoben",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-05/martin-sellner-bundesweites-einreiseverbot-aufgehoben-bild/wide__892x501"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Olympische Spiele : Französische Sicherheitskräfte fassen vor Olympia Terrorverdächtigen",
-      "teaser": "Ein 18-Jähriger soll einen Anschlag auf ein Stadion während der Olympischen Spiele geplant haben. Offenbar war der Festgenommene islamistisch motiviert.",
-      "url": "https://www.zeit.de/politik/ausland/2024-05/frankreich-olympische-spiele-terror-verdaechtiger-festnahme",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-05/frankreich-olympische-spiele-terror-verdaechtiger-festnahme-bild/super__430x286"
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-05/martin-sellner-bundesweites-einreiseverbot-aufgehoben-bild/super__430x286"
     },
     {
       "title": "Verlagsangebot : In drei Wochen zur besseren Rede",
@@ -950,6 +968,10 @@
       "image_url": "https://img.zeit.de/newsletter/podcast-festival/podcast-newsletter-titelbild/super__430x286"
     },
     {
+      "title": "Fotografie: Bilder des Tages",
+      "url": "https://www.zeit.de/news/2024-06/01/bilder-des-tages"
+    },
+    {
       "title": "Russische Invasion: Krieg gegen die Ukraine: So ist die Lage",
       "url": "https://www.zeit.de/news/2024-06/01/krieg-gegen-die-ukraine-so-ist-die-lage"
     },
@@ -976,10 +998,6 @@
     {
       "title": "Wahlkampfveranstaltung: Baerbock und Nouripour verurteilen Mannheimer Messerangriff",
       "url": "https://www.zeit.de/news/2024-05/31/baerbock-und-nouripour-verurteilen-mannheimer-messerangriff"
-    },
-    {
-      "title": "Eisenbahnmarkt: Hitachi übernimmt Bahntechnik-Sparte von Thales",
-      "url": "https://www.zeit.de/news/2024-05/31/hitachi-uebernimmt-bahntechnik-sparte-von-thales"
     }
   ]
 }
