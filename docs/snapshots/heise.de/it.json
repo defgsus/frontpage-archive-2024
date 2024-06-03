@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-06-03T11:01:05",
+  "timestamp": "2024-06-03T12:11:12",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,7 +26,12 @@
   ],
   "articles": [
     {
-      "title": "Studie zu den USA: Ältere Frauen verbreiten besonders viel Desinformation",
+      "title": "AMD Ryzen 9000: Mehr Performance durch Zen-5-Architektur bei maximal 16 Kernen",
+      "teaser": "​CPUs mit Zen-5-Architektur sollen 16 Prozent schneller als Zen 4 rechnen. Zum Start im Juli gibt es vier Ryzen-9000-Prozessoren mit 6 bis 16 Kernen.",
+      "url": "https://www.heise.de/news/AMD-Ryzen-9000-Zen-5-Prozessoren-fuer-starke-Desktop-Rechner-9743615.html"
+    },
+    {
+      "title": "US-Studie: Unter \"Supersharern\" von Desinformation besonders viele ältere Frauen",
       "teaser": "Eine Analyse von 660.000 Accounts auf X bestätigt, dass extrem wenige Accounts die meisten Fake News verbreiten. Sie zeigt nun auch, um wen es sich handelt.",
       "url": "https://www.heise.de/news/Studie-zu-den-USA-Aeltere-Frauen-verbreiten-besonders-viel-Desinformation-9742674.html",
       "image_title": "Ärgerliche Seniorin an einem Laptop"
@@ -36,12 +41,6 @@
       "teaser": "Palantir und US-Army kooperieren für das Maven Smart System. Das KI-System sorgt im Nahen Osten bereits für beschleunigte Entscheidungsfindung.",
       "url": "https://www.heise.de/news/Maven-US-Armee-vergibt-weiteren-millionenschweren-Auftrag-an-Palantir-9741168.html",
       "image_title": "Palantir-Logo"
-    },
-    {
-      "title": "Dokumentation: Interview zu \"Watching You – Die Welt von Palantir und Alex Karp\"",
-      "teaser": "Die Firma Palantir ist genauso umstritten wie undurchsichtig. In einem Film skizziert Regisseur Klaus Stern die Pläne und Verbindungen des CEOs.",
-      "url": "https://www.heise.de/hintergrund/Interview-Der-Regisseur-zu-Watching-You-Die-Welt-von-Palantir-und-Alex-Karp-9740576.html",
-      "image_title": "Alex Karp am Rauchen einer Zigarre."
     },
     {
       "title": "Projekt: Wie ein Erlenmeyerkolben zur Fake-Kathodenstrahlröhre wird",
@@ -56,12 +55,30 @@
       "image_title": ","
     },
     {
+      "title": "Last Call zur Mastering Observability: Softwaresysteme im Griff behalten",
+      "teaser": "Die neue Online-Konferenz zeigt, wie sich in Softwaresystemen Anwendungsverfügbarkeit sichern, Leistung steigern und Probleme lösen lassen.",
+      "url": "https://www.heise.de/news/Last-Call-zur-Mastering-Observability-Softwaresysteme-im-Griff-behalten-9744936.html",
+      "image_title": "Mastering GitOps 2023"
+    },
+    {
+      "title": "AMD Instinct MI: jährlich neue Produkte, MI325X dieses Jahr gegen Nvidias Hopper",
+      "teaser": "Kaum auf dem Markt, steht das Upgrade in den Startlöchern: AMDs Instinct MI325X liefert mehr und schnelleren Speicher für riesige KI-Modelle in Rechenzentren.",
+      "url": "https://www.heise.de/news/AMD-Instinct-MI-jaehrlich-neue-Produkte-MI325X-dieses-Jahr-gegen-Nvidias-Hopper-9745395.html",
+      "image_title": "AMDs Vorstellung der Instinct MI325X"
+    },
+    {
+      "title": "Das Fediverse wächst: Nach Threads auch Bluesky mit Mastodon verknüpfbar",
+      "teaser": "Erste Threads-Accounts können für Mastodon geöffnet werden, nun geht das – sogar in beide Richtungen – auch mit Bluesky. Das ermöglicht interessante Szenarien.",
+      "url": "https://www.heise.de/news/Das-Fediverse-waechst-Nach-Threads-auch-Bluesky-mit-Mastodon-verknuepfbar-9745340.html",
+      "image_title": "Zwei Hände halten Smartphone, im Vordergrund Linien als Symbol für soziale Verbindungen"
+    },
+    {
       "title": "Sicherheitsupdate: Schadcode-Attacken auf Autodesk AutoCAD möglich",
       "teaser": "Die CAD-Softwares Advance Steel, Civil 3D und AutoCAD von Autodesk sind verwundbar. Das Sicherheitsrisiko gilt als hoch.",
       "url": "https://www.heise.de/news/Sicherheitsupdate-Schadcode-Attacken-auf-Autodesk-AutoCAD-moeglich-9745419.html"
     },
     {
-      "title": "AMD: AM5-Plattform hält bis mindestens 2027",
+      "title": "AMD verspricht neue AM5-Prozessoren bis mindestens 2027",
       "teaser": "AMD lässt sich auf ein erneutes Langlebigkeits-Versprechen für AM5-Mainboards ein. Für AM4 kommen jetzt noch neue Prozessoren.",
       "url": "https://www.heise.de/news/AMD-AM5-Plattform-haelt-bis-mindestens-2027-9745415.html",
       "image_title": "Ryzen 7000 Prozessor im Mainboard"
@@ -73,7 +90,7 @@
       "image_title": "AirDrop auf dem Mac"
     },
     {
-      "title": "Das sind die akuten Gefahren durch Open-Source-KI-Systeme",
+      "title": "Interview: KI wird erstmal viele Menschen unglücklich machen",
       "teaser": "Bei Technik bekommt man immer beide Seiten der Medaille. Bei KI gilt es daher, sich gegen Deepfakes und generierte Malware abzusichern. Ein Interview.",
       "url": "https://www.heise.de/hintergrund/Das-sind-die-akuten-Gefahren-durch-Open-Source-KI-Systeme-9745227.html"
     },
@@ -123,22 +140,6 @@
       "title": "Last Minute: heise Security Tour 2024 online und Stuttgart",
       "teaser": "Die Konferenz von heise Security vermittelt praxisrelevantes Wissen zu aktuellen Security-Themen – 100% unabhängig. Nächsten Mittwoch ist der Online-Termin.",
       "url": "https://www.heise.de/news/Last-Minute-heise-Security-Tour-2024-online-und-Stuttgart-9743365.html"
-    },
-    {
-      "title": "Ryzen AI 300: AMD schießt gegen Apple, Intel und Qualcomm",
-      "teaser": "AMDs Zen-5-Prozessoren für Notebooks sollen die versammelte Konkurrenz schlagen. Fragwürdig sind allerdings die CPU-Namen.",
-      "url": "https://www.heise.de/news/Ryzen-AI-300-AMD-schiesst-gegen-Apple-Intel-und-Qualcomm-9744643.html"
-    },
-    {
-      "title": "AMD Ryzen 9000: Mehr Performance durch Zen-5-Architektur bei maximal 16 Kernen",
-      "teaser": "​CPUs mit Zen-5-Architektur sollen 16 Prozent schneller als Zen 4 rechnen. Zum Start im Juli gibt es vier Ryzen-9000-Prozessoren mit 6 bis 16 Kernen.",
-      "url": "https://www.heise.de/news/AMD-Ryzen-9000-Zen-5-Prozessoren-fuer-starke-Desktop-Rechner-9743615.html"
-    },
-    {
-      "title": "Die besten Radar-Präsenzmelder im Test – Beleuchtung präzise steuern",
-      "teaser": "Radargestützte Präsenzmelder bieten anders als PIR-Bewegungsmelder eine zuverlässige Steuerung der Beleuchtung. Jetzt gibt es auch ein erstes batteriebetriebenes Modell.",
-      "url": "https://www.techstage.de/bestenliste/die-besten-radar-praesenzmelder-im-test-beleuchtung-praezise-steuern/p8kb2wz?wt_mc=intern.red.techstage.newsticker.rubrikstart.teaser.teaser",
-      "image_title": "##PHxVALUE_ALT_TEXT##"
     },
     {
       "title": "Low-Code ist nicht immer gleich Low-Code.",
