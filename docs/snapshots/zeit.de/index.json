@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-06-03T03:07:43",
+  "timestamp": "2024-06-03T04:09:28",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -14,6 +14,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -98,10 +104,16 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Liveblog:Hochwasser : Menschen an der Fils in Häusern eingeschlossen",
-      "teaser": "Östlich von Stuttgart sind Wohngebiete in mehreren Orten von Überflutungen betroffen. Der Deutsche Wetterdienst hat Unwetterwarnungen aufgehoben. Das Liveblog",
+      "title": "Z+ (abopflichtiger Inhalt); Hochwasser in Deutschland : Hochwasser verlagert sich auf die Donau, Menschen eingeschlossen",
+      "teaser": "Der DWD warnt am Morgen nicht mehr vor schweren Gewittern. In einigen Orten sind Menschen in Häusern eingeschlossen. Der Bahnverkehr bleibt gestört. Das war die Nacht.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-06/hochwasser-unwetter-sueddeutschland-brandenburg-wetterdienst-lage-nacht",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-06/hochwasser-unwetter-sueddeutschland-brandenburg-wetterdienst-lage-bild/wide__1000x562"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Liveblog:Hochwasser : Gemeinden bereiten Anwohner auf Evakuierungen vor",
+      "teaser": "Im Ostalbkreis und in Ebersbach an der Fils müssen Menschen ihre Häuser verlassen. Esslingen baut einen provisorischen Damm, um Überflutungen zu verhindern. Das Liveblog",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-06/hochwasser-unwetter-regen-live",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-06/hochwasser-unwetter-regen-fils-live-bild/wide__1000x562"
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-06/hochwasser-unwetter-regen-fils-live-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Hochwasser in Süddeutschland : Trauer, aber auch ein bisschen Gummistiefel-Politik",
@@ -110,46 +122,28 @@
       "image_url": "https://img.zeit.de/gesellschaft/2024-06/pfaffenhofen-hochwasser-sueddeutschland-7/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Überflutungen im Süden : So ist die Hochwasserlage in Deutschland",
-      "teaser": "Der Dauerregen lässt nach, doch in Pfaffenhofen ist ein Deich gebrochen. Meteorologen und Hydrologinnen erklären, wie sich die Lage in Süddeutschland entwickelt.",
-      "url": "https://www.zeit.de/wissen/2024-06/hochwasser-gebiete-deutschland-unwetter-regen-karten",
-      "image_url": "https://img.zeit.de/wissen/2024-06/hochwasser-gebiete-deutschland-unwetter-regen-karten-teaser/super__430x286"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Extremwetter : Bahnverkehr im Süden durch Hochwasser weiter stark eingeschränkt",
       "teaser": "Die Deutsche Bahn rät von Reisen in die Hochwassergebiete in Bayern und Baden-Württemberg ab. Der Fernverkehr kann München aus dem Norden und Westen nicht anfahren.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-06/unwetter-bahnverkehr-sueddeutschland-eingeschraenkt",
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-06/unwetter-hochwasser-bahnverkehr-sueddeutschland-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Mannheim : Verletzter Polizist nach Messerangriff gestorben",
-      "teaser": "Zwei Tage nach dem Angriff bei einer islamfeindlichen Veranstaltung ist der Beamte seinen Verletzungen erlegen. Das Motiv des mutmaßlichen Täters ist weiter unklar.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-06/polizist-nach-messerangriff-in-mannheim-gestorben",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-06/polizist-nach-messerangriff-in-mannheim-gestorben-bild-2/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Nachrichtenpodcast : Was hilft gegen die \"Hochwasserdemenz\"?",
+      "teaser": "Nach den Überschwemmungen vom Wochenende: Wie steht es um den Hochwasserschutz in Deutschland? Und: Wie ein EU-Gesetz das Urlauben günstiger machen könnte.",
+      "url": "https://www.zeit.de/politik/2024-06/hochwasserschutz-ueberschwemmung-bayern-nachrichtenpodcast",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Geiseln der Hamas : Sie erlaubt sich keine Schwäche, keine Wut",
-      "teaser": "Idit Ohels Sohn wird seit acht Monaten als Geisel in Gaza festgehalten. Die Kraft durchzuhalten schöpft sie auch aus ihrer besonderen Familiengeschichte.",
-      "url": "https://www.zeit.de/politik/ausland/2024-05/geiseln-hamas-angehoerige-gaza-auschwitz-hoffnung-nahost",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-05/israel-geisel-verhandlung-idit-ohel-bild-2/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Präsidentschaftswahl in Mexiko : Regierungskandidatin Claudia Sheinbaum laut Prognosen vorn",
+      "teaser": "Laut Medienberichten und der Regierungspartei hat Claudia Sheinbaum als erste Frau die Präsidentschaftswahl in Mexiko gewonnen. Das amtliche Endergebnis steht noch aus.",
+      "url": "https://www.zeit.de/politik/ausland/2024-06/mexiko-praesidentschaftswahl-siegerin-claudia-sheinbaum",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-06/mexiko-praesidentschaftswahl-claudia-sheinbaum-siegerin-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Israel : Ultraorthodoxe protestieren gegen Wehrpflicht",
-      "teaser": "Auch ultraorthodoxe Männer sollen wehrpflichtig werden. Während Israels höchstes Gericht die Ausnahmeregelung prüfte, demonstrierten Männer mit einer Straßenblockade.",
-      "url": "https://www.zeit.de/politik/ausland/2024-06/israel-wehrpflicht-ultraorthodoxe-protest-hoechstes-gericht",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-06/israel-wehrpflicht-ultraorthodoxe-protest-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Ashoka Mody : \"Viele haben weniger als 100 Euro im Monat\"",
-      "teaser": "Indien feiert sich als nächste große Wirtschaftsmacht. Der Ökonom Ashoka Mody aber sieht darin nichts anderes als ein Wunschdenken des Westens.",
-      "url": "https://www.zeit.de/2024/24/ashoka-mody-indien-wirtschaftsmacht-wunsch-westen",
-      "image_url": "https://img.zeit.de/2024/24/viele-haben-weniger-als-100-euro-im-monat-bild-1/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Plan D: Drogensucht : Zwei neue Leben",
-      "teaser": "Andi ist heroinabhängig und lebt seit 20 Jahren auf der Straße. Dann macht ein Fremder ihm ein Angebot, das die Leben beider Männer auf den Kopf stellt.",
-      "url": "https://www.zeit.de/gesellschaft/2024-05/obdachlosigkeit-drogensucht-lebensveraenderung-was-jetzt-pland",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-05/obdachlosigkeit-drogensucht-lebensveraenderung-was-jetzt-pland-bild/wide__892x501"
+      "title": "Z+ (abopflichtiger Inhalt); Wirtschaftskrise : Es reicht!",
+      "teaser": "Die faulen Deutschen ruinieren die Wirtschaft? Von wegen! Unser Autor will sich solche Vorwürfe nicht gefallen lassen.",
+      "url": "https://www.zeit.de/2024/24/wirtschaftskrise-faulheit-arbeitskraefte-deutschland-leistung",
+      "image_url": "https://img.zeit.de/2024/24/wirtschaftskrise-faulheit-arbeitskraefte-deutschland-leistung-teaserbild/wide__892x501"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Inflation • Das Beste aus Z+ : Was Sie sich früher für 50 Euro leisten konnten – und was heute",
@@ -158,45 +152,11 @@
       "image_url": "https://img.zeit.de/wirtschaft/2024-05/inflation-preisvergleich-wocheneinkauf-2020-2024-teaser/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Ulrich Neymeyr : \"Die Predigt ist nicht dazu da, politische Meinungen zu äußern\"",
-      "teaser": "Wie soll die Kirche mit AfD-Anhängern in den eigenen Reihen umgehen? Erfurts Bischof Ulrich Neymeyr erklärt, was man von Jesus für diese Auseinandersetzung lernen kann.",
-      "url": "https://www.zeit.de/2024/24/ulrich-neymeyr-afd-katholische-kirche-bjoern-hoecke-erfurt",
-      "image_url": "https://img.zeit.de/2024/24/die-predigt-ist-nicht-dazu-da-politische-meinungen-zu-aeussern-bild-1/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Unwetter : 18 Verletze nach Blitzschlag im Norden Tschechiens",
-      "teaser": "Bei einem Kinderfest im Schloßpark Liberec wurden neun Erwachsene und neun Kinder vom Blitz getroffen. In anderen Regionen Tschechiens sorgten Unwetter für Erdrutsche.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-06/unwetter-tschechien-blitzschlag-verletzte-liberec"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Umfrage über Rassismus : Die Umfrage ist nicht das eigentliche Problem",
-      "teaser": "Mehr weiße Nationalspieler? Joshua Kimmich verurteilt eine ARD-Umfrage als rassistisch. Er hat gute Argumente. Wirklich problematisch aber ist, was die Antworten zeigen.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-06/umfrage-rassismus-ard-nationalmannschaft-joshua-kimmich-fussball",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-06/umfrage-rassismus-ard-nationalmannschaft-joshua-kimmich-fussball-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Abhängigkeit von Handys : Warum wir nicht von Smartphones träumen",
-      "teaser": "Trotz stundenlangen Scrollens spielen Smartphones in Träumen kaum eine Rolle. Alles gut also? Nein, die Abwesenheit spricht sogar eher für unsere Abhängigkeit von ihnen.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2024-06/traeumen-von-smartphones-abhaengingkeit-handy",
-      "image_url": "https://img.zeit.de/zeit-magazin/leben/2024-05/traeumen-von-smartphones-abhaengingkeit-handy-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Pflege : \"Wird das Spaß machen, wenn wir alt sind? Ich fürchte: Nein.\"",
-      "teaser": "Laut dem Wirtschaftsweisen Martin Werding ist die Ampel beim Thema Pflegenotstand \"relativ taub\". Hier erklärt er, was passieren muss, um das Schlimmste zu verhindern.",
-      "url": "https://www.zeit.de/politik/2024-05/pflege-notstand-karl-lauterbach-politikpodcast",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-05/pflege-notstand-karl-lauterbach-politikpodcast-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Schlaf bei Kindern : Können Eltern das Schlafverhalten ihrer Kinder beeinflussen?",
-      "teaser": "Schlechte Nächte können Eltern verzweifeln lassen. Der Kinderarzt Jörg Dötsch erklärt die Grundlagen des Babyschlafs – und wie man erkennt, warum das Kind wach wird.",
-      "url": "https://www.zeit.de/familie/2024-05/schlaf-kinder-eltern-kinderarzt-probleme-familienrat",
-      "image_url": "https://img.zeit.de/familie/2024-06/schlaf-kinder-eltern-kinderarzt-probleme-bild/wide__892x501"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Unvernünftigkeit : Einsicht lässt sich nicht verordnen",
-      "teaser": "Unvernünftig sind immer nur die anderen: fliegen, fahren SUV, glauben Trump. Doch nicht die Unvernunft ist das Problem unserer Zeit, sondern die Krise der Vernunft.",
-      "url": "https://www.zeit.de/2024/24/unvernuenftigkeit-entscheidungen-leichtsinn-regeln",
-      "image_url": "https://img.zeit.de/2024/24/unvernuenftigkeit-entscheidungen-leichtsinn-regeln-teaserbild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Airbnb : Sieben Tipps, wie Sie bessere Unterkünfte finden",
+      "teaser": "Ja, Airbnb ist schlimm. Und für viele Reisende gleichzeitig unverzichtbar. Wir sagen, wie man gute Unterkünfte findet, Enttäuschungen vermeidet und Betrug erkennt.",
+      "url": "https://www.zeit.de/digital/internet/2024-05/airbnb-tipps-urlaub-unterkunft-buchung-reise",
+      "image_url": "https://img.zeit.de/digital/internet/2024-05/airbnb-new-orleans/square__500x500",
+      "image_title": "Airbnb in New Orleans. Jetzt müsste man nur noch Gitarre spielen können."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Hochbegabung • Das Beste aus Z+ : Ich bin hochbegabt – im Job war das eine Belastung",
@@ -205,88 +165,22 @@
       "image_url": "https://img.zeit.de/arbeit/2024-05/hochbegabung-motivation-reizueberflutung/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Weibliche Masturbation : Handarbeit ist Frauensache",
-      "teaser": "Wichsen ist Popkultur, weibliche Masturbation ein Tabu. Das ist nicht nur Zeichen einer ungerechten Gesellschaft, sondern eine Frage der Gesundheit.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2024-05/weibliche-masturbation-gesundheit-aufklaerung",
-      "image_url": "https://img.zeit.de/zeit-magazin/leben/2024-05/weibliche-masturbation-gesundheit-aufklaerung-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Schlaf bei Kindern : Können Eltern das Schlafverhalten ihrer Kinder beeinflussen?",
+      "teaser": "Schlechte Nächte können Eltern verzweifeln lassen. Der Kinderarzt Jörg Dötsch erklärt die Grundlagen des Babyschlafs – und wie man erkennt, warum das Kind wach wird.",
+      "url": "https://www.zeit.de/familie/2024-05/schlaf-kinder-eltern-kinderarzt-probleme-familienrat",
+      "image_url": "https://img.zeit.de/familie/2024-06/schlaf-kinder-eltern-kinderarzt-probleme-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Musikgeschmack der Jugend : Der Song meines Lebens",
-      "teaser": "Der Musikgeschmack wird in den Teenagerjahren geformt. Hier sind 15 Songs aus unserer Redaktion, die sich ins Herz schlichen, bevor die Coolness dazwischenkamen.",
-      "url": "https://www.zeit.de/zeit-magazin/unterhaltung/2024-05/musikgeschmack-jugend-erinnerung-teenager-gefuehl",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-05/musik-jugend-teenager-popmusik-leben-teaser/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Plan D: Drogensucht : Zwei neue Leben",
+      "teaser": "Andi ist heroinabhängig und lebt seit 20 Jahren auf der Straße. Dann macht ein Fremder ihm ein Angebot, das die Leben beider Männer auf den Kopf stellt.",
+      "url": "https://www.zeit.de/gesellschaft/2024-05/obdachlosigkeit-drogensucht-lebensveraenderung-was-jetzt-pland",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-05/obdachlosigkeit-drogensucht-lebensveraenderung-was-jetzt-pland-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Einsamkeit : Lasst mich in Ruhe!",
-      "teaser": "Die Bundesregierung plant eine Kampagne gegen Einsamkeit. Aber wohin führt das? Fröhlichkeit sollte keine Bürgerpflicht, Geselligkeit nicht Staatsräson sein.",
-      "url": "https://www.zeit.de/kultur/2024-06/einsamkeit-kampagne-bundesregierung-emotionen-mentale-gesundheit",
-      "image_url": "https://img.zeit.de/kultur/2024-06/einsamkeit-kampagne-bundesregierung-emotionen-mentale/super__430x286"
-    },
-    {
-      "title": "Ausgabe 22/2024 : Warmspielen. Willkommen im Wochenende.",
-      "teaser": "Blumen für ein Jahr, Freunde fürs Leben und undiplomatische Diplomaten",
-      "url": "https://www.zeit.de/wochenende/2024/22",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-05/zwe-2024-22-hero-04/wide__892x501"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Freundschaft : Ziemlich überschätzte Freunde",
-      "teaser": "Wer viele Freunde hat, wird bewundert. Aber wie viele Freunde brauchen wir eigentlich wirklich? Vielleicht genügen ja zwei fürs Leben.",
-      "url": "https://www.zeit.de/zeit-magazin/2024/24/freundschaft-bindung-familie-menge",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024/24/freunde-es-reicht-bild-1/wide__892x501"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Afghanistan : Ein Leben in der Warteschleife",
-      "teaser": "Vor drei Jahren kamen afghanische Ortskräfte mit ihren Familien nach Reutlingen. Angekommen sind sie bislang nicht. Gerade Frauen haben Schwierigkeiten mit der Freiheit.",
-      "url": "https://www.zeit.de/2024/24/afghanistan-taliban-flucht-integration-deutschland",
-      "image_url": "https://img.zeit.de/2024/24/in-der-warteschleife-bild-1/wide__892x501"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Sylt-Video : Döp-dö-dö-dö, döp-dö-dö-dö, döp-dö-dö-dö-dö-dö",
-      "teaser": "Der Ohrwurm, gerade der politisch inkorrekte, ist keine innere Party, sondern eine Heimsuchung. Trotzdem kann man sogar damit noch etwas anfangen.",
-      "url": "https://www.zeit.de/kultur/2024-05/sylt-video-rassismus-vorfall-erkenntnis",
-      "image_url": "https://img.zeit.de/kultur/2024-05/sylt-video-rassismus-vorfall-erkenntnis-bild/wide__892x501"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Fitnessübung : Das Rudern im Stütz",
-      "teaser": "Sieht einfach aus, ist es aber nicht: Unsere Übung der Woche stärkt Ihren Core, also die Mitte Ihres Körpers. Genau da brauchen Sie Ihre Muskeln, um stabil zu bleiben.",
-      "url": "https://www.zeit.de/sport/2024-05/rudern-stuetz-fitnessuebung-personal-trainer",
-      "image_url": "https://img.zeit.de/sport/2024-05/rudern-stuetz-fitnessuebung-personal-trainer-06/wide__892x501"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Beziehungen : \"Da hab ich an die Tür von dieser Rita gehämmert\"",
-      "teaser": "Ein Leben lässt sich anhand der Liebesbeziehungen erzählen. Christa, Jahrgang 1944, erzählt von Sünden mit Hans, warum sie Günter verließ und wie sehr Joachim fehlt.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2024-01/beziehungen-fremdgehen-liebe-meines-lebens",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-05/zwe-beziehungen-fremdgehen-liebe-meines-lebens-illustration/wide__892x501"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Internationale Beziehungen : Ihre Exzellenz lässt's knallen",
-      "teaser": "Israels Außenminister beschimpft mehrere europäische Regierungen und ist mit dieser Art der Polterdiplomatie längst nicht allein. Mittelfristig ist das gefährlich.",
-      "url": "https://www.zeit.de/kultur/2024-05/israel-aussenpolitik-kurs-andrij-melnyk-donald-trump",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-05/wochenende-22-politisch-motiviert-bild/wide__892x501"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Brigitte Ederer : \"Das fanden viele Menschen nur noch deppert\"",
-      "teaser": "Vor 30 Jahren stimmte Österreich für den EU-Beitritt. Die SPÖ-Politikerin Brigitte Ederer hatte großen Anteil daran. Ein Gespräch über Haider, Hoffnungen und Bahntrassen",
-      "url": "https://www.zeit.de/2024/24/brigitte-ederer-eu-beitritt-spoe-transit-foederalismus",
-      "image_url": "https://img.zeit.de/2024/24/das-fanden-viele-menschen-nur-noch-deppert-bild-1/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Wahlkampf in den USA : Donald Trump startet TikTok-Account",
-      "teaser": "Während seiner Amtszeit wollte der Ex-Präsident die App noch verbieten lassen. Im Wahlkampf ändert Trump seine Meinung – und hat bereits Millionen Follower.",
-      "url": "https://www.zeit.de/politik/ausland/2024-06/tiktok-donald-trump-usa-spionage-zensur-china",
-      "image_url": "https://img.zeit.de/2024-06/donald-trump-tiktok-erstes-video-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Südafrika : ANC will nach Wahlniederlage Koalitionsgespräche führen",
-      "teaser": "Erstmals in der demokratischen Geschichte Südafrikas kann der Afrikanische Nationalkongress nicht mehr allein regieren. Präsident Ramaphosa will trotzdem im Amt bleiben.",
-      "url": "https://www.zeit.de/politik/ausland/2024-06/suedafrika-wahlergebnis-anc-regierung-koalition",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-06/wahl-suedafrika-anc-unter-druck-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Don Winslow : \"Fühlt, was ihr wollt. Aber wählt Joe Biden!\"",
-      "teaser": "Ist der Kampf gegen den amerikanischen Neofaschismus wichtiger, als Romane zu schreiben? Don Winslow spricht über seinen Abschied als Schriftsteller.",
-      "url": "https://www.zeit.de/2024/24/don-winslow-autor-abschied-usa-politischer-aktivismus",
-      "image_url": "https://img.zeit.de/2024/24/fuehlt-was-ihr-wollt-aber-waehlt-joe-biden-bild-1/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Abhängigkeit von Handys : Warum wir nicht von Smartphones träumen",
+      "teaser": "Trotz stundenlangen Scrollens spielen Smartphones in Träumen kaum eine Rolle. Alles gut also? Nein, die Abwesenheit spricht sogar eher für unsere Abhängigkeit von ihnen.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2024-06/traeumen-von-smartphones-abhaengingkeit-handy",
+      "image_url": "https://img.zeit.de/zeit-magazin/leben/2024-05/traeumen-von-smartphones-abhaengingkeit-handy-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Langzeitstillen : Ach, du stillst immer noch?",
@@ -307,10 +201,34 @@
       "image_url": "https://img.zeit.de/wirtschaft/2024-05/immobilienmarkt-deutschland-entwicklung-preise-wohnung-teaser/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Raserei : 133 km/h",
-      "teaser": "Im Juni 2016 rast ein Mann durch Hamburg, kracht in ein Taxi und tötet einen Unschuldigen. Der Fahrer wird wegen Mordes verurteilt. Was bleibt, ist das Leid der Familien.",
-      "url": "https://www.zeit.de/zeit-verbrechen/2024/26/raserei-hamburg-unfall-gericht-mord",
-      "image_url": "https://img.zeit.de/zeit-verbrechen/2024/26/133-km-h-bild-2/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Präsidentschaftswahl in Mexiko : Regierungskandidatin Claudia Sheinbaum laut Prognosen vorn",
+      "teaser": "Laut Medienberichten und der Regierungspartei hat Claudia Sheinbaum als erste Frau die Präsidentschaftswahl in Mexiko gewonnen. Das amtliche Endergebnis steht noch aus.",
+      "url": "https://www.zeit.de/politik/ausland/2024-06/mexiko-praesidentschaftswahl-siegerin-claudia-sheinbaum",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-06/mexiko-praesidentschaftswahl-claudia-sheinbaum-siegerin-bild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Geiseln der Hamas : Sie erlaubt sich keine Schwäche, keine Wut",
+      "teaser": "Idit Ohels Sohn wird seit acht Monaten als Geisel in Gaza festgehalten. Die Kraft durchzuhalten schöpft sie auch aus ihrer besonderen Familiengeschichte.",
+      "url": "https://www.zeit.de/politik/ausland/2024-05/geiseln-hamas-angehoerige-gaza-auschwitz-hoffnung-nahost",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-05/israel-geisel-verhandlung-idit-ohel-bild-2/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Israel : Ultraorthodoxe protestieren gegen Wehrpflicht",
+      "teaser": "Auch ultraorthodoxe Männer sollen wehrpflichtig werden. Während Israels höchstes Gericht die Ausnahmeregelung prüfte, demonstrierten Männer mit einer Straßenblockade.",
+      "url": "https://www.zeit.de/politik/ausland/2024-06/israel-wehrpflicht-ultraorthodoxe-protest-hoechstes-gericht",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-06/israel-wehrpflicht-ultraorthodoxe-protest-bild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Mannheim : Verletzter Polizist nach Messerangriff gestorben",
+      "teaser": "Zwei Tage nach dem Angriff bei einer islamfeindlichen Veranstaltung ist der Beamte seinen Verletzungen erlegen. Das Motiv des mutmaßlichen Täters ist weiter unklar.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-06/polizist-nach-messerangriff-in-mannheim-gestorben",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-06/polizist-nach-messerangriff-in-mannheim-gestorben-bild-2/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Wahlkampf in den USA : Donald Trump startet TikTok-Account",
+      "teaser": "Während seiner Amtszeit wollte der Ex-Präsident die App noch verbieten lassen. Im Wahlkampf ändert Trump seine Meinung – und hat bereits Millionen Follower.",
+      "url": "https://www.zeit.de/politik/ausland/2024-06/tiktok-donald-trump-usa-spionage-zensur-china",
+      "image_url": "https://img.zeit.de/2024-06/donald-trump-tiktok-erstes-video-bild/super__320x213"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Mannheim : Mahnwache und Proteste nach Messerattacke in Mannheim",
@@ -349,22 +267,16 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-06/trump-prozess-stormy-daniels-bild/super__320x213"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Friedensgipfel in der Schweiz : Selenskyj wirft China Störversuche vor",
-      "teaser": "Der ukrainische Präsident hat China dafür kritisiert, die Vorbereitungen auf den Friedensgipfel zu stören. Die Volksrepublik arbeite daran, andere Staaten fernzuhalten.",
-      "url": "https://www.zeit.de/politik/ausland/2024-06/ukraine-friedensgipfel-wolodymyr-selenskyj-china",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-06/selenskyj-china-massive-kritik-bild/super__320x213"
+      "title": "Z+ (abopflichtiger Inhalt); Südafrika : ANC will nach Wahlniederlage Koalitionsgespräche führen",
+      "teaser": "Erstmals in der demokratischen Geschichte Südafrikas kann der Afrikanische Nationalkongress nicht mehr allein regieren. Präsident Ramaphosa will trotzdem im Amt bleiben.",
+      "url": "https://www.zeit.de/politik/ausland/2024-06/suedafrika-wahlergebnis-anc-regierung-koalition",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-06/wahl-suedafrika-anc-unter-druck-bild/super__320x213"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Landkreis Pfaffenhofen an der Ilm : Dammbrüche und akute Hochwassergefahr an der Paar",
-      "teaser": "Im Landkreis Pfaffenhofen an der Ilm überflutet der kleine Donau-Nebenfluss Paar mehrere Gemeinden. Es besteht \"extreme Gefahr\", warnt der Katastrophenschutz.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-06/hochwasser-pfaffenhofen-ilm-paar-a9",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-06/hochwasser-pfaffenhofen-ilm-paar-a9-teaser/super__320x213"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Leben nach dem Tod : Da bin ich wieder",
-      "teaser": "Diesseits statt Jenseits: Der Fotograf Janick Entremont porträtiert Menschen, die an einen Sieg der Wissenschaft über die Endlichkeit glauben – Kryotechnik sei Dank.",
-      "url": "https://www.zeit.de/zeit-magazin/2024/24/leben-nach-tod-fotografie-existenz",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-05/leben-nach-tod-fotografie-existenz-teaser/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Don Winslow : \"Fühlt, was ihr wollt. Aber wählt Joe Biden!\"",
+      "teaser": "Ist der Kampf gegen den amerikanischen Neofaschismus wichtiger, als Romane zu schreiben? Don Winslow spricht über seinen Abschied als Schriftsteller.",
+      "url": "https://www.zeit.de/2024/24/don-winslow-autor-abschied-usa-politischer-aktivismus",
+      "image_url": "https://img.zeit.de/2024/24/fuehlt-was-ihr-wollt-aber-waehlt-joe-biden-bild-1/super__430x286"
     },
     {
       "title": "Diese Woche in der ZEIT : Gute Freunde, gutes Leben?",
@@ -373,10 +285,10 @@
       "image_url": "https://img.zeit.de/2024/24/packshot-24-24-1000x620.png/imagegroup/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Pastasalat mit Honigmelone und Zitronen-Minz-Dressing : Ein Salat für alle Hände",
-      "teaser": "Sobald Kinder mit am Tisch sitzen, stellen sich Eltern kulinarisch oft hinten an. Dabei reicht manchmal eine Zutat, um ein Gericht anspruchsvoller zu gestalten.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-05/pastasalat-honigmelone-zitronen-minz-dressing-neulich-am-familientisch-sonntagsessen",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-05/sonntagsessen-pasta-mit-honigmelone-neulich-am-familientisch/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Leben nach dem Tod : Da bin ich wieder",
+      "teaser": "Diesseits statt Jenseits: Der Fotograf Janick Entremont porträtiert Menschen, die an einen Sieg der Wissenschaft über die Endlichkeit glauben – Kryotechnik sei Dank.",
+      "url": "https://www.zeit.de/zeit-magazin/2024/24/leben-nach-tod-fotografie-existenz",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-05/leben-nach-tod-fotografie-existenz-teaser/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Fragen Sie ZEIT ONLINE : Haben Sie ein Thema verpasst?",
@@ -439,28 +351,28 @@
       "image_url": "https://img.zeit.de/freunde-der-zeit/dtmg-ernaehrungsrichlinien/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Überschwemmungen : Die \"Spinne\" schickt die Helfer zum richtigen Ort",
-      "teaser": "Ein Einsatzleiter organisiert im Lagezentrum das Krisenmanagement. Ein Bürgermeister versucht, trotz allem positiv zu bleiben. Unterwegs im bayerischen Flutgebiet",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-06/ueberschwemmungen-hochwasser-fischach-augsburg-pfaffenhoffen-katastrophenfall",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-06/ueberschwemmungen-hochwasser-fischach-augsburg-katastrophenfall-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Umfrage über Rassismus : Die Umfrage ist nicht das eigentliche Problem",
+      "teaser": "Mehr weiße Nationalspieler? Joshua Kimmich verurteilt eine ARD-Umfrage als rassistisch. Er hat gute Argumente. Wirklich problematisch aber ist, was die Antworten zeigen.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-06/umfrage-rassismus-ard-nationalmannschaft-joshua-kimmich-fussball",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-06/umfrage-rassismus-ard-nationalmannschaft-joshua-kimmich-fussball-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Fachinformatikerin : \"Ich arbeite weniger, um mich mehr für den Klimaschutz zu engagieren\"",
-      "teaser": "Sandra, 33, arbeitet als Informatikerin und verdient 5.000 Euro im Monat. Sie besitzt eine Altbauwohnung und teilt sich ihre Arbeitszeit so flexibel wie möglich ein.",
-      "url": "https://www.zeit.de/arbeit/2024-05/fachinformatikerin-arbeitszeit-klimaschutz-kontoauszug",
-      "image_url": "https://img.zeit.de/arbeit/2024-05/fachinformatikerin-arbeitszeit-klimaschutz/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Überflutungen im Süden : So ist die Hochwasserlage in Deutschland",
+      "teaser": "Der Dauerregen lässt nach, doch in Pfaffenhofen ist ein Deich gebrochen. Meteorologen und Hydrologinnen erklären, wie sich die Lage in Süddeutschland entwickelt.",
+      "url": "https://www.zeit.de/wissen/2024-06/hochwasser-gebiete-deutschland-unwetter-regen-karten",
+      "image_url": "https://img.zeit.de/wissen/2024-06/hochwasser-gebiete-deutschland-unwetter-regen-karten-teaser/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Arbeitsalltag als Taxifahrerin : Die Würgemale sah man noch Tage später",
-      "teaser": "Sätze wie \"Komm mit mir nach Hause, Baby\" gehören zu ihrem Arbeitsalltag. Oft bleibt es nicht bei Sprüchen. Drei Frauen erzählen, wie es ist, Taxifahrerin zu sein.",
-      "url": "https://www.zeit.de/2024-05/arbeit-alltag-taxifahrerin-belaestigung",
-      "image_url": "https://img.zeit.de/arbeit/2024-05/arbeit-alltag-taxifahrerin-belaestigung/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Raserei : 133 km/h",
+      "teaser": "Im Juni 2016 rast ein Mann durch Hamburg, kracht in ein Taxi und tötet einen Unschuldigen. Der Fahrer wird wegen Mordes verurteilt. Was bleibt, ist das Leid der Familien.",
+      "url": "https://www.zeit.de/zeit-verbrechen/2024/26/raserei-hamburg-unfall-gericht-mord",
+      "image_url": "https://img.zeit.de/zeit-verbrechen/2024/26/133-km-h-bild-2/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Real Madrid : Warum immer sie?",
-      "teaser": "Paris kann mehr Geld ausgeben, Manchester City spielt schöner. Doch der größte Club der Welt bleibt Real Madrid. Weil es im Fußball noch immer unmessbare Kräfte gibt.",
-      "url": "https://www.zeit.de/sport/2024-06/real-madrid-champions-league-finale-mythos",
-      "image_url": "https://img.zeit.de/sport/2024-06/real-madrid/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Pastasalat mit Honigmelone und Zitronen-Minz-Dressing : Ein Salat für alle Hände",
+      "teaser": "Sobald Kinder mit am Tisch sitzen, stellen sich Eltern kulinarisch oft hinten an. Dabei reicht manchmal eine Zutat, um ein Gericht anspruchsvoller zu gestalten.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-05/pastasalat-honigmelone-zitronen-minz-dressing-neulich-am-familientisch-sonntagsessen",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-05/sonntagsessen-pasta-mit-honigmelone-neulich-am-familientisch/super__430x286"
     },
     {
       "title": "Worträtsel : Wortiger",
@@ -589,22 +501,22 @@
       "image_url": "https://img.zeit.de/politik/deutschland/2024-04/was-jetzt-die-woche-aerztemangel-interview/super__320x213"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Brigitte Ederer : \"Das fanden viele Menschen nur noch deppert\"",
+      "teaser": "Vor 30 Jahren stimmte Österreich für den EU-Beitritt. Die SPÖ-Politikerin Brigitte Ederer hatte großen Anteil daran. Ein Gespräch über Haider, Hoffnungen und Bahntrassen",
+      "url": "https://www.zeit.de/2024/24/brigitte-ederer-eu-beitritt-spoe-transit-foederalismus",
+      "image_url": "https://img.zeit.de/2024/24/das-fanden-viele-menschen-nur-noch-deppert-bild-1/wide__892x501"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Friedensgipfel in der Schweiz : Selenskyj wirft China Störversuche vor",
+      "teaser": "Der ukrainische Präsident hat China dafür kritisiert, die Vorbereitungen auf den Friedensgipfel zu stören. Die Volksrepublik arbeite daran, andere Staaten fernzuhalten.",
+      "url": "https://www.zeit.de/politik/ausland/2024-06/ukraine-friedensgipfel-wolodymyr-selenskyj-china",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-06/selenskyj-china-massive-kritik-bild/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Island : Halla Tómasdóttir zur neuen Präsidentin Islands gewählt",
       "teaser": "Island hat eine neue Präsidentin gewählt. Die Unternehmerin Halla Tómasdóttir hat sich gegen elf Mitbewerbende durchgesetzt. Im August wird sie das Amt antreten.",
       "url": "https://www.zeit.de/politik/ausland/2024-06/island-praesidentin-wahl-tomasdottir-johannesson",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-06/island-praesidentin-wahl-tomasdottir-johannesson-bild-2/wide__892x501"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Ukraine-Friedenskonferenz : Ein bisschen Frieden",
-      "teaser": "Die Ukraine versammelt die Welt zu Verhandlungen in der Schweiz, um den Krieg gegen Russland diplomatisch zu gewinnen. Was steckt dahinter? Und kann das gelingen?",
-      "url": "https://www.zeit.de/2024/24/ukraine-friedenskonferenz-buergenstock-schweiz-wolodymyr-selenskyj",
-      "image_url": "https://img.zeit.de/2024/24/ein-bisschen-frieden-bild-1/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Narendra Modi : \"Unser Gott\"",
-      "teaser": "Seinen Anhängern gilt Premier Narendra Modi fast als Heiliger – seinen Gegnern als Hassprediger. Was würde seine Wiederwahl für Indien bedeuten?",
-      "url": "https://www.zeit.de/2024/24/narendra-modi-premierminister-indien-wiederwahl-folgen",
-      "image_url": "https://img.zeit.de/2024/24/unser-gott-bild-1/super__430x286"
+      "image_url": "https://img.zeit.de/politik/ausland/2024-06/island-praesidentin-wahl-tomasdottir-johannesson-bild-2/super__430x286"
     },
     {
       "title": "Verlagsangebot : Englischquiz: Lincoln oder Kennedy – wer hat’s gesagt?",
@@ -637,6 +549,12 @@
       "image_url": "https://img.zeit.de/gesellschaft/2020-01/bibel-podcast-gott-unter-pfarrerstoechtern-foto/super__320x213"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Pflege : \"Wird das Spaß machen, wenn wir alt sind? Ich fürchte: Nein.\"",
+      "teaser": "Laut dem Wirtschaftsweisen Martin Werding ist die Ampel beim Thema Pflegenotstand \"relativ taub\". Hier erklärt er, was passieren muss, um das Schlimmste zu verhindern.",
+      "url": "https://www.zeit.de/politik/2024-05/pflege-notstand-karl-lauterbach-politikpodcast",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-05/pflege-notstand-karl-lauterbach-politikpodcast-bild/super__320x213"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); \"Und was machst du am Wochenende?\" : \"Ich bin ein Nachtmensch\"",
       "teaser": "Sebastian Krumbiegel wurde über Songs wie \"Küssen verboten\" bekannt. Er verrät, was er von Udo Lindenberg gelernt hat und wieso er am Wochenende Mafiafilme schaut.",
       "url": "https://www.zeit.de/entdecken/2024-05/sebastian-krumbiegel-alltag-wochenende-tipps-podcast",
@@ -649,22 +567,15 @@
       "image_url": "https://img.zeit.de/gesellschaft/2024-05/ukraine-friedensgipfel-schweiz-oesterreich-neutralitaet-alpenpodcast-2/super__320x213"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Champions-League-Finale : \"Dortmund straft uns Lügen\"",
-      "teaser": "Entgegen allen Prognosen, auch unseren, steht der BVB im Champions-League-Finale gegen Real Madrid. Ist das überhaupt zu erklären? Ein Special unseres Fußballpodcasts",
-      "url": "https://www.zeit.de/sport/2024-05/champions-league-finale-borussia-dortmund-fussballpodcast",
-      "image_url": "https://img.zeit.de/sport/2024-05/bvb-podcast/super__320x213"
+      "title": "Z+ (abopflichtiger Inhalt); Unwetter : 18 Verletze nach Blitzschlag im Norden Tschechiens",
+      "teaser": "Bei einem Kinderfest im Schloßpark Liberec wurden neun Erwachsene und neun Kinder vom Blitz getroffen. In anderen Regionen Tschechiens sorgten Unwetter für Erdrutsche.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-06/unwetter-tschechien-blitzschlag-verletzte-liberec"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Hochwasser : Mit Ruhe und Routine gegen die Fluten",
-      "teaser": "Viele Orte in Bayern und Baden-Württemberg stehen unter Wasser. Dass das Hochwasser nicht noch größeren Schaden anrichtet, liegt wohl auch an der Vorbereitung.",
-      "url": "https://www.zeit.de/gesellschaft/2024-06/hochwasser-bayern-baden-wuerttemberg-katastrophe-ueberschwemmung-unwetter",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-06/hochwasser-bayern-baden-wuerttemberg-katastrophe-ueberschwemmung-unwetter-teaser/wide__892x501"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Walter Lübcke : Nie wieder, immer wieder",
-      "teaser": "Vor fünf Jahren wurde Walter Lübcke von einem Rechtsextremen erschossen. Die Betroffenheit ist schwächer geworden, geblieben ist die Gefahr. Zeit, beides zu ändern.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-05/walter-luebcke-todestag-erinnerung-rechtsextremismus-gedenken",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-05/walter-luebcke-todestag-erinnerung-rechtsextremismus-gedenken-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Ulrich Neymeyr : \"Die Predigt ist nicht dazu da, politische Meinungen zu äußern\"",
+      "teaser": "Wie soll die Kirche mit AfD-Anhängern in den eigenen Reihen umgehen? Erfurts Bischof Ulrich Neymeyr erklärt, was man von Jesus für diese Auseinandersetzung lernen kann.",
+      "url": "https://www.zeit.de/2024/24/ulrich-neymeyr-afd-katholische-kirche-bjoern-hoecke-erfurt",
+      "image_url": "https://img.zeit.de/2024/24/die-predigt-ist-nicht-dazu-da-politische-meinungen-zu-aeussern-bild-1/super__430x286"
     },
     {
       "title": "Verlagsangebot : In drei Wochen zur besseren Rede",
@@ -673,10 +584,16 @@
       "image_url": "https://img.zeit.de/angebote/Links/Bilder/akademie/bilder-2022/zak-kommunikation-2/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Ashoka Mody : \"Viele haben weniger als 100 Euro im Monat\"",
+      "teaser": "Indien feiert sich als nächste große Wirtschaftsmacht. Der Ökonom Ashoka Mody aber sieht darin nichts anderes als ein Wunschdenken des Westens.",
+      "url": "https://www.zeit.de/2024/24/ashoka-mody-indien-wirtschaftsmacht-wunsch-westen",
+      "image_url": "https://img.zeit.de/2024/24/viele-haben-weniger-als-100-euro-im-monat-bild-1/wide__892x501"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Learning Journal von Cleer : Diese Kladde haben jetzt alle",
       "teaser": "Daniel Haas geht shoppen und kauft sich ein Learning-Heftchen. Kennen Sie nicht? Liegt aber voll im Trend. Aber unser Autor fremdelt mit diesem Büchlein.",
       "url": "https://www.zeit.de/2024/24/learning-journal-von-cleer-leuchtturm17-notizbuch-arbeit",
-      "image_url": "https://img.zeit.de/2024/24/learning-journal-von-cleer-leuchtturm17-notizbuch-arbeit-teaserbild/wide__892x501"
+      "image_url": "https://img.zeit.de/2024/24/learning-journal-von-cleer-leuchtturm17-notizbuch-arbeit-teaserbild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Halbinsel Darß : \"So ist er, der Kapitalismus\"",
@@ -689,12 +606,6 @@
       "teaser": "Donald Trump mag den Prozess wegen Bilanzfälschung verloren haben. Doch der ehemalige US-Präsident gewinnt im Wettbewerb um die wichtigen Wahlkampfspenden.",
       "url": "https://www.zeit.de/wirtschaft/2024-06/urteil-donald-trump-wahlkampf-spenden",
       "image_url": "https://img.zeit.de/politik/ausland/2024-05/us-wahlen-joe-biden-donald-trump-wahlkampf-umfragen-bild-2/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Finfluencer : Folge mir, und ich mach dich reich!",
-      "teaser": "Sie heißen Professor Finanzen oder Immo Tommy: Finfluencer auf Social Media werden immer einflussreicher. Aber was können sie wirklich?",
-      "url": "https://www.zeit.de/wirtschaft/2024-05/influencer-finanzen-tipps-social-media-regulierung",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-05/influencer-finanzen-tipps-social-media-regulierung-2/super__430x286"
     },
     {
       "title": "Gehälter : Master vs. Meister: Ein Gehaltsvergleich verschiedener Bildungsabschlüsse",
@@ -735,22 +646,22 @@
       "image_url": "https://img.zeit.de/2024/24/die-frau-bild-1/wide__892x501"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Unvernünftigkeit : Einsicht lässt sich nicht verordnen",
+      "teaser": "Unvernünftig sind immer nur die anderen: fliegen, fahren SUV, glauben Trump. Doch nicht die Unvernunft ist das Problem unserer Zeit, sondern die Krise der Vernunft.",
+      "url": "https://www.zeit.de/2024/24/unvernuenftigkeit-entscheidungen-leichtsinn-regeln",
+      "image_url": "https://img.zeit.de/2024/24/unvernuenftigkeit-entscheidungen-leichtsinn-regeln-teaserbild/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Schauspielerin : Ruth Maria Kubitschek ist tot",
       "teaser": "Die Schauspielerin Ruth Maria Kubitschek prägte jahrzehntelang das deutsche Fernsehen. Sie starb im Alter von 92 Jahren in der Schweiz.",
       "url": "https://www.zeit.de/kultur/film/2024-06/ruth-maria-kubitschek-tot-schauspielerin",
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-06/ruth-maria-kubitschek-ist-verstorben-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); \"Einigkeit und Recht und Vielfalt\" : Auf der Suche nach dem Wir-Gefühl",
-      "teaser": "Kurz vor der EM versucht die ARD, die Stimmung im Land einzufangen. In der Doku \"Einigkeit und Recht und Vielfalt\" über Rassismus geht das schon mal ziemlich schief.",
-      "url": "https://www.zeit.de/kultur/film/2024-06/einigkeit-und-recht-und-vielfalt-dokumentation-ard-rezension",
-      "image_url": "https://img.zeit.de/kultur/film/2024-06/einigkeit-recht-vielfalt-dokumentation-em-fussball-teaser-neu/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Kurzgeschichte : Willie der Wirrkopf",
-      "teaser": "\"Erzähl mir von dem Blut!\" Willie ist nicht wie andere Jungen, aber er liebt die uralten Geschichten von Opa James. Bis der Großvater krank wird. Eine Short Story",
-      "url": "https://www.zeit.de/kultur/literatur/2024-05/willie-der-wirrkopf-stephen-king-kurzgeschichte-grusel",
-      "image_url": "https://img.zeit.de/kultur/literatur/2024-05/wochenende-willie-der-wirrkopf-stephen-king-kurzgeschichte-grusel-bild-2/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Einsamkeit : Lasst mich in Ruhe!",
+      "teaser": "Die Bundesregierung plant eine Kampagne gegen Einsamkeit. Aber wohin führt das? Fröhlichkeit sollte keine Bürgerpflicht, Geselligkeit nicht Staatsräson sein.",
+      "url": "https://www.zeit.de/kultur/2024-06/einsamkeit-kampagne-bundesregierung-emotionen-mentale-gesundheit",
+      "image_url": "https://img.zeit.de/kultur/2024-06/einsamkeit-kampagne-bundesregierung-emotionen-mentale/super__430x286"
     },
     {
       "title": "An dieser Stelle ist ein externer Inhalt eingebunden",
@@ -879,34 +790,34 @@
       "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-05/dsa-eu-komission-online-haendler-temu-bild/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Fachinformatikerin : \"Ich arbeite weniger, um mich mehr für den Klimaschutz zu engagieren\"",
+      "teaser": "Sandra, 33, arbeitet als Informatikerin und verdient 5.000 Euro im Monat. Sie besitzt eine Altbauwohnung und teilt sich ihre Arbeitszeit so flexibel wie möglich ein.",
+      "url": "https://www.zeit.de/arbeit/2024-05/fachinformatikerin-arbeitszeit-klimaschutz-kontoauszug",
+      "image_url": "https://img.zeit.de/arbeit/2024-05/fachinformatikerin-arbeitszeit-klimaschutz/wide__892x501"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Arbeitslosenquote : Arbeitslosigkeit im Euroraum sinkt auf Tiefstwert",
       "teaser": "Im April waren so wenige Menschen im Europäischen Währungsraum erwerbslos wie noch nie zuvor. Die geringste Quote weist Malta auf, die höchste Spanien und Griechenland.",
       "url": "https://www.zeit.de/arbeit/2024-05/arbeitslosigkeit-sinkt-in-eu-auf-rekordtief",
-      "image_url": "https://img.zeit.de/arbeit/2024-05/arbeitslosenquote-sinkt-rekordtief-bild/wide__892x501"
+      "image_url": "https://img.zeit.de/arbeit/2024-05/arbeitslosenquote-sinkt-rekordtief-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Arbeitskampf : Tarifpartner legen gemeinsamen Vorschlag für Baugewerbe vor",
-      "teaser": "Nach mehrwöchigen Warnstreiks im Baugewerbe haben sich Gewerkschaft und Arbeitgebende auf einen Tarifvorschlag geeinigt. Dieser muss noch endgültig angenommen werden.",
-      "url": "https://www.zeit.de/arbeit/2024-05/baugewerbe-tarifvertrag-einigung-ig-bau",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-05/baugewerbe-tarifvertrag-einigung-ig-bau-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Weibliche Masturbation : Handarbeit ist Frauensache",
+      "teaser": "Wichsen ist Popkultur, weibliche Masturbation ein Tabu. Das ist nicht nur Zeichen einer ungerechten Gesellschaft, sondern eine Frage der Gesundheit.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2024-05/weibliche-masturbation-gesundheit-aufklaerung",
+      "image_url": "https://img.zeit.de/zeit-magazin/leben/2024-05/weibliche-masturbation-gesundheit-aufklaerung-bild/wide__892x501"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Musikgeschmack der Jugend : Der Song meines Lebens",
+      "teaser": "Der Musikgeschmack wird in den Teenagerjahren geformt. Hier sind 15 Songs aus unserer Redaktion, die sich ins Herz schlichen, bevor die Coolness dazwischenkamen.",
+      "url": "https://www.zeit.de/zeit-magazin/unterhaltung/2024-05/musikgeschmack-jugend-erinnerung-teenager-gefuehl",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-05/musik-jugend-teenager-popmusik-leben-teaser/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Magentee : Das Bauchgefühl entscheidet",
       "teaser": "Günstig, überraschend lecker und in einer Minute krampflösend. Seit unsere Autorin diesen Magen-Darm-Tee trinkt, kann sie sogar Zwiebeln im Salat bestellen.",
       "url": "https://www.zeit.de/zeit-magazin/2024-05/magentee-psyche-schmerzen-krampf-gesundheit",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-05/wochenende-22-ode-an-ein-ding/wide__892x501"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Blumen : Liebe für einen Sommer",
-      "teaser": "Unsere Kolumnistin sät Blumen aus, die nur einmal blühen. Was für eine Verschwendung! Und doch ist ein Gartenjahr ohne Zinnien und Samtnelken undenkbar.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2024-05/blumen-zinnien-samtnelken-gartenkolumne",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-05/zwe-blumen-zinnien-samtnelken-gartenkolumne/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Sylt : Exterritoriale Zone Kampen",
-      "teaser": "Sylt ist so schön, sagt unser Autor, der seit 30 Jahren hinfährt. Wären da nur nicht die Menschen, die glauben, dass sie wegen Reichtums mit allem davonkommen.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2024-05/sylt-kampen-reichtum-kapitalismus",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-05/sylt-kampen-reichtum-kapitalismus-bild/super__430x286"
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-05/wochenende-22-ode-an-ein-ding/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Europe Talks 2024 : Sie eint die Angst um ihre Zukunft",
@@ -1006,36 +917,36 @@
       "image_url": "https://img.zeit.de/newsletter/podcast-festival/podcast-newsletter-titelbild/super__430x286"
     },
     {
-      "title": "Unfälle: Deutsche bei Verkehrsunfall in Italien ums Leben gekommen",
-      "url": "https://www.zeit.de/news/2024-06/03/deutsche-bei-verkehrsunfall-in-italien-ums-leben-gekommen"
+      "title": "Religion: Gesichtsverhüllung an Hamburgs Schulen verboten",
+      "url": "https://www.zeit.de/news/2024-06/03/gesichtsverhuellung-an-hamburgs-schulen-verboten"
     },
     {
-      "title": "Unwetter: Hochwasser-Lage spitzt sich teils zu im Süden",
-      "url": "https://www.zeit.de/news/2024-06/03/hochwasser-lage-spitzt-sich-teils-zu-im-sueden"
+      "title": "Notfall: Hochwasser droht - Evakuierung im Ostalbkreis",
+      "url": "https://www.zeit.de/news/2024-06/03/hochwasser-droht-evakuierung-im-ostalbkreis"
     },
     {
-      "title": "Fotografie: Bilder des Tages",
-      "url": "https://www.zeit.de/news/2024-06/03/bilder-des-tages"
+      "title": "Wetter: Stadt Schorndorf warnt vor Hochwassertourismus",
+      "url": "https://www.zeit.de/news/2024-06/03/stadt-schorndorf-warnt-vor-hochwassertourismus"
     },
     {
-      "title": "Handball-Meisterschaft: SC Magdeburg feiert Triple mit seinen Fans",
-      "url": "https://www.zeit.de/news/2024-06/02/sc-magdeburg-feiert-triple-mit-seinen-fans"
+      "title": "Unwetter: Baden-Württemberg leiht Einsatzkräfte an Bayern aus",
+      "url": "https://www.zeit.de/news/2024-06/03/baden-wuerttemberg-leiht-einsatzkraefte-an-bayern-aus"
     },
     {
-      "title": "Champions League: Bietigheimer Handballerinnen verlieren Finale",
-      "url": "https://www.zeit.de/news/2024-06/02/bietigheimer-handballerinnen-verlieren-finale"
+      "title": "Hochwasser: Unwetterwarnungen aufgehoben - aber Starkregen möglich",
+      "url": "https://www.zeit.de/news/2024-06/03/unwetterwarnungen-aufgehoben-aber-starkregen-moeglich"
     },
     {
-      "title": "Notfall: Baum stürzt im Berliner Mauerpark um: Drei Verletzte",
-      "url": "https://www.zeit.de/news/2024-06/02/baum-stuerzt-im-berliner-mauerpark-um-drei-verletzte"
+      "title": "Wetter: Unwetter: Bahnverkehr im Süden bleibt stark beeinträchtigt",
+      "url": "https://www.zeit.de/news/2024-06/03/unwetter-bahnverkehr-im-sueden-bleibt-stark-beeintraechtigt"
     },
     {
-      "title": "Wahlen: Endergebnis in Südafrika bestätigt Machtverlust des ANC",
-      "url": "https://www.zeit.de/news/2024-06/02/endergebnis-in-suedafrika-bestaetigt-machtverlust-des-anc"
+      "title": "Unwetter: Hochwasser in Bayern: Besuch aus Berlin und Bangen um Vermisste",
+      "url": "https://www.zeit.de/news/2024-06/03/hochwasser-in-bayern-besuch-aus-berlin-und-bangen-um-vermisste"
     },
     {
-      "title": "Handball-Bundesliga: Zehnder krönt Eisenachs Saison als Torschützenkönig",
-      "url": "https://www.zeit.de/news/2024-06/02/zehnder-kroent-eisenachs-saison-als-torschuetzenkoenig"
+      "title": "Unwetter: Auch zu Wochenbeginn Unwetter und Starkregen erwartet",
+      "url": "https://www.zeit.de/news/2024-06/03/auch-zu-wochenbeginn-unwetter-und-starkregen-erwartet"
     }
   ]
 }
