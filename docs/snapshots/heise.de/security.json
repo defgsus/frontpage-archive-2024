@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-06-07T11:00:59",
+  "timestamp": "2024-06-07T12:12:01",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "PHP",
+      "url": "https://www.heise.de/news/Sicherheitspatch-nachgebessert-Schadcode-Attacken-auf-PHP-moeglich-9752112.html"
+    },
+    {
       "title": "Azure",
       "url": "https://www.heise.de/news/Kritische-Azure-Luecke-Patch-Status-derzeit-unklar-9751850.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Kritische-DoS-Luecke-bedroht-IBM-App-Connect-Enterprise-Certified-Container-9750023.html"
     },
     {
-      "title": "Zyxel NAS",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-trotz-Supportende-Zyxel-sichrt-NAS-Systeme-ab-9748388.html"
+      "title": "Online-Security-Konferenz secIT Digital: Tschüss Passwort, hallo Passkeys",
+      "teaser": "Das redaktionelle Programm der secIT Digital im September ist komplett. Jetzt Tickets sichern und dann die Firmen-IT noch effektiver absichern.",
+      "url": "https://www.heise.de/news/Online-Security-Konferenz-secIT-Digital-Tschuess-Passwort-hallo-Passkeys-9745738.html"
+    },
+    {
+      "title": "Sicherheitspatch nachgebessert: Schadcode-Attacken auf PHP möglich",
+      "teaser": "Angreifer können unter Windows den Schutz für eine PHP-Sicherheitslücke aus 2012 umgehen. Eigentlich sollte die Lücke längst geschlossen sein.",
+      "url": "https://www.heise.de/news/Sicherheitspatch-nachgebessert-Schadcode-Attacken-auf-PHP-moeglich-9752112.html",
+      "image_title": "Update-Schild auf Tisch"
     },
     {
       "title": "Erpresser übernehmen GitHub-Repositories, greifen Daten ab und löschen Inhalte",
@@ -151,18 +162,6 @@
       "url": "https://www.heise.de/news/c-t-Webinar-Hacking-verstaendlich-erklaert-9729282.html"
     },
     {
-      "title": "Globaltrust-Zertifikate fliegen aus Chromium-Browsern",
-      "teaser": "Chromium und Chrome akzeptieren von Globaltrust ab Juli ausgestellte Zertifikate nicht mehr. Es gab wiederholt Probleme bei dem österreichischen Anbieter.",
-      "url": "https://www.heise.de/news/Globaltrust-Zertifikate-fliegen-aus-Chromium-Browsern-9746473.html",
-      "image_title": "Goldener Schlüssel liegt auf Eingabetaste"
-    },
-    {
-      "title": "Angriff auf Cloud-Anbieter: Datenbank-Klau bei Snowflake-Kunden",
-      "teaser": "Sicherheitsforscher und Snowflake fanden Hinweise auf systematische Attacken. Die Event-Firma Live Nation bestätigte unterdessen einen erfolgreichen Angriff.",
-      "url": "https://www.heise.de/news/Angriff-auf-Cloud-Anbieter-Datenbank-Klau-bei-Snowflake-Kunden-9745379.html",
-      "image_title": "Ausschnitt einer hellgrauen Computertastatur bei der die rechte Feststelltaste durch eine grüne Taste mit Aufschrift \"Leak\" ausgetauscht ist"
-    },
-    {
       "title": "heise security tour 2024",
       "teaser": "Die Konferenz zum Thema IT-Security. Nutzen Sie die einzigartige Gelegenheit, sich direkt aus der ersten Reihe über die neuesten Trends, Technologien und Bedrohungen in der Welt der IT-Sicherheit zu informieren. Dieses Jahr findet die Tour in Köln, Hannover, Stuttgart und online statt.",
       "url": "https://security-tour.heise.de/?wt_mc=intern.academy.security.konf_sectour.hs_teaser.teaser.teaser"
@@ -188,7 +187,7 @@
     {
       "title": "Re: Gibt es hier jemanden...",
       "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Gibt-es-hier-jemanden/posting-44064462/show/"
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Gibt-es-hier-jemanden/posting-44065239/show/"
     },
     {
       "title": "Maus und Tastatur frieren nach einiger Zeit ein",
