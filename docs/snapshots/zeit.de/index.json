@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-06-09T07:00:56",
+  "timestamp": "2024-06-09T08:07:09",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -12,8 +12,8 @@
       "text": null
     },
     {
-      "type": null,
-      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
+      "type": "text/javascript",
+      "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
       "id": null,
       "text": null
     },
@@ -98,10 +98,10 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Kommunalpolitiker im Wahlkampf : \"Ich kann die Wut vieler Bürger auf die Politik nachvollziehen\"",
-      "teaser": "Mehr als 100.000 Kommunalpolitiker stehen heute zur Wahl. Hier sprechen 16 von ihnen über Engagement, Frust und Wahlkampf vor der eigenen Haustür.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-06/kommunalpolitik-wahlkampf-kommunalwahl-anerkennung-ehrenamt",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-06/kommunalpolitik-wahlkampf-kommunalwahl-anerkennung-ehrenamt-bild/wide__1000x562"
+      "title": "Z+ (abopflichtiger Inhalt); Die Grünen : Wie die grüne Ära verblasste",
+      "teaser": "Zur Europawahl 2019 waren die Grünen die heißeste Aktie in der deutschen Politik. Seitdem haben sie viel mehr verloren als Wählerstimmen, ihre Deutungsmacht ist dahin.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-06/die-gruenen-eu-wahl-hegemonie-feindbild",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-06/gruene-eu-wahl-waehlerstimmen-bild/wide__1000x562"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Europawahl : Was Sie für diesen Wahlabend wissen müssen",
@@ -110,22 +110,16 @@
       "image_url": "https://img.zeit.de/2024/25/suess-oder-salzig-bild-1/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Kommunalpolitiker im Wahlkampf : \"Ich kann die Wut vieler Bürger auf die Politik nachvollziehen\"",
+      "teaser": "Mehr als 100.000 Kommunalpolitiker stehen heute zur Wahl. Hier sprechen 16 von ihnen über Engagement, Frust und Wahlkampf vor der eigenen Haustür.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-06/kommunalpolitik-wahlkampf-kommunalwahl-anerkennung-ehrenamt",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-06/kommunalpolitik-wahlkampf-kommunalwahl-anerkennung-ehrenamt-bild/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Baden-Württemberg : Zwei AfD-Stadträte in Karlsruhe angegriffen",
       "teaser": "Vermummte Angreifer haben zwei AfD-Politiker vor einem Café in der Innenstadt von Karlsruhe attackiert. Nach Angaben der Polizei wurden die Stadträte leicht verletzt.",
       "url": "https://www.zeit.de/politik/2024-06/afd-stadtraete-karlsruhe-baden-wuerttemberg-angriff",
       "image_url": "https://img.zeit.de/gesellschaft/2024-06/afd-karlsruhe-stadtrat-angriff-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Europawahl : Die Europawahl könnte Brüssel schwächen",
-      "teaser": "Am Sonntag ist Europawahl. Was würde ein Zulegen der rechten Parteien bedeuten? Und: Anwohner dürfen gegen zugeparkte Gehwege vorgehen.",
-      "url": "https://www.zeit.de/politik/2024-06/europawahl-deutschland-entwicklung-rechtspopulismus-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Antisemitismus im Kulturbetrieb : Es fehlten zwei Leute, mindestens",
-      "teaser": "In Berlin diskutierte eine Runde um den Kultursenator Joe Chialo über Regeln gegen Antisemitismus in der Kultur. Doch entscheidende Perspektiven kamen nicht vor.",
-      "url": "https://www.zeit.de/kultur/2024-06/antisemitismus-kulturbetrieb-joe-chialo-podiumsdiskussion",
-      "image_url": "https://img.zeit.de/kultur/2024-06/antisemitismus-kulturbetrieb-joe-chialo-podiumsdiskussion-2/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Gaza-Krieg : \"Ich bin so glücklich, hier zu sein\"",
@@ -134,27 +128,46 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-06/geiseln-noa-argamani-gaza-befreiung-israel-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Gaza-Krieg : Annalena Baerbock wertet Geiselbefreiung als \"Hoffnungsschimmer\"",
-      "teaser": "Die Außenministerin hofft, dass das Leid im Gaza-Konflikt \"endlich ein Ende nimmt\". Die Hamas müsse nun dem Abkommen über eine Feuerpause zustimmen.",
-      "url": "https://www.zeit.de/politik/ausland/2024-06/gaza-krieg-geiselbefreiung-hamas-annalena-baerbock",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-06/gaza-krieg-geiselbefreiung-hamas-annalena-baerbock-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Antisemitismus im Kulturbetrieb : Es fehlten zwei Leute, mindestens",
+      "teaser": "In Berlin diskutierte eine Runde um den Kultursenator Joe Chialo über Regeln gegen Antisemitismus in der Kultur. Doch entscheidende Perspektiven kamen nicht vor.",
+      "url": "https://www.zeit.de/kultur/2024-06/antisemitismus-kulturbetrieb-joe-chialo-podiumsdiskussion",
+      "image_url": "https://img.zeit.de/kultur/2024-06/antisemitismus-kulturbetrieb-joe-chialo-podiumsdiskussion-2/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Softwareentwickler : \"Wir verdienen mehr als 170.000 im Jahr\"",
+      "teaser": "Mark, 35, arbeitet als Softwareentwickler bei einem Versicherungsunternehmen. Er verdient viel, davon fährt er mehrere Male im Jahr in den Urlaub.",
+      "url": "https://www.zeit.de/arbeit/2024-06/softwareentwickler-versicherung-gehalt-kontoauszug",
+      "image_url": "https://img.zeit.de/arbeit/2024-06/softwareentwickler-versicherung-gehalt-kontoauszug-2/wide__892x501"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Tiny Houses : Tiny Houses? Egoistische Platzverschwendung",
       "teaser": "Das Versprechen von Tiny Houses: naturnah, bescheiden, nachhaltig. Perfekt für die Stadtflucht, dachte unsere Autorin. Bis sie verstand, dass nichts davon stimmt.",
       "url": "https://www.zeit.de/zeit-magazin/leben/2024-06/tiny-houses-land-oekologie-egoismus-nachhaltigkeit",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-06/zwe-auf-dem-land-tinyhouse-aufmacher/wide__892x501"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Deutsche Bahn : Bahncard 50 und 25 werden künftig nur noch digital ausgestellt",
-      "teaser": "Nur noch auf dem Handy statt in der Hand: Die Deutsche Bahn bietet ihre Bahncard künftig nur noch in digitaler Form an. Einzige Ausnahme ist die Bahncard 100.",
-      "url": "https://www.zeit.de/mobilitaet/2024-06/deutsche-bahn-bahncard-digital-verbraucher-verband-kritik"
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-06/zwe-auf-dem-land-tinyhouse-aufmacher/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Liveblog: Hochwasser : Ort in Österreich warnt Einwohner wegen Lebensgefahr",
       "teaser": "Der Ortskern einer Gemeinde nördlich von Graz kann nur noch mit Booten erreicht werden. In Baden-Württemberg pumpt die Feuerwehr Wasser aus Kellern. Das Liveblog",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-06/hochwasser-sueddeutschland-flut-liveblog",
       "image_url": "https://img.zeit.de/gesellschaft/2024-06/hochwasser-blog-bild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Deutsche Bahn : Bahncard 50 und 25 werden künftig nur noch digital ausgestellt",
+      "teaser": "Nur noch auf dem Handy statt in der Hand: Die Deutsche Bahn bietet ihre Bahncard künftig nur noch in digitaler Form an. Einzige Ausnahme ist die Bahncard 100.",
+      "url": "https://www.zeit.de/mobilitaet/2024-06/deutsche-bahn-bahncard-digital-verbraucher-verband-kritik",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-06/deutsche-bahn-bahncard-digital-verbraucher-verband-kritik-bild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Korea-Konflikt : Südkorea will erneut Propaganda an Grenze zu Nordkorea abspielen",
+      "teaser": "Weil Nordkorea mit Müll gefüllte Ballons gen Süden schickt, will Südkorea wieder politische Botschaften an der Grenze abspielen. Beobachter erwarten weitere Reaktionen.",
+      "url": "https://www.zeit.de/politik/ausland/2024-06/suedkorea-propaganda-grenze-nordkorea-muellballons-reaktion",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-06/suedkorea-propaganda-grenze-nordkorea-muellballons-reaktion-bild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Donald Duck : Alles Gute zum 90.!",
+      "teaser": "Er schnattert pausenlos, ist faul, tollpatschig und wurde im Krieg gegen die Nazis sogar zum Patrioten: Wie ein jähzorniger Erpel Comic-Geschichte schrieb.",
+      "url": "https://www.zeit.de/2024/24/donald-duck-90-jahre-comic-geschichte-tollpatsch",
+      "image_url": "https://img.zeit.de/2024/24/donald-duck-90-jahre-comic-geschichte-tollpatsch-teaserbild/wide__892x501"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"Islamischer Staat\" : Mutmaßlicher IS-Unterstützer am Flughafen Köln/Bonn gefasst",
@@ -173,24 +186,6 @@
       "teaser": "Die dänische Ministerpräsidentin hat öffentliche Termine abgesagt, nachdem sie in Kopenhagen angriffen worden war. Sie brauche nun Zeit für sich und ihre Familie.",
       "url": "https://www.zeit.de/politik/ausland/2024-06/daenemark-mette-frederiksen-angriff-traurig-erschuettert",
       "image_url": "https://img.zeit.de/politik/ausland/2024-06/daenemark-mette-frederiksen-angriff-traurig-erschuettert-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Demokratie : Demokratie you, Demokratie me!",
-      "teaser": "Überall wird gerade für die Demokratie geworben. Annalena Baerbock findet sie toll, die AfD auch. Doch das könnte ein großes Missverständnis sein.",
-      "url": "https://www.zeit.de/kultur/2024-06/demokratie-werbung-annalena-baerbock-afd",
-      "image_url": "https://img.zeit.de/kultur/2024-06/demokratie-werbung-annalena-baerbock/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Fitnessübung : Das einbeinige Kreuzheben",
-      "teaser": "Zwei Jahre schon zeigt unser Personal Trainer Ihnen die wichtigsten Übungen. Nun müssten Sie so weit sein: Das ist seine Lieblingsübung für Profis.",
-      "url": "https://www.zeit.de/sport/2024-06/fitnessuebung-einbeiniges-kreuzheben-personal-trainer",
-      "image_url": "https://img.zeit.de/sport/2024-06/fitnessuebung-einbeiniges-kreuzheben-personal-trainer-teaser-bild/wide__892x501"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Nachtleben : Hier ist Ihre Stadt nachts am lebendigsten",
-      "teaser": "Wohnen Sie vergleichsweise ruhig – oder mitten im Hotspot? ZEIT ONLINE zeigt in interaktiven Karten, wo in den zehn größten deutschen Städten nachts am meisten los ist.",
-      "url": "https://www.zeit.de/campus/2024-06/nachtleben-deutsche-staedte-party-clubs",
-      "image_url": "https://img.zeit.de/campus/2024-02/nachtleben-deutsche-staedte-party-clubs-teaserbild/super__430x286"
     },
     {
       "title": "Ausgabe 23/2024 : Bessere Hälften. Willkommen im Wochenende.",
@@ -235,6 +230,12 @@
       "image_url": "https://img.zeit.de/wissen/2024-06/johannes-frasnelli-geruchssinn-quebec-forschung/wide__892x501"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Nachtleben : Hier ist Ihre Stadt nachts am lebendigsten",
+      "teaser": "Wohnen Sie vergleichsweise ruhig – oder mitten im Hotspot? ZEIT ONLINE zeigt in interaktiven Karten, wo in den zehn größten deutschen Städten nachts am meisten los ist.",
+      "url": "https://www.zeit.de/campus/2024-06/nachtleben-deutsche-staedte-party-clubs",
+      "image_url": "https://img.zeit.de/campus/2024-02/nachtleben-deutsche-staedte-party-clubs-teaserbild/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Rem Koolhaas : \"Europäer streben nur noch nach Komfort. Also nach Faulheit\"",
       "teaser": "Rem Koolhaas ist Architekt. Doch inzwischen plant er die Zukunft ganzer Länder. Ein Gespräch über die Grenzen der Demokratie und den weltfremden Hochmut des Westens",
       "url": "https://www.zeit.de/2024/25/rem-koolhaas-architektur-demokratie-europa-indonesien",
@@ -259,6 +260,12 @@
       "image_url": "https://img.zeit.de/zeit-magazin/2024-04/jessie-inchauspe-gesunde-ernaehrung-rezepte-muesli/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Fitnessübung : Das einbeinige Kreuzheben",
+      "teaser": "Zwei Jahre schon zeigt unser Personal Trainer Ihnen die wichtigsten Übungen. Nun müssten Sie so weit sein: Das ist seine Lieblingsübung für Profis.",
+      "url": "https://www.zeit.de/sport/2024-06/fitnessuebung-einbeiniges-kreuzheben-personal-trainer",
+      "image_url": "https://img.zeit.de/sport/2024-06/fitnessuebung-einbeiniges-kreuzheben-personal-trainer-teaser-bild/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Theodor Weimer : Jetzt red i",
       "teaser": "Der Börsenchef Theodor Weimer hält eine Wutrede gegen Wirtschaftsminister Habeck und die Ampelregierung. Was es heißt, wenn einer Dax und Demokratie verwechselt.",
       "url": "https://www.zeit.de/wirtschaft/2024-06/theodor-weimer-deutsche-boerse-rede-ampelkoalition",
@@ -271,21 +278,10 @@
       "image_url": "https://img.zeit.de/video/2024-06/die-lange-nacht-der-zeit-2024-eine-stunde-zeit-mit-cem-oezdemir-artikelfoto/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Garry Conille : Haitis neuer Ministerpräsident im Krankenhaus",
-      "teaser": "Erst Ende Mai war Garry Conille zum Ministerpräsidenten der haitianischen Übergangsregierung gewählt worden. Berichten zufolge leidet er unter Atembeschwerden.",
-      "url": "https://www.zeit.de/politik/ausland/2024-06/haiti-garry-conille-ministerpraesident-krankenhaus"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Plan D: Alltag im Ruhrpott : Die Mutter der Nation",
-      "teaser": "Während die Einsamkeit viele Menschen in Deutschland plagt, leben sie an Heike’s Kiosk in Herne die Gemeinschaft. Das liegt an der Besitzerin. Es gibt nur eine Regel.",
-      "url": "https://www.zeit.de/gesellschaft/2024-06/alltag-ruhrpott-einsamkeit-gemeinschaft-kiosk-herne",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-06/alltag-ruhrpott-einsamkeit-gemeinschaft-kiosk-herne-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Kelten : Hochzeit für Macht und Geld",
-      "teaser": "Eine neue Studie zeigt: Schon die Kelten verheirateten ihre Kinder mit anderen Herrschaftshäusern, damit der Reichtum in der Familie blieb. Bis die Römer kamen.",
-      "url": "https://www.zeit.de/2024/25/kelten-machtpolitik-reichtum-elite-hallstattzeit-geschichte",
-      "image_url": "https://img.zeit.de/2024/25/kelten-macht-reichtum-politische-ehe-trauschein-2/super__430x286"
+      "title": "Diese Woche in der ZEIT : »Jeder hat das Recht, seine Meinung ... frei zu äußern«",
+      "teaser": "So steht es im Grundgesetz. Aber wo sind heute die Grenzen?",
+      "url": "https://premium.zeit.de/abo/diezeit?aktionsnummer=1130785&wt_zmc=fix.int.zonpme.zeitde.epaper.z+.home.bildtext.bildtext&utm_medium=fix&utm_source=zeitde_zonpme_int&utm_campaign=epaper&utm_content=z+_home_bildtext_bildtext?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.link.link&utm_medium=cross&utm_source=zeitde_zonpme_int&utm_campaign=printbox&utm_content=ausgseite_bildtext_link_link",
+      "image_url": "https://img.zeit.de/2024/25/packshot-24-25-1000x620.png/imagegroup/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Beziehung : Wo die Liebe hingeht",
@@ -294,28 +290,28 @@
       "image_url": "https://img.zeit.de/zeit-magazin/2024-06/wochenende-beziehung-liebe-trennung-partnerschaft-bild/super__430x286"
     },
     {
-      "title": "Diese Woche in der ZEIT : »Jeder hat das Recht, seine Meinung ... frei zu äußern«",
-      "teaser": "So steht es im Grundgesetz. Aber wo sind heute die Grenzen?",
-      "url": "https://premium.zeit.de/abo/diezeit?aktionsnummer=1130785&wt_zmc=fix.int.zonpme.zeitde.epaper.z+.home.bildtext.bildtext&utm_medium=fix&utm_source=zeitde_zonpme_int&utm_campaign=epaper&utm_content=z+_home_bildtext_bildtext?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.link.link&utm_medium=cross&utm_source=zeitde_zonpme_int&utm_campaign=printbox&utm_content=ausgseite_bildtext_link_link",
-      "image_url": "https://img.zeit.de/2024/25/packshot-24-25-1000x620.png/imagegroup/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Fischerei : Feindliche Übernahme",
-      "teaser": "Vor 60 Jahren setzten britische Kolonialbeamte Nilbarsche im Viktoriasee aus. Heute ist der Fisch fast verschwunden – und bestimmt doch das Leben der Menschen am Ufer.",
-      "url": "https://www.zeit.de/zeit-magazin/2024/25/fischerei-viktoriasee-nilbarsch-ostafrika",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024/25/die-seenot-bild-1/super__430x286"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Psychotherapie : Welchen Satz haben Sie aus Ihrer Therapie mitgenommen?",
       "teaser": "Wer eine Psychotherapie macht, lernt viel: über sich selbst und die Beziehungen zu anderen. Welche Erkenntnis begleitet Sie seit Ihrer Therapie? Erzählen Sie es uns.",
       "url": "https://www.zeit.de/zeit-magazin/leben/2024-06/psychotherapie-erfahrungen-beziehungen-aufruf",
       "image_url": "https://img.zeit.de/zeit-magazin/2024-06/psychotherapie-community-aufruf-bild/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Garry Conille : Haitis neuer Ministerpräsident im Krankenhaus",
+      "teaser": "Erst Ende Mai war Garry Conille zum Ministerpräsidenten der haitianischen Übergangsregierung gewählt worden. Berichten zufolge leidet er unter Atembeschwerden.",
+      "url": "https://www.zeit.de/politik/ausland/2024-06/haiti-garry-conille-ministerpraesident-krankenhaus",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-06/garry-conille-ministerpraesident-haiti-uebergangsregierung-bild/super__320x213"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); EU-Parlament : Europawahl in Deutschland hat begonnen",
       "teaser": "Rund 65 Millionen Menschen sind in Deutschland zur Wahl des EU-Parlaments aufgerufen. Umfragen zufolge dürften in etlichen EU-Staaten rechte Parteien stark abschneiden.",
       "url": "https://www.zeit.de/politik/deutschland/2024-06/europawahl-eu-parlament-deutschland-beginn",
       "image_url": "https://img.zeit.de/politik/2024-06/europawahl-deutschland-bild/super__320x213"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Gaza-Krieg : Annalena Baerbock wertet Geiselbefreiung als \"Hoffnungsschimmer\"",
+      "teaser": "Die Außenministerin hofft, dass das Leid im Gaza-Konflikt \"endlich ein Ende nimmt\". Die Hamas müsse nun dem Abkommen über eine Feuerpause zustimmen.",
+      "url": "https://www.zeit.de/politik/ausland/2024-06/gaza-krieg-geiselbefreiung-hamas-annalena-baerbock",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-06/gaza-krieg-geiselbefreiung-hamas-annalena-baerbock-bild/super__320x213"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Abschiebungen : Sigmar Gabriel fordert Olaf Scholz zu Verhandlungen mit Taliban auf",
@@ -348,18 +344,6 @@
       "image_url": "https://img.zeit.de/politik/deutschland/2024-06/spd-habeck-lindner-lieferketten-gesetz-bild/super__320x213"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Rechtsextremismus : Tausende demonstrieren bundesweit gegen rechts",
-      "teaser": "Kurz vor der EU-Wahl fanden in vielen deutschen Städten Demonstrationen gegen Rechtsextremismus statt. Neben Berlin wurde in Leipzig, München und Dresden demonstriert.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-06/demonstration-gegen-rechtsextremismus-berlin-hamburg",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-06/demonstration-gegen-rechtsextremismus-berlin-hamburg-bild/super__320x213"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Israelische Regierung : Benny Gantz sagt Pressekonferenz laut Berichten vorerst ab",
-      "teaser": "Netanjahus Rivale Benny Gantz hatte mit einem Rücktritt aus dem israelischen Kriegskabinett gedroht. Eine Pressekonferenz hat er laut Medienberichten nun verschoben.",
-      "url": "https://www.zeit.de/politik/ausland/2024-06/israel-benny-gantz-benjamin-netanjahu-krieg-ruecktritt-pressekonferenz",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-06/israel-benny-gantz-benjamin-netanjahu-krieg-ruecktritt-pressekonferenz-bild/super__320x213"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Ideenfestival 2024 : Wir laden dich ein",
       "teaser": "Am 31. August veranstaltet ZEIT ONLINE zum neunten Mal das Ideenfestival Z2X. Ab sofort kannst du dich kostenlos dafür anmelden.",
       "url": "https://www.zeit.de/z2x/2024-04/z2xfestival",
@@ -383,20 +367,20 @@
       "url": "https://www.zeit.de/wirtschaft/2024-06/theodor-weimer-deutsche-boerse-rede-ampelkoalition"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Erziehung : Was Orang-Utan-Eltern besser machen als wir",
-      "teaser": "Wenn Kinder Unsinn machen, reagieren menschliche Eltern schnell mal genervt. Anders als Orang-Utan-Mütter oder -Väter. Was kann man von den Affen lernen?",
-      "url": "https://www.zeit.de/zeit-wissen/2024/03/erziehung-unsinn-kinder-orang-utan"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Europa : Sie tun noch so, als wär's ein Spiel",
-      "teaser": "In Europa müssen sich Rechtsradikale nicht mehr mit brutaler Gewalt durchsetzen. Stattdessen werden sie von Politikerinnen der Mitte umarmt.",
-      "url": "https://www.zeit.de/politik/2024-06/europa-europaparlament-wahl-faschismus-politik",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-06/europa-europaparlament-wahl-faschismus-politik-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Personalmangel : In diesen Berufen ist der Fachkräftemangel akut",
+      "teaser": "Neue Daten zeigen: In 183 Berufen ist der Personalmangel enorm. Auch in Ihrem? Prüfen Sie, wie stark Ihre Branche betroffen ist – und wo die meisten Fachkräfte fehlen.",
+      "url": "https://www.zeit.de/arbeit/2024-06/personalmangel-fachkraeftemangel-arbeitslosigkeit-arbeitsmarkt"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Theodor Weimer : Jetzt red i",
       "teaser": "Der Börsenchef Theodor Weimer hält eine Wutrede gegen Wirtschaftsminister Habeck und die Ampelregierung. Was es heißt, wenn einer Dax und Demokratie verwechselt.",
-      "url": "https://www.zeit.de/wirtschaft/2024-06/theodor-weimer-deutsche-boerse-rede-ampelkoalition"
+      "url": "https://www.zeit.de/wirtschaft/2024-06/theodor-weimer-deutsche-boerse-rede-ampelkoalition",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-06/theodor-weimer-deutsche-boerse-rede/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Gaza-Krieg : \"Ich bin so glücklich, hier zu sein\"",
+      "teaser": "Acht Monate nach ihrer Entführung hat Israels Armee vier Geiseln aus Gaza befreit. Ein Moment der Hoffnung für das traumatisierte Land",
+      "url": "https://www.zeit.de/politik/ausland/2024-06/isreal-gaza-krieg-geiseln-hamas"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Nachtleben : Hier ist Ihre Stadt nachts am lebendigsten",
@@ -410,14 +394,14 @@
       "image_url": "https://img.zeit.de/wirtschaft/2024-06/theodor-weimer-deutsche-boerse-rede/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Europa : Sie tun noch so, als wär's ein Spiel",
-      "teaser": "In Europa müssen sich Rechtsradikale nicht mehr mit brutaler Gewalt durchsetzen. Stattdessen werden sie von Politikerinnen der Mitte umarmt.",
-      "url": "https://www.zeit.de/politik/2024-06/europa-europaparlament-wahl-faschismus-politik"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Anton Jäger : \"Ich nenne das Hyperpolitik\"",
       "teaser": "Ob gegen rechts, gegen Polizeigewalt oder für das Klima: Warum blieben die großen politischen Proteste zuletzt so folgenlos? Der Historiker Anton Jäger hat eine Antwort.",
       "url": "https://www.zeit.de/kultur/2024-06/anton-jaeger-protest-demonstrationen-politik"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Gaza-Krieg : Israel meldet Befreiung von vier Geiseln aus dem Gazastreifen",
+      "teaser": "An zwei Orten im Flüchtlingslager Nuseirat hat das israelische Militär vier Geiseln entdeckt. Es ist der bislang größte Rettungseinsatz seit Kriegsbeginn.",
+      "url": "https://www.zeit.de/politik/ausland/2024-06/geiseln-befreiung-militaer-israel-hamas-gazastreifen"
     },
     {
       "title": "Verlagsangebot : 7 Lebensmittel für eine antientzündliche Ernährung",
@@ -432,6 +416,12 @@
       "image_url": "https://img.zeit.de/politik/deutschland/2024-06/afd-essen-messe-kuendigung/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Plan D: Alltag im Ruhrpott : Die Mutter der Nation",
+      "teaser": "Während die Einsamkeit viele Menschen in Deutschland plagt, leben sie an Heike’s Kiosk in Herne die Gemeinschaft. Das liegt an der Besitzerin. Es gibt nur eine Regel.",
+      "url": "https://www.zeit.de/gesellschaft/2024-06/alltag-ruhrpott-einsamkeit-gemeinschaft-kiosk-herne",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-06/alltag-ruhrpott-einsamkeit-gemeinschaft-kiosk-herne-bild/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); \"Trotz und Treue – das Phänomen Sahra Wagenknecht\" : Niemals Konsens, immer konsistent",
       "teaser": "Seit über 30 Jahren ist Sahra Wagenknecht Spitzenpolitikerin, was gibt's da noch zu erzählen? Eine vierteilige MDR-Doku guckt nach und verzweifelt an ihrem Gegenstand.",
       "url": "https://www.zeit.de/kultur/film/2024-06/trotz-treue-sarah-wagenknecht-ard-rezension",
@@ -442,12 +432,6 @@
       "teaser": "Eigentlich wollte der Astronaut William Anders 1968 nur den Mond fotografieren. Sein Bild \"Earthrise\" entstand dabei zufällig – und veränderte die Welt.",
       "url": "https://www.zeit.de/zeit-magazin/leben/2024-06/william-anders-astronaut-apollo-8-earthrise",
       "image_url": "https://img.zeit.de/zeit-magazin/leben/2024-06/william-anders-astronaut-apollo-8-earthrise-duo/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); E-Mobilität : Du sollst nicht Fremdladen",
-      "teaser": "Ein E-Auto unterwegs aufzuladen, ist günstiger geworden. Der Vergleich zum Verbrenner fällt eindeutig aus. Doch mit etwas Pech kann es nach wie vor richtig teuer werden.",
-      "url": "https://www.zeit.de/mobilitaet/2024-06/e-mobilitaet-ladestationen-strompreis-roaming-elektroautos",
-      "image_url": "https://img.zeit.de/mobilitaet/2024-06/e-mobilitaet-ladestationen-strompreis/super__430x286"
     },
     {
       "title": "Worträtsel : Wortiger",
@@ -576,22 +560,22 @@
       "image_url": "https://img.zeit.de/digital/2024-04/was-jetzt-die-woche-tiktok-verbot/super__320x213"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Europawahl : Die Europawahl könnte Brüssel schwächen",
+      "teaser": "Am Sonntag ist Europawahl. Was würde ein Zulegen der rechten Parteien bedeuten? Und: Anwohner dürfen gegen zugeparkte Gehwege vorgehen.",
+      "url": "https://www.zeit.de/politik/2024-06/europawahl-deutschland-entwicklung-rechtspopulismus-nachrichtenpodcast",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Rechtsextremismus : Tausende demonstrieren bundesweit gegen rechts",
+      "teaser": "Kurz vor der EU-Wahl fanden in vielen deutschen Städten Demonstrationen gegen Rechtsextremismus statt. Neben Berlin wurde in Leipzig, München und Dresden demonstriert.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-06/demonstration-gegen-rechtsextremismus-berlin-hamburg",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-06/demonstration-gegen-rechtsextremismus-berlin-hamburg-bild/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Katarina Barley : Der Kanzler als stiller Beifahrer",
       "teaser": "Die SPD plakatiert Olaf Scholz neben Katarina Barley – doch der Kanzlerbonus bleibt aus. War die Kampagne ein Fehler? Die Spitzenkandidatin selbst sieht es anders.",
       "url": "https://www.zeit.de/politik/deutschland/2024-06/katharina-barley-spd-wahlkampf-olaf-scholz",
       "image_url": "https://img.zeit.de/politik/2024-06/katarina-barley-spd-wahlkampf/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Freie Sachsen : Gefahr von der Straße",
-      "teaser": "Bei den Freien Sachsen sammeln sich ehemalige NPD-Mitglieder und andere Radikale. Selbstbeschreibung: \"Störfaktor\". Was, wenn sie bei den Kommunalwahlen Erfolg haben?",
-      "url": "https://www.zeit.de/2024/25/freie-sachsen-kommunalwahlen-npd-rechtsextremismus-radikalismus",
-      "image_url": "https://img.zeit.de/2024/25/freie-sachsen-demonstrationen-zwoenitz-teaser/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Antisemitismus : Michel Friedman warnt vor Gleichgültigkeit gegenüber Hass und Hetze",
-      "teaser": "Der Publizist Michel Friedman hat Politik und Gesellschaft dazu aufgerufen, Trägheit und Verdrängung zu überwinden. \"Gleichgültigkeit hilft dem Hass\", sagt er.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-06/michel-friedman-publizist-antisemitismus-demokratie",
-      "image_url": "https://img.zeit.de/politik/2024-06/die-lange-nacht-der-zeit-2024-michel-friedman-aufmacherfoto/super__430x286"
     },
     {
       "title": "Verlagsangebot : Englischquiz: Lincoln oder Kennedy – wer hat’s gesagt?",
@@ -686,7 +670,7 @@
     {
       "title": "Modegeschäft : Benettons unaufhaltsamer Niedergang",
       "teaser": "Das Modeunternehmen der Familie Benetton häuft Millionenverluste an. Warum eine Rettung der Kultmarke schwer werden dürfte – und das den Benetton-Konzern dennoch kaum trifft.",
-      "url": "https://www.wiwo.de/unternehmen/handel/modegeschaeft-benettons-unaufhaltsamer-niedergang/29833486.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
+      "url": "https://www.wiwo.de/my/unternehmen/handel/modegeschaeft-benettons-unaufhaltsamer-niedergang/29833486.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
       "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/100-pro-imago-life-2-492165727-highres/29834374/3-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
       "image_title": "Benettons unaufhaltsamer Niedergang"
     },
@@ -716,6 +700,12 @@
       "image_url": "https://img.zeit.de/zett/2024-01/psychologie-emotionale-abhaengigkeit/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Demokratie : Demokratie you, Demokratie me!",
+      "teaser": "Überall wird gerade für die Demokratie geworben. Annalena Baerbock findet sie toll, die AfD auch. Doch das könnte ein großes Missverständnis sein.",
+      "url": "https://www.zeit.de/kultur/2024-06/demokratie-werbung-annalena-baerbock-afd",
+      "image_url": "https://img.zeit.de/kultur/2024-06/demokratie-werbung-annalena-baerbock/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Olympia in Paris : Eine Stadt geht baden",
       "teaser": "Paris bereitet sich auf die Olympischen Spiele und ihre Besucher vor. Aus der Seine soll ein Poolvergnügen für alle werden – sogar für den Präsidenten.",
       "url": "https://www.zeit.de/2024/25/paris-olympische-spiele-2024-seine-schwimmen-wasser",
@@ -732,12 +722,6 @@
       "teaser": "Ob gegen rechts, gegen Polizeigewalt oder für das Klima: Warum blieben die großen politischen Proteste zuletzt so folgenlos? Der Historiker Anton Jäger hat eine Antwort.",
       "url": "https://www.zeit.de/kultur/2024-06/anton-jaeger-protest-demonstrationen-politik",
       "image_url": "https://img.zeit.de/politik/deutschland/2024-06/anton-jaeger-protest-demonstrationen-politik-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Deutsche Nationalstiftung : Pianist Igor Levit mit Deutschem Nationalpreis ausgezeichnet",
-      "teaser": "Igor Levit erhält den deutschen Nationalpreis. Er sei eine der eindrücklichsten Stimmen gegen Antisemitismus in Deutschland, begründete die Deutsche Nationalstiftung.",
-      "url": "https://www.zeit.de/kultur/musik/2024-06/deutscher-nationalpreis-pianist-igor-levit",
-      "image_url": "https://img.zeit.de/kultur/musik/2024-06/deutscher-nationalpreis-pianist-igor-levit-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Europawahl : Liebesgrüße an Rechtsaußen",
@@ -764,6 +748,12 @@
       "image_url": "https://img.zeit.de/video/2024-06/6354519233112-still/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Kelten : Hochzeit für Macht und Geld",
+      "teaser": "Eine neue Studie zeigt: Schon die Kelten verheirateten ihre Kinder mit anderen Herrschaftshäusern, damit der Reichtum in der Familie blieb. Bis die Römer kamen.",
+      "url": "https://www.zeit.de/2024/25/kelten-machtpolitik-reichtum-elite-hallstattzeit-geschichte",
+      "image_url": "https://img.zeit.de/2024/25/kelten-macht-reichtum-politische-ehe-trauschein-2/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Erziehung : Was Orang-Utan-Eltern besser machen als wir",
       "teaser": "Wenn Kinder Unsinn machen, reagieren menschliche Eltern schnell mal genervt. Anders als Orang-Utan-Mütter oder -Väter. Was kann man von den Affen lernen?",
       "url": "https://www.zeit.de/zeit-wissen/2024/03/erziehung-unsinn-kinder-orang-utan",
@@ -780,12 +770,6 @@
       "teaser": "Der US-Astronaut William Anders schoss eines der berühmtesten Fotos der Raumfahrtgeschichte: die Erde vom Weltall aus gesehen. Nun starb er bei einem Flugzeugabsturz.",
       "url": "https://www.zeit.de/wissen/2024-06/raumfahrt-mond-earthrise-fotograf-william-anders-ist-tot",
       "image_url": "https://img.zeit.de/wissen/2024-06/earthrise-fotograf-william-anders-ist-tot/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Hitzewelle : US-Bundesstaaten melden historische Höchsttemperaturen",
-      "teaser": "Der Südwesten der USA erlebt eine ungewöhnlich frühe Hitzewelle. Im Death Valley wurden Temperaturen von 50 Grad gemessen. Behörden warnen vor Aktivitäten im Freien.",
-      "url": "https://www.zeit.de/wissen/umwelt/2024-06/usa-hitzwelle-suedwesten-hoechsttemperaturen",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2024-06/usa-suedwesten-hitzewelle-las-vegas-bild/super__430x286"
     },
     {
       "title": "Sichern Sie sich jetzt nur für kurze Zeit unseren Willkommensrabatt!",
@@ -878,10 +862,16 @@
       "image_url": "https://img.zeit.de/wirtschaft/2024-06/teilzeitquote-bild/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Fischerei : Feindliche Übernahme",
+      "teaser": "Vor 60 Jahren setzten britische Kolonialbeamte Nilbarsche im Viktoriasee aus. Heute ist der Fisch fast verschwunden – und bestimmt doch das Leben der Menschen am Ufer.",
+      "url": "https://www.zeit.de/zeit-magazin/2024/25/fischerei-viktoriasee-nilbarsch-ostafrika",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024/25/die-seenot-bild-1/wide__892x501"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); VW ID.3 : Ein echter Berliner",
       "teaser": "Außen zerbeult, innen bekleckert: Nach vier Jahren auf den Straßen der Hauptstadt sieht dieser VW ID.3 aus wie ein Club bei Tageslicht. Höchste Zeit für ein Facelift.",
       "url": "https://www.zeit.de/zeit-magazin/mode-design/2024-06/vw-id3-car-sharing-e-auto-software",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-06/vw-id3-autotest-01/wide__892x501"
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-06/vw-id3-autotest-01/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Small-Talk : Was fragt man einen Gott?",
@@ -890,23 +880,17 @@
       "image_url": "https://img.zeit.de/zeit-magazin/2024/25/liebe-leute-bild-1/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Haushaltsgeräte : Herrischer Vollautomat, dominanter Föhn",
-      "teaser": "Achtung, auch die Beziehung zu Haushaltsgeräten kann toxisch enden! Warum uns ausgerechnet Anschaffungen, die das Leben erleichtern sollten, in den Wahnsinn treiben.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2024-06/haushaltsgeraete-beziehung-kaffeevollautomat-foen-staubsaugerroboter",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-06/haushaltsgeraete-beziehung-kaffeevollautomat-foen-staubsaugerroboter-bild/super__430x286"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Geraldine Rauch : Die Aktivistin",
       "teaser": "Geraldine Rauch wollte als Präsidentin der TU Berlin nahbar sein, laut, politisch. Dann hat sie antisemitische Posts gelikt – und ihre Uni in eine tiefe Krise gestürzt.",
       "url": "https://www.zeit.de/2024/25/geraldine-rauch-technische-universitaet-berlin-antisemitismus",
       "image_url": "https://img.zeit.de/2024/25/die-aktivistin-bild-1/wide__892x501"
     },
     {
-      "title": "Verlagsangebot : Was kann man wo studieren?",
-      "teaser": "Deutschlands größte Suchmaschine für Studiengänge und Hochschulen bietet Orientierung und hilft bei der Studienwahl.",
-      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.automation.bleistift-biss.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=verlagsteaser&amp;utm_content=suma_automation_bleistift-biss_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/suma-teaser-januar2019/wide__430x286__desktop",
-      "image_title": "Was kann man wo studieren?"
+      "title": "Verlagsangebot : Ein Studium finden, das passt",
+      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
+      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.teaser.bewerben-schreibtisch.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=sit-verlagsteaser&amp;utm_content=sit_teaser_bewerben-schreibtisch_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/sit-bewerben-schreibtisch/wide__430x286__desktop",
+      "image_title": "Ein Studium finden, das passt"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Europe Talks 2024 : Sie eint die Angst um ihre Zukunft",
@@ -939,16 +923,16 @@
       "image_url": "https://img.zeit.de/angebote/Links/bilder-zeit-reisen/bilder-2023/freunde-am-tisch-c-solstock-istock-611076216-standardlizenz-1160x656/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); E-Mobilität : Du sollst nicht Fremdladen",
+      "teaser": "Ein E-Auto unterwegs aufzuladen, ist günstiger geworden. Der Vergleich zum Verbrenner fällt eindeutig aus. Doch mit etwas Pech kann es nach wie vor richtig teuer werden.",
+      "url": "https://www.zeit.de/mobilitaet/2024-06/e-mobilitaet-ladestationen-strompreis-roaming-elektroautos",
+      "image_url": "https://img.zeit.de/mobilitaet/2024-06/e-mobilitaet-ladestationen-strompreis/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Wochenendpendler : Kann ein Leben an zwei Orten glücklich machen?",
       "teaser": "Manche Menschen haben nicht ein Zuhause, sondern zwei. Aus einer Notlösung kann Gewohnheit werden. Auch für Jahrzehnte. Und mitunter profitiert die Liebe davon sogar.",
       "url": "https://www.zeit.de/mobilitaet/2024-05/wochenendpendler-arbeit-familie-einsamkeit-stress",
       "image_url": "https://img.zeit.de/mobilitaet/2024-05/wochenendpendler-arbeit-familie/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Bundesverwaltungsgericht : Anwohner dürfen laut Urteil gegen Autos auf Gehwegen vorgehen",
-      "teaser": "Wer mit zwei Rädern auf dem Bürgersteig parkt, gegen den können Anwohner bei den Straßenverkehrsbehörden vorgehen. Das hat das Bundesverwaltungsgericht entschieden.",
-      "url": "https://www.zeit.de/mobilitaet/2024-06/autos-gehwege-parken-urteil-bundesverwaltungsgericht",
-      "image_url": "https://img.zeit.de/mobilitaet/2024-06/autos-gehwege-parken-urteil-bundesverwaltungsgericht-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Holocaustleugnung : 95 Jahre alt, kein bisschen weise",
@@ -993,6 +977,10 @@
       "image_url": "https://img.zeit.de/newsletter/podcast-festival/podcast-newsletter-titelbild/super__430x286"
     },
     {
+      "title": "Europawahl: Hessens Wahllokale geöffnet",
+      "url": "https://www.zeit.de/news/2024-06/09/hessens-wahllokale-geoeffnet"
+    },
+    {
       "title": "Europawahl: 10,4 Millionen Menschen sind zur Wahl aufgerufen",
       "url": "https://www.zeit.de/news/2024-06/09/10-4-millionen-menschen-sind-zur-wahl-aufgerufen"
     },
@@ -1019,10 +1007,6 @@
     {
       "title": "Formel 1: Zeitgleich mit Verstappen: Russell rast auf ersten Platz",
       "url": "https://www.zeit.de/news/2024-06/09/zeitgleich-mit-verstappen-russell-rast-auf-ersten-platz"
-    },
-    {
-      "title": "Basketball-Meisterschaft: Alba verspricht Bayern Revanche in zweitem Finale",
-      "url": "https://www.zeit.de/news/2024-06/09/alba-verspricht-bayern-revanche-in-zweitem-finale"
     }
   ]
 }
