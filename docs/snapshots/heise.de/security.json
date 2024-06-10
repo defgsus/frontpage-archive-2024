@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-06-10T08:08:38",
+  "timestamp": "2024-06-10T09:00:53",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -48,7 +48,17 @@
       "url": "https://www.heise.de/news/Kritische-DoS-Luecke-bedroht-IBM-App-Connect-Enterprise-Certified-Container-9750023.html"
     },
     {
-      "title": "iX-Workshop: Linux-Server absichern – Effektiv und umfassend",
+      "title": "TTPs: Angriffsstrategien verstehen und durchkreuzen",
+      "teaser": "Das Wissen um die Tactics, Techniques and Procedures (TTPs) krimineller Gruppen hilft beim Abschätzen der Gefahren und beim Ausarbeiten von Schutzmaßnahmen.",
+      "url": "https://www.heise.de/hintergrund/TTPs-Angriffsstrategien-verstehen-und-durchkreuzen-9725985.html"
+    },
+    {
+      "title": "Cyber-Angreifer: BSI benennt aktive Tätergruppen",
+      "teaser": "Je eine Liste der in Deutschland aktiven staatlichen Akteure und der Cybercrime-Gruppierungen hilft dabei, Bedrohungsmeldungen besser einzuordnen.",
+      "url": "https://www.heise.de/news/Cyber-Angreifer-BSI-benennt-aktive-Taetergruppen-9745223.html"
+    },
+    {
+      "title": "iX-Workshop: Linux-Server vor Angriffen wirksam schützen",
       "teaser": "Linux-Server und Netzwerkdienste effektiv und umfassend vor Angriffen schützen - von physischer Sicherheit über Verschlüsselung und 2FA bis hin zu SELinux.",
       "url": "https://www.heise.de/news/iX-Workshop-Linux-Server-absichern-Effektiv-und-umfassend-9751956.html",
       "image_title": "iX-Workshop: Linux-Server härten"
@@ -92,10 +102,21 @@
       "url": "https://www.heise.de/news/Erpresser-uebernehmen-GitHub-Repositories-greifen-Daten-ab-und-loeschen-Inhalte-9751516.html"
     },
     {
+      "title": "Kritische Azure-Lücke: Patch-Status derzeit unklar",
+      "teaser": "Microsofts Cloud-Computing-Plattform Azure ist attackierbar. Sicherheitsforschern zufolge können Angreifer Schadcode auf Endpoints von Kunden ausführen.",
+      "url": "https://www.heise.de/news/Kritische-Azure-Luecke-Patch-Status-derzeit-unklar-9751850.html"
+    },
+    {
       "title": "Jetzt patchen! Exploitcode für kritische Lücke in Apache HugeGraph in Umlauf",
       "teaser": "Admins sollten aus Sicherheitsgründen das Tool zum Erstellen von Diagrammen HugeGraph von Apache zügig auf den aktuellen Stand bringen.",
       "url": "https://www.heise.de/news/Jetzt-patchen-Exploitcode-fuer-kritische-Luecke-in-Apache-HugeGraph-in-Umlauf-9751687.html",
       "image_title": "Eine Tastatur mit \"Time to update\" auf der Nulltaste des Ziffernblocks"
+    },
+    {
+      "title": "FCC bereitet sichere Internet-Routen vor",
+      "teaser": "Die Routingtabellen des Internet (BGP) sind anfällig für Manipulation. Daher sollen US-Provider zu Sicherungsmaßnahmen verpflichtet werden.​",
+      "url": "https://www.heise.de/news/FCC-bereitet-sichere-Internet-Routen-vor-9751340.html",
+      "image_title": "Rote und blaue Ethernet-Kabel hängen an einem Rack"
     },
     {
       "title": "Kritische DoS-Lücke bedroht IBM App Connect Enterprise Certified Container",
@@ -139,31 +160,14 @@
       "image_title": "Krankenhausflur mit einem Bett."
     },
     {
-      "title": "iX-Workshop Digital Forensics & Incident Response: Schützen, Erkennen, Reagieren",
-      "teaser": "Lernen Sie, professionelle Incident Response Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können. (Last Call)",
-      "url": "https://www.heise.de/news/iX-Workshop-Digital-Forensics-Incident-Response-Schuetzen-Erkennen-Reagieren-9743880.html",
-      "image_title": "iX-Workshop Digital Forensics & Incident Response"
-    },
-    {
-      "title": "Sicherheitsupdates trotz Supportende: Zyxel sichert NAS-Systeme ab",
-      "teaser": "Offensichtlich sind fünf jüngst entdeckte Lücken derart gefährlich, dass Zyxel sich um die EoL-Geräte kümmern muss.",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-trotz-Supportende-Zyxel-sichrt-NAS-Systeme-ab-9748388.html"
-    },
-    {
-      "title": "Patchday: Attacken auf Geräte mit Android 12, 13 und 14 möglich",
-      "teaser": "Wichtige Sicherheitsupdates schließen mehrere Schwachstellen in verschiedenen Android-Versionen.",
-      "url": "https://www.heise.de/news/Patchday-Mehrere-Modem-Sicherheitsluecken-in-Android-geschlossen-9748243.html",
-      "image_title": "Stilisiertes Bild: Smartphone mit Android-Roboter auf dem Bildschirm, steht in Flammen"
-    },
-    {
-      "title": "\"Passwort\" Folge 2: Geheime Nachrichten",
-      "teaser": "Im neuen Podcast von heise Security reden Christopher Kunz und Sylvester Tremmel über moderne und weniger moderne Lösungen zur sicheren Kommunikation.",
-      "url": "https://www.heise.de/news/Passwort-Folge-2-Geheime-Nachrichten-9745961.html"
-    },
-    {
       "title": "heise security tour 2024",
       "teaser": "Die Konferenz zum Thema IT-Security. Nutzen Sie die einzigartige Gelegenheit, sich direkt aus der ersten Reihe über die neuesten Trends, Technologien und Bedrohungen in der Welt der IT-Sicherheit zu informieren. Dieses Jahr findet die Tour in Köln, Hannover, Stuttgart und online statt.",
       "url": "https://security-tour.heise.de/?wt_mc=intern.academy.security.konf_sectour.hs_teaser.teaser.teaser"
+    },
+    {
+      "title": "TTPs: Angriffsstrategien verstehen und durchkreuzen",
+      "teaser": "Das Wissen um die Tactics, Techniques and Procedures (TTPs) krimineller Gruppen hilft beim Abschätzen der Gefahren und beim Ausarbeiten von Schutzmaßnahmen.",
+      "url": "https://www.heise.de/hintergrund/TTPs-Angriffsstrategien-verstehen-und-durchkreuzen-9725985.html"
     },
     {
       "title": "WLAN mit individuellen Schlüsseln sichern",
@@ -178,25 +182,19 @@
       "image_title": "Zwei Roboterhände auf einer ergonomischen Tastatur"
     },
     {
-      "title": "Kommentar: Die gefährliche Beißhemmung des BSI gegenüber Microsoft",
-      "teaser": "Nach den Vorfällen bei Microsoft greifen die US-Behörden durch. Das passive BSI sollte sich ein Beispiel an den US-Kollegen nehmen, meint Jürgen Schmidt.",
-      "url": "https://www.heise.de/meinung/Kommentar-Microsofts-Sicherheitspraxis-wird-zur-Gefahr-und-das-BSI-schweigt-9686629.html",
-      "image_title": "Windows-Logo mit Rissen, darüber das Wort \"Kommentar\""
+      "title": "Re: Maus und Tastatur frieren nach einiger Zeit ein",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Maus-und-Tastatur-frieren-nach-einiger-Zeit-ein/posting-44072709/show/"
     },
     {
-      "title": "Was stellt Desinfect mit dem USB-Stick an?",
+      "title": "Re: Was stellt Desinfect mit dem USB-Stick an?",
       "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Was-stellt-Desinfect-mit-dem-USB-Stick-an/posting-44072464/show/"
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Was-stellt-Desinfect-mit-dem-USB-Stick-an/posting-44072529/show/"
     },
     {
       "title": "Re: Erfolgsmeldung, Tipp und Verbesserungsvorschläge",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Erfolgsmeldung-Tipp-und-Verbesserungsvorschlaege/posting-44070517/show/"
-    },
-    {
-      "title": "Re: Maus und Tastatur frieren nach einiger Zeit ein",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Maus-und-Tastatur-frieren-nach-einiger-Zeit-ein/posting-44070490/show/"
     }
   ]
 }
