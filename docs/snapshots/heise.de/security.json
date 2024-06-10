@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-06-10T20:00:41",
+  "timestamp": "2024-06-10T21:00:45",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "PyTorch",
+      "url": "https://www.heise.de/news/Schwachstelle-in-PyTorch-erlaubt-Command-Injection-via-RPC-auf-dem-Master-Node-9756237.html"
+    },
+    {
       "title": "PHP",
       "url": "https://www.heise.de/news/Sicherheitspatch-nachgebessert-Schadcode-Attacken-auf-PHP-moeglich-9752112.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Exploitcode-fuer-kritische-Luecke-in-Apache-HugeGraph-in-Umlauf-9751687.html"
     },
     {
-      "title": "IBM App Connect Enterprise Certified Container, DesignerAuthoring",
-      "url": "https://www.heise.de/news/Kritische-DoS-Luecke-bedroht-IBM-App-Connect-Enterprise-Certified-Container-9750023.html"
+      "title": "Schwachstelle in PyTorch erlaubt Command Injection via RPC auf dem Master Node",
+      "teaser": "Eine Schwachstelle in dem Machine-Learning-Framework ermöglicht beim verteilten Training das Ausführen beliebigem Code auf dem Master Node.",
+      "url": "https://www.heise.de/news/Schwachstelle-in-PyTorch-erlaubt-Command-Injection-via-RPC-auf-dem-Master-Node-9756237.html",
+      "image_title": "Ein rot schimmerndes Plexiglas-Wrndreieck"
     },
     {
       "title": "Univention Nubus: Modulares IAM für Cloud-Umgebungen",
@@ -153,12 +159,6 @@
       "teaser": "Recall, die neue KI-Gedächtnisstütze auf Microsofts neuen Copilot+-PCs, ist nicht nur praktisch, sondern offenbar auch ein Sicherheitsrisiko.",
       "url": "https://www.heise.de/news/Microsofts-KI-Assistent-Recall-ist-ein-Sicherheitsrisiko-9749876.html",
       "image_title": "Microsoft Recall"
-    },
-    {
-      "title": "Jetzt sicher: Microsoft schmeißt NTLM endgültig aus Windows",
-      "teaser": "Bereits vor einem halben Jahr hatte Redmond den Schritt angekündigt, nun ist es offiziell: Das Ende des \"NT LAN Manager\" naht.",
-      "url": "https://www.heise.de/news/Jetzt-sicher-Microsoft-schmeisst-NTLM-endgueltig-aus-Windows-9749824.html",
-      "image_title": "Stilisiertes Bild: Ein Laptop mit Windows-Logo auf einer Werkbank, umgeben von Werkzeugen und Zahrädern"
     },
     {
       "title": "heise security tour 2024",

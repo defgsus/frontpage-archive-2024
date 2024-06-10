@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-06-10T20:01:02",
+  "timestamp": "2024-06-10T21:01:02",
   "url": "https://www.welt.de/regionales/",
   "response": {
     "status": 200
@@ -25,6 +25,13 @@
     }
   ],
   "articles": [
+    {
+      "title": "Mann bei Messerangriff in Zug verletzt",
+      "teaser": "Kurz vor dem Stopp einer Regionalbahn im Saarbrücker Hauptbahnhof wird ein 21-Jähriger durch eine Messerattacke verletzt. Der Täter ist auf der Flucht, die Fahndung nach ihm läuft auf Hochtouren.",
+      "url": "https://www.welt.de/vermischtes/",
+      "image_url": "https://img.welt.de/img/vermischtes/mobile251963108/3597930457-ci23x11-w20/Streik-GDL.jpg",
+      "image_title": "Saarbrücker Hauptbahnhof"
+    },
     {
       "title": "Was das Comeback der Hamburger CDU alles verändert",
       "teaser": "SPD und Grüne fühlen sich als Regierungsparteien in der Hansestadt als unantastbar. Doch neun Monate vor der Bürgerschaftswahl dürfte die Selbstgewissheit einen Dämpfer erlitten haben. Vor allem die SPD muss nun hinterfragen, ob frühe Festlegungen wirklich klug waren.",
@@ -57,13 +64,6 @@
       "image_title": "Geraldine Rauch, Präsidentin der Technischen Universität Berlin"
     },
     {
-      "title": "21-Jährige getötet – Polizei sucht Personen mit ungewöhnlich verschmutzter Kleidung",
-      "teaser": "Eine junge Frau wird tot in einem Waldgebiet gefunden. Zum Wochenbeginn setzen Mordkommission und Staatsanwaltschaft ihre Ermittlungen fort. Und erweitern den Zeugenaufruf.",
-      "url": "https://www.welt.de/regionales/hamburg/",
-      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile251956202/7267930747-ci23x11-w20/415159666.jpg",
-      "image_title": "415159666"
-    },
-    {
       "title": "Lieferando-Gutschein",
       "url": "https://www.welt.de/deals/"
     },
@@ -84,10 +84,17 @@
       "url": "https://www.welt.de/deals/"
     },
     {
+      "title": "21-Jährige getötet – Polizei sucht Personen mit ungewöhnlich verschmutzter Kleidung",
+      "teaser": "Eine junge Frau wird tot in einem Waldgebiet gefunden. Zum Wochenbeginn setzen Mordkommission und Staatsanwaltschaft ihre Ermittlungen fort. Und erweitern den Zeugenaufruf.",
+      "url": "https://www.welt.de/regionales/hamburg/",
+      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile251956202/7267930747-ci16x9-w20/415159666.jpg",
+      "image_title": "415159666"
+    },
+    {
       "title": "„Wir müssen bei der Reduktion von Treibhausgasen vorankommen“",
       "teaser": "Der norwegische Konzern Yara ist der weltweit führende Hersteller von Ammoniak. Nun nimmt das Unternehmen eine Pilotanlage in Betrieb, um die Chemikalie ohne Ausstoß von Kohlendioxid herzustellen. Konzernchef Holsether beschreibt die Perspektiven von „grünem“ Ammoniak – mit Standorten auch in Norddeutschland.",
       "url": "https://www.welt.de/regionales/hamburg/",
-      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile251952866/4397932837-ci16x9-w20/Svein-Tore-Holsether-2.jpg",
+      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile251952866/4397932837-ci23x11-w20/Svein-Tore-Holsether-2.jpg",
       "image_title": "Svein Tore Holsether, Vorstandsvorsitzender von Yara International in Norwegen",
       "author": "Olaf Preuß"
     },
@@ -119,13 +126,6 @@
       "url": "https://www.welt.de/regionales/hamburg/",
       "image_url": "https://img.welt.de/img/regionales/hamburg/mobile251943086/2207931407-ci23x11-w20/Europawahl-Hamburg.jpg",
       "image_title": "Hamburgs Bürgermeister Peter Tschentscher (SPD), während seiner Stimmabgabe bei der Bezirksversammlungs- und Europawahl an der Wahlurne in Barmbek. Auch seine Partei musste Verluste hinnehmen"
-    },
-    {
-      "title": "FC St. Pauli droht der Verlust seines Aufstiegstrainers",
-      "teaser": "St. Paulis Aufstiegstrainer Fabian Hürzeler ist Berichten zufolge in Gesprächen mit Brighton & Hove Albion. Verlässt der 31-Jährige tatsächlich noch den Kiezclub? Das wäre ein harter Schlag für die Hamburger – allerdings winkt eine Millionen-Ablöse.",
-      "url": "https://www.welt.de/regionales/hamburg/",
-      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile251933978/8247933277-ci23x11-w20/Trainer-Fabian-Huerzeler-vom-FC-St-Pauli.jpg",
-      "image_title": "ARCHIV - 12.05.2024, Hamburg: Fußball: 2. Bundesliga, FC St. Pauli - VfL Osnabrück, 33. Spieltag, Millerntor-Stadion. St. Paulis Trainer Fabian Hürzeler wird gefeiert. Geht der Erfolgstrainer nach England? (zu dpa: «Berichte: Pauli-Trainer Hürzeler in Kontakt mit England-Club») Foto: Axel Heimken/dpa +++ dpa-Bildfunk +++"
     },
     {
       "title": "CDU, Grüne, AfD – Berlin ist bei der Europawahl dreigeteilt",
@@ -402,8 +402,20 @@
       "image_title": "Polizeieinsatz mit Blaulicht"
     },
     {
-      "title": "Mann bei Messerangriff in Zug lebensgefährlich verletzt",
-      "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article251963088/Mann-bei-Messerangriff-in-Zug-lebensgefaehrlich-verletzt.html"
+      "title": "Bayern-Basketballer verzweifeln: Alba schafft Ausgleich",
+      "url": "https://www.welt.de/regionales/berlin/article251963238/Bayern-Basketballer-verzweifeln-Alba-schafft-Ausgleich.html"
+    },
+    {
+      "title": "Kleinkind in Korb gefunden: Aus drittem Stock geworfen?",
+      "url": "https://www.welt.de/regionales/berlin/article251963226/Kleinkind-in-Korb-gefunden-Aus-drittem-Stock-geworfen.html"
+    },
+    {
+      "title": "Mann bei Messerangriff in Zug verletzt",
+      "url": "https://www.welt.de/vermischtes/article251963080/Saarbruecken-Mann-bei-Messerangriff-in-Zug-verletzt.html"
+    },
+    {
+      "title": "Mann bei Messerangriff in Zug verletzt",
+      "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article251963088/Mann-bei-Messerangriff-in-Zug-verletzt.html"
     },
     {
       "title": "Grüne verlieren in Bezirke: SPD wieder stärkste Kraft",
@@ -522,14 +534,6 @@
       "url": "https://www.welt.de/regionales/bayern/article251961792/Online-Haendler-Weltbild-soll-durch-Insolvenz-saniert-werden.html"
     },
     {
-      "title": "Radfahrer stirbt nach Unfall in Kassel",
-      "url": "https://www.welt.de/regionales/hessen/article251961770/Radfahrer-stirbt-nach-Unfall-in-Kassel.html"
-    },
-    {
-      "title": "Nein zu Autoverkehr-Ziel: Verkehrskonzept auf dem Prüfstand",
-      "url": "https://www.welt.de/regionales/hessen/article251961784/Nein-zu-Autoverkehr-Ziel-Verkehrskonzept-auf-dem-Pruefstand.html"
-    },
-    {
       "title": "Aufsichtsrat der TU Berlin lehnt Rücktritt von Geraldine Rauch ab",
       "url": "https://www.welt.de/politik/deutschland/article251953404/TU-Praesidentin-Rauch-wird-vom-Aufsichtsrat-konstruktiv-kritisch-unterstuetzt.html"
     },
@@ -636,10 +640,6 @@
     {
       "title": "Scholz wirft Berliner TU-Präsidentin aus Beraterkreis",
       "url": "https://www.welt.de/politik/deutschland/article251911848/Kein-Ruecktritt-Scholz-wirft-Berliner-TU-Praesidentin-aus-Beraterkreis.html"
-    },
-    {
-      "title": "Tausende ehren getöteten Polizisten – Steinmeier spricht von „blutigem Terrorakt“",
-      "url": "https://www.welt.de/politik/deutschland/article251909132/Rouven-Laur-Tausende-gedenken-des-getoeteten-Polizisten-Steinmeier-spricht-von-blutigem-Terrorakt.html"
     },
     {
       "title": "„Wir tun das, weil wir die Jammer-Deutschen sind“",
