@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-06-11T11:00:52",
+  "timestamp": "2024-06-11T12:10:49",
   "url": "https://www.fr.de/politik/",
   "response": {
     "status": 200
@@ -49,7 +49,7 @@
     },
     {
       "type": "text/javascript",
-      "src": "https://www.fr.de/politik/<html><head><title>502 Bad Gateway</title></head><body><center><h1>502 Bad Gateway</h1></center></body></html>",
+      "src": "https://www.fr.de/sso/static/login/common/js/id-userid-sso.min-6863eea173b610406eafeb17f1c926b2.js",
       "id": "iduidjs-ssowidget",
       "text": null
     },
@@ -62,27 +62,59 @@
   ],
   "articles": [
     {
-      "title": "Verlust für Russland: Kriegsschiff der Putin-Flotte brennt",
-      "teaser": "Nordflotte",
-      "url": "https://www.fr.de/politik/fotostrecke-ukraine-krieg-waffen-panzer-bradley-challenger-marder-drohnen-bilder-zr-92033374.html",
-      "image_url": "https://www.fr.de/bilder/2024/06/11/93122820/34794129-russland-region-murmansk-das-boot-abwehrschiff-admiral-lewtschenko-nimmt-an-der-marineuebung-kumscha-teil-2fFuBkymh7RG.jpg",
-      "image_title": "Verlust für Russland: Kriegsschiff der Putin-Flotte brennt",
-      "author": "Alexandra Heidsiek"
+      "title": "AfD-Erfolg bei Europawahl: Ramelow warnt vor Ost-West-Spaltung – „emotionale Einheit geht krachen“",
+      "teaser": "Ergebnisse der Wahl",
+      "url": "https://www.fr.de/politik/ampel-koalition-kabinett-scholz-bundesregierung-habeck-lauterbach-lindner-bilder-zr-91695457.html",
+      "image_url": "https://www.fr.de/bilder/2024/06/11/93123112/34109611-bodo-ramelow-29RG.jpg",
+      "image_title": "AfD-Erfolg bei Europawahl: Ramelow warnt vor Ost-West-Spaltung – „emotionale Einheit geht krachen“",
+      "author": "Bedrettin Bölükbasi"
     },
     {
-      "title": "Krieg in Nahost: Hamas-Vertreter bereit für Verhandlungen um Waffenruhe mit Israel",
+      "title": "Israel-News: UN-Menschenrechtsbüro vermutet Kriegsverbrechen bei Geiselbefreiung im Gazastreifen",
       "teaser": "Israel-Gaza-Krieg",
       "url": "https://www.fr.de/politik/israel-gaza-krieg-hamas-rafah-geiseln-hisbollah-palaestina-zr-93122752.html",
       "image_url": "https://www.fr.de/bilder/2024/06/11/93122752/34794046-krieg-zwischen-israel-und-der-hamas-2mKLrJ0gyNVI.jpg",
-      "image_title": "Krieg in Nahost: Hamas-Vertreter bereit für Verhandlungen um Waffenruhe mit Israel",
+      "image_title": "Israel-News: UN-Menschenrechtsbüro vermutet Kriegsverbrechen bei Geiselbefreiung im Gazastreifen",
       "author": "Nils Hinsberger"
+    },
+    {
+      "title": "Betrugsverdacht beim Klimaschutz: Trotz Warnungen Millionen an Konzerne gezahlt",
+      "teaser": "Politik",
+      "url": "https://www.fr.de/politik/betrugsverdacht-beim-klimaschutz-trotz-warnungen-milliarden-an-konzerne-gezahlt-zr-93122965.html#idVAnk0",
+      "image_url": "https://www.fr.de/bilder/2024/06/11/93122965/34795011-eigentlich-sollten-mit-der-umlage-oel-und-gasbohrungen-vor-allem-in-china-finanziert-werden-die-umweltfreundlicher-als-die-gewoehnliche-foerderung-3EPI.jpg",
+      "image_title": "Betrugsverdacht beim Klimaschutz: Trotz Warnungen Millionen an Konzerne gezahlt",
+      "author": "Sören Kemnade"
+    },
+    {
+      "title": "Putins Verluste: Wagner-Söldner dienten in Bachmut als Kanonenfutter",
+      "teaser": "Schlacht im Ukraine-Krieg",
+      "url": "https://www.fr.de/politik/bilder-russland-putsch-moskau-wagner-prigoschin-putin-buergerkrieg-prigoschin-putin-zr-92362425.html",
+      "image_url": "https://www.fr.de/bilder/2024/06/11/93122819/32788345-ukraine-krieg-ein-ukrainischer-soldat-feuert-an-der-frontlinie-in-bachmut-die-munition-einer-30-haubitze-ab-2ya7.jpg",
+      "image_title": "Putins Verluste: Wagner-Söldner dienten in Bachmut als Kanonenfutter",
+      "author": "Simon Schröder"
+    },
+    {
+      "title": "Forderungen nach Waffenruhe in Gaza: UN-Sicherheitsrat unterstützt Bidens Plan",
+      "teaser": "Krieg in Nahost",
+      "url": "https://www.fr.de/politik/krieg-israel-hamas-geschichte-enstehung-palaestina-konflikt-sechs-tage-libanon-jom-kippur-zr-92574266.html",
+      "image_url": "https://www.fr.de/bilder/2024/06/06/93113228/34771873-fluechtlingslager-nuseirat-3Sa7.jpg",
+      "image_title": "Forderungen nach Waffenruhe in Gaza: UN-Sicherheitsrat unterstützt Bidens Plan",
+      "author": "Felix Durach, Jens Kiffmeier, Nils Hinsberger, Felix Busjaeger, Nail Akkoyun und Bedrettin Bölükbasi"
     },
     {
       "title": "Tories droht schwere Niederlage: Aktuelle Umfragen zur Großbritannien-Wahl 2024",
       "teaser": "Urnengang am 4. Juli",
-      "url": "https://www.fr.de/politik/grossbritannien-wahl-2024-umfragen-aktuell-tory-labour-sunak-premier-uk-92797734.html#idVAnk0",
-      "image_url": "https://www.fr.de/bilder/2024/01/23/92797734/33653374-der-britische-premierminister-rishi-sunak-und-keir-starmer-der-vorsitzende-der-labour-partei-treffen-am-november-2023-waehrend-der-QPI.jpg",
+      "url": "https://www.fr.de/politik/grossbritannien-wahl-2024-umfragen-aktuell-tory-labour-sunak-premier-uk-92797734.html",
+      "image_url": "https://www.fr.de/bilder/2024/01/23/92797734/33653374-der-britische-premierminister-rishi-sunak-und-keir-starmer-der-vorsitzende-der-labour-partei-treffen-am-november-2023-waehrend-der-QSG.jpg",
       "image_title": "Tories droht schwere Niederlage: Aktuelle Umfragen zur Großbritannien-Wahl 2024",
+      "author": "Christian Stör"
+    },
+    {
+      "title": "Donald Trump oder Joe Biden als nächster US-Präsident? Das sagen die Umfragen vor …",
+      "teaser": "Präsidentschaftswahl in den USA",
+      "url": "https://www.fr.de/politik/usa-wahl-2024-aktuelle-umfragen-joe-biden-donald-trump-praesident-92758610.html#idAnchComments",
+      "image_url": "https://www.fr.de/bilder/2024/01/03/92758610/33520046-donald-trump-und-joe-biden-13a7.jpg",
+      "image_title": "Donald Trump oder Joe Biden als nächster US-Präsident? Das sagen die Umfragen vor der US-Wahl 2024",
       "author": "Christian Stör"
     },
     {
@@ -96,65 +128,32 @@
     {
       "title": "Nach Europawahl: Merz gegen Wahlalter 16 – SPD und Grüne trotz Verlusten dafür",
       "teaser": "„Grundsätzliche Überzeugung“",
-      "url": "https://www.fr.de/politik/europa-wandel-europaeische-union-eu-erweiterung-bilder-fotostrecke-zr-93006617.html",
-      "image_url": "https://www.fr.de/bilder/2024/06/11/93122642/34792478-friedrich-merz-cdu-und-omid-nouripour-die-gruenen-1bz5365Sgqa7.jpg",
+      "url": "https://www.fr.de/politik/merz-wahlalter-16-ampel-gruenen-spd-dafuer-jungwaehler-verluste-europawahl-zr-93122642.html",
+      "image_url": "https://www.fr.de/bilder/2024/06/11/93122642/34792478-friedrich-merz-cdu-und-omid-nouripour-die-gruenen-1bz5365SgqSG.jpg",
       "image_title": "Nach Europawahl: Merz gegen Wahlalter 16 – SPD und Grüne trotz Verlusten dafür",
       "author": "Natascha Berger"
     },
     {
-      "title": "„Mit Hass, ohne Respekt“: Französische Tuning-Kits machen Luftschläge gegen Putin …",
-      "teaser": "Fähig zum Gegenangriff",
-      "url": "https://www.fr.de/politik/ukraine-krieg-putin-selenskyj-raketen-gleitbomben-nato-frankreich-usa-f-16-93122631.html",
-      "image_url": "https://www.fr.de/bilder/2024/06/10/93122631/34789085-ukraine-krieg-putin-selenskyj-raketen-gleitbomben-nato-frankreich-usa-29SG.jpg",
-      "image_title": "„Mit Hass, ohne Respekt“: Französische Tuning-Kits machen Luftschläge gegen Putin möglich",
-      "author": "Karsten-Dirk Hinzmann"
+      "title": "BSW bleibt Selenskyj-Rede fern - AfD empfiehlt ähnliches",
+      "teaser": "Rede im Bundestag",
+      "url": "https://www.fr.de/politik/bsw-bleibt-selenskyj-rede-fern-afd-empfiehlt-aehnliches-zr-93123014.html",
+      "image_url": "https://www.fr.de/bilder/2024/06/11/93123014/34795830-bundestag-Ca7.jpg",
+      "image_title": "BSW bleibt Selenskyj-Rede fern - AfD empfiehlt ähnliches"
     },
     {
-      "title": "Wie ein NPD-Skandal der Tierschutzpartei genutzt haben könnte: „Deutlich abgrenzen“",
-      "teaser": "Interview",
-      "url": "https://www.fr.de/politik/tierschutzpartei-europawahl-npd-skandal-mandat-eu-menschenrechte-links-zr-93122600.html#idVAnk0",
-      "image_url": "https://www.fr.de/bilder/2024/06/10/93122600/34785857-wahlplakat-der-tierschutzpartei-zur-europawahl-2oa7.jpg",
-      "image_title": "Wie ein NPD-Skandal der Tierschutzpartei genutzt haben könnte: „Deutlich abgrenzen“",
-      "author": "Peter Sieben"
+      "title": "Scholz nach Europawahl-Pleite unter Druck: SPD-Vorsitzende Esken verteidigt Kanzler",
+      "teaser": "Gedrückte Stimmung nach der Europawahl",
+      "url": "https://www.fr.de/politik/europa-wandel-europaeische-union-eu-erweiterung-bilder-fotostrecke-zr-93006617.html",
+      "image_url": "https://www.fr.de/bilder/2024/06/11/93123055/34795219-lars-klingbeil-spd-bundesvorsitzender-katarina-barley-spd-spitzenkandidatin-fuer-die-europawahl-und-mitglied-des-europaeischen-parlaments-und-saskia-2HF9zquB0da7.jpg",
+      "image_title": "Scholz nach Europawahl-Pleite unter Druck: SPD-Vorsitzende Esken verteidigt Kanzler",
+      "author": "Alexandra Heidsiek"
     },
     {
-      "title": "„Propaganda“ von Putin – Selenskyj bestreitet russische Eroberungen",
-      "teaser": "Lage an der Front",
-      "url": "https://www.fr.de/politik/fotostrecke-ukraine-krieg-waffen-panzer-bradley-challenger-marder-drohnen-bilder-zr-92033374.html",
-      "image_url": "https://www.fr.de/bilder/2024/06/10/93120504/34771868-wolodymyr-selenkyj-20a7.jpg",
-      "image_title": "„Propaganda“ von Putin – Selenskyj bestreitet russische Eroberungen",
-      "author": "Franziska Schwarz"
-    },
-    {
-      "title": "SPD-Debakel bei der Europawahl: Juso-Chef Türmer kritisiert Wahlplakate",
-      "teaser": "„War ein Fehler“",
-      "url": "https://www.fr.de/politik/europawahl-spd-scholz-kanzler-wahlplakate-kritik-ergebnis-eu-wahl-2024-93122495.html",
-      "image_url": "https://www.fr.de/bilder/2024/06/11/93122495/34792665-beschaedigtes-wahlplakat-mit-scholz-in-berlin-2OuQXtzXI4SG.jpg",
-      "image_title": "SPD-Debakel bei der Europawahl: Juso-Chef Türmer kritisiert Wahlplakate",
-      "author": "Nils Hinsberger"
-    },
-    {
-      "title": "Klingbeils „Nazi“-Aussage gegen Weidel: AfD-Mitglied zeigt SPD-Chef an",
-      "teaser": "„Beleidigungen dieser Art“",
-      "url": "https://www.fr.de/politik/afd-alternative-fuer-deutschland-bundessprecher-liste-uebersicht-personal-zr-91609993.html",
-      "image_url": "https://www.fr.de/bilder/2024/06/11/93122906/34794569-klingbeil-betitelt-afd-chefin-weidel-als-nazi-klage-von-afd-mitglied-folgt-3sa7.jpg",
-      "image_title": "Klingbeils „Nazi“-Aussage gegen Weidel: AfD-Mitglied zeigt SPD-Chef an",
-      "author": "Franziska Schwarz"
-    },
-    {
-      "title": "Europawahl-Zoff in der Ampel: Kubicki rechnet mit „arroganter Bevormundungspolitik“ …",
-      "teaser": "Regierung schneidet schlecht ab",
-      "url": "https://www.fr.de/politik/ampel-koalition-kabinett-scholz-bundesregierung-habeck-lauterbach-lindner-bilder-zr-91695457.html",
-      "image_url": "https://www.fr.de/bilder/2024/06/11/93122809/34794556-fdp-politiker-wolfgang-kubicki-hat-nach-der-europawahl-mit-den-ampel-partnern-spd-und-gruenen-abgerechnet-Aa7.jpg",
-      "image_title": "Europawahl-Zoff in der Ampel: Kubicki rechnet mit „arroganter Bevormundungspolitik“ der Grünen ab",
-      "author": "Bedrettin Bölükbasi"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: So ist die Lage",
-      "teaser": "Russische Invasion",
-      "url": "https://www.fr.de/politik/krieg-gegen-die-ukraine-so-ist-die-lage-zr-93122208.html",
-      "image_url": "https://www.fr.de/bilder/2024/06/11/93122208/34794789-wolodymyr-selenskyj-2sa7.jpg",
-      "image_title": "Krieg gegen die Ukraine: So ist die Lage"
+      "title": "Koalition im Osten: Merz betont Distanz zu Wagenknecht",
+      "teaser": "Parteien",
+      "url": "https://www.fr.de/politik/koalition-im-osten-merz-betont-distanz-zu-wagenknecht-zr-93122187.html",
+      "image_url": "https://www.fr.de/bilder/2024/06/10/93122187/34791956-friedrich-merz-1Ja7.jpg",
+      "image_title": "Koalition im Osten: Merz betont Distanz zu Wagenknecht"
     },
     {
       "title": "Einblicke ins Reich von Kim Jong-un: Alltag in Nordkorea",
