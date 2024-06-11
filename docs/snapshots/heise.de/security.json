@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-06-11T08:00:47",
+  "timestamp": "2024-06-11T09:00:46",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Patchday SAP",
+      "url": "https://www.heise.de/news/SAP-liefert-am-Patchday-Sicherheitskorrekturen-fuer-zwei-hochriskante-Luecken-9757338.html"
+    },
+    {
       "title": "PyTorch",
       "url": "https://www.heise.de/news/Schwachstelle-in-PyTorch-erlaubt-Command-Injection-via-RPC-auf-dem-Master-Node-9756237.html"
     },
@@ -44,14 +48,16 @@
       "url": "https://www.heise.de/news/Kritische-Azure-Luecke-Patch-Status-derzeit-unklar-9751850.html"
     },
     {
-      "title": "Apache HugeGraph",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Exploitcode-fuer-kritische-Luecke-in-Apache-HugeGraph-in-Umlauf-9751687.html"
+      "title": "SAP liefert am Patchday Sicherheitskorrekturen für zwei hochriskante Lücken",
+      "teaser": "SAP warnt zum Juni-Patchday vor zehn neuen Sicherheitslücken. Aktualisierungen zum Abdichten der Lecks stehen bereit.",
+      "url": "https://www.heise.de/news/SAP-liefert-am-Patchday-Sicherheitskorrekturen-fuer-zwei-hochriskante-Luecken-9757338.html",
+      "image_title": "Stilisiertes Bild: Laptop mit SAP-Logo brennt, vor Serverracks"
     },
     {
-      "title": "Verbraucherzentrale warnt vor Fakeshops mit Fußball-EM-Fanartikeln",
-      "teaser": "Das Deutsche EM-Trikot zum halben Preis? Achtung, es könnte ein Fakeshop sein, warnt jetzt die Verbraucherzentrale NRW.",
-      "url": "https://www.heise.de/news/Verbraucherzentrale-warnt-vor-Fakeshops-mit-Fussball-EM-Fanartikeln-9757240.html",
-      "image_title": "Stilisiertes Bild: Feiernde Fußballfans mit deutschen Flaggen"
+      "title": "iX-Workshop: OWASP® Top 10 – Sicherheitsrisiken für Webanwendungen verstehen",
+      "teaser": "Lernen Sie die wichtigsten Sicherheitslücken in Web-Anwendungen kennen und erfahren Sie, wie Sie sich erfolgreich schützen können. (Last Call)",
+      "url": "https://www.heise.de/news/iX-Workshop-OWASP-R-Top-10-Sicherheitsrisiken-fuer-Webanwendungen-verstehen-9752042.html",
+      "image_title": "Online-Workshop: OWASP Top 10 – Sicherheitslücken in Webanwendungen vermeiden"
     },
     {
       "title": "Pendrive S3: kleiner Stick mit ESP32-S3 für Pentesting und Entwicklung",
@@ -99,6 +105,12 @@
       "title": "TTPs: Angriffsstrategien verstehen und durchkreuzen",
       "teaser": "Das Wissen um die Tactics, Techniques and Procedures (TTPs) krimineller Gruppen hilft beim Abschätzen der Gefahren und beim Ausarbeiten von Schutzmaßnahmen.",
       "url": "https://www.heise.de/hintergrund/TTPs-Angriffsstrategien-verstehen-und-durchkreuzen-9725985.html"
+    },
+    {
+      "title": "Microsoft: Azure-Lücke mit bislang unklarem Status ist bereits geschlossen",
+      "teaser": "Der Patch-Status einer Sicherheitslücke in Microsofts Azure blieb unklar. Microsoft hat sie bereits geschlossen, teilt das Unternehmen nun mit.",
+      "url": "https://www.heise.de/news/Microsoft-Azure-Luecke-mit-bislang-unklarem-Status-ist-bereits-geschlossen-9755370.html",
+      "image_title": "Stilisierte Grafik: zersplitterter Sicherheitsschild auf einem Laptop"
     },
     {
       "title": "Cyber-Angreifer: BSI benennt aktive Tätergruppen",
@@ -150,17 +162,6 @@
       "url": "https://www.heise.de/news/Erpresser-uebernehmen-GitHub-Repositories-greifen-Daten-ab-und-loeschen-Inhalte-9751516.html"
     },
     {
-      "title": "Kritische Azure-Lücke: Patch-Status derzeit unklar",
-      "teaser": "Microsofts Cloud-Computing-Plattform Azure ist attackierbar. Sicherheitsforschern zufolge können Angreifer Schadcode auf Endpoints von Kunden ausführen.",
-      "url": "https://www.heise.de/news/Kritische-Azure-Luecke-Patch-Status-derzeit-unklar-9751850.html"
-    },
-    {
-      "title": "Jetzt patchen! Exploitcode für kritische Lücke in Apache HugeGraph in Umlauf",
-      "teaser": "Admins sollten aus Sicherheitsgründen das Tool zum Erstellen von Diagrammen HugeGraph von Apache zügig auf den aktuellen Stand bringen.",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Exploitcode-fuer-kritische-Luecke-in-Apache-HugeGraph-in-Umlauf-9751687.html",
-      "image_title": "Eine Tastatur mit \"Time to update\" auf der Nulltaste des Ziffernblocks"
-    },
-    {
       "title": "heise security tour 2024",
       "teaser": "Die Konferenz zum Thema IT-Security. Nutzen Sie die einzigartige Gelegenheit, sich direkt aus der ersten Reihe über die neuesten Trends, Technologien und Bedrohungen in der Welt der IT-Sicherheit zu informieren. Dieses Jahr findet die Tour in Köln, Hannover, Stuttgart und online statt.",
       "url": "https://security-tour.heise.de/?wt_mc=intern.academy.security.konf_sectour.hs_teaser.teaser.teaser"
@@ -183,14 +184,14 @@
       "image_title": "Zwei Roboterhände auf einer ergonomischen Tastatur"
     },
     {
+      "title": "Re: Desinfec't 2024 Stick mit Mac erstellen",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Desinfec-t-2024-Stick-mit-Mac-erstellen/posting-44077204/show/"
+    },
+    {
       "title": "Re: passende USB Sticks für desinfec't und Co.",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-passende-USB-Sticks-fuer-desinfec-t-und-Co/posting-44075367/show/"
-    },
-    {
-      "title": "Desinfec't 2024 Stick mit Mac erstellen",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Desinfec-t-2024-Stick-mit-Mac-erstellen/posting-44074976/show/"
     },
     {
       "title": "Boot-Probleme mit desinfect 2024",

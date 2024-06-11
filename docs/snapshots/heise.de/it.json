@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-06-11T08:00:44",
+  "timestamp": "2024-06-11T09:00:43",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "\"Apple Intelligence\": Siri bekommt bald Hilfe von ChatGPT",
+      "teaser": "Apple integriert gängige KI-Funktionen rund um Texte und Bilder in seine Betriebssysteme. Auch ChatGPT ist mit an Bord.",
+      "url": "https://www.heise.de/news/Apple-Intelligence-Siri-bekommt-bald-Hilfe-von-ChatGPT-9756885.html",
+      "image_title": "Apples Softwarechef präsentierte die KI-Funktionen"
+    },
+    {
       "title": "Mainboards für Ryzen 9000 mit USB4 und neuen Chipsätzen​",
       "teaser": "Kommende High-End-Mainboards für AM5-CPUs erhalten die schnelle USB-Variante mit 40 Gbit/s. Die einzelnen Serie-800-Chipsätze unterteilt AMD anders als bisher.",
       "url": "https://www.heise.de/news/Mainboards-fuer-Ryzen-9000-mit-USB4-und-neuen-Chipsaetzen-9748121.html"
@@ -37,12 +43,6 @@
       "image_title": "Das Raspberry Pi AI Kit und Screenshot des Anwendungsbeispiels Posenschätzung."
     },
     {
-      "title": "Arrow Lake: Hersteller zeigen Mainboards mit Intels neuem CPU-Sockel",
-      "teaser": "Auf der Computex hängen erste Mainboards für Intels zukünftige Desktop-Prozessoren. Diese verraten mehr, als Intel lieb sein dürfte.",
-      "url": "https://www.heise.de/news/Mainboards-fuer-Arrow-Lake-Intels-naechste-Desktop-CPUs-bekommen-Thunderbolt-4-9747079.html",
-      "image_title": "Neue Intel Fassung auf einem kommenden Mainboard"
-    },
-    {
       "title": "IT-Security: Mehr Sicherheit durch API-Firewalls",
       "teaser": "Wer eine API öffentlich ins Internet stellt, darf bei der Sicherheit nicht sparen. Spezielle API-Firewalls prüfen Anfragen und Antworten auf legitime Inhalte.",
       "url": "https://www.heise.de/ratgeber/IT-Security-Mehr-Sicherheit-durch-API-Firewalls-9755074.html"
@@ -52,6 +52,30 @@
       "teaser": "Die Outbound-Firewall Little Snitch überwacht ausgehende Verbindungen und verschlüsselt in Version 6 erstmals DNS-Anfragen. Wir haben sie uns angesehen.",
       "url": "https://www.heise.de/tests/Netzwerkwaechter-Little-Snitch-6-im-Test-9755880.html",
       "image_title": "Little Snitch in Version 6"
+    },
+    {
+      "title": "15 Prozent der Treffer: Google AI Overview wird immer seltener angezeigt",
+      "teaser": "Statt zuvor 84 Prozent sollen nun nur noch in 15 Prozent der Suchanfragen bei Google die generierten KI-Antworten erscheinen.",
+      "url": "https://www.heise.de/news/15-Prozent-der-Treffer-Google-AI-Overview-wird-immer-seltener-angezeigt-9757315.html",
+      "image_title": "Google-Bürogebäude mit Glasfront"
+    },
+    {
+      "title": "Xcode bekommt KI-Coding-Funktionen",
+      "teaser": "Ähnlich wie Github Copilot und andere Programmierassistenten soll Xcode dank KI besseren Code ausspucken. Diese Features wurden angekündigt.",
+      "url": "https://www.heise.de/news/Xcode-bekommt-KI-Coding-Funktionen-9757272.html",
+      "image_title": "Arbeit mit den KI-Funktionen in Xcode"
+    },
+    {
+      "title": "SAP liefert am Patchday Sicherheitskorrekturen für zwei hochriskante Lücken",
+      "teaser": "SAP warnt zum Juni-Patchday vor zehn neuen Sicherheitslücken. Aktualisierungen zum Abdichten der Lecks stehen bereit.",
+      "url": "https://www.heise.de/news/SAP-liefert-am-Patchday-Sicherheitskorrekturen-fuer-zwei-hochriskante-Luecken-9757338.html",
+      "image_title": "Stilisiertes Bild: Laptop mit SAP-Logo brennt, vor Serverracks"
+    },
+    {
+      "title": "iX-Workshop: OWASP® Top 10 – Sicherheitsrisiken für Webanwendungen verstehen",
+      "teaser": "Lernen Sie die wichtigsten Sicherheitslücken in Web-Anwendungen kennen und erfahren Sie, wie Sie sich erfolgreich schützen können. (Last Call)",
+      "url": "https://www.heise.de/news/iX-Workshop-OWASP-R-Top-10-Sicherheitsrisiken-fuer-Webanwendungen-verstehen-9752042.html",
+      "image_title": "Online-Workshop: OWASP Top 10 – Sicherheitslücken in Webanwendungen vermeiden"
     },
     {
       "title": "Verbraucherzentrale warnt vor Fakeshops mit Fußball-EM-Fanartikeln",
@@ -88,12 +112,6 @@
       "image_title": "Ein rot schimmerndes Plexiglas-Wrndreieck"
     },
     {
-      "title": "\"Apple Intelligence\": Siri bekommt bald Hilfe von ChatGPT",
-      "teaser": "Apple integriert gängige KI-Funktionen rund um Texte und Bilder in seine Betriebssysteme. Auch ChatGPT ist mit an Bord.",
-      "url": "https://www.heise.de/news/Apple-Intelligence-Siri-bekommt-bald-Hilfe-von-ChatGPT-9756885.html",
-      "image_title": "Apples Softwarechef präsentierte die KI-Funktionen"
-    },
-    {
       "title": "macOS 15 Sequoia mit KI und vielen Detailverbesserungen",
       "teaser": "Das nächste Mac-Betriebssystem bekommt im Herbst eine generative KI sowie iPhone-Mirroring, eine eigene Passwörter-App und verbessertes Fenstermanagement.",
       "url": "https://www.heise.de/news/macOS-15-Sequoia-mit-KI-und-vielen-Detailverbesserungen-9755249.html"
@@ -120,24 +138,6 @@
       "teaser": "Am Montag ab 19 Uhr findet Apples Präsentation zu Neuerungen in iOS 18, macOS 15 und Co. statt. Kommt die große KI-Strategie? Wir berichten im Minutenprotokoll.",
       "url": "https://www.heise.de/news/Liveticker-zu-Apples-WWDC-Keynote-2024-mit-iOS-18-und-macOS-15-9751383.html",
       "image_title": "WWDC 2024"
-    },
-    {
-      "title": "Univention Nubus: Modulares IAM für Cloud-Umgebungen",
-      "teaser": "Univention Nubus packt das IAM in souveränen Clouds an. Enthalten ist ein RfC-konformer IMAP-Server mit SAML-Anbindungen an verschiedene externe Dienste.",
-      "url": "https://www.heise.de/news/Univention-Nubus-Modulares-IAM-fuer-Cloud-Umgebungen-9756349.html",
-      "image_title": "Wolken und Schild"
-    },
-    {
-      "title": "KI-generierte Briefmarke: Deutsche Post reagiert auf vermeintliche Fehler",
-      "teaser": "Die Deutsche Post vertreibt Krypto-Briefmarken. Bei einem neuen Motiv, dem Kölner Dom, fallen bei genauerem Hinschauen allerdings zwei Details auf.",
-      "url": "https://www.heise.de/news/Deutsche-Post-Neue-KI-generierte-Kryptobriefmarke-mit-Fehlern-9755022.html",
-      "image_title": "Briefmarke mit Kölner Dom"
-    },
-    {
-      "title": "Haushaltsausschuss will 2,1 Milliarden Euro für Bundeswehr-Satelliten freigeben​",
-      "teaser": "Beschafft werden sollen einem Bericht zufolge Kommunikations- und Frequenzsicherungssatelliten bei OHB. Bedarf für Starlink und Co. bestünde so weiter nicht.​",
-      "url": "https://www.heise.de/news/Haushaltsausschuss-will-2-1-Milliarden-Euro-fuer-Bundeswehr-Satelliten-freigeben-9756501.html",
-      "image_title": "Die Erde aus Allperspektive mit angedeuteten Funk-Streifen"
     },
     {
       "title": "Status quo of Low-code adaption in Europe",
