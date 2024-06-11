@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-06-11T10:00:40",
+  "timestamp": "2024-06-11T11:00:54",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -19,12 +19,18 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.accc8a3793fefbe6218f",
+      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.390b05161d7e02185087",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Apple Intelligence: Das sagen der KI- und der Software-Chef zum Siri-Neubeginn",
+      "teaser": "Nach der WWDC-Keynote fand in Cupertino im Apple Park eine ungewöhnliche Fragestunde statt. Welche weiteren Details die Chefs zu Apples KI preisgaben.",
+      "url": "https://www.heise.de/news/Apple-Intelligence-Das-sagen-der-KI-und-der-Software-Chef-zum-Siri-Neubeginn-9757150.html",
+      "image_title": "Justine Ezarik, John Giannandrea und Craig Federighi auf der Bühne"
+    },
     {
       "title": "\"Apple Intelligence\": Siri bekommt bald Hilfe von ChatGPT",
       "teaser": "Apple integriert gängige KI-Funktionen rund um Texte und Bilder in seine Betriebssysteme. Auch ChatGPT ist mit an Bord.",
@@ -37,12 +43,6 @@
       "url": "https://www.heise.de/news/Mainboards-fuer-Ryzen-9000-mit-USB4-und-neuen-Chipsaetzen-9748121.html"
     },
     {
-      "title": "Raspberry Pi 5 als KI-Computer für Videobildanalyse und mehr",
-      "teaser": "Für 80 Euro gibt es den 13 TOPS starken KI-Beschleuniger Hailo 8L als Raspi-Erweiterung. Wichtiger noch ist die gute Integration von Treibern und Software.",
-      "url": "https://www.heise.de/news/Raspberry-Pi-5-als-KI-Computer-fuer-Videobildanalyse-und-mehr-9748577.html",
-      "image_title": "Das Raspberry Pi AI Kit und Screenshot des Anwendungsbeispiels Posenschätzung."
-    },
-    {
       "title": "IT-Security: Mehr Sicherheit durch API-Firewalls",
       "teaser": "Wer eine API öffentlich ins Internet stellt, darf bei der Sicherheit nicht sparen. Spezielle API-Firewalls prüfen Anfragen und Antworten auf legitime Inhalte.",
       "url": "https://www.heise.de/ratgeber/IT-Security-Mehr-Sicherheit-durch-API-Firewalls-9755074.html"
@@ -52,6 +52,18 @@
       "teaser": "Die Outbound-Firewall Little Snitch überwacht ausgehende Verbindungen und verschlüsselt in Version 6 erstmals DNS-Anfragen. Wir haben sie uns angesehen.",
       "url": "https://www.heise.de/tests/Netzwerkwaechter-Little-Snitch-6-im-Test-9755880.html",
       "image_title": "Little Snitch in Version 6"
+    },
+    {
+      "title": "Zabbix 7.0: Web-Monitoring, Performance-Boost, bessere Grafiken​",
+      "teaser": "Zabbix hat Version 7.0 seines Monitoring-Tools vorgestellt. Es geht flotter ans Werk, bietet mehr Darstellungen für Metriken und überwacht Websites besser.​",
+      "url": "https://www.heise.de/news/Zabbix-7-0-Web-Monitoring-Performance-Boost-bessere-Grafiken-9757632.html",
+      "image_title": "Ansicht eines Monitoring-Widget von Zabbix."
+    },
+    {
+      "title": "iX-Workshop: Künstliche Intelligenz im Unternehmen einsetzen",
+      "teaser": "Stärken, Potenziale und Risiken beim Einsatz Künstlicher Intelligenz im eigenen Unternehmen (10% Rabatt bis 17.06.)",
+      "url": "https://www.heise.de/news/iX-Workshop-Kuenstliche-Intelligenz-im-Unternehmen-einsetzen-9752052.html",
+      "image_title": "iX-Workshop IT-Governance planen und implementieren"
     },
     {
       "title": "visionOS: Version 1.2 ist da, Version 2.0 im Herbst",
@@ -111,12 +123,6 @@
       "image_title": "Tim Cook und Craig Federighi begrüßen die Gäste im Apple Park"
     },
     {
-      "title": "Apple Intelligence: Das sagen der KI- und der Software-Chef zum Siri-Neubeginn",
-      "teaser": "Nach der WWDC-Keynote fand in Cupertino im Apple Park eine ungewöhnliche Fragestunde statt. Welche weiteren Details die Chefs zu Apples KI preisgaben.",
-      "url": "https://www.heise.de/news/Apple-Intelligence-Das-sagen-der-KI-und-der-Software-Chef-zum-Siri-Neubeginn-9757150.html",
-      "image_title": "Justine Ezarik, John Giannandrea und Craig Federighi auf der Bühne"
-    },
-    {
       "title": "Schwachstelle in PyTorch erlaubt Command Injection via RPC auf dem Master Node",
       "teaser": "Eine Schwachstelle in dem Machine-Learning-Framework ermöglicht beim verteilten Training das Ausführen beliebigem Code auf dem Master Node.",
       "url": "https://www.heise.de/news/Schwachstelle-in-PyTorch-erlaubt-Command-Injection-via-RPC-auf-dem-Master-Node-9756237.html",
@@ -131,12 +137,6 @@
       "title": "watchOS 11: Mehr Bewegung, mehr Gesundheit",
       "teaser": "Das Update bringt der Apple Watch Fitness-und Gesundheitsfunktionen bei. Trainings-Trends, eine Vital-App, und Schwangerschafts-Informationen gehören dazu.",
       "url": "https://www.heise.de/news/watchOS-11-Mehr-Bewegung-mehr-Gesundheit-9756170.html"
-    },
-    {
-      "title": "Vision Pro: Apple bringt das Headset nach Deutschland – ab 4000 Euro",
-      "teaser": "Apple bringt das Mixed-Reality-Headset bald außerhalb der USA auf den Markt – und verspricht neue Inhalte.",
-      "url": "https://www.heise.de/news/Vision-Pro-Apple-bringt-das-Headset-nach-Deutschland-ab-4000-Euro-9755776.html",
-      "image_title": "Apple Vision Pro mitsamt dem externen Akku"
     },
     {
       "title": "Status quo of Low-code adaption in Europe",
