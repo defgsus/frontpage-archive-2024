@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-06-11T03:01:01",
+  "timestamp": "2024-06-11T04:00:56",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -8,6 +8,12 @@
     {
       "type": null,
       "src": "https://static.zeit.de/p/zeit.web/js/colorscheme.7fabba81098517c5d294.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -44,12 +50,6 @@
     {
       "type": null,
       "src": "https://static.zeit.de/p/zeit.web/js/site.e091437f41d7274f424b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "module",
-      "src": "https://interactive.zeit.de/g/2024/europawahl-2024/europawahl2024dashboard.482fc2927997982c23eb.cached.mjs",
       "id": null,
       "text": null
     },
@@ -110,22 +110,16 @@
       "image_url": "https://img.zeit.de/politik/2024-06/robert-habeck-absturz-die-gruenen-bild/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Europawahlergebnisse in Großstädten : So wählten Deutschlands Großstädte",
+      "teaser": "Grün im Zentrum, konservativ oder rechtsextrem am Rand: Hier sehen Sie detaillierte Wählerdaten aus Berlin, Hamburg, Köln, München, Leipzig und anderen Großstädten.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-06/europawahl-ergebnisse-daten-grossstaedte-wahllokale",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-06/europawahl-ergebnisse-daten-grossstaedte-wahllokale-teaserbild/wide__892x501"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Olaf Scholz : Der Kanzler muss jetzt die Vertrauensfrage stellen",
       "teaser": "Olaf Scholz sollte sich an Emmanuel Macron ein Beispiel nehmen: Das Land braucht Neuwahlen, am besten noch in diesem Sommer. Nützen würden sie auch den Ampelparteien.",
       "url": "https://www.zeit.de/politik/2024-06/olaf-scholz-ampelkoalition-europawahl-vertrauensfrage",
       "image_url": "https://img.zeit.de/politik/deutschland/2024-06/olaf-scholz-ampelkoalition-europawahl-vertrauensfrage-bild-2/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Europawahlergebnisse in Großstädten : So wählten Deutschlands Großstädte",
-      "teaser": "Grün im Zentrum, konservativ oder rechtsextrem am Rand: Hier sehen Sie detaillierte Wählerdaten aus Berlin, Hamburg, Köln, München, Leipzig und anderen Großstädten.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-06/europawahl-ergebnisse-daten-grossstaedte-wahllokale",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-06/europawahl-ergebnisse-daten-grossstaedte-wahllokale-teaserbild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Junge Wähler : Sie wissen sehr wohl, warum sie rechts wählen",
-      "teaser": "Viele junge Europäer haben bei der Europawahl für rechte Parteien gestimmt. Das nur auf TikTok und Protest zu schieben, wäre gefährlich. Die Gründe sind andere.",
-      "url": "https://www.zeit.de/campus/2024-06/junge-waehler-afd-rechtsruck",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-06/europawahl-rechtsruck-waehler-kommentar-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Ost-West-Differenzen : \"Der Osten hat sich nicht zu entschuldigen\"",
@@ -146,6 +140,18 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-06/rassemblement-nationale-marine-le-pen-jordan-bardella/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Nachrichtenpodcast : Putins Hoffnung: ein Europa im Chaos",
+      "teaser": "Mit dem BSW und der AfD konnten zwei russlandfreundliche Parteien Wahlerfolge verbuchen. Wie groß ist die Freude im Kreml? Und: Israels Kriegskabinett",
+      "url": "https://www.zeit.de/politik/2024-06/europawahl-russland-afd-bsw-nachrichtenpodcast",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Bedürfnisorientierte Erziehung : \"Die Erziehung meiner Eltern hat mich gerettet\"",
+      "teaser": "Bedürfnisorientiertes Erziehen gilt als Ideal für Eltern. Welche Auswirkungen hat das? Fünf Erwachsene erzählen, wie eine empathische Erziehung sie bis heute prägt.",
+      "url": "https://www.zeit.de/familie/2024-06/beduerfnisorientierte-erziehung-familie-kinder-streit-erfahrungen",
+      "image_url": "https://img.zeit.de/familie/2024-06/beduerfnisorientierte-erziehung-familie-kinder-streit-erfahrungen-bild/wide__892x501"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); WWDC 2024 : Apple will aus iPhones KI-Assistenten machen",
       "teaser": "Siri soll ein System werden, das vieles über die Nutzerin weiß und so im Alltag hilft. Mit neuen Funktionen holt der Konzern im KI-Rennen mit anderen Techkonzernen auf.",
       "url": "https://www.zeit.de/digital/mobil/2024-06/wwdc-2024-apple-software-ki-upate",
@@ -158,46 +164,52 @@
       "image_url": "https://img.zeit.de/digital/2024-06/apple-computerbrille-vision-pro-deutschland-verkauf/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Krieg in der Ukraine : Selenskyj zu Ukraine-Wiederaufbaukonferenz in Berlin angereist",
+      "teaser": "Der ukrainische Präsident Wolodymyr Selenskyj ist in Berlin gelandet. Dort will er an der internationalen Wiederaufbaukonferenz für sein Land teilnehmen.",
+      "url": "https://www.zeit.de/politik/ausland/2024-06/ukraine-wiederaufbaukonferenz-berlin-wolodymyr-selenskyj-bundestag",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-06/wolodymyr-selenskyj-ankunft-wiederaufbaukonfernez-berlin/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Liveblog:Ukraine-Krieg : USA heben Waffenembargo gegen umstrittene Asow-Miliz auf",
+      "teaser": "Eine Analyse findet offenbar keine Beweise für Menschenrechtsverletzungen durch die Asow-Einheit. Selenskyj trifft zu Wiederaufbaukonferenz in Berlin ein. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-06/ukraine-liveblog-asow-miliz-bild/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Rente : Menschen in Deutschland beziehen länger Rente",
       "teaser": "Betrug die durchschnittliche Bezugsdauer einer Rente im Jahr 2003 noch knapp 17 Jahre, sind es heute mehr als 20. Zugleich verschob sich das Eintrittsalter nach hinten.",
       "url": "https://www.zeit.de/politik/deutschland/2024-06/rente-bezugsdauer-renteneintrittsalter-lebenserwartung",
       "image_url": "https://img.zeit.de/politik/deutschland/2024-06/rente-bezugsdauer-rentenversicherung-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Zusammenziehen : Wie aus seiner Wohnung unser Zuhause wird",
-      "teaser": "Die Wohnungsnot bringt viele Paare dazu, in eine der schon vorhandenen Singlewohnungen zusammenzuziehen. Wie es gelingt, dass nicht einer von beiden ewig Gast bleibt.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2024-06/zusammenziehen-wohlfuehlen-partner-wohnungsnot",
-      "image_url": "https://img.zeit.de/zeit-magazin/leben/2024-06/zusammenziehen-wohlfuehlen-partner-wohnungsnot-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Gehälter • Das Beste aus Z+ : Wo steht Ihr Job im Gehaltsvergleich?",
+      "teaser": "ZEIT ONLINE hat exklusive Gehaltsdaten von fast 600 Berufen ausgewertet. Die Unterschiede sind enorm. Prüfen Sie, wo Ihr Job steht – und in welchem man mehr verdient.",
+      "url": "https://www.zeit.de/arbeit/2024-05/gehaltsvergleich-gehaelter-deutschland-berufe-jobs",
+      "image_url": "https://img.zeit.de/arbeit/2024-04/gehaltsvergleich-gehaelter-deutschland-berufe-jobs-teaserbild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Nachtleben : Hier ist Ihre Stadt nachts am lebendigsten",
-      "teaser": "Wohnen Sie vergleichsweise ruhig – oder mitten im Hotspot? ZEIT ONLINE zeigt in interaktiven Karten, wo in den zehn größten deutschen Städten nachts am meisten los ist.",
-      "url": "https://www.zeit.de/campus/2024-06/nachtleben-deutsche-staedte-party-clubs",
-      "image_url": "https://img.zeit.de/campus/2024-02/nachtleben-deutsche-staedte-party-clubs-teaserbild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Tiny Houses : Tiny Houses? Egoistische Platzverschwendung",
+      "teaser": "Das Versprechen von Tiny Houses: naturnah, bescheiden, nachhaltig. Perfekt für die Stadtflucht, dachte unsere Autorin. Bis sie verstand, dass nichts davon stimmt.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2024-06/tiny-houses-land-oekologie-egoismus-nachhaltigkeit",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-06/zwe-auf-dem-land-tinyhouse-aufmacher/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Henriette Reker : \"Wer mich umbringen will, der schreibt mir vorher keinen Brief\"",
-      "teaser": "Bei einem Attentat hätte Kölns Oberbürgermeisterin Reker fast ihr Leben verloren. Später wollte sich der Täter mit ihr treffen. Hier erzählt sie, wie sie damit umging.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-05/henriette-reker-koeln-oberbuergermeisterin-angriff-politiker",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-06/henriette-reker-koeln-oberbuergermeisterin-angriff-politiker-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Zeichentrickserie \"Bluey\" : Blueys Wunder",
+      "teaser": "Warum die warmherzige und unfassbar erfolgreiche Kindersendung \"Bluey\" die Zuschauer für dumm verkauft.",
+      "url": "https://www.zeit.de/zeit-magazin/2024/25/zeichentrickserie-bluey-kindersendung-fernsehen-australien",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-06/zeichentrickserie-bluey-kindersendung-fernsehen-australien-teaser/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Landwirtschaft : \"Zu leben tat einfach nur noch weh\"",
+      "teaser": "Die Landwirtschaft wird romantisiert: Natur! Frische Luft! Tiere! Viele in der Branche leiden indes unter Wachstumsdruck, haben Existenzängste oder Suizidgedanken.",
+      "url": "https://www.zeit.de/arbeit/2024-06/landwirtschaft-bauern-wachstum-zukunft",
+      "image_url": "https://img.zeit.de/arbeit/2024-06/landwirtschaft-bauern-wachstum-zukunft-2/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Motivation : Endlich durchziehen",
       "teaser": "Ein Instrument lernen, sich gesund ernähren, regelmäßig Sport treiben: Oft nimmt man sich Dinge vor, die man wieder sein lässt. Wie bleiben wir an einer Sache dran?",
       "url": "https://www.zeit.de/2024/25/motivation-psychologie-ziele-instrument-lernen",
       "image_url": "https://img.zeit.de/2024/25/endlich-durchziehen-bild-1/wide__892x501"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Alkohol und Sport • Z+ Empfehlung : Was Alkohol im Sportlerkörper macht",
-      "teaser": "Alkohol und Sport? Schlechte Idee. Aber das passiert bei Hobbysportlern öfter, als viele denken. Und hat konkrete Auswirkungen auf Kraft, Ausdauer und die Muskelmasse.",
-      "url": "https://www.zeit.de/sport/2024-06/alkohol-sport-muskeln-muedigkeit-langsamkeit-doping",
-      "image_url": "https://img.zeit.de/sport/2024-06/sport-hanteln/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Deutsche Bahn : Stuttgart 21 soll laut Berichten erst 2026 in Betrieb gehen",
-      "teaser": "Die Deutsche Bahn verschiebt den Start für ihr umstrittenstes Bahnprojekt wohl um ein weiteres Jahr. Der neue Stuttgarter Bahnhof soll erst Ende 2026 in Betrieb gehen.",
-      "url": "https://www.zeit.de/mobilitaet/2024-06/stuttgart-21-inbetriebnahme-verschoben-2026-bahn",
-      "image_url": "https://img.zeit.de/mobilitaet/2024-06/bahn-stuttgart-21-inbetriebnahme-verschiebung/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Girl Math : \"Es gibt keine Menschen, die nur wirtschaftlich rational handeln\"",
@@ -272,6 +284,12 @@
       "image_url": "https://img.zeit.de/politik/2024-06/wahlalter-jungwaehler-spd-gruene-bundestagswahl/super__320x213"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Deutsche Bahn : Stuttgart 21 soll laut Berichten erst 2026 in Betrieb gehen",
+      "teaser": "Die Deutsche Bahn verschiebt den Start für ihr umstrittenstes Bahnprojekt wohl um ein weiteres Jahr. Der neue Stuttgarter Bahnhof soll erst Ende 2026 in Betrieb gehen.",
+      "url": "https://www.zeit.de/mobilitaet/2024-06/stuttgart-21-inbetriebnahme-verschoben-2026-bahn",
+      "image_url": "https://img.zeit.de/mobilitaet/2024-06/bahn-stuttgart-21-inbetriebnahme-verschiebung/super__320x213"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Ukraine : Chef von ukrainischer Wiederaufbaubehörde tritt zurück",
       "teaser": "Mustafa Najjem übt deutliche Kritik am Wiederaufbau in der Ukraine. Die Wiederaufbaukonferenz in Berlin sieht die Bundesregierung durch seinen Rücktritt nicht gefährdet.",
       "url": "https://www.zeit.de/politik/ausland/2024-06/ukraine-wiederaufbau-mustafa-najjem-ruecktritt-konferenz-berlin",
@@ -288,12 +306,6 @@
       "teaser": "Frank-Walter Steinmeier hat in Frankreich der Opfer eines SS-Massakers gedacht. Heute dürfe man nicht vergessen, was Nationalismus und Hass in Europa angestellt hätten.",
       "url": "https://www.zeit.de/politik/ausland/2024-06/frank-walter-steinmeier-gedenktag-massaker-oradour-warnung-nationalismus",
       "image_url": "https://img.zeit.de/politik/2024-06/gedenken-ss-massaker-bundespraesident-steinmeier/super__320x213"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Ampelkoalition : SPD will in Haushaltsverhandlungen deutlich entschlossener auftreten",
-      "teaser": "Kürzungen bei Sozialleistungen kommen für Kevin Kühnert beim Haushalt 2025 nicht infrage. Christian Lindner will das Bürgergeld \"updaten\", die Grünen warnen vor Streit.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-06/ampel-koalition-haushalt-2025-spd-kevin-kuehnert",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-06/spd-ampel-koalition-verhandlungen-bundeshaushalt-2025/super__320x213"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Fußballfans im Ausland : Ein Ultra aus der Ferne",
@@ -370,9 +382,9 @@
       "url": "https://www.zeit.de/politik/deutschland/2024-06/afd-gewinnt-kommunalwahl-brandenburg-mecklenburg-vorpommern-2024"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Europawahl in Deutschland : Union gewinnt mit Abstand und AfD wird zweitstärkste Kraft",
-      "teaser": "Die Auszählung der EU-Wahl in Deutschland ist beendet. Die Union steigert sich auf 30 Prozent, die AfD erreicht mit knapp 16 Prozent ihr bislang bestes Ergebnis.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-06/europawahl-deutschland-union-gewinnt-afd-zweitstaerkste-kraft"
+      "title": "Z+ (abopflichtiger Inhalt); Europawahl : Bundesregierung lehnt Neuwahl kategorisch ab",
+      "teaser": "Die Union fordert nach der Europawahl den Rücktritt von Olaf Scholz. Christian Lindner sieht dafür keinen Anlass, fordert aber Konsequenzen aus dem schlechten Ergebnis.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-06/ampel-neuwahl-forderungen-reaktion-zurueckweisen"
     },
     {
       "title": "Verlagsangebot : 7 Lebensmittel für eine antientzündliche Ernährung",
@@ -531,12 +543,6 @@
       "image_url": "https://img.zeit.de/digital/2024-04/was-jetzt-die-woche-tiktok-verbot/super__320x213"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Liveblog:Ukraine-Krieg : Deutschland und EU stocken Ukraine-Unterstützungsfonds auf",
-      "teaser": "Mit weiteren 30 Millionen Euro wollen Deutschland und die EU den Wiederaufbau in der Ukraine fördern. Olaf Scholz fordert Freilassung von entführten Kindern. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-06/ukraine-krieg-news-liveblog-minenraeumer/super__430x286"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Israel : Sachpolitik gegen Machtpolitik",
       "teaser": "Der Rücktritt von Benny Gantz aus Israels Notstandsregierung und Krisenkabinett erhöht den Druck auf Premier Netanjahu. Fraglich, ob dieser sich davon beeindrucken lässt.",
       "url": "https://www.zeit.de/politik/ausland/2024-06/israel-benny-gantz-ruecktritt-kriegskabinett-benjamin-netanjahu",
@@ -548,6 +554,12 @@
       "teaser": "Die Ampelparteien haben bei den EU- und Kommunalwahlen deutlich verloren. Warum eigentlich? Und: Die Opposition fordert schon vorgezogene Neuwahlen. Bringt das was?",
       "url": "https://www.zeit.de/politik/2024-06/folgen-europawahl-kommunalwahlen-nachrichtenpodcast",
       "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Lange Nacht der ZEIT : \"Gleichgültigkeit hilft dem Hass\"",
+      "teaser": "Der Publizist Michel Friedman wuchs als Jude im Europa nach 1945 auf. Bei der Langen Nacht der ZEIT sprach er darüber, wie Antisemitismus die Demokratie bedroht.",
+      "url": "https://www.zeit.de/politik/2024-06/friedman-demokratie-antisemitismus-hass",
+      "image_url": "https://img.zeit.de/politik/2024-06/die-lange-nacht-der-zeit-2024-michel-friedman-aufmacherfoto/super__430x286"
     },
     {
       "title": "Verlagsangebot : Englischquiz: Lincoln oder Kennedy – wer hat’s gesagt?",
@@ -650,7 +662,9 @@
     {
       "title": "Europawahl 2024 : „Hier wählen Menschen absichtlich eine Partei, die eine liberale Demokratie ablehnt“",
       "teaser": "Nach der Europawahl zeigt sich: In Ostdeutschland ist die AfD die stärkste Kraft. Warum die Skandale vor der Wahl nicht geschadet haben und wie das die kommenden Landtagswahlen beeinflusst, schätzt ein Experte ein.",
-      "url": "https://www.wiwo.de/politik/deutschland/europawahl-2024-hier-waehlen-menschen-absichtlich-eine-partei-die-eine-liberale-demokratie-ablehnt/29841938.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett"
+      "url": "https://www.wiwo.de/politik/deutschland/europawahl-2024-hier-waehlen-menschen-absichtlich-eine-partei-die-eine-liberale-demokratie-ablehnt/29841938.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/europawahl-afd-wahlparty/29841978/3-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
+      "image_title": "„Hier wählen Menschen absichtlich eine Partei, die eine liberale Demokratie ablehnt“"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Frauen ohne Kinder • Das Beste aus Z+ : \"Ich pflege lieber mein soziales Netz, als es mir selbst zu gebären\"",
@@ -827,10 +841,10 @@
       "image_url": "https://img.zeit.de/wirtschaft/2024-06/g-metall-industrie-elektroindustrie-tarifrunde-forderung-loehne-inflation-bild/wide__892x501"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Landwirtschaft : \"Zu leben tat einfach nur noch weh\"",
-      "teaser": "Die Landwirtschaft wird romantisiert: Natur! Frische Luft! Tiere! Viele in der Branche leiden indes unter Wachstumsdruck, haben Existenzängste oder Suizidgedanken.",
-      "url": "https://www.zeit.de/arbeit/2024-06/landwirtschaft-bauern-wachstum-zukunft",
-      "image_url": "https://img.zeit.de/arbeit/2024-06/landwirtschaft-bauern-wachstum-zukunft-2/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Personalmangel • Das Wichtigste aus Z+ : In diesen Berufen ist der Fachkräftemangel akut",
+      "teaser": "Neue Daten zeigen: In 183 Berufen ist der Personalmangel enorm. Auch in Ihrem? Prüfen Sie, wie stark Ihre Branche betroffen ist – und wo die meisten Fachkräfte fehlen.",
+      "url": "https://www.zeit.de/arbeit/2024-06/personalmangel-fachkraeftemangel-arbeitslosigkeit-arbeitsmarkt",
+      "image_url": "https://img.zeit.de/arbeit/2024-06/personalmangel-fachkraeftemangel-arbeitslosigkeit-arbeitsmarkt-teaserbild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Harald Martenstein : Wer nicht wagt, gewinnt",
@@ -839,41 +853,41 @@
       "image_url": "https://img.zeit.de/zeit-magazin/leben/2024-06/harald-martenstein-preisverleihung-jury-fairness-bild/wide__72C3E6__892x501"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Zusammenziehen : Wie aus seiner Wohnung unser Zuhause wird",
+      "teaser": "Die Wohnungsnot bringt viele Paare dazu, in eine der schon vorhandenen Singlewohnungen zusammenzuziehen. Wie es gelingt, dass nicht einer von beiden ewig Gast bleibt.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2024-06/zusammenziehen-wohlfuehlen-partner-wohnungsnot",
+      "image_url": "https://img.zeit.de/zeit-magazin/leben/2024-06/zusammenziehen-wohlfuehlen-partner-wohnungsnot-bild/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Sonnenlicht : Überleben im Halbschatten",
       "teaser": "Meist scheint die Sonne auf Balkonen zu viel oder zu wenig. Da hilft es manchen Pflanzen, sie ins rechte Licht zu rücken.",
       "url": "https://www.zeit.de/zeit-magazin/leben/2024-06/sonnenlicht-pflanzen-garten-gartenkolumne",
       "image_url": "https://img.zeit.de/zeit-magazin/leben/2024-06/wochenende-24-krokuspokus-teaser-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Tiny Houses : Tiny Houses? Egoistische Platzverschwendung",
-      "teaser": "Das Versprechen von Tiny Houses: naturnah, bescheiden, nachhaltig. Perfekt für die Stadtflucht, dachte unsere Autorin. Bis sie verstand, dass nichts davon stimmt.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2024-06/tiny-houses-land-oekologie-egoismus-nachhaltigkeit",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-06/zwe-auf-dem-land-tinyhouse-aufmacher/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Junge Wähler : Sie wissen sehr wohl, warum sie rechts wählen",
+      "teaser": "Viele junge Europäer haben bei der Europawahl für rechte Parteien gestimmt. Das nur auf TikTok und Protest zu schieben, wäre gefährlich. Die Gründe sind andere.",
+      "url": "https://www.zeit.de/campus/2024-06/junge-waehler-afd-rechtsruck",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-06/europawahl-rechtsruck-waehler-kommentar-bild/wide__892x501"
+    },
+    {
+      "title": "Verlagsangebot : Welcher Studiengang passt zu mir?",
+      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
+      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.bildtext.allein.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=campus-verlagsteaser&amp;utm_content=sit_bildtext_allein_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/sit-gruppe/wide__430x286__desktop",
+      "image_title": "Welcher Studiengang passt zu mir?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Europe Talks 2024 : \"Am meisten Angst habe ich vor Konflikten und Kriegen\"",
       "teaser": "Mehr als 20 Millionen Europäer wählen dieser Tage zum ersten Mal. Wie geht es diesen jungen Erstwählern? Und was wollen sie von der EU? Hier erzählen 23 von ihnen.",
       "url": "https://www.zeit.de/campus/2024-05/europe-talks-2024-erstwaehler-europawahlen-eu-wuensche",
-      "image_url": "https://img.zeit.de/campus/2024-06/europe-talks-2024-erstwaehler-europawahlen-eu-wuensche-bild-1/wide__892x501"
+      "image_url": "https://img.zeit.de/campus/2024-06/europe-talks-2024-erstwaehler-europawahlen-eu-wuensche-bild-1/super__430x286"
     },
     {
-      "title": "Verlagsangebot : Nicht nur irgendwas studieren",
-      "teaser": "Studieren! Aber was? Der Studiuminteressentest unterstützt Unschlüssige bei ihrer Suche nach dem passenden Studium, basierend auf den eigenen Interessen.",
-      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.textbild.schwarzer-hut_nichtnurirgendwas.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=sit_textbild_schwarzer-hut_nichtnurirgendwas_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-2-klein/brooke-cagle-tlg2hcpitze-unsplash-197.jpg",
-      "image_title": "Nicht nur irgendwas studieren"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Geraldine Rauch : Die Aktivistin",
-      "teaser": "Geraldine Rauch wollte als Präsidentin der TU Berlin nahbar sein, laut, politisch. Dann hat sie antisemitische Posts gelikt – und ihre Uni in eine tiefe Krise gestürzt.",
-      "url": "https://www.zeit.de/2024/25/geraldine-rauch-technische-universitaet-berlin-antisemitismus",
-      "image_url": "https://img.zeit.de/2024/25/die-aktivistin-bild-1/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Europe Talks 2024 : Sie eint die Angst um ihre Zukunft",
-      "teaser": "Über 20 Millionen Menschen dürfen zum ersten Mal zur Europawahl. Viele von ihnen sind jung, so wie Luca, Aneta, und Rūta. An die EU haben die drei einen Wunsch: Schutz.",
-      "url": "https://www.zeit.de/campus/2024-05/erstwaehler-europawahl-jugend-eu",
-      "image_url": "https://img.zeit.de/campus/2024-05/erstwaehler-europawahl-jugend-eu-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Nachtleben : Hier ist Ihre Stadt nachts am lebendigsten",
+      "teaser": "Wohnen Sie vergleichsweise ruhig – oder mitten im Hotspot? ZEIT ONLINE zeigt in interaktiven Karten, wo in den zehn größten deutschen Städten nachts am meisten los ist.",
+      "url": "https://www.zeit.de/campus/2024-06/nachtleben-deutsche-staedte-party-clubs",
+      "image_url": "https://img.zeit.de/campus/2024-02/nachtleben-deutsche-staedte-party-clubs-teaserbild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Trauermücken : Mach die Mücke!",
@@ -949,8 +963,24 @@
       "image_url": "https://img.zeit.de/newsletter/podcast-festival/podcast-newsletter-titelbild/super__430x286"
     },
     {
-      "title": "Parteien: Koalition im Osten: Merz betont Distanz zu Wagenknecht",
+      "title": "Leute: Tom Kaulitz: Bei der Europameisterschaft \"geht was\"",
+      "url": "https://www.zeit.de/news/2024-06/11/tom-kaulitz-bei-der-europameisterschaft-geht-was"
+    },
+    {
+      "title": "Russische Invasion: Krieg gegen die Ukraine: So ist die Lage",
+      "url": "https://www.zeit.de/news/2024-06/11/krieg-gegen-die-ukraine-so-ist-die-lage"
+    },
+    {
+      "title": "Wahlen: Koalition im Osten: Merz betont Distanz zu Wagenknecht",
       "url": "https://www.zeit.de/news/2024-06/11/koalition-im-osten-merz-betont-distanz-zu-wagenknecht"
+    },
+    {
+      "title": "Verkehr: Vorbereitungen auf Vollsperrung der Riedbahn laufen",
+      "url": "https://www.zeit.de/news/2024-06/11/vorbereitungen-auf-vollsperrung-der-riedbahn-laufen"
+    },
+    {
+      "title": "Naturschutz: Erste Flüge für Seehund-Zählungen im Wattenmeer starten",
+      "url": "https://www.zeit.de/news/2024-06/11/erste-fluege-fuer-seehund-zaehlungen-im-wattenmeer-starten"
     },
     {
       "title": "Fotografie: Bilder des Tages",
@@ -961,24 +991,8 @@
       "url": "https://www.zeit.de/news/2024-06/10/zehnkaempfer-kaul-bei-em-halbzeit-auf-kurs-skotheim-fuehrt"
     },
     {
-      "title": "BBL-Finals: Alba schafft Ausgleich in Basketball-Finalserie gegen Bayern",
-      "url": "https://www.zeit.de/news/2024-06/10/alba-schafft-ausgleich-in-basketball-finalserie-gegen-bayern"
-    },
-    {
-      "title": "Polizei: Kleinkind in Katzenkorb gefunden: Aus drittem Stock geworfen?",
-      "url": "https://www.zeit.de/news/2024-06/10/kleinkind-in-katzenkorb-gefunden-aus-drittem-stock-geworfen"
-    },
-    {
-      "title": "Leichtathletik: Hindernisläufer Bebendorf holt EM-Bronze - Ruppert Vierter",
-      "url": "https://www.zeit.de/news/2024-06/10/hindernislaeufer-bebendorf-holt-em-bronze-ruppert-vierter"
-    },
-    {
-      "title": "Hamburg: Grüne verlieren in Bezirke: SPD wieder stärkste Kraft",
-      "url": "https://www.zeit.de/news/2024-06/10/gruene-verlieren-in-bezirke-spd-wieder-staerkste-kraft"
-    },
-    {
-      "title": "Saarbrücken: Mann bei Messerangriff in Zug lebensgefährlich verletzt",
-      "url": "https://www.zeit.de/news/2024-06/10/mann-bei-messerangriff-in-zug-lebensgefaehrlich-verletzt"
+      "title": "CSU: Stoiber erhält Politikpreis: Und fordert Vertrauensfrage",
+      "url": "https://www.zeit.de/news/2024-06/10/stoiber-erhaelt-politikpreis-und-fordert-vertrauensfrage"
     }
   ]
 }
