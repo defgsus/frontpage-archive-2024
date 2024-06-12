@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-06-12T08:08:25",
+  "timestamp": "2024-06-12T09:01:42",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Patchday Adobe",
+      "url": "https://www.heise.de/news/Patchday-Adobe-schliesst-unter-anderem-kritische-Luecke-in-Magento-Shopsoftware-9759088.html"
+    },
+    {
       "title": "Patchday Microsoft",
       "url": "https://www.heise.de/news/Patchday-Schadcode-kann-sich-auf-Windows-Servern-wurmartig-ausbreiten-9758875.html"
     },
@@ -42,16 +46,6 @@
     {
       "title": "PyTorch",
       "url": "https://www.heise.de/news/Schwachstelle-in-PyTorch-erlaubt-Command-Injection-via-RPC-auf-dem-Master-Node-9756237.html"
-    },
-    {
-      "title": "PHP",
-      "url": "https://www.heise.de/news/Sicherheitspatch-nachgebessert-Schadcode-Attacken-auf-PHP-moeglich-9752112.html"
-    },
-    {
-      "title": "Patchday: Schadcode kann sich auf Windows-Servern wurmartig ausbreiten",
-      "teaser": "Angreifer können an mehreren Schwachstellen in verschiedenen Microsoft-Produkten ansetzen, um Systeme zu kompromittieren. Updates dagegen stehen bereit.",
-      "url": "https://www.heise.de/news/Patchday-Schadcode-kann-sich-auf-Windows-Servern-wurmartig-ausbreiten-9758875.html",
-      "image_title": "Windows-Logo mit Flecken und der Aufschrift \"Patchday\""
     },
     {
       "title": "iX-Workshop: Angriffe auf Entra ID abwehren",
@@ -82,6 +76,12 @@
       "teaser": "Lernen Sie die wichtigsten Sicherheitslücken in Web-Anwendungen kennen und erfahren Sie, wie Sie sich erfolgreich schützen können. (Last Call)",
       "url": "https://www.heise.de/news/iX-Workshop-OWASP-R-Top-10-Sicherheitsrisiken-fuer-Webanwendungen-verstehen-9752042.html",
       "image_title": "Online-Workshop: OWASP Top 10 – Sicherheitslücken in Webanwendungen vermeiden"
+    },
+    {
+      "title": "Verbraucherzentrale warnt vor Fakeshops mit Fußball-EM-Fanartikeln",
+      "teaser": "Das Deutsche EM-Trikot zum halben Preis? Achtung, es könnte ein Fakeshop sein, warnt jetzt die Verbraucherzentrale NRW.",
+      "url": "https://www.heise.de/news/Verbraucherzentrale-warnt-vor-Fakeshops-mit-Fussball-EM-Fanartikeln-9757240.html",
+      "image_title": "Stilisiertes Bild: Feiernde Fußballfans mit deutschen Flaggen"
     },
     {
       "title": "Pendrive S3: kleiner Stick mit ESP32-S3 für Pentesting und Entwicklung",
