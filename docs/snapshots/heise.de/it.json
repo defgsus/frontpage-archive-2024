@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-06-12T11:01:05",
+  "timestamp": "2024-06-12T12:10:21",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -43,14 +43,36 @@
       "url": "https://www.heise.de/news/Mainboards-fuer-Ryzen-9000-mit-USB4-und-neuen-Chipsaetzen-9748121.html"
     },
     {
+      "title": "Wie man das Problem des Handlungsreisenden blitzschnell löst",
+      "teaser": "Wir zeigen, wie man vom verallgemeinerten Traveling Salesman Problem über ein asymmetrisches zu einem symmetrischen gelangt und die perfekte Lösung errechnet.",
+      "url": "https://www.heise.de/hintergrund/Wie-man-das-Problem-des-Handlungsreisenden-blitzschnell-loest-9757393.html"
+    },
+    {
       "title": "Die kleine Codefabrik: KI-Tools für Entwickler im Überblick",
       "teaser": "Mit dem Tippen der ersten Zeile einer neuen Funktion schreibt die IDE sie automatisch weiter – mit dieser Arbeitserleichterung locken zahlreiche KI-Angebote.",
       "url": "https://www.heise.de/hintergrund/Die-kleine-Codefabrik-KI-Tools-fuer-Entwickler-im-Ueberblick-9758025.html"
     },
     {
-      "title": "Antivirus gegen Malware: Schadsoftware verstecken und finden",
-      "teaser": "Malware versucht sich der Beobachtung von Antivirensoftware zu entziehen. Beide interagieren dabei mit dem Windows-Kernel auf ähnliche Weise.",
-      "url": "https://www.heise.de/hintergrund/Antivirus-gegen-Malware-Schadsoftware-verstecken-und-finden-9750240.html"
+      "title": "Videokonverter: FFmpeg mit Hardwarebeschleunigung installieren und nutzen",
+      "teaser": "Wir zeigen, wie Sie das Video-Universalwerkzeug FFmpeg mit Grafikkartenunterstützung unter Windows und Linux installieren und Videos effizient konvertieren.",
+      "url": "https://www.heise.de/ratgeber/Videokonverter-FFmpeg-mit-Hardwarebeschleunigung-installieren-und-nutzen-9759054.html",
+      "image_title": ", KI Midjourney Collage c’t"
+    },
+    {
+      "title": "Policies im Kubernetes-Cluster mit Kyverno umsetzen",
+      "teaser": "Policy as Code gilt als probates Mittel, den Managementaufwand für Kubernetes-Security im Rahmen zu halten – und genau das bietet die Policy Engine Kyverno.",
+      "url": "https://www.heise.de/tests/Policies-im-Kubernetes-Cluster-mit-Kyverno-umsetzen-9755081.html"
+    },
+    {
+      "title": "Die Erfolgsgeschichte von Linux verstehen mit dem c't Linux-Guide",
+      "teaser": "Linux verstehen mit dem c’t-Sonderheft. Von der Installation über praktische Tipps für den Alltag bis hin zu Hintergründen und Terminal-Tricks.",
+      "url": "https://www.heise.de/news/Die-Erfolgsgeschichte-von-Linux-verstehen-mit-dem-c-t-Linux-Guide-9752424.html"
+    },
+    {
+      "title": "London: Nach Cyberangriff sollen wohl auch Medizinstudenten aushelfen",
+      "teaser": "Nach einem Cyberangriff auf einen Pathologiedienstleister kämpfen Londoner Kliniken mit den Auswirkungen. Das englische Gesundheitssystem bittet um Blutspenden.",
+      "url": "https://www.heise.de/news/Cyberangriff-auf-Londoner-Labordienstleister-Kliniken-benoetigen-Blutspenden-9759298.html",
+      "image_title": "Eine Person erhält eine Bluttransfusion in einem Krankenhaus."
     },
     {
       "title": "Tipp: Fotos aus zweiter Mediathek importieren",
@@ -76,7 +98,7 @@
       "image_title": "AMD Ryzen 5 7600X im Mainboard"
     },
     {
-      "title": "Von Polizei verhaftet: Student setzt KI bei Prüfung ein und fliegt auf",
+      "title": "Betrugsversuch in Prüfung in der Türkei: Student nach KI-Einsatz verhaftet",
       "teaser": "Der Betrugsversuch eines Studenten in der Türkei bei einer Aufnahmeprüfung endete für ihn im Gefängnis. Er nutzte ein ausgeklügeltes System für einen KI-Joker.​",
       "url": "https://www.heise.de/news/Polizei-verhaftet-Studenten-wegen-KI-Einsatz-bei-Pruefung-in-der-Tuerkei-9759385.html",
       "image_title": "Einsatzbereite Handschellen"
@@ -115,30 +137,6 @@
       "teaser": "Das Aachener Start-up Black Semiconductor sichert sich eine Viertelmilliarde Euro für die Fertigung von Graphen-Optelektronik.",
       "url": "https://www.heise.de/news/Schnelle-optische-Chip-Interconnects-mit-Graphen-Technik-aus-Deutschland-9751925.html",
       "image_title": "Wafer mit optoelektronischen Schaltungen.​"
-    },
-    {
-      "title": "Apple Intelligence: So sicher sollen die Cloudserver sein",
-      "teaser": "Trotz hauptsächlicher Verarbeitung auf dem Gerät kommt auch Apples KI nicht ohne Cloudserver aus. Jetzt wurden neue Details zum Datenschutz bekannt.",
-      "url": "https://www.heise.de/news/Apple-Intelligence-So-sicher-sollen-die-Cloudserver-sein-9758925.html",
-      "image_title": "Apple-Logo auf einer Geräterückseite"
-    },
-    {
-      "title": "iX-Workshop: Angriffe auf Entra ID abwehren",
-      "teaser": "Lernen Sie, wie Sie Entra ID einschließlich Azure-Diensten härten und effektiv vor Angriffen schützen. (Last Call)",
-      "url": "https://www.heise.de/news/iX-Workshop-Angriffe-auf-Entra-ID-abwehren-9752058.html",
-      "image_title": "iX-Workshop Entra ID (AAD) gegen Angriffe absichern"
-    },
-    {
-      "title": "Bewerber-Datenleck: CDU will Betroffene zeitnah informieren",
-      "teaser": "Die CDU hat das Datenleck in ihrem Bewerberportal bei der Berliner Datenschutzaufsicht angezeigt. Die Betroffenen sollen nun informiert werden.",
-      "url": "https://www.heise.de/news/CDU-Bewerber-Datenleck-Betroffene-sollen-zeitnah-informiert-werden-9758571.html",
-      "image_title": "CDU-Schriftzug am Konrad-Adenauer-Haus"
-    },
-    {
-      "title": "Tim Cook: Apple Intelligence nicht frei von KI-Halluzinationen",
-      "teaser": "Mit iOS 18 stürzt Apple sich und die Kunden kopfüber in generative KI. Er könne nicht behaupten, dass das \"zu 100 Prozent\" rund läuft, so Apple-Chef Tim Cook.​",
-      "url": "https://www.heise.de/news/Tim-Cook-Apple-Intelligence-nicht-frei-von-KI-Halluzinationen-9758443.html",
-      "image_title": "GenAI in der Nachrichten-App von iOS 18"
     },
     {
       "title": "Status quo of Low-code adaption in Europe",
