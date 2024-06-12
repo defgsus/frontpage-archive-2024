@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-06-12T07:01:13",
+  "timestamp": "2024-06-12T08:08:25",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Patchday Microsoft",
+      "url": "https://www.heise.de/news/Patchday-Schadcode-kann-sich-auf-Windows-Servern-wurmartig-ausbreiten-9758875.html"
+    },
+    {
       "title": "Patchday SAP",
       "url": "https://www.heise.de/news/SAP-liefert-am-Patchday-Sicherheitskorrekturen-fuer-zwei-hochriskante-Luecken-9757338.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Sicherheitspatch-nachgebessert-Schadcode-Attacken-auf-PHP-moeglich-9752112.html"
     },
     {
-      "title": "Azure",
-      "url": "https://www.heise.de/news/Kritische-Azure-Luecke-Patch-Status-derzeit-unklar-9751850.html"
+      "title": "Patchday: Schadcode kann sich auf Windows-Servern wurmartig ausbreiten",
+      "teaser": "Angreifer können an mehreren Schwachstellen in verschiedenen Microsoft-Produkten ansetzen, um Systeme zu kompromittieren. Updates dagegen stehen bereit.",
+      "url": "https://www.heise.de/news/Patchday-Schadcode-kann-sich-auf-Windows-Servern-wurmartig-ausbreiten-9758875.html",
+      "image_title": "Windows-Logo mit Flecken und der Aufschrift \"Patchday\""
     },
     {
       "title": "iX-Workshop: Angriffe auf Entra ID abwehren",
@@ -156,12 +162,6 @@
       "title": "IT-Sicherheitstag Mainz: Sicherheit und Resilienz im Unternehmen - jetzt buchen!",
       "teaser": "Prävention statt Reaktion: Wie Unternehmen ihre Sicherheitskultur erfolgreich an aktuelle Herausforderungen anpassen, zeigt der IT-Sicherheitstag Mainz.",
       "url": "https://www.heise.de/news/IT-Sicherheitstag-Mainz-Sicherheit-und-Resilienz-im-Unternehmen-jetzt-buchen-9751469.html"
-    },
-    {
-      "title": "Daten-Leak bei der New York Times: Quellcode und Repositories landen auf 4chan",
-      "teaser": "Ein 4chan-Nutzer behauptet, 270 GB an internen Daten und Repositories der New York Times über das Internetforum veröffentlicht zu haben.",
-      "url": "https://www.heise.de/news/Daten-Leak-bei-der-New-York-Times-Quellcode-und-Repostories-landen-auf-4chan-9753754.html",
-      "image_title": "Daten"
     },
     {
       "title": "IT-Security: Mehr Sicherheit durch API-Firewalls",
