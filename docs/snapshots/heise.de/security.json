@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-06-13T07:00:55",
+  "timestamp": "2024-06-13T08:00:49",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Pixel-Smartphones",
+      "url": "https://www.heise.de/news/Angreifer-attackieren-Geraete-Extra-Sicherheitsupdates-fuer-Google-Pixel-9761261.html"
+    },
+    {
       "title": "VLC media player",
       "url": "https://www.heise.de/news/Sicherheitsupdate-VLC-media-player-fuer-Attacken-anfaellig-9760172.html"
     },
@@ -44,26 +48,16 @@
       "url": "https://www.heise.de/news/Patchday-Adobe-schliesst-unter-anderem-kritische-Luecke-in-Magento-Shopsoftware-9759088.html"
     },
     {
-      "title": "Patchday Microsoft",
-      "url": "https://www.heise.de/news/Patchday-Schadcode-kann-sich-auf-Windows-Servern-wurmartig-ausbreiten-9758875.html"
+      "title": "Angreifer attackieren Geräte: Extra-Sicherheitsupdates für Google Pixel",
+      "teaser": "Patches schließen mehrere kritische Sicherheitslücken in Googles Pixel-Serie. Eine Schwachstelle soll bereits ausgenutzt werden.",
+      "url": "https://www.heise.de/news/Angreifer-attackieren-Geraete-Extra-Sicherheitsupdates-fuer-Google-Pixel-9761261.html",
+      "image_title": "Stilisiertes Bild: Smartphone mit Android-Roboter auf dem Bildschirm, steht in Flammen"
     },
     {
       "title": "iX-Workshop Digital Forensics & Incident Response: Schützen, Erkennen, Reagieren",
       "teaser": "Lernen Sie, professionelle Incident Response Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können. (Last Call)",
       "url": "https://www.heise.de/news/iX-Workshop-Digital-Forensics-Incident-Response-Schuetzen-Erkennen-Reagieren-9752126.html",
       "image_title": "iX-Workshop Digital Forensics & Incident Response"
-    },
-    {
-      "title": "Check Point: Security-Lücke wurde nicht nur bei CDU genutzt",
-      "teaser": "1800 Systeme waren laut BSI verwundbar, auch Kritis-Betreiber wurden erfolgreich angegriffen.",
-      "url": "https://www.heise.de/news/Check-Point-Security-Luecke-wurde-nicht-nur-bei-CDU-genutzt-9760699.html",
-      "image_title": "Schild des BSI"
-    },
-    {
-      "title": "Microsoft macht Ernst: Cybersicherheit für Krankenhäuser",
-      "teaser": "Nachdem Microsoft IT-Security zur Priorität erklärt hat, kündigt das Unternehmen ein Cybersicherheitsprogramm für US-Kliniken im ländlichen Raum an.",
-      "url": "https://www.heise.de/news/Microsoft-macht-Ernst-Cybersicherheit-fuer-Krankenhaeuser-9760474.html",
-      "image_title": "Krankenhausflut mit Stühlen"
     },
     {
       "title": "Sicherheitsupdate: VLC media player für Attacken anfällig",
@@ -87,6 +81,18 @@
       "title": "Cisco: Neue Firewalls – natürlich mit KI",
       "teaser": "Im Rahmen der Hausmesse Live hat Cisco mehrere neue Firewall-Serien vorgestellt. Neben dem neuen Topmodell gab es auch einen GenAI-Assistenten zu sehen.",
       "url": "https://www.heise.de/news/Cisco-Neue-Firewalls-natuerlich-mit-KI-9759186.html"
+    },
+    {
+      "title": "Patchday: Adobe schließt unter anderem kritische Lücke in Magento-Shopsoftware",
+      "teaser": "Es sind wichtige Sicherheitsupdates für verschiedene Adobe-Produkte erschienen. Angreifer können etwa FrameMaker Publishing Server attackieren.",
+      "url": "https://www.heise.de/news/Patchday-Adobe-schliesst-unter-anderem-kritische-Luecke-in-Magento-Shopsoftware-9759088.html",
+      "image_title": "Adobe-Logo mit Flecken und der Aufschrift \"Patchday\""
+    },
+    {
+      "title": "Patchday: Schadcode kann sich auf Windows-Servern wurmartig ausbreiten",
+      "teaser": "Angreifer können an mehreren Schwachstellen in verschiedenen Microsoft-Produkten ansetzen, um Systeme zu kompromittieren. Updates dagegen stehen bereit.",
+      "url": "https://www.heise.de/news/Patchday-Schadcode-kann-sich-auf-Windows-Servern-wurmartig-ausbreiten-9758875.html",
+      "image_title": "Windows-Logo mit Flecken und der Aufschrift \"Patchday\""
     },
     {
       "title": "Apple Intelligence: So sicher sollen die Cloudserver sein",
@@ -158,12 +164,6 @@
       "teaser": "Univention Nubus packt das IAM in souveränen Clouds an. Enthalten ist ein RfC-konformer LDAP-Server mit SAML-Anbindungen an verschiedene externe Dienste.",
       "url": "https://www.heise.de/news/Univention-Nubus-Modulares-IAM-fuer-Cloud-Umgebungen-9756349.html",
       "image_title": "Wolken und Schild"
-    },
-    {
-      "title": "NVD-Schwachstellendatenbank: NIST verpflichtet Unternehmen zur Mithilfe",
-      "teaser": "Das US-amerikanische NIST hat ein Unternehmen unter Vertrag genommen, das bei der Abarbeitung des Rückstaus der NVD-Datenbank helfen soll.",
-      "url": "https://www.heise.de/news/NVD-Schwachstellendatenbank-NIST-verpflichtet-Unternehmen-zur-Mithilfe-9756078.html",
-      "image_title": "Schloss-Symbol vor Laptop"
     },
     {
       "title": "IT-Security: Mehr Sicherheit durch API-Firewalls",
