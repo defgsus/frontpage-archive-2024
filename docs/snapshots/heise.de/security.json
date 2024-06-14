@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-06-14T09:01:44",
+  "timestamp": "2024-06-14T10:00:44",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Dell BIOS",
+      "url": "https://www.heise.de/news/BIOS-Luecken-Angreifer-koennen-Dell-PCs-kompromittieren-9763021.html"
+    },
+    {
       "title": "PHP-CGI",
       "url": "https://www.heise.de/news/CISA-warnt-Kritischer-PHP-Bug-wird-von-Ransomware-ausgenutzt-9762259.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Angreifer-attackieren-Geraete-Extra-Sicherheitsupdates-fuer-Google-Pixel-9761261.html"
     },
     {
-      "title": "VLC media player",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-VLC-media-player-fuer-Attacken-anfaellig-9760172.html"
+      "title": "BIOS-Lücken: Angreifer können Dell-PCs kompromittieren",
+      "teaser": "Unter anderem PCs der Serie Alienware und Inspiron sind vor Attacken gefährdet. Dabei kann Schadcode auf Computer gelangen.",
+      "url": "https://www.heise.de/news/BIOS-Luecken-Angreifer-koennen-Dell-PCs-kompromittieren-9763021.html"
     },
     {
       "title": "Sicherheitsupdates: Fortinet rüstet Produkte gegen verschiedene Attacken",
@@ -157,12 +162,6 @@
       "teaser": "Das Deutsche EM-Trikot zum halben Preis? Achtung, es könnte ein Fakeshop sein, warnt jetzt die Verbraucherzentrale NRW.",
       "url": "https://www.heise.de/news/Verbraucherzentrale-warnt-vor-Fakeshops-mit-Fussball-EM-Fanartikeln-9757240.html",
       "image_title": "Stilisiertes Bild: Feiernde Fußballfans mit deutschen Flaggen"
-    },
-    {
-      "title": "Pendrive S3: kleiner Stick mit ESP32-S3 für Pentesting und Entwicklung",
-      "teaser": "Mit dem Pendrive S3 lassen sich USB-Geräte ganz unterschiedlicher Couleur simulieren. Von der Maus über die Tastatur bis zum Netzwerkgerät oder Speicherstick.",
-      "url": "https://www.heise.de/news/Pendrive-S3-kleiner-Stick-mit-ESP32-S3-fuer-Pentesting-und-Entwicklung-9755786.html",
-      "image_title": "Pendrive S3 Aufsicht des Sticks"
     },
     {
       "title": "IT-Security: Mehr Sicherheit durch API-Firewalls",
