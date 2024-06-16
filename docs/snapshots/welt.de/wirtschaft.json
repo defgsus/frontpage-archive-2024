@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-06-16T06:07:49",
+  "timestamp": "2024-06-16T07:00:55",
   "url": "https://www.welt.de/wirtschaft/",
   "response": {
     "status": 200
@@ -25,6 +25,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "Der mühselige Abriss der deutschen Atomkraftwerke",
+      "teaser": "Seit 2005 und noch bis Ende 2026 wird das Atomkraftwerk Stade bei Hamburg abgerissen. Das Großprojekt liefert wertvolles Wissen für den künftigen Abbruch aller stillgelegten Kernreaktoren in Deutschland – Milliarden Euro und Jahre an Zeit könnten dabei eingespart werden.",
+      "url": "https://www.welt.de/regionales/hamburg/",
+      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile252004820/1107935057-ci23x11-w20/Rueckbau-Kernkraftwerk-Stade-31.jpg",
+      "image_title": "Das Atomkraftwerk Stade ging 2003 vom Netz, seit 2005 wird die Anlage abgerissen",
+      "author": "Olaf Preuß"
+    },
     {
       "title": "Arbeit ohne Abitur oder Ausbildung – Die neue Realität unter deutschen Schulabgängern",
       "teaser": "In keinem EU-Land ist der Anteil junger Menschen, die die Schule vorzeitig verlassen, zuletzt so stark gestiegen wie in Deutschland. Experten sehen einen Wandel in der Einstellung der Jugend. Sie bevorzugten oft die Arbeit. Auch, weil zentrale Fehler in Deutschland nicht behoben werden.",
@@ -71,14 +79,6 @@
       "image_url": "https://img.welt.de/img/regionales/hamburg/mobile252008944/4367934977-ci23x11-w20/Brokdorf-Atomkraftwerk.jpg",
       "image_title": "Das Atomkraftwerk Brokdorf an der Elbe ging Ende 2021 als letzter Kernreaktor in der Metropolregion Hamburg vom Netz",
       "author": "Olaf Preuß"
-    },
-    {
-      "title": "Bald wertvoller als Nvidia? Die unglaubliche Tesla-Prophezeiung",
-      "teaser": "In diese Samstagsfolge von „Alles auf Aktien“ reden wir über ein Unternehmen, das womöglich vor dem großen Comeback steht. Wir reden über Tesla, dessen Chef einst alles gelang und dann plötzlich fast nichts mehr. Unser Gast kennt Tesla gut – und er findet Tesla gut.",
-      "url": "https://www.welt.de/podcasts/alles-auf-aktien/",
-      "image_url": "https://img.welt.de/img/podcasts/alles-auf-aktien/mobile246304624/0527933177-ci23x11-w20/Zschae-Nando-DWO-Podcast-Teaser-AllesAufAktien-mit-2zu3-zschaepitz-sommerfeld.jpg",
-      "image_title": "DWO_Podcast_Teaser_AllesAufAktien_mit_2zu3_zschaepitz_sommerfeld_aw",
-      "author": "Holger Zschäpitz"
     },
     {
       "title": "Geht der Dax auf Erholungskurs?",
@@ -261,6 +261,10 @@
       "url": "https://www.welt.de/wirtschaft/",
       "image_url": "https://img.welt.de/img/wirtschaft/mobile235813724/3920249907-ci16x9-w20/20211221-DWO-Champagne-Exports-STAT-jpg.jpg",
       "image_title": "Kein alternativer Text für dieses Bild vorhanden"
+    },
+    {
+      "title": "Der mühselige Abriss der deutschen Atomkraftwerke",
+      "url": "https://www.welt.de/regionales/hamburg/article252004830/Stillgelegte-Kernreaktoren-Der-muehselige-Abriss-der-deutschen-Atomkraftwerke.html"
     },
     {
       "title": "Arbeitgeber dämpfen Erwartungen für öffentliche Banken",
@@ -483,10 +487,6 @@
       "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article252001948/Dax-klar-im-Minus-Enttaeuschung-ueber-Fed.html"
     },
     {
-      "title": "Vier-Tage-Woche? „Das geht nicht in meinen Kopf“",
-      "url": "https://www.welt.de/wirtschaft/plus251932318/Oliver-Bierhoff-Vier-Tage-Woche-Das-geht-nicht-in-meinen-Kopf.html"
-    },
-    {
       "title": "Verbraucherzentrale mahnt Meta wegen KI-Training ab",
       "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article252000394/Verbraucherzentrale-mahnt-Meta-wegen-KI-Training-ab.html"
     },
@@ -566,12 +566,12 @@
       "image_title": "04 - Aufmacherelement"
     },
     {
-      "title": "Diesel-Makel beseitigt – Tesla schenkt Grünheide einen Elektro-Zug von Siemens",
-      "teaser": "Zur einzigen Tesla-Fabrik in Europa bekam Grünheide eine Shuttle-Verbindung geschenkt, mit der auch Nicht-Mitarbeiter kostenlos fahren dürfen. Gelästert wurde trotzdem, weil das E-Autowerk ausgerechnet mit einer Diesellok angebunden wurde. Das ist nun vorbei.",
-      "url": "https://www.welt.de/wirtschaft/",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile251988732/5447935547-ci23x11-w20/Start-des-eigenen-Bahnshuttle-zur-Tesla-Gigafactory-4-in-Gruenheid.jpg",
-      "image_title": "Dieser von einer Diesellok gezogene Zug zur Gigafabrik fährt seit September 2023",
-      "author": "Steffen Fründt"
+      "title": "Vier-Tage-Woche? „Das geht nicht in meinen Kopf“",
+      "teaser": "Oliver Bierhoff trieb die Vermarktung des DFB-Teams mit dem Slogan „Die Mannschaft“ maßgeblich voran. Der Ex-Funktionär erklärt, warum sich Fans über solchen Kommerz freuen sollten. Von der EM erwartet er keinen Stimmungswandel. Denn er sieht grundlegende Mentalitätsprobleme im Land.",
+      "url": "https://www.welt.de/wirtschaft/plus251932318/Oliver-Bierhoff-Vier-Tage-Woche-Das-geht-nicht-in-meinen-Kopf.html",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile251970458/1517930357-ci23x11-w20/GES-Fussball-DFB-Trainingslager-Herzogenaurach-09-06-2022.jpg",
+      "image_title": "Oliver Bierhoff war von 2004 bis 2022 als Funktionär beim DFB aktiv",
+      "author": "Nando Sommerfeldt"
     }
   ]
 }
