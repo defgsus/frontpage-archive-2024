@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-06-17T05:00:50",
+  "timestamp": "2024-06-17T06:09:04",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "Microsoft Recall soll zunächst nur für \"Insider\" verfügbar sein",
+      "teaser": "Ursprünglich sollte die umstrittene Funktion Recall am 18. Juni allgemein für Copilot+PCs verfügbar sein. Davon rückt Microsoft nun ab.",
+      "url": "https://www.heise.de/news/Microsoft-verschiebt-allgemeine-Einfuehrung-von-Recall-9763246.html",
+      "image_title": "Funktion \"Recall\" in einer Übersicht"
+    },
+    {
       "title": "ARM torpediert Windows on ARM: Vernichtung aller PCs mit Snapdragon X verlangt",
       "teaser": "Es wirkt gerade zu abstrus: ARM könnte erstmals bei PCs relevant werden. Die Firma selbst torpediert das Unterfangen jedoch.",
       "url": "https://www.heise.de/news/ARM-will-Verkauf-aller-neuen-PCs-mit-Windows-on-ARM-stoppen-9758354.html",
@@ -38,12 +44,6 @@
       "image_title": "Schild des BSI"
     },
     {
-      "title": "Betrugsversuch in Prüfung in der Türkei: Student nach KI-Einsatz verhaftet",
-      "teaser": "Der Betrugsversuch eines Studenten in der Türkei bei einer Aufnahmeprüfung endete für ihn im Gefängnis. Er nutzte ein ausgeklügeltes System für einen KI-Joker.​",
-      "url": "https://www.heise.de/news/Polizei-verhaftet-Studenten-wegen-KI-Einsatz-bei-Pruefung-in-der-Tuerkei-9759385.html",
-      "image_title": "Einsatzbereite Handschellen"
-    },
-    {
       "title": "Für 3D-Druck vorbereiten: 2D-Grafiken und Texte in 3D-Objekte verwandeln",
       "teaser": "Ein 3D-Logo oder ein Schriftzug machen sich gut als Dekoration an der Wand. Aber wie wird ein Umriss ohne viel Aufwand zu einem druckbaren 3D-Modell?",
       "url": "https://www.heise.de/ratgeber/Fuer-3D-Druck-vorbereiten-2D-Grafiken-und-Texte-in-3D-Objekte-verwandeln-9761129.html"
@@ -53,6 +53,17 @@
       "teaser": "Flatpak liefert einen einheitlichen Weg, Anwendungen unter Linux zu installieren. Praktische Tipps, um Flatpak im Terminal zu meistern.",
       "url": "https://www.heise.de/ratgeber/Linux-Apps-mit-Flatpak-installieren-und-verwalten-9759080.html",
       "image_title": "KI Midjourney Collage c't"
+    },
+    {
+      "title": "LLMs in der Softwareentwicklung: Was sie bringen und wo sie gescheitert sind",
+      "teaser": "Große Sprachmodelle versprechen, das Entwickeln von Software zu vereinfachen. Die Systeme haben Potenzial, doch ohne Strategie verursachen sie mehr Arbeit.",
+      "url": "https://www.heise.de/hintergrund/LLMs-in-der-Softwareentwicklung-Was-sie-bringen-und-wo-sie-gescheitert-sind-9762874.html"
+    },
+    {
+      "title": "iX-Workshop: AWS-Sicherheit - Angriffe erkennen und abwehren",
+      "teaser": "Erfahren Sie, wie Angreifer Fehlkonfigurationen und mangelnde Härtung der Amazon Cloud ausnutzen und wie Sie AWS-Dienste und Cloud-Identitäten dagegen schützen.",
+      "url": "https://www.heise.de/news/iX-Workshop-AWS-Sicherheit-Angriffe-erkennen-und-abwehren-9762723.html",
+      "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
     },
     {
       "title": "Die EM 2024 ist wertvoller Datenlieferant für KI-Forscher",
@@ -128,17 +139,6 @@
       "teaser": "Tools, die versprechen Windows zu schrumpfen - sind die eine Wunderpille oder eher Schlangenöl? Die Frage klären wir diese Woche im c’t Uplink.",
       "url": "https://www.heise.de/news/Windows-zusammenschrumpfen-c-t-uplink-9763420.html",
       "image_title": "c't uplink Thumbnail"
-    },
-    {
-      "title": "NIPRGPT: US-Militär experimentiert mit KI-Chatbot​",
-      "teaser": "In den USA bringen Air und Space Force einen Chatbot für ihre Mitarbeiter heraus, die damit verschiedene generativen KI-Modelle testen können.​",
-      "url": "https://www.heise.de/news/NIPRGPT-US-Militaer-experimentiert-mit-KI-Chatbot-9763782.html",
-      "image_title": "Login-Seite von NIPRGPT"
-    },
-    {
-      "title": "KI-Navigator #4: Phönix aus der Asche – KI braucht langfristige Perspektiven",
-      "teaser": "Oft wird in KI-Projekten gedacht. Die damit entstehenden Limitierungen behindern das Potenzial von KI in der Praxis, finden Konstantin Hopf und Benjamin Linnik.",
-      "url": "https://www.heise.de/meinung/KI-Navigator-4-Phoenix-aus-der-Asche-KI-braucht-langfristige-Perspektiven-9763007.html"
     },
     {
       "title": "Zahlreiche Bestwerte",
