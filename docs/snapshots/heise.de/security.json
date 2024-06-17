@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-06-17T11:01:15",
+  "timestamp": "2024-06-17T12:10:43",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Progress Telerik Report Server",
+      "url": "https://www.heise.de/news/CISA-warnt-vor-Angriffen-auf-Progress-Telerik-Report-Server-9766190.html"
+    },
+    {
       "title": "Nextcloud",
       "url": "https://www.heise.de/news/Nextcloud-Angreifer-koennen-Zwei-Faktor-Authentifizierung-umgehen-9766062.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Asus-Router-kompromittieren-9765067.html"
     },
     {
-      "title": "Dell BIOS",
-      "url": "https://www.heise.de/news/BIOS-Luecken-Angreifer-koennen-Dell-PCs-kompromittieren-9763021.html"
+      "title": "CISA warnt vor Angriffen auf Progress Telerik Report Server",
+      "teaser": "In der Berichtsverwaltung Progress Telerik Report Server greifen Kriminelle eine Sicherheitslücke an. Sie erlaubt die Umgehung der Authentifizierung.",
+      "url": "https://www.heise.de/news/CISA-warnt-vor-Angriffen-auf-Progress-Telerik-Report-Server-9766190.html",
+      "image_title": "Acess Denied steht vor Servern"
     },
     {
       "title": "Nextcloud: Angreifer können Zwei-Faktor-Authentifizierung umgehen",
@@ -153,12 +159,6 @@
       "teaser": "Nachdem Microsoft IT-Security zur Priorität erklärt hat, kündigt das Unternehmen ein Cybersicherheitsprogramm für US-Kliniken im ländlichen Raum an.",
       "url": "https://www.heise.de/news/Microsoft-macht-Ernst-Cybersicherheit-fuer-Krankenhaeuser-9760474.html",
       "image_title": "Krankenhausflut mit Stühlen"
-    },
-    {
-      "title": "Sicherheitsupdate: VLC media player für Attacken anfällig",
-      "teaser": "Die Entwickler haben eine Sicherheitslücke im VLC media player geschlossen. Durch die Schwachstelle kann Schadcode schlüpfen.",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-VLC-media-player-fuer-Attacken-anfaellig-9760172.html",
-      "image_title": "Update-Schild"
     },
     {
       "title": "IT-Security: Mehr Sicherheit durch API-Firewalls",
