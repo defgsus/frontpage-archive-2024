@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-06-17T08:00:48",
+  "timestamp": "2024-06-17T09:00:40",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Ivanti Endpoint Manager",
+      "url": "https://www.heise.de/news/Ivanti-Endpoint-Manager-Exploit-fuer-kritische-Luecke-aufgetaucht-9765685.html"
+    },
+    {
       "title": "Asus-Router",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Asus-Router-kompromittieren-9765067.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/CISA-warnt-Kritischer-PHP-Bug-wird-von-Ransomware-ausgenutzt-9762259.html"
     },
     {
-      "title": "Patchday Fortinet",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Fortinet-ruestet-Produkte-gegen-verschiedene-Attacken-9762030.html"
+      "title": "Ivanti Endpoint Manager: Exploit für kritische Lücke aufgetaucht",
+      "teaser": "Ein Proof-of-Concept-Exploit für eine kritische Lücke in Ivanti Endpoint Manager ist aufgetaucht. Zudem gibt es ein Update für den Hotfix.",
+      "url": "https://www.heise.de/news/Ivanti-Endpoint-Manager-Exploit-fuer-kritische-Luecke-aufgetaucht-9765685.html"
     },
     {
       "title": "Windows 11 24H2: Release-Vorschau wieder verfügbar, Recall entfernt",
@@ -57,6 +62,11 @@
       "teaser": "Erfahren Sie, wie Angreifer Fehlkonfigurationen und mangelnde Härtung der Amazon Cloud ausnutzen und wie Sie AWS-Dienste und Cloud-Identitäten dagegen schützen.",
       "url": "https://www.heise.de/news/iX-Workshop-AWS-Sicherheit-Angriffe-erkennen-und-abwehren-9762723.html",
       "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
+    },
+    {
+      "title": "Sicherheitsupdates: Angreifer können Asus-Router kompromittieren",
+      "teaser": "Mehrere WLAN-Router von Asus sind verwundbar und Angreifer können auf sie zugreifen. Updates lösen mehrere Sicherheitsprobleme.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Asus-Router-kompromittieren-9765067.html"
     },
     {
       "title": "GTA Online-Casino-Heists nach Exploit-Aufdeckung vorläufig gesperrt",
@@ -150,17 +160,6 @@
       "teaser": "Nach einem Cyberangriff auf einen Pathologiedienstleister kämpfen Londoner Kliniken mit den Auswirkungen. Das englische Gesundheitssystem bittet um Blutspenden.",
       "url": "https://www.heise.de/news/Cyberangriff-auf-Londoner-Labordienstleister-Kliniken-benoetigen-Blutspenden-9759298.html",
       "image_title": "Eine Person erhält eine Bluttransfusion in einem Krankenhaus."
-    },
-    {
-      "title": "Cisco: Neue Firewalls – natürlich mit KI",
-      "teaser": "Im Rahmen der Hausmesse Live hat Cisco mehrere neue Firewall-Serien vorgestellt. Neben dem neuen Topmodell gab es auch einen GenAI-Assistenten zu sehen.",
-      "url": "https://www.heise.de/news/Cisco-Neue-Firewalls-natuerlich-mit-KI-9759186.html"
-    },
-    {
-      "title": "Patchday: Adobe schließt unter anderem kritische Lücke in Magento-Shopsoftware",
-      "teaser": "Es sind wichtige Sicherheitsupdates für verschiedene Adobe-Produkte erschienen. Angreifer können etwa FrameMaker Publishing Server attackieren.",
-      "url": "https://www.heise.de/news/Patchday-Adobe-schliesst-unter-anderem-kritische-Luecke-in-Magento-Shopsoftware-9759088.html",
-      "image_title": "Adobe-Logo mit Flecken und der Aufschrift \"Patchday\""
     },
     {
       "title": "IT-Security: Mehr Sicherheit durch API-Firewalls",
