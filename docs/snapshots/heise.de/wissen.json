@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-06-17T12:10:41",
+  "timestamp": "2024-06-17T13:09:39",
   "url": "https://www.heise.de/newsticker/wissen/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "NASA verlängert Starliner-Mission für weitere Tests von Boeings Raumschiff",
+      "teaser": "Die Rückkehr von Boeings Starliner wurde um einige Tage verschoben. Die Astronauten sollen noch bis 22. Juni auf der ISS bleiben und weitere Tests durchführen.",
+      "url": "https://www.heise.de/news/NASA-verlaengert-Starliner-Mission-fuer-weitere-Tests-von-Boeings-Raumschiff-9765439.html",
+      "image_title": "Starliner im Weltraum über der Erde"
+    },
+    {
       "title": "Voyager 1: Alle vier Messinstrumente arbeiten",
       "teaser": "Die NASA hat es geschafft, alle vier Instrumente der Raumsonde Voyager 1 wieder in den Normalbetrieb zu führen.",
       "url": "https://www.heise.de/news/Voyager-1-Alle-vier-Messeinstrumente-arbeiten-9763059.html",
@@ -38,25 +44,14 @@
       "image_title": "Teile der ISS"
     },
     {
-      "title": "Weltraumteleskop James Webb findet haufenweise Supernovae im frühen Universum",
-      "teaser": "Sternenexplosionen sind für die Forschung besonders wertvoll und werden intensiv gesucht. Das Weltraumteleskop James Webb entpuppt sich als enorme Hilfe.",
-      "url": "https://www.heise.de/news/Weltraumteleskop-James-Webb-findet-haufenweise-Supernovae-im-fruehen-Universum-9759264.html",
-      "image_title": "Bild von Galaxien mit vielen kleinen Kreisen"
+      "title": "Observability: OpenTelemetry-Pipelines mit Kubernetes aufbauen",
+      "teaser": "Dank OpenTelemetry Collector und Operator bauen Entwickler Telemetriedatenpipelines in wenigen Schritten in Kubernetes auf – auch in komplexen Integrationen.",
+      "url": "https://www.heise.de/ratgeber/Observability-OpenTelemetry-Pipelines-mit-Kubernetes-aufbauen-9763939.html"
     },
     {
       "title": "LLMs in der Softwareentwicklung: Was sie bringen und wo sie gescheitert sind",
       "teaser": "Große Sprachmodelle versprechen, das Entwickeln von Software zu vereinfachen. Die Systeme haben Potenzial, doch ohne Strategie verursachen sie mehr Arbeit.",
       "url": "https://www.heise.de/hintergrund/LLMs-in-der-Softwareentwicklung-Was-sie-bringen-und-wo-sie-gescheitert-sind-9762874.html"
-    },
-    {
-      "title": "Adieu Atomkraft: Wie der Rückbau eines AKW abläuft – Besuch in Grafenrheinfeld",
-      "teaser": "Besuch beim Rückbau des AKW Grafenrheinfeld. Der Kraftwerksleiter erzählt, warum Rückbau Spaß macht, wo Wehmut vorkam und wie penibel die Arbeit ablaufen muss.",
-      "url": "https://www.heise.de/hintergrund/Adieu-Atomkraft-Wie-der-Rueckbau-eines-AKW-ablaeuft-Besuch-in-Grafenrheinfeld-9761359.html"
-    },
-    {
-      "title": "Observability: OpenTelemetry-Pipelines mit Kubernetes aufbauen",
-      "teaser": "Dank OpenTelemetry Collector und Operator bauen Entwickler Telemetriedatenpipelines in wenigen Schritten in Kubernetes auf – auch in komplexen Integrationen.",
-      "url": "https://www.heise.de/ratgeber/Observability-OpenTelemetry-Pipelines-mit-Kubernetes-aufbauen-9763939.html"
     },
     {
       "title": "Rückbau eines Kernkraftwerks im Video: Besuch im AKW",
@@ -73,12 +68,6 @@
       "title": "WLAN-Funksteckdose verliert Verbindung",
       "teaser": "Meine WLAN-Funksteckdosen von Workzone verlieren immer wieder die Verbindung zur Fritzbox. Die Messergebnisse werden dann nicht mehr verlässlich übertragen.",
       "url": "https://www.heise.de/ratgeber/WLAN-Funksteckdose-verliert-Verbindung-9754171.html"
-    },
-    {
-      "title": "NASA verlängert Starliner-Mission für weitere Tests von Boeings Raumschiff",
-      "teaser": "Die Rückkehr von Boeings Starliner wurde um einige Tage verschoben. Die Astronauten sollen noch bis 22. Juni auf der ISS bleiben und weitere Tests durchführen.",
-      "url": "https://www.heise.de/news/NASA-verlaengert-Starliner-Mission-fuer-weitere-Tests-von-Boeings-Raumschiff-9765439.html",
-      "image_title": "Starliner im Weltraum über der Erde"
     },
     {
       "title": "Chinesische Medien melden Durchbruch bei Fusionskontrolle, Details bisher unklar",
@@ -101,6 +90,11 @@
       "title": "DVD lässt sich am Mac nicht auswerfen",
       "teaser": "Mein DVD-Laufwerk ist per USB an meinen Mac angeschlossen. Wenn ich die DVD durch Rechtsklick auf das DVD-Icon auswerfen lassen will, klappt das nicht sofort.",
       "url": "https://www.heise.de/ratgeber/DVD-laesst-sich-am-Mac-nicht-auswerfen-9754157.html"
+    },
+    {
+      "title": "Adieu Atomkraft: Wie der Rückbau eines AKW abläuft – Besuch in Grafenrheinfeld",
+      "teaser": "Besuch beim Rückbau des AKW Grafenrheinfeld. Der Kraftwerksleiter erzählt, warum Rückbau Spaß macht, wo Wehmut vorkam und wie penibel die Arbeit ablaufen muss.",
+      "url": "https://www.heise.de/hintergrund/Adieu-Atomkraft-Wie-der-Rueckbau-eines-AKW-ablaeuft-Besuch-in-Grafenrheinfeld-9761359.html"
     },
     {
       "title": "KI-Update Deep-Dive: KI-Bildgeneratoren machen rapide Fortschritte",
@@ -134,6 +128,11 @@
       "teaser": "Der humanoide Roboter Optimus Bot von Tesla wird zum wichtigsten Produkt von Tesla. 1000 und mehr Roboter sollen schon 2025 in den Fabriken arbeiten.",
       "url": "https://www.heise.de/news/Tesla-Chef-Musk-Mindestens-1000-Optimus-Bots-sollen-bald-bei-Tesla-arbeiten-9763240.html",
       "image_title": "Optimus Bot sortiert Batteriezellen ein."
+    },
+    {
+      "title": "Locked Shields: NATO-Manöver für Cyberkrieger",
+      "teaser": "Jährlich organisiert die NATO die Locked-Shields-Übung. Sie simuliert dafür eine ganze Nation, die von internationalen Blue Teams verteidigt wird.",
+      "url": "https://www.heise.de/hintergrund/Locked-Shields-NATO-Manoever-fuer-Cyberkrieger-9761805.html"
     }
   ]
 }

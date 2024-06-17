@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-06-17T12:10:46",
+  "timestamp": "2024-06-17T13:09:47",
   "url": "https://www.heise.de/newsticker/wirtschaft/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "BMWK zur Wärmeplanung: Kommunen müssen Wasserstoffnetz nicht ausschließen",
+      "teaser": "Wie sollen Kommunen in ihrer Wärmeplanung mit Unwägbarkeiten der Wasserstoffversorgung umgehen? Das Wirtschaftsministerium nimmt Stellung.",
+      "url": "https://www.heise.de/news/BMWK-zur-Waermeplanung-Kommunen-muessen-Wasserstoffnetz-nicht-ausschliessen-9765844.html",
+      "image_title": "Gelbes Schild mit Ortsangabe für Gasanschluss"
+    },
+    {
       "title": "Bundestagsanhörung: Warum ist der Führerschein so teuer?",
       "teaser": "CDU/CSU wollen den Führerscheinerwerb kostengünstiger machen. Wie das möglich wäre, erörterten Experten im Verkehrsausschuss des Bundestags.",
       "url": "https://www.heise.de/news/Mobilitaet-als-Luxus-Bundestag-kuemmert-sich-um-bezahlbaren-Fuehrschein-9757510.html",
@@ -38,26 +44,14 @@
       "image_title": "Wasserstofftank und Windräder"
     },
     {
-      "title": "Gegen Microsoft und Sam Altman: Elon Musk zieht Klage gegen OpenAI zurück",
-      "teaser": "Weil sich OpenAI angeblich nicht mehr an eine Gründungsvereinbarung hält, hat Elon Musk im Frühjahr eine Klage eingereicht. Die zieht er jetzt wieder zurück.",
-      "url": "https://www.heise.de/news/Gegen-Microsoft-und-Sam-Altman-Elon-Musk-zieht-Klage-gegen-OpenAI-zurueck-9758856.html",
-      "image_title": "Elon Musk"
+      "title": "Observability: OpenTelemetry-Pipelines mit Kubernetes aufbauen",
+      "teaser": "Dank OpenTelemetry Collector und Operator bauen Entwickler Telemetriedatenpipelines in wenigen Schritten in Kubernetes auf – auch in komplexen Integrationen.",
+      "url": "https://www.heise.de/ratgeber/Observability-OpenTelemetry-Pipelines-mit-Kubernetes-aufbauen-9763939.html"
     },
     {
       "title": "LLMs in der Softwareentwicklung: Was sie bringen und wo sie gescheitert sind",
       "teaser": "Große Sprachmodelle versprechen, das Entwickeln von Software zu vereinfachen. Die Systeme haben Potenzial, doch ohne Strategie verursachen sie mehr Arbeit.",
       "url": "https://www.heise.de/hintergrund/LLMs-in-der-Softwareentwicklung-Was-sie-bringen-und-wo-sie-gescheitert-sind-9762874.html"
-    },
-    {
-      "title": "Test Elektroauto VW ID.4 Pro: Sparsamer als bisher",
-      "teaser": "VW versieht den ID.4 mit einem neuen Motor, der weniger Strom benötigt und mehr leistet. Dazu sind Teile des E-SUVs deutlich gereift, wie unser Test zeigt.",
-      "url": "https://www.heise.de/tests/Test-Elektroauto-VW-ID-4-Pro-Sparsamer-als-bisher-9758122.html",
-      "image_title": "VW ID.4"
-    },
-    {
-      "title": "Observability: OpenTelemetry-Pipelines mit Kubernetes aufbauen",
-      "teaser": "Dank OpenTelemetry Collector und Operator bauen Entwickler Telemetriedatenpipelines in wenigen Schritten in Kubernetes auf – auch in komplexen Integrationen.",
-      "url": "https://www.heise.de/ratgeber/Observability-OpenTelemetry-Pipelines-mit-Kubernetes-aufbauen-9763939.html"
     },
     {
       "title": "iX-Workshop: Innerdeutsche E-Rechnungspflicht - Software richtig implementieren",
@@ -72,16 +66,16 @@
       "image_title": "Apple Intelligence auf Mac, iPhone und iPad"
     },
     {
-      "title": "BMWK zur Wärmeplanung: Kommunen müssen Wasserstoffnetz nicht ausschließen",
-      "teaser": "Wie sollen Kommunen in ihrer Wärmeplanung mit Unwägbarkeiten der Wasserstoffversorgung umgehen? Das Wirtschaftsministerium nimmt Stellung.",
-      "url": "https://www.heise.de/news/BMWK-zur-Waermeplanung-Kommunen-muessen-Wasserstoffnetz-nicht-ausschliessen-9765844.html",
-      "image_title": "Gelbes Schild mit Ortsangabe für Gasanschluss"
-    },
-    {
       "title": "OpenAI: Von non-profit zum Profit-orientierten Unternehmen",
       "teaser": "Sam Altman soll Aktionären gesagt haben, OpenAI solle ein Profit-orientiertes Unternehmen werden – ohne die Kontrolle des Non-Profit Boards.",
       "url": "https://www.heise.de/news/OpenAI-Von-non-profit-zum-Profit-orientierten-Unternehmen-9765565.html",
       "image_title": "Das Logo von OpenAI an der Fassade des Bürogebäudes in San Francisco."
+    },
+    {
+      "title": "Test Elektroauto VW ID.4 Pro: Sparsamer als bisher",
+      "teaser": "VW versieht den ID.4 mit einem neuen Motor, der weniger Strom benötigt und mehr leistet. Dazu sind Teile des E-SUVs deutlich gereift, wie unser Test zeigt.",
+      "url": "https://www.heise.de/tests/Test-Elektroauto-VW-ID-4-Pro-Sparsamer-als-bisher-9758122.html",
+      "image_title": "VW ID.4"
     },
     {
       "title": "Studie: Onlinenutzung in Deutschland geht leicht zurück",
@@ -142,6 +136,11 @@
       "teaser": "Eine Reform des Straßenverkehrsgesetzes ermöglicht Städten und Gemeinden von nun an mehr Spielraum, etwa für die Einrichtung von Busspuren und Tempo-30-Zonen.",
       "url": "https://www.heise.de/news/Bundesrat-billigt-Gesetzesreform-Mehr-Gruende-fuer-Schaffung-neuer-Tempo-30-Zonen-9764143.html",
       "image_title": "Arbeiter sprühen 30er und 50er Begrenzungen auf Straße"
+    },
+    {
+      "title": "Vergleich: Wie N26 und Trade Republic künftig um Kunden buhlen",
+      "teaser": "Die Neobank N26 erweitert ihr Geschäft um Wertpapierhandel, der Neobroker Trade Republic bietet künftig ein Girokonto. Wir zeigen, ob sich ein Wechsel lohnt.",
+      "url": "https://www.heise.de/ratgeber/Vergleich-Wie-N26-und-Trade-Republic-kuenftig-um-Kunden-buhlen-9759393.html"
     }
   ]
 }
