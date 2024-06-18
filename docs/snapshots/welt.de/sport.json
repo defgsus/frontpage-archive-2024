@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-06-18T06:08:49",
+  "timestamp": "2024-06-18T07:00:49",
   "url": "https://www.welt.de/sport/",
   "response": {
     "status": 200
@@ -26,18 +26,25 @@
   ],
   "articles": [
     {
+      "title": "„Ins Hirn g‘schi**n“ – Österreich-Fans verpassen erste Halbzeit wegen Bahn-Chaos",
+      "teaser": "Tausende österreichische Fans wollten am Montagabend das Spiel ihrer Nationalmannschaft in Düsseldorf sehen – doch die Bahn machte vielen von ihnen einen Strich durch die Rechnung. Außerdem: Ein portugiesischer Reporter rauft sich live im TV mit Jugendlichen. Alle News im EM-Ticker.",
+      "url": "https://www.welt.de/sport/fussball/em/article251964666/EM-2024-Ins-Hirn-g-schi-n-Oesterreich-Fans-sauer-wegen-Bahn-Chaos.html",
+      "image_url": "https://img.welt.de/img/sport/fussball/em/mobile252081464/9627939747-ci23x11-w20/GDL-Streik-bei-der-Bahn-Erfurt.jpg",
+      "image_title": "GDL-Streik bei der Bahn – Erfurt"
+    },
+    {
+      "title": "Mbappé mit Nasenbruch – vorerst keine OP, aber eine Gesichtsmaske",
+      "teaser": "Frankreich bangt nach dem EM-Spiel gegen Österreich um Kylian Mbappé. Der Stürmer hat sich die Nase gebrochen und wurde in einer Klinik behandelt. Jetzt wird mit Hochdruck ein Gesichtsschutz für ihn angefertigt. Ob er am Freitag gegen die Niederlande auf dem Platz steht, ist noch unklar.",
+      "url": "https://www.welt.de/sport/fussball/",
+      "image_url": "https://img.welt.de/img/sport/fussball/mobile252080350/6517937357-ci23x11-w20/Euro-2024-Soccer-Austria-France.jpg",
+      "image_title": "Euro 2024 Soccer Austria France"
+    },
+    {
       "title": "Auch im fünften EM-Spiel bleibt Superstar Kylian Mbappé torlos",
       "teaser": "Kylian Mbappé zeigt bei Frankreichs Sieg gegen Österreich menschliche Züge und vergibt eine hundertprozentige Chance. Auch im fünften EM-Spiel bleibt der Superstar ohne Tor. Am Sieg hat er trotzdem großen Anteil.",
       "url": "https://www.welt.de/sport/fussball/",
       "image_url": "https://img.welt.de/img/sport/fussball/mobile252080284/0297937537-ci23x11-w20/Austria-v-France-Group-D-UEFA-EURO-2024.jpg",
       "image_title": "Mbappé zeigt menschliche Züge und vergibt in der zweiten Halbzeit eine Großchance"
-    },
-    {
-      "title": "Mbappé mit Nasenbruch – vorerst keine Operation, aber eine Gesichtsmaske",
-      "teaser": "Frankreich bangt nach dem EM-Spiel gegen Österreich um Kylian Mbappé. Der Stürmer hat sich die Nase gebrochen und ist in einer Klinik in Düsseldorf. Für ihn wird eine Gesichtsmaske angefertigt, damit er schnell wieder spielen kann, kündigte der französische Fußballverband an.",
-      "url": "https://www.welt.de/sport/fussball/",
-      "image_url": "https://img.welt.de/img/sport/fussball/mobile252080350/6517937357-ci23x11-w20/Euro-2024-Soccer-Austria-France.jpg",
-      "image_title": "Euro 2024 Soccer Austria France"
     },
     {
       "title": "„Wir werden die Flagge ehren bis zum Ende“",
@@ -54,13 +61,6 @@
       "image_title": "Frankreich gewinnt sein Auftaktspiel gegen Österreich"
     },
     {
-      "title": "Schweinsteiger nimmt Thomas Müller live im Fernsehen auf die Schippe",
-      "teaser": "Was haben Kylian Mbappé und Thomas Müller gemeinsam? Als Bastian Schweinsteiger die Antwort hört, wendet er sich direkt an seinen Kumpel Müller. Und: Die Schweizer Nationalelf darf sich über einen neuen, sofort nutzbaren Rasen freuen. Alle News im EM-Ticker.",
-      "url": "https://www.welt.de/sport/fussball/em/article251964666/EM-2024-Schweinsteiger-nimmt-Thomas-Mueller-live-im-Fernsehen-auf-die-Schippe.html",
-      "image_url": "https://img.welt.de/img/sport/fussball/em/mobile252079806/8067935157-ci23x11-w20/UEFA-EURO-2024-Gruppenspiel-sterreich-Frankreich-17-06-2024.jpg",
-      "image_title": "ARD-Experte Bastian Schweinsteiger"
-    },
-    {
       "title": "„Seine Nase hat es sehr stark erwischt“ – Trainer Didier Deschamps besorgt um Mbappé",
       "url": "https://www.welt.de/sport/fussball/em/videos/video252080996/EM-2024-Seine-Nase-hat-es-sehr-stark-erwischt-Trainer-Didier-Deschamps-besorgt-um-Mbappe.html",
       "image_url": "https://img.welt.de/img/sport/fussball/mobile252080350/6517937357-ci16x9-w20/Euro-2024-Soccer-Austria-France.jpg",
@@ -69,7 +69,7 @@
     },
     {
       "title": "Österreich-Eigentor und Wirbel um Mbappé – Frankreichs Auftaktsieg im Video",
-      "url": "https://www.welt.de/sport/fussball/em/video252080352/EM-2024-Oesterreich-Eigentor-und-Wirbel-um-Mbappe-Frankreichs-Auftaktsieg-im-Video.html",
+      "url": "https://www.welt.de/sport/fussball/em/video252080352/EM-2024-Oesterreich-Eigentor-Frankreichs-Auftaktsieg-im-Video.html",
       "image_url": "https://img.welt.de/img/sport/fussball/em/mobile252080358/8957930487-ci16x9-w20/Euro-2024-Oesterreich-Frankreich.jpg",
       "image_title": "Euro 2024: Österreich - Frankreich",
       "author": "5 Min"
@@ -599,8 +599,16 @@
       "author": "30 Min"
     },
     {
-      "title": "Mbappé mit Nasenbeinbruch - vorerst keine Operation",
-      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/sport_nt/article252080966/Mbappe-mit-Nasenbeinbruch-vorerst-keine-Operation.html"
+      "title": "„Ins Hirn g‘schi**n“ – Österreich-Fans verpassen erste Halbzeit wegen Bahn-Chaos",
+      "url": "https://www.welt.de/sport/fussball/em/article251964666/EM-2024-Ins-Hirn-g-schi-n-Oesterreich-Fans-sauer-wegen-Bahn-Chaos.html"
+    },
+    {
+      "title": "Mbappé mit Nasenbruch – vorerst keine OP, aber eine Gesichtsmaske",
+      "url": "https://www.welt.de/sport/fussball/article252080232/EM-2024-Kylian-Mbappe-mit-Nasenbruch-Frankreichs-Top-Stuermer-braucht-Gesichtsmaske.html"
+    },
+    {
+      "title": "Nase kaputt: Frankreich bangt um Mbappé-Einsatz",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/sport_nt/article252080966/Nase-kaputt-Frankreich-bangt-um-Mbappe-Einsatz.html"
     },
     {
       "title": "Konkurrenz rechnet mit Kerber in Wimbledon: «Gefährlich»",
@@ -615,10 +623,6 @@
       "url": "https://www.welt.de/sport/fussball/article252080208/EM-2024-Auch-im-fuenften-EM-Spiel-bleibt-Superstar-Kylian-Mbappe-torlos.html"
     },
     {
-      "title": "Mbappé mit Nasenbruch – vorerst keine Operation, aber eine Gesichtsmaske",
-      "url": "https://www.welt.de/sport/fussball/article252080232/EM-2024-Kylian-Mbappe-mit-Nasenbruch-vorerst-keine-Operation.html"
-    },
-    {
       "title": "„Wir werden die Flagge ehren bis zum Ende“",
       "url": "https://www.welt.de/sport/fussball/em/article252079912/Tuerkischer-Nationaltrainer-Wir-werden-die-Flagge-ehren-bis-zum-Ende.html"
     },
@@ -629,10 +633,6 @@
     {
       "title": "Österreichs Eigentor bringt Frankreich den Sieg",
       "url": "https://www.welt.de/sport/fussball/em/article252074752/EM-2024-Oesterreichs-Eigentor-bringt-Frankreich-den-Sieg.html"
-    },
-    {
-      "title": "Schweinsteiger nimmt Thomas Müller live im Fernsehen auf die Schippe",
-      "url": "https://www.welt.de/sport/fussball/em/article251964666/EM-2024-Schweinsteiger-nimmt-Thomas-Mueller-live-im-Fernsehen-auf-die-Schippe.html"
     },
     {
       "title": "Romelu Lukaku ist die Symbolfigur von Belgiens Niederlage",
@@ -839,6 +839,36 @@
       "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/sport_nt/article252050446/US-Open-DeChambeau-vor-Finalrunde-in-Fuehrung.html"
     },
     {
+      "title": "„Für nachhaltige Erfolge beim Abnehmen muss die Ernährung die vier S erfüllen“",
+      "teaser": "Der Traum vieler Menschen ist das Motto seiner Arbeit: Effektiv und nachhaltig abnehmen ohne Verzicht. So lautet einer der Grundsätze unseres Experten. Hier erklärt er ausführlich, wie das funktioniert und sagte, welcher Sport das Ganze begleiten sollte.",
+      "url": "https://www.welt.de/sport/plus250720138/Fitness-Effektiv-und-nachhaltig-abnehmen-ohne-Verzicht.html",
+      "image_url": "https://img.welt.de/img/sport/mobile250924818/1257939867-ci23x11-w20/Man-jogging-along-shore-line-at-beach.jpg",
+      "image_title": "„80 Prozent macht die Ernährung aus, nur 20 Prozent der Sport“, sagt unser Experte",
+      "author": "Jens Bierschwale"
+    },
+    {
+      "title": "Steffi Grafs großer Auftritt in Rumänien",
+      "teaser": "Steffi Graf hat sich nach der Karriere ins Privatleben zurückgezogen, öffentliche Auftritte sind rar. Einen Tag nach ihrem 55. Geburtstag gab es einen: in Rumänien unter den Augen von Ion Tiriac. Die Tennislegende ist fit wie eh und je.",
+      "url": "https://www.welt.de/sport/tennis/",
+      "image_url": "https://img.welt.de/img/sport/mobile252054874/4857930967-ci23x11-w20/TENNIS-ROU-SPORTS-FESTIVAL.jpg",
+      "image_title": "Steffi Graf gewann 22 Grand-Slam-Turniere und stand 377 Wochen an der Spitze der Weltrangliste"
+    },
+    {
+      "title": "Körperfett verringern, Muskeln aufbauen – so geht es",
+      "teaser": "Wie viel Sport braucht es, um abzunehmen und fit zu bleiben? Wie viel Ausdauer-, wie viel Kraftraining? Und wie senke ich meine Mortalität? Prof. Dr. Stephan Geisler forscht zu diesen Themen. Hier gibt er anhand von Studien alle relevanten Antworten.",
+      "url": "https://www.welt.de/sport/fitness/plus238532167/Training-Koerperfett-reduzieren-Muskeln-aufbauen-so-geht-es.html",
+      "image_url": "https://img.welt.de/img/sport/fitness/mobile238782197/5547935057-ci23x11-w20/Fitness-woman-working-out-at-Private-gym.jpg",
+      "image_title": "Eine Frau trainiert mit einer Langhantelstange",
+      "author": "Rouven Chlebna"
+    },
+    {
+      "title": "„Vorsichtig sein, was ich sage“ – Englischer Reporter schockiert von Gelsenkirchen",
+      "teaser": "Ein britischer TV-Reporter meldet sich aus dem EM-Spielort Gelsenkirchen. Seine Eindrücke sind nicht die besten, er empfiehlt unter anderem genug Bargeld mitzubringen. Einwohner der Ruhrpottstadt nehmen die Sache durchaus mir Humor.",
+      "url": "https://www.welt.de/sport/fussball/em/",
+      "image_url": "https://img.welt.de/img/sport/fussball/em/mobile252052240/6617937167-ci23x11-w20/Euro-2024-Fans-England.jpg",
+      "image_title": "Englische Fans in der Gelsenkirchener Fußgängerzone"
+    },
+    {
       "title": "Rüdiger erklärt sein Zeigefinger-Foto",
       "teaser": "Antonio Rüdiger muss sich wieder einmal erklären. Auf einem offiziellen Uefa-Foto reckt er seinen rechten Zeigefinger gen Himmel. Was als muslimische Geste „tauhid“ verstanden werden kann, geschah auf Uefa-Anweisung. Auch andere Nationalspieler machen die Geste.",
       "url": "https://www.welt.de/sport/fussball/em/",
@@ -852,37 +882,6 @@
       "image_url": "https://img.welt.de/img/sport/fussball/em/mobile252044724/6417934107-ci23x11-w20/Football-UEFA-Euro-2024-1st-round-day-1-Group-A-Germany-v-Scotland-2.jpg",
       "image_title": "Hatten sichtlich Spaß: Thomas Müller (r.) und Toni Kroos, zwei Weltmeister und Führungsspieler eines neuen Erfolgsteams",
       "author": "Stefan Frommann"
-    },
-    {
-      "title": "„Dabei quillt man langsam auf, ohne es zu merken“",
-      "teaser": "Alexandre Mazzia war als junger Mann Basketballprofi. Heute ist er mit drei Sternen dekoriert, einer der besten Köche der Welt und Olympias Küchenchef. Hier spricht er über seine Philosophie und verrät, wie jeder gesünder leben kann und er sich selbst fit hält.",
-      "url": "https://www.welt.de/sport/olympia/plus251260242/Ernaehrung-Olympias-Kuechenchef-Dabei-quillt-man-langsam-auf-ohne-es-zu-merken.html",
-      "image_url": "https://img.welt.de/img/sport/olympia/mobile251296376/0447931057-ci23x11-w20/Interview-mit-dem-Olympia-Koch-Portrait-5.jpg",
-      "image_title": "„Man braucht eine ganze Reihe von Superlativen, um die Arbeit von Alexandre Mazzia zu beschreiben“, heißt es im Guide Michelin",
-      "author": "Martina Meister"
-    },
-    {
-      "title": "Körperfett verringern, Muskeln aufbauen – so geht es",
-      "teaser": "Wie viel Sport braucht es, um abzunehmen und fit zu bleiben? Wie viel Ausdauer-, wie viel Kraftraining? Und wie senke ich meine Mortalität? Prof. Dr. Stephan Geisler forscht zu diesen Themen. Hier gibt er anhand von Studien alle relevanten Antworten.",
-      "url": "https://www.welt.de/sport/fitness/plus238532167/Training-Koerperfett-reduzieren-Muskeln-aufbauen-so-geht-es.html",
-      "image_url": "https://img.welt.de/img/sport/fitness/mobile238782197/5547935057-ci23x11-w20/Fitness-woman-working-out-at-Private-gym.jpg",
-      "image_title": "Eine Frau trainiert mit einer Langhantelstange",
-      "author": "Rouven Chlebna"
-    },
-    {
-      "title": "„Für nachhaltige Erfolge beim Abnehmen muss die Ernährung die vier S erfüllen“",
-      "teaser": "Der Traum vieler Menschen ist das Motto seiner Arbeit: Effektiv und nachhaltig abnehmen ohne Verzicht. So lautet einer der Grundsätze unseres Experten. Hier erklärt er ausführlich, wie das funktioniert und sagte, welcher Sport das Ganze begleiten sollte.",
-      "url": "https://www.welt.de/sport/plus250720138/Fitness-Effektiv-und-nachhaltig-abnehmen-ohne-Verzicht.html",
-      "image_url": "https://img.welt.de/img/sport/mobile250924818/1257939867-ci23x11-w20/Man-jogging-along-shore-line-at-beach.jpg",
-      "image_title": "„80 Prozent macht die Ernährung aus, nur 20 Prozent der Sport“, sagt unser Experte",
-      "author": "Jens Bierschwale"
-    },
-    {
-      "title": "„Vorsichtig sein, was ich sage“ – Englischer Reporter schockiert von Gelsenkirchen",
-      "teaser": "Ein britischer TV-Reporter meldet sich aus dem EM-Spielort Gelsenkirchen. Seine Eindrücke sind nicht die besten, er empfiehlt unter anderem genug Bargeld mitzubringen. Einwohner der Ruhrpottstadt nehmen die Sache durchaus mir Humor.",
-      "url": "https://www.welt.de/sport/fussball/em/",
-      "image_url": "https://img.welt.de/img/sport/fussball/em/mobile252052240/6617937167-ci23x11-w20/Euro-2024-Fans-England.jpg",
-      "image_title": "Englische Fans in der Gelsenkirchener Fußgängerzone"
     }
   ]
 }
