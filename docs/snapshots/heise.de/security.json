@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-06-18T09:01:38",
+  "timestamp": "2024-06-18T10:01:19",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "VMware vCenter Server",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Root-Luecke-bedroht-VMware-vCenter-Server-9767493.html"
+    },
+    {
       "title": "Progress Telerik Report Server",
       "url": "https://www.heise.de/news/CISA-warnt-vor-Angriffen-auf-Progress-Telerik-Report-Server-9766190.html"
     },
@@ -44,14 +48,10 @@
       "url": "https://www.heise.de/news/Ivanti-Endpoint-Manager-Exploit-fuer-kritische-Luecke-aufgetaucht-9765685.html"
     },
     {
-      "title": "Asus-Router",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Asus-Router-kompromittieren-9765067.html"
-    },
-    {
-      "title": "Betrugswelle: Deutsche-Bank- & Commerzbank-Kunden im Visier von Cyberkriminellen",
-      "teaser": "Betrüger versuchen verstärkt an Daten von Bankkunden zu gelangen, wie eine neue Phishing-Welle zeigt. Im Namen der Deutschen Bank verschicken sie SMS und Mails.",
-      "url": "https://www.heise.de/news/Aktuelle-Phishing-Welle-Deutsche-Bank-Kunden-im-Visier-von-Cyberkriminellen-9767308.html",
-      "image_title": "Betrügerische Mail oder SMS mit Angelhaken auf einem Smartphone."
+      "title": "Sicherheitsupdates: Root-Lücke bedroht VMware vCenter Server",
+      "teaser": "Unter anderem zwei kritische Schwachstelle bedrohen vCenter Server und Cloud Foundation von VMware.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Root-Luecke-bedroht-VMware-vCenter-Server-9767493.html",
+      "image_title": "Update-Kreis"
     },
     {
       "title": "Windows-Updates: Server-Störungen und irritierendes App-Verhalten",
@@ -86,6 +86,11 @@
       "title": "Ivanti Endpoint Manager: Exploit für kritische Lücke aufgetaucht",
       "teaser": "Ein Proof-of-Concept-Exploit für eine kritische Lücke in Ivanti Endpoint Manager ist aufgetaucht. Zudem gibt es ein Update für den Hotfix.",
       "url": "https://www.heise.de/news/Ivanti-Endpoint-Manager-Exploit-fuer-kritische-Luecke-aufgetaucht-9765685.html"
+    },
+    {
+      "title": "Ab sofort gibt es Desinfec’t 2024 auf einem USB-Stick zum Kauf",
+      "teaser": "Mit dem c’t-Sicherheitstool entfernen Sie Windows-Trojaner und greifen auf nicht mehr startenden PCs auf Ihre Daten zu.",
+      "url": "https://www.heise.de/news/Ab-sofort-gibt-es-Desinfec-t-2024-auf-einem-USB-Stick-zum-Kauf-9763278.html"
     },
     {
       "title": "Windows 11 24H2: Release-Vorschau wieder verfügbar, Recall entfernt",
@@ -156,11 +161,6 @@
       "url": "https://www.heise.de/news/Amazon-AWS-baut-Multi-Faktor-Anmeldung-Pflicht-aus-und-unterstuetzt-Passkeys-9761514.html"
     },
     {
-      "title": "Rust für sicherheitskritische Systeme: Konsortium kümmert sich um den Einsatz",
-      "teaser": "Das Safety-Critical Rust Consortium kümmert sich künftig um den verantwortungsvollen Einsatz von Rust in Bereichen wie Verkehr, Biotech und Energiewirtschaft.",
-      "url": "https://www.heise.de/news/Rust-fuer-sicherheitskritische-Systeme-Konsortium-kuemmert-sich-um-den-Einsatz-9761117.html"
-    },
-    {
       "title": "IT-Security: Mehr Sicherheit durch API-Firewalls",
       "teaser": "Wer eine API öffentlich ins Internet stellt, darf bei der Sicherheit nicht sparen. Spezielle API-Firewalls prüfen Anfragen und Antworten auf legitime Inhalte.",
       "url": "https://www.heise.de/ratgeber/IT-Security-Mehr-Sicherheit-durch-API-Firewalls-9755074.html"
@@ -177,6 +177,11 @@
       "image_title": ","
     },
     {
+      "title": "ESET: Problem mit \"Systemanwendung\"",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/ESET-Problem-mit-Systemanwendung/posting-44104387/show/"
+    },
+    {
       "title": "Desinfect auf SSD installieren",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Desinfect-auf-SSD-installieren/posting-44103105/show/"
@@ -185,11 +190,6 @@
       "title": "Re: Wann war es das letzte mal gut? Diesmal jedenfalls wieder nicht",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Wann-war-es-das-letzte-mal-gut-Diesmal-jedenfalls-wieder-nicht/posting-44102974/show/"
-    },
-    {
-      "title": "Re: Error 122 beim Erstellen eines USB-Sticks",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Error-122-beim-Erstellen-eines-USB-Sticks/posting-44102617/show/"
     }
   ]
 }
