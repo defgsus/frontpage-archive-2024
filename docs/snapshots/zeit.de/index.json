@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-06-19T03:00:47",
+  "timestamp": "2024-06-19T04:00:55",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -8,6 +8,12 @@
     {
       "type": null,
       "src": "https://static.zeit.de/p/zeit.web/js/colorscheme.0f947935c8b8aabe382b.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -92,10 +98,22 @@
   ],
   "articles": [
     {
+      "title": "Z+ (abopflichtiger Inhalt); Ampelkoalition : Der vielleicht letzte Streit der Ampel",
+      "teaser": "Der Koalition bleiben nur noch 14 Tage, um eine Milliardenlücke im Haushalt zu stopfen. Was passiert, wenn sie scheitert? Fünf Szenarien",
+      "url": "https://www.zeit.de/politik/deutschland/2024-06/ampelkoalition-bundeshaushalt-streit-finanzpolitik-verhandlungen",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-06/bundeshaushalt-2025-verhandlungen-ampel/wide__1000x562"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); SPD : Ja, dann weint doch wenigstens mal!",
       "teaser": "Es lässt einen frösteln: Nach der historischen Wahlniederlage regt sich in der SPD nichts. Warum die Partei emotional und strategisch so tief in der Krise steckt.",
       "url": "https://www.zeit.de/politik/deutschland/2024-06/spd-olaf-scholz-krise-ampel-strategie",
-      "image_url": "https://img.zeit.de/politik/2024-06/spd-krise-olaf-scholz-neu/wide__1000x562"
+      "image_url": "https://img.zeit.de/politik/2024-06/spd-krise-olaf-scholz-neu/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Asylpolitik : Setzt Scholz auf Ruanda?",
+      "teaser": "Die Union fordert die Ampel auf, Asylanträge künftig im Ausland zu bearbeiten. Viele Gründe sprechen dagegen. Wie entscheidet sich die Bundesregierung?",
+      "url": "https://www.zeit.de/politik/deutschland/2024-06/asylpolitik-cdu-asylantraege-drittstaaten-ruanda-migration",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-06/asylpolitik-cdu-asylantraege-drittstaaten-ruanda-migration-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Nahost : Israels Armee beschließt Einsatzplan gegen Hisbollah im Libanon",
@@ -104,46 +122,28 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-06/libanon-israel-militaer-einsatzplan-offensive-hisbollah/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Bürgergeld : Städtetag lehnt Stopp von Bürgergeldzugang für Ukraine-Flüchtlinge ab",
-      "teaser": "In der Bürgergelddebatte stellen sich die Kommunen gegen Forderungen aus CDU und FDP. Der Städtetagschef sieht in der Sozialleistung ein Instrument für Integration.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-06/buergergeld-ukraine-deutscher-staedtetag",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-06/ukraine-fluechtlinge-buergergeld-staedtetag-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Pjöngjang : Russland und Nordkorea wollen Beziehungen ausbauen",
+      "teaser": "Wladimir Putin und Kim Jong Un haben die Vertiefung ihrer Beziehungen vereinbart. Für Russlands Staatschef war es der erste Besuch in Nordkorea seit 24 Jahren.",
+      "url": "https://www.zeit.de/politik/ausland/2024-06/russland-nordkorea-diplomatie-wladimir-putin-partnerschaft",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-06/russland-nordkorea-diplomatie-wladimir-putin-partnerschaft-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Geflüchtete aus der Ukraine : Was bringt es, Ukrainern das Bürgergeld zu streichen?",
-      "teaser": "Politiker von FDP und CDU wollen ukrainischen Geflüchteten die Sozialleistungen kürzen. Das ist nicht nur rechtlich schwierig, es könnte auch die Verwaltung sprengen.",
-      "url": "https://www.zeit.de/wirtschaft/2024-06/gefluechtete-ukraine-buergergeld-leistungen-asylbewerber",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-06/gefluechtete-ukraine-buergergeld-leistungen-asylbewerber-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Geldmarktfonds : Das bessere Tagesgeldkonto",
+      "teaser": "Wer die Inflation schlagen will, betreibt häufig aufwändiges Tagesgeldkonto-Hopping. Es gibt eine bequemere Alternative: Geldmarktfonds. Worauf Anleger achten müssen.",
+      "url": "https://www.zeit.de/geld/2024-06/geldmarktfonds-investition-anleger-inflation-zinsen",
+      "image_url": "https://img.zeit.de/geld/2024-06/geldmarktfonds-investition-anleger/wide__892x501"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); FDP-Chef : Lindner warnt vor Zerbrechen der Nato bei Stopp von Ukraine-Hilfen",
-      "teaser": "Bei der Europawahl hatten in Ostdeutschland Parteien Erfolg, die kritisch zur Unterstützung der Ukraine stehen. Der Bundesfinanzminister sieht Kommunikationsbedarf.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-06/christian-lindner-unterstuetzung-ukraine-ostdeutschland-erklaerung",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-06/christian-lindner-ukraine-hilfe-erklaerung-ostdeutschland/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Mikrochiphersteller : Nvidia steigt zum wertvollsten Unternehmen der Welt auf",
-      "teaser": "Die Nvidia-Aktie hat jene von Microsoft und Apple überholt. Der Aufstieg des Mikrochipherstellers hängt auch mit dem Erfolg von KI-Produkten zusammen.",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-06/nvidia-wertvollstes-unternemen-weltweit-marktkapitalisierung",
-      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-06/nvidia-wertvollstes-unternehmen-weltweit-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Überwachung in der Beziehung : \"Er stand vor dem Bett, mitten in der Nacht, und checkte mein Handy\"",
-      "teaser": "Die eine musste ständig online erreichbar sein, die andere wurde heimlich abgehört. Zwei Frauen erzählen von ihren kontrollsüchtigen Partnern – nur eine machte Schluss.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2024-05/ueberwachung-beziehung-kontrolle-handy-stalking-vertrauen",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-06/ueberwachung-beziehung-kontrolle-handy-stalking-vertrauen-bild/wide__892x501"
+      "title": "Z+ (abopflichtiger Inhalt); PR-Managerin : \"Mein Luxus: Eine Einzimmerwohnung in München\"",
+      "teaser": "Sabrina verdient als PR-Managerin 3.300 Euro netto. Obwohl sie in München lebt und regelmäßig Ski fährt, kann sie jeden Monat 800 Euro sparen.",
+      "url": "https://www.zeit.de/arbeit/2024-06/pr-managerin-gehalt-arbeit-kontoauszug",
+      "image_url": "https://img.zeit.de/arbeit/2024-06/pr-managerin-gehalt-arbeit-kontoauszug-2/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Fußball-EM, Gruppe F : Portugal gewinnt in letzter Minute gegen Tschechien",
       "teaser": "Bei strömendem Regen rennt Portugal lange erfolglos gegen Tschechien an. Gegen Ende fallen dann zwei schnelle Tore. Der Spielbericht",
       "url": "https://www.zeit.de/sport/2024-06/portugal-tschechien-gruppe-f-fussball-em",
       "image_url": "https://img.zeit.de/sport/2024-06/portugal-tschechien-gruppe-f-fussball-em-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Fußball-EM, Gruppe F : Türkei besiegt zum Auftakt EM-Debütant Georgien",
-      "teaser": "Die Türken starten euphorisch, kassieren gegen Georgien aber zunächst den Ausgleich. In der zweiten Hälfte entscheidet die Türkei die temporeiche Partie. Der Spielbericht",
-      "url": "https://www.zeit.de/sport/2024-06/tuerkei-georgien-gruppe-f-fussball-em",
-      "image_url": "https://img.zeit.de/sport/2024-06/tuerkei-georgien-gruppe-f-fussball-em-bild-2/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Französische Nationalmannschaft : Französischer Fußballer Kylian Mbappé muss sich OP unterziehen",
@@ -158,16 +158,10 @@
       "image_url": "https://img.zeit.de/sport/2024-06/fussball-em-fans-viral-blog-georgien/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); EM in Gelsenkirchen : Oh shit, wir sind in Gelsenkörken",
-      "teaser": "Englische Reporter und Fans machten sich über Gelsenkirchen lustig, die ärmste Stadt Deutschlands. Doch die Fußball-EM gehört zweifellos in diese große Fußballstadt.",
-      "url": "https://www.zeit.de/sport/2024-06/em-gelsenkirchen-schalke-arena-fussball-armut",
-      "image_url": "https://img.zeit.de/sport/2024-06/em-gelsenkirchen-schalke-arena-fussball-armut-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Hadsch : Zahlreiche Tote durch extreme Hitze in Mekka",
-      "teaser": "Auf ihrer Reise nach Mekka, dem heiligsten Ort im Islam, sind wohl Hunderte Menschen gestorben. An der Pilgerstätte erreichten die Temperaturen bis zu 46 Grad Celsius.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-06/hadsch-mekka-aegypter-tote-hitze",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-06/hadsch-mekka-aegypter-tote-hitze-bild-2/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Geflüchtete aus der Ukraine : Was bringt es, Ukrainern das Bürgergeld zu streichen?",
+      "teaser": "Politiker von FDP und CDU wollen ukrainischen Geflüchteten die Sozialleistungen kürzen. Das ist nicht nur rechtlich schwierig, es könnte auch die Verwaltung sprengen.",
+      "url": "https://www.zeit.de/wirtschaft/2024-06/gefluechtete-ukraine-buergergeld-leistungen-asylbewerber",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-06/gefluechtete-ukraine-buergergeld-leistungen-asylbewerber-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Sturm und Gewitter : Unwetter führen zu Feuerwehreinsätzen und geschlossenen Fanzonen",
@@ -176,40 +170,10 @@
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-06/unwetter-deutschland-sachsen-tornado-fanzonen-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); USA : US-Wetterdienst warnt vor Hitzewelle auch im Nordosten",
-      "teaser": "New Mexico und Kalifornien kämpfen bereits mit Waldbränden, nun erreichen extreme Temperaturen auch den Norden der USA. In Texas warnen Meteorologen vor Überschwemmungen.",
-      "url": "https://www.zeit.de/wissen/umwelt/2024-06/usa-hitzewelle-warnung-ueberschwemmungen",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2024-06/usa-hitzewelle-warnung-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Umwelt : Knapp ein Viertel Brasiliens hat seit 1985 gebrannt",
-      "teaser": "Auf fast 200 Millionen Hektar Fläche gab es in Brasilien seit 1985 Brände. Häufig trifft es Regenwald, Feuchtsavannen – oder wie derzeit das Feuchtgebiet Pantanal.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-06/brasilien-braende-feuer-mapbiomas-umwelt-1985",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-06/brasilien-feuer-umweltschutz-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); US-Flugzeughersteller : Boeing-Chef entschuldigt sich für 737-Max-Abstürze",
-      "teaser": "Dave Calhoun hat Verantwortung für zwei Flugzeugunglücke in den Jahren 2018 und 2019 übernommen. Auch zu aktuellen Vorwürfen äußerte sich der Boeing-Chef.",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-06/boeing-chef-entschuldigung-abstuerze",
-      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-06/boeing-chef-entschuldigung-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Beziehung • Das Beste aus Z+ : Wo die Liebe hingeht",
-      "teaser": "In vielen Beziehungen ist nach vier Jahren die Liebe weg. Für das Entlieben gibt es Erklärungen – und Lösungen. Ein Foto betrachten und Humor zum Beispiel.",
-      "url": "https://www.zeit.de/zeit-magazin/2024-06/beziehung-liebe-trennung-partnerschaft",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-06/wochenende-beziehung-liebe-trennung-partnerschaft-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Liebe und Einsamkeit : \"Die Einsamkeit erdrückt mich jeden Tag\"",
-      "teaser": "Als sie sich kennenlernen, sind beide vergeben. Jetzt ist sie 34, allein und verliebt in ihn. Kann man den Menschen hinter sich lassen, der einem die Welt bedeutet?",
-      "url": "https://www.zeit.de/zeit-magazin/2024/26/liebe-einsamkeit-familie-fernbeziehung-zuneigung",
-      "image_url": "https://img.zeit.de/zeit-magazin/leben/2024-06/liebe-einsamkeit-familie-fernbeziehung-zuneigung-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Asylunterkunft in Klein Flottbek : Not in my Villenviertel",
-      "teaser": "In einem malerischen Hamburger Elbvorort soll eine Asylunterkunft errichtet werden. Anwohner wehren sich. Typisch Reiche, könnte man meinen. Wenn es so einfach wäre.",
-      "url": "https://www.zeit.de/2024/26/asylunterkunft-klein-flottbek-hamburg-vorort-buergerinitiative",
-      "image_url": "https://img.zeit.de/2024/26/not-in-my-villenviertel-bild-1/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Hadsch : Zahlreiche Tote durch extreme Hitze in Mekka",
+      "teaser": "Auf ihrer Reise nach Mekka, dem heiligsten Ort im Islam, sind wohl Hunderte Menschen gestorben. An der Pilgerstätte erreichten die Temperaturen bis zu 46 Grad Celsius.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-06/hadsch-mekka-aegypter-tote-hitze",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-06/hadsch-mekka-aegypter-tote-hitze-bild-2/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Mecklenburg-Vorpommern : Zwei mutmaßliche Angreifer ghanaischer Familie polizeibekannt",
@@ -218,46 +182,65 @@
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-06/mecklenburg-vorpommern-grevesmuehlen-rassistischer-angriff-tatverdaechtige-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Innenministerin : Faeser bestätigt vertrauliche Gespräche über Abschiebung von Afghanen",
-      "teaser": "Deutschland verhandelt derzeit mit mehreren Staaten über die Abschiebung von Schwerkriminellen. Bei der Innenministerkonferenz soll es dazu mehr Informationen geben.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-06/innenministerkonferenz-nancy-faeser-unterrichtung-abschiebung-afghanistan-syrien",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-06/nancy-faeser-vertrauliche-gespraeche-abschiebungen-bild/super__430x286"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Messergewalt : Scharfe Klingen, dünne Faktenlage",
       "teaser": "Am Wochenende wurden in Deutschland drei Menschen durch Messerattacken getötet. Wird es wirklich immer schlimmer, wie oft behauptet? Antworten auf die wichtigsten Fragen",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-06/messergewalt-waffengesetz-verbotszonen-statistik-faq",
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-06/messergewalt-waffengesetz-verbotszonen-statistik/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Antidepressiva : Pillen absetzen? Keine Panik!",
-      "teaser": "Bislang hieß es, wer Antidepressiva absetzt, muss Unangenehmes fürchten: Kopfweh, Schlafleiden. Nun haben Ärzte erforscht, warum viele Patienten wirklich betroffen sind.",
-      "url": "https://www.zeit.de/gesundheit/2024-06/antidepressiva-wirkung-verschreibung-absetzung-entzug",
-      "image_url": "https://img.zeit.de/wissen/2024-06/antidepressiva-wirkung-verschreibung-absetzung-entzug/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Mikrochiphersteller : Nvidia steigt zum wertvollsten Unternehmen der Welt auf",
+      "teaser": "Die Nvidia-Aktie hat jene von Microsoft und Apple überholt. Der Aufstieg des Mikrochipherstellers hängt auch mit dem Erfolg von KI-Produkten zusammen.",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-06/nvidia-wertvollstes-unternemen-weltweit-marktkapitalisierung",
+      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-06/nvidia-wertvollstes-unternehmen-weltweit-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Erholung : Der ideale Feierabend",
-      "teaser": "Ein Feierabend-Getränk, eine Runde Joggen oder doch lieber noch Mails abarbeiten? Expertinnen erklären, wie man sich schnell und nachhaltig von der Arbeit erholen kann.",
-      "url": "https://www.zeit.de/arbeit/2022-06/feierabend-erholung-arbeit-tipps-faq",
-      "image_url": "https://img.zeit.de/arbeit/2022-06/feierabend-erholung-arbeit-tipps-faq-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Überwachung in der Beziehung : \"Er stand vor dem Bett, mitten in der Nacht, und checkte mein Handy\"",
+      "teaser": "Die eine musste ständig online erreichbar sein, die andere wurde heimlich abgehört. Zwei Frauen erzählen von ihren kontrollsüchtigen Partnern – nur eine machte Schluss.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2024-05/ueberwachung-beziehung-kontrolle-handy-stalking-vertrauen",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-06/ueberwachung-beziehung-kontrolle-handy-stalking-vertrauen-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Lebenserwartung : Wie alt kann ein Mensch werden?",
-      "teaser": "Ob es ein Limit für die Lebensdauer gibt, war bisher unklar. Jetzt haben Forschende eine genetische Signatur gefunden, die die Grenze des Alterns vorhersagen kann.",
-      "url": "https://www.zeit.de/gesundheit/2024-06/lebenserwartung-menschen-alter-genetische-signatur-forschung",
-      "image_url": "https://img.zeit.de/gesundheit/2024-06/lebenserwartung-menschen-alter-genetische-signatur/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Beziehung • Das Beste aus Z+ : Wo die Liebe hingeht",
+      "teaser": "In vielen Beziehungen ist nach vier Jahren die Liebe weg. Für das Entlieben gibt es Erklärungen – und Lösungen. Ein Foto betrachten und Humor zum Beispiel.",
+      "url": "https://www.zeit.de/zeit-magazin/2024-06/beziehung-liebe-trennung-partnerschaft",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-06/wochenende-beziehung-liebe-trennung-partnerschaft-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); \"House of the Dragon\" : Der kleine Drache Bluterguss",
-      "teaser": "\"House of the Dragon\" gehört zu den letzten Überlebenden des erwachsenen Serien-TVs. Große Trauer legt sich über Staffel zwei der Vorgeschichte zu \"Game of Thrones\".",
-      "url": "https://www.zeit.de/kultur/film/2024-06/house-of-the-dragon-serie-drachen-fantasy-rezension",
-      "image_url": "https://img.zeit.de/kultur/film/2024-06/house-of-the-dragon-2/wide__892x501"
+      "title": "Z+ (abopflichtiger Inhalt); Airbnb : Sieben Tipps, wie Sie bessere Unterkünfte finden",
+      "teaser": "Ja, Airbnb ist schlimm. Und für viele Reisende gleichzeitig unverzichtbar. Wir sagen, wie man gute Unterkünfte findet, Enttäuschungen vermeidet und Betrug erkennt.",
+      "url": "https://www.zeit.de/digital/internet/2024-05/airbnb-tipps-urlaub-unterkunft-buchung-reise",
+      "image_url": "https://img.zeit.de/digital/internet/2024-05/airbnb-new-orleans/super__430x286",
+      "image_title": "Airbnb in New Orleans. Jetzt müsste man nur noch Gitarre spielen können."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Bumble • Das Beste aus Z+ : \"Chats, die einfach nur mit 'Hi' beginnen, sind ein Problem\"",
-      "teaser": "Die Dating-App Bumble galt mal als feministische Alternative zu Tinder. Jetzt steckt sie in der Krise. Hat es sich ausgeswipt? Fragen an CEO Lidiane Jones",
-      "url": "https://www.zeit.de/digital/internet/2024-06/bumble-ceo-lidiane-jones-dating-app",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-06/bumble-dating-interview-bild-2/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Streit zwischen Eltern und Kindern : Nie wieder: \"Das ist sooo unfair!\"",
+      "teaser": "Streit unter Geschwistern zerrt an den Nerven der Eltern. Mit ein paar Tricks aus der Spieltheorie kann man Konflikte auflösen und die Kooperation unter Kindern fördern.",
+      "url": "https://www.zeit.de/familie/2024-06/eltern-kinder-streit-konflikt-spieltheorie-kevin-zollman",
+      "image_url": "https://img.zeit.de/familie/2024-06/eltern-kinder-streit-konflikt-spieltheorie-kevin/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Frühstücksbrötchen : Die Backstube hat geöffnet",
+      "teaser": "Ein Teig, kein Kneten. So gelingt das frisch gebackene Brötchen. Der Clou? Für dieses Rezept muss niemand früh aufstehen. Und jeder Morgen wird zum Feiertag.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-03/fruehstuecksbroetchen-rezept-wochenmarkt",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-03/fruehstuecksbroetchen-rezept-wochenmarkt-teaser/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Plug-in-Hybride : Die Scheinlösung der Autoindustrie",
+      "teaser": "Plug-in-Hybride können nur kurze Strecken elektrisch fahren. Oft nutzen Fahrer nicht mal das. Doch die Autoindustrie hält an der Technik fest. Sie hat ihre Gründe.",
+      "url": "https://www.zeit.de/mobilitaet/2024-06/plug-in-hybride-autos-nutzung-reichweite-autoindustrie",
+      "image_url": "https://img.zeit.de/mobilitaet/2024-06/plug-in-hybride-autos-nutzung-reichweite-autoindustrie-bild/wide__892x501"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Bündnis Sahra Wagenknecht : BSW will bis Jahresende Verbände in allen Bundesländern gründen",
+      "teaser": "Nach der Europawahl will sich das Bündnis Sahra Wagenknecht auf Sachsen, Thüringen und Brandenburg konzentrieren. Ziel sei aber, Verbände in ganz Deutschland zu stellen.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-06/buendnis-sahra-wagenknecht-landesverbaende-jahresende",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-06/buendnis-sahra-wagenknecht-landesverbaende-bundesweit-bild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); US-Flugzeughersteller : Boeing-Chef entschuldigt sich für 737-Max-Abstürze",
+      "teaser": "Dave Calhoun hat Verantwortung für zwei Flugzeugunglücke in den Jahren 2018 und 2019 übernommen. Auch zu aktuellen Vorwürfen äußerte sich der Boeing-Chef.",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-06/boeing-chef-entschuldigung-abstuerze",
+      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-06/boeing-chef-entschuldigung-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Leben als Auswanderer : \"Das warme Klima lindert die Schmerzen\"",
@@ -266,82 +249,58 @@
       "image_url": "https://img.zeit.de/arbeit/2024-06/leben-auswanderer-rente-andalusien-spanien-ruhestand-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Italien : Verfassungsreform von Giorgia Meloni erhält Zustimmung im Senat",
-      "teaser": "Unter Protest der Opposition hat der italienische Senat als erste Parlamentskammer einer umstrittenen Verfassungsänderung zugestimmt. Doch es gibt weitere Hürden.",
-      "url": "https://www.zeit.de/politik/ausland/2024-06/italien-verfassungsreform-giorgia-meloni-senat-zustimmung",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-06/italien-verfassungsreform-giorgia-meloni-senat-zustimmung-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Umwelt : Knapp ein Viertel Brasiliens hat seit 1985 gebrannt",
+      "teaser": "Auf fast 200 Millionen Hektar Fläche gab es in Brasilien seit 1985 Brände. Häufig trifft es Regenwald, Feuchtsavannen – oder wie derzeit das Feuchtgebiet Pantanal.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-06/brasilien-braende-feuer-mapbiomas-umwelt-1985",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-06/brasilien-feuer-umweltschutz-bild/super__320x213"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Pjöngjang : Russland und Nordkorea wollen Beziehungen ausbauen",
-      "teaser": "Wladimir Putin und Kim Jong Un haben die Vertiefung ihrer Beziehungen vereinbart. Für Russlands Staatschef war es der erste Besuch in Nordkorea seit 24 Jahren.",
-      "url": "https://www.zeit.de/politik/ausland/2024-06/russland-nordkorea-diplomatie-wladimir-putin-partnerschaft",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-06/russland-nordkorea-diplomatie-wladimir-putin-partnerschaft-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); FDP-Chef : Lindner warnt vor Zerbrechen der Nato bei Stopp von Ukraine-Hilfen",
+      "teaser": "Bei der Europawahl hatten in Ostdeutschland Parteien Erfolg, die kritisch zur Unterstützung der Ukraine stehen. Der Bundesfinanzminister sieht Kommunikationsbedarf.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-06/christian-lindner-unterstuetzung-ukraine-ostdeutschland-erklaerung",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-06/christian-lindner-ukraine-hilfe-erklaerung-ostdeutschland/super__320x213"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Migration : Biden erleichtert Greencard-Verfahren für Ehepartner von US-Bürgern",
-      "teaser": "Mit einer härteren Migrationspolitik zog Joe Biden zuletzt Kritik auf sich. Nun kündigte der Präsident Erleichterungen für zugewanderte Partner von US-Bürgern an.",
-      "url": "https://www.zeit.de/politik/ausland/2024-06/migration-usa-joe-biden-greencard-ehepartner",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-06/migration-usa-joe-biden-greencard-ehepartner-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Innenministerin : Faeser bestätigt vertrauliche Gespräche über Abschiebung von Afghanen",
+      "teaser": "Deutschland verhandelt derzeit mit mehreren Staaten über die Abschiebung von Schwerkriminellen. Bei der Innenministerkonferenz soll es dazu mehr Informationen geben.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-06/innenministerkonferenz-nancy-faeser-unterrichtung-abschiebung-afghanistan-syrien",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-06/nancy-faeser-vertrauliche-gespraeche-abschiebungen-bild/super__320x213"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Bürgergeld : Städtetag lehnt Stopp von Bürgergeldzugang für Ukraine-Flüchtlinge ab",
+      "teaser": "In der Bürgergelddebatte stellen sich die Kommunen gegen Forderungen aus CDU und FDP. Der Städtetagschef sieht in der Sozialleistung ein Instrument für Integration.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-06/buergergeld-ukraine-deutscher-staedtetag",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-06/ukraine-fluechtlinge-buergergeld-staedtetag-bild/super__320x213"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Sicherheitspolitik : Schwedisches Parlament billigt Verteidigungsabkommen mit den USA",
       "teaser": "Schwedens Riksdag hat einem Abkommen zugestimmt, das den USA erlaubt, Waffen in dem Land zu stationieren. Umstritten ist die Vereinbarung wegen einer fehlenden Klausel.",
       "url": "https://www.zeit.de/politik/ausland/2024-06/schweden-parlament-zustimmung-verteidigungsabkommen-usa",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-06/schweden-parlament-zustimmung-verteidigungsabkommen-usa-2/super__430x286"
+      "image_url": "https://img.zeit.de/politik/ausland/2024-06/schweden-parlament-zustimmung-verteidigungsabkommen-usa-2/super__320x213"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Kriminalität : Auch Söder fordert Sofort-Arrest für Straftäter und Gefährder",
-      "teaser": "Der bayerische Ministerpräsident spricht sich für ein hartes Vorgehen gegen Gefährder aus. Sie sollten in Arrest kommen, bis sie freiwillig das Land verlassen.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-06/kriminalitaet-straftaeter-gefaehrder-markus-soeder-strafen",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-06/kriminalitaet-straftaeter-gefaehrder-markus-soeder-strafen-bild/super__320x213"
+      "title": "Z+ (abopflichtiger Inhalt); USA : US-Wetterdienst warnt vor Hitzewelle auch im Nordosten",
+      "teaser": "New Mexico und Kalifornien kämpfen bereits mit Waldbränden, nun erreichen extreme Temperaturen auch den Norden der USA. In Texas warnen Meteorologen vor Überschwemmungen.",
+      "url": "https://www.zeit.de/wissen/umwelt/2024-06/usa-hitzewelle-warnung-ueberschwemmungen",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2024-06/usa-hitzewelle-warnung-bild/super__320x213"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); SPD : Olaf Scholz schließt BSW-Regierungsbeteilung im Bund aus",
-      "teaser": "Die Politik des BSW sei \"das Gegenteil von dem, was richtig ist\", sagt der Kanzler. Der Ostbeauftragte Carsten Schneider schließt Koalitionen auf Landesebene nicht aus.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-06/olaf-scholz-spd-regierungsbeteiligung-bsw-carsten-schneider",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-06/olaf-scholz-schliesst-bsw-regierungsbeteilung-im-bund-aus-bild/super__320x213"
+      "title": "Z+ (abopflichtiger Inhalt); Italien : Verfassungsreform von Giorgia Meloni erhält Zustimmung im Senat",
+      "teaser": "Unter Protest der Opposition hat der italienische Senat als erste Parlamentskammer einer umstrittenen Verfassungsänderung zugestimmt. Doch es gibt weitere Hürden.",
+      "url": "https://www.zeit.de/politik/ausland/2024-06/italien-verfassungsreform-giorgia-meloni-senat-zustimmung",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-06/italien-verfassungsreform-giorgia-meloni-senat-zustimmung-bild/super__320x213"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Nato : Orbán gibt Widerstand gegen Rutte als Nato-Generalsekretär auf",
-      "teaser": "Ungarn und die Slowakei wollten Mark Rutte lange als Nachfolger von Jens Stoltenberg verhindern. Nun ist nur noch ein Nato-Staat gegen den Niederländer an der Spitze.",
-      "url": "https://www.zeit.de/politik/ausland/2024-06/nato-rutte-orban-ungarn-slowakei-rumaenien",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-06/mark-rutte-nato-generalsekretaer-kandidatur-bild/super__320x213"
+      "title": "Z+ (abopflichtiger Inhalt); Migration : Biden erleichtert Greencard-Verfahren für Ehepartner von US-Bürgern",
+      "teaser": "Mit einer härteren Migrationspolitik zog Joe Biden zuletzt Kritik auf sich. Nun kündigte der Präsident Erleichterungen für zugewanderte Partner von US-Bürgern an.",
+      "url": "https://www.zeit.de/politik/ausland/2024-06/migration-usa-joe-biden-greencard-ehepartner",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-06/migration-usa-joe-biden-greencard-ehepartner-bild/super__320x213"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Innenministerkonferenz in Potsdam : Mehrere Innenminister wollen Bürgergeld für Ukrainer beenden",
-      "teaser": "Die Innenminister der Länder treffen sich in Potsdam, dort sprechen sie auch über Zahlungen an Kriegsflüchtlinge. Einige Minister plädieren für niedrigere Hilfen.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-06/innenministerkonferenz-buergergeld-ukraine",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-06/innenministerkonferenz-buergergeld-ukraine-bild/super__320x213"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Frankreich : Macron-Lager in Wahlumfrage hinter Rechtsnationalen und Linksbündnis",
-      "teaser": "Mit einer Parlamentswahl will Emmanuel Macron sein politisches Mitte-Bündnis stärken. Laut einer ersten Umfrage droht dem Liberalen aber eine herbe Niederlage.",
-      "url": "https://www.zeit.de/politik/ausland/2024-06/frankreich-macron-wahl-umfrage-le-pen",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-06/frankreich-macron-wahl-umfrage-le-pen-bild/super__320x213"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Mediennutzung : Jedes zehnte Kleinkind hat eigenes Handy oder Smartphone",
-      "teaser": "Zwei- bis Fünfjährige hatten 2023 laut einer Studie deutlich öfter Zugang zu Digitalgeräten als 2020. Die meisten Eltern sehen die Smartphonenutzung von Kindern kritisch.",
-      "url": "https://www.zeit.de/digital/2024-06/kleinkinder-smartphone-tablet-anstieg-studie",
-      "image_url": "https://img.zeit.de/digital/2024-06/kleinkinder-studie-digitalgeraete-bild/super__320x213"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Geflüchtete im deutsch-polnischen Grenzgebiet : Bundespolizei entschuldigt sich bei polnischen Behörden",
-      "teaser": "Der Fall einer afghanischen Familie hat für Irritationen zwischen deutschen und polnischen Grenzbehörden gesorgt. Kritik kam auch vom polnischen Regierungschef Tusk.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-06/bundespolizei-polen-gefluechtete-ueberstellungsgesetz",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-06/bundespolizei-polen-gefluechtete-ueberstellungsgesetz-bild/super__320x213"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Gruppe um Heinrich XIII. Prinz Reuß : Dritter Terrorprozess gegen Reichsbürger-Gruppe gestartet",
-      "teaser": "Eine Ärztin, ein Jurist und eine selbst ernannte Astrologin: Mutmaßliche Mitglieder der Reichsbürger-Gruppe um Prinz Reuß stehen jetzt auch in München vor Gericht.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-06/reichsbuerger-prinz-reuss-prozess-muenchen",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-06/reichsbuerger-prinz-reuss-prozess-muenchen-bild-2/super__320x213"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Drogenspürhunde : Fritz sucht weiter",
-      "teaser": "Über sechzig Jahre lang waren es vor allem Hunde, die Cannabis-Schmuggler überführten. Sind die Tiere nun, da der Besitz legal ist, arbeitslos?",
-      "url": "https://www.zeit.de/2024/24/drogenspuerhunde-cannabis-legalisierung-arbeitslosigkeit",
-      "image_url": "https://img.zeit.de/2024/24/drogenspuerhunde-cannabis-legalisierung-arbeitslosigkeit-teaserbild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); \"House of the Dragon\" : Der kleine Drache Bluterguss",
+      "teaser": "\"House of the Dragon\" gehört zu den letzten Überlebenden des erwachsenen Serien-TVs. Große Trauer legt sich über Staffel zwei der Vorgeschichte zu \"Game of Thrones\".",
+      "url": "https://www.zeit.de/kultur/film/2024-06/house-of-the-dragon-serie-drachen-fantasy-rezension",
+      "image_url": "https://img.zeit.de/kultur/film/2024-06/house-of-the-dragon-2/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"Wörter statt Möbel\" von Aglaja Veteranyi : Lest sie, und zwar laut!",
@@ -439,10 +398,10 @@
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024/06/grapefruit-thyme-rezept-wochenmarkt"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Koreanische Erdbeermilch : Der Schaum dieser Tage",
-      "teaser": "Wenn die Erdbeersaison ein Getränk wäre, dann zum Beispiel dieses hier. In Kombination mit Milch und Matcha-Sahne könnte es aber auch als Dessert durchgehen.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-06/koreanische-erdbeermilch-matcha-sahne-rezept",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-06/koreanische-erdbeermilch-matcha-sahne-rezept-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Drogenspürhunde : Fritz sucht weiter",
+      "teaser": "Über sechzig Jahre lang waren es vor allem Hunde, die Cannabis-Schmuggler überführten. Sind die Tiere nun, da der Besitz legal ist, arbeitslos?",
+      "url": "https://www.zeit.de/2024/24/drogenspuerhunde-cannabis-legalisierung-arbeitslosigkeit",
+      "image_url": "https://img.zeit.de/2024/24/drogenspuerhunde-cannabis-legalisierung-arbeitslosigkeit-teaserbild/super__430x286"
     },
     {
       "title": "Worträtsel : Wortiger",
@@ -493,6 +452,12 @@
       "image_url": "https://img.zeit.de/geld/2024-06/rente-zahlungen-ausland-datenanalyse-bild/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Koreanische Erdbeermilch : Der Schaum dieser Tage",
+      "teaser": "Wenn die Erdbeersaison ein Getränk wäre, dann zum Beispiel dieses hier. In Kombination mit Milch und Matcha-Sahne könnte es aber auch als Dessert durchgehen.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-06/koreanische-erdbeermilch-matcha-sahne-rezept",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-06/koreanische-erdbeermilch-matcha-sahne-rezept-bild/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Sandwich mit marinierter Zucchini, Bohnencreme und Gremolata : Jetzt oder Zucchini",
       "teaser": "Die Mittagspause ruft und hat ein sommerliches Sandwich mitgebracht: zarte Zucchinistreifen und Bohnencreme auf einer Scheibe Sauerteigbrot. So einfach, das Gute!",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-06/sandwich-marinierte-zucchini-bohnencreme-gremolata-rezept-wochenmarkt",
@@ -502,7 +467,7 @@
       "title": "Z+ (abopflichtiger Inhalt); Pasta mit getrockneten Tomaten und Spinat : Nicht schon wieder Nudeln? Pastalapapp!",
       "teaser": "Weiße Sahne, rote Tomaten, grüner Spinat: Rein farblich könnte dieses Rezept italienischer kaum sein. In seiner Cremigkeit passt es aber überallhin, wo der Bauch knurrt.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-06/pasta-getrocknete-tomaten-spinat-salt-and-lavender-sonntagsessen",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-06/pasta-getrocknete-tomaten-spinat-salt-and-lavender-sonntagsessen-teaserbild/super__430x286"
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-06/pasta-getrocknete-tomaten-spinat-salt-and-lavender-sonntagsessen-teaserbild/super__320x213"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Pasta mit Thunfisch und Tomaten : Die Alles-ist-gut-Pasta",
@@ -527,12 +492,6 @@
       "teaser": "Wer Ricotta für geschmacksneutral hält, hat ihn nicht richtig verstanden. In diesem Salat spielt er seine Stärken aus – und das Rezept ist im Lunchtempo zubereitet.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-06/gruene-bohnen-salat-tomate-ricotta-rezept",
       "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-06/gruene-bohnen-salat-tomate-ricotta-rezept-teaserbild/super__320x213"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Jagodzianki : Diesen Beeren möchte man im Wald begegnen",
-      "teaser": "Sie haben Beerenhunger? Dann ran an Jagodzianki: flauschige, mit Heidelbeeren gefüllte Teigtaschen. Unsere Autorin kann seit einem Besuch in Warschau nicht mehr ohne sie.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-06/jagodzianki-polnische-blaubeertaschen-backen-sonntag-rezept",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-06/jagodzianki-polnische-blaubeertaschen-backen-sonntag-rezept-teaserbild/super__320x213"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"Was jetzt? – Die Woche\" : Kontroverse Methoden bei der Euro 2024 – was darf die Uefa hier alles?",
@@ -571,22 +530,22 @@
       "image_url": "https://img.zeit.de/2024-05/was-jetzt-wochenshow-gaza-aufmacher/super__320x213"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Wladimir Putin in Nordkorea : Zwei Diktatoren, ganz ungeniert",
-      "teaser": "Wladimir Putin besucht erstmals seit 24 Jahren Nordkorea. Er braucht Munition und bietet Technologie. Ein möglicher Vertrag mit Kim Jong Un macht die Region nervös.",
-      "url": "https://www.zeit.de/politik/ausland/2024-06/wladimir-putin-kim-jong-un-nordkorea-russland-ukraine-krieg",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-06/wladimir-putin-kim-jong-un-nordkorea-russland-ukraine-krieg-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Kriminalität : Auch Söder fordert Sofortarrest für Straftäter und Gefährder",
+      "teaser": "Der bayerische Ministerpräsident spricht sich für ein hartes Vorgehen gegen Gefährder aus. Sie sollten in Arrest kommen, bis sie freiwillig das Land verlassen.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-06/kriminalitaet-straftaeter-gefaehrder-markus-soeder-strafen",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-06/kriminalitaet-straftaeter-gefaehrder-markus-soeder-strafen-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Nachrichtenpodcast : Russisch-nordkoreanische Tauschgeschäfte",
-      "teaser": "Russlands Präsident Putin und Nordkoreas Machthaber Kim wollen enger zusammenarbeiten. Eine Bedrohung für den Westen? Und: Ende Gelände als extremistischer Verdachtsfall",
-      "url": "https://www.zeit.de/politik/2024-06/wladimir-putin-nordkorea-kim-jong-un-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); SPD : Olaf Scholz schließt BSW-Regierungsbeteilung im Bund aus",
+      "teaser": "Die Politik des BSW sei \"das Gegenteil von dem, was richtig ist\", sagt der Kanzler. Der Ostbeauftragte Carsten Schneider schließt Koalitionen auf Landesebene nicht aus.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-06/olaf-scholz-spd-regierungsbeteiligung-bsw-carsten-schneider",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-06/olaf-scholz-schliesst-bsw-regierungsbeteilung-im-bund-aus-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Verfassungsschutzbericht : Ende Gelände kritisiert Einstufung als extremistischer Verdachtsfall",
-      "teaser": "Die Klimaaktivisten von Ende Gelände sehen ihre Einstufung durch den Verfassungsschutz als Skandal. Sie seien keine Extremisten, sondern die wahren Verfassungsschützer.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-06/ende-gelaende-reaktion-einstufung-verfassungsschutz",
-      "image_url": "https://img.zeit.de/gesellschaft/deutschland/2024-06/ende-gelaende-reaktion-verfassungsschutzbericht-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Nato : Orbán gibt Widerstand gegen Rutte als Nato-Generalsekretär auf",
+      "teaser": "Ungarn und die Slowakei wollten Mark Rutte lange als Nachfolger von Jens Stoltenberg verhindern. Nun ist nur noch ein Nato-Staat gegen den Niederländer an der Spitze.",
+      "url": "https://www.zeit.de/politik/ausland/2024-06/nato-rutte-orban-ungarn-slowakei-rumaenien",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-06/mark-rutte-nato-generalsekretaer-kandidatur-bild/super__430x286"
     },
     {
       "title": "Verlagsangebot : Das Schottland-Quiz: Testen Sie Ihr Wissen!",
@@ -644,16 +603,16 @@
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-06/prozess-umsturz-muenchen/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Griechische Küstenwache : \"Langsam ging seine Hand unter\"",
-      "teaser": "Die griechische Küstenwache soll Migranten ins Wasser geworfen und ertrinken lassen haben. Die Reaktionen sind abgestumpft – das hat einen Grund.",
-      "url": "https://www.zeit.de/gesellschaft/2024-06/griechische-kuestenwache-migration-europa-ertrinken-bbc",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-06/griechische-kuestenwache-migration-europa-ertrinken-bbc-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Geflüchtete im deutsch-polnischen Grenzgebiet : Bundespolizei entschuldigt sich bei polnischen Behörden",
+      "teaser": "Der Fall einer afghanischen Familie hat für Irritationen zwischen deutschen und polnischen Grenzbehörden gesorgt. Kritik kam auch vom polnischen Regierungschef Tusk.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-06/bundespolizei-polen-gefluechtete-ueberstellungsgesetz",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-06/bundespolizei-polen-gefluechtete-ueberstellungsgesetz-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Deutscher Wetterdienst : Schwere Gewitter mit Hagel und Starkregen erwartet",
-      "teaser": "Der Deutsche Wetterdienst rechnet im Laufe des Tages mit heftigen Unwettern. Ab dem späten Vormittag bilden sich Gewitter, auch einzelne Tornados sind möglich.",
-      "url": "https://www.zeit.de/gesellschaft/2024-06/wetterdienst-unwetter-hagel-starkregen-tornados",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-06/wetterdienst-gewittern-hagel-starkregen-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Gruppe um Heinrich XIII. Prinz Reuß : Dritter Terrorprozess gegen Reichsbürger-Gruppe gestartet",
+      "teaser": "Eine Ärztin, ein Jurist und eine selbst ernannte Astrologin: Mutmaßliche Mitglieder der Reichsbürger-Gruppe um Prinz Reuß stehen jetzt auch in München vor Gericht.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-06/reichsbuerger-prinz-reuss-prozess-muenchen",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-06/reichsbuerger-prinz-reuss-prozess-muenchen-bild-2/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Verbraucherschutz : Mehrheit der Bundesländer fordert Zuckersteuer auf Softdrinks",
@@ -857,16 +816,16 @@
       "image_url": "https://img.zeit.de/gesundheit/2024-06/wochenende-angsstoerung-geburt-eltern-baby-kinder-bild/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Webex : Wer konnte auf Webex-Meetings zugreifen?",
+      "teaser": "Tausende Webex-Videokonferenzen von Behörden standen offen im Netz. Nun hat der Digitalausschuss den Betreiber Cisco einbestellt. Der musste offenbar Fehler zugeben.",
+      "url": "https://www.zeit.de/digital/datenschutz/2024-06/webex-cisco-datensicherheit-videokonferenz-mangel-luecken",
+      "image_url": "https://img.zeit.de/digital/2024-06/webex-cisco-datensicherheit-videokonferenz-mangel-luecken-bild-2/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Big Tech : Warum das Silicon Valley Science-Fiction nicht versteht",
       "teaser": "Altman, Musk, Zuckerberg: Techgrößen bewerben ihr Werk gerne mit Sci-Fi-Dystopien. Warum es ihnen so schwerfällt, Desaster zu vermeiden, die längst beschrieben wurden.",
       "url": "https://www.zeit.de/digital/2024-06/big-tech-scifi-elon-musk-mark-zuckerberg",
       "image_url": "https://img.zeit.de/digital/2024-06/silicon-valley-science-fiction-musk-dinosaurier/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Animal Well\" : Dieses Indiespiel muss man erlebt haben",
-      "teaser": "Keine gigantische Spielwelt, keine epische Geschichte, kein Onlinemodus: \"Animal Well\" ist ein Retrospiel, das mit einer angenehm unbehaglichen Atmosphäre überzeugt.",
-      "url": "https://www.zeit.de/digital/games/2024-06/animal-well-gaming-puzzle-test",
-      "image_url": "https://img.zeit.de/digital/games/2024-06/animal-well-gaming-puzzle-test-teaserbild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Erfahrungen als Pilotin : \"Sie haben doch Mann und Kinder, wieso sind Sie so viel in der Luft?\"",
@@ -905,11 +864,11 @@
       "image_url": "https://img.zeit.de/campus/2024-06/bundeswehr-freiwilliger-wehrdienst-junge-menschen-umfrage-2/wide__892x501"
     },
     {
-      "title": "Verlagsangebot : Durchblick im Studiendschungel",
-      "teaser": "Bei 20.000 möglichen Studiengängen in Deutschland verliert man schnell den Überblick. Unterstützung bietet die Suchmaschine für Studiengänge und Hochschulen.",
-      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.whiteboard_studiendschungel.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_whiteboard_studiendschungel_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-3-klein/man-wearing-black-and-white-stripe-shirt-looking-at-white-197.jpg",
-      "image_title": "Durchblick im Studiendschungel"
+      "title": "Verlagsangebot : Ein Studium finden, das passt",
+      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
+      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.teaser.bewerben-schreibtisch.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=sit-verlagsteaser&amp;utm_content=sit_teaser_bewerben-schreibtisch_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/sit-bewerben-schreibtisch/wide__430x286__desktop",
+      "image_title": "Ein Studium finden, das passt"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Fußball-EM : PYROOOOTEEECHNIK …",
@@ -966,16 +925,16 @@
       "image_url": "https://img.zeit.de/hamburg/2024-06/hhla/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); EM-Eröffnungsspiel : Polizei ermittelt gegen YouTuber nach Eindringen in EM-Stadion",
-      "teaser": "Im Kostüm des EM-Maskottchen Albärt gelangte der YouTuber Marvin Wildhage beim EM-Auftaktspiel bis an den Spielfeldrand. Die Polizei ermittelt wegen Hausfriedensbruchs.",
-      "url": "https://www.zeit.de/sport/2024-06/fussball-em-youtuber-marvin-wildhage-maskottchen-ermittlungen",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-06/euro-em-2024-eroeffnungsfeier-youtuber-albaert-hausfriedensbruchs-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Fußball-EM, Gruppe F : Türkei besiegt zum Auftakt EM-Debütant Georgien",
+      "teaser": "Die Türken starten euphorisch, kassieren gegen Georgien aber zunächst den Ausgleich. In der zweiten Hälfte entscheidet die Türkei die temporeiche Partie. Der Spielbericht",
+      "url": "https://www.zeit.de/sport/2024-06/tuerkei-georgien-gruppe-f-fussball-em",
+      "image_url": "https://img.zeit.de/sport/2024-06/tuerkei-georgien-gruppe-f-fussball-em-bild-2/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Fußball-EM : Modische Superhelden überall",
-      "teaser": "Die Albaner setzen den ersten Modetrend der EM. Polens Trainer erinnert an Sherlock Holmes und Dr. Watson zugleich. Und was sollen die Löcher in den Socken?",
-      "url": "https://www.zeit.de/sport/2024-06/fussball-em-deutschland-ereignisse-slowticker",
-      "image_url": "https://img.zeit.de/sport/2024-06/fussball-em-deutschland-ereignisse-waden/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); EM in Gelsenkirchen : Oh shit, wir sind in Gelsenkörken",
+      "teaser": "Englische Reporter und Fans machten sich über Gelsenkirchen lustig, die ärmste Stadt Deutschlands. Doch die Fußball-EM gehört zweifellos in diese große Fußballstadt.",
+      "url": "https://www.zeit.de/sport/2024-06/em-gelsenkirchen-schalke-arena-fussball-armut",
+      "image_url": "https://img.zeit.de/sport/2024-06/em-gelsenkirchen-schalke-arena-fussball-armut-bild/super__430x286"
     },
     {
       "title": "ZEIT ONLINE Stimmen : Hier kommen Sie zu Wort",
@@ -996,6 +955,22 @@
       "image_url": "https://img.zeit.de/newsletter/familienzeit/familienzeit-titelbild/super__430x286"
     },
     {
+      "title": "Nahost: Wachsende Sorgen vor neuem Krieg im Libanon",
+      "url": "https://www.zeit.de/news/2024-06/19/wachsende-sorgen-vor-neuem-krieg-im-libanon"
+    },
+    {
+      "title": "Bundesregierung: Regierung muss Ostdeutschen Ukraine-Politik offen erklären",
+      "url": "https://www.zeit.de/news/2024-06/19/regierung-muss-ostdeutschen-ukraine-politik-offen-erklaeren"
+    },
+    {
+      "title": "Migration: Vertrauliche Gespräche über Abschiebungen mit mehreren Staaten",
+      "url": "https://www.zeit.de/news/2024-06/19/vertrauliche-gespraeche-ueber-abschiebungen-mit-mehreren-staaten"
+    },
+    {
+      "title": "Wetter: Unwettergefahr sinkt - Kräftige Gewitter weiter möglich",
+      "url": "https://www.zeit.de/news/2024-06/19/unwettergefahr-sinkt-kraeftige-gewitter-weiter-moeglich"
+    },
+    {
       "title": "Internet: US-Behörde mit neuen Vorwürfen gegen Tiktok",
       "url": "https://www.zeit.de/news/2024-06/19/us-behoerde-mit-neuen-vorwuerfen-gegen-tiktok"
     },
@@ -1010,22 +985,6 @@
     {
       "title": "Innere Sicherheit: Faeser: Gespräche über Abschiebungen mit mehreren Staaten",
       "url": "https://www.zeit.de/news/2024-06/19/faeser-gespraeche-ueber-abschiebungen-mit-mehreren-staaten"
-    },
-    {
-      "title": "EURO 2024: Francisco Conceição rettet Portugal den Sieg",
-      "url": "https://www.zeit.de/news/2024-06/18/francisco-concei-o-rettet-portugal-den-sieg"
-    },
-    {
-      "title": "Polizei warnt Bevölkerung: Sexualstraftäter entkommt während Ausgang",
-      "url": "https://www.zeit.de/news/2024-06/18/sexualstraftaeter-entkommt-waehrend-ausgang"
-    },
-    {
-      "title": "Auto: Betriebsrat: Ford plant weiteren Jobabbau",
-      "url": "https://www.zeit.de/news/2024-06/18/betriebsrat-ford-plant-weiteren-jobabbau"
-    },
-    {
-      "title": "KI-Boom: Nvidia wird zur Nummer eins beim Börsenwert",
-      "url": "https://www.zeit.de/news/2024-06/18/nvidia-wird-zur-nummer-eins-beim-boersenwert"
     }
   ]
 }
