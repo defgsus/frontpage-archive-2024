@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-06-20T08:00:50",
+  "timestamp": "2024-06-20T09:00:56",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.d9e98e79faae780d6368",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.24615ae6c0f5e97195ed",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Atlassian",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Atlassian-stopft-unter-anderem-Datenleck-in-Jira-Data-Center-9770453.html"
+    },
     {
       "title": "VMware vCenter Server",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Root-Luecke-bedroht-VMware-vCenter-Server-9767493.html"
@@ -44,14 +48,10 @@
       "url": "https://www.heise.de/news/Nextcloud-Angreifer-koennen-Zwei-Faktor-Authentifizierung-umgehen-9766062.html"
     },
     {
-      "title": "Ivanti Endpoint Manager",
-      "url": "https://www.heise.de/news/Ivanti-Endpoint-Manager-Exploit-fuer-kritische-Luecke-aufgetaucht-9765685.html"
-    },
-    {
-      "title": "Sicherheitslücke in kommunaler Verwaltungs-Webseite öffnet Datenleck in BundID",
-      "teaser": "Eine unsichere Software sorgt für die Abschaltung der digitalen Verwaltungsdienste von knapp 300 deutschen Kommunen.",
-      "url": "https://www.heise.de/news/Sicherheitsluecke-in-kommunaler-Verwaltungs-Webseite-oeffnet-Datenleck-in-BundID-9770233.html",
-      "image_title": "AKtenschrank mit hängenden Mappen"
+      "title": "Sicherheitslücken: Attacken auf Atlassian Confluence & Co. möglich",
+      "teaser": "Sicherheitslücken bedrohen mehrere Anwendungen von Atlassian. Angreifer können Abstürze auslösen oder unbefugt Daten einsehen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Atlassian-stopft-unter-anderem-Datenleck-in-Jira-Data-Center-9770453.html",
+      "image_title": "Eine Frau drückt auf ein virtuelles Update"
     },
     {
       "title": "Gesundheitsdaten geleakt: Region in Schottland wird mit Flugblättern informiert",
@@ -93,6 +93,12 @@
       "teaser": "Ein Datenhehler bietet in einem Untergrundforum interne Daten vom Chiphersteller AMD an. Das Archiv soll aus einer Cyberattacke stammen.",
       "url": "https://www.heise.de/news/Daten-zum-Verkauf-AMD-untersucht-angebliches-Datenleck-9769147.html",
       "image_title": "Ausschnitt einer hellgrauen Computertastatur bei der die rechte Feststelltaste durch eine grüne Taste mit Aufschrift \"Leak\" ausgetauscht ist"
+    },
+    {
+      "title": "Microsoft stellt alle Azure-Konten auf Mehr-Faktor-Authentifizierung um",
+      "teaser": "Azure-Kunden werden ab Juli auf Mehr-Faktor-Authentifizierung umgestellt, hat Microsoft etwas versteckt angekündigt.",
+      "url": "https://www.heise.de/news/Microsoft-stellt-alle-Azure-Konten-auf-Mehr-Faktor-Authentifizierung-um-9768964.html",
+      "image_title": "Ein Laptop mit einem Schutzschild auf dem Bildschirm"
     },
     {
       "title": "\"Passwort\" Folge 3: Denial of Service",
@@ -157,12 +163,6 @@
       "title": "Nextcloud: Angreifer können Zwei-Faktor-Authentifizierung umgehen",
       "teaser": "Die Clouddienst-Software Nextcloud ist verwundbar. In aktuellen Versionen haben die Entwickler mehrere Sicherheitslücken geschlossen.",
       "url": "https://www.heise.de/news/Nextcloud-Angreifer-koennen-Zwei-Faktor-Authentifizierung-umgehen-9766062.html"
-    },
-    {
-      "title": "iX-Workshop: Innerdeutsche E-Rechnungspflicht - Software richtig implementieren",
-      "teaser": "Lernen Sie Hands-on, welche Formate wie unterstützt, geprüft und umgewandelt werden können oder müssen und wie sie dabei vorgehen. (10% Rabatt bis 25.06.)",
-      "url": "https://www.heise.de/news/iX-Workshop-Innerdeutsche-E-Rechnungspflicht-Software-richtig-implementieren-9762741.html",
-      "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
     },
     {
       "title": "IT-Security: Mehr Sicherheit durch API-Firewalls",
