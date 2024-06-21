@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-06-21T11:01:06",
+  "timestamp": "2024-06-21T12:10:10",
   "url": "https://www.welt.de/regionales/",
   "response": {
     "status": 200
@@ -25,14 +25,6 @@
     }
   ],
   "articles": [
-    {
-      "title": "Wie ein städtisches Parkhaus zum Symbol für jahrelanges Missmanagement wurde",
-      "teaser": "Es stinkt gewaltig im Herzen Altonas: Die unhaltbaren Zustände im Bahnhofs-Parkhaus sind seit Jahren bekannt. Nach Jahren der Verwahrlosung soll jetzt die Wende gelingen. Der Fall steht exemplarisch für eine Situation, in der Zukunftsvisionen wichtiger sind als die Bedürfnisse der Menschen.",
-      "url": "https://www.welt.de/regionales/hamburg/",
-      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile252139970/1217933527-ci23x11-w20/Parkhaus-Altona-Bahnhof-Hamburg.jpg",
-      "image_title": "Als öffentliche Toilette missbraucht: Bereits seit Jahren ist das Parkhaus Bahnhof Altona massiv in der Kritik",
-      "author": "Denis Fengler"
-    },
     {
       "title": "Hamburgs Innensenator rechnet mit Abschiebungen nach Afghanistan bereits in den nächsten Wochen",
       "teaser": "Schon in den kommenden Wochen könnten die ersten Straftäter und Gefährder nach Afghanistan abgeschoben werden. Davon geht Hamburgs Innensenator Andy Grote (SPD) als Sprecher der SPD-geführten Länder in der Innenministerkonferenz aus. Allein in Hamburg gibt es 18 Fälle.",
@@ -76,6 +68,13 @@
       "url": "https://www.welt.de/vermischtes/kriminalitaet/",
       "image_url": "https://img.welt.de/img/vermischtes/kriminalitaet/mobile252139168/0577932257-ci23x11-w20/Polizei-Blaulicht.jpg",
       "image_title": "Die Polizei Gelsenkirchen sucht Zeugen für eine Straftat (Symbolbild)"
+    },
+    {
+      "title": "23-jährige Joggerin stach sich selbst in den Bauch",
+      "teaser": "Der Schock war groß: In Schermbeck in Nordrhein-Westfalen sollte eine Frau beim Joggen im Wald angegriffen und schwer verletzt worden sein, eine Mordkommission ermittelte. Dabei gab es nie einen Täter, wie sich später herausstellte.",
+      "url": "https://www.welt.de/vermischtes/kriminalitaet/",
+      "image_url": "https://img.welt.de/img/vermischtes/kriminalitaet/mobile251980382/7467934487-ci23x11-w20/Junge-Frau-beim-Joggen-im-Wald-attackiert.jpg",
+      "image_title": "Polizisten an einem Feld in Schermbeck, wo die junge Joggerin den Notruf abgesetzt hatte"
     },
     {
       "title": "Lieferando-Gutschein",
@@ -180,16 +179,10 @@
       "image_title": "Am 9. Juli fand in Brandenburg neben der Europawahl auch die Kommunalwahl statt"
     },
     {
-      "title": "23-jährige Joggerin stach sich selbst in den Bauch",
-      "teaser": "Der Schock war groß: In Schermbeck in Nordrhein-Westfalen sollte eine Frau beim Joggen im Wald angegriffen und schwer verletzt worden sein, eine Mordkommission ermittelte. Dabei gab es nie einen Täter, wie sich später herausstellte.",
-      "url": "https://www.welt.de/vermischtes/kriminalitaet/",
-      "image_url": "https://img.welt.de/img/vermischtes/kriminalitaet/mobile251980382/7467934487-ci16x9-w20/Junge-Frau-beim-Joggen-im-Wald-attackiert.jpg",
-      "image_title": "Polizisten an einem Feld in Schermbeck, wo die junge Joggerin den Notruf abgesetzt hatte"
-    },
-    {
       "title": "Neues Leben im alten Gerling-Quartier",
-      "url": "https://www.welt.de/regionales/nrw/article251995936/Gerling-Garden-In-Koelns-City-wird-denkmalgeschuetztes-Areal-des-frueheren-Versicherers-vollendet.html",
-      "image_url": "https://img.welt.de/img/incoming/mobile252126154/9487931217-ci102l-w20/Gerling-Quartier-Koeln.jpg",
+      "teaser": "Auf dem Areal des ehemaligen Kölner Versicherers Gerling sind exklusive Wohnungen und ein Design-Hotel entstanden. In den kommenden beiden Jahre soll sich bei dem denkmalgeschützten Ensemble aber noch einiges tun",
+      "url": "https://www.welt.de/regionales/nrw/",
+      "image_url": "https://img.welt.de/img/incoming/mobile252126154/9487931217-ci16x9-w20/Gerling-Quartier-Koeln.jpg",
       "image_title": "Das Kölner Unternehmen Proximus entwickelt mit einem Partner aus Hamburg auf 46.000 Quadratmetern den „Gerling Garden“. Fertiggestellt ist bereits das Hotel „25hours The Circle“.",
       "author": "Guido M. Hartmann"
     },
@@ -212,6 +205,13 @@
       "image_url": "https://img.welt.de/img/regionales/nrw/mobile252033452/7967931097-ci102l-w20/Haus-Aden-2.jpg",
       "image_title": "Arbeiter passen in einen ehemaligen Schacht des Bergwerks ein Rohr ein, durch das künftig Grubenwasser nach oben gepumpt werden soll",
       "author": "Andreas Fasel"
+    },
+    {
+      "title": "Vom Start-up zum Dienstleister des Mittelstandes",
+      "url": "https://www.welt.de/regionales/nrw/article251996188/Bielefelder-SAP-Dienstleister-betreut-6000-Kunden-und-sucht-150-weitere-Mitarbeiter.html",
+      "image_url": "https://img.welt.de/img/incoming/mobile252036684/4927936177-ci102l-w20/Image-Picture-Office-Building-Bielefeld-2.jpg",
+      "image_title": "Die Zentrale von NTT DATA in Bielefeld",
+      "author": "Guido M. Hartmann"
     },
     {
       "title": "20-Jähriger vergisst Handtasche mit 26.000 Euro an Raststätte – mit Happy End",
@@ -423,132 +423,128 @@
       "image_title": "Polizeieinsatz"
     },
     {
-      "title": "Container mit Gefahrgut umgestürzt: Drei Verletzte",
-      "url": "https://www.welt.de/regionales/hamburg/article252145426/Container-mit-Gefahrgut-umgestuerzt-Drei-Verletzte.html"
+      "title": "Mehr als 100 Menschen wendeten sich an Landesbeauftragten",
+      "url": "https://www.welt.de/regionales/niedersachsen/article252146970/Mehr-als-100-Menschen-wendeten-sich-an-Landesbeauftragten.html"
     },
     {
-      "title": "Toter in München: Ermittler gehen von Totschlag aus",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article252145222/Toter-in-Muenchen-Ermittler-gehen-von-Totschlag-aus.html"
+      "title": "Fanzone in Leipzig öffnet wegen drohenden Unwetters später",
+      "url": "https://www.welt.de/regionales/sachsen/article252146936/Fanzone-in-Leipzig-oeffnet-wegen-drohenden-Unwetters-spaeter.html"
     },
     {
-      "title": "Richtfest auf Burg Posterstein",
-      "url": "https://www.welt.de/regionales/thueringen/article252145210/Richtfest-auf-Burg-Posterstein.html"
+      "title": "Kein Wechsel zu St. Pauli: Eichner bleibt beim Karlsruher SC",
+      "url": "https://www.welt.de/regionales/niedersachsen/article252146902/Kein-Wechsel-zu-St-Pauli-Eichner-bleibt-beim-Karlsruher-SC.html"
     },
     {
-      "title": "Baggerschaufel fällt auf Landwirt: Schwer verletzt",
-      "url": "https://www.welt.de/regionales/bayern/article252145206/Baggerschaufel-faellt-auf-Landwirt-Schwer-verletzt.html"
+      "title": "Kaum Abweichungen: Endgültiges Ergebnis der Europawahl",
+      "url": "https://www.welt.de/regionales/berlin/article252146784/Kaum-Abweichungen-Endgueltiges-Ergebnis-der-Europawahl.html"
     },
     {
-      "title": "Oberbayer wegen Hilfe für «Reichsbürger»-Gruppe vor Gericht",
-      "url": "https://www.welt.de/regionales/bayern/article252145166/Oberbayer-wegen-Hilfe-fuer-Reichsbuerger-Gruppe-vor-Gericht.html"
+      "title": "Oldenburger EWE Baskets holen französischen Center",
+      "url": "https://www.welt.de/regionales/niedersachsen/article252146740/Oldenburger-EWE-Baskets-holen-franzoesischen-Center.html"
     },
     {
-      "title": "Werteunion um Maaßen will Landesverband gründen",
-      "url": "https://www.welt.de/regionales/niedersachsen/article252144932/Werteunion-um-Maassen-will-Landesverband-gruenden.html"
+      "title": "Straßenraubserie: Ermittlungen gegen acht Jugendliche",
+      "url": "https://www.welt.de/regionales/hessen/article252146728/Strassenraubserie-Ermittlungen-gegen-acht-Jugendliche.html"
     },
     {
-      "title": "Ermittlungen nach Messerattacke in Wolmirstedt laufen",
-      "url": "https://www.welt.de/regionales/sachsen-anhalt/article252144828/Ermittlungen-nach-Messerattacke-in-Wolmirstedt-laufen.html"
+      "title": "Wohnungs- und Städteverbände warnen vor Kürzungen",
+      "url": "https://www.welt.de/regionales/hamburg/article252146680/Wohnungs-und-Staedteverbaende-warnen-vor-Kuerzungen.html"
     },
     {
-      "title": "Vor Fertigstellung Lärm im Hafen Mukran durch LNG-Terminal",
-      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article252144786/Vor-Fertigstellung-Laerm-im-Hafen-Mukran-durch-LNG-Terminal.html"
+      "title": "Endergebnis zur Europawahl zeigt wenig Veränderung",
+      "url": "https://www.welt.de/regionales/hamburg/article252146754/Endergebnis-zur-Europawahl-zeigt-wenig-Veraenderung.html"
     },
     {
-      "title": "Friedrichshafen für Königsklasse gesperrt",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article252144712/Friedrichshafen-fuer-Koenigsklasse-gesperrt.html"
+      "title": "Junge in Bus gegen Kopf geschlagen",
+      "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article252146404/Junge-in-Bus-gegen-Kopf-geschlagen.html"
     },
     {
-      "title": "Wie ein städtisches Parkhaus zum Symbol für jahrelanges Missmanagement wurde",
-      "url": "https://www.welt.de/regionales/hamburg/article252139978/Hamburg-Wie-ein-staedtisches-Parkhaus-zum-Symbol-fuer-jahrelanges-Missmanagement-wurde.html"
+      "title": "Hohe Geldstrafe für 1. FC Saarbrücken",
+      "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article252146412/Hohe-Geldstrafe-fuer-1-FC-Saarbruecken.html"
     },
     {
-      "title": "Katze stirbt nach mutmaßlichem Schuss aus Armbrust",
-      "url": "https://www.welt.de/regionales/hessen/article252144662/Katze-stirbt-nach-mutmasslichem-Schuss-aus-Armbrust.html"
+      "title": "Dröge: Asylverfahren in Drittstaaten kaum umsetzbar",
+      "url": "https://www.welt.de/regionales/nrw/article252146530/Droege-Asylverfahren-in-Drittstaaten-kaum-umsetzbar.html"
     },
     {
-      "title": "Landeswahlausschuss macht Parteien Weg für Landtagswahl frei",
-      "url": "https://www.welt.de/regionales/sachsen/article252144648/Landeswahlausschuss-macht-Parteien-Weg-fuer-Landtagswahl-frei.html"
+      "title": "Landesregierung: Rechtsextremismus bedroht Brandenburg",
+      "url": "https://www.welt.de/regionales/berlin/article252146398/Landesregierung-Rechtsextremismus-bedroht-Brandenburg.html"
     },
     {
-      "title": "IQM eröffnet Quantenrechenzentrum in München",
-      "url": "https://www.welt.de/regionales/bayern/article252144346/IQM-eroeffnet-Quantenrechenzentrum-in-Muenchen.html"
+      "title": "Zwei Spuren auf A2 bei Bad Eilsen gesperrt",
+      "url": "https://www.welt.de/regionales/niedersachsen/article252146390/Zwei-Spuren-auf-A2-bei-Bad-Eilsen-gesperrt.html"
     },
     {
-      "title": "Waldhofs Ziel: «Maßstab muss die Rückrundentabelle sein»",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article252144192/Waldhofs-Ziel-Massstab-muss-die-Rueckrundentabelle-sein.html"
+      "title": "Mann beißt Polizist bei Festnahme ins Bein",
+      "url": "https://www.welt.de/regionales/bayern/article252146342/Mann-beisst-Polizist-bei-Festnahme-ins-Bein.html"
     },
     {
-      "title": "Tarifeinigung für Druckerei-Beschäftigte",
-      "url": "https://www.welt.de/regionales/bayern/article252144174/Tarifeinigung-fuer-Druckerei-Beschaeftigte.html"
+      "title": "Fanzone auf dem Heiligengeistfeld bleibt zunächst geöffnet",
+      "url": "https://www.welt.de/regionales/hamburg/article252146344/Fanzone-auf-dem-Heiligengeistfeld-bleibt-zunaechst-geoeffnet.html"
+    },
+    {
+      "title": "Abschuss auffälliger Wölfe soll beschleunigt werden",
+      "url": "https://www.welt.de/regionales/bayern/article252146200/Abschuss-auffaelliger-Woelfe-soll-beschleunigt-werden.html"
+    },
+    {
+      "title": "ADAC, Polizei und Bahnen warnen vor Gefahren im Gleisbett",
+      "url": "https://www.welt.de/regionales/bayern/article252146130/ADAC-Polizei-und-Bahnen-warnen-vor-Gefahren-im-Gleisbett.html"
+    },
+    {
+      "title": "Hoher Schaden nach Feuer in Sporthalle: Drei Verletzte",
+      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article252146004/Hoher-Schaden-nach-Feuer-in-Sporthalle-Drei-Verletzte.html"
+    },
+    {
+      "title": "IG Metall Mitte will 7 Prozent mehr Geld",
+      "url": "https://www.welt.de/regionales/thueringen/article252145996/IG-Metall-Mitte-will-7-Prozent-mehr-Geld.html"
+    },
+    {
+      "title": "IG Metall Mitte will 7 Prozent mehr Geld",
+      "url": "https://www.welt.de/regionales/hessen/article252145948/IG-Metall-Mitte-will-7-Prozent-mehr-Geld.html"
+    },
+    {
+      "title": "Straubing Tigers verpflichten Torhüter",
+      "url": "https://www.welt.de/regionales/bayern/article252145928/Straubing-Tigers-verpflichten-Torhueter.html"
+    },
+    {
+      "title": "Landesbeauftragte warnt vor weniger barrierefreien Wohnungen",
+      "url": "https://www.welt.de/regionales/niedersachsen/article252145918/Landesbeauftragte-warnt-vor-weniger-barrierefreien-Wohnungen.html"
+    },
+    {
+      "title": "Erhaltung historischer Gärten im Klimakrise Herkulesaufgabe",
+      "url": "https://www.welt.de/regionales/sachsen/article252145892/Erhaltung-historischer-Gaerten-im-Klimakrise-Herkulesaufgabe.html"
+    },
+    {
+      "title": "Basketballer Dibba spielt künftig für Heidelberg",
+      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article252145920/Basketballer-Dibba-spielt-kuenftig-fuer-Heidelberg.html"
+    },
+    {
+      "title": "Belieferung von 1900 Märkten: Rewe eröffnet Logistikzentrum",
+      "url": "https://www.welt.de/regionales/sachsen-anhalt/article252145938/Belieferung-von-1900-Maerkten-Rewe-eroeffnet-Logistikzentrum.html"
+    },
+    {
+      "title": "Mann in seiner Wohnung mit Pistole bedroht und ausgeraubt",
+      "url": "https://www.welt.de/regionales/bayern/article252145868/Mann-in-seiner-Wohnung-mit-Pistole-bedroht-und-ausgeraubt.html"
+    },
+    {
+      "title": "UEFA zu Frankfurter Rasenproblemen: Gibt Wartungsplan",
+      "url": "https://www.welt.de/regionales/hessen/article252145770/UEFA-zu-Frankfurter-Rasenproblemen-Gibt-Wartungsplan.html"
+    },
+    {
+      "title": "Stark-Watzinger am Mittwoch im Bildungsausschuss",
+      "url": "https://www.welt.de/regionales/berlin/article252145802/Stark-Watzinger-am-Mittwoch-im-Bildungsausschuss.html"
+    },
+    {
+      "title": "Wagenknecht-Partei erwartet Millionen aus Steuergeldern",
+      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article252145736/Wagenknecht-Partei-erwartet-Millionen-aus-Steuergeldern.html"
+    },
+    {
+      "title": "Nach Unwetter: Störungen auf Strecke Berlin-Dresden behoben",
+      "url": "https://www.welt.de/regionales/sachsen/article252145734/Nach-Unwetter-Stoerungen-auf-Strecke-Berlin-Dresden-behoben.html"
     },
     {
       "title": "Hamburgs Innensenator rechnet mit Abschiebungen nach Afghanistan bereits in den nächsten Wochen",
       "url": "https://www.welt.de/regionales/hamburg/article252143464/Innenministerkonferenz-Hamburgs-Innensenator-rechnet-mit-Abschiebungen-nach-Afghanistan-bereits-in-den-naechsten-Wochen.html"
-    },
-    {
-      "title": "Endgültiges Ergebnis bestätigt: CDU klare Siegerin",
-      "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article252144062/Endgueltiges-Ergebnis-bestaetigt-CDU-klare-Siegerin.html"
-    },
-    {
-      "title": "Rybakina gibt auf: Asarenka im Halbfinale",
-      "url": "https://www.welt.de/regionales/berlin/article252143964/Rybakina-gibt-auf-Asarenka-im-Halbfinale.html"
-    },
-    {
-      "title": "15-Jährige lernt Autofahren auf Youtube und macht Spritztour",
-      "url": "https://www.welt.de/regionales/bayern/article252143920/15-Jaehrige-lernt-Autofahren-auf-Youtube-und-macht-Spritztour.html"
-    },
-    {
-      "title": "Theo tippt schon wieder gegen Deutschland",
-      "url": "https://www.welt.de/regionales/nrw/article252143628/Theo-tippt-schon-wieder-gegen-Deutschland.html"
-    },
-    {
-      "title": "Mutmaßlicher Drogenhändler in Bad Salzungen festgenommen",
-      "url": "https://www.welt.de/regionales/thueringen/article252143534/Mutmasslicher-Drogenhaendler-in-Bad-Salzungen-festgenommen.html"
-    },
-    {
-      "title": "Privatsachen eines verstorbenen Patienten weg",
-      "url": "https://www.welt.de/regionales/nrw/article252143626/Privatsachen-eines-verstorbenen-Patienten-weg.html"
-    },
-    {
-      "title": "Weil: «Stromautobahnen über der Erde sind vom Tisch»",
-      "url": "https://www.welt.de/regionales/niedersachsen/article252143452/Weil-Stromautobahnen-ueber-der-Erde-sind-vom-Tisch.html"
-    },
-    {
-      "title": "Wirtschaftsminister: Land vereinfacht Planungsverfahren",
-      "url": "https://www.welt.de/regionales/hamburg/article252143374/Wirtschaftsminister-Land-vereinfacht-Planungsverfahren.html"
-    },
-    {
-      "title": "Bayerns Metzger schlachten weniger",
-      "url": "https://www.welt.de/regionales/bayern/article252143776/Bayerns-Metzger-schlachten-weniger.html"
-    },
-    {
-      "title": "Waffenverbotszonen ohne anlasslose Kontrollen nicht wirksam",
-      "url": "https://www.welt.de/regionales/berlin/article252143364/Waffenverbotszonen-ohne-anlasslose-Kontrollen-nicht-wirksam.html"
-    },
-    {
-      "title": "Promi-Erpresser in Untersuchungshaft",
-      "url": "https://www.welt.de/regionales/nrw/article252143274/Promi-Erpresser-in-Untersuchungshaft.html"
-    },
-    {
-      "title": "Polizei sucht verschwundenen Zehnjährigen",
-      "url": "https://www.welt.de/regionales/nrw/article252143340/Polizei-sucht-verschwundenen-Zehnjaehrigen.html"
-    },
-    {
-      "title": "Polizisten retten kleinen Kauz von der A43",
-      "url": "https://www.welt.de/regionales/nrw/article252143362/Polizisten-retten-kleinen-Kauz-von-der-A43.html"
-    },
-    {
-      "title": "Bis 24 Grad und kein Regen: Public-Viewing-Wetter am Sonntag",
-      "url": "https://www.welt.de/regionales/nrw/article252143268/Bis-24-Grad-und-kein-Regen-Public-Viewing-Wetter-am-Sonntag.html"
-    },
-    {
-      "title": "Einsatzkräfte finden Toten in Wald in Oberfranken",
-      "url": "https://www.welt.de/regionales/bayern/article252142930/Einsatzkraefte-finden-Toten-in-Wald-in-Oberfranken.html"
-    },
-    {
-      "title": "Steinhaus-Webb hofft auf nachhaltige Stimmung",
-      "url": "https://www.welt.de/regionales/berlin/article252142866/Steinhaus-Webb-hofft-auf-nachhaltige-Stimmung.html"
     },
     {
       "title": "Merz fliegt Eurofighter – „Der hat die ganze Zeit Gas gegeben“",
@@ -663,6 +659,10 @@
       "url": "https://www.welt.de/vermischtes/article252105230/Leverkusen-Anschlag-auf-Weihnachtsmarkt-geplant-Prozess-gegen-16-Jaehrigen-beginnt.html"
     },
     {
+      "title": "Angst vor Ausschreitungen – Berliner Gymnasium sagt Abi-Feier ab",
+      "url": "https://www.welt.de/vermischtes/weltgeschehen/article252100036/Berlin-Angst-vor-Ausschreitungen-Gymnasium-sagt-Abi-Feier-ab.html"
+    },
+    {
       "title": "Der mühselige Abriss der deutschen Atomkraftwerke",
       "teaser": "Seit 2005 und noch bis Ende 2026 wird das Atomkraftwerk Stade bei Hamburg abgerissen. Das Großprojekt liefert wertvolles Wissen für den künftigen Abbruch aller stillgelegten Kernreaktoren in Deutschland – Milliarden Euro und Jahre an Zeit könnten dabei eingespart werden.",
       "url": "https://www.welt.de/regionales/hamburg/",
@@ -687,13 +687,6 @@
       "author": "Christoph Lemmer"
     },
     {
-      "title": "Angst vor Ausschreitungen – Berliner Gymnasium sagt Abi-Feier ab",
-      "teaser": "Normalerweise endet die Schulzeit für Abiturienten mit der feierlichen Übergabe ihrer Abschlusszeugnisse. Ein Berliner Gymnasium lässt die Feier jedoch ausfallen – aus Furcht vor „massiven konfrontativen politischen Kundgebungen“. Nun schaltet sich die Bildungsverwaltung ein.",
-      "url": "https://www.welt.de/vermischtes/weltgeschehen/",
-      "image_url": "https://img.welt.de/img/vermischtes/weltgeschehen/mobile252100188/0427934617-ci23x11-w20/Berlin-Premiere-DIE-UNBEUGSAMEN.jpg",
-      "image_title": "Das „Delphi“ in Berlin-Charlottenburg: Hier sollte die Verleihung der Abiturzeugnisse im festlichen Rahmen stattfinden"
-    },
-    {
       "title": "Mann gerät unter Lastwagenanhänger und stirbt",
       "teaser": "Ein Unfall mit einem Lastwagen hat für einen Fußgänger in Hamburg-Winterhude am Dienstag fatale Folgen. Die Einsatzkräfte können nichts mehr für ihn tun. Wie es dazu kam, war zunächst unklar. Und auch die Identität des Mannes ist unklar.",
       "url": "https://www.welt.de/regionales/hamburg/",
@@ -707,6 +700,14 @@
       "image_url": "https://img.welt.de/img/politik/deutschland/mobile252066660/6687933867-ci23x11-w20/Sommerliches-Wetter-in-Berlin.jpg",
       "image_title": "Berlin-Kreuzberg, 1. Mai: Besucher im Görlitzer Park",
       "author": "Thomas Schmoll"
+    },
+    {
+      "title": "Aromatische Pilze haltbar machen",
+      "teaser": "Walter Stemberg und sein Sohn Sascha betreiben in Velbert das Sternerestaurant „Haus Stemberg“. Hier erklären sie die Grundlagen des Kochens. In dieser Folge greifen sie auf eine bewährte Methode zurück, um Pfifferlinge für drei Monate genießbar zu machen.",
+      "url": "https://www.welt.de/regionales/nrw/article251906934/Stembergs-Kochschule-Aromatische-Pilze-haltbar-machen.html",
+      "image_url": "https://img.welt.de/img/regionales/nrw/mobile252033032/3097931977-ci23x11-w20/Stemberg-Freisteller.jpg",
+      "image_title": "Sascha und Walter Stemberg legen Pfifferlinge ein",
+      "author": "Sascha & Walter Stemberg"
     }
   ]
 }
