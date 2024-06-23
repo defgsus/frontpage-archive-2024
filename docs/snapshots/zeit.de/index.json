@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-06-23T04:00:41",
+  "timestamp": "2024-06-23T05:01:06",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -14,6 +14,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -98,10 +104,10 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Peter Vajkoczy : \"Und wie sich das Gehirn bewegt!\"",
-      "teaser": "Ein aufgeregtes Gehirn vibriert, ein wütendes wird rot: Neurochirurg Peter Vajkoczy operiert täglich das wichtigste Organ. Unsere Reporterin war bei einer OP dabei.",
-      "url": "https://www.zeit.de/arbeit/2024-06/peter-vajkoczy-gehirn-neurochirurgie-charite",
-      "image_url": "https://img.zeit.de/arbeit/2024-06/peter-vajkoczy-gehirn-neurochirurgie/wide__1000x562"
+      "title": "Z+ (abopflichtiger Inhalt); Besuch in China : Wie Robert Habeck Chinas Fallen trotzt",
+      "teaser": "Der Bundeswirtschaftsminister reist nach Asien, um den Handelsstreit mit China einzuhegen. Am Ende fordert Habeck ein Update – und hat einen Glückstag.",
+      "url": "https://www.zeit.de/wirtschaft/2024-06/robert-habeck-china-besuch-zoelle-elektroautos",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-06/robert-habeck-china-besuch-zoelle-elektroautos-bild-2/wide__1000x562"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Frankreich : Rechtspopulisten eine Woche vor Parlamentswahl deutlich vorn",
@@ -116,46 +122,40 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-06/alexander-dobrindt/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Liveblog:Krieg in Israel und Gaza : Erneut israelweit Großproteste gegen Netanjahu",
-      "teaser": "In Tel Aviv sollen Organisatoren zufolge 150.000 Menschen gegen die Regierung demonstriert haben. Israel weist Vorwürfe zum Angriff auf ein IKRK-Büro zurück. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/2023-12/news-israel-gaza-krieg-live",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-06/protest-in-tel-aviv/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Tourismus : Wir zerstören immer weiter, was wir suchen",
-      "teaser": "Massenproteste auf Mallorca, Ferienwohnungsverbot in Barcelona: Der Tourismus stößt an Grenzen, sozial und ökologisch. Vielleicht brauchen wir eine neue Idee von Urlaub.",
-      "url": "https://www.zeit.de/kultur/2024-06/tourismus-mallorca-barcelona-folgen-massentourismus-urlaub",
-      "image_url": "https://img.zeit.de/kultur/2024-06/tourismus-mallorca-barcelona-folgen-massentourismus-urlaub-bild/wide__892x501"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Ostdeutschland : Warum es wichtig ist, auch das Gute zu sehen",
-      "teaser": "Die Karten, auf denen Ostdeutschland fast komplett blau ist, spiegeln nicht den ganzen Osten wider. Es gibt viele Menschen, die einem gerade jetzt Hoffnung machen.",
-      "url": "https://www.zeit.de/2024/27/ostdeutschland-landtagswahlen-afd-rechtsextremismus-demokratie",
-      "image_url": "https://img.zeit.de/2024/27/da-will-ich-doch-wohl-mal-hoffen-bild-1/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Erhöhung der Flüchtlingszahlen : Welternährungsprogramm warnt vor Kürzungen bei der Entwicklungshilfe",
-      "teaser": "Das UN-Welternährungsprogramm befürchtet einen möglichen Anstieg der Flüchtlingszahlen. Deutschland-Direktor Frick sieht insbesondere Hungerbrennpunkt-Regionen gefährdet.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-06/wfp-welternaehrungsprogramm-warnung-fluechtlingszahlen-anstieg-hunger",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-06/armut-in-nigeria/super__430x286"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Asylverfahren : Orbán spricht sich für Auslagerung von Asylverfahren aus",
       "teaser": "Der ungarische Präsident sieht Asylprüfungen außerhalb der EU mit Verweis auf die Praxis im eigenen Land als Erfolg. Anfang Juli übernimmt Ungarn den EU-Ratsvorsitz.",
       "url": "https://www.zeit.de/politik/ausland/2024-06/ungarn-orban-asylverfahren-auslagerung-ratspraesidentschaft",
       "image_url": "https://img.zeit.de/politik/ausland/2024-06/orban-besuch-fussballspiel-deutschland-ungarn/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Fußball-EM, Gruppe E : Belgien siegt gegen Rumänien",
-      "teaser": "Belgien gewinnt nach Treffern von Tielemans und De Bruyne gegen Rumänien. Damit haben beide Mannschaften noch Chancen auf den Einzug ins Achtelfinale. Der Spielbericht",
-      "url": "https://www.zeit.de/sport/2024-06/belgien-rumaenien-gruppe-e-fussball-em-2024",
-      "image_url": "https://img.zeit.de/sport/2024-06/belgien-rumaenien-gruppe-e-fussball-em/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Fahrradtouren : Die schönsten Radwege in Deutschland und Europa",
+      "teaser": "Für ein paar Stunden oder eine Woche, für Familien oder Ambitionierte, Gurkenradweg oder dolce vita: Redakteure verraten, wo sie die beste Zeit auf dem Fahrrad hatten.",
+      "url": "https://www.zeit.de/mobilitaet/2024-06/fahrrad-tour-urlaub-routen-deutschland-europa",
+      "image_url": "https://img.zeit.de/mobilitaet/2024-06/fahrrad-tour-urlaub-routen-deutschland-2/wide__892x501"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Fußball-EM, Gruppe F : Portugal steht im Achtelfinale",
-      "teaser": "Mit einem Sieg gegen die Türkei ist Portugal Gruppensieger und eine Runde weiter. Samet Akaydin erzielte das nächste Eigentor des Turniers. Der Spielbericht",
-      "url": "https://www.zeit.de/sport/2024-06/tuerkei-portugal-gruppe-f-fussball-em",
-      "image_url": "https://img.zeit.de/sport/2024-06/em-vorrunde-tuerkei-portugal-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Tourismus : Wir zerstören immer weiter, was wir suchen",
+      "teaser": "Massenproteste auf Mallorca, Ferienwohnungsverbot in Barcelona: Der Tourismus stößt an Grenzen, sozial und ökologisch. Vielleicht brauchen wir eine neue Idee von Urlaub.",
+      "url": "https://www.zeit.de/kultur/2024-06/tourismus-mallorca-barcelona-folgen-massentourismus-urlaub",
+      "image_url": "https://img.zeit.de/kultur/2024-06/tourismus-mallorca-barcelona-folgen-massentourismus-urlaub-bild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Nachrichtenpodcast : Warum Javier Milei in Deutschland Fans hat",
+      "teaser": "Argentiniens Präsident Javier Milei ist zu Besuch in Deutschland und trifft auf Kanzler Scholz. Und: Widerstand innerhalb der SPD gegen den Sparkurs im Haushalt 2025",
+      "url": "https://www.zeit.de/politik/2024-06/javier-milei-auszeichnung-nachrichtenpodcast",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Liveblog:Krieg in Israel und Gaza : Erneut israelweit Großproteste gegen Netanjahu",
+      "teaser": "In Tel Aviv sollen Organisatoren zufolge 150.000 Menschen gegen die Regierung demonstriert haben. Israel weist Vorwürfe zum Angriff auf ein IKRK-Büro zurück. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/2023-12/news-israel-gaza-krieg-live",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-06/protest-in-tel-aviv/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); USA : Trump umwirbt bei Wahlkampfauftritt evangelikale Christen",
+      "teaser": "Donald Trump will die religiöse Freiheit evangelikaler Christen \"aggressiv verteidigen\". Am Donnerstag treten Trump und Präsident Biden zu einem ersten TV-Duell an.",
+      "url": "https://www.zeit.de/politik/ausland/2024-06/trump-wahlkampf-evangelikale-christen-tv-duell",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-06/trump-wahlkampfauftritt-evangelikale-christen-washington-d-c/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Fußball-EM 2024 : Wer kommt wie ins Achtelfinale?",
@@ -164,40 +164,16 @@
       "image_url": "https://img.zeit.de/sport/2024-06/euro24-gruppenrechner-turkei-teaser/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); ZDF-Doku : Joshua Kimmich und das verlorene Image",
-      "teaser": "Zwischen zwei EM-Spielen erscheint ein Film über Joshua Kimmich, der dem Fußballer sehr nahekommt. Es geht auch noch mal ums Impfen. Nur der FC Bayern kommt schlecht weg.",
-      "url": "https://www.zeit.de/sport/2024-06/joshua-kimmich-zdf-doku-portraet-fussball-fc-bayern",
-      "image_url": "https://img.zeit.de/sport/2024-06/joshua-kimmich-zdf-doku-portraet-fussball-fc-bayern-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Fußball-EM, Gruppe E : Belgien siegt gegen Rumänien",
+      "teaser": "Belgien gewinnt nach Treffern von Tielemans und De Bruyne gegen Rumänien. Damit haben beide Mannschaften noch Chancen auf den Einzug ins Achtelfinale. Der Spielbericht",
+      "url": "https://www.zeit.de/sport/2024-06/belgien-rumaenien-gruppe-e-fussball-em-2024",
+      "image_url": "https://img.zeit.de/sport/2024-06/belgien-rumaenien-gruppe-e-fussball-em/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Lügen : Wie erkennt man einen Lügner?",
-      "teaser": "Händekneten, Schweißausbrüche, ausweichende Blicke. So sieht ein Lügner aus, zumindest in der Vorstellung. Was die Forschung besser weiß und ob KI die Wahrheit findet.",
-      "url": "https://www.zeit.de/wissen/2024-06/luegen-wahrheit-gruende-psychologie-kind-entwicklung",
-      "image_url": "https://img.zeit.de/wissen/2024-06/luegen-wahrheit-gruende-psychologie-kind-entwicklung-bild/wide__892x501"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Kinderfrage • Das Beste aus Z+ : Will ich überhaupt Kinder?",
-      "teaser": "Es gibt viele Gründe für die Sehnsucht nach Kindern. Und es gibt viele Gründe, die eigentlich keine sind. Studien und Freunde sind nur halb gute Berater: also Oma fragen.",
-      "url": "https://www.zeit.de/familie/2024-06/kinderfrage-kinderwunsch-mutterschaft-entscheidung",
-      "image_url": "https://img.zeit.de/familie/2024-06/kinderfrage-kinderwunsch-mutterschaft-entscheidung-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Patchworkfamilie : Wenn der Neue von Mama im Familienbett schläft",
-      "teaser": "Was dürfen Bonuseltern? In Patchworkfamilien gibt es viele Fragen auszuhandeln. Nicht leibliche Eltern sollten sich mehr um die Beziehung als um die Erziehung sorgen.",
-      "url": "https://www.zeit.de/familie/2024-06/patchworkfamilie-familie-eltern-kinder-trennung-beziehung",
-      "image_url": "https://img.zeit.de/familie/2024-06/patchworkfamilie-familie-eltern-kinder-trennung/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Podusche : Wie ein frisch polierter Delfin",
-      "teaser": "Sie ist günstig, praktisch, und sorgt für Spa-Vibes auf der Toilette. Unsere Autorin findet: Diese Podusche ist nicht weniger als lebensverändernd.",
-      "url": "https://www.zeit.de/zeit-magazin/2024-06/podusche-badezimmer-alltag-vorteile-hygiene",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-06/zwe-ode-an-ein-ding-podusche/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Rechtschreibtest : Wie gut ist Ihre Rechtschreibung?",
-      "teaser": "Beantworten Sie die Fragen in unserem Test – und wir sagen Ihnen, wie gut Ihre Rechtschreibkenntnisse im Vergleich zu denen anderer Leserinnen und Leser sind.",
-      "url": "https://www.zeit.de/wissen/2024-06/rechtschreibtest-grammatik-deutsche-sprache-quiz",
-      "image_url": "https://img.zeit.de/2024-06/deutsch-test-grammatik-rechtschreibung-sprache-teaser/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Fitnessübung : Der Rotationswurf",
+      "teaser": "Stress? Frust? Hier kommt die perfekte Übung, um all Ihren Ärger auf den Boden zu knallen. Fitter werden Sie durch den Rotationswurf auch noch.",
+      "url": "https://www.zeit.de/sport/2024-06/fitnessuebung-rotationswurf-personal-trainer",
+      "image_url": "https://img.zeit.de/sport/2024-06/fitnessuebung-rotationswurf-personal-trainer-teaser-bild/wide__892x501"
     },
     {
       "title": "Ausgabe 25/2024 : Junges Gemüse. Willkommen im Wochenende.",
@@ -242,22 +218,10 @@
       "image_url": "https://img.zeit.de/kultur/2024-06/wochenende-make-europe-great-again-victor-orban-bild/wide__892x501"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Autokrat mit Ansage : So plant Trump seine zweite Amtszeit",
-      "teaser": "Er verschleiert nichts mehr: Sollte Trump erneut Präsident werden, will er die USA in eine Autokratie verwandeln. Unser Video zeigt die fünf Schritte, die er plant.",
-      "url": "https://www.zeit.de/video/2024-06/donald-trump-zweite-amtszeit-autokratie",
-      "image_url": "https://img.zeit.de/politik/2024-06/trump-zweite-amtszeit/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Europäische Union : AfD soll Konstituierung neuer Fraktion im EU-Parlament planen",
-      "teaser": "Medienberichten zufolge will die AfD kommende Woche eine neue Fraktion im EU-Parlament gründen. Grundlage soll ein Pamphlet bulgarischer Rechtsextremisten sein.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-06/afd-fraktion-eu-parlament-souveraenisten",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-06/afd-fraktion-eu-parlament-souveraenisten-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Liveblog:Ukraine-Krieg : Drei Tote nach Lenkbombenattacke auf Charkiw",
-      "teaser": "Bei einem Angriff auf Charkiw starben drei Menschen, mehr als 50 wurden verletzt. CSU-Politiker Dobrindt will arbeitslose ukrainische Flüchtlinge ausweisen. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-06/ukraine-krieg-news-liveblog-bild-18/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Rechtschreibtest : Wie gut ist Ihre Rechtschreibung?",
+      "teaser": "Beantworten Sie die Fragen in unserem Test – und wir sagen Ihnen, wie gut Ihre Rechtschreibkenntnisse im Vergleich zu denen anderer Leserinnen und Leser sind.",
+      "url": "https://www.zeit.de/wissen/2024-06/rechtschreibtest-grammatik-deutsche-sprache-quiz",
+      "image_url": "https://img.zeit.de/2024-06/deutsch-test-grammatik-rechtschreibung-sprache-teaser/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Wartezeit am Bahnhof : Zugverspätung? Das können Sie in Bahnhofsnähe machen",
@@ -278,16 +242,16 @@
       "image_url": "https://img.zeit.de/zeit-magazin/2024-06/zwe-auf-dem-land-tinyhouse-aufmacher/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); SPD-Linke : Mit ein paar Milliarden ist die SPD nicht zu retten",
-      "teaser": "Die SPD-Linke will ihren Kanzler per Mitgliederbegehren vom Sparkurs abbringen. Doch wer glaubt, die Sozialdemokratie so wieder attraktiver zu machen, handelt naiv.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-06/parlamentarische-linke-spd-mitgliederbegehren-bundeshaushalt-olaf-scholz",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-06/parlamentarische-linke-spd-mitgliederbegehren-bundeshaushalt-olaf-scholz-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Lügen : Wie erkennt man einen Lügner?",
+      "teaser": "Händekneten, Schweißausbrüche, ausweichende Blicke. So sieht ein Lügner aus, zumindest in der Vorstellung. Was die Forschung besser weiß und ob KI die Wahrheit findet.",
+      "url": "https://www.zeit.de/wissen/2024-06/luegen-wahrheit-gruende-psychologie-kind-entwicklung",
+      "image_url": "https://img.zeit.de/wissen/2024-06/luegen-wahrheit-gruende-psychologie-kind-entwicklung-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Uhren : Welche Frau will eine Uhr, bei der sie die Zeit kaum ablesen kann?",
-      "teaser": "Luxuriöse Uhren waren das klassische Geschenk reicher Männer an ihre Frauen – und mussten vor allem dem Schenker gefallen. Heute kaufen sich Frauen ihre Uhren selbst.",
-      "url": "https://www.zeit.de/zeit-magazin/2024/27/uhren-schmuck-chanel-trend-accessoires",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-06/uhren-schmuck-chanel-trend-accessoires-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Peter Vajkoczy : \"Und wie sich das Gehirn bewegt!\"",
+      "teaser": "Ein aufgeregtes Gehirn vibriert, ein wütendes wird rot: Neurochirurg Peter Vajkoczy operiert täglich das wichtigste Organ. Unsere Reporterin war bei einer OP dabei.",
+      "url": "https://www.zeit.de/arbeit/2024-06/peter-vajkoczy-gehirn-neurochirurgie-charite",
+      "image_url": "https://img.zeit.de/arbeit/2024-06/peter-vajkoczy-gehirn-neurochirurgie/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Europäische Union : EVP fordert Bekenntnis zur Eindämmung von Migration",
@@ -296,22 +260,28 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-06/eu-evp-fraktionschef-weber-aemtervergabe/super__320x213"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); USA : Trump umwirbt bei Wahlkampfauftritt evangelikale Christen",
-      "teaser": "Donald Trump will die religiöse Freiheit evangelikaler Christen \"aggressiv verteidigen\". Am Donnerstag treten Trump und Präsident Biden zu einem ersten TV-Duell an.",
-      "url": "https://www.zeit.de/politik/ausland/2024-06/trump-wahlkampf-evangelikale-christen-tv-duell",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-06/trump-wahlkampfauftritt-evangelikale-christen-washington-d-c/super__320x213"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Pflichtversicherung gegen Elementarschäden : Verbraucherschützer werben für französisches Versicherungsmodell",
       "teaser": "In Frankreich sind 98 Prozent der Haushalte gegen Elementarschäden versichert. Das Zentrum für Europäischen Verbraucherschutz wirbt hierzulande für ein ähnliches Modell.",
       "url": "https://www.zeit.de/politik/ausland/2024-06/frankreich-versicherung-modell-beispiel-elementarschaeden",
       "image_url": "https://img.zeit.de/politik/ausland/2024-06/ueberflutetes-blendecques/super__320x213"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Erhöhung der Flüchtlingszahlen : Welternährungsprogramm warnt vor Kürzungen bei der Entwicklungshilfe",
+      "teaser": "Das UN-Welternährungsprogramm befürchtet einen möglichen Anstieg der Flüchtlingszahlen. Deutschland-Direktor Frick sieht insbesondere Hungerbrennpunkt-Regionen gefährdet.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-06/wfp-welternaehrungsprogramm-warnung-fluechtlingszahlen-anstieg-hunger",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-06/armut-in-nigeria/super__320x213"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Argentiniens Präsident : Medaillenvergabe an Javier Milei in Hamburg bleibt weitestgehend ruhig",
       "teaser": "Wenige Hundert Menschen haben gegen eine Ehrung für den neoliberalen argentinischen Präsidenten Milei protestiert. Dieser wurde für seine Wirtschaftspolitik gewürdigt.",
       "url": "https://www.zeit.de/politik/2024-06/argentiniens-praesident-javier-milei-hayek-medaille-protest",
       "image_url": "https://img.zeit.de/politik/2024-06/javier-milei-hayek-gesellschaft-bild/super__320x213"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Fußball-EM, Gruppe F : Portugal steht im Achtelfinale",
+      "teaser": "Mit einem Sieg gegen die Türkei ist Portugal Gruppensieger und eine Runde weiter. Samet Akaydin erzielte das nächste Eigentor des Turniers. Der Spielbericht",
+      "url": "https://www.zeit.de/sport/2024-06/tuerkei-portugal-gruppe-f-fussball-em",
+      "image_url": "https://img.zeit.de/sport/2024-06/em-vorrunde-tuerkei-portugal-bild/super__320x213"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); E-Autos : EU und China planen Verhandlungen über mögliche Importzölle",
@@ -332,10 +302,16 @@
       "image_url": "https://img.zeit.de/sport/2024-06/georgien-tschechien-gruppe-f-fussball-em-bild/super__320x213"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Svom-Satellit : China und Frankreich starten Satelliten zur Erforschung des Universums",
-      "teaser": "Es ist ein einzigartiges Projekt: Ein in französisch-chinesischer Kooperation entstandener Satellit soll neuartige Einblicke in die Geschichte unseres Universums liefern.",
-      "url": "https://www.zeit.de/wissen/2024-06/china-frankreich-svom-satellit-erforschung-universum",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-06/china-frankreich-svom-satellit-erforschung-universum-bild/super__320x213"
+      "title": "Z+ (abopflichtiger Inhalt); Uhren : Welche Frau will eine Uhr, bei der sie die Zeit kaum ablesen kann?",
+      "teaser": "Luxuriöse Uhren waren das klassische Geschenk reicher Männer an ihre Frauen – und mussten vor allem dem Schenker gefallen. Heute kaufen sich Frauen ihre Uhren selbst.",
+      "url": "https://www.zeit.de/zeit-magazin/2024/27/uhren-schmuck-chanel-trend-accessoires",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-06/uhren-schmuck-chanel-trend-accessoires-bild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Patchworkfamilie : Wenn der Neue von Mama im Familienbett schläft",
+      "teaser": "Was dürfen Bonuseltern? In Patchworkfamilien gibt es viele Fragen auszuhandeln. Nicht leibliche Eltern sollten sich mehr um die Beziehung als um die Erziehung sorgen.",
+      "url": "https://www.zeit.de/familie/2024-06/patchworkfamilie-familie-eltern-kinder-trennung-beziehung",
+      "image_url": "https://img.zeit.de/familie/2024-06/patchworkfamilie-familie-eltern-kinder-trennung/super__430x286"
     },
     {
       "title": "Diese Woche in der ZEIT : Was ist das für euch: Deutschland?",
@@ -389,9 +365,9 @@
       "url": "https://www.zeit.de/sport/2024-06/joshua-kimmich-zdf-doku-portraet-fussball-fc-bayern"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Javier Milei : Argentiniens Präsident wird in Deutschland ausgezeichnet",
-      "teaser": "Javier Milei hat Argentinien einen ultraliberalen Sparkurs verordnet. Dafür verleiht ihm ein deutscher Verein eine Medaille. Am Sonntag trifft er den Bundeskanzler.",
-      "url": "https://www.zeit.de/wirtschaft/2024-06/javier-milei-argentinien-deutschland-besuch-auszeichnung"
+      "title": "Z+ (abopflichtiger Inhalt); Tourismus : Wir zerstören immer weiter, was wir suchen",
+      "teaser": "Massenproteste auf Mallorca, Ferienwohnungsverbot in Barcelona: Der Tourismus stößt an Grenzen, sozial und ökologisch. Vielleicht brauchen wir eine neue Idee von Urlaub.",
+      "url": "https://www.zeit.de/kultur/2024-06/tourismus-mallorca-barcelona-folgen-massentourismus-urlaub"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); SPD-Linke : Mit ein paar Milliarden ist die SPD nicht zu retten",
@@ -572,16 +548,16 @@
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-06/milliardenschaden-durch-klagen-ffp2-maskenlieferanten-bild/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Europäische Union : AfD soll Konstituierung neuer Fraktion im EU-Parlament planen",
+      "teaser": "Medienberichten zufolge will die AfD kommende Woche eine neue Fraktion im EU-Parlament gründen. Grundlage soll ein Pamphlet bulgarischer Rechtsextremisten sein.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-06/afd-fraktion-eu-parlament-souveraenisten",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-06/afd-fraktion-eu-parlament-souveraenisten-bild/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Iran : Oberster Gerichtshof im Iran hebt Todesstrafe für Rapper auf",
       "teaser": "Der Rapper Tumadsch Salehi unterstützte mit seinen Songs Irans Protestbewegung. Im April wurde er dafür vom Regime zu Tode verurteilt. Nun soll neu verhandelt werden.",
       "url": "https://www.zeit.de/politik/ausland/2024-06/iran-todesurteil-rapper-aufgehoben",
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-06/todesstrafe-fuer-verurteilten-rapper-aufgehoben-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Ukraine-Krieg : Russland greift Energieanlagen im Süden und Westen der Ukraine an",
-      "teaser": "Der ukrainische Netzbetreiber Ukrenergo rechnet nach schweren russischen Angriffen mit Stromausfällen im gesamten Land. In Saporischschja wurden zwei Arbeiter verletzt.",
-      "url": "https://www.zeit.de/politik/ausland/2024-06/russland-ukraine-angriffe-infrastruktur-stromausfaelle",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-06/russland-angriff-ukrainische-energieanlagen-bild/super__430x286"
     },
     {
       "title": "Verlagsangebot : Das London-Quiz: Testen Sie Ihr Wissen!",
@@ -757,6 +733,12 @@
       "image_url": "https://img.zeit.de/video/2024-06/6355408531112-still/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Svom-Satellit : China und Frankreich starten Satelliten zur Erforschung des Universums",
+      "teaser": "Es ist ein einzigartiges Projekt: Ein in französisch-chinesischer Kooperation entstandener Satellit soll neuartige Einblicke in die Geschichte unseres Universums liefern.",
+      "url": "https://www.zeit.de/wissen/2024-06/china-frankreich-svom-satellit-erforschung-universum",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-06/china-frankreich-svom-satellit-erforschung-universum-bild/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); H5N1-Virus : Forscher befürchten Anpassung von Vogelgrippevirus an Säugetiere",
       "teaser": "Auch in Europa haben sich bereits Säugetiere mit dem Vogelgrippevirus angesteckt. Laut Virologen ist auch eine Anpassung an den Menschen möglich.",
       "url": "https://www.zeit.de/wissen/umwelt/2024-06/vogelgrippe-anpassung-saeugetiere-europa-usa",
@@ -773,12 +755,6 @@
       "teaser": "Schwere Gewitter haben zeitweise zu Überschwemmungen und Störungen im Zugverkehr in Sachsen-Anhalt und Thüringen geführt. In Berlin wurde die EM-Fanzone temporär geräumt.",
       "url": "https://www.zeit.de/wissen/umwelt/2024-06/unwetter-ostdeutschland-fussball-em-fanmeile",
       "image_url": "https://img.zeit.de/gesellschaft/2024-06/starke-unwetter-ostdeutschland-erwartet-fanmeilen-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Hitzewelle in den USA : Temperaturen in den USA erreichen mehr als 45 Grad",
-      "teaser": "In der Großstadt Phoenix ist die bislang höchste Temperatur des Jahres gemessen worden. In anderen Teilen der USA fielen wegen Stromausfällen die Klimaanlagen aus.",
-      "url": "https://www.zeit.de/wissen/umwelt/2024-06/usa-hitzewelle-phoenix-stromausfaelle-michigan",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2024-06/usa-hitzewelle-bild-1/super__430x286"
     },
     {
       "title": "Der perfekte Begleiter von der 1. bis zur 5. Klasse!",
@@ -903,11 +879,11 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-06/donald-trump-usa-greencard-uni-absolventen-bild/wide__892x501"
     },
     {
-      "title": "Verlagsangebot : Durchblick im Studiendschungel",
-      "teaser": "Bei 20.000 möglichen Studiengängen in Deutschland verliert man schnell den Überblick. Unterstützung bietet die Suchmaschine für Studiengänge und Hochschulen.",
-      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.whiteboard_studiendschungel.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_whiteboard_studiendschungel_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-3-klein/man-wearing-black-and-white-stripe-shirt-looking-at-white-197.jpg",
-      "image_title": "Durchblick im Studiendschungel"
+      "title": "Verlagsangebot : Ein Studium finden, das passt",
+      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
+      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.teaser.bewerben-schreibtisch.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=sit-verlagsteaser&amp;utm_content=sit_teaser_bewerben-schreibtisch_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/sit-bewerben-schreibtisch/wide__430x286__desktop",
+      "image_title": "Ein Studium finden, das passt"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Sylt : Studentin darf nach Rassismus-Eklat weiter studieren",
@@ -971,10 +947,10 @@
       "image_url": "https://img.zeit.de/sport/2024-06/tuerkei-fans-portugal-slowblog/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Fußball-EM : Ein Eigentor hätte diesem Spiel gutgetan",
-      "teaser": "Schon wieder ein Eigentor! Die Schüsse ins eigene Netz sind ein frühes Merkmal dieser EM. Zielen die Stürmer womöglich mit Absicht auf die Gliedmaßen der Verteidiger.",
-      "url": "https://www.zeit.de/sport/2024-06/eigentore-fussball-em-passspiel-torschuss",
-      "image_url": "https://img.zeit.de/sport/2024-06/eigentore-fussball-em-passspiel-torschuss-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); ZDF-Doku : Joshua Kimmich und das verlorene Image",
+      "teaser": "Zwischen zwei EM-Spielen erscheint ein Film über Joshua Kimmich, der dem Fußballer sehr nahekommt. Es geht auch noch mal ums Impfen. Nur der FC Bayern kommt schlecht weg.",
+      "url": "https://www.zeit.de/sport/2024-06/joshua-kimmich-zdf-doku-portraet-fussball-fc-bayern",
+      "image_url": "https://img.zeit.de/sport/2024-06/joshua-kimmich-zdf-doku-portraet-fussball-fc-bayern-bild/super__430x286"
     },
     {
       "title": "ZEIT ONLINE Stimmen : Hier kommen Sie zu Wort",
@@ -993,6 +969,10 @@
       "teaser": "Geschichten über Zusammenhalt und Rezepte, die allen schmecken: Mit den Artikeln in unserem wöchentlichen Familiennewsletter verstehen Jung und Alt einander besser.",
       "url": "https://www.zeit.de/newsletter/familienzeit/index",
       "image_url": "https://img.zeit.de/newsletter/familienzeit/familienzeit-titelbild/super__430x286"
+    },
+    {
+      "title": "Russische Invasion: Krieg gegen die Ukraine: So ist die Lage",
+      "url": "https://www.zeit.de/news/2024-06/23/krieg-gegen-die-ukraine-so-ist-die-lage"
     },
     {
       "title": "US-Wahl: Trump: Entscheidung zu Vize getroffen",
@@ -1021,10 +1001,6 @@
     {
       "title": "Fußball-EM: Kurioses türkisches Eigentor hilft: Portugal im Achtelfinale",
       "url": "https://www.zeit.de/news/2024-06/22/kurioses-tuerkisches-eigentor-hilft-portugal-im-achtelfinale"
-    },
-    {
-      "title": "Unfall mit drei Autos: Auto gerät auf Gegenspur: Drei Verletzte",
-      "url": "https://www.zeit.de/news/2024-06/22/auto-geraet-auf-gegenspur-drei-verletzte"
     }
   ]
 }
