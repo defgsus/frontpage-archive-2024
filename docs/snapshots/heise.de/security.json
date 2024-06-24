@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-06-24T07:00:42",
+  "timestamp": "2024-06-24T08:08:45",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Juniper Secure Analytics",
+      "url": "https://www.heise.de/news/Juniper-225-Sicherheitsluecken-in-Secure-Analytics-9775115.html"
+    },
+    {
       "title": "Intel-CPUs: UEFI-Sicherheitslücke",
       "url": "https://www.heise.de/news/PCs-mit-Intel-Prozessoren-UEFI-Sicherheitsluecke-laesst-Schadcode-passieren-9773023.html"
     },
@@ -44,14 +48,10 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Atlassian-stopft-unter-anderem-Datenleck-in-Jira-Data-Center-9770453.html"
     },
     {
-      "title": "VMware vCenter Server",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Root-Luecke-bedroht-VMware-vCenter-Server-9767493.html"
-    },
-    {
-      "title": "Microsoft: Update außer der Reihe für Windows Server 2022 gegen SQL-Probleme",
-      "teaser": "Microsoft hat Ende vergangener Woche ein Notfall-Update für den Windows Server 2022 veröffentlicht. Es korrigiert Probleme mit SQL-Servern.",
-      "url": "https://www.heise.de/news/Microsoft-Update-ausser-der-Reihe-fuer-Windows-Server-2022-gegen-SQL-Probleme-9775008.html",
-      "image_title": "Stilisierte Grafik: Brennendes Windows-Logo auf einem Laptop"
+      "title": "Juniper: 225 Sicherheitslücken in Secure Analytics",
+      "teaser": "Juniper Networks hat eine Aktualisierung für Secure Analytics herausgegeben. Sie stopft 225 Sicherheitslecks, einige davon gelten als kritisch.",
+      "url": "https://www.heise.de/news/Juniper-225-Sicherheitsluecken-in-Secure-Analytics-9775115.html",
+      "image_title": "Stilisierte Grafik: eine brennende Appliance im Netz"
     },
     {
       "title": "Cyberangriff auf Immobiliengesellschaft der Volksbanken",
@@ -72,6 +72,17 @@
       "image_title": "Person tippt am Laptop"
     },
     {
+      "title": "Vision Pro: Horror-Exploit bringt virtuelle Spinnen in die eigenen vier Wände",
+      "teaser": "Manipulierte Webseiten sind in der Lage, die Umgebung des Headset-Trägers ohne dessen Zustimmung zu manipulieren. Ein Patch liegt bereits vor.",
+      "url": "https://www.heise.de/news/Vision-Pro-Horror-Exploit-bringt-virtuelle-Spinnen-in-die-eigenen-vier-Waende-9773995.html"
+    },
+    {
+      "title": "PCs mit Intel-Prozessoren: UEFI-Sicherheitslücke lässt Schadcode passieren",
+      "teaser": "Aufgrund eines Fehlers in der UEFI-Firmware von Phoenix können Angreifer Computer attackieren. Davon sind unter anderem Lenovo-Geräte mit Intel-CPU betroffen.",
+      "url": "https://www.heise.de/news/PCs-mit-Intel-Prozessoren-UEFI-Sicherheitsluecke-laesst-Schadcode-passieren-9773023.html",
+      "image_title": "Eine Person sitzt am Computer"
+    },
+    {
       "title": "Jetzt patchen! Angreifer attackieren Dateiübertragungsserver SolarWinds Serv-U",
       "teaser": "Im Zuge von Attacken auf SolarWinds Serv-U verschaffen sich Angreifer Zugang auf eigentlich abgeschottete Dateien.",
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Dateiuebertragungsserver-SolwarWinds-Serv-U-9772771.html",
@@ -88,6 +99,12 @@
       "teaser": "Eine Lücke in Outlook-Konten soll das Fälschen von Absenderadressen ermöglichen – unter Umgehung von Verifizierungsmechanismen wie DMARC.",
       "url": "https://www.heise.de/news/Wirrungen-um-Luecke-Absender-Faelschung-in-Outlook-9770291.html",
       "image_title": "Microsoft 365, zu sehen in einer Lupe, die einen Bildschirm untersucht"
+    },
+    {
+      "title": "Kaspersky-Software wird illegal in den USA​",
+      "teaser": "Geschäfte mit der russischen IT-Sicherheitsfirma Kaspersky werden in den USA illegal, Nutzung bestehender Software auch. Das Verbot soll rasch greifen.​",
+      "url": "https://www.heise.de/news/USA-verbieten-Kaspersky-Software-9772282.html",
+      "image_title": "3 Stop-Tafeln nebeneinander"
     },
     {
       "title": "Neuer Jira-Exploit? Angeblich Apple- und T-Mobile-Daten im Darknet aufgetaucht",
@@ -147,24 +164,6 @@
       "image_title": "Server-Raum in roter Beleuchtung"
     },
     {
-      "title": "iX-Workshop: Linux-Server vor Angriffen wirksam schützen",
-      "teaser": "Linux-Server und Netzwerkdienste effektiv und umfassend vor Angriffen schützen - von physischer Sicherheit über Verschlüsselung und 2FA bis hin zu SELinux.",
-      "url": "https://www.heise.de/news/iX-Workshop-Linux-Server-vor-Angriffen-wirksam-schuetzen-9760809.html",
-      "image_title": "iX-Workshop: Linux-Server härten"
-    },
-    {
-      "title": "Anonymisierendes Linux Tails 6.4 stärkt Kryptografie",
-      "teaser": "Die anonymisierende, portable Linux-Distribution für den USB-Stick Tails ist in Version 6.4 erschienen. Sie verbessert Kryptografie und korrigiert Probleme.",
-      "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-6-4-staerkt-Kryptografie-9769123.html",
-      "image_title": "Tails-Desktop auf einem Notebook auf einem Tisch"
-    },
-    {
-      "title": "Daten zum Verkauf: AMD untersucht angebliches Datenleck",
-      "teaser": "Ein Datenhehler bietet in einem Untergrundforum interne Daten vom Chiphersteller AMD an. Das Archiv soll aus einer Cyberattacke stammen.",
-      "url": "https://www.heise.de/news/Daten-zum-Verkauf-AMD-untersucht-angebliches-Datenleck-9769147.html",
-      "image_title": "Ausschnitt einer hellgrauen Computertastatur bei der die rechte Feststelltaste durch eine grüne Taste mit Aufschrift \"Leak\" ausgetauscht ist"
-    },
-    {
       "title": "IT-Security: Mehr Sicherheit durch API-Firewalls",
       "teaser": "Wer eine API öffentlich ins Internet stellt, darf bei der Sicherheit nicht sparen. Spezielle API-Firewalls prüfen Anfragen und Antworten auf legitime Inhalte.",
       "url": "https://www.heise.de/ratgeber/IT-Security-Mehr-Sicherheit-durch-API-Firewalls-9755074.html"
@@ -181,6 +180,11 @@
       "image_title": ","
     },
     {
+      "title": "Re: Rechner friert bei ESET Scan nach 10-20 Minuten immer ein",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Rechner-friert-bei-ESET-Scan-nach-10-20-Minuten-immer-ein/posting-44123599/show/"
+    },
+    {
       "title": "PXE mit Definitionen auf NFS hat noch nie funktioniert und 2024 ändert sich nix",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/PXE-mit-Definitionen-auf-NFS-hat-noch-nie-funktioniert-und-2024-aendert-sich-nix/posting-44123262/show/"
@@ -189,11 +193,6 @@
       "title": "Re: Gibt es hier überhaupt noch Hilfe?",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Gibt-es-hier-ueberhaupt-noch-Hilfe/posting-44122949/show/"
-    },
-    {
-      "title": "Re: Rechner friert bei ESET Scan nach 10-20 Minuten immer ein",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Rechner-friert-bei-ESET-Scan-nach-10-20-Minuten-immer-ein/posting-44122941/show/"
     }
   ]
 }
