@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-06-25T06:08:51",
+  "timestamp": "2024-06-25T07:01:05",
   "url": "https://www.welt.de/sport/",
   "response": {
     "status": 200
@@ -26,8 +26,15 @@
   ],
   "articles": [
     {
-      "title": "Leon Draisaitl verpasst größten Liga-Erfolg – Florida Panthers sind US-Meister",
-      "teaser": "Im siebten und letzten Spiel der Final-Serie in der US-Eishockey-Liga NHL hat der Deutsche Leon Draisaitl knapp seinen Liga-Triumph verpasst. Die Florida Panthers aus Miami gewannen 1:2 gegen sein Team, die Edmonton Oilers.",
+      "title": "Philipp Lahm übt Kritik an der deutschen Infrastruktur",
+      "teaser": "Ausländische EM-Gäste und Medien kritisieren die EM-Organisation. Turnierdirektor Philipp Lahm, selbst schon Opfer der Bahn, bezieht nun Stellung. Außerdem: Die nähere Zukunft von Luka Modric ist vorerst geklärt. Alle weiteren News im EM-Ticker.",
+      "url": "https://www.welt.de/sport/fussball/em/article251964666/EM-2024-Philipp-Lahm-uebt-Kritik-an-der-deutschen-Infrastruktur.html",
+      "image_url": "https://img.welt.de/img/sport/fussball/em/mobile252192962/4487937427-ci23x11-w20/Philipp-Lahm.jpg",
+      "image_title": "Philipp Lahm"
+    },
+    {
+      "title": "Draisaitl und Edmonton Oilers verpassen die Sensation",
+      "teaser": "Die Edmonton Oilers haben das siebte und entscheidende Spiel um den Stanley Cup in Miami knapp verloren. Damit blieb die Aufholjagd mit zuletzt drei Siegen in der Finalserie ungekrönt. Der deutsche Superstar Leon Draisaitl wirkte völlig erschöpft.",
       "url": "https://www.welt.de/sport/",
       "image_url": "https://img.welt.de/img/sport/mobile252192034/0557938697-ci23x11-w20/Stanley-Cup-Oilers-Hockey.jpg",
       "image_title": "Stanley Cup Oilers Hockey"
@@ -54,13 +61,6 @@
       "image_url": "https://img.welt.de/img/sport/fussball/mobile252191740/1337937087-ci23x11-w20/Football-UEFA-Euro-2024-1st-round-day-3-Group-B-Croatia-v-Ita.jpg",
       "image_title": "Riccardo Calafiori macht bei dieser EM auf sich aufmerksam - noch spielt der Innenverteidiger für den FC Bologna",
       "author": "Stephan Flohr"
-    },
-    {
-      "title": "Modric in 31 Sekunden von der Hölle in den Himmel – und am Ende wieder zurück",
-      "teaser": "Die Geschichte vom Helden des Abends war schon geschrieben. Luka Modric schien Kroatien ins Achtelfinale geschossen zu haben. Sein Treffer bedeutete zudem einen Rekord, nachdem er kurz zuvor noch einen Elfmeter verschossen hatte. Doch dann kam die Nachspielzeit.",
-      "url": "https://www.welt.de/sport/fussball/em/",
-      "image_url": "https://img.welt.de/img/sport/fussball/em/mobile252191746/1127938247-ci23x11-w20/Euro-2024-Kroatien-Italien.jpg",
-      "image_title": "Euro 2024: Kroatien - Italien"
     },
     {
       "title": "Last-Minute-Tor zum Achtelfinale – Zaccagni erlöst Italien in der 98. Minute",
@@ -273,6 +273,13 @@
       "image_title": "Ferrari-Pilot Carlos Sainz war im Abschlusstraining der Schnellste"
     },
     {
+      "title": "Modric in 31 Sekunden von der Hölle in den Himmel – und am Ende wieder zurück",
+      "teaser": "Die Geschichte vom Helden des Abends war schon geschrieben. Luka Modric schien Kroatien ins Achtelfinale geschossen zu haben. Sein Treffer bedeutete zudem einen Rekord, nachdem er kurz zuvor noch einen Elfmeter verschossen hatte. Doch dann kam die Nachspielzeit.",
+      "url": "https://www.welt.de/sport/fussball/em/",
+      "image_url": "https://img.welt.de/img/sport/fussball/em/mobile252191746/1127938247-ci23x11-w20/Euro-2024-Kroatien-Italien.jpg",
+      "image_title": "Euro 2024: Kroatien - Italien"
+    },
+    {
       "title": "Drei Spiele, drei Siege, kein Gegentor – Spanien spielt perfekte Vorrunde",
       "teaser": "Spanien gewinnt auch gegen Albanien und zieht mit drei Siegen aus drei Spielen ins Achtelfinale ein. Trainer Luis de la Fuente kann sich den Luxus erlauben, seine komplette Startelf zu schonen. Auch der zweite Anzug passt.",
       "url": "https://www.welt.de/sport/fussball/em/",
@@ -321,13 +328,6 @@
       "url": "https://www.welt.de/sport/fussball/em/",
       "image_url": "https://img.welt.de/img/sport/fussball/em/mobile252191570/1217931057-ci23x11-w20/Football-UEFA-Euro-2024-1st-round-day-3-Group-B-Albania-v-Spa.jpg",
       "image_title": "Spanien zieht ohne Punktverlust ins Achtelfinale ein"
-    },
-    {
-      "title": "Modric setzt Karriere fort – „Wie lange, weiß ich nicht“",
-      "teaser": "Die nähere Zukunft von Luka Modric ist vorerst geklärt. Nach dem bitteren Remis gegen Italien wendet sich Kroatiens Superstar an den Fußball-Gott. Und Frankreichs Kylian Mbappé kehrt gegen Polen zurück aufs Feld. Alle weiteren News im EM-Ticker.",
-      "url": "https://www.welt.de/sport/fussball/em/article251964666/EM-2024-Luka-Modric-setzt-Karriere-fort-Wie-lange-weiss-ich-nicht.html",
-      "image_url": "https://img.welt.de/img/sport/fussball/em/mobile252191926/9017935867-ci23x11-w20/Euro-2024-Kroatien-Italien.jpg",
-      "image_title": "Euro 2024: Kroatien - Italien"
     },
     {
       "title": "„Ich benötigte eine Ewigkeit, um diese Niederlage zu verarbeiten“",
@@ -599,12 +599,16 @@
       "author": "30 Min"
     },
     {
+      "title": "Philipp Lahm übt Kritik an der deutschen Infrastruktur",
+      "url": "https://www.welt.de/sport/fussball/em/article251964666/EM-2024-Philipp-Lahm-uebt-Kritik-an-der-deutschen-Infrastruktur.html"
+    },
+    {
       "title": "Kein Happy End für Draisaitl: Panthers gewinnen Stanley Cup",
       "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/sport_nt/article252192392/Kein-Happy-End-fuer-Draisaitl-Panthers-gewinnen-Stanley-Cup.html"
     },
     {
-      "title": "Leon Draisaitl verpasst größten Liga-Erfolg – Florida Panthers sind US-Meister",
-      "url": "https://www.welt.de/sport/article252192002/Eishockey-Leon-Draisaitl-verpasst-groessten-Liga-Erfolg-Florida-Panthers-sind-US-Meister.html"
+      "title": "Draisaitl und Edmonton Oilers verpassen die Sensation",
+      "url": "https://www.welt.de/sport/article252192002/Draisaitl-und-Oilers-verlieren-siebtes-Spiel-Florida-Panthers-gewinnen-Stanley-Cup.html"
     },
     {
       "title": "Italiens Trainer redet sich in Rage und hält minutenlangen Monolog",
@@ -629,6 +633,10 @@
     {
       "title": "In letzter Sekunde trifft Italien das Tor zum Achtelfinale",
       "url": "https://www.welt.de/sport/fussball/article252191652/EM-2024-In-letzter-Sekunde-trifft-Italien-das-Tor-zum-Achtelfinale.html"
+    },
+    {
+      "title": "Italien weiter: Spätes Tor zerstört Modric' historischen Tag",
+      "url": "https://www.welt.de/newsticker/dpa_nt/afxline/topthemen/article252191664/Italien-weiter-Spaetes-Tor-zerstoert-Modric-historischen-Tag.html"
     },
     {
       "title": "Stuttgarter Sturmduo vor Trennung, PSG will Kingsley Coman",
@@ -661,10 +669,6 @@
     {
       "title": "Djokovic wartet noch mit Entscheidung über Wimbledon-Start",
       "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/sport_nt/article252191396/Djokovic-wartet-noch-mit-Entscheidung-ueber-Wimbledon-Start.html"
-    },
-    {
-      "title": "Modric setzt Karriere fort – „Wie lange, weiß ich nicht“",
-      "url": "https://www.welt.de/sport/fussball/em/article251964666/EM-2024-Luka-Modric-setzt-Karriere-fort-Wie-lange-weiss-ich-nicht.html"
     },
     {
       "title": "„Ich benötigte eine Ewigkeit, um diese Niederlage zu verarbeiten“",
@@ -833,10 +837,6 @@
     {
       "title": "Medien: Calhanoglu für Bayern nur mit XXL-Ablöse zu haben",
       "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/sport_nt/article252168194/Medien-Calhanoglu-fuer-Bayern-nur-mit-XXL-Abloese-zu-haben.html"
-    },
-    {
-      "title": "Belgiens «Sieg der Erleichterung» vor dem Herzschlagfinale",
-      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/sport_nt/article252168186/Belgiens-Sieg-der-Erleichterung-vor-dem-Herzschlagfinale.html"
     },
     {
       "title": "„Das sollte nicht passieren auf dem Spielfeld“, schimpft der Trainer",
