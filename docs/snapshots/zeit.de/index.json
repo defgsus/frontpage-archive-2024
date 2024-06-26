@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-06-26T03:00:52",
+  "timestamp": "2024-06-26T04:07:58",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -14,6 +14,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -98,8 +104,8 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); WikiLeaks-Gründer : Julian Assange wird schuldig gesprochen und kommt frei",
-      "teaser": "Der WikiLeaks-Gründer ist laut einer US-Richterin \"ein freier Mann\". Eine Haftstrafe wegen Spionage gilt als abgegolten. Julian Assange soll nun nach Australien fliegen.",
+      "title": "Z+ (abopflichtiger Inhalt); WikiLeaks-Gründer : Julian Assange ist frei",
+      "teaser": "Ein US-Gericht hat den WikiLeaks-Gründer schuldig gesprochen, doch die Haftstrafe gilt als abgegolten. Nun wird Julian Assange in seiner Heimat Australien erwartet.",
       "url": "https://www.zeit.de/digital/internet/2024-06/wikileaks-gruender-assange-wird-schuldig-gesprochen-und-kommt-frei",
       "image_url": "https://img.zeit.de/politik/ausland/2024-06/julian-assange-frei-bild/wide__1000x562"
     },
@@ -110,28 +116,46 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-06/julian-assange-usa-joe-biden-pressefreiheit-anthony-albanese-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Anne Brorhilker : Bekannteste deutsche Finanzermittlerin erklärt, wo der Staat versagt",
-      "teaser": "Als Staatsanwältin hat Brorhilker Cum-Ex-Täter ins Gefängnis gebracht. Jetzt quittierte sie den Dienst und spricht erstmals offen über ihren Kampf gegen Steuerbetrug.",
-      "url": "https://www.zeit.de/wirtschaft/2024-06/anne-brorhilker-steuerraub-cumex-skandal-staatsanwaltschaft-kuendigung",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-06/anne-brorhilker-cum-ex-finanztricks-staatsanwaltschaft-bild2/super__430x286"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Ukraine-Krieg : Verteidigungsminister Russlands und der USA telefonieren miteinander",
       "teaser": "Nach einem ukrainischen Raketenangriff auf die Krim drohte Russland den USA unverhohlen. Nun kam auf US-Initiative ein Gespräch auf Ministerebene zustande.",
       "url": "https://www.zeit.de/politik/ausland/2024-06/russland-usa-verteidigungsminister-telefonat-ukraine",
       "image_url": "https://img.zeit.de/politik/ausland/2024-06/andrej-beloussow-telefonat-lloyd-austin-drohung-russland-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Fetale Alkoholspektrumstörung : Sie schrieb: \"Meine Mutter hatte bei meiner Geburt 2,8 Promille\"",
-      "teaser": "Hans-Ludwig Spohr ist einer der wenigen Ärzte, der Fetale Alkoholspektrumstörungen diagnostiziert, auch bei Erwachsenen. Er sagt, es sei eine versteckte Volkskrankheit.",
-      "url": "https://www.zeit.de/gesundheit/2024-06/fetale-alkoholspektrumstoerung-fas-alkohol-schwangerschaft-diagnose-behandlung",
-      "image_url": "https://img.zeit.de/gesundheit/2024-06/fetale-alkoholspektrumstoerung-fas-alkohol-schwangerschaft-diagnose-behandlung-bild/wide__892x501"
+      "title": "Z+ (abopflichtiger Inhalt); Islamismus : Bundesregierung plant Abschiebungen bei Terrorverherrlichung",
+      "teaser": "Ein einzelner Hasskommentar könnte künftig eine Ausweisung nach sich ziehen. Wer \"geistig in der Steinzeit\" lebe, habe in Deutschland nichts zu suchen, sagt Nancy Faeser.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-06/nancy-faeser-abschiebungen-terrorverherrlichung-gesetzesverschaerfung",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-06/nancy-faeser-ausweisungsrecht-verschaerfung-bild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Doppelte Staatsbürgerschaft : Türkische Gemeinde rechnet mit 50.000 Einbürgerungsanträgen pro Jahr",
+      "teaser": "Mit dem Inkrafttreten des neuen Staatsbürgerschaftsrechts wollen viele Türken den deutschen Pass beantragen. Die Spitze der kurdischen Gemeinde kritisiert die Regelung.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-06/doppelte-staatsbuergerschaft-tuerkische-gemeinde-einbuergerungsantraege",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-06/einbuergerungsfeier-doppelte-staatsbuergerschaft-bild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Abitur : \"Ist das Abitur schwer?\" – \"Hängt davon ab, wie schlau ihr seid\"",
+      "teaser": "Mit einigen Wahrheiten muss man in der Schule vorsichtig umgehen. Etwa bei Fünftklässlern, die noch fest daran glauben, das Gymnasium zu schaffen. Die neue Lehrerkolumne",
+      "url": "https://www.zeit.de/gesellschaft/schule/2024-06/abitur-schule-schueler-leistung-lehrerkolumne",
+      "image_url": "https://img.zeit.de/zeit-verlag/2024-06/abitur-schule-schueler-leistung-lehrerkolumne-bild/wide__892x501"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Demonstrationen in Nairobi : Kenias Regierung will nach Sturm auf Parlament Militär einsetzen",
+      "teaser": "In Kenia sind zunächst friedliche Proteste eskaliert. Die Regierung in Nairobi will das Militär einsetzen. Das Auswärtige Amt mahnt Reisende zu erhöhter Vorsicht.",
+      "url": "https://www.zeit.de/politik/ausland/2024-06/kenia-nairobi-praesident-william-ruto-infiltration",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-06/kenia-proteste-nairobi-william-ruto-billd/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Nachrichtenpodcast : Annalena Baerbock findet deutliche Worte in Israel",
+      "teaser": "Frieden für die Palästinenser sei zentral für Frieden in Israel, sagt die Außenministerin. Der Palästinenserbehörde geht das Geld aus. Und: Ist FASD eine Volkskrankheit?",
+      "url": "https://www.zeit.de/politik/2024-06/annalena-baerbock-nahost-reise-israel-gazastreifen",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Österreich bei der EM : Mutter, der Mann mit dem Gruppensieg ist da",
       "teaser": "Wer hätte das gedacht: Österreich lässt mit dem spektakulären EM-Gruppensieg die Niederlande und Frankreich hinter sich. Wie weit kann Ralf Rangnick dieses Team bringen?",
       "url": "https://www.zeit.de/sport/2024-06/fussball-em-oesterreich-niederlande-rangnick-sabitzer",
-      "image_url": "https://img.zeit.de/sport/2024-06/ralf-ragnick-oesterreich/wide__892x501",
+      "image_url": "https://img.zeit.de/sport/2024-06/ralf-ragnick-oesterreich/super__430x286",
       "image_title": "Ralf Rangnick ist einen Sieg davon entfernt, eine Austropop-Ballade geschrieben zu bekommen."
     },
     {
@@ -147,28 +171,22 @@
       "image_url": "https://img.zeit.de/sport/2024-06/fussball-em-deutschland-ereignisse-modric-breit/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Vogelgrippe : \"Der Erreger kann vom Tier auf den Menschen springen\"",
-      "teaser": "Erst Corona, jetzt Vogelgrippe? Gefahr für neue Pandemien, warnt Biologe Fabian Leendertz, lauert in Hühnerställen und Pelztierfarmen. Der Klimawandel erhöht das Risiko.",
-      "url": "https://www.zeit.de/2024/27/vogelgrippe-pandemie-virus-tierhaltung-klimawandel",
-      "image_url": "https://img.zeit.de/2024/27/wir-haben-das-naechste-pandemische-virus-bild-1/wide__892x501"
+      "title": "Z+ (abopflichtiger Inhalt); Zeitplanung : Das Aufräumen fängt im Kopf an",
+      "teaser": "Wer stets zu spät ist und chaotisch durchs Leben fällt, wird nicht plötzlich zum Orga-Profi. Doch es gibt Tricks, die Perfektionisten und Chaotinnen gleichermaßen helfen.",
+      "url": "https://www.zeit.de/campus/ratgeber/2024/01/zeitplanung-organisieren-alltag-aufgaben-studium",
+      "image_url": "https://img.zeit.de/campus/2024-06/zeitplanung-organisieren-alltag-aufgaben-studium-hoersaal/wide__892x501"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Militärdienst in Israel : Es geht ums Fundament des Staates Israel",
-      "teaser": "Ultraorthodoxe Juden müssen künftig zur Armee. Dieses Urteil bringt Benjamin Netanjahu unter Druck und wirft die Frage auf, wie die Israelis künftig zusammenleben wollen.",
-      "url": "https://www.zeit.de/politik/ausland/2024-06/militaerdienst-israel-ultraorthodoxe-juden-wehrdienst",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-06/militaerdienst-israel-ultraorthodoxe-juden-wehrdienst-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Fetale Alkoholspektrumstörung : Sie schrieb: \"Meine Mutter hatte bei meiner Geburt 2,8 Promille\"",
+      "teaser": "Hans-Ludwig Spohr ist einer der wenigen Ärzte, der Fetale Alkoholspektrumstörungen diagnostiziert, auch bei Erwachsenen. Er sagt, es sei eine versteckte Volkskrankheit.",
+      "url": "https://www.zeit.de/gesundheit/2024-06/fetale-alkoholspektrumstoerung-fas-alkohol-schwangerschaft-diagnose-behandlung",
+      "image_url": "https://img.zeit.de/gesundheit/2024-06/fetale-alkoholspektrumstoerung-fas-alkohol-schwangerschaft-diagnose-behandlung-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Doppelte Staatsbürgerschaft : Türkische Gemeinde rechnet mit 50.000 Einbürgerungsanträgen pro Jahr",
-      "teaser": "Mit dem Inkrafttreten des neuen Staatsbürgerschaftsrechts wollen viele Türken den deutschen Pass beantragen. Die Spitze der kurdischen Gemeinde kritisiert die Regelung.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-06/doppelte-staatsbuergerschaft-tuerkische-gemeinde-einbuergerungsantraege",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-06/einbuergerungsfeier-doppelte-staatsbuergerschaft-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Islamismus : Bundesregierung plant Abschiebungen bei Terrorverherrlichung",
-      "teaser": "Wer \"geistig in der Steinzeit\" lebe, habe in Deutschland nichts zu suchen, sagt Nancy Faeser. Das Ausweisungsrecht soll demnach zeitnah verschärft werden.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-06/nancy-faeser-abschiebungen-terrorverherrlichung-gesetzesverschaerfung",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-06/nancy-faeser-ausweisungsrecht-verschaerfung-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Wasser trinken • Das Beste aus Z+ : Wie viel Wasser ist denn nun genug?",
+      "teaser": "Die wenigsten Menschen brauchen zwei Liter Wasser pro Tag. Aber wie viel dann? Was Hitze ändert, ob Kaffee zählt – und warum viele Hobbysportler gefährlich viel trinken.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-06/wasser-trinken-getraenke-gesundheit-faq",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-06/wasser-trinken-getraenke-gesundheit-faq-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Antisemitismus : Jüdischer Student klagt nach Angriff gegen Freie Universität Berlin",
@@ -177,53 +195,22 @@
       "image_url": "https://img.zeit.de/campus/2024-06/freie-universitaet-berlin-klage-lahav-shapira-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Rechtschreibtest • Das Beste aus Z+ : Wie gut ist Ihre Rechtschreibung?",
-      "teaser": "Beantworten Sie die Fragen in unserem Test – und wir sagen Ihnen, wie gut Ihre Rechtschreibkenntnisse im Vergleich zu denen anderer Leserinnen und Leser sind.",
-      "url": "https://www.zeit.de/wissen/2024-06/rechtschreibtest-grammatik-deutsche-sprache-quiz",
-      "image_url": "https://img.zeit.de/2024-06/deutsch-test-grammatik-rechtschreibung-sprache-teaser/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Hitze-Tipps : So lässt es sich aushalten",
+      "teaser": "Hitze ist anstrengend – für Körper und Geist. Experten verraten, wie Sie sich für die heißen Tage wappnen können. Essenziell: Schlafanzüge aus dem Tiefkühlfach.",
+      "url": "https://www.zeit.de/zeit-magazin/2022-06/hitze-sport-schlaf-alltag-faq",
+      "image_url": "https://img.zeit.de/zeit-magazin/2022-06/hitze-sport-schlaf-alltag-faq-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Filmschaffende : Oscar-Akademie bietet Sandra Hüller und İlker Çatak Mitgliedschaft an",
-      "teaser": "Im März waren Sandra Hüller und İlker Çatak für die wichtigste Filmauszeichnung nominiert. Nun können sie Mitglieder der Akademie werden, die den Preis verleiht.",
-      "url": "https://www.zeit.de/kultur/film/2024-06/sandra-hueller-ilker-catak-oscar-akademie-mitgliedschaft",
-      "image_url": "https://img.zeit.de/kultur/film/2024-06/sandra-hueller-ilker-catak-oscar-akademie-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Stuttgart 21 : Die Verlierer vom Verschiebebahnhof",
+      "teaser": "Stuttgart 21 ist das nervigste Infrastrukturprojekt Deutschlands. Jetzt soll der neue Bahnhof noch später eröffnen. Wie halten die Stuttgarter das aus?",
+      "url": "https://www.zeit.de/wirtschaft/2024-06/stuttgart-21-deutsche-bahn-bahnprojekt-baustelle-2026",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-06/stuttgart-21-deutsche-bahn-bahnprojekt-3/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); ARD : Jetzt mit 40 Prozent weniger Humor",
-      "teaser": "Barbara Schöneberger wird seltener in der ARD zu sehen sein. Was wie ein bisschen Spaßbremsentum klingt, offenbart in Wahrheit die Systemkrise der Öffentlich-Rechtlichen.",
-      "url": "https://www.zeit.de/kultur/film/2024-06/barbara-schoeneberger-ard-oeffentlich-rechtliche-sparplan-rundfunk",
-      "image_url": "https://img.zeit.de/kultur/film/2024-06/barbara-schoeneberger-ard-oeffentlich-rechtliche-sparplan-rundfunk-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Demonstrationen in Nairobi : Kenias Regierung will nach Sturm auf Parlament Militär einsetzen",
-      "teaser": "In Kenia sind zunächst friedliche Proteste eskaliert. Die Regierung in Nairobi will das Militär einsetzen. Das Auswärtige Amt mahnt Reisende zu erhöhter Vorsicht.",
-      "url": "https://www.zeit.de/politik/ausland/2024-06/kenia-nairobi-praesident-william-ruto-infiltration",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-06/kenia-proteste-nairobi-william-ruto-billd/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Sudan : Und niemand greift ein",
-      "teaser": "Im Sudan herrscht Bürgerkrieg, Zehntausende Menschen wurden getötet, fast zwölf Millionen sind auf der Flucht. Nun droht eine Hungersnot – und in Darfur ein Völkermord.",
-      "url": "https://www.zeit.de/2024/27/sudan-voelkermord-krieg-vereinte-nationen",
-      "image_url": "https://img.zeit.de/2024/27/und-niemand-greift-ein-bild-4/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); EM-Rechner : Wer wird der deutsche Gegner im Achtelfinale?",
-      "teaser": "England, Dänemark, Slowenien oder Serbien: Wer wird Zweiter der Gruppe C? Mit unserem EM-Rechner können Sie verfolgen, gegen wen Deutschland im Achtelfinale spielen wird.",
-      "url": "https://www.zeit.de/sport/2024-06/fussball-em-2024-achtelfinale-gruppenphase-teams",
-      "image_url": "https://img.zeit.de/sport/2024-06/em-rechner-teaser-gruppe-ef/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Peter Vajkoczy : \"Und wie sich das Gehirn bewegt!\"",
-      "teaser": "Ein aufgeregtes Gehirn vibriert, ein wütendes wird rot: Neurochirurg Peter Vajkoczy operiert täglich das wichtigste Organ. Unsere Reporterin war bei einer OP dabei.",
-      "url": "https://www.zeit.de/arbeit/2024-06/peter-vajkoczy-gehirn-neurochirurgie-charite",
-      "image_url": "https://img.zeit.de/arbeit/2024-06/peter-vajkoczy-gehirn-neurochirurgie/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Fußball-EM : Der riskante Plan mit Kimmich",
-      "teaser": "Vor Monaten hat sich Bundestrainer Julian Nagelsmann festgelegt: Joshua Kimmich verteidigt hinten rechts. Gegen die Schweiz zeigte sich, dass das gefährlich werden kann.",
-      "url": "https://www.zeit.de/sport/2024-06/joshua-kimmich-deutschland-schweiz-fussball-europameisterschaft",
-      "image_url": "https://img.zeit.de/sport/2024-06/julian-nagelsmann-joshua-kimmich-em-vorrunde-schweiz/super__430x286",
-      "image_title": "Neue Anweisungen von der Bank: Joshua Kimmich mit Bundestrainer Julian Nagelsmann während des Spiels gegen die Schweiz."
+      "title": "Z+ (abopflichtiger Inhalt); Coronaaufarbeitung : Wie wir aus den Coronairrtümern lernen können",
+      "teaser": "Politik und Wissenschaft drängen darauf, die Pandemiejahre aufzuarbeiten. Auch um Vertrauen zurückzugewinnen. Es gibt einen Weg, wie das gelingen kann.",
+      "url": "https://www.zeit.de/gesundheit/2024-06/corona-aufarbeitung-pandemie-politik-christian-drosten",
+      "image_url": "https://img.zeit.de/gesundheit/2024-06/corona-aufarbeitung-pandemie-politik-christian-drosten-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Elektromobilität : VW kündigt Milliardeninvestitionen in Elektroautohersteller Rivian an",
@@ -232,53 +219,16 @@
       "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-06/volkswagen-milliardeninvestition-rivian-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Debatte um Arbeitszeiten : Braucht Deutschland die Sechstagewoche?",
-      "teaser": "In Griechenland können Angestellte nun auch an sechs Tagen in der Woche arbeiten. Gut so, findet unsere Autorin. Ihr Kollege hält die Debatte für gefährlich.",
-      "url": "https://www.zeit.de/arbeit/2024-06/arbeitszeit-sechs-tage-woche-deutschland-debatte-griechenland",
-      "image_url": "https://img.zeit.de/arbeit/2024-06/arbeitszeit-sechs-tage-woche-deutschland/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Zensus 2022 : So viele Menschen leben in Ihrer Gemeinde wirklich",
-      "teaser": "Laut Zensus war Deutschlands Bevölkerung 2022 kleiner als bislang angenommen. Unsere Karte zeigt, wo die Zählung von den bislang bekannten Daten besonders abweicht.",
-      "url": "https://www.zeit.de/wirtschaft/2024-06/deutschland-zensus-2022-gemeinden-bevoelkerung-entwicklung",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-06/deutschland-zensus-2022-gemeinden-bevoelkerung-entwicklung-teaserbild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Filmschaffende : Oscar-Akademie bietet Sandra Hüller und İlker Çatak Mitgliedschaft an",
+      "teaser": "Im März waren Sandra Hüller und İlker Çatak für die wichtigste Filmauszeichnung nominiert. Nun können sie Mitglieder der Akademie werden, die den Preis verleiht.",
+      "url": "https://www.zeit.de/kultur/film/2024-06/sandra-hueller-ilker-catak-oscar-akademie-mitgliedschaft",
+      "image_url": "https://img.zeit.de/kultur/film/2024-06/sandra-hueller-ilker-catak-oscar-akademie-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Hamburger Flughafen : Zwölf Jahre Haft für eine \"Wahnsinnstat\"",
       "teaser": "Salman E. legte 18 Stunden lang den Hamburger Flughafen lahm, angeblich aus Liebe zu seiner Tochter. Sein Kind sieht er nun wahrscheinlich nie wieder.",
       "url": "https://www.zeit.de/hamburg/2024-06/geiselnahme-hamburg-flughafen-urteil-sicherheit-vorkehrungen",
-      "image_url": "https://img.zeit.de/hamburg/2024-06/airport-geiselnahme/wide__892x501"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Anne Applebaum : Frieden darf kein Deckname für Unterdrückung sein",
-      "teaser": "Mit Anne Applebaum erhält eine Historikerin den Friedenspreis des Deutschen Buchhandels, die einen allzu schlichten Friedensbegriff scharf kritisiert. Eine gute Wahl",
-      "url": "https://www.zeit.de/kultur/2024-06/anne-applebaum-friedenspreis-des-deutschen-buchhandels-literatur-auszeichnung",
-      "image_url": "https://img.zeit.de/kultur/literatur/2024-06/anne-applebaum-friedenspreis-des-deutschen-buchhandels-literatur-auszeichnung-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Josip Broz Tito : Brief an Tito",
-      "teaser": "Als Kind musste sie einen Eid schwören auf den Genossen Tito. Heute hat unsere Autorin eine Reihe von Fragen an den ehemaligen jugoslawischen Präsidenten.",
-      "url": "https://www.zeit.de/kultur/2024-06/josip-broz-tito-jugoslawien-osteuropa-albanien-asyl",
-      "image_url": "https://img.zeit.de/kultur/2024-06/josip-broz-tito-jugoslawien-osteuropa-albanien/super__430x286",
-      "image_title": "josip-broz-tito-jugoslawien-osteuropa-albanien"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Vollzeit arbeiten mit Kindern : \"Unsere Nanny war ein echtes Investment für uns\"",
-      "teaser": "Drei Kinder großziehen, wenn beide fast Vollzeit arbeiten? Ein Paar erzählt, wie anstrengend das war, was sie an Hilfe brauchten und wie sie sich im Alltag gut ergänzten.",
-      "url": "https://www.zeit.de/arbeit/2024-06/vollzeit-arbeiten-kinder-familie-zeitmanagement",
-      "image_url": "https://img.zeit.de/arbeit/2024-06/vollzeit-arbeiten-kinder-familie-zeitmanagement-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Überwachung in der Beziehung : \"Er stand vor dem Bett, mitten in der Nacht, und checkte mein Handy\"",
-      "teaser": "Die eine musste ständig online erreichbar sein, die andere wurde heimlich abgehört. Zwei Frauen erzählen von ihren kontrollsüchtigen Partnern – nur eine machte Schluss.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2024-05/ueberwachung-beziehung-kontrolle-handy-stalking-vertrauen",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-06/ueberwachung-beziehung-kontrolle-handy-stalking-vertrauen-bild/super__430x286"
-    },
-    {
-      "title": "In eigener Sache : Wir suchen wieder Volontäre und Volontärinnen",
-      "teaser": "Im Juli können Sie sich für ein Volontariat bei ZEIT und ZEIT ONLINE bewerben. Die Ausbildung beginnt im Januar 2025 und dauert zwei Jahre.",
-      "url": "https://blog.zeit.de/fragen/2024/06/24/wir-suchen-wieder-volontaere-und-volontaerinnen/",
-      "image_url": "https://img.zeit.de/administratives/2024-06/volontariat-zeit-online-2/super__430x286"
+      "image_url": "https://img.zeit.de/hamburg/2024-06/airport-geiselnahme/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Deal mit US-Justiz : Julian Assange bekennt sich vor US-Gericht schuldig",
@@ -329,10 +279,16 @@
       "image_url": "https://img.zeit.de/mobilitaet/2024-06/db-testet-autonomes-fahren-nahverkehr-bahn/super__320x213"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Tranchieren : Getrennt wie geschnitten",
-      "teaser": "Eigenhändig einen Braten oder ein Huhn zerlegen? Tranchieren klingt schwerer, als es ist. Mit welchen Techniken das Zerteilen großer Fleischstücke auch Ungeübten gelingt.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-06/tranchieren-zerlegen-fleisch-messer-kochglossar",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-06/tranchieren-zerlegen-fleisch-messer-kochglossar-teaserbild/wide__892x501"
+      "title": "Z+ (abopflichtiger Inhalt); ARD : Jetzt mit 40 Prozent weniger Humor",
+      "teaser": "Barbara Schöneberger wird seltener in der ARD zu sehen sein. Was wie ein bisschen Spaßbremsentum klingt, offenbart in Wahrheit die Systemkrise der Öffentlich-Rechtlichen.",
+      "url": "https://www.zeit.de/kultur/film/2024-06/barbara-schoeneberger-ard-oeffentlich-rechtliche-sparplan-rundfunk",
+      "image_url": "https://img.zeit.de/kultur/film/2024-06/barbara-schoeneberger-ard-oeffentlich-rechtliche-sparplan-rundfunk-bild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Anne Applebaum : Frieden darf kein Deckname für Unterdrückung sein",
+      "teaser": "Mit Anne Applebaum erhält eine Historikerin den Friedenspreis des Deutschen Buchhandels, die einen allzu schlichten Friedensbegriff scharf kritisiert. Eine gute Wahl",
+      "url": "https://www.zeit.de/kultur/2024-06/anne-applebaum-friedenspreis-des-deutschen-buchhandels-literatur-auszeichnung",
+      "image_url": "https://img.zeit.de/kultur/literatur/2024-06/anne-applebaum-friedenspreis-des-deutschen-buchhandels-literatur-auszeichnung-bild/super__430x286"
     },
     {
       "title": "Diese Woche in der ZEIT : Was ist das für euch: Deutschland?",
@@ -341,10 +297,10 @@
       "image_url": "https://img.zeit.de/2024/27/packshot-24-27-1000x620.png/imagegroup/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Sigi Maron : \"Leckts mi aum Oasch!\"",
-      "teaser": "Der österreichische Protestsänger Sigi Maron wäre in diesem Jahr 80 Jahre alt geworden. Seine musikalische Befreiungstheologie geistert weiter durch die linken Milieus.",
-      "url": "https://www.zeit.de/2024/27/sigi-maron-musik-aktivismus-linke-politik",
-      "image_url": "https://img.zeit.de/2024/27/leckts-mi-aum-oasch-bild-1/super__430x286"
+      "title": "In eigener Sache : Wir suchen wieder Volontäre und Volontärinnen",
+      "teaser": "Im Juli können Sie sich für ein Volontariat bei ZEIT und ZEIT ONLINE bewerben. Die Ausbildung beginnt im Januar 2025 und dauert zwei Jahre.",
+      "url": "https://blog.zeit.de/fragen/2024/06/24/wir-suchen-wieder-volontaere-und-volontaerinnen/",
+      "image_url": "https://img.zeit.de/administratives/2024-06/volontariat-zeit-online-2/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"WHITE – Geständnis eines Neonazis\" : \"Ich habe jemanden umgebracht\"",
@@ -381,14 +337,14 @@
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-06/julian-assange-flugzeug-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Niedersachsen : Totes Kind gefunden – Ermittler vermuten Zusammenhang mit Fall Arian",
-      "teaser": "In der Gemeinde Estorf hat ein Landwirt eine Kinderleiche entdeckt. Ermittler halten einen Zusammenhang mit dem verschwundenen sechsjährigen Arian für wahrscheinlich.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-06/vermisster-junge-arian-leiche-entdeckt-niedersachsen"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Unterhalt für Alleinerziehende : Wie gut der Staat für schlechte Väter sorgt",
       "teaser": "Bei jedem dritten Kind von Alleinerziehenden muss der Staat für den Unterhalt einspringen. Das kostet Milliarden und belohnt Väter, die sich ihrer Pflicht entziehen.",
       "url": "https://www.zeit.de/familie/2024-06/unterhalt-alleinerziehende-eltern-kinder-steuern"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Niedersachsen : Totes Kind gefunden – Ermittler vermuten Zusammenhang mit Fall Arian",
+      "teaser": "In der Gemeinde Estorf hat ein Landwirt eine Kinderleiche entdeckt. Ermittler halten einen Zusammenhang mit dem verschwundenen sechsjährigen Arian für wahrscheinlich.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-06/vermisster-junge-arian-leiche-entdeckt-niedersachsen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Debatte um Arbeitszeiten : Braucht Deutschland die Sechstagewoche?",
@@ -413,28 +369,28 @@
       "image_url": "https://img.zeit.de/freunde-der-zeit/dtmg-ernaehrungsrichlinien/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Niclas Füllkrug : Der Joker",
-      "teaser": "Soll Julian Nagelsmann auf das Volk hören und Kai Havertz durch Niclas Füllkrug ersetzen? Der Preis wäre hoch, es ginge viel von Deutschlands größter Qualität verloren.",
-      "url": "https://www.zeit.de/sport/2024-06/niclas-fuellkrug-fussball-em-kai-havertz-julian-nagelsmann",
-      "image_url": "https://img.zeit.de/sport/2024-06/niclas-fuellkrug-schweiz/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Vollzeit arbeiten mit Kindern : \"Unsere Nanny war ein echtes Investment für uns\"",
+      "teaser": "Drei Kinder großziehen, wenn beide fast Vollzeit arbeiten? Ein Paar erzählt, wie anstrengend das war, was sie an Hilfe brauchten und wie sie sich im Alltag gut ergänzten.",
+      "url": "https://www.zeit.de/arbeit/2024-06/vollzeit-arbeiten-kinder-familie-zeitmanagement",
+      "image_url": "https://img.zeit.de/arbeit/2024-06/vollzeit-arbeiten-kinder-familie-zeitmanagement-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Julian Assange : Ein beunruhigender Deal",
-      "teaser": "WikiLeaks-Gründer Assange schließt eine Abmachung mit den USA und kommt dafür frei. Es ist eine gesichtswahrende Lösung für beide Seiten – sie birgt aber Gefahren.",
-      "url": "https://www.zeit.de/digital/internet/2024-06/julian-assange-freilassung-deal-usa",
-      "image_url": "https://img.zeit.de/digital/internet/2024-06/julian-assange-freilassung-deal-usa-bild-2/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Tranchieren : Getrennt wie geschnitten",
+      "teaser": "Eigenhändig einen Braten oder ein Huhn zerlegen? Tranchieren klingt schwerer, als es ist. Mit welchen Techniken das Zerteilen großer Fleischstücke auch Ungeübten gelingt.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-06/tranchieren-zerlegen-fleisch-messer-kochglossar",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-06/tranchieren-zerlegen-fleisch-messer-kochglossar-teaserbild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Fahrradversicherung : Sollte ich mein Fahrrad versichern?",
-      "teaser": "Das Rad ist weg, der Ärger groß. Wenn man wenigstens versichert wäre. Wir erklären, wann die Hausratspolice ausreicht – und welche Versicherungen ansonsten sinnvoll sind.",
-      "url": "https://www.zeit.de/mobilitaet/2024-06/fahrradversicherung-hausrat-diebstahl-schaeden-faq",
-      "image_url": "https://img.zeit.de/mobilitaet/2024-06/fahrradversicherung-hausrat-diebstahl-schaeden/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Anne Brorhilker : Bekannteste deutsche Finanzermittlerin erklärt, wo der Staat versagt",
+      "teaser": "Als Staatsanwältin hat Brorhilker Cum-Ex-Täter ins Gefängnis gebracht. Jetzt quittierte sie den Dienst und spricht erstmals offen über ihren Kampf gegen Steuerbetrug.",
+      "url": "https://www.zeit.de/wirtschaft/2024-06/anne-brorhilker-steuerraub-cumex-skandal-staatsanwaltschaft-kuendigung",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-06/anne-brorhilker-cum-ex-finanztricks-staatsanwaltschaft-bild2/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Unterhalt für Alleinerziehende : Wie gut der Staat für schlechte Väter sorgt",
-      "teaser": "Bei jedem dritten Kind von Alleinerziehenden muss der Staat für den Unterhalt einspringen. Das kostet Milliarden und belohnt Väter, die sich ihrer Pflicht entziehen.",
-      "url": "https://www.zeit.de/familie/2024-06/unterhalt-alleinerziehende-eltern-kinder-steuern",
-      "image_url": "https://img.zeit.de/familie/2024-06/unterhalt-alleinerziehende-eltern-kinder/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Zensus 2022 : So viele Menschen leben in Ihrer Gemeinde wirklich",
+      "teaser": "Laut Zensus war Deutschlands Bevölkerung 2022 kleiner als bislang angenommen. Unsere Karte zeigt, wo die Zählung von den bislang bekannten Daten besonders abweicht.",
+      "url": "https://www.zeit.de/wirtschaft/2024-06/deutschland-zensus-2022-gemeinden-bevoelkerung-entwicklung",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-06/deutschland-zensus-2022-gemeinden-bevoelkerung-entwicklung-teaserbild/super__430x286"
     },
     {
       "title": "Worträtsel : Wortiger",
@@ -569,16 +525,16 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-06/eu-startet-beitrittsverhandlungen-mit-der-ukraine-2/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Militärdienst in Israel : Es geht ums Fundament des Staates Israel",
+      "teaser": "Ultraorthodoxe Juden müssen künftig zur Armee. Dieses Urteil bringt Benjamin Netanjahu unter Druck und wirft die Frage auf, wie die Israelis künftig zusammenleben wollen.",
+      "url": "https://www.zeit.de/politik/ausland/2024-06/militaerdienst-israel-ultraorthodoxe-juden-wehrdienst",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-06/militaerdienst-israel-ultraorthodoxe-juden-wehrdienst-bild/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Liveblog:Krieg in Israel und Gaza : Deutschland stellt weitere humanitäre Hilfen für Nahost bereit",
       "teaser": "Die deutschen Hilfslieferungen für den Gazastreifen und den Libanon werden deutlich aufgestockt. Die WHO sieht weiterhin die Gefahr einer Hungersnot in Gaza. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/2023-12/news-israel-gaza-krieg-live",
       "image_url": "https://img.zeit.de/politik/ausland/2024-06/israel-gaza-krieg-hilfe-deutschland/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Bundeshaushalt : So weit, so verfahren",
-      "teaser": "Die Zeit läuft ab, noch immer keine Einigung in Sicht: Die Ampelkoalition streitet über den Haushalt. Und jetzt begehrt auch noch die SPD auf.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-06/haushalt-2025-ampel-koalition-streit-schuldenbremse",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-06/haushalt-2025-ampel-koalition-streit/super__430x286"
     },
     {
       "title": "Verlagsangebot : Das London-Quiz: Testen Sie Ihr Wissen!",
@@ -704,6 +660,13 @@
       "image_url": "https://img.zeit.de/zett/2024-05/ukraine-krieg-soldaten-rekrutierung/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Josip Broz Tito : Brief an Tito",
+      "teaser": "Als Kind musste sie einen Eid schwören auf den Genossen Tito. Heute hat unsere Autorin eine Reihe von Fragen an den ehemaligen jugoslawischen Präsidenten.",
+      "url": "https://www.zeit.de/kultur/2024-06/josip-broz-tito-jugoslawien-osteuropa-albanien-asyl",
+      "image_url": "https://img.zeit.de/kultur/2024-06/josip-broz-tito-jugoslawien-osteuropa-albanien/super__430x286",
+      "image_title": "josip-broz-tito-jugoslawien-osteuropa-albanien"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Fußball-EM : Unter falscher Flagge",
       "teaser": "Auch dieser Fußballsommer ist wieder die Zeit schwarz-rot-goldener Symbolik. Doch eigentlich sollten alle EM-Patrioten noch eine andere Fahnendiskussion führen.",
       "url": "https://www.zeit.de/kultur/2024-06/fussball-em-flagge-fahne-identitaet",
@@ -716,16 +679,10 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-06/russland-sperre-zugang-eu-medien-zeit-spiegel-sanktionen/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); \"Butterfly\" : Crazy-Town-Frontman Shifty Shellshock ist tot",
-      "teaser": "Mit \"Crazy Town\" und dem Song \"Butterfly\" wurde Shifty Shellshock berühmt. Nun ist der Frontman der US-amerikanischen Cross-over-Band gestorben. Er wurde 49 Jahre alt.",
-      "url": "https://www.zeit.de/kultur/musik/2024-06/crazy-town-frontman-shifty-shellshock-ist-tot",
-      "image_url": "https://img.zeit.de/kultur/musik/2024-06/crazy-town-frontman-shifty-shellshock-tot/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Michelle Steinbeck : Kampfansage aus der Salamifabrik",
-      "teaser": "Michelle Steinbecks erster Roman wurde gefeiert, der zweite ist noch besser. Doch ihr literarischer Stoff hat sie auf erschütternde Weise im richtigen Leben eingeholt.",
-      "url": "https://www.zeit.de/2024/27/michelle-steinbeck-favorita-literatur-roman-schriftstellerin",
-      "image_url": "https://img.zeit.de/2024/27/michelle-steinbeck-favorita-literatur-roman-schriftstellerin-teaserbild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Sigi Maron : \"Leckts mi aum Oasch!\"",
+      "teaser": "Der österreichische Protestsänger Sigi Maron wäre in diesem Jahr 80 Jahre alt geworden. Seine musikalische Befreiungstheologie geistert weiter durch die linken Milieus.",
+      "url": "https://www.zeit.de/2024/27/sigi-maron-musik-aktivismus-linke-politik",
+      "image_url": "https://img.zeit.de/2024/27/leckts-mi-aum-oasch-bild-1/super__430x286"
     },
     {
       "title": "WikiLeaks-Gründer : Julian Assange kommt durch Deal mit US-Justiz frei",
@@ -830,12 +787,6 @@
       "image_url": "https://img.zeit.de/administratives/2015-10/zeit-shop-bilder/farbtrends-flowerpot/super__320x213"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Coronaaufarbeitung : Wie wir aus den Coronairrtümern lernen können",
-      "teaser": "Politik und Wissenschaft drängen darauf, die Pandemiejahre aufzuarbeiten. Auch um Vertrauen zurückzugewinnen. Es gibt einen Weg, wie das gelingen kann.",
-      "url": "https://www.zeit.de/gesundheit/2024-06/corona-aufarbeitung-pandemie-politik-christian-drosten",
-      "image_url": "https://img.zeit.de/gesundheit/2024-06/corona-aufarbeitung-pandemie-politik-christian-drosten-bild/super__430x286"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Organspende : So könnte die Organspende geregelt werden",
       "teaser": "In Deutschland sterben jährlich Hunderte Menschen, weil es zu wenig Organspender gibt. Eine fraktionsübergreifende Initiative hat Ideen zur Widerspruchslösung.",
       "url": "https://www.zeit.de/gesundheit/2023-11/organspende-widerspruchsloesung-bundesrat-gesundheit-faq",
@@ -846,6 +797,12 @@
       "teaser": "Im Ringen um mehr lebensrettende Organspenden wollen mehrere Abgeordnete einen neuen Anlauf zur Einführung der Widerspruchslösung starten. Doch dagegen regt sich Kritik.",
       "url": "https://www.zeit.de/gesundheit/2024-06/organspende-neuanlauf-widerspruchsloesung-kritik-eugen-brysch-fdp",
       "image_url": "https://img.zeit.de/gesundheit/2024-06/neue-initiative-fuer-geaenderte-organspende-regeln-bild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Geburtsbegleitung : Wenn die Doula gebären hilft",
+      "teaser": "In Zeiten von Hebammenmangel und kritischen Zuständen in der Geburtshilfe werden Doulas immer beliebter. Was können die Geburtsbegleiterinnen leisten – und was nicht?",
+      "url": "https://www.zeit.de/gesundheit/2024-06/geburt-begleitung-doula-hebamme-unterstuetzung",
+      "image_url": "https://img.zeit.de/gesundheit/2024-06/geburt-begleitung-doula-hebamme-unterstuetzung-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Teams : Microsoft drohen Milliardenstrafen wegen Wettbewerbsverzerrung",
@@ -860,16 +817,16 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-06/julian-assange-baerbock/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Künstliche Intelligenz : Auf Sylt verkauft KI die frischen Brötchen",
-      "teaser": "Eine Bäckereifiliale ohne Verkäufer. Ein Malerroboter, der Wände mit Farbe besprüht: Auch das Handwerk setzt KI ein. Doch Kundinnen und Kunden sind skeptisch.",
-      "url": "https://www.zeit.de/2024/27/kuenstliche-intelligenz-fachkraeftemangel-jobs-produktion",
-      "image_url": "https://img.zeit.de/2024/27/klicken-und-verticken-bild-1/wide__892x501"
+      "title": "Z+ (abopflichtiger Inhalt); Debatte um Arbeitszeiten : Braucht Deutschland die Sechstagewoche?",
+      "teaser": "In Griechenland können Angestellte nun auch an sechs Tagen in der Woche arbeiten. Gut so, findet unsere Autorin. Ihr Kollege hält die Debatte für gefährlich.",
+      "url": "https://www.zeit.de/arbeit/2024-06/arbeitszeit-sechs-tage-woche-deutschland-debatte-griechenland",
+      "image_url": "https://img.zeit.de/arbeit/2024-06/arbeitszeit-sechs-tage-woche-deutschland/wide__892x501"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Ferien in der Arbeitswelt : Und das soll erholsam sein?",
-      "teaser": "Vor den Ferien vorarbeiten, hinterher nacharbeiten: So wie viele Unternehmen organisiert sind, können Mitarbeitende trotz Urlaub kaum entspannen. Das hat seinen Preis.",
-      "url": "https://www.zeit.de/arbeit/2024-06/urlaub-arbeit-ferien-unternehmen-organisation-vorarbeit-nacharbeit",
-      "image_url": "https://img.zeit.de/arbeit/2024-06/urlaub-arbeit-ferien-unternehmen-organisation-vorarbeit-nacharbeit-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Arbeitszeit : Griechenland führt Sechstagewoche für Arbeitnehmer ein",
+      "teaser": "Zum 1. Juli können Angestellte in Griechenland sechs Tage die Woche arbeiten – für 40 Prozent mehr Gehalt. Das hat die Regierung wegen des Fachkräftemangels beschlossen.",
+      "url": "https://www.zeit.de/arbeit/2024-06/griechenland-sechs-tage-woche-arbeit-arbeitszeit",
+      "image_url": "https://img.zeit.de/arbeit/2024-06/griechenland-sechs-tage-woche-arbeit-arbeitszeit-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Daniel Libeskind : \"Hab kein Ziel im Leben\"",
@@ -896,11 +853,11 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-06/donald-trump-usa-greencard-uni-absolventen-bild/wide__892x501"
     },
     {
-      "title": "Verlagsangebot : Persönlichkeit als Door Opener",
-      "teaser": "Immer mehr Unternehmen setzen bei ihren Bewerbern auf die Persönlichkeit. Auf der Suche nach einem Job stellt der Berufstest die eigenen Stärken in den Mittelpunkt.",
-      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.textbild.frau-smartphone_dooropener.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=bot_textbild_frau-smartphone_dooropener_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-boa-index-teaser-1-klein/bruce-mars-fwvmhua-wby-unsplash.jpg",
-      "image_title": "Persönlichkeit als Door Opener"
+      "title": "Verlagsangebot : Was kann man wo studieren?",
+      "teaser": "Deutschlands größte Suchmaschine für Studiengänge und Hochschulen bietet Orientierung und hilft bei der Studienwahl.",
+      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.automation.bleistift-biss.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=verlagsteaser&amp;utm_content=suma_automation_bleistift-biss_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/suma-teaser-januar2019/wide__430x286__desktop",
+      "image_title": "Was kann man wo studieren?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Sylt : Studentin darf nach Rassismus-Eklat weiter studieren",
@@ -957,16 +914,16 @@
       "image_url": "https://img.zeit.de/2024/24/eine-verbindung-die-spaltet-bild-1/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); EM-Rechner : Wer wird der deutsche Gegner im Achtelfinale?",
+      "teaser": "England, Dänemark, Slowenien oder Serbien: Wer wird Zweiter der Gruppe C? Mit unserem EM-Rechner können Sie verfolgen, gegen wen Deutschland im Achtelfinale spielen wird.",
+      "url": "https://www.zeit.de/sport/2024-06/fussball-em-2024-achtelfinale-gruppenphase-teams",
+      "image_url": "https://img.zeit.de/sport/2024-06/em-rechner-teaser-gruppe-ef/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Fußball in Frankreich : Im Land der Supertalente",
       "teaser": "EM-Favorit Frankreich hat nicht die beste Liga oder die neueste Spielphilosophie – aber die meisten Spitzenfußballer. Warum? Unterwegs in der Heimat der Hochbegabten",
       "url": "https://www.zeit.de/sport/2024-06/fussball-em-frankreich-paris-mbappe-talente",
       "image_url": "https://img.zeit.de/sport/2024-06/fussball-em-frankreich-paris-mbappe/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Fußball-EM : Ein vorbildhafter, mittelalter Mann",
-      "teaser": "Einst sorgte Marko Arnautović für Skandälchen aller Art. Nun ist der Österreicher gereifter und möchte sein Team ins Achtelfinale schießen. Alles zum EM-Tag",
-      "url": "https://www.zeit.de/sport/2024-06/fussball-em-marko-arnautovic-deutscher-gegner",
-      "image_url": "https://img.zeit.de/sport/2024-06/marko-arnautovic/super__430x286"
     },
     {
       "title": "ZEIT ONLINE Stimmen : Hier kommen Sie zu Wort",
@@ -987,8 +944,28 @@
       "image_url": "https://img.zeit.de/newsletter/familienzeit/familienzeit-titelbild/super__430x286"
     },
     {
+      "title": "Computer: Spielemesse Gamescom erstmals in Brasilien",
+      "url": "https://www.zeit.de/news/2024-06/26/spielemesse-gamescom-erstmals-in-brasilien"
+    },
+    {
+      "title": "Nahostkonflikt: USA warnen vor Krieg im Libanon",
+      "url": "https://www.zeit.de/news/2024-06/26/usa-warnen-vor-krieg-im-libanon"
+    },
+    {
+      "title": "Fußball: Dänemark deutscher Achtelfinalgegner: Erinnerungen an 1992",
+      "url": "https://www.zeit.de/news/2024-06/26/daenemark-deutscher-achtelfinalgegner-erinnerungen-an-1992"
+    },
+    {
+      "title": "Bildung: SPD: Lehrerversorgung auf Kante genäht",
+      "url": "https://www.zeit.de/news/2024-06/26/spd-lehrerversorgung-auf-kante-genaeht"
+    },
+    {
       "title": "Justiz: US-Gericht segnet Deal mit Julian Assange ab - Wikileaks-Gründer frei",
       "url": "https://www.zeit.de/news/2024-06/26/gericht-segnet-deal-mit-assange-ab-wikileaks-gruender-frei"
+    },
+    {
+      "title": "Konflikte: Südkorea und Japan melden neuen Raketentest Nordkoreas",
+      "url": "https://www.zeit.de/news/2024-06/26/suedkorea-und-japan-melden-neuen-raketentest-nordkoreas"
     },
     {
       "title": "Spionageskandal: Julian Assange bekennt sich schuldig vor US-Gericht",
@@ -997,26 +974,6 @@
     {
       "title": "Fotografie: Bilder des Tages",
       "url": "https://www.zeit.de/news/2024-06/26/bilder-des-tages"
-    },
-    {
-      "title": "Fußball-EM: Dänemark deutscher Achtelfinalgegner - Erinnerungen an 1992",
-      "url": "https://www.zeit.de/news/2024-06/25/daenemark-deutscher-achtelfinalgegner-erinnerungen-an-1992"
-    },
-    {
-      "title": "Fußball: England zittert sich zum Gruppensieg, auch Slowenien weiter",
-      "url": "https://www.zeit.de/news/2024-06/25/england-zittert-sich-zum-gruppensieg-auch-slowenien-weiter"
-    },
-    {
-      "title": "Elektroauto: Volkswagen will Milliarden in Rivian stecken",
-      "url": "https://www.zeit.de/news/2024-06/25/volkswagen-will-milliarden-in-rivian-stecken"
-    },
-    {
-      "title": "Laut Wikileaks: Assange für Gerichtstermin in US-Außengebiet angekommen",
-      "url": "https://www.zeit.de/news/2024-06/25/assange-fuer-gerichtstermin-in-us-aussengebiet-angekommen"
-    },
-    {
-      "title": "Auto: Volkswagen will Milliarden in Elektroauto- Firma Rivian stecken",
-      "url": "https://www.zeit.de/news/2024-06/25/volkswagen-will-milliarden-in-elektroauto-firma-rivian-stecken"
     }
   ]
 }
