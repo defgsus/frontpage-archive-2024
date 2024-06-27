@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-06-27T11:00:55",
+  "timestamp": "2024-06-27T12:10:49",
   "url": "https://www.welt.de/sport/",
   "response": {
     "status": 200
@@ -26,7 +26,14 @@
   ],
   "articles": [
     {
-      "title": "„Werde schon mal für einen Volunteer gehalten“",
+      "title": "Milliardär verspricht georgischem Team Millionenprämie",
+      "teaser": "Georgien schafft bei der EM Erstaunliches. Der reichste Mann des Landes will nun mit einer verlockenden Belohnung für weitere Motivation sorgen. Außerdem: Toni Kroos kritisiert die Mechanismen nach Spielen der deutschen Nationalmannschaft. Alle weiteren News im EM-Ticker.",
+      "url": "https://www.welt.de/sport/fussball/em/article251964666/EM-2024-Milliardaer-verspricht-georgischem-Sensationsteam-Millionenpraemie.html",
+      "image_url": "https://img.welt.de/img/sport/fussball/em/mobile252234396/9777931937-ci23x11-w20/Euro-2024-Georgien-Portugal.jpg",
+      "image_title": "Die georgische Nationalmannschaft nach dem Sieg über Portugal und dem Einzug ins Achtelfinale der Fußball-EM 2024"
+    },
+    {
+      "title": "„Müssen uns in Deutschland eingestehen, dass wir zu wenig an unserer Infrastruktur gearbeitet haben“",
       "teaser": "Franz Beckenbauer wählte bei der Weltmeisterschaft 2006 meist den Hubschrauber, Philipp Lahm reist bei der EM auch aus ökologischen Gründen mit der Bahn. Eine Zugfahrt mit dem Turnierdirektor - und ein Blick in seine Zukunft.",
       "url": "https://www.welt.de/sport/fussball/em/",
       "image_url": "https://img.welt.de/img/sport/fussball/em/mobile252229936/2597937847-ci23x11-w20/Euro-2024-Zwischenbilanz.jpg",
@@ -39,13 +46,6 @@
       "url": "https://www.welt.de/sport/fussball/em/",
       "image_url": "https://img.welt.de/img/sport/fussball/em/mobile252232484/3207936547-ci23x11-w20/Bildschirmfoto-2024-06-27-um-11-31-53.jpg",
       "image_title": "Bildschirmfoto 2024-06-27 um 11.31.53"
-    },
-    {
-      "title": "Zu viel „schwarz-weiß“, kritisiert Kroos",
-      "teaser": "Im vergangenen November war die Stimmung rund um die deutsche Nationalmannschaft am Boden. Nach dem EM-Start herrschte Euphorie. Für Toni Kroos stimmt die Balance nicht. Außerdem: Kane verteidigt Minimalismus des englischen Teams. Alle weiteren News im EM-Ticker.",
-      "url": "https://www.welt.de/sport/fussball/em/article251964666/EM-2024-Nationalmannschaft-Zu-viel-schwarz-weiss-kritisiert-Toni-Kroos.html",
-      "image_url": "https://img.welt.de/img/sport/fussball/em/mobile252229244/2867936407-ci23x11-w20/Euro-2024-Schweiz-Deutschland.jpg",
-      "image_title": "Toni Kroos, Mittelfeldstratege der deutschen Nationalmannschaft, im Gruppenspiel der Fußball-EM 2024 gegen die Schweiz"
     },
     {
       "title": "18 Mal Gelb, zweimal Rot – Die EM hat einen unrühmlichen Rekord",
@@ -61,6 +61,13 @@
       "image_url": "https://img.welt.de/img/sport/fussball/em/mobile252226948/4007931957-ci23x11-w20/Euro-2024-Tschechien-Tuerkei.jpg",
       "image_title": "Euro 2024: Tschechien - Türkei",
       "author": "Rouven Chlebna"
+    },
+    {
+      "title": "Vor dem Achtelfinale in Dortmund – „Ich hoffe, dass es eine weiße Wand ist“",
+      "url": "https://www.welt.de/sport/fussball/em/video252234918/EM-2024-Vor-dem-Achtelfinale-in-Dortmund-Ich-hoffe-dass-es-eine-weisse-Wand-ist.html",
+      "image_url": "https://img.welt.de/img/bildergalerien/mobile252234840/7467939527-ci16x9-w20/Germany-Press-Conference-UEFA-EURO-2024.jpg",
+      "image_title": "Germany Press Conference - UEFA EURO 2024",
+      "author": "14 Min"
     },
     {
       "title": "„1:0 für Dänemark – Man muss Träume haben können“, sagt Flemming Povlsen",
@@ -116,13 +123,6 @@
       "url": "https://www.welt.de/sport/fussball/em/video252227068/EM-2024-Dieses-Last-Minute-Tor-beendet-die-Zitterpartie-der-Tuerkei-gegen-Tschechien.html",
       "image_url": "https://img.welt.de/img/sport/fussball/em/mobile252227102/2727936367-ci16x9-w20/Czechia-v-Turkiye-Group-F-UEFA-EURO-2024.jpg",
       "image_title": "Czechia v Turkiye: Group F - UEFA EURO 2024",
-      "author": "1 Min"
-    },
-    {
-      "title": "Mit diesem Blitztor leitet Georgiens Superstar die Sensation ein",
-      "url": "https://www.welt.de/sport/fussball/em/video252227054/EM-2024-Mit-diesem-Blitztor-leitet-Georgiens-Superstar-die-Sensation-gegen-Portugal-ein.html",
-      "image_url": "https://img.welt.de/img/sport/fussball/em/mobile252227062/3557935757-ci16x9-w20/Georgia-v-Portugal-UEFA-Euro-2024-Group-F-Arena-AufSchalke.jpg",
-      "image_title": "Georgia v Portugal - UEFA Euro 2024 - Group F - Arena AufSchalke",
       "author": "1 Min"
     },
     {
@@ -601,12 +601,20 @@
       "author": "30 Min"
     },
     {
-      "title": "Politt von Pogacar-Sieg überzeugt: «Andere Liga»",
-      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/sport_nt/article252233932/Politt-von-Pogacar-Sieg-ueberzeugt-Andere-Liga.html"
+      "title": "Kwaratschelias glücklichster Tag: Georgien feiert EM-Party",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/sport_nt/article252234614/Kwaratschelias-gluecklichster-Tag-Georgien-feiert-EM-Party.html"
     },
     {
-      "title": "„Werde schon mal für einen Volunteer gehalten“",
-      "url": "https://www.welt.de/sport/fussball/em/article252226380/EM-2024-Rueckkehr-zum-FC-Bayern-Schauen-wir-mal-was-kommt-sagt-Lahm.html"
+      "title": "Milliardär verspricht georgischem Team Millionenprämie",
+      "url": "https://www.welt.de/sport/fussball/em/article251964666/EM-2024-Milliardaer-verspricht-georgischem-Sensationsteam-Millionenpraemie.html"
+    },
+    {
+      "title": "Vierkampf bei der Tour - Pogacar auf Pantanis Spuren",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/sport_nt/article252233932/Vierkampf-bei-der-Tour-Pogacar-auf-Pantanis-Spuren.html"
+    },
+    {
+      "title": "„Müssen uns in Deutschland eingestehen, dass wir zu wenig an unserer Infrastruktur gearbeitet haben“",
+      "url": "https://www.welt.de/sport/fussball/em/article252226380/Philipp-Lahm-bei-EM-2024-Werde-schon-mal-fuer-einen-Volunteer-gehalten.html"
     },
     {
       "title": "Flitzer springt vom Dach nur haarscharf an Ronaldo vorbei",
@@ -627,10 +635,6 @@
     {
       "title": "Vertrag für Gasly: Schumachers Formel-1-Chancen schwinden",
       "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/sport_nt/article252230558/Vertrag-fuer-Gasly-Schumachers-Formel-1-Chancen-schwinden.html"
-    },
-    {
-      "title": "Zu viel „schwarz-weiß“, kritisiert Kroos",
-      "url": "https://www.welt.de/sport/fussball/em/article251964666/EM-2024-Nationalmannschaft-Zu-viel-schwarz-weiss-kritisiert-Toni-Kroos.html"
     },
     {
       "title": "18 Mal Gelb, zweimal Rot – Die EM hat einen unrühmlichen Rekord",
@@ -674,7 +678,7 @@
     },
     {
       "title": "Das sind die Duelle im Achtelfinale der EM 2024",
-      "url": "https://www.welt.de/sport/fussball/em/article252225984/EM-2024-Das-sind-die-Achtelfinals-der-Europameisterschaft-2024.html"
+      "url": "https://www.welt.de/sport/fussball/em/article252225984/EM-2024-Alle-Achtelfinals-der-Europameisterschaft-im-Ueberblick.html"
     },
     {
       "title": "Türkei müht sich ins Achtelfinale",
@@ -837,8 +841,11 @@
       "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/sport_nt/article252212200/DFB-prueft-Mecker-Regel-auch-in-der-Bundesliga.html"
     },
     {
-      "title": "Nach Treffen mit Scharping: Ullrich offen für Zusammenarbeit",
-      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/sport_nt/article252210612/Nach-Treffen-mit-Scharping-Ullrich-offen-fuer-Zusammenarbeit.html"
+      "title": "Spielplan der Europameisterschaft 2024 in Deutschland",
+      "teaser": "2024 findet in Deutschland mit der Europameisterschaft endlich wieder ein großes Fußballturnier statt. Wann und wo wird gespielt? Wer ist qualifiziert? Hier finden Sie die wichtigsten Termine sowie den EM-Spielplan auf einen Blick.",
+      "url": "https://www.welt.de/sport/fussball/em/",
+      "image_url": "https://img.welt.de/img/bildergalerien/mobile248472778/8387933277-ci23x11-w20/GES-Fussball-USA-Deutschland-14-10-2023.jpg",
+      "image_title": "DFB-Routinier Thomas Müller (126 Länderspiele/45 Tore) vom FC Bayern hofft auf viele Einsätze in der deutschen Nationalmannschaft bei der Fußball-EM 2024"
     },
     {
       "title": "Nach dem Spiel hat Füllkrug eine Botschaft für den ZDF-Moderator",
@@ -878,14 +885,6 @@
       "url": "https://www.welt.de/sport/fitness/plus250935418/Apfelessig-am-Morgen-Gut-zum-Abnehmen-Fakten-ueber-den-Shot-am-Morgen.html",
       "image_url": "https://img.welt.de/img/sport/fitness/mobile251027108/0837938617-ci23x11-w20/Apple-Cider-Vinegar.jpg",
       "image_title": "Apple Cider Vinegar",
-      "author": "Rouven Chlebna"
-    },
-    {
-      "title": "„Grüne Lüge“? Das Mikroplastik-Problem auf der Berliner Fan-Meile",
-      "teaser": "Auf der Fan-Meile vor dem Brandenburger Tor in Berlin können Fans die EM feiern. Dabei stehen sie auf einer riesigen Kunstrasen-Fläche. Eine „vorsätzliche Umweltverschmutzung“ sei dies, kritisieren Experten. Der Veranstalter verteidigt sich.",
-      "url": "https://www.welt.de/sport/fussball/em/",
-      "image_url": "https://img.welt.de/img/sport/fussball/em/mobile252145618/2847939217-ci23x11-w20/Europameisterschaft-2024-Fanmeile-Berlin.jpg",
-      "image_title": "Europameisterschaft 2024 Fanmeile Berlin",
       "author": "Rouven Chlebna"
     }
   ]
