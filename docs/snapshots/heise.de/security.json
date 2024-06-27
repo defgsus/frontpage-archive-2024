@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-06-27T10:00:55",
+  "timestamp": "2024-06-27T11:00:50",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Gitlab CE/EE",
+      "url": "https://www.heise.de/news/Bitte-patchen-Security-Update-behebt-kritische-Schwachstelle-in-GitLab-9780254.html"
+    },
+    {
       "title": "Quickshare / Nearby Share",
       "url": "https://www.heise.de/news/Google-Quickshare-Sicherheitsluecke-ermoeglicht-ungefragtes-Senden-von-Dateien-9780242.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Progress-MOVEit-Sicherheitsluecken-werden-bereits-angegriffen-9778266.html"
     },
     {
-      "title": "Wordpress-Plug-ins",
-      "url": "https://www.heise.de/news/Wordpress-Fuenf-Plug-ins-mit-Malware-unterwandert-9777207.html"
+      "title": "Bitte patchen! Security-Update behebt kritische Schwachstelle in GitLab",
+      "teaser": "Eine Reihe von Schwachstellen ermöglichen es in GitLab, CI-Pipelines als anderer User zu starten oder Cross-Site-Scripting über Commit Notes einzuschleusen.",
+      "url": "https://www.heise.de/news/Bitte-patchen-Security-Update-behebt-kritische-Schwachstelle-in-GitLab-9780254.html",
+      "image_title": "Rotes Warndreieck schwebt im Raum"
     },
     {
       "title": "Google Quickshare: Sicherheitslücke ermöglicht ungefragtes Senden von Dateien",
@@ -158,12 +164,6 @@
       "teaser": "Eine Lücke in Outlook-Konten soll das Fälschen von Absenderadressen ermöglichen – unter Umgehung von Verifizierungsmechanismen wie DMARC.",
       "url": "https://www.heise.de/news/Wirrungen-um-Luecke-Absender-Faelschung-in-Outlook-9770291.html",
       "image_title": "Microsoft 365, zu sehen in einer Lupe, die einen Bildschirm untersucht"
-    },
-    {
-      "title": "Kaspersky-Software wird illegal in den USA​",
-      "teaser": "Geschäfte mit der russischen IT-Sicherheitsfirma Kaspersky werden in den USA illegal, Nutzung bestehender Software auch. Das Verbot soll rasch greifen.​",
-      "url": "https://www.heise.de/news/USA-verbieten-Kaspersky-Software-9772282.html",
-      "image_title": "3 Stop-Tafeln nebeneinander"
     },
     {
       "title": "Microsoft Cloud Security",
