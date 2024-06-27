@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-06-27T19:00:52",
+  "timestamp": "2024-06-27T20:01:34",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "TeamViewer",
+      "url": "https://www.heise.de/news/APT-Angriff-auf-Fernwartungssoftware-Sicherheitsvorfall-bei-TeamViewer-9781567.html"
+    },
+    {
       "title": "Gitlab CE/EE",
       "url": "https://www.heise.de/news/Bitte-patchen-Security-Update-behebt-kritische-Schwachstelle-in-GitLab-9780254.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Jetzt-handeln-Schadcode-ueber-CDN-des-JavaScript-Service-Polyfill-io-verteilt-9778256.html"
     },
     {
-      "title": "Progress MOVEit",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Progress-MOVEit-Sicherheitsluecken-werden-bereits-angegriffen-9778266.html"
+      "title": "APT-Angriff auf Fernwartungssoftware? Sicherheitsvorfall bei TeamViewer",
+      "teaser": "Noch ist über das Ausmaß des Angriffs gegen die Fernwartungssoftware nicht viel bekannt - erste Hinweise auf die Urheber deuten auf Profis hin.",
+      "url": "https://www.heise.de/news/APT-Angriff-auf-Fernwartungssoftware-Sicherheitsvorfall-bei-TeamViewer-9781567.html",
+      "image_title": "Teamviewer-Logo unter einer Lupe"
     },
     {
       "title": "Datenleck: Kommunikationsdaten von Gefängnisinsassen frei zugänglich im Netz",
@@ -158,12 +164,6 @@
       "teaser": "Aufgrund eines Fehlers in der UEFI-Firmware von Phoenix können Angreifer Computer attackieren. Davon sind unter anderem Lenovo-Geräte mit Intel-CPU betroffen.",
       "url": "https://www.heise.de/news/PCs-mit-Intel-Prozessoren-UEFI-Sicherheitsluecke-laesst-Schadcode-passieren-9773023.html",
       "image_title": "Eine Person sitzt am Computer"
-    },
-    {
-      "title": "Jetzt patchen! Angreifer attackieren Dateiübertragungsserver SolarWinds Serv-U",
-      "teaser": "Im Zuge von Attacken auf SolarWinds Serv-U verschaffen sich Angreifer Zugang auf eigentlich abgeschottete Dateien.",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Dateiuebertragungsserver-SolwarWinds-Serv-U-9772771.html",
-      "image_title": "Update-Grafik"
     },
     {
       "title": "Microsoft Cloud Security",
