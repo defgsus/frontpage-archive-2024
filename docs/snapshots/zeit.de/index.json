@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-06-27T01:53:13",
+  "timestamp": "2024-06-27T02:24:49",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -14,6 +14,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -128,7 +134,7 @@
       "image_url": "https://img.zeit.de/sport/2024-06/portugal-georgien-tschechien-tuerkei-gruppe-f-fussball-em-bild-2/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Vorrundenspiele der Gruppe E : Auf Wiedersehen, Ukraine",
+      "title": "Z+ (abopflichtiger Inhalt); Fußball-EM, Gruppe E : Auf Wiedersehen, Ukraine",
       "teaser": "Bis zur letzten Sekunde spielt die Ukraine um den Gruppensieg, dann scheitert sie auf die knappstmögliche Art. Die Mannschaft hat ihre Nation würdig vertreten.",
       "url": "https://www.zeit.de/sport/2024-06/fussball-em-ukraine-vorrunde-belgien",
       "image_url": "https://img.zeit.de/sport/2024-06/ukraine-roman-yaremchuk-2/super__430x286",
@@ -156,6 +162,12 @@
       "teaser": "Das Auswärtige Amt warnt vor Terrorgefahr im Libanon und einer Eskalation des Konflikts mit Israel. Zu befürchten sei eine baldige Einstellung des Flugverkehrs.",
       "url": "https://www.zeit.de/politik/ausland/2024-06/libanon-auswaertiges-amt-aufruf-ausreise",
       "image_url": "https://img.zeit.de/politik/ausland/2024-06/libanon-israel-ausreise-auswaertiges-amt-bild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Israel und Hisbollah : Israel will laut Verteidigungsminister keinen Libanon-Krieg",
+      "teaser": "Nach Worten von Joaw Gallant setzt Israel im Libanon-Konflikt auf eine diplomatische Lösung. Zugleich warnt der Verteidigungsminister die Hisbollah.",
+      "url": "https://www.zeit.de/politik/ausland/2024-06/joav-gallant-israel-verteidigungsminister-libanon-konflikt-diplomatie",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-06/joav-gallant-israel-verteidigungsminister-libanon-konflikt-diplomatie-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Neuwahl in Frankreich : Manfred Weber gibt Emmanuel Macron Mitschuld an Le-Pen-Aufstieg",
@@ -365,20 +377,20 @@
       "url": "https://www.zeit.de/politik/ausland/2024-06/russland-usa-verteidigungsminister-telefonat-ukraine"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); WikiLeaks-Gründer : Julian Assange ist frei",
-      "teaser": "Ein US-Gericht hat den WikiLeaks-Gründer schuldig gesprochen, doch die Haftstrafe gilt als abgegolten. Nun wird Julian Assange in seiner Heimat Australien erwartet.",
-      "url": "https://www.zeit.de/digital/internet/2024-06/wikileaks-gruender-assange-wird-schuldig-gesprochen-und-kommt-frei",
-      "image_url": "https://img.zeit.de/digital/internet/2024-06/wikileaks-gruender-assange-wird-schuldig-gesprochen-und-kommt-frei-bild/super__430x286"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Zugverkehr : Deutsche Bahn räumt Probleme im Fernverkehr während der EM ein",
       "teaser": "Viele Fußballfans ärgern sich über die Deutsche Bahn, internationale Medien berichten. Die Bahn biete nicht die Qualität, die alle verdient hätten, sagt ein DB-Vorstand.",
-      "url": "https://www.zeit.de/mobilitaet/2024-06/deutsche-bahn-em-probleme"
+      "url": "https://www.zeit.de/mobilitaet/2024-06/deutsche-bahn-em-probleme",
+      "image_url": "https://img.zeit.de/mobilitaet/2024-06/deutsche-bahn-defizite-fernverkehr-em-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Probleme der deutschen Infrastruktur : Typisch deutsch",
       "teaser": "Von der Bahn bis zur Kartenzahlung – bei der EM blamiert sich Deutschland vor seinen Nachbarn. Doch vielleicht hat die Bundesrepublik genau das gebraucht.",
       "url": "https://www.zeit.de/2024/28/probleme-deutsche-infrastruktur-em-deutsche-bahn-sanierung"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Luisa Neubauer : \"Ich bin nicht angetreten, um die Grünen zu verteidigen\"",
+      "teaser": "Luisa Neubauer verklagt heute die Bundesregierung. Aber interessiert sich gerade überhaupt wer fürs Klima? Über jungen Wählerfrust und wie die Aktivistin weitermacht.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-06/luisa-neubauer-europawahl-fridays-for-future-klimapolitik-wahlergebnisse"
     },
     {
       "title": "Verlagsangebot : 7 Lebensmittel für eine antientzündliche Ernährung",
@@ -871,11 +883,11 @@
       "image_url": "https://img.zeit.de/campus/2024-06/zeitplanung-organisieren-alltag-aufgaben-studium-hoersaal/wide__892x501"
     },
     {
-      "title": "Verlagsangebot : Und was macht man dann damit?",
-      "teaser": "Was verbirgt sich konkret hinter den sperrigen Studiengangsbezeichnungen? Einen Einblick in mögliche Berufsfelder liefert die Suchmaschine für Studienangebote.",
-      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.kaffeepause_wasmachtmandamit.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_kaffeepause_wasmachtmandamit_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-4-klein/photo-of-women-looking-on-monitors-197.jpg",
-      "image_title": "Und was macht man dann damit?"
+      "title": "Verlagsangebot : Durchblick im Studiendschungel",
+      "teaser": "Bei 20.000 möglichen Studiengängen in Deutschland verliert man schnell den Überblick. Unterstützung bietet die Suchmaschine für Studiengänge und Hochschulen.",
+      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.whiteboard_studiendschungel.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_whiteboard_studiendschungel_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-3-klein/man-wearing-black-and-white-stripe-shirt-looking-at-white-197.jpg",
+      "image_title": "Durchblick im Studiendschungel"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Antisemitismus : Jüdischer Student klagt nach Angriff gegen Freie Universität Berlin",
