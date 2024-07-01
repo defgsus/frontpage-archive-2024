@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-01T12:11:46",
+  "timestamp": "2024-07-01T13:11:04",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "OpenSSH",
+      "url": "https://www.heise.de/news/RegreSSHion-Sicherheitsluecke-in-OpenSSH-gibt-geduldigen-Angreifern-Root-Rechte-9784976.html"
+    },
+    {
       "title": "Avaya IP Office",
       "url": "https://www.heise.de/news/IP-Telefonie-Avaya-IP-Office-stopft-kritische-Sicherheitslecks-9784229.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/APT-Angriff-auf-Fernwartungssoftware-Sicherheitsvorfall-bei-TeamViewer-9781567.html"
     },
     {
-      "title": "Gitlab CE/EE",
-      "url": "https://www.heise.de/news/Bitte-patchen-Security-Update-behebt-kritische-Schwachstelle-in-GitLab-9780254.html"
+      "title": "RegreSSHion: Sicherheitslücke in OpenSSH gibt geduldigen Angreifern Root-Rechte",
+      "teaser": "Wer die alte, neue Lücke im SSH-Server ausnutzen möchte, braucht Sitzfleisch: Bis zur Root-Shell dauert es 8 Stunden. Dafür klappt der Angriff aus der Ferne.",
+      "url": "https://www.heise.de/news/RegreSSHion-Sicherheitsluecke-in-OpenSSH-gibt-geduldigen-Angreifern-Root-Rechte-9784976.html",
+      "image_title": "UNIX Logo"
     },
     {
       "title": "Debian: Version 10 (Buster) am End-of-Lifecycle angelangt",
@@ -157,12 +163,6 @@
       "title": "JavaScript-Service Polyfill.io: 100.000 Sites binden Schadcode über CDN ein",
       "teaser": "Mehrere Sicherheitsforscher melden eine aktive Bedrohung durch das Content Delivery Network von Polyfill.io. Google sperrt Werbung von betroffenen Ads-Seiten.",
       "url": "https://www.heise.de/news/Jetzt-handeln-Schadcode-ueber-CDN-des-JavaScript-Service-Polyfill-io-verteilt-9778256.html"
-    },
-    {
-      "title": "Deutsche Cybersicherheitsagenda: Von der Hochglanzstory zum nationalen Drama",
-      "teaser": "Die Bundesregierung hat sich in zwei Jahren nach Vorstellung einer Agenda für Cybersicherheit in der Umsetzung verzettelt, meint Dennis-Kenji Kipker.",
-      "url": "https://www.heise.de/news/Kommentar-zur-Cybersicherheitsagenda-Von-Hochglanzstory-zum-nationalen-Drama-9774726.html",
-      "image_title": "Abstrakte Darstellung von Cybersicherheit mit Neonfarben und Datenpunkten im Dunkeln"
     },
     {
       "title": "Microsoft Cloud Security",
