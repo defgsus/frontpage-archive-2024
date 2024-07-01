@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-01T16:00:50",
+  "timestamp": "2024-07-01T17:01:07",
   "url": "https://www.welt.de/sport/",
   "response": {
     "status": 200
@@ -26,7 +26,14 @@
   ],
   "articles": [
     {
-      "title": "Unser Moment, unsere Zeit“ – Afrikaner siegt bei der Tour de France",
+      "title": "„Hallo Deutsche, erinnert ihr euch an die WM in Katar?“",
+      "teaser": "Die Unwetter rund um einige EM-Spiele in Deutschland veranlassen einige Nutzer aus Katar in den sozialen Medien zu hämischen Kommentaren. Auch das Achtelfinale in Dortmund ist Gegenstand der Kritik. Die Reaktion bleibt nicht aus.",
+      "url": "https://www.welt.de/sport/fussball/em/",
+      "image_url": "https://img.welt.de/img/sport/fussball/em/mobile252271800/0147938867-ci23x11-w20/Euro-2024-Deutschland-Daenemark.jpg",
+      "image_title": "Euro 2024: Deutschland - Dänemark"
+    },
+    {
+      "title": "„Unser Moment, unsere Zeit“ – Afrikaner siegt bei der Tour de France",
       "teaser": "Ein Fahrer aus Afrika gewinnt die dritte Etappe der Tour de France. Biniam Girmay setzt sich im Massensprint durch. Nach dem Sieg überkommen den Mann aus Eritrea die Emotionen. Zuvor gab es zahlreiche Stürze.",
       "url": "https://www.welt.de/sport/",
       "image_url": "https://img.welt.de/img/sport/mobile252295632/6247930547-ci23x11-w20/CYCLING-TDF-2024-STAGE03.jpg",
@@ -53,13 +60,6 @@
       "image_url": "https://img.welt.de/img/sport/mobile252293896/2587937557-ci23x11-w20/Spain-v-Georgia-Round-of-16-UEFA-EURO-2024.jpg",
       "image_title": "Lamine Yamal (l.) und Nico Williams bilden den Außenbahnen ein Duo der Extraklasse",
       "author": "Julien Wolff"
-    },
-    {
-      "title": "Frankreich mit zwei Wechseln – Dembélé gegen Belgien nur auf der Bank",
-      "teaser": "Bei der Fußball-EM trifft Frankreich im mit Spannung erwarteten Achtelfinale auf Belgien. Beide Teams galten vor dem Turnier als Titelkandidaten, konnten die Erwartungen aber noch nicht erfüllen. Verfolgen Sie das Match hier im Liveticker.",
-      "url": "https://www.welt.de/sport/fussball/em/article252293396/EM-2024-Das-Achtelfinale-Frankreich-Belgien-im-Liveticker.html",
-      "image_url": "https://img.welt.de/img/sport/fussball/em/mobile252293960/6037937427-ci23x11-w20/FILE-PHOTO-Euro-2024-France-v-Poland.jpg",
-      "image_title": "Maskerade: Kylian Mbappé trifft mit Frankreich im Achtelfinale auf Belgien"
     },
     {
       "title": "„Wer das nicht tut, wird die volle Härte des Rechtsstaates spüren“",
@@ -272,6 +272,13 @@
       "image_title": "Red-Bull-Pilot Max Verstappen feiert in Barcelona bereits seinen siebten Saisonerfolg und steuert auf seinen vierten Formel-1-Titel nacheinander zu"
     },
     {
+      "title": "Frankreich dominiert, sucht aber noch den finalen Pass",
+      "teaser": "Bei der Fußball-EM trifft Frankreich im mit Spannung erwarteten Achtelfinale auf Belgien. Beide Teams galten vor dem Turnier als Titelkandidaten, konnten die Erwartungen aber noch nicht erfüllen. Verfolgen Sie das Match hier im Liveticker.",
+      "url": "https://www.welt.de/sport/fussball/em/article252293396/EM-2024-Das-Achtelfinale-Frankreich-Belgien-im-Liveticker.html",
+      "image_url": "https://img.welt.de/img/sport/fussball/em/mobile252296718/3137936447-ci23x11-w20/Euro-2024-Frankreich-Belgien.jpg",
+      "image_title": "Nachbarschaftsduell: Frankreichs Dayot Upamecano (oben) und der Belgier Lois Openda wollen ins Viertelfinale"
+    },
+    {
       "title": "Handgreiflichkeiten und heftige Beleidigungen nach Englands Sieg",
       "teaser": "Nach dem Schlusspfiff im Achtelfinale gegen England stürmt der slowakische Trainer Francesco Calzona aufgebracht aufs Feld, um sich beim Schiedsrichter zu beschweren. Das gefällt dem Declan Rice gar nicht. Er mischt sich ein.",
       "url": "https://www.welt.de/sport/fussball/em/",
@@ -440,13 +447,6 @@
       "image_title": "Harry Kane köpft England in der Verlängerung zum Sieg"
     },
     {
-      "title": "Spanische Tore und Kwaratschelias Kunstschuss",
-      "teaser": "Spanien wird Deutschlands Gegner im Viertelfinale der Fußball-EM. Georgien sorgte im Achtelfinale zwar für die eiskalte Dusche, doch den Kombinationen der Iberer hatte der Außenseiter nur einen Geistesblitz seines Superstars entgegenzusetzen. Das Duell im Liveticker.",
-      "url": "https://www.welt.de/sport/fussball/em/",
-      "image_url": "https://img.welt.de/img/sport/fussball/em/mobile252281228/5617935607-ci23x11-w20/Euro-2024-Spanien-Georgien.jpg",
-      "image_title": "Am Ende ein souveräner Sieg: Spanien drehte den Rückstand gegen Georgien"
-    },
-    {
       "title": "„Der körperliche Idealzustand lautet metabolisch flexibel“",
       "teaser": "Ein gesunder Stoffwechsel ist essenziell für Fitness und Gesundheit. Karsten Köhler forscht an den Mechanismen, welche Nahrungsaufnahme, Energiebilanz und Körperzusammensetzung beeinflussen. Der Experte erklärt, was sich hinter dem Phänomen der metabolischen Anpassungen verbirgt.",
       "url": "https://www.welt.de/sport/fitness/plus251072824/Fitness-und-Gesundheit-Was-bedeutet-es-eigentlich-konkret-aus-metabolischer-Sicht-gesund-zu-sein.html",
@@ -598,12 +598,16 @@
       "author": "30 Min"
     },
     {
-      "title": "Unser Moment, unsere Zeit“ – Afrikaner siegt bei der Tour de France",
+      "title": "„Hallo Deutsche, erinnert ihr euch an die WM in Katar?“",
+      "url": "https://www.welt.de/sport/fussball/em/article252288192/Kritik-am-EM-Gastgeber-Hallo-Deutsche-erinnert-ihr-euch-an-die-WM-in-Katar.html"
+    },
+    {
+      "title": "„Unser Moment, unsere Zeit“ – Afrikaner siegt bei der Tour de France",
       "url": "https://www.welt.de/sport/article252295264/Biniam-Girmay-Unser-Moment-unsere-Zeit-Afrikaner-siegt-bei-Tour-de-France.html"
     },
     {
-      "title": "Eritreer Girmay gewinnt Tour-Etappe - Carapaz in Gelb",
-      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/sport_nt/article252295484/Eritreer-Girmay-gewinnt-Tour-Etappe-Carapaz-in-Gelb.html"
+      "title": "«Unglaublich»: Eritreer Girmay gewinnt dritte Tour-Etappe",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/sport_nt/article252295484/Unglaublich-Eritreer-Girmay-gewinnt-dritte-Tour-Etappe.html"
     },
     {
       "title": "So sehen Sie Portugal gegen Slowenien live im TV und Stream",
@@ -618,7 +622,7 @@
       "url": "https://www.welt.de/sport/article252293500/EM-2024-Viertelfinale-So-will-Deutschland-Spaniens-Super-Teenie-stoppen.html"
     },
     {
-      "title": "Frankreich mit zwei Wechseln – Dembélé gegen Belgien nur auf der Bank",
+      "title": "Frankreich dominiert, sucht aber noch den finalen Pass",
       "url": "https://www.welt.de/sport/fussball/em/article252293396/EM-2024-Das-Achtelfinale-Frankreich-Belgien-im-Liveticker.html"
     },
     {
@@ -634,8 +638,8 @@
       "url": "https://www.welt.de/sport/fussball/em/article252290370/EM-2024-Tuttlingen-Schuss-auf-Autokorso-nach-Rumaenien-Sieg-Mutmasslicher-Taeter-ermittelt.html"
     },
     {
-      "title": "Vor Zverev-Auftritt: Struff siegt zum Wimbledon-Auftakt",
-      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/sport_nt/article252290708/Vor-Zverev-Auftritt-Struff-siegt-zum-Wimbledon-Auftakt.html"
+      "title": "Erfolgreicher Wimbledon-Auftakt: Struff und Altmaier weiter",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/sport_nt/article252290708/Erfolgreicher-Wimbledon-Auftakt-Struff-und-Altmaier-weiter.html"
     },
     {
       "title": "Fußball-EM beschert ZDF besten Monat seit 30 Jahren",
@@ -776,10 +780,6 @@
     {
       "title": "Spanische Tore und Kwaratschelias Kunstschuss",
       "url": "https://www.welt.de/sport/fussball/em/article252273342/EM-2024-Spanien-gegen-Georgien-im-Liveticker.html"
-    },
-    {
-      "title": "Verrückte Bilder aus Dortmund – Problemstellen des Stadions lange bekannt",
-      "url": "https://www.welt.de/sport/fussball/em/article252271302/EM-2024-Deutschland-Daenemark-Diese-Bilder-gingen-um-die-Welt.html"
     },
     {
       "title": "Abseits? Hand? Videobeweis-Debatte nach Deutschland-Sieg",
