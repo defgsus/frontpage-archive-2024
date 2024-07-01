@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-01T14:01:05",
+  "timestamp": "2024-07-01T15:01:47",
   "url": "https://www.welt.de/wirtschaft/",
   "response": {
     "status": 200
@@ -25,6 +25,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "Deutschland wendet sich vom Bargeld ab",
+      "teaser": "Deutschland gilt als Land, in dem ohne Bargeld gar nichts geht. Doch die Bürger greifen immer weniger darauf zurück, wie eine aktuelle Bundesbank-Studie zeigt. Eine andere Zahlungsform erlebt hingegen einen bemerkenswerten Aufstieg.",
+      "url": "https://www.welt.de/wirtschaft/",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile252289236/1507935867-ci23x11-w20/Businessman-s-hands-exchanging-euro-closeup-shot.jpg",
+      "image_title": "Businessman's hands exchanging euro, closeup shot.",
+      "author": "Frank Stocker"
+    },
     {
       "title": "Deutsche Inflation sinkt im Juni auf 2,2 Prozent",
       "teaser": "Die Teuerungsrate in Deutschland ist im Vergleich zum Mai 2024 gefallen. Waren und Dienstleistungen verteuerten sich nur noch um wenig mehr als zwei Prozent. Schon bald könnte sogar eine Zielmarke der EZB erreicht sein.",
@@ -69,14 +77,6 @@
       "url": "https://www.welt.de/wirtschaft/",
       "image_url": "https://img.welt.de/img/wirtschaft/mobile252286658/5017933897-ci23x11-w20/Kindervesperkirche.jpg",
       "image_title": "Die Armutsgefährdungsquote Minderjähriger liegt leicht unter jener der Gesamtbevölkerung"
-    },
-    {
-      "title": "Grenzenloser Erfolg? Das sind jetzt die vier größten Risiken für Nvidias Aktienkurs",
-      "teaser": "Anleger und Analysten befinden sich derzeit in einem regelrechten Rausch um immer höhere Bewertungen des Chipkonzerns. Dabei übersehen viele, welche großen Risiken Nvidia drohen. Vier Szenarien sind besonders gefährlich – und erste Anzeichen bereits sichtbar.",
-      "url": "https://www.welt.de/wirtschaft/plus252276422/Nvidia-Aktie-Diese-vier-grossen-Risiken-werden-jetzt-zur-Gefahr-fuer-den-Kurs.html",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile252277472/4017932317-ci23x11-w20/Logo-illustration-displayed-on-smartphones-in-China-21-Jun-2024.jpg",
-      "image_title": "Logo illustration displayed on smartphones in China- 21 Jun 2024",
-      "author": "Benedikt Fuest"
     },
     {
       "title": "Nach Neuwahlen in Frankreich – Ist der Wirtschaftsstandort Europa in Gefahr?",
@@ -260,6 +260,10 @@
       "url": "https://www.welt.de/wirtschaft/",
       "image_url": "https://img.welt.de/img/wirtschaft/mobile235813724/3920249907-ci16x9-w20/20211221-DWO-Champagne-Exports-STAT-jpg.jpg",
       "image_title": "Kein alternativer Text für dieses Bild vorhanden"
+    },
+    {
+      "title": "Deutschland wendet sich vom Bargeld ab",
+      "url": "https://www.welt.de/wirtschaft/article252288306/Geld-Deutschland-einsame-Bargeld-Nation-Die-Abkehr-hat-laengst-begonnen.html"
     },
     {
       "title": "Extrem-Wetter lässt Bahn-Pünktlichkeit im Juni einbrechen",
@@ -470,10 +474,6 @@
       "url": "https://www.welt.de/wirtschaft/article252257140/Deutschlandticket-Christian-Lindner-stellt-Preis-von-49-Euro-infrage.html"
     },
     {
-      "title": "Gutachten stützt Pläne für Produktion russischer Brennelemente in Deutschland",
-      "url": "https://www.welt.de/wirtschaft/plus252254342/Gutachten-stuetzt-Plaene-fuer-Produktion-russischer-Brennelemente-in-Deutschland.html"
-    },
-    {
       "title": "Ramelow fordert 100 Milliarden Euro für Bahn-Modernisierung",
       "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article252260582/Ramelow-fordert-100-Milliarden-Euro-fuer-Bahn-Modernisierung.html"
     },
@@ -502,9 +502,25 @@
       "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article252247716/Menschen-fahren-weniger-Kilometer-mit-dem-Auto.html"
     },
     {
+      "title": "Und plötzlich sind die „Wortmenschen“ im Vorteil",
+      "teaser": "Mathematik-Talente werden Ingenieure oder Informatiker und kriegen Top-Gehälter – wer sich für Sprache und Literatur interessiert, endet als Taxifahrer? Was über Generationen galt, ändert sich gerade rapide. Ein Weltstar, der es wissen muss, erkennt eine „überfällige Neugewichtung“.",
+      "url": "https://www.welt.de/kultur/plus252178430/Karriere-Und-ploetzlich-sind-die-Wortmenschen-im-Vorteil.html",
+      "image_url": "https://img.welt.de/img/kultur/mobile252178634/3997938197-ci23x11-w20/Portrait-in-front-of-doodles.jpg",
+      "image_title": "Mathe? In Zukunft womöglich so nützlich wie Latein",
+      "author": "Peter Praschl"
+    },
+    {
+      "title": "Gutachten stützt Pläne für Produktion russischer Brennelemente in Deutschland",
+      "teaser": "Das niedersächsische Unternehmen Advanced Nuclear Fuels will Brennelemente nach russischem Standard produzieren. Die Genehmigung durch den zuständigen grünen Umweltminister lässt inzwischen 27 Monate auf sich warten. Jetzt sorgt ein Gutachten für Aufsehen.",
+      "url": "https://www.welt.de/wirtschaft/plus252254342/Gutachten-stuetzt-Plaene-fuer-Produktion-russischer-Brennelemente-in-Deutschland.html",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile252254340/9537937247-ci23x11-w20/VVER-Fuel-assembly-Copyright-Framatome.jpg",
+      "image_title": "VVER Fuel assembly Copyright Framatome",
+      "author": "Daniel Wetzel"
+    },
+    {
       "title": "„Das grenzt an Staatsversagen“",
       "teaser": "Nach einer schwachen Jahreshälfte hofft der Einzelhandel jetzt auf einen positiven EM-Effekt. Das Geschäft der chinesischen Billigkonzerne treffe den deutschen Markt hingegen mit voller Wucht, sagt Verbandschef von Preen im Interview – und kritisiert die Bundesregierung scharf.",
-      "url": "https://www.welt.de/wirtschaft/",
+      "url": "https://www.welt.de/wirtschaft/plus252235522/Handelsverbands-Praesident-Das-grenzt-an-Staatsversagen.html",
       "image_url": "https://img.welt.de/img/wirtschaft/mobile252239144/0347937247-ci23x11-w20/Sommerschlussverkauf.jpg",
       "image_title": "Sommerschlussverkauf",
       "author": "Carsten Dierig"
@@ -531,22 +547,6 @@
       "url": "https://www.welt.de/wirtschaft/plus252160684/Hugo-Boss-Es-war-ein-Fehler-Boss-zu-einer-Luxusmarke-machen-zu-wollen.html",
       "image_url": "https://img.welt.de/img/wirtschaft/mobile252161012/8377931247-ci23x11-w20/Hugo-Boss-Jahreszahlen.jpg",
       "image_title": "Daniel Grieder in der Konzernzentrale in Metzingen",
-      "author": "Christoph Kapalschinski"
-    },
-    {
-      "title": "So viel verdienen die Deutschen",
-      "teaser": "Ein gutes Gehalt bleibt das wichtigste Kriterium für Zufriedenheit im Job. Mit der richtigen Kombination aus Branche, Beruf, Führungsverantwortung und mehr kann man einiges dafür tun. Wo verdient man besonders viel, was bleibt netto übrig? WELT zeigt alle Daten.",
-      "url": "https://www.welt.de/wirtschaft/karriere/",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile250878256/3437931827-ci23x11-w20/DWO-Teaser-Kaufkraft-cg-jpg.jpg",
-      "image_title": "Kein alternativer Text für dieses Bild vorhanden",
-      "author": "Sebastian Freier"
-    },
-    {
-      "title": "Der Fall Nanu Nana zeigt, wie schädlich die deutsche Bürokratie wirklich ist",
-      "teaser": "Deutschland setzt internationale Vorschriften gegen Steuerflucht so kompliziert um, dass sie für mittelständische Unternehmen zum Problem werden. Selbst die Finanzämter, Gerichte und Steuerberater sind oft überfordert. Das kann sogar die Existenz bedrohen.",
-      "url": "https://www.welt.de/wirtschaft/plus252069390/Unternehmen-am-Steuer-Pranger-Die-Abrechnung-des-Nanu-Nana-Gruenders.html",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile252184370/6157939537-ci23x11-w20/423402394.jpg",
-      "image_title": "423402394",
       "author": "Christoph Kapalschinski"
     }
   ]
