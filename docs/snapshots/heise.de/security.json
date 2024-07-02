@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-02T13:08:45",
+  "timestamp": "2024-07-02T14:00:57",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Patchday Android",
+      "url": "https://www.heise.de/news/Android-Google-schliesst-teils-kritische-Luecken-am-Juli-Patchday-9786995.html"
+    },
+    {
       "title": "IBM InfoSphere Information Server",
       "url": "https://www.heise.de/news/Update-fuer-IBM-InfoSphere-Information-Server-dichtet-viele-Sicherheitsluecken-ab-9786689.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/RegreSSHion-Sicherheitsluecke-in-OpenSSH-gibt-geduldigen-Angreifern-Root-Rechte-9784976.html"
     },
     {
-      "title": "Avaya IP Office",
-      "url": "https://www.heise.de/news/IP-Telefonie-Avaya-IP-Office-stopft-kritische-Sicherheitslecks-9784229.html"
+      "title": "Android: Google schließt teils kritische Lücken am Juli-Patchday",
+      "teaser": "Google hat Updates für Android 12, 12L, 13 und 14 im Rahmen des Juli-Patchdays veröffentlicht. Sie schließen Rechteausweitungs-Lücken.",
+      "url": "https://www.heise.de/news/Android-Google-schliesst-teils-kritische-Luecken-am-Juli-Patchday-9786995.html",
+      "image_title": "Stilisiertes Bild: Smartphone mit Android-Roboter auf dem Bildschirm, steht in Flammen"
     },
     {
       "title": "Update für IBM InfoSphere Information Server dichtet viele Sicherheitslücken ab",
@@ -157,12 +163,6 @@
       "teaser": "Juniper Networks liefert außerplanmäßige Updates gegen eine kritische Sicherheitslücke in Session Smart Router, -Conductor und WAN Assurance Router.",
       "url": "https://www.heise.de/news/Juniper-Kritische-Luecke-erlaubt-Angreifern-Uebernahme-von-Session-Smart-Router-9781931.html",
       "image_title": "Stilisierte Grafik: Brennende Appliances im Netz"
-    },
-    {
-      "title": "KI-Gadget Rabbit R1: Holpriger Deutschlandstart durch Sicherheitsprobleme",
-      "teaser": "Das gehypte KI-Maschinchen Rabbit R1 wird inzwischen auch nach Deutschland geliefert. Beeinträchtigt wird dies jedoch von Sicherheitsproblemen.",
-      "url": "https://www.heise.de/news/KI-Gadget-Rabbit-R1-Holpriger-Deutschlandstart-durch-Sicherheitsprobleme-9781310.html",
-      "image_title": "Rot-oranger Rabbit T1"
     },
     {
       "title": "Microsoft Cloud Security",
