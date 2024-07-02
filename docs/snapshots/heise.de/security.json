@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-02T07:00:45",
+  "timestamp": "2024-07-02T08:08:42",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Junos OS / SRX",
+      "url": "https://www.heise.de/news/Juniper-Notfall-Update-fuer-Junos-OS-auf-SRX-Baureihe-9785970.html"
+    },
+    {
       "title": "OpenSSH",
       "url": "https://www.heise.de/news/RegreSSHion-Sicherheitsluecke-in-OpenSSH-gibt-geduldigen-Angreifern-Root-Rechte-9784976.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Juniper-Kritische-Luecke-erlaubt-Angreifern-Uebernahme-von-Session-Smart-Router-9781931.html"
     },
     {
-      "title": "TeamViewer",
-      "url": "https://www.heise.de/news/APT-Angriff-auf-Fernwartungssoftware-Sicherheitsvorfall-bei-TeamViewer-9781567.html"
+      "title": "iX-Workshop: Innerdeutsche E-Rechnungspflicht - Software richtig implementieren",
+      "teaser": "Lernen Sie Hands-on, welche Formate wie unterstützt, geprüft und umgewandelt werden können oder müssen und wie Sie dabei vorgehen. (Last Call)",
+      "url": "https://www.heise.de/news/iX-Workshop-Innerdeutsche-E-Rechnungspflicht-Software-richtig-implementieren-9769756.html",
+      "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
+    },
+    {
+      "title": "Juniper: Notfall-Update für Junos OS auf SRX-Baureihe",
+      "teaser": "Juniper Networks schließt eine als hochriskant eingestufte DoS-Lücke im Juniper OS der SRX-Geräte mit einem Update außer der Reihe.",
+      "url": "https://www.heise.de/news/Juniper-Notfall-Update-fuer-Junos-OS-auf-SRX-Baureihe-9785970.html",
+      "image_title": "Stilisiertes Bild: Ein Stapel brennender Appliances"
     },
     {
       "title": "Sensorhersteller \"Sick\": Kein Cyberangriff, Sicherheitslücke im Support-Portal",
@@ -152,18 +164,6 @@
       "teaser": "Eine Reihe von Schwachstellen ermöglichen es in GitLab, CI-Pipelines als anderer User zu starten oder Cross-Site-Scripting über Commit Notes einzuschleusen.",
       "url": "https://www.heise.de/news/Bitte-patchen-Security-Update-behebt-kritische-Schwachstelle-in-GitLab-9780254.html",
       "image_title": "Rotes Warndreieck schwebt im Raum"
-    },
-    {
-      "title": "Google Quickshare: Sicherheitslücke ermöglicht ungefragtes Senden von Dateien",
-      "teaser": "Googles Quickshare, auch als Nearby Share bekannt, kann Angreifern ungefragt Daten an Windows-Rechner schicken lassen.",
-      "url": "https://www.heise.de/news/Google-Quickshare-Sicherheitsluecke-ermoeglicht-ungefragtes-Senden-von-Dateien-9780242.html",
-      "image_title": "Stilisiertes Bild: Laptop und Smartphone, beide haben Feuer gefangen"
-    },
-    {
-      "title": "Change Healthcare informiert US-Bevölkerung über Datenleck",
-      "teaser": "Nach einem Cyberangriff im Februar informiert Change Healthcare seine Kunden über ein Datenleck, das einen Großteil der US-Amerikaner betreffen könnte.",
-      "url": "https://www.heise.de/news/Change-Healthcare-US-Bevoelkerung-wird-ueber-Datenleck-informiert-9780108.html",
-      "image_title": "Gesundheitswesen durch Symbole dargestellt"
     },
     {
       "title": "Microsoft Cloud Security",
