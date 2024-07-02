@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-02T12:10:47",
+  "timestamp": "2024-07-02T13:08:45",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "IBM InfoSphere Information Server",
+      "url": "https://www.heise.de/news/Update-fuer-IBM-InfoSphere-Information-Server-dichtet-viele-Sicherheitsluecken-ab-9786689.html"
+    },
+    {
       "title": "Junos OS / SRX",
       "url": "https://www.heise.de/news/Juniper-Notfall-Update-fuer-Junos-OS-auf-SRX-Baureihe-9785970.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/IP-Telefonie-Avaya-IP-Office-stopft-kritische-Sicherheitslecks-9784229.html"
     },
     {
-      "title": "Juniper Session Smart Router",
-      "url": "https://www.heise.de/news/Juniper-Kritische-Luecke-erlaubt-Angreifern-Uebernahme-von-Session-Smart-Router-9781931.html"
+      "title": "Update für IBM InfoSphere Information Server dichtet viele Sicherheitslücken ab",
+      "teaser": "IBM hat mehrere Sicherheitswarnungen zum InfoSphere Information Server herausgegeben. Aktualisierte Software korrigiert die Fehler.",
+      "url": "https://www.heise.de/news/Update-fuer-IBM-InfoSphere-Information-Server-dichtet-viele-Sicherheitsluecken-ab-9786689.html"
     },
     {
       "title": "CocoaPods: Anfällig für Supply-Chain-Angriffe in \"zahllosen\" Mac- und iOS-Apps",
@@ -58,12 +63,6 @@
       "teaser": "Eine Sicherheitslücke im Portal der Gesundheitsberichterstattung des Bundes hätte 500 Personen betreffen können, die sich eine Favoritenliste angelegt haben.",
       "url": "https://www.heise.de/news/Gesundheitsberichterstattung-des-Bundes-Sicherheitsluecke-traf-Favoritenliste-9785918.html",
       "image_title": "Screenshot, auf dem die derzeit deaktivierte Website der GBE des Bundes zu sehen ist"
-    },
-    {
-      "title": "Google: Ausbruch aus Hypervisor von Android bringt 250.000 US-Dollar",
-      "teaser": "Google startet eine Fehlerjagd für den Hypervisor der Kernel-based Virtual Machine. Bis zu 250.000 US-Dollar Prämie winken.",
-      "url": "https://www.heise.de/news/Google-Bug-Bounty-Programm-fuer-Hypervisor-in-Android-und-Google-Cloud-9786103.html",
-      "image_title": "Stilisiertes Bild: Laptop mit brennendem Bildschirm, Whitehat sitzt davor und zählt Geld"
     },
     {
       "title": "iX-Workshop: Innerdeutsche E-Rechnungspflicht - Software richtig implementieren",
@@ -88,6 +87,12 @@
       "teaser": "Nach einem Cyberangriff auf eine Kinderklinik in den USA werden Patienten über Datenleck informiert. Weitere Vorfälle gibt es in Hausham und Zagreb.",
       "url": "https://www.heise.de/news/Cybervorfaelle-treffen-Krankenhaeuser-in-Deutschland-Kroatien-und-den-USA-9785020.html",
       "image_title": "Kinderklinik Ann and Robert H Lurie Children's Hospital of Chicago"
+    },
+    {
+      "title": "Debian: Version 10 (Buster) am End-of-Lifecycle angelangt",
+      "teaser": "Debian 10 (Buster) hat das End-of-Lifecycle erreicht. Ab sofort stellt Debian keine Sicherheitsupdates dafür mehr bereit.",
+      "url": "https://www.heise.de/news/Debian-10-am-Lebensende-angekommen-9784927.html",
+      "image_title": "Das Wort \"Linux\" in Rot"
     },
     {
       "title": "Malvertising: Werbung für Arc liefert Poseidon-Malware für Mac",
@@ -158,12 +163,6 @@
       "teaser": "Das gehypte KI-Maschinchen Rabbit R1 wird inzwischen auch nach Deutschland geliefert. Beeinträchtigt wird dies jedoch von Sicherheitsproblemen.",
       "url": "https://www.heise.de/news/KI-Gadget-Rabbit-R1-Holpriger-Deutschlandstart-durch-Sicherheitsprobleme-9781310.html",
       "image_title": "Rot-oranger Rabbit T1"
-    },
-    {
-      "title": "APT-Angriff auf Fernwartungssoftware? Sicherheitsvorfall bei TeamViewer",
-      "teaser": "Noch ist über das Ausmaß des Angriffs gegen die Fernwartungssoftware nicht viel bekannt - erste Hinweise auf die Urheber deuten auf Profis hin.",
-      "url": "https://www.heise.de/news/APT-Angriff-auf-Fernwartungssoftware-Sicherheitsvorfall-bei-TeamViewer-9781567.html",
-      "image_title": "Teamviewer-Logo unter einer Lupe"
     },
     {
       "title": "Microsoft Cloud Security",
