@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-03T13:09:16",
+  "timestamp": "2024-07-03T14:00:48",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -46,12 +46,6 @@
     {
       "title": "OpenSSH",
       "url": "https://www.heise.de/news/RegreSSHion-Sicherheitsluecke-in-OpenSSH-gibt-geduldigen-Angreifern-Root-Rechte-9784976.html"
-    },
-    {
-      "title": "regreSSHion-Lücke: Neues SSH-Feature bietet Schutz, Proof of Concept ist keiner",
-      "teaser": "Im Gespräch mit heise security erläuterte ein Qualys-Forscher die Schwere des Problems. Eine wichtige neue OpenSSH-Funktion sichert den Dienst zusätzlich ab.",
-      "url": "https://www.heise.de/hintergrund/regreSSHion-Luecke-Neues-SSH-Feature-bietet-Schutz-Proof-of-Concept-ist-keiner-9788285.html",
-      "image_title": "SSH-Protokolldateien"
     },
     {
       "title": "German Refund Crew: Anklageerhebung gegen acht Verdächtige",
@@ -119,6 +113,12 @@
       "image_title": "Kinderklinik Ann and Robert H Lurie Children's Hospital of Chicago"
     },
     {
+      "title": "RegreSSHion: Sicherheitslücke in OpenSSH gibt geduldigen Angreifern Root-Rechte",
+      "teaser": "Wer die alte, neue Lücke im SSH-Server ausnutzen möchte, braucht Sitzfleisch: Bis zur Root-Shell dauert es 8 Stunden. Dafür klappt der Angriff aus der Ferne.",
+      "url": "https://www.heise.de/news/RegreSSHion-Sicherheitsluecke-in-OpenSSH-gibt-geduldigen-Angreifern-Root-Rechte-9784976.html",
+      "image_title": "Logo der regreSSHion-Lücke"
+    },
+    {
       "title": "Debian: Version 10 (Buster) am End-of-Lifecycle angelangt",
       "teaser": "Debian 10 (Buster) hat das End-of-Lifecycle erreicht. Ab sofort stellt Debian keine Sicherheitsupdates dafür mehr bereit.",
       "url": "https://www.heise.de/news/Debian-10-am-Lebensende-angekommen-9784927.html",
@@ -171,6 +171,12 @@
       "url": "https://heise-academy.de/webinare/microsoft_cloud_security?wt_mc=intern.academy.security.web_scuba.hs_teaser.teaser.teaser"
     },
     {
+      "title": "regreSSHion-Lücke: Neues SSH-Feature bietet Schutz, Proof of Concept ist keiner",
+      "teaser": "Im Gespräch mit heise security erläuterte ein Qualys-Forscher die Schwere des Problems. Eine wichtige neue OpenSSH-Funktion sichert den Dienst zusätzlich ab.",
+      "url": "https://www.heise.de/hintergrund/regreSSHion-Luecke-Neues-SSH-Feature-bietet-Schutz-Proof-of-Concept-ist-keiner-9788285.html",
+      "image_title": "SSH-Protokolldateien"
+    },
+    {
       "title": "IT-Security: Mehr Sicherheit durch API-Firewalls",
       "teaser": "Wer eine API öffentlich ins Internet stellt, darf bei der Sicherheit nicht sparen. Spezielle API-Firewalls prüfen Anfragen und Antworten auf legitime Inhalte.",
       "url": "https://www.heise.de/ratgeber/IT-Security-Mehr-Sicherheit-durch-API-Firewalls-9755074.html"
@@ -179,12 +185,6 @@
       "title": "TTPs: Angriffsstrategien verstehen und durchkreuzen",
       "teaser": "Das Wissen um die Tactics, Techniques and Procedures (TTPs) krimineller Gruppen hilft beim Abschätzen der Gefahren und beim Ausarbeiten von Schutzmaßnahmen.",
       "url": "https://www.heise.de/hintergrund/TTPs-Angriffsstrategien-verstehen-und-durchkreuzen-9725985.html"
-    },
-    {
-      "title": "WLAN mit individuellen Schlüsseln sichern",
-      "teaser": "In kleinen Netzen teilen sich alle dasselbe WLAN-Passwort, was Lauschangriffe erleichtert. Mit OpenWrt kann man jedem Gerät einen eigenen Schlüssel geben.",
-      "url": "https://www.heise.de/ratgeber/WLAN-mit-individuellen-Schluesseln-sichern-9729234.html",
-      "image_title": ","
     },
     {
       "title": "Desinfect 2024 funktioniert nicht mehr",
