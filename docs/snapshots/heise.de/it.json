@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-04T10:00:31",
+  "timestamp": "2024-07-04T11:00:59",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,15 +26,39 @@
   ],
   "articles": [
     {
+      "title": "Linux-Distribution: openSUSE Leap 15.6 im Test",
+      "teaser": "Mit openSUSE Leap 15.6 bekommt man eine sehr stabile Linux-Distribution. Die Admin-Weboberfläche Cockpit ist ein willkommener Neuzugang.",
+      "url": "https://www.heise.de/tests/Linux-Distribution-openSUSE-Leap-15-6-im-Test-9787765.html",
+      "image_title": ","
+    },
+    {
       "title": "Warum Apple Intelligence ein Ritterschlag für Sam Altman ist",
       "teaser": "Um mit Microsoft und Google mitzuhalten, umfasst Apples KI-Strategie einen Deal mit OpenAI. Was steckt hinter dem Geschäft und wer ist dessen CEO Sam Altman?",
       "url": "https://www.heise.de/hintergrund/Warum-Apple-Intelligence-ein-Ritterschlag-fuer-Sam-Altman-ist-9786095.html",
       "image_title": ", AP"
     },
     {
-      "title": "So läuft Windows 11 auf dem MacBook",
-      "teaser": "Um Windows 11 auf einem Laptop mit ARM-Prozessor auszuprobieren, braucht es kein neues Gerät. Windows on ARM läuft auch auf dem MacBook, wir testen wie gut.​",
-      "url": "https://www.heise.de/ratgeber/So-laeuft-Windows-11-auf-dem-MacBook-9786703.html"
+      "title": "Google: Treibhausgasemissionen wegen KI im letzten Jahr um 13 Prozent gestiegen",
+      "teaser": "Eigentlich hat sich Google ehrgeizige Pläne beim Umweltschutz gesetzt. Doch der jüngste KI-Hype macht ihnen einen Strich durch die Rechnung.",
+      "url": "https://www.heise.de/news/Google-Treibhausgasemissionen-wegen-KI-im-letzten-Jahr-um-13-Prozent-gestiegen-9789257.html",
+      "image_title": "Grüner Baum"
+    },
+    {
+      "title": "Vektordatenbankanbieter Qdrant präsentiert neuen Algorithmus für hybride Suche",
+      "teaser": "Qdrant führt mit BM42 einen neuen, auf Retrieval Augmented Generation zugeschnittenen Suchalgorithmus ein, der die Vorteile von Transformern nutzt.",
+      "url": "https://www.heise.de/news/Vektordatenbankanbieter-Qdrant-praesentiert-neuen-Algorithmus-fuer-hybride-Suche-9789608.html"
+    },
+    {
+      "title": "ChatGPT-App für macOS speicherte alle Chats ungeschützt und im Klartext",
+      "teaser": "Es scheint, als hätte OpenAI die ChatGPT-App für macOS mit heißer Nadel gestrickt. Sie hat alle Chats im Klartext gespeichert, ohne Zugriffsschutz.",
+      "url": "https://www.heise.de/news/ChatGPT-App-fuer-macOS-speicherte-alle-Chats-ungeschuetzt-und-im-Klartext-9789390.html",
+      "image_title": "Ein KI-Wurm schaut aus dem Display eines Laptops heraus"
+    },
+    {
+      "title": "software-architektur.tv: Nick Tune about Architecture Modernization",
+      "teaser": "Für diese englischsprachige Episode des Videocasts zu Softwarearchitektur hat sich Eberhard Wolff Nick Tune eingeladen, Consultant und Trainer.",
+      "url": "https://www.heise.de/news/software-architektur-tv-Nick-Tune-about-Architecture-Modernization-9786918.html",
+      "image_title": "neue Folge software-architektur.tv zum Thema Scheitern der Agilität"
     },
     {
       "title": "Kombi-Fritzbox 5690 Pro vorbestellbar",
@@ -99,30 +123,6 @@
       "teaser": "In der #heiseshow: AVM zahlt Millionenstrafe für Preisabsprachen, Zweifel am Video-Schiedsrichter bei der EM 2024 und Schleswig-Holstein plant UKW-Aus für 2031.",
       "url": "https://www.heise.de/news/heiseshow-Fritzbox-Strafe-Fussball-VAR-UKW-Aus-9788002.html",
       "image_title": "heiseshow - Jeden Donnerstag LIVE um 17 Uhr"
-    },
-    {
-      "title": "Threads zählt nach einem Jahr mehr als 175 Millionen monatlich aktive Nutzer",
-      "teaser": "Rund ein Jahr nach dem Start der Twitter-Alternative von Meta Platforms wächst Threads weiter, bloß nicht mehr so rapide wie zu Beginn. Mark Zuckerberg freuts.",
-      "url": "https://www.heise.de/news/Threads-zaehlt-nach-einem-Jahr-mehr-als-175-Millionen-monatlich-aktive-Nutzer-9788991.html",
-      "image_title": "Mark Zuckerberg winkt"
-    },
-    {
-      "title": "USA warnen Hardware-Firmen: Garantie darf Recht auf Reparatur nicht einschränken",
-      "teaser": "\"Warranty void when removed\" steht auf Aufklebern, die man entfernen muss, um Geräte zu richten. In den USA ist das unzulässig.​",
-      "url": "https://www.heise.de/news/USA-warnen-Hardware-Firmen-Garantie-darf-Recht-auf-Reparatur-nicht-einschraenken-9788977.html",
-      "image_title": "Kleiner Laden für Handy-Reparatur in einer Markthalle. Ein Mann hinter dem Tresen bedient gerade eine Kundin."
-    },
-    {
-      "title": "Avast muss wegen Datenweitergabe 16,5 Millionen Dollar zahlen",
-      "teaser": "Die Antiviren-Firma Avast muss auch in den USA Millionen zahlen, weil sie Browserverläufe und Cookies heimlich an die Werbewirtschaft verkauft hat.​",
-      "url": "https://www.heise.de/news/Avast-muss-wegen-Datenweitergabe-16-5-Millionen-Dollar-zahlen-9788887.html",
-      "image_title": "Mann in Anzug hält breit gefächerte Dollarscheine in die Kamera"
-    },
-    {
-      "title": "Neue Glasfaser-Tarife bei der Telekom: Deutlich mehr Upload",
-      "teaser": "Die Deutsche Telekom hat neue Glasfaser-Tarife eingeführt. Vor allem der Upload ist teils erheblich schneller. Manches wird auch günstiger.",
-      "url": "https://www.heise.de/news/Neue-Glasfaser-Tarife-bei-der-Telekom-Deutlich-mehr-Upload-9788817.html",
-      "image_title": "Telekom-Verteilerkasten in Bremen."
     },
     {
       "title": "Nachhaltigkeit durch Digitalisierung",
