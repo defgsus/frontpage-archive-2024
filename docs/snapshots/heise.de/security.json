@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-08T05:08:18",
+  "timestamp": "2024-07-08T06:09:39",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Mastodon",
+      "url": "https://www.heise.de/news/Mastodon-Sicherheitsluecke-ermoeglicht-unbefugten-Zugriff-auf-Posts-9792706.html"
+    },
+    {
       "title": "Patchday Android",
       "url": "https://www.heise.de/news/Android-Google-schliesst-teils-kritische-Luecken-am-Juli-Patchday-9786995.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Juniper-Notfall-Update-fuer-Junos-OS-auf-SRX-Baureihe-9785970.html"
     },
     {
-      "title": "OpenSSH",
-      "url": "https://www.heise.de/news/RegreSSHion-Sicherheitsluecke-in-OpenSSH-gibt-geduldigen-Angreifern-Root-Rechte-9784976.html"
+      "title": "iX-Workshop: Innerdeutsche E-Rechnungspflicht - Software richtig implementieren",
+      "teaser": "Lernen Sie Hands-on, welche Formate wie unterstützt, geprüft und umgewandelt werden können oder müssen und wie Sie dabei vorgehen. (10% Rabatt bis 21.07.)",
+      "url": "https://www.heise.de/news/iX-Workshop-Innerdeutsche-E-Rechnungspflicht-Software-richtig-implementieren-9775597.html",
+      "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
+    },
+    {
+      "title": "Mastodon: Sicherheitslücke ermöglicht unbefugten Zugriff auf Posts",
+      "teaser": "Betreiber von Mastodon-Instanzen sollten zügig ihre Serversoftware aktualisieren. Eine hochriskant Lücke erlaubt unbefugten Zugriff auf Posts.",
+      "url": "https://www.heise.de/news/Mastodon-Sicherheitsluecke-ermoeglicht-unbefugten-Zugriff-auf-Posts-9792706.html",
+      "image_title": "Ein Stapel von Mastodon-Logos"
     },
     {
       "title": "Exim: Umgehung des Attachment-Filters ermöglicht Schadcodeanhänge",
@@ -151,18 +163,6 @@
       "teaser": "Google startet eine Fehlerjagd für den Hypervisor der Kernel-based Virtual Machine. Bis zu 250.000 US-Dollar Prämie winken.",
       "url": "https://www.heise.de/news/Google-Bug-Bounty-Programm-fuer-Hypervisor-in-Android-und-Google-Cloud-9786103.html",
       "image_title": "Stilisiertes Bild: Laptop mit brennendem Bildschirm, Whitehat sitzt davor und zählt Geld"
-    },
-    {
-      "title": "iX-Workshop: Innerdeutsche E-Rechnungspflicht - Software richtig implementieren",
-      "teaser": "Lernen Sie Hands-on, welche Formate wie unterstützt, geprüft und umgewandelt werden können oder müssen und wie Sie dabei vorgehen. (Last Call)",
-      "url": "https://www.heise.de/news/iX-Workshop-Innerdeutsche-E-Rechnungspflicht-Software-richtig-implementieren-9769756.html",
-      "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
-    },
-    {
-      "title": "Juniper: Notfall-Update für Junos OS auf SRX-Baureihe",
-      "teaser": "Juniper Networks schließt eine als hochriskant eingestufte DoS-Lücke im Juniper OS der SRX-Geräte mit einem Update außer der Reihe.",
-      "url": "https://www.heise.de/news/Juniper-Notfall-Update-fuer-Junos-OS-auf-SRX-Baureihe-9785970.html",
-      "image_title": "Stilisiertes Bild: Ein Stapel brennender Appliances"
     },
     {
       "title": "Microsoft Cloud Security",

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-08T05:08:15",
+  "timestamp": "2024-07-08T06:09:36",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,15 +26,32 @@
   ],
   "articles": [
     {
+      "title": "LlamaIndex: Mit Dokumenten und Datenbanken in natürlicher Sprache sprechen",
+      "teaser": "Mit dem Python-Framework LlamaIndex lassen sich LLMs um eigene Daten erweitern. RAG ermöglicht es, mit Dokumenten und Datenbanken zu kommunizieren.",
+      "url": "https://www.heise.de/hintergrund/LlamaIndex-Mit-Dokumenten-und-Datenbanken-in-natuerlicher-Sprache-sprechen-9789624.html"
+    },
+    {
       "title": "Gehälter 2024: Das verdienen Softwareentwickler in Deutschland",
       "teaser": "Unternehmen suchen händeringend nach Softwareentwicklern. Ihr Gehalt kann sich sehen lassen, hängt aber stark von der gewählten Spezialisierung ab.",
       "url": "https://www.heise.de/hintergrund/Gehaelter-2024-Das-verdienen-Softwareentwickler-in-Deutschland-9789328.html"
     },
     {
-      "title": "Arduino IDE auf Unraid installieren",
-      "teaser": "Auf Unraid lässt sich eine Umgebung für die Entwicklung in der Arduino IDE hosten, die per Browser genutzt wird und über das Netzwerk auf Boards zugreifen kann.",
-      "url": "https://www.heise.de/ratgeber/Arduino-IDE-auf-Unraid-installieren-9787941.html",
+      "title": "BBC Micro:bit in Python programmieren: Ein eigenes Spiel entwickeln",
+      "teaser": "Der Mikrocontroller BBC Micro:bit bietet zahlreiche Funktionen für den Einstieg in die Mikrocontroller-Welt. Zum Start am besten geeignet: ein eigenes Spiel.",
+      "url": "https://www.heise.de/ratgeber/BBC-Micro-bit-in-Python-programmieren-Ein-eigenes-Spiel-entwickeln-9789112.html",
       "image_title": ","
+    },
+    {
+      "title": "iX-Workshop: Innerdeutsche E-Rechnungspflicht - Software richtig implementieren",
+      "teaser": "Lernen Sie Hands-on, welche Formate wie unterstützt, geprüft und umgewandelt werden können oder müssen und wie Sie dabei vorgehen. (10% Rabatt bis 21.07.)",
+      "url": "https://www.heise.de/news/iX-Workshop-Innerdeutsche-E-Rechnungspflicht-Software-richtig-implementieren-9775597.html",
+      "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
+    },
+    {
+      "title": "Mastodon: Sicherheitslücke ermöglicht unbefugten Zugriff auf Posts",
+      "teaser": "Betreiber von Mastodon-Instanzen sollten zügig ihre Serversoftware aktualisieren. Eine hochriskant Lücke erlaubt unbefugten Zugriff auf Posts.",
+      "url": "https://www.heise.de/news/Mastodon-Sicherheitsluecke-ermoeglicht-unbefugten-Zugriff-auf-Posts-9792706.html",
+      "image_title": "Ein Stapel von Mastodon-Logos"
     },
     {
       "title": "EU-Kommission fühlt Amazon wegen Empfehlungssystemen auf den Zahn",
@@ -105,23 +122,6 @@
       "teaser": "Mithilfe des Digital Markets Acts will Epic die Rückkehr von Fortnite auf iPhones erzwingen. Wegen angeblicher Formfehler lasse Apple den Store nicht zu.",
       "url": "https://www.heise.de/news/Willkuerlich-Epic-Games-Store-bei-Apple-Pruefung-angeblich-durchgefallen-9791821.html",
       "image_title": "Epic Games Logo auf einem Smartphone"
-    },
-    {
-      "title": "Apple Vision Pro im Langzeittest: Ein Flop?!? | c't 3003",
-      "teaser": "Beeindruckende Technik, aber wenige Spiele, Bedienungsprobleme und unpraktisch für Brillenträger. Bleibt die AVP ein Nischenprodukt? Der c't 3003 Langzeittest.",
-      "url": "https://www.heise.de/news/Apple-Vision-Pro-ist-toll-und-VR-ist-tot-9791715.html",
-      "image_title": "Redakteur mit Router"
-    },
-    {
-      "title": "Bis zu 5 Jahre Haft: Bundesrat will Deepfakes eindeutig strafbar machen​",
-      "teaser": "Die Länder haben einen Gesetzesantrag befürwortet, mit dem sie harte Strafen für die \"Verletzung von Persönlichkeitsrechten durch digitale Fälschung\" fordern.​",
-      "url": "https://www.heise.de/news/Bis-zu-5-Jahre-Haft-Bundesrat-will-Deepfakes-eindeutig-strafbar-machen-9791798.html",
-      "image_title": "Deepfake-Schriftzug vor Handy in Menschenhand"
-    },
-    {
-      "title": "ECMAScript 2024: Neue Version des JavaScript-Standards veröffentlicht",
-      "teaser": "Der neue Standard erlaubt einen flexibleren Umgang mit ArrayBuffer und SharedArrayBuffer sowie eine vereinfachte Konfiguration von Promises.",
-      "url": "https://www.heise.de/news/JavaScript-Standard-ECMAScript-2024-bringt-neue-Moeglichkeiten-fuer-ArrayBuffer-9791665.html"
     },
     {
       "title": "Nachhaltigkeit durch Digitalisierung",
