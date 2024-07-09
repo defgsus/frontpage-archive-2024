@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-09T09:00:53",
+  "timestamp": "2024-07-09T10:01:44",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Trend Micro Apex One",
+      "url": "https://www.heise.de/news/IT-Sicherheitsloesung-Trend-Micro-Apex-One-vor-moeglichen-Attacken-abgesichert-9794520.html"
+    },
+    {
       "title": "Ghostscript",
       "url": "https://www.heise.de/news/Ghostscript-Codeschmuggel-Luecke-wird-angegriffen-9794209.html"
     },
@@ -44,20 +48,15 @@
       "url": "https://www.heise.de/news/Mastodon-Sicherheitsluecke-ermoeglicht-unbefugten-Zugriff-auf-Posts-9792706.html"
     },
     {
-      "title": "Patchday Android",
-      "url": "https://www.heise.de/news/Android-Google-schliesst-teils-kritische-Luecken-am-Juli-Patchday-9786995.html"
+      "title": "Windows 11: In 90 Tagen endet Support für einige Builds",
+      "teaser": "Microsoft erinnert an das Support-Ende für einige Windows-11-Builds. Nicht verwaltete Geräte erhalten automatisch ein Versionsupdate.",
+      "url": "https://www.heise.de/news/Windows-11-In-90-Tagen-endet-Support-fuer-einige-Builds-9794617.html",
+      "image_title": "Stilisiertes Bild: Windows Update auf Laptop"
     },
     {
-      "title": "Nach Taylor-Swift-Karten: 39.000 weitere Tickets veröffentlicht",
-      "teaser": "Die Ticketmaster-Erpresser haben 39.000 Barcodes für Konzerte populärer Bands veröffentlicht. Anti-Betrugsmaßnahmen greifen womöglich nicht.",
-      "url": "https://www.heise.de/news/Nach-Taylor-Swift-Karten-39-000-weitere-Tickets-veroeffentlicht-9794363.html",
-      "image_title": "Taylor Swift"
-    },
-    {
-      "title": "Codeschmuggel-Lücke in Ghostscript wird angegriffen",
-      "teaser": "IT-Forscher haben mehrere Sicherheitslücken in Ghostscript entdeckt. Eine davon wird offenbar bereits angegriffen.",
-      "url": "https://www.heise.de/news/Ghostscript-Codeschmuggel-Luecke-wird-angegriffen-9794209.html",
-      "image_title": "Stilisiertes Bild: Software-Update auf Laptop"
+      "title": "IT-Sicherheitslösung Trend Micro Apex One vor möglichen Attacken abgesichert",
+      "teaser": "Angreifer können Windows-PCs mit Trend Micro Apex One oder Apex One as a Service attackieren. Sicherheitspatches sind erschienen.",
+      "url": "https://www.heise.de/news/IT-Sicherheitsloesung-Trend-Micro-Apex-One-vor-moeglichen-Attacken-abgesichert-9794520.html"
     },
     {
       "title": "Apple schmeißt VPNs aus dem russischen App Store",
@@ -81,6 +80,18 @@
       "teaser": "Die Frankfurter University of Applied Sciences ist am Samstag Opfer eines Cyberangriffs geworden. IT-Systeme wurden heruntergefahren, auch der Fahrstuhl.",
       "url": "https://www.heise.de/news/Cyberangriff-auf-Frankfurter-University-of-Applied-Sciences-9793380.html",
       "image_title": "Student nutzt Laptop"
+    },
+    {
+      "title": "Paypal: Anpassungen bei Mehr-Faktor-Authentifizierung",
+      "teaser": "Ein Teil der Paypal-Nutzer hat elektronische Post bekommen: Anpassungen bei der Mehr-Faktor-Authentifizierung stehen ins Haus.",
+      "url": "https://www.heise.de/news/Paypal-vereinheitlicht-Moeglichkeiten-zur-Zwei-Faktor-Authentifizierung-9793215.html",
+      "image_title": "Eine Hand hält ein Smartphone in die Kamera; auf dem Display ist der Paypal-Schriftzug zu sehen"
+    },
+    {
+      "title": "170.000 Taylor Swift-Tickets von Cyberkriminiellen \"verschenkt\"",
+      "teaser": "Nach dem Einbruch bei der Ticketmaster-Mutter Live Nation erhöhen die Täter den Druck. 170.000 Tickets für Taylor-Swift-Konzerte haben sie verteilt.",
+      "url": "https://www.heise.de/news/170-000-Taylor-Swift-Tickets-von-Cyberkriminiellen-verschenkt-9792857.html",
+      "image_title": "Taylor Swift auf einem Konzert"
     },
     {
       "title": "iX-Workshop: Innerdeutsche E-Rechnungspflicht - Software richtig implementieren",
@@ -151,18 +162,6 @@
       "teaser": "Wie Organisationen Sicherheitsvorfälle ganzheitlich von Erkennung bis Wiederaufbau behandeln, vermitteln mehrere Fachvorträge. Frühbucher werden belohnt.",
       "url": "https://www.heise.de/news/IT-Sicherheitstag-Dortmund-Richtig-mit-Sicherheitsvorfaellen-umgehen-9786146.html",
       "image_title": "Header ITSI Dortmund"
-    },
-    {
-      "title": "Avast muss wegen Datenweitergabe 16,5 Millionen Dollar zahlen",
-      "teaser": "Die Antiviren-Firma Avast muss auch in den USA Millionen zahlen, weil sie Browserverläufe und Cookies heimlich an die Werbewirtschaft verkauft hat.​",
-      "url": "https://www.heise.de/news/Avast-muss-wegen-Datenweitergabe-16-5-Millionen-Dollar-zahlen-9788887.html",
-      "image_title": "Mann in Anzug hält breit gefächerte Dollarscheine in die Kamera"
-    },
-    {
-      "title": "regreSSHion-Lücke: Neues SSH-Feature bietet Schutz, Proof of Concept ist keiner",
-      "teaser": "Im Gespräch mit heise security erläuterte ein Qualys-Forscher die Schwere des Problems. Eine wichtige neue OpenSSH-Funktion sichert den Dienst zusätzlich ab.",
-      "url": "https://www.heise.de/hintergrund/regreSSHion-Luecke-Neues-SSH-Feature-bietet-Schutz-Proof-of-Concept-ist-keiner-9788285.html",
-      "image_title": "SSH-Protokolldateien"
     },
     {
       "title": "Microsoft Cloud Security",
