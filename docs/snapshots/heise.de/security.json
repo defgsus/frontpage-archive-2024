@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-09T13:10:21",
+  "timestamp": "2024-07-09T14:01:02",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Patchday SAP",
+      "url": "https://www.heise.de/news/Patchday-SAP-ruestet-Unternehmenssoftware-gegen-etwaige-Angriffe-9795171.html"
+    },
+    {
       "title": "Wordpress-Plug-in Modern Events Calendar",
       "url": "https://www.heise.de/news/Wordpress-Plug-in-mit-150-000-Installation-ermoeglicht-beliebige-Dateiuploads-9794927.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Ghostscript-Codeschmuggel-Luecke-wird-angegriffen-9794209.html"
     },
     {
-      "title": "Multifunktionsdrucker Sharp und Toshiba",
-      "url": "https://www.heise.de/news/Schadcode-Attacken-auf-Multifunktionsdrucker-von-Toshiba-und-Sharp-moeglich-9793179.html"
+      "title": "Patchday: SAP rüstet Unternehmenssoftware gegen etwaige Angriffe",
+      "teaser": "Es sind wichtige Sicherheitsupdates unter anderem für SAP Commerce und NetWeaver erschienen.",
+      "url": "https://www.heise.de/news/Patchday-SAP-ruestet-Unternehmenssoftware-gegen-etwaige-Angriffe-9795171.html",
+      "image_title": "SAP-Logo mit Flecken und der Aufschrift \"Patchday\""
+    },
+    {
+      "title": "Ransomware: Entschlüsselungstool für Muse, DarkRace und DoNex veröffentlicht",
+      "teaser": "Opfer der Verschlüsselungstrojaner Muse, DarkRace und DoNex können ab sofort, ohne Lösegeld zu zahlen, wieder auf ihre Daten zugreifen.",
+      "url": "https://www.heise.de/news/Ransomware-Entschluesselungstool-fuer-Muse-DarkRace-und-DoNex-veroeffentlicht-9795098.html",
+      "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
     },
     {
       "title": "Wordpress-Plug-in mit 150.000 Installation ermöglicht beliebige Dateiuploads",
@@ -150,18 +162,6 @@
       "teaser": "Nachdem Kriminelle eine CSV-Datei mit Telefonnummern von angeblich 33 Millionen Authy-Nutzern geleakt haben, drohen unter anderem SMS-Phishing-Attacken.",
       "url": "https://www.heise.de/news/MFA-App-Authy-Unzaehlige-Telefonnummern-ueber-ungesicherte-API-abgegriffen-9789229.html",
       "image_title": "Stilisiertes Bild: Brennender Monitor"
-    },
-    {
-      "title": "ChatGPT-App für macOS speicherte alle Chats ungeschützt und im Klartext",
-      "teaser": "Es scheint, als hätte OpenAI die ChatGPT-App für macOS mit heißer Nadel gestrickt. Sie hat alle Chats im Klartext gespeichert, ohne Zugriffsschutz.",
-      "url": "https://www.heise.de/news/ChatGPT-App-fuer-macOS-speicherte-alle-Chats-ungeschuetzt-und-im-Klartext-9789390.html",
-      "image_title": "Ein KI-Wurm schaut aus dem Display eines Laptops heraus"
-    },
-    {
-      "title": "Europol blockt rund 600 in kriminellen Aktivitäten gefundene IPs und Domains",
-      "teaser": "Europols Operation Morpheus hat anhand unlizenzierter Cobalt-Strike-Instanzen IPs und Domains mit kriminellen Verbindungen ausgeknippst.",
-      "url": "https://www.heise.de/news/Europol-Operation-Morpheus-Rund-600-IPs-und-Domains-hops-genommen-9789103.html",
-      "image_title": "Hacker bei der Arbeit"
     },
     {
       "title": "Microsoft Cloud Security",
