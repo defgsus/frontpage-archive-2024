@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-10T14:00:45",
+  "timestamp": "2024-07-10T15:01:40",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,14 +26,20 @@
   ],
   "articles": [
     {
+      "title": "Programmieren mit Julia, Teil 3: Big Data Science und GPUs",
+      "teaser": "Julia enthält Bibliotheken und Frameworks für paralleles und verteiltes Rechnen. Prozesse für komplexe Berechnungen sind ohne großen Overhead durchführbar.",
+      "url": "https://www.heise.de/ratgeber/Programmieren-mit-Julia-Teil-3-Big-Data-Science-und-GPUs-9794679.html"
+    },
+    {
       "title": "Machine Learning: ML-Modelle mit F# und TorchSharp erstellen",
       "teaser": "Wer im .NET-Universum unterwegs ist, muss für Machine Learning nicht Python lernen. Mit der Bibliothek TorchSharp lassen sich mit F# ML-Modelle erstellen.",
       "url": "https://www.heise.de/ratgeber/Machine-Learning-ML-Modelle-mit-F-und-TorchSharp-erstellen-9793601.html"
     },
     {
-      "title": "AutoGen im Test: Das flexible Multi-Agenten-Framework für bessere KI",
-      "teaser": "AutoGen hilft, große Sprachmodelle über einen Chat zu verknüpfen, um iterativ bessere Ergebnisse aus der KI herauszuholen. So funktioniert es.",
-      "url": "https://www.heise.de/tests/AutoGen-im-Test-Das-flexible-Multi-Agenten-Framework-fuer-bessere-KI-9792958.html"
+      "title": "Kehrtwende: Apple offenbar doch nicht im Aufsichtsrat von OpenAI",
+      "teaser": "Im Zuge der neuen Zusammenarbeit sollte Apple einen Beobachterposten im Aufsichtsrat von OpenAI bekommen. Ein Rückzug Microsofts ändert auch Apples Pläne.",
+      "url": "https://www.heise.de/news/Kehrtwende-Apple-offenbar-doch-nicht-im-Aufsichtsrat-von-OpenAI-9796884.html",
+      "image_title": "Das Logo von OpenAI an der Fassade des Bürogebäudes in San Francisco."
     },
     {
       "title": "Störung der BSI-Webseite",
@@ -118,12 +124,6 @@
       "teaser": "Immer öfter übernehmen Roboter die Arbeit. Bleiben den Beschäftigten künftig Schweiß, Stress und Schmutz erspart? Oder geraten die Jobs gleich ganz in Gefahr?",
       "url": "https://www.heise.de/news/Bundesarbeitsminister-KI-zwingt-Millionen-zu-Neuorientierung-im-Job-9795966.html",
       "image_title": "Zwei Hände reichen einander, eine menschliche Hand und eine Roboterhand."
-    },
-    {
-      "title": "OpenSSH: Weitere RegreSSHion-artige Lücke entdeckt",
-      "teaser": "Die RegreSSHion-Lücke ermöglichte Angreifern Root-Zugriff. Ein IT-Forscher hat eine weitere ähnliche Lücke in OpenSSH von RHEL 9 und Abkömmlingen entdeckt.",
-      "url": "https://www.heise.de/news/OpenSSH-Weitere-RegreSSHion-artige-Luecke-entdeckt-9795874.html",
-      "image_title": "Stilisierte Grafik: ein brennender Server, Serverrack"
     },
     {
       "title": "Nachhaltigkeit durch Digitalisierung",
