@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-10T08:00:49",
+  "timestamp": "2024-07-10T09:00:42",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,20 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.6288c32d6a657bca90c6",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.ffb71fa4c5c59c89a808",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Citrix",
+      "url": "https://www.heise.de/news/Citrix-stopft-teils-kritische-Sicherheitsluecken-in-mehreren-Produkten-9795655.html"
+    },
+    {
+      "title": "Patchday Microsoft",
+      "url": "https://www.heise.de/news/Patchday-Microsoft-Angreifer-attackieren-Windows-11-ueber-Hyper-V-9795167.html"
+    },
     {
       "title": "Patchday Adobe",
       "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Attacken-auf-InDesign-Co-moeglich-9795641.html"
@@ -40,18 +48,16 @@
       "url": "https://www.heise.de/news/Patchday-SAP-ruestet-Unternehmenssoftware-gegen-etwaige-Angriffe-9795171.html"
     },
     {
-      "title": "Wordpress-Plug-in Modern Events Calendar",
-      "url": "https://www.heise.de/news/Wordpress-Plug-in-mit-150-000-Installation-ermoeglicht-beliebige-Dateiuploads-9794927.html"
+      "title": "Schlangenölverkäufer und ihre \"Sicherheitsprodukte\" verderben die Unternehmen",
+      "teaser": "Verkauft der Finder einer Schwachstelle auch gleich die Lösung des Problems, ist bei ihrer Schwere gesundes Misstrauen angesagt, meint Janis König.",
+      "url": "https://www.heise.de/meinung/Schlangenoelverkaeufer-und-ihre-Sicherheitsprodukte-verderben-die-Unternehmen-9795635.html",
+      "image_title": "Fingerabdruck mit Schlüssel"
     },
     {
-      "title": "Trend Micro Apex One",
-      "url": "https://www.heise.de/news/IT-Sicherheitsloesung-Trend-Micro-Apex-One-vor-moeglichen-Attacken-abgesichert-9794520.html"
-    },
-    {
-      "title": "Patchday Adobe: Schadcode-Attacken auf InDesign & Co. möglich",
-      "teaser": "Sicherheitsupdates schützen Adobe Bridge, InDesign und Premiere Pro davor, dass Angreifer eigenen Code ausführen können.",
-      "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Attacken-auf-InDesign-Co-moeglich-9795641.html",
-      "image_title": "Adobe-Logo mit Flecken und der Aufschrift \"Patchday\""
+      "title": "Citrix stopft teils kritische Sicherheitslücken in mehreren Produkten",
+      "teaser": "Citrix hat Sicherheitswarnungen zu mehreren Produkten veröffentlicht. Updates schließen teils kritische Schwachstellen darin.",
+      "url": "https://www.heise.de/news/Citrix-stopft-teils-kritische-Sicherheitsluecken-in-mehreren-Produkten-9795655.html",
+      "image_title": "Stilisierte Grafik: Brennende Appliances im Netz"
     },
     {
       "title": "\"Passwort\" Folge 5: Common Vulnerabilities and Exposures",
@@ -87,6 +93,18 @@
       "title": "IT-Sicherheitslösung Trend Micro Apex One vor möglichen Attacken abgesichert",
       "teaser": "Angreifer können Windows-PCs mit Trend Micro Apex One oder Apex One as a Service attackieren. Sicherheitspatches sind erschienen.",
       "url": "https://www.heise.de/news/IT-Sicherheitsloesung-Trend-Micro-Apex-One-vor-moeglichen-Attacken-abgesichert-9794520.html"
+    },
+    {
+      "title": "Nach Taylor-Swift-Karten: 39.000 weitere Tickets veröffentlicht",
+      "teaser": "Die Ticketmaster-Erpresser haben 39.000 Barcodes für Konzerte populärer Bands veröffentlicht. Anti-Betrugsmaßnahmen greifen womöglich nicht.",
+      "url": "https://www.heise.de/news/Nach-Taylor-Swift-Karten-39-000-weitere-Tickets-veroeffentlicht-9794363.html",
+      "image_title": "Taylor Swift"
+    },
+    {
+      "title": "Codeschmuggel-Lücke in Ghostscript wird angegriffen",
+      "teaser": "IT-Forscher haben mehrere Sicherheitslücken in Ghostscript entdeckt. Eine davon wird offenbar bereits angegriffen.",
+      "url": "https://www.heise.de/news/Ghostscript-Codeschmuggel-Luecke-wird-angegriffen-9794209.html",
+      "image_title": "Stilisiertes Bild: Software-Update auf Laptop"
     },
     {
       "title": "Apple schmeißt VPNs aus dem russischen App Store",
@@ -145,23 +163,6 @@
       "teaser": "Diese Woche gab es einige Cybervorfälle zu beobachten. Die Kriminellen, die Indonesiens IT lahmgelegt haben, übergeben den Key jetzt einfach so.",
       "url": "https://www.heise.de/news/Cybervorfaelle-Keksbaeckerei-TUeV-Rheinland-gnaedige-Taeter-in-Indonesien-9790667.html",
       "image_title": "Bedrohlich rot beleuchteter Gang zwischen Serverschränken"
-    },
-    {
-      "title": "TeamViewer-Angriff: Untersuchung abgeschlossen, Nutzer sind nicht betroffen",
-      "teaser": "Forensische Ermittlungen gemeinsam mit Microsoft ergaben, dass Angreifer weder die Entwicklungsumgebung noch die Kundendaten von Teamviewer kompromittierten.",
-      "url": "https://www.heise.de/news/TeamViewer-Angriff-Untersuchung-abgeschlossen-Nutzer-sind-nicht-betroffen-9790568.html",
-      "image_title": "TeamViewer GmbH"
-    },
-    {
-      "title": "Europol geht gegen antisemitische Inhalte im Netz vor",
-      "teaser": "Europol hat einen Aktionstag gegen antisemitische Inhalte durchgeführt und dabei rund 2000 Inhalte zur Löschung markiert.",
-      "url": "https://www.heise.de/news/Europol-geht-gegen-antisemitische-Inhalte-im-Netz-vor-9790561.html"
-    },
-    {
-      "title": "EU-Kommission: Hunderte Millionen für Cybersicherheit und Halbleiterproduktion​",
-      "teaser": "Die EU investiert 325 Millionen Euro in die innovative Chip-Forschung und 210 Millionen Euro in Cybersecurity mit Schwerpunkt auf kritische Infrastrukturen.​",
-      "url": "https://www.heise.de/news/EU-Kommission-Hunderte-Millionen-fuer-Cybersicherheit-und-Halbleiterproduktion-9790125.html",
-      "image_title": "Chip auf Mainboard"
     },
     {
       "title": "Microsoft Cloud Security",
