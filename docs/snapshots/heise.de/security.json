@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-10T09:00:42",
+  "timestamp": "2024-07-10T10:01:01",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Fortinet",
+      "url": "https://www.heise.de/news/Patchday-Fortinet-FortiADC-fuer-Spionage-Attacken-anfaellig-9795835.html"
+    },
+    {
       "title": "Citrix",
       "url": "https://www.heise.de/news/Citrix-stopft-teils-kritische-Sicherheitsluecken-in-mehreren-Produkten-9795655.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Attacken-auf-InDesign-Co-moeglich-9795641.html"
     },
     {
-      "title": "Patchday SAP",
-      "url": "https://www.heise.de/news/Patchday-SAP-ruestet-Unternehmenssoftware-gegen-etwaige-Angriffe-9795171.html"
+      "title": "Patchday Fortinet: FortiADC für Spionage-Attacken anfällig",
+      "teaser": "Angreifer können mehrere Produkte von Fortinet ins Visier nehmen und unter anderem sensible Daten einsehen.",
+      "url": "https://www.heise.de/news/Patchday-Fortinet-FortiADC-fuer-Spionage-Attacken-anfaellig-9795835.html",
+      "image_title": "Fortinet-Logo mit Update-Stempel"
+    },
+    {
+      "title": "OpenSSH: Weitere RegreSSHion-artige Lücke entdeckt",
+      "teaser": "Die RegreSSHion-Lücke ermöglichte Angreifern Root-Zugriff. Ein IT-Forscher hat eine weitere ähnliche Lücke in OpenSSH von RHEL 9 und Abkömmlingen entdeckt.",
+      "url": "https://www.heise.de/news/OpenSSH-Weitere-RegreSSHion-artige-Luecke-entdeckt-9795874.html",
+      "image_title": "Stilisierte Grafik: ein brennender Server, Serverrack"
     },
     {
       "title": "Schlangenölverkäufer und ihre \"Sicherheitsprodukte\" verderben die Unternehmen",
@@ -154,20 +166,15 @@
       "image_title": "Ein Stapel von Mastodon-Logos"
     },
     {
-      "title": "Exim: Umgehung des Attachment-Filters ermöglicht Schadcodeanhänge",
-      "teaser": "Im Mailer Exim können Angreifer die Filterung von Anhängen aushebeln. Das ermöglicht das Ausliefern schädlicher Anhänge.",
-      "url": "https://www.heise.de/news/Exim-Umgehung-des-Attachment-Filters-ermoeglicht-Schadcodeanhaenge-9791081.html"
-    },
-    {
-      "title": "Cybervorfälle: Keksbäckerei, TÜV Rheinland – \"gnädige\" Täter in Indonesien",
-      "teaser": "Diese Woche gab es einige Cybervorfälle zu beobachten. Die Kriminellen, die Indonesiens IT lahmgelegt haben, übergeben den Key jetzt einfach so.",
-      "url": "https://www.heise.de/news/Cybervorfaelle-Keksbaeckerei-TUeV-Rheinland-gnaedige-Taeter-in-Indonesien-9790667.html",
-      "image_title": "Bedrohlich rot beleuchteter Gang zwischen Serverschränken"
-    },
-    {
       "title": "Microsoft Cloud Security",
       "teaser": "Lernen Sie Lücken und Fehler mit SCUBA selbst zu finden und zu beheben. Das Webinar erklärt das Konzept und die Funktionsweise des Tools, um die Sicherheit seines M365-Tenants zu verbessern.",
       "url": "https://heise-academy.de/webinare/microsoft_cloud_security?wt_mc=intern.academy.security.web_scuba.hs_teaser.teaser.teaser"
+    },
+    {
+      "title": "Schlangenölverkäufer und ihre \"Sicherheitsprodukte\" verderben die Unternehmen",
+      "teaser": "Verkauft der Finder einer Schwachstelle auch gleich die Lösung des Problems, ist bei ihrer Schwere gesundes Misstrauen angesagt, meint Janis König.",
+      "url": "https://www.heise.de/meinung/Schlangenoelverkaeufer-und-ihre-Sicherheitsprodukte-verderben-die-Unternehmen-9795635.html",
+      "image_title": "Fingerabdruck mit Schlüssel"
     },
     {
       "title": "regreSSHion-Lücke: Neues SSH-Feature bietet Schutz, Proof of Concept ist keiner",
@@ -179,11 +186,6 @@
       "title": "IT-Security: Mehr Sicherheit durch API-Firewalls",
       "teaser": "Wer eine API öffentlich ins Internet stellt, darf bei der Sicherheit nicht sparen. Spezielle API-Firewalls prüfen Anfragen und Antworten auf legitime Inhalte.",
       "url": "https://www.heise.de/ratgeber/IT-Security-Mehr-Sicherheit-durch-API-Firewalls-9755074.html"
-    },
-    {
-      "title": "TTPs: Angriffsstrategien verstehen und durchkreuzen",
-      "teaser": "Das Wissen um die Tactics, Techniques and Procedures (TTPs) krimineller Gruppen hilft beim Abschätzen der Gefahren und beim Ausarbeiten von Schutzmaßnahmen.",
-      "url": "https://www.heise.de/hintergrund/TTPs-Angriffsstrategien-verstehen-und-durchkreuzen-9725985.html"
     },
     {
       "title": "Signaturupdate für ESET schlägt fehl",
