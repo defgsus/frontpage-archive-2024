@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-10T10:00:58",
+  "timestamp": "2024-07-10T11:00:55",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,15 +26,32 @@
   ],
   "articles": [
     {
+      "title": "Machine Learning: ML-Modelle mit F# und TorchSharp erstellen",
+      "teaser": "Wer im .NET-Universum unterwegs ist, muss für Machine Learning nicht Python lernen. Mit der Bibliothek TorchSharp lassen sich mit F# ML-Modelle erstellen.",
+      "url": "https://www.heise.de/ratgeber/Machine-Learning-ML-Modelle-mit-F-und-TorchSharp-erstellen-9793601.html"
+    },
+    {
       "title": "AutoGen im Test: Das flexible Multi-Agenten-Framework für bessere KI",
       "teaser": "AutoGen hilft, große Sprachmodelle über einen Chat zu verknüpfen, um iterativ bessere Ergebnisse aus der KI herauszuholen. So funktioniert es.",
       "url": "https://www.heise.de/tests/AutoGen-im-Test-Das-flexible-Multi-Agenten-Framework-fuer-bessere-KI-9792958.html"
     },
     {
-      "title": "Audiodateien optimieren: So geht das kostenlos am Mac",
-      "teaser": "Audio perfekt: Sechs Tipps, wie Sie mit dem Gratis-Editor Ocenaudio für macOS Brummen minimieren, sauber schneiden, die Lautstärke anpassen und Pausen einfügen.",
-      "url": "https://www.heise.de/ratgeber/Audiodateien-optimieren-So-geht-das-kostenlos-am-Mac-9793561.html",
-      "image_title": "Ocenaudio"
+      "title": "Jony Ive zu seiner Zeit bei Apple: \"Ich war von Steves Geduld schockiert\"",
+      "teaser": "Der ehemalige Chief Design Officer bei Apple erinnert sich in einem Podcast an seine Zeit bei dem Unternehmen – und die Zusammenarbeit mit Steve Jobs.",
+      "url": "https://www.heise.de/news/Jony-Ive-zu-seiner-Zeit-bei-Apple-Ich-war-von-Steves-Geduld-schockiert-9789979.html",
+      "image_title": "Jony Ive in einem Apple-Video"
+    },
+    {
+      "title": "Computer Vision: Deutsche Informatikerin erhält Europäischen Erfinderpreis",
+      "teaser": "Die deutsche Informatikerin Cornelia Körber erhält den Europäischen Erfinderpreis. Sie half Computern, visuelle Informationen zu erfassen.",
+      "url": "https://www.heise.de/news/Computer-Vision-Deutsche-Informatikerin-erhaelt-Europaeischen-Erfinderpreis-9796332.html",
+      "image_title": "Cordelia Schmid"
+    },
+    {
+      "title": "iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response (DFIR)",
+      "teaser": "Lernen Sie, professionelle Incident Response Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können. (10% Rabatt)",
+      "url": "https://www.heise.de/news/iX-Workshop-Digital-Forensics-Incident-Response-Schuetzen-Erkennen-Reagieren-9775637.html",
+      "image_title": "iX-Workshop Digital Forensics & Incident Response"
     },
     {
       "title": "KI-Technik im Fußball: Finger weg vom Handspiel!",
@@ -49,13 +66,13 @@
       "image_title": "Man sieht ein rundes Display in der Nahaufnahme. Auf dem Display sind Sterne und Sternenbilder mit ihren Namen zu sehen."
     },
     {
-      "title": "Patchday Fortinet: FortiADC für Spionage-Attacken anfällig",
+      "title": "Patchday Fortinet: FortiAIOps und FortiOS gegen mögliche Attacken gerüstet",
       "teaser": "Angreifer können mehrere Produkte von Fortinet ins Visier nehmen und unter anderem sensible Daten einsehen.",
       "url": "https://www.heise.de/news/Patchday-Fortinet-FortiADC-fuer-Spionage-Attacken-anfaellig-9795835.html",
       "image_title": "Fortinet-Logo mit Update-Stempel"
     },
     {
-      "title": "Einer der weltweit größten Investoren übernimmt AVM",
+      "title": "Fritzboxen: Einer der weltweit größten Investoren übernimmt AVM",
       "teaser": "AVM hat die Suche nach einem neuen Inhaber abgeschlossen. Dahinter steckt ein 186 Milliarden Euro schwerer Investor.",
       "url": "https://www.heise.de/news/Einer-der-weltweit-groessten-Investoren-uebernimmt-AVM-9796123.html",
       "image_title": "AVM Fritzbox 7530 AX auf einer Kommode"
@@ -103,27 +120,9 @@
       "image_title": "Apple Silicon SoC."
     },
     {
-      "title": "Apple-Geräte effizient verwalten: Webinare zu Apple Business Manager und MDM",
-      "teaser": "Lernen Sie an zwei Terminen im September, wie Sie mit Apple Business Manager und MDM Apple-Geräte im Unternehmen effizient verwalten.",
-      "url": "https://www.heise.de/news/Apple-Geraete-effizient-verwalten-Webinare-zu-Apple-Business-Manager-und-MDM-9790092.html",
-      "image_title": "Zweiteiliges Webinar zu Apple Business Manager und MDM"
-    },
-    {
       "title": "c’t Daten schützen: Wie Sie Überwachung zu Hause und am Arbeitsplatz eindämmen",
       "teaser": "Ob Zuhause oder im Büro: Sowohl Ihr TV als auch Ihren Chef interessieren Ihre Aktivitäten oft brennend. Unser Sonderheft gibt Tipps, was Sie dagegen tun können.",
       "url": "https://www.heise.de/news/c-t-Daten-schuetzen-Wie-Sie-Ueberwachung-zu-Hause-und-am-Arbeitsplatz-eindaemmen-9788833.html"
-    },
-    {
-      "title": "Patchday Microsoft: Angreifer attackieren Windows 11 über Hyper-V",
-      "teaser": "Derzeit nutzen Angreifer zwei Sicherheitslücken in verschiedenen Windows- und Windows-Server-Versionen aus. Zwei weitere Lücken sind öffentlich bekannt.",
-      "url": "https://www.heise.de/news/Patchday-Microsoft-Angreifer-attackieren-Windows-11-ueber-Hyper-V-9795167.html",
-      "image_title": "Windows-Logo mit Flecken und der Aufschrift \"Patchday\""
-    },
-    {
-      "title": "Patchday Adobe: Schadcode-Attacken auf InDesign & Co. möglich",
-      "teaser": "Sicherheitsupdates schützen Adobe Bridge, InDesign und Premiere Pro davor, dass Angreifer eigenen Code ausführen können.",
-      "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Attacken-auf-InDesign-Co-moeglich-9795641.html",
-      "image_title": "Adobe-Logo mit Flecken und der Aufschrift \"Patchday\""
     },
     {
       "title": "Nachhaltigkeit durch Digitalisierung",
