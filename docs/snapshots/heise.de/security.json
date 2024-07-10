@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-10T07:01:02",
+  "timestamp": "2024-07-10T08:00:49",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Patchday Adobe",
+      "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Attacken-auf-InDesign-Co-moeglich-9795641.html"
+    },
+    {
       "title": "Patchday SAP",
       "url": "https://www.heise.de/news/Patchday-SAP-ruestet-Unternehmenssoftware-gegen-etwaige-Angriffe-9795171.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/IT-Sicherheitsloesung-Trend-Micro-Apex-One-vor-moeglichen-Attacken-abgesichert-9794520.html"
     },
     {
-      "title": "Ghostscript",
-      "url": "https://www.heise.de/news/Ghostscript-Codeschmuggel-Luecke-wird-angegriffen-9794209.html"
+      "title": "Patchday Adobe: Schadcode-Attacken auf InDesign & Co. möglich",
+      "teaser": "Sicherheitsupdates schützen Adobe Bridge, InDesign und Premiere Pro davor, dass Angreifer eigenen Code ausführen können.",
+      "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Attacken-auf-InDesign-Co-moeglich-9795641.html",
+      "image_title": "Adobe-Logo mit Flecken und der Aufschrift \"Patchday\""
+    },
+    {
+      "title": "\"Passwort\" Folge 5: Common Vulnerabilities and Exposures",
+      "teaser": "Im Podcast von heise security diskutieren die Hosts das System der CVE-Nummern: Wie funktioniert die, wo klemmt es und warum will Linux das System kaputtmachen?",
+      "url": "https://www.heise.de/news/Passwort-Folge-5-Common-Vulnerabilities-and-Exposures-9777933.html",
+      "image_title": "Bild vom heise-Security-Podcast"
     },
     {
       "title": "Patchday: SAP rüstet Unternehmenssoftware gegen etwaige Angriffe",
@@ -150,18 +162,6 @@
       "teaser": "Die EU investiert 325 Millionen Euro in die innovative Chip-Forschung und 210 Millionen Euro in Cybersecurity mit Schwerpunkt auf kritische Infrastrukturen.​",
       "url": "https://www.heise.de/news/EU-Kommission-Hunderte-Millionen-fuer-Cybersicherheit-und-Halbleiterproduktion-9790125.html",
       "image_title": "Chip auf Mainboard"
-    },
-    {
-      "title": "Proton: Dokumenten-Kollaboration im Netz mit Privatsphäre",
-      "teaser": "Proton hat jetzt Docs in Drive vorgestellt. Ende-zu-Ende-verschlüsselt soll so eine Zusammenarbeit an Dokumenten geschützt möglich werden.",
-      "url": "https://www.heise.de/news/Proton-Dokumenten-Kollaboration-im-Netz-mit-Privatsphaere-9789831.html",
-      "image_title": "Anzeige von Docs in Proton Drive mit zwei aktiven Bearbeitern"
-    },
-    {
-      "title": "Authy: Hacker greifen Millionen von Telefonnummern über eine ungesicherte API ab",
-      "teaser": "Nachdem Kriminelle eine CSV-Datei mit Telefonnummern von angeblich 33 Millionen Authy-Nutzern geleakt haben, drohen unter anderem SMS-Phishing-Attacken.",
-      "url": "https://www.heise.de/news/MFA-App-Authy-Unzaehlige-Telefonnummern-ueber-ungesicherte-API-abgegriffen-9789229.html",
-      "image_title": "Stilisiertes Bild: Brennender Monitor"
     },
     {
       "title": "Microsoft Cloud Security",
