@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-11T05:00:49",
+  "timestamp": "2024-07-11T06:08:51",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "VMware Aria Automation",
+      "url": "https://www.heise.de/news/VMware-stopft-SQL-Injection-Luecke-in-Aria-Automation-9797344.html"
+    },
+    {
       "title": "Blast-RADIUS",
       "url": "https://www.heise.de/news/Blast-RADIUS-Sicherheitsluecke-im-Netzwerkprotokoll-RADIUS-veroeffentlicht-9797185.html"
     },
@@ -44,25 +48,16 @@
       "url": "https://www.heise.de/news/OpenSSH-Weitere-RegreSSHion-artige-Luecke-entdeckt-9795874.html"
     },
     {
-      "title": "Citrix",
-      "url": "https://www.heise.de/news/Citrix-stopft-teils-kritische-Sicherheitsluecken-in-mehreren-Produkten-9795655.html"
-    },
-    {
-      "title": "Blast-RADIUS: Sicherheitslücke im Netzwerkprotokoll RADIUS veröffentlicht",
-      "teaser": "Lange bekannte Schwachstellen können dem RADIUS-Protokoll zum Verhängnis werden, das vor allem im Enterprise-Umfeld in sehr vielen Netzwerken eingesetzt wird.",
-      "url": "https://www.heise.de/news/Blast-RADIUS-Sicherheitsluecke-im-Netzwerkprotokoll-RADIUS-veroeffentlicht-9797185.html"
+      "title": "VMware stopft SQL-Injection-Lücke in Aria Automation",
+      "teaser": "Angreifer können eine Schwachstelle in VMware Aria Automation missbrauchen, um eigene Befehle mittels SQL-Injection einzuschleusen. Updates stehen bereit.",
+      "url": "https://www.heise.de/news/VMware-stopft-SQL-Injection-Luecke-in-Aria-Automation-9797344.html",
+      "image_title": "Stilisierte Grafik: Brennendes VMware-Logo auf einem Laptop"
     },
     {
       "title": "Störung der BSI-Webseite",
       "teaser": "Die Webseite des Bundesamts für Sicherheit in der Informationstechnik war zeitweise kaum zugreifbar. Die Ursache ist bislang unklar.",
       "url": "https://www.heise.de/news/Zugriff-auf-Webseite-des-BSI-gestoert-9796720.html",
       "image_title": "Schild vor dem BSI"
-    },
-    {
-      "title": "Internationaler Schlag gegen russische KI-Botfarm für Social Media",
-      "teaser": "Russlands Trollfabriken nutzen KI zum Anlegen und Steuern von gefälschten Social-Media-Profilen. Eine konnte stillgelegt werden.",
-      "url": "https://www.heise.de/news/Social-Media-Internationale-Behoerden-zerschlagen-russische-KI-Botfarm-9796366.html",
-      "image_title": "Stilisiertes Bild: Russische Trollfabrik"
     },
     {
       "title": "iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response (DFIR)",
@@ -93,6 +88,18 @@
       "teaser": "Citrix hat Sicherheitswarnungen zu mehreren Produkten veröffentlicht. Updates schließen teils kritische Schwachstellen darin.",
       "url": "https://www.heise.de/news/Citrix-stopft-teils-kritische-Sicherheitsluecken-in-mehreren-Produkten-9795655.html",
       "image_title": "Stilisierte Grafik: Brennende Appliances im Netz"
+    },
+    {
+      "title": "Patchday Microsoft: Angreifer attackieren Windows 11 über Hyper-V",
+      "teaser": "Derzeit nutzen Angreifer zwei Sicherheitslücken in verschiedenen Windows- und Windows-Server-Versionen aus. Zwei weitere Lücken sind öffentlich bekannt.",
+      "url": "https://www.heise.de/news/Patchday-Microsoft-Angreifer-attackieren-Windows-11-ueber-Hyper-V-9795167.html",
+      "image_title": "Windows-Logo mit Flecken und der Aufschrift \"Patchday\""
+    },
+    {
+      "title": "Patchday Adobe: Schadcode-Attacken auf InDesign & Co. möglich",
+      "teaser": "Sicherheitsupdates schützen Adobe Bridge, InDesign und Premiere Pro davor, dass Angreifer eigenen Code ausführen können.",
+      "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Attacken-auf-InDesign-Co-moeglich-9795641.html",
+      "image_title": "Adobe-Logo mit Flecken und der Aufschrift \"Patchday\""
     },
     {
       "title": "\"Passwort\" Folge 5: Common Vulnerabilities and Exposures",
@@ -157,12 +164,6 @@
       "title": "Root- und Backdoor-Lücken in Mufu von Toshiba und Sharp geschlossen",
       "teaser": "Angreifer können hunderte Multifunktionsdrucker von Toshiba und Sharp ins Visier nehmen. Sicherheitsupdates sind verfügbar.",
       "url": "https://www.heise.de/news/Schadcode-Attacken-auf-Multifunktionsdrucker-von-Toshiba-und-Sharp-moeglich-9793179.html"
-    },
-    {
-      "title": "Nach Cyberangriff: Frankfurter Hochschule trifft Sicherheitsmaßnahmen",
-      "teaser": "Die Frankfurter University of Applied Sciences ist am Samstag Opfer eines Cyberangriffs geworden. IT-Systeme wurden heruntergefahren, auch der Fahrstuhl.",
-      "url": "https://www.heise.de/news/Cyberangriff-auf-Frankfurter-University-of-Applied-Sciences-9793380.html",
-      "image_title": "Student nutzt Laptop"
     },
     {
       "title": "Microsoft Cloud Security",
