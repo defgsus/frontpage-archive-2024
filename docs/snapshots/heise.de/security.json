@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-11T11:00:55",
+  "timestamp": "2024-07-11T12:10:47",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,20 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.ffb71fa4c5c59c89a808",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.cb4713f294b1ad4f130e",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Zoom",
+      "url": "https://www.heise.de/news/Webkonferenzen-Zoom-dichtet-acht-Sicherheitsluecken-ab-9798141.html"
+    },
+    {
+      "title": "Nvidia GPU-Treiber",
+      "url": "https://www.heise.de/news/Nvidia-Angreifer-koennen-Schadcode-durch-Grafikkartentreiber-Luecke-schieben-9797859.html"
+    },
     {
       "title": "Cisco",
       "url": "https://www.heise.de/news/Cisco-Secure-Boot-bei-einigen-Routern-umgehbar-Anfaelligkeit-auf-RADIUS-Luecke-9797349.html"
@@ -40,12 +48,16 @@
       "url": "https://www.heise.de/news/Juniper-Networks-46-Sicherheitswarnungen-veroeffentlicht-9797590.html"
     },
     {
-      "title": "VMware Aria Automation",
-      "url": "https://www.heise.de/news/VMware-stopft-SQL-Injection-Luecke-in-Aria-Automation-9797344.html"
+      "title": "Webkonferenzen: Zoom dichtet acht Sicherheitslücken ab",
+      "teaser": "In der Webkonferenz-Software klaffen mehrere Sicherheitslücken, eine davon hochriskant. Updates dichten sie ab.",
+      "url": "https://www.heise.de/news/Webkonferenzen-Zoom-dichtet-acht-Sicherheitsluecken-ab-9798141.html",
+      "image_title": "Stilisiertes Bild zeigt Webkonferenz mit Smartphones als Kamera"
     },
     {
-      "title": "Blast-RADIUS",
-      "url": "https://www.heise.de/news/Blast-RADIUS-Sicherheitsluecke-im-Netzwerkprotokoll-RADIUS-veroeffentlicht-9797185.html"
+      "title": "Nvidia: Angreifer können Schadcode durch Grafikkartentreiber-Lücke schieben",
+      "teaser": "Es sind Attacken auf Windows-PCs mit unter anderem GeForce- oder RTX-Grafikkarten möglich. Berichte zu Angriffen gibt es aber noch nicht.",
+      "url": "https://www.heise.de/news/Nvidia-Angreifer-koennen-Schadcode-durch-Grafikkartentreiber-Luecke-schieben-9797859.html",
+      "image_title": "Update-Schild auf Tisch"
     },
     {
       "title": "Cisco: Secure Boot bei einigen Routern umgehbar, Anfälligkeit auf RADIUS-Lücke",
@@ -152,18 +164,6 @@
       "title": "IT-Sicherheitslösung Trend Micro Apex One vor möglichen Attacken abgesichert",
       "teaser": "Angreifer können Windows-PCs mit Trend Micro Apex One oder Apex One as a Service attackieren. Sicherheitspatches sind erschienen.",
       "url": "https://www.heise.de/news/IT-Sicherheitsloesung-Trend-Micro-Apex-One-vor-moeglichen-Attacken-abgesichert-9794520.html"
-    },
-    {
-      "title": "Nach Taylor-Swift-Karten: 39.000 weitere Tickets veröffentlicht",
-      "teaser": "Die Ticketmaster-Erpresser haben 39.000 Barcodes für Konzerte populärer Bands veröffentlicht. Anti-Betrugsmaßnahmen greifen womöglich nicht.",
-      "url": "https://www.heise.de/news/Nach-Taylor-Swift-Karten-39-000-weitere-Tickets-veroeffentlicht-9794363.html",
-      "image_title": "Taylor Swift"
-    },
-    {
-      "title": "Codeschmuggel-Lücke in Ghostscript wird angegriffen",
-      "teaser": "IT-Forscher haben mehrere Sicherheitslücken in Ghostscript entdeckt. Eine davon wird offenbar bereits angegriffen.",
-      "url": "https://www.heise.de/news/Ghostscript-Codeschmuggel-Luecke-wird-angegriffen-9794209.html",
-      "image_title": "Stilisiertes Bild: Software-Update auf Laptop"
     },
     {
       "title": "Microsoft Cloud Security",
