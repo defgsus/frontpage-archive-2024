@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-11T08:08:29",
+  "timestamp": "2024-07-11T09:00:46",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Cisco",
+      "url": "https://www.heise.de/news/Cisco-Secure-Boot-bei-einigen-Routern-umgehbar-Anfaelligkeit-auf-RADIUS-Luecke-9797349.html"
+    },
+    {
+      "title": "Juniper",
+      "url": "https://www.heise.de/news/Juniper-Networks-46-Sicherheitswarnungen-veroeffentlicht-9797590.html"
+    },
+    {
       "title": "VMware Aria Automation",
       "url": "https://www.heise.de/news/VMware-stopft-SQL-Injection-Luecke-in-Aria-Automation-9797344.html"
     },
@@ -40,12 +48,16 @@
       "url": "https://www.heise.de/news/Blast-RADIUS-Sicherheitsluecke-im-Netzwerkprotokoll-RADIUS-veroeffentlicht-9797185.html"
     },
     {
-      "title": "Fortinet",
-      "url": "https://www.heise.de/news/Patchday-Fortinet-FortiADC-fuer-Spionage-Attacken-anfaellig-9795835.html"
+      "title": "Cisco: Secure Boot bei einigen Routern umgehbar, Anfälligkeit auf RADIUS-Lücke",
+      "teaser": "Angreifer können einigen Cisco-Routern manipulierte Software unterschieben. Die Entwickler prüfen, welche Geräte von der RADIUS-Lücke betroffen sind.",
+      "url": "https://www.heise.de/news/Cisco-Secure-Boot-bei-einigen-Routern-umgehbar-Anfaelligkeit-auf-RADIUS-Luecke-9797349.html",
+      "image_title": "Stilisiertes Bild in Cisco-Corporate Design mit dem Schriftzug \"update\""
     },
     {
-      "title": "OpenSSH",
-      "url": "https://www.heise.de/news/OpenSSH-Weitere-RegreSSHion-artige-Luecke-entdeckt-9795874.html"
+      "title": "Juniper Networks: 46 Sicherheitswarnungen veröffentlicht",
+      "teaser": "Juniper Networks hat zu seinem regulären Update-Tag 46 Sicherheitsmitteilungen veröffentlicht. Admins sollten die Updates zügig installieren.",
+      "url": "https://www.heise.de/news/Juniper-Networks-46-Sicherheitswarnungen-veroeffentlicht-9797590.html",
+      "image_title": "Stilisiertes Bild: Ein Stapel brennender Appliances"
     },
     {
       "title": "Secure by Design: OS-Command-Injection im Visier von CISA und FBI",
@@ -152,18 +164,6 @@
       "teaser": "IT-Forscher haben mehrere Sicherheitslücken in Ghostscript entdeckt. Eine davon wird offenbar bereits angegriffen.",
       "url": "https://www.heise.de/news/Ghostscript-Codeschmuggel-Luecke-wird-angegriffen-9794209.html",
       "image_title": "Stilisiertes Bild: Software-Update auf Laptop"
-    },
-    {
-      "title": "Apple schmeißt VPNs aus dem russischen App Store",
-      "teaser": "Russische Zensur und Überwachung zu umgehen, wird in dem Land zunehmend schwieriger. Apple folgt einem Behördenbefehl und sperrt VPN-Apps.​",
-      "url": "https://www.heise.de/news/Apple-schmeisst-VPNs-aus-dem-russischen-App-Store-9794131.html",
-      "image_title": "Ausschnitt einer Computertastatur mit grauen, leeren Tasten; nur eine Taste ist rot und zeigt ein Verbotsschild"
-    },
-    {
-      "title": "Zotac-Panne: RMA-Dokumente und Händlerrechnungen online einsehbar",
-      "teaser": "Eine falsche Servereinstellung ließ Google unzählige Dokumente von Zotac USA indexieren. Private Daten und Rechnungen an Wiederverkäufer wurden so öffentlich.",
-      "url": "https://www.heise.de/news/Zotac-Panne-RMA-Dokumente-und-Haendlerrechnungen-online-einsehbar-9793766.html",
-      "image_title": "Zotac GeForce RTX 4080"
     },
     {
       "title": "Microsoft Cloud Security",
