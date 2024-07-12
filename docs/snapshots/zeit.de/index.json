@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-12T09:00:44",
+  "timestamp": "2024-07-12T10:02:24",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -8,6 +8,12 @@
     {
       "type": null,
       "src": "https://static.zeit.de/p/zeit.web/js/colorscheme.0f947935c8b8aabe382b.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
       "id": null,
       "text": null
     },
@@ -92,16 +98,10 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Armin Papperger : Was über die Anschlagspläne gegen den Rheinmetall-Chef bekannt ist",
-      "teaser": "Russland soll ein Attentat auf Armin Papperger geplant haben. Der Schutz um den Rheinmetall-Chef soll so hoch sein wie beim Bundeskanzler. Er sagt, er fühle sich sicher.",
-      "url": "https://www.zeit.de/politik/2024-07/armin-papperger-rheinmetall-anschlag-plaene-russland",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-07/rheinmetall-chef-attentat-vereitelt-usa-deutschland-bild/wide__1000x562"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); US-Raketen in Deutschland : Schwäche zieht Putins Aggression an",
-      "teaser": "US-Marschflugkörper auf deutschem Boden? Russland reagiert darauf mit drastischen Drohungen. Das Regime weiß: Derzeit könnte sich Deutschland alleine nicht verteidigen.",
-      "url": "https://www.zeit.de/politik/ausland/2024-07/us-raketen-deutschland-russland-wladimir-putin-5vor8",
-      "image_url": "https://img.zeit.de/politik/2024-07/us-raketen-deutschland-russland/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Joe Biden : Jetzt wollen auch noch die Spender streiken",
+      "teaser": "Superreiche Unterstützer von Joe Biden wollen sich dessen Blamagen nicht länger anschauen: Die Spendenbereitschaft sinkt. Entscheidet das am Ende über seine Kandidatur?",
+      "url": "https://www.zeit.de/wirtschaft/2024-07/praesident-joe-biden-usa-wahlkampf-spender",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-07/praesident-joe-biden-usa-wahlkampf-spender-bild/wide__1000x562"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Joe Biden auf dem Nato-Gipfel : Und dann kündigt er Selenskyj als Putin an",
@@ -116,10 +116,23 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-07/nato-gipfel-biden-versprecher-selenskyj-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Viktor Orbán : Ungarns Regierungschef besucht Trump bei sogenannter Friedensmission",
-      "teaser": "Viktor Orbán hat den früheren US-Präsidenten Donald Trump getroffen. Bei den Gesprächen sei es um Frieden für die Ukraine gegangen. Die EU zeigte sich \"irritiert\".",
-      "url": "https://www.zeit.de/politik/ausland/2024-07/ungarn-viktor-orban-donald-trump-treffen",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-07/treffen-viktor-orban-und-donald-trump-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Armin Papperger : Was über die Anschlagspläne gegen den Rheinmetall-Chef bekannt ist",
+      "teaser": "Russland soll ein Attentat auf Armin Papperger geplant haben. Der Schutz um den Rheinmetall-Chef soll so hoch sein wie beim Bundeskanzler. Er sagt, er fühle sich sicher.",
+      "url": "https://www.zeit.de/politik/2024-07/armin-papperger-rheinmetall-anschlag-plaene-russland",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-07/rheinmetall-chef-attentat-vereitelt-usa-deutschland-bild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); US-Raketen in Deutschland : Schwäche zieht Putins Aggression an",
+      "teaser": "US-Marschflugkörper auf deutschem Boden? Russland reagiert darauf mit drastischen Drohungen. Das Regime weiß: Derzeit könnte sich Deutschland alleine nicht verteidigen.",
+      "url": "https://www.zeit.de/politik/ausland/2024-07/us-raketen-deutschland-russland-wladimir-putin-5vor8",
+      "image_url": "https://img.zeit.de/politik/2024-07/us-raketen-deutschland-russland/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Fachkräftemangel : Warum Steuerrabatte für ausländische Fachkräfte nicht ungerecht sind",
+      "teaser": "Sollten Arbeitskräfte aus dem Ausland weniger Steuern zahlen als Deutsche? Die Idee der FDP bekommt viel Kritik. Aber viele Behauptungen davon sind falsch.",
+      "url": "https://www.zeit.de/wirtschaft/2024-07/fachkraeftemangel-steuerrabatte-auslaendische-fachkraefte-ampelregierung-diskriminierung",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-07/fachkraeftemangel/super__430x286",
+      "image_title": "Eine Jobmesse für Fachkräfte aus dem Ausland"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Flugverkehr und Klimaschutz : \"Wir müssen mehr fliegen, nicht weniger\"",
@@ -147,8 +160,9 @@
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Ärmelkanal : Vier Migranten bei versuchter Überfahrt nach Großbritannien gestorben",
-      "teaser": "Im Ärmelkanal ist erneut ein Boot mit Migranten gekentert. 60 Menschen konnten gerettet werden. Die Polizei spricht bisher von vier Toten.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-07/aermelkanal-migranten-ueberfahrt-grossbritannien-schiffbruch"
+      "teaser": "Im Ärmelkanal ist erneut ein Boot mit Migranten gekentert. 60 Menschen konnten gerettet werden. Die Behörden sprechen bisher von vier Toten.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-07/aermelkanal-migranten-ueberfahrt-grossbritannien-schiffbruch",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-07/boulogne-migranten-ueberfahrt-grossbritannien-ums-leben-gekommen-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Griechenland : Europarat kritisiert Griechenlands Umgang mit Migranten",
@@ -211,16 +225,16 @@
       "image_url": "https://img.zeit.de/2024/30/packshot-24-30-1000x620.png/imagegroup/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Infektionskrankheit : WHO besorgt über neue Mpox-Variante",
-      "teaser": "Eine neue Variante des Mpox-Virus zirkuliert in der Demokratischen Republik Kongo und könnte auch Europa erreichen. Für Kinder sei die Krankheit lebensgefährlich.",
-      "url": "https://www.zeit.de/gesundheit/2024-07/who-besorgt-ueber-neue-mpox-variante",
-      "image_url": "https://img.zeit.de/gesundheit/2024-07/who-besorgt-ueber-neue-mpox-variante-bild/super__430x286"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Sportmode : Bin ich sportlich genug für Sportswear?",
       "teaser": "Trikots und Leggins sind beliebt und unkompliziert, aber stellen den Körper hemmungslos aus: In Sportmode kann der Körper nicht nur gut \"performen\", sondern muss es auch.",
       "url": "https://www.zeit.de/zeit-magazin/2024/30/sportmode-turnschuhe-trikot-stil",
       "image_url": "https://img.zeit.de/zeit-magazin/2024-07/sportmode-turnschuhe-trikot-stil-bild/wide__892x501"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Infektionskrankheit : WHO besorgt über neue Mpox-Variante",
+      "teaser": "Eine neue Variante des Mpox-Virus zirkuliert in der Demokratischen Republik Kongo und könnte auch Europa erreichen. Für Kinder sei die Krankheit lebensgefährlich.",
+      "url": "https://www.zeit.de/gesundheit/2024-07/who-besorgt-ueber-neue-mpox-variante",
+      "image_url": "https://img.zeit.de/gesundheit/2024-07/who-besorgt-ueber-neue-mpox-variante-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Archäologie : Das Geheimnis der kleinen Nilinsel",
@@ -233,6 +247,12 @@
       "teaser": "Die Debatte über die Bedeutung des Wolfsgrußes hat nicht nur politische Folgen. Weshalb ein konstruktiver Dialog schwierig ist, in \"Was jetzt? – Die Woche\".",
       "url": "https://www.zeit.de/politik/2024-07/wolfsgruss-rechtsextremismus-em-tuerkei-was-jetzt-videopodcast",
       "image_url": "https://img.zeit.de/2024-07/was-jetzt-die-woche-2/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Viktor Orbán : Ungarns Regierungschef besucht Trump bei sogenannter Friedensmission",
+      "teaser": "Viktor Orbán hat den früheren US-Präsidenten Donald Trump getroffen. Bei den Gesprächen sei es um Frieden für die Ukraine gegangen. Die EU zeigte sich \"irritiert\".",
+      "url": "https://www.zeit.de/politik/ausland/2024-07/ungarn-viktor-orban-donald-trump-treffen",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-07/treffen-viktor-orban-und-donald-trump-bild/super__320x213"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Kindergrundsicherung : Lindner erteilt Plänen von Paus zu Kindergrundsicherung Absage",
@@ -275,12 +295,6 @@
       "teaser": "Putin statt Selenskyj, Trump statt Harris: Joe Bidens jüngste Versprecher dürften den Druck auf ihn erhöhen. Der Präsident selbst zeigt sich entschlossen, zu kandidieren.",
       "url": "https://www.zeit.de/politik/ausland/2024-07/joe-biden-nato-gipfel-versprecher-wolodymyr-selenskyj-wladimir-putin",
       "image_url": "https://img.zeit.de/politik/ausland/2024-07/nato-gipfel-abschluss/super__320x213"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Joe Biden : US-Radiosender soll auf Wunsch von Bidens Team Interview gekürzt haben",
-      "teaser": "In einem Telefoninterview nutzte der US-Präsident problematische Sprache. Nach Angaben des Radiosenders rief sein Team nach der Aufzeichnung an und bat um Kürzungen.",
-      "url": "https://www.zeit.de/politik/ausland/2024-07/biden-usa-interview-radiosender-kuerzung",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-07/biden-usa-interview-radiosender-kuerzung-bild-2/super__320x213"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"Und was machst du am Wochenende?\" : \"Wenn ich zu lange schlafe, werde ich müde vom Schlafen\"",
@@ -347,9 +361,9 @@
       "image_title": "ungarn-viktor-orban-nato-donald-trump"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Grüne Kanzlerkandidatur : Diese Nachricht hat selbst hochrangige Grüne überrascht",
-      "teaser": "Die Grünen reagieren erleichtert auf den Rückzieher von Baerbock. Doch Habeck hat seine Partei zuletzt oft irritiert. Über die Vor- und Nachteile der frühen Entscheidung",
-      "url": "https://www.zeit.de/politik/deutschland/2024-07/robert-habeck-buendnis-90-die-gruenen-kanzlerkandidatur-annalena-baerbock"
+      "title": "Z+ (abopflichtiger Inhalt); Viktor Orbán : Ungarns Regierungschef besucht Trump bei sogenannter Friedensmission",
+      "teaser": "Viktor Orbán hat den früheren US-Präsidenten Donald Trump getroffen. Bei den Gesprächen sei es um Frieden für die Ukraine gegangen. Die EU zeigte sich \"irritiert\".",
+      "url": "https://www.zeit.de/politik/ausland/2024-07/ungarn-viktor-orban-donald-trump-treffen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Nato-Gipfel in Washington : Kanzler verteidigt \"sehr gute Entscheidung\" zu US-Marschflugkörpern",
@@ -513,10 +527,16 @@
       "image_url": "https://img.zeit.de/politik/2024-05/was-jetzt-wochenshow-moderatorin-dilan-studio-mai/super__320x213"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Ukrainekrieg : Nato sichert Ukraine Hilfe zur Verteidigung gegen Russland zu",
+      "teaser": "Jens Stoltenberg spricht vom Nato-Gipfel in den USA als einem Wendepunkt in der Ukraine-Unterstützung. Hoffen darf das Land auf eine künftige Mitgliedschaft im Bündnis.",
+      "url": "https://www.zeit.de/politik/ausland/2024-07/nato-gipfel-abschluss-unterstuetzung-ukraine-biden-versprecher",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-07/nato-gipfel-abschluss-unterstuetzung-ukraine-biden-versprecher-bild/wide__892x501"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Armin Papperger : Rheinmetall-Chef soll Ziel eines russischen Attentats gewesen sein",
       "teaser": "Die USA und Deutschland sollen Medienberichten zufolge ein Attentat auf Armin Papperger vereitelt haben. Hinter den Plänen soll die russische Regierung stecken.",
       "url": "https://www.zeit.de/politik/2024-07/rheinmetall-chef-armin-papperger-ziel-attentat",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-07/armin-papperger-rheinmetall-ag/wide__892x501",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-07/armin-papperger-rheinmetall-ag/super__430x286",
       "image_title": "Armin Papperger Rheinmetall AG"
     },
     {
@@ -524,12 +544,6 @@
       "teaser": "Ab 2026 werden in Deutschland US-Waffen stationiert, die Russland erreichen können. In der Bundesregierung sorgt das für Kritik. Und: Israel greift Gaza-Stadt weiter an.",
       "url": "https://www.zeit.de/politik/2024-07/us-waffen-deutschland-tomahawk-nachrichtenpodcast",
       "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Ukrainekrieg : Nato sichert Ukraine Unterstützung bis zum Sieg gegen Russland zu",
-      "teaser": "Jens Stoltenberg spricht vom Nato-Gipfel in den USA als einem Wendepunkt in der Ukraine-Unterstützung. Hoffen darf das Land auf eine künftige Mitgliedschaft im Bündnis.",
-      "url": "https://www.zeit.de/politik/ausland/2024-07/nato-gipfel-abschluss-unterstuetzung-ukraine-biden-versprecher",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-07/nato-gipfel-abschluss-unterstuetzung-ukraine-biden-versprecher-bild/super__430x286"
     },
     {
       "title": "Verlagsangebot : Das London-Quiz: Testen Sie Ihr Wissen!",
@@ -627,7 +641,7 @@
     {
       "title": "Exklusives Ranking : Das sind die begehrtesten Arbeitgeber der Generation Z",
       "teaser": "Berufseinsteiger träumen von grünen Start-ups und Flexibilität? Von wegen! Eine Befragung zeigt: Die Generation Z ist aufs Gehalt aus und scheut auch herausfordernde Arbeitgeber nicht. Eine Firma ist besonders beliebt.",
-      "url": "https://www.wiwo.de/erfolg/management/exklusives-ranking-das-sind-die-begehrtesten-arbeitgeber-der-generation-z/29888366.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
+      "url": "https://www.wiwo.de/my/erfolg/management/exklusives-ranking-das-sind-die-begehrtesten-arbeitgeber-der-generation-z/29888366.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
       "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/dpa-picture-alliance-2-217007044-highres/29893516/2-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
       "image_title": "Das sind die begehrtesten Arbeitgeber der Generation Z"
     },
@@ -688,22 +702,22 @@
       "image_url": "https://img.zeit.de/video/2024-07/6357707322112-still/wide__892x501"
     },
     {
-      "title": "Krieg in der Ukraine : Nato startet Ukrainekommandozentrum in Wiesbaden",
-      "teaser": "In Wiesbaden nimmt ein neues Nato-Kommando seine Arbeit auf. Dieses soll künftig Waffenlieferungen und Ausbildungsaktivitäten für die Ukraine koordinieren.",
-      "url": "https://www.zeit.de/video/2024-07/6357558952112/krieg-in-der-ukraine-nato-startet-ukrainekommandozentrum-in-wiesbaden",
-      "image_url": "https://img.zeit.de/video/2024-07/6357558952112-still/super__430x286"
+      "title": "Nato-Gipfel : Scholz begrüßt Stationierung von US-Langstreckenwaffen ab 2026",
+      "teaser": "Die Stationierung von \"Tomahawks\" in Deutschland sei eine \"gute Entscheidung\" der USA, sagt Scholz. Er begründet die Verlegung mit der wachsenden russischen Bedrohung.",
+      "url": "https://www.zeit.de/video/2024-07/6357625723112/nato-gipfel-scholz-begruesst-stationierung-von-us-langstreckenwaffen-ab-2026",
+      "image_url": "https://img.zeit.de/video/2024-07/6357625723112-still/super__430x286"
     },
     {
-      "title": "Frankreich : Feuer in Kathedrale von Rouen ausgebrochen",
-      "teaser": "Der Spitzturm der Kathedrale von Rouen brennt – die Ursache ist unklar, gerade finden dort Renovierungsarbeiten statt. Das Gebäude gilt als ein Wahrzeichen der Normandie.",
-      "url": "https://www.zeit.de/video/2024-07/6357596843112/frankreich-feuer-in-kathedrale-von-rouen-ausgebrochen",
-      "image_url": "https://img.zeit.de/video/2024-07/6357596843112-still/super__430x286"
+      "title": "RAF : LKA veröffentlicht Bilder von Asservaten aus Wohnung von Daniela Klette",
+      "teaser": "Das LKA Niedersachsen hat Bilder von sichergestellten Waffen und Geld veröffentlicht. Sie stammen demnach aus der Wohnung des mutmaßlichen RAF-Mitglieds Klette.",
+      "url": "https://www.zeit.de/video/2024-07/6357637679112/raf-lka-veroeffentlicht-bilder-von-asservaten-aus-wohnung-von-daniela-klette",
+      "image_url": "https://img.zeit.de/video/2024-07/6357637679112-still/super__430x286"
     },
     {
-      "title": "Deutsches 5G-Netz : \"Wir müssen Sicherheitsrisiken verringern\"",
-      "teaser": "Laut Bundesinnenministerin Faeser wird Deutschlands Handynetz künftig weitgehend ohne Technik aus China betrieben. Darauf habe sich die Ampel mit den Netzfirmen geeinigt.",
-      "url": "https://www.zeit.de/video/2024-07/6357601181112/deutsches-5g-netz-wir-muessen-sicherheitsrisiken-verringern",
-      "image_url": "https://img.zeit.de/video/2024-07/6357601181112-still/super__430x286"
+      "title": "Nach Nato-Gipfel : Viktor Orbán trifft Donald Trump in Florida",
+      "teaser": "Ungarns Regierungschef hat Ex-US-Präsident Trump besucht. Orbán sieht sich derzeit auf \"Friedensmission\" – zuvor war er bereits nach Russland und China gereist.",
+      "url": "https://www.zeit.de/video/2024-07/6357711963112/nach-nato-gipfel-viktor-orb-n-trifft-donald-trump-in-florida",
+      "image_url": "https://img.zeit.de/video/2024-07/6357711963112-still/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Wetterphänomen : Regenfälle lassen chilenische Atacama-Wüste ungewöhnlich früh erblühen",
@@ -853,11 +867,11 @@
       "image_url": "https://img.zeit.de/campus/2024-07/leben-schrebergarten-studium-gartenarbeit-bild/wide__892x501"
     },
     {
-      "title": "Verlagsangebot : Nicht nur irgendwas studieren",
-      "teaser": "Studieren! Aber was? Der Studiuminteressentest unterstützt Unschlüssige bei ihrer Suche nach dem passenden Studium, basierend auf den eigenen Interessen.",
-      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.textbild.schwarzer-hut_nichtnurirgendwas.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=sit_textbild_schwarzer-hut_nichtnurirgendwas_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-2-klein/brooke-cagle-tlg2hcpitze-unsplash-197.jpg",
-      "image_title": "Nicht nur irgendwas studieren"
+      "title": "Verlagsangebot : Welcher Beruf passt zu mir?",
+      "teaser": "Mit dem BOA-Berufstest erfahren Berufseinsteiger mehr über die eigenen Stärken und finden den passenden Job.",
+      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.verlagsteaser.quan.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=verlagsteaserindex&amp;utm_content=bot_verlagsteaser_quan_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/boa-quan/wide__430x286__desktop",
+      "image_title": "Welcher Beruf passt zu mir?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Bafög-Reform : Studierende bekommen mehr Geld",
@@ -944,36 +958,36 @@
       "image_url": "https://img.zeit.de/newsletter/endlich-montag/endlich-montag-titelbild/super__430x286"
     },
     {
-      "title": "In der Wohnung erstochen: Polizei findet Frauenleiche - Ehemann nahm sich das Leben",
-      "url": "https://www.zeit.de/news/2024-07/12/polizei-findet-frauenleiche-ehemann-nahm-sich-das-leben"
+      "title": "Wissenschaft: Union schickt in Fördergeld-Affäre 100 Fragen an Regierung",
+      "url": "https://www.zeit.de/news/2024-07/12/union-schickt-in-foerdergeld-affaere-100-fragen-an-regierung"
     },
     {
-      "title": "Neustadt am Rübenberge: Nach Brand in Mehrfamilienhaus Leichen identifiziert",
-      "url": "https://www.zeit.de/news/2024-07/12/nach-brand-in-mehrfamilienhaus-leichen-identifiziert"
+      "title": "Sommerbaustelle: Wichtige U-Bahn-Strecke wegen Bauarbeiten gesperrt",
+      "url": "https://www.zeit.de/news/2024-07/12/wichtige-u-bahn-strecke-wegen-bauarbeiten-gesperrt"
     },
     {
-      "title": "Urteile: Lebenslange Haft für tödlichen Unfall bei Flucht",
-      "url": "https://www.zeit.de/news/2024-07/12/lebenslange-haft-fuer-toedlichen-unfall-bei-flucht"
+      "title": "Mikrozensus 2023: Junge Menschen in Sachsen-Anhalt besonders von Armut bedroht",
+      "url": "https://www.zeit.de/news/2024-07/12/junge-menschen-in-sachsen-anhalt-besonders-von-armut-bedroht"
     },
     {
-      "title": "Versteckt gefilmt: Tiere gequält und geschlachtet: Staatsanwaltschaft ermittelt",
-      "url": "https://www.zeit.de/news/2024-07/12/tiere-gequaelt-und-geschlachtet-staatsanwaltschaft-ermittelt"
+      "title": "Unterstützung für die Ukraine: Politologe: Logistik spricht für neues Nato-Ukraine-Kommando",
+      "url": "https://www.zeit.de/news/2024-07/12/politologe-logistik-spricht-fuer-neues-nato-ukraine-kommando"
     },
     {
-      "title": "Fußball: Schalke 04 trauert um Meisterspieler Koslowski",
-      "url": "https://www.zeit.de/news/2024-07/12/schalke-04-trauert-um-meisterspieler-koslowski"
+      "title": "Todestag: SPD gedenkt Heide Simonis",
+      "url": "https://www.zeit.de/news/2024-07/12/spd-gedenkt-heide-simonis"
     },
     {
-      "title": "Musikrechte: Gema-Chef: KI-Firmen für Musiknutzung zur Kasse bitten",
-      "url": "https://www.zeit.de/news/2024-07/12/gema-chef-ki-firmen-fuer-musiknutzung-zur-kasse-bitten"
+      "title": "Verbrechen: Waffe nach mutmaßlichem Mord an Ehemann noch nicht gefunden",
+      "url": "https://www.zeit.de/news/2024-07/12/waffe-nach-mutmasslichem-mord-an-ehemann-noch-nicht-gefunden"
     },
     {
-      "title": "Innere Sicherheit: Faeser: Nehmen gestiegene russische Bedrohung sehr ernst",
-      "url": "https://www.zeit.de/news/2024-07/12/faeser-nehmen-gestiegene-russische-bedrohung-sehr-ernst"
+      "title": "Raumfahrt-Technik: Wie in «Dune»: Raumanzug recycelt Urin zu Trinkwasser",
+      "url": "https://www.zeit.de/news/2024-07/12/wie-in-dune-raumanzug-recycelt-urin-zu-trinkwasser"
     },
     {
-      "title": "Großeinsatz: Suche nach vermisstem Angler",
-      "url": "https://www.zeit.de/news/2024-07/12/suche-nach-vermisstem-angler"
+      "title": "Software: IT-Dienstleister Datev wächst weiter",
+      "url": "https://www.zeit.de/news/2024-07/12/it-dienstleister-datev-waechst-weiter"
     }
   ]
 }
