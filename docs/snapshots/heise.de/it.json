@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-12T07:01:38",
+  "timestamp": "2024-07-12T08:09:22",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,14 +26,43 @@
   ],
   "articles": [
     {
+      "title": "Eine Analyse der xz-Hintertür, Teil 1",
+      "teaser": "Die xz-Hintertür war einer der spektakulärsten Versuche, ein sicherheitskritisches Open-Source-Projekt zu unterwandern. Eine Analyse des Angriffs.",
+      "url": "https://www.heise.de/hintergrund/Eine-Analyse-der-xz-Hintertuer-Teil-1-9788145.html",
+      "image_title": ", Thorsten Hübner"
+    },
+    {
       "title": "KI-Entwicklung: Testgetriebenes Prompt Engineering mit promptfoo",
       "teaser": "Bei Prompt Engineering als Teil der Softwareentwicklung führt kein Weg an automatisierten Tests vorbei. Das Werkzeug promptfoo stellt die Mittel dafür bereit.",
       "url": "https://www.heise.de/ratgeber/KI-Entwicklung-Testgetriebenes-Prompt-Engineering-mit-promptfoo-9797795.html"
     },
     {
-      "title": "Zweite Chance für Fire-TV-Sticks von Amazon",
-      "teaser": "Wir erklären, wie Sie alte und ungenutzte Fire-TV-Sticks zum Speisen von Public Displays, als TV-Empfänger, Musikserver oder Echo-Ersatz nutzen können.",
-      "url": "https://www.heise.de/ratgeber/Zweite-Chance-fuer-Fire-TV-Sticks-von-Amazon-9786228.html"
+      "title": "Multifunktionsdrucker im Test: Canon Pixma TS9550a mit randlosem A3-Druck",
+      "teaser": "Der Canon Pixma TS9550a bedruckt über seinen hinteren Einzug Normal- und Fotopapiere bis DIN A3 und ist mit fünf Einzeltinten auf Fotowiedergabe spezialisiert.",
+      "url": "https://www.heise.de/tests/Multifunktionsdrucker-im-Test-Canon-Pixma-TS9550a-mit-randlosem-A3-Druck-9796773.html"
+    },
+    {
+      "title": "Sicherheitslücken GitLab: Angreifer können Softwareentwicklung manipulieren",
+      "teaser": "GitLab Community Edition und Enterprise Edition sind verwundbar. Die Entwickler raten zu einem zügigen Update.",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-GitLab-Angreifer-koennen-Softwareentwicklung-manipulieren-9799190.html"
+    },
+    {
+      "title": "\"Miss AI\" von Profiteuren KI-generierter Inhalte gekürt",
+      "teaser": "Die \"Miss AI\" wurde gekürt. Doch den Preis haben die vergeben, die unter anderem an KI-generierten Inhalten verdienen.",
+      "url": "https://www.heise.de/news/Miss-AI-von-Profiteuren-KI-generierter-Inhalte-gekuert-9799041.html",
+      "image_title": "Krönung der virtullen Miss AI"
+    },
+    {
+      "title": "Marktforscher: Nutzer behalten Macs länger",
+      "teaser": "Eine Markterhebung zeigt, dass User ihre Apple-Notebooks und Apple-Desktops länger nutzen. Das kann allerdings auch an den geringeren SoC-Fortschritten liegen.",
+      "url": "https://www.heise.de/news/Marktforscher-Nutzer-behalten-Macs-laenger-9797799.html",
+      "image_title": "MacBook M1"
+    },
+    {
+      "title": "Neu in .NET 8.0 [29]: Verbesserungen für den JSON-Source-Generator",
+      "teaser": "Der Source Generator ist in .NET 8.0 wichtiger, damit die JSON-Serialisierung und -Deserialisierung auch AOT-Anwendungen funktioniert.​",
+      "url": "https://www.heise.de/blog/Neu-in-NET-8-0-29-Verbesserungen-fuer-den-JSON-Source-Generator-9798297.html",
+      "image_title": "Druckplatten mit Buchstaben"
     },
     {
       "title": "Python-Bibliothek für Cuda-X von Nvidia: schnelle algebraische Berechnungen",
@@ -65,6 +94,11 @@
       "url": "https://www.heise.de/news/Eine-Allee-erinnert-an-das-fruehe-deutsche-Internet-9798979.html"
     },
     {
+      "title": "Zweite Chance für Fire-TV-Sticks von Amazon",
+      "teaser": "Wir erklären, wie Sie alte und ungenutzte Fire-TV-Sticks zum Speisen von Public Displays, als TV-Empfänger, Musikserver oder Echo-Ersatz nutzen können.",
+      "url": "https://www.heise.de/ratgeber/Zweite-Chance-fuer-Fire-TV-Sticks-von-Amazon-9786228.html"
+    },
+    {
       "title": "Upcycling von alten Monitoren und Fernsehern zu Leuchtelementen",
       "teaser": "Aus alten Displays lassen sich ohne großen Aufwand oder Vorkenntnisse superhelle Leuchten, künstliche Fenster oder homogene Lichtpanels basteln. So geht's.",
       "url": "https://www.heise.de/ratgeber/Upcycling-von-alten-Monitoren-und-Fernsehern-zu-Leuchtelementen-9785129.html"
@@ -86,41 +120,6 @@
       "teaser": "TSMC bittet insbesondere Nvidia zur Kasse. Der Chipauftragsfertiger will offenbar auch vom KI-Boom profitieren.",
       "url": "https://www.heise.de/news/Viele-Chips-werden-teurer-TSMC-hebt-Wafer-Preise-an-9798570.html",
       "image_title": "Ein Chip mit sichtbaren Transistorstrukturen"
-    },
-    {
-      "title": "Elon Musks X wächst – aber deutlicher langsamer als vor der Übernahme",
-      "teaser": "Laut internen Zahlen der Plattform X kommen aktive Konten dazu. Das Wachstum hat sich jedoch deutlich abgeschwächt.",
-      "url": "https://www.heise.de/news/Elon-Musks-X-waechst-aber-deutlicher-langsamer-als-vor-der-Uebernahme-9798666.html",
-      "image_title": "Threads, X und Instagram auf Smartphone"
-    },
-    {
-      "title": "Code-Editor: Zed erscheint für Linux",
-      "teaser": "Viele Programmierer nutzen derzeit gerne Zed. Der freie Editor besticht durch seine Performance, erschien bislang aber nur für macOS. Jetzt kommt Linux hinzu.",
-      "url": "https://www.heise.de/news/Code-Editor-Zed-erscheint-fuer-Linux-9798540.html",
-      "image_title": "Pinguin mit Open Source Schriftzug"
-    },
-    {
-      "title": "Altes CentOS ohne Support zu RHEL mit Support umwandeln",
-      "teaser": "Red Hat erweitert die Funktionen von Convert2RHEL. Mit dem Tool lassen sich alte CentOS-Systeme oder die Enterprise-Linux-Konkurrenz konvertieren.",
-      "url": "https://www.heise.de/news/Convert2RHEL-2-0-0-Alte-CentOS-Systeme-auf-Red-Hat-migrieren-9798279.html",
-      "image_title": "Roter Hut"
-    },
-    {
-      "title": "5 Monate mit der Vision Pro | Mac & i-Podcast",
-      "teaser": "Zum Deutschlandstart besprechen wir die Stärken und Schwächen der Vision Pro im Detail und die Erfahrungen aus fünf Monaten Alltagseinsatz.",
-      "url": "https://www.heise.de/news/5-Monate-mit-der-Vision-Pro-Mac-i-Podcast-9798303.html",
-      "image_title": "5 Monate mit der Vision Pro Mac & i-Podcast"
-    },
-    {
-      "title": ".NET 9.0 Preview 6 bringt einige lang ersehnte Funktionen",
-      "teaser": "Die sechste Vorschauversion von .NET 9.0 bringt unter anderem endlich partielle Properties. Neu ist zudem die generische Mengenklasse OrderedDictionary<T,T>.",
-      "url": "https://www.heise.de/news/NET-9-0-Preview-6-bringt-einige-lang-ersehnte-Funktionen-9797497.html",
-      "image_title": ".NET-Bild"
-    },
-    {
-      "title": "CCC: Bitte Zwei-Faktor-Authentifizierung, aber nicht per SMS",
-      "teaser": "Der CCC konnte rund 200 Millionen SMS mit 2FA-Codes einsehen. In den falschen Händen könnte das für viel Ärger sorgen.",
-      "url": "https://www.heise.de/news/Chaos-Computer-Club-Nutzt-2-Faktor-Authentifizierung-aber-bitte-nicht-via-SMS-9798159.html"
     },
     {
       "title": "Nachhaltigkeit durch Digitalisierung",

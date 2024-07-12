@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-12T07:01:41",
+  "timestamp": "2024-07-12T08:09:25",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "GitLab",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-GitLab-Angreifer-koennen-Softwareentwicklung-manipulieren-9799190.html"
+    },
+    {
       "title": "Zoom",
       "url": "https://www.heise.de/news/Webkonferenzen-Zoom-dichtet-acht-Sicherheitsluecken-ab-9798141.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Cisco-Secure-Boot-bei-einigen-Routern-umgehbar-Anfaelligkeit-auf-RADIUS-Luecke-9797349.html"
     },
     {
-      "title": "Juniper",
-      "url": "https://www.heise.de/news/Juniper-Networks-46-Sicherheitswarnungen-veroeffentlicht-9797590.html"
+      "title": "Sicherheitslücken GitLab: Angreifer können Softwareentwicklung manipulieren",
+      "teaser": "GitLab Community Edition und Enterprise Edition sind verwundbar. Die Entwickler raten zu einem zügigen Update.",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-GitLab-Angreifer-koennen-Softwareentwicklung-manipulieren-9799190.html"
     },
     {
       "title": "Phishing-Welle: Santanderbank warnt vor Mails, SMS und Anrufen",
@@ -159,12 +164,6 @@
       "teaser": "Opfer der Verschlüsselungstrojaner Muse, DarkRace und DoNex können ab sofort, ohne Lösegeld zu zahlen, wieder auf ihre Daten zugreifen.",
       "url": "https://www.heise.de/news/Ransomware-Entschluesselungstool-fuer-Muse-DarkRace-und-DoNex-veroeffentlicht-9795098.html",
       "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
-    },
-    {
-      "title": "Wordpress-Plug-in mit 150.000 Installation ermöglicht beliebige Dateiuploads",
-      "teaser": "In einem Wordpress-Plug-in mit 150.000 Installationen wurde eine Sicherheitslücke entdeckt, die das Hochladen beliebiger Dateien erlaubt.",
-      "url": "https://www.heise.de/news/Wordpress-Plug-in-mit-150-000-Installation-ermoeglicht-beliebige-Dateiuploads-9794927.html",
-      "image_title": "Lupe auf der Website Wordpress.com"
     },
     {
       "title": "Microsoft Cloud Security",
