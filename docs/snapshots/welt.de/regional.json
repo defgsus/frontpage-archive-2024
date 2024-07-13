@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-13T10:01:34",
+  "timestamp": "2024-07-13T11:01:18",
   "url": "https://www.welt.de/regionales/",
   "response": {
     "status": 200
@@ -25,6 +25,13 @@
     }
   ],
   "articles": [
+    {
+      "title": "Hersteller entdeckt Messfehler – Polizei stoppt Einsatz von 115 Laserpistolen",
+      "teaser": "In NRW setzt die Polizei beim Blitzen auf ein Gerät namens „TrueSpeed, LTI 20- 20“. Jetzt aber hat der Hersteller bemerkt, dass es dabei offenbar zu Messfehlern kommt. Jede fünfte Laserpistole wird darum bei Geschwindigkeitskontrollen ausfallen.",
+      "url": "https://www.welt.de/vermischtes/",
+      "image_url": "https://img.welt.de/img/vermischtes/mobile252508224/2757935527-ci23x11-w20/Blitzermarathon-in-Bayern.jpg",
+      "image_title": "\"Blitzermarathon\" in Bayern"
+    },
     {
       "title": "Ehemann tötet Frau mit mehr als 30 Messerstichen",
       "teaser": "Die Polizisten wollten eine junge Frau über den Tod ihres Mannes informieren, also fuhren sie zu ihrer Wohnung. Dort machten sie eine schreckliche Entdeckung. Die Polizisten werden später von einem Overkill, einer Übertötung sprechen.",
@@ -66,13 +73,6 @@
       "url": "https://www.welt.de/vermischtes/",
       "image_url": "https://img.welt.de/img/vermischtes/mobile252506394/8437934447-ci23x11-w20/Drogenspritze.jpg",
       "image_title": "Eine benutzte Spritze in einem Gebüsch in Berlin-Kreuzberg"
-    },
-    {
-      "title": "Erster NRW-Betrieb setzt auf Wasserstoff",
-      "teaser": "In Europa stagniert die Nachfrage nach Milch, Ersatzprodukte sind auf dem Vormarsch. Einige Bauern investieren dennoch in neue Technologien, um ihre Milch künftig klimaneutral zu produzieren.",
-      "url": "https://www.welt.de/regionales/nrw/",
-      "image_url": "https://img.welt.de/img/incoming/mobile252489724/3837930497-ci23x11-w20/Weideaustrieb-in-der-Milchwirtschaft-2.jpg",
-      "image_title": "In NRW gibt es noch 4300 Milchbauern – im Jahr 1970 waren es noch fast 80.000"
     },
     {
       "title": "Lieferando-Gutschein",
@@ -178,10 +178,16 @@
       "image_title": "Bei dem Unfallauto soll es sich um einen Mietwagen gehandelt haben"
     },
     {
+      "title": "Erster NRW-Betrieb setzt auf Wasserstoff",
+      "teaser": "In Europa stagniert die Nachfrage nach Milch, Ersatzprodukte sind auf dem Vormarsch. Einige Bauern investieren dennoch in neue Technologien, um ihre Milch künftig klimaneutral zu produzieren.",
+      "url": "https://www.welt.de/regionales/nrw/",
+      "image_url": "https://img.welt.de/img/incoming/mobile252489724/3837930497-ci16x9-w20/Weideaustrieb-in-der-Milchwirtschaft-2.jpg",
+      "image_title": "In NRW gibt es noch 4300 Milchbauern – im Jahr 1970 waren es noch fast 80.000"
+    },
+    {
       "title": "„Mit aller Härte“ – Wie die Mocro-Mafia nach Deutschland drängt",
-      "teaser": "Eine Anschlagsserie und eine Geiselnahme, bei der die Opfer gefoltert wurden, alarmieren NRW: Offenbar will die für ihre Skrupellosigkeit berüchtigte marokkanische „Mocro-Mafia“ in der Bundesrepublik Fuß fassen. Der Bund Deutscher Kriminalbeamter sieht einen Zusammenhang mit der Cannabis-Legalisierung der Ampel.",
       "url": "https://www.welt.de/politik/deutschland/plus252468736/Folter-Drogen-Bandenkrieg-Wie-die-Mocro-Mafia-nach-Deutschland-draengt.html",
-      "image_url": "https://img.welt.de/img/politik/deutschland/mobile252468750/7877935777-ci16x9-w20/Prozess-gegen-niederlaendische-Mocro-Mafia.jpg",
+      "image_url": "https://img.welt.de/img/politik/deutschland/mobile252468750/7877935777-ci102l-w20/Prozess-gegen-niederlaendische-Mocro-Mafia.jpg",
       "image_title": "Amsterdam, Ende Februar: Schwer bewaffnete Polizisten stehen vor dem Hochsicherheitsgericht, in dem ein Prozess gegen die „Mocro-Mafia“ läuft",
       "author": "Kristian Frigelj"
     },
@@ -204,12 +210,6 @@
       "url": "https://www.welt.de/vermischtes/article252389666/Drogenkriminalitaet-In-Bochum-entfuehrt-SEK-befreit-in-Koeln-zwei-Geiseln.html",
       "image_url": "https://img.welt.de/img/newsticker/dpa_nt/infoline_nt/panorama_nt/mobile252389418/6787932917-ci102l-w20/Illustration-Polizeieinsatz.jpg",
       "image_title": "Ein Spezialeinsatzkommando (SEK) hat zwei Geiseln in Köln befreit. (Foto-Illustration)"
-    },
-    {
-      "title": "Die AfD ist keine „NSDAP 2.0“",
-      "url": "https://www.welt.de/regionales/nrw/article252369116/Blick-nach-rechts-Die-AfD-ist-keine-NSDAP-2-0.html",
-      "image_url": "https://img.welt.de/img/regionales/nrw/mobile252368600/5927933337-ci102l-w20/Kombo-Stoldt-AfD-NSDAP.jpg",
-      "image_title": "Auf dem Bild sieht man links einen Aufmarsch der NSDAP 1933, in der Mitte eine Demonstration von AfDlern und rechts den Kopf von Kommentator Till-Reimer Stoldt"
     },
     {
       "title": "Söders Zwei-Szenarien-Plan für die Bundestagswahl – und was er für Merz bedeutet",
@@ -423,6 +423,66 @@
       "image_title": "Außerhalb der Städte könnten Wetterbilder wie dieses zu sehen sein"
     },
     {
+      "title": "Polizist mit Softair-Waffe bedroht",
+      "url": "https://www.welt.de/regionales/bayern/article252508814/Polizist-mit-Softair-Waffe-bedroht.html"
+    },
+    {
+      "title": "MBC verpflichtet Brewer - Mushidi verlässt Wölfe",
+      "url": "https://www.welt.de/regionales/sachsen/article252508806/MBC-verpflichtet-Brewer-Mushidi-verlaesst-Woelfe.html"
+    },
+    {
+      "title": "AfD baut auf klimaschädliche Braunkohle - Wahlkampfstart",
+      "url": "https://www.welt.de/regionales/sachsen/article252508764/AfD-baut-auf-klimaschaedliche-Braunkohle-Wahlkampfstart.html"
+    },
+    {
+      "title": "Baracke von ehemaligem Zwangsarbeiter-Lager in Flammen",
+      "url": "https://www.welt.de/regionales/berlin/article252508758/Baracke-von-ehemaligem-Zwangsarbeiter-Lager-in-Flammen.html"
+    },
+    {
+      "title": "Hersteller entdeckt Messfehler – Polizei stoppt Einsatz von 115 Laserpistolen",
+      "url": "https://www.welt.de/vermischtes/article252508032/Geschwindigkeitskontrolle-Hersteller-entdeckt-Messfehler-Polizei-stoppt-Einsatz-von-115-Laserpistolen.html"
+    },
+    {
+      "title": "Kirschernte nach Frostschäden ausgefallen - Hofläden zu",
+      "url": "https://www.welt.de/regionales/berlin/article252508742/Kirschernte-nach-Frostschaeden-ausgefallen-Hoflaeden-zu.html"
+    },
+    {
+      "title": "Kühe büxen aus und gehen im Allgäu spazieren",
+      "url": "https://www.welt.de/regionales/bayern/article252508712/Kuehe-buexen-aus-und-gehen-im-Allgaeu-spazieren.html"
+    },
+    {
+      "title": "Hummels verlässt Baller League nach nur einer Saison",
+      "url": "https://www.welt.de/regionales/nrw/article252508708/Hummels-verlaesst-Baller-League-nach-nur-einer-Saison.html"
+    },
+    {
+      "title": "Peter Ritters bewegender Abschied von der politischen Bühne",
+      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article252508654/Peter-Ritters-bewegender-Abschied-von-der-politischen-Buehne.html"
+    },
+    {
+      "title": "Wechselndes Wetter aus Sonne und Wolken in Hessen",
+      "url": "https://www.welt.de/regionales/hessen/article252508644/Wechselndes-Wetter-aus-Sonne-und-Wolken-in-Hessen.html"
+    },
+    {
+      "title": "Wohnhaus im Landkreis Bautzen brennt gleich zweimal",
+      "url": "https://www.welt.de/regionales/sachsen/article252508632/Wohnhaus-im-Landkreis-Bautzen-brennt-gleich-zweimal.html"
+    },
+    {
+      "title": "Kosmetikeimer brennt - Hotel in Travemünde geräumt",
+      "url": "https://www.welt.de/regionales/hamburg/article252508628/Kosmetikeimer-brennt-Hotel-in-Travemuende-geraeumt.html"
+    },
+    {
+      "title": "Gewitter ziehen über den Südwesten - Schäden und Verletzte",
+      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article252508554/Gewitter-ziehen-ueber-den-Suedwesten-Schaeden-und-Verletzte.html"
+    },
+    {
+      "title": "Streit ums Ausparken: Frau trennt Kontrahenten mit Reizstoff",
+      "url": "https://www.welt.de/regionales/nrw/article252508400/Streit-ums-Ausparken-Frau-trennt-Kontrahenten-mit-Reizstoff.html"
+    },
+    {
+      "title": "Geldautomatensprengung in Eschborn vereitelt",
+      "url": "https://www.welt.de/regionales/hessen/article252508370/Geldautomatensprengung-in-Eschborn-vereitelt.html"
+    },
+    {
       "title": "Söder in Umfrage zu Kanzlerfrage vor Merz",
       "url": "https://www.welt.de/regionales/bayern/article252508354/Soeder-in-Umfrage-zu-Kanzlerfrage-vor-Merz.html"
     },
@@ -487,60 +547,16 @@
       "url": "https://www.welt.de/regionales/niedersachsen/article252506800/Fregatte-Brandenburg-zurueck-von-UN-Einsatz-im-Mittelmeer.html"
     },
     {
-      "title": "Überschwemmungen nach Starkregen in Teilen Niedersachsens",
-      "url": "https://www.welt.de/regionales/niedersachsen/article252506796/Ueberschwemmungen-nach-Starkregen-in-Teilen-Niedersachsens.html"
-    },
-    {
-      "title": "Feuer in Bar: Polizei prüft Hinweise auf Tatverdächtigen",
-      "url": "https://www.welt.de/regionales/nrw/article252506718/Feuer-in-Bar-Polizei-prueft-Hinweise-auf-Tatverdaechtigen.html"
-    },
-    {
       "title": "Ehemann tötet Frau mit mehr als 30 Messerstichen",
       "url": "https://www.welt.de/vermischtes/article252506560/Landsberg-am-Lech-Ehemann-toetet-Frau-mit-mehr-als-30-Messerstichen.html"
-    },
-    {
-      "title": "Katholische Bistümer ohne Obergrenze bei Entschädigungen",
-      "url": "https://www.welt.de/regionales/bayern/article252506704/Katholische-Bistuemer-ohne-Obergrenze-bei-Entschaedigungen.html"
-    },
-    {
-      "title": "18-Jähriger prallt mit Auto gegen Baum und stirbt",
-      "url": "https://www.welt.de/regionales/niedersachsen/article252506668/18-Jaehriger-prallt-mit-Auto-gegen-Baum-und-stirbt.html"
-    },
-    {
-      "title": "Offensivspieler Shcherbakovski ist endgültig Cottbuser",
-      "url": "https://www.welt.de/regionales/berlin/article252506604/Offensivspieler-Shcherbakovski-ist-endgueltig-Cottbuser.html"
-    },
-    {
-      "title": "Früheres Marine-U-Boot vom Wasser aufs Land verladen",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article252506622/Frueheres-Marine-U-Boot-vom-Wasser-aufs-Land-verladen.html"
     },
     {
       "title": "Einjähriger fällt aus Fenster – Passant fängt ihn auf",
       "url": "https://www.welt.de/vermischtes/article252506530/Darmstadt-Einjaehriger-faellt-aus-Fenster-Passant-faengt-ihn-auf.html"
     },
     {
-      "title": "Woidke kritisiert Wagenknecht - Mundwerk statt Handwerk",
-      "url": "https://www.welt.de/regionales/berlin/article252506594/Woidke-kritisiert-Wagenknecht-Mundwerk-statt-Handwerk.html"
-    },
-    {
       "title": "Zuwachs bei türkischen Rechtsextremisten in Hamburg",
       "url": "https://www.welt.de/regionales/hamburg/article252506458/Wolfsgruss-Debatte-Zuwachs-bei-tuerkischen-Rechtsextremisten-in-Hamburg.html"
-    },
-    {
-      "title": "Arbeiter stürzt auf Baustelle in die Tiefe - schwer verletzt",
-      "url": "https://www.welt.de/regionales/bayern/article252506578/Arbeiter-stuerzt-auf-Baustelle-in-die-Tiefe-schwer-verletzt.html"
-    },
-    {
-      "title": "Grünen-Chefin kritisiert Eurofighter-Flug von Merz",
-      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article252506564/Gruenen-Chefin-kritisiert-Eurofighter-Flug-von-Merz.html"
-    },
-    {
-      "title": "Seelow ist sportlichste Gemeinde Brandenburgs",
-      "url": "https://www.welt.de/regionales/berlin/article252506520/Seelow-ist-sportlichste-Gemeinde-Brandenburgs.html"
-    },
-    {
-      "title": "Erdfälle sind und bleiben in Thüringen ständige Gefahr",
-      "url": "https://www.welt.de/regionales/thueringen/article252506512/Erdfaelle-sind-und-bleiben-in-Thueringen-staendige-Gefahr.html"
     },
     {
       "title": "Hamburgs Bürgermeister Tschentscher will weitermachen – mit den Grünen",
@@ -553,18 +569,6 @@
     {
       "title": "1,6 Millionen Euro für „Toilettenbetreuung“ in Berlin-Kreuzberg",
       "url": "https://www.welt.de/vermischtes/article252506386/Goerlitzer-Park-1-6-Millionen-Euro-fuer-Toilettenbetreuung-in-Berlin-Kreuzberg.html"
-    },
-    {
-      "title": "Viele Wolken und Regen in Berlin und Brandenburg",
-      "url": "https://www.welt.de/regionales/berlin/article252506400/Viele-Wolken-und-Regen-in-Berlin-und-Brandenburg.html"
-    },
-    {
-      "title": "Gemeinnützige Vereine erhalten viele Mittel aus Geldauflagen",
-      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article252506384/Gemeinnuetzige-Vereine-erhalten-viele-Mittel-aus-Geldauflagen.html"
-    },
-    {
-      "title": "Bündnis Deutschland möchte Biedenkopf-Flughafen Dresden",
-      "url": "https://www.welt.de/regionales/sachsen/article252506380/Buendnis-Deutschland-moechte-Biedenkopf-Flughafen-Dresden.html"
     },
     {
       "title": "Erster NRW-Betrieb setzt auf Wasserstoff",
@@ -657,10 +661,6 @@
     {
       "title": "„Ich gelte als Verräterin“, sagt die Grünen-Politikerin über die Stimmung im Dorf",
       "url": "https://www.welt.de/politik/deutschland/plus252450146/Upahl-Wegen-Asylunterkunft-Ich-gelte-als-Verraeterin-sagt-die-Gruenen-Politikerin.html"
-    },
-    {
-      "title": "Neuer Streit über Staatsvertrag mit muslimischen Verbänden",
-      "url": "https://www.welt.de/regionales/hamburg/article252449952/Hamburg-Neuer-Streit-ueber-Staatsvertrag-mit-muslimischen-Verbaenden.html"
     },
     {
       "title": "Vor allem eine Altersgruppe wendet sich zunehmend von Social Media ab",

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-13T10:01:19",
+  "timestamp": "2024-07-13T11:01:04",
   "url": "https://www.welt.de/wirtschaft/",
   "response": {
     "status": 200
@@ -25,6 +25,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "Die Aktien der Deutschen",
+      "teaser": "In einer Umfrage unter Online-Banken und Neobrokern hat WELT die Lieblingsaktien der deutschen Anleger ermittelt. Die Ergebnisse offenbaren eine deutliche Verschiebung im Regionen-Mix. Bei den deutschen Titeln zeigen sich einige Überraschungen und ein völlig vergessener Top-Favorit.",
+      "url": "https://www.welt.de/finanzen/geldanlage/plus252502556/Mercedes-Nvidia-oder-Lufthansa-Das-sind-die-Aktien-der-Deutschen.html",
+      "image_url": "https://img.welt.de/img/incoming/mobile252502834/6457935847-ci23x11-w20/DWO-Teaser-Chart-jb.jpg",
+      "image_title": "Kein alternativer Text für dieses Bild vorhanden",
+      "author": "Daniel Eckert"
+    },
     {
       "title": "Mehr als sieben Minuten Arbeit für ein „Magnum“-Eis",
       "teaser": "Eine Kugel Eis in der Diele kostet heute oft mehr als zwei Euro. Doch auch für abgepacktes Eis aus der Kühltheke müssen die Verbraucher inzwischen mehr bezahlen als früher. Ein Forscher hat ausgerechnet, wie lange man arbeiten muss, um sich ein Eis leisten zu können.",
@@ -71,14 +79,6 @@
       "image_url": "https://img.welt.de/img/wirtschaft/energie/mobile252482352/2247937607-ci23x11-w20/DOEL-NUCLEAR-PLANT-ILLUSTRATIONS.jpg",
       "image_title": "Der belgische Reaktor Doel 4 soll nach derzeitiger Rechtslage nur noch bis 2035 laufen",
       "author": "Michael Gassmann"
-    },
-    {
-      "title": "Steuererklärung in 5 Minuten? Expertenkommission orientiert sich am Modell Estland",
-      "teaser": "Die Expertenkommission „Bürgernahe Einkommensteuer“ hat Vorschläge für die Vereinfachungen der Steuererklärung vorgelegt. Eine Arbeitstagepauschale, eine simplere Besteuerung der Renten und der Wegfall einer beliebten Ermäßigung sind konkrete Ansätze.",
-      "url": "https://www.welt.de/wirtschaft/",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile252496828/7007937027-ci23x11-w20/472222195.jpg",
-      "image_title": "Finanzminister Christian Lindner bei der Übergabe der Berichte der Expertenkommissionen ‚Buergernahe Einkommensteuer‘ und ‚Vereinfachte Unternehmensteuer‘",
-      "author": "Karsten Seibel"
     },
     {
       "title": "Prime Day 2024 – Diese Schnäppchen-Angebote gibt es bereits bei Amazon",
@@ -295,6 +295,10 @@
       "url": "https://www.welt.de/wirtschaft/",
       "image_url": "https://img.welt.de/img/wirtschaft/mobile235813724/3920249907-ci16x9-w20/20211221-DWO-Champagne-Exports-STAT-jpg.jpg",
       "image_title": "Kein alternativer Text für dieses Bild vorhanden"
+    },
+    {
+      "title": "Die Aktien der Deutschen",
+      "url": "https://www.welt.de/finanzen/geldanlage/plus252502556/Mercedes-Nvidia-oder-Lufthansa-Das-sind-die-Aktien-der-Deutschen.html"
     },
     {
       "title": "Baywa in der Krise: Sanierungsgutachten notwendig",
@@ -517,10 +521,6 @@
       "url": "https://www.welt.de/wirtschaft/plus252463182/Maschinenbau-Nur-25-Prozent-hoffnungsvoll-grosser-Pessimismus-in-der-Branche.html"
     },
     {
-      "title": "„Bricht Betrieben das Genick“ – der gefährliche Zahlungsverzug deutscher Firmen",
-      "url": "https://www.welt.de/wirtschaft/plus252450156/Unbezahlte-Rechnungen-Bricht-Betrieben-das-Genick-gefaehrlicher-Zahlungsverzug-der-Firmen.html"
-    },
-    {
       "title": "Hat die junge Generation Unternehmergeist?",
       "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article252465450/Hat-die-junge-Generation-Unternehmergeist.html"
     },
@@ -537,27 +537,43 @@
       "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article252460580/BASF-legt-weitere-Anlagen-still-300-Jobs-betroffen.html"
     },
     {
-      "title": "„Deutschland genoss hohen Respekt. Damit ist es langsam vorbei“",
-      "teaser": "René Obermann ist Co-Europachef des Investors Warburg Pincus und Aufsichtsratsvorsitzender von Airbus. Im Interview erklärt er, warum er in dem Konzern ein Beispiel für Europa sieht – und vor den Ideen der Rechtspopulisten warnt. Über Deutschland fällt er ein gemischtes Urteil.",
-      "url": "https://www.welt.de/wirtschaft/plus252444700/Airbus-Aufsichtsratschef-Deutschland-genoss-hohen-Respekt-Damit-ist-es-langsam-vorbei.html",
-      "image_url": "https://img.welt.de/img/incoming/mobile252451832/5147935197-ci23x11-w20/CDU-Economic-Council-Holds-Two-Day-Conference-2.jpg",
-      "image_title": "René Obermann, Aufsichtsratsvorsitzender von Airbus",
-      "author": "Jan Dams"
+      "title": "Und plötzlich sind die „Wortmenschen“ im Vorteil",
+      "teaser": "Mathematik-Talente werden Ingenieure oder Informatiker und kriegen Top-Gehälter – wer sich für Sprache und Literatur interessiert, endet als Taxifahrer? Was über Generationen galt, ändert sich gerade rapide. Ein Weltstar, der es wissen muss, erkennt eine „überfällige Neugewichtung“.",
+      "url": "https://www.welt.de/kultur/plus252178430/KI-und-Karriere-Wer-sich-fuer-Sprache-und-Literatur-interessiert-endet-als-Taxifahrer.html",
+      "image_url": "https://img.welt.de/img/kultur/mobile252178634/3997938197-ci23x11-w20/Portrait-in-front-of-doodles.jpg",
+      "image_title": "Mathe? In Zukunft womöglich so nützlich wie Latein",
+      "author": "Peter Praschl"
     },
     {
-      "title": "„Wir verteilen in Deutschland Wohltaten an eine Bevölkerung, die weniger arbeiten will“",
-      "teaser": "Deutschlands Wohlstand fußt auf der Industrie. Aktuell dominiere jedoch die Sicht, dieses Schlüsselgewerbe für Energiewende und soziale Götzenbilder zu opfern, kritisiert Ökonom Karp im Interview mit WELT. Die Folgen einer solchen Politik wären auch für die Gesellschaft enorm.",
-      "url": "https://www.welt.de/wirtschaft/plus252249262/Industrie-Wir-verteilen-Wohltaten-an-eine-Bevoelkerung-die-weniger-arbeiten-will.html",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile252250902/5517936727-ci23x11-w20/Aerial-view-of-steaming-cooling-towers.jpg",
-      "image_title": "Aerial view of steaming cooling towers",
-      "author": "Michael Höfling"
+      "title": "80 Prozent Gewinn nach 7 Jahren – dieses unbekannte Geldgeschenk sollten Sie kennen",
+      "teaser": "Rund 35 Millionen Deutsche haben seit diesem Jahr Förderanspruch auf vermögenswirksame Leistungen. Doch ein Großteil lässt das Extra-Geld von Arbeitgeber und Staat liegen, wie eine Umfrage zeigt. WELT liefert die Rechnung, wie viel Ihnen entgeht und erklärt, welche drei Optionen Sie haben.",
+      "url": "https://www.welt.de/wirtschaft/plus252325118/Vermoegenswirksame-Leistungen-Millionen-sind-berechtigt-das-muessen-Sie-wissen.html",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile252351888/0117935857-ci23x11-w20/Confident-businessman-at-desk-leaning-back.jpg",
+      "image_title": "Confident businessman at desk leaning back",
+      "author": "Frank Stocker"
     },
     {
-      "title": "Inflation frisst gestiegene Einkommen",
-      "teaser": "Zuletzt sind in Deutschland die durchschnittlichen Einkommen deutlich gestiegen – noch schneller jedoch die Preise. In den Kassen der Haushalte bleibt im Schnitt ein Minus, wie Zahlen vom Statistischen Bundesamt offenbaren.",
-      "url": "https://www.welt.de/wirtschaft/",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile252261546/5797939687-ci23x11-w20/Symbolbild-zur-Inflation.jpg",
-      "image_title": "Mehr zahlen für weniger Produkte: „Die Deutschen sind deutlich ärmer geworden“, klagt Sahra Wagenknecht (BSW)"
+      "title": "Habecks Geschenk an den Mercedes-Chef",
+      "teaser": "Die psychologischen Folgen der gestrichenen Förderprämie für E-Autos waren bei Käufern verheerend. Bei seinem Besuch bei Mercedes-Benz in Stuttgart konnte Robert Habeck nun dennoch punkten. Denn eine neue Subvention aus dem Haushaltskompromiss kommt hier besonders gut an.",
+      "url": "https://www.welt.de/wirtschaft/plus252412056/Mercedes-Robert-Habecks-Geschenk-an-den-Mercedes-Chef.html",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile252414176/9187931227-ci23x11-w20/Sommerreise-Habeck.jpg",
+      "image_title": "Bundeswirtschaftsminister Robert Habeck (Grüne)",
+      "author": "Daniel Zwick"
+    },
+    {
+      "title": "Die besten Modelle für den Start in die Fotografie",
+      "teaser": "Sie wollen in die Welt der Fotografie eintauchen und Bilder machen, die über Handy-Schnappschüsse hinausgehen? Dann sollten Sie sich über die richtige Kamera für Einsteiger Gedanken machen.",
+      "url": "https://www.welt.de/wirtschaft/webwelt/",
+      "image_url": "https://img.welt.de/img/wirtschaft/webwelt/mobile249568826/7967935187-ci23x11-w20/Young-woman-on-balcony-using-vintage-camera.jpg",
+      "image_title": "Eine Frau macht mit einer Kamera ein Foto",
+      "author": "Markus Brandstetter"
+    },
+    {
+      "title": "Die falsche Angst vor der Nvidia-Korrektur",
+      "teaser": "Der US-Leitindex S&P 500 ist seit Jahresbeginn um knapp 19 Prozent gestiegen, getrieben durch Nvidia, Microsoft und Co. Dahinter steckt die Hoffnung auf KI-Gewinne. Doch ist diese haltbar? Die Antwort ist eindeutig – selbst wenn es zu einer Korrektur kommt,",
+      "url": "https://www.welt.de/wirtschaft/plus252408532/Nvidia-Die-Rallye-endet-im-Crash-Die-falsche-Angst-vor-der-Korrektur.html",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile252411252/3527936447-ci23x11-w20/Kombo-Mayer.jpg",
+      "image_title": "WELT-Kolumnist Thomas Mayer"
     },
     {
       "title": "Der Traum von der grünen Kreuzfahrt – und die bittere Realität",
@@ -566,22 +582,6 @@
       "image_url": "https://img.welt.de/img/wirtschaft/mobile252453974/6677934467-ci23x11-w20/Kreuzfahrtschiff-MS-Otto-Sverdrup-Hurtigruten-verlaesst-den-Hamburger-Hafen-im.jpg",
       "image_title": "Kreuzfahrtschiff MS Otto Sverdrup, Hurtigruten, verlässt den Hamburger Hafen im Abendlicht auf der Elbe, Hamburg, Deutschland, Europa",
       "author": "Birger Nicolai"
-    },
-    {
-      "title": "Deutschlands Wohlstands-Schwäche trifft vor allem die Mitte",
-      "teaser": "Auch wenn es einige Finanzmillionäre mehr in Deutschland gibt, ist die Vermögensentwicklung in Deutschland insgesamt ernüchternd. Vor allem die Mittelschicht hat darunter zu leiden, wie nun zwei Studien zeigen. Es wird hierzulande immer schwerer reich zu werden.",
-      "url": "https://www.welt.de/finanzen/geldanlage/plus252457064/Vermoegen-Deutschlands-Wohlstands-Schwaeche-trifft-vor-allem-die-Mitte.html",
-      "image_url": "https://img.welt.de/img/finanzen/geldanlage/mobile252459662/3707939557-ci23x11-w20/Mature-businessman-looking-away.jpg",
-      "image_title": "Mature businessman looking away",
-      "author": "Daniel Eckert"
-    },
-    {
-      "title": "„Dieses Geschäftsmodell ist hierzulande tot“, sagt der Chef der Chemieindustrie",
-      "teaser": "Deutschlands Chemieindustrie erwartet etwas bessere Zahlen. Doch für Entwarnung sei es viel zu früh, warnt der Präsident des Chemieverbands. Eine dauerhafte Besserung sei nicht in Sicht. Ganz im Gegenteil – immer mehr Unternehmen entschieden sich gegen den Standort Deutschland.",
-      "url": "https://www.welt.de/wirtschaft/plus252418126/Chemie-Geschaeftsmodell-ist-hierzulande-tot-sagt-der-Chef-der-Chemieindustrie.html",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile252419190/3557938747-ci23x11-w20/BASF-bei-Nacht.jpg",
-      "image_title": "BASF bei Nacht",
-      "author": "Anja Ettel"
     }
   ]
 }
