@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-13T07:00:59",
+  "timestamp": "2024-07-13T08:07:28",
   "url": "https://www.heise.de/plus/",
   "response": {
     "status": 200
@@ -26,14 +26,20 @@
   ],
   "articles": [
     {
+      "title": "HintergrundOLED-Monitor 1,5 Jahre im Büro- und Gaming-Einsatz",
+      "teaser": "OLED ist toll, auch für den Einsatz im Homeoffice – hat aber hier und da Schwachstellen. Ein Praxistest des LG Ultragear 27GR95QE.",
+      "url": "https://www.heise.de/hintergrund/Erfahrungsbericht-OLED-Monitor-nach-1-5-Jahren-Dauereinsatz-9785448.html",
+      "image_title": "Zwei Monitore an einem Monitorarm auf einem Schreibtisch"
+    },
+    {
+      "title": "RatgeberGluster-Tutorial, Teil 1: Verteilter Storage-Cluster",
+      "teaser": "Ceph gilt als ultimativer Ansatz für verteilten Storage. GlusterFS ist jedoch vor allem für typische Dateisystemoperationen oft die bessere Wahl.",
+      "url": "https://www.heise.de/ratgeber/Gluster-Tutorial-Teil-1-Verteilter-Storage-Cluster-9791371.html"
+    },
+    {
       "title": "HintergrundDas verdienen Softwareentwickler in Deutschland",
       "teaser": "Unternehmen suchen händeringend nach Softwareentwicklern. Ihr Gehalt kann sich sehen lassen, hängt aber von der Spezialisierung ab.",
       "url": "https://www.heise.de/hintergrund/Gehaelter-2024-Das-verdienen-Softwareentwickler-in-Deutschland-9789328.html"
-    },
-    {
-      "title": "HintergrundWie man kleine Dateneinheiten effizient komprimiert",
-      "teaser": "Kleine Datenmengen erfordern eine besondere Behandlung beim Komprimieren. Eine Einführung in binäre Bäume und Shannon-Fano-Coding.",
-      "url": "https://www.heise.de/hintergrund/Wie-man-kleine-Dateneinheiten-effizient-komprimiert-9786862.html"
     },
     {
       "title": "RatgeberKI-Bildgeneratoren: Chancen und Risiken im Überblick",
@@ -42,22 +48,16 @@
       "image_title": "Midjourney: /imagine apple computer pc monitor photographer camera, photographer using midjourney, photographer using AI image generator, at night,"
     },
     {
-      "title": "TestsWOWCube: Drehbare Spielkonsole im Test",
-      "teaser": "Der Zauberwürfel aus den 80ern als Spielkonsole. Der WOWCube ist ein 2×2×2-Würfel, der mit Technik vollgestopft und mit 24 Bildschirmen ausgestattet ist.",
-      "url": "https://www.heise.de/tests/WOWCube-Drehbare-Spielkonsole-im-Test-9793141.html",
-      "image_title": ","
+      "title": "TestsFahrrad-Navigation: Acht iPhone-Apps im Test",
+      "teaser": "Navi-Apps für Fahrradfahrer sollen kurze oder schöne Strecken mit wenig Autoverkehr finden. Wir haben sechs Apps gegen Apple und Google Maps antreten lassen.",
+      "url": "https://www.heise.de/tests/Fahrrad-Navigation-Acht-iPhone-Apps-im-Test-9063080.html",
+      "image_title": ", David Marcu, unsplash"
     },
     {
       "title": "RatgeberBBC Micro:bit in Python programmieren: Ein eigenes Spiel entwickeln",
       "teaser": "Der Mikrocontroller BBC Micro:bit bietet zahlreiche Funktionen für den Einstieg in die Mikrocontroller-Welt. Zum Start am besten geeignet: ein eigenes Spiel.",
       "url": "https://www.heise.de/ratgeber/BBC-Micro-bit-in-Python-programmieren-Ein-eigenes-Spiel-entwickeln-9789112.html",
       "image_title": ","
-    },
-    {
-      "title": "TestsFahrrad-Navigation: Acht iPhone-Apps im Test",
-      "teaser": "Navi-Apps für Fahrradfahrer sollen kurze oder schöne Strecken mit wenig Autoverkehr finden. Wir haben sechs Apps gegen Apple und Google Maps antreten lassen.",
-      "url": "https://www.heise.de/tests/Fahrrad-Navigation-Acht-iPhone-Apps-im-Test-9063080.html",
-      "image_title": ", David Marcu, unsplash"
     },
     {
       "title": "heise-ChatbotPersönlicher IT-Experte: Beta-Version des heise-Chatbots für heise+ Abonnenten",
@@ -233,16 +233,15 @@
       "image_title": "Alfa Romeo Junior"
     },
     {
-      "title": "Langzeittest: OLED-Monitor 1,5 Jahre im Büro- und Gaming-Einsatz",
-      "teaser": "OLED ist toll, auch für den Einsatz im Homeoffice – hat aber hier und da Schwachstellen. Welche das sind, zeigt unser Praxistest des LG Ultragear 27GR95QE.",
-      "url": "https://www.heise.de/hintergrund/Erfahrungsbericht-OLED-Monitor-nach-1-5-Jahren-Dauereinsatz-9785448.html",
-      "image_title": "Zwei Monitore an einem Monitorarm auf einem Schreibtisch"
+      "title": "WOWCube: Drehbare Spielkonsole im Test",
+      "teaser": "Der Zauberwürfel aus den 80ern als Spielkonsole. Der WOWCube ist ein 2×2×2-Würfel, der mit Technik vollgestopft und mit 24 Bildschirmen ausgestattet ist.",
+      "url": "https://www.heise.de/tests/WOWCube-Drehbare-Spielkonsole-im-Test-9793141.html",
+      "image_title": ","
     },
     {
-      "title": "Einsteiger-Smartphone HMD Pulse Pro im Test",
-      "teaser": "Sein neues Smartphone Pulse Pro bringt der Hersteller HMD unter eigenen Namen ohne Nokia auf den Markt. Dadurch bleiben allerdings sehr wenige Kaufargumente.",
-      "url": "https://www.heise.de/tests/Einsteiger-Smartphone-HMD-Pulse-Pro-im-Test-9791015.html",
-      "image_title": ","
+      "title": "Wie man kleine Dateneinheiten effizient komprimiert",
+      "teaser": "Kleine Datenmengen erfordern eine besondere Behandlung beim Komprimieren. Eine Einführung in binäre Bäume und Shannon-Fano-Coding.",
+      "url": "https://www.heise.de/hintergrund/Wie-man-kleine-Dateneinheiten-effizient-komprimiert-9786862.html"
     },
     {
       "title": "Pflege der SolaranlageSaharastaub und Pollen – (Warum) sollte ich meine Solaranlage reinigen?​",
@@ -353,12 +352,12 @@
       "url": "https://www.heise.de/hintergrund/Marktuebersicht-Software-defined-Networking-fuer-Kubernetes-9793190.html"
     },
     {
-      "title": "Gluster-Tutorial, Teil 1: Verteilter Storage-Cluster",
-      "url": "https://www.heise.de/ratgeber/Gluster-Tutorial-Teil-1-Verteilter-Storage-Cluster-9791371.html"
-    },
-    {
       "title": "gRPC-Framework: Sichere und zuverlässige Netzwerkkommunikation",
       "url": "https://www.heise.de/ratgeber/gRPC-Framework-Sichere-und-zuverlaessige-Netzwerkkommunikation-9789598.html"
+    },
+    {
+      "title": "LlamaIndex: Mit Dokumenten und Datenbanken in natürlicher Sprache sprechen",
+      "url": "https://www.heise.de/hintergrund/LlamaIndex-Mit-Dokumenten-und-Datenbanken-in-natuerlicher-Sprache-sprechen-9789624.html"
     },
     {
       "title": "Im Test: Vollformatkamera Leica SL3",
