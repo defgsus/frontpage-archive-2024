@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-15T08:00:48",
+  "timestamp": "2024-07-15T09:07:13",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Palo Alto Networks",
+      "url": "https://www.heise.de/news/Admin-Luecke-bedroht-Palo-Alto-Networks-Migration-Tool-Expedition-9800845.html"
+    },
+    {
       "title": "GitLab",
       "url": "https://www.heise.de/news/Sicherheitsluecken-GitLab-Angreifer-koennen-Softwareentwicklung-manipulieren-9799190.html"
     },
@@ -44,12 +48,13 @@
       "url": "https://www.heise.de/news/Nvidia-Angreifer-koennen-Schadcode-durch-Grafikkartentreiber-Luecke-schieben-9797859.html"
     },
     {
-      "title": "Cisco",
-      "url": "https://www.heise.de/news/Cisco-Secure-Boot-bei-einigen-Routern-umgehbar-Anfaelligkeit-auf-RADIUS-Luecke-9797349.html"
+      "title": "Admin-Lücke bedroht Palo Alto Networks Migration-Tool Expedition",
+      "teaser": "Verschiedene Cybersicherheitsprodukte von Palo Alto Networks sind verwundbar. Sicherheitsupdates sind verfügbar.",
+      "url": "https://www.heise.de/news/Admin-Luecke-bedroht-Palo-Alto-Networks-Migration-Tool-Expedition-9800845.html"
     },
     {
-      "title": "E-Commerce: Sicherheitsexperten beobachten viele Angriffe auf Adobe Commerce",
-      "teaser": "Aktuell scheint es zahlreiche Angriffe auf Online-Shops zu geben, die Adobe Commerce und Magento einsetzen. Davor warnen Sicherheitsexperten von Sansec.​",
+      "title": "E-Commerce-Plattform: Sicherheitslücke in Adobe Commerce wird ausgenutzt",
+      "teaser": "Aktuell scheint es zahlreiche Angriffe auf Online-Shops zu geben, die Adobe Commerce (früher Magento) einsetzen. Davor warnen Sicherheitsexperten von Sansec.​",
       "url": "https://www.heise.de/news/E-Commerce-Sicherheitsexperten-beobachten-viele-Angriffe-auf-Adobe-Commerce-9800717.html",
       "image_title": "Adobe Logo"
     },
@@ -156,12 +161,6 @@
       "teaser": "Die RegreSSHion-Lücke ermöglichte Angreifern Root-Zugriff. Ein IT-Forscher hat eine weitere ähnliche Lücke in OpenSSH von RHEL 9 und Abkömmlingen entdeckt.",
       "url": "https://www.heise.de/news/OpenSSH-Weitere-RegreSSHion-artige-Luecke-entdeckt-9795874.html",
       "image_title": "Stilisierte Grafik: ein brennender Server, Serverrack"
-    },
-    {
-      "title": "Schlangenölverkäufer und ihre \"Sicherheitsprodukte\" verderben die Unternehmen",
-      "teaser": "Verkauft der Finder einer Schwachstelle auch gleich die Lösung des Problems, ist bei ihrer Schwere gesundes Misstrauen angesagt, meint Janis König.",
-      "url": "https://www.heise.de/meinung/Schlangenoelverkaeufer-und-ihre-Sicherheitsprodukte-verderben-die-Unternehmen-9795635.html",
-      "image_title": "Fingerabdruck mit Schlüssel"
     },
     {
       "title": "Microsoft Cloud Security",
