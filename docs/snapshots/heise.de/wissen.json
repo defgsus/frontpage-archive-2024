@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-16T11:00:40",
+  "timestamp": "2024-07-16T12:10:45",
   "url": "https://www.heise.de/newsticker/wissen/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "Atomkraft: Schweizer und Dänen forschen an Thorium-Flüssigsalz-Reaktor",
+      "teaser": "Kleine, modulare Reaktoren könnten helfen, den künftigen Energiebedarf zu decken. Daran wird nun in der Schweiz geforscht.",
+      "url": "https://www.heise.de/news/Atomkraft-Schweizer-und-Daenen-forschen-an-Thorium-Fluessigsalz-Reaktor-9801248.html",
+      "image_title": "Grafik eines AKW von Copenhagen Atomics"
+    },
+    {
       "title": "Aquila Maris: Rakete sollte von Nordsee starten, ist jetzt aber eingelagert",
       "teaser": "Von einem deutschen Weltraumbahnhof sollte schon lange eine Rakete ins All starten. Doch immer wieder tauchen neue Hürden auf.",
       "url": "https://www.heise.de/news/Aquila-Maris-Rakete-sollte-von-Nordsee-starten-ist-jetzt-aber-eingelagert-9800769.html",
@@ -37,12 +43,6 @@
       "url": "https://www.heise.de/news/Ein-stinkender-Planet-Forschungsteam-findet-Schwefelwasserstoff-in-Atmosphaere-9798419.html"
     },
     {
-      "title": "SpaceX: Riesenroboterarme sollen Starship bei fünftem Testflug einfangen",
-      "teaser": "SpaceX plant für den fünften Start seines Spaceships im August eine Punktlandung auf der Abschussrampe. Zwei riesige Roboterarme sollen die Rakete einfangen.",
-      "url": "https://www.heise.de/news/SpaceX-Riesenroboterarme-sollen-Starship-bei-fuenftem-Testflug-einfangen-9795109.html",
-      "image_title": "Veranschaulichung von SpaceX' Chopstick Verfahren"
-    },
-    {
       "title": "Eine Analyse der xz-Hintertür, Teil 2",
       "teaser": "Die Analyse des initialen Shellskripts offenbart den nächsten Schritt des so aufwendig vorgehenden Angreifers und entlarvt eine weitere verseuchte Datei.",
       "url": "https://www.heise.de/hintergrund/Eine-Analyse-der-xz-Hintertuer-Teil-2-9799376.html"
@@ -52,6 +52,23 @@
       "teaser": "Sming vereint Komfort und Kontrolle, ist gut dokumentiert und lässt sich leicht installieren. Dabei läuft es unter Linux, macOS und per WSL2 unter Windows.",
       "url": "https://www.heise.de/ratgeber/Programmieren-von-Mikroprozessoren-mit-Sming-9797974.html",
       "image_title": ", ShutterStockStudio/Shutterstock.com"
+    },
+    {
+      "title": "Zahlen, bitte! Bis zu 4.000.000 Alien-Welten nach der Drake-Gleichung",
+      "teaser": "Die Drake-Gleichung dient der Berechnung der wahrscheinlichen Anzahl außerirdischer Zivilisationen in der Milchstraße. Sie hat aber einen gewaltigen Haken.",
+      "url": "https://www.heise.de/hintergrund/Zahlen-bitte-Bis-zu-4-000-000-Alien-Welten-nach-der-Drake-Gleichung-9788627.html",
+      "image_title": "Zahlen, bitte! Bis zu 4.000.000 Alien-Welten nach der Drake-Gleichung"
+    },
+    {
+      "title": "Kickstarter Ende: Formlabs kauft low-cost-SLS-Drucker von Micronics auf",
+      "teaser": "Das SLS-Verfahren hat viele Vorteile. Im Prinzip einfach, in Ausführung schwierig, hat sich das Verfahren bisher gegen den kostengünstigen Nachbau gesträubt.",
+      "url": "https://www.heise.de/news/Formlabs-uebernimmt-SLS-Drucker-Startup-9802520.html"
+    },
+    {
+      "title": "Supa Dupa Fly: NASA schickt Missy Elliott zur Venus",
+      "teaser": "Miss Elliotts Hip-Hop-Song \"The Rain\" wurde von der NASA zur Venus geschickt. Es ist der zweite Song, der über das Deep Space Network ins All gesendet wurde.",
+      "url": "https://www.heise.de/news/Missy-Elliott-an-Venus-NASA-uebertraegt-ersten-Hip-Hop-Song-in-Weltraum-9802528.html",
+      "image_title": "Parabolantenne DSS-13"
     },
     {
       "title": "Lithium-Ionen-Akkus: Ewigkeitschemikalie \"Bis-FASI\" auch hierzulande denkbar",
@@ -87,12 +104,6 @@
       "url": "https://www.heise.de/news/KI-Update-kompakt-OpenAI-AI-Act-Auterion-Kreativitaet-9801071.html"
     },
     {
-      "title": "Atomkraft: Schweizer und Dänen forschen an Thorium-Flüssigsalz-Reaktor",
-      "teaser": "Kleine, modulare Reaktoren könnten helfen, den künftigen Energiebedarf zu decken. Daran wird nun in der Schweiz geforscht.",
-      "url": "https://www.heise.de/news/Atomkraft-Schweizer-und-Daenen-forschen-an-Thorium-Fluessigsalz-Reaktor-9801248.html",
-      "image_title": "Grafik eines AKW von Copenhagen Atomics"
-    },
-    {
       "title": "Screenshots von CarPlay und Android Auto",
       "teaser": "Ich bräuchte einen Screenshot vom CarPlay-Bildschirminhalt des Mediendisplays in meinem Auto. Am Gerät im Auto finde ich keine entsprechende Funktion. Was tun?",
       "url": "https://www.heise.de/ratgeber/Screenshots-von-CarPlay-und-Android-Auto-9794447.html"
@@ -124,17 +135,6 @@
       "title": "Hochschulzertifikatskurs \"KI im Unternehmen produktiv nutzen\"",
       "teaser": "Der Weiterbildungskurs der Hochschule Hannover zeigt Fachkräften und Entscheidungsträgern, wie sie den KI-Einsatz in ihrem Unternehmen voranbringen können.",
       "url": "https://www.heise.de/news/Hochschulzertifikatskurs-KI-im-Unternehmen-produktiv-nutzen-9799565.html"
-    },
-    {
-      "title": "Negative Spannungen bei ATX-Netzteilen",
-      "teaser": "Werden bei modernen PC-Netzteilen und Mainboards die Leitungen mit –5 Volt und –12 Volt überhaupt noch verwendet?​",
-      "url": "https://www.heise.de/ratgeber/Negative-Spannungen-bei-ATX-Netzteilen-9794439.html"
-    },
-    {
-      "title": "Rabbit R1 im Test: Doch keine Katastophe?",
-      "teaser": "Das KI-Gadget Rabbit R1 wurde gehypt, dann in Grund und Boden kritisiert und sogar als \"Scam\" bezeichnet. Doch laut c't 3003 ist die Wahrheit komplizierter.",
-      "url": "https://www.heise.de/news/Rabbit-R1-im-Test-Doch-keine-Katastophe-9799961.html",
-      "image_title": "Redakteur mit Router"
     }
   ]
 }
