@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-17T09:00:49",
+  "timestamp": "2024-07-17T10:02:18",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "KI-Gadget Rabbid R1",
+      "url": "https://www.heise.de/news/Root-Sicherheitsluecke-bedroht-KI-Gadget-Rabbit-R1-9803666.html"
+    },
+    {
       "title": "GeoServer GeoTools",
       "url": "https://www.heise.de/news/Jetzt-patchen-Schadcode-Attacken-auf-GeoTools-Server-9803607.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Admin-Luecke-bedroht-Palo-Alto-Networks-Migration-Tool-Expedition-9800845.html"
     },
     {
-      "title": "GitLab",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-GitLab-Angreifer-koennen-Softwareentwicklung-manipulieren-9799190.html"
+      "title": "Root-Sicherheitslücke bedroht KI-Gadget Rabbit R1",
+      "teaser": "Angreifer können das KI-Gadget Rabbit R1 über den Android-Exploit Kamakiri komplett kompromittieren. Bislang gibt es keinen Sicherheitspatch.",
+      "url": "https://www.heise.de/news/Root-Sicherheitsluecke-bedroht-KI-Gadget-Rabbit-R1-9803666.html",
+      "image_title": "KI-Gadget Rabbit R1"
     },
     {
       "title": "Jetzt patchen! Schadcode-Attacken auf GeoTools-Server",
@@ -156,11 +162,6 @@
       "teaser": "Eine neue Phishing-Welle zielt auf Kunden der Santander-Bank ab. Diese warnt ihre Kunden davor, Kriminellen Zugangsdaten oder Ähnliches zu offenbaren.",
       "url": "https://www.heise.de/news/Santander-Bank-warnt-vor-Betrug-ueber-Anrufe-Mails-SMS-und-gefaelschte-Websites-9798917.html",
       "image_title": "Santanderbank-Filiale in Breslau"
-    },
-    {
-      "title": "CCC: Bitte Zwei-Faktor-Authentifizierung, aber nicht per SMS",
-      "teaser": "Der CCC konnte rund 200 Millionen SMS mit 2FA-Codes einsehen. In den falschen Händen könnte das für viel Ärger sorgen.",
-      "url": "https://www.heise.de/news/Chaos-Computer-Club-Nutzt-2-Faktor-Authentifizierung-aber-bitte-nicht-via-SMS-9798159.html"
     },
     {
       "title": "Microsoft Cloud Security",
