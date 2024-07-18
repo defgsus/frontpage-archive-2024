@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-18T08:08:31",
+  "timestamp": "2024-07-18T09:01:18",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Oracle Critical Patch Update",
+      "url": "https://www.heise.de/news/Critical-Patch-Update-Oracles-Quartalsupdate-liefert-386-Sicherheitspatches-9804741.html"
+    },
+    {
       "title": "KI-Gadget Rabbid R1",
       "url": "https://www.heise.de/news/Root-Sicherheitsluecke-bedroht-KI-Gadget-Rabbit-R1-9803666.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Sicherheitsluecken-im-Management-Controller-XClarity-gefaehrden-Lenovo-Server-9802454.html"
     },
     {
-      "title": "Palo Alto Networks",
-      "url": "https://www.heise.de/news/Admin-Luecke-bedroht-Palo-Alto-Networks-Migration-Tool-Expedition-9800845.html"
+      "title": "Critical Patch Update: Oracles Quartalsupdate liefert 386 Sicherheitspatches",
+      "teaser": "Angreifer können kritische Lücken in unter anderem Oracle HTTP Server oder MySQL Cluster ausnutzen.",
+      "url": "https://www.heise.de/news/Critical-Patch-Update-Oracles-Quartalsupdate-liefert-386-Sicherheitspatches-9804741.html",
+      "image_title": "Stilisierte Grafik: Brennendes Oracle-Logo auf einem Laptop"
     },
     {
       "title": "Root-Schwachstelle bedroht KI-Gadget Rabbit R1",
@@ -156,11 +162,6 @@
       "teaser": "Der US-Telefonriese AT&T muss Millionen Verbraucher über ein riesiges Leck informieren. Es geht um Metadaten wie Aufzeichnungen von Anrufen und Textnachrichten.",
       "url": "https://www.heise.de/news/Mega-Sicherheitspanne-Cyberkriminelle-ergattern-Daten-fast-aller-AT-T-Kunden-9800343.html",
       "image_title": "Symbolische Hände eines Hackers auf einer Tastatur."
-    },
-    {
-      "title": "Sicherheitslücken GitLab: Angreifer können Softwareentwicklung manipulieren",
-      "teaser": "GitLab Community Edition und Enterprise Edition sind verwundbar. Die Entwickler raten zu einem zügigen Update.",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-GitLab-Angreifer-koennen-Softwareentwicklung-manipulieren-9799190.html"
     },
     {
       "title": "Microsoft Cloud Security",
