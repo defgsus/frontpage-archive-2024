@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-18T09:01:18",
+  "timestamp": "2024-07-18T10:00:52",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Cisco",
+      "url": "https://www.heise.de/news/Angreifer-koennen-Passwoerter-von-Cisco-Smart-Software-Manager-On-Prem-aendern-9804585.html"
+    },
+    {
       "title": "Oracle Critical Patch Update",
       "url": "https://www.heise.de/news/Critical-Patch-Update-Oracles-Quartalsupdate-liefert-386-Sicherheitspatches-9804741.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Schadcode-Attacken-auf-GeoTools-Server-9803607.html"
     },
     {
-      "title": "Lenovo XClarity Controller",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-im-Management-Controller-XClarity-gefaehrden-Lenovo-Server-9802454.html"
+      "title": "Angreifer können Passwörter von Cisco Smart Software Manager On-Prem ändern",
+      "teaser": "Cisco schließt unter anderem eine Passwort- und Root-Sicherheitslücke in SSM On-Prem und Secure Email Gateway.",
+      "url": "https://www.heise.de/news/Angreifer-koennen-Passwoerter-von-Cisco-Smart-Software-Manager-On-Prem-aendern-9804585.html",
+      "image_title": "Update-Grafik"
     },
     {
       "title": "Critical Patch Update: Oracles Quartalsupdate liefert 386 Sicherheitspatches",
@@ -156,12 +162,6 @@
       "teaser": "Ein Datenleck rund um die Überwachungs-App mSpy hat Millionen Kunden enttarnt, die Dritte damit beschatteten. Darunter sind US-Militärs, Richter und Sheriffs.​",
       "url": "https://www.heise.de/news/mSpy-Datenleck-entlarvt-erneut-Millionen-von-Stalkerware-Kunden-9800524.html",
       "image_title": "MySpy"
-    },
-    {
-      "title": "Mega-Sicherheitspanne: Cyberkriminelle ergattern Daten fast aller AT&T-Kunden",
-      "teaser": "Der US-Telefonriese AT&T muss Millionen Verbraucher über ein riesiges Leck informieren. Es geht um Metadaten wie Aufzeichnungen von Anrufen und Textnachrichten.",
-      "url": "https://www.heise.de/news/Mega-Sicherheitspanne-Cyberkriminelle-ergattern-Daten-fast-aller-AT-T-Kunden-9800343.html",
-      "image_title": "Symbolische Hände eines Hackers auf einer Tastatur."
     },
     {
       "title": "Microsoft Cloud Security",
