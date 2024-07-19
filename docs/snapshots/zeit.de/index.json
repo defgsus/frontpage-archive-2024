@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-18T22:00:40",
+  "timestamp": "2024-07-19T02:27:31",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -14,6 +14,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -98,10 +104,16 @@
   ],
   "articles": [
     {
+      "title": "Z+ (abopflichtiger Inhalt); US-Wahl : Joe Biden laut US-Medien offen für möglichen Rückzug",
+      "teaser": "Der US-Präsident denkt mehreren Medienberichten zufolge über einen Verzicht auf die erneute Kandidatur nach. Sein Wahlkampfteam dementiert.",
+      "url": "https://www.zeit.de/politik/ausland/2024-07/us-wahl-joe-biden-kandidatur-demokraten-rueckzug",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-07/us-wahl-joe-biden-kandidatur-demokraten-rueckzug-bild/wide__1000x562"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Donald Trump : Macht ist Familiensache",
       "teaser": "Donald Trump beherrscht die Republikanische Partei. An seiner Seite: Sohn Don Junior und Schwiegertochter Lara. Die Familie ist zentral für den ultimativen Machterhalt.",
       "url": "https://www.zeit.de/politik/ausland/2024-07/donald-trump-familie-kinder-parteitag-republikaner",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-07/donald-trump-familie-kinder-parteitag/wide__1000x562"
+      "image_url": "https://img.zeit.de/politik/ausland/2024-07/donald-trump-familie-kinder-parteitag/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); USA : Mit aller Gewalt",
@@ -110,10 +122,16 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-07/usa-politische-gewalt-attentat-donald-trump/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); US-Wahlkampf : Barack Obama sieht Kandidatur von Joe Biden laut Berichten kritisch",
-      "teaser": "In privater Runde soll sich der frühere US-Präsident skeptisch über die Chancen von Joe Biden geäußert haben. Biden solle sein Festhalten an der Kandidatur überdenken.",
-      "url": "https://www.zeit.de/politik/ausland/2024-07/joe-biden-zweifel-barack-obama-medienberichte-praesidentschaftskandidatur",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-07/barack-obama-medienberichte-zweifel-biden-kandidatur-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Sohn von Joe Biden : Hunter Biden beantragt Einstellung von Verfahren gegen ihn",
+      "teaser": "Gegen den US-Präsidentensohn laufen zwei Prozesse. Nun verlangt Hunter Biden eine Aufhebung der Verfahren – unter Verweis auf Donald Trump.",
+      "url": "https://www.zeit.de/politik/ausland/2024-07/hunter-biden-beantragt-einstellung-prozesse",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-07/hunter-biden-beantragt-einstellung-verfahren-bild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Frankreich : Chaostage in Paris",
+      "teaser": "Die Wiederwahl der macrontreuen Parlamentschefin ignoriert den Wählerwillen der Franzosen. Gelingen konnte das Manöver wohl durch einen Deal mit den Konservativen.",
+      "url": "https://www.zeit.de/politik/ausland/2024-07/frankreich-parlamentspraesidentin-yael-braun-pivet-wiedergewaehlt-demokratie",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-07/frankreich-yael-braun-pivet-parlamentsvorsitzende-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Ursula von der Leyen : Präsidentin der falschen Erwartungen",
@@ -122,22 +140,16 @@
       "image_url": "https://img.zeit.de/politik/2024-07/ursula-von-der-leyen-eu-kommission-praesidentin-wiederwahl-erwartungen-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Französische Nationalversammlung : Frankreichs Parlament wählt erneut Yaël Braun-Pivet zur Vorsitzenden",
-      "teaser": "Yaël Braun-Pivet bleibt Vorsitzende der französischen Nationalversammlung, sie gilt als Vertraute von Emmanuel Macron. Ihre Wiederwahl ist ein Rückschlag für die Linken.",
-      "url": "https://www.zeit.de/politik/ausland/2024-07/frankreich-nationalversammlung-ya-l-braun-pivet",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-07/yael-braun-pivet-praesidentin-franzoesische-nationalversammlung-wiederwahl-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Bundeshaushalt : SPD-Fraktionschef hält Ausrufung von Haushaltsnotlage für möglich",
+      "teaser": "Rolf Mützenich hinterfragt den Haushaltsentwurf der Ampelkoalition. Er wolle genau hinschauen, ob die Pläne verfassungsrechtlich tragfähig seien.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-07/bundeshaushalt-spd-fraktion-bundestag-haushaltsnotlage-rolf-muetzenich",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-07/bundeshaushalt-spd-fraktion-bundestag-rolf-muetzenich-haushaltsnotlage/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Schuldenbremse : Deutschland, schaff endlich diese absurde Schuldenbremse ab",
       "teaser": "Die deutsche Angst vor Schulden ist irrsinnig und verlogen. Deutschland sollte viel stärker investieren und sich dafür direkt bei seinen Bürgern verschulden.",
       "url": "https://www.zeit.de/wirtschaft/2024-07/schuldenbremse-wirtschaftspolitik-europa-martin-wolf",
       "image_url": "https://img.zeit.de/wirtschaft/2024-07/schuldenbremse-wirtschaftspolitik-europa-martin-wolf-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Jens Spahn : Es geht um seine Glaubwürdigkeit",
-      "teaser": "Jens Spahn klagt gern über Ungereimtheiten in Ampel-Ministerien. Erst mal sollte er seine eigenen Verfehlungen in der Corona-Zeit aufklären.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-07/jens-spahn-atomausstieg-ampel-donald-trump-republikaner-cdu",
-      "image_url": "https://img.zeit.de/politik/2024-07/jens-spahn-atomausstieg-ampel-donald-trump/super__430x286"
     },
     {
       "title": "An dieser Stelle ist ein externer Inhalt eingebunden",
@@ -171,10 +183,10 @@
       "image_title": "taylor-swift-gelsenkirchen-swiftkirchen-eras-tour-04"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); \"ZDF Magazin Royale\" : Gericht weist Berufung von Jan Böhmermann im Honigstreit ab",
-      "teaser": "Eine Honigwerbung mit Jan Böhmermanns Gesicht sei \"Zeitgeschichte\", urteilt das OLG Dresden. Zugleich habe sie satirischen Charakter.",
-      "url": "https://www.zeit.de/kultur/2024-07/zdf-magazin-royale-jan-boehmermann-honig-streit-imker",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-07/gericht-abweisung-berufung-jan-boehmermann-honig-streit-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Stand-up-Comedian : US-Comedian Bob Newhart mit 94 Jahren gestorben",
+      "teaser": "Seine erste eigene Sitcom bekam Bob Newhart in den Siebzigern, Jahrzehnte später begeisterte er Fans als Professor Proton in \"The Big Bang Theory\". Nun ist er gestorben.",
+      "url": "https://www.zeit.de/kultur/film/2024-07/us-comedian-bob-newhart-gestorben",
+      "image_url": "https://img.zeit.de/kultur/film/2024-07/bob-newhart-tot-bild/super__430x286"
     },
     {
       "title": "Diese Woche in der ZEIT : Und jetzt, Amerika?",
@@ -183,16 +195,16 @@
       "image_url": "https://img.zeit.de/2024/31/packshot-24-31-1000x620-2.png/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Krieg in Israel und Gaza : Benjamin Netanjahu verbietet Feldlazarett für Kinder aus Gaza",
+      "teaser": "Israels Regierungschef stoppt den Plan zur medizinischen Versorgung palästinensischer Kinder. Verteidigungsminister Joaw Galant kritisiert die Entscheidung.",
+      "url": "https://www.zeit.de/politik/ausland/2024-07/krieg-israel-gaza-benjamin-netanjahu-feldlazarett",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-07/krieg-israel-gaza-benjamin-netanjahu-feldlazarett-gestoppt/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Krieg in der Ukraine : Scholz weist Selenskyjs Bitte um Abschuss russischer Raketen zurück",
       "teaser": "Auf dem Europagipfel bat Wolodymyr Selenskyj die Staatschefs aus Großbritannien, den USA, Deutschland und Polen um den Abschuss russischer Raketen. Olaf Scholz lehnte ab.",
       "url": "https://www.zeit.de/politik/2024-07/bundeskanzler-olaf-scholz-ukraine-wolodymyr-selenskyj-europagipfel",
       "image_url": "https://img.zeit.de/politik/deutschland/2024-07/olaf-scholz-zurueckweisung-abschuss-russischer-raketen-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Krieg in Israel und Gaza : Israel verschickt Einberufungsbefehle an 1.000 Ultraorthodoxe",
-      "teaser": "Jahrzehntelange waren Strenggläubige in Israel vom Wehrdienst ausgenommen – bis jetzt. Die ersten erhalten wegen des Krieges gegen die Hamas ihren Einberufungsbescheid.",
-      "url": "https://www.zeit.de/politik/ausland/2024-07/krieg-in-israel-und-gaza-ultraorthodoxe-militaer-einzug",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-07/krieg-in-israel-und-gaza-ultraorthodoxe-militaer-einzug-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Altersforschung : Mit kleinem Eingriff zu hohem Alter",
@@ -255,10 +267,28 @@
       "image_url": "https://img.zeit.de/2024-07/josef-schuster-meron-mendel-preis-zentralrat-der-juden-bild/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Französische Nationalversammlung : Frankreichs Parlament wählt erneut Yaël Braun-Pivet zur Vorsitzenden",
+      "teaser": "Yaël Braun-Pivet bleibt Vorsitzende der französischen Nationalversammlung, sie gilt als Vertraute von Emmanuel Macron. Ihre Wiederwahl ist ein Rückschlag für die Linken.",
+      "url": "https://www.zeit.de/politik/ausland/2024-07/frankreich-nationalversammlung-ya-l-braun-pivet",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-07/yael-braun-pivet-praesidentin-franzoesische-nationalversammlung-wiederwahl-bild/super__320x213"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); US-Wahlkampf : Barack Obama sieht Kandidatur von Joe Biden laut Berichten kritisch",
+      "teaser": "In privater Runde soll sich der frühere US-Präsident skeptisch über die Chancen von Joe Biden geäußert haben. Biden solle sein Festhalten an der Kandidatur überdenken.",
+      "url": "https://www.zeit.de/politik/ausland/2024-07/joe-biden-zweifel-barack-obama-medienberichte-praesidentschaftskandidatur",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-07/barack-obama-medienberichte-zweifel-biden-kandidatur-bild/super__320x213"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Verteidigungsminister : Pistorius will Weltraumkommando der Bundeswehr stärker aufstellen",
       "teaser": "Satellitensicherheit, Aufklärung, Weltraumschrott – dafür sind die Soldaten vom Weltraumkommando zuständig. Pistorius spricht sich dafür aus, präsenter im All zu werden.",
       "url": "https://www.zeit.de/politik/deutschland/2024-07/verteidigungsminister-boris-pistorius-weltraumkommando",
       "image_url": "https://img.zeit.de/politik/deutschland/2024-07/verteidigungsminister-boris-pistorius-weltraumkommando-bild-2/super__320x213"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Krieg in Israel und Gaza : Israel verschickt Einberufungsbefehle an 1.000 Ultraorthodoxe",
+      "teaser": "Jahrzehntelange waren Strenggläubige in Israel vom Wehrdienst ausgenommen – bis jetzt. Die ersten erhalten wegen des Krieges gegen die Hamas ihren Einberufungsbescheid.",
+      "url": "https://www.zeit.de/politik/ausland/2024-07/krieg-in-israel-und-gaza-ultraorthodoxe-militaer-einzug",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-07/krieg-in-israel-und-gaza-ultraorthodoxe-militaer-einzug-bild/super__320x213"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Berliner Verwaltungsgericht : Verfassungsschutz darf Zeitung \"Junge Welt\" erwähnen",
@@ -279,28 +309,10 @@
       "image_url": "https://img.zeit.de/kultur/2024-07/wordle-markenrechte-klage-new-york-times-stefan-heine-abgewiesen-bild/super__320x213"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Kommunistische Partei Chinas : Chinas vermisster Ex-Außenminister nicht mehr Teil der Parteispitze",
-      "teaser": "Der vermisste frühere Außenminister Chinas, Qin Gang, gehört nicht mehr dem Zentralkomitee der Kommunistischen Partei an. Hintergrund sind offenbar Korruptionsvorwürfe.",
-      "url": "https://www.zeit.de/politik/ausland/2024-07/china-kommunistische-partei-ausschluss-qin-gang-korruption",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-07/china-ex-aussenminister-qin-gang-nicht-mehr-teil-der-parteifuehrung-bild/super__320x213"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Raumfahrt : Nasa beendet Entwicklung von Mond-Rover Viper",
-      "teaser": "Mit dem Rover Viper wollte die US-Weltraumbehörde Nasa auf dem Mond nach Wasser suchen. Angesichts steigender Kosten und Verzögerungen wurde die Entwicklung eingestellt.",
-      "url": "https://www.zeit.de/wissen/2024-07/nasa-mond-rover-viper-suche-wasser-eingestellt",
-      "image_url": "https://img.zeit.de/wissen/2024-07/nasa-mond-rover-viper-suche-wasser-eingestellt-bild/super__320x213"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); EU-Kommissionspräsidentin Ursula von der Leyen : \"Deine Wahl ist eine gute Nachricht für Europa\"",
-      "teaser": "Annalena Baerbock hat Ursula von der Leyen zu ihrer Wiederwahl gratuliert. Glückwünsche kommen auch von Olaf Scholz. Sahra Wagenknecht spricht hingegen von einem Fehler.",
-      "url": "https://www.zeit.de/politik/ausland/2024-07/zweite-amtszeit-von-ursula-von-der-leyen-reaktion",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-07/zweite-amtszeit-von-ursula-von-der-leyen-reaktion-bild/super__320x213"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Europäische Zentralbank : EZB lässt Leitzins unverändert",
-      "teaser": "Nach der Zinswende im Juni behält die EZB ihre Geldpolitik den Sommer über bei. Grund sei die weiter hohe Inflation, die noch \"weit ins nächste Jahr\" reichen werde.",
-      "url": "https://www.zeit.de/wirtschaft/2024-07/europaeische-zentralbank-leitzinsen-juli",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-07/ezb-leitzins-unveraendert-bild/super__320x213"
+      "title": "Z+ (abopflichtiger Inhalt); \"ZDF Magazin Royale\" : Gericht weist Berufung von Jan Böhmermann im Honigstreit ab",
+      "teaser": "Eine Honigwerbung mit Jan Böhmermanns Gesicht sei \"Zeitgeschichte\", urteilt das OLG Dresden. Zugleich habe sie satirischen Charakter.",
+      "url": "https://www.zeit.de/kultur/2024-07/zdf-magazin-royale-jan-boehmermann-honig-streit-imker",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-07/gericht-abweisung-berufung-jan-boehmermann-honig-streit-bild/super__320x213"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"Deutsche Geister – Die Geschichte von Schmusch und Schmidt\" : Der SS-Offizier, der 100 Juden gerettet hat?",
@@ -339,22 +351,20 @@
       "image_url": "https://img.zeit.de/kultur/2024-07/taylor-swift-gelsenkirchen-swiftkirchen-konzert-eras-tour-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Geldanlage : So reich müssen Sie sein, um von Zinsen zu leben",
-      "teaser": "Leben von der Rendite – ist das als normaler Angestellter überhaupt möglich? Das hängt vom Vermögen ab. Und von der Art der Geldanlage.",
-      "url": "https://www.zeit.de/geld/2024-07/leben-zinsen-geldanlage-angestellter-geldverbesserer",
-      "image_url": "https://img.zeit.de/autoren/K/Thomas_Kehl/thomas-kehl/square__46x46",
-      "image_title": "Thomas Kehl"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Kinderbetreuung : Wenn Mütter die Elternzeit für sich wollen",
       "teaser": "Seit Jahren stagniert die Zahl der Väter, die Elternzeit nehmen. Das wird zurecht häufig kritisiert, liegt aber nicht nur an den Männern. Sondern auch an den Frauen.",
       "url": "https://www.zeit.de/familie/2024-07/elternzeit-kinderbetreuung-muetter-vaeter-beruf-familie"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); US-Wahl : Joe Biden positiv auf das Coronavirus getestet",
-      "teaser": "Der US-Präsident muss wegen einer Coronainfektion den Wahlkampf unterbrechen. Prominente Demokraten befeuern die Debatte über seine Kandidatur.",
-      "url": "https://www.zeit.de/politik/ausland/2024-07/us-wahl-joe-biden-praesident-coronavirus",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-07/us-wahl-joe-biden-praesident-coronavirus-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Geburtenrate : Warum werden so wenige Babys geboren?",
+      "teaser": "Weltweit bekommen die Menschen so wenige Kinder wie nie – auch in Deutschland. Was hält sie davon ab? Es ist nicht so, dass sie nicht wollen.",
+      "url": "https://www.zeit.de/wissen/2024-07/geburtenrate-kinder-wunsch-stress-finanzen"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Geburtenrate : Warum werden so wenige Babys geboren?",
+      "teaser": "Weltweit bekommen die Menschen so wenige Kinder wie nie – auch in Deutschland. Was hält sie davon ab? Es ist nicht so, dass sie nicht wollen.",
+      "url": "https://www.zeit.de/wissen/2024-07/geburtenrate-kinder-wunsch-stress-finanzen",
+      "image_url": "https://img.zeit.de/wissen/2024-07/geburtenrate-kinder-wunsch-stress/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); EU-Kommissionspräsidentin : BSW fordert Verschiebung von Abstimmung zu von der Leyen",
@@ -362,9 +372,9 @@
       "url": "https://www.zeit.de/politik/ausland/2024-07/eu-kommission-ursula-von-der-leyen-abstimmung-bsw-verschiebung"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Geburtenrate : Warum werden so wenige Babys geboren?",
-      "teaser": "Weltweit bekommen die Menschen so wenige Kinder wie nie – auch in Deutschland. Was hält sie davon ab? Es ist nicht so, dass sie nicht wollen.",
-      "url": "https://www.zeit.de/wissen/2024-07/geburtenrate-kinder-wunsch-stress-finanzen"
+      "title": "Z+ (abopflichtiger Inhalt); Taylor Swift in Gelsenkirchen : Content und Konfetti regnen vom Stadionhimmel",
+      "teaser": "Beim ersten Deutschlandkonzert ihrer Eras-Tour erschafft Taylor Swift unvergessliche Bilder. Die Ausdeutung ihrer Songs tritt endlich einmal hinter deren Wirkung zurück.",
+      "url": "https://www.zeit.de/kultur/musik/2024-07/taylor-swift-gelsenkirchen-swiftkirchen-konzert-eras-tour"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Schuldenbremse : Deutschland, schaff endlich diese absurde Schuldenbremse ab",
@@ -383,6 +393,12 @@
       "url": "https://www.zeit.de/politik/deutschland/2024-07/jens-spahn-union-donald-trump-gemeinsamkeiten"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Jens Spahn : Es geht um seine Glaubwürdigkeit",
+      "teaser": "Jens Spahn klagt gern über Ungereimtheiten in Ampel-Ministerien. Erst mal sollte er seine eigenen Verfehlungen in der Corona-Zeit aufklären.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-07/jens-spahn-atomausstieg-ampel-donald-trump-republikaner-cdu",
+      "image_url": "https://img.zeit.de/politik/2024-07/jens-spahn-atomausstieg-ampel-donald-trump/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Brustkrebs : Jung, gesund, und plötzlich ist da Brustkrebs",
       "teaser": "Immer häufiger erkranken Frauen unter 40 an Brustkrebs. Zwei Mütter erzählen, wie der Krebs ihr Leben abrupt änderte – eine von ihnen war schwanger bei der Diagnose.",
       "url": "https://www.zeit.de/gesundheit/2024-07/brustkrebs-junge-frauen-erkrankung-elternschaft",
@@ -393,12 +409,6 @@
       "teaser": "Verzeihen gilt als großzügige Geste, Rache hingegen als destruktiv. Dabei brauchen wir Letztere gerade in unserem Alltag, sagt die Philosophin Maria-Sibylla Lotter.",
       "url": "https://www.zeit.de/kultur/2024-07/maria-sibylla-lotter-rache-verzeihung-philosophie",
       "image_url": "https://img.zeit.de/kultur/2024-07/maria-sibylla-lotter-rache-verzeihung-philosophie-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Drogenmafia : Guter Stoff für Legalisierungsgegner",
-      "teaser": "Die brutalen Taten der niederländischen Drogenmafia in Deutschland seien eine Folge der Cannabislegalisierung, sagen Politiker. Experten widersprechen – sogar das BKA.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-07/drogenmafia-niederlande-nordrhein-westfalen-cannabis-bka",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-07/drogenmafia-niederlande-nordrhein-westfalen-cannabis-bka-bild-2/super__430x286"
     },
     {
       "title": "Verlagsangebot : 10 unentdeckte Urlaubsorte, die weder teuer noch überlaufen sind",
@@ -623,6 +633,12 @@
       "image_url": "https://img.zeit.de/2024/31/im-gebet-vereint-bild-2/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Drogenmafia : Guter Stoff für Legalisierungsgegner",
+      "teaser": "Die brutalen Taten der niederländischen Drogenmafia in Deutschland seien eine Folge der Cannabislegalisierung, sagen Politiker. Experten widersprechen – sogar das BKA.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-07/drogenmafia-niederlande-nordrhein-westfalen-cannabis-bka",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-07/drogenmafia-niederlande-nordrhein-westfalen-cannabis-bka-bild-2/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Gesundheitsversorgung : Rechtsgutachten sieht Staatsversagen beim Rettungsdienst",
       "teaser": "Rettungsdienste kommen häufig zu spät. Als Gutachter attestiert ein ehemaliger Verfassungsrichter dem Staat eine Verletzung seiner Schutzpflicht.",
       "url": "https://www.zeit.de/gesellschaft/2024-07/gesundheitsversorgung-rettungsdienst-maengel-udo-di-fabio",
@@ -630,23 +646,16 @@
       "image_title": "gesundheitsversorgung-rettungsdienst-maengel"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Schule : Sitzenbleiben gehört abgeschafft!",
-      "teaser": "Noch immer müssen Tausende Schülerinnen und Schüler bundesweit die Klasse wiederholen. Dabei ist das aus wissenschaftlicher Sicht sinnlos und kostet eine Menge Geld.",
-      "url": "https://www.zeit.de/gesellschaft/schule/2024-07/schule-wiederholen-jugendliche-bildung-kosten",
-      "image_url": "https://img.zeit.de/gesellschaft/schule/2024-07/sitzenbleiben-schule-abschaffen/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Europäische Zentralbank : EZB lässt Leitzins unverändert",
+      "teaser": "Nach der Zinswende im Juni behält die EZB ihre Geldpolitik den Sommer über bei. Grund sei die weiter hohe Inflation, die noch \"weit ins nächste Jahr\" reichen werde.",
+      "url": "https://www.zeit.de/wirtschaft/2024-07/europaeische-zentralbank-leitzinsen-juli",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-07/ezb-leitzins-unveraendert-bild/wide__892x501"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Susanne Klatten : Sie verschenkt Milliarden",
       "teaser": "BMW-Erbin Susanne Klatten verschenkt einen Teil ihrer Unternehmen an ihre Kinder. Sie übernehmen ein Imperium – müssen dafür womöglich kaum Steuern zahlen.",
       "url": "https://www.zeit.de/2024/31/susanne-klatten-bmw-erbe-vermoegen-kinder-unternehmen",
-      "image_url": "https://img.zeit.de/2024/31/susanne-klatten-bmw-teaser/wide__892x501"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Wohnungsnot : Baugenehmigungen brechen um ein Viertel ein",
-      "teaser": "Im Mai 2024 sind gut 24 Prozent weniger Wohnungen genehmigt worden als im Vorjahreszeitraum. Damit dürfte sich der Wohnraum in Deutschland künftig weiter verknappen.",
-      "url": "https://www.zeit.de/wirtschaft/2024-07/wohnungen-bau-genehmigungen-mai-2024-gesunken-fehlen",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-07/wohnungen-wohnungsbau-genehmigungen/super__430x286",
-      "image_title": "Wohnungen Wohnungsbau Genehmigungen"
+      "image_url": "https://img.zeit.de/2024/31/susanne-klatten-bmw-teaser/super__430x286"
     },
     {
       "title": "Verlagsangebot : Positive Veränderungen beginnen im Kopf",
@@ -655,11 +664,11 @@
       "image_url": "https://img.zeit.de/angebote/Links/Bilder/akademie/2024/zak-persoenlichkeit-5/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Konkurrenz aus China : Autoindustrie plant Abbau von Arbeitsplätzen",
-      "teaser": "Mehr als jedes zweite Unternehmen in der Automobilindustrie in Deutschland will laut einer Umfrage Stellen streichen. Grund seien hohe Kosten und Konkurrenz aus China.",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-07/autoindustrie-arbeitsplatz-abbau-kosten-china-konkurrenz",
-      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-07/automobilindustrie-arbeitsplaetze/super__430x286",
-      "image_title": "Automobilindustrie Arbeitsplätze"
+      "title": "Z+ (abopflichtiger Inhalt); Wohnungsnot : Baugenehmigungen brechen um ein Viertel ein",
+      "teaser": "Im Mai 2024 sind gut 24 Prozent weniger Wohnungen genehmigt worden als im Vorjahreszeitraum. Damit dürfte sich der Wohnraum in Deutschland künftig weiter verknappen.",
+      "url": "https://www.zeit.de/wirtschaft/2024-07/wohnungen-bau-genehmigungen-mai-2024-gesunken-fehlen",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-07/wohnungen-wohnungsbau-genehmigungen/super__430x286",
+      "image_title": "Wohnungen Wohnungsbau Genehmigungen"
     },
     {
       "title": "Elon Musk : Vom Visionär zum Größenwahnsinnigen",
@@ -748,6 +757,12 @@
       "image_url": "https://img.zeit.de/zeit-geschichte/2024/03/der-erste-koenig-bild-3/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Raumfahrt : Nasa beendet Entwicklung von Mond-Rover Viper",
+      "teaser": "Mit dem Rover Viper wollte die US-Weltraumbehörde Nasa auf dem Mond nach Wasser suchen. Angesichts steigender Kosten und Verzögerungen wurde die Entwicklung eingestellt.",
+      "url": "https://www.zeit.de/wissen/2024-07/nasa-mond-rover-viper-suche-wasser-eingestellt",
+      "image_url": "https://img.zeit.de/wissen/2024-07/nasa-mond-rover-viper-suche-wasser-eingestellt-bild/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Hitzewelle : Griechenland schließt archäologische Stätten wegen extremer Hitze",
       "teaser": "Wegen extremer Hitze mit Temperaturen über 43 Grad Celsius in Griechenland schließen nachmittags zahlreiche archäologische Stätten. Auch die Akropolis ist betroffen.",
       "url": "https://www.zeit.de/wissen/umwelt/2024-07/griechenland-extremwetter-hitze-archaeologischen-staetten",
@@ -759,12 +774,6 @@
       "teaser": "Trotz der vielen Niederschläge haben sich die Wälder noch nicht von den vorangegangenen Dürrejahren erholt. Künftig brauche es resistentere Arten, sagt eine Forscherin.",
       "url": "https://www.zeit.de/wissen/umwelt/2024-07/regen-sommer-waelder-krank-thuenen-institut",
       "image_url": "https://img.zeit.de/wissen/2024-07/sommer-regen-baeume-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Alterswahrnehmung : Ab wann sind wir alt?",
-      "teaser": "Die Frage scheint klein. Doch Forschung zeigt: Die Antwort verrät viel. Über Vorurteile und die Wahrscheinlichkeit, selbst glücklich zu altern. Machen Sie den Test.",
-      "url": "https://www.zeit.de/wissen/2024-07/alterswahrnehmung-stereotypes-gesundheit-sozialleben",
-      "image_url": "https://img.zeit.de/wissen/2024-07/alterswahrnehmung-stereotypes-gesundheit/super__430x286"
     },
     {
       "title": "Der perfekte Begleiter von der 1. bis zur 5. Klasse!",
@@ -876,11 +885,11 @@
       "image_url": "https://img.zeit.de/campus/2024/04/taylor-swift-world-tour-teaser/wide__892x501"
     },
     {
-      "title": "Verlagsangebot : Nicht nur irgendwas studieren",
-      "teaser": "Studieren! Aber was? Der Studiuminteressentest unterstützt Unschlüssige bei ihrer Suche nach dem passenden Studium, basierend auf den eigenen Interessen.",
-      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.textbild.schwarzer-hut_nichtnurirgendwas.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=sit_textbild_schwarzer-hut_nichtnurirgendwas_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-2-klein/brooke-cagle-tlg2hcpitze-unsplash-197.jpg",
-      "image_title": "Nicht nur irgendwas studieren"
+      "title": "Verlagsangebot : Ein Studium finden, das passt",
+      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
+      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.teaser.bewerben-schreibtisch.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=sit-verlagsteaser&amp;utm_content=sit_teaser_bewerben-schreibtisch_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/sit-bewerben-schreibtisch/wide__430x286__desktop",
+      "image_title": "Ein Studium finden, das passt"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Dating : Heute will ich die Angst verlieren, allein alt zu werden",
@@ -949,36 +958,36 @@
       "image_url": "https://img.zeit.de/2024/31/zwischen-machos-und-motoren-bild-2/super__430x286"
     },
     {
-      "title": "Hollywood: US-Komiker Bob Newhart gestorben",
-      "url": "https://www.zeit.de/news/2024-07/18/us-komiker-bob-newhart-gestorben"
+      "title": "Frontaler Zusammenstoß: 18-Jährige bei Unfall schwer verletzt",
+      "url": "https://www.zeit.de/news/2024-07/19/18-jaehrige-bei-unfall-schwer-verletzt"
     },
     {
-      "title": "Kalenderblatt: Was geschah am 19. Juli?",
-      "url": "https://www.zeit.de/news/2024-07/18/was-geschah-am-19-juli"
+      "title": "US-Wahlkampf: Hulk Hogan heizt Publikum bei Republikaner-Parteitag an",
+      "url": "https://www.zeit.de/news/2024-07/19/hulk-hogan-heizt-publikum-bei-republikaner-parteitag-an"
     },
     {
-      "title": "Tödlicher Arbeitsunfall: Mann stürzt von Dach und stirbt",
-      "url": "https://www.zeit.de/news/2024-07/18/mann-stuerzt-von-dach-und-stirbt"
+      "title": "Verkehr: Regierung will Mobilitätsgesetz auf den Weg bringen",
+      "url": "https://www.zeit.de/news/2024-07/19/regierung-will-mobilitaetsgesetz-auf-den-weg-bringen"
     },
     {
-      "title": "Umleitung: Geplante Vollsperrung in Salzgitter wegen Straßensanierung",
-      "url": "https://www.zeit.de/news/2024-07/18/geplante-vollsperrung-in-salzgitter-wegen-strassensanierung"
+      "title": "Leute: Schauspielerin Ehrich: Bin jetzt in der «Mama-Schublade»",
+      "url": "https://www.zeit.de/news/2024-07/19/schauspielerin-ehrich-bin-jetzt-in-der-mama-schublade"
     },
     {
-      "title": "Nürnberger Land: Zwei schwer verletzte Frauen nach Gewalttat in Hersbruck",
-      "url": "https://www.zeit.de/news/2024-07/18/zwei-schwer-verletzte-frauen-nach-gewalttat-in-hersbruck"
+      "title": "Corona-Impfungen: Bislang vier anerkannte Corona-Impfschäden in Sachsen-Anhalt",
+      "url": "https://www.zeit.de/news/2024-07/19/bislang-vier-anerkannte-corona-impfschaeden-in-sachsen-anhalt"
     },
     {
-      "title": "Streaming-Marktführer: Netflix gewinnt acht Millionen Kunden hinzu",
-      "url": "https://www.zeit.de/news/2024-07/18/netflix-gewinnt-acht-millionen-kunden-hinzu"
+      "title": "Umstrittenes Handzeichen: Thüringer Ministerium: Schweigefuchs nicht gleich Wolfsgruß",
+      "url": "https://www.zeit.de/news/2024-07/19/thueringer-ministerium-schweigefuchs-nicht-gleich-wolfsgruss"
     },
     {
-      "title": "Landtagswahlen: Voigt will Regierungswechsel schaffen",
-      "url": "https://www.zeit.de/news/2024-07/18/voigt-will-regierungswechsel-schaffen"
+      "title": "Kommunalreform: Grüne halten kommunale Verwaltungsreform für notwendig",
+      "url": "https://www.zeit.de/news/2024-07/19/gruene-halten-kommunale-verwaltungsreform-fuer-notwendig"
     },
     {
-      "title": "Golf: British-Open-Start: Debakel für Golf-Stars Woods und McIlroy",
-      "url": "https://www.zeit.de/news/2024-07/18/british-open-start-debakel-fuer-golf-stars-woods-und-mcilroy"
+      "title": "Gedenken an NS-Widerstand: Historiker: Rechte haben «krude» Sicht auf Hitler-Attentat",
+      "url": "https://www.zeit.de/news/2024-07/19/historiker-rechte-haben-krude-sicht-auf-hitler-attentat"
     }
   ]
 }
