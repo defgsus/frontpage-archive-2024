@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-19T08:08:26",
+  "timestamp": "2024-07-19T09:03:48",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -14,12 +14,6 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -105,9 +99,15 @@
   "articles": [
     {
       "title": "Z+ (abopflichtiger Inhalt); IT-Störung : Computerprobleme stören Systeme weltweit",
-      "teaser": "Weltweit haben Unternehmen technische Ausfälle gemeldet, dahinter sollen Probleme bei Microsoft stecken. Berichten zufolge waren Flughäfen, Banken und Medien betroffen.",
+      "teaser": "Weltweit haben Unternehmen technische Ausfälle gemeldet, dahinter sollen Probleme bei Microsoft stecken. Betroffen sind Flughäfen, Banken, Medien und Krankenhäuser.",
       "url": "https://www.zeit.de/digital/internet/2024-07/it-stoerung-weltweit-microsoft-flughaefen-banken-medien",
       "image_url": "https://img.zeit.de/gesellschaft/2024-07/technk-ausfaelle-flughafen-bild/wide__1000x562"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Parteitag der Republikaner : Ihre Welt",
+      "teaser": "Vier Tage lang haben die Republikaner Donald Trump gehuldigt. Szenen eines Parteitages, auf dem hinter der eigenen radikalen Ideologie der Rest Amerikas verschwindet",
+      "url": "https://www.zeit.de/politik/ausland/2024-07/parteitag-republikaner-usa-donald-trump-milwaukee",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-07/parteitag-republikaner-usa-donald-trump-10/wide__892x501"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Donald Trump : Von wegen Versöhnung",
@@ -122,12 +122,6 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-07/us-wahl-joe-biden-kandidatur-demokraten-rueckzug-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Attentate : Politische Attentate können Versöhnung schaffen – manchmal",
-      "teaser": "Donald Trump als Mann der Einheit? Dafür braucht es mehr, als einen Mordversuch zu überleben. Ein Blick in die jüngste Geschichte des politischen Anschlags",
-      "url": "https://www.zeit.de/politik/ausland/2024-07/attentate-politiker-donald-trump-geschichte-5vor8",
-      "image_url": "https://img.zeit.de/politik/2024-07/attentate-politiker-donald-trump-geschichte/super__430x286"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); US-Wahl : \"Die Demokraten haben kaum eine Option, die Wahl zu gewinnen.\"",
       "teaser": "Seit dem Attentat auf Ex-US-Präsident Donald Trump fürchten Menschen weltweit, die US-Wahl sei gelaufen. Was dafür spricht. Und was dagegen.",
       "url": "https://www.zeit.de/politik/2024-07/us-wahl-donald-trump-attentat-politikpodcast",
@@ -135,14 +129,45 @@
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Akademie für Sprache und Dichtung : Schriftsteller Oswald Egger erhält Georg-Büchner-Preis",
-      "teaser": "Der renommierte Georg-Büchner-Literaturpreis geht in diesem Jahr an den 1963 geborenen Autor Oswald Egger. Im November findet die Preisverleihung statt.",
-      "url": "https://www.zeit.de/kultur/literatur/2024-07/buechner-preis-oswald-egger-autor"
+      "teaser": "Der renommierte Georg-Büchner-Literaturpreis geht 2024 an Oswald Egger. Der 61-Jährige überschreite und erweitere die Grenzen der Literaturproduktion, begründet die Jury.",
+      "url": "https://www.zeit.de/kultur/literatur/2024-07/buechner-preis-oswald-egger-autor",
+      "image_url": "https://img.zeit.de/kultur/2024-07/buechner-preis-oswald-egger-autor-bild-2/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Immobilienmakler : Wie verkauft man einen Puff?",
+      "teaser": "Der Makler Patrick Sawert versucht, eine besondere Immobilie zu verkaufen: in der berüchtigten Herbertstraße von St. Pauli. Gar nicht so einfach.",
+      "url": "https://www.zeit.de/2024/31/immobilienmakler-hamburg-kiez-st-pauli-bordell",
+      "image_url": "https://img.zeit.de/2024/31/wie-verkauft-man-einen-puff-bild-1/wide__892x501"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Psychotherapie • Das Beste aus Z+ : \"Seien Sie glücklich, und enttäuschen Sie Ihre Eltern\"",
+      "teaser": "Depressionen sind der Dank für jahrelanges Artigsein. Und: Wer loslässt, hat zwei Hände frei. Diese 100 Sätze haben unsere Leser aus ihrer Therapie mitgenommen.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2024-07/psychotherapie-psychologie-mentale-gesundheit-inspiration",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-07/psychotherapie-psychologie-mentale-gesundheit-inspiration-teaser/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Hochsensibilität bei Kindern : Vielleicht ist das Kind nicht hochsensibel, sondern nervt bloß?",
       "teaser": "Viele Eltern bezeichnen ihre Kinder als hochsensibel. Doch das Konzept ist wissenschaftlich umstritten – und Eltern ziehen oft die falschen Schlüsse daraus.",
       "url": "https://www.zeit.de/familie/2024-07/hochsensibilitaet-kinder-falsche-diagnose-eltern-wissenschaft",
-      "image_url": "https://img.zeit.de/familie/2024-07/hochsensibilitaet-kinder-falsche-diagnose-eltern/wide__892x501"
+      "image_url": "https://img.zeit.de/familie/2024-07/hochsensibilitaet-kinder-falsche-diagnose-eltern/super__430x286"
+    },
+    {
+      "title": "Diese Woche in der ZEIT : Und jetzt, Amerika?",
+      "teaser": "Nach dem Attentat fürchten manche einen Bürgerkrieg. Andere hoffen auf Versöhnung. Vor allem Donald Trump bestimmt, was nun passiert – ist er überhaupt noch zu schlagen?",
+      "url": "https://premium.zeit.de/abo/diezeit?aktionsnummer=1130785&wt_zmc=fix.int.zonpme.zeitde.epaper.z+.home.bildtext.bildtext&utm_medium=fix&utm_source=zeitde_zonpme_int&utm_campaign=epaper&utm_content=z+_home_bildtext_bildtext?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.link.link&utm_medium=cross&utm_source=zeitde_zonpme_int&utm_campaign=printbox&utm_content=ausgseite_bildtext_link_link",
+      "image_url": "https://img.zeit.de/2024/31/packshot-24-31-1000x620-2.png/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Krankschreibung : Sylter Bürgermeister muss sich Abwahlverfahren stellen",
+      "teaser": "Seit Monaten ist der Sylter Bürgermeister krankgeschrieben. Nun startet ein Verfahren gegen Nikolas Häckel: Ob er im Amt bleibt, entscheiden die Bürger der Gemeinde.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-07/nikolas-haeckel-sylt-abwahlverfahren-krankgeschrieben",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-07/nikolas-haeckel-sylt-abwahlverfahren-krankgeschrieben-bild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Ehemaliger Hamburger Bürgermeister : Klaus von Dohnanyi will Sahra Wagenknecht unterstützen",
+      "teaser": "Mit ihrem Ukrainekurs habe die SPD ihre Wurzel der Friedenspolitik \"abgehackt\", sagt Klaus von Dohnanyi. Fortan unterstütze er Wagenknecht, das müsse die Partei ertragen.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-07/klaus-von-dohnanyi-spd-sahra-wagenknecht-unterstuetzung-ukraine",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-07/klaus-von-dohnanyi-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Israel : Mindestens ein Toter bei schwerer Explosion in Tel Aviv",
@@ -157,52 +182,10 @@
       "image_url": "https://img.zeit.de/wissen/2024-07/solarenergie-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Ehemaliger Hamburger Bürgermeister : Klaus von Dohnanyi will Sahra Wagenknecht unterstützen",
-      "teaser": "Mit ihrem Ukrainekurs habe die SPD ihre Wurzel der Friedenspolitik \"abgehackt\", sagt Klaus von Dohnanyi. Fortan unterstütze er Wagenknecht, das müsse die Partei ertragen.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-07/klaus-von-dohnanyi-spd-sahra-wagenknecht-unterstuetzung-ukraine",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-07/klaus-von-dohnanyi-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Krankschreibung : Sylter Bürgermeister muss sich Abwahlverfahren stellen",
-      "teaser": "Seit Monaten ist der Sylter Bürgermeister krankgeschrieben. Nun startet ein Verfahren gegen Nikolas Häckel: Ob er im Amt bleibt, entscheiden die Bürger der Gemeinde.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-07/nikolas-haeckel-sylt-abwahlverfahren-krankgeschrieben",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-07/nikolas-haeckel-bild-2/super__430x286"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Olaf Scholz in Belgrad : Serbien und EU planen Partnerschaft zum Lithiumabbau",
       "teaser": "Ein begehrter Rohstoff steht im Vordergrund von Olaf Scholz' Serbienreise. Das Abkommen ist Teil der Chinastrategie des Kanzlers, doch Umweltschützer sind entsetzt.",
       "url": "https://www.zeit.de/politik/2024-07/olaf-scholz-serbien-lithium-abkommen-eu",
       "image_url": "https://img.zeit.de/politik/ausland/2024-07/olaf-scholz-serbien-lithium-abkommen-eu-bild/super__430x286"
-    },
-    {
-      "title": "Diese Woche in der ZEIT : Und jetzt, Amerika?",
-      "teaser": "Nach dem Attentat fürchten manche einen Bürgerkrieg. Andere hoffen auf Versöhnung. Vor allem Donald Trump bestimmt, was nun passiert – ist er überhaupt noch zu schlagen?",
-      "url": "https://premium.zeit.de/abo/diezeit?aktionsnummer=1130785&wt_zmc=fix.int.zonpme.zeitde.epaper.z+.home.bildtext.bildtext&utm_medium=fix&utm_source=zeitde_zonpme_int&utm_campaign=epaper&utm_content=z+_home_bildtext_bildtext?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.link.link&utm_medium=cross&utm_source=zeitde_zonpme_int&utm_campaign=printbox&utm_content=ausgseite_bildtext_link_link",
-      "image_url": "https://img.zeit.de/2024/31/packshot-24-31-1000x620-2.png/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Frankreich : Chaostage in Paris",
-      "teaser": "Die Wiederwahl der macrontreuen Parlamentschefin ignoriert den Wählerwillen der Franzosen. Gelingen konnte das Manöver wohl durch einen Deal mit den Konservativen.",
-      "url": "https://www.zeit.de/politik/ausland/2024-07/frankreich-parlamentspraesidentin-yael-braun-pivet-wiedergewaehlt-demokratie",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-07/frankreich-yael-braun-pivet-parlamentsvorsitzende-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Berufstaucher : \"Ich schwitze wie verrückt\"",
-      "teaser": "Grigorios Koliousis, 38, steigt als Profitaucher in Hamburgs dunkle Gewässer. Kein Job für schwache Nerven – dafür kann man sich mit Pinguinen anfreunden.",
-      "url": "https://www.zeit.de/2024/28/berufstaucher-unterwasser-gewaesser-meer-fluss",
-      "image_url": "https://img.zeit.de/2024/28/berufstaucher-hamburg-teaser/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Geldanlage • Das Beste aus Z+ : So reich müssen Sie sein, um von Zinsen zu leben",
-      "teaser": "Leben von der Rendite – ist das als normaler Angestellter überhaupt möglich? Das hängt vom Vermögen ab. Und von der Art der Geldanlage.",
-      "url": "https://www.zeit.de/geld/2024-07/leben-zinsen-geldanlage-angestellter-geldverbesserer",
-      "image_url": "https://img.zeit.de/geld/2024-07/leben-zinsen-geldanlage-angestellter-geldverbesserer-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Brustkrebs : Jung, gesund, und plötzlich ist da Brustkrebs",
-      "teaser": "Immer häufiger erkranken Frauen unter 40 an Brustkrebs. Zwei Mütter erzählen, wie der Krebs ihr Leben abrupt änderte – eine von ihnen war schwanger bei der Diagnose.",
-      "url": "https://www.zeit.de/gesundheit/2024-07/brustkrebs-junge-frauen-erkrankung-elternschaft",
-      "image_url": "https://img.zeit.de/gesundheit/2024-07/brustkrebs-junge-frauen-erkrankung/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Alterung : \"Wir können unsere Zellen mit unserem Lebensstil beeinflussen\"",
@@ -223,10 +206,22 @@
       "image_url": "https://img.zeit.de/mobilitaet/2024-07/fahrradfahren-kinder-radwege-sicherheit/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Bundeshaushalt : SPD-Fraktionschef hält Ausrufung von Haushaltsnotlage für möglich",
-      "teaser": "Rolf Mützenich hinterfragt den Haushaltsentwurf der Ampelkoalition. Er wolle genau hinschauen, ob die Pläne verfassungsrechtlich tragfähig seien.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-07/bundeshaushalt-spd-fraktion-bundestag-haushaltsnotlage-rolf-muetzenich",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-07/bundeshaushalt-spd-fraktion-bundestag-rolf-muetzenich-haushaltsnotlage/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Geldanlage • Das Beste aus Z+ : So reich müssen Sie sein, um von Zinsen zu leben",
+      "teaser": "Leben von der Rendite – ist das als normaler Angestellter überhaupt möglich? Das hängt vom Vermögen ab. Und von der Art der Geldanlage.",
+      "url": "https://www.zeit.de/geld/2024-07/leben-zinsen-geldanlage-angestellter-geldverbesserer",
+      "image_url": "https://img.zeit.de/geld/2024-07/leben-zinsen-geldanlage-angestellter-geldverbesserer-bild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Berufstaucher : \"Ich schwitze wie verrückt\"",
+      "teaser": "Grigorios Koliousis, 38, steigt als Profitaucher in Hamburgs dunkle Gewässer. Kein Job für schwache Nerven – dafür kann man sich mit Pinguinen anfreunden.",
+      "url": "https://www.zeit.de/2024/28/berufstaucher-unterwasser-gewaesser-meer-fluss",
+      "image_url": "https://img.zeit.de/2024/28/berufstaucher-hamburg-teaser/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Ameisen-Invasion : Denn sie wissen, was sie tun",
+      "teaser": "Eine invasive Ameisenart ist auf ihrem zerstörerischen Weg durch Deutschland: \"Tapinoma magnum\". Fällt sie ins Haus ein, begegnet der Mensch seiner Tötungshemmung.",
+      "url": "https://www.zeit.de/2024/31/ameisen-invasion-hamburg-kehl-insekten-plage",
+      "image_url": "https://img.zeit.de/2024/31/ameisen-invasiv-baden-wuerttemberg-kehl-teaser/wide__892x501"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Stand-up-Comedian : US-Comedian Bob Newhart mit 94 Jahren gestorben",
@@ -253,6 +248,12 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-07/us-wahl-donald-trump-rede-parteitag-republikaner-bild/super__320x213"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Bundeshaushalt : SPD-Fraktionschef hält Ausrufung von Haushaltsnotlage für möglich",
+      "teaser": "Rolf Mützenich hinterfragt den Haushaltsentwurf der Ampelkoalition. Er wolle genau hinschauen, ob die Pläne verfassungsrechtlich tragfähig seien.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-07/bundeshaushalt-spd-fraktion-bundestag-haushaltsnotlage-rolf-muetzenich",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-07/bundeshaushalt-spd-fraktion-bundestag-rolf-muetzenich-haushaltsnotlage/super__320x213"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Sohn von Joe Biden : Hunter Biden beantragt Einstellung von Verfahren gegen ihn",
       "teaser": "Gegen den US-Präsidentensohn laufen zwei Prozesse. Nun verlangt Hunter Biden eine Aufhebung der Verfahren – unter Verweis auf Donald Trump.",
       "url": "https://www.zeit.de/politik/ausland/2024-07/hunter-biden-beantragt-einstellung-prozesse",
@@ -277,40 +278,22 @@
       "image_url": "https://img.zeit.de/politik/deutschland/2024-07/olaf-scholz-zurueckweisung-abschuss-russischer-raketen-bild/super__320x213"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); US-Wahlkampf : Barack Obama sieht Kandidatur von Joe Biden laut Berichten kritisch",
-      "teaser": "In privater Runde soll sich der frühere US-Präsident skeptisch über die Chancen von Joe Biden geäußert haben. Biden solle sein Festhalten an der Kandidatur überdenken.",
-      "url": "https://www.zeit.de/politik/ausland/2024-07/joe-biden-zweifel-barack-obama-medienberichte-praesidentschaftskandidatur",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-07/barack-obama-medienberichte-zweifel-biden-kandidatur-bild/super__320x213"
-    },
-    {
-      "title": "An dieser Stelle ist ein externer Inhalt eingebunden",
-      "teaser": "Zum Anschauen benötigen wir Ihre Zustimmung",
-      "url": "https://www.zeit.de/politik/2024-07/donald-trump-attentat-evangelikale-wahlkampf-was-jetzt-videopodcast",
-      "image_url": "https://img.zeit.de/2024-07/was-jetzt-die-woche-3/wide__892x501"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Attentat auf Adolf Hitler : Wie viele Anschläge auf Hitler gab es wirklich?",
-      "teaser": "Auch vor Stauffenbergs Attentat im Juli 1944 versuchten Widerstandskämpfer, den Führer zu töten. Manche dieser Geschichten sind filmreif. Zu filmreif, um wahr zu sein?",
-      "url": "https://www.zeit.de/2024/31/attentat-adolf-hitler-nationalsozialismus-claus-von-stauffenberg",
-      "image_url": "https://img.zeit.de/2024/31/sie-haben-es-in-der-hand-ob-dieser-krieg-ein-ende-findet-bild-3/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Nationalsozialismus im Unterricht : Was erleben Sie als Geschichtslehrer, wenn es um die NS-Zeit geht?",
-      "teaser": "Abwehr, Unwissenheit oder großes Interesse: Erzählen Sie uns, wie Ihre Schülerinnen und Schüler reagieren, wenn Nationalsozialismus und Schoah auf dem Lehrplan stehen.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2024-05/nationalsozialismus-unterricht-lehrer-reaktion-shoah",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-06/nationalsozialismus-unterricht-lehrer-reaktion-shoah-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Josef Schuster : Man kommuniziert schriftlich",
-      "teaser": "Josef Schuster vom Zentralrat der Juden kritisiert per Brief, dass der jüdische Historiker Meron Mendel die Buber-Rosenzweig-Medaille erhält. Langsam eskaliert die Sache.",
-      "url": "https://www.zeit.de/kultur/musik/2024-07/josef-schuster-meron-mendel-preis-zentralrat-der-juden",
-      "image_url": "https://img.zeit.de/2024-07/josef-schuster-meron-mendel-preis-zentralrat-der-juden-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Steißbein-Tattoos : Es ist wieder da",
+      "teaser": "Das sogenannte \"Arschgeweih\" ist wieder in Mode. Das passt nicht nur gut zur ebenfalls zurückgekehrten Hüftjeans. Im Comeback des Tattoos liegt auch eine Hoffnung.",
+      "url": "https://www.zeit.de/zeit-magazin/2024/31/steissbein-tattoo-arschgeweih-frauen-stil",
+      "image_url": "https://img.zeit.de/zeit-magazin/mode-design/2024-07/steissbein-tattoo-arschgeweih-frauen-stil-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"Deutsche Geister – Die Geschichte von Schmusch und Schmidt\" : Der SS-Offizier, der 100 Juden gerettet hat?",
       "teaser": "Sie ist die Tochter eines Holocaustüberlebenden. Plötzlich bekommt sie eine Mail vom Enkel eines SS-Manns, die alles verändert. Gemeinsam suchen sie nach der Wahrheit.",
       "url": "https://www.zeit.de/entdecken/2024-07/nationalsozialismus-familiengeschichte-vorfahren-holocaust-taeter-opfer-podcast-folge-1",
       "image_url": "https://img.zeit.de/politik/2024-07/deutsche-geister-teaser-folge8/square__500x500"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); \"Und was machst du am Wochenende?\" : \"Ich finde es ganz geil, wenn man sonntags nicht verkatert ist\"",
+      "teaser": "Der berühmteste Dorfpunk Deutschlands, Rocko Schamoni, erzählt im Wochenendpodcast von Ideen auf dem Bierdeckel und wieso er samstags die Stadt verlässt.",
+      "url": "https://www.zeit.de/entdecken/2024-07/rocko-schamoni-geburtstag-musiker-schriftsteller-wochenende-tipps-podcast",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-07/rocko-schamoni-wochenendpodcast/wide__892x501"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Taylor Swift in Gelsenkirchen : Alles nur für sie",
@@ -324,12 +307,6 @@
       "teaser": "Mike Kent war ein Neonazi, dann stieg er aus: Darüber wollte unser Reporter mit dem Amerikaner reden. Dann gesteht Mike sein schlimmstes Verbrechen. Der neue Dokupodcast",
       "url": "https://www.zeit.de/gesellschaft/2024-06/neonazi-aussteiger-mord-gestaendnis-true-crime-white-podcast-folge-1",
       "image_url": "https://img.zeit.de/gesellschaft/2024-05/white-podcast-protagonist/square__500x500"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Schichtsalat : Revival des Schichtsalats",
-      "teaser": "Schlechte Erinnerungen an Schichtsalat? Dabei ist das Konzept unschlagbar. Dieses Rezept holt es mit knackigem Gemüse und einem leichten Dressing in die Gegenwart.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-07/schichtsalat-kartoffel-gurke-sellerie-rezept",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-07/schichtsalat-kartoffel-teaser/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Fragen Sie ZEIT ONLINE : Haben Sie ein Thema verpasst?",
@@ -365,15 +342,15 @@
       "url": "https://www.zeit.de/wissen/2024-07/geburtenrate-kinder-wunsch-stress-finanzen"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); \"ZDF Magazin Royale\" : Gericht weist Berufung von Jan Böhmermann im Honigstreit ab",
-      "teaser": "Eine Honigwerbung mit Jan Böhmermanns Gesicht sei \"Zeitgeschichte\", urteilt das OLG Dresden. Zugleich habe sie satirischen Charakter.",
-      "url": "https://www.zeit.de/kultur/2024-07/zdf-magazin-royale-jan-boehmermann-honig-streit-imker"
+      "title": "Z+ (abopflichtiger Inhalt); IT-Störung : Computerprobleme stören Systeme weltweit",
+      "teaser": "Weltweit haben Unternehmen technische Ausfälle gemeldet, dahinter sollen Probleme bei Microsoft stecken. Betroffen sind Flughäfen, Banken, Medien und Krankenhäuser.",
+      "url": "https://www.zeit.de/digital/internet/2024-07/it-stoerung-weltweit-microsoft-flughaefen-banken-medien"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Schuldenbremse : Deutschland, schaff endlich diese absurde Schuldenbremse ab",
       "teaser": "Die deutsche Angst vor Schulden ist irrsinnig und verlogen. Deutschland sollte viel stärker investieren und sich dafür direkt bei seinen Bürgern verschulden.",
       "url": "https://www.zeit.de/wirtschaft/2024-07/schuldenbremse-wirtschaftspolitik-europa-martin-wolf",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-07/schuldenbremse-wirtschaftspolitik-europa-martin-wolf-bild/super__430x286"
+      "image_url": "https://img.zeit.de/wirtschaft/2024-07/schuldenbremse-wirtschaftspolitik-europa-martin-wolf-bild-2/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); EU-Kommission : Ursula von der Leyen erneut zur EU-Kommissionspräsidentin gewählt",
@@ -386,22 +363,22 @@
       "url": "https://www.zeit.de/gesellschaft/schule/2024-07/schule-wiederholen-jugendliche-bildung-kosten"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Donald Trump : Macht ist Familiensache",
-      "teaser": "Donald Trump beherrscht die Republikanische Partei. An seiner Seite: Sohn Don Junior und Schwiegertochter Lara. Die Familie ist zentral für den ultimativen Machterhalt.",
-      "url": "https://www.zeit.de/politik/ausland/2024-07/donald-trump-familie-kinder-parteitag-republikaner",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-07/donald-trump-familie-kinder-parteitag/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Parteitag der Republikaner : Ihre Welt",
+      "teaser": "Vier Tage lang haben die Republikaner Donald Trump gehuldigt. Szenen eines Parteitages, auf dem hinter der eigenen radikalen Ideologie der Rest Amerikas verschwindet",
+      "url": "https://www.zeit.de/politik/ausland/2024-07/parteitag-republikaner-usa-donald-trump-milwaukee",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-07/parteitag-republikaner-usa-donald-trump-10/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); USA : Mit aller Gewalt",
-      "teaser": "Die politische Gewalt in den USA war schon vor dem Attentat auf Donald Trump auf höchstem Niveau. Neuste Studien und Umfragen zeichnen düstere Szenarien für die Zukunft.",
-      "url": "https://www.zeit.de/politik/ausland/2024-07/usa-politische-gewalt-attentat-donald-trump-rhetorik",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-07/usa-politische-gewalt-attentat-donald-trump/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Attentate : Politische Attentate können Versöhnung schaffen – manchmal",
+      "teaser": "Donald Trump als Mann der Einheit? Dafür braucht es mehr, als einen Mordversuch zu überleben. Ein Blick in die jüngste Geschichte des politischen Anschlags",
+      "url": "https://www.zeit.de/politik/ausland/2024-07/attentate-politiker-donald-trump-geschichte-5vor8",
+      "image_url": "https://img.zeit.de/politik/2024-07/attentate-politiker-donald-trump-geschichte/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Jens Spahn : Es geht um seine Glaubwürdigkeit",
-      "teaser": "Jens Spahn klagt gern über Ungereimtheiten in Ampel-Ministerien. Erst mal sollte er seine eigenen Verfehlungen in der Corona-Zeit aufklären.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-07/jens-spahn-atomausstieg-ampel-donald-trump-republikaner-cdu",
-      "image_url": "https://img.zeit.de/politik/2024-07/jens-spahn-atomausstieg-ampel-donald-trump/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Frankreich : Chaostage in Paris",
+      "teaser": "Die Wiederwahl der macrontreuen Parlamentschefin ignoriert den Wählerwillen der Franzosen. Gelingen konnte das Manöver wohl durch einen Deal mit den Konservativen.",
+      "url": "https://www.zeit.de/politik/ausland/2024-07/frankreich-parlamentspraesidentin-yael-braun-pivet-wiedergewaehlt-demokratie",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-07/frankreich-yael-braun-pivet-parlamentsvorsitzende-bild/super__430x286"
     },
     {
       "title": "Verlagsangebot : 10 unentdeckte Urlaubsorte, die weder teuer noch überlaufen sind",
@@ -476,16 +453,22 @@
       "image_url": "https://img.zeit.de/geld/2024-07/wohnen-alter-eigenheim-haus-2/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Schichtsalat : Revival des Schichtsalats",
+      "teaser": "Schlechte Erinnerungen an Schichtsalat? Dabei ist das Konzept unschlagbar. Dieses Rezept holt es mit knackigem Gemüse und einem leichten Dressing in die Gegenwart.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-07/schichtsalat-kartoffel-gurke-sellerie-rezept",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-07/schichtsalat-kartoffel-teaser/wide__892x501"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Schnecken : \"Die Weinbergschnecke schmeckt nach Wald\"",
       "teaser": "‏Wenn die Schnecken den ganzen Garten kahl fressen, kann man dann nicht einfach die Schnecken aufessen? Eine Züchterin erklärt, was Nackt- und Weinbergschnecken trennt.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-07/schnecken-garten-plage-weinbergschnecke-tiere",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-07/schnecken-garten-plage-weinbergschnecke-tiere-teaser/wide__892x501"
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-07/schnecken-garten-plage-weinbergschnecke-tiere-teaser/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Menorquinische Sangria : Sangria für Erwachsene",
       "teaser": "Absturzgarant für Teenager? Weit gefehlt, Sangria kann ein überaus edler Drink sein. Wenn man sie zubereitet wie in der Bar des Hotels Menorca Experimental.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024/06/menorquinische-sangria-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024/06/cheers-menorquinische-sangria/super__430x286"
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024/06/cheers-menorquinische-sangria/super__320x213"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Quinoa-Salat : Der Supersattsalat",
@@ -512,16 +495,16 @@
       "image_url": "https://img.zeit.de/zeit-magazin/2024/30/ein-suesses-huhn-bild-1/super__320x213"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Prinzregententorte : Eine Torte für kleine und große Prinzen",
-      "teaser": "Die Prinzregententorte besteht aus sieben schokoladigen Schichten. Viel essen kann man davon trotzdem: Sie passt in den Bauch wie ein Elefant in eine Riesenschlange.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-07/prinzregententorte-kuchen-backen-rezept",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-07/prinzregententorte-kuchen-backen-rezept-teaser/super__320x213"
+      "title": "Z+ (abopflichtiger Inhalt); \"Was jetzt? – Die Woche\" : Der Gesandte, der Erlöser, der Gotteskrieger – Donald Trump",
+      "teaser": "Trumps Überleben eines Attentats gilt für weiße Evangelikale als Beweis: Er ist der Auserwählte. Wie sie seine Wählerschaft mobilisieren, in \"Was jetzt? – Die Woche\".",
+      "url": "https://www.zeit.de/politik/2024-07/donald-trump-attentat-evangelikale-wahlkampf-was-jetzt-videopodcast",
+      "image_url": "https://img.zeit.de/2024-07/was-jetzt-die-woche-3/wide__892x501"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"Was jetzt? – Die Woche\" : Die Wolfsgruß-Affäre – ein Streit ohne Gewinner",
       "teaser": "Die Debatte über die Bedeutung des Wolfsgrußes hat nicht nur politische Folgen. Weshalb ein konstruktiver Dialog schwierig ist, in \"Was jetzt? – Die Woche\".",
       "url": "https://www.zeit.de/politik/2024-07/wolfsgruss-rechtsextremismus-em-tuerkei-was-jetzt-videopodcast",
-      "image_url": "https://img.zeit.de/2024-07/was-jetzt-die-woche-2/wide__892x501"
+      "image_url": "https://img.zeit.de/2024-07/was-jetzt-die-woche-2/super__320x213"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"Was jetzt? – Die Woche\" : Der Moment, als klar war, dass Joe Biden die Debatte verloren hat",
@@ -548,12 +531,6 @@
       "image_url": "https://img.zeit.de/2024-06/was-jetzt-die-woche/super__320x213"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); \"Was jetzt? – Die Woche\" : Wie vergrößern Europas Ultrarechte ihren Einfluss auf die EU?",
-      "teaser": "Ein großer Block aller extremen Rechten im EU-Parlament: Das könnte nun Realität werden. Worüber Europas Rechte verhandeln, in \"Was jetzt? – Die Woche\".",
-      "url": "https://www.zeit.de/politik/2024-06/rechtspopulismus-europawahlen-giorgia-meloni-marine-le-pen-ursula-von-der-leyen-was-jetzt-videopodcast",
-      "image_url": "https://img.zeit.de/politik/2024-06/was-jetzt-nachrichtensendung-bild/super__320x213"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Nachrichtenpodcast : Die Bundesregierung bereitet sich auf Trump vor",
       "teaser": "Eine zweite Amtszeit von Donald Trump würde die bilateralen Verhältnisse beeinflussen. Wie sich die Bundesregierung darauf vorbereitet. Und: Was bringt Sitzenbleiben?",
       "url": "https://www.zeit.de/politik/2024-07/us-wahl-donald-trump-deutschland-nachrichtenpodcast",
@@ -566,10 +543,10 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-07/israel-tel-aviv-explosion-stadtzentrum/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Verteidigungsminister : Pistorius will Weltraumkommando der Bundeswehr stärker aufstellen",
-      "teaser": "Satellitensicherheit, Aufklärung, Weltraumschrott – dafür sind die Soldaten vom Weltraumkommando zuständig. Pistorius spricht sich dafür aus, präsenter im All zu werden.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-07/verteidigungsminister-boris-pistorius-weltraumkommando",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-07/verteidigungsminister-boris-pistorius-weltraumkommando-bild-2/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); US-Wahlkampf : Barack Obama sieht Kandidatur von Joe Biden laut Berichten kritisch",
+      "teaser": "In privater Runde soll sich der frühere US-Präsident skeptisch über die Chancen von Joe Biden geäußert haben. Biden solle sein Festhalten an der Kandidatur überdenken.",
+      "url": "https://www.zeit.de/politik/ausland/2024-07/joe-biden-zweifel-barack-obama-medienberichte-praesidentschaftskandidatur",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-07/barack-obama-medienberichte-zweifel-biden-kandidatur-bild/super__430x286"
     },
     {
       "title": "Verlagsangebot : Quiz über die Wahlen 2024 in den USA: Testen Sie Ihr Wissen!",
@@ -588,12 +565,6 @@
       "teaser": "Er hielt Astronauten für Superhelden, dann flog er selbst zur ISS. Im Podcast spricht er über die Angst vor dem ersten Weltraumspaziergang und Essenslieferungen ins All.",
       "url": "https://www.zeit.de/wissen/2024-07/matthias-maurer-interviewpodcast-alles-gesagt",
       "image_url": "https://img.zeit.de/gesellschaft/2024-07/matthias-maurer-interviewpodcast-alles-gesagt/super__320x213"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Und was machst du am Wochenende?\" : \"Ich finde es ganz geil, wenn man sonntags nicht verkatert ist\"",
-      "teaser": "Der berühmteste Dorfpunk Deutschlands, Rocko Schamoni, erzählt im Wochenendpodcast von Ideen auf dem Bierdeckel und wieso er samstags die Stadt verlässt.",
-      "url": "https://www.zeit.de/entdecken/2024-07/rocko-schamoni-geburtstag-musiker-schriftsteller-wochenende-tipps-podcast",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-07/rocko-schamoni-wochenendpodcast/super__320x213"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Alpenpodcast : Österreich hat ein Problem mit Frauen",
@@ -620,6 +591,12 @@
       "image_url": "https://img.zeit.de/entdecken/2024-07/geht-da-noch-was-podcast-lisa-rose/super__320x213"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Anschlag auf Donald Trump : Verhilft diese Tat Donald Trump zum Sieg?",
+      "teaser": "Der Anschlag auf Trump und die Bilder des blutenden Ex-Präsidenten mit geballter Faust haben die Dynamik des Wahlkampfs verändert. Wir sprechen darüber im US-Podcast.",
+      "url": "https://www.zeit.de/politik/ausland/2024-07/anschlag-donald-trump-wahlkampf-republikaner-ok-america",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-07/anschlag-donald-trump-wahlkampf-republikaner-ok/super__320x213"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Bangladesch : Demonstrierende setzen TV-Sender in Dhaka in Brand",
       "teaser": "In Bangladesch protestieren Studenten seit Wochen gegen ein Quotensystem im öffentlichen Dienst. In der Hauptstadt Dhaka eskaliert die Gewalt.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-07/bangladesch-proteste-studenten-dhaka-tote",
@@ -641,7 +618,7 @@
       "title": "Z+ (abopflichtiger Inhalt); Schuldenbremse : Deutschland, schaff endlich diese absurde Schuldenbremse ab",
       "teaser": "Die deutsche Angst vor Schulden ist irrsinnig und verlogen. Deutschland sollte viel stärker investieren und sich dafür direkt bei seinen Bürgern verschulden.",
       "url": "https://www.zeit.de/wirtschaft/2024-07/schuldenbremse-wirtschaftspolitik-europa-martin-wolf",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-07/schuldenbremse-wirtschaftspolitik-europa-martin-wolf-bild/wide__892x501"
+      "image_url": "https://img.zeit.de/wirtschaft/2024-07/schuldenbremse-wirtschaftspolitik-europa-martin-wolf-bild-2/wide__892x501"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Europäische Zentralbank : EZB lässt Leitzins unverändert",
@@ -718,16 +695,16 @@
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-07/gericht-abweisung-berufung-jan-boehmermann-honig-streit-bild/super__430x286"
     },
     {
-      "title": "Bundeswehr : Boris Pistorius besucht Luftwaffenstützpunkt Büchel",
-      "teaser": "Bei seinem Besuch spricht Verteidigungsminister Pistorius auch über die Bedeutung der nuklearen Verteidigungsfähigkeit. In Büchel sollen F-35-Jets stationiert werden.",
-      "url": "https://www.zeit.de/video/2024-07/6358431323112/bundeswehr-boris-pistorius-besucht-luftwaffenstuetzpunkt-buechel",
-      "image_url": "https://img.zeit.de/video/2024-07/6358431323112-still/wide__892x501"
+      "title": "US-Wahl : Trump nimmt Nominierung als republikanischer Präsidentschaftskandidat an",
+      "teaser": "Donald Trump hat angekündigt, \"Präsident für ganz Amerika, nicht halb Amerika\" werden zu wollen. Er sprach auch über den versuchten Mordanschlag auf ihn.",
+      "url": "https://www.zeit.de/video/2024-07/6358488275112/us-wahl-trump-nimmt-nominierung-als-republikanischer-praesidentschaftskandidat-an",
+      "image_url": "https://img.zeit.de/video/2024-07/6358488275112-still/wide__892x501"
     },
     {
-      "title": "Europäische Union : Von der Leyen als EU-Kommissionspräsidentin wiedergewählt",
-      "teaser": "Ursula von der Leyen wurde vom Europäischen Parlament mit absoluter Mehrheit erneut zur Kommissionspräsidentin gewählt. Damit bleibt sie für fünf weitere Jahre im Amt.",
-      "url": "https://www.zeit.de/video/2024-07/6358422639112/europaeische-union-von-der-leyen-als-eu-kommissionspraesidentin-wiedergewaehlt",
-      "image_url": "https://img.zeit.de/video/2024-07/6358422639112-still/super__430x286"
+      "title": "Tel Aviv : Ein Toter und mehrere Verletzte nach schwerer Explosion",
+      "teaser": "In Tel Aviv gab es eine schwere Explosion, die Huthi-Miliz reklamiert den Angriff für sich. Aktuellen Angaben zufolge wurde ein Mensch getötet.",
+      "url": "https://www.zeit.de/video/2024-07/6358495357112/tel-aviv-ein-toter-und-mehrere-verletzte-nach-schwerer-explosion",
+      "image_url": "https://img.zeit.de/video/2024-07/6358495357112-still/super__430x286"
     },
     {
       "title": "J. D. Vance : Trumps Vize verspricht Einsatz für Arbeiter",
@@ -736,10 +713,22 @@
       "image_url": "https://img.zeit.de/video/2024-07/6358405160112-still/super__430x286"
     },
     {
-      "title": "Haushalt : Kabinett beschließt Bundeshaushalt für 2025",
-      "teaser": "Nach langen Diskussionen hat die Bundesregierung ihren Haushaltsplan für das nächste Jahr vorgestellt. Vorgesehen sind auch Investitionen für eine Wirtschaftswende.",
-      "url": "https://www.zeit.de/video/2024-07/6358303354112/haushalt-kabinett-beschliesst-bundeshaushalt-fuer-2025",
-      "image_url": "https://img.zeit.de/video/2024-07/6358303354112-still/super__430x286"
+      "title": "Europäische Union : Von der Leyen als EU-Kommissionspräsidentin wiedergewählt",
+      "teaser": "Ursula von der Leyen wurde vom Europäischen Parlament mit absoluter Mehrheit erneut zur Kommissionspräsidentin gewählt. Damit bleibt sie für fünf weitere Jahre im Amt.",
+      "url": "https://www.zeit.de/video/2024-07/6358422639112/europaeische-union-von-der-leyen-als-eu-kommissionspraesidentin-wiedergewaehlt",
+      "image_url": "https://img.zeit.de/video/2024-07/6358422639112-still/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Apollo 11 : Mit diesem Apparat ging es zum Mond",
+      "teaser": "Vor 55 Jahren betrat der erste Mensch den Mond: Erkunden Sie den Eagle-Lander der Apollo-11-Mission in 3D – Sie können sich die Kiste sogar virtuell zu Hause aufstellen.",
+      "url": "https://www.zeit.de/wissen/2024-07/mondlandung-apollo-11-jubilaeum",
+      "image_url": "https://img.zeit.de/wissen/2019-07/mondlander-teaser-2/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Attentat auf Adolf Hitler : Wie viele Anschläge auf Hitler gab es wirklich?",
+      "teaser": "Auch vor Stauffenbergs Attentat im Juli 1944 versuchten Widerstandskämpfer, den Führer zu töten. Manche dieser Geschichten sind filmreif. Zu filmreif, um wahr zu sein?",
+      "url": "https://www.zeit.de/2024/31/attentat-adolf-hitler-nationalsozialismus-claus-von-stauffenberg",
+      "image_url": "https://img.zeit.de/2024/31/sie-haben-es-in-der-hand-ob-dieser-krieg-ein-ende-findet-bild-3/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Harald Blauzahn : Der König mit dem schwarzen Zahn",
@@ -752,18 +741,6 @@
       "teaser": "Mit dem Rover Viper wollte die US-Weltraumbehörde Nasa auf dem Mond nach Wasser suchen. Angesichts steigender Kosten und Verzögerungen wurde die Entwicklung eingestellt.",
       "url": "https://www.zeit.de/wissen/2024-07/nasa-mond-rover-viper-suche-wasser-eingestellt",
       "image_url": "https://img.zeit.de/wissen/2024-07/nasa-mond-rover-viper-suche-wasser-eingestellt-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Altersforschung : Mit kleinem Eingriff zu hohem Alter",
-      "teaser": "Forschende haben bei Mäusen den Botenstoff Interleukin-11 blockiert und die Tiere dadurch ungewöhnlich gesund steinalt werden lassen. Eine Option für den Menschen?",
-      "url": "https://www.zeit.de/wissen/2024-07/altersforschung-maeuse-interleukin-11-protein-blockade-studie",
-      "image_url": "https://img.zeit.de/wissen/2024-07/altersforschung-maeuse-interleukin-11-protein-blockade-studie-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Geburtenrate : Warum werden so wenige Babys geboren?",
-      "teaser": "Weltweit bekommen die Menschen so wenige Kinder wie nie – auch in Deutschland. Was hält sie davon ab? Es ist nicht so, dass sie nicht wollen.",
-      "url": "https://www.zeit.de/wissen/2024-07/geburtenrate-kinder-wunsch-stress-finanzen",
-      "image_url": "https://img.zeit.de/wissen/2024-07/geburtenrate-kinder-wunsch-stress/super__430x286"
     },
     {
       "title": "Der perfekte Begleiter von der 1. bis zur 5. Klasse!",
@@ -808,22 +785,22 @@
       "image_url": "https://img.zeit.de/administratives/2015-10/zeit-shop-bilder/farbtrends-flowerpot/super__320x213"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Brustkrebs : Jung, gesund, und plötzlich ist da Brustkrebs",
+      "teaser": "Immer häufiger erkranken Frauen unter 40 an Brustkrebs. Zwei Mütter erzählen, wie der Krebs ihr Leben abrupt änderte – eine von ihnen war schwanger bei der Diagnose.",
+      "url": "https://www.zeit.de/gesundheit/2024-07/brustkrebs-junge-frauen-erkrankung-elternschaft",
+      "image_url": "https://img.zeit.de/gesundheit/2024-07/brustkrebs-junge-frauen-erkrankung/wide__892x501"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); HIV Heilung : Die dritte HIV-Heilung macht große Hoffnung",
       "teaser": "Forscher nahmen bisher an, dass es Stammzellspender mit einer Genmutation braucht, um HIV zu heilen. Der dritte geheilte Patient in Deutschland zeigt: Geht auch anders.",
       "url": "https://www.zeit.de/gesundheit/2024-07/hiv-heilung-patient-berlin-stammzellspender",
-      "image_url": "https://img.zeit.de/gesundheit/2024-07/hiv-heilung-patient-berlin/wide__892x501"
+      "image_url": "https://img.zeit.de/gesundheit/2024-07/hiv-heilung-patient-berlin/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Coronapandemie : EU hätte laut Gericht besser über Impfstoffkäufe informieren müssen",
       "teaser": "Laut einem Urteil hat die EU-Kommission ungenügend über den Kauf von Covid-Impfstoffen informiert. Sie habe zu Unrecht die Herausgabe von Dokumenten verwehrt.",
       "url": "https://www.zeit.de/gesundheit/2024-07/eu-gericht-kommission-urteil-covid-impfstoff",
       "image_url": "https://img.zeit.de/gesundheit/2024-07/eu-gericht-kommission-uteil-covid-impfstoff-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Reform der Notfallversorgung : Wie Bundesgesundheitsminister Lauterbach Notaufnahmen retten will",
-      "teaser": "Die Notaufnahmen sind überlastet – auch weil nicht nur Notfälle behandelt werden. Das Kabinett hat Lauterbachs Notfallreform auf den Weg gebracht. Was sich nun ändert.",
-      "url": "https://www.zeit.de/gesundheit/2024-07/reform-der-notfallversorgung-karl-lauterbach",
-      "image_url": "https://img.zeit.de/gesundheit/2024-07/reform-der-notfallversorgung-karl-lauterbach-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Gericht der Europäischen Union : TikTok-Betreiber ByteDance scheitert mit Klage zu Digital Markets Act",
@@ -851,10 +828,16 @@
       "image_url": "https://img.zeit.de/2024/31/buergergeld-hartz-iv-teaser/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Nationalsozialismus im Unterricht : Was erleben Sie als Geschichtslehrer, wenn es um die NS-Zeit geht?",
+      "teaser": "Abwehr, Unwissenheit oder großes Interesse: Erzählen Sie uns, wie Ihre Schülerinnen und Schüler reagieren, wenn Nationalsozialismus und Schoah auf dem Lehrplan stehen.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2024-05/nationalsozialismus-unterricht-lehrer-reaktion-shoah",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-06/nationalsozialismus-unterricht-lehrer-reaktion-shoah-bild/wide__892x501"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Dauerhochzeit : Ob Mumbai oder Mackenrode: Jede Hochzeit funktioniert gleich",
       "teaser": "Die Hochzeit der indischen Erben Anant Ambani und Radhika Merchant hat alle Maßstäbe gesprengt. Doch in gewisser Weise war sie auch nicht anders als eine Normalofeier.",
       "url": "https://www.zeit.de/zeit-magazin/2024/31/hochzeit-mumbai-anant-ambani-radhika-merchant-indien",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024/31/liebe-leute-bild-1/wide__892x501"
+      "image_url": "https://img.zeit.de/zeit-magazin/2024/31/liebe-leute-bild-1/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Roland Emmerich : \"Abschlüsse sind nicht wichtig\"",
@@ -863,23 +846,17 @@
       "image_url": "https://img.zeit.de/zeit-magazin/2024/31/was-ich-gern-frueher-gewusst-haette-bild-1/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Dating unter Druck : \"Er fragte beim Date, an welchen Tagen im Monat ich fruchtbar bin\"",
-      "teaser": "Mit dem oder der Nächsten muss die Familiengründung doch endlich klappen. Drei Menschen erzählen von Dating mit Kinderwunsch unter Hochdruck.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2024-07/dating-druck-familiengruendung-zeitdruck-kinder",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-07/dating-druck-familiengruendung-zeitdruck-kinder-teaser/super__430x286"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Taylor Swift : Tell me why",
       "teaser": "Nach ihr werden Städte benannt, sie wird von Regierungschefs umgarnt und könnte die US-Wahl entscheiden. Hier erklärt ein Taylor-Swift-Professor den Hype um die Sängerin.",
       "url": "https://www.zeit.de/campus/2024/04/taylor-swift-world-tour-musik-einfluss-wirtschaft-wahlen",
       "image_url": "https://img.zeit.de/campus/2024/04/taylor-swift-world-tour-teaser/wide__892x501"
     },
     {
-      "title": "Verlagsangebot : Welcher Beruf passt zu mir?",
-      "teaser": "Was uns im Job von anderen unterscheidet, sind nicht nur unsere Fähigkeiten – erst die Persönlichkeit macht jeden einmalig. Der BOA Berufstest hilft, sie zu erkennen.",
-      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.teaser.boa-faeuste.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=boa-verlagsteaser&amp;utm_content=bot_teaser_boa-faeuste_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/boa-faeuste/wide__430x286__desktop",
-      "image_title": "Welcher Beruf passt zu mir?"
+      "title": "Verlagsangebot : Ein Studium finden, das passt",
+      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
+      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.teaser.bewerben-schreibtisch.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=sit-verlagsteaser&amp;utm_content=sit_teaser_bewerben-schreibtisch_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/sit-bewerben-schreibtisch/wide__430x286__desktop",
+      "image_title": "Ein Studium finden, das passt"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Dating : Heute will ich die Angst verlieren, allein alt zu werden",
@@ -948,36 +925,36 @@
       "image_url": "https://img.zeit.de/sport/2024-07/paris-olympia-bild/super__430x286"
     },
     {
-      "title": "Sommerferien: Computerprobleme am Hamburger Flughafen",
-      "url": "https://www.zeit.de/news/2024-07/19/computerprobleme-am-hamburger-flughafen"
+      "title": "Verfolgung von Journalisten: Prozess um US-Reporter in Russland: 18 Jahre Haft gefordert",
+      "url": "https://www.zeit.de/news/2024-07/19/prozess-um-us-reporter-in-russland-18-jahre-haft-gefordert"
     },
     {
-      "title": "Fernsehen: Tierfelle und antike Gemälde: H.P. Baxxter in Nahaufnahme",
-      "url": "https://www.zeit.de/news/2024-07/19/tierfelle-und-antike-gemaelde-h-p-baxxter-in-nahaufnahme"
+      "title": "Computerprobleme: Netzwerk-Störung: Stadt Pforzheim nur schwer erreichbar",
+      "url": "https://www.zeit.de/news/2024-07/19/netzwerk-stoerung-stadt-pforzheim-nur-schwer-erreichbar"
     },
     {
-      "title": "Fernsehen: Ist das passiert? Das Drama «The Father» ums große Vergessen",
-      "url": "https://www.zeit.de/news/2024-07/19/ist-das-passiert-das-drama-the-father-ums-grosse-vergessen"
+      "title": "Störungen: Keine Computer-Probleme an sächsischen Flughäfen",
+      "url": "https://www.zeit.de/news/2024-07/19/keine-computer-probleme-an-saechsischen-flughaefen"
     },
     {
-      "title": "Industrie: Exporte der Elektroindustrie schrumpfen kräftig",
-      "url": "https://www.zeit.de/news/2024-07/19/exporte-der-elektroindustrie-schrumpfen-kraeftig"
+      "title": "Feuer in ehemaliger Gaststätte: Dachstuhl brennt in Ziesar",
+      "url": "https://www.zeit.de/news/2024-07/19/dachstuhl-brennt-in-ziesar"
     },
     {
-      "title": "2. Fußball-Bundesliga: 1. FC Nürnberg holt Verteidiger Knoche",
-      "url": "https://www.zeit.de/news/2024-07/19/1-fc-nuernberg-holt-verteidiger-knoche"
+      "title": "Wohnungseigentümergemeinschaft: BGH-Urteil in Prozesskosten-Streit zwischen Eigentümern",
+      "url": "https://www.zeit.de/news/2024-07/19/bgh-urteil-in-prozesskosten-streit-zwischen-eigentuemern"
     },
     {
-      "title": "Transfer: Nürnberg holt Verteidiger Knoche",
-      "url": "https://www.zeit.de/news/2024-07/19/nuernberg-holt-verteidiger-knoche"
+      "title": "Computerpanne: Flughafen Düsseldorf von IT-Störung betroffen",
+      "url": "https://www.zeit.de/news/2024-07/19/flughafen-duesseldorf-von-it-stoerung-betroffen"
     },
     {
-      "title": "Verkehrsunfall: Eine Tote und zwei Schwerverletzte nach Frontalkollision",
-      "url": "https://www.zeit.de/news/2024-07/19/eine-tote-und-zwei-schwerverletzte-nach-frontalkollision"
+      "title": "Computer: KLM stellt Flugbetrieb ein",
+      "url": "https://www.zeit.de/news/2024-07/19/klm-stellt-flugbetrieb-ein"
     },
     {
-      "title": "Agrar: Verregnet: Sehr niedrige Erdbeer- und Spargelernte erwartet",
-      "url": "https://www.zeit.de/news/2024-07/19/verregnet-sehr-niedrige-erdbeer-und-spargelernte-erwartet"
+      "title": "Computerprobleme: Softwareprobleme stören Betrieb an Flughäfen in Bayern",
+      "url": "https://www.zeit.de/news/2024-07/19/softwareprobleme-stoeren-betrieb-an-flughaefen-in-bayern"
     }
   ]
 }
