@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-19T07:01:50",
+  "timestamp": "2024-07-19T08:08:28",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Ivanti Endpoint Manager",
+      "url": "https://www.heise.de/news/Schadcode-Luecke-bedroht-Ivanti-Endpoint-Manager-9806384.html"
+    },
+    {
+      "title": "Bamboo Data Center und Server",
+      "url": "https://www.heise.de/news/Atlassian-Bamboo-Angreifer-koennen-Entwicklungsumgebungen-kompromittieren-9806185.html"
+    },
+    {
       "title": "Cisco",
       "url": "https://www.heise.de/news/Angreifer-koennen-Passwoerter-von-Cisco-Smart-Software-Manager-On-Prem-aendern-9804585.html"
     },
@@ -40,18 +48,16 @@
       "url": "https://www.heise.de/news/Critical-Patch-Update-Oracles-Quartalsupdate-liefert-386-Sicherheitspatches-9804741.html"
     },
     {
-      "title": "KI-Gadget Rabbid R1",
-      "url": "https://www.heise.de/news/Root-Sicherheitsluecke-bedroht-KI-Gadget-Rabbit-R1-9803666.html"
+      "title": "Schadcode-Lücke bedroht Ivanti Endpoint Manager",
+      "teaser": "Stimmen die Voraussetzungen, sind Attacken auf Ivanti Endpoint Manager möglich. Ein Sicherheitspatch schafft Abhilfe.",
+      "url": "https://www.heise.de/news/Schadcode-Luecke-bedroht-Ivanti-Endpoint-Manager-9806384.html",
+      "image_title": "Update"
     },
     {
-      "title": "GeoServer GeoTools",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Schadcode-Attacken-auf-GeoTools-Server-9803607.html"
-    },
-    {
-      "title": "Atlassian bestätigt Leak von 15 Millionen E-Mail-Adressen von Trello-Nutzern",
-      "teaser": "Nachdem ein Cyberkrimineller im Januar Daten von Trello zum Verkauf angeboten hatte, bestätigt das Unternehmen gegenüber Bleeping Computer den Datenleak.",
-      "url": "https://www.heise.de/news/Atlassian-bestaetigt-Leak-von-15-Millionen-E-Mail-Adressen-von-Trello-Nutzern-9806155.html",
-      "image_title": "Trello"
+      "title": "Atlassian Bamboo: Angreifer können Entwicklungsumgebungen kompromittieren",
+      "teaser": "Es sind Attacken auf Atlassian Bamboo Data Center und Server vorstellbar. Dagegen abgesicherte Version sind erschienen.",
+      "url": "https://www.heise.de/news/Atlassian-Bamboo-Angreifer-koennen-Entwicklungsumgebungen-kompromittieren-9806185.html",
+      "image_title": "Bamboo braucht ein Update"
     },
     {
       "title": "iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
@@ -72,16 +78,16 @@
       "image_title": "Zwei lederbehandschuhte Hände räumen Münzen mit Kryptowährungslogos in einen oder aus einem Tresor"
     },
     {
-      "title": "Nach Erpressungsversuch bei Life360: Daten von 443.000 Nutzern veröffentlicht",
-      "teaser": "Nachdem Cyberkriminelle Lösegeld von \"Life360\" gefordert hatten, sind jetzt Daten im Untergrundforum aufgetaucht.",
-      "url": "https://www.heise.de/news/Nach-Erpressungsversuch-bei-Life360-Daten-von-443-000-Nutzern-veroeffentlicht-9805424.html",
-      "image_title": "Life360 Icon"
-    },
-    {
       "title": "iX-Workshop: Linux-Server vor Angriffen wirksam schützen (10% Rabatt bis 04.08.)",
       "teaser": "Linux-Server und Netzwerkdienste effektiv und umfassend vor Angriffen schützen - von physischer Sicherheit über Verschlüsselung und 2FA bis hin zu SELinux.",
       "url": "https://www.heise.de/news/iX-Workshop-Linux-Server-vor-Angriffen-wirksam-schuetzen-10-Rabatt-bis-04-08-9803964.html",
       "image_title": "iX-Workshop: Linux-Server härten"
+    },
+    {
+      "title": "Sicherheitslücke mit Höchstwertung in Cisco Smart Software Manager On-Prem",
+      "teaser": "Cisco schließt unter anderem eine Passwort- und Root-Sicherheitslücke in SSM On-Prem und Secure Email Gateway.",
+      "url": "https://www.heise.de/news/Angreifer-koennen-Passwoerter-von-Cisco-Smart-Software-Manager-On-Prem-aendern-9804585.html",
+      "image_title": "Update-Grafik"
     },
     {
       "title": "Critical Patch Update: Oracles Quartalsupdate liefert 386 Sicherheitspatches",
@@ -118,6 +124,11 @@
       "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
     },
     {
+      "title": "BSI-Chefin zu Cyberbedrohung: \"Mach halt mal die Tür zu\"",
+      "teaser": "Im Interview mit heise security plädiert BSI-Präsidentin Claudia Plattner für schnelle Reaktion auf Sicherheitslücken und Cyberabwehr durch bessere Prävention.",
+      "url": "https://www.heise.de/hintergrund/BSI-Chefin-Sicherheitsluecken-sofort-schliessen-9802982.html"
+    },
+    {
       "title": "Sicherheitslücken im Management-Controller XClarity gefährden Lenovo-Server",
       "teaser": "Angreifer können Appliances und Server von Lenovo attackieren. Sicherheitsupdates stehen zum Download bereit.",
       "url": "https://www.heise.de/news/Sicherheitsluecken-im-Management-Controller-XClarity-gefaehrden-Lenovo-Server-9802454.html",
@@ -151,18 +162,6 @@
       "teaser": "Bei Disney ist es wohl zu einem Datenleak gekommen. Dabei sollen 1,2 TByte Daten der internen Slack-Infrastruktur geleakt worden sein. Disney prüft den Vorfall.",
       "url": "https://www.heise.de/news/Disney-prueft-Datenleak-9802065.html",
       "image_title": "Disney in New York"
-    },
-    {
-      "title": "Kaspersky zieht sich aus den USA zurück",
-      "teaser": "Nach dem Verbot von Kaspersky-Produkten in den USA sieht die russische Firma dort keine tragfähige Geschäftsgrundlage mehr.",
-      "url": "https://www.heise.de/news/Kaspersky-zieht-sich-aus-den-USA-zurueck-9802089.html",
-      "image_title": "Grafik mit einem Menschen vor einem Laptop"
-    },
-    {
-      "title": "Google vor 23-Milliarden-Dollar-Übernahme des Cybersecurity-Startups Wiz",
-      "teaser": "Laut einem Medienbericht verhandelt Google den milliardenschweren Kauf der Cybersecurity-Firma Wiz. Der US-Konzern investiert immer stärker in Cloud Computing.",
-      "url": "https://www.heise.de/news/Google-vor-23-Milliarden-Dollar-Uebernahme-des-Cybersecurity-Startups-Wiz-9801868.html",
-      "image_title": "Google-Bürogebäude mit Glasfront"
     },
     {
       "title": "Microsoft Cloud Security",
