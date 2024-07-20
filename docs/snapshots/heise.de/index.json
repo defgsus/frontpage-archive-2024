@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-20T20:00:37",
+  "timestamp": "2024-07-20T21:00:28",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -26,14 +26,15 @@
   ],
   "articles": [
     {
+      "title": "Microsoft nennt Zahlen, weitere Ursachenforschung",
+      "teaser": "Während Ganoven Fake-Domains registrieren, forscht die Security-Szene weiter nach der Ursache des Ausfalls.",
+      "url": "https://www.heise.de/news/CrowdStrike-Microsoft-nennt-Zahlen-Ursachenforschung-dauert-an-9808287.html",
+      "image_title": "Stilisierte Grafik: Brennendes Windows-Logo auf einem Laptop"
+    },
+    {
       "title": "Details zum fatalen Update, BSI warnt vor Angriffen",
       "teaser": "Das Channel File 291 hat weltweit für massive IT-Ausfälle gesorgt. Das BSI warnt unterdessen vor CrowdStrike-Phishing.",
       "url": "https://www.heise.de/news/Crowdstrike-Fiasko-Neue-Details-zum-fatalen-Update-BSI-warnt-vor-Angriffen-9808106.html"
-    },
-    {
-      "title": "UpdateDer Null Pointer verursacht den Absturz",
-      "teaser": "Erste Analysen des Speicherfehlers zeigen ein grundlegendes Versagen seitens CrowdStrike.",
-      "url": "https://www.heise.de/hintergrund/Fataler-Fehler-bei-CrowdStrike-Schuld-war-ein-Null-Pointer-9807896.html"
     },
     {
       "title": "IT-Firmen müssen stärker für ihre Fehler haften",
@@ -193,9 +194,9 @@
       "image_title": "Windows 95 löst vor 25 Jahren den PC-Boom aus"
     },
     {
-      "title": "Onboarding: So wird das temporäre Passwort nicht zur Schwachstelle",
-      "teaser": "Die erste Anmeldung eines neuen Mitarbeiters im Firmennetz ist mit Sicherheitsrisiken verbunden. Doch es gibt zuverlässige Wege, die Vergabe und Änderung eines Initialpassworts sicherer zu gestalten. Und obendrein schneller und komfortabler.",
-      "url": "https://www.heise.de/solutions/specops/so-wird-das-temporaere-passwort-beim-onboarding-neuer-mitarbeiter-nicht-zur-schwachstelle/?source=nat_teas"
+      "title": "Inference at the Edge: So lassen sich KI-Modelle in Echtzeit anwenden",
+      "teaser": "Der Einsatz lokaler KI-Modelle am Edge ist schneller als eine Cloud-Lösung, erhöht aber auch Komplexität und Angriffsfläche. Unternehmen müssen daher die richtigen Infrastrukturentscheidungen treffen, um eine KI am Edge sicher, leistungsstark und kosteneffizient bereitstellen zu können.",
+      "url": "https://www.heise.de/solutions/gcore/inference-at-the-edge-so-lassen-sich-ki-modelle-in-echtzeit-anwenden/?source=nat_teas"
     },
     {
       "title": "Beschluss des Regulierers: Viel Kritik an Leerrohr-Mietpreisen für die Telekom",
@@ -264,6 +265,11 @@
       "image_title": ","
     },
     {
+      "title": "UpdateCrowdStrike-Fiasko: Der Null Pointer ist Schuld",
+      "teaser": "Nach dem IT-Ausfall durch ein CrowdStrike-Update gibt es erste Analysen des Speicherfehlers, die auf einen grundlegenden Fehler von CrowdStrike hindeuten.",
+      "url": "https://www.heise.de/hintergrund/Fataler-Fehler-bei-CrowdStrike-Schuld-war-ein-Null-Pointer-9807896.html"
+    },
+    {
       "title": "iX-Workshop: AWS-Sicherheit - Angriffe erkennen und abwehren",
       "teaser": "Erfahren Sie, wie Angreifer Fehlkonfigurationen und mangelnde Härtung der Amazon Cloud ausnutzen und wie Sie AWS-Dienste und Cloud-Identitäten dagegen schützen.",
       "url": "https://www.heise.de/news/iX-Workshop-AWS-Sicherheit-Angriffe-erkennen-und-abwehren-9804351.html",
@@ -327,15 +333,15 @@
       "image_title": ","
     },
     {
+      "title": "So behalten Sie den Überblick im Endgeräte-Dschungel",
+      "teaser": "Wissen Sie, welche Endgeräte in Ihrem Unternehmen wo im Einsatz und wie sicher diese sind? Wenn Sie diese Fragen nicht mit „Ja“ beantworten können, dann haben Sie ein Problem. Wie Sie das lösen können, erfahren Sie in dieser Webcast-Aufzeichnung.",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/so-behaelt-die-it-den-ueberblick-im-endgeraete-dschungel-4741/?source=hbsad-ersatz"
+    },
+    {
       "title": "Weltweite Stromerzeugung: Erneuerbare Energie überholt wohl 2025 Kohle",
       "teaser": "Im nächsten Jahr könnte erstmals mehr Strom aus erneuerbarer Energie als aus Kohle gewonnen werden, prognostiziert die Internationale Energieagentur.",
       "url": "https://www.heise.de/news/Weltweite-Stromerzeugung-Erneuerbare-Energie-ueberholt-wohl-2025-Kohle-9807449.html",
       "image_title": "Solarpaneele am Bremer Weserstadion."
-    },
-    {
-      "title": "So behalten Sie den Überblick im Endgeräte-Dschungel",
-      "teaser": "Wissen Sie, welche Endgeräte in Ihrem Unternehmen wo im Einsatz und wie sicher diese sind? Wenn Sie diese Fragen nicht mit „Ja“ beantworten können, dann haben Sie ein Problem. Wie Sie das lösen können, erfahren Sie in dieser Webcast-Aufzeichnung.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/so-behaelt-die-it-den-ueberblick-im-endgeraete-dschungel-4741/?source=hbsad-ersatz"
     },
     {
       "title": "E-Scooter Egret Ey! 3 im Test: Premium-E-Scooter zum Mittelklassepreis",
@@ -388,11 +394,6 @@
       "teaser": "Ursula von der Leyens Initiative gegen das Verbrenner-Aus könnte kleiner ausfallen als gedacht, denn am Ziel klimaneutraler Neuwagen ab 2035 hält sie fest.",
       "url": "https://www.heise.de/news/Rueckzug-vom-Verbrenner-Aus-Von-der-Leyens-E-Fuel-Vorstoss-bei-der-EU-bleibt-vage-9806479.html",
       "image_title": "Tankvorgang"
-    },
-    {
-      "title": "Konferenz zu Storage Server, Network thematisiert NIS-2 und Cyber Resilience",
-      "teaser": "Die NIS-2-Richtlinie zu Cybersicherheit bewegt die Gemüter in der IT. Auf der Konferenz S2N ist sie Keynote-Thema.",
-      "url": "https://www.heise.de/news/Konferenz-zu-Storage-Server-Network-thematisiert-NIS-2-und-Cyber-Resilience-9805589.html"
     },
     {
       "title": "Weltweiter IT-Ausfall: Betrieb wird wieder aufgenommen",
@@ -623,16 +624,16 @@
       "url": "https://www.heise.de/en/news/Cryptocurrency-industry-pours-avalanche-of-money-into-US-election-campaign-9803748.html"
     },
     {
-      "title": "Rebuy patzt bei gesetzlichem Widerrufsrecht",
-      "teaser": "Bitte diese Meldung NICHT in den Topteaser",
-      "url": "https://www.heise.de/ratgeber/Rebuy-patzt-bei-gesetzlichem-Widerrufsrecht-9749105.html",
-      "image_title": ","
-    },
-    {
       "title": "Super Mighty: Kompaktes Cargobike mit Turbo-Boost",
       "teaser": "E-Lastenräder sind oft sehr groß und ziemlich teuer. Kompakte Cargobikes wie das Super Mighty reihen sich in beiden Punkten am anderen Ende der Skala ein.",
       "url": "https://www.heise.de/news/Super-Mighty-Kompaktes-Cargobike-mit-Turbo-Boost-9806376.html",
       "image_title": "Super Mighty"
+    },
+    {
+      "title": "Rebuy patzt bei gesetzlichem Widerrufsrecht",
+      "teaser": "Bitte diese Meldung NICHT in den Topteaser",
+      "url": "https://www.heise.de/ratgeber/Rebuy-patzt-bei-gesetzlichem-Widerrufsrecht-9749105.html",
+      "image_title": ","
     },
     {
       "title": "Apples neue SystemeiOS und iPadOS 18, macOS 15 und watchOS 11 ausprobiert",
@@ -641,16 +642,16 @@
       "image_title": "Icons von iOS und iPadOS 18, macOS 15 und watchOS 11"
     },
     {
-      "title": "eSIM und Dual-SIM auf iPhones optimal nutzen: 7 Tipps für mehr Mobilfunk",
-      "teaser": "Mit eSIM und Dual-SIM kann jeder flexibel in verschiedenen Netzen funken, auf Reisen surfen, die bestmögliche Datenverbindung nutzen und Geld sparen.",
-      "url": "https://www.heise.de/ratgeber/eSIM-und-Dual-SIM-auf-iPhones-optimal-nutzen-7139657.html",
-      "image_title": "iPhone mit eSIM"
-    },
-    {
       "title": "Besser multi, oder was?Ladestationen für iPhone, Apple Watch und mehr im Test",
       "teaser": "Sie sehen schick aus und betanken ohne Kabelsalat iPhone, Apple Watch und AirPods gleichzeitig – Dreifach-Ladestationen ab 23 Euro. Doch was taugen sie?",
       "url": "https://www.heise.de/tests/Ladestationen-fuer-iPhone-Apple-Watch-und-mehr-im-Test-Besser-multi-oder-was-9793578.html",
       "image_title": ","
+    },
+    {
+      "title": "Ausführlicher TestApple Vision Pro: Wackeliger Blick in die Zukunft",
+      "teaser": "Apple hat ein in vielerlei Hinsicht beeindruckendes Mixed-Reality-Headset gebaut. Wie sich die Vision Pro im Praxiseinsatz schlägt.",
+      "url": "https://www.heise.de/tests/Apple-Vision-Pro-im-ausfuehrlichen-Test-Wackliger-Blick-in-die-Zukunft-9629236.html",
+      "image_title": "Mann trägt Vision Pro"
     },
     {
       "title": "IoT- und Elektronik-Lernkit von Arduino",
@@ -764,9 +765,10 @@
       "url": "https://www.techstage.de/bestenliste/top-10-die-besten-balkonkraftwerke-von-extrem-leicht-bis-besonders-stark/ywhkvwx?wt_mc=intern.red.techstage.techstage_buehne.startseite.buehne.buehne#nav-ring-6"
     },
     {
-      "title": "Warum gibt es keine deutschen Unternehmen, die nur E-Autos herstellen?",
-      "teaser": "Die Elektroauto-Verkäufe gehen weltweit steil nach oben. Auch in Deutschland. Aber Tesla und chinesische Hersteller hängen VW und Co. ab. Warum das so ist und wir aufs Elektropedal treten müssen.",
-      "url": "https://www.heise.de/tp/features/Warum-gibt-es-keine-deutschen-Unternehmen-die-nur-E-Autos-herstellen-9207186.html"
+      "title": "Verfassungsgericht stoppt Abstimmung zu Heizungsgesetz vorerst",
+      "teaser": "Rückschlag für die Ampel: Das umstrittene Gesetz darf in dieser Woche nicht beschlossen werden. Damit gab es dem Antrag eines CDU-Abgeordneten statt. Das sind die Gründe.",
+      "url": "https://www.heise.de/tp/features/Verfassungsgericht-stoppt-Abstimmung-zu-Heizungsgesetz-vorerst-9208389.html",
+      "image_title": "Umstrittenes Heizungsgesetz wurde vom Gericht gestoppt."
     },
     {
       "title": "Ukraine-Krieg, Nato und Russland: Perverses Spiel mit der nuklearen Gefahr",
@@ -774,9 +776,9 @@
       "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Nato-und-Russland-Perverses-Spiel-mit-der-nuklearen-Gefahr-9208766.html"
     },
     {
-      "title": "Bud Light: Biertrinker falsch abgeholt",
-      "teaser": "Werbekampagne mit Transgender-Star geht daneben. Schäumende Entrüstung, Geschäft bricht ein. Kulturkampf-Boykott gewinnt. Fabriken schließen. Angestellte werden arbeitslos.",
-      "url": "https://www.heise.de/tp/features/Bud-Light-Biertrinker-falsch-abgeholt-9209052.html"
+      "title": "Wenn selbst progressive Stimmen Kriegs-Propaganda verbreiten",
+      "teaser": "Ein Fall in den USA zeigt: Der Ukraine-Krieg führt zu Kontroversen über alle Lager hinweg. Verunglimpfungen führen aber nur zu Streit. Warum sind Verhandlungen mit Russland für viele ein rotes Tuch?",
+      "url": "https://www.heise.de/tp/features/Wenn-selbst-progressive-Stimmen-Kriegs-Propaganda-verbreiten-9208224.html"
     },
     {
       "title": "VPN-Test 2024: Die besten VPN-Anbieter im Vergleich",
