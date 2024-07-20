@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-20T14:00:48",
+  "timestamp": "2024-07-20T15:00:53",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -26,19 +26,24 @@
   ],
   "articles": [
     {
-      "title": "CrowdStrike-Fiasko: Der Null Pointer ist Schuld",
-      "teaser": "Erste Analysen des Speicherfehlers zeigen ein grundlegendes Versagen seitens Crowdstrike.",
+      "title": "Details zum fatalen Update, BSI warnt vor Angriffen",
+      "teaser": "Das Channel File 291 hat weltweit für massive IT-Ausfälle gesorgt. Das BSI warnt unterdessen vor CrowdStrike-Phishing.",
+      "url": "https://www.heise.de/news/Crowdstrike-Fiasko-Neue-Details-zum-fatalen-Update-BSI-warnt-vor-Angriffen-9808106.html"
+    },
+    {
+      "title": "UpdateDer Null Pointer verursacht den Absturz",
+      "teaser": "Erste Analysen des Speicherfehlers zeigen ein grundlegendes Versagen seitens CrowdStrike.",
       "url": "https://www.heise.de/hintergrund/Fataler-Fehler-bei-CrowdStrike-Schuld-war-ein-Null-Pointer-9807896.html"
     },
     {
       "title": "IT-Firmen müssen stärker für ihre Fehler haften",
-      "teaser": "Firmen wie Crowdstrike müssen für fehlerhafte Updates zur Verantwortung gezogen werden, meint Security-Experte Jürgen Schmidt.",
+      "teaser": "Firmen wie CrowdStrike müssen für fehlerhafte Updates zur Verantwortung gezogen werden, meint Jürgen Schmidt.",
       "url": "https://www.heise.de/meinung/Fatales-Crowdstrike-Update-Wir-brauchen-mehr-Herstellerhaftung-9807499.html",
       "image_title": "Bluescreen-Fehler"
     },
     {
       "title": "Crowdstrike lässt IT-Systeme weltweit ausfallen",
-      "teaser": "Ein Software-Update hat weltweit Windows-Computer zum Absturz gebracht. Crowdstrike hat den Fehler gefunden und behoben.",
+      "teaser": "Ein Software-Update ließ weltweit Windows-Computer abstürzen. Crowdstrike hat den Fehler inzwischen behoben.",
       "url": "https://www.heise.de/news/Weltweiter-IT-Ausfall-Flughaefen-Banken-und-Geschaefte-betroffen-9806343.html",
       "image_title": "Koffer werden über ein Transportband in den Gepäckraum eines Passagierflugzeugs befördert."
     },
@@ -177,6 +182,22 @@
       "image_title": ", Alex / stock.adobe.com"
     },
     {
+      "title": "Faeser-Buschmann-Plan: Mit Staatstrojanern gegen Geldautomatensprenger",
+      "teaser": "Innen- und Justizministerium wollen mehr Überwachung im Kampf gegen Geldautomatensprengungen. Der versuchte Erwerb von Sprengstoff soll kriminalisiert werden.",
+      "url": "https://www.heise.de/news/Faeser-Buschmann-Plan-Mit-Staatstrojanern-gegen-Geldautomatensprenger-9808116.html",
+      "image_title": "Gesprengte Geldautomat"
+    },
+    {
+      "title": "RC-Flugzeug für Anfänger: Ferngesteuerte Flugmodelle von RTF bis Bausatz ab 35 €",
+      "teaser": "Der Traum vom Fliegen wird heute schon für überraschend wenig Geld wahr: mit einem ferngesteuerten Flugzeug. TechStage erklärt, was man beim Kauf beachten muss.",
+      "url": "https://www.techstage.de/ratgeber/rc-flugzeug-fuer-anfaenger-ferngesteuerte-flugmodelle-von-rtf-bis-bausatz-ab-35euro/cp46xj2?wt_mc=intern.red.techstage.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Onboarding: So wird das temporäre Passwort nicht zur Schwachstelle",
+      "teaser": "Die erste Anmeldung eines neuen Mitarbeiters im Firmennetz ist mit Sicherheitsrisiken verbunden. Doch es gibt zuverlässige Wege, die Vergabe und Änderung eines Initialpassworts sicherer zu gestalten. Und obendrein schneller und komfortabler.",
+      "url": "https://www.heise.de/solutions/specops/so-wird-das-temporaere-passwort-beim-onboarding-neuer-mitarbeiter-nicht-zur-schwachstelle/?source=nat_teas"
+    },
+    {
       "title": "Lebensmittel vom Automaten: Aldi und Rewe gehen neue Wege",
       "teaser": "Online bestellen und später am Automaten abholen – das funktioniert etwa bei Ikea, aber noch kaum im Lebensmittelhandel. Nun wagen sich Aldi und Rewe daran.",
       "url": "https://www.heise.de/news/Lebensmittel-vom-Automaten-Aldi-und-Rewe-gehen-neue-Wege-9808098.html",
@@ -187,11 +208,6 @@
       "teaser": "Das war kein entspannter Start in den Sommerurlaub. Die weltweite Computerpanne hatte Auswirkungen auf viele Flughäfen. Langsam beruhigt sich die Lage.",
       "url": "https://www.heise.de/news/Flugausfaelle-durch-CrowdStrike-Lage-beruhigt-sich-9807990.html",
       "image_title": "Landendes Flugeug"
-    },
-    {
-      "title": "Inference at the Edge: So lassen sich KI-Modelle in Echtzeit anwenden",
-      "teaser": "Der Einsatz lokaler KI-Modelle am Edge ist schneller als eine Cloud-Lösung, erhöht aber auch Komplexität und Angriffsfläche. Unternehmen müssen daher die richtigen Infrastrukturentscheidungen treffen, um eine KI am Edge sicher, leistungsstark und kosteneffizient bereitstellen zu können.",
-      "url": "https://www.heise.de/solutions/gcore/inference-at-the-edge-so-lassen-sich-ki-modelle-in-echtzeit-anwenden/?source=nat_teas"
     },
     {
       "title": "VanMoof S5 im Test: Smartes E-Bike mit Hollandrad-Feeling",
@@ -215,18 +231,6 @@
       "teaser": "Erfahren Sie, wie Angreifer Fehlkonfigurationen und mangelnde Härtung der Amazon Cloud ausnutzen und wie Sie AWS-Dienste und Cloud-Identitäten dagegen schützen.",
       "url": "https://www.heise.de/news/iX-Workshop-AWS-Sicherheit-Angriffe-erkennen-und-abwehren-9804351.html",
       "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
-    },
-    {
-      "title": "Der Aufstieg des Platform Engineering – das nächste große Ding?",
-      "teaser": "Platform Engineering etabliert sich als Antwort auf die steigende Komplexität beim Softwarebereitstellen und die hohe kognitive Belastung der Entwicklungsteams.",
-      "url": "https://www.heise.de/hintergrund/Der-Aufstieg-des-Platform-Engineering-das-naechste-grosse-Ding-9801125.html",
-      "image_title": "Der Aufstieg des Platform Engineering"
-    },
-    {
-      "title": "Developer Snapshots: Kleinere News der letzten Woche",
-      "teaser": "Die Übersicht enthält kleine, aber interessante Meldungen zu Pingora, Quarkus, GNU Automake, Crystal, Score, Slint, Visual Studio, Apache Arrow und Wine.",
-      "url": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-letzten-Woche-9806471.html",
-      "image_title": "Kopf von einem Mann auf blauem Hintergrund zu sehen, der sich selbst mit Blitzlicht fotografiert"
     },
     {
       "title": "UpdateE-MobilitätWas 100 Kilometer mit dem Elektroauto wirklich kosten",
@@ -254,6 +258,18 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 Euro sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Der Aufstieg des Platform Engineering – das nächste große Ding?",
+      "teaser": "Platform Engineering etabliert sich als Antwort auf die steigende Komplexität beim Softwarebereitstellen und die hohe kognitive Belastung der Entwicklungsteams.",
+      "url": "https://www.heise.de/hintergrund/Der-Aufstieg-des-Platform-Engineering-das-naechste-grosse-Ding-9801125.html",
+      "image_title": "Der Aufstieg des Platform Engineering"
+    },
+    {
+      "title": "Developer Snapshots: Kleinere News der letzten Woche",
+      "teaser": "Die Übersicht enthält kleine, aber interessante Meldungen zu Pingora, Quarkus, GNU Automake, Crystal, Score, Slint, Visual Studio, Apache Arrow und Wine.",
+      "url": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-letzten-Woche-9806471.html",
+      "image_title": "Kopf von einem Mann auf blauem Hintergrund zu sehen, der sich selbst mit Blitzlicht fotografiert"
     },
     {
       "title": "Duales Studium in Informatik: Der praxisnahe Weg in die IT-Branche",
@@ -318,6 +334,11 @@
       "image_title": "Bonn,,North,Rhine-westphalia,/,Germany,-,May,14,,2018:,Sign"
     },
     {
+      "title": "Digitale Souveränität und Datensicherheit – so klappt’s!",
+      "teaser": "Für ein Höchstmaß an digitaler Sicherheit braucht es zwei Voraussetzungen: Ohne digitale Souveränität und eine klare Funktionstrennung geht es nicht. Wir zeigen im Webcast, wie ein Unternehmen das erfolgreich umgesetzt hat.",
+      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/digitale-souveraenitaet-und-datensicherheit-so-klappts-4752/?source=hbsad-ersatz"
+    },
+    {
       "title": "Autonomes Fahren: Bund fördert 17 Projekte für Shuttle-Verkehr",
       "teaser": "Forschungs-, Verkehr- und Wirtschaftsministerium fördern Forschungsprojekte für autonomes Fahren. Die Regierung gibt dazu Auskunft.",
       "url": "https://www.heise.de/news/Autonomes-Fahren-Bund-foerdert-17-Projekte-fuer-Shuttle-Verkehr-9807251.html",
@@ -327,11 +348,6 @@
       "title": "Programmieren mit Julia, Teil 3: Big Data Science und GPUs",
       "teaser": "Julia enthält Bibliotheken und Frameworks für paralleles und verteiltes Rechnen. Prozesse für komplexe Berechnungen sind ohne großen Overhead durchführbar.",
       "url": "https://www.heise.de/ratgeber/Programmieren-mit-Julia-Teil-3-Big-Data-Science-und-GPUs-9794679.html"
-    },
-    {
-      "title": "So behalten Sie den Überblick im Endgeräte-Dschungel",
-      "teaser": "Wissen Sie, welche Endgeräte in Ihrem Unternehmen wo im Einsatz und wie sicher diese sind? Wenn Sie diese Fragen nicht mit „Ja“ beantworten können, dann haben Sie ein Problem. Wie Sie das lösen können, erfahren Sie in dieser Webcast-Aufzeichnung.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/so-behaelt-die-it-den-ueberblick-im-endgeraete-dschungel-4741/?source=hbsad-ersatz"
     },
     {
       "title": "Bürgerrechtler: EU darf geplanter UN-Cybercrime-Konvention nicht zustimmen​",
@@ -378,18 +394,6 @@
       "title": "AlertSolarWinds Access Rights Manager: Angreifer mit Systemrechten und Schadcode",
       "teaser": "Die Entwickler haben in SolarWinds ARM acht kritische Sicherheitslücken geschlossen.",
       "url": "https://www.heise.de/news/SolarWinds-Access-Rights-Manager-Angreifer-mit-Systemrechten-und-Schadcode-9806431.html"
-    },
-    {
-      "title": "watchOS 11: Wie die neue Vitalwerte-App funktioniert",
-      "teaser": "Apple möchte, dass mehr Nutzer ihre Watch auch nachts tragen. Dabei könnten wichtige Gesundheitsdaten gewonnen werden, so der Konzern – mit einer neuen App.",
-      "url": "https://www.heise.de/news/watchOS-11-Wie-die-neue-Vitalwerte-App-funktioniert-9805119.html",
-      "image_title": "Vitals-App von Apple"
-    },
-    {
-      "title": "eSIM und Dual-SIM auf iPhones optimal nutzen: 7 Tipps für mehr Mobilfunk",
-      "teaser": "Mit eSIM und Dual-SIM kann jeder flexibel in verschiedenen Netzen funken, auf Reisen surfen, die bestmögliche Datenverbindung nutzen und Geld sparen.",
-      "url": "https://www.heise.de/ratgeber/eSIM-und-Dual-SIM-auf-iPhones-optimal-nutzen-7139657.html",
-      "image_title": "iPhone mit eSIM"
     },
     {
       "title": "Weltweiter IT-Ausfall: Betrieb wird wieder aufgenommen",
@@ -460,6 +464,11 @@
       "image_title": "Stilisiertes Blatt mit Stempel \"Vorsicht Kunde!\""
     },
     {
+      "title": "watchOS 11: Wie die neue Vitalwerte-App funktioniert",
+      "url": "https://www.heise.de/news/watchOS-11-Wie-die-neue-Vitalwerte-App-funktioniert-9805119.html",
+      "image_title": "Vitals-App von Apple"
+    },
+    {
       "title": "iPhone-15-Speichererweiterung mit Bildschirm und Magnet",
       "url": "https://www.heise.de/news/iPhone-15-Speichererweiterung-mit-Bildschirm-und-Magnet-9805081.html",
       "image_title": "USB-C Magnetic Extended Storage for iPhone 15"
@@ -468,11 +477,6 @@
       "title": "iPod mit Apple Watch wiederbelebt: Der TinyPod ist da",
       "url": "https://www.heise.de/news/iPod-mit-Apple-Watch-wiederbelebt-Der-TinyPod-ist-da-9804317.html",
       "image_title": "Der TinyPod in drei Größen"
-    },
-    {
-      "title": "Super Mighty: Kompaktes Cargobike mit Turbo-Boost",
-      "url": "https://www.heise.de/news/Super-Mighty-Kompaktes-Cargobike-mit-Turbo-Boost-9806376.html",
-      "image_title": "Super Mighty"
     },
     {
       "title": "Survival-MMO \"Once Human\": 10 Jahre Sperre für 430 Cheater",
@@ -625,22 +629,28 @@
       "image_title": ","
     },
     {
-      "title": "Apples neue SystemeiOS und iPadOS 18, macOS 15 und watchOS 11 ausprobiert",
-      "teaser": "Mehr Personalisierung, Flexibilität und Schutz: iOS und iPadOS 18 liefern sinnvolle Neuerungen, ebenso wie macOS 15 und watchOS 11 – auch außerhalb der KI.",
-      "url": "https://www.heise.de/hintergrund/Apples-neue-Systeme-iOS-und-iPadOS-18-macOS-15-und-watchOS-11-ausprobiert-9802670.html",
-      "image_title": "Icons von iOS und iPadOS 18, macOS 15 und watchOS 11"
+      "title": "Super Mighty: Kompaktes Cargobike mit Turbo-Boost",
+      "teaser": "E-Lastenräder sind oft sehr groß und ziemlich teuer. Kompakte Cargobikes wie das Super Mighty reihen sich in beiden Punkten am anderen Ende der Skala ein.",
+      "url": "https://www.heise.de/news/Super-Mighty-Kompaktes-Cargobike-mit-Turbo-Boost-9806376.html",
+      "image_title": "Super Mighty"
     },
     {
-      "title": "eSIM und Dual-SIM auf iPhones optimal nutzen: 7 Tipps für mehr Mobilfunk",
-      "teaser": "Mit eSIM und Dual-SIM kann jeder flexibel in verschiedenen Netzen funken, auf Reisen surfen, die bestmögliche Datenverbindung nutzen und Geld sparen.",
-      "url": "https://www.heise.de/ratgeber/eSIM-und-Dual-SIM-auf-iPhones-optimal-nutzen-7139657.html",
-      "image_title": "iPhone mit eSIM"
+      "title": "Besser multi, oder was?Ladestationen für iPhone, Apple Watch und mehr im Test",
+      "teaser": "Sie sehen schick aus und betanken ohne Kabelsalat iPhone, Apple Watch und AirPods gleichzeitig – Dreifach-Ladestationen ab 23 Euro. Doch was taugen sie?",
+      "url": "https://www.heise.de/tests/Ladestationen-fuer-iPhone-Apple-Watch-und-mehr-im-Test-Besser-multi-oder-was-9793578.html",
+      "image_title": ","
     },
     {
       "title": "Ausführlicher TestApple Vision Pro: Wackeliger Blick in die Zukunft",
       "teaser": "Apple hat ein in vielerlei Hinsicht beeindruckendes Mixed-Reality-Headset gebaut. Wie sich die Vision Pro im Praxiseinsatz schlägt.",
       "url": "https://www.heise.de/tests/Apple-Vision-Pro-im-ausfuehrlichen-Test-Wackliger-Blick-in-die-Zukunft-9629236.html",
       "image_title": "Mann trägt Vision Pro"
+    },
+    {
+      "title": "Für Mac und iPhone Rechner-App Soulver 3 im Test",
+      "teaser": "Soulver 3 löst mathematische Probleme, rechnet Einheiten um und nutzt nun auch KI-Antworten. Unser Test.",
+      "url": "https://www.heise.de/tests/Verstaendiger-Alltagsrechner-Soulver-3-fuer-Mac-und-iPhone-im-Test-9793545.html",
+      "image_title": "Soulver 3 auf dem Mac"
     },
     {
       "title": "IoT- und Elektronik-Lernkit von Arduino",
@@ -754,19 +764,20 @@
       "url": "https://www.techstage.de/bestenliste/top-10-die-besten-balkonkraftwerke-von-extrem-leicht-bis-besonders-stark/ywhkvwx?wt_mc=intern.red.techstage.techstage_buehne.startseite.buehne.buehne#nav-ring-6"
     },
     {
-      "title": "Streiter für die wahre Demokratie? Lanz kanzelt Aiwanger ab",
-      "teaser": "Mediensplitter (32): Der TV-Moderator macht vor, wie leicht es ist, Etiketten zu verteilen und den Platzanweiser zu spielen. Die AfD steht als Elefant im Raum. Gefährlich ist nicht nur der Populismus.",
-      "url": "https://www.heise.de/tp/features/Streiter-fuer-die-wahre-Demokratie-Lanz-kanzelt-Aiwanger-ab-9207988.html"
-    },
-    {
       "title": "Russische Bewegung für Kriegsdienstverweigerug als \"ausländischer Agent\" eingestuft",
       "teaser": "Wehrdienstflüchtige aus Russland haben wenig Chancen auf Asyl in der EU. Es mangelt an legalen Einreisewegen. Der Kreml geht dennoch von Verbrüderung aus.",
       "url": "https://www.heise.de/tp/features/Russische-Bewegung-fuer-Kriegsdienstverweigerug-als-auslaendischer-Agent-eingestuft-9207406.html"
     },
     {
-      "title": "Ukraine-Krieg, Nato und Russland: Perverses Spiel mit der nuklearen Gefahr",
-      "teaser": "Die Zeichen stehen auf Eskalation. Die größte Bedrohung wird im Westen leichtfertig abgetan. Wie dramatisch die Zuspitzung ist, zeigt ein Abgleich der Debatte mit der Lage Ende 2018.",
-      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Nato-und-Russland-Perverses-Spiel-mit-der-nuklearen-Gefahr-9208766.html"
+      "title": "Verfassungsgericht stoppt Abstimmung zu Heizungsgesetz vorerst",
+      "teaser": "Rückschlag für die Ampel: Das umstrittene Gesetz darf in dieser Woche nicht beschlossen werden. Damit gab es dem Antrag eines CDU-Abgeordneten statt. Das sind die Gründe.",
+      "url": "https://www.heise.de/tp/features/Verfassungsgericht-stoppt-Abstimmung-zu-Heizungsgesetz-vorerst-9208389.html",
+      "image_title": "Umstrittenes Heizungsgesetz wurde vom Gericht gestoppt."
+    },
+    {
+      "title": "Wie der Verfassungsschutz in die Meinungsfreiheit eingreift",
+      "teaser": "Der deutsche Inlandsgeheimdienst wird zunehmend zum politischen Akteur. Macht sich Behördenchef Haldenwang einer strafbaren Nötigung im Amt schuldig? Und was hat das mit Orwells \"1984\" zu tun?",
+      "url": "https://www.heise.de/tp/features/Wie-der-Verfassungsschutz-in-die-Meinungsfreiheit-eingreift-9206508.html"
     },
     {
       "title": "Usenet-Anbieter: So finden Sie den besten Provider",
