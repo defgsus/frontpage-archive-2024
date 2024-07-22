@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-22T09:08:29",
+  "timestamp": "2024-07-22T10:07:12",
   "url": "https://www.welt.de/regionales/",
   "response": {
     "status": 200
@@ -25,6 +25,20 @@
     }
   ],
   "articles": [
+    {
+      "title": "„Wetterfühligkeit ist keine Einbildung“",
+      "teaser": "In diesem Sommer wechseln sich sehr warme, regnerische und kühle Tage in rasantem Tempo ab – mit Folgen für viele Menschen, die diese Achterbahnfahrt nur schwer ertragen. Ein Wissenschaftler aus Hamburg beschreibt das Phänomen und gibt Tipps.",
+      "url": "https://www.welt.de/regionales/hamburg/",
+      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile252636468/8987939117-ci23x11-w20/Erschoepfte-junge-Frau-nach-dem-Fitnesstraining-mit-Wasserflasche-in-der-Hand.jpg",
+      "image_title": "Viel Wasser zu trinken – oder sich den Kopf damit zu kühlen – ist schonmal eine gute Idee"
+    },
+    {
+      "title": "Vier Verdächtige schon wieder auf freiem Fuß",
+      "teaser": "An einer Volkshochschule in Wedel bei Hamburg wird ein Dozent niedergestochen. Lebensgefährlich verletzt kommt er ins Krankenhaus. Vier aus Syrien stammende Brüder stehen im Zentrum der Ermittlungen – doch in Untersuchungshaft bleiben müssen sie nicht.",
+      "url": "https://www.welt.de/regionales/hamburg/",
+      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile252636168/3677937387-ci23x11-w20/Lehrkraft-auf-Parkplatz-niedergestochen.jpg",
+      "image_title": "Auf dem Gelände dieser Volkshochschule in Wedel bei Hamburg wurde die Lehrkraft niedergestochen"
+    },
     {
       "title": "Alexander Zverev verliert im Marathon-Finale knapp",
       "teaser": "Alexander Zverev kann seinen Titel beim Heimturnier nicht erfolgreich verteidigen. Der starke Franzose Arthur Fils und scheinbar gesundheitliche Probleme verhindern einen erneuten Erfolg. Im entscheidenen Tiebreak ging nichts mehr. Aber es gibt auch deutsche Sieger.",
@@ -60,21 +74,6 @@
       "url": "https://www.welt.de/regionales/hamburg/",
       "image_url": "https://img.welt.de/img/regionales/hamburg/mobile252623000/4137934797-ci23x11-w20/Tennis-ATP-Tour-Hamburg.jpg",
       "image_title": "Alexander Zverev kann erneut in seiner Heimatstadt Hamburg gewinnen"
-    },
-    {
-      "title": "Queeres Netzwerk zeichnet Publizistin Carolin Emcke aus",
-      "teaser": "Sie setze sich mit Gewalt und Trauma, Rassismus und Sexualität auseinander und bekämpfe Diskriminierung – dafür zeichnete das „Queere Netzwerk NRW“ die Publizistin Carolin Emcke beim Christoper Street Day aus. Dort wurde eine zunehmende Queerfeindlichkeit beklagt.",
-      "url": "https://www.welt.de/kultur/",
-      "image_url": "https://img.welt.de/img/newsticker/dpa_nt/infoline_nt/boulevard_nt/mobile250108078/0057936827-ci23x11-w20/Carolin-Emcke.jpg",
-      "image_title": "Carolin Emcke ist als Kriegsreporterin, Essayistin und literarische Philosophin bekannt"
-    },
-    {
-      "title": "Die „Mocro-Mafia“ ist in Deutschland angekommen",
-      "teaser": "Das brutale Auftreten der „Mocro-Mafia“ hierzulande führt vor Augen, wie schwer sich die Politik noch immer tut, organisierte Kriminelle aus dem Ausland zu bekämpfen. Immerhin: Mittlerweile werden die Probleme beim Namen genannt.",
-      "url": "https://www.welt.de/regionales/nrw/plus252572434/Auslaenderkriminalitaet-Mocro-Mafia-ist-in-Deutschland-angekommen.html",
-      "image_url": "https://img.welt.de/img/regionales/nrw/mobile252572966/5087931967-ci23x11-w20/NETHERLANDS-INTRODUCTORY-SESSION-RIDOUAN-TAGHI.jpg",
-      "image_title": "Auf dem Foto sieht man einen mit Helm und Waffe ausgestatteten niederländischen Polizisten vor einem Gerichtsgebäude in Amsterdam, in dem ein Prozess gegen Vertreter der Mocro-Mafia stattfindet.",
-      "author": "Till-Reimer Stoldt"
     },
     {
       "title": "Lieferando-Gutschein",
@@ -181,10 +180,23 @@
       "image_title": "Robert Crumbach, Landesvorsitzender des Bündnis Sahra Wagenknecht (BSW) in Brandenburg"
     },
     {
+      "title": "Queeres Netzwerk zeichnet Publizistin Carolin Emcke aus",
+      "teaser": "Sie setze sich mit Gewalt und Trauma, Rassismus und Sexualität auseinander und bekämpfe Diskriminierung – dafür zeichnete das „Queere Netzwerk NRW“ die Publizistin Carolin Emcke beim Christoper Street Day aus. Dort wurde eine zunehmende Queerfeindlichkeit beklagt.",
+      "url": "https://www.welt.de/kultur/",
+      "image_url": "https://img.welt.de/img/newsticker/dpa_nt/infoline_nt/boulevard_nt/mobile250108078/0057936827-ci16x9-w20/Carolin-Emcke.jpg",
+      "image_title": "Carolin Emcke ist als Kriegsreporterin, Essayistin und literarische Philosophin bekannt"
+    },
+    {
+      "title": "Die „Mocro-Mafia“ ist in Deutschland angekommen",
+      "url": "https://www.welt.de/regionales/nrw/plus252572434/Auslaenderkriminalitaet-Mocro-Mafia-ist-in-Deutschland-angekommen.html",
+      "image_url": "https://img.welt.de/img/regionales/nrw/mobile252572966/5087931967-ci102l-w20/NETHERLANDS-INTRODUCTORY-SESSION-RIDOUAN-TAGHI.jpg",
+      "image_title": "Auf dem Foto sieht man einen mit Helm und Waffe ausgestatteten niederländischen Polizisten vor einem Gerichtsgebäude in Amsterdam, in dem ein Prozess gegen Vertreter der Mocro-Mafia stattfindet.",
+      "author": "Till-Reimer Stoldt"
+    },
+    {
       "title": "Ehepaar auf A3-Raststätte mit Messer angegriffen und schwer verletzt",
-      "teaser": "Auf einem Autobahn-Rastplatz in Nordrhein-Westfalen ist es zu einer brutalen Attacke gekommen: Ein Ehepaar wurde von mehreren Männern schwer verletzt. Die Frau und der Mann liegen im Krankenhaus.",
-      "url": "https://www.welt.de/vermischtes/",
-      "image_url": "https://img.welt.de/img/vermischtes/mobile252582296/8767936657-ci16x9-w20/Mann-nach-Messerangriff-lebensgefaehrlich-verletzt.jpg",
+      "url": "https://www.welt.de/vermischtes/article252582056/Bad-Honnef-Ehepaar-auf-Autobahn-Raststaette-mit-Messer-angegriffen.html",
+      "image_url": "https://img.welt.de/img/vermischtes/mobile252582296/8767936657-ci102l-w20/Mann-nach-Messerangriff-lebensgefaehrlich-verletzt.jpg",
       "image_title": "Mann nach Messerangriff lebensgefährlich verletzt"
     },
     {
@@ -199,19 +211,6 @@
       "image_url": "https://img.welt.de/img/regionales/nrw/mobile252487172/2807932807-ci102l-w20/Domkaree-Dom-Hotel-Koeln-Renederings.jpg",
       "image_title": "Rendering des künftigen Dom-Hotels - rechts im Bild: der Kölner Dom",
       "author": "Andreas Fasel"
-    },
-    {
-      "title": "„Jedem kann ein verbaler Ausrutscher passieren!“",
-      "url": "https://www.welt.de/regionales/nrw/article252499132/Herbert-Reul-und-die-Polizei-Jedem-kann-ein-verbaler-Ausrutscher-passieren.html",
-      "image_url": "https://img.welt.de/img/regionales/nrw/mobile252500140/8297930867-ci102l-w20/Bundeskanzler-Olaf-Scholz-besucht-das-International-Police-Cooper-2.jpg",
-      "image_title": "Auf dem Foto sieht man NRW-Innenminister Herbert Reul im Gespräch mit Polizisten, die während der Fußball-EM für Ordnung sorgen",
-      "author": "Till-Reimer Stoldt"
-    },
-    {
-      "title": "Tödliche Attacke in Bad Oeynhausen – Philippos T. wurde beigesetzt",
-      "url": "https://www.welt.de/vermischtes/article252510642/Trauer-um-20-Jaehrigen-Toedliche-Attacke-in-Bad-Oeynhausen-Philippos-T-wurde-beigesetzt.html",
-      "image_url": "https://img.welt.de/img/vermischtes/mobile252510690/3837932527-ci102l-w20/Nach-Angriff-in-Kurpark-von-Bad-Oeynhausen.jpg",
-      "image_title": "Blumen und Kerzen stehen nach der Gewalttat in Bad Oeynhausen an einem Baum"
     },
     {
       "title": "Im Frankenwald am ehemaligen Todesstreifen unterwegs",
@@ -426,6 +425,54 @@
       "author": "Philipp Woldin"
     },
     {
+      "title": "Terrorprozess in Dresden - Angeklagter Iraker schweigt",
+      "url": "https://www.welt.de/regionales/sachsen/article252637224/Terrorprozess-in-Dresden-Angeklagter-Iraker-schweigt.html"
+    },
+    {
+      "title": "„Wetterfühligkeit ist keine Einbildung“",
+      "url": "https://www.welt.de/regionales/hamburg/article252636470/Sommer-Wetterfuehligkeit-ist-keine-Einbildung.html"
+    },
+    {
+      "title": "Betrunkener Autofahrer beleidigt Polizisten und randaliert",
+      "url": "https://www.welt.de/regionales/bayern/article252636988/Betrunkener-Autofahrer-beleidigt-Polizisten-und-randaliert.html"
+    },
+    {
+      "title": "Kammern haben noch 1000 freie Ausbildungsplätze",
+      "url": "https://www.welt.de/regionales/thueringen/article252636920/Kammern-haben-noch-1000-freie-Ausbildungsplaetze.html"
+    },
+    {
+      "title": "Überfall auf Juwelier - Mütze am Tatort verloren",
+      "url": "https://www.welt.de/regionales/berlin/article252636644/Ueberfall-auf-Juwelier-Muetze-am-Tatort-verloren.html"
+    },
+    {
+      "title": "Teilsperrung der U1 hat begonnen",
+      "url": "https://www.welt.de/regionales/hamburg/article252636634/Teilsperrung-der-U1-hat-begonnen.html"
+    },
+    {
+      "title": "Betrunkener legt Feuer - Sträucher und Bäume brennen",
+      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article252636624/Betrunkener-legt-Feuer-Straeucher-und-Baeume-brennen.html"
+    },
+    {
+      "title": "Vier Verdächtige schon wieder auf freiem Fuß",
+      "url": "https://www.welt.de/regionales/hamburg/article252636172/Messerangriff-in-Wedel-Vier-Verdaechtige-schon-wieder-auf-freiem-Fuss.html"
+    },
+    {
+      "title": "Polizei ermittelt nach Balkonsturz von 34-Jähriger",
+      "url": "https://www.welt.de/regionales/niedersachsen/article252636502/Polizei-ermittelt-nach-Balkonsturz-von-34-Jaehriger.html"
+    },
+    {
+      "title": "Viele Betriebe beschäftigen keine Schwerbehinderten",
+      "url": "https://www.welt.de/regionales/sachsen-anhalt/article252636480/Viele-Betriebe-beschaeftigen-keine-Schwerbehinderten.html"
+    },
+    {
+      "title": "Toter Mann aus Badesee geborgen",
+      "url": "https://www.welt.de/regionales/sachsen/article252636424/Toter-Mann-aus-Badesee-geborgen.html"
+    },
+    {
+      "title": "Im Mai haben wieder mehr Menschen in Hamburg übernachtet",
+      "url": "https://www.welt.de/regionales/hamburg/article252636428/Im-Mai-haben-wieder-mehr-Menschen-in-Hamburg-uebernachtet.html"
+    },
+    {
       "title": "Wegen Vergewaltigung verurteilter Arzt erneut vor Gericht",
       "url": "https://www.welt.de/regionales/bayern/article252635402/Wegen-Vergewaltigung-verurteilter-Arzt-erneut-vor-Gericht.html"
     },
@@ -504,46 +551,6 @@
     {
       "title": "Senatsverwaltung kündigt Prüfstelle für Mietwucher an",
       "url": "https://www.welt.de/regionales/berlin/article252632842/Senatsverwaltung-kuendigt-Pruefstelle-fuer-Mietwucher-an.html"
-    },
-    {
-      "title": "Motorradfahrer schwer verletzt - A24 nach Hamburg zu",
-      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article252632784/Motorradfahrer-schwer-verletzt-A24-nach-Hamburg-zu.html"
-    },
-    {
-      "title": "Brand in Garagenkomplex in Chemnitz-Ebersdorf",
-      "url": "https://www.welt.de/regionales/sachsen/article252632794/Brand-in-Garagenkomplex-in-Chemnitz-Ebersdorf.html"
-    },
-    {
-      "title": "Sonne macht sich rar zum Wochenstart",
-      "url": "https://www.welt.de/regionales/berlin/article252632724/Sonne-macht-sich-rar-zum-Wochenstart.html"
-    },
-    {
-      "title": "Bahn schickt vier Monate lang weniger ICE auf die Strecke",
-      "url": "https://www.welt.de/regionales/nrw/article252632720/Bahn-schickt-vier-Monate-lang-weniger-ICE-auf-die-Strecke.html"
-    },
-    {
-      "title": "Wehr in der Sächsischen Schweiz wird abgebaut",
-      "url": "https://www.welt.de/regionales/sachsen/article252632628/Wehr-in-der-Saechsischen-Schweiz-wird-abgebaut.html"
-    },
-    {
-      "title": "27-Jähriger nach Badeunfall gestorben",
-      "url": "https://www.welt.de/regionales/niedersachsen/article252632624/27-Jaehriger-nach-Badeunfall-gestorben.html"
-    },
-    {
-      "title": "Unfall mit verletztem Baby - womöglich rote Ampel missachtet",
-      "url": "https://www.welt.de/regionales/hessen/article252632556/Unfall-mit-verletztem-Baby-womoeglich-rote-Ampel-missachtet.html"
-    },
-    {
-      "title": "BVB-Coach Sahin: Wer Basics nicht macht, spielt nicht",
-      "url": "https://www.welt.de/regionales/nrw/article252632508/BVB-Coach-Sahin-Wer-Basics-nicht-macht-spielt-nicht.html"
-    },
-    {
-      "title": "E-Scooter-Akku explodiert - Feuer in Mehrfamilienhaus",
-      "url": "https://www.welt.de/regionales/hessen/article252632490/E-Scooter-Akku-explodiert-Feuer-in-Mehrfamilienhaus.html"
-    },
-    {
-      "title": "Zahl der Biobauernhöfe in Niedersachsen steigt",
-      "url": "https://www.welt.de/regionales/niedersachsen/article252632486/Zahl-der-Biobauernhoefe-in-Niedersachsen-steigt.html"
     },
     {
       "title": "Alexander Zverev verliert im Marathon-Finale knapp",
@@ -656,14 +663,6 @@
     {
       "title": "Auf der Ostsee-Insel Poel weitet sich der Blick",
       "url": "https://www.welt.de/reise/ostsee/article252559908/Mecklenburg-Vorpommern-Auf-der-Ostsee-Insel-Poel-weitet-sich-der-Blick.html"
-    },
-    {
-      "title": "Das Knie schmerzt, aber es hält",
-      "url": "https://www.welt.de/regionales/hamburg/article252578570/Zverev-am-Rothenbaum-Das-Knie-schmerzt-aber-es-haelt.html"
-    },
-    {
-      "title": "Bei Dacharbeiten eingesetzt – 17-Jähriger stirbt nach Sturz von Dach",
-      "url": "https://www.welt.de/regionales/hamburg/article252577842/Hamburg-Bei-Dacharbeiten-eingesetzt-17-Jaehriger-stirbt-nach-Sturz-von-Dach.html"
     },
     {
       "title": "Funde aus alten Ozeanen",
