@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-23T10:00:38",
+  "timestamp": "2024-07-23T11:01:01",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,15 +26,51 @@
   ],
   "articles": [
     {
+      "title": "So ermittelt die c't Benchmarks für Tests: Festplatten & SSDs",
+      "teaser": "Benchmarks sind die Grundlage eines jeden c’t-Tests für die Bewertung eines Produkts. Wir beschreiben, welche Programme wir bei welchen Produkten einsetzen.",
+      "url": "https://www.heise.de/hintergrund/So-ermittelt-die-c-t-Benchmarks-fuer-Tests-Festplatten-SSDs-9806435.html",
+      "image_title": ","
+    },
+    {
       "title": "Sechs SATA-SSDs im Test",
       "teaser": "SATA-SSDs sind zwar längst nicht so schnell wie ihre Verwandten mit PCIe-Schnittstelle, aber einfach nicht totzukriegen. Wir testen sechs aktuelle Modelle.",
       "url": "https://www.heise.de/tests/Sechs-SATA-SSDs-im-Test-9805217.html",
       "image_title": ","
     },
     {
-      "title": "Kurztests: Externe Festplatte, externe SSD und MicroSD-Karte mit viel Speicher",
-      "teaser": "Externen Speicher kann man für wichtige Dateien immer gebrauchen. Wir haben eine externe Festplatte, eine SSD und eine MicroSD mit viel Speicher getestet.",
-      "url": "https://www.heise.de/tests/Kurztests-Externe-Festplatte-externe-SSD-und-MicroSD-Karte-mit-viel-Speicher-9804663.html"
+      "title": "Neue Rust-Bibliothek bietet einfache und sichere Datums- und Zeitfunktionen",
+      "teaser": "Die neue Rust-Bibliothek Jiff vereinfacht den Umgang mit Datum und Zeit unter Rust, inklusive internationaler Zeitzonen und der Sommerzeit.",
+      "url": "https://www.heise.de/news/Neue-Rust-Bibliothek-bietet-einfache-und-sichere-Datums-und-Zeitfunktionen-9810188.html"
+    },
+    {
+      "title": "KI-Ampel in Essenbach verärgert Autofahrer",
+      "teaser": "Rund drei Monate ist die KI-Ampel in Essenbach nun in Betrieb. Autos machen lieber einen großen Bogen um die Kreuzung. Verantwortliche bitten um Geduld.",
+      "url": "https://www.heise.de/news/KI-Ampel-in-Essenbach-veraergert-Autofahrer-9810365.html",
+      "image_title": "Die Ampelkreuzung, an der sich an der Seitenstraße Autos stauen"
+    },
+    {
+      "title": "Apple \"News\" und \"Stocks\": Werbung von umstrittenem Anbieter Taboola",
+      "teaser": "Taboola ist für seine Linkkästen bekannt. In zwei Apple-Apps ist die Firma nun Werbepartner, allerdings offenbar nur in drei Märkten.",
+      "url": "https://www.heise.de/news/Bericht-Apple-arbeitet-bei-News-und-Stocks-App-mit-umstrittener-Werbefirma-9809886.html",
+      "image_title": "Digitaler Werbestress"
+    },
+    {
+      "title": "Prozessor-Abstürze: Intel entdeckt weiteren Fehler",
+      "teaser": "Die Stabilitätsprobleme bei Core i-13000/14000-CPUs soll laut Intel ein Fehler im Microcode verursachen. Das scheint aber nicht die ganze Wahrheit zu sein.​",
+      "url": "https://www.heise.de/news/Prozessor-Abstuerze-Intel-entdeckt-weiteren-Fehler-9810269.html",
+      "image_title": "Intels CPU-Topmodell Core i9-13900K aus der Raptor-Lake-Generation."
+    },
+    {
+      "title": "iX-Workshop: NIS 2: Anforderungen und Vorgaben",
+      "teaser": "Erhalten Sie praxisnahe Einblicke in die effektive Umsetzung von NIS2 und dem deutschen NIS2UmsuCG. (10% Rabatt bis 11.08.)",
+      "url": "https://www.heise.de/news/iX-Workshop-NIS-2-Anforderungen-und-Vorgaben-9788456.html",
+      "image_title": "iX-Workshop: Cybersicherheit – Awareness richtig gemacht"
+    },
+    {
+      "title": "Backuplösung Data Protection Advisor von Dell vielfältig angreifbar",
+      "teaser": "Dell hat mehrere Sicherheitslücken in Data Protection Advisor geschlossen. Es kann Schadcode auf Systeme gelangen.",
+      "url": "https://www.heise.de/news/Backuploesung-Data-Protection-Advisor-von-Dell-vielfaeltig-angreifbar-9810281.html",
+      "image_title": "Stilisiertes Bild: Ein Stapel brennender Appliances"
     },
     {
       "title": "Security-Dienstleister Wiz schlägt 23-Milliarden-Angebot von Google aus",
@@ -87,41 +123,6 @@
       "title": "Crowdstrike wird vorgeladen: Homeland Security will IT-Ausfälle analysieren",
       "teaser": "Die weltweiten IT-Ausfälle durch einen Fehler im Update von Crowdstrike sorgen die US-Behörden. Sie fordern komplette Aufklärung.",
       "url": "https://www.heise.de/news/Crowdstrike-wird-vorgeladen-Homeland-Security-will-IT-Ausfaelle-analysieren-9809935.html"
-    },
-    {
-      "title": "So nicht: Wie sich ein Netzbetreiber in den Totalausfall manövriert hat",
-      "teaser": "26 Stunden lang sind die Kunden eines großen Netzbetreibers offline. Damit auch Notruf, Banken, Kassen. 2 Jahre später wird deutlich, was schiefgelaufen ist.​",
-      "url": "https://www.heise.de/hintergrund/Netz-Management-fuer-Dummies-Analyse-eines-Totalausfalls-9808767.html",
-      "image_title": "Antennen auf einem Masten"
-    },
-    {
-      "title": "iOS 17.6 im Anflug: Vermutlich noch diese Woche",
-      "teaser": "Apple bereitet nach einer Betaphase iOS 17.6 zum Download vor. Auch die anderen Betriebssysteme bekommen eine Aktualisierung.",
-      "url": "https://www.heise.de/news/iOS-17-6-im-Anflug-Vermutlich-noch-diese-Woche-9809286.html",
-      "image_title": "Sechs iPhones mit verschiedenen geöffneten Apps liegen horizontal und vertikal angeordnet nebeneinander"
-    },
-    {
-      "title": "iX-Workshop: Sicher in die Public Cloud – Azure & Co. effektiv absichern",
-      "teaser": "Nutzen Sie die Public Cloud sicher und datenschutzkonform und entwickeln Sie Ihren eigenen Leitfaden für Ihr Unternehmen. (10% Rabatt bis 05.08.)",
-      "url": "https://www.heise.de/news/iX-Workshop-Sicher-in-die-Public-Cloud-Azure-Co-effektiv-absichern-9806713.html",
-      "image_title": "iX-Workshop Sichere Nutzung der Public Cloud"
-    },
-    {
-      "title": "IT-Störung: Klinikum Stuttgart verschiebt Operationen",
-      "teaser": "Eine großflächige IT-Störung beeinträchtigt der Betrieb im Klinikum Stuttgart.",
-      "url": "https://www.heise.de/news/IT-Stoerung-im-Klinkum-Stuttgart-Klinikbetrieb-laeuft-langsam-wieder-an-9809312.html",
-      "image_title": "Haus F des Klinikum Stuttgart"
-    },
-    {
-      "title": "Die Produktwerker: Wie kann ein Scrum Master den Product Owner unterstützen?",
-      "teaser": "In welcher Weise können Scrum Master ihre Product Owner wirkungsvoll unterstützen? Darüber diskutiert Alexander Kylburg in dieser Podcastfolge mit Tim Klein.",
-      "url": "https://www.heise.de/blog/Die-Produktwerker-Wie-kann-ein-Scrum-Master-den-Product-Owner-unterstuetzen-9809170.html",
-      "image_title": "Produktwerker auf einem Bild (3 Männer), dazu Text \"Der Podcast für Product Owner\""
-    },
-    {
-      "title": "c't-Workshop: 3D im Web",
-      "teaser": "Moderne Browser können mehr darstellen als Text und Bild. Im Workshop lernen Sie Grundlagen und Best Practices für die Umsetzung interaktiver 3D-Szenen im Web.",
-      "url": "https://www.heise.de/news/c-t-Workshop-3D-im-Web-9800974.html"
     },
     {
       "title": "Bist du auf der Suche nach verlässlichen und unabhängigen IT-Anbieterbewertungen?",
