@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-24T09:01:58",
+  "timestamp": "2024-07-24T10:01:02",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Siemens SICAM",
+      "url": "https://www.heise.de/news/Siemens-SICAM-Angreifer-koennen-Admin-Passwort-zuruecksetzen-9811441.html"
+    },
+    {
       "title": "JetBrain TeamCity",
       "url": "https://www.heise.de/news/Software-Distributionssystem-TeamCity-erinnert-sich-an-geloeschte-Zugangstoken-9810746.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/BIOS-Sicherheitsluecke-gefaehrdet-unzaehlige-HP-PCs-9809134.html"
     },
     {
-      "title": "Sonicwall Firewall",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Sonicwall-Firewalls-lahmlegen-9808904.html"
+      "title": "Siemens SICAM: Angreifer können Admin-Passwort zurücksetzen",
+      "teaser": "SCADA-Systeme der SICAM-Reihe von Siemens kommen in kritischen Infrastrukturen zum Einsatz. Sicherheitsupdates schließen eine kritische Lücke.",
+      "url": "https://www.heise.de/news/Siemens-SICAM-Angreifer-koennen-Admin-Passwort-zuruecksetzen-9811441.html",
+      "image_title": "Umspannwerk in Bremen​"
     },
     {
       "title": "iX-Workshop: IT-Sicherheit nach ISO 27001 – Herausforderungen und Chancen",
@@ -153,12 +159,6 @@
       "teaser": "Ein kaputtes Crowdstrike-Update legt große Teile der IT-Welt lahm. Hersteller müssen für Fehler Verantwortung tragen, meint Security-Experte Jürgen Schmidt.",
       "url": "https://www.heise.de/meinung/Fatales-Crowdstrike-Update-Wir-brauchen-mehr-Herstellerhaftung-9807499.html",
       "image_title": "Bluescreen-Fehler"
-    },
-    {
-      "title": "BSI bestätigt zum Crowdstrike-Ausfall: Es reicht, eine Datei zu löschen",
-      "teaser": "Das manuelle Löschen einer Datei behebt laut BSI die Startprobleme bei Windows-Rechnern mit Software von Crowdstrike. Auch Microsoft Azure macht Probleme.",
-      "url": "https://www.heise.de/news/BSI-bestaetigt-Workaround-fuer-Crowdstrike-und-Ausfaelle-bei-Azure-9807381.html",
-      "image_title": "Bonn,,North,Rhine-westphalia,/,Germany,-,May,14,,2018:,Sign"
     },
     {
       "title": "Microsoft Cloud Security",
