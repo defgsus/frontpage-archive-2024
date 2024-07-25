@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-25T12:10:55",
+  "timestamp": "2024-07-25T13:10:13",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "HPE Aruba",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Aruba-EdgeConnect-SD-WAN-vielfaeltig-attackierbar-9813256.html"
+    },
+    {
       "title": "Siemens SICAM",
       "url": "https://www.heise.de/news/Siemens-SICAM-Angreifer-koennen-Admin-Passwort-zuruecksetzen-9811441.html"
     },
@@ -44,11 +48,13 @@
       "url": "https://www.heise.de/news/Backuploesung-Data-Protection-Advisor-von-Dell-vielfaeltig-angreifbar-9810281.html"
     },
     {
-      "title": "HP-PCs BIOS",
-      "url": "https://www.heise.de/news/BIOS-Sicherheitsluecke-gefaehrdet-unzaehlige-HP-PCs-9809134.html"
+      "title": "Sicherheitsupdates: Aruba EdgeConnect SD-WAN vielfältig attackierbar",
+      "teaser": "Die Entwickler von HPE haben in Arubas SD-WAN-Lösung EdgeConnect mehrere gefährliche Sicherheitslücken geschlossen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Aruba-EdgeConnect-SD-WAN-vielfaeltig-attackierbar-9813256.html",
+      "image_title": "Tastatur mit einer gelb hinterlegten Taste mit der Beschriftung \"update\""
     },
     {
-      "title": "Geister-Account-Netzwerk auf GitHub: Organisierte Malware-Schleuder mit System",
+      "title": "Malware-Verteilung über GitHub: Geister-Account-Netzwerk entdeckt",
       "teaser": "Ein Angreifer namens Stargazer Goblin bietet Vorlagen für diverse Angriffe. Ein Netzwerk von Geister-Accounts hilft beim Verteilen von Malware.",
       "url": "https://www.heise.de/news/Geister-Account-Netzwerk-auf-GitHub-Organisierte-Malware-Schleuder-mit-System-9812729.html"
     },
@@ -155,12 +161,6 @@
       "title": "BIOS-Sicherheitslücke gefährdet unzählige HP-PCs",
       "teaser": "Angreifer können viele Desktopcomputer von HP mit Schadcode attackieren.",
       "url": "https://www.heise.de/news/BIOS-Sicherheitsluecke-gefaehrdet-unzaehlige-HP-PCs-9809134.html"
-    },
-    {
-      "title": "Sicherheitsupdates: Angreifer können Sonicwall-Firewalls lahmlegen",
-      "teaser": "Einige Firewalls von Sonicwall sind verwundbar. Attacken könnten bevorstehen.",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Sonicwall-Firewalls-lahmlegen-9808904.html",
-      "image_title": "Warnlogo"
     },
     {
       "title": "Microsoft Cloud Security",
