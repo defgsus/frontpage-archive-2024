@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-26T09:00:42",
+  "timestamp": "2024-07-26T10:06:37",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Telerik Report Server",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-Entwickler-raten-zum-zuegigen-Patchen-von-Telerik-Report-Server-9814347.html"
+    },
+    {
       "title": "ServiceNow",
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Now-Platform-von-ServiceNow-9814238.html"
     },
@@ -44,26 +48,16 @@
       "url": "https://www.heise.de/news/Docker-Alte-Sicherheitsluecke-zur-Rechteausweitung-wieder-aufgetaucht-9811582.html"
     },
     {
-      "title": "Siemens SICAM",
-      "url": "https://www.heise.de/news/Siemens-SICAM-Angreifer-koennen-Admin-Passwort-zuruecksetzen-9811441.html"
-    },
-    {
-      "title": "Jetzt patchen!: Angreifer attackieren Now Platform von ServiceNow",
-      "teaser": "Die Cloud Computing Plattform von ServiceNow ist derzeit im Visier von Angreifern und sie nutzen kritische Sicherheitslücken aus.",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Now-Platform-von-ServiceNow-9814238.html",
-      "image_title": "Nullen und Einsen umgeben das Wort Hacked"
+      "title": "Sicherheitslücke: Entwickler raten zum zügigen Patchen von Telerik Report Server",
+      "teaser": "Ein wichtiges Sicherheitsupdate schließt eine kritische Lücke in der IT-Management- und Reportinglösung Telerik Report Server.",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-Entwickler-raten-zum-zuegigen-Patchen-von-Telerik-Report-Server-9814347.html",
+      "image_title": "Update-Logo auf Bildschirm"
     },
     {
       "title": "iX-Workshop IT-Sicherheit: Pentests methodisch planen, anfordern und analysieren",
       "teaser": "Schritt für Schritt zum sicheren System: Penetrationstests methodisch planen, beauftragen und auswerten, um Schwachstellen in der eigenen IT aufzuspüren.",
       "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-Pentests-methodisch-planen-anfordern-und-analysieren-9807358.html",
       "image_title": "Penetrationstests: Methodik, Ausschreibung und Auswertung"
-    },
-    {
-      "title": "Windows-Update kann Nachfrage nach Bitlocker-Schlüssel auslösen",
-      "teaser": "Die Windows-Updates aus dem Juli sorgen vermehrt für Anfragen nach den Bitlocker-Schlüsseln. Wer die nicht gesichert hat, hat ein Problem.",
-      "url": "https://www.heise.de/news/Windows-Update-kann-Nachfrage-nach-Bitlocker-Schluessel-ausloesen-9813997.html",
-      "image_title": "Verzweifeltes Monster sitzt auf Laptop, das Windows Update ausführt"
     },
     {
       "title": "International agierende Hackergruppe aus Nordkorea enttarnt",
@@ -81,6 +75,11 @@
       "title": "Malware-Verteilung über GitHub: Geister-Account-Netzwerk entdeckt",
       "teaser": "Ein Angreifer namens Stargazer Goblin bietet Vorlagen für diverse Angriffe. Ein Netzwerk von Geister-Accounts hilft beim Verteilen von Malware.",
       "url": "https://www.heise.de/news/Geister-Account-Netzwerk-auf-GitHub-Organisierte-Malware-Schleuder-mit-System-9812729.html"
+    },
+    {
+      "title": "Chrome will effektiver vor potenziell gefährlichen Downloads warnen",
+      "teaser": "Google ergänzt die Überprüfung von Downloads aus dem Internet mit Chrome. Für noch mehr Sicherheitsprüfungen müssen Nutzer aber Daten teilen.",
+      "url": "https://www.heise.de/news/Chrome-will-effektiver-vor-potenziell-gefaehrlichen-Downloads-warnen-9813132.html"
     },
     {
       "title": "IT-Sicherheitstag Dortmund: Nur noch kurze Zeit Rabatt für Frühbucher",
@@ -131,6 +130,12 @@
       "image_title": "Umspannwerk in Bremen​"
     },
     {
+      "title": "Das Crowdstrike-Fiasko: Ursachenforschung und erste Lehren",
+      "teaser": "Nach dem vielleicht größten Ausfall der IT-Geschichte analysiert Jürgen Schmidt, was genau schiefgelaufen ist – und vor allem, wie es zukünftig besser ginge.",
+      "url": "https://www.heise.de/hintergrund/Das-Crowdstrike-Fiasko-Ursachenforschung-und-erste-Lehren-9811045.html",
+      "image_title": "Blackout,Concept.,Emergency,Failure,Red,Light,In,Data,Center,With"
+    },
+    {
       "title": "\"Passwort\" Folge 7: Prompt Injections",
       "teaser": "Im Podcast von heise security geht es diesmal um Prompt Injections, also Angriffe auf Systeme mit KI-Unterbau – gegen die es keinen vollständigen Schutz gibt.",
       "url": "https://www.heise.de/news/Passwort-Folge-7-Prompt-Injections-9785133.html",
@@ -158,11 +163,6 @@
       "teaser": "Dell hat mehrere Sicherheitslücken in Data Protection Advisor geschlossen. Es kann Schadcode auf Systeme gelangen.",
       "url": "https://www.heise.de/news/Backuploesung-Data-Protection-Advisor-von-Dell-vielfaeltig-angreifbar-9810281.html",
       "image_title": "Stilisiertes Bild: Ein Stapel brennender Appliances"
-    },
-    {
-      "title": "Security-Dienstleister Wiz schlägt 23-Milliarden-Angebot von Google aus",
-      "teaser": "Google will das Cybersecurity-Startup Wiz übernehmen und bot 23 Milliarden US-Dollar. Doch Wiz lehnt das Angebot ab.",
-      "url": "https://www.heise.de/news/Security-Dienstleister-Wiz-schlaegt-23-Milliarden-Angebot-von-Google-aus-9810174.html"
     },
     {
       "title": "Microsoft Cloud Security",
