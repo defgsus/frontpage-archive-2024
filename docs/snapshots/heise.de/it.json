@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-26T05:00:54",
+  "timestamp": "2024-07-26T06:09:08",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,16 +26,42 @@
   ],
   "articles": [
     {
-      "title": "Scan-Algorithmen: Wie sie tracken, woran sie scheitern",
-      "teaser": "Wenn Kameras überwachen, scannen sie Kennzeichen, Gesichter oder menschliches Verhalten: nicht immer fehlerfrei, nicht immer transparent.",
-      "url": "https://www.heise.de/ratgeber/Scan-Algorithmen-Wie-sie-tracken-woran-sie-scheitern-9802721.html",
-      "image_title": "!!!erster Entwurf des Aufmachers. Es fehlen noch die zur Person eingeblendeten Scan-Daten, z. B. das zugehörige Autokennzeichen ihres Wagens, Alter, Geschlecht, Gefühlslage, Thorsten Hübner"
+      "title": "Rust in Linux: Was die Programmiersprache als Entwicklerwerkzeug bringt",
+      "teaser": "Spätestens mit der Aufnahme von Rust in den Linux-Kernel ist klar, dass die Programmiersprache auf absehbare Zeit nicht wegzudenken ist. Was bedeutet das genau?",
+      "url": "https://www.heise.de/hintergrund/Rust-in-Linux-Was-die-Programmiersprache-als-Entwicklerwerkzeug-bringt-9813326.html"
     },
     {
-      "title": "Kamera-Massenüberwachung mit und ohne KI: Was ist möglich und was ist erlaubt?",
-      "teaser": "Wir schauen auf aktuelle Technik und Algorithmen von Überwachungskameras auf öffentlichen Plätzen und in Geschäften und betrachten die geltende Rechtslage.",
-      "url": "https://www.heise.de/ratgeber/Kamera-Massenueberwachung-mit-und-ohne-KI-Was-ist-moeglich-und-was-ist-erlaubt-9802389.html",
-      "image_title": ", Thorsten Hübner"
+      "title": "So nützlich sind Shelltools in Rust",
+      "teaser": "Etablierte Kommandozeilenwerkzeuge für Linux und Unix existieren als Nachbau neuerdings auch in Rust. Wie praktisch sind sie im Alltag und lohnen sie sich?",
+      "url": "https://www.heise.de/hintergrund/So-nuetzlich-sind-Shelltools-in-Rust-9810573.html"
+    },
+    {
+      "title": "Klappe, die zweite: Das kann Final Cut Pro 2 für iPad und Mac",
+      "teaser": "Final Cut Pro 2 macht das iPad zum Regieraum und bringt eine neue Aufnahme-App für das iPhone mit. Auch die Mac-App erhält Verbesserungen.",
+      "url": "https://www.heise.de/tests/Klappe-die-zweite-Das-kann-Final-Cut-Pro-2-fuer-iPad-und-Mac-9813651.html",
+      "image_title": "Final Cut Pro 2"
+    },
+    {
+      "title": "iX-Workshop IT-Sicherheit: Pentests methodisch planen, anfordern und analysieren",
+      "teaser": "Schritt für Schritt zum sicheren System: Penetrationstests methodisch planen, beauftragen und auswerten, um Schwachstellen in der eigenen IT aufzuspüren.",
+      "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-Pentests-methodisch-planen-anfordern-und-analysieren-9807358.html",
+      "image_title": "Penetrationstests: Methodik, Ausschreibung und Auswertung"
+    },
+    {
+      "title": "Windows-Update kann Nachfrage nach Bitlocker-Schlüssel auslösen",
+      "teaser": "Die Windows-Updates aus dem Juli sorgen vermehrt für Anfragen nach den Bitlocker-Schlüsseln. Wer die nicht gesichert hat, hat ein Problem.",
+      "url": "https://www.heise.de/news/Windows-Update-kann-Nachfrage-nach-Bitlocker-Schluessel-ausloesen-9813997.html",
+      "image_title": "Verzweifeltes Monster sitzt auf Laptop, das Windows Update ausführt"
+    },
+    {
+      "title": "GNU Coreutils in Rust reimplementieren: Rust-Entwickler im Interview",
+      "teaser": "Als Investition in die Zukunft sieht der uutils-coreutils-Entwickler Daniel Hofstetter seine Arbeit an der Reimplementierung der GNU Coreutils in Rust.",
+      "url": "https://www.heise.de/hintergrund/GNU-Coreutils-in-Rust-reimplementieren-Rust-Entwickler-im-Interview-9810219.html"
+    },
+    {
+      "title": "Rust statt C auf der Konsole: Interview mit Tool-Entwickler",
+      "teaser": "Schneller zum Ziel kommen und nebenbei auch noch sicherer programmieren – das macht Rust für immer mehr Open-Source-Entwickler zur optimalen Programmiersprache.",
+      "url": "https://www.heise.de/hintergrund/Rust-statt-C-auf-der-Konsole-Interview-mit-Tool-Entwickler-9810050.html"
     },
     {
       "title": "Scan-Algorithmen: Wie sie tracken, woran sie scheitern",
@@ -53,6 +79,18 @@
       "title": "Videoüberwachung: Was erlaubt ist und was nicht",
       "teaser": "Sicherheitsbedürfnisse der Überwachenden kollidieren mit dem Privatsphärenschutz der Überwachten. Was rechtlich erlaubt und verboten ist, wie man sich wehrt.",
       "url": "https://www.heise.de/ratgeber/Videoueberwachung-Was-erlaubt-ist-und-was-nicht-9799794.html",
+      "image_title": ","
+    },
+    {
+      "title": "Im Test: Sechs Mini-PCs mit AMD- und Intel-Prozessoren",
+      "teaser": "Sechs Mini-PCs und Barebones mit aktuellen Prozessoren von AMD und Intel müssen zeigen, ob sie nicht nur klein, sondern auch sparsam, leise und flott sind.",
+      "url": "https://www.heise.de/tests/Im-Test-Sechs-Mini-PCs-mit-AMD-und-Intel-Prozessoren-9812650.html",
+      "image_title": ","
+    },
+    {
+      "title": "Bauvorschlag: Leiser, sparsamer Mini-PC mit Ryzen 5 8600G",
+      "teaser": "Unser PC-Bauvorschlag für einen 10-Watt-Mini mit Sechskernprozessor erledigt Alltagsaufgaben wie ein Großer. Mit einigen Tricks arbeitet er schön leise.",
+      "url": "https://www.heise.de/ratgeber/Bauvorschlag-Leiser-sparsamer-Mini-PC-mit-Ryzen-5-8600G-9809382.html",
       "image_title": ","
     },
     {
@@ -83,44 +121,6 @@
       "teaser": "Der deutsche EU-Parlamentarier Daniel Freund (Grüne) war zwei Wochen vor der Europawahl Ziel einer versuchten Ausspähung mit dem Staatstrojaner Candiru.​",
       "url": "https://www.heise.de/news/Candiru-Neuer-Spyware-Angriff-auf-EU-Abgeordneten-9813814.html",
       "image_title": "Hände tippen im Dunkeln auf einem Smartphone"
-    },
-    {
-      "title": "IT Summit by heise: Programm für neue Münchener IT-Konferenz online",
-      "teaser": "Nun können sich IT-Leiter und Admins für die heise-Konferenz registrieren. Im November erhalten sie Impulse zu den Herausforderungen in ihrem Arbeitsalltag.",
-      "url": "https://www.heise.de/news/IT-Summit-by-heise-Programm-fuer-neue-Muenchener-IT-Konferenz-online-9813008.html"
-    },
-    {
-      "title": "c't-Webinar: Mutation-Testing mit Stryker",
-      "teaser": "Seine Code-Basis – ob neu oder etabliert – sollte man regelmäßig testen. Das Webinar zeigt, wie man die Tests selbst effizient auf Fehler prüfen kann.",
-      "url": "https://www.heise.de/news/c-t-Webinar-Mutation-Testing-mit-Stryker-9813534.html"
-    },
-    {
-      "title": "Sicherheitsupdates: Aruba EdgeConnect SD-WAN vielfältig attackierbar",
-      "teaser": "Die Entwickler von HPE haben in Arubas SD-WAN-Lösung EdgeConnect mehrere gefährliche Sicherheitslücken geschlossen.",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Aruba-EdgeConnect-SD-WAN-vielfaeltig-attackierbar-9813256.html",
-      "image_title": "Tastatur mit einer gelb hinterlegten Taste mit der Beschriftung \"update\""
-    },
-    {
-      "title": "Tarife für schnelle Glasfaseranschlüsse im Überblick",
-      "teaser": "Telekommunikationsanbieter stellen ihre Netze nach und nach auf Glasfaser um. Das müssen Sie beim Wechsel beachten und aus diesen Tarifen können Sie wählen.",
-      "url": "https://www.heise.de/tests/Tarife-fuer-schnelle-Glasfaseranschluesse-im-Ueberblick-9812142.html",
-      "image_title": ","
-    },
-    {
-      "title": "Malware-Verteilung über GitHub: Geister-Account-Netzwerk entdeckt",
-      "teaser": "Ein Angreifer namens Stargazer Goblin bietet Vorlagen für diverse Angriffe. Ein Netzwerk von Geister-Accounts hilft beim Verteilen von Malware.",
-      "url": "https://www.heise.de/news/Geister-Account-Netzwerk-auf-GitHub-Organisierte-Malware-Schleuder-mit-System-9812729.html"
-    },
-    {
-      "title": "AMD hat ein neues Mobil-Topmodell, bevor die bisherigen überhaupt verfügbar sind",
-      "teaser": "Der schnellste AMD-Prozessor für Notebooks heißt jetzt Ryzen AI 9 HX 375. Er hat eine flottere NPU als das 370er-Modell.",
-      "url": "https://www.heise.de/news/AMD-hat-ein-neues-Mobil-Topmodell-bevor-die-bisherigen-ueberhaupt-verfuegbar-sind-9813208.html",
-      "image_title": "Renderbild eines Ryzen AI 300"
-    },
-    {
-      "title": "Chrome will effektiver vor potenziell gefährlichen Downloads warnen",
-      "teaser": "Google ergänzt die Überprüfung von Downloads aus dem Internet mit Chrome. Für noch mehr Sicherheitsprüfungen müssen Nutzer aber Daten teilen.",
-      "url": "https://www.heise.de/news/Chrome-will-effektiver-vor-potenziell-gefaehrlichen-Downloads-warnen-9813132.html"
     },
     {
       "title": "Bist du auf der Suche nach verlässlichen und unabhängigen IT-Anbieterbewertungen?",
