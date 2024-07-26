@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-25T23:00:46",
+  "timestamp": "2024-07-26T00:29:25",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -14,6 +14,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -104,8 +110,20 @@
       "image_url": "https://img.zeit.de/2024-07/eltern-vorbilder-kinder-erziehung/wide__1000x562"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); US-Wahlkampf : Kamala Harris' Team veröffentlicht erstes Wahlkampfvideo",
-      "teaser": "Strengere Waffengesetze und ein Recht auf Schwangerschaftsabbruch: In einem Wahlspot nennt Kamala Harris ihre Prioritäten. Donald Trump will sie sich im TV-Duell stellen.",
+      "title": "Z+ (abopflichtiger Inhalt); Minsk : Belarussisches Fernsehen führt zum Tode verurteilten Deutschen vor",
+      "teaser": "Ein in Belarus zum Tode verurteilter Deutscher bittet im Staatsfernsehen um Gnade. Unklar bleibt, ob das Regime in Minsk einen Gefangenenaustausch erreichen will.",
+      "url": "https://www.zeit.de/politik/ausland/2024-07/minsk-belarus-deutscher-verurteilung-tod-video",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-07/minsk-belarus-deutscher-verurteilung-tod-video-2/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Benjamin Netanjahu in den USA : Joe Biden und Kamala Harris erhöhen Druck auf Benjamin Netanjahu",
+      "teaser": "Die USA bekräftigen ihre Unterstützung für Israel. Im Weißen Haus hört Benjamin Netanjahu aber auch Kritik. Überraschend äußert sich Donald Trump.",
+      "url": "https://www.zeit.de/politik/ausland/2024-07/benjamin-netanjahu-us-praesident-joe-biden-treffen",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-07/benjamin-netanjahu-joe-biden-treffen-bild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); US-Wahlkampf : Kamala Harris veröffentlicht erstes Wahlkampfvideo",
+      "teaser": "Waffengesetze und Schwangerschaftsabbruch: Kamala Harris startet mit gesellschaftspolitischen Themen in den Wahlkampf. Donald Trump will sie sich im TV-Duell stellen.",
       "url": "https://www.zeit.de/politik/ausland/2024-07/us-wahlkampf-kamala-harris-wahlwerbespot",
       "image_url": "https://img.zeit.de/politik/ausland/2024-07/kamala-harris/super__430x286",
       "image_title": "Kamala Harris"
@@ -117,41 +135,28 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-07/usa-donald-trump-schweigegeldprozess-teilimmunitaet-staatsanwaltschaft-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Golfvideo mit Donald Trump : Auf dem letzten Loch",
-      "teaser": "Dank eines viralen Videos ist gerade nicht nur der Politiker, sondern auch der Golfer Donald Trump in aller Munde. Seine Golfpraxis verrät viel über den Machtmenschen.",
-      "url": "https://www.zeit.de/kultur/2024-07/golf-video-donald-trump-technik-kritik-bryson-dechambeau",
-      "image_url": "https://img.zeit.de/kultur/2024-07/golf-video-donald-trump-technik-kritik-bryson/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Benjamin Netanjahu in den USA : Joe Biden bekräftigt Forderung nach rascher Waffenruhe im Gazakrieg",
-      "teaser": "Benjamin Netanjahus US-Reise wird von heftigen Protesten überlagert. Angehörige der Hamas-Geiseln äußern nach einem Treffen mit ihm und Joe Biden leise Hoffnung.",
-      "url": "https://www.zeit.de/politik/ausland/2024-07/benjamin-netanjahu-us-praesident-joe-biden-treffen",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-07/benjamin-netanjahu-joe-biden-treffen-bild/super__430x286"
-    },
-    {
       "title": "An dieser Stelle ist ein externer Inhalt eingebunden",
       "teaser": "Zum Anschauen benötigen wir Ihre Zustimmung",
       "url": "https://www.zeit.de/politik/2024-07/kamala-harris-donald-trump-us-wahlkampf-was-jetzt-videopodcast",
       "image_url": "https://img.zeit.de/2024-07/was-jetzt-die-woche-5/wide__892x501"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Minsk : Belarussisches Fernsehen führt zum Tode verurteilten Deutschen vor",
-      "teaser": "Ein in Belarus zum Tode verurteilter Deutscher bittet im Staatsfernsehen um Gnade. Unklar bleibt, ob das Regime in Minsk einen Gefangenenaustausch erreichen will.",
-      "url": "https://www.zeit.de/politik/ausland/2024-07/minsk-belarus-deutscher-verurteilung-tod-video",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-07/minsk-belarus-deutscher-verurteilung-tod-video-2/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Golfvideo mit Donald Trump : Auf dem letzten Loch",
+      "teaser": "Dank eines viralen Videos ist gerade nicht nur der Politiker, sondern auch der Golfer Donald Trump in aller Munde. Seine Golfpraxis verrät viel über den Machtmenschen.",
+      "url": "https://www.zeit.de/kultur/2024-07/golf-video-donald-trump-technik-kritik-bryson-dechambeau",
+      "image_url": "https://img.zeit.de/kultur/2024-07/golf-video-donald-trump-technik-kritik-bryson/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Olympisches Fußballturnier : Deutsche Frauen gewinnen im ersten Fußballmatch klar gegen Australien",
-      "teaser": "Das deutsche Frauenfußballteam lässt im Olympia-Auftaktspiel gegen Australien kein einziges Gegentor zu. Maria Hegering, Lea Schüller und Jule Brand trafen in Marseille.",
-      "url": "https://www.zeit.de/sport/2024-07/olympia-fussball-frauen-australien-deutschland",
-      "image_url": "https://img.zeit.de/sport/2024-07/olympia-2024-deutschland-australien-brand-jule/super__430x286",
-      "image_title": "Olympia 2024 Deutschland Australien BRAND Jule"
+      "title": "Z+ (abopflichtiger Inhalt); FDP und SPD : Christian Lindner sieht Rolf Mützenich als Gefahr für Ampelkoalition",
+      "teaser": "Der Bundesfinanzminister sieht die Stabilität der Bundesregierung durch den SPD-Fraktionschef bedroht. Dieser stelle Grundsatzentscheidungen der Ampelkoalition infrage.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-07/fdp-christian-lindner-rolf-muetzenich-spd-fraktion-ampelkoalition",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-07/fdp-christian-lindner-rolf-muetzenich-spd-fraktion-ampelkoalition-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Olympiabewerbung : Das IOC bleibt ein Erpresserverein",
-      "teaser": "Olympia in Deutschland? Eigentlich eine gute Idee, aber nicht mit diesem IOC! Und für den, der ein Sportfest veranstalten möchte, gibt es eine Alternative.",
-      "url": "https://www.zeit.de/sport/2024-07/olympia-bewerbung-deutschland-bundesregierung-ioc-dosb",
-      "image_url": "https://img.zeit.de/sport/2024-07/olympia-bewerbung-deutschland/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Migration : Olaf Scholz plant Fortsetzung strikter Grenzkontrollen",
+      "teaser": "Es gebe zu viele Menschen, die irregulär nach Deutschland einreisen, beklagt der Bundeskanzler. Er fordert: \"Die Zahlen müssen runter.\"",
+      "url": "https://www.zeit.de/politik/deutschland/2024-07/migration-bundeskanzler-olaf-scholz-grenzkontrollen",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-07/migration-bundeskanzler-olaf-scholz-grenzkontrollen-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Medikamente bei Depressionen : Hilft die Ketamin-Pille bei Depressionen?",
@@ -166,16 +171,16 @@
       "image_url": "https://img.zeit.de/gesundheit/2024-07/rki-protokolle-corona-pandemie-aufklaerung-bmg-bild/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Künstliche Intelligenz : US-Schauspieler treten gegen Videospielbranche in den Streik",
+      "teaser": "US-Darsteller fürchten Nachteile durch den Einsatz von künstlicher Intelligenz in Computerspielen. Sie fordern zudem eine bessere Vergütung für ihre Arbeit.",
+      "url": "https://www.zeit.de/digital/games/2024-07/kuenstliche-intelligenz-videospiele-us-schauspieler-streik",
+      "image_url": "https://img.zeit.de/digital/games/2024-07/kuenstliche-intelligenz-videospiele-us-schauspieler-streik-bild/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Llama 3.1 : Deshalb verschenkt Mark Zuckerberg seine künstliche Intelligenz",
       "teaser": "Die neue künstliche Intelligenz von Meta soll besser als ChatGPT sein. Der Facebook-Konzern gibt sie kostenfrei her. Dahinter stecken knallharte Geschäftsinteressen.",
       "url": "https://www.zeit.de/digital/2024-07/llama-3-1-meta-kuenstliche-intelligenz-kostenlos-open-source-facebook",
       "image_url": "https://img.zeit.de/wirtschaft/2024-07/llama-3-1-meta-kuenstliche-intelligenz-kostenlos-open-source-facebook-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); VW Bulli gebraucht kaufen • Das Beste aus Z+ : \"Außen top, innen sauber. Bis ich bemerkt habe: Wow, alles fake\"",
-      "teaser": "Enrico Nagy berät Menschen beim Kauf eines Bullis. Er weiß, weshalb ein T2 nicht alltagstauglich ist, wie teuer ein T3 ist und warum ein T4 kein Benziner sein sollte.",
-      "url": "https://www.zeit.de/arbeit/2023-08/vw-bulli-gebraucht-kaufen-betrug-tipps",
-      "image_url": "https://img.zeit.de/arbeit/2023-08/bulli/super__430x286"
     },
     {
       "title": "Diese Woche in der ZEIT : Kann sie Amerika retten?",
@@ -184,16 +189,17 @@
       "image_url": "https://img.zeit.de/2024/packshot-24-32-1000x620/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Niederschlag durch Klimawandel : Der Regen ist auch nicht mehr das, was er mal war",
-      "teaser": "Langfristige Wettervorhersagen könnten wackliger werden, denn: Der Klimawandel erhöht die Schwankungen zwischen Nass und Trocken, zeigt eine neue Studie.",
-      "url": "https://www.zeit.de/wissen/umwelt/2024-07/niederschlag-klimawandel-schwankungen-starkregen-trockenphasen-nassphasen",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2024-07/niederschlag-klimawandel-schwankungen-starkregen-trockenphasen-nassphasen-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Olympisches Fußballturnier : Deutsche Frauen gewinnen im ersten Fußballmatch klar gegen Australien",
+      "teaser": "Das deutsche Frauenfußballteam lässt im Olympia-Auftaktspiel gegen Australien kein einziges Gegentor zu. Maria Hegering, Lea Schüller und Jule Brand trafen in Marseille.",
+      "url": "https://www.zeit.de/sport/2024-07/olympia-fussball-frauen-australien-deutschland",
+      "image_url": "https://img.zeit.de/sport/2024-07/olympia-2024-deutschland-australien-brand-jule/super__430x286",
+      "image_title": "Olympia 2024 Deutschland Australien BRAND Jule"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Deutsche Bahn : Bahn will nach Milliardenverlust Tausende Stellen streichen",
-      "teaser": "Die DB verzeichnet 1,2 Milliarden Euro Defizit in ihrer Halbjahresbilanz. Sie führt das auf Sanierungen und Klimaereignisse zurück. 30.000 Stellen könnten wegfallen.",
-      "url": "https://www.zeit.de/mobilitaet/2024-07/db-bahn-bilanz-verspaetung-streik-infrastruktur",
-      "image_url": "https://img.zeit.de/mobilitaet/2024-07/db-bahn-bilanz-verspaetung-streik-infrastruktur-bild-3/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Olympiabewerbung : Das IOC bleibt ein Erpresserverein",
+      "teaser": "Olympia in Deutschland? Eigentlich eine gute Idee, aber nicht mit diesem IOC! Und für den, der ein Sportfest veranstalten möchte, gibt es eine Alternative.",
+      "url": "https://www.zeit.de/sport/2024-07/olympia-bewerbung-deutschland-bundesregierung-ioc-dosb",
+      "image_url": "https://img.zeit.de/sport/2024-07/olympia-bewerbung-deutschland/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Form des Weltraums : Was hinter dem Universum kommt",
@@ -220,10 +226,10 @@
       "image_url": "https://img.zeit.de/kultur/film/2024-07/deadpool-wolverine/wide__892x501"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); NS-Vergangenheit : War Opa doch ein Nazi?",
-      "teaser": "Zehntausende suchen jedes Jahr in Archiven nach der NS-Vergangenheit. In der Familie unseres Autors hieß es, sein Opa sei standhaft gewesen. Doch es gibt offene Fragen.",
-      "url": "https://www.zeit.de/2024/32/ns-vergangenheit-grosseltern-familie-geschichte-nsdap",
-      "image_url": "https://img.zeit.de/2024/32/ns-vergangenheit-grosseltern-familie-geschichte-nsdap-teaser/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); VW Bulli gebraucht kaufen • Das Beste aus Z+ : \"Außen top, innen sauber. Bis ich bemerkt habe: Wow, alles fake\"",
+      "teaser": "Enrico Nagy berät Menschen beim Kauf eines Bullis. Er weiß, weshalb ein T2 nicht alltagstauglich ist, wie teuer ein T3 ist und warum ein T4 kein Benziner sein sollte.",
+      "url": "https://www.zeit.de/arbeit/2023-08/vw-bulli-gebraucht-kaufen-betrug-tipps",
+      "image_url": "https://img.zeit.de/arbeit/2023-08/bulli/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Abitur : Warum Abiturnoten nicht vergleichbar sind",
@@ -236,12 +242,6 @@
       "teaser": "Eine giftige Baumschlange wurde in Schleswig-Holstein gesichtet. Spürhunde konnten sie bislang nicht finden. Nun soll sie nach Art der Fischer gefangen werden.",
       "url": "https://www.zeit.de/entdecken/2024-07/baumschlange-schleswig-holstein-suche-krebsreusen",
       "image_url": "https://img.zeit.de/entdecken/2024-07/baumschlange-schleswig-holstein-suche-krebsreusen-bild-6/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); FDP und SPD : Christian Lindner sieht Rolf Mützenich als Gefahr für Ampelkoalition",
-      "teaser": "Der Bundesfinanzminister sieht die Stabilität der Bundesregierung durch den SPD-Fraktionschef bedroht. Dieser stelle Grundsatzentscheidungen der Ampelkoalition infrage.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-07/fdp-christian-lindner-rolf-muetzenich-spd-fraktion-ampelkoalition",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-07/fdp-christian-lindner-rolf-muetzenich-spd-fraktion-ampelkoalition-bild/super__320x213"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Olympische Spiele in Paris : Israels Außenminister warnt vor Anschlägen auf Sportler",
@@ -290,6 +290,12 @@
       "teaser": "Weil Fans bei der Fußball-EM durch rassistisches Verhalten auffielen, müssen einige Nationalverbände bis zu 50.000 Euro zahlen. Darunter sind Ungarn und Österreich.",
       "url": "https://www.zeit.de/sport/2024-07/fussball-em-uefa-strafen-rassismus-ungarn",
       "image_url": "https://img.zeit.de/sport/2024-07/fussball-em-uefa-strafen-rassismus-ungarn-bild/super__320x213"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Jemen : Boot mit mehr als 40 Geflüchteten im Roten Meer gekentert",
+      "teaser": "Mehr als 40 Menschen fliehen mit einem Boot. Dann kentern sie vor der Küste des Jemen. Nur vier Menschen konnten laut UN-Angaben vor der Küste gerettet werden.",
+      "url": "https://www.zeit.de/politik/2024-07/jemen-boot-migranten-rotes-meer",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-07/jemen-bootsunglueck-migration-bild/super__320x213"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Zitronenflan : In Spanien ist der Sommer süß",
@@ -388,22 +394,22 @@
       "image_url": "https://img.zeit.de/sport/2024-07/zeitplan-olympia-2024/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Niederschlag durch Klimawandel : Der Regen ist auch nicht mehr das, was er mal war",
+      "teaser": "Langfristige Wettervorhersagen könnten wackliger werden, denn: Der Klimawandel erhöht die Schwankungen zwischen Nass und Trocken, zeigt eine neue Studie.",
+      "url": "https://www.zeit.de/wissen/umwelt/2024-07/niederschlag-klimawandel-schwankungen-starkregen-trockenphasen-nassphasen",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2024-07/niederschlag-klimawandel-schwankungen-starkregen-trockenphasen-nassphasen-bild/wide__892x501"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Klage von WhatsApp gegen NSO : Wie Israel Geheimdokumente verschwinden ließ",
       "teaser": "Interne Akten zeigen, wie tief Israels Regierung in den Skandal um die Spähsoftware Pegasus verstrickt ist – und welch perfide Tricks sie zur Vertuschung anwandte.",
       "url": "https://www.zeit.de/politik/ausland/2024-07/klage-whatsapp-nso-pegasus-spyware-leaks-israel-usa",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-07/klage-whatsapp-nso-pegasus-spyware-leaks-israel/wide__892x501"
+      "image_url": "https://img.zeit.de/politik/ausland/2024-07/klage-whatsapp-nso-pegasus-spyware-leaks-israel/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Mark Kelly : Der Astronator",
       "teaser": "Früher flog er Spaceshuttles, heute gehört Mark Kelly zu den möglichen Running Mates für Kamala Harris. Mit ihm könnte erstmals ein Raumfahrer ins Weiße Haus einziehen.",
       "url": "https://www.zeit.de/wissen/2024-07/mark-kelly-usa-senator-praesidentschaft-kamala-harris-astronaut",
       "image_url": "https://img.zeit.de/wissen/2024-07/mark-kelly-usa-senator-praesidentschaft-kamala-harris-astronaut-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Dirk Neubauer : \"Widerspruch wird als Einschränkung der Meinungsfreiheit gewertet\"",
-      "teaser": "Dirk Neubauer tritt als Landrat in Mittelsachsen zurück. Er wollte eine andere Politik – mit mehr Dialog. Im Interview erklärt er, warum es nicht funktioniert hat.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-07/sachsen-landrat-dirk-neubauer-ruecktritt-buergerbeteiligung",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-07/sachsen-landrat-dirk-neubauer-ruecktritt-buergerbeteiligung-bild/super__430x286"
     },
     {
       "title": "Verlagsangebot : 7 Lebensmittel für eine antientzündliche Ernährung",
@@ -556,22 +562,22 @@
       "image_url": "https://img.zeit.de/2024-06/was-jetzt-die-woche/super__320x213"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Liveblog:Krieg in Israel und Gaza : Joe Biden und Benjamin Netanjahu treffen Geiselfamilien",
+      "teaser": "Angehörige von Hamas-Geiseln äußern nach einem Treffen mit Biden und Netanjahu Hoffnung auf ein Waffenruheabkommen. Harris kritisiert Anti-Israel-Proteste. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/2023-12/news-israel-gaza-krieg-live",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-07/israel-liveblog-geiselfamilien-joe-biden-benjamin-netanjahu-bild-2/wide__892x501"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Nachrichtenpodcast : Halbjahresbilanz: mangelhaft",
       "teaser": "Streik, Baustellen, Unwetter – die Deutsche Bahn macht im ersten Halbjahr 1,2 Milliarden Euro Minus und kommt oft zu spät. Und: Letzte Generation legt Flugverkehr lahm.",
       "url": "https://www.zeit.de/politik/2024-07/deutsche-bahn-halbjahresbilanz-defizit-streiks-extremwetter-puenktlichkeit-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__892x501"
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Rechtsextremismus : Rechtsextremes Magazin \"Compact\" klagt gegen Verbot",
-      "teaser": "Seit einer Woche darf \"Compact\" nicht mehr erscheinen. Nun wehrt sich das Magazin vor dem Bundesverwaltungsgericht. Auch um ein Sommerfest kämpfen die Rechtsextremen.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-07/rechtsextremismus-compact-magazin-verbot-klage-bundesverwaltungsgericht",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-07/magazin-compact-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Jemen : Boot mit mehr als 40 Geflüchteten im Roten Meer gekentert",
-      "teaser": "Mehr als 40 Menschen fliehen mit einem Boot. Dann kentern sie vor der Küste des Jemen. Nur vier Menschen konnten laut UN-Angaben vor der Küste gerettet werden.",
-      "url": "https://www.zeit.de/politik/2024-07/jemen-boot-migranten-rotes-meer",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-07/jemen-bootsunglueck-migration-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Dirk Neubauer : \"Widerspruch wird als Einschränkung der Meinungsfreiheit gewertet\"",
+      "teaser": "Dirk Neubauer tritt als Landrat in Mittelsachsen zurück. Er wollte eine andere Politik – mit mehr Dialog. Im Interview erklärt er, warum es nicht funktioniert hat.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-07/sachsen-landrat-dirk-neubauer-ruecktritt-buergerbeteiligung",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-07/sachsen-landrat-dirk-neubauer-ruecktritt-buergerbeteiligung-bild/super__430x286"
     },
     {
       "title": "Verlagsangebot : Quiz über die Wahlen 2024 in den USA: Testen Sie Ihr Wissen!",
@@ -640,16 +646,16 @@
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-07/taiwan-taifun-gaemi-verwuestung-tote-verletzte/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Deutsche Bahn : Bahn will nach Milliardenverlust Tausende Stellen streichen",
+      "teaser": "Die DB verzeichnet 1,2 Milliarden Euro Defizit in ihrer Halbjahresbilanz. Sie führt das auf Sanierungen und Klimaereignisse zurück. 30.000 Stellen könnten wegfallen.",
+      "url": "https://www.zeit.de/mobilitaet/2024-07/db-bahn-bilanz-verspaetung-streik-infrastruktur",
+      "image_url": "https://img.zeit.de/mobilitaet/2024-07/db-bahn-bilanz-verspaetung-streik-infrastruktur-bild-3/wide__892x501"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Deutsche Bahn : Volker Wissing kritisiert Deutsche Bahn für mangelnde Pünktlichkeit",
       "teaser": "Der Bundesverkehrsminister bezeichnet die Pünktlichkeitsquote der Bahn als \"absolut unzufriedenstellend\". Im Juni kam fast jeder zweite Zug verspätet an seinem Ziel an.",
       "url": "https://www.zeit.de/mobilitaet/2024-07/wissing-deutsche-bahn-verspaetungen-kritik",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-07/wissing-deutsche-bahn-verspaetungen-kritik-bild/wide__892x501"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Investitionen bei Bosch : \"Wir werden bei Klimaanlagen ein Wachstum von 30 Prozent sehen\"",
-      "teaser": "Bosch investiert eine Rekordsumme in den Ausbau seiner Klimaanlagen- und Heizungssparte. Geschäftsführer Christian Fischer begründet die Entscheidung mit dem Klimawandel.",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-07/investitionen-bosch-kuehltechnik-klimaanlagen-klimawandel",
-      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-07/investitionen-bosch-kuehltechnik-klimaanlagen/super__430x286"
+      "image_url": "https://img.zeit.de/gesellschaft/2024-07/wissing-deutsche-bahn-verspaetungen-kritik-bild/super__430x286"
     },
     {
       "title": "Verlagsangebot : Glauben Sie, dass die Demokratie in den USA in Gefahr ist?",
@@ -658,10 +664,10 @@
       "image_url": "https://img.zeit.de/angebote/Links/Bilder/akademie/2024/zak-usa-demokratie-1/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Wasserstoff : Bundesregierung beschließt Importstrategie für Wasserstoff",
-      "teaser": "Deutschlands Wasserstoffbedarf könne langfristig nur durch das Ausland gedeckt werden, sagt Robert Habeck. Die Bundesregierung hat nun eine Importstrategie beschlossen.",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-07/industrie-importstrategie-wasserstoff-habeck-bundesregierung",
-      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-07/industrie-importstrategie-wasserstoff-habeck-bundesregierung-bild-2/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Investitionen bei Bosch : \"Wir werden bei Klimaanlagen ein Wachstum von 30 Prozent sehen\"",
+      "teaser": "Bosch investiert eine Rekordsumme in den Ausbau seiner Klimaanlagen- und Heizungssparte. Geschäftsführer Christian Fischer begründet die Entscheidung mit dem Klimawandel.",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-07/investitionen-bosch-kuehltechnik-klimaanlagen-klimawandel",
+      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-07/investitionen-bosch-kuehltechnik-klimaanlagen/super__430x286"
     },
     {
       "title": "ETFs : Alternativen zum MSCI World: So vermeiden Anleger Tech-Crashs im Depot",
@@ -744,6 +750,12 @@
       "image_url": "https://img.zeit.de/video/2024-07/6359195211112-still/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); NS-Vergangenheit : War Opa doch ein Nazi?",
+      "teaser": "Zehntausende suchen jedes Jahr in Archiven nach der NS-Vergangenheit. In der Familie unseres Autors hieß es, sein Opa sei standhaft gewesen. Doch es gibt offene Fragen.",
+      "url": "https://www.zeit.de/2024/32/ns-vergangenheit-grosseltern-familie-geschichte-nsdap",
+      "image_url": "https://img.zeit.de/2024/32/ns-vergangenheit-grosseltern-familie-geschichte-nsdap-teaser/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Perseiden : Sternschnuppen-Regen im August",
       "teaser": "Die Perseiden kommen: Mit enormer Geschwindigkeit rieseln Kometenteilchen auf die Erde hinab und lassen den Himmel leuchten. Wann und wo sind sie am besten zu sehen?",
       "url": "https://www.zeit.de/wissen/2023-08/perseiden-sternschnuppen-himmel-august-faq",
@@ -760,12 +772,6 @@
       "teaser": "Die für Wiederkäuer gefährliche Blauzungenkrankheit breitet sich schnell in Deutschland aus. Hunderte Rinder, Schafe und Ziegen haben sich infiziert.",
       "url": "https://www.zeit.de/wissen/umwelt/2024-07/blauzungenkrankheit-nrw-niedersachsen-kuehe-schafe-ziegen",
       "image_url": "https://img.zeit.de/wissen/umwelt/2024-07/blauzungenkrankheit-ausbreitung-niedersachsen-nrw-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); EU-Beobachtungsdienst Copernicus : Sonntag war weltweit der heißeste Tag seit Beginn der Aufzeichnungen",
-      "teaser": "Seit 1940 werden weltweit Temperaturen gemessen. Doch noch nie waren sie an einem Tag so hoch wie am vergangenen Sonntag. Durchschnittlich lagen sie bei 17,09 Grad.",
-      "url": "https://www.zeit.de/wissen/2024-07/eu-beobachtungsdienst-copernicus-sonntag-weltweit-heisseste-tag-beginn-der-aufzeichnungen",
-      "image_url": "https://img.zeit.de/wissen/2024-07/eu-beobachtungsdienst-copernicus-sonntag-weltweit-heisseste-tag/super__430x286"
     },
     {
       "title": "Der perfekte Begleiter von der 1. bis zur 5. Klasse!",
@@ -884,9 +890,9 @@
     },
     {
       "title": "Verlagsangebot : Welcher Beruf passt zu mir?",
-      "teaser": "Was uns im Job von anderen unterscheidet, sind nicht nur unsere Fähigkeiten – erst die Persönlichkeit macht jeden einmalig. Der BOA Berufstest hilft, sie zu erkennen.",
-      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.teaser.boa-faeuste.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=boa-verlagsteaser&amp;utm_content=bot_teaser_boa-faeuste_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/boa-faeuste/wide__430x286__desktop",
+      "teaser": "Mit dem BOA-Berufstest erfahren Berufseinsteiger mehr über die eigenen Stärken und finden den passenden Job.",
+      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.verlagsteaser.quan.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=verlagsteaserindex&amp;utm_content=bot_verlagsteaser_quan_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/boa-quan/wide__430x286__desktop",
       "image_title": "Welcher Beruf passt zu mir?"
     },
     {
@@ -956,6 +962,22 @@
       "image_url": "https://img.zeit.de/sport/2024-07/angelique-kerber-karriere-ende-nach-olympia-bild/super__430x286"
     },
     {
+      "title": "Bayern und Baden-Württemberg: Länder besorgt um Finanzierung der Schuldigitalisierung",
+      "url": "https://www.zeit.de/news/2024-07/26/laender-besorgt-um-finanzierung-der-schuldigitalisierung"
+    },
+    {
+      "title": "Verkehr: 22-Jähriger bei Motorradunfall schwer verletzt",
+      "url": "https://www.zeit.de/news/2024-07/26/22-jaehriger-bei-motorradunfall-schwer-verletzt"
+    },
+    {
+      "title": "Gestohlenes Motorrad: 29-Jähriger stirbt nach Unfall mit gestohlenem Motorrad",
+      "url": "https://www.zeit.de/news/2024-07/26/29-jaehriger-stirbt-nach-unfall-mit-gestohlenem-motorrad"
+    },
+    {
+      "title": "Netanjahu in den USA: Harris mit klarem Bekenntnis zu Israel und Mahnung",
+      "url": "https://www.zeit.de/news/2024-07/26/harris-mit-klarem-bekenntnis-zu-israel-und-mahnung"
+    },
+    {
       "title": "Bayreuther Festspiele: «Ganz liebe Grüße» von Angela Merkel",
       "url": "https://www.zeit.de/news/2024-07/26/ganz-liebe-gruesse-von-angela-merkel"
     },
@@ -970,22 +992,6 @@
     {
       "title": "Festspiel-Chefin: Katharina Wagner: Durften wunderbaren Abend erleben",
       "url": "https://www.zeit.de/news/2024-07/25/katharina-wagner-durften-wunderbaren-abend-erleben"
-    },
-    {
-      "title": "Richard-Wagner-Festspiele: Applaus und Buhs für neuen Bayreuther «Tristan»",
-      "url": "https://www.zeit.de/news/2024-07/25/applaus-und-buhs-fuer-neuen-bayreuther-tristan"
-    },
-    {
-      "title": "Kein Trinkwasser: Mehrere Wohnungen nach Kellerbrand ohne Wasser und Strom",
-      "url": "https://www.zeit.de/news/2024-07/25/mehrere-wohnungen-nach-kellerbrand-ohne-wasser-und-strom"
-    },
-    {
-      "title": "Psychischer Ausnahmezustand: Großeinsatz der Polizei in Hamburg - Mann in Gewahrsam",
-      "url": "https://www.zeit.de/news/2024-07/25/grosseinsatz-der-polizei-in-hamburg-mann-in-gewahrsam"
-    },
-    {
-      "title": "Konkurrenz für Google: ChatGPT-Macher testen Suchmaschine",
-      "url": "https://www.zeit.de/news/2024-07/25/chatgpt-macher-testen-suchmaschine"
     }
   ]
 }
