@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-29T11:00:56",
+  "timestamp": "2024-07-29T12:11:32",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Selenium Grid",
+      "url": "https://www.heise.de/news/Selenium-Grid-Unsichere-Standardkonfiguration-laesst-Krypto-Miner-passieren-9817016.html"
+    },
+    {
       "title": "Acronis Cyber Infrastructure",
       "url": "https://www.heise.de/news/Jetzt-patchen-Schadcode-Attacken-auf-Acronis-Cyber-Infrastructure-beobachtet-9816667.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Sicherheitsluecke-Entwickler-raten-zum-zuegigen-Patchen-von-Telerik-Report-Server-9814347.html"
     },
     {
-      "title": "ServiceNow",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Now-Platform-von-ServiceNow-9814238.html"
+      "title": "Selenium Grid: Unsichere Standardkonfiguration lässt Krypto-Miner passieren",
+      "teaser": "Das Framework für automatisierte Softwaretests Selenium Grid ist in den Standardeinstellungen verwundbar. Das nutzen Angreifer derzeit aus.",
+      "url": "https://www.heise.de/news/Selenium-Grid-Unsichere-Standardkonfiguration-laesst-Krypto-Miner-passieren-9817016.html",
+      "image_title": "Hacker mit Hoodie und Bitcoin-Maske vor einem Laptop"
     },
     {
       "title": "Angreifer nutzen Schadcode-Lücke in Acronis Cyber Infrastructure aus",
@@ -156,12 +162,6 @@
       "teaser": "Ein Blogartikel zum fehlerhaften Update beim Falcon Sensor erläutert haarklein den Testprozess der Software – nicht aber den der fatalen Regel-Aktualisierung.",
       "url": "https://www.heise.de/news/CrowdStrike-veroeffentlicht-Untersuchungsbericht-und-bleibt-Antworten-schuldig-9811796.html",
       "image_title": "Ein Windows-Bluescreen"
-    },
-    {
-      "title": "Docker: Alte Sicherheitslücke zur Rechteausweitung wieder aufgetaucht",
-      "teaser": "Eine Schwachstelle in den Autorisierung-Plug-ins hatte Docker 2019 geschlossen. Sie ist aber kurz danach als Regression wieder in die Engine eingeflossen.",
-      "url": "https://www.heise.de/news/Docker-Alte-Sicherheitsluecke-zur-Rechteausweitung-wieder-aufgetaucht-9811582.html",
-      "image_title": "Stilisiertes Bild Mann vor Container mit Server"
     },
     {
       "title": "Microsoft Cloud Security",
