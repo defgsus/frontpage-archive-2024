@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-29T06:09:14",
+  "timestamp": "2024-07-29T07:00:40",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -19,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.569072177e485ce932c7",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.dbdf93ed46a5c8615830",
       "id": null,
       "text": null
     },
@@ -48,10 +48,21 @@
       "url": "https://www.heise.de/news/Docker-Alte-Sicherheitsluecke-zur-Rechteausweitung-wieder-aufgetaucht-9811582.html"
     },
     {
+      "title": "Millionen Nutzer in der Phishing-Falle",
+      "teaser": "Eine gefälschte Version der Online-Bibliothek Z-Library hat Millionen von Besuchern angelockt und deren persönliche Daten abgegriffen.",
+      "url": "https://www.heise.de/news/Millionen-Nutzer-in-der-Phishing-Falle-9815932.html",
+      "image_title": "KI-Grafik einer virtuellen Bibliothek mit Buchregal und drumherum angeordneten Symbolen aus dem IT-Bereich"
+    },
+    {
       "title": "Whatsapp-Sicherheitslücke erlaubt Skript-Ausführung",
       "teaser": "Eine Sicherheitslücke in WhatsApp für Windows erlaubt das Versenden von Programm-Anhängen, die beim Öffnen direkt ohne Vorwarnung starten.",
       "url": "https://www.heise.de/news/Whatsapp-Sicherheitsluecke-erlaubt-Skript-Ausfuehrung-9815863.html",
       "image_title": "Computergrafik mit WhatsApp-Logo"
+    },
+    {
+      "title": "Datenpanne entlarvt US-Spyware-Hersteller",
+      "teaser": "Ein Datenleck bei einem US-Software-Hersteller enthüllte Daten, die das Ausspähen von Tausenden von Windows-, Mac-, Android- und Chromebook-Geräten belegen.",
+      "url": "https://www.heise.de/news/Datenpanne-entlarvt-US-Spyware-Hersteller-9815496.html"
     },
     {
       "title": "iX-Workshop: AWS-Sicherheit - Angriffe erkennen und abwehren",
@@ -60,28 +71,28 @@
       "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
     },
     {
-      "title": "UEFI Secure Boot: Hunderte Computer haben unsichere Kryptoschlüssel",
-      "teaser": "Sicherheitsexperten fanden mehr als 900 Rechner mit UEFI-Firmwares, die jeweils einen unsicheren Platform Key (PK) enthalten. Das unterminiert Secure Boot.",
-      "url": "https://www.heise.de/news/UEFI-Secure-Boot-Hunderte-Computer-haben-unsichere-Kryptoschluessel-9814730.html",
-      "image_title": "Screenshot des BIOS-Setup eines Mini-PC mit nicht vertrauenswürdigem UEFI Platform Key (PK)"
-    },
-    {
-      "title": "l+f: IT-Sicherheitsunternehmen stellt unbeabsichtigt Cyberkriminellen ein",
-      "teaser": "Missglücktes Bewerbungsverfahren: Security-Unternehmen stellt Spion ein und teilt die Erfahrung nun mit anderen.",
-      "url": "https://www.heise.de/news/l-f-IT-Sicherheitsunternehmen-stellt-unbeabsichtigt-Cyberkriminellen-ein-9814563.html",
-      "image_title": "Stilisiertes Bild: Suche liefert Spam und Malware"
-    },
-    {
       "title": "Sicherheitslücke: Entwickler raten zum zügigen Patchen von Telerik Report Server",
       "teaser": "Ein wichtiges Sicherheitsupdate schließt eine kritische Lücke in der IT-Management- und Reportinglösung Telerik Report Server.",
       "url": "https://www.heise.de/news/Sicherheitsluecke-Entwickler-raten-zum-zuegigen-Patchen-von-Telerik-Report-Server-9814347.html",
       "image_title": "Update-Logo auf Bildschirm"
     },
     {
+      "title": "Jetzt patchen! Angreifer attackieren Now Platform von ServiceNow",
+      "teaser": "Die Cloud Computing Plattform von ServiceNow ist derzeit im Visier von Angreifern und sie nutzen kritische Sicherheitslücken aus.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Now-Platform-von-ServiceNow-9814238.html",
+      "image_title": "Nullen und Einsen umgeben das Wort Hacked"
+    },
+    {
       "title": "iX-Workshop IT-Sicherheit: Pentests methodisch planen, anfordern und analysieren",
       "teaser": "Schritt für Schritt zum sicheren System: Penetrationstests methodisch planen, beauftragen und auswerten, um Schwachstellen in der eigenen IT aufzuspüren.",
       "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-Pentests-methodisch-planen-anfordern-und-analysieren-9807358.html",
       "image_title": "Penetrationstests: Methodik, Ausschreibung und Auswertung"
+    },
+    {
+      "title": "Windows-Update kann Nachfrage nach Bitlocker-Schlüssel auslösen",
+      "teaser": "Die Windows-Updates aus dem Juli sorgen vermehrt für Anfragen nach den Bitlocker-Schlüsseln. Wer die nicht gesichert hat, hat ein Problem.",
+      "url": "https://www.heise.de/news/Windows-Update-kann-Nachfrage-nach-Bitlocker-Schluessel-ausloesen-9813997.html",
+      "image_title": "Verzweifeltes Monster sitzt auf Laptop, das Windows Update ausführt"
     },
     {
       "title": "International agierende Hackergruppe aus Nordkorea enttarnt",
@@ -152,18 +163,6 @@
       "teaser": "SCADA-Systeme der SICAM-Reihe von Siemens kommen in kritischen Infrastrukturen zum Einsatz. Sicherheitsupdates schließen eine kritische Lücke.",
       "url": "https://www.heise.de/news/Siemens-SICAM-Angreifer-koennen-Admin-Passwort-zuruecksetzen-9811441.html",
       "image_title": "Umspannwerk in Bremen​"
-    },
-    {
-      "title": "Das Crowdstrike-Fiasko: Ursachenforschung und erste Lehren",
-      "teaser": "Nach dem vielleicht größten Ausfall der IT-Geschichte analysiert Jürgen Schmidt, was genau schiefgelaufen ist – und vor allem, wie es zukünftig besser ginge.",
-      "url": "https://www.heise.de/hintergrund/Das-Crowdstrike-Fiasko-Ursachenforschung-und-erste-Lehren-9811045.html",
-      "image_title": "Blackout,Concept.,Emergency,Failure,Red,Light,In,Data,Center,With"
-    },
-    {
-      "title": "\"Passwort\" Folge 7: Prompt Injections",
-      "teaser": "Im Podcast von heise security geht es diesmal um Prompt Injections, also Angriffe auf Systeme mit KI-Unterbau – gegen die es keinen vollständigen Schutz gibt.",
-      "url": "https://www.heise.de/news/Passwort-Folge-7-Prompt-Injections-9785133.html",
-      "image_title": "Bild vom heise-Security-Podcast"
     },
     {
       "title": "Microsoft Cloud Security",
