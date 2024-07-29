@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-29T02:33:49",
+  "timestamp": "2024-07-29T03:07:18",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -14,6 +14,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -105,8 +111,8 @@
       "image_title": "golanhoehen-israel-raketenangriff-hisbollah"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Liveblog:Krieg in Israel und Gaza : USA machen Hisbollah für Raketenangriff auf Golanhöhen verantwortlich",
-      "teaser": "Die US-Regierung ist sich sicher, dass die Rakete aus einem von der schiitischen Miliz kontrollierten Gebiet kam. In Majdal Shams wünscht man sich Frieden. Das Liveblog",
+      "title": "Z+ (abopflichtiger Inhalt); Liveblog:Krieg in Israel und Gaza : Israels Sicherheitskabinett billigt Vergeltungsschlag gegen Hisbollah",
+      "teaser": "Nach dem Raketenangriff auf die Golanhöhen bereitet Israel einen Gegenschlag gegen die Hisbollah vor. Familien der Toten lehnen Treffen mit Netanjahu ab. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/2023-12/news-israel-gaza-krieg-live",
       "image_url": "https://img.zeit.de/politik/ausland/2024-07/israel-libanon-golanhoehen/super__430x286"
     },
@@ -162,8 +168,8 @@
       "image_url": "https://img.zeit.de/politik/deutschland/2024-07/polizei-cdu-grenzkontrollen/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Präsidentenwahl in Venezuela : Oppositionspolitikerin ruft nach Wahl zu Verbleib in Stimmlokalen auf",
-      "teaser": "In Venezuela haben Bürger ein Recht darauf, bei der Stimmauszählung zuzuschauen. Die Opposition ruft ihre Wähler auf, davon Gebrauch zu machen. Nicht überall gelingt das.",
+      "title": "Z+ (abopflichtiger Inhalt); Präsidentenwahl in Venezuela : Opposition berichtet nach Wahl von Unregelmäßigkeiten",
+      "teaser": "In Venezuela haben Bürger ein Recht darauf, bei der Stimmauszählung zuzuschauen. Nicht immer gelinge das, berichtet die Opposition und meldet Einschüchterungsversuche.",
       "url": "https://www.zeit.de/politik/ausland/2024-07/venezuela-praesidentenwahl-stimmauszaehlung-beobachter",
       "image_url": "https://img.zeit.de/politik/ausland/2024-07/venezuela-praesidentenwahl-maria-corina-machado-bild/super__430x286"
     },
@@ -247,12 +253,6 @@
       "image_url": "https://img.zeit.de/politik/deutschland/2024-07/cdu-linnemann/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Ampelkoalition : FDP-Chef Christian Lindner schließt Koalition unter grünem Kanzler aus",
-      "teaser": "Der FDP-Vorsitzende Christian Lindner will seine Partei nicht an einer möglichen grün geführten Regierung beteiligen. Deutschland dürfe nicht nach links rücken.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-07/christian-lindner-fdp-koalition-gruene-sommerinterview",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-07/christian-lindner-fdp-koalition-gruene-sommerinterview-bild/super__430x286"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Gegenstände öffnen : Deckel, öffne dich!",
       "teaser": "\"Rose, wie bekomme ich klemmende Schraubdeckel, Türklinken oder Wasserhähne auf?\" – fragt Rosemarie.",
       "url": "https://www.zeit.de/entdecken/2024-07/gegenstaende-oeffnen-klemmen-kraft-alltag",
@@ -290,22 +290,22 @@
       "image_url": "https://img.zeit.de/kultur/literatur/2024-07/irische-schriftstellerin-edna-o-brien-gestorben-bild/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Kamala Harris : Ihr zweites Gesicht",
+      "teaser": "Sie war eine harte Staatsanwältin, als Vizepräsidentin blieb sie fast unsichtbar. Hat Kamala Harris das Zeug dazu, die Demokraten jetzt in die Offensive zu bringen?",
+      "url": "https://www.zeit.de/2024/32/kamala-harris-us-wahl-kandidatur-demokraten-wahlkampf",
+      "image_url": "https://img.zeit.de/2024/32/ihr-zweites-gesicht-bild-1/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Sparpunkte : Punktesammeln ist Abzocke? Nicht, wenn man es klug macht",
+      "teaser": "Sie greifen sensible Daten ab und verführen zu unnötigen Käufen: Vorurteile gegen Payback und Co. gibt es viele. Unser Autor kann fast alle entkräften. Und kassiert.",
+      "url": "https://www.zeit.de/entdecken/2024-07/sparpunkte-payback-daten-spam-supermarkt",
+      "image_url": "https://img.zeit.de/zeit-verlag/2024-07/sparen-geld-sparpunkte-spritpreise-bild-3/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Spätes Coming-out : \"Kinder sind tolerant, die Erwachsenen sind das Problem\"",
       "teaser": "Sie realisierten erst nach der Familiengründung, dass sie queer sind. Drei Elternteile erzählen von Schmerz und Glück ihres Coming-outs – und wie es danach weiterging.",
       "url": "https://www.zeit.de/familie/2024-07/spaetes-coming-out-queere-eltern-partner-kinder",
       "image_url": "https://img.zeit.de/familie/2024-07/spaetes-coming-out-queere-eltern-partner-kinder-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Essstörungen im Klettersport : \"Es geht halt nicht, wenn man nichts isst\"",
-      "teaser": "Viele Kletterer kämpfen mit ihrem Gewicht. Wie Nuria Brockfeld, die von Olympia träumte – und eine Essstörung entwickelte. Müsste man die Sportler besser schützen?",
-      "url": "https://www.zeit.de/sport/2024-07/essstoerungen-klettersport-red-s-syndrom-gefahr-nuria-brockfeld",
-      "image_url": "https://img.zeit.de/sport/2024-07/essstoerungen-klettersport-red-s-syndrom-gefahr-nuria-brockfeld-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Erkrankungen aus Alkoholkonsum : Warum Alkohol für Frauen besonders gefährlich ist",
-      "teaser": "Frauen neigen dazu, bei Stress zu viel Alkohol zu trinken. Vor allem hochgebildete. Dabei schadet Alkohol ihrem Körper schneller und stärker als dem von Männern.",
-      "url": "https://www.zeit.de/gesundheit/2024-07/erkrankung-sucht-alkoholkonsum-frauen-wein",
-      "image_url": "https://img.zeit.de/gesundheit/2024-07/erkrankung-sucht-alkoholkonsum-frauen-wein-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Olympische Spiele : DFB-Frauen verlieren 4:1 gegen die USA",
@@ -344,16 +344,16 @@
       "image_url": "https://img.zeit.de/sport/2024-07/olympia-hockey-deutschland-japan-paris-bild/super__320x213"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Ampelkoalition : FDP-Chef Christian Lindner schließt Koalition unter grünem Kanzler aus",
+      "teaser": "Der FDP-Vorsitzende Christian Lindner will seine Partei nicht an einer möglichen grün geführten Regierung beteiligen. Deutschland dürfe nicht nach links rücken.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-07/christian-lindner-fdp-koalition-gruene-sommerinterview",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-07/christian-lindner-fdp-koalition-gruene-sommerinterview-bild/super__320x213"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Migration : Günther nennt Grenzkontrollen \"wichtiges und probates Mittel\"",
       "teaser": "Schleswig-Holsteins Ministerpräsident will mehr Grenzkontrollen und weniger Migration. Sein Land sei Einwanderern gegenüber jedoch positiv eingestellt.",
       "url": "https://www.zeit.de/politik/2024-07/guenther-grenzkontrollen-schleswig-holstein-grenze",
       "image_url": "https://img.zeit.de/politik/deutschland/2024-07/guenther-grenzkontrollen-schleswig-holstein-grenze-bild/super__320x213"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Deutsche Bahn : Ministerpräsident Bodo Ramelow fordert radikale Bahnreform",
-      "teaser": "Thüringens Ministerpräsident bezeichnet die Bahn als chaotisch. Das Netz solle vom Betrieb getrennt und in eine gemeinnützige Stiftung überführt werden.",
-      "url": "https://www.zeit.de/politik/2024-07/bahn-ramelow-reform-netz",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-07/bahn-ramelow-reform-netz-bild/super__320x213"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Erholung im Urlaub : \"Blau ist besser als Grün\"",
@@ -664,10 +664,10 @@
       "image_url": "https://img.zeit.de/politik/deutschland/2024-07/faeser-abschiebungen-fluechtline-syrien-afghanistan-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Iran : Wahlsieger Peseschkian zum neuen Präsidenten des Iran ernannt",
-      "teaser": "Peseschkian erhielt am Sonntag die Ernennungsurkunde. Der als moderat geltende Politiker hatte die Wahl im Juli gegen den Hardlinerkandidaten Said Dschalili gewonnen.",
-      "url": "https://www.zeit.de/politik/2024-07/iran-praesident-massud-peseschkian",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-07/iran-praesident-massud-peseschkian-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Deutsche Bahn : Ministerpräsident Bodo Ramelow fordert radikale Bahnreform",
+      "teaser": "Thüringens Ministerpräsident bezeichnet die Bahn als chaotisch. Das Netz solle vom Betrieb getrennt und in eine gemeinnützige Stiftung überführt werden.",
+      "url": "https://www.zeit.de/politik/2024-07/bahn-ramelow-reform-netz",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-07/bahn-ramelow-reform-netz-bild/super__430x286"
     },
     {
       "title": "Verlagsangebot : Quiz über die Wahlen 2024 in den USA: Testen Sie Ihr Wissen!",
@@ -926,10 +926,10 @@
       "image_url": "https://img.zeit.de/gesundheit/2024-07/eu-arzneimittelbehoerde-ema-alzheimer-lecanemab-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Infektionskrankheit : Brasilien verzeichnet weltweit erste Todesfälle durch Oropouche-Fieber",
-      "teaser": "Das Oropouche-Fieber wird durch Fliegen und Mücken übertragen, in Brasilien wurden 2024 mehr als 7.000 Fälle registriert. Erstmals sind nun zwei Frauen daran gestorben.",
-      "url": "https://www.zeit.de/wissen/2024-07/oropouche-fieber-brasilien-todesfaelle-infektionskrankheit",
-      "image_url": "https://img.zeit.de/gesundheit/2024-07/oropouche-fieber-brasilien-todesfaelle-infektionskrankheit-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Erkrankungen aus Alkoholkonsum : Warum Alkohol für Frauen besonders gefährlich ist",
+      "teaser": "Frauen neigen dazu, bei Stress zu viel Alkohol zu trinken. Vor allem hochgebildete. Dabei schadet Alkohol ihrem Körper schneller und stärker als dem von Männern.",
+      "url": "https://www.zeit.de/gesundheit/2024-07/erkrankung-sucht-alkoholkonsum-frauen-wein",
+      "image_url": "https://img.zeit.de/gesundheit/2024-07/erkrankung-sucht-alkoholkonsum-frauen-wein-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); KI von Meta : So gefährlich sieht dieses Llama doch gar nicht aus",
@@ -980,11 +980,11 @@
       "image_url": "https://img.zeit.de/campus/2024/04/ich-glaube-nicht-an-glueck-bild-1/wide__892x501"
     },
     {
-      "title": "Verlagsangebot : Nicht nur irgendwas studieren",
-      "teaser": "Studieren! Aber was? Der Studiuminteressentest unterstützt Unschlüssige bei ihrer Suche nach dem passenden Studium, basierend auf den eigenen Interessen.",
-      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.textbild.schwarzer-hut_nichtnurirgendwas.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=sit_textbild_schwarzer-hut_nichtnurirgendwas_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-2-klein/brooke-cagle-tlg2hcpitze-unsplash-197.jpg",
-      "image_title": "Nicht nur irgendwas studieren"
+      "title": "Verlagsangebot : Persönlichkeit als Door Opener",
+      "teaser": "Immer mehr Unternehmen setzen bei ihren Bewerbern auf die Persönlichkeit. Auf der Suche nach einem Job stellt der Berufstest die eigenen Stärken in den Mittelpunkt.",
+      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.textbild.frau-smartphone_dooropener.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=bot_textbild_frau-smartphone_dooropener_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-boa-index-teaser-1-klein/bruce-mars-fwvmhua-wby-unsplash.jpg",
+      "image_title": "Persönlichkeit als Door Opener"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Antisemitismus : Mehrere jüdische Hochschullehrende stehen unter Personenschutz",
@@ -1054,36 +1054,36 @@
       "image_url": "https://img.zeit.de/wissen/2024-07/paris-olympische-spiele-seine-wasserqualitaet-schwimmen-bild/super__430x286"
     },
     {
+      "title": "Formel 1: Russell bricht es «das Herz»: Mercedes auf Spurensuche",
+      "url": "https://www.zeit.de/news/2024-07/29/russell-bricht-es-das-herz-mercedes-auf-spurensuche"
+    },
+    {
+      "title": "Tourismus: Die neunjährige Greta ist Kinderkurdirektorin an der Ostsee",
+      "url": "https://www.zeit.de/news/2024-07/29/die-neunjaehrige-greta-ist-kinderkurdirektorin-an-der-ostsee"
+    },
+    {
+      "title": "Olympia-Fußball: DFB-Frauen setzen auf Sieg gegen Sambia",
+      "url": "https://www.zeit.de/news/2024-07/29/dfb-frauen-setzen-auf-sieg-gegen-sambia"
+    },
+    {
+      "title": "Konflikte: Im sächsischen Wahlkampf geht es auch um Krieg und Frieden",
+      "url": "https://www.zeit.de/news/2024-07/29/im-saechsischen-wahlkampf-geht-es-auch-um-krieg-und-frieden"
+    },
+    {
+      "title": "In Hannover: Forum für Missbrauchs-Betroffene in evangelischer Kirche",
+      "url": "https://www.zeit.de/news/2024-07/29/forum-fuer-missbrauchs-betroffene-in-evangelischer-kirche"
+    },
+    {
+      "title": "Kinderbetreuung: Kita-Jahr startet in NRW: noch viel zu tun",
+      "url": "https://www.zeit.de/news/2024-07/29/kita-jahr-startet-in-nrw-noch-viel-zu-tun"
+    },
+    {
+      "title": "Allein 10 Milliarden 2023: Dax-Konzerne bekommen Milliarden an Subventionen vom Staat",
+      "url": "https://www.zeit.de/news/2024-07/29/dax-konzerne-bekommen-milliarden-an-subventionen-vom-staat"
+    },
+    {
       "title": "Leute: Oliver Wnuk: Seit «Stromberg» hat sich die Welt verändert",
       "url": "https://www.zeit.de/news/2024-07/29/oliver-wnuk-seit-stromberg-hat-sich-die-welt-veraendert"
-    },
-    {
-      "title": "Unfall: 25-Jähriger stürzt mit Motorrad und verletzt sich schwer",
-      "url": "https://www.zeit.de/news/2024-07/29/25-jaehriger-stuerzt-mit-motorrad-und-verletzt-sich-schwer"
-    },
-    {
-      "title": "Lage im Überblick: Israel billigt Vergeltungsschlag gegen Hisbollah",
-      "url": "https://www.zeit.de/news/2024-07/29/israel-billigt-vergeltungsschlag-gegen-hisbollah"
-    },
-    {
-      "title": "Hoher Alkoholwert: Betrunkener Radler stürzt und verletzt sich schwer",
-      "url": "https://www.zeit.de/news/2024-07/29/betrunkener-radler-stuerzt-und-verletzt-sich-schwer"
-    },
-    {
-      "title": "Bürokratie: Bauordnung soll entschlackt werden",
-      "url": "https://www.zeit.de/news/2024-07/29/bauordnung-soll-entschlackt-werden"
-    },
-    {
-      "title": "Medien: Pilotprojekt: Medienerziehung für Kleinkinder in Kita",
-      "url": "https://www.zeit.de/news/2024-07/29/pilotprojekt-medienerziehung-fuer-kleinkinder-in-kita"
-    },
-    {
-      "title": "Energie: Neue Großwärmepumpen nutzen Flusswasser und Rechenzentren",
-      "url": "https://www.zeit.de/news/2024-07/29/neue-grosswaermepumpen-nutzen-flusswasser-und-rechenzentren"
-    },
-    {
-      "title": "Bündnis Sahra Wagenknecht: Thüringer BSW will in Regierung an Friedensthema festhalten",
-      "url": "https://www.zeit.de/news/2024-07/29/thueringer-bsw-will-in-regierung-an-friedensthema-festhalten"
     }
   ]
 }
