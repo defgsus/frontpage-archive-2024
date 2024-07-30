@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-30T03:07:55",
+  "timestamp": "2024-07-30T04:07:48",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -14,6 +14,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -104,22 +110,16 @@
       "image_url": "https://img.zeit.de/politik/deutschland/2024-07/bundesverfassungsgericht-wahlrechtsreform-entscheidung/wide__1000x562"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Südlibanon : Für sie herrscht längst Krieg",
-      "teaser": "Die Menschen im israelisch-libanesischen Grenzgebiet leben mit der Angst vor einer Eskalation. Nun spitzt sich die Lage zu, auch die Blauhelmtruppen sind machtlos.",
-      "url": "https://www.zeit.de/politik/ausland/2024-07/israelisch-libanesisches-grenzgebiet-leben-hisbollah-nahostkrieg-israel-libanon",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-07/israelisch-libanesisches-grenzgebiet-leben-hisbollah-nahostkrieg-israel-libanon-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Recep Tayyip Erdoğan : Seine militanten Fantasien",
-      "teaser": "Recep Tayyip Erdoğans Drohungen gegen Israel sind verstörend. Was daraus folgt, ist aber unklar. Und langfristig könnte sich der türkische Präsident selbst schaden.",
-      "url": "https://www.zeit.de/politik/ausland/2024-07/recep-tayyip-erdogan-tuerkei-israel-drohung-regierung",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-07/recep-tayyip-erdogan-tuerkei-israel-drohung-regierung-bild-2/super__430x286"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Liveblog:Krieg in Israel und Gaza : Israel fordert Nato zu Ausschluss der Türkei auf",
       "teaser": "Angesichts der Drohungen des türkischen Präsidenten fordert Israel Konsequenzen. Benjamin Netanjahu macht Hamas für stockende Verhandlungen verantwortlich. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/2023-12/news-israel-gaza-krieg-live",
       "image_url": "https://img.zeit.de/politik/2024-07/israel-erdogan-nato-bild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Südlibanon : Für sie herrscht längst Krieg",
+      "teaser": "Die Menschen im israelisch-libanesischen Grenzgebiet leben mit der Angst vor einer Eskalation. Nun spitzt sich die Lage zu, auch die Blauhelmtruppen sind machtlos.",
+      "url": "https://www.zeit.de/politik/ausland/2024-07/israelisch-libanesisches-grenzgebiet-leben-hisbollah-nahostkrieg-israel-libanon",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-07/israelisch-libanesisches-grenzgebiet-leben-hisbollah-nahostkrieg-israel-libanon-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Gefangenenlager Sde Teiman : Proteste vor Militärstützpunkt nach Festnahme von Soldaten eskalieren",
@@ -128,26 +128,32 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-07/gefangenenlager-proteste/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Nachrichtenpodcast : Erdoğan droht Israel mit militärischer Intervention",
+      "teaser": "Der türkische Präsident droht, sich in den Gazakrieg einzumischen. Wie ernst ist es ihm damit? Und: J. D. Vance irritiert mit Aussage über Kinderlose.",
+      "url": "https://www.zeit.de/politik/2024-07/tuerkei-israel-recep-tayyip-erdogan-nachrichtenpodcast",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Gerichtsreform in den USA : US-Präsident Biden bestätigt Plan zur Reform des Obersten Gerichtshofs",
       "teaser": "Teil der Reform des Supreme Courts soll eine Begrenzung der Amtszeit von Richterinnen und Richtern auf 18 Jahre sein. Bisher werden sie auf Lebenszeit ernannt.",
       "url": "https://www.zeit.de/politik/ausland/2024-07/biden-reform-oberster-gerichtshof-trump-usa",
       "image_url": "https://img.zeit.de/politik/ausland/2024-07/biden-usa-reform-supreme-court/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Ampelkoalition : Geht auseinander!",
-      "teaser": "Christian Lindner und Rolf Mützenich spielen das Lied von Wir sind Helden: Zusammen geht's nicht mehr, aber Alleinsein macht Angst. Was die Ampel noch tun kann.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-07/ampelkoalition-bundestagswahl-regierung-beziehung-berliner-machtleben",
-      "image_url": "https://img.zeit.de/zeit-verlag/2024-07/ampelkoalition-bundestagswahl-regierung-beziehung-berliner-machtleben-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Olympische Sommerspiele : Triathlon der Männer wegen schmutzigen Seine-Wassers verschoben",
+      "teaser": "Wie schon in den vergangenen Tagen lässt die Wasserqualität der Seine es nicht zu, dass in dem Fluß geschwommen wird. Der Triathlon soll nun am Mittwoch stattfinden.",
+      "url": "https://www.zeit.de/sport/2024-07/olympische-sommerspiele-2024-triathlon-maenner-verschiebung-seine-verschmutzung",
+      "image_url": "https://img.zeit.de/sport/2024-07/seine-wasser-olympische-spiele-triathlon-verschoben/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Wohnungsnot : 10.000 Euro für den Umzug aufs Land",
-      "teaser": "Der Appell von Wohnministerin Klara Geywitz, bitte schön den freien Wohnraum auf dem Land zu nutzen, ist wohlfeil. Solange echte Anreize fehlen, wird das schwierig.",
-      "url": "https://www.zeit.de/wirtschaft/2024-07/wohnungsnot-wohnraum-land-stadt-klara-geywitz",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-07/wohnungsnot-wohnraum-land-stadt-klara-geywitz-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Vermögensaufbau : Warum Sie auch dieses Jahr nicht reich werden",
+      "teaser": "Viele denken, dass man schnell reich wird, wenn man nur anfängt, Geld anzulegen. Warum das nicht klappt, und wie Sie dennoch ein Vermögen aufbauen können.",
+      "url": "https://www.zeit.de/geld/2024-06/vermoegensaufbau-investitionen-aktien-geldverbesserer",
+      "image_url": "https://img.zeit.de/geld/2024-06/vermoegensaufbau-investitionen-aktien-geldverbesserer-bild/wide__892x501"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Präsidentschaftswahl : Opposition in Venezuela beansprucht Sieg in allen Bundesstaaten",
-      "teaser": "Venezuelas Opposition zweifelt das offizielle Wahlergebnis an und will Beweise für den Sieg ihres Kandidaten vorlegen. Bei Demonstrationen gegen Maduro fallen Schüsse.",
+      "teaser": "Venezuelas Opposition will Beweise für den Sieg ihres Kandidaten vorlegen. Bei Demonstrationen gegen Maduro soll mindestens ein Mensch getötet worden sein.",
       "url": "https://www.zeit.de/politik/ausland/2024-07/venezuela-praesidentenwahl-opposition-nicolas-maduro",
       "image_url": "https://img.zeit.de/politik/ausland/2024-07/venezuela-opposition-pressekonferenz-bild/super__430x286"
     },
@@ -158,46 +164,22 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-07/usa-anschlag-trump-fbi-attentaeter/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Großbritanniens Konservative : Kopflos in die Zukunft",
-      "teaser": "Nach der Wahlniederlage suchen die Torys nach einer neuen Parteispitze, mit der Siege wieder möglich sind. Doch das Kandidatenangebot ist dürftig.",
-      "url": "https://www.zeit.de/politik/2024-07/grossbritannien-tory-vorsitz-parteifuehrung-rishi-sunak",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-07/grossbritannien-tory-vorsitz-parteifuehrung-rishi-sunak-bild/super__430x286"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Serbien : Tausende Serben protestieren gegen Lithiumabbau",
       "teaser": "Die EU will unabhängiger von China werden und in Serbien ein milliardenschweres Lithiumvorkommen abbauen lassen. Im ganzen Land protestierten Menschen gegen das Projekt.",
       "url": "https://www.zeit.de/politik/ausland/2024-07/eu-serbien-lithium-abbau-protest-e-autos",
       "image_url": "https://img.zeit.de/politik/ausland/2024-07/serbien-proteste/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Spanien : In Katalonien einigen sich Separatisten und Sozialisten auf Regierung",
-      "teaser": "Seit den Wahlen im Mai ringen Sozialisten und Separatisten um eine neue Regierung. Ihr Chef könnte Sozialist Salvador Illa werden, ein Befürworter der Einheit Spaniens.",
-      "url": "https://www.zeit.de/politik/ausland/2024-07/spanien-katalonien-separatisten-sozialisten-regierung",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-07/illa-spanien-katalonien/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); WHO-Untersuchung : Ein Viertel junger Frauen in Beziehungen erlebt Gewalt",
+      "teaser": "Einer Erhebung der Weltgesundheitsorganisation zufolge erleben viele junge Frauen im Teenageralter Gewalt in Beziehungen. Die WHO fordert Aufklärung darüber in Schulen.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-07/who-studie-junge-frauen-gewalt-beziehung",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-07/frauen-gewalt/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Heiligenschein-Effekt : Was macht Schönheit mit dem Charakter?",
-      "teaser": "Attraktive Menschen gelten als leistungsfähiger, ehrlicher, freundlicher, intelligenter und sympathischer. Das kann zur selbst erfüllenden Prophezeiung werden.",
-      "url": "https://www.zeit.de/zeit-wissen/2024/04/marilyn-monroe-syndrom-schoenheit-charakter-pretty-privilege",
-      "image_url": "https://img.zeit.de/zeit-wissen/2024/04/2-was-macht-schoenheit-mit-dem-charakter-bild-1/wide__892x501"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Schönheitsideale : Meine Oma, meine Mutter, unsere Diäten und ich",
-      "teaser": "Welches Verständnis von Körper und Ernährung vermittle ich meinen Kindern, fragte sich unsere Autorin. Sie fand: eine Familiengeschichte voller weiblichem Essensverzicht.",
-      "url": "https://www.zeit.de/familie/2024-07/schoenheitsideale-frauen-koerper-dieaet-essen-gesundheit-familie",
-      "image_url": "https://img.zeit.de/familie/2024-07/schoenheitsideale-frauen-koerper-dieaet-essen-gesundheit-familie-mutter/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Treue : Kannst du dich auf mich verlassen?",
-      "teaser": "Die Treue hat heute keinen guten Ruf mehr. Dennoch brauchen wir sie dringend: Treue hilft uns, in der Welt nicht verloren zu gehen.",
-      "url": "https://www.zeit.de/2024/32/treue-beziehung-gesellschaft-vertrauen-bestaendigkeit",
-      "image_url": "https://img.zeit.de/2024/32/kannst-du-dich-auf-mich-verlassen-bild-1/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Sexarbeit : \"Als Escort spiele ich keine Rolle, sondern ich komme als Mensch\"",
-      "teaser": "Ben Nordmann ist buchbar – für Dates, Nähe, Sex. Er will Frauen helfen, die mit sich und ihrer Sexualität kämpfen. Wo Therapeuten die Grenze ziehen, beginnt seine Arbeit.",
-      "url": "https://www.zeit.de/gesundheit/2024-07/sexarbeit-callboy-unterstuetzung-frauen-sexpodcast",
-      "image_url": "https://img.zeit.de/gesundheit/2024-07/sexarbeit-callboy-unterstuetzung-frauen-sexpodcast-ben-nordmann/wide__892x501"
+      "title": "Z+ (abopflichtiger Inhalt); Hitze • Das Beste aus Z+ : Das passiert bei Hitze in unserem Körper",
+      "teaser": "Das Herz pumpt, Hirnhäute glühen und Neurotransmitter geraten aus dem Gleichgewicht. Der Mensch reagiert extrem auf hohe Temperatur. Eine Reise durch den erhitzten Körper",
+      "url": "https://www.zeit.de/gesundheit/2024-07/hitze-waermebelastung-koerper-herz-kreislauf-schutz",
+      "image_url": "https://img.zeit.de/gesundheit/2024-07/hitze-waermebelastung-koerper-herz-kreislauf-schutz-teaser/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Surfen bei den Olympischen Spielen : Die Welle von Teahupo'o",
@@ -206,46 +188,17 @@
       "image_url": "https://img.zeit.de/sport/2024-07/olympia-surfen-tahiti-paris-welle-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Turmspringen bei den Olympischen Spielen : Der Turmspringer, der nicht nach unten schaut",
-      "teaser": "Timo Barthel und Jaden Eikermann wollten eine Turmspringmedaille, sie wurden Siebte. Barthel springt nicht nur gegen die Konkurrenz. Sondern auch gegen die Höhenangst.",
-      "url": "https://www.zeit.de/sport/2024-07/olympische-spiele-turmspringen-timo-barthel-jaden-eikermann-hoehenangst",
-      "image_url": "https://img.zeit.de/sport/2024-07/olympische-spiele-turmspringen-timo-barthel-jaden-eikermann-hoehenangst-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); \"Boy sober\" : Wenn Sally keinen Bock mehr auf Harry hat",
+      "teaser": "Unter dem Schlagwort \"boy sober\" geloben Frauen im Netz, keinen Sex mehr mit Männern zu haben. Das ist nicht das Ende der Romantik, sondern der Versuch einer Entgiftung.",
+      "url": "https://www.zeit.de/kultur/2024-07/boy-sober-tiktok-trend-dating-social-media",
+      "image_url": "https://img.zeit.de/kultur/film/2024-07/sex-romantik-koemodie/super__430x286",
+      "image_title": "Sex Romantik Kömodie"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Psychotherapie • Das Beste aus Z+ : \"Seien Sie glücklich, und enttäuschen Sie Ihre Eltern\"",
-      "teaser": "Depressionen sind der Dank für jahrelanges Artigsein. Und: Wer loslässt, hat zwei Hände frei. Diese 100 Sätze haben unsere Leser aus ihrer Therapie mitgenommen.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2024-07/psychotherapie-psychologie-mentale-gesundheit-inspiration",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-07/psychotherapie-psychologie-mentale-gesundheit-inspiration-teaser/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Identitäre Bewegung : Tausende protestieren gegen Rechtsextremisten Martin Sellner",
-      "teaser": "In Marburg wollte Rechtsextremist Martin Sellner aus seinem Buch \"Remigration\" lesen. Rund 3.000 Menschen gingen dagegen auf die Straße. Die Polizei war im Einsatz.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-07/martin-sellner-rechtsextremist-marburg-lesung-protest",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-07/marburg-lesung-rechtsextremist-martin-sellner-kundgebung/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Schwangerschaftsabbrüche • Z+ Empfehlung : \"100 Schwangerschaftsabbrüche im Jahr, 39 Jahre lang\"",
-      "teaser": "Wolfram Franz, 75, führte Tausende Schwangerschaftsabbrüche durch. Zuweilen war es auch für ihn schwer auszuhalten. Ein Gespräch über Verzweiflung und Selbstbestimmung",
-      "url": "https://www.zeit.de/arbeit/2024-07/schwangerschaftsabbrueche-gynaekologie-paragraf-218-selbstbestimmung-leben",
-      "image_url": "https://img.zeit.de/arbeit/2024-07/schwangerschaftsabbrueche-gynaekologie-paragraf-218-2/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Verkehrsunfälle : So viele Unfälle passieren auf Ihrem täglichen Weg",
-      "teaser": "Wie gefährlich ist die Strecke, die Sie zur Arbeit, zur Schule oder zum Supermarkt fahren? Unser interaktives Tool zeigt Ihnen, welche Straßen besonders riskant sind.",
-      "url": "https://www.zeit.de/mobilitaet/2024-07/verkehrsunfaelle-strassen-fahrrad-schulweg-arbeitsweg-karte-statistik",
-      "image_url": "https://img.zeit.de/mobilitaet/2024-07/verkehrsunfaelle-strassen-fahrrad-schulweg-arbeitsweg-karte-teaser/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Abschiebung von Robert Azirović : \"Ich kenne nur dieses Land, Chemnitz ist meine Heimat\"",
-      "teaser": "Seine Mutter gab ihm einen falschen Namen – um ihn zu schützen. Als er endlich seine Identität klären kann, droht ihm die Abschiebung. Nach 30 Jahren. Ist das gerecht?",
-      "url": "https://www.zeit.de/gesellschaft/2024-07/abschiebung-serbien-sachsen-chemnitz-haertefall-robert-azirovic",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-07/abschiebung-serbien-sachsen-chemnitz-haertefall-robert-5/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Festival Rock’n Wagon : Heimat, die wehtut",
-      "teaser": "Drei Freunde kehren aufs Land in die Oberlausitz zurück. In eine Gegend, in der die AfD sehr stark ist. Sie wollen dagegen ankämpfen – zum Beispiel mit einem Festival.",
-      "url": "https://www.zeit.de/2024/32/festival-rockn-wagon-musik-sachsen-ostdeutschland-rechtsextremismus",
-      "image_url": "https://img.zeit.de/2024/32/heimat-die-wehtut-teaserbild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Spitzensport : Die mentalen Tricks der Topathleten",
+      "teaser": "Am Ende entscheidet sich im Kopf, ob Sportler und Athletinnen olympische Höchstleistungen erbringen. Die Kniffe, die sie nutzen, können auch im Alltag hilfreich sein.",
+      "url": "https://www.zeit.de/zeit-wissen/2024/04/spitzensport-olympia-alltag-psychologie-tipps",
+      "image_url": "https://img.zeit.de/zeit-wissen/2024/04/der-siebenkampf-deines-lebens-bild-1/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Rechtsanwalt : \"Ich verdiene 11.000 Euro im Monat\"",
@@ -254,54 +207,40 @@
       "image_url": "https://img.zeit.de/arbeit/2023-05/anzug/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Onlinemagie : Heute im Angebot: Abnehmzauber und Todesflüche",
-      "teaser": "Auf etsy.com handeln Hexen mit Zaubersprüchen und okkulten Ritualen. Die Welt der Onlinemagie ist lukrativ – und lockt Menschen an, die Orientierung suchen.",
-      "url": "https://www.zeit.de/zeit-magazin/2024-07/online-magie-etsy-zauber-aengste",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-07/wochenende-online-magie-etsy-zauber-aengste-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Abschiebung von Robert Azirović : \"Ich kenne nur dieses Land, Chemnitz ist meine Heimat\"",
+      "teaser": "Seine Mutter gab ihm einen falschen Namen – um ihn zu schützen. Als er endlich seine Identität klären kann, droht ihm die Abschiebung. Nach 30 Jahren. Ist das gerecht?",
+      "url": "https://www.zeit.de/gesellschaft/2024-07/abschiebung-serbien-sachsen-chemnitz-haertefall-robert-azirovic",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-07/abschiebung-serbien-sachsen-chemnitz-haertefall-robert-5/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Attraktivität in der Beziehung : \"Was willst du denn mit so einem?!\"",
-      "teaser": "Ist ein Partner deutlich attraktiver als der andere, kann das die Beziehung belasten. Drei Menschen berichten, wie ihre Liebe daran gescheitert ist.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2023-12/attraktivitaet-beziehung-unterschiede-belastung",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023-12/attraktivitaet-beziehung-unterschiede-belastung-teaser/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Faltenröcke : Das rockt",
+      "teaser": "Mit einem Faltenrock kann man modisch nichts falsch machen. Im kommenden Herbst ist er für alle da, nicht nur für Männer, sondern endlich auch wieder für Frauen.",
+      "url": "https://www.zeit.de/zeit-magazin/2024/32/faltenroecke-mode-geschichte-stil",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024/32/das-rockt-bild-1/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Wolfgang Rihm : Den Klang von innen nach außen lassen",
-      "teaser": "Mit Wolfgang Rihm ist einer der größten Komponisten der Gegenwart gestorben. Die Fülle und Vielfalt seines musikalischen Schaffens sind geradezu beispiellos. Ein Nachruf",
-      "url": "https://www.zeit.de/kultur/musik/2024-07/wolfgang-rihm-komponist-musik-komposition-nachruf",
-      "image_url": "https://img.zeit.de/kultur/musik/2024-07/wolfgang-rihm-komponist-musikwissenschaftler-essayist/wide__892x501",
-      "image_title": "Wolfgang Rihm Komponist Musikwissenschaftler Essayist"
+      "title": "Z+ (abopflichtiger Inhalt); Heiligenschein-Effekt : Was macht Schönheit mit dem Charakter?",
+      "teaser": "Attraktive Menschen gelten als leistungsfähiger, ehrlicher, freundlicher, intelligenter und sympathischer. Das kann zur selbst erfüllenden Prophezeiung werden.",
+      "url": "https://www.zeit.de/zeit-wissen/2024/04/marilyn-monroe-syndrom-schoenheit-charakter-pretty-privilege",
+      "image_url": "https://img.zeit.de/zeit-wissen/2024/04/2-was-macht-schoenheit-mit-dem-charakter-bild-1/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Buchempfehlungen : Das Kind braucht guten Lesestoff? Hier kommen zehn Buchtipps",
-      "teaser": "Sommerferien sind herrlich, die Tage aber manchmal lang. Wer Büchernachschub braucht: zehn Empfehlungen für Kinder und Jugendliche von vier bis 14 Jahren.",
-      "url": "https://www.zeit.de/kultur/literatur/2024-07/buch-empfehlungen-kinderbuecher-sommer-ferien-jugendliche",
-      "image_url": "https://img.zeit.de/kultur/literatur/2024-07/buch-empfehlungen-kinderbuecher-sommer-ferien-2/super__430x286",
-      "image_title": "buch-empfehlungen-kinderbuecher-sommer-ferien"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Bücher-Podcast : Gin am rauschenden Meer und Esel auf der Hausweide",
-      "teaser": "Trinken Sie lieber Gin auf Sizilien oder bevorzugen Sie ein Landidyll mit Katzen und Schafen? Unsere Sommerbuchauswahl bietet Ihnen beides.",
-      "url": "https://www.zeit.de/kultur/2024-07/buecher-sommer-urlaub-buecherpodcast",
-      "image_url": "https://img.zeit.de/kultur/2024-05/was-liest-du-gerade-radisch-soboczynski/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Klimapolitik : Die Zukunft der Menschheit liegt in Chinas Händen",
-      "teaser": "Ein Wahlsieg Donald Trumps wäre schlecht für das Weltklima, ja. Doch scheitert China tatsächlich an der Dekarbonisierung, landen wir alle in einem desaströsen Szenario.",
-      "url": "https://www.zeit.de/kultur/2024-07/klimapolitik-china-usa-dekarbonisierung-co2-paris-abkommen",
-      "image_url": "https://img.zeit.de/kultur/2024-07/klimapolitik-china-usa-dekarbonisierung/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Geschlechterrollen : Wie werde ich meine innere Hausfrau los?",
-      "teaser": "Waschen, Männern hinterherräumen, \"Ich mach das schon\": Im Haushalt fallen auch moderne Frauen auf stereotype Muster rein. Sie sollten lernen, die Füße hochzulegen.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2024-07/geschlechterrollen-hausfrau-patriarchat-feminismus-mental-load-care-arbeit",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-07/geschlechterrollen-hausfrau-patriarchat-feminismus/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Verkehrsunfälle : So viele Unfälle passieren auf Ihrem täglichen Weg",
+      "teaser": "Wie gefährlich ist die Strecke, die Sie zur Arbeit, zur Schule oder zum Supermarkt fahren? Unser interaktives Tool zeigt Ihnen, welche Straßen besonders riskant sind.",
+      "url": "https://www.zeit.de/mobilitaet/2024-07/verkehrsunfaelle-strassen-fahrrad-schulweg-arbeitsweg-karte-statistik",
+      "image_url": "https://img.zeit.de/mobilitaet/2024-07/verkehrsunfaelle-strassen-fahrrad-schulweg-arbeitsweg-karte-teaser/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Präsidentenwahl in Venezuela : Tausende Venezolaner protestieren nach Wahl gegen Nicolás Maduro",
       "teaser": "Nach der Präsidentschaftswahl gibt es Zweifel an der Rechtmäßigkeit des Siegs von Amtsinhaber Maduro. Die EU und mehrere lateinamerikanische Länder üben scharfe Kritik.",
       "url": "https://www.zeit.de/politik/ausland/2024-07/venezuela-praesidentenwahl-nicol-s-maduro-proteste-eu-forderung-transparenz",
       "image_url": "https://img.zeit.de/politik/ausland/2024-07/venezuela-praesidentenwahl-demonstration-caracas-bild/super__320x213"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Spanien : In Katalonien einigen sich Separatisten und Sozialisten auf Regierung",
+      "teaser": "Seit den Wahlen im Mai ringen Sozialisten und Separatisten um eine neue Regierung. Ihr Chef könnte Sozialist Salvador Illa werden, ein Befürworter der Einheit Spaniens.",
+      "url": "https://www.zeit.de/politik/ausland/2024-07/spanien-katalonien-separatisten-sozialisten-regierung",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-07/illa-spanien-katalonien/super__320x213"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Gaza-Krieg : Israel fordert Nato-Ausschluss der Türkei",
@@ -314,6 +253,12 @@
       "teaser": "Die deutschen Hockey-Frauen konnten sich nicht gegen die Favoritinnen aus den Niederlanden durchsetzen. Trotzdem bestehen noch Chancen aufs Viertelfinale.",
       "url": "https://www.zeit.de/sport/2024-07/olympia-paris-hockey-deutschland-niederlande-frauen",
       "image_url": "https://img.zeit.de/sport/2024-07/deutschland-niederlande-bild/super__320x213"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Identitäre Bewegung : Tausende protestieren gegen Rechtsextremisten Martin Sellner",
+      "teaser": "In Marburg wollte Rechtsextremist Martin Sellner aus seinem Buch \"Remigration\" lesen. Rund 3.000 Menschen gingen dagegen auf die Straße. Die Polizei war im Einsatz.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-07/martin-sellner-rechtsextremist-marburg-lesung-protest",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-07/marburg-lesung-rechtsextremist-martin-sellner-kundgebung/super__320x213"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Olympische Spiele in Paris : Sideris Tasiadis verpasst Bronze im Kanuslalom knapp",
@@ -334,34 +279,23 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-07/tuerkei-parlament-toetung-kranke-aggressive-strassenhunde/super__320x213"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Olympische Spiele 2024 : Michael Jung gewinnt Gold im Vielseitigkeitsreiten",
-      "teaser": "Was den Vielseitigkeitsreitern als Team noch versagt blieb, gelang Michael Jung im Einzel: Auf seinem Pferd Chipmunk gewinnt der 41-Jährige Gold in Versailles.",
-      "url": "https://www.zeit.de/sport/2024-07/michael-jung-gewinnt-gold-im-vielseitigkeitsreiten",
-      "image_url": "https://img.zeit.de/sport/2024-07/michael-jung-chipmunk-vielseitigkeits-reiten-olympia-medaille-pferd/super__320x213"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Heizung : Wärmepumpenabsatz bricht im Vergleich zum Vorjahr um 54 Prozent ein",
-      "teaser": "Das Heizungsgesetz soll dazu führen, dass hierzulande klimafreundlicher geheizt wird. Wärmepumpen spielen dabei eine wichtige Rolle – deren Absatz brach jetzt aber ein.",
-      "url": "https://www.zeit.de/wirtschaft/2024-07/waermepumpen-absatz-2024-einbruch-vergleich-vorjahr",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-07/waermepumpen-absatz-einbruch-vergleich-vorjahr/super__320x213"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Tomatensalat mit Pfirsich und Halloumi : Tomatensalat zum Träumen",
-      "teaser": "Kleines Umstyling für den Caprese-Salat: Pfirsichscheiben, Halloumi und Sauerteig-Croûtons gesellen sich zu Tomate und Basilikum. Ob Sie jemals zum Original zurückkehren?",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-07/tomatensalat-pfirsich-halloumi-rezept",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-07/tomatensalat-pfirsich/wide__892x501"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Sissi Chen : \"Als ob man beim Kochen ein Korsett trägt\"",
-      "teaser": "Die Köchin Sissi Chen über ihre Kindheit in Wien, die ungeschriebenen Regeln der chinesischen Küche, ihre Liebe zu Leberkässemmeln – und warum Rezepte sie einschränken.",
-      "url": "https://www.zeit.de/2024/32/sissi-chen-koechin-oesterreich-chinesische-kueche-kochbuch",
-      "image_url": "https://img.zeit.de/2024/32/35370886-teaserbild/super__430x286"
-    },
-    {
       "title": "Diese Woche in der ZEIT : Kann sie Amerika retten?",
       "teaser": "Kamala Harris galt lange Zeit als Enttäuschung. Doch Joe Bidens Rückzug hat sie zur wichtigsten Frau der Welt gemacht.",
       "url": "https://premium.zeit.de/abo/diezeit?aktionsnummer=1130785&wt_zmc=fix.int.zonpme.zeitde.epaper.z+.home.bildtext.bildtext&utm_medium=fix&utm_source=zeitde_zonpme_int&utm_campaign=epaper&utm_content=z+_home_bildtext_bildtext?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.link.link&utm_medium=cross&utm_source=zeitde_zonpme_int&utm_campaign=printbox&utm_content=ausgseite_bildtext_link_link",
       "image_url": "https://img.zeit.de/2024/packshot-24-32-1000x620/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Festival Rock’n Wagon : Heimat, die wehtut",
+      "teaser": "Drei Freunde kehren aufs Land in die Oberlausitz zurück. In eine Gegend, in der die AfD sehr stark ist. Sie wollen dagegen ankämpfen – zum Beispiel mit einem Festival.",
+      "url": "https://www.zeit.de/2024/32/festival-rockn-wagon-musik-sachsen-ostdeutschland-rechtsextremismus",
+      "image_url": "https://img.zeit.de/2024/32/heimat-die-wehtut-teaserbild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Wolfgang Rihm : Den Klang von innen nach außen lassen",
+      "teaser": "Mit Wolfgang Rihm ist einer der größten Komponisten der Gegenwart gestorben. Die Fülle und Vielfalt seines musikalischen Schaffens sind geradezu beispiellos. Ein Nachruf",
+      "url": "https://www.zeit.de/kultur/musik/2024-07/wolfgang-rihm-komponist-musik-komposition-nachruf",
+      "image_url": "https://img.zeit.de/kultur/musik/2024-07/wolfgang-rihm-komponist-musikwissenschaftler-essayist/super__430x286",
+      "image_title": "Wolfgang Rihm Komponist Musikwissenschaftler Essayist"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"Deutsche Geister – Die Geschichte von Schmusch und Schmidt\" : Der SS-Offizier, der 100 Juden gerettet hat?",
@@ -403,11 +337,9 @@
       "url": "https://www.zeit.de/mobilitaet/2024-07/verkehrsunfaelle-strassen-fahrrad-schulweg-arbeitsweg-karte-statistik"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); US-Athleten bei Olympia : Ab 21 Grad läuft hier gar nichts",
-      "teaser": "Paris denkt ernsthaft, US-Athleten kämen bei den Olympischen Spielen ohne Klimaanlage aus? No way! Die Dinger sind für Amerikaner überlebenswichtig.",
-      "url": "https://www.zeit.de/gesellschaft/2024-07/us-athleten-olympia-klimaanlage-nachhaltigkeit-5vor8",
-      "image_url": "https://img.zeit.de/autoren/B/Heike_Buchter/heike-buchter-2/square__46x46",
-      "image_title": "Heike Buchter"
+      "title": "Z+ (abopflichtiger Inhalt); Wohnungsnot : 10.000 Euro für den Umzug aufs Land",
+      "teaser": "Der Appell von Wohnministerin Klara Geywitz, bitte schön den freien Wohnraum auf dem Land zu nutzen, ist wohlfeil. Solange echte Anreize fehlen, wird das schwierig.",
+      "url": "https://www.zeit.de/wirtschaft/2024-07/wohnungsnot-wohnraum-land-stadt-klara-geywitz"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Landtagswahlen : Wagenknecht macht Koalitionen von Haltung zum Ukrainekrieg abhängig",
@@ -426,10 +358,16 @@
       "url": "https://www.zeit.de/wirtschaft/2024-07/wohnungsnot-wohnraum-land-stadt-klara-geywitz"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Turmspringen bei den Olympischen Spielen : Der Turmspringer, der nicht nach unten schaut",
+      "teaser": "Timo Barthel und Jaden Eikermann wollten eine Turmspringmedaille, sie wurden Siebte. Barthel springt nicht nur gegen die Konkurrenz. Sondern auch gegen die Höhenangst.",
+      "url": "https://www.zeit.de/sport/2024-07/olympische-spiele-turmspringen-timo-barthel-jaden-eikermann-hoehenangst",
+      "image_url": "https://img.zeit.de/sport/2024-07/olympische-spiele-turmspringen-timo-barthel-jaden-eikermann-hoehenangst-bild/wide__892x501"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Olympische Spiele : Deutsche Basketball-Frauen schlagen überraschend Europameister Belgien",
       "teaser": "Bei ihrem ersten Olympiaauftritt sorgen die deutschen Basketballerinnen für eine Überraschung: Das Spiel gegen die Europameisterinnen aus Belgien gewinnen sie deutlich.",
       "url": "https://www.zeit.de/sport/2024-07/olympische-spiele-basketball-frauen-deutschland-belgien",
-      "image_url": "https://img.zeit.de/sport/2024-07/olympische-spiele-basketball-frauen-deutschland-belgien-bild/wide__892x501"
+      "image_url": "https://img.zeit.de/sport/2024-07/olympische-spiele-basketball-frauen-deutschland-belgien-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Olympia 2024 : Angelique Kerber steht im Achtelfinale im Tennis-Einzel",
@@ -438,29 +376,22 @@
       "image_url": "https://img.zeit.de/sport/2024-07/olympia-tennis-angelique-kerber-jaqueline-adina-christian/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Olympische Spiele in Paris : Olympiaorganisatoren räumen Probleme bei Transport von Athleten ein",
-      "teaser": "Die Olympiashuttlebusse haben bei Athleten für Ärger gesorgt. Sie kamen zu spät, waren überfüllt und verfuhren sich auf dem Weg zum Wettkampf. Jetzt wurde nachgebessert.",
-      "url": "https://www.zeit.de/sport/2024-07/olympische-spiele-paris-transport-probleme-athleten-essen",
-      "image_url": "https://img.zeit.de/sport/2024-07/olympia-transportschwierigkeiten-shuttle-busse/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Ampelkoalition : Geht auseinander!",
+      "teaser": "Christian Lindner und Rolf Mützenich spielen das Lied von Wir sind Helden: Zusammen geht's nicht mehr, aber Alleinsein macht Angst. Was die Ampel noch tun kann.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-07/ampelkoalition-bundestagswahl-regierung-beziehung-berliner-machtleben",
+      "image_url": "https://img.zeit.de/zeit-verlag/2024-07/ampelkoalition-bundestagswahl-regierung-beziehung-berliner-machtleben-bild/wide__892x501"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Tomatensalat mit Pfirsich und Halloumi : Tomatensalat zum Träumen",
+      "teaser": "Kleines Umstyling für den Caprese-Salat: Pfirsichscheiben, Halloumi und Sauerteig-Croûtons gesellen sich zu Tomate und Basilikum. Ob Sie jemals zum Original zurückkehren?",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-07/tomatensalat-pfirsich-halloumi-rezept",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-07/tomatensalat-pfirsich/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Abschiebung von Robert Azirović : \"Ich kenne nur dieses Land, Chemnitz ist meine Heimat\"",
       "teaser": "Seine Mutter gab ihm einen falschen Namen – um ihn zu schützen. Als er endlich seine Identität klären kann, droht ihm die Abschiebung. Nach 30 Jahren. Ist das gerecht?",
       "url": "https://www.zeit.de/gesellschaft/2024-07/abschiebung-serbien-sachsen-chemnitz-haertefall-robert-azirovic",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-07/abschiebung-serbien-sachsen-chemnitz-haertefall-robert-5/wide__892x501"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Taxifahrerin in Hamburg : \"Wer am Donnerstag mit dem Auto in die Stadt fährt, ist verrückt\"",
-      "teaser": "Wie kommt man gut durch den Großstadtverkehr an Baustellen vorbei? Gabi Hanke-Gerlach, seit 20 Jahren Taxifahrerin in Hamburg, kennt alle Tricks.",
-      "url": "https://www.zeit.de/2024/32/taxifahrerin-hamburg-baustellen-autofahrer-taxi-verkehr",
-      "image_url": "https://img.zeit.de/2024/32/wer-am-donnerstagnachmittag-mit-dem-auto-in-die-stadt-faehrt-ist-voellig-verrueckt-bild-1/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Kamala Harris : Harris kennt das Erfolgsrezept",
-      "teaser": "Ob Truthahn oder Kekse, Kamala Harris kocht gerne. Wir erklären, warum das für Politikerinnen noch immer Thema ist und was kinderlose Katzenladys damit zu tun haben.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-07/kamala-harris-kochen-wahlkampf-frauenbild-feminismus",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-07/kamala-harris-kochen-backen-torte/super__430x286",
-      "image_title": "Kamala Harris Kochen Backen Torte"
+      "image_url": "https://img.zeit.de/gesellschaft/2024-07/abschiebung-serbien-sachsen-chemnitz-haertefall-robert-5/super__430x286"
     },
     {
       "title": "Verlagsangebot : Roh oder gegart, wie sind diese Gemüsesorten gesünder?",
@@ -535,16 +466,23 @@
       "image_url": "https://img.zeit.de/geld/2024-07/ferienimmobilien-kauf-ferienhaus-urlaub-klimawandel-region-bild/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Sissi Chen : \"Als ob man beim Kochen ein Korsett trägt\"",
+      "teaser": "Die Köchin Sissi Chen über ihre Kindheit in Wien, die ungeschriebenen Regeln der chinesischen Küche, ihre Liebe zu Leberkässemmeln – und warum Rezepte sie einschränken.",
+      "url": "https://www.zeit.de/2024/32/sissi-chen-koechin-oesterreich-chinesische-kueche-kochbuch",
+      "image_url": "https://img.zeit.de/2024/32/35370886-teaserbild/wide__892x501"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Kamala Harris : Harris kennt das Erfolgsrezept",
+      "teaser": "Ob Truthahn oder Kekse, Kamala Harris kocht gerne. Wir erklären, warum das für Politikerinnen noch immer Thema ist und was kinderlose Katzenladys damit zu tun haben.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-07/kamala-harris-kochen-wahlkampf-frauenbild-feminismus",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-07/kamala-harris-kochen-backen-torte/super__430x286",
+      "image_title": "Kamala Harris Kochen Backen Torte"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Rührei mit Pfifferlingen : Pfeif nicht auf Pfifferlinge",
       "teaser": "Zum Frühstück oder als leichtes Mittagessen: Rührei mit Frühlingszwiebeln und Pilzen ist ein unschlagbarer Klassiker. Zum Glück haben Pfifferlinge jetzt Saison!",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-07/ruehrei-pfifferlinge-rezept-fotokulinarnie-sonntagsessen",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-07/ruehrei-pfifferlinge-rezept-teaser/wide__892x501"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Friulano : Ein guter Wein für kleine Pausen",
-      "teaser": "Friulano aus Norditalien ist eine Entdeckung. Er harmoniert mit mediterranen Speisen, aber schmeckt auch solo. Etwa nach dem Kochen, wenn die Gäste noch nicht da sind.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-07/friulano-weisswein-norditalien-weinkolumne",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-07/friulano-weisswein-norditalien-weinkolumne-bild/super__430x286"
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-07/ruehrei-pfifferlinge-rezept-teaser/super__320x213"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Tomatensuppe : Eine Suppe für Suppenskeptiker",
@@ -569,12 +507,6 @@
       "teaser": "Zucchinipuffer sind nicht nur die leckerste Option, der Zucchinischwemme des Sommers Herr zu werden. Sie sind auch unfassbar einfach – und schnell genug fürs Mittagessen.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-07/zucchinipuffer-griechische-kueche-kolokithokeftedes-rezept",
       "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-07/zucchinipuffer-griechische-teaser/super__320x213"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Chopped Salad : Das Salatleben ist bunt",
-      "teaser": "Knack, knusper, kau: Wer diesen Salat ansieht, meint die einzelnen Zutaten schon zu hören, so frisch leuchten sie auf dem Teller. Nur zubereiten müssen Sie ihn noch.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-07/chopped-salat-haehnchen-feta-rezept",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-07/chopped-salat-haehnchen-teaser/super__320x213"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"Was jetzt? - Die Woche\" : Kamala Harris auf der Überholspur",
@@ -613,28 +545,40 @@
       "image_url": "https://img.zeit.de/2024-06/was-jetzt-die-woche-2/super__320x213"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Nachrichtenpodcast : Funktioniert der Wegzug aus den Großstädten?",
-      "teaser": "Bundesbauministerin Klara Geywitz will das Wohnen auf dem Land attraktiver machen. Das soll die Mieten der Großstädte senken. Und: Machtkampf nach Wahl in Venezuela?",
-      "url": "https://www.zeit.de/politik/2024-07/klara-geywitz-wohnungsnot-umzug-land-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__892x501"
+      "title": "Z+ (abopflichtiger Inhalt); Wahlrechtsreform : Darum ist die Verkleinerung des Bundestags so umstritten",
+      "teaser": "Die Opposition sieht sich durch die Wahlrechtsreform der Ampel-Regierung benachteiligt. Was sind die Kernpunkte des neuen Rechts?",
+      "url": "https://www.zeit.de/politik/deutschland/2023-03/wahlrechtsreform-bundestag-ampel-koalition-csu-linke-faq",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-03/wahlrechtsreform-bundestag-verkleinerung-ampel-koalition-faq-bild/wide__892x501"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Liveblog:Ukrainekrieg : Wolodymyr Selenskyj besucht Truppen im Gebiet Charkiw",
-      "teaser": "In Wowtschansk sei es für die Ukraine besonders schwer, sagt Präsident Wolodymyr Selenskyj bei einem Ortsbesuch. Russland gibt Positionen in der Region auf. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-07/ukraine-krieg-news-liveblog-selenskyj/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Großbritanniens Konservative : Kopflos in die Zukunft",
+      "teaser": "Nach der Wahlniederlage suchen die Torys nach einer neuen Parteispitze, mit der Siege wieder möglich sind. Doch das Kandidatenangebot ist dürftig.",
+      "url": "https://www.zeit.de/politik/2024-07/grossbritannien-tory-vorsitz-parteifuehrung-rishi-sunak",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-07/grossbritannien-tory-vorsitz-parteifuehrung-rishi-sunak-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Resolution gegen Antisemitismus : So wird jüdisches Leben in Deutschland nicht geschützt",
-      "teaser": "Im Bundestag wird eine Resolution gegen Antisemitismus vorbereitet. Der Verfassungsrichter Jerzy Montag sagt: Sie gefährdet die freiheitlich-demokratische Grundordnung.",
-      "url": "https://www.zeit.de/politik/ausland/2024-07/jerzy-montag-resolution-gegen-antisemitismus-bundestag-juedisches-leben",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-07/jerzy-montag-resolution-gegen-antisemitismus-bundestag-juedisches-leben-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Recep Tayyip Erdoğan : Seine militanten Fantasien",
+      "teaser": "Recep Tayyip Erdoğans Drohungen gegen Israel sind verstörend. Was daraus folgt, ist aber unklar. Und langfristig könnte sich der türkische Präsident selbst schaden.",
+      "url": "https://www.zeit.de/politik/ausland/2024-07/recep-tayyip-erdogan-tuerkei-israel-drohung-regierung",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-07/recep-tayyip-erdogan-tuerkei-israel-drohung-regierung-bild-2/super__430x286"
     },
     {
       "title": "Verlagsangebot : Quiz über die Wahlen 2024 in den USA: Testen Sie Ihr Wissen!",
       "teaser": "Fünf Quizfragen über die US-Wahlen, aber ohne Trump und Biden: Die Spotlight-Redaktion hat sich ein kleines Quiz für Sie ausgedacht. Wie gut kennen Sie sich aus?",
       "url": "https://freundederzeit.typeform.com/usdemocracy-zon",
       "image_url": "https://img.zeit.de/zeit-verlag/zeit-sprachen/bilder-englisch-quiz/englisch-quiz-teaserbild-woche-4/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Sexarbeit : \"Als Escort spiele ich keine Rolle, sondern ich komme als Mensch\"",
+      "teaser": "Ben Nordmann ist buchbar – für Dates, Nähe, Sex. Er will Frauen helfen, die mit sich und ihrer Sexualität kämpfen. Wo Therapeuten die Grenze ziehen, beginnt seine Arbeit.",
+      "url": "https://www.zeit.de/gesundheit/2024-07/sexarbeit-callboy-unterstuetzung-frauen-sexpodcast",
+      "image_url": "https://img.zeit.de/gesundheit/2024-07/sexarbeit-callboy-unterstuetzung-frauen-sexpodcast-ben-nordmann/super__320x213"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Bücher-Podcast : Gin am rauschenden Meer und Esel auf der Hausweide",
+      "teaser": "Trinken Sie lieber Gin auf Sizilien oder bevorzugen Sie ein Landidyll mit Katzen und Schafen? Unsere Sommerbuchauswahl bietet Ihnen beides.",
+      "url": "https://www.zeit.de/kultur/2024-07/buecher-sommer-urlaub-buecherpodcast",
+      "image_url": "https://img.zeit.de/kultur/2024-05/was-liest-du-gerade-radisch-soboczynski/super__320x213"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Optimierungspodcast : Wie Sie glänzende Zähne bekommen (und ob Zahnseide die Mühe wert ist)",
@@ -668,18 +612,6 @@
       "image_url": "https://img.zeit.de/gesellschaft/2020-01/bibel-podcast-gott-unter-pfarrerstoechtern-foto/super__320x213"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Massentourismus : \"Es existiert ein Missverständnis darüber, worum es im Tourismus geht\"",
-      "teaser": "Wenn der Alltag zum Albtraum wird: Wie Overtourism das Leben der Einheimischen verändert – und wie man ihn zurückdrängen kann.",
-      "url": "https://www.zeit.de/politik/2024-07/massentourismus-einheimische-mallorca-venedig-barcelona-reisen",
-      "image_url": "https://img.zeit.de/politik/2024-07/massentourismus-einheimische-mallorca-venedig-barcelona-reisen-bild/super__320x213"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Joe Biden und Kamala Harris : Ein langsamer Abschied und ein lauter Wahlkampfstart",
-      "teaser": "Kein Kandidat mehr, aber weiterhin Präsident: Kann Joe Biden noch etwas erreichen? Unser Thema im US-Podcast. Außerdem: Kamala Harris und die Euphorie der ersten Tage",
-      "url": "https://www.zeit.de/politik/ausland/2024-07/joe-biden-kamala-harris-demokraten-ok-america",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-07/joe-biden-podcast-bild/super__320x213"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Freie Sachsen : War dieser Rücktritt erst der Anfang?",
       "teaser": "Die Partei Freie Sachsen schießt zunehmend gegen Kommunalpolitiker. Landrat Dirk Neubauer ist bereits zurückgetreten. Das hat verheerende Folgen für die Demokratie.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-07/freie-sachsen-partei-kommunalpolitik-dirk-neubauer-demokratie",
@@ -698,16 +630,16 @@
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-07/sabotage-glasfasernetzen-franzoesischer-internetanbieter-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Europäischer Gerichtshof : Ryanair scheitert mit Klage gegen Coronahilfen für Lufthansa-Tochter",
-      "teaser": "In der Pandemie hatten einige Flugbetreiber staatliche Hilfen erhalten – Ryanair klagte dagegen. Zahlungen an die Austrian Airlines waren aber rechtens, urteilt der EuGH.",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-07/ryanair-europaeischer-gerichtshof-oesterreich-corona-pandemie-staatliche-unterstuetzung",
-      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-07/ryanair-europaeischer-gerichtshof-oesterreich-corona-pandemie-staatliche-unterstuetzung-bild/wide__892x501"
+      "title": "Z+ (abopflichtiger Inhalt); Wohnungsnot : 10.000 Euro für den Umzug aufs Land",
+      "teaser": "Der Appell von Wohnministerin Klara Geywitz, bitte schön den freien Wohnraum auf dem Land zu nutzen, ist wohlfeil. Solange echte Anreize fehlen, wird das schwierig.",
+      "url": "https://www.zeit.de/wirtschaft/2024-07/wohnungsnot-wohnraum-land-stadt-klara-geywitz",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-07/wohnungsnot-wohnraum-land-stadt-klara-geywitz-bild/wide__892x501"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Warenhauskette : Galeria schließt Insolvenzverfahren ab",
-      "teaser": "Deutschlands letzte große Warenhauskette Galeria lässt die Insolvenz hinter sich. Die neuen Eigner setzen in den verbleibenden 83 Filialen auf eine lokale Ausrichtung.",
-      "url": "https://www.zeit.de/wirtschaft/2024-07/warenhauskette-galeria-schliesst-insolvenzverfahren-ab",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-07/warenhauskette-galeria-schliesst-insolvenzverfahren-ab-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Heizung : Wärmepumpenabsatz bricht im Vergleich zum Vorjahr um 54 Prozent ein",
+      "teaser": "Das Heizungsgesetz soll dazu führen, dass hierzulande klimafreundlicher geheizt wird. Wärmepumpen spielen dabei eine wichtige Rolle – deren Absatz brach jetzt aber ein.",
+      "url": "https://www.zeit.de/wirtschaft/2024-07/waermepumpen-absatz-2024-einbruch-vergleich-vorjahr",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-07/waermepumpen-absatz-einbruch-vergleich-vorjahr/super__430x286"
     },
     {
       "title": "Verlagsangebot : In drei Wochen zu besseren Fotos",
@@ -716,10 +648,10 @@
       "image_url": "https://img.zeit.de/angebote/Links/Bilder/akademie/2024/zak-fotografie-01/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Solarenergie : Private Haushalte und Unternehmen nutzen zunehmend Fotovoltaik",
-      "teaser": "In Deutschland ist die Anzahl von Fotovoltaikanlagen auf Dächern innerhalb eines Jahres um ein Drittel gestiegen. Weniger Module werden jedoch hierzulande produziert.",
-      "url": "https://www.zeit.de/wirtschaft/2024-07/mehr-sonnenenergie-strom-erzeugung-durch-photovoltaik",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-07/mehr-sonnenenergie-strom-erzeugung-durch-photovoltaik-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Europäischer Gerichtshof : Ryanair scheitert mit Klage gegen Coronahilfen für Lufthansa-Tochter",
+      "teaser": "In der Pandemie hatten einige Flugbetreiber staatliche Hilfen erhalten – Ryanair klagte dagegen. Zahlungen an die Austrian Airlines waren aber rechtens, urteilt der EuGH.",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-07/ryanair-europaeischer-gerichtshof-oesterreich-corona-pandemie-staatliche-unterstuetzung",
+      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-07/ryanair-europaeischer-gerichtshof-oesterreich-corona-pandemie-staatliche-unterstuetzung-bild/super__430x286"
     },
     {
       "title": "Subventionen : Der Steuerzahler ist nicht der Dukatenesel der Wirtschaft",
@@ -766,17 +698,17 @@
       "image_url": "https://img.zeit.de/2024/32/eine-frau-zwischen-zwei-maennern-bild-1/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Flughafen Mailand-Malpensa : Mischgetränke in der Bunga-Bunga-Lounge",
-      "teaser": "Der Mailänder Flughafen Malpensa soll umbenannt werden, künftig soll er den Namen von Silvio Berlusconi tragen. Wir bereiten uns schon auf das Schlimmste vor.",
-      "url": "https://www.zeit.de/2024/32/flughafen-mailand-malpensa-umbenennung-silvio-berlusconi",
-      "image_url": "https://img.zeit.de/2024/32/flughafen-mailand-malpensa-umbenennung-silvio-berlusconi-teaser/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Buchempfehlungen : Das Kind braucht guten Lesestoff? Hier kommen zehn Buchtipps",
+      "teaser": "Sommerferien sind herrlich, die Tage aber manchmal lang. Wer Büchernachschub braucht: zehn Empfehlungen für Kinder und Jugendliche von vier bis 14 Jahren.",
+      "url": "https://www.zeit.de/kultur/literatur/2024-07/buch-empfehlungen-kinderbuecher-sommer-ferien-jugendliche",
+      "image_url": "https://img.zeit.de/kultur/literatur/2024-07/buch-empfehlungen-kinderbuecher-sommer-ferien-2/super__430x286",
+      "image_title": "buch-empfehlungen-kinderbuecher-sommer-ferien"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); \"The Country Girls – Die Fünfzehnjährigen\" : Irische Schriftstellerin Edna O'Brien mit 93 gestorben",
-      "teaser": "Edna O'Brien eckte mit kritischen Worten über die Lage der Frauen an. Ihr Debütroman wurde öffentlich verbrannt und verboten, bevor er zum Klassiker aufstieg.",
-      "url": "https://www.zeit.de/kultur/literatur/2024-07/irische-schriftstellerin-edna-o-brien-gestorben",
-      "image_url": "https://img.zeit.de/kultur/literatur/2024-07/edna-o-brien-irische-schriftstellerin/super__430x286",
-      "image_title": "edna-o-brien-irische-schriftstellerin"
+      "title": "Z+ (abopflichtiger Inhalt); Klimapolitik : Die Zukunft der Menschheit liegt in Chinas Händen",
+      "teaser": "Ein Wahlsieg Donald Trumps wäre schlecht für das Weltklima, ja. Doch scheitert China tatsächlich an der Dekarbonisierung, landen wir alle in einem desaströsen Szenario.",
+      "url": "https://www.zeit.de/kultur/2024-07/klimapolitik-china-usa-dekarbonisierung-co2-paris-abkommen",
+      "image_url": "https://img.zeit.de/kultur/2024-07/klimapolitik-china-usa-dekarbonisierung/super__430x286"
     },
     {
       "title": "Nach Angriff auf Golanhöhen : Auswärtiges Amt fordert Deutsche im Libanon zur Ausreise auf",
@@ -803,12 +735,6 @@
       "image_url": "https://img.zeit.de/video/2024-07/6359565434112-still/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Spitzensport : Die mentalen Tricks der Topathleten",
-      "teaser": "Am Ende entscheidet sich im Kopf, ob Sportler und Athletinnen olympische Höchstleistungen erbringen. Die Kniffe, die sie nutzen, können auch im Alltag hilfreich sein.",
-      "url": "https://www.zeit.de/zeit-wissen/2024/04/spitzensport-olympia-alltag-psychologie-tipps",
-      "image_url": "https://img.zeit.de/zeit-wissen/2024/04/der-siebenkampf-deines-lebens-bild-1/super__430x286"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Gibraltar : Pottwal stirbt nach mutmaßlicher Schiffskollision",
       "teaser": "Ein gigantischer Wal ist vor der Straße von Gibraltar an schweren Verletzungen verendet. Videoaufnahmen zeigen den Todeskampf. Forscher gehen von einem Schiffsunfall aus.",
       "url": "https://www.zeit.de/wissen/umwelt/2024-07/gibraltar-pottwal-getoetet-schifffahrt-spanien",
@@ -825,6 +751,12 @@
       "teaser": "Ist das Gläschen Wein gesund? Eine Analyse mehrerer Studien zum Alkoholkonsum verneint diese Frage. Es gebe keine absolut sichere Menge an Alkohol, sagen Forschende.",
       "url": "https://www.zeit.de/wissen/2024-07/studie-alkohol-konsum-gesundheit-schaden",
       "image_url": "https://img.zeit.de/gesellschaft/2024-07/studie-alkohol-konsum-gesundheit-schaden-bild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Leistung im Sport : \"Wir sehen Selbstüberschätzung und Hochmut, getarnt als self-belief\"",
+      "teaser": "Wie schaffen es Athleten, sich zu Höchstleistungen anzutreiben? Die Ethikerin Sabrina Little sagt: mit Neid, Gier, Rücksichtslosigkeit. Sind Sportler schlechte Menschen?",
+      "url": "https://www.zeit.de/wissen/2024-07/leistung-sport-hochleistung-olympia-training-sabrina-little",
+      "image_url": "https://img.zeit.de/wissen/2024-07/leistung-sport-hochleistung-olympia-training-sabrina-little-bild/super__430x286"
     },
     {
       "title": "Sparen Sie jetzt in unserem Sommersale bis zu 50 Prozent.",
@@ -925,22 +857,22 @@
       "image_url": "https://img.zeit.de/arbeit/2024-07/bergretter-tirol-bergsteigen-wandern-gefahr-bild/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Treue : Kannst du dich auf mich verlassen?",
+      "teaser": "Die Treue hat heute keinen guten Ruf mehr. Dennoch brauchen wir sie dringend: Treue hilft uns, in der Welt nicht verloren zu gehen.",
+      "url": "https://www.zeit.de/2024/32/treue-beziehung-gesellschaft-vertrauen-bestaendigkeit",
+      "image_url": "https://img.zeit.de/2024/32/kannst-du-dich-auf-mich-verlassen-bild-1/wide__892x501"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Geschlechterrollen : Wie werde ich meine innere Hausfrau los?",
+      "teaser": "Waschen, Männern hinterherräumen, \"Ich mach das schon\": Im Haushalt fallen auch moderne Frauen auf stereotype Muster rein. Sie sollten lernen, die Füße hochzulegen.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2024-07/geschlechterrollen-hausfrau-patriarchat-feminismus-mental-load-care-arbeit",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-07/geschlechterrollen-hausfrau-patriarchat-feminismus/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Harald Martenstein : Sorry, kein Nobelpreis für mich",
       "teaser": "Jüngst häufen sich die Rücktritte. Unser Kolumnist macht sich Gedanken, warum er nicht als Nobelpreisträger zur Verfügung steht.",
       "url": "https://www.zeit.de/zeit-magazin/2024/32/harald-martenstein-literatur-nobelpreis",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024/32/harald-martenstein-bild-1/wide__FFB31D__892x501"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Instantkaffee : Gute Tasse im Tütchen",
-      "teaser": "Unsere Autorin hatte sich schon damit abgefunden, bei ihrem Campingtrip mit mittelmäßigem Pulverkaffee auszukommen. Bis sie diese Alternative probierte.",
-      "url": "https://www.zeit.de/zeit-magazin/2024-07/instant-kaffee-pulver-urlaub-morgens",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-07/wochenende-31-ode-an-ein-ding-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); eFoil : Nicht anstellen, hinstellen!",
-      "teaser": "Mit Boards hatte er es nie so, trotzdem wagt sich unser Kolumnist aufs eFoil. Kann ja nicht so schwer sein, damit über den See zu fliegen. Ähm, zählen auch zwei Sekunden?",
-      "url": "https://www.zeit.de/zeit-magazin/mode-design/2024-07/efoil-lift-5-4-cruiser-board-wassersport-brett-autotest",
-      "image_url": "https://img.zeit.de/zeit-magazin/mode-design/2024-07/efoil-lift-5-4-cruiser-board-wassersport-brett-autotest-bild/super__430x286"
+      "image_url": "https://img.zeit.de/zeit-magazin/2024/32/harald-martenstein-bild-1/super__FFB31D__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Emilio Sakraya : \"Ich glaube nicht an Glück\"",
@@ -949,11 +881,11 @@
       "image_url": "https://img.zeit.de/campus/2024/04/ich-glaube-nicht-an-glueck-bild-1/wide__892x501"
     },
     {
-      "title": "Verlagsangebot : Ein Studium finden, das passt",
-      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
-      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.teaser.bewerben-schreibtisch.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=sit-verlagsteaser&amp;utm_content=sit_teaser_bewerben-schreibtisch_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/sit-bewerben-schreibtisch/wide__430x286__desktop",
-      "image_title": "Ein Studium finden, das passt"
+      "title": "Verlagsangebot : Durchblick im Studiendschungel",
+      "teaser": "Bei 20.000 möglichen Studiengängen in Deutschland verliert man schnell den Überblick. Unterstützung bietet die Suchmaschine für Studiengänge und Hochschulen.",
+      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.whiteboard_studiendschungel.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_whiteboard_studiendschungel_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-3-klein/man-wearing-black-and-white-stripe-shirt-looking-at-white-197.jpg",
+      "image_title": "Durchblick im Studiendschungel"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Antisemitismus : Mehrere jüdische Hochschullehrende stehen unter Personenschutz",
@@ -1010,48 +942,48 @@
       "image_url": "https://img.zeit.de/2024/32/die-olympischen-spiele-werden-auswirkungen-auf-sie-haben-bleiben-sie-im-homeoffice-raet-die-stadt-au-bild-2/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Olympische Spiele : Was ist Ihr Highlight bei den Olympischen Spielen?",
-      "teaser": "Surfen, Bogenschießen oder Rhythmische Sportgymnastik: Schreiben Sie uns, wie Sie die Spiele in Paris verfolgen und bei welcher Sportart Sie mitfiebern.",
-      "url": "https://www.zeit.de/sport/2024-07/olympische-spiele-paris-highlight-sportarten",
-      "image_url": "https://img.zeit.de/sport/2024-07/olympische-spiele-paris-highlight-sportarten-bild-2/wide__892x501"
+      "title": "Z+ (abopflichtiger Inhalt); Olympische Spiele 2024 : Michael Jung gewinnt Gold im Vielseitigkeitsreiten",
+      "teaser": "Was den Vielseitigkeitsreitern als Team noch versagt blieb, gelang Michael Jung im Einzel: Auf seinem Pferd Chipmunk gewinnt der 41-Jährige Gold in Versailles.",
+      "url": "https://www.zeit.de/sport/2024-07/michael-jung-gewinnt-gold-im-vielseitigkeitsreiten",
+      "image_url": "https://img.zeit.de/sport/2024-07/michael-jung-chipmunk-vielseitigkeits-reiten-olympia-medaille-pferd/wide__892x501"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Olympische Spiele 2024 : Deutschlands Handball-Männer schlagen Japan deutlich",
-      "teaser": "Die deutschen Handballer steuern bei Olympia auf das Viertelfinale zu. Nach dem Überraschungserfolg gegen Schweden zeigte das Team auch gegen Japan eine starke Leistung.",
-      "url": "https://www.zeit.de/sport/2024-07/olympia-handball-deutschland-besiegt-japan",
-      "image_url": "https://img.zeit.de/sport/2024-07/olympia-handball-deutschland-besiegt-japan-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Olympische Spiele in Paris : Olympiaorganisatoren räumen Probleme bei Transport von Athleten ein",
+      "teaser": "Die Olympiashuttlebusse haben bei Athleten für Ärger gesorgt. Sie kamen zu spät, waren überfüllt und verfuhren sich auf dem Weg zum Wettkampf. Jetzt wurde nachgebessert.",
+      "url": "https://www.zeit.de/sport/2024-07/olympische-spiele-paris-transport-probleme-athleten-essen",
+      "image_url": "https://img.zeit.de/sport/2024-07/olympia-transportschwierigkeiten-shuttle-busse/super__430x286"
     },
     {
-      "title": "Wahlen in Ostdeutschland: Göring-Eckardt: AfD könnte im Osten Justiz lahmlegen",
-      "url": "https://www.zeit.de/news/2024-07/30/goering-eckardt-afd-koennte-im-osten-justiz-lahmlegen"
+      "title": "Bundestagswahl: Günther: Deutschland braucht wieder Zukunftshoffnung",
+      "url": "https://www.zeit.de/news/2024-07/30/guenther-deutschland-braucht-wieder-zukunftshoffnung"
+    },
+    {
+      "title": "Katastrophenschutz: Kommunen fordern mehr Fördergelder für Starkregenschutz",
+      "url": "https://www.zeit.de/news/2024-07/30/kommunen-fordern-mehr-foerdergelder-fuer-starkregenschutz"
+    },
+    {
+      "title": "Landkreis Görlitz: Betrunkener Geisterfahrer verursacht Unfall auf A4",
+      "url": "https://www.zeit.de/news/2024-07/30/betrunkener-geisterfahrer-verursacht-unfall-auf-a4"
+    },
+    {
+      "title": "Generalsekretär wird gewählt: Tiefseebergbau großes Thema bei Meeresbodenbehörde",
+      "url": "https://www.zeit.de/news/2024-07/30/tiefseebergbau-grosses-thema-bei-meeresbodenbehoerde"
+    },
+    {
+      "title": "Pläne der Bundesregierung: Neue Regeln für E-Scooter: Das ist geplant",
+      "url": "https://www.zeit.de/news/2024-07/30/neue-regeln-fuer-e-scooter-das-ist-geplant"
     },
     {
       "title": "Kommunalsteuern: Fast jede zweite NRW-Gemeinde hat die Grundsteuer B erhöht",
       "url": "https://www.zeit.de/news/2024-07/30/fast-jede-zweite-nrw-gemeinde-hat-die-grundsteuer-b-erhoeht"
     },
     {
-      "title": "US-Wahlkampf: Trump bleibt bei provokativer Aussage zu Wahl in vier Jahren",
-      "url": "https://www.zeit.de/news/2024-07/30/trump-bleibt-bei-provokativer-aussage-zu-wahl-in-vier-jahren"
+      "title": "Musik: Jan Delay liebt mittlerweile Sommertouren",
+      "url": "https://www.zeit.de/news/2024-07/30/jan-delay-liebt-mittlerweile-sommertouren"
     },
     {
-      "title": "Urteil über CDU-Mann: Momper: «Kai Wegner macht seine Sache ganz gut»",
-      "url": "https://www.zeit.de/news/2024-07/30/momper-kai-wegner-macht-seine-sache-ganz-gut"
-    },
-    {
-      "title": "Arbeitsmarkt: Gutachten: Zweifel an Steuerbonus für Auslands-Fachkräfte",
-      "url": "https://www.zeit.de/news/2024-07/30/gutachten-zweifel-an-steuerbonus-fuer-auslands-fachkraefte"
-    },
-    {
-      "title": "Lage im Überblick: USA: Krieg zwischen Israel und der Hisbollah ist vermeidbar",
-      "url": "https://www.zeit.de/news/2024-07/30/usa-krieg-zwischen-israel-und-der-hisbollah-ist-vermeidbar"
-    },
-    {
-      "title": "Sporthandel: Intersport-Chef: Expansionsstrategie geht auf",
-      "url": "https://www.zeit.de/news/2024-07/30/intersport-chef-expansionsstrategie-geht-auf"
-    },
-    {
-      "title": "Cyanobakterien: Zwei hessische Badeseen von Blaualgen betroffen",
-      "url": "https://www.zeit.de/news/2024-07/30/zwei-hessische-badeseen-von-blaualgen-betroffen"
+      "title": "Olympia in Paris: Flusswasser zu dreckig: Männer-Triathlon wird verschoben",
+      "url": "https://www.zeit.de/news/2024-07/30/flusswasser-zu-dreckig-maenner-triathlon-wird-verschoben"
     }
   ]
 }
