@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-07-31T10:00:45",
+  "timestamp": "2024-07-31T11:00:44",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.cd054edefa96590743b5",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.8e0a267561b3a8f30eae",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Avast Free Antivirus",
+      "url": "https://www.heise.de/news/Warten-auf-Sicherheitsupdates-Schadcode-Luecken-bedrohen-Avast-Free-Antivirus-9819293.html"
+    },
     {
       "title": "VMware ESXi",
       "url": "https://www.heise.de/news/Jetzt-patchen-Ransomware-Attacken-auf-VMware-ESXi-Server-beobachtet-9817989.html"
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Schadcode-Attacken-auf-Acronis-Cyber-Infrastructure-beobachtet-9816667.html"
     },
     {
-      "title": "SolarWinds Platform",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-schuetzt-SolarWinds-Platform-vor-moeglichen-Attacken-9816342.html"
+      "title": "Keine Sicherheitsupdates in Sicht: Avast Free Antivirus ist verwundbar",
+      "teaser": "Sicherheitsforscher warnen vor Schwachstellen in Avast Free Antivirus und raten aufgrund fehlender Patches von einer Nutzung ab.",
+      "url": "https://www.heise.de/news/Warten-auf-Sicherheitsupdates-Schadcode-Luecken-bedrohen-Avast-Free-Antivirus-9819293.html",
+      "image_title": "Warndreieck"
     },
     {
       "title": "Web-Verschlüsselung: DigiCert muss wegen eines Bugs TLS-Zertifikate widerrufen",
@@ -158,12 +164,6 @@
       "teaser": "Ein wichtiges Sicherheitsupdate schließt eine kritische Lücke in der IT-Management- und Reportinglösung Telerik Report Server.",
       "url": "https://www.heise.de/news/Sicherheitsluecke-Entwickler-raten-zum-zuegigen-Patchen-von-Telerik-Report-Server-9814347.html",
       "image_title": "Update-Logo auf Bildschirm"
-    },
-    {
-      "title": "Jetzt patchen! Angreifer attackieren Now Platform von ServiceNow",
-      "teaser": "Die Cloud Computing Plattform von ServiceNow ist derzeit im Visier von Angreifern und sie nutzen kritische Sicherheitslücken aus.",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Now-Platform-von-ServiceNow-9814238.html",
-      "image_title": "Nullen und Einsen umgeben das Wort Hacked"
     },
     {
       "title": "Microsoft Cloud Security",
