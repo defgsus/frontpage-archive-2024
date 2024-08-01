@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-01T08:08:44",
+  "timestamp": "2024-08-01T09:00:58",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Chrome",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Kritische-Sicherheitsluecke-bedroht-Google-Chrome-9820479.html"
+    },
+    {
       "title": "Avast Free Antivirus",
       "url": "https://www.heise.de/news/Warten-auf-Sicherheitsupdates-Schadcode-Luecken-bedrohen-Avast-Free-Antivirus-9819293.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Selenium-Grid-Unsichere-Standardkonfiguration-laesst-Krypto-Miner-passieren-9817016.html"
     },
     {
-      "title": "Acronis Cyber Infrastructure",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Schadcode-Attacken-auf-Acronis-Cyber-Infrastructure-beobachtet-9816667.html"
+      "title": "Lücke in Microsoft-CRM: Dynamics 365 ermöglicht Angreifern Privilegienerhöhung",
+      "teaser": "Aus der Ferne konnten Angreifer sich Rechte in Microsofts cloudbasiertem CRM erschleichen. Admins und Nutzer brauchen nicht zu handeln.",
+      "url": "https://www.heise.de/news/Luecke-in-Microsoft-CRM-Dynamics-365-ermoeglicht-Angreifern-Privilegienerhoehung-9820405.html",
+      "image_title": "Microsoft-Schild an dunklem Geböude"
+    },
+    {
+      "title": "Kritische Sicherheitslücke bedroht Google Chrome",
+      "teaser": "Angreifer können an mehreren Schwachstellen in Chrome ansetzen, um PCs zu kompromittieren.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Kritische-Sicherheitsluecke-bedroht-Google-Chrome-9820479.html",
+      "image_title": "Stilisierte Grafik: Brennendes Google-Chrome-Logo auf einem Laptop"
     },
     {
       "title": "Statt \"schalke04\" und \"1234\": Passkeys werden immer beliebter",
@@ -153,17 +165,6 @@
       "teaser": "Eine gefälschte Version der Online-Bibliothek Z-Library hat Millionen von Besuchern angelockt und deren persönliche Daten abgegriffen.",
       "url": "https://www.heise.de/news/Millionen-Nutzer-in-der-Phishing-Falle-9815932.html",
       "image_title": "KI-Grafik einer virtuellen Bibliothek mit Buchregal und drumherum angeordneten Symbolen aus dem IT-Bereich"
-    },
-    {
-      "title": "Whatsapp-Sicherheitslücke erlaubt Skript-Ausführung",
-      "teaser": "Eine Sicherheitslücke in WhatsApp für Windows erlaubt das Versenden von Programm-Anhängen, die beim Öffnen direkt ohne Vorwarnung starten.",
-      "url": "https://www.heise.de/news/Whatsapp-Sicherheitsluecke-erlaubt-Skript-Ausfuehrung-9815863.html",
-      "image_title": "Detailansicht eines Smartphone-Bildschirms mit verschiedenen Apps, darunter Signal, Whatsapp und Facebook."
-    },
-    {
-      "title": "Datenpanne entlarvt US-Spyware-Hersteller",
-      "teaser": "Ein Datenleck bei einem US-Software-Hersteller enthüllte Daten, die das Ausspähen von Tausenden von Windows-, Mac-, Android- und Chromebook-Geräten belegen.",
-      "url": "https://www.heise.de/news/Datenpanne-entlarvt-US-Spyware-Hersteller-9815496.html"
     },
     {
       "title": "Microsoft Cloud Security",
