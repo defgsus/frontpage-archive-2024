@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-03T06:08:33",
+  "timestamp": "2024-08-03T07:00:38",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -147,7 +147,19 @@
       "image_title": "Audi A6 e-tron"
     },
     {
-      "title": "Unternehmensberater glauben weiterhin an die GenAI-Revolution in der IT-Branche",
+      "title": "Developer Snapshots: Kleinere News der letzten Woche",
+      "teaser": "Die Übersicht enthält kleine, aber interessante Meldungen zu Blue Screen of Death, Forge, TypeScript, Quarkus, VS Code, Datadog, Google Gemini, DSL und Crates",
+      "url": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-letzten-Woche-9819827.html",
+      "image_title": "Kopf von einem Mann auf blauem Hintergrund zu sehen, der sich selbst mit Blitzlicht fotografiert"
+    },
+    {
+      "title": "Dezentrales DevOps: Autonomie und Verantwortung für Entwicklungsteams",
+      "teaser": "Internal Developer Platforms – in einer dezentralisierten Ausprägung – gewähren Entwicklungsteams ein hohes Maß an Eigenverantwortung für die Infrastruktur.",
+      "url": "https://www.heise.de/hintergrund/Dezentrales-DevOps-Autonomie-und-Verantwortung-fuer-Entwicklungsteams-9819727.html",
+      "image_title": "Dezentrales DevOps: Autonomie und Verantwortung"
+    },
+    {
+      "title": "KI: Kannibalisieren sich die Programmierer?",
       "teaser": "Viele Branchen und Berufe wurden in den letzten Jahrzehnten durch IT umgekrempelt. Laut McKinsey und IDC trifft es wegen generativer KI jetzt die IT-Branche.",
       "url": "https://www.heise.de/news/Unternehmensberater-glauben-weiterhin-an-die-GenAI-Revolution-in-der-IT-Branche-9821979.html",
       "image_title": "Künstliche Intelligenz: Roboterkopf mit Hand und Schrift \"AI\" vor Globus"
@@ -180,18 +192,6 @@
       "url": "https://www.techstage.de/bestenliste/top-10-das-beste-guenstige-fatbike-e-bikes-mit-xxl-reifen-fuer-offroad-und-stadt/9zkxs05?wt_mc=intern.red.techstage.newsticker.anrissliste.teaser.teaser"
     },
     {
-      "title": "I-S00N-Leak: Der Nato-Chef ist ein Ladenhüter​",
-      "teaser": "Spionage as a Service: Der Verfassungsschutz arbeitet interne Dokumente eines chinesischen Dienstleisters auf und veröffentlicht seine Analysen im Netz.",
-      "url": "https://www.heise.de/news/I-S00N-Leak-Verfassungsschuetzer-veroeffentlichen-Analysen-9822734.html",
-      "image_title": "Chinesische Flagge auf Laptop-Display"
-    },
-    {
-      "title": "US-Kartellklage: Apple warnt vor \"richterlicher Umgestaltung\" des iPhones",
-      "teaser": "Der Erfolg des iPhones basiere nicht auf Wettbewerbsverzerrung, argumentiert Apple. Die Kartellklage des US-Justizministeriums müsse abgewiesen werden.",
-      "url": "https://www.heise.de/news/US-Kartellklage-Apple-warnt-vor-richterlicher-Umgestaltung-des-iPhones-9822675.html",
-      "image_title": "Ein auf einem Tisch liegendes iPhone"
-    },
-    {
       "title": "HaustechnikDarf ich Split-Klimaanlagen mit R290 (Propan) selbst installieren?",
       "teaser": "Die strengen Verordnungen für Kältemittel gelten explizit nur für fluorierte Gase. Darf ich also mit R290 / Propan befüllte Klimaanlagen selbst installieren?",
       "url": "https://www.heise.de/hintergrund/Haustechnik-Darf-ich-Split-Klimaanlagen-mit-R290-Propan-selbst-installieren-9798536.html"
@@ -217,6 +217,18 @@
       "title": "heise+ Aktionsangebot",
       "teaser": "1/2 Jahr zum halben Preis: heise+ 6 Monate mit 50 % Rabatt testen und geballtes, brandaktuelles IT- und Tech-Wissen sichern. Unbegrenzter Zugriff auf alle heise+ Beiträge inklusive der Inhalte aller heise-Magazine. Nur für kurze Zeit!",
       "url": "https://shop.heise.de/heise+/sommeraktion?affiliateId=40313_HP000060_27798_3_57&wt_mc=intern.abo.plus.hp_2024_sommer.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "I-S00N-Leak: Der Nato-Chef ist ein Ladenhüter​",
+      "teaser": "Spionage as a Service: Der Verfassungsschutz arbeitet interne Dokumente eines chinesischen Dienstleisters auf und veröffentlicht seine Analysen im Netz.",
+      "url": "https://www.heise.de/news/I-S00N-Leak-Verfassungsschuetzer-veroeffentlichen-Analysen-9822734.html",
+      "image_title": "Chinesische Flagge auf Laptop-Display"
+    },
+    {
+      "title": "US-Kartellklage: Apple warnt vor \"richterlicher Umgestaltung\" des iPhones",
+      "teaser": "Der Erfolg des iPhones basiere nicht auf Wettbewerbsverzerrung, argumentiert Apple. Die Kartellklage des US-Justizministeriums müsse abgewiesen werden.",
+      "url": "https://www.heise.de/news/US-Kartellklage-Apple-warnt-vor-richterlicher-Umgestaltung-des-iPhones-9822675.html",
+      "image_title": "Ein auf einem Tisch liegendes iPhone"
     },
     {
       "title": "Wie Sie mit langen Brennweiten fotografieren",
@@ -282,6 +294,11 @@
       "url": "https://www.heise.de/news/KI-Update-Deep-Dive-GenAI-als-Fluch-und-Segen-fuer-den-Journalismus-9820660.html"
     },
     {
+      "title": "Digitale Souveränität und Datensicherheit – so klappt’s!",
+      "teaser": "Für ein Höchstmaß an digitaler Sicherheit braucht es zwei Voraussetzungen: Ohne digitale Souveränität und eine klare Funktionstrennung geht es nicht. Wir zeigen im Webcast, wie ein Unternehmen das erfolgreich umgesetzt hat.",
+      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/digitale-souveraenitaet-und-datensicherheit-so-klappts-4752/?source=hbsad-ersatz"
+    },
+    {
       "title": "Rechtliche Blicke auf Tücken von Softwareabonnements",
       "teaser": "Viele Softwareanbieter haben sich auf Abomodelle statt dauerhafter Nutzungslizenzen verlegt. Der Weg mit gemieteter Software kann jedoch durchaus dornig sein.",
       "url": "https://www.heise.de/hintergrund/Rechtliche-Blicke-auf-Tuecken-von-Softwareabonnements-9811639.html"
@@ -291,11 +308,6 @@
       "teaser": "Homeoffice sollte keine Kinderbetreuung ersetzen, entgegnet der DGB einer Grünenpolitikerin. Die hatte gemeint, Homeoffice sei vor allem für Frauen wichtig.",
       "url": "https://www.heise.de/news/DGB-Homeoffice-kann-Frauen-Karrierechancen-kosten-9822424.html",
       "image_title": "Großraumbüro, in dem ein Mann sitzt."
-    },
-    {
-      "title": "Digitale Souveränität und Datensicherheit – so klappt’s!",
-      "teaser": "Für ein Höchstmaß an digitaler Sicherheit braucht es zwei Voraussetzungen: Ohne digitale Souveränität und eine klare Funktionstrennung geht es nicht. Wir zeigen im Webcast, wie ein Unternehmen das erfolgreich umgesetzt hat.",
-      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/digitale-souveraenitaet-und-datensicherheit-so-klappts-4752/?source=hbsad-ersatz"
     },
     {
       "title": "iX-Workshop: Produktiver programmieren mit Github Copilot und ChatGPT",
@@ -343,17 +355,6 @@
       "teaser": "Die bassstarken In-Ears schlagen zwei Fliegen mit einer Klappe: Sie bringen Musik gut ins Ohr und messen Puls und Temperatur für Sportgeräte und -Apps.",
       "url": "https://www.heise.de/tests/Sennheiser-Momentum-Sport-im-Test-Fitness-Check-fuer-die-Ohren-9819721.html",
       "image_title": "Sennheiser Momentum Sport"
-    },
-    {
-      "title": "Schreibwerkzeuge: So funktionieren Apples KI-\"Writing Tools\"",
-      "teaser": "Apple hat jetzt einen eigenen Textgenerator in iOS 18.1, iPadOS 18.1 und macOS 15.1 integriert. Im Rahmen des Betatests zeigen sich Stärken – und Schwächen.",
-      "url": "https://www.heise.de/news/Schreibwerkzeuge-So-funktionieren-Apples-KI-Writing-Tools-9818327.html",
-      "image_title": "Die \"Writing Tools\" in iOS 18"
-    },
-    {
-      "title": "Die besten monatlich kündbaren Tarife im August 2024: 30 GB Vodafone für 12 Euro",
-      "teaser": "30 GB im Vodafone-Netz für 12 Euro oder 50 GB O2 für 20 Euro – TechStage zeigt die besten monatlich kündbaren Handytarife im August 2024.",
-      "url": "https://www.techstage.de/ratgeber/monatlich-kuendbar-der-beste-handyvertrag-bis-30-euro/577r5ll?wt_mc=intern.red.techstage.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Suzuki Jimny geht: Strafzahlungen für beliebtes Modell nicht mehr kompensierbar",
@@ -424,6 +425,11 @@
       "image_title": "Stilisiertes Blatt mit Stempel \"Vorsicht Kunde!\""
     },
     {
+      "title": "Schreibwerkzeuge: So funktionieren Apples KI-\"Writing Tools\"",
+      "url": "https://www.heise.de/news/Schreibwerkzeuge-So-funktionieren-Apples-KI-Writing-Tools-9818327.html",
+      "image_title": "Die \"Writing Tools\" in iOS 18"
+    },
+    {
       "title": "iOS 18 & Co. im Betatest: Das sollten Sie beachten",
       "url": "https://www.heise.de/news/iOS-18-Co-im-Betatest-Das-sollten-Sie-beachten-9820754.html",
       "image_title": "Public-Beta-Website von Apple"
@@ -432,11 +438,6 @@
       "title": "Für (Ex-)Tintenfans: Smarter iPad-Stift von LAMY",
       "url": "https://www.heise.de/news/Fuer-Ex-Tintenfans-Smarter-iPad-Stift-von-LAMY-9818315.html",
       "image_title": "Safari Note+ von LAMY​"
-    },
-    {
-      "title": "Tipp: Warum ist mein AirTag nach Batteriewechsel immer noch leer?",
-      "url": "https://www.heise.de/ratgeber/Tipp-Warum-ist-mein-AirTag-nach-Batteriewechsel-immer-noch-leer-9820026.html",
-      "image_title": "ALTERNATIVTEXT"
     },
     {
       "title": "Stop Destroying Videogames: EU-Bürgerinitiative gestartet",
@@ -448,9 +449,9 @@
       "url": "https://www.heise.de/news/Web-Tipps-Deine-Sprache-verraet-Deine-Herkunft-9809569.html"
     },
     {
-      "title": "Olympische Datenernte: Apps für Pariser Sommerspiele spionieren Nutzer aus​",
-      "url": "https://www.heise.de/news/Datenhunger-Apps-fuer-die-Olympischen-Spiele-in-Paris-spionieren-Nutzer-aus-9820157.html",
-      "image_title": "Antlitz einer Frau mit Kraushaaren; darübergelegt die künstlerische Darstellung eines Irisscans eines ihrer Augen"
+      "title": "Wie Sie mit langen Brennweiten fotografieren",
+      "url": "https://www.heise.de/ratgeber/Wie-Sie-mit-langen-Brennweiten-fotografieren-9810331.html",
+      "image_title": "Nikon D300 400 mm ISO 200 f/7.1 1/800 s +1,33 EV, Alle Bilder: Sandra Petrowitz"
     },
     {
       "title": "Problemzone Boeing: Neuer Chef gefunden",
@@ -589,12 +590,6 @@
       "image_title": "Künstliche Intelligenz als Hilfswissenschaftler: KI revolutioniert die Forschung"
     },
     {
-      "title": "Reisetaugliches Blutdruckmessgerät: Garmin Index BPM im Test",
-      "teaser": "Garmins kompaktes Blutdruckmessgerät für bis zu 16 Nutzer synchronisiert die Messung auf Wunsch mit dem Smartphone der jeweiligen Person und Apple Health.",
-      "url": "https://www.heise.de/tests/Reisetaugliches-Blutdruckmessgeraet-Garmin-Index-BPM-im-Test-9810143.html",
-      "image_title": "Blutdruckmessgerät Garmin Index BPM"
-    },
-    {
       "title": "Sennheiser Momentum Sport im Test: Fitness-Check für die Ohren",
       "teaser": "Die bassstarken In-Ears schlagen zwei Fliegen mit einer Klappe: Sie bringen Musik gut ins Ohr und messen Puls und Temperatur für Sportgeräte und -Apps.",
       "url": "https://www.heise.de/tests/Sennheiser-Momentum-Sport-im-Test-Fitness-Check-fuer-die-Ohren-9819721.html",
@@ -605,6 +600,11 @@
       "teaser": "Final Cut Pro 2 macht das iPad zum Regieraum und bringt eine neue Aufnahme-App für das iPhone mit. Auch die Mac-App erhält Verbesserungen.",
       "url": "https://www.heise.de/tests/Klappe-die-zweite-Das-kann-Final-Cut-Pro-2-fuer-iPad-und-Mac-9813651.html",
       "image_title": "Final Cut Pro 2"
+    },
+    {
+      "title": "Clicks im Kurztest: iPhone-Tastatur für mehr Displayfläche",
+      "teaser": "Die externe iPhone-Tastatur spart enorm Platz auf dem Bildschirm. Allerdings ist sie mit 130 Euro nicht gerade billig. Wir testen, wie nützlich sie ist.",
+      "url": "https://www.heise.de/tests/Clicks-im-Kurztest-iPhone-Tastatur-fuer-mehr-Displayflaeche-9806705.html"
     },
     {
       "title": "Jetzt in der Make 4/24: CNC-Sandmaltisch",
@@ -720,19 +720,20 @@
       "url": "https://www.techstage.de/bestenliste/top-10-die-besten-balkonkraftwerke-von-extrem-leicht-bis-besonders-stark/ywhkvwx?wt_mc=intern.red.techstage.techstage_buehne.startseite.buehne.buehne#nav-ring-6"
     },
     {
-      "title": "El Niño gestartet: Warum das nichts Gutes für die Welt bedeutet",
-      "teaser": "Energie und Klima – kompakt: Wichtige Wind- und Meeresströmungen ändern sich. Die Meteorologen warnen vor extremen Temperaturen, aber auch Unwettern. Warum ist das so?",
-      "url": "https://www.heise.de/tp/features/El-Nino-gestartet-Warum-das-nichts-Gutes-fuer-die-Welt-bedeutet-9207700.html"
+      "title": "China beschränkt Export wichtiger Mineralien: Europas grüner Wandel bedroht",
+      "teaser": "Der Umgang zwischen EU und China wird zunehmend unfreundlich. Die Entscheidung Beijings hat ein Vorspiel in Europa. Das sind die Hintergründe.",
+      "url": "https://www.heise.de/tp/features/China-beschraenkt-Export-wichtiger-Mineralien-Europas-gruener-Wandel-bedroht-9206885.html",
+      "image_title": "China schränkt Export von Mineralien für grüne Technologien ein."
     },
     {
-      "title": "Ukraine-Krieg: Nukleare Eskalation unwahrscheinlich – und doch wahrscheinlicher",
-      "teaser": "Nach der Wagner-Revolte muss der Kreml Stärke beweisen. Das steigert das Risiko, meint der russische Politologe Michail Troizki. Er weist auf ein Paradoxon hin .",
-      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Nukleare-Eskalation-unwahrscheinlich-und-doch-wahrscheinlicher-9207244.html"
+      "title": "Gefährliche Stiche: Bringt der Klimawandel auch tropische Krankheiten?",
+      "teaser": "Steigende Temperaturen helfen der Asiatischen Tigermücke oder der Anopheles-Mücke, in Deutschland zu überwintern. Wann werden sie als Krankheitsüberträger gefährlich? Und was kann man tun?",
+      "url": "https://www.heise.de/tp/features/Gefaehrliche-Stiche-Bringt-der-Klimawandel-auch-tropische-Krankheiten-9207996.html"
     },
     {
-      "title": "Wie der Verfassungsschutz in die Meinungsfreiheit eingreift",
-      "teaser": "Der deutsche Inlandsgeheimdienst wird zunehmend zum politischen Akteur. Macht sich Behördenchef Haldenwang einer strafbaren Nötigung im Amt schuldig? Und was hat das mit Orwells \"1984\" zu tun?",
-      "url": "https://www.heise.de/tp/features/Wie-der-Verfassungsschutz-in-die-Meinungsfreiheit-eingreift-9206508.html"
+      "title": "Bud Light: Biertrinker falsch abgeholt",
+      "teaser": "Werbekampagne mit Transgender-Star geht daneben. Schäumende Entrüstung, Geschäft bricht ein. Kulturkampf-Boykott gewinnt. Fabriken schließen. Angestellte werden arbeitslos.",
+      "url": "https://www.heise.de/tp/features/Bud-Light-Biertrinker-falsch-abgeholt-9209052.html"
     },
     {
       "title": "VPN-Test 2024: Die besten VPN-Anbieter im Vergleich",
