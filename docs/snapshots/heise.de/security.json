@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-05T10:01:43",
+  "timestamp": "2024-08-05T11:00:40",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Apache OFBiz",
+      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-bedroht-Unternehmenssoftware-Apache-OFBiz-9824150.html"
+    },
+    {
       "title": "HPE Aruba Networking ClearPass Policy Manager",
       "url": "https://www.heise.de/news/Unbefugte-Zugriffe-auf-IT-Managementloesung-Aruba-ClearPass-moeglich-9821717.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Warten-auf-Sicherheitsupdates-Schadcode-Luecken-bedrohen-Avast-Free-Antivirus-9819293.html"
     },
     {
-      "title": "VMware ESXi",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Ransomware-Attacken-auf-VMware-ESXi-Server-beobachtet-9817989.html"
+      "title": "Kritische Sicherheitslücke bedroht Unternehmenssoftware Apache OFBiz",
+      "teaser": "Angreifer können Systeme mit Apache OFBiz attackieren und eigenen Code ausführen. Eine dagegen abgesicherte Version steht zum Download bereit.",
+      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-bedroht-Unternehmenssoftware-Apache-OFBiz-9824150.html"
     },
     {
       "title": "Rabbit R1: Hardware-Hacker haben API-Keys laut Hersteller durch Leak erhalten",
@@ -158,12 +163,6 @@
       "teaser": "Analysieren Sie aktuelle Angriffstechniken, um die Wirksamkeit Ihrer Schutzmaßnahmen und die Verletzlichkeit Ihrer IT einzuschätzen. (10 % Rabatt bis 14.08.)",
       "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-Angriffstechniken-verstehen-und-erfolgreich-abwehren-9813680.html",
       "image_title": "iX-Workshop Cybersicherheit: aktuelle Bedrohungen und ihre Abwehr"
-    },
-    {
-      "title": "Proofpoint: Betrüger verschicken Millionen Spam-Mails im Namen von Disney & Co.",
-      "teaser": "Aufgrund einer zu laxen Überprüfung in E-Mail-Relays von Proofpoint konnten Betrüger Millionen Spam-Mails am Spamfilter von Opfern vorbeischmuggeln.",
-      "url": "https://www.heise.de/news/Proofpoint-Betrueger-verschicken-Millionen-Spam-Mails-im-Namen-von-Disney-Co-9818191.html",
-      "image_title": "Email,Marketing,Concept,,Company,Sending,Many,E-mails,Or,Digital,Newsletter"
     },
     {
       "title": "Microsoft Cloud Security",
