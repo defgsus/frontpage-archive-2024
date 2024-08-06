@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-06T03:07:04",
+  "timestamp": "2024-08-06T04:08:46",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -14,6 +14,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -92,10 +98,10 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Kamala Harris : Erwählt, aber nicht gewählt",
-      "teaser": "Die Demokraten haben Kamala Harris im Eilverfahren als Präsidentschaftskandidatin nominiert, ohne anderen eine Chance zu geben. Darf man darin ein Problem sehen?",
-      "url": "https://www.zeit.de/politik/2024-08/kamala-harris-demokraten-nominierung-problem-us-wahl",
-      "image_url": "https://img.zeit.de/politik/2024-08/kamala-harris-demokraten-nominierung-problem/wide__1000x562"
+      "title": "Z+ (abopflichtiger Inhalt); Bangladesch : Die eiserne Regentin flieht",
+      "teaser": "Nach dem Rücktritt der Regierungschefin von Bangladesch feiert die Bevölkerung. Doch was passiert in einer Autokratie, die auf eine Herrscherin zugeschnitten ist?",
+      "url": "https://www.zeit.de/politik/ausland/2024-08/bangladesch-ministerpraesidentin-ruecktritt-proteste-scheich-hasina",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-08/bangladesch-scheich-hasina-bild-2/wide__1000x562"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Finanzmarkt : Leitindex in Japan erholt sich nach deutlichem Absturz",
@@ -110,20 +116,8 @@
       "image_url": "https://img.zeit.de/geld/2024-08/aktienmarkt-boerse-tech-firmen/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Inflation : Eine Kugel Eis für zwei Euro? Gewöhnt euch dran",
-      "teaser": "Die Preise steigen langsamer, werden aber nicht mehr sinken. Dagegen helfen nur höhere Löhne – und Gelassenheit.",
-      "url": "https://www.zeit.de/2024/33/inflation-preise-steigerung-alltag-konsum",
-      "image_url": "https://img.zeit.de/2024/33/inflation-preise-steigerung-alltag-konsum-teaserbild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Liveblog:Krieg in Israel und Gaza : Iran beruft Treffen islamischer Länder ein",
-      "teaser": "Der Iran will mit 57 islamischen Ländern über die \"Verbrechen der israelischen Besatzung\" beraten. UN kündigen UNRWA-Mitarbeitern nach Terror-Vorwürfen. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/2023-12/news-israel-gaza-krieg-live",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-08/news-israel-gaza-krieg-live-iran/super__430x286"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Nahost : Bemühungen um Deeskalation in Nahost",
-      "teaser": "Die Sorge vor der Ausweitung des Nahostkriegs ist groß. Der Iran will mit den islamischen Staaten beraten. USA, Jordanien, Türkei und Ägypten versuchen, zu deeskalieren.",
+      "teaser": "Die Sorge vor der Ausweitung des Nahostkriegs ist groß. Der Iran will mit den islamischen Staaten beraten. USA, Jordanien, Türkei und Ägypten versuchen zu deeskalieren.",
       "url": "https://www.zeit.de/politik/ausland/2024-08/nahost-israel-iran-eskalation-biden",
       "image_url": "https://img.zeit.de/politik/ausland/2024-08/nahost-eskalation-bemuehungen-israel/super__430x286"
     },
@@ -134,58 +128,34 @@
       "image_url": "https://img.zeit.de/politik/deutschland/2024-08/bundeswehr-beistand-israel-diskussion-bild-2/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Nachrichtenpodcast : Geheimdienstchefs machen Netanjahu Vorwürfe",
+      "teaser": "Im israelischen Geheimdienst wächst die Kritik an Ministerpräsident Benjamin Netanjahu. Warum? Und: Das BSW fordert eine Quote für Ostdeutsche im öffentlichen Dienst.",
+      "url": "https://www.zeit.de/politik/2024-08/benjamin-netanjahu-israel-kritik-hamas-nachrichtenpodcast",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Geld sparen : Geiz ist schlimm. Der schlimmste Geiz ist Urlaubsgeiz",
+      "teaser": "Klar, finanziell achtsame Menschen werden in den Ferien nicht plötzlich Aperolprasser. Aber: Wer nicht gönnen kann, sollte es lernen. Selbst wenns weh tut.",
+      "url": "https://www.zeit.de/entdecken/2024-08/geld-sparen-urlaub-geiz-reisen",
+      "image_url": "https://img.zeit.de/entdecken/2024-08/geld-sparen-urlaub-geiz-reisen-bild/wide__892x501"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Achtsamkeit für Eltern : Wie ich lernte, die Zeit mit meinen Kindern zu genießen",
       "teaser": "Wie schafft man es, die Tage mit Kindern bewusst zu erleben und nicht nur gestresst zu durchstehen? Indem man sich vergegenwärtigt, wie wenige Wochen einem noch bleiben.",
       "url": "https://www.zeit.de/familie/2024-07/achtsamkeit-eltern-vater-zeit-kinder-alltag",
-      "image_url": "https://img.zeit.de/familie/2024-07/achtsamkeit-eltern-vater-zeit-kinder/wide__892x501"
+      "image_url": "https://img.zeit.de/familie/2024-07/achtsamkeit-eltern-vater-zeit-kinder/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Bundesetat 2025 : Wirtschaftsweise verteidigt Christian Lindner im Haushaltsstreit",
-      "teaser": "Dass der Finanzminister verfassungsrechtliche Risiken beim Haushaltskompromiss öffentlich gemacht hat, sorgt für Zwist. Eine Sachverständige stützt nun seine Position.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-08/haushaltsstreit-wirtschaftsweise-veronika-grimm-verteidigung-christian-lindner",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-08/veronika-grimm-wirtschaftsweise-unterstuetzung-christian-lindner-haushaltsstreit-bild-2/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Gold im 3x3-Basketball : \"Wir haben gezeigt, was das für ein geiler Sport ist\"",
+      "teaser": "Die deutschen 3x3-Basketballerinnen sind Olympiasiegerinnen geworden. So populär war der Sport noch nie – und Dirk Nowitzki sitzt beim Finale in der ersten Reihe.",
+      "url": "https://www.zeit.de/sport/2024-08/olympische-spiele-3x3-basketball-gold-deutschland",
+      "image_url": "https://img.zeit.de/sport/2024-08/olympische-spiele-3x3-basketball-gold-deutschland-bild-2/wide__892x501"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Rente : Mehr als 1,3 Millionen Altersrentner arbeiten zusätzlich",
-      "teaser": "Die Rente in Deutschland liegt im Schnitt bei 1.400 Euro. Viele Menschen gehen im Ruhestand weiter arbeiten. Ein Linkenabgeordneter findet die Situation \"unerträglich\".",
-      "url": "https://www.zeit.de/gesellschaft/2024-08/mehr-als-eine-millionen-rentner-gehen-arbeiten",
-      "image_url": "https://img.zeit.de/arbeit/2024-08/mehr-als-eine-millionen-rentner-gehen-arbeiten-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Rechtsextreme Krawalle : Britische Regierung will nach Ausschreitungen hart durchgreifen",
-      "teaser": "Großbritanniens Premier Keir Starmer hat nach einer Krisensitzung rasche Sanktionen für rechtsextreme Randalierer angekündigt. Die Straßen müssten wieder sicher sein.",
-      "url": "https://www.zeit.de/politik/ausland/2024-08/grossbritannien-rechtsextreme-ausschreitungen-sanktionen-premierminister-keir-starmer",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-08/grossbritannien-keir-starmer-krawalle-rechtsextreme-gruppen/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Venezuela : Opposition fordert Militär zu Befehlsverweigerung auf",
-      "teaser": "Die Opposition wirft Nicolás Maduro Wahlbetrug vor und ruft Militär und Polizei auf, ihm die Unterstützung zu entziehen. Die Staatsanwaltschaft reagiert mit Ermittlungen.",
-      "url": "https://www.zeit.de/politik/ausland/2024-08/venezuela-opposition-aufforderung-befehlsverweigerung-nicolas-maduro",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-08/venezuela-polizei-traenengas-demonstranten-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Selfmade-Millionäre • Das Beste aus Z+ : Wie wird man aus eigener Kraft reich?",
-      "teaser": "Ein Gespräch mit fünf Selfmade-Millionären: über ihren Werdegang, ihren Blick auf den Staat – und darüber, ob Geld ihre politische Haltung verändert hat",
-      "url": "https://www.zeit.de/arbeit/2024-08/selfmade-millionaer-reichtum-wohlstand-geld-konsum",
-      "image_url": "https://img.zeit.de/arbeit/2024-08/selfmade-millionaer-reichtum-wohlstand-28/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Kollagenpulver : Von innen schön, was für eine großartige Lüge",
-      "teaser": "Kollagenpulver ist gerade überall, wo Menschen sich optimieren. Es verspricht alles: nicht nur besseres Bindegewebe und bewegungsfähige Gelenke, sondern ewige Jugend.",
-      "url": "https://www.zeit.de/2024/33/kollagenpulver-nahrungsergaenzungsmittel-haut-tiere",
-      "image_url": "https://img.zeit.de/2024/33/kollagenpulver-nahrungsergaenzungsmittel-haut-tiere-bild/wide__892x501"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Sommerspiele in Paris : Deutsche 3x3-Basketballerinnen gewinnen Olympiagold",
-      "teaser": "Das Quartett Svenja Brunckhorst, Sonja Greinacher, Elisa Mevius und Marie Reichert hat Spanien besiegt. Es holte die erste deutsche Olympiamedaille im Basketball.",
-      "url": "https://www.zeit.de/sport/2024-08/deutsche-3x3-basketballerinnen-gewinnen-olympia-gold",
-      "image_url": "https://img.zeit.de/sport/2024-08/deutschland-spanien-basketball-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Olympische Spiele : Deutsches Bahnrad-Trio gewinnt Bronze im Teamsprint",
-      "teaser": "Die deutschen Athletinnen haben im Teamsprint einen Weltrekord aufgestellt. Dieser wurde jedoch direkt unterboten. Es reichte aber für Bronze.",
-      "url": "https://www.zeit.de/sport/2024-08/olympia-paris-bahnrad-sprint-deutschland",
-      "image_url": "https://img.zeit.de/sport/2024-08/olympia-teamsprint-radsport-bronze/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Olympische Spiele : Was bei Olympia heute wichtig wird",
+      "teaser": "Eine Pyramide wird zum Basketballcourt, Deutschland zur Basketballnation. Und die deutschen Läuferinnen haben große Hindernisse vor sich. Der Olympiaüberblick am Morgen",
+      "url": "https://www.zeit.de/sport/2024-08/olympische-spiele-vorschau-basketball-3x3-triathlon",
+      "image_url": "https://img.zeit.de/sport/2024-08/olympia-vorschau-dennis-schroeder/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Olympische Spiele : Armand Duplantis gelingt Weltrekord im Stabhochsprung",
@@ -194,64 +164,46 @@
       "image_url": "https://img.zeit.de/sport/2024-08/duplantis-weltrekord-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Yannick Flohé : Er tanzt die Wände hinauf",
-      "teaser": "Bei der olympischen Kletter-Premiere nervte ein skurriler Wettkampfmodus die Athleten. Nun bleiben die Spezialisten unter sich. Das kommt auch Yannick Flohé entgegen.",
-      "url": "https://www.zeit.de/sport/2024-08/yannick-flohe-klettern-olympische-spiele-paris-wettkampf",
-      "image_url": "https://img.zeit.de/sport/2024-08/yannick-flohe-klettern-olympische-spiele-paris-wettkampf-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Olympische Spiele : Deutsches Bahnrad-Trio gewinnt Bronze im Teamsprint",
+      "teaser": "Die deutschen Athletinnen haben im Teamsprint einen Weltrekord aufgestellt. Dieser wurde jedoch direkt unterboten. Es reichte aber für Bronze.",
+      "url": "https://www.zeit.de/sport/2024-08/olympia-paris-bahnrad-sprint-deutschland",
+      "image_url": "https://img.zeit.de/sport/2024-08/olympia-teamsprint-radsport-bronze/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); US-Gericht : Google verstößt mit Suchmaschine gegen Wettbewerbsregeln",
-      "teaser": "Ein US-Gericht hat Google wegen Kartellrechtsverstößen schuldig gesprochen. Das Unternehmen zahlte Milliarden, damit seine Suche auf Handys und in Browsern Standard wird.",
-      "url": "https://www.zeit.de/politik/ausland/2024-08/google-usa-kartell-gericht-urteil",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-08/google-urteil-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Bundesetat 2025 : Wirtschaftsweise verteidigt Christian Lindner im Haushaltsstreit",
+      "teaser": "Dass der Finanzminister verfassungsrechtliche Risiken beim Haushaltskompromiss öffentlich gemacht hat, sorgt für Zwist. Eine Sachverständige stützt nun seine Position.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-08/haushaltsstreit-wirtschaftsweise-veronika-grimm-verteidigung-christian-lindner",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-08/veronika-grimm-wirtschaftsweise-unterstuetzung-christian-lindner-haushaltsstreit-bild-2/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Klimaschutz : \"Es gibt erstaunliche Bemühungen, Klimaschutz zu verhindern\"",
-      "teaser": "Heizungsgesetz, Verbrenner-Aus und Energiewende: Klimaschutz wird absichtlich ausgebremst, sagt Politikwissenschaftler Dieter Plehwe. Auch von internationalen Netzwerken.",
-      "url": "https://www.zeit.de/wissen/2024-07/klimaschutz-ampelkoalition-unternehmen-dieter-plehwe",
-      "image_url": "https://img.zeit.de/wissen/2024-07/klimaschutz-ampelkoalition-unternehmen-dieter-plehwe-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Kamala Harris : Erwählt, aber nicht gewählt",
+      "teaser": "Die Demokraten haben Kamala Harris im Eilverfahren als Präsidentschaftskandidatin nominiert, ohne anderen eine Chance zu geben. Darf man darin ein Problem sehen?",
+      "url": "https://www.zeit.de/politik/2024-08/kamala-harris-demokraten-nominierung-problem-us-wahl",
+      "image_url": "https://img.zeit.de/politik/2024-08/kamala-harris-demokraten-nominierung-problem/wide__892x501"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Schutz vor Hitzewellen : So kühlt man eine Stadt ab",
-      "teaser": "Hitzewellen verwandeln Städte in Öfen – jährlich sterben Tausende Menschen daran. Reicht es, einfach nur Bäume zu pflanzen? Mannheim geht sogar noch einen Schritt weiter.",
-      "url": "https://www.zeit.de/wirtschaft/2024-07/schutz-hitzewellen-wasser-klimawandel-kommunen",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-07/schutz-hitzewellen-wasser-klimawandel-kommunen-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Abnehmende Solidarität : Armutsforscher beobachtet \"Sozialneid nach unten\"",
+      "teaser": "Statt Steuern für Superreiche fordern viele Menschen Sanktionen für Bürgergeldempfänger. Laut Forscher Christoph Butterwegge haben sie Angst vor dem sozialen Abstieg.",
+      "url": "https://www.zeit.de/gesellschaft/2024-08/armutsforscher-abnehmende-solidaritaet-sozialneid-nach-unten",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-08/armutsforscher-abnehmende-solidaritaet-sozialneid-nach-unten-bild/super__430x286"
     },
     {
-      "title": "Sizilien : Alarmstufe Rot",
-      "teaser": "Jahrelang hat der höchste aktive Vulkan Europas geruht. Nun brach der Ätna erstmals seit 2021 wieder aus und überzog Sizilien mit einer Aschewolke. Die Bilder",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-08/sizilien-vulkanausbruch-aetna-asche-lava-fs-2",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-08/sizilien-vulkanausbruch-aetna-asche-lava-fs-teaser-2/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Rente : Mehr als 1,3 Millionen Altersrentner arbeiten zusätzlich",
+      "teaser": "Die Rente in Deutschland liegt im Schnitt bei 1.400 Euro. Viele Menschen gehen im Ruhestand weiter arbeiten. Ein Linkenabgeordneter findet die Situation \"unerträglich\".",
+      "url": "https://www.zeit.de/gesellschaft/2024-08/mehr-als-eine-millionen-rentner-gehen-arbeiten",
+      "image_url": "https://img.zeit.de/arbeit/2024-08/mehr-als-eine-millionen-rentner-gehen-arbeiten-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Geschichte der Elbe : Sie hat so viel mehr zu bieten als Hochwasser",
-      "teaser": "Arme Elbe. Keine Dichter besang sie, kein Komponist widmete ihr je eine Symphonie. Doch jetzt endlich bekommt der Fluss die literarische Würdigung, die er verdient.",
-      "url": "https://www.zeit.de/2024/33/geschichte-elbe-luther-napoleon-zweiter-weltkrieg",
-      "image_url": "https://img.zeit.de/2024/33/weltgeschichtliches-wasser-bild-1/wide__892x501"
+      "title": "Z+ (abopflichtiger Inhalt); Professor • Das Beste aus Z+ : \"Ich verdiene netto mehr als 6.800 Euro im Monat\"",
+      "teaser": "Stephan, 43, ist Professor und arbeitet etwa 50 Stunden in der Woche. Er hat ein Haus gekauft und 51.000 Euro auf seinem Tagesgeldkonto angespart.",
+      "url": "https://www.zeit.de/arbeit/2024-07/professor-einkommen-ausgaben-sparen-kontoauszug",
+      "image_url": "https://img.zeit.de/arbeit/2024-07/professor-einkommen-ausgaben/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Landtagswahlen in Ostdeutschland : Frühere DDR-Bürgerrechtler warnen vor Koalition mit Wagenknecht-Partei",
-      "teaser": "Das BSW könnte schon im Herbst Regierungsverantwortung tragen. Nun warnen ehemalige DDR-Bürgerrechtler in einem offenen Brief vor dem \"nationalen Sozialismus\" der Partei.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-08/landtagswahl-ostdeutschland-bsw-ddr-buergerrechtler-warnung",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-08/landtagswahl-ostdeutschland-bsw-ddr-buergerrechtler-warnung-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); DDR-Geschichte : \"Hier sind einfach Menschen gestorben\"",
-      "teaser": "Von Wittenberge bis Büchen, entlang der Elbe. Eine Gruppe Schüler fährt mit dem Rad die DDR-Grenze ab: Was bewirkt die Tour bei der Gen Z des Ostens?",
-      "url": "https://www.zeit.de/2024/33/ddr-geschichte-schueler-bildung-ost-west",
-      "image_url": "https://img.zeit.de/2024/33/ddr-geschichte-schueler-bildung-ost-west-teaser/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Bilderbuch über Angst : Ein großes Gefühl, das jeder kennt",
-      "teaser": "Angst kann Kinder fesseln, warnen, schützen. Selten ist dieses mächtige Gefühl so poetisch inszeniert worden wie in dem Bilderbuch \"Was uns Angst macht\".",
-      "url": "https://www.zeit.de/2024/33/bilderbuch-angst-stromausfall-vater-kind",
-      "image_url": "https://img.zeit.de/2024/33/was-lauert-in-den-schatten-bild-1/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Firma der Eltern : \"Nach zwei Monaten wollte ich wieder aufgeben\"",
-      "teaser": "Dina Reit wollte nie in die Firma des Vaters einsteigen und lieber studieren. Er wollte verkaufen – bis ihr klar wurde, wie toll es sein kann, Entscheidungen zu treffen.",
-      "url": "https://www.zeit.de/zeit-fuer-unternehmer/2024/02/firma-eltern-uebernahme-dina-reit-christoph-kollbach-sk-laser",
-      "image_url": "https://img.zeit.de/zeit-fuer-unternehmer/2024/02/firma-eltern-uebernahme-dina-reit-christoph-kollbach/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Kollagenpulver : Von innen schön, was für eine großartige Lüge",
+      "teaser": "Kollagenpulver ist gerade überall, wo Menschen sich optimieren. Es verspricht alles: nicht nur besseres Bindegewebe und bewegungsfähige Gelenke, sondern ewige Jugend.",
+      "url": "https://www.zeit.de/2024/33/kollagenpulver-nahrungsergaenzungsmittel-haut-tiere",
+      "image_url": "https://img.zeit.de/2024/33/kollagenpulver-nahrungsergaenzungsmittel-haut-tiere-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Psychotherapie : \"Meine Stärke hat mich an den Rand des Abgrunds gebracht\"",
@@ -272,16 +224,46 @@
       "image_url": "https://img.zeit.de/zeit-magazin/2024-07/psychotherapie-psychologie-mentale-gesundheit-inspiration-teaser/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); US-Gericht : Google verstößt mit Suchmaschine gegen Wettbewerbsregeln",
+      "teaser": "Ein US-Gericht hat Google wegen Kartellrechtsverstößen schuldig gesprochen. Das Unternehmen zahlte Milliarden, damit seine Suche auf Handys und in Browsern Standard wird.",
+      "url": "https://www.zeit.de/politik/ausland/2024-08/google-usa-kartell-gericht-urteil",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-08/google-urteil-bild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Venezuela : Opposition fordert Militär zu Befehlsverweigerung auf",
+      "teaser": "Die Opposition wirft Nicolás Maduro Wahlbetrug vor und ruft Militär und Polizei auf, ihm die Unterstützung zu entziehen. Die Staatsanwaltschaft reagiert mit Ermittlungen.",
+      "url": "https://www.zeit.de/politik/ausland/2024-08/venezuela-opposition-aufforderung-befehlsverweigerung-nicolas-maduro",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-08/venezuela-polizei-traenengas-demonstranten-bild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Rechtsextreme Krawalle : Britische Regierung will nach Ausschreitungen hart durchgreifen",
+      "teaser": "Großbritanniens Premier Keir Starmer hat nach einer Krisensitzung rasche Sanktionen für rechtsextreme Randalierer angekündigt. Die Straßen müssten wieder sicher sein.",
+      "url": "https://www.zeit.de/politik/ausland/2024-08/grossbritannien-rechtsextreme-ausschreitungen-sanktionen-premierminister-keir-starmer",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-08/grossbritannien-keir-starmer-krawalle-rechtsextreme-gruppen/super__430x286"
+    },
+    {
       "title": "Diese Woche in der ZEIT : Was der Körper kann. Und was nicht",
       "teaser": "Die Menschen sind dafür gemacht, sich zu bewegen – egal wie alt, egal wie fit sie sind. Aber wo liegen die Chancen? Und wo die Grenzen?",
       "url": "https://premium.zeit.de/abo/diezeit?aktionsnummer=1130785&wt_zmc=fix.int.zonpme.zeitde.epaper.z+.home.bildtext.bildtext&utm_medium=fix&utm_source=zeitde_zonpme_int&utm_campaign=epaper&utm_content=z+_home_bildtext_bildtext?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.link.link&utm_medium=cross&utm_source=zeitde_zonpme_int&utm_campaign=printbox&utm_content=ausgseite_bildtext_link_link",
       "image_url": "https://img.zeit.de/2024/33/packshot-24-33-1000x620/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Wirtschaftspodcast \"Ist das eine Blase?\" : \"Der Zweit- und Dritturlaub ist fast schon Standard\"",
-      "teaser": "Sommer, Ostern, Herbstferien und ein Städtetrip zwischendurch: Muss das sein? Tourismusforscher Jürgen Schmude verrät, wie wir nachhaltiger und trotzdem toll verreisen.",
-      "url": "https://www.zeit.de/wirtschaft/2024-08/uebertourismus-podcast-nachhaltiges-reisen",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-08/uebertourismus-podcast-nachhaltiges-reisen-1/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Geschichte der Elbe : Sie hat so viel mehr zu bieten als Hochwasser",
+      "teaser": "Arme Elbe. Keine Dichter besang sie, kein Komponist widmete ihr je eine Symphonie. Doch jetzt endlich bekommt der Fluss die literarische Würdigung, die er verdient.",
+      "url": "https://www.zeit.de/2024/33/geschichte-elbe-luther-napoleon-zweiter-weltkrieg",
+      "image_url": "https://img.zeit.de/2024/33/weltgeschichtliches-wasser-bild-1/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Bangladesch : Militärchef sucht Dialog mit Studenten für Übergangsregierung",
+      "teaser": "General Waker-uz-Zaman will sich nach dem Rücktritt der Ministerpräsidentin Scheich Hasina mit der Studentenbewegung einigen. Deren Sprecher macht vorab eine Ansage.",
+      "url": "https://www.zeit.de/politik/ausland/2024-08/bangladesch-militaerchef-dialog-studenten-uebergangsregierung",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-08/bgaladesch-armee-studenten-uebergangsregierung-bild/super__320x213"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Sommerspiele in Paris : Deutsche 3x3-Basketballerinnen gewinnen Olympiagold",
+      "teaser": "Das Quartett Svenja Brunckhorst, Sonja Greinacher, Elisa Mevius und Marie Reichert hat Spanien besiegt. Es holte die erste deutsche Olympiamedaille im Basketball.",
+      "url": "https://www.zeit.de/sport/2024-08/deutsche-3x3-basketballerinnen-gewinnen-olympia-gold",
+      "image_url": "https://img.zeit.de/sport/2024-08/deutschland-spanien-basketball-bild/super__320x213"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Olympische Spiele : Noah Hegge holt überraschend Bronze im Kajak-Cross",
@@ -320,22 +302,10 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-08/rechtsextreme-ausschreitungen-nationaler-krisenstab-keir-starmer-2/super__320x213"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Mögliche Suchtgefahr : TikTok schafft umstrittene Belohnungsfunktion Lite in Europa ab",
-      "teaser": "Wer sich anmeldet und scrollt, bekommt Punkte: So sollte TikTok Lite funktionieren. Auf Druck der Europäischen Kommission stellt das Unternehmen die Funktion nun ein.",
-      "url": "https://www.zeit.de/digital/2024-08/tiktok-lite-suchtgefahr-europaeische-kommission-dsa",
-      "image_url": "https://img.zeit.de/digital/datenschutz/2024-08/tiktok-lite-suchtgefahr-europaeische-kommission-dsa-bild/super__320x213"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Olympische Spiele in Paris : Zahlreiche Coronafälle im australischen Olympiateam",
-      "teaser": "Im australischen Team gab es während der Sommerspiele in Paris bereits mehr als 40 Coronaerkrankungen. Trotz einer Infektion nahmen einige Athleten an Wettbewerben teil.",
-      "url": "https://www.zeit.de/sport/2024-08/olympische-spiele-2024-coronafaelle-australien-team",
-      "image_url": "https://img.zeit.de/sport/2024-08/olympische-spiele-2024-coronafaelle-australien-team-bild/super__320x213"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Erzieherin : \"Ich arbeite fünf Stunden weniger, aber habe netto 500 Euro mehr\"",
-      "teaser": "Michaela Weber arbeitete lange als Erzieherin – bis sie den Stress nicht mehr aushielt und Tinnitus bekam. Sie kündigte und wurde als Heilerziehungspflegerin glücklich.",
-      "url": "https://www.zeit.de/arbeit/2024-07/erzieherin-kita-beruf-kuendigung-neuanfang-erfolg",
-      "image_url": "https://img.zeit.de/arbeit/2024-07/erzieherin-kita-beruf-kuendigung-neuanfang/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Bilderbuch über Angst : Ein großes Gefühl, das jeder kennt",
+      "teaser": "Angst kann Kinder fesseln, warnen, schützen. Selten ist dieses mächtige Gefühl so poetisch inszeniert worden wie in dem Bilderbuch \"Was uns Angst macht\".",
+      "url": "https://www.zeit.de/2024/33/bilderbuch-angst-stromausfall-vater-kind",
+      "image_url": "https://img.zeit.de/2024/33/was-lauert-in-den-schatten-bild-1/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Autismus bei Erwachsenen • Z+ Empfehlung : Hochfunktional, aber irgendwas stimmt nicht",
@@ -404,16 +374,16 @@
       "image_url": "https://img.zeit.de/sport/2024-08/olympia-stars-social-media-ilona-maher-snoop-dogg-bild-3/wide__892x501"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Olympische Spiele in Paris : Zahlreiche Coronafälle im australischen Olympiateam",
+      "teaser": "Im australischen Team gab es während der Sommerspiele in Paris bereits mehr als 40 Coronaerkrankungen. Trotz einer Infektion nahmen einige Athleten an Wettbewerben teil.",
+      "url": "https://www.zeit.de/sport/2024-08/olympische-spiele-2024-coronafaelle-australien-team",
+      "image_url": "https://img.zeit.de/sport/2024-08/olympische-spiele-2024-coronafaelle-australien-team-bild/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Badminton bei Olympia : Hygge übers Netz",
       "teaser": "Badminton, der schnellste Sport der Welt, wird von asiatischen Sportlern dominiert. Nur ein europäisches Land leistet Widerstand – und könnte erneut Gold holen: Dänemark.",
       "url": "https://www.zeit.de/sport/2024-08/badminton-olympia-daenemark-gold-chance",
       "image_url": "https://img.zeit.de/sport/2024-08/badminton-olympia-daenemark-gold-chance-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Olympische Spiele : Was bei Olympia heute wichtig wird",
-      "teaser": "Armand Duplantis brach als Siebenjähriger den ersten Rekord, heute will er den nächsten. Und die Deutschen werfen im Vollspeed. Der Ausblick auf den Olympiatag",
-      "url": "https://www.zeit.de/sport/2024-08/olympische-spiele-vorschau-armand-duplantis-3x3-volleyball",
-      "image_url": "https://img.zeit.de/sport/2024-08/olympia-vorschau-armand-duplantis/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Marmeladen-Halloumi : Süßer quietscht keiner",
@@ -422,16 +392,16 @@
       "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-07/marmeladen-halloumi-rezept-wochenmarkt-besser-guenstig-bild-2/wide__892x501"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Volkswagen in Russland : Deutsche Technik für Russlands Straßen",
-      "teaser": "Eigentlich sollen in Russland keine Autos mit VW-Technik verkauft werden. Aber das ändert sich nun. Und der Konzern gibt sich ahnungslos.",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-07/volkswagen-russland-china-vw-jetta-autoindustrie",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-07/volkswagen-russland-china-vw-jetta-autoindustrie-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Klimaschutz : \"Es gibt erstaunliche Bemühungen, Klimaschutz zu verhindern\"",
+      "teaser": "Heizungsgesetz, Verbrenner-Aus und Energiewende: Klimaschutz wird absichtlich ausgebremst, sagt Politikwissenschaftler Dieter Plehwe. Auch von internationalen Netzwerken.",
+      "url": "https://www.zeit.de/wissen/2024-07/klimaschutz-ampelkoalition-unternehmen-dieter-plehwe",
+      "image_url": "https://img.zeit.de/wissen/2024-07/klimaschutz-ampelkoalition-unternehmen-dieter-plehwe-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Kleidung verkaufen : Kleider machen Beute",
-      "teaser": "Schluss mit Chaos im Kleiderschrank! So verkaufen Sie Ihre alten Klamotten schnell und gewinnbringend – ob auf dem Flohmarkt, über Apps oder online.",
-      "url": "https://www.zeit.de/geld/2024-07/kleidung-verkaufen-second-hand-vinted-momox-flohmarkt",
-      "image_url": "https://img.zeit.de/geld/2024-07/kleidung-verkaufen-second-hand-vinted-momox/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Schutz vor Hitzewellen : So kühlt man eine Stadt ab",
+      "teaser": "Hitzewellen verwandeln Städte in Öfen – jährlich sterben Tausende Menschen daran. Reicht es, einfach nur Bäume zu pflanzen? Mannheim geht sogar noch einen Schritt weiter.",
+      "url": "https://www.zeit.de/wirtschaft/2024-07/schutz-hitzewellen-wasser-klimawandel-kommunen",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-07/schutz-hitzewellen-wasser-klimawandel-kommunen-bild/super__430x286"
     },
     {
       "title": "Verlagsangebot : 10 unentdeckte Urlaubsorte, die weder teuer noch überlaufen sind",
@@ -488,22 +458,22 @@
       "image_url": "https://img.zeit.de/gesellschaft/2024-07/oeffentlicher-personennahverkehr-land-verkehrsmittel-buslinie/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Kleidung verkaufen : Kleider machen Beute",
+      "teaser": "Schluss mit Chaos im Kleiderschrank! So verkaufen Sie Ihre alten Klamotten schnell und gewinnbringend – ob auf dem Flohmarkt, über Apps oder online.",
+      "url": "https://www.zeit.de/geld/2024-07/kleidung-verkaufen-second-hand-vinted-momox-flohmarkt",
+      "image_url": "https://img.zeit.de/geld/2024-07/kleidung-verkaufen-second-hand-vinted-momox/wide__892x501"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Dax-Kursverluste : Was ist mit der Börse los?",
       "teaser": "Der Dax ist so tief gesunken wie seit mehr als einem Jahr nicht mehr. Die Gründe liegen vor allem in den USA.",
       "url": "https://www.zeit.de/geld/2024-08/dax-kursverluste-ursache-boerse-anleger",
-      "image_url": "https://img.zeit.de/geld/2024-08/dax-kursverluste-ursache-boerse-anleger-bild/wide__892x501"
+      "image_url": "https://img.zeit.de/geld/2024-08/dax-kursverluste-ursache-boerse-anleger-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Ausgaben : Wofür fehlt Ihnen das Geld?",
       "teaser": "Jeder vierte Haushalt kann sich keinen Urlaub leisten. Andere gehen seltener essen oder lassen ihr Haus nicht sanieren. Uns interessiert: Wo müssen Sie gerade sparen?",
       "url": "https://www.zeit.de/geld/2024-07/ausgaben-haushalt-budget-sparen-aufruf",
       "image_url": "https://img.zeit.de/geld/2024-07/ausgaben-haushalt-budget-sparen/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Änderungen im August 2024 : Ausbildungsgarantie für Azubis und Zuschüsse beim Heizungstausch",
-      "teaser": "Schüler bekommen mehr Bafög, die Änderung des Geschlechtseintrags wird vereinfacht, und es gibt weniger Geld für eingespeisten Solarstrom: Das ändert sich im August.",
-      "url": "https://www.zeit.de/geld/2024-07/aenderungen-august-2024-ausbildungsgarantie-auszubildende-zuschuss-heizungstausch",
-      "image_url": "https://img.zeit.de/geld/2024-07/aenderungen-august-2024-ausbildungsgarantie-auszubildende-zuschuss-heizungstausch-bild/super__430x286"
     },
     {
       "title": "Verlagsangebot : Wie gut ist Ihr Business Englisch? Testen Sie Ihr Wissen!",
@@ -602,16 +572,28 @@
       "image_url": "https://img.zeit.de/politik/deutschland/2024-08/gruenen-politiker-zeigt-thueringer-afd-spitze-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Verhandlungen über Bundeshaushalt : FDP-Fraktionsvorsitzender beschwichtigt im Haushaltsstreit der Ampel",
-      "teaser": "In Grundzügen stehe der Haushalt, sagt Christian Dürr, Fraktionschef der FDP. Von den Koalitionspartnern kommt dennoch weiter Kritik an Finanzminister Christian Lindner.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-08/ampel-haushalt-verhandlungen-lindner-duerr-fdp",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-08/ampel-haushalt-verhandlungen-lindner-duerr-fdp-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Landtagswahlen in Ostdeutschland : Frühere DDR-Bürgerrechtler warnen vor Koalition mit Wagenknecht-Partei",
+      "teaser": "Das BSW könnte schon im Herbst Regierungsverantwortung tragen. Nun warnen ehemalige DDR-Bürgerrechtler in einem offenen Brief vor dem \"nationalen Sozialismus\" der Partei.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-08/landtagswahl-ostdeutschland-bsw-ddr-buergerrechtler-warnung",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-08/landtagswahl-ostdeutschland-bsw-ddr-buergerrechtler-warnung-bild/super__430x286"
     },
     {
       "title": "Verlagsangebot : In drei Wochen zu besseren Fotos",
       "teaser": "Mit dem kostenlosen E-Mail-Kurs »Einstieg in die Fotografie« von der ZEIT Akademie starten Sie drei Wochen lang jeden Montag mit einem kurzen Impuls in die Woche.",
       "url": "https://www.zeitakademie.de/e-mail-kurs-fotografie-bessere-bilder/?icode=01w0387k1347inhrefall2403&utm_medium=referall&utm_source=zon&utm_campaign=emk_fotografie&utm_content=01w0387k1347inhrefall2403&wt_zmc=refall.Ext.zabo.zon.emk_fotografie.x",
       "image_url": "https://img.zeit.de/angebote/Links/Bilder/akademie/2024/zak-fotografie-01/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Kriminalpodcast : E wie Erlaubnistatbestandsirrtum",
+      "teaser": "Wie ein Rocker einen Polizisten erschoss und warum er freigesprochen wurde. Folge sechs unseres ABC des Verbrechens, einer Sonderserie des Podcasts ZEIT Verbrechen",
+      "url": "https://www.zeit.de/gesellschaft/2024-07/erlaubnistatbestandsirrtum-strafrecht-erklaerung-verbrechen-podcast",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-07/cover-z-verbrechen-abc-2/super__320x213"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Wirtschaftspodcast \"Ist das eine Blase?\" : \"Der Zweit- und Dritturlaub ist fast schon Standard\"",
+      "teaser": "Sommer, Ostern, Herbstferien und ein Städtetrip zwischendurch: Muss das sein? Tourismusforscher Jürgen Schmude verrät, wie wir nachhaltiger und trotzdem toll verreisen.",
+      "url": "https://www.zeit.de/wirtschaft/2024-08/uebertourismus-podcast-nachhaltiges-reisen",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-08/uebertourismus-podcast-nachhaltiges-reisen-1/super__320x213"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Strafrecht : D wie Dokumentation",
@@ -644,16 +626,10 @@
       "image_url": "https://img.zeit.de/gesellschaft/2024-07/cover-z-verbrechen-abc-2/super__320x213"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Hamburg-Podcast \"Elbvertiefung\" : Diesen Stadtteil erreicht man nur per Schiff und Kutsche",
-      "teaser": "21 Einwohner und ein Leuchtturm: Zum Bezirk Hamburg-Mitte gehört auch die Insel Neuwerk im Wattenmeer. Ein Paradies für Urlauber. Aber wie geht es den Neuwerkern?",
-      "url": "https://www.zeit.de/hamburg/2024-08/neuwerk-wattenmeer-insel-hamburg-podcast-elbvertiefung",
-      "image_url": "https://img.zeit.de/hamburg/2024-08/neuwerk-wattenmeer-insel-hamburg-podcast-elbvertiefung-bild/super__320x213"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Kriminalpodcast : A wie Angeklagter",
-      "teaser": "Wie wird man zum Angeklagten – und was erwartet einen dann? Folge zwei unseres ABC des Verbrechens, einer Sonderserie des Podcasts ZEIT Verbrechen",
-      "url": "https://www.zeit.de/gesellschaft/2024-07/angeklagter-strafrecht-erklaerung-verbrechen-podcast",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-07/cover-z-verbrechen-abc-2/super__320x213"
+      "title": "Sizilien : Alarmstufe Rot",
+      "teaser": "Jahrelang hat der höchste aktive Vulkan Europas geruht. Nun brach der Ätna erstmals seit 2021 wieder aus und überzog Sizilien mit einer Aschewolke. Die Bilder",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-08/sizilien-vulkanausbruch-aetna-asche-lava-fs-2",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-08/sizilien-vulkanausbruch-aetna-asche-lava-fs-teaser-2/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Französische Alpen : Ein Toter und mehrere Verletzte am Mont Blanc nach Gletscherschmelze",
@@ -668,16 +644,16 @@
       "image_url": "https://img.zeit.de/gesellschaft/2024-08/usa-florida-tropensturm-debby/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Gerichtsurteil : Waldbrandgeschädigte auf Hawaii erstreiten vier Milliarden Dollar",
-      "teaser": "Geschädigte eines Waldbrandes auf Hawaii erhalten eine Milliardensumme. Den Großteil muss ein Strombetreiber zahlen, der unzureichend auf das Feuer reagiert haben soll.",
-      "url": "https://www.zeit.de/gesellschaft/2024-08/hawaii-waldbraende-klagen-entschaedigung-vergleich",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-08/hawaii-waldbraende-klagen-entschaedigung-vergleich-bild/super__430x286"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Chipindustrie : Infineon will fast 3.000 Jobs abbauen oder ins Ausland verlagern",
       "teaser": "Der Chiphersteller Infineon will weltweit 1.400 Stellen einsparen und ebenso viele aus \"Hochlohnländern\" verlegen. Auch deutsche Standorte sollen davon betroffen sein.",
       "url": "https://www.zeit.de/wirtschaft/2024-08/infineon-chipindustrie-deutschland-jobs-abbauen-verlagern",
       "image_url": "https://img.zeit.de/wirtschaft/2024-08/infineon-chipindustrie-deutschland-jobs-abbauen-verlagern-bild/wide__892x501"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Volkswagen in Russland : Deutsche Technik für Russlands Straßen",
+      "teaser": "Eigentlich sollen in Russland keine Autos mit VW-Technik verkauft werden. Aber das ändert sich nun. Und der Konzern gibt sich ahnungslos.",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-07/volkswagen-russland-china-vw-jetta-autoindustrie",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-07/volkswagen-russland-china-vw-jetta-autoindustrie-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Dürre : Sizilien? Kaum wiederzuerkennen",
@@ -690,12 +666,6 @@
       "teaser": "In der Regierung gibt es Streit darüber, wie man den eigenen Haushaltsentwurf zu verstehen habe. Der Finanzminister will neu verhandeln und riskiert den Koalitionsbruch.",
       "url": "https://www.zeit.de/wirtschaft/2024-08/haushalt-2025-christian-lindner-verhandlung-ampelkoalition-bundesregierung",
       "image_url": "https://img.zeit.de/politik/deutschland/2024-08/haushalt-2025-christian-lindner-verhandlung-ampelkoalition-bundesregierung-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Bürgergeld : Gehört das Bürgergeld abgeschafft?",
-      "teaser": "Es hält vom Arbeiten ab, und vor allem profitieren Ausländer: Kaum eine Sozialleistung wird so heftig diskutiert wie das Bürgergeld. Zeit, falsche Argumente zu entlarven.",
-      "url": "https://www.zeit.de/wirtschaft/2024-07/buergergeld-abschaffen-arbeitslosigkeit-cdu",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-08/buergergeld-abschaffen-arbeitslosigkeit-cdu-agentur/super__430x286"
     },
     {
       "title": "Börsencrash : Ausverkauf an den Märkten: An den Börsen geht die Angst um",
@@ -874,28 +844,28 @@
       "image_url": "https://img.zeit.de/2024/32/heisses-hirn-bild-1/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Verbraucherzentrale Bundesverband : Temu und weitere Techkonzerne verstoßen laut Studie gegen EU-Recht",
+      "teaser": "Große Digitalkonzerne erfassen laut einer Studie weiterhin mehr Nutzerdaten, als die EU erlaubt. Das Risiko des Missbrauchs sei enorm, kritisieren Verbraucherschützer.",
+      "url": "https://www.zeit.de/digital/2024-08/eu-recht-techkonzerne-verbraucher-manipulation-studie",
+      "image_url": "https://img.zeit.de/digital/datenschutz/2024-08/eu-recht-techkonzerne-verbraucher-manipulation-studie-bild/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); \"Dungeons of Hinterberg\" : So bekämpft man den Massentourismus",
       "teaser": "\"Dungeons of Hinterberg\" sieht mit seinen Monstern und Magiern aus wie ein ganz normales Videospiel. Es ist aber mehr: eine kluge Kritik am Massentourismus.",
       "url": "https://www.zeit.de/digital/games/2024-08/dungeons-of-hinterberg-videospiel-massentourismus-kritik",
       "image_url": "https://img.zeit.de/digital/games/2024-08/dungeons-of-hinterberg-videospiel-massentourismus-kritik-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Natalie Jane : Die Hypewellenreiterin",
-      "teaser": "TikTok brachte der US-Sängerin Natalie Jane eine Millionenreichweite. Social Media ist ein Sprungbett, doch die Abhängigkeit von Algorithmen macht das Geschäft knallhart.",
-      "url": "https://www.zeit.de/digital/internet/2024-07/natalie-jane-saengerin-tiktok-algorithmus-social-media",
-      "image_url": "https://img.zeit.de/digital/2024-07/natalie-jane-saengerin-tiktok-social-media/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Firma der Eltern : \"Nach zwei Monaten wollte ich wieder aufgeben\"",
+      "teaser": "Dina Reit wollte nie in die Firma des Vaters einsteigen und lieber studieren. Er wollte verkaufen – bis ihr klar wurde, wie toll es sein kann, Entscheidungen zu treffen.",
+      "url": "https://www.zeit.de/zeit-fuer-unternehmer/2024/02/firma-eltern-uebernahme-dina-reit-christoph-kollbach-sk-laser",
+      "image_url": "https://img.zeit.de/zeit-fuer-unternehmer/2024/02/firma-eltern-uebernahme-dina-reit-christoph-kollbach/wide__892x501"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Duales Studium : Mehr Praxis auf den Stundenplan!",
       "teaser": "Studiengänge sind oft zu theoretisch und weit vom Arbeitsalltag entfernt. In Ausbildungen hingegen geht es zu selten um die Theorie. Weshalb sich das ändern sollte.",
       "url": "https://www.zeit.de/2024/33/duales-studium-praxis-ausbildung-universitaet",
-      "image_url": "https://img.zeit.de/2024/33/duales-studium-praxis-ausbildung-universitaet-teaserbild/wide__892x501"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Leben im Ruhestand : \"Obwohl ich allein und zurückgezogen lebe, bin ich nicht einsam\"",
-      "teaser": "Als die Psychologin Eleonore ihren Rentenbescheid bekam, war sie erfreut. Ihre Rente war höher als ihr letztes Gehalt. Auch ihre Eigentumswohnung ist bereits abbezahlt.",
-      "url": "https://www.zeit.de/arbeit/2024-07/rentenbescheid-gehalt-pension-liebe",
-      "image_url": "https://img.zeit.de/arbeit/2024-07/rentenbescheid-gehalt-pension/super__430x286"
+      "image_url": "https://img.zeit.de/2024/33/duales-studium-praxis-ausbildung-universitaet-teaserbild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Bundesliga-Mode : Oooh-jeeeh, oje, oje, ojeeh!",
@@ -922,11 +892,11 @@
       "image_url": "https://img.zeit.de/gesellschaft/schule/2024-08/bafoeg-empfaenger-schueler-studenten-statistisches-bundesamt-bild-2/wide__892x501"
     },
     {
-      "title": "Verlagsangebot : Ein Studium finden, das passt",
-      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
-      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.teaser.bewerben-schreibtisch.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=sit-verlagsteaser&amp;utm_content=sit_teaser_bewerben-schreibtisch_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/sit-bewerben-schreibtisch/wide__430x286__desktop",
-      "image_title": "Ein Studium finden, das passt"
+      "title": "Verlagsangebot : Und was macht man dann damit?",
+      "teaser": "Was verbirgt sich konkret hinter den sperrigen Studiengangsbezeichnungen? Einen Einblick in mögliche Berufsfelder liefert die Suchmaschine für Studienangebote.",
+      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.kaffeepause_wasmachtmandamit.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_kaffeepause_wasmachtmandamit_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-4-klein/photo-of-women-looking-on-monitors-197.jpg",
+      "image_title": "Und was macht man dann damit?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Emilio Sakraya : \"Ich glaube nicht an Glück\"",
@@ -983,48 +953,48 @@
       "image_url": "https://img.zeit.de/2024/32/im-tal-der-traenen-teaserbild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Noah Lyles : Er soll der neue Bolt werden",
-      "teaser": "Der US-Amerikaner Noah Lyles gewinnt eines der knappsten 100-Meter-Rennen der Geschichte. Ein Ereignis, das der Disziplin nur guttun kann",
-      "url": "https://www.zeit.de/sport/2024-08/olympia-2024-noah-lyles-100-meter-sprint-weltrekord",
-      "image_url": "https://img.zeit.de/sport/2024-08/olympia-2024-noah-lyles-goldmedaille-100-meter-bild/wide__892x501"
+      "title": "Z+ (abopflichtiger Inhalt); Yannick Flohé : Er tanzt die Wände hinauf",
+      "teaser": "Bei der olympischen Kletter-Premiere nervte ein skurriler Wettkampfmodus die Athleten. Nun bleiben die Spezialisten unter sich. Das kommt auch Yannick Flohé entgegen.",
+      "url": "https://www.zeit.de/sport/2024-08/yannick-flohe-klettern-olympische-spiele-paris-wettkampf",
+      "image_url": "https://img.zeit.de/sport/2024-08/yannick-flohe-klettern-olympische-spiele-paris-wettkampf-bild/wide__892x501"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Paris : Belgische Triathletin nach Olympiawettkampf in der Seine erkrankt",
-      "teaser": "Die schlechte Wasserqualität der Seine behindert die Triathlonwettkämpfe von Olympia. Wegen der Erkrankung einer Athletin nimmt Belgien nicht an der Mixed-Staffel teil.",
-      "url": "https://www.zeit.de/sport/2024-08/paris-triathlon-belgien-erkrankung-nach-wettkampf-seine",
-      "image_url": "https://img.zeit.de/sport/2024-08/paris-triathlon-belgien-erkrankung-nach-wettkampf-seine-2/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Olympische Spiele : Was bei Olympia heute wichtig wird",
+      "teaser": "Armand Duplantis brach als Siebenjähriger den ersten Rekord, heute will er den nächsten. Und die Deutschen werfen im Vollspeed. Der Ausblick auf den Olympiatag",
+      "url": "https://www.zeit.de/sport/2024-08/olympische-spiele-vorschau-armand-duplantis-3x3-volleyball",
+      "image_url": "https://img.zeit.de/sport/2024-08/olympia-vorschau-armand-duplantis/super__430x286"
     },
     {
-      "title": "Lage im Überblick: Selenskyj: Brauchen pünktliche Waffenhilfe für Abwehrkampf",
-      "url": "https://www.zeit.de/news/2024-08/06/selenskyj-brauchen-puenktliche-waffenhilfe-fuer-abwehrkampf"
+      "title": "Artenvielfalt: Pfeifengras und Wiesenmahd im Havelland",
+      "url": "https://www.zeit.de/news/2024-08/06/pfeifengras-und-wiesenmahd-im-havelland"
     },
     {
-      "title": "Benzin, Diesel und Co: PCK Schwedt geringer ausgelastet als vor Ukraine-Krise",
-      "url": "https://www.zeit.de/news/2024-08/06/pck-schwedt-geringer-ausgelastet-als-vor-ukraine-krise"
+      "title": "Zuwanderung: Vogt: Grenzkontrollen «keine Dauerlösung»",
+      "url": "https://www.zeit.de/news/2024-08/06/vogt-grenzkontrollen-keine-dauerloesung"
     },
     {
-      "title": "Energie: Mildes Wetter und Konjunkturschwäche: Energieverbrauch sinkt",
-      "url": "https://www.zeit.de/news/2024-08/06/mildes-wetter-und-konjunkturschwaeche-energieverbrauch-sinkt"
+      "title": "Olympia in Paris: «Was gibt es Größeres?»: Gold verzückt 3x3-Basketballerinnen",
+      "url": "https://www.zeit.de/news/2024-08/06/was-gibt-es-groesseres-gold-verzueckt-3x3-basketballerinnen"
     },
     {
-      "title": "Wandersaison: Rotwandhaus kämpft gegen Keime im Wasser - Notbetrieb",
-      "url": "https://www.zeit.de/news/2024-08/06/rotwandhaus-kaempft-gegen-keime-im-wasser-notbetrieb"
+      "title": "Leichtathletik: Olympiasiegerin Mihambo «befreiter» als vor Tokio",
+      "url": "https://www.zeit.de/news/2024-08/06/olympiasiegerin-mihambo-befreiter-als-vor-tokio"
     },
     {
-      "title": "Psychologie: Flausch-Wurst und Cord-Flamme: Kuschelobjekte für Erwachsene",
-      "url": "https://www.zeit.de/news/2024-08/06/flausch-wurst-und-cord-flamme-kuschelobjekte-fuer-erwachsene"
+      "title": "Schifffahrt: Tschentscher: Bedenken gegen MSC-Deal nicht substanziell",
+      "url": "https://www.zeit.de/news/2024-08/06/tschentscher-bedenken-gegen-msc-deal-nicht-substanziell"
     },
     {
-      "title": "Unfall: Über Leitplanke geschleudert: Motorradfahrer schwer verletzt",
-      "url": "https://www.zeit.de/news/2024-08/06/ueber-leitplanke-geschleudert-motorradfahrer-schwer-verletzt"
+      "title": "Polizei: Tausende Schuss Trainingsmunition nicht korrekt aufbewahrt",
+      "url": "https://www.zeit.de/news/2024-08/06/tausende-schuss-trainingsmunition-nicht-korrekt-aufbewahrt"
     },
     {
-      "title": "Positionspapier: CDU-Organisationen fordern grundlegende Reform des Bafög",
-      "url": "https://www.zeit.de/news/2024-08/06/cdu-organisationen-fordern-grundlegende-reform-des-bafoeg"
+      "title": "Wetter: Sonnenschein und bis zu 28 Grad in Berlin und Brandenburg",
+      "url": "https://www.zeit.de/news/2024-08/06/sonnenschein-und-bis-zu-28-grad-in-berlin-und-brandenburg"
     },
     {
-      "title": "Umwelt: Schutt, Farben und Reifen - Müll im Wald wird zum Problem",
-      "url": "https://www.zeit.de/news/2024-08/06/schutt-farben-und-reifen-muell-im-wald-wird-zum-problem"
+      "title": "Monopol-Vorwurf: Google verliert US-Wettbewerbsprozess - Folgen noch unklar",
+      "url": "https://www.zeit.de/news/2024-08/06/google-verliert-us-wettbewerbsprozess-folgen-noch-unklar"
     }
   ]
 }
