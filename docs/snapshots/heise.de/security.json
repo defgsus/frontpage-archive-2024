@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-06T11:01:02",
+  "timestamp": "2024-08-06T12:11:04",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Kibana",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Kritische-Schadcode-Luecke-bedroht-Analyseplattform-Kibana-9825667.html"
+    },
+    {
       "title": "Patchday Android",
       "url": "https://www.heise.de/news/Patchday-Angreifer-nutzen-Sicherheitsluecke-im-Android-Kernel-aus-9825062.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-bedroht-Unternehmenssoftware-Apache-OFBiz-9824150.html"
     },
     {
-      "title": "HPE Aruba Networking ClearPass Policy Manager",
-      "url": "https://www.heise.de/news/Unbefugte-Zugriffe-auf-IT-Managementloesung-Aruba-ClearPass-moeglich-9821717.html"
+      "title": "Sicherheitsupdate: Kritische Schadcode-Lücke bedroht Analyseplattform Kibana",
+      "teaser": "In aktuellen Versionen haben die Kibana-Entwickler ein gefährliches Sicherheitsproblem gelöst.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Kritische-Schadcode-Luecke-bedroht-Analyseplattform-Kibana-9825667.html",
+      "image_title": "Ein Schild mit dem Schriftzug \"Time to update\""
     },
     {
       "title": "Urteil: Keine Kunden-Ansprüche nach BSI-Warnung vor Kaspersky",
@@ -157,12 +163,6 @@
       "teaser": "In einem ungeschützten S3-Bucket des börsennotierten Hamburger Fintech-Unternehmens Naga Group fand der CCC sensible Daten von Kunden.",
       "url": "https://www.heise.de/news/Datenleak-beim-Fintech-Naga-Group-9819540.html",
       "image_title": "Trading-Plattform Naga"
-    },
-    {
-      "title": "Keine Sicherheitsupdates in Sicht: Avast Free Antivirus ist verwundbar",
-      "teaser": "Sicherheitsforscher warnen vor Schwachstellen in Avast Free Antivirus und raten aufgrund fehlender Patches von einer Nutzung ab.",
-      "url": "https://www.heise.de/news/Warten-auf-Sicherheitsupdates-Schadcode-Luecken-bedrohen-Avast-Free-Antivirus-9819293.html",
-      "image_title": "Warndreieck"
     },
     {
       "title": "Microsoft Cloud Security",

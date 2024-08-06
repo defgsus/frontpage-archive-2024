@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-06T11:00:59",
+  "timestamp": "2024-08-06T12:11:01",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,16 +26,32 @@
   ],
   "articles": [
     {
+      "title": "Webentwicklung: Web-Apps mit Rust und WebAssembly erstellen",
+      "teaser": "Rust-Code lässt sich in WebAssembly übersetzen und im Browser ausführen. Das GUI kann man in JavaScript schreiben oder als HTML-Elemente im Rust-Code einbetten.",
+      "url": "https://www.heise.de/hintergrund/Webentwicklung-Web-Apps-mit-Rust-und-WebAssembly-erstellen-9825231.html"
+    },
+    {
       "title": "Keyboard mit 35 Synthesizern im Test: Arturia AstroLab",
       "teaser": "Die Softwarefirma Arturia hat 35 historische Synthesizer in ein 61-Tasten-Keyboard mit über 1300 Presets integriert. Wir testen, wie authentisch sie klingen.",
       "url": "https://www.heise.de/tests/Keyboard-mit-35-Synthesizern-im-Test-Arturia-AstroLab-9821657.html",
       "image_title": "Arturia"
     },
     {
-      "title": "Digitale Wellenreiter: Sechs Audioeditoren für den Mac im Test",
-      "teaser": "Es muss nicht immer das schwerfällige Logic oder GarageBand sein. Diese macOS-Audioeditoren von kostenlos bis teuer bringen Tondateien auf Vordermann.",
-      "url": "https://www.heise.de/tests/Digitale-Wellenreiter-Sechs-Audioeditoren-fuer-den-Mac-im-Test-9824393.html",
-      "image_title": ","
+      "title": "Sichere Softwareentwicklung: Jetzt noch Tickets für heise devSec sichern",
+      "teaser": "Ende September stehen in Köln Themen von \"Secure by Design\" über SBOMs und Passkeys bis zur sicheren Softwareentwicklung mit KI-Unterstützung auf dem Programm.",
+      "url": "https://www.heise.de/news/Sichere-Softwareentwicklung-Jetzt-noch-Tickets-fuer-heise-devSec-sichern-9824626.html"
+    },
+    {
+      "title": "Microsoft wirft Adobe Postscript-Type-1-Unterstützung aus Windows raus",
+      "teaser": "Windows wird künftig keine Adobe Postscript-Type 1-Fonts mehr unterstützen. Das hat Microsoft nun angekündigt.",
+      "url": "https://www.heise.de/news/Microsoft-wirft-Adobe-Postscript-Type-1-Unterstuetzung-aus-Windows-raus-9825689.html",
+      "image_title": "Buchstaben-Puzzle"
+    },
+    {
+      "title": "Sicherheitsupdate: Kritische Schadcode-Lücke bedroht Analyseplattform Kibana",
+      "teaser": "In aktuellen Versionen haben die Kibana-Entwickler ein gefährliches Sicherheitsproblem gelöst.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Kritische-Schadcode-Luecke-bedroht-Analyseplattform-Kibana-9825667.html",
+      "image_title": "Ein Schild mit dem Schriftzug \"Time to update\""
     },
     {
       "title": "MacBook-Butterfly-Ärger: US-Nutzer bekommen Geld von Apple – und nicht zu knapp",
@@ -107,24 +123,6 @@
       "teaser": "Viele Bibliotheken nutzen die Software von Onleihe, die sich wiederum Adobes Kopierschutz bedient. Was tun, wenn E-Books nicht mehr starten?",
       "url": "https://www.heise.de/ratgeber/Tipp-Buch-aus-Onleihe-trotz-Fehlermeldung-oeffnen-9824383.html",
       "image_title": "Bibliothek"
-    },
-    {
-      "title": "Patientenschützer fordern Transparenzportal für Arztpraxen, Ärzte wehren sich",
-      "teaser": "Patientenschützer fordern nach dem Start des Klinik-Atlas im Mai auch ein Transparenzportal für Arztpraxen. Die Kassenärzte sehen darin Populismus.",
-      "url": "https://www.heise.de/news/Patientenschuetzer-fordern-Transparenzportal-fuer-Arztpraxen-Aerzte-wehren-sich-9824340.html",
-      "image_title": "Leeres Sprechzimmer beim Arzt."
-    },
-    {
-      "title": "Software Testing: Wie Systemiker auf Test- und Entwicklungsteams schauen",
-      "teaser": "Diesmal spricht Richard Seidl mit zwei Experten über die Möglichkeiten und Grenzen von systemischen Methoden der Zusammenarbeit in Softwareentwicklungsteams.",
-      "url": "https://www.heise.de/blog/Software-Testing-Wie-Systemiker-auf-Test-und-Entwicklungsteams-schauen-9824247.html",
-      "image_title": "Cover des Podcasts Software Testing von Richard Seidl; Thema diesmal:Wie Systemiker auf Test- und Entwicklungsteams schauen"
-    },
-    {
-      "title": "iX-Workshop: Microsoft 365 gegen Angriffe absichern",
-      "teaser": "Lernen Sie effektive technische Maßnahmen kennen, um Microsofts Office-Paket in der Cloud gegen Angriffe abzusichern.",
-      "url": "https://www.heise.de/news/iX-Workshop-Microsoft-365-gegen-Angriffe-absichern-9821174.html",
-      "image_title": "Sichere Konfiguration von Microsoft 365 (iX-Workshop)"
     },
     {
       "title": "PUR Managed Services 2024",
