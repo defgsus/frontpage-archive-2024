@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-07T07:00:47",
+  "timestamp": "2024-08-07T08:08:51",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Chrome, Firefox und Thunderbird",
+      "url": "https://www.heise.de/news/Mail-Client-und-Webbrowser-Chrome-Firefox-und-Thunderbird-attackierbar-9826454.html"
+    },
+    {
       "title": "Kibana",
       "url": "https://www.heise.de/news/Sicherheitsupdate-Kritische-Schadcode-Luecke-bedroht-Analyseplattform-Kibana-9825667.html"
     },
@@ -44,26 +48,28 @@
       "url": "https://www.heise.de/news/E-Book-Tool-Calibre-Codeschmuggel-durch-kritische-Sicherheitsluecke-moeglich-9825107.html"
     },
     {
-      "title": "Apache OFBiz",
-      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-bedroht-Unternehmenssoftware-Apache-OFBiz-9824150.html"
+      "title": "Mail-Client und Webbrowser: Chrome, Firefox und Thunderbird attackierbar",
+      "teaser": "Angreifer können an mehreren Sicherheitslücken in Chrome, Firefox und Thunderbird ansetzen. Mittlerweile wurden die Lücken geschlossen.",
+      "url": "https://www.heise.de/news/Mail-Client-und-Webbrowser-Chrome-Firefox-und-Thunderbird-attackierbar-9826454.html",
+      "image_title": "Warndreieck"
     },
     {
-      "title": "Mobile Device Management: Einbrecher bei Mobile Guardian löschen tausende Geräte",
+      "title": "Einbrecher löschen tausende Geräte beim MDM-Anbieter Mobile Guardian",
       "teaser": "Einbrecher bei Mobile Guardian, einem Anbieter von Mobile Device Management, haben aus der Ferne tausende Geräte gelöscht.",
       "url": "https://www.heise.de/news/Mobile-Device-Management-Einbrecher-bei-Mobile-Guardian-loeschen-tausende-Geraete-9826415.html",
       "image_title": "Schülerinnen mit Tablets"
-    },
-    {
-      "title": "Schweiz: Kuh und Kalb sterben​ nach Cyberangriff auf Melkroboter",
-      "teaser": "Ein Ransomware-Angriff auf einen Melkrobotor in der Schweiz endet für eine Kuh und ihr Kalb tragisch.",
-      "url": "https://www.heise.de/news/Schweiz-Kuh-und-Kalb-sterben-nach-Cyberangriff-auf-Melkroboter-9826381.html",
-      "image_title": "Milchkühe in großem Stall"
     },
     {
       "title": "Microsoft und CrowdStrike kontern Deltas Schadenersatzforderungen mit Vorwürfen",
       "teaser": "Delta Air Lines beklagt Millionenschäden durch die CrowdStrike-Ausfälle und prüft Ersatzforderungen. Doch Hilfsangebote der IT-Firmen seien ignoriert worden.",
       "url": "https://www.heise.de/news/Microsoft-und-CrowdStrike-kontern-Deltas-Schadenersatzforderungen-mit-Vorwuerfen-9826351.html",
       "image_title": "Nach dem fehlerhaften Crowdstrike-Update ausgefallene Anzeigesysteme am internationalen Flughafen von Denver."
+    },
+    {
+      "title": "LKA Niedersachsen warnt vor Phishing mit QR-Codes per Briefpost",
+      "teaser": "Per Briefpost suchen Betrüger Opfer, die einen QR-Code scannen und auf den dadurch geöffneten Phishing-Link hereinfallen, warnt das LKA Niedersachsen.",
+      "url": "https://www.heise.de/news/LKA-Niedersachsen-warnt-vor-Phishing-mit-QR-Codes-per-Briefpost-9825879.html",
+      "image_title": "Krimineller angelt Kreditkartendaten."
     },
     {
       "title": "Microsoft schüttet 16,6 Millionen US-Dollar Bug Bounty-Gelder aus",
@@ -88,6 +94,12 @@
       "teaser": "Das Entwicklerteam von LibreOffice bessert bei der Makro-Sicherheit nach. Makros mit fehlerhafter Signatur lassen sich nicht mehr ausführen.",
       "url": "https://www.heise.de/news/LibreOffice-bessert-bei-der-Makro-Sicherheit-nach-9825253.html",
       "image_title": "Stilisiertes Bild: Spam und Malware"
+    },
+    {
+      "title": "Patchday: Attacken auf Android-Geräte beobachtet",
+      "teaser": "Google hat mehrere Schwachstellen in seinem mobilen Betriebssystem Android geschlossen.",
+      "url": "https://www.heise.de/news/Patchday-Angreifer-nutzen-Sicherheitsluecke-im-Android-Kernel-aus-9825062.html",
+      "image_title": "Stilisiertes Bild: Smartphone mit Android-Roboter auf dem Bildschirm, steht in Flammen"
     },
     {
       "title": "E-Book-Tool Calibre: Codeschmuggel durch kritische Sicherheitslücke möglich",
@@ -152,17 +164,6 @@
       "teaser": "Für den Großkunden aus der US-Gesundheitsbranche entstünde irreparabler Schaden durch den Austausch, argumentieren dessen Anwälte. Die CA verlängerte die Frist.",
       "url": "https://www.heise.de/news/DigiCert-Kunde-will-Zertifikate-spaeter-tauschen-und-wehrt-sich-vor-Gericht-9821840.html",
       "image_title": "Richterhammer vor der Justizia-Figur"
-    },
-    {
-      "title": "Unbefugte Zugriffe auf IT-Managementlösung Aruba ClearPass möglich",
-      "teaser": "Die Entwickler von HPE Aruba Networking haben in ClearPass Policy Manager unter anderem eine kritische Sicherheitslücke geschlossen.",
-      "url": "https://www.heise.de/news/Unbefugte-Zugriffe-auf-IT-Managementloesung-Aruba-ClearPass-moeglich-9821717.html"
-    },
-    {
-      "title": "Sammelklage: Aktionäre verklagen CrowdStrike wegen irreführender Aussagen",
-      "teaser": "Der CEO des Softwareunternehmens habe noch im März sein Produkt als validiert, getestet und zertifiziert bezeichnet und so Investoren in die Irre geführt.",
-      "url": "https://www.heise.de/news/Sammelklage-Aktionaere-verklagen-CrowdStrike-wegen-irrefuehrender-Aussagen-9820936.html",
-      "image_title": "Hammer auf Richterbank"
     },
     {
       "title": "Microsoft Cloud Security",
