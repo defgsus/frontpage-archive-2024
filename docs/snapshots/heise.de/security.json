@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-07T11:00:36",
+  "timestamp": "2024-08-07T12:11:43",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.8e0a267561b3a8f30eae",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.6ccf1cca7748679f878c",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "TeamCity",
+      "url": "https://www.heise.de/news/TeamCity-Fehlerhafte-Rechtevergabe-ermoeglicht-Rechteausweitung-9826855.html"
+    },
     {
       "title": "Chrome, Firefox und Thunderbird",
       "url": "https://www.heise.de/news/Mail-Client-und-Webbrowser-Chrome-Firefox-und-Thunderbird-attackierbar-9826454.html"
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Patchday-Angreifer-nutzen-Sicherheitsluecke-im-Android-Kernel-aus-9825062.html"
     },
     {
-      "title": "Calibre",
-      "url": "https://www.heise.de/news/E-Book-Tool-Calibre-Codeschmuggel-durch-kritische-Sicherheitsluecke-moeglich-9825107.html"
+      "title": "TeamCity: Fehlerhafte Rechtevergabe ermöglicht Rechteausweitung",
+      "teaser": "Eine Sicherheitslücke in TeamCity ermöglicht Angreifern, ihre Rechte auszuweiten. Ein bereitstehendes Update korrigiert den Fehler.",
+      "url": "https://www.heise.de/news/TeamCity-Fehlerhafte-Rechtevergabe-ermoeglicht-Rechteausweitung-9826855.html",
+      "image_title": "Stilisierte Grafik: zersplitterter Sicherheitsschild auf einem Laptop"
+    },
+    {
+      "title": "Chef-Masche: 42 Millionen US-Dollar erbeutet, kurz darauf klicken Handschellen",
+      "teaser": "CEO-Fraud ist eine globale Bedrohung und Kriminelle ergaunern Millionenbeträge. Nun zeigt eine Interpol-Operation, dass sich schnelles Handeln für Opfer lohnt.",
+      "url": "https://www.heise.de/news/Chef-Masche-42-Millionen-US-Dollar-erbeutet-kurz-darauf-klicken-Handschellen-9826965.html",
+      "image_title": "Krimineller mit Magnet zieht Laptop-Daten an"
     },
     {
       "title": "Microsoft: Sicherheitsfokus von Angestellten bekommt Einfluss auf Gehälter",
@@ -64,6 +76,12 @@
       "teaser": "Einbrecher bei Mobile Guardian, einem Anbieter von Mobile Device Management, haben aus der Ferne tausende Geräte gelöscht.",
       "url": "https://www.heise.de/news/Mobile-Device-Management-Einbrecher-bei-Mobile-Guardian-loeschen-tausende-Geraete-9826415.html",
       "image_title": "Schülerinnen mit Tablets"
+    },
+    {
+      "title": "Kuh in der Schweiz stirbt nach Ransomware-Angriff auf Melkroboter",
+      "teaser": "Ein Ransomware-Angriff auf einen Melkrobotor in der Schweiz endet für eine Kuh und ihr Kalb tragisch.",
+      "url": "https://www.heise.de/news/Schweiz-Kuh-und-Kalb-sterben-nach-Cyberangriff-auf-Melkroboter-9826381.html",
+      "image_title": "Milchkühe in großem Stall"
     },
     {
       "title": "Microsoft und CrowdStrike kontern Deltas Schadenersatzforderungen mit Vorwürfen",
@@ -148,24 +166,6 @@
       "image_title": "Online-Workshop: OWASP Top 10 – Sicherheitslücken in Webanwendungen vermeiden"
     },
     {
-      "title": "I-S00N-Leak: Der Nato-Chef ist ein Ladenhüter​",
-      "teaser": "Spionage as a Service: Der Verfassungsschutz arbeitet interne Dokumente eines chinesischen Dienstleisters auf und veröffentlicht seine Analysen im Netz.",
-      "url": "https://www.heise.de/news/I-S00N-Leak-Verfassungsschuetzer-veroeffentlichen-Analysen-9822734.html",
-      "image_title": "Chinesische Flagge auf Laptop-Display"
-    },
-    {
-      "title": "Bericht: Cyberkriminelle nutzen Cloudflare-Tunnel zur Verbreitung von Malware",
-      "teaser": "Bisher unbekannte Cyberkriminelle nutzen \"TryCloudflare\" zur unbehelligten Verbreitung von Malware. Das berichten Sicherheitsexperten.",
-      "url": "https://www.heise.de/news/Bericht-Cyberkriminelle-nutzen-Cloudflare-Tunnel-zur-Verbreitung-von-Malware-9821797.html",
-      "image_title": "Mann an Tastatur"
-    },
-    {
-      "title": "Kommentar zum CrowdStrike-Desaster: Mehr Verfügbarkeit wagen!",
-      "teaser": "Das CrowdStrike-Desaster hat eines gezeigt: Die IT-Welt sollte die Verfügbarkeit nicht den anderen, zugegebenermaßen ebenfalls wichtigen Schutzzielen opfern.",
-      "url": "https://www.heise.de/meinung/Loblied-auf-die-Verfuegbarkeit-ein-Kommentar-zum-Crowdstrike-Desaster-9822300.html",
-      "image_title": "Nach dem fehlerhaften Crowdstrike-Update ausgefallene Anzeigesysteme am internationalen Flughafen von Denver."
-    },
-    {
       "title": "Microsoft Cloud Security",
       "teaser": "Lernen Sie Lücken und Fehler mit SCUBA selbst zu finden und zu beheben. Das Webinar erklärt das Konzept und die Funktionsweise des Tools, um die Sicherheit seines M365-Tenants zu verbessern.",
       "url": "https://heise-academy.de/webinare/microsoft_cloud_security?wt_mc=intern.academy.security.web_scuba.hs_teaser.teaser.teaser"
@@ -189,6 +189,11 @@
       "image_title": "Antennen auf einem Masten"
     },
     {
+      "title": "Re: Überschrift ... \"entweicht\"",
+      "teaser": "Forum: AVM entweicht geheimer FritzBox-Schlüssel",
+      "url": "https://www.heise.de/forum/heise-Security/News-Kommentare/AVM-entweicht-geheimer-FritzBox-Schluessel/Re-Ueberschrift-entweicht/posting-44293165/show/"
+    },
+    {
       "title": "TeamViewer - eine Katastrophe",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/TeamViewer-eine-Katastrophe/posting-44292679/show/"
@@ -197,11 +202,6 @@
       "title": "Re: Schlüssel entwichen => unprofessionell?",
       "teaser": "Forum: AVM entweicht geheimer FritzBox-Schlüssel",
       "url": "https://www.heise.de/forum/heise-Security/News-Kommentare/AVM-entweicht-geheimer-FritzBox-Schluessel/Re-Schluessel-entwichen-unprofessionell/posting-44288333/show/"
-    },
-    {
-      "title": "Re: Von Heise gekaufter fertiger Desinfect USB Stick ist nicht mehr bootfähig",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Von-Heise-gekaufter-fertiger-Desinfect-USB-Stick-ist-nicht-mehr-bootfaehig/posting-44282822/show/"
     }
   ]
 }
