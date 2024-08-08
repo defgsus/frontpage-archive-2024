@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-08T08:08:53",
+  "timestamp": "2024-08-08T09:00:41",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Roundcube Webmail",
+      "url": "https://www.heise.de/news/Roundcube-Webmail-Angreifer-koennen-durch-kritische-Luecke-E-Mails-kapern-9828180.html"
+    },
+    {
       "title": "Cisco",
       "url": "https://www.heise.de/news/Cisco-Kritische-Luecken-in-IP-Telefonen-keine-Updates-verfuegbar-9827988.html"
     },
@@ -44,25 +48,15 @@
       "url": "https://www.heise.de/news/Mail-Client-und-Webbrowser-Chrome-Firefox-und-Thunderbird-attackierbar-9826454.html"
     },
     {
-      "title": "Kibana",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-Kritische-Schadcode-Luecke-bedroht-Analyseplattform-Kibana-9825667.html"
-    },
-    {
-      "title": "secIT Digital: IT-Bedrohungslage einschätzen und Cyberattacken abwehren",
-      "teaser": "Auf der Online-Security-Konferenz secIT Digital erläutern redaktionell ausgewählte Referenten wichtige Handlungsweisen, um Unternehmen vor Attacken zu schützen.",
-      "url": "https://www.heise.de/news/secIT-Digital-IT-Bedrohungslage-einschaetzen-und-Cyberattacken-abwehren-9825357.html"
+      "title": "Roundcube Webmail: Angreifer können durch kritische Lücke E-Mails kapern",
+      "teaser": "Admins sollten Roundcube aus Sicherheitsgründen auf den aktuellen Stand bringen. Viele Universitäten setzen auf dieses Webmailprodukt.",
+      "url": "https://www.heise.de/news/Roundcube-Webmail-Angreifer-koennen-durch-kritische-Luecke-E-Mails-kapern-9828180.html"
     },
     {
       "title": "Ransomware Royal heißt jetzt Blacksuit und ergaunert 500 Millionen US-Dollar",
       "teaser": "Blacksuit attackiert weltweit Unternehmen und erpresst Millionenbeträge. FBI und CISA zeigen aktuelle Taktiken auf und wie Admins PCs schützen können.",
       "url": "https://www.heise.de/news/Ransomware-Royal-heisst-jetzt-Blacksuit-und-ergaunert-500-Millionen-US-Dollar-9828015.html",
       "image_title": "Ransomware im Netzwerk"
-    },
-    {
-      "title": "Cisco: Angreifer können Befehle auf IP-Telefonen ausführen, Update kommt nicht",
-      "teaser": "Für kritische Lücken in Cisco-IP-Telefonen wird es keine Updates geben. Für eine jüngst gemeldete Lücke ist ein Proof-of-Concept-Exploit aufgetaucht.",
-      "url": "https://www.heise.de/news/Cisco-Kritische-Luecken-in-IP-Telefonen-keine-Updates-verfuegbar-9827988.html",
-      "image_title": "Stilisiertes Bild: Ein Stapel brennender Cisco-Appliances"
     },
     {
       "title": "iX-Workshop: AWS-Sicherheit - Angriffe erkennen und abwehren",
@@ -95,6 +89,12 @@
       "image_title": "Krimineller mit Magnet zieht Laptop-Daten an"
     },
     {
+      "title": "Crowdstrike-Ausfall: Analyse zeigt trivialen Programmierfehler",
+      "teaser": "In einem umfangreichen und unnötig komplizierten Dokument erklärt der Hersteller seine Fehler und nennt Verbesserungsmaßnahmen für die Sicherheits-Software.",
+      "url": "https://www.heise.de/news/Crowdstrike-Analyse-Trivialer-Programmierfehler-hatte-weltweite-Auswirkungen-9826756.html",
+      "image_title": "Insekt auf Blatt"
+    },
+    {
       "title": "Microsoft: Sicherheitsfokus von Angestellten bekommt Einfluss auf Gehälter",
       "teaser": "Microsoft nimmt seine Angestellten in die Pflicht: Deren Fokus auf Sicherheit beeinflusst künftig Gehälter, Boni und Beförderungen.",
       "url": "https://www.heise.de/news/Microsoft-Sicherheitsfokus-von-Angestellten-bekommt-Einfluss-auf-Gehaelter-9826607.html",
@@ -105,6 +105,12 @@
       "teaser": "Angreifer können an mehreren Sicherheitslücken in Chrome, Firefox und Thunderbird ansetzen. Mittlerweile wurden die Lücken geschlossen.",
       "url": "https://www.heise.de/news/Mail-Client-und-Webbrowser-Chrome-Firefox-und-Thunderbird-attackierbar-9826454.html",
       "image_title": "Warndreieck"
+    },
+    {
+      "title": "\"Passwort\" Folge 9: News von OCSP bis HIBP",
+      "teaser": "In dieser Folge des Podcasts von heise security geht es um Pläne von Let's Encrypt, Probleme mit Secure Boot und einige andere Security-News der letzten Tage.",
+      "url": "https://www.heise.de/news/Passwort-Folge-9-News-von-OCSP-bis-HIBP-9818353.html",
+      "image_title": "Bild vom heise-Security-Podcast"
     },
     {
       "title": "Einbrecher löschen tausende Geräte beim MDM-Anbieter Mobile Guardian",
@@ -159,12 +165,6 @@
       "teaser": "Google hat mehrere Schwachstellen in seinem mobilen Betriebssystem Android geschlossen.",
       "url": "https://www.heise.de/news/Patchday-Angreifer-nutzen-Sicherheitsluecke-im-Android-Kernel-aus-9825062.html",
       "image_title": "Stilisiertes Bild: Smartphone mit Android-Roboter auf dem Bildschirm, steht in Flammen"
-    },
-    {
-      "title": "E-Book-Tool Calibre: Codeschmuggel durch kritische Sicherheitslücke möglich",
-      "teaser": "Durch eine kritische Sicherheitslücke im E-Book-Tool Calibre können nicht angemeldete Angreifer Code einschleusen. Ein Update dichtet das Leck ab.",
-      "url": "https://www.heise.de/news/E-Book-Tool-Calibre-Codeschmuggel-durch-kritische-Sicherheitsluecke-moeglich-9825107.html",
-      "image_title": "Ein Laptop, das in ein Buch übergeht"
     },
     {
       "title": "Microsoft Cloud Security",
