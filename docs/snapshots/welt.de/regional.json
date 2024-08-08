@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-08T13:11:34",
+  "timestamp": "2024-08-08T14:01:07",
   "url": "https://www.welt.de/regionales/",
   "response": {
     "status": 200
@@ -25,6 +25,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "Aus der „Blauen Moschee“ soll ein „Jina-Mahsa-Amini Zentrum“ werden",
+      "teaser": "Der Säkulare Islam sieht in dem Verbot des Islamischen Zentrums Hamburg die Chance für eine neue Islampolitik. Es sei an der Zeit, Religion und Politik in Moscheen voneinander zu trennen – etwa mit einem Gebetshaus namens „Jina-Mahsa-Amini Zentrum“ am Ort der „Blauen Moschee“.",
+      "url": "https://www.welt.de/regionales/hamburg/",
+      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile252708208/4257939717-ci23x11-w20/Razzien-gegen-Islamisten-Blaue-Moschee-Hamburg.jpg",
+      "image_title": "Die Blaue Moschee ist geschlossen, doch davor wird gebetet. (Archivbild)",
+      "author": "Jana Werner"
+    },
     {
       "title": "„Staaten allein sind nicht in der Lage die Nachhaltigkeitsziele zu erreichen“",
       "teaser": "Die Vereinten Nationen haben sich ehrgeizige Ziele gesteckt, das Leben aller Menschen auf der Welt nachhaltiger zu gestalten. Um die Ziele bis 2030 zu erreichen, treffen sich Vertreter von Staaten, aus Wirtschaft, Wissenschaft und von Organisationen in Hamburg.",
@@ -67,14 +75,6 @@
       "url": "https://www.welt.de/politik/deutschland/",
       "image_url": "https://img.welt.de/img/politik/deutschland/mobile252899738/5377939877-ci23x11-w20/Michael-Kretschmer.jpg",
       "image_title": "Der Bund müsse „Abschiebungen nach Syrien und Afghanistan ermöglichen und alle Aufnahmeprogramme stoppen“, meint Kretschmer (Symbolbild)"
-    },
-    {
-      "title": "Das sind Bayerns attraktivste Radrouten",
-      "teaser": "Biergärten, Schlösser und viele Seen: Der Deutschen liebste Radregion liegt im Süden. Nicht nur am Alpenrand führen viele Strecken durch wahre Bilderbuchlandschaften. Wir geben sechs Tipps, die man abschnittsweise als Tagestour oder auch als mehrtägige Radreise erleben kann.",
-      "url": "https://www.welt.de/reise/deutschland/",
-      "image_url": "https://img.welt.de/img/reise/mobile252884498/6157937377-ci23x11-w20/30-08-2020-Lechbruck-im-Allgaeu.jpg",
-      "image_title": "Die Schlossparkrunde führt an idyllischen Ortschaften wie Lechbruck vorbei",
-      "author": "Armin Herb"
     },
     {
       "title": "Neuer Anlauf in Hamburg – Gender-Gegner starten weitere Unterschriftensammlung",
@@ -195,10 +195,17 @@
       "author": "Jürgen Bröker"
     },
     {
-      "title": "Staunen wie ein Kind auf dem Pfad der Achtsamkeit",
-      "teaser": "Stress und Schnelllebigkeit bestimmen den Alltag vieler Menschen, die sich wünschen, davon für eine Weile eine Auszeit zu nehmen. Sogenannte Pfade der Achtsamkeit sollen helfen, zu entschleunigen und die Natur bewusster wahrzunehmen. Unser Autor probierte einen von ihnen im Spessart aus.",
+      "title": "Das sind Bayerns attraktivste Radrouten",
+      "teaser": "Biergärten, Schlösser und viele Seen: Der Deutschen liebste Radregion liegt im Süden. Nicht nur am Alpenrand führen viele Strecken durch wahre Bilderbuchlandschaften. Wir geben sechs Tipps, die man abschnittsweise als Tagestour oder auch als mehrtägige Radreise erleben kann.",
       "url": "https://www.welt.de/reise/deutschland/",
-      "image_url": "https://img.welt.de/img/reise/mobile252813800/2747931567-ci16x9-w20/Unterwegs-auf-dem-Pfad-der-Achtsamkeit.jpg",
+      "image_url": "https://img.welt.de/img/reise/mobile252884498/6157937377-ci16x9-w20/30-08-2020-Lechbruck-im-Allgaeu.jpg",
+      "image_title": "Die Schlossparkrunde führt an idyllischen Ortschaften wie Lechbruck vorbei",
+      "author": "Armin Herb"
+    },
+    {
+      "title": "Staunen wie ein Kind auf dem Pfad der Achtsamkeit",
+      "url": "https://www.welt.de/reise/deutschland/article252813804/Spessart-Wanderung-Staunen-wie-ein-Kind-auf-dem-Pfad-der-Achtsamkeit.html",
+      "image_url": "https://img.welt.de/img/reise/mobile252813800/2747931567-ci102l-w20/Unterwegs-auf-dem-Pfad-der-Achtsamkeit.jpg",
       "image_title": "Suche nach Entspannung: Wandern auf dem „Pfad der Achtsamkeit“ im Spessart",
       "author": "Andreas Drouve"
     },
@@ -222,13 +229,6 @@
       "image_url": "https://img.welt.de/img/reise/mobile252723574/7817936727-ci102l-w20/Moored-boat-at-Koenigssee-lake-Germany.jpg",
       "image_title": "Sehr entspannt: Rudertour auf dem Königssee",
       "author": "Peter Linden"
-    },
-    {
-      "title": "Im Frankenwald am ehemaligen Todesstreifen unterwegs",
-      "url": "https://www.welt.de/reise/deutschland/article252593760/Das-Gruene-Band-Im-Frankenwald-am-ehemaligen-Todesstreifen-unterwegs.html",
-      "image_url": "https://img.welt.de/img/reise/mobile252593748/5787933097-ci102l-w20/Drouve-Gruenes-Band-3.jpg",
-      "image_title": "Auf dem „Grünen Band“: Wanderer auf dem Kolonnenweg unweit von Rotheul",
-      "author": "Andreas Drouve"
     },
     {
       "title": "Familie des Messerangreifers (17) soll mehr als 100 Straftaten begangen haben",
@@ -411,6 +411,82 @@
       "author": "Nicole Quint"
     },
     {
+      "title": "Land fördert elektrische Lkw mit 15 Millionen",
+      "url": "https://www.welt.de/regionales/nrw/article252911194/Land-foerdert-elektrische-Lkw-mit-15-Millionen.html"
+    },
+    {
+      "title": "Bayer-Boss: Über Saisonvorbereitung entscheiden wir selbst",
+      "url": "https://www.welt.de/regionales/nrw/article252911112/Bayer-Boss-Ueber-Saisonvorbereitung-entscheiden-wir-selbst.html"
+    },
+    {
+      "title": "Junge auf Hamburger Dom aus Fahrgeschäft geschleudert",
+      "url": "https://www.welt.de/regionales/hamburg/article252911100/Junge-auf-Hamburger-Dom-aus-Fahrgeschaeft-geschleudert.html"
+    },
+    {
+      "title": "74.000 Euro aus Kultur-Sondertopf für knapp 60 Vereine",
+      "url": "https://www.welt.de/regionales/sachsen-anhalt/article252911012/74-000-Euro-aus-Kultur-Sondertopf-fuer-knapp-60-Vereine.html"
+    },
+    {
+      "title": "Explosionsschutz-Spezialist Stahl macht mehr Umsatz",
+      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article252910878/Explosionsschutz-Spezialist-Stahl-macht-mehr-Umsatz.html"
+    },
+    {
+      "title": "Tatverdächtige springen nach Raubüberfall in die Spree",
+      "url": "https://www.welt.de/regionales/berlin/article252910742/Tatverdaechtige-springen-nach-Raubueberfall-in-die-Spree.html"
+    },
+    {
+      "title": "Aus der „Blauen Moschee“ soll ein „Jina-Mahsa-Amini Zentrum“ werden",
+      "url": "https://www.welt.de/regionales/hamburg/article252908780/Brief-an-Faeser-Aus-der-Blauen-Moschee-soll-ein-Jina-Mahsa-Amini-Zentrum-werden.html"
+    },
+    {
+      "title": "Zwei Tote in Haus in Mönchengladbach gefunden",
+      "url": "https://www.welt.de/regionales/nrw/article252910362/Zwei-Tote-in-Haus-in-Moenchengladbach-gefunden.html"
+    },
+    {
+      "title": "Bisher ruhiger Anreiseverlauf bei «SonneMondSterne»-Festival",
+      "url": "https://www.welt.de/regionales/thueringen/article252910440/Bisher-ruhiger-Anreiseverlauf-bei-SonneMondSterne-Festival.html"
+    },
+    {
+      "title": "Vollsperrung der A1 für Entfernung einer Freileitung",
+      "url": "https://www.welt.de/regionales/hamburg/article252910314/Vollsperrung-der-A1-fuer-Entfernung-einer-Freileitung.html"
+    },
+    {
+      "title": "Prozess um mutmaßlichen Messerangriff auf Beamte gestartet",
+      "url": "https://www.welt.de/regionales/nrw/article252910204/Prozess-um-mutmasslichen-Messerangriff-auf-Beamte-gestartet.html"
+    },
+    {
+      "title": "Nach Hotel-Einsturz gerettete Frau: «Wir haben viel gebetet»",
+      "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article252910144/Nach-Hotel-Einsturz-gerettete-Frau-Wir-haben-viel-gebetet.html"
+    },
+    {
+      "title": "Sachsens Handwerk drängt auf wirksamen Bürokratieabbau",
+      "url": "https://www.welt.de/regionales/sachsen/article252909904/Sachsens-Handwerk-draengt-auf-wirksamen-Buerokratieabbau.html"
+    },
+    {
+      "title": "Blauzungenkrankheit bei Rindern: Sachsen ergreift Maßnahmen",
+      "url": "https://www.welt.de/regionales/sachsen/article252910004/Blauzungenkrankheit-bei-Rindern-Sachsen-ergreift-Massnahmen.html"
+    },
+    {
+      "title": "Blitz schlägt in Hausdach ein - 150.000 Euro Schaden",
+      "url": "https://www.welt.de/regionales/berlin/article252909690/Blitz-schlaegt-in-Hausdach-ein-150-000-Euro-Schaden.html"
+    },
+    {
+      "title": "HSV-Trainer Baumgart gefällt sein Kader",
+      "url": "https://www.welt.de/regionales/hamburg/article252909638/HSV-Trainer-Baumgart-gefaellt-sein-Kader.html"
+    },
+    {
+      "title": "Stettner: Bundesregierung muss bei Asylpolitik umsteuern",
+      "url": "https://www.welt.de/regionales/berlin/article252909610/Stettner-Bundesregierung-muss-bei-Asylpolitik-umsteuern.html"
+    },
+    {
+      "title": "Bewährungsstrafe für geständigen Sexualstraftäter",
+      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article252909576/Bewaehrungsstrafe-fuer-gestaendigen-Sexualstraftaeter.html"
+    },
+    {
+      "title": "Sechs Jahre Haft für Mordversuch an Polizistin",
+      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article252909500/Sechs-Jahre-Haft-fuer-Mordversuch-an-Polizistin.html"
+    },
+    {
       "title": "„Staaten allein sind nicht in der Lage die Nachhaltigkeitsziele zu erreichen“",
       "url": "https://www.welt.de/regionales/hamburg/article252908222/Internationale-Konferenz-Staaten-allein-sind-nicht-in-der-Lage-die-Nachhaltigkeitsziele-zu-erreichen.html"
     },
@@ -463,80 +539,8 @@
       "url": "https://www.welt.de/regionales/bayern/article252907666/Telefonbetrueger-gleich-zweimal-bei-Ehepaar-erfolgreich.html"
     },
     {
-      "title": "Feierlichkeiten zum 100-jährigen S-Bahn-Bestehen begonnen",
-      "url": "https://www.welt.de/regionales/berlin/article252907576/Feierlichkeiten-zum-100-jaehrigen-S-Bahn-Bestehen-begonnen.html"
-    },
-    {
-      "title": "Blauzungenkrankheit an Rindern im Norden nachgewiesen",
-      "url": "https://www.welt.de/regionales/hamburg/article252907566/Blauzungenkrankheit-an-Rindern-im-Norden-nachgewiesen.html"
-    },
-    {
-      "title": "Wehen Wiesbaden ohne drei gegen Rostock",
-      "url": "https://www.welt.de/regionales/hessen/article252907518/Wehen-Wiesbaden-ohne-drei-gegen-Rostock.html"
-    },
-    {
-      "title": "14-Jährige stirbt in Salzgitter - Drogenvergiftung?",
-      "url": "https://www.welt.de/regionales/niedersachsen/article252907394/14-Jaehrige-stirbt-in-Salzgitter-Drogenvergiftung.html"
-    },
-    {
-      "title": "Bergung von totem Mann nach Hotel-Einsturz zieht sich hin",
-      "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article252907406/Bergung-von-totem-Mann-nach-Hotel-Einsturz-zieht-sich-hin.html"
-    },
-    {
-      "title": "Teils kritische Lage bei Blutreserven im Südwesten",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article252907274/Teils-kritische-Lage-bei-Blutreserven-im-Suedwesten.html"
-    },
-    {
-      "title": "Fernsehköchin Wiener hält nichts von Silvester-Böllerei",
-      "url": "https://www.welt.de/regionales/berlin/article252907174/Fernsehkoechin-Wiener-haelt-nichts-von-Silvester-Boellerei.html"
-    },
-    {
-      "title": "Werbekampagne nun auch international für Studium in Sachsen",
-      "url": "https://www.welt.de/regionales/sachsen/article252907168/Werbekampagne-nun-auch-international-fuer-Studium-in-Sachsen.html"
-    },
-    {
-      "title": "Faultier-Nachwuchs im Schweriner Zoo",
-      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article252907086/Faultier-Nachwuchs-im-Schweriner-Zoo.html"
-    },
-    {
-      "title": "Ermittlungen gegen Arzt - Palliativdienste entsetzt",
-      "url": "https://www.welt.de/regionales/berlin/article252906934/Ermittlungen-gegen-Arzt-Palliativdienste-entsetzt.html"
-    },
-    {
-      "title": "Bistum Osnabrück konkretisiert Sparpläne",
-      "url": "https://www.welt.de/regionales/niedersachsen/article252906818/Bistum-Osnabrueck-konkretisiert-Sparplaene.html"
-    },
-    {
-      "title": "Unbekannte sprengen Geldautomaten im Saarland und fliehen",
-      "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article252906810/Unbekannte-sprengen-Geldautomaten-im-Saarland-und-fliehen.html"
-    },
-    {
-      "title": "Saarland lockert Schuldenbremse für Kommunen",
-      "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article252906700/Saarland-lockert-Schuldenbremse-fuer-Kommunen.html"
-    },
-    {
-      "title": "CDU will weitere Akten zu Weil-Mitarbeiterin prüfen",
-      "url": "https://www.welt.de/regionales/niedersachsen/article252906708/CDU-will-weitere-Akten-zu-Weil-Mitarbeiterin-pruefen.html"
-    },
-    {
       "title": "ARD muss „Tagesschau“-Ausgabe ausfallen lassen",
       "url": "https://www.welt.de/regionales/hamburg/article252906410/NDR-Warnstreik-ARD-muss-Tagesschau-Ausgabe-ausfallen-lassen.html"
-    },
-    {
-      "title": "Zwei Männer sitzen bei Unwetter am Watzmann fest - gerettet",
-      "url": "https://www.welt.de/regionales/bayern/article252906618/Zwei-Maenner-sitzen-bei-Unwetter-am-Watzmann-fest-gerettet.html"
-    },
-    {
-      "title": "Anschlag auf Wintermarkt: Bislang keine Revision nach Urteil",
-      "url": "https://www.welt.de/regionales/berlin/article252906530/Anschlag-auf-Wintermarkt-Bislang-keine-Revision-nach-Urteil.html"
-    },
-    {
-      "title": "Holztransport umgekippt - Straße gesperrt",
-      "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article252906512/Holztransport-umgekippt-Strasse-gesperrt.html"
-    },
-    {
-      "title": "Spranger fordert mehr Tempo bei Reform des Waffenrechts",
-      "url": "https://www.welt.de/regionales/berlin/article252906484/Spranger-fordert-mehr-Tempo-bei-Reform-des-Waffenrechts.html"
     },
     {
       "title": "Beliebte Darstellerin kommt zu Fan-Treffen nach Hamburg",
@@ -645,10 +649,6 @@
     {
       "title": "„Es ist für Menschen schwieriger geworden, sich noch auf einer sachlichen Ebene auszutauschen“",
       "url": "https://www.welt.de/politik/deutschland/plus252851544/Junger-Buergermeister-Es-ist-fuer-Menschen-schwieriger-geworden-sich-noch-auf-einer-sachlichen-Ebene-auszutauschen.html"
-    },
-    {
-      "title": "Nach der Übernahme läuft es häufig besser",
-      "url": "https://www.welt.de/regionales/hamburg/article252855828/Unternehmen-Nach-der-Uebernahme-laeuft-es-haeufig-besser.html"
     },
     {
       "title": "„Es wird bald eine Bombe geben, so Gott will“",
