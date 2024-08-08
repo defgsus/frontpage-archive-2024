@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-08T07:01:43",
+  "timestamp": "2024-08-08T08:08:53",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Cisco",
+      "url": "https://www.heise.de/news/Cisco-Kritische-Luecken-in-IP-Telefonen-keine-Updates-verfuegbar-9827988.html"
+    },
+    {
       "title": "TeamCity",
       "url": "https://www.heise.de/news/TeamCity-Fehlerhafte-Rechtevergabe-ermoeglicht-Rechteausweitung-9826855.html"
     },
@@ -44,8 +48,21 @@
       "url": "https://www.heise.de/news/Sicherheitsupdate-Kritische-Schadcode-Luecke-bedroht-Analyseplattform-Kibana-9825667.html"
     },
     {
-      "title": "Patchday Android",
-      "url": "https://www.heise.de/news/Patchday-Angreifer-nutzen-Sicherheitsluecke-im-Android-Kernel-aus-9825062.html"
+      "title": "secIT Digital: IT-Bedrohungslage einschätzen und Cyberattacken abwehren",
+      "teaser": "Auf der Online-Security-Konferenz secIT Digital erläutern redaktionell ausgewählte Referenten wichtige Handlungsweisen, um Unternehmen vor Attacken zu schützen.",
+      "url": "https://www.heise.de/news/secIT-Digital-IT-Bedrohungslage-einschaetzen-und-Cyberattacken-abwehren-9825357.html"
+    },
+    {
+      "title": "Ransomware Royal heißt jetzt Blacksuit und ergaunert 500 Millionen US-Dollar",
+      "teaser": "Blacksuit attackiert weltweit Unternehmen und erpresst Millionenbeträge. FBI und CISA zeigen aktuelle Taktiken auf und wie Admins PCs schützen können.",
+      "url": "https://www.heise.de/news/Ransomware-Royal-heisst-jetzt-Blacksuit-und-ergaunert-500-Millionen-US-Dollar-9828015.html",
+      "image_title": "Ransomware im Netzwerk"
+    },
+    {
+      "title": "Cisco: Angreifer können Befehle auf IP-Telefonen ausführen, Update kommt nicht",
+      "teaser": "Für kritische Lücken in Cisco-IP-Telefonen wird es keine Updates geben. Für eine jüngst gemeldete Lücke ist ein Proof-of-Concept-Exploit aufgetaucht.",
+      "url": "https://www.heise.de/news/Cisco-Kritische-Luecken-in-IP-Telefonen-keine-Updates-verfuegbar-9827988.html",
+      "image_title": "Stilisiertes Bild: Ein Stapel brennender Cisco-Appliances"
     },
     {
       "title": "iX-Workshop: AWS-Sicherheit - Angriffe erkennen und abwehren",
@@ -96,8 +113,8 @@
       "image_title": "Schülerinnen mit Tablets"
     },
     {
-      "title": "Kuh in der Schweiz stirbt nach Ransomware-Angriff auf Melkroboter",
-      "teaser": "Ein Ransomware-Angriff auf einen Melkrobotor in der Schweiz endet für eine Kuh und ihr Kalb tragisch.",
+      "title": "Kuh in der Schweiz stirbt nach Ransomware-Angriff",
+      "teaser": "Ein Ransomware-Angriff auf die Rechner eines Milchviehhalters in der Schweiz endet für eine Kuh und ihr Kalb tragisch.",
       "url": "https://www.heise.de/news/Schweiz-Kuh-und-Kalb-sterben-nach-Cyberangriff-auf-Melkroboter-9826381.html",
       "image_title": "Milchkühe in großem Stall"
     },
@@ -148,23 +165,6 @@
       "teaser": "Durch eine kritische Sicherheitslücke im E-Book-Tool Calibre können nicht angemeldete Angreifer Code einschleusen. Ein Update dichtet das Leck ab.",
       "url": "https://www.heise.de/news/E-Book-Tool-Calibre-Codeschmuggel-durch-kritische-Sicherheitsluecke-moeglich-9825107.html",
       "image_title": "Ein Laptop, das in ein Buch übergeht"
-    },
-    {
-      "title": "USA: Erneut Blutspendedienst von Ransomware betroffen, Systeme laufen wieder an",
-      "teaser": "Nach Synnovis und Octapharma ist jetzt auch OneBlood von einem Ransomware-Vorfall betroffen, aber auf dem Weg der Besserung.",
-      "url": "https://www.heise.de/news/USA-Ransomware-Vorfall-beim-Blutspendedienst-OneBlood-Systeme-laufen-wieder-an-9824253.html",
-      "image_title": "Blutspendebus von OneBlood in Florida"
-    },
-    {
-      "title": "Kritische Sicherheitslücke bedroht Unternehmenssoftware Apache OFBiz",
-      "teaser": "Angreifer können Systeme mit Apache OFBiz attackieren und eigenen Code ausführen. Eine dagegen abgesicherte Version steht zum Download bereit.",
-      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-bedroht-Unternehmenssoftware-Apache-OFBiz-9824150.html"
-    },
-    {
-      "title": "Rabbit R1: Hardware-Hacker haben API-Keys laut Hersteller durch Leak erhalten",
-      "teaser": "Laut dem Hersteller ist der Hauptgrund für die im Juni bekannt gewordenen Sicherheitsprobleme ein Mitarbeiter, der geheime API-Keys nach außen gegeben hat.",
-      "url": "https://www.heise.de/news/KI-Gadget-Rabbit-R1-Hersteller-nennt-Leak-als-Grund-fuer-Sicherheitsprobleme-9822863.html",
-      "image_title": "Ein auf einer grünen Wiese mümmelndes Kaninchen."
     },
     {
       "title": "Microsoft Cloud Security",
