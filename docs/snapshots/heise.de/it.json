@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-08T11:00:53",
+  "timestamp": "2024-08-08T12:10:41",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,15 +26,26 @@
   ],
   "articles": [
     {
+      "title": "Wie Sie eine Windows-10-VM in qemu/KVM auf Windows 11 aufrüsten",
+      "teaser": "Je älter eine Windows-10-VM ist, desto weniger Voraussetzungen erfüllt sie für das Upgrade auf Windows 11. Wir zeigen, wie Sie die Hürden überwinden.",
+      "url": "https://www.heise.de/ratgeber/Wie-Sie-eine-Windows-10-VM-in-qemu-KVM-auf-Windows-11-aufruesten-9823883.html"
+    },
+    {
       "title": "Interview zum kaum vorhandenen Sicherheitsstandard im öffentlichen Sektor",
       "teaser": "KMU und öffentliche Sektor-Einrichtungen sind anfällig für Cyberangriffe, erfüllen oft aber nicht die BSI-Sicherheitsstandards.",
       "url": "https://www.heise.de/hintergrund/Interview-zum-kaum-vorhandenen-Sicherheitsstandard-im-oeffentlichen-Sektor-9826912.html"
     },
     {
-      "title": "Besseres Heimnetz dank alter FritzBox: Router als Repeater recyceln (mit Video)",
-      "teaser": "Wir zeigen, wie Sie einen noch halbwegs aktuellen AVM-Router als Repeater im heimischen Netzwerk und als DECT-Station weiter nutzen.",
-      "url": "https://www.heise.de/ratgeber/Besseres-Heimnetz-dank-alter-FritzBox-Router-als-Repeater-recyceln-mit-Video-9827288.html",
-      "image_title": "FritzBox als Repeater"
+      "title": "Mehr Rückgaben als Verkäufe: AI Pin in schwierigem Fahrwasser",
+      "teaser": "Humane wollte den Gebrauch von technischen Geräten mit dem AI Pin revolutionieren. Bisherige Nutzer scheinen laut aufgetauchten Zahlen nicht überzeugt zu sein.",
+      "url": "https://www.heise.de/news/AI-Pin-Angeblich-mehr-Rueckgaben-als-Verkaeufe-9828578.html",
+      "image_title": "AI Pin von Humane"
+    },
+    {
+      "title": "Umfrage zum Crowdstrike-Ausfall gestartet",
+      "teaser": "Nach dem Crowdstrike-Desaster, das am 19. Juli weltweit Millionen Windows-Computer zum Absturz brachte, starten BSI und Bitkom eine Umfrage.",
+      "url": "https://www.heise.de/news/Bitkom-und-BSI-starten-Umfrage-zum-Crowdstrike-Ausfall-9828582.html",
+      "image_title": "CrowdStrike-Ausfall auf einem Windows-PC"
     },
     {
       "title": "Attacken auf Android-Kernel, Apache OfBiz und Progress WhatsUp",
@@ -109,18 +120,6 @@
       "teaser": "Für kritische Lücken in Cisco-IP-Telefonen wird es keine Updates geben. Für eine jüngst gemeldete Lücke ist ein Proof-of-Concept-Exploit aufgetaucht.",
       "url": "https://www.heise.de/news/Cisco-Kritische-Luecken-in-IP-Telefonen-keine-Updates-verfuegbar-9827988.html",
       "image_title": "Stilisiertes Bild: Ein Stapel brennender Cisco-Appliances"
-    },
-    {
-      "title": "Tipp: Synchronisationsprobleme des Exchange-Kalenders beheben",
-      "teaser": "Wenn der iPhone-Kalender plötzlich bestimmte Terminarten nicht mehr erhält, kann das auf tiefere Probleme hindeuten. So gehen Sie der Sache auf den Grund.",
-      "url": "https://www.heise.de/ratgeber/Tipp-Synchronisationsprobleme-des-Exchange-Kalenders-beheben-9827150.html",
-      "image_title": "Kalender, hier in Echt"
-    },
-    {
-      "title": "iX-Workshop: AWS-Sicherheit - Angriffe erkennen und abwehren",
-      "teaser": "Erfahren Sie, wie Angreifer Fehlkonfigurationen und mangelnde Härtung der Amazon Cloud ausnutzen und wie Sie AWS-Dienste und Cloud-Identitäten dagegen schützen.",
-      "url": "https://www.heise.de/news/iX-Workshop-AWS-Sicherheit-Angriffe-erkennen-und-abwehren-9821283.html",
-      "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
     },
     {
       "title": "PUR Managed Services 2024",
