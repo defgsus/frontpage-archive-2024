@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-09T10:00:40",
+  "timestamp": "2024-08-09T11:00:50",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Cisco",
+      "url": "https://www.heise.de/news/Sicherheitstipps-Cisco-Angreifer-missbrauchen-Smart-Install-Protokoll-9829709.html"
+    },
+    {
       "title": "Android-Kernel, Apache OfBiz, Progress WhatsUp",
       "url": "https://www.heise.de/news/Angriffe-auf-Android-Kernel-Apache-OfBiz-und-Progress-WhatsUp-9828266.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Cisco-Kritische-Luecken-in-IP-Telefonen-keine-Updates-verfuegbar-9827988.html"
     },
     {
-      "title": "TeamCity",
-      "url": "https://www.heise.de/news/TeamCity-Fehlerhafte-Rechtevergabe-ermoeglicht-Rechteausweitung-9826855.html"
+      "title": "Tinder, OKCupid, Grindr & Co. lassen intime Daten abfließen",
+      "teaser": "Sicherheitsforscher haben 15 populäre Dating-Apps abgeklopft: Sämtliche Apps geben intime Daten wie sexuelle Orientierung oder genaue Aufenthaltsorte preis.",
+      "url": "https://www.heise.de/news/Tinder-OKCupid-Grindr-Co-lassen-intime-Daten-abfliessen-9830067.html"
+    },
+    {
+      "title": "Sicherheitstipps Cisco: Angreifer missbrauchen Smart-Install-Protokoll",
+      "teaser": "Ein Dienst zur Fernkonfiguration für Switches von Cisco und schwache Passwörter spielen Angreifer in die Karten. Doch dagegen können Admins etwas machen.",
+      "url": "https://www.heise.de/news/Sicherheitstipps-Cisco-Angreifer-missbrauchen-Smart-Install-Protokoll-9829709.html",
+      "image_title": "Stilisiertes Bild: Ein Stapel brennender Cisco-Appliances"
     },
     {
       "title": "l+f: Cybercrime-Rapper Punchmade Dev lebt seine Texte",
@@ -152,18 +163,6 @@
       "teaser": "Einbrecher bei Mobile Guardian, einem Anbieter von Mobile Device Management, haben aus der Ferne tausende Geräte gelöscht.",
       "url": "https://www.heise.de/news/Mobile-Device-Management-Einbrecher-bei-Mobile-Guardian-loeschen-tausende-Geraete-9826415.html",
       "image_title": "Schülerinnen mit Tablets"
-    },
-    {
-      "title": "Kuh in der Schweiz stirbt nach Ransomware-Angriff",
-      "teaser": "Ein Ransomware-Angriff auf die Rechner eines Milchviehhalters in der Schweiz endet für eine Kuh und ihr Kalb tragisch.",
-      "url": "https://www.heise.de/news/Schweiz-Kuh-und-Kalb-sterben-nach-Cyberangriff-auf-Melkroboter-9826381.html",
-      "image_title": "Milchkühe in großem Stall"
-    },
-    {
-      "title": "Microsoft und CrowdStrike kontern Deltas Schadenersatzforderungen mit Vorwürfen",
-      "teaser": "Delta Air Lines beklagt Millionenschäden durch die CrowdStrike-Ausfälle und prüft Ersatzforderungen. Doch Hilfsangebote der IT-Firmen seien ignoriert worden.",
-      "url": "https://www.heise.de/news/Microsoft-und-CrowdStrike-kontern-Deltas-Schadenersatzforderungen-mit-Vorwuerfen-9826351.html",
-      "image_title": "Nach dem fehlerhaften Crowdstrike-Update ausgefallene Anzeigesysteme am internationalen Flughafen von Denver."
     },
     {
       "title": "Microsoft Cloud Security",
