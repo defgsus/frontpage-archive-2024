@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-10T07:01:00",
+  "timestamp": "2024-08-10T08:00:57",
   "url": "https://www.heise.de/plus/",
   "response": {
     "status": 200
@@ -26,6 +26,16 @@
   ],
   "articles": [
     {
+      "title": "TestsCampus-Netzwerkhardware im Test: Cisco Catalyst Switches im Meraki Dashboard",
+      "teaser": "Cisco hat seiner Catalyst-Produktlinie die Schnittstelle der zugekauften Meraki-Switches verpasst. Wir zeigen, was das Cloud-Management umfasst und was fehlt.",
+      "url": "https://www.heise.de/tests/Campus-Netzwerkhardware-im-Test-Cisco-Catalyst-Switches-im-Meraki-Dashboard-9826544.html"
+    },
+    {
+      "title": "HintergrundAgile Softwareentwicklung: Best Practices für Software-Systemschnittstellen",
+      "teaser": "Schnittstellen überwinden Grenzen zwischen Softwaresystemen. Auf dem Weg von der Konzeption bis zum produktiven Einsatz kann jedoch eine Menge schiefgehen.",
+      "url": "https://www.heise.de/hintergrund/Agile-Softwareentwicklung-Best-Practices-fuer-Software-Systemschnittstellen-9820439.html"
+    },
+    {
       "title": "TestsNeues Tesla Model Y mit Heckantrieb im Test",
       "teaser": "Das Tesla Model Y gibt es nun auch als \"Maximale Reichweite\" mit Heckantrieb. Verbrauch und Reichweite sind top.",
       "url": "https://www.heise.de/tests/Tesla-Model-Y-LR-RWD-im-Test-Heckantrieb-hohe-Reichweite-und-sehr-sparsam-9807065.html",
@@ -43,21 +53,10 @@
       "url": "https://www.heise.de/hintergrund/Wie-Compiler-und-Interpreter-Formeln-parsen-und-auswerten-9809372.html"
     },
     {
-      "title": "RatgeberGPT selbst bauen: So geht es am Mac mit Swift",
-      "teaser": "Generative vortrainierte Transformer erstellen Texte oder fassen sie zusammen und klingen dabei sehr menschlich. So programmieren Sie GPTs selbst auf dem Mac.",
-      "url": "https://www.heise.de/ratgeber/GPT-selbst-bauen-So-geht-es-am-Mac-mit-Swift-9825791.html",
-      "image_title": "GPT-Shakespeare"
-    },
-    {
-      "title": "TestsMischpult im Test: \"Mackie MobileMix\" für Smartphones und Tablets",
-      "teaser": "Live-Podcasts und Videostreams gewinnen oftmals an Reiz, wenn sie an besonderen Orten produziert werden. Hier schlägt die Stunde für das mobile Mischpult.",
-      "url": "https://www.heise.de/tests/Mischpult-im-Test-Mackie-MobileMix-fuer-Smartphones-und-Tablets-9816911.html",
-      "image_title": "!!!Produktschuss kommt von wod!!!,"
-    },
-    {
-      "title": "TestsKurztests: Software für Virtualisierung, Systemüberwachung und Shell-Learning",
-      "teaser": "Die drei Tools UTM, Mission Center und bashcrawl helfen bei der Virtualisierung auf macOS, der Überwachung von Linux-Systemen und dem Lernen von Shell-Befehlen.",
-      "url": "https://www.heise.de/tests/Kurztests-Software-fuer-Virtualisierung-Systemueberwachung-und-Shell-Learning-9819251.html"
+      "title": "HintergrundLadeinfrastruktur: Wo man künftig E-Autos wie schnell laden kann",
+      "teaser": "Die Diskussion zur Ladeinfrastruktur dreht sich oft darum, ob mit Wechsel- oder mit Gleichstrom geladen wird. Argumente gibt es je nach Anwendung für beides.",
+      "url": "https://www.heise.de/hintergrund/Ladeinfrastruktur-Wo-man-kuenftig-E-Autos-wie-schnell-laden-kann-9760377.html",
+      "image_title": "Mercedes EQA an Ladesäule"
     },
     {
       "title": "heise-ChatbotPersönlicher IT-Experte: Beta-Version des heise-Chatbots für heise+ Abonnenten",
@@ -195,11 +194,6 @@
       "image_title": "Das Icon von Apple Intelligence"
     },
     {
-      "title": "Campus-Netzwerkhardware im Test: Cisco Catalyst Switches im Meraki Dashboard",
-      "teaser": "Cisco hat seiner Catalyst-Produktlinie die Schnittstelle der zugekauften Meraki-Switches verpasst. Wir zeigen, was das Cloud-Management umfasst und was fehlt.",
-      "url": "https://www.heise.de/tests/Campus-Netzwerkhardware-im-Test-Cisco-Catalyst-Switches-im-Meraki-Dashboard-9826544.html"
-    },
-    {
       "title": "Datenbank MySQL 9.0: Stored Procedures in JavaScript verfassen",
       "teaser": "MySQL 9.0 unterstützt erstmals Stored Procedures in JavaScript. Wir erklären die Vorteile und Nutzung der Funktion.",
       "url": "https://www.heise.de/tests/Datenbank-MySQL-9-0-Stored-Procedures-in-JavaScript-verfassen-9825840.html"
@@ -208,6 +202,12 @@
       "title": "KI ausprobiert: Mit Ideogram leserliche Schrift im Bild erzeugen",
       "teaser": "Der Text-zu-Bild-Generator Ideogram ist auf Schrift spezialisiert. Damit lassen sich realistische Filmplakate, Logos oder Buch-Illustrationen generieren.",
       "url": "https://www.heise.de/ratgeber/KI-ausprobiert-Mit-Ideogram-leserliche-Schrift-im-Bild-erzeugen-9821693.html"
+    },
+    {
+      "title": "GPT selbst bauen: So geht es am Mac mit Swift",
+      "teaser": "Generative vortrainierte Transformer erstellen Texte oder fassen sie zusammen und klingen dabei sehr menschlich. So programmieren Sie GPTs selbst auf dem Mac.",
+      "url": "https://www.heise.de/ratgeber/GPT-selbst-bauen-So-geht-es-am-Mac-mit-Swift-9825791.html",
+      "image_title": "GPT-Shakespeare"
     },
     {
       "title": "Richtlinie: Das bedeutet NIS2 für DNS- und TLD-Anbieter",
@@ -238,9 +238,9 @@
       "image_title": ","
     },
     {
-      "title": "Security: Lernen aus dem CrowdStrike-Vorfall",
-      "teaser": "Ein fehlerhaftes Update der Sicherheitssoftware von CrowdStrike führte zu einem der größten IT-Ausfälle weltweit. Nun gilt es, daraus Erkenntnisse abzuleiten.",
-      "url": "https://www.heise.de/hintergrund/Security-Lernen-aus-dem-CrowdStrike-Vorfall-9819703.html"
+      "title": "Kurztests: Software für Virtualisierung, Systemüberwachung und Shell-Learning",
+      "teaser": "Die drei Tools UTM, Mission Center und bashcrawl helfen bei der Virtualisierung auf macOS, der Überwachung von Linux-Systemen und dem Lernen von Shell-Befehlen.",
+      "url": "https://www.heise.de/tests/Kurztests-Software-fuer-Virtualisierung-Systemueberwachung-und-Shell-Learning-9819251.html"
     },
     {
       "title": "Recycling von Solarmodulen: Wo wir bei der PV-Wiederverwertung stehen",
@@ -348,12 +348,12 @@
       "image_title": ","
     },
     {
-      "title": "PowershellAutomatisierung mit PowerShell – Die richtige Strategie",
-      "url": "https://www.heise.de/ratgeber/Automatisierung-mit-PowerShell-Die-richtige-Strategie-9819909.html"
+      "title": "Security: Lernen aus dem CrowdStrike-Vorfall",
+      "url": "https://www.heise.de/hintergrund/Security-Lernen-aus-dem-CrowdStrike-Vorfall-9819703.html"
     },
     {
-      "title": "Agile Softwareentwicklung: Best Practices für Software-Systemschnittstellen",
-      "url": "https://www.heise.de/hintergrund/Agile-Softwareentwicklung-Best-Practices-fuer-Software-Systemschnittstellen-9820439.html"
+      "title": "PowershellAutomatisierung mit PowerShell – Die richtige Strategie",
+      "url": "https://www.heise.de/ratgeber/Automatisierung-mit-PowerShell-Die-richtige-Strategie-9819909.html"
     },
     {
       "title": "PKI und Post-Quanten-Kryptografie: Herausforderungen erklärt",
