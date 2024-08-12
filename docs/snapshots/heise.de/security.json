@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-12T09:00:34",
+  "timestamp": "2024-08-12T10:07:10",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "PostgreSQL",
+      "url": "https://www.heise.de/news/Root-Sicherheitsluecke-bedroht-Datenbankmanagementsystem-PostgreSQL-9831918.html"
+    },
+    {
       "title": "VPN-Clients",
       "url": "https://www.heise.de/news/Schwere-Luecke-bei-kritischen-Anwendungen-Klartextpasswoerter-im-Prozessspeicher-9830774.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Sicherheitstipps-Cisco-Angreifer-missbrauchen-Smart-Install-Protokoll-9829709.html"
     },
     {
-      "title": "Android-Kernel, Apache OfBiz, Progress WhatsUp",
-      "url": "https://www.heise.de/news/Angriffe-auf-Android-Kernel-Apache-OfBiz-und-Progress-WhatsUp-9828266.html"
+      "title": "Root-Sicherheitslücke bedroht Datenbankmanagementsystem PostgreSQL",
+      "teaser": "Die PostgreSQL-Entwickler haben in aktuellen Versionen eine Schwachstelle geschlossen. Angreifer können Schadcode ausführen.",
+      "url": "https://www.heise.de/news/Root-Sicherheitsluecke-bedroht-Datenbankmanagementsystem-PostgreSQL-9831918.html"
     },
     {
       "title": "Software Security: Entwickler ertrinken in technischen Schulden",
@@ -153,12 +158,6 @@
       "teaser": "Blacksuit attackiert weltweit Unternehmen und erpresst Millionenbeträge. FBI und CISA zeigen aktuelle Taktiken auf und wie Admins PCs schützen können.",
       "url": "https://www.heise.de/news/Ransomware-Royal-heisst-jetzt-Blacksuit-und-ergaunert-500-Millionen-US-Dollar-9828015.html",
       "image_title": "Ransomware im Netzwerk"
-    },
-    {
-      "title": "Cisco: Angreifer können Befehle auf IP-Telefonen ausführen, Update kommt nicht",
-      "teaser": "Für kritische Lücken in Cisco-IP-Telefonen wird es keine Updates geben. Für eine jüngst gemeldete Lücke ist ein Proof-of-Concept-Exploit aufgetaucht.",
-      "url": "https://www.heise.de/news/Cisco-Kritische-Luecken-in-IP-Telefonen-keine-Updates-verfuegbar-9827988.html",
-      "image_title": "Stilisiertes Bild: Ein Stapel brennender Cisco-Appliances"
     },
     {
       "title": "Microsoft Cloud Security",
