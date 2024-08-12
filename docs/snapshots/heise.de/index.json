@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-12T04:08:00",
+  "timestamp": "2024-08-12T05:07:00",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -152,7 +152,18 @@
       "image_title": "Nahaufnahme einer Maschine, die Chips von einem Silizium-Wafer entnimmt und auf ein Substrat aufbringt."
     },
     {
-      "title": "Schwere Lücke bei kritischen Anwendungen: Klartextpasswörter im Prozessspeicher",
+      "title": "Most Epic Fail: Crowdstrike-Präsident nimmt Pwnie Award persönlich entgegen",
+      "teaser": "Elf Pwnie Awards für bemerkenswerte Bugs, Hacks, Exploits oder Fehlleistungen. Crowdstrike gab zu, \"schlimm versagt\" zu haben.",
+      "url": "https://www.heise.de/news/Most-Epic-Fail-Crowdstrike-Praesident-nimmt-Pwnie-Award-persoenlich-entgegen-9831647.html"
+    },
+    {
+      "title": "Montag: ChatGPT antwortet mit Nutzerstimme, Lücke in Sicherheitsanwendungen",
+      "teaser": "KI-Modell als Stimmenimitator + Klartextpasswörter im RAM + Kostenstudie erneuerbarer Energien + Interview mit Homeoffice-Forscher + Trümmer durch China-Rakete",
+      "url": "https://www.heise.de/news/Montag-ChatGPT-antwortet-mit-Nutzerstimme-Luecke-in-Sicherheitsanwendungen-9831643.html",
+      "image_title": "Ein weiblich anmutender Roboter sitzt vor einem Mischpult mit Bildschirmen und singt oder spricht in ein Mikrofon; Montag: KI-Stimmenimitator, Passwortmanager-Lücke, Energie-Studie, Homeoffice-Interview & China-Raketentrümmer"
+    },
+    {
+      "title": "VPN-Clients und Passwortmanagern betroffen: Klartextpasswort im Prozessspeicher",
       "teaser": "Wegen einer Lücke unter anderem in VPN-Clients und Passwortmanagern bleiben vertrauliche Daten auch nach Abmeldung im Prozess-Speicher und sind auslesbar.",
       "url": "https://www.heise.de/news/Schwere-Luecke-bei-kritischen-Anwendungen-Klartextpasswoerter-im-Prozessspeicher-9830774.html"
     },
@@ -184,17 +195,6 @@
       "url": "https://www.heise.de/news/Mikroalgen-als-Biotinten-fuer-den-3D-Laserdruck-9831402.html"
     },
     {
-      "title": "Apple Intelligence und Siri 2.0 im Hands-on: 'Bitte nicht halluzinieren'",
-      "teaser": "Apple steckt generative KI in iOS 18 & Co, das soll Funktionen und ein schlaueres Siri bringen. Wie gut das in der ersten Beta klappt, haben wir ausprobiert.",
-      "url": "https://www.heise.de/tests/Apple-Intelligence-und-Siri-2-0-im-Hands-on-Bitte-nicht-halluzinieren-9826710.html",
-      "image_title": "Das Icon von Apple Intelligence"
-    },
-    {
-      "title": "Mit Domain-Based Authentication in unternehmensinterne Gruppen eindringen",
-      "teaser": "Was ergeben ein uraltes Protokoll, eine millionenfach benutzte Bibliothek und eine Authentifizierung per Maildomain? Zugang zum internen Github-Netzwerk.",
-      "url": "https://www.heise.de/news/Mit-Domain-Based-Authentication-in-unternehmensinterne-Gruppen-eindringen-9830944.html"
-    },
-    {
       "title": "Kühlen mit Midea PortaSplitMobile Split-Klimaanlage im Praxistest​",
       "teaser": "Die mobile PortaSplit von Midea verspricht die Effizienz einer Split-Klimaanlage und lässt sich einfach in fast jedes Fenster hängen.",
       "url": "https://www.heise.de/tests/Mobile-Split-Klimaanlage-im-Praxistest-Midea-PortaSplit-sorgt-fuer-kuehle-Sommer-9804255.html"
@@ -220,6 +220,17 @@
       "title": "heise+ Aktionsangebot",
       "teaser": "1/2 Jahr zum halben Preis: heise+ 6 Monate mit 50 % Rabatt testen und geballtes, brandaktuelles IT- und Tech-Wissen sichern. Unbegrenzter Zugriff auf alle heise+ Beiträge inklusive der Inhalte aller heise-Magazine. Nur für kurze Zeit!",
       "url": "https://shop.heise.de/heise+/sommeraktion?affiliateId=40313_HP000060_27798_3_57&wt_mc=intern.abo.plus.hp_2024_sommer.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Apple Intelligence und Siri 2.0 im Hands-on: 'Bitte nicht halluzinieren'",
+      "teaser": "Apple steckt generative KI in iOS 18 & Co, das soll Funktionen und ein schlaueres Siri bringen. Wie gut das in der ersten Beta klappt, haben wir ausprobiert.",
+      "url": "https://www.heise.de/tests/Apple-Intelligence-und-Siri-2-0-im-Hands-on-Bitte-nicht-halluzinieren-9826710.html",
+      "image_title": "Das Icon von Apple Intelligence"
+    },
+    {
+      "title": "Mit Domain-Based Authentication in unternehmensinterne Gruppen eindringen",
+      "teaser": "Was ergeben ein uraltes Protokoll, eine millionenfach benutzte Bibliothek und eine Authentifizierung per Maildomain? Zugang zum internen Github-Netzwerk.",
+      "url": "https://www.heise.de/news/Mit-Domain-Based-Authentication-in-unternehmensinterne-Gruppen-eindringen-9830944.html"
     },
     {
       "title": "c't-Webinar: Wärmepumpentechnik für Einsteiger",
@@ -282,6 +293,11 @@
       "url": "https://www.heise.de/news/KI-sagt-Materialverschleiss-voraus-9831020.html"
     },
     {
+      "title": "Digitale Souveränität und Datensicherheit – so klappt’s!",
+      "teaser": "Für ein Höchstmaß an digitaler Sicherheit braucht es zwei Voraussetzungen: Ohne digitale Souveränität und eine klare Funktionstrennung geht es nicht. Wir zeigen im Webcast, wie ein Unternehmen das erfolgreich umgesetzt hat.",
+      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/digitale-souveraenitaet-und-datensicherheit-so-klappts-4752/?source=hbsad-ersatz"
+    },
+    {
       "title": "Gamescom 2024: Mehr Community-Happening als Spielemesse",
       "teaser": "Große Messestände und viele Spiele wird es auch auf der diesjährigen Gamescom geben. Das eigentliche Highlight der Veranstaltung ist aber die Gaming-Community.",
       "url": "https://www.heise.de/hintergrund/Gamescom-2024-Mehr-Community-Happening-als-Spielemesse-9819087.html",
@@ -292,11 +308,6 @@
       "teaser": "Die Milliarden des Bundes für den Glasfaserausbau fließen nur zögerlich ab. Bezahlt wird nämlich erst nach Beginn der Bauarbeiten in mehreren Schritten.",
       "url": "https://www.heise.de/news/Bisher-nur-ein-Viertel-der-Glasfaser-Mittel-ausbezahlt-9831037.html",
       "image_title": "Baustelle eines Neubaugebiets in Barsinghausen bei Hannover, im Vordergrund ein kleiner Bagger und eine Rolle Glasfaserkabel."
-    },
-    {
-      "title": "Digitale Souveränität und Datensicherheit – so klappt’s!",
-      "teaser": "Für ein Höchstmaß an digitaler Sicherheit braucht es zwei Voraussetzungen: Ohne digitale Souveränität und eine klare Funktionstrennung geht es nicht. Wir zeigen im Webcast, wie ein Unternehmen das erfolgreich umgesetzt hat.",
-      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/digitale-souveraenitaet-und-datensicherheit-so-klappts-4752/?source=hbsad-ersatz"
     },
     {
       "title": "Schwachstellen in chinesischen RISC-V CPUs",
@@ -344,18 +355,6 @@
       "image_title": "Kopf von einem Mann auf blauem Hintergrund zu sehen, der sich selbst mit Blitzlicht fotografiert"
     },
     {
-      "title": "Report: In Zukunft kleine Entwicklerteams mit hochproduktiven Senior-Developern",
-      "teaser": "An ihren Commits sollt ihr sie erkennen: GitClear wertet Daten aus über 850.000 Entwicklerjahren aus und bewertet den Einfluss von KI auf die Produktivität.",
-      "url": "https://www.heise.de/news/Report-In-Zukunft-kleine-Entwicklerteams-mit-hochproduktiven-Senior-Developern-9826442.html",
-      "image_title": "Hände auf Laptop"
-    },
-    {
-      "title": "30 Jahre \"The Mask\": vom Horror-Comic zum Comedy-Hit​",
-      "teaser": "Vergesst Deadpool: \"The Mask\" war eine der ersten gelungenen Comic-Verfilmungen, in denen sowohl Technik als auch Besetzung stimmten.​",
-      "url": "https://www.heise.de/hintergrund/30-Jahre-The-Mask-vom-Horror-Comic-zum-Comedy-Hit-9829112.html",
-      "image_title": "Szene aus The Mask"
-    },
-    {
       "title": "X verklagt Firmen, weil sie keine Werbung schalten​",
       "url": "https://www.heise.de/news/Musk-verklagt-Mars-wegen-Werbeboykotts-9826220.html",
       "image_title": "Silhouette Elon Musks vor dem Logo von X"
@@ -395,6 +394,11 @@
       "url": "https://www.heise.de/news/uBlock-Origin-stellt-Chrome-Version-ein-und-empfiehlt-Firefox-9824660.html"
     },
     {
+      "title": "Report: In Zukunft kleine Entwicklerteams mit hochproduktiven Senior-Developern",
+      "url": "https://www.heise.de/news/Report-In-Zukunft-kleine-Entwicklerteams-mit-hochproduktiven-Senior-Developern-9826442.html",
+      "image_title": "Hände auf Laptop"
+    },
+    {
       "title": "Sicherheitsforscher verwandeln Sonos-One-Lautsprecher in Wanze",
       "url": "https://www.heise.de/news/Sicherheitsforscher-verwandeln-Sonos-One-Lautsprecher-in-Wanze-9830061.html",
       "image_title": "Trojanishces Pferd aus Nullen und Einsen"
@@ -402,10 +406,6 @@
     {
       "title": "Tinder, OKCupid, Grindr & Co. lassen intime Daten abfließen",
       "url": "https://www.heise.de/news/Tinder-OKCupid-Grindr-Co-lassen-intime-Daten-abfliessen-9830067.html"
-    },
-    {
-      "title": "Mini-PCs von Asrock, Asus, Geekom, Minisforum und Zotac im Test | c’t uplink",
-      "url": "https://www.heise.de/news/Mini-PCs-von-Asrock-Asus-Geekom-Minisforum-und-Zotac-im-Test-c-t-uplink-9827555.html"
     },
     {
       "title": "OpenStreetMap: 20 Jahre offene Alternative zu Google, Apple und Co.​",
@@ -437,6 +437,11 @@
       "url": "https://www.heise.de/news/c-t-Brandtest-Vorsicht-vor-billigen-Ladetaschen-fuer-E-Bike-Akkus-9828086.html"
     },
     {
+      "title": "30 Jahre \"The Mask\": vom Horror-Comic zum Comedy-Hit​",
+      "url": "https://www.heise.de/hintergrund/30-Jahre-The-Mask-vom-Horror-Comic-zum-Comedy-Hit-9829112.html",
+      "image_title": "Szene aus The Mask"
+    },
+    {
       "title": "Datenleck: Episoden von Netflix- und Crunchyroll-Serien vorab ins Netz geleakt​",
       "url": "https://www.heise.de/news/Datenleck-Episoden-von-Netflix-und-Crunchyroll-Serien-vorab-ins-Netz-geleakt-9830898.html",
       "image_title": "Dallas,,Texas/,United,States,-,05/10/2018:,(photograph,Of,Netflix,Logo"
@@ -445,11 +450,6 @@
       "title": "Atmosphäre schaffen: Die Bilder der Woche KW 32",
       "url": "https://www.heise.de/news/Atmosphaere-schaffen-Die-Bilder-der-Woche-KW-32-9830291.html",
       "image_title": "Sonnenuntergang an Sonnenblumenfeld"
-    },
-    {
-      "title": "Auf Kurs: \"GTA 6\" soll weiterhin im Herbst 2025 erscheinen",
-      "url": "https://www.heise.de/news/Auf-Kurs-GTA-6-soll-weiterhin-im-Herbst-2025-erscheinen-9829658.html",
-      "image_title": "Screenshot aus \"GTA 6\""
     },
     {
       "title": "Gehälter 2024Gehälter 2024: Das verdienen SAP-Berater in Deutschland",
@@ -468,9 +468,9 @@
       "url": "https://www.heise.de/ratgeber/IT-Projektmanager-Diese-Skills-brauchen-Entwickler-fuer-den-Umstieg-9814758.html"
     },
     {
-      "title": "Blick ins Heft c’t 18/2024: Brandursache Akku, Günstige Monitore, SSDs im Labor",
-      "teaser": "Wie brandgefährlich Akkus sind und was kann man dagegen tun, lesen Sie in der aktuellen Ausgabe. Außerdem haben 15 Monitore zwischen 90 und 220 Euro getestet.",
-      "url": "https://www.heise.de/meinung/Blick-ins-Heft-c-t-18-2024-Brandursache-Akku-Guenstige-Monitore-SSDs-im-Labor-9825683.html"
+      "title": "IT-Projektmanager: Diese Skills brauchen Entwickler für den Aufstieg",
+      "teaser": "Ein IT-Projektleiter koordiniert statt zu programmieren. Wir beschreiben, welche Aufgaben ihn erwarten und für wen der Job geeignet ist.",
+      "url": "https://www.heise.de/ratgeber/IT-Projektmanager-Diese-Skills-brauchen-Entwickler-fuer-den-Umstieg-9814758.html"
     },
     {
       "title": "Wie 0,25 Prozent Leitzins einen kleinen Börsencrash verursachten",
@@ -512,9 +512,8 @@
       "image_title": "Galaxienfotos von Euclid"
     },
     {
-      "title": "Nächte der Perseiden: Sternwarten laden zum Schnuppern ein",
-      "url": "https://www.heise.de/news/Naechte-der-Perseiden-Sternwarten-laden-zum-Schnuppern-ein-9830355.html",
-      "image_title": "Sternwarte Riesa"
+      "title": "Mini-PCs von Asrock, Asus, Geekom, Minisforum und Zotac im Test | c’t uplink",
+      "url": "https://www.heise.de/news/Mini-PCs-von-Asrock-Asus-Geekom-Minisforum-und-Zotac-im-Test-c-t-uplink-9827555.html"
     },
     {
       "title": "Gehälter 2024Das verdienen SAP-Berater in Deutschland",
@@ -588,18 +587,6 @@
       "image_title": "Raspberry Pi Pico 2: Mikrocontroller-Board mit RP2350"
     },
     {
-      "title": "Warum ein Akku brennt und wie Sie es verhindern können",
-      "teaser": "Wenn ein Akku in Brand gerät, hat das Gründe. Wer sie kennt und entsprechend vorsorgt, kann die Gefahr minimieren.",
-      "url": "https://www.heise.de/ratgeber/Warum-ein-Akku-brennt-und-wie-Sie-es-verhindern-koennen-9814045.html",
-      "image_title": ","
-    },
-    {
-      "title": "Fritzbox-Router als RepeaterBesseres Heimnetz dank alter Fritzbox",
-      "teaser": "So nutzen Sie eine Fritzbox als Repeater im heimischen Netzwerk und als DECT-Station.",
-      "url": "https://www.heise.de/ratgeber/Besseres-Heimnetz-dank-alter-FritzBox-Router-als-Repeater-recyceln-mit-Video-9827288.html",
-      "image_title": "FritzBox als Repeater"
-    },
-    {
       "title": "Apple Intelligence und Siri 2.0 im Hands-on: 'Bitte nicht halluzinieren'",
       "teaser": "Apple steckt generative KI in iOS 18 & Co, das soll Funktionen und ein schlaueres Siri bringen. Wie gut das in der ersten Beta klappt, haben wir ausprobiert.",
       "url": "https://www.heise.de/tests/Apple-Intelligence-und-Siri-2-0-im-Hands-on-Bitte-nicht-halluzinieren-9826710.html",
@@ -610,6 +597,12 @@
       "teaser": "Der drahtlose Lautsprecher der Apple-Tochter Beats dient unterwegs auch als Powerbank und gibt wahlweise verlustfreies Audio über USB-C aus. Was er taugt.",
       "url": "https://www.heise.de/tests/Beats-Pill-Tragbarer-Bluetooth-Lautsprecher-mit-Lossless-Audio-im-Test-9825907.html",
       "image_title": "Beats Pill auf dem Rasen"
+    },
+    {
+      "title": "Digitale Wellenreiter: Sechs Audioeditoren für den Mac im Test",
+      "teaser": "Es muss nicht immer das schwerfällige Logic oder GarageBand sein. Diese macOS-Audioeditoren von kostenlos bis teuer bringen Tondateien auf Vordermann.",
+      "url": "https://www.heise.de/tests/Digitale-Wellenreiter-Sechs-Audioeditoren-fuer-den-Mac-im-Test-9824393.html",
+      "image_title": ","
     },
     {
       "title": "Raspberry Pi RP2350: Pico-2-Alternativen mit Funk, mehr Flash oder kleiner",
@@ -725,19 +718,19 @@
       "url": "https://www.techstage.de/bestenliste/top-10-die-besten-balkonkraftwerke-von-extrem-leicht-bis-besonders-stark/ywhkvwx?wt_mc=intern.red.techstage.techstage_buehne.startseite.buehne.buehne#nav-ring-6"
     },
     {
-      "title": "AfD: Warum dieser Rechtsruck?",
-      "teaser": "German Angst statt Klima-Angst: Was macht die ultrarechte Partei attraktiv? Erklärungen wie \"aggressives Selbstmitleid\" von Ostdeutschen reichen wohl nicht.",
-      "url": "https://www.heise.de/tp/features/AfD-Warum-dieser-Rechtsruck-9208552.html"
+      "title": "Warum gibt es keine deutschen Unternehmen, die nur E-Autos herstellen?",
+      "teaser": "Die Elektroauto-Verkäufe gehen weltweit steil nach oben. Auch in Deutschland. Aber Tesla und chinesische Hersteller hängen VW und Co. ab. Warum das so ist und wir aufs Elektropedal treten müssen.",
+      "url": "https://www.heise.de/tp/features/Warum-gibt-es-keine-deutschen-Unternehmen-die-nur-E-Autos-herstellen-9207186.html"
     },
     {
-      "title": "Le Pen: Mit ihr vergeht die deutsch-französische Freundschaft?",
-      "teaser": "Unruhen in Frankreich: Es wird wieder über das vorzeitige Ende der Regierung Macron spekuliert. Für Deutschland wären das keine guten Aussichten. Die Krisen-Gewinnerin will einen deutlichen Kurswechsel.",
-      "url": "https://www.heise.de/tp/features/Le-Pen-Mit-ihr-vergeht-die-deutsch-franzoesische-Freundschaft-9208505.html"
+      "title": "Wie der Verfassungsschutz in die Meinungsfreiheit eingreift",
+      "teaser": "Der deutsche Inlandsgeheimdienst wird zunehmend zum politischen Akteur. Macht sich Behördenchef Haldenwang einer strafbaren Nötigung im Amt schuldig? Und was hat das mit Orwells \"1984\" zu tun?",
+      "url": "https://www.heise.de/tp/features/Wie-der-Verfassungsschutz-in-die-Meinungsfreiheit-eingreift-9206508.html"
     },
     {
-      "title": "Ukraine-Krieg: Nukleare Eskalation unwahrscheinlich – und doch wahrscheinlicher",
-      "teaser": "Nach der Wagner-Revolte muss der Kreml Stärke beweisen. Das steigert das Risiko, meint der russische Politologe Michail Troizki. Er weist auf ein Paradoxon hin .",
-      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Nukleare-Eskalation-unwahrscheinlich-und-doch-wahrscheinlicher-9207244.html"
+      "title": "Bud Light: Biertrinker falsch abgeholt",
+      "teaser": "Werbekampagne mit Transgender-Star geht daneben. Schäumende Entrüstung, Geschäft bricht ein. Kulturkampf-Boykott gewinnt. Fabriken schließen. Angestellte werden arbeitslos.",
+      "url": "https://www.heise.de/tp/features/Bud-Light-Biertrinker-falsch-abgeholt-9209052.html"
     },
     {
       "title": "VPN-Test 2024: Die besten VPN-Anbieter im Vergleich",
