@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-12T12:13:06",
+  "timestamp": "2024-08-12T13:13:02",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Zabbix",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-Netzwerkmonitoringtool-Zabbix-kann-Passwoerter-leaken-9832311.html"
+    },
+    {
       "title": "PostgreSQL",
       "url": "https://www.heise.de/news/Root-Sicherheitsluecke-bedroht-Datenbankmanagementsystem-PostgreSQL-9831918.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/CPU-Sicherheitsluecke-in-AMD-Prozessoren-ermoeglicht-Malware-Infektionen-9831278.html"
     },
     {
-      "title": "Cisco",
-      "url": "https://www.heise.de/news/Sicherheitstipps-Cisco-Angreifer-missbrauchen-Smart-Install-Protokoll-9829709.html"
+      "title": "Sicherheitslücken: Netzwerkmonitoringtool Zabbix kann Passwörter leaken",
+      "teaser": "Unter anderen eine kritische Schadcode-Lücke bedroht Zabbix. Dagegen abgesicherte Versionen stehen zum Download bereit.",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-Netzwerkmonitoringtool-Zabbix-kann-Passwoerter-leaken-9832311.html"
     },
     {
       "title": "Letzter Termin: heise Security Tour 2024 online",
@@ -154,11 +159,6 @@
       "url": "https://www.heise.de/news/Roundcube-Webmail-Angreifer-koennen-durch-kritische-Luecke-E-Mails-kapern-9828180.html"
     },
     {
-      "title": "secIT Digital: IT-Bedrohungslage einschätzen und Cyberattacken abwehren",
-      "teaser": "Auf der Online-Security-Konferenz secIT Digital erläutern redaktionell ausgewählte Referenten wichtige Handlungsweisen, um Unternehmen vor Attacken zu schützen.",
-      "url": "https://www.heise.de/news/secIT-Digital-IT-Bedrohungslage-einschaetzen-und-Cyberattacken-abwehren-9825357.html"
-    },
-    {
       "title": "Microsoft Cloud Security",
       "teaser": "Lernen Sie Lücken und Fehler mit SCUBA selbst zu finden und zu beheben. Das Webinar erklärt das Konzept und die Funktionsweise des Tools, um die Sicherheit seines M365-Tenants zu verbessern.",
       "url": "https://heise-academy.de/webinare/microsoft_cloud_security?wt_mc=intern.academy.security.web_scuba.hs_teaser.teaser.teaser"
@@ -182,6 +182,11 @@
       "image_title": "Antennen auf einem Masten"
     },
     {
+      "title": "Fehler in 2024-BTRFS-Version: Unmount der Datenpartition",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Fehler-in-2024-BTRFS-Version-Unmount-der-Datenpartition/posting-44310615/show/"
+    },
+    {
       "title": "Re: Probleme Eset/WithSecure-Update: Lizenz ungültig, Signatur-Update schlägt fe",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Probleme-Eset-WithSecure-Update-Lizenz-ungueltig-Signatur-Update-schlaegt-fe/posting-44308048/show/"
@@ -190,11 +195,6 @@
       "title": "Re: Desinfec't bricht nach wenigen Scann-Minuten ab",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Desinfec-t-bricht-nach-wenigen-Scann-Minuten-ab/posting-44306710/show/"
-    },
-    {
-      "title": "Re: Überschrift ... \"entweicht\"",
-      "teaser": "Forum: AVM entweicht geheimer FritzBox-Schlüssel",
-      "url": "https://www.heise.de/forum/heise-Security/News-Kommentare/AVM-entweicht-geheimer-FritzBox-Schluessel/Re-Ueberschrift-entweicht/posting-44297452/show/"
     }
   ]
 }
