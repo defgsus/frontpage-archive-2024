@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-14T09:00:48",
+  "timestamp": "2024-08-14T10:07:15",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -8,6 +8,12 @@
     {
       "type": null,
       "src": "https://static.zeit.de/p/zeit.web/js/colorscheme.3e111d9ecb733d028b0c.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
       "id": null,
       "text": null
     },
@@ -86,15 +92,10 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Waldbrände in Griechenland : Mit Gartenschläuchen gegen die Feuerfront",
-      "teaser": "Sommer für Sommer wüten Waldbrände in Griechenland. Die Regierung weist die Verantwortung von sich – und verweist auf den Klimawandel. Doch die Menschen sind wütend.",
-      "url": "https://www.zeit.de/gesellschaft/2024-08/griechenland-waldbraende-marathon-penteli",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-08/griechenland-waldbraende-marathon-penteli-teaser/wide__1000x562"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); RAF : Festnahme in Zusammenhang mit Fahndung nach RAF-Terroristen",
-      "teaser": "In Berlin wurde eine Person in Zusammenhang mit der Fahndung nach den RAF-Terroristen Ernst-Volker Staub und Burkhard Garweg festgenommen. Eine Identitätsprüfung laufe.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-08/raf-terroristen-ernst-volker-staub-burkhard-garweg"
+      "title": "Z+ (abopflichtiger Inhalt); Stimmung im Land : Die Macht, die lacht",
+      "teaser": "Nirgendwo ist die Laune schlechter als bei uns. Auch Deutschland bräuchte etwas von der Stimmung, die die Spiele in Paris und der US-Wahlkampf ausgelöst haben.",
+      "url": "https://www.zeit.de/2024/35/stimmung-land-sommer-olympische-spiele-us-wahl",
+      "image_url": "https://img.zeit.de/2024/35/die-macht-die-lacht-bild-1/wide__1000x562"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Nord Stream : Ist das Rätsel um den Ostseeanschlag gelöst?",
@@ -103,22 +104,28 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-07/nordstream-anschlag-ermittlungen-bild/wide__892x501"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Bundeswehr : Militärflugplatz Köln-Wahn wegen Sabotageverdachts abgeriegelt",
-      "teaser": "Am Bundeswehrstandort Köln-Wahn gehen Ermittler dem Verdacht einer Straftat nach. Die Wasserversorgung der Kaserne könnte womöglich absichtlich kontaminiert worden sein.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-08/bundeswehr-koeln-wahn-abgeriegelt-wasser-sabotage-verdacht",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-08/bundeswehr-koeln-wahn-abgeriegelt-wasser-sabotage-verdacht-bild/super__430x286"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); J. D. Vance und Tim Walz : Lieber toxisch oder lieber nett?",
       "teaser": "Von J. D. Vance über Doug Emhoff bis Tim Walz: Der Präsidentschaftswahlkampf in den USA ist auch ein Ringen um die Frage, was Männlichkeit im Jahr 2024 bedeutet.",
       "url": "https://www.zeit.de/politik/ausland/2024-08/j-d-vance-tim-walz-maennlichkeitsideale-usa-maenner-5vor8",
       "image_url": "https://img.zeit.de/politik/2024-08/us-wahl-tim-walz-jd-vance-maennlichkeit/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Ukrainekarte aktuell : Ukraine rückt in weitere Siedlung in russischer Grenzregion vor",
-      "teaser": "Ukrainische Truppen sind bis zu 30 Kilometer tief in russischem Territorium aktiv. Russland rückt derweil weiter im Osten der Ukraine vor.",
-      "url": "https://www.zeit.de/politik/ausland/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen-teaserbild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Bundeswehr : Militärflugplatz Köln-Wahn wegen Sabotageverdachts abgeriegelt",
+      "teaser": "Am Bundeswehrstandort Köln-Wahn gehen Ermittler dem Verdacht einer Straftat nach. Die Wasserversorgung der Kaserne könnte womöglich absichtlich kontaminiert worden sein.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-08/bundeswehr-koeln-wahn-abgeriegelt-wasser-sabotage-verdacht",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-08/bundeswehr-koeln-wahn-abgeriegelt-wasser-sabotage-verdacht-bild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); RAF : Festnahme in Zusammenhang mit Fahndung nach RAF-Terroristen",
+      "teaser": "In Berlin wurde eine Person in Zusammenhang mit der Fahndung nach den RAF-Terroristen Ernst-Volker Staub und Burkhard Garweg festgenommen. Eine Identitätsprüfung laufe.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-08/raf-terroristen-ernst-volker-staub-burkhard-garweg",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-08/raf-terroristen-ernst-volker-staub-burkhard-garweg-bild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Interaktiver Rechner • Z+ Empfehlung : Mieten oder Kaufen? Der endgültige Rechner",
+      "teaser": "Viele träumen vom eigenen Haus, von der eigenen Wohnung. Aber lohnt sich der Kauf wirklich? Unser interaktiver Rechner hilft bei der teuersten aller Lebensentscheidungen.",
+      "url": "https://www.zeit.de/geld/2024-02/wohnen-mieten-oder-kaufen-rechner-immobilien-hauskauf",
+      "image_url": "https://img.zeit.de/geld/2023-11/wohnen-mieten-oder-kaufen-rechner-immobilien/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Kein Urlaub : \"Mein letzter richtiger Urlaub liegt mehr als 25 Jahre zurück\"",
@@ -128,38 +135,9 @@
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Humor am Arbeitsplatz : So lernen Sie, im Job lustig zu sein",
-      "teaser": "Witzige Menschen sind beliebter, das gilt auch am Arbeitsplatz. Oft aber wirkt man dabei aber unsensibel oder überheblich. Wie es mit dem Lustigsein klappt.",
+      "teaser": "Witzige Menschen sind beliebter, das gilt auch am Arbeitsplatz. Oft wirkt man dabei aber unsensibel oder überheblich. Wie es mit dem Lustigsein klappt.",
       "url": "https://www.zeit.de/arbeit/2024-07/humor-arbeitsplatz-chef-professionalitaet-wohlbefinden",
       "image_url": "https://img.zeit.de/arbeit/2024-08/humor-arbeitsplatz-chef-professionalitaet/square__500x500"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Sozialarbeiterin : \"In einer Nacht brauchte ich selbst den sozial­psychiatrischen Dienst\"",
-      "teaser": "Adriana wollte unbedingt Sozialarbeiterin werden. Doch schon bei der ersten Stelle wurde ihr klar, dass der Beruf sie krank macht. Sie kündigte für einen Schreibtischjob.",
-      "url": "https://www.zeit.de/arbeit/2024-07/sozialarbeiterin-beruf-belastung-krankheit-neuanfang",
-      "image_url": "https://img.zeit.de/arbeit/2024-07/sozialarbeiterin-beruf-belastung-krankheit/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Algerische Boxerin : J. K. Rowling und Elon Musk tauchen in Klage von Imane Khelif auf",
-      "teaser": "Die Boxerin Khelif beklagt Mobbing in der Onlinedebatte über ihr Geschlecht. In ihrer Klage tauchen Namen von Wortführern des Lagers auf, das sie als Mann sieht.",
-      "url": "https://www.zeit.de/sport/2024-08/imane-khelif-boxerin-geschlecht-klage-j-k-rowling-elon-musk",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-08/imane-khelif-boxerin-geschlecht-klage-j-k-rowling-elon-musk-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Menstruationsprodukte : Steuersenkung für Hygieneprodukte kommt nicht bei Menschen an",
-      "teaser": "Auf Steuersenkungen für Binden und Tampons reagierten Hersteller mit Preiserhöhungen auf ähnliche Produkte. So verpufften die finanziellen Entlastungen, sagen Forscher.",
-      "url": "https://www.zeit.de/gesellschaft/2024-08/tampon-binde-menstruation-mehrwertsteuer"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Bundeshaushalt : Das steht heute auf dem Spiel",
-      "teaser": "Noch immer fehlen im Haushaltsplan Milliarden, sagt der Finanzminister. Der Bundeskanzler hält dagegen. Was stimmt nun? Und droht jetzt ein Koalitionsbruch?",
-      "url": "https://www.zeit.de/politik/deutschland/2024-08/bundeshaushalt-christian-lindner-olaf-scholz-ampelkoalition-haushaltsstreit",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-08/bundeshaushalt-christian-lindner-olaf-scholz-ampelkoalition-haushaltsstreit-bild/square__500x500"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Elon Musk • Das Beste aus Z+ : Der Kaiser ist schon lange nackt",
-      "teaser": "Als Genie gefeiert, hetzt Elon Musk gegen Minderheiten und ruft zur Wahl Donald Trumps auf. Wer davon überrascht ist, hat vorher nicht genau genug hingeschaut.",
-      "url": "https://www.zeit.de/digital/2024-08/elon-musk-radikalisierung-minderheiten-donald-trump",
-      "image_url": "https://img.zeit.de/digital/2024-08/elon-musk-radikalisierung-minderheiten-donald-trump-x/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Wolf Biermann : \"Wagenknecht und Höcke sind das politische Brautpaar der Stunde\"",
@@ -168,22 +146,52 @@
       "image_url": "https://img.zeit.de/politik/deutschland/2024-08/wolf-biermann-ostdeutschland-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Hitze • Das Beste aus Z+ : Ein Sommernachtsalbtraum",
-      "teaser": "Schlecht geschlafen? Womöglich liegt das an der Temperatur. Gefährlich warme Nächte über 20 Grad Celsius häufen sich. Wie man die Hitze lindert.",
-      "url": "https://www.zeit.de/wissen/umwelt/2024-08/hitze-schlaf-wetter-tropennaechte-klimawandel",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2024-08/hitze-schlaf-wetter-tropennaechte-2/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Algerische Boxerin : J. K. Rowling und Elon Musk tauchen in Klage von Imane Khelif auf",
+      "teaser": "Die Boxerin Khelif beklagt Mobbing in der Onlinedebatte über ihr Geschlecht. In ihrer Klage tauchen Namen von Wortführern des Lagers auf, das sie als Mann sieht.",
+      "url": "https://www.zeit.de/sport/2024-08/imane-khelif-boxerin-geschlecht-klage-j-k-rowling-elon-musk",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-08/imane-khelif-boxerin-geschlecht-klage-j-k-rowling-elon-musk-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Extreme Temperaturen : Hitze gefährdet vor allem Kinder und Schwangere",
-      "teaser": "Heiße Tage machen zwei Gruppen besonders zu schaffen: Unicef warnt vor Hitzestress für Kinder und Schwangere. Temperaturen über 35 Grad treten immer häufiger auf.",
-      "url": "https://www.zeit.de/wissen/umwelt/2024-08/unicef-analyse-hitze-gefahr-kinder-schwangere",
-      "image_url": "https://img.zeit.de/wissen/2024-08/unicef-hitze-gefahr-kinder-schwangere-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Sozialarbeiterin : \"In einer Nacht brauchte ich selbst den sozial­psychiatrischen Dienst\"",
+      "teaser": "Adriana wollte unbedingt Sozialarbeiterin werden. Doch schon bei der ersten Stelle wurde ihr klar, dass der Beruf sie krank macht. Sie kündigte für einen Schreibtischjob.",
+      "url": "https://www.zeit.de/arbeit/2024-07/sozialarbeiterin-beruf-belastung-krankheit-neuanfang",
+      "image_url": "https://img.zeit.de/arbeit/2024-07/sozialarbeiterin-beruf-belastung-krankheit/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Waldbrände in Griechenland : Mit Gartenschläuchen gegen die Feuerfront",
+      "teaser": "Sommer für Sommer wüten Waldbrände in Griechenland. Die Regierung weist die Verantwortung von sich – und verweist auf den Klimawandel. Doch die Menschen sind wütend.",
+      "url": "https://www.zeit.de/gesellschaft/2024-08/griechenland-waldbraende-marathon-penteli",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-08/griechenland-waldbraende-marathon-penteli-teaser/wide__892x501"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Griechenland : Großbrand nahe Athen nach drei Tagen gelöscht",
       "teaser": "Tagelang hatte in der Nähe von Athen eine Fläche von rund 100 Quadratkilometern gebrannt. Jetzt ist das Feuer gelöscht, und die Suche nach der Brandursache beginnt.",
       "url": "https://www.zeit.de/wissen/umwelt/2024-08/athen-grossbrand-geloescht-brandursache",
       "image_url": "https://img.zeit.de/gesellschaft/2024-08/grossbrand-nahe-athen/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Ukrainekarte aktuell : Ukraine rückt in weitere Siedlung in russischer Grenzregion vor",
+      "teaser": "Ukrainische Truppen sind bis zu 30 Kilometer tief in russischem Territorium aktiv. Russland rückt derweil weiter im Osten der Ukraine vor.",
+      "url": "https://www.zeit.de/politik/ausland/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen-teaserbild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); CSD in Bautzen : Wo die Regenbogenfahne brennt",
+      "teaser": "In Bautzen gelingt es Neonazis, den Christopher Street Day zu stören. Sie halten Reichsflaggen hoch, skandieren rechte Parolen. Kritik gibt es an Innenminister Schuster.",
+      "url": "https://www.zeit.de/2024/35/csd-bautzen-sachsen-rechtsextremismus-neonazis-polizei",
+      "image_url": "https://img.zeit.de/2024/35/wo-die-regenbogenfahne-brennt-bild-1/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Bundeshaushalt : Das steht heute auf dem Spiel",
+      "teaser": "Noch immer fehlen im Haushaltsplan Milliarden, sagt der Finanzminister. Der Bundeskanzler hält dagegen. Was stimmt nun? Und droht jetzt ein Koalitionsbruch?",
+      "url": "https://www.zeit.de/politik/deutschland/2024-08/bundeshaushalt-christian-lindner-olaf-scholz-ampelkoalition-haushaltsstreit",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-08/bundeshaushalt-christian-lindner-olaf-scholz-ampelkoalition-haushaltsstreit-bild/square__500x500"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Menstruationsprodukte : Steuersenkung für Hygieneprodukte kommt nicht bei Menschen an",
+      "teaser": "Auf Steuersenkungen für Binden und Tampons reagierten Hersteller mit Preiserhöhungen auf ähnliche Produkte. So verpufften die finanziellen Entlastungen, sagen Forscher.",
+      "url": "https://www.zeit.de/gesellschaft/2024-08/tampon-binde-menstruation-mehrwertsteuer",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-08/tampon-binde-menstruation-mehrwertsteuer-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Berufsabschlüsse : So gebildet sind die Menschen in Ihrer Region",
@@ -204,6 +212,12 @@
       "image_url": "https://img.zeit.de/arbeit/2024-07/rentenbescheid-gehalt-pension/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Thailand : Thailands Verfassungsgericht setzt Ministerpräsidenten ab",
+      "teaser": "Der thailändische Ministerpräsident hatte einen vorbestraften Politiker zum Minister ernannt. Nun stimmten die Richter für die Amtsenthebung von Sretta Thavisin.",
+      "url": "https://www.zeit.de/politik/ausland/2024-08/thailand-regierungschef-srettha-thavisin-amtsenthebung",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-08/thailand-regierungschef-srettha-thavisin-amtsenthebung-bild/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Präsidentschaftswahl in Venezuela : Wahl in Venezuela laut UN weder transparent noch rechtskonform",
       "teaser": "UN-Wahlbeobachter kritisieren die Wahlkommission in Venezuela. Die Wahl habe nicht Transparenzmaßnahmen entsprochen, die Behörde habe sich nicht an das Recht gehalten.",
       "url": "https://www.zeit.de/politik/ausland/2024-08/venezuela-wahl-un-bericht",
@@ -216,10 +230,22 @@
       "image_url": "https://img.zeit.de/wirtschaft/2024-08/niedersachsen-erdgas-nordsee-borkum-niederlande-bild/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); FC Como : Und auf dem Stadiondach ein Pool",
+      "teaser": "Der FC Como war bis vor Kurzem ein Provinzclub. Nun spielt er in der höchsten italienischen Liga. Sein indonesischer Besitzer hat noch viel Größeres mit dem Verein vor.",
+      "url": "https://www.zeit.de/2024/34/fc-como-fussballclub-aufstieg-serie-a-italien",
+      "image_url": "https://img.zeit.de/2024/34/und-auf-dem-stadiondach-ein-pool-teaserbild/wide__892x501"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Italien : Wandmalerei für italienische Gold-Volleyballerin rassistisch bemalt",
       "teaser": "Unbekannte haben in Rom ein Wandbild zu Ehren der italienischen Volleyballspielerin Paola Egonu beschmiert. Die Haut der schwarzen Sportlerin wurde rosa übermalt.",
       "url": "https://www.zeit.de/sport/2024-08/rom-wandmalerei-paola-egonu-rassismus",
       "image_url": "https://img.zeit.de/sport/2024-08/volleyballerin-paola-egonu-wandmalerei-rassismus/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Extreme Temperaturen : Hitze gefährdet vor allem Kinder und Schwangere",
+      "teaser": "Heiße Tage machen zwei Gruppen besonders zu schaffen: Unicef warnt vor Hitzestress für Kinder und Schwangere. Temperaturen über 35 Grad treten immer häufiger auf.",
+      "url": "https://www.zeit.de/wissen/umwelt/2024-08/unicef-analyse-hitze-gefahr-kinder-schwangere",
+      "image_url": "https://img.zeit.de/wissen/2024-08/unicef-hitze-gefahr-kinder-schwangere-bild/super__320x213"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Kita-Qualitätsgesetz : Bundesregierung will Milliarden für Kitas bereitstellen",
@@ -264,12 +290,6 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-08/thomas-kwoyelo-verurteilung-lra-kommandeur-verurteilung-bild/super__320x213"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Slowakei : Tausende protestieren in Bratislava gegen slowakische Regierung",
-      "teaser": "Die slowakische Kulturministerin wettert gegen \"Genderwahn\" und eine \"LGBT-Agenda\". Demonstranten in Bratislava fordern nun ihren Rücktritt.",
-      "url": "https://www.zeit.de/politik/ausland/2024-08/slowakei-demonstration-opposition-kulturministerin",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-08/slowakei-demonstration-opposition-kulturministerin-bild/super__320x213"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); \"The Bear\" : So nicht, Chef",
       "teaser": "Abermals kreist \"The Bear\" in seiner dritten Staffel um problematische Arbeitsumfelder und -weisen. Dabei greift das Küchendrama selbst auf einen faulen TV-Trick zurück.",
       "url": "https://www.zeit.de/kultur/film/2024-08/the-bear-disney-dritte-staffel-jeremy-allen-white",
@@ -294,20 +314,22 @@
       "image_url": "https://img.zeit.de/administratives/2024-01/collage-fragen-sie-zon-20240125/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Sozialarbeiterin : \"In einer Nacht brauchte ich selbst den sozial­psychiatrischen Dienst\"",
+      "teaser": "Adriana wollte unbedingt Sozialarbeiterin werden. Doch schon bei der ersten Stelle wurde ihr klar, dass der Beruf sie krank macht. Sie kündigte für einen Schreibtischjob.",
+      "url": "https://www.zeit.de/arbeit/2024-07/sozialarbeiterin-beruf-belastung-krankheit-neuanfang",
+      "image_url": "https://img.zeit.de/arbeit/2024-07/sozialarbeiterin-beruf-belastung-krankheit/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Wolf Biermann : \"Wagenknecht und Höcke sind das politische Brautpaar der Stunde\"",
+      "teaser": "Kurz vor den Landtagswahlen rechnet der Liedermacher Wolf Biermann mit dem Osten ab. Höcke und Wagenknecht nennt er Erben von Hitler und Stalin.",
+      "url": "https://www.zeit.de/kultur/2024-08/wolf-biermann-ostdeutschland-sahra-wagenknecht-afd-interview"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Immobilienmarkt : Kaufen ist klug, Mieten ist dumm? Keineswegs",
       "teaser": "Wer mietet, verbrennt Geld, heißt es. Doch so einfach ist es nicht. Oft hat am Ende derjenige mehr Vermögen, der auf den Kauf verzichtet. Worauf es dabei ankommt.",
       "url": "https://www.zeit.de/geld/2024-08/immobilienmarkt-wohnung-mieten-kaufen-vermoegen",
-      "image_url": "https://img.zeit.de/geld/2024-08/immobilienmarkt-wohnung-mieten-kaufen/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Sozialarbeiterin : \"In einer Nacht brauchte ich selbst den sozial­psychiatrischen Dienst\"",
-      "teaser": "Adriana wollte unbedingt Sozialarbeiterin werden. Doch schon bei der ersten Stelle wurde ihr klar, dass der Beruf sie krank macht. Sie kündigte für einen Schreibtischjob.",
-      "url": "https://www.zeit.de/arbeit/2024-07/sozialarbeiterin-beruf-belastung-krankheit-neuanfang"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Elon Musk und Donald Trump : Sie brauchen sich gegenseitig",
-      "teaser": "Elon Musk lud Donald Trump zum öffentlichen Gespräch, bei dem vor allem gelogen und geprahlt wurde. Und dennoch wurde klar: Beide sehen gerade ziemlich alt aus.",
-      "url": "https://www.zeit.de/kultur/2024-08/elon-musk-donald-trump-interview-x"
+      "image_url": "https://img.zeit.de/autoren/K/Thomas_Kehl/thomas-kehl/square__46x46",
+      "image_title": "Thomas Kehl"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Nord Stream : Ist das Rätsel um den Ostseeanschlag gelöst?",
@@ -316,14 +338,14 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-07/nordstream-anschlag-ermittlungen-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Sommerferien : Brauchen wir andere Sommerferien?",
-      "teaser": "Hitzerekorde, Overtourism, Stress: Vielleicht ist es Zeit, die großen Ferien abzuschaffen – und was anderes auszuprobieren. Wie sehen das die, die darüber entscheiden?",
-      "url": "https://www.zeit.de/entdecken/2024-08/sommerferien-hitze-tourismus-mittelmeer"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Wolf Biermann : \"Wagenknecht und Höcke sind das politische Brautpaar der Stunde\"",
       "teaser": "Kurz vor den Landtagswahlen rechnet der Liedermacher Wolf Biermann mit dem Osten ab. Höcke und Wagenknecht nennt er Erben von Hitler und Stalin.",
       "url": "https://www.zeit.de/kultur/2024-08/wolf-biermann-ostdeutschland-sahra-wagenknecht-afd-interview"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Unwetter : Hochwasser in mehreren Städten, Zug kollidiert mit umgestürztem Baum",
+      "teaser": "Nach starkem Regen ist es zu Schäden und Unfällen in mehreren Bundesländern gekommen. Autos wurden weggespült, der Bahnverkehr ist gestört, ein Pflegeheim wurde geräumt.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-08/unwetter-regen-hagel-ueberflutungen-bayern-nordrhein-westfalen-baden-wuerttemberg-niedersachen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Nord Stream : Ist das Rätsel um den Ostseeanschlag gelöst?",
@@ -636,18 +658,18 @@
       "image_url": "https://img.zeit.de/politik/deutschland/2024-08/buergergeld-fdp-sozialpolitik-armut/super__430x286"
     },
     {
-      "title": "Decoupling von Peking? : Warum die Unternehmen keine Abkehr von China wollen",
-      "teaser": "Europa und die USA versuchen ihre Wirtschaft unabhängiger vom bedrohlichen Partner China zu machen. Doch nun zeigt sich: Die Unternehmen ziehen gar nicht mit.",
-      "url": "https://www.wiwo.de/unternehmen/auto/decoupling-von-peking-warum-die-unternehmen-keine-abkehr-von-china-wollen/29943306.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/automesse-in-china/29944374/6-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
-      "image_title": "Warum die Unternehmen keine Abkehr von China wollen"
+      "title": "Arbeitsmarkt : „Es wird ein Fachkräftemangel beklagt, den es an vielen Stellen gar nicht gibt“",
+      "teaser": "Seit Jahren klagt die Wirtschaft über Fachkräftemangel, auf der anderen Seite steigen derzeit die Arbeitslosenzahlen auf lange nicht gekannte Höhen. Wie passt das zusammen? Was Betroffene und Recruiter sagen.",
+      "url": "https://www.wiwo.de/politik/deutschland/arbeitsmarkt-es-wird-ein-fachkraeftemangel-beklagt-den-es-an-vielen-stellen-gar-nicht-gibt/29937284.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/-/29937552/2-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
+      "image_title": "„Es wird ein Fachkräftemangel beklagt, den es an vielen Stellen gar nicht gibt“"
     },
     {
-      "title": "Krisenwährung : Ein Blick in die Geschichte zeigt, wie sicher Gold wirklich ist",
-      "teaser": "In Krisenzeiten gilt das Edelmetall Gold immer wieder als sicherer Gegenpol zu schwankenden Aktienkursen. Doch wie oft ist das wirklich der Fall? Ein Blick in die Geschichte gibt Antworten.",
-      "url": "https://www.wiwo.de/finanzen/geldanlage/krisenwaehrung-ein-blick-in-die-geschichte-zeigt-wie-sicher-gold-wirklich-ist/29943336.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/imago0707818758h/29943350/2-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
-      "image_title": "Ein Blick in die Geschichte zeigt, wie sicher Gold wirklich ist"
+      "title": "Rettungsversuch gescheitert : Weltbild stellt den Geschäftsbetrieb ein",
+      "teaser": "Der Versuch, den insolventen Buchhändler Weltbild zu verkaufen, ist gescheitert. Nun naht das Ende des Unternehmens mit 440 Mitarbeitern: Der Betrieb wird abgewickelt, der Räumungsverkauf beginnt. Was lief da schief?",
+      "url": "https://www.wiwo.de/unternehmen/handel/rettungsversuch-gescheitert-weltbild-stellt-den-geschaeftsbetrieb-ein/29944900.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/weltbild_filiale1_klein/29944844/3-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
+      "image_title": "Weltbild stellt den Geschäftsbetrieb ein"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); TikTok : Eine Woche im Männer-Fascho-Algo",
@@ -698,16 +720,16 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-07/thumbnail-drohnenkrieg/wide__892x501"
     },
     {
-      "title": "Fumio Kishida : Japans Regierungschef tritt überraschend zurück",
-      "teaser": "Fumio Kishida gibt das Amt des Ministerpräsidenten Japans auf. Seine Umfragewerte sind schlecht, zudem geriet die Regierung 2023 wegen einer Spendenaffäre in die Kritik.",
-      "url": "https://www.zeit.de/video/2024-08/6360395660112/fumio-kishida-japans-regierungschef-tritt-ueberraschend-zurueck",
-      "image_url": "https://img.zeit.de/video/2024-08/6360395660112-still/super__430x286"
+      "title": "Krieg in der Ukraine : Ukraine meldet Einnahme von über 70 Ortschaften in Russland",
+      "teaser": "Laut Präsident Selenskyj haben ukrainische Streitkräfte über 70 Orte in der russischen Region Kursk eingenommen. Man wolle die Gebiete aber nicht dauerhaft besetzen.",
+      "url": "https://www.zeit.de/video/2024-08/6360406725112/krieg-in-der-ukraine-ukraine-meldet-einnahme-von-ueber-70-ortschaften-in-russland",
+      "image_url": "https://img.zeit.de/video/2024-08/6360406725112-still/super__430x286"
     },
     {
-      "title": "Dresden : Teil gestohlener Juwelen wieder im Grünen Gewölbe ausgestellt",
-      "teaser": "Drei Jahre nach dem Einbruch in das Grüne Gewölbe in Dresden hatten die Diebe Teile der Beute zurückgegeben. Die Stücke sind nun wieder in der Museumssammlung zu sehen.",
-      "url": "https://www.zeit.de/video/2024-08/6360367608112/dresden-teil-gestohlener-juwelen-wieder-im-gruenen-gewoelbe-ausgestellt",
-      "image_url": "https://img.zeit.de/video/2024-08/6360367608112-still/super__430x286"
+      "title": "Gaza : Biden hofft auf Waffenruhe zur Deeskalation in Nahost",
+      "teaser": "Vor Verhandlungen mit Israel hat US-Präsident Biden auf die Bedeutung einer Waffenruhe im Gazastreifen hingewiesen. Sie könne Iran von einem Vergeltungsschlag abhalten.",
+      "url": "https://www.zeit.de/video/2024-08/6360394092112/gaza-biden-hofft-auf-waffenruhe-zur-deeskalation-in-nahost",
+      "image_url": "https://img.zeit.de/video/2024-08/6360394092112-still/super__430x286"
     },
     {
       "title": "US-Wahlkampf : Elon Musk spricht mit Donald Trump auf X über das Attentat und den Ukrainekrieg",
@@ -807,16 +829,16 @@
       "image_url": "https://img.zeit.de/2024/34/abnehmspritzen-ozempic-hype/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Elon Musk • Das Beste aus Z+ : Der Kaiser ist schon lange nackt",
+      "teaser": "Als Genie gefeiert, hetzt Elon Musk gegen Minderheiten und ruft zur Wahl Donald Trumps auf. Wer davon überrascht ist, hat vorher nicht genau genug hingeschaut.",
+      "url": "https://www.zeit.de/digital/2024-08/elon-musk-radikalisierung-minderheiten-donald-trump",
+      "image_url": "https://img.zeit.de/digital/2024-08/elon-musk-radikalisierung-minderheiten-donald-trump-x/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Russisches Doppelgänger-Netzwerk : Demokratien destabilisieren? Ein ganz normaler Bürojob",
       "teaser": "Der Verfassungsschutz sah den russischen Tätern live dabei zu, wie sie ihre Falschinformationen verbreiteten. Deutschland war ihr wichtigstes Ziel.",
       "url": "https://www.zeit.de/digital/internet/2024-08/desinformation-doppelgaenger-russland-verfassungsschutz",
       "image_url": "https://img.zeit.de/2024-08/doppelgaenger-netzwerk-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Deutschland spricht\" 2024 : Das große Deutschland-Gespräch",
-      "teaser": "Migration, Ukrainekrieg, Verkehr: Vor den Wahlen im Osten driftet das Land in politischen Fragen auseinander. Debattieren Sie mit jemandem, der anders denkt als Sie!",
-      "url": "https://www.zeit.de/2024-08/deutschland-spricht-2024-debatte-meinungen-gespraech-streit-polarisierung",
-      "image_url": "https://img.zeit.de/politik/2024-08/deutschland-spricht-2024-teaser/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Streikrecht : US-Gewerkschaft reicht Beschwerde gegen Trump und Musk ein",
@@ -855,11 +877,11 @@
       "image_url": "https://img.zeit.de/gesellschaft/2024-08/jugendarbeitslosigkeit-deutschland-statistisches-bundesamt-bild/wide__892x501"
     },
     {
-      "title": "Verlagsangebot : Welcher Beruf passt zu mir?",
-      "teaser": "Was uns im Job von anderen unterscheidet, sind nicht nur unsere Fähigkeiten – erst die Persönlichkeit macht jeden einmalig. Der BOA Berufstest hilft, sie zu erkennen.",
-      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.teaser.boa-faeuste.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=boa-verlagsteaser&amp;utm_content=bot_teaser_boa-faeuste_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/boa-faeuste/wide__430x286__desktop",
-      "image_title": "Welcher Beruf passt zu mir?"
+      "title": "Verlagsangebot : Persönlichkeit als Door Opener",
+      "teaser": "Immer mehr Unternehmen setzen bei ihren Bewerbern auf die Persönlichkeit. Auf der Suche nach einem Job stellt der Berufstest die eigenen Stärken in den Mittelpunkt.",
+      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.textbild.frau-smartphone_dooropener.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=bot_textbild_frau-smartphone_dooropener_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-boa-index-teaser-1-klein/bruce-mars-fwvmhua-wby-unsplash.jpg",
+      "image_title": "Persönlichkeit als Door Opener"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Fai Phannarai Netisri : \"Mein Großvater hat mir beigebracht, nicht schwach zu sein\"",
@@ -928,36 +950,36 @@
       "image_url": "https://img.zeit.de/2024-08/fussballmanager-willi-lemke-gestorben-bild/super__430x286"
     },
     {
-      "title": "Trockenheit: Waldbrandgefahr in vielen Kreisen auf höchster Stufe",
-      "url": "https://www.zeit.de/news/2024-08/14/waldbrandgefahr-in-vielen-kreisen-auf-hoechster-stufe"
+      "title": "Brände: Einfamilienhaus und Waldstück brennen in Marienberg",
+      "url": "https://www.zeit.de/news/2024-08/14/einfamilienhaus-und-waldstueck-brennen-in-marienberg"
     },
     {
-      "title": "Stahlindustrie: Neuer Thyssenkrupp-Finanzchef lobt Arbeit von Stahlvorstand",
-      "url": "https://www.zeit.de/news/2024-08/14/neuer-thyssenkrupp-finanzchef-lobt-arbeit-von-stahlvorstand"
+      "title": "Fernsehen: Wolfgang Bahro spielt in «GZSZ»-Ableger «Uferpark» mit",
+      "url": "https://www.zeit.de/news/2024-08/14/wolfgang-bahro-spielt-in-gzsz-ableger-uferpark-mit"
     },
     {
-      "title": "Gewinnrückgang: Pfandbriefbank leidet weiter unter Gewerbeimmobilienflaute",
-      "url": "https://www.zeit.de/news/2024-08/14/pfandbriefbank-leidet-weiter-unter-gewerbeimmobilienflaute"
+      "title": "Energieversorgung: Facebook-Konzern Meta kauft Ökostrom von RWE",
+      "url": "https://www.zeit.de/news/2024-08/14/facebook-konzern-meta-kauft-oekostrom-von-rwe"
     },
     {
-      "title": "Fußball-Bundesliga: FC Augsburg verleiht Verteidiger Pfeiffer nach Bern",
-      "url": "https://www.zeit.de/news/2024-08/14/fc-augsburg-verleiht-verteidiger-pfeiffer-nach-bern"
+      "title": "Unwetter: DWD: Riesige Wassermengen in Bruchsal",
+      "url": "https://www.zeit.de/news/2024-08/14/dwd-riesige-wassermengen-in-bruchsal"
     },
     {
-      "title": "Familien: Zahl der Adoptionen geht weiter zurück",
-      "url": "https://www.zeit.de/news/2024-08/14/zahl-der-adoptionen-geht-weiter-zurueck"
+      "title": "Kriminalität: Angriff mit Stahlkappenschuhen - versuchter Totschlag?",
+      "url": "https://www.zeit.de/news/2024-08/14/angriff-mit-stahlkappenschuhen-versuchter-totschlag"
     },
     {
-      "title": "Unwetter: Unwetterartiger Regen in Oberschwaben erwartet",
-      "url": "https://www.zeit.de/news/2024-08/14/unwetterartiger-regen-in-oberschwaben-erwartet"
+      "title": "Raumfahrt: Erstmals könnte deutsche Frau ins Weltall fliegen",
+      "url": "https://www.zeit.de/news/2024-08/14/erstmals-koennte-deutsche-frau-ins-weltall-fliegen"
     },
     {
-      "title": "3. Liga: Hansa Rostock verstärkt Sturm mit Albin Berisha",
-      "url": "https://www.zeit.de/news/2024-08/14/hansa-rostock-verstaerkt-sturm-mit-albin-berisha"
+      "title": "Frauen-Fußball: Turbine Potsdam hofft auf Klassenerhalt - Suche nach Sponsor",
+      "url": "https://www.zeit.de/news/2024-08/14/turbine-potsdam-hofft-auf-klassenerhalt-suche-nach-sponsor"
     },
     {
-      "title": "Morgenwetter: Schwüle Luft und Unwetter in Rheinland-Pfalz und Saarland",
-      "url": "https://www.zeit.de/news/2024-08/14/schwuele-luft-und-unwetter-in-rheinland-pfalz-und-saarland"
+      "title": "Fußball: Ultras kritisieren DFL-Supercup als «Kirmespokal»",
+      "url": "https://www.zeit.de/news/2024-08/14/ultras-kritisieren-dfl-supercup-als-kirmespokal"
     }
   ]
 }
