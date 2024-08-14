@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-14T11:00:53",
+  "timestamp": "2024-08-14T12:11:10",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -38,7 +38,48 @@
       "image_title": ","
     },
     {
-      "title": "Visual Studio 2022 17.11 versieht GitHub Copilot mit neuen Features",
+      "title": "JavaLand 2025: Vorträge und Workshops für die Community-Konferenz gesucht",
+      "teaser": "Für die JavaLand-Konferenz am Nürburgring im April 2025 läuft der Call for Papers bis zum 25. September 2024.",
+      "url": "https://www.heise.de/news/JavaLand-2025-Vortraege-und-Workshops-fuer-die-Community-Konferenz-gesucht-9833717.html"
+    },
+    {
+      "title": "Ivanti schließt unter anderem Admin-Lücke in Virtual Traffic Manager",
+      "teaser": "Kritische Sicherheitslücken bedrohen Produkte von Ivanti. Noch sind keine Attacken bekannt. Noch sind nicht alle Updates verfügbar.",
+      "url": "https://www.heise.de/news/Ivanti-schliesst-unter-anderem-Admin-Luecke-in-Virtual-Traffic-Manager-9834538.html",
+      "image_title": "Stilisiertes Bild: Ein Stapel brennender Appliances"
+    },
+    {
+      "title": "Programmiersprache Go 1.23 erweitert Iteratoren und führt Telemetrie ein",
+      "teaser": "Die Standard-Library von Go erhält in Version 1.23 drei neue Pakete. Die Toolchain kann nun Telemetriedaten weitergeben. Außerdem kommen Generic Type Aliases.",
+      "url": "https://www.heise.de/news/Programmiersprache-Go-1-23-erweitert-Iteratoren-und-fuehrt-Telemetrie-ein-9834099.html",
+      "image_title": "Ein Laptop mit Code, dahinter ein \"Gopher\" (Taschenratte) für das Maskottchen der Sprache"
+    },
+    {
+      "title": "Kubernetes 1.31 setzt neue Maßstäbe hinsichtlich Skalierbarkeit und Sicherheit",
+      "teaser": "Mit Version 1.31 legt die Kubernetes-Community den Fokus auf mehr Flexibilität und Sicherheit. Das Projekt feiert 10-jähriges Bestehen.",
+      "url": "https://www.heise.de/news/Kubernetes-1-31-Ueberarbeitete-Skalierbarkeit-erweiterte-Sicherheitsfunktionen-9834281.html",
+      "image_title": "Container in Hafen"
+    },
+    {
+      "title": "\"Passwort\" Folge 10: Nordkoreas digitale Armeen",
+      "teaser": "Von Sony-Hack bis Wannacry: Nordkorea mischt fleißig im internationalen Cybercrime mit. Die Podcast-Hosts schauen hinter die Kulissen des abgeschotteten Staats.",
+      "url": "https://www.heise.de/news/Passwort-Folge-10-Nordkoreas-digitale-Armeen-9819831.html",
+      "image_title": "Bild vom heise-Security-Podcast"
+    },
+    {
+      "title": "Trends in Rechenzentren: Vmware-Umbau macht Devirtualisierung interessant",
+      "teaser": "Marktforscher haben einen neuen Trend im RZ ausgemacht: Devirtualisierung, also die Migration auf physische Ressourcen. Das sei Antwort auf Broadcom und VMware.",
+      "url": "https://www.heise.de/news/Gartner-Broadcoms-VMware-Lizenzpolitik-schafft-Trend-zur-Devirtualisierung-9834571.html",
+      "image_title": "Rechenzentrum"
+    },
+    {
+      "title": "Expansion-Board für Teensy 4.1",
+      "teaser": "USB-Ports, Ethernet und Steckerleisten für Projekte: Mit diesem Open-Source-Board kann man das Teensy 4.1-IO leichter nutzen.",
+      "url": "https://www.heise.de/news/Expansion-Board-fuer-Teensy-4-1-9834581.html",
+      "image_title": "Das Board ist frontal zu sehen. Zu sehen sind USB, LAN und Audioanschluss."
+    },
+    {
+      "title": "Entwicklungsumgebung Visual Studio 2022 17.11 legt den Fokus auf User-Feedback",
       "teaser": "Die Release Notes zeigen nun auf einen Blick, welche Community-Wünsche umgesetzt wurden. Updates gibt es für GitHub Copilot, Debugging und mehr.",
       "url": "https://www.heise.de/news/Visual-Studio-2022-17-11-versieht-GitHub-Copilot-mit-neuen-Features-9834495.html",
       "image_title": "Roboterarm hält mit dem Zeigefinger eine Glühbirne"
@@ -82,47 +123,6 @@
       "teaser": "Es sind wichtige Sicherheitsupdates für verschiedene Microsoft-Produkte erschienen. Aufgrund von laufenden Attacken sollten Admins zügig handeln.",
       "url": "https://www.heise.de/news/Patchday-Microsoft-Angreifer-attackieren-Office-und-Windows-mit-Schadcode-9834085.html",
       "image_title": "Windows-Logo mit Flecken und der Aufschrift \"Patchday\""
-    },
-    {
-      "title": "Tipp: Gelöschte Notizinhalte wiederherstellen",
-      "teaser": "Viele Nutzer verwenden Apples Notizen-App auf iPhone, iPad oder Mac, um Gedanken oder Ideen zu sammeln. Doch was tun, wenn man Inhalte aus Versehen löscht?",
-      "url": "https://www.heise.de/ratgeber/Tipp-Geloeschte-Notizinhalte-wiederherstellen-9833661.html",
-      "image_title": "Icon von Apples Notizen-App"
-    },
-    {
-      "title": "Null Problemo: Bessere Null-Checks in Java mit JSpecify",
-      "teaser": "Das Open-Source-Projekt JSpecify zielt auf einheitlichen Standard für Null-Annotationen in Java. Beteiligt sind Firmen wie Google, JetBrains und Microsoft.",
-      "url": "https://www.heise.de/blog/Null-Problemo-Bessere-Null-Checks-in-Java-mit-JSpecify-9820606.html",
-      "image_title": "Ein Wecker, der vor \"Null\" warnt"
-    },
-    {
-      "title": "Mein Scrum ist kaputt #128: Jobs to be Done",
-      "teaser": "Ina Einemann und Sebastian Bauer sprechen mit ihrem Gast Martin Betz über die Anwendung der JTBD-Methode und wie sich damit bessere Produkte erstellen lassen.",
-      "url": "https://www.heise.de/blog/Mein-Scrum-ist-kaputt-128-Jobs-to-be-Done-9832164.html",
-      "image_title": "Mein Scrum ist kaputt, Folge 113"
-    },
-    {
-      "title": "Mastering Microservices: Schneller, flexibler, skalierbarer und sicherer!",
-      "teaser": "Die Onlinekonferenz am 29. Oktober liefert Softwarearchitekten und Developern praxisnahes Know-how zum Meistern von Microservices-Architekturen.",
-      "url": "https://www.heise.de/news/Mastering-Microservices-Schneller-flexibler-skalierbarer-und-sicherer-9829062.html",
-      "image_title": "Online-Konferenz Mastering Microservices"
-    },
-    {
-      "title": "Google Gemini zieht in Android- und iOS-Geräte ein – samt Live-Funktion",
-      "teaser": "Googles Gemini ersetzt den Sprachassistenten. Die KI kann in Echtzeit kommunizieren, den Bildschirm sehen und auf Apps zugreifen.",
-      "url": "https://www.heise.de/news/Google-Gemini-zieht-in-Android-und-iOS-Geraete-ein-samt-Live-Funktion-9834081.html"
-    },
-    {
-      "title": "Bit-Rauschen, der Prozessor-Podcast: Ist der AMD Ryzen AI 300 ein ARM-Killer?",
-      "teaser": "AMDs neue Zen-5-CPU Ryzen AI 300 kontert die neuen ARM-Chips für Windows-Notebooks. Ob das gelingt, verrät Folge 2024/17 des Podcast Bit-Rauschen.",
-      "url": "https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-Ist-der-AMD-Ryzen-AI-300-ein-ARM-Killer-9832478.html",
-      "image_title": "Logo von Bit-Rauschen - der Prozessor-Podcast von c’t"
-    },
-    {
-      "title": "Cybercrime mit Angler Exploit-Kit: Bandenführer kommt in den USA vor Gericht",
-      "teaser": "Fast 10 Jahre lang wurden die Cyberkriminellen hinter dem Exploit-Kit Angler gesucht. Jetzt wird der Anführer der Bande in den USA vor Gericht gestellt.",
-      "url": "https://www.heise.de/news/Cybercrime-mit-Angler-Exploit-Kit-Bandenfuehrer-kommt-in-den-USA-vor-Gericht-9834061.html",
-      "image_title": "Person wird verhaftet"
     },
     {
       "title": "PUR Managed Services 2024",
