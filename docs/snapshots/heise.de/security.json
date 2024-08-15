@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-15T07:00:53",
+  "timestamp": "2024-08-15T08:09:00",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "IBM",
+      "url": "https://www.heise.de/news/IBM-Entwickler-schliessen-Schadcode-Luecken-in-AIX-und-App-Connect-9835678.html"
+    },
+    {
       "title": "Ivanti Virtual Traffic Manager",
       "url": "https://www.heise.de/news/Ivanti-schliesst-unter-anderem-Admin-Luecke-in-Virtual-Traffic-Manager-9834538.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Patchday-Microsoft-Angreifer-attackieren-Office-und-Windows-mit-Schadcode-9834085.html"
     },
     {
-      "title": "Patchday SAP",
-      "url": "https://www.heise.de/news/Patchday-Angreifer-koennen-SAP-BusinessObjects-kompromittieren-9833482.html"
+      "title": "IBM-Entwickler schließen Schadcode-Lücken in AIX und App Connect",
+      "teaser": "Unternehmen mit IBM-Software sollten ihre Systeme aus Sicherheitsgründen auf den aktuellen Stand bringen.",
+      "url": "https://www.heise.de/news/IBM-Entwickler-schliessen-Schadcode-Luecken-in-AIX-und-App-Connect-9835678.html",
+      "image_title": "Tastatur"
     },
     {
       "title": "Bundestrojaner: BKA soll in Wohnungen einbrechen und so IT ausspähen dürfen",
@@ -154,11 +160,6 @@
       "title": "Most Epic Fail: Crowdstrike-Präsident nimmt Pwnie Award persönlich entgegen",
       "teaser": "Elf Pwnie Awards für bemerkenswerte Bugs, Hacks, Exploits oder Fehlleistungen. Crowdstrike gab zu, \"schlimm versagt\" zu haben.",
       "url": "https://www.heise.de/news/Most-Epic-Fail-Crowdstrike-Praesident-nimmt-Pwnie-Award-persoenlich-entgegen-9831647.html"
-    },
-    {
-      "title": "VPN-Clients und Passwortmanager betroffen: Klartextpasswort im Prozessspeicher",
-      "teaser": "Wegen einer Lücke unter anderem in VPN-Clients und Passwortmanagern bleiben vertrauliche Daten auch nach Abmeldung im Prozess-Speicher und sind auslesbar.",
-      "url": "https://www.heise.de/news/Schwere-Luecke-bei-kritischen-Anwendungen-Klartextpasswoerter-im-Prozessspeicher-9830774.html"
     },
     {
       "title": "Microsoft Cloud Security",
