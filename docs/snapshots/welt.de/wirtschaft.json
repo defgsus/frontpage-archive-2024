@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-15T00:28:59",
+  "timestamp": "2024-08-15T01:50:26",
   "url": "https://www.welt.de/wirtschaft/",
   "response": {
     "status": 200
@@ -25,6 +25,13 @@
     }
   ],
   "articles": [
+    {
+      "title": "US-Justiz befürwortet Vergleich mit Boeing, Familien der Todesopfer fordern höhere Strafen",
+      "teaser": "Boeing hat einem Vergleich zugestimmt und bekennt sich wegen krimineller Verschwörung zum Betrug schuldig. Angehörige der 346 Todesopfer der 737-MAX-Abstürze in Indonesien 2018 und Äthiopien 2019 lehnen die Einigung aber ab. Das US-Justizministerium spricht von einer „starken Lösung“.",
+      "url": "https://www.welt.de/wirtschaft/",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile253013822/3377932557-ci23x11-w20/BOEING-737-MAX-FAA.jpg",
+      "image_title": "Eine Boeing 737 MAX"
+    },
     {
       "title": "USA brummen T-Mobile Rekordstrafe wegen Datenleck auf",
       "teaser": "T-Mobile hat den US-Rivalen Sprint im Jahr 2020 übernommen. Danach kam es zu Technik-Problemen, in deren Folge Kundendaten in die Hände von Strafverfolgungsbehörden gekommen sind. Ein US-Ausschuss verhängt nun gegen die amerikanische Telekom-Tochter ein Bußgeld in nie dagewesener Höhe.",
@@ -71,13 +78,6 @@
       "image_url": "https://img.welt.de/img/wirtschaft/mobile253003652/2777936037-ci23x11-w20/430004332.jpg",
       "image_title": "430004332",
       "author": "Stefan Beutelsbacher"
-    },
-    {
-      "title": "Deutschlands Wirtschaftsschwäche sei hartnäckiger als gedacht, sagt Habeck",
-      "teaser": "Das Bruttoinlandsprodukt ist im zweiten Quartal geschrumpft. Der Wirtschaftsminister verweist auf die Abhängigkeit von China und fehlende Investitionen. „Mit einem Fingerschnipp“ ließe sich das nicht beenden.",
-      "url": "https://www.welt.de/wirtschaft/",
-      "image_url": "https://img.welt.de/img/bildergalerien/mobile253001316/2117932047-ci23x11-w20/Bundeswirtschaftsminister-Habeck-besucht-Niedersachsen.jpg",
-      "image_title": "Robert Habeck beim Besuch einer modernisierten Umspannungslage in Niedersachsen"
     },
     {
       "title": "Teuerungsrate fällt im Juli auf 2,9 Prozent",
@@ -262,6 +262,10 @@
       "url": "https://www.welt.de/wirtschaft/",
       "image_url": "https://img.welt.de/img/wirtschaft/mobile235813724/3920249907-ci16x9-w20/20211221-DWO-Champagne-Exports-STAT-jpg.jpg",
       "image_title": "Kein alternativer Text für dieses Bild vorhanden"
+    },
+    {
+      "title": "US-Justiz befürwortet Vergleich mit Boeing, Familien der Todesopfer fordern höhere Strafen",
+      "url": "https://www.welt.de/wirtschaft/article253013820/Boeing-US-Justiz-befuerwortet-Vergleich-wegen-737-MAX-Ungluecken.html"
     },
     {
       "title": "USA brummen T-Mobile Rekordstrafe wegen Datenleck auf",
@@ -452,10 +456,6 @@
       "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article252972994/Superprodukt-Made-in-Germany-Habeck-preist-die-Waermepumpe.html"
     },
     {
-      "title": "„Ich brauche einen Elon Musk“, macht Trump dem Unternehmer plötzlich Hoffnung",
-      "url": "https://www.welt.de/wirtschaft/article252972922/Elon-Musk-Ich-brauche-einen-Elon-Musk-macht-Donald-Trump-dem-Unternehmer-Hoffnung.html"
-    },
-    {
       "title": "Gasexperte: Preisanstieg kommt wohl nicht bei Haushalten an",
       "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article252972852/Gasexperte-Preisanstieg-kommt-wohl-nicht-bei-Haushalten-an.html"
     },
@@ -504,6 +504,14 @@
       "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article252937328/Gericht-untersagt-Kreuzfahrtreederei-irrefuehrende-Werbung.html"
     },
     {
+      "title": "„Ich brauche einen Elon Musk“, macht Trump dem Unternehmer plötzlich Hoffnung",
+      "teaser": "Das Gespräch zwischen Musk und Donald Trump auf X wurde von dessen Lager als Interview des Jahrhunderts angekündigt. Das eigentliche Spektakel fand aber schon zuvor statt. An einer Stelle brachte sich Musk sogar für einen besonderen Regierungsposten ins Spiel.",
+      "url": "https://www.welt.de/wirtschaft/",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile252972924/7057930237-ci23x11-w20/Former-U-S-President-Donald-Trump-speaks-as-he-participates-in-a.jpg",
+      "image_title": "Donald Trump spricht während des Live-Interviews mit Elon Musk in sein Smartphone, zuvor gab es technische Störungen",
+      "author": "Laurin Meyer"
+    },
+    {
       "title": "Deutschland zahlt fast doppelt so viel wie der Zweitplatzierte Frankreich",
       "teaser": "17,4 Milliarden Euro zahlte Deutschland zuletzt mehr in Richtung Brüssel, als es von dort bekam. Dieser Wert ist fast doppelt so hoch wie bei der Beitrag Frankreichs, allerdings geringer als im Vorjahr. Wer zahlt? Wer bekommt am meisten? Alle EU-Länder im Überblick.",
       "url": "https://www.welt.de/wirtschaft/",
@@ -541,14 +549,6 @@
       "image_url": "https://img.welt.de/img/wirtschaft/mobile252932458/7897933247-ci23x11-w20/Winterfest-am-Josephskreuz-2.jpg",
       "image_title": "Ein Feuer brennt vor dem Josephskreuz am Auerberg. Nach zweijähriger pandemiebedingter Pause wurde wieder das Winterfest veranstaltet. Zahlreiche unterhaltsame Spiele, eine gute Weitsicht von der Aussichtsetage und musikalische Unterhaltung wurde den Besuchern geboten. Das bekannte Bauwerk ist ein beliebtes Wander- und Ausflugsziel und überragt weithin sichtbar den Wald und dient als Aussichtsturm.",
       "author": "Daniel Wetzel"
-    },
-    {
-      "title": "Ende des Baunorm-Irrsinns? Warum das neue Gesetz in der Realität scheitern wird",
-      "teaser": "Durch das Gebäudetyp-E-Gesetz soll auf übertriebene Vorgaben verzichtet und Bauen günstiger werden. Experten zweifeln allerdings an den positiven Effekten. Es gebe einen entscheidenden Fehler. Private Bauherren sollten vor allem zwei Dinge beachten.",
-      "url": "https://www.welt.de/wirtschaft/plus252832138/Immobilien-Ende-des-Baunorm-Irrsinns-Warum-das-neue-Gesetz-in-der-Realitaet-scheitern-wird.html",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile252851730/5107933467-ci23x11-w20/Neubau-Doppelhaushaelften-in-Haar-bei-Muenchen.jpg",
-      "image_title": "Kein alternativer Text für dieses Bild vorhanden",
-      "author": "Michael Fabricius"
     }
   ]
 }
