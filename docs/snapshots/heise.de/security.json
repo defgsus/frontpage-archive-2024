@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-16T09:00:49",
+  "timestamp": "2024-08-16T10:01:42",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Zoom-Software",
+      "url": "https://www.heise.de/news/Zoom-schuetzt-Anwendungen-unter-Linux-macOS-und-Windows-vor-moeglichen-Attacken-9837232.html"
+    },
+    {
       "title": "F5 BIG-IP",
       "url": "https://www.heise.de/news/Sicherheitsupdates-F5-Angreifer-koennen-unbefugt-auf-BIG-IP-Appliances-zugreifen-9837040.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/IBM-Entwickler-schliessen-Schadcode-Luecken-in-AIX-und-App-Connect-9835678.html"
     },
     {
-      "title": "Ivanti Virtual Traffic Manager",
-      "url": "https://www.heise.de/news/Ivanti-schliesst-unter-anderem-Admin-Luecke-in-Virtual-Traffic-Manager-9834538.html"
+      "title": "Zoom schützt Anwendungen unter Linux, macOS und Windows vor möglichen Attacken",
+      "teaser": "Es sind wichtige Sicherheitsupdates für unter anderem Zoom Workplace und Rooms Client erschienen.",
+      "url": "https://www.heise.de/news/Zoom-schuetzt-Anwendungen-unter-Linux-macOS-und-Windows-vor-moeglichen-Attacken-9837232.html"
     },
     {
       "title": "Sicherheitsupdates F5: Angreifer können unbefugt auf BIG-IP-Appliances zugreifen",
@@ -157,11 +162,6 @@
       "title": "Kfz-Hacking: Echte Autos per Open-Source-Software in Rennsimulatoren verwandelt",
       "teaser": "Mittels Python und einem Raspberry Pi machen Doktoranden der Hochschule Darmstadt jedes moderne Auto zu einem Controller für PC-Rennspiele.",
       "url": "https://www.heise.de/news/Kfz-Hacking-Echte-Autos-per-Open-Source-Software-in-Rennsimulatoren-verwandelt-9832820.html"
-    },
-    {
-      "title": "Sicherheitslücken: Netzwerkmonitoringtool Zabbix kann Passwörter leaken",
-      "teaser": "Unter anderen eine kritische Schadcode-Lücke bedroht Zabbix. Dagegen abgesicherte Versionen stehen zum Download bereit.",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-Netzwerkmonitoringtool-Zabbix-kann-Passwoerter-leaken-9832311.html"
     },
     {
       "title": "Microsoft Cloud Security",
