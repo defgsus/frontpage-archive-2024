@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-18T10:00:56",
+  "timestamp": "2024-08-18T11:01:06",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "IBM App Connect Enterprise",
+      "url": "https://www.heise.de/news/Server-mit-IBM-App-Connect-Enterprise-koennen-nach-Attacke-abstuerzen-9838607.html"
+    },
+    {
+      "title": "Dovecot",
+      "url": "https://www.heise.de/news/Sicherheitspatch-Angreifer-koennen-Dovecot-Mail-Server-lahmlegen-9838592.html"
+    },
+    {
       "title": "Solarwinds Web Help Desk",
       "url": "https://www.heise.de/news/Jetzt-patchen-Schadcode-Attacken-auf-Solarwinds-Web-Help-Desk-beobachtet-9838566.html"
     },
@@ -40,12 +48,20 @@
       "url": "https://www.heise.de/news/Serverwartung-Angreifer-koennen-OpenBMC-Systeme-kompromittieren-9838546.html"
     },
     {
-      "title": "Zoom-Software",
-      "url": "https://www.heise.de/news/Zoom-schuetzt-Anwendungen-unter-Linux-macOS-und-Windows-vor-moeglichen-Attacken-9837232.html"
+      "title": "Server mit IBM App Connect Enterprise können nach Attacke abstürzen",
+      "teaser": "IBMs Integrationssoftware App Connect Enterprise ist über eine Sicherheitslücke angreifbar. Ein Sicherheitspatch steht zum Download bereit.",
+      "url": "https://www.heise.de/news/Server-mit-IBM-App-Connect-Enterprise-koennen-nach-Attacke-abstuerzen-9838607.html"
     },
     {
-      "title": "F5 BIG-IP",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-F5-Angreifer-koennen-unbefugt-auf-BIG-IP-Appliances-zugreifen-9837040.html"
+      "title": "Sicherheitspatch: Angreifer können Dovecot-Mail-Server lahmlegen",
+      "teaser": "Dovecot-IMAP-Server können sich an präparierten E-Mails verschlucken und in einem DoS-Zustand enden.",
+      "url": "https://www.heise.de/news/Sicherheitspatch-Angreifer-koennen-Dovecot-Mail-Server-lahmlegen-9838592.html"
+    },
+    {
+      "title": "iX-Workshop: Linux-Server vor Angriffen wirksam schützen",
+      "teaser": "Linux-Server und Netzwerkdienste effektiv und umfassend vor Angriffen schützen - von physischer Sicherheit über Verschlüsselung und 2FA bis hin zu SELinux.",
+      "url": "https://www.heise.de/news/iX-Workshop-Linux-Server-vor-Angriffen-wirksam-schuetzen-9830397.html",
+      "image_title": "iX-Workshop: Linux-Server härten"
     },
     {
       "title": "Jetzt patchen! Schadcode-Attacken auf Solarwinds Web Help Desk beobachtet",
@@ -142,24 +158,6 @@
       "title": "Elektronische Schließfächer in Hotels & Co. gehackt – Abhilfe nur schwer möglich",
       "teaser": "Sicherheitsforscher haben Schwachstellen in öffentlichen elektronischen Schließfächern entdeckt. Sie lassen sich entsperren und sensibler Daten berauben.",
       "url": "https://www.heise.de/news/Elektronische-Schliessfaecher-in-Hotels-Co-gehackt-Abhilfe-nur-schwer-moeglich-9834241.html"
-    },
-    {
-      "title": "iX-Workshop KRITIS: Zusätzliche Prüfverfahrenskompetenz für § 8a BSIG",
-      "teaser": "Erlangen Sie spezielle Prüfverfahrenskompetenz für § 8a BSIG; inklusive Abschlussprüfung und Zertifizierung.",
-      "url": "https://www.heise.de/news/iX-Workshop-KRITIS-Zusaetzliche-Pruefverfahrenskompetenz-fuer-8a-BSIG-9830161.html",
-      "image_title": "Online-Workshop: KRITIS – Zusätzliche Prüfverfahrenskompetenz für § 8a BSIG"
-    },
-    {
-      "title": "Patchday Adobe: Acrobat, Illustrator & Co. als Schlupfloch für Schadcode",
-      "teaser": "Adobe stuft mehrere Sicherheitslücken in seinen Produkten als kritisch ein. Sicherheitsupdates sind verfügbar.",
-      "url": "https://www.heise.de/news/Patchday-Adobe-Acrobat-Illustrator-Co-als-Schlupfloch-fuer-Schadcode-9834154.html",
-      "image_title": "Adobe-Logo mit Flecken und der Aufschrift \"Patchday\""
-    },
-    {
-      "title": "Patchday Microsoft: Angreifer attackieren Office und Windows mit Schadcode",
-      "teaser": "Es sind wichtige Sicherheitsupdates für verschiedene Microsoft-Produkte erschienen. Aufgrund von laufenden Attacken sollten Admins zügig handeln.",
-      "url": "https://www.heise.de/news/Patchday-Microsoft-Angreifer-attackieren-Office-und-Windows-mit-Schadcode-9834085.html",
-      "image_title": "Windows-Logo mit Flecken und der Aufschrift \"Patchday\""
     },
     {
       "title": "Kommentar zum CrowdStrike-Desaster: Mehr Verfügbarkeit wagen!",
