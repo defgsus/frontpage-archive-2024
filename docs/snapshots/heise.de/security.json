@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-18T09:00:48",
+  "timestamp": "2024-08-18T10:00:56",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Solarwinds Web Help Desk",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Schadcode-Attacken-auf-Solarwinds-Web-Help-Desk-beobachtet-9838566.html"
+    },
+    {
+      "title": "OpenBMC",
+      "url": "https://www.heise.de/news/Serverwartung-Angreifer-koennen-OpenBMC-Systeme-kompromittieren-9838546.html"
+    },
+    {
       "title": "Zoom-Software",
       "url": "https://www.heise.de/news/Zoom-schuetzt-Anwendungen-unter-Linux-macOS-und-Windows-vor-moeglichen-Attacken-9837232.html"
     },
@@ -40,15 +48,12 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-F5-Angreifer-koennen-unbefugt-auf-BIG-IP-Appliances-zugreifen-9837040.html"
     },
     {
-      "title": "Solarwinds Web Help Desk",
-      "url": "https://www.heise.de/news/Solwarwinds-Web-Help-Desk-Schadcode-kann-Host-System-infizieren-9835912.html"
+      "title": "Jetzt patchen! Schadcode-Attacken auf Solarwinds Web Help Desk beobachtet",
+      "teaser": "Angreifer nutzen derzeit eine kritische Schwachstelle Solarwinds Web Help Desk aus. Ein Sicherheitspatch ist verfügbar, kann aber mitunter für Probleme sorgen.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Schadcode-Attacken-auf-Solarwinds-Web-Help-Desk-beobachtet-9838566.html"
     },
     {
-      "title": "IBM",
-      "url": "https://www.heise.de/news/IBM-Entwickler-schliessen-Schadcode-Luecken-in-AIX-und-App-Connect-9835678.html"
-    },
-    {
-      "title": "Serverwartung: Angreifer können OpenBMC-Systeme kompromittieren",
+      "title": "Serverüberwachung: OpenBMC-Lücke bringt Systeme in Gefahr",
       "teaser": "Eine kritische Sicherheitslücke in der OpenBMC-Firmware gefährdet Computer. Ein Sicherheitspatch ist verfügbar.",
       "url": "https://www.heise.de/news/Serverwartung-Angreifer-koennen-OpenBMC-Systeme-kompromittieren-9838546.html"
     },
@@ -62,6 +67,12 @@
       "teaser": "Die TU Graz hat eine Vielzahl älterer und aktueller Smartphones auf bekannte Lücken untersucht. Kein Gerät nutzt alles, was der Kernel an Sicherheit bietet.",
       "url": "https://www.heise.de/news/Forscher-Smartphone-Hersteller-reizen-Sicherheit-des-Android-Kernels-nicht-aus-9838354.html",
       "image_title": "Stilisiertes Bild: Smartphone mit Android-Roboter auf dem Bildschirm, steht in Flammen"
+    },
+    {
+      "title": "Windows-Update legt erneut Linuxe lahm",
+      "teaser": "Mit den Windows-Updates vom 13. August booten verschiedene Linux-Installationsmedien nicht mehr. Das liegt an veralteten Bootloadern, die nun gesperrt wurden.",
+      "url": "https://www.heise.de/news/Windows-Update-legt-erneut-Linuxe-lahm-9838170.html",
+      "image_title": "Security-Mitarbeiter blockiert den Zugang"
     },
     {
       "title": "Zoom schützt Anwendungen unter Linux, macOS und Windows vor möglichen Attacken",
@@ -149,18 +160,6 @@
       "teaser": "Es sind wichtige Sicherheitsupdates für verschiedene Microsoft-Produkte erschienen. Aufgrund von laufenden Attacken sollten Admins zügig handeln.",
       "url": "https://www.heise.de/news/Patchday-Microsoft-Angreifer-attackieren-Office-und-Windows-mit-Schadcode-9834085.html",
       "image_title": "Windows-Logo mit Flecken und der Aufschrift \"Patchday\""
-    },
-    {
-      "title": "Cybercrime mit Angler Exploit-Kit: Bandenführer kommt in den USA vor Gericht",
-      "teaser": "Fast 10 Jahre lang wurden die Cyberkriminellen hinter dem Exploit-Kit Angler gesucht. Jetzt wird der Anführer der Bande in den USA vor Gericht gestellt.",
-      "url": "https://www.heise.de/news/Cybercrime-mit-Angler-Exploit-Kit-Bandenfuehrer-kommt-in-den-USA-vor-Gericht-9834061.html",
-      "image_title": "Person wird verhaftet"
-    },
-    {
-      "title": "Intel Core erhält Microsofts Sicherheitscontroller Pluton",
-      "teaser": "Der von Microsoft entwickelte \"Pluton\"-Controller steckt bereits in AMD- und Qualcomm-Chips ab Ryzen 6000 und Snapdragon X/8cx; bald zieht Intel nach.",
-      "url": "https://www.heise.de/news/Microsoft-Sicherheitscontroller-Pluton-kommt-auch-in-Intel-Core-9833911.html",
-      "image_title": "Konzept des Microsoft Pluton"
     },
     {
       "title": "Kommentar zum CrowdStrike-Desaster: Mehr Verfügbarkeit wagen!",
