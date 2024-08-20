@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-20T06:08:55",
+  "timestamp": "2024-08-20T07:00:45",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Ivanti Virtual Traffic Manager",
+      "url": "https://www.heise.de/news/Angriff-auf-Luecke-in-Ivanti-Virtual-Traffic-Manager-beobachtet-9840329.html"
+    },
+    {
       "title": "IBM App Connect Enterprise",
       "url": "https://www.heise.de/news/Server-mit-IBM-App-Connect-Enterprise-koennen-nach-Attacke-abstuerzen-9838607.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Schadcode-Attacken-auf-Solarwinds-Web-Help-Desk-beobachtet-9838566.html"
     },
     {
-      "title": "OpenBMC",
-      "url": "https://www.heise.de/news/Serverwartung-Angreifer-koennen-OpenBMC-Systeme-kompromittieren-9838546.html"
+      "title": "Exploit-Versuch auf Ivanti Virtual Traffic Manager-Lücke",
+      "teaser": "Für die kritische Lücke in Ivantis Virtual Traffic Manager (vTM) wurde ein ein Missbrauchsversuch beobachtet. Alle Patches sind nun verfügbar.",
+      "url": "https://www.heise.de/news/Angriff-auf-Luecke-in-Ivanti-Virtual-Traffic-Manager-beobachtet-9840329.html",
+      "image_title": "Stilisierte Grafik: Brennende Appliances im Netz"
     },
     {
       "title": "Österreichs Innenminister will Messenger ausspionieren",
@@ -155,12 +161,6 @@
       "image_title": "Jackie Niam"
     },
     {
-      "title": "USA: Drohende Klage wegen Datenleak, Milliarden personenbezogene Daten betroffen",
-      "teaser": "Ein Datenleck bei dem auf Hintergrundchecks spezialisierten Unternehmen National Public Data sorgt für Aufsehen. Ein Betroffener initiiert eine Sammelklage.",
-      "url": "https://www.heise.de/news/USA-Sammelklage-droht-wegen-Leak-von-2-9-Milliarden-Datensaetzen-9834202.html",
-      "image_title": "Hand tippt auf Tastatur"
-    },
-    {
       "title": "Kommentar zum CrowdStrike-Desaster: Mehr Verfügbarkeit wagen!",
       "teaser": "Das CrowdStrike-Desaster hat eines gezeigt: Die IT-Welt sollte die Verfügbarkeit nicht den anderen, zugegebenermaßen ebenfalls wichtigen Schutzzielen opfern.",
       "url": "https://www.heise.de/meinung/Loblied-auf-die-Verfuegbarkeit-ein-Kommentar-zum-Crowdstrike-Desaster-9822300.html",
@@ -181,7 +181,7 @@
     {
       "title": "Re: PXE mit Definitionen auf NFS hat noch nie funktioniert und 2024 ändert sich",
       "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-PXE-mit-Definitionen-auf-NFS-hat-noch-nie-funktioniert-und-2024-aendert-sich/posting-44337426/show/"
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-PXE-mit-Definitionen-auf-NFS-hat-noch-nie-funktioniert-und-2024-aendert-sich/posting-44340411/show/"
     },
     {
       "title": "Re: Desinfect2USB.exe startet nicht",
