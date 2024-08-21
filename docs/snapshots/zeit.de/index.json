@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-21T04:00:51",
+  "timestamp": "2024-08-21T05:00:44",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -8,6 +8,12 @@
     {
       "type": null,
       "src": "https://static.zeit.de/p/zeit.web/js/colorscheme.3e111d9ecb733d028b0c.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
       "id": null,
       "text": null
     },
@@ -116,12 +122,6 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-08/us-wahl-robert-kennedy-donald-trump-moegliche-unterstuetzung-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Ukrainekrieg : Russland meldet einen der bisher größten Drohnenangriffe auf Moskau",
-      "teaser": "Zehn Drohnen sind laut dem Bürgermeister der russischen Hauptstadt auf dem Weg nach Moskau abgefangen worden. Die Ukraine meldet neue russische Angriffe.",
-      "url": "https://www.zeit.de/politik/ausland/2024-08/ukrainekrieg-russland-drohnenangriff-moskau",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-08/moskau-russland-ukraine-drohnenangriff/super__430x286"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); AfD Thüringen : Demonstranten verhindern Auftritt von Björn Höcke in Jena",
       "teaser": "Wegen einer großen Gegendemonstration hat Thüringens AfD-Spitzenkandidat einen Auftritt in Jena abgesagt. Die Polizei war mit Pfefferspray und Schlagstöcken im Einsatz.",
       "url": "https://www.zeit.de/politik/deutschland/2024-08/jena-demonstranten-verhindern-bjoern-hoecke-auftritt-afd",
@@ -140,10 +140,28 @@
       "image_url": "https://img.zeit.de/gesellschaft/2024-08/schulzeit-ferien-unterricht-sport-erfahrungen-bild/wide__892x501"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Rückenschmerzen und Sport : \"Unser Lebensstil wirkt sich auf nichts so aus wie auf den Rücken\"",
-      "teaser": "Fast jeder hat im Laufe seines Lebens Rückenschmerzen. Dagegen hilft am besten: Sport. Zwei Experten verraten, warum es Quatsch ist, alles mit geradem Rücken aufzuheben.",
-      "url": "https://www.zeit.de/sport/2024-08/rueckenschmerzen-sport-vorsorge-alltag-uebungen",
-      "image_url": "https://img.zeit.de/sport/2024-08/rueckenschmerzen-sport-vorsorge-alltag-uebungen-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Eltern-Burn-out • Das Wichtigste aus Z+ : Warum sind Eltern hier so gestresst?",
+      "teaser": "Die Diagnose Eltern-Burn-out steigt weltweit. Doch nirgends sind die Zahlen so hoch wie in manchen westlichen Industrieländern. Was deutsche Eltern ausbrennen lässt.",
+      "url": "https://www.zeit.de/familie/2024-07/eltern-burnout-stress-belastung-alltag-kinder",
+      "image_url": "https://img.zeit.de/familie/2024-08/eltern-burnout-stress-belastung-alltag/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Anja Mikus • Das Beste aus Z+ : \"Man sollte sich trauen, antizyklisch anzulegen\"",
+      "teaser": "Anja Mikus kaufte ihre erste Aktie, als es weder ETFs noch den Dax gab. Bald soll sie mit Milliarden Deutschlands Rentensystem retten. Sie erklärt, wie man investiert.",
+      "url": "https://www.zeit.de/geld/2024-07/anja-mikus-kenfo-generationenkapital-finanzen-rente-frauen",
+      "image_url": "https://img.zeit.de/geld/2024-08/anja-mikus-kenfo-generationenkapital-finanzen/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Ukrainekrieg : Russland meldet einen der bisher größten Drohnenangriffe auf Moskau",
+      "teaser": "Zehn Drohnen sind laut dem Bürgermeister der russischen Hauptstadt auf dem Weg nach Moskau abgefangen worden. Die Ukraine meldet neue russische Angriffe.",
+      "url": "https://www.zeit.de/politik/ausland/2024-08/ukrainekrieg-russland-drohnenangriff-moskau",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-08/moskau-russland-ukraine-drohnenangriff/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Nachrichtenpodcast : Selenskyjs riskanter Plan",
+      "teaser": "Mit ihrer Offensive auf russischem Gebiet will die ukrainische Armee eine Pufferzone schaffen. Kann der Plan aufgehen? Und: China und die Schwellenländer",
+      "url": "https://www.zeit.de/politik/2024-08/kursk-offensive-ukraine-russland-nachrichtenpodcast",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Ukrainekrieg : Dietmar Woidke stellt Bürgergeld für ukrainische Flüchtlinge infrage",
@@ -164,16 +182,16 @@
       "image_url": "https://img.zeit.de/politik/deutschland/2024-08/habeck-kanzler-finanzminister-lindner/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Nahostkonflikt : Antony Blinken reist ohne Abkommen aus dem Nahen Osten ab",
-      "teaser": "Der US-Außenminister beendet seine Vermittlungsversuche im Gazakrieg ohne konkrete Ergebnisse. Es müsse nun \"in den nächsten Tagen\" zu einer Einigung kommen, mahnt er.",
-      "url": "https://www.zeit.de/politik/ausland/2024-08/nahostkonflikt-antony-blinken-abkommen-israel-hamas",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-08/nahostkonflikt-antony-blinken-abkommen-israel-hamas-bild/super__430x286"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Tennis : Weltranglistenerster Jannik Sinner positiv auf Doping getestet",
       "teaser": "Bei Tennisstar Jannik Sinner ist ein Steroid nachgewiesen worden – gesperrt wurde er aber nicht. Das Mittel soll über einen Physiotherapeuten in Sinner gelangt sein.",
       "url": "https://www.zeit.de/sport/2024-08/tennis-doping-jannik-singer-sperrung",
       "image_url": "https://img.zeit.de/sport/2024-08/tennis-doping-jannik-sinner-sperrung-italien/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Rückenschmerzen und Sport : \"Unser Lebensstil wirkt sich auf nichts so aus wie auf den Rücken\"",
+      "teaser": "Fast jeder hat im Laufe seines Lebens Rückenschmerzen. Dagegen hilft am besten: Sport. Zwei Experten verraten, warum es Quatsch ist, alles mit geradem Rücken aufzuheben.",
+      "url": "https://www.zeit.de/sport/2024-08/rueckenschmerzen-sport-vorsorge-alltag-uebungen",
+      "image_url": "https://img.zeit.de/sport/2024-08/rueckenschmerzen-sport-vorsorge-alltag-uebungen-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Männercamps : Rudelbildung am Fleischwolf",
@@ -200,6 +218,12 @@
       "image_url": "https://img.zeit.de/kultur/2024-08/christoph-kramer-borussia-moenchengladbach-fussball-verein-abschied-bild/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Fisch : So erkennt man frischen Fisch",
+      "teaser": "Fisch ist gesund. Aber wie weiß man, ob er frisch ist? Wer Forelle und Lachs mag, sollte den Nasen- und Fingertest kennen. Und die Bedeutung geheimnisvoller Abkürzungen.",
+      "url": "https://www.zeit.de/zeit-wissen/2024/04/fisch-qualitaet-kauf-frische-nasen-finger-test",
+      "image_url": "https://img.zeit.de/zeit-wissen/2024/04/fisch-qualitaet-kauf-frische-nasen-finger-test-bild/wide__892x501"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Häusliche Gewalt : Buschmann zeigt sich offen für Fußfesselgesetz zum Schutz von Frauen",
       "teaser": "Der Bundesjustizminister verspricht bedrohten Frauen \"lückenlosen Schutz\". Er erwägt, elektronische Fußfesseln für potenzielle Täter in einem Bundesgesetz zu verankern.",
       "url": "https://www.zeit.de/politik/deutschland/2024-08/haeusliche-gewalt-marco-buschmann-fdp-elektronische-fussfessel",
@@ -218,16 +242,16 @@
       "image_url": "https://img.zeit.de/wirtschaft/2024-08/klima-und-transformationsfonds-stadtwerkeverband-vku-fernwaerme-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Langzeitaffären • Das Beste aus Z+ : Sie ist verheiratet – und hat seit 35 Jahren eine Affäre",
-      "teaser": "Was, wenn der eigene Ehemann nicht die große Liebe ist, sondern jemand anderes? Zwei Frauen erzählen von Langzeitaffären. Und warum sie ihre Ehen trotzdem nicht bereuen.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2024-04/langzeitaffaeren-geliebte-beziehung-liebe",
-      "image_url": "https://img.zeit.de/zeit-magazin/leben/2024-04/langzeitaffaeren-geliebte-beziehung-liebe-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Talibanregime : Taliban verbieten UN-Sonderberichterstatter die Einreise",
+      "teaser": "Richard Bennett beobachtet die Menschenrechtslage in Afghanistan für die Vereinten Nationen. Ins Land reisen darf er aber nicht. Die Taliban werfen ihm Propaganda vor.",
+      "url": "https://www.zeit.de/politik/ausland/2024-08/afghanistan-taliban-un-sonderberichterstatter-richard-bennett",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-08/afghanistan-taliban-un-sonderberichterstatter-richard-bennett-bild/super__320x213"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Beruf als Detektiv : \"Allein mit meiner Vermutung kann ich Existenzen zerstören\"",
-      "teaser": "Ob wegen der Affäre oder dem Arbeitszeitbetrug: Detektive schnüffeln legal Menschen hinterher. Zwei Ermittler erzählen, wie sie arbeiten und was ihre Einsätze kosten.",
-      "url": "https://www.zeit.de/arbeit/2024-07/beruf-detektiv-privatermittler-detektei-lentz-privatdetektiv-fernsehen",
-      "image_url": "https://img.zeit.de/arbeit/2024-08/beruf-detektiv-privatermittler-detektei-lentz/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Puerto Rico : Zehntausende in Puerto Rico nach Hurrikan Ernesto weiter ohne Strom",
+      "teaser": "Als Hurrikan Ernesto über Puerto Rico zog, waren bis zu 750.000 Haushalte ohne Strom. Eine Woche später ist die Stromversorgung noch nicht komplett wiederhergestellt.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-08/puerto-rico-hurrikan-ernesto-strom",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-08/ernesto-bild/super__320x213"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Flugsicherheit : Boeing stoppt nach Schäden Testflüge von 777X-Maschinen",
@@ -260,22 +284,16 @@
       "image_url": "https://img.zeit.de/sport/2024-08/dietmar-hopp-tsg-hoffenheim-bild/super__320x213"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Bafin : Finanzaufsicht beschlagnahmt Tauschautomaten für Kryptowährungen",
-      "teaser": "Bei einem großangelegten Einsatz hat die Bafin 13 Automaten für den Handel von Kryptowährungen gesichert. Die nötige Erlaubnis fehlt, es besteht Verdacht auf Geldwäsche.",
-      "url": "https://www.zeit.de/wirtschaft/2024-08/bafin-tauschautomaten-krypto-waehrungen-geldwaesche",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-08/bafin-tauschautomaten-krypto-waehrungen-geldwaesche-bild/super__320x213"
+      "title": "Z+ (abopflichtiger Inhalt); Langzeitaffären • Das Beste aus Z+ : Sie ist verheiratet – und hat seit 35 Jahren eine Affäre",
+      "teaser": "Was, wenn der eigene Ehemann nicht die große Liebe ist, sondern jemand anderes? Zwei Frauen erzählen von Langzeitaffären. Und warum sie ihre Ehen trotzdem nicht bereuen.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2024-04/langzeitaffaeren-geliebte-beziehung-liebe",
+      "image_url": "https://img.zeit.de/zeit-magazin/leben/2024-04/langzeitaffaeren-geliebte-beziehung-liebe-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Ukraine : Olaf Scholz bekennt sich zu Ukraine-Hilfe",
-      "teaser": "Der Bundeskanzler zeigt sich erstaunt über die Debatte über eine Kürzung der Ukraine-Hilfe. Deutschland plane, den höchsten Betrag in Europa bereitzustellen.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-08/ukraine-unterstuetzung-von-deutschland-olaf-scholz-sat1-interview",
-      "image_url": "https://img.zeit.de/politik/2024-08/olaf-scholz-ukraine-unetrstuetzung-bild/super__320x213"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Vanilleeis mit Chilisirup : Extrem scharf und unglaublich süß",
-      "teaser": "Spaghettieis für experimentierfreudige Erwachsene: Übergießen Sie Vanilleeiskugeln mit selbst gemachtem Chilisirup. Was gibt's Schärferes als diese feurig-süße Liaison?!",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-08/vanilleeis-chilisirup-rezept-wochenmarkt-besser-guenstig",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-08/vanilleeis-chilisirup-rezept-wochenmarkt-besser-guenstig-teaser/wide__892x501"
+      "title": "Diese Woche in der ZEIT : Sehnsucht nach dem NORDEN",
+      "teaser": "Die kühle Magie Norwegens, das wilde Meer im dänischen Hawaii und Tipps für Schweden vom Bestsellerautor Jonas Jonasson – die bestechendsten Seiten Skandinaviens",
+      "url": "https://premium.zeit.de/abo/diezeit?aktionsnummer=1130785&wt_zmc=fix.int.zonpme.zeitde.epaper.z+.home.bildtext.bildtext&utm_medium=fix&utm_source=zeitde_zonpme_int&utm_campaign=epaper&utm_content=z+_home_bildtext_bildtext?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.link.link&utm_medium=cross&utm_source=zeitde_zonpme_int&utm_campaign=printbox&utm_content=ausgseite_bildtext_link_link",
+      "image_url": "https://img.zeit.de/2024/35/packshot-24-35-1000x620/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Gurkenrezepte : Trendsport: Gurken schütteln",
@@ -300,12 +318,6 @@
       "teaser": "ZEIT ONLINE beantwortet Ihre Fragen zu aktuellen Ereignissen – mit einer KI, die unsere Artikel der vergangenen 30 Tage als Quelle nutzt. Probieren Sie es aus!",
       "url": "https://www.zeit.de/beta/fragen-sie-zeit-online-news",
       "image_url": "https://img.zeit.de/administratives/2024-01/collage-fragen-sie-zon-20240125/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Puerto Rico : Zehntausende in Puerto Rico nach Hurrikan Ernesto weiter ohne Strom",
-      "teaser": "Als Hurrikan Ernesto über Puerto Rico zog, waren bis zu 750.000 Haushalte ohne Strom. Eine Woche später ist die Stromversorgung noch nicht komplett wiederhergestellt.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-08/puerto-rico-hurrikan-ernesto-strom",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-08/ernesto-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Eltern-Burn-out • Das Wichtigste aus Z+ : Warum sind Eltern hier so gestresst?",
@@ -362,16 +374,16 @@
       "image_url": "https://img.zeit.de/zeit-magazin/leben/2024-08/garten-pflanzen-natur-gaertnern-pflanzenschutz-bild/wide__892x501"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Vanilleeis mit Chilisirup : Extrem scharf und unglaublich süß",
+      "teaser": "Spaghettieis für experimentierfreudige Erwachsene: Übergießen Sie Vanilleeiskugeln mit selbst gemachtem Chilisirup. Was gibt's Schärferes als diese feurig-süße Liaison?!",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-08/vanilleeis-chilisirup-rezept-wochenmarkt-besser-guenstig",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-08/vanilleeis-chilisirup-rezept-wochenmarkt-besser-guenstig-teaser/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Bezirk Hamburg-Nord : Alle gegen die Grünen",
       "teaser": "Im Bezirk Hamburg-Nord entsteht eine SPD-geführte Koalition aus vier Parteien mit einem gemeinsamen Anliegen: Der grüne Verwaltungschef Michael Werner-Boelz soll weg.",
       "url": "https://www.zeit.de/hamburg/2024-08/bezirk-hamburg-nord-buendnis-gruenen-spd",
       "image_url": "https://img.zeit.de/hamburg/2024-08/bezirk-nord-buendnis-gruenen-spd/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Deutsche Bahn : Bitte bezahlen Sie jetzt mehr für schlechteren Service",
-      "teaser": "Der Haushaltskompromiss der Ampel hat unbeabsichtigte Folgen. Bahnpreise dürften bald weiter steigen. Zukunftsfähig wird die Bahn nur, wenn die Politik radikal umdenkt.",
-      "url": "https://www.zeit.de/mobilitaet/2024-08/deutsche-bahn-bundesregierung-finanzierung-preiserhoehung-fahrplan",
-      "image_url": "https://img.zeit.de/mobilitaet/2024-08/deutsche-bahn-bundesregierung-finanzierung-preiserhoehung/super__430x286"
     },
     {
       "title": "Verlagsangebot : Prävention von Demenz: Diese 14 Faktoren sollten Sie kennen",
@@ -434,16 +446,16 @@
       "image_url": "https://img.zeit.de/geld/2024-08/finanz-influencer-finanztipps-experten-geldverbesserer-bild/wide__892x501"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Anja Mikus : \"Man sollte sich trauen, antizyklisch anzulegen\"",
-      "teaser": "Anja Mikus kaufte ihre erste Aktie, als es weder ETFs noch den Dax gab. Bald soll sie mit Milliarden Deutschlands Rentensystem retten. Sie erklärt, wie man investiert.",
-      "url": "https://www.zeit.de/geld/2024-07/anja-mikus-kenfo-generationenkapital-finanzen-rente-frauen",
-      "image_url": "https://img.zeit.de/geld/2024-08/anja-mikus-kenfo-generationenkapital-finanzen/super__430x286"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Kein Urlaub : \"Mein letzter richtiger Urlaub liegt mehr als 25 Jahre zurück\"",
       "teaser": "Während es für viele normal ist, im Sommer zu verreisen, kann sich fast ein Viertel der Deutschen keinen Urlaub leisten. Acht Menschen erzählen, wie sie damit umgehen.",
       "url": "https://www.zeit.de/geld/2024-08/kein-urlaub-finanzen-reisen",
       "image_url": "https://img.zeit.de/geld/2024-08/urlaub-sparen-bild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Immobilienmarkt : Kaufen ist klug, Mieten ist dumm? Keineswegs",
+      "teaser": "Wer mietet, verbrennt Geld, heißt es. Doch so einfach ist es nicht. Oft hat am Ende derjenige mehr Vermögen, der auf den Kauf verzichtet. Worauf es dabei ankommt.",
+      "url": "https://www.zeit.de/geld/2024-08/immobilienmarkt-wohnung-mieten-kaufen-vermoegen",
+      "image_url": "https://img.zeit.de/geld/2024-08/immobilienmarkt-wohnung-mieten-kaufen/super__430x286"
     },
     {
       "title": "Verlagsangebot : Das kleine Hauptstadt-Quiz",
@@ -530,16 +542,10 @@
       "image_url": "https://img.zeit.de/2024-07/was-jetzt-die-woche-2/super__320x213"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Nachrichtenpodcast : Selenskyjs riskanter Plan",
-      "teaser": "Mit ihrer Offensive auf russischem Gebiet will die ukrainische Armee eine Pufferzone schaffen. Kann der Plan aufgehen? Und: China und die Schwellenländer",
-      "url": "https://www.zeit.de/politik/2024-08/kursk-offensive-ukraine-russland-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__892x501"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Liveblog:Ukrainekrieg : Russland meldet groß angelegten ukrainischen Drohnenangriff",
       "teaser": "Laut Moskaus Bürgermeister sind acht Drohnen auf dem Weg in die Hauptstadt abgefangen worden. Die USA sehen Russlands Armee in Kursk unter Druck. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-08/moskau-russland-ukraine-drohnenangriff/super__430x286"
+      "image_url": "https://img.zeit.de/politik/ausland/2024-08/moskau-russland-ukraine-drohnenangriff/wide__892x501"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Afghanistan : \"Die internationale Gemeinschaft sollte mit den Taliban sprechen\"",
@@ -548,10 +554,28 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-08/afghanistan-taliban-frauenrechte-ngo/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Parteitag der Demokraten : \"Wir müssen die Demokraten dazu bringen, dass sie etwas ändern\"",
+      "teaser": "In Chicago treffen sich die US-Demokraten zum Parteitag, vor der Halle formiert sich Protest. Die Demonstrierenden kritisieren vor allem die Militärhilfen für Israel.",
+      "url": "https://www.zeit.de/politik/ausland/2024-08/parteitag-demokraten-usa-joe-biden-chicago-proteste",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-08/parteitag-demokraten-usa-joe-biden-chicago-proteste-bild-teaserknopf/super__430x286"
+    },
+    {
       "title": "Verlagsangebot : Kommunikation – Eine Superkraft, die sich erlernen lässt",
       "teaser": "Mit dem kostenlosen E-Mail-Kurs »Wirkungsvoll kommunizieren« von der ZEIT Akademie starten Sie drei Wochen lang jeden Montag mit einem kurzen Impuls in die Woche.",
       "url": "https://www.zeitakademie.de/e-mail-kurs-kommunikation/?icode=01w0387k1039inhrefall2309&utm_medium=referall&utm_source=zon&utm_campaign=emk_kommunikation&utm_content=01w0387k1039inhrefall2309&wt_zmc=refall.Ext.zabo.zon.emk_kommunikation.x",
       "image_url": "https://img.zeit.de/angebote/Links/Bilder/akademie/2023/zak-kommunikation-1/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Krisenpodcast \"Auch das noch?\" : \"Bio oder konventionell, das ist zu einfach gedacht\"",
+      "teaser": "Bienen und andere Insekten verschwinden aus der Landschaft. Die Ökologin Alexandra Klein spricht im Podcast über den Verlust von biologischer Vielfalt in der Polykrise.",
+      "url": "https://www.zeit.de/wissen/2024-08/insektensterben-vielfalt-alexandra-klein-krisenpodcast",
+      "image_url": "https://img.zeit.de/wissen/2024-08/krisenpodcast-insekten-oekologin-alexandra-klein/super__320x213"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Kriminalpodcast : R wie Revision",
+      "teaser": "Was muss geschehen, damit ein Urteil nach einer Revision aufgehoben wird? Folge 21 unseres \"ABC des Verbrechens\", einer Sonderserie des Podcasts \"ZEIT Verbrechen\"",
+      "url": "https://www.zeit.de/gesellschaft/2024-07/revision-strafrecht-erklaerung-verbrechen-podcast",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-07/cover-z-verbrechen-abc-2/super__320x213"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Kriminalpodcast : P wie Psychiater und Psychologen",
@@ -584,18 +608,6 @@
       "image_url": "https://img.zeit.de/wissen/2024-08/blutzucker-trend-glukose-cgm-glucose/super__320x213"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Kriminalpodcast : N wie Nebenklage und O wie Opfer",
-      "teaser": "Welche Rechte hat das Opfer einer Straftat? Folge 18 unseres \"ABC des Verbrechens\", einer Sonderserie des Podcasts \"ZEIT Verbrechen\"",
-      "url": "https://www.zeit.de/gesellschaft/2024-07/nebenklage-opfer-strafrecht-erklaerung-verbrechen-podcast",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-07/cover-z-verbrechen-abc-2/super__320x213"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Kriminalpodcast : M wie Motiv",
-      "teaser": "Warum begeht jemand eine Straftat? Folge 17 unseres \"ABC des Verbrechens\", einer Sonderserie des Podcasts \"ZEIT Verbrechen\"",
-      "url": "https://www.zeit.de/gesellschaft/2024-07/motiv-strafrecht-erklaerung-verbrechen-podcast",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-07/cover-z-verbrechen-abc-2/super__320x213"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); KZ-Gedenkstätte Buchenwald : Buchenwald-Gedenkstättenleiter erhält Drohungen nach Kritik an AfD",
       "teaser": "In einem Brief an 300.000 Wähler wirft der Thüringer Gedenkstättenleiter Jens-Christian Wagner der AfD NS-Verharmlosung vor. Nun wird ihm gedroht – teils mit dem Tod.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-08/thueringen-gedenkstaette-buchenwald-leiter-drohungen-afd",
@@ -614,10 +626,16 @@
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-08/taucher-sizilien-gesunkene-jacht-bild/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Bafin : Finanzaufsicht beschlagnahmt Tauschautomaten für Kryptowährungen",
+      "teaser": "Bei einem groß angelegten Einsatz hat die Bafin 13 Automaten für den Handel von Kryptowährungen gesichert. Die nötige Erlaubnis fehlt, es besteht Verdacht auf Geldwäsche.",
+      "url": "https://www.zeit.de/wirtschaft/2024-08/bafin-tauschautomaten-krypto-waehrungen-geldwaesche",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-08/bafin-tauschautomaten-krypto-waehrungen-geldwaesche-bild/wide__892x501"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); China : Warum sich Entwicklungsländer jetzt von China abschotten",
       "teaser": "China gibt sich gern als der große Freund des Globalen Südens. Doch viele ärmere Länder wehren sich plötzlich mit Zöllen gegen Importe aus der Volksrepublik.",
       "url": "https://www.zeit.de/2024/35/china-globaler-sueden-importe-handel-usa",
-      "image_url": "https://img.zeit.de/2024/35/womit-keiner-rechnet-bild-1/wide__892x501"
+      "image_url": "https://img.zeit.de/2024/35/womit-keiner-rechnet-bild-1/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Leopardenprint : Die Anmaßung des Homo sapiens an den coolsten Killer",
@@ -630,12 +648,6 @@
       "teaser": "Seit Mai steigt die Inflation im Euroraum erstmals wieder leicht an. Im Juni betrug die Teuerungsrate 2,6 Prozent. Die EZB will mit Zinssenkungen aber noch warten.",
       "url": "https://www.zeit.de/wirtschaft/2024-08/inflation-euro-zone-steigt-leicht-ezb-europaeische-zentralbank",
       "image_url": "https://img.zeit.de/wirtschaft/2024-08/inflation-eurouzone-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Kinderbetreuung : Kitapersonal ist häufiger krank als andere Berufstätige",
-      "teaser": "Über 90.000 mehr Beschäftigte bräuchte es in den Kitas, um den Krankenstand auszugleichen, geht aus einer Studie hervor. Die Personalsituation sei dramatisch.",
-      "url": "https://www.zeit.de/wirtschaft/2024-08/kita-personal-krankheit-fachkraefte-mangel",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-08/kita-personal-erzieher-krankheitsfaelle-studie-bild/super__430x286"
     },
     {
       "title": "Ostdeutschland : Westdeutsche Manager dominieren den Osten – und das ist ein Problem",
@@ -820,16 +832,16 @@
       "image_url": "https://img.zeit.de/digital/2024-08/crowdtangle-meta-europaeische-kommission-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Ifo Institut : Unternehmen wollen Möglichkeit zu Homeoffice erhalten",
-      "teaser": "Dem ifo Institut zufolge wollen die meisten deutschen Firmen, dass ihre Angestellten weiterhin im Homeoffice arbeiten dürfen. Nur vier Prozent planen eine Abschaffung.",
-      "url": "https://www.zeit.de/arbeit/2024-08/ifo-institut-homeoffice-arbeitnehmer-abschaffung",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-08/ifo-homeoffice-firmen-bild/wide__892x501"
+      "title": "Z+ (abopflichtiger Inhalt); Beruf als Detektiv : \"Allein mit meiner Vermutung kann ich Existenzen zerstören\"",
+      "teaser": "Ob wegen der Affäre oder dem Arbeitszeitbetrug: Detektive schnüffeln legal Menschen hinterher. Zwei Ermittler erzählen, wie sie arbeiten und was ihre Einsätze kosten.",
+      "url": "https://www.zeit.de/arbeit/2024-07/beruf-detektiv-privatermittler-detektei-lentz-privatdetektiv-fernsehen",
+      "image_url": "https://img.zeit.de/arbeit/2024-08/beruf-detektiv-privatermittler-detektei-lentz/wide__892x501"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Physiotherapeut • Das Wichtigste aus Z+ : \"Das Schlimme ist: Ich sehe keinen Sinn in dem ganzen Stress\"",
-      "teaser": "Finn Hurler ist seit vier Jahren Physiotherapeut. Die Akkordarbeit nervt ihn, manchmal auch die Patienten. Nun hat er gekündigt, um zu studieren und mehr zu verdienen.",
-      "url": "https://www.zeit.de/arbeit/2024-07/physiotherapeut-stress-akkordarbeit-studium-gehalt",
-      "image_url": "https://img.zeit.de/arbeit/2024-08/physiotherapeut-stress-akkordarbeit/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Teilzeit : Raus aus der Rentenlücke",
+      "teaser": "Frauen arbeiten dreimal häufiger Teilzeit als Männer. Im Alter führt das oft zu Armut. In der Schweiz könnte sich das durch eine Rentenreform bald ändern.",
+      "url": "https://www.zeit.de/2024/35/teilzeit-arbeit-rente-benachteiligung-frauen-gerechtigkeit",
+      "image_url": "https://img.zeit.de/arbeit/2024-08/teilzeit-arbeit-rente-benachteiligung/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Drousers : Warum Röcke über Hosen nicht mehr funktionieren",
@@ -856,11 +868,11 @@
       "image_url": "https://img.zeit.de/campus/2024/04/herausforderung-karriere-leben-bildung-teaser/wide__892x501"
     },
     {
-      "title": "Verlagsangebot : Welcher Beruf passt zu mir?",
-      "teaser": "Mit dem BOA-Berufstest erfahren Berufseinsteiger mehr über die eigenen Stärken und finden den passenden Job.",
-      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.verlagsteaser.quan.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=verlagsteaserindex&amp;utm_content=bot_verlagsteaser_quan_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/boa-quan/wide__430x286__desktop",
-      "image_title": "Welcher Beruf passt zu mir?"
+      "title": "Verlagsangebot : Ein Studium finden, das passt",
+      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
+      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.teaser.bewerben-schreibtisch.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=sit-verlagsteaser&amp;utm_content=sit_teaser_bewerben-schreibtisch_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/sit-bewerben-schreibtisch/wide__430x286__desktop",
+      "image_title": "Ein Studium finden, das passt"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Herzfehler in der Uni : Wie lebt man ein ganzes Leben mit halbem Herz, Sabrina Lorenz?",
@@ -893,16 +905,16 @@
       "image_url": "https://img.zeit.de/angebote/Links/bilder-zeit-reisen/bilder-2023/freunde-am-tisch-c-solstock-istock-611076216-standardlizenz-1160x656/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Deutsche Bahn : Bitte bezahlen Sie jetzt mehr für schlechteren Service",
+      "teaser": "Der Haushaltskompromiss der Ampel hat unbeabsichtigte Folgen. Bahnpreise dürften bald weiter steigen. Zukunftsfähig wird die Bahn nur, wenn die Politik radikal umdenkt.",
+      "url": "https://www.zeit.de/mobilitaet/2024-08/deutsche-bahn-bundesregierung-finanzierung-preiserhoehung-fahrplan",
+      "image_url": "https://img.zeit.de/mobilitaet/2024-08/deutsche-bahn-bundesregierung-finanzierung-preiserhoehung/wide__892x501"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Deutsche Bahn : Fahrgastverband warnt vor jahrelangen Einschränkungen bei der Bahn",
       "teaser": "Der Fahrgastverband Pro Bahn erwartet \"ein Jahrzehnt mit vielen Baustellen, Umleitungen und Einschränkungen\". Die Bahn habe in vielen Bereichen den Anschluss verloren.",
       "url": "https://www.zeit.de/mobilitaet/2024-08/fahrgastverband-pro-bahn-baustellen",
-      "image_url": "https://img.zeit.de/mobilitaet/2024-08/bahn-baustellen-einschraenkungen-verspaetungen/wide__892x501"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Elektroauto : Wieso wollen die keine E-Autos mehr?",
-      "teaser": "Die Elektroauto-Nachfrage bricht ein. Bei den Herstellern herrscht Ratlosigkeit – auch weil die Politik, die zur Antriebswende drängte, plötzlich andere Signale sendet.",
-      "url": "https://www.zeit.de/2024/35/elektroauto-verkauf-politik-autoindustrie-mobilitaet",
-      "image_url": "https://img.zeit.de/2024/35/ruessel-oder-stecker-bild-4/super__430x286"
+      "image_url": "https://img.zeit.de/mobilitaet/2024-08/bahn-baustellen-einschraenkungen-verspaetungen/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Modetrend : \"Seit Cobain und Picasso stehen Querstreifen immer auch für Rebellion\"",
@@ -929,36 +941,36 @@
       "image_url": "https://img.zeit.de/sport/2024-08/dfb-pokal-1-runde-spielberichte-kickers-offenbach/super__430x286"
     },
     {
-      "title": "Urteil zu umstrittener Keulung: Gericht: Tötung von Wildpferden in Australien ist legitim",
-      "url": "https://www.zeit.de/news/2024-08/21/gericht-toetung-von-wildpferden-in-australien-ist-legitim"
+      "title": "Autobahnunfall: Auffahrunfall mit sechs Fahrzeugen auf A99 - sechs Verletzte",
+      "url": "https://www.zeit.de/news/2024-08/21/auffahrunfall-mit-sechs-fahrzeugen-auf-a99-sechs-verletzte"
     },
     {
-      "title": "Olympische Spiele: Drogeriemarktkette lobt Olympia-Prämien für Los Angeles aus",
-      "url": "https://www.zeit.de/news/2024-08/21/drogeriemarktkette-lobt-olympia-praemien-fuer-los-angeles-aus"
+      "title": "Bundesliga-Aufsteiger: Holstein-Kapitän: «Damit muss man erst einmal zurechtkommen»",
+      "url": "https://www.zeit.de/news/2024-08/21/holstein-kapitaen-damit-muss-man-erst-einmal-zurechtkommen"
     },
     {
-      "title": "Vor dem Bundesliga-Start: Bayern-Zugang Olise: Ein Zauberer auf Sanés Position",
-      "url": "https://www.zeit.de/news/2024-08/21/bayern-zugang-olise-ein-zauberer-auf-san-s-position"
+      "title": "Ermittlungen: «Mocro-Mafia»: Kölner Ermittler bearbeiten etwa 25 Verfahren",
+      "url": "https://www.zeit.de/news/2024-08/21/mocro-mafia-koelner-ermittler-bearbeiten-etwa-25-verfahren"
     },
     {
-      "title": "US-Wahlkampf: Ehemann macht Harris bei Parteitag Liebeserklärung",
-      "url": "https://www.zeit.de/news/2024-08/21/ehemann-macht-harris-bei-parteitag-liebeserklaerung"
+      "title": "Unternehmen: NS-Zeit: Mehr Zwangsarbeiter bei Bahlsen als bisher bekannt",
+      "url": "https://www.zeit.de/news/2024-08/21/ns-zeit-mehr-zwangsarbeiter-bei-bahlsen-als-bisher-bekannt"
     },
     {
-      "title": "Landkreis Schwandorf: Mann kommt beim Baden im See ums Leben",
-      "url": "https://www.zeit.de/news/2024-08/21/mann-kommt-beim-baden-im-see-ums-leben"
+      "title": "Wetter: Schauer und Gewitter im Norden",
+      "url": "https://www.zeit.de/news/2024-08/21/schauer-und-gewitter-im-norden"
     },
     {
-      "title": "Landwirtschaft: Gurkenernte läuft auf Hochtouren",
-      "url": "https://www.zeit.de/news/2024-08/21/gurkenernte-laeuft-auf-hochtouren"
+      "title": "US-Wahlkampf: Obama über Harris: «Yes, she can» - Sie ist bereit",
+      "url": "https://www.zeit.de/news/2024-08/21/obama-ueber-harris-yes-she-can-sie-ist-bereit"
     },
     {
-      "title": "Bundesliga: Hamann: Unverständnis über Kimmichs Rückkehr ins Mittelfeld",
-      "url": "https://www.zeit.de/news/2024-08/21/hamann-unverstaendnis-ueber-kimmichs-rueckkehr-ins-mittelfeld"
+      "title": "Wetter: Regen und Gewitter in Niedersachsen und Bremen",
+      "url": "https://www.zeit.de/news/2024-08/21/regen-und-gewitter-in-niedersachsen-und-bremen"
     },
     {
-      "title": "Nach Doping-Befund: Fall Sinner: Wada behält sich mögliche Berufung vor",
-      "url": "https://www.zeit.de/news/2024-08/21/fall-sinner-wada-behaelt-sich-moegliche-berufung-vor"
+      "title": "Bürgerschaftswahlkampf: Hamburger CDU setzt auf Familienpolitik",
+      "url": "https://www.zeit.de/news/2024-08/21/hamburger-cdu-setzt-auf-familienpolitik"
     }
   ]
 }
