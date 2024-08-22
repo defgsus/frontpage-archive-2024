@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-22T08:08:48",
+  "timestamp": "2024-08-22T09:06:45",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Wordpress-Plug-in LiteSpeed Cache",
+      "url": "https://www.heise.de/news/5-Millionen-Wordpress-Seiten-gefaehrdet-Kritisches-Leck-in-LiteSpeed-Cache-9843667.html"
+    },
+    {
       "title": "GitHub Enterprise Server",
       "url": "https://www.heise.de/news/Admin-Attacken-auf-GitHub-Enterprise-Server-moeglich-9843620.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Google-Chrome-Update-stopft-angegriffene-Sicherheitsluecke-und-37-weitere-9843453.html"
     },
     {
-      "title": "WordPress-Plug-in GiveWP",
-      "url": "https://www.heise.de/news/WordPress-Plug-in-Kritische-Luecke-mit-Hoechstwertung-in-GiveWP-geschlossen-9842395.html"
+      "title": "5 Millionen Wordpress-Seiten gefährdet: Kritisches Leck in LiteSpeed Cache",
+      "teaser": "Das Wordpress-Plug-in LiteSpeed Cache ist auf 5 Millionen Seiten installiert. Nun haben IT-Forscher eine kritische Sicherheitslücke darin entdeckt.",
+      "url": "https://www.heise.de/news/5-Millionen-Wordpress-Seiten-gefaehrdet-Kritisches-Leck-in-LiteSpeed-Cache-9843667.html",
+      "image_title": "Mann arbeitet an einer Wordpress-Seite auf einem Laptop"
+    },
+    {
+      "title": "Admin-Attacken auf GitHub Enterprise Server möglich",
+      "teaser": "Unter bestimmten Voraussetzungen können Angreifer Admin-Accounts von GitHub Enterprise Server kapern.",
+      "url": "https://www.heise.de/news/Admin-Attacken-auf-GitHub-Enterprise-Server-moeglich-9843620.html"
     },
     {
       "title": "Google Chrome: Update stopft angegriffene Sicherheitslücke und 37 weitere",
@@ -153,18 +164,6 @@
       "teaser": "Für die kritische Lücke in Ivantis Virtual Traffic Manager (vTM) wurde ein ein Missbrauchsversuch beobachtet. Alle Patches sind nun verfügbar.",
       "url": "https://www.heise.de/news/Angriff-auf-Luecke-in-Ivanti-Virtual-Traffic-Manager-beobachtet-9840329.html",
       "image_title": "Stilisierte Grafik: Brennende Appliances im Netz"
-    },
-    {
-      "title": "Österreichs Innenminister will Messenger ausspionieren",
-      "teaser": "Österreichs Geheimdienste sollen mehr Befugnisse erhalten, Malware einschleusen und WLAN-Catcher nutzen dürfen. Das beantragt die Regierungspartei ÖVP.​",
-      "url": "https://www.heise.de/news/Oesterreichs-Innenminister-will-Messenger-ausspionieren-9840256.html",
-      "image_title": "Bronzestatue eines Paparazzo"
-    },
-    {
-      "title": "SIM-Swapping bleibt in Deutschland Randphänomen",
-      "teaser": "Zahlreiche Medien warnen vor Schäden durch SIM-Swapping. Die Betrugsmasche bleibt in Deutschland jedoch selten.",
-      "url": "https://www.heise.de/news/SIM-Swapping-bleibt-in-Deutschland-Randphaenomen-9839531.html",
-      "image_title": "Sim-Karten übereinander gestapelt"
     },
     {
       "title": "NTLM–Webinar",
