@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-22T09:06:45",
+  "timestamp": "2024-08-22T10:01:41",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "SolarWinds Web Help Desk",
+      "url": "https://www.heise.de/news/Erneut-kritische-Sicherheitsluecke-in-Solarwinds-Web-Help-Desk-geschlossen-9843636.html"
+    },
+    {
       "title": "Wordpress-Plug-in LiteSpeed Cache",
       "url": "https://www.heise.de/news/5-Millionen-Wordpress-Seiten-gefaehrdet-Kritisches-Leck-in-LiteSpeed-Cache-9843667.html"
     },
@@ -44,19 +48,21 @@
       "url": "https://www.heise.de/news/Angreifer-koennen-Ciscos-VoIP-System-Unified-Communications-Manager-lahmlegen-9843447.html"
     },
     {
-      "title": "Google Chrome",
-      "url": "https://www.heise.de/news/Google-Chrome-Update-stopft-angegriffene-Sicherheitsluecke-und-37-weitere-9843453.html"
-    },
-    {
-      "title": "5 Millionen Wordpress-Seiten gefährdet: Kritisches Leck in LiteSpeed Cache",
-      "teaser": "Das Wordpress-Plug-in LiteSpeed Cache ist auf 5 Millionen Seiten installiert. Nun haben IT-Forscher eine kritische Sicherheitslücke darin entdeckt.",
-      "url": "https://www.heise.de/news/5-Millionen-Wordpress-Seiten-gefaehrdet-Kritisches-Leck-in-LiteSpeed-Cache-9843667.html",
-      "image_title": "Mann arbeitet an einer Wordpress-Seite auf einem Laptop"
+      "title": "Erneut kritische Sicherheitslücke in Solarwinds Web Help Desk geschlossen",
+      "teaser": "Angreifer können unbefugt auf die Kundensupport-Software Web Help Desk von Solarwinds zugreifen und Daten manipulieren.",
+      "url": "https://www.heise.de/news/Erneut-kritische-Sicherheitsluecke-in-Solarwinds-Web-Help-Desk-geschlossen-9843636.html",
+      "image_title": "Frau zeigt mit ihrem Finger auf das Wort \"Update\""
     },
     {
       "title": "Admin-Attacken auf GitHub Enterprise Server möglich",
       "teaser": "Unter bestimmten Voraussetzungen können Angreifer Admin-Accounts von GitHub Enterprise Server kapern.",
       "url": "https://www.heise.de/news/Admin-Attacken-auf-GitHub-Enterprise-Server-moeglich-9843620.html"
+    },
+    {
+      "title": "Angreifer können Ciscos VoIP-System Unified Communications Manager lahmlegen",
+      "teaser": "Aufgrund von Sicherheitslücken sind Attacken auf mehrere Cisco-Produkte möglich. Updates sind verfügbar.",
+      "url": "https://www.heise.de/news/Angreifer-koennen-Ciscos-VoIP-System-Unified-Communications-Manager-lahmlegen-9843447.html",
+      "image_title": "Stilisiertes Bild: Ein Stapel brennender Cisco-Appliances"
     },
     {
       "title": "Google Chrome: Update stopft angegriffene Sicherheitslücke und 37 weitere",
@@ -158,12 +164,6 @@
       "teaser": "Angreifer können unter anderem Schadcode durch Softwareschwachstellen in Moodle schieben. Aktualisierte Versionen sind dagegen abgesichert.",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Lernplattform-Moodle-vielfaeltig-angreifbar-9840415.html",
       "image_title": "Update"
-    },
-    {
-      "title": "Exploit-Versuch auf Ivanti Virtual Traffic Manager-Lücke",
-      "teaser": "Für die kritische Lücke in Ivantis Virtual Traffic Manager (vTM) wurde ein ein Missbrauchsversuch beobachtet. Alle Patches sind nun verfügbar.",
-      "url": "https://www.heise.de/news/Angriff-auf-Luecke-in-Ivanti-Virtual-Traffic-Manager-beobachtet-9840329.html",
-      "image_title": "Stilisierte Grafik: Brennende Appliances im Netz"
     },
     {
       "title": "NTLM–Webinar",
