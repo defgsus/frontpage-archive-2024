@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-23T13:11:13",
+  "timestamp": "2024-08-23T14:01:34",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Microsoft Edge",
+      "url": "https://www.heise.de/news/Microsoft-liefert-ausser-der-Reihe-Notfall-Update-fuer-Edge-Luecke-9845854.html"
+    },
+    {
       "title": "IBM QRadar SIEM",
       "url": "https://www.heise.de/news/Update-verfuegbar-IT-Sicherheitsloesung-IBM-QRadar-SIEM-ist-verwundbar-9845070.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Sicherheitsupdate-Attacken-auf-Sonicwall-Firewalls-koennen-Crash-ausloesen-9845138.html"
     },
     {
-      "title": "SolarWinds Web Help Desk",
-      "url": "https://www.heise.de/news/Erneut-kritische-Sicherheitsluecke-in-Solarwinds-Web-Help-Desk-geschlossen-9843636.html"
+      "title": "Notfall-Update: Microsoft behebt riskante Sicherheitslücke in Edge",
+      "teaser": "Google hatte die Lücke im jüngsten Chrome-Update gepatcht, es gibt Hinweise auf aktive Exploits. Daher zieht Redmond nun nach.",
+      "url": "https://www.heise.de/news/Microsoft-liefert-ausser-der-Reihe-Notfall-Update-fuer-Edge-Luecke-9845854.html",
+      "image_title": "Edge Logo"
     },
     {
       "title": "Phishing-Warnung vor betrügerischen ELSTER-Mails",
@@ -157,12 +163,6 @@
       "teaser": "Die aktuelle Beta-Version von WhatsApp ermöglicht Nutzernamen statt Telefonnummern und schützt mit PIN vor ungewollten Kontakten.",
       "url": "https://www.heise.de/news/WhatsApp-soll-Nutzernamen-mit-PIN-Schutz-erhalten-9842293.html",
       "image_title": "Smartphones mit WhatsApp Messenger"
-    },
-    {
-      "title": "\"Passwort\" Folge 11: News von Windows-RCE bis zu ungeheimen Geheimnissen",
-      "teaser": "In der elften Folge des Podcasts schauen sich Sylvester und Christopher den aktuellen Windows-IPv6-Bug an, reden über Phishing, Malvertising und mehr.",
-      "url": "https://www.heise.de/news/Passwort-Folge-11-News-von-Windows-RCE-bis-zu-ungeheimen-Geheimnissen-9838216.html",
-      "image_title": "Bild vom heise-Security-Podcast"
     },
     {
       "title": "NTLM–Webinar",
