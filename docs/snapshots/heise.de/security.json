@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-23T08:09:41",
+  "timestamp": "2024-08-23T09:00:40",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Atlassian Bamboo, Confluence, Jira und Co.",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-Atlassian-patcht-Bamboo-Confluence-Jira-und-Co-9845032.html"
+    },
+    {
       "title": "Sonicwall-Firewalls",
       "url": "https://www.heise.de/news/Sicherheitsupdate-Attacken-auf-Sonicwall-Firewalls-koennen-Crash-ausloesen-9845138.html"
     },
@@ -44,13 +48,10 @@
       "url": "https://www.heise.de/news/5-Millionen-Wordpress-Seiten-gefaehrdet-Kritisches-Leck-in-LiteSpeed-Cache-9843667.html"
     },
     {
-      "title": "GitHub Enterprise Server",
-      "url": "https://www.heise.de/news/Admin-Attacken-auf-GitHub-Enterprise-Server-moeglich-9843620.html"
-    },
-    {
-      "title": "heise security Webinar: Security & IoT im Unternehmen - wie kann das gehen?",
-      "teaser": "IoT-Geräte stellen eine massiv unterschätzte Gefahr für Unternehmens-IT dar. Doch mit dem Hintergrundwissen aus diesem Webinar bekommen Admins das in den Griff.",
-      "url": "https://www.heise.de/news/heise-security-Webinar-Security-IoT-im-Unternehmen-wie-kann-das-gehen-9841272.html"
+      "title": "Bamboo, Confluence, Jira und Co.: Atlassian schließt hochriskante Lücken",
+      "teaser": "Atlassian hat Updates für zahlreiche Produkte veröffentlicht. Sie schließen als hohes Risiko geltende Sicherheitslücken etwa in Bambo, Confluence und Jira.",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-Atlassian-patcht-Bamboo-Confluence-Jira-und-Co-9845032.html",
+      "image_title": "Stilisiertes Bild: Computer unter Wolken mit Schutzschilden und Viren"
     },
     {
       "title": "Sicherheitsupdate: Attacken auf Sonicwall-Firewalls können Crash auslösen",
@@ -86,6 +87,12 @@
       "teaser": "Aufgrund von Sicherheitslücken sind Attacken auf mehrere Cisco-Produkte möglich. Updates sind verfügbar.",
       "url": "https://www.heise.de/news/Angreifer-koennen-Ciscos-VoIP-System-Unified-Communications-Manager-lahmlegen-9843447.html",
       "image_title": "Stilisiertes Bild: Ein Stapel brennender Cisco-Appliances"
+    },
+    {
+      "title": "Microsoft reagiert auf lahmgelegte Linux-Bootloader durch Windows Update",
+      "teaser": "Die Windows-Updates aus dem August haben Linuxe lahmgelegt und diese am Booten gehindert. Microsoft benennt nun die Ursache.",
+      "url": "https://www.heise.de/news/Microsoft-reagiert-auf-lahmgelegte-Linux-Bootloader-durch-Windows-Update-9843516.html",
+      "image_title": "Stilisiertes Bild: Türsteher vor \"The Windows Club\" lässt Pinguine nicht hinein"
     },
     {
       "title": "Google Chrome: Update stopft angegriffene Sicherheitslücke und 37 weitere",
@@ -157,12 +164,6 @@
       "teaser": "Die EU-Cybersicherheitsbehörde ENISA sucht private Dienstleister für EU und Mitgliedstaaten. Sie sollen die IT-Sicherheit stärken.",
       "url": "https://www.heise.de/news/Ausschreibung-EU-sucht-Cybersicherheits-Kompetenz-9841421.html",
       "image_title": "Anzugträger um einen Tisch mit Leuchtanzeige einer Karte"
-    },
-    {
-      "title": "Microsoft: Fahrplan zur Mehr-Faktor-Authentifizierung in Azure konkretisiert",
-      "teaser": "Bislang war klar, dass Microsoft alle Azure-Konten auf Mehr-Faktor-Authentifizierung umstellen will. Nun gibt es einen konkreten Zeitplan.",
-      "url": "https://www.heise.de/news/Microsoft-Fahrplan-zur-Mehr-Faktor-Authentifizierung-in-Azure-konkretisiert-9841220.html",
-      "image_title": "Ein Laptop mit einem Schutzschild auf dem Bildschirm"
     },
     {
       "title": "NTLM–Webinar",
