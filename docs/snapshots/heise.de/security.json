@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-23T07:00:34",
+  "timestamp": "2024-08-23T08:09:41",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Sonicwall-Firewalls",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Attacken-auf-Sonicwall-Firewalls-koennen-Crash-ausloesen-9845138.html"
+    },
+    {
       "title": "SolarWinds Web Help Desk",
       "url": "https://www.heise.de/news/Erneut-kritische-Sicherheitsluecke-in-Solarwinds-Web-Help-Desk-geschlossen-9843636.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Admin-Attacken-auf-GitHub-Enterprise-Server-moeglich-9843620.html"
     },
     {
-      "title": "Cisco",
-      "url": "https://www.heise.de/news/Angreifer-koennen-Ciscos-VoIP-System-Unified-Communications-Manager-lahmlegen-9843447.html"
+      "title": "heise security Webinar: Security & IoT im Unternehmen - wie kann das gehen?",
+      "teaser": "IoT-Geräte stellen eine massiv unterschätzte Gefahr für Unternehmens-IT dar. Doch mit dem Hintergrundwissen aus diesem Webinar bekommen Admins das in den Griff.",
+      "url": "https://www.heise.de/news/heise-security-Webinar-Security-IoT-im-Unternehmen-wie-kann-das-gehen-9841272.html"
+    },
+    {
+      "title": "Sicherheitsupdate: Attacken auf Sonicwall-Firewalls können Crash auslösen",
+      "teaser": "Um Netzwerke von Unternehmen zu schützen, sollten Admins ihre Firewalls von Sonicwall zeitnah auf den aktuellen Stand bringen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Attacken-auf-Sonicwall-Firewalls-koennen-Crash-ausloesen-9845138.html",
+      "image_title": "Ein Warndreieck"
     },
     {
       "title": "SIM-Swapping: Mobilfunkprovider bestätigen geringe Gefahr",
@@ -152,18 +163,6 @@
       "teaser": "Bislang war klar, dass Microsoft alle Azure-Konten auf Mehr-Faktor-Authentifizierung umstellen will. Nun gibt es einen konkreten Zeitplan.",
       "url": "https://www.heise.de/news/Microsoft-Fahrplan-zur-Mehr-Faktor-Authentifizierung-in-Azure-konkretisiert-9841220.html",
       "image_title": "Ein Laptop mit einem Schutzschild auf dem Bildschirm"
-    },
-    {
-      "title": "Anonymisierendes Linux: Tails 6.6 beschleunigt Installation mit Tails-Cloner",
-      "teaser": "Die anonymisierende Linux-Distribution Tails 6.6 bringt aktuelle Firmware für Hardware und beschleunigt den Tails-Cloner.",
-      "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-6-6-beschleunigt-Installation-mit-Tails-Cloner-9840845.html",
-      "image_title": "Tails-Desktop auf Notebook auf einem Tisch"
-    },
-    {
-      "title": "Microsoft Office reißt Sicherheitslücke in macOS - nur zwei Programme gepatcht",
-      "teaser": "Word, Outlook, PowerPoint, OneNote, Excel, Teams: Problematischer Code in den macOS-Versionen konnte laut Cisco Talos Apples Sicherheitsmodell kompromittieren.",
-      "url": "https://www.heise.de/news/Microsoft-Office-reisst-Sicherheitsluecke-in-macOS-nur-zwei-Programme-gepatcht-9840679.html",
-      "image_title": "Schild \"Microsoft\" an Einfahrt zu Firmencampus, dahinter Bäume"
     },
     {
       "title": "NTLM–Webinar",
