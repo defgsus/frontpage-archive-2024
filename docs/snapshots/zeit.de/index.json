@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-24T13:09:03",
+  "timestamp": "2024-08-24T14:01:01",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -14,6 +14,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
@@ -98,22 +104,22 @@
   ],
   "articles": [
     {
-      "title": "An dieser Stelle ist ein externer Inhalt eingebunden",
-      "teaser": "Zum Anschauen benötigen wir Ihre Zustimmung",
-      "url": "https://www.zeit.de/gesellschaft/2024-08/anschlag-solingen-messerangriff-polizei-pressekonferenz-live",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-08/solingen-angriff-pk/wide__1000x562"
+      "title": "Z+ (abopflichtiger Inhalt); Messerattacke in Solingen : Durchsuchungen im gesamten Bundesgebiet nach Solinger Anschlag",
+      "teaser": "Ein festgenommener 15-Jähriger könnte von Angriffsplänen in Solingen gewusst haben, ist aber bislang nicht tatverdächtig. Die Polizei ermittelt gegen Unbekannt.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-08/messerattacke-solingen-ermittlung-polizei-neuigkeiten-taeter",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-08/messerattacke-solingen-ermittlung-polizei-neuigkeiten-taeter-bild/wide__1000x562"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Messerangriff in Solingen : Was über den Anschlag auf dem Solinger Stadtfest bekannt ist",
+      "teaser": "Nach dem Angriff in Solingen fahndet die Polizei nach dem Täter. Ein Mann sitzt in Gewahrsam, nach Polizeiangaben ist es nicht der Angreifer. Was bisher bekannt ist.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-08/solingen-messerangriff-anschlag-was-ist-bekannt",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-08/solingen-anschlag-messerangriff-was-ist-bekannt-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Solingen : \"Man kennt diese Bilder aus dem Krieg\"",
       "teaser": "Auf einem Stadtfest in Solingen tötet ein Unbekannter drei Menschen mit einem Messer und flieht. Reportage einer Nacht im Schockzustand",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-08/solingen-messer-anschlag-flucht",
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-08/solingen-messer-anschlag-flucht-bild-2/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Messerangriff in Solingen : Was über den Anschlag auf dem Solinger Stadtfest bekannt ist",
-      "teaser": "Nach dem Angriff in Solingen fahndet die Polizei nach dem Täter. Ein anderer Mann sitzt in Gewahrsam, die Tatwaffe soll gefunden worden sein. Was bisher bekannt ist.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-08/solingen-messerangriff-anschlag-was-ist-bekannt",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-08/solingen-anschlag-messerangriff-was-ist-bekannt-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Attacke auf Stadtfest : Nachbarstädte sagen nach Messerangriff in Solingen Feste ab",
@@ -123,7 +129,7 @@
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Frankreich : Emmanuel Macron spricht von einem \"Terrorakt\" auf Synagoge",
-      "teaser": "Vor einer Synagoge nahe Montpellier brannten zwei Autos, ein Polizist wurde verletzt. Politiker verurteilen den Angriff, die Antiterrorstaatsanwaltschaft ermittelt.",
+      "teaser": "Vor einer Synagoge nahe Montpellier brannten zwei Autos, ein Polizist wurde verletzt. Der Täter soll bewaffnet gewesen sein, die Antiterrorstaatsanwaltschaft ermittelt.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-08/explosion-synagoge-la-grande-motte-montpellier-polizist-verletzt",
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-08/explosion-synagoge-la-grande-motte-montpellier-polizist-verletzt-bild/super__430x286"
     },
@@ -140,22 +146,16 @@
       "image_url": "https://img.zeit.de/2024-08/ukraine-krieg-news-liveblog-bild-4/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Smartphone-Nutzung : Papa, du bist schon wieder am Handy!",
-      "teaser": "Die Familie meckert, weil der Vater am Smartphone hängt. Ab wann ist man ein schlechtes Vorbild? Über feste Ablageorte und wann das Handy zum positiven Eltern-Tool wird.",
-      "url": "https://www.zeit.de/familie/2024-07/smartphone-nutzung-sucht-bildschirmzeit-familie-vorbild-kinder-eltern",
-      "image_url": "https://img.zeit.de/familie/2024-08/smartphone-nutzung-sucht-bildschirmzeit-familie/wide__892x501"
+      "title": "Z+ (abopflichtiger Inhalt); Rohe Lebensmittel : Besser ein rohes Steak als zermatschten Tartar",
+      "teaser": "Eier, Gemüse, Fleisch: Raw-Food-Anhänger essen ausschließlich rohe Lebensmittel. Mythos oder urgesund? Wie unser Körper auf Rohes reagiert, und wann es gefährlich wird.",
+      "url": "https://www.zeit.de/gesundheit/2024-08/roh-lebensmittel-koerper-gesundheit-fleisch",
+      "image_url": "https://img.zeit.de/gesundheit/2024-08/roh-lebensmittel-koerper-gesundheit-fleisch-bild/wide__892x501"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); RB Leipzig : Seine Retorte lässt man nicht im Regen stehen",
       "teaser": "RB Leipzig ist der meistgehasste Fußballclub des Landes. Wenn man die Fans im Westen fragt. Der Retortenverein kann jedoch nichts für die Unfähigkeit seiner Konkurrenten.",
       "url": "https://www.zeit.de/kultur/2024-08/rb-leipzig-fussball-wettbewerb-kommerzialisierung-red-bull",
       "image_url": "https://img.zeit.de/kultur/2024-08/zwe-rb-leipzig-fussball-wettbewerb-kommerzialisierung-red-bull-farbe/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); TSG Hoffenheim : Königsmord in Hoffenheim",
-      "teaser": "Shakespeare bei der TSG Hoffenheim: Dort wollen viele Fans ausgerechnet den Mann loswerden, der ihr Fantum erst ermöglicht hat – den Mäzen Dietmar Hopp. Warum auch nicht?",
-      "url": "https://www.zeit.de/sport/2024-08/tsg-hoffenheim-dietmar-hopp-fussball-gruenflaeche",
-      "image_url": "https://img.zeit.de/sport/2024-08/tsg-hoffenheim-dietmar-hopp-proteste-bundesliga-01/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Eltern-Burn-out • Das Wichtigste aus Z+ : Warum sind Eltern hier so gestresst?",
@@ -224,16 +224,10 @@
       "image_url": "https://img.zeit.de/2024/36/hitze-phoenix-temperatur-hitzetod-klimawandel-teaserbild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Mike Lynch : Staatsanwaltschaft ermittelt nach Jachtunglück wegen Totschlags",
-      "teaser": "Nach dem Tod des Softwareunternehmers Mike Lynch ermittelt die italienische Staatsanwaltschaft. Laut einem Experten hat die Crew möglicherweise Fehler gemacht.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-08/lynch-staatsanwaltschaft-ermittlungen-tochter",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-08/staatsanwaltschaft-ermittelt-luxusyacht-bild-2/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Verteidigungspolitik : Längst kein Grund für eine Wehrpflicht",
-      "teaser": "Wehrhaft werden, aber wer genau? Die Rückkehr der Wehrpflicht ist keine Lösung, sagt die Juristin Dana Schmalz. Es gibt effizientere Ideen als die der nationalen Armeen.",
-      "url": "https://www.zeit.de/kultur/2024-08/verteidigungspolitik-wehrpflicht-debatte-europa-dana-schmalz",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-07/wehrpflicht-bundeswehr-jakub-wiech-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Smartphone-Nutzung : Papa, du bist schon wieder am Handy!",
+      "teaser": "Die Familie meckert, weil der Vater am Smartphone hängt. Ab wann ist man ein schlechtes Vorbild? Über feste Ablageorte und wann das Handy zum positiven Eltern-Tool wird.",
+      "url": "https://www.zeit.de/familie/2024-07/smartphone-nutzung-sucht-bildschirmzeit-familie-vorbild-kinder-eltern",
+      "image_url": "https://img.zeit.de/familie/2024-08/smartphone-nutzung-sucht-bildschirmzeit-familie/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Männercamps : Rudelbildung am Fleischwolf",
@@ -254,10 +248,10 @@
       "image_url": "https://img.zeit.de/2024/36/sandra-maischberger-leni-riefenstahl-dokumentarfilm-vergangenheit-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Wolf Biermann • Das Beste aus Z+ : \"Wagenknecht und Höcke sind das politische Brautpaar der Stunde\"",
-      "teaser": "Kurz vor den Landtagswahlen rechnet der Liedermacher Wolf Biermann mit dem Osten ab. Höcke und Wagenknecht nennt er Erben von Hitler und Stalin.",
-      "url": "https://www.zeit.de/kultur/2024-08/wolf-biermann-ostdeutschland-sahra-wagenknecht-afd-interview",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-08/wolf-biermann-ostdeutschland-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Verteidigungspolitik : Längst kein Grund für eine Wehrpflicht",
+      "teaser": "Wehrhaft werden, aber wer genau? Die Rückkehr der Wehrpflicht ist keine Lösung, sagt die Juristin Dana Schmalz. Es gibt effizientere Ideen als die der nationalen Armeen.",
+      "url": "https://www.zeit.de/kultur/2024-08/verteidigungspolitik-wehrpflicht-debatte-europa-dana-schmalz",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-07/wehrpflicht-bundeswehr-jakub-wiech-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Politische Rhetorik : Im Land der kleinen Leute",
@@ -288,6 +282,12 @@
       "teaser": "\"Rose, die Wespen werden immer aggressiver. Hast du Vorschläge, wie man sich vor ihnen schützen kann?\", fragt Sara.",
       "url": "https://www.zeit.de/entdecken/2024-08/wespen-wie-schuetzen-aggressiv-insekten-sommer",
       "image_url": "https://img.zeit.de/entdecken/2024-08/zwe-wespen-wie-schuetzen-aggressiv-insekten-sommer-neu/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Anschlag in Solingen : Polizei mahnt Menschen in Solingen zur Vorsicht",
+      "teaser": "Ein erster Festgenommener nach dem Anschlag in Solingen ist offenbar nicht der Täter. Die Polizei warnt, der Angreifer sei weiter flüchtig, und warnt vor Spekulationen.",
+      "url": "https://www.zeit.de/gesellschaft/2024-08/anschlag-solingen-polizei-vorsicht-messerangriff",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-08/polizei-aufruf-solingen-vorsicht-bild/super__320x213"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Coronaproteste : Nur elf Verurteilungen nach Krawallen am Reichstagsgebäude",
@@ -324,12 +324,6 @@
       "teaser": "Friedrich Merz ist überrascht von der Intensität der Stimmung gegen Grüne. In der Frage nach schwarz-grünen Koalitionen sind führende Unionspolitiker weiter uneins.",
       "url": "https://www.zeit.de/politik/deutschland/2024-08/friedrich-merz-kritik-hass-gegen-gruene",
       "image_url": "https://img.zeit.de/politik/deutschland/2024-08/merz-habeck-kritik-gruene/super__320x213"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Reaktionen auf Anschlag in Solingen : \"Wir dürfen so etwas in unserer Gesellschaft nicht akzeptieren\"",
-      "teaser": "Olaf Scholz fordert nach dem Anschlag in Solingen, der Täter müsse hart bestraft werden. Nancy Faeser sicherte Nordrhein-Westfalen \"jede Unterstützung des Bundes\" zu.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-08/solingen-anschlag-reaktionen-herbert-reul-hendrik-wuest",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-08/solingen-anschlag-reaktionen-herbert-reul-hendrik-wuest-bild-5/super__320x213"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Mangoldpuffer mit Feta : Jeder Tag ist Puffertag",
@@ -435,7 +429,7 @@
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Messerangriff in Solingen : Was über den Anschlag auf dem Solinger Stadtfest bekannt ist",
-      "teaser": "Nach dem Angriff in Solingen fahndet die Polizei nach dem Täter. Ein anderer Mann sitzt in Gewahrsam, die Tatwaffe soll gefunden worden sein. Was bisher bekannt ist.",
+      "teaser": "Nach dem Angriff in Solingen fahndet die Polizei nach dem Täter. Ein Mann sitzt in Gewahrsam, nach Polizeiangaben ist es nicht der Angreifer. Was bisher bekannt ist.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-08/solingen-messerangriff-anschlag-was-ist-bekannt"
     },
     {
@@ -456,7 +450,7 @@
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Messerangriff in Solingen : Was über den Anschlag auf dem Solinger Stadtfest bekannt ist",
-      "teaser": "Nach dem Angriff in Solingen fahndet die Polizei nach dem Täter. Ein anderer Mann sitzt in Gewahrsam, die Tatwaffe soll gefunden worden sein. Was bisher bekannt ist.",
+      "teaser": "Nach dem Angriff in Solingen fahndet die Polizei nach dem Täter. Ein Mann sitzt in Gewahrsam, nach Polizeiangaben ist es nicht der Angreifer. Was bisher bekannt ist.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-08/solingen-messerangriff-anschlag-was-ist-bekannt"
     },
     {
@@ -703,22 +697,22 @@
       "image_url": "https://img.zeit.de/gesellschaft/2024-07/cover-z-verbrechen-abc-2/super__320x213"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Livestream:Anschlag in Solingen : Polizei informiert über die Fahndung nach dem Täter",
+      "teaser": "Was sind die neuesten Erkenntnisse über den Anschlag in Solingen? Gibt es Hinweise auf den Täter? Die Polizei berichtet über den Ermittlungsstand. Jetzt im Livestream",
+      "url": "https://www.zeit.de/gesellschaft/2024-08/anschlag-solingen-messerangriff-polizei-pressekonferenz-live",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-08/solingen-angriff-pk/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Reaktionen auf Anschlag in Solingen : \"Wir dürfen so etwas in unserer Gesellschaft nicht akzeptieren\"",
+      "teaser": "Olaf Scholz fordert nach dem Anschlag in Solingen, der Täter müsse hart bestraft werden. Nancy Faeser sicherte Nordrhein-Westfalen \"jede Unterstützung des Bundes\" zu.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-08/solingen-anschlag-reaktionen-herbert-reul-hendrik-wuest",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-08/solingen-anschlag-reaktionen-herbert-reul-hendrik-wuest-bild-5/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Großbritannien : Britische Justiz soll wegen voller Gefängnisse Haftstrafen verzögern",
       "teaser": "Schon lange sind britische Gefängnisse am Limit, nach rechtsextremen Ausschreitungen gibt es zudem viele neue Häftlinge. Andere sollen deshalb früher entlassen werden.",
       "url": "https://www.zeit.de/gesellschaft/2024-08/grossbritannien-justiz-gefaengnisse-ueberfuellung-rechtsextreme-ausschreitungen",
       "image_url": "https://img.zeit.de/politik/ausland/2024-08/grossbritannien-justiz-gefaengnisse-ueberfuellung-rechtsextreme-ausschreitungen-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Kürzungen im Bundeshaushalt : Wohlfahrtsverbände müssen Plätze für Freiwilligendienste streichen",
-      "teaser": "Sie arbeiten im Altersheim, Naturschutz oder Rettungsdienst: Vor allem junge Menschen leisten Freiwilligendienste. Durch die Haushaltskürzungen gibt es weniger Plätze.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-08/freiwilligendienst-verbaende-kuerzen-plaetze-haushalt",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-08/freiwilligendienst-verbaende-kuerzen-plaetze-haushalt-bild-2/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Taylor Swift : Verdächtige von Anschlagsplänen in Wien bleiben in U-Haft",
-      "teaser": "Wegen Terroralarms wurden die Taylor-Swift-Konzerte in Wien abgesagt. Die drei festgenommenen Männer bleiben in U-Haft – \"wegen Verdunkelungs- und Tatbegehungsgefahr\".",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-08/oesterreich-taylor-swift-wien-terror-uhaft",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-08/austria-untersuchungshaft-verdaechtige-swift-konzerten-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); US-Wirtschaft : Fed-Chef kündigt baldige Zinssenkung an",
@@ -745,18 +739,18 @@
       "image_url": "https://img.zeit.de/wirtschaft/2024-08/tiefbau-bild/super__430x286"
     },
     {
+      "title": "Alzchem : Dieses Unternehmen macht Deutschland unabhängiger von China",
+      "teaser": "Diabetesmedikamente, Airbags, Tierfutter: Für viele wichtige Produkte ist das bayerische Unternehmen Alzchem der einzige Zulieferer im Westen. Dem CEO fehlt jedoch die Unterstützung aus der Politik.",
+      "url": "https://www.wiwo.de/my/unternehmen/industrie/alzchem-dieses-unternehmen-macht-deutschland-unabhaengiger-von-china/29953036.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/alzchemd8501027781_luftbildaufnahme_chemiepark_trostberg/29953828/5-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
+      "image_title": "Dieses Unternehmen macht Deutschland unabhängiger von China"
+    },
+    {
       "title": "Wirtschaft von oben : Hier bauen die Superreichen geheime Bunker",
       "teaser": "Klima, Pandemie, politische Instabilität: In Zeiten globaler Krisen fürchten Prepper eine Apokalypse. Exklusive Satellitenbilder zeigen, wo die Reichen im Ernstfall unterkommen wollen.",
       "url": "https://www.wiwo.de/technologie/wirtschaft-von-oben/wirtschaft-von-oben-276-bunker-hier-bauen-die-superreichen-geheime-bunker/29955186.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
       "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/teaserbild-zuckerberg_ueberblick_2024_01_18_airbus_spot-tiny/29955358/2-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
       "image_title": "Hier bauen die Superreichen geheime Bunker"
-    },
-    {
-      "title": "Bauen in Deutschland : „Beim Umbau oder bei Sanierungen wird aktuell viel Quatsch gemacht“",
-      "teaser": "Mit dem Konzept „Einfach Bauen“ trifft der Architekt Florian Nagler einen Nerv. Im Interview erklärt er, wie Bauherren damit Kosten senken können – und warum bei Sanierungen viel schiefläuft.",
-      "url": "https://www.wiwo.de/finanzen/immobilien/bauen-in-deutschland-beim-umbau-oder-bei-sanierungen-wird-aktuell-viel-quatsch-gemacht/29954150.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/2402_einfachbauen_badaibling_0187/29954910/4-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
-      "image_title": "„Beim Umbau oder bei Sanierungen wird aktuell viel Quatsch gemacht“"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); TikTok : Eine Woche im Männer-Fascho-Algo",
@@ -777,6 +771,12 @@
       "image_url": "https://img.zeit.de/kultur/2024-07/kamala-harris-us-wahlkampf-internet-memes/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Wolf Biermann • Das Beste aus Z+ : \"Wagenknecht und Höcke sind das politische Brautpaar der Stunde\"",
+      "teaser": "Kurz vor den Landtagswahlen rechnet der Liedermacher Wolf Biermann mit dem Osten ab. Höcke und Wagenknecht nennt er Erben von Hitler und Stalin.",
+      "url": "https://www.zeit.de/kultur/2024-08/wolf-biermann-ostdeutschland-sahra-wagenknecht-afd-interview",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-08/wolf-biermann-ostdeutschland-bild/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Rita Bullwinkel : Jeder Kampf ein Kapitel",
       "teaser": "Ihr Debüt hat es auf die Bücherliste von Barack Obama geschafft. Rita Bullwinkel erzählt in \"Schlaglicht\" von acht jungen Boxerinnen. Sie sagt: \"Es ist alles in mir.\"",
       "url": "https://www.zeit.de/2024/36/rita-bullwinkel-schlaglicht-roman-barack-obama",
@@ -789,23 +789,22 @@
       "image_url": "https://img.zeit.de/kultur/film/2024-08/kloeppel/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Israel und die USA : \"Hier passiert etwas Tiefgreifendes\"",
-      "teaser": "Bislang waren die USA so etwas wie die Lebensversicherung Israels. Doch Jüdinnen und Juden haben den Eindruck: Das könnte sich gerade ändern.",
-      "url": "https://www.zeit.de/kultur/2024-08/israel-usa-beziehung-nahostkonflikt-sicherheit",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-08/israel-usa-beziehung-nahostkonflikt-sicherheit-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Lieblingsemojis : 😂😂😂",
-      "teaser": "Dem Lieblingsemoji der Deutschen spritzen Tränen des Lachens aus den Augen. Wie das Gesicht von Olaf Scholz oder die Weisheit des Rappers Gzuz passt es eigentlich immer.",
-      "url": "https://www.zeit.de/2024/36/lieblingsemojis-deutschland-studie-smiley-lachen",
-      "image_url": "https://img.zeit.de/kultur/musik/2024-08/lieblingsemojis-deutschland-studie-smiley/super__430x286",
-      "image_title": "lieblingsemojis-deutschland-studie-smiley"
+      "title": "Z+ (abopflichtiger Inhalt); Taylor Swift : Verdächtige von Anschlagsplänen in Wien bleiben in U-Haft",
+      "teaser": "Wegen Terroralarms wurden die Taylor-Swift-Konzerte in Wien abgesagt. Die drei festgenommenen Männer bleiben in U-Haft – \"wegen Verdunkelungs- und Tatbegehungsgefahr\".",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-08/oesterreich-taylor-swift-wien-terror-uhaft",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-08/austria-untersuchungshaft-verdaechtige-swift-konzerten-bild/super__430x286"
     },
     {
       "title": "An dieser Stelle ist ein externer Inhalt eingebunden",
       "teaser": "Zum Anschauen benötigen wir Ihre Zustimmung",
       "url": "https://www.zeit.de/gesellschaft/2023-11/schwarze-menschen-ddr-mauerfall-rassismus",
       "image_url": "https://img.zeit.de/gesellschaft/2023-11/samuel-meffire-ddr/wide__892x501"
+    },
+    {
+      "title": "US-Wahlkampf : Robert F. Kennedy gibt Präsidentschaftskandidatur auf",
+      "teaser": "Der parteilose US-Präsidentschaftskandidat Robert F. Kennedy hat sich aus dem Wahlkampf zurückgezogen. Bei einer Veranstaltung stellte er sich hinter Donald Trump.",
+      "url": "https://www.zeit.de/video/2024-08/6360940048112/us-wahlkampf-robert-f-kennedy-gibt-praesidentschaftskandidatur-auf",
+      "image_url": "https://img.zeit.de/video/2024-08/6360940048112-still/super__430x286"
     },
     {
       "title": "Niedersachsen : Angeschlagene Meyer Werft soll zeitweise verstaatlicht werden",
@@ -818,12 +817,6 @@
       "teaser": "Auf der isländischen Halbinsel Reykjanes ist es erneut zu Vulkanausbrüchen gekommen. Aus einem kilometerlangen Riss quellen große Mengen Lava, ein Dorf wurde evakuiert.",
       "url": "https://www.zeit.de/video/2024-08/6360875576112/island-sechster-vulkanausbruch-in-neun-monaten",
       "image_url": "https://img.zeit.de/video/2024-08/6360875576112-still/super__430x286"
-    },
-    {
-      "title": "Untergang der \"Bayesian\" : Techmilliardär Mike Lynch tot aus Luxusjacht geborgen",
-      "teaser": "Nach dem Untergang der Luxusjacht \"Bayesian\" vor der Küste Siziliens wurden weitere Leichen aus dem Wasser geborgen. Darunter auch die des Schiffseigentümers Mike Lynch.",
-      "url": "https://www.zeit.de/video/2024-08/6360812545112/untergang-der-bayesian-techmilliardaer-mike-lynch-tot-aus-luxusjacht-geborgen",
-      "image_url": "https://img.zeit.de/video/2024-08/6360812545112-still/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Fischerei : Weltweite Fischbestände noch stärker bedroht als bisher angenommen",
@@ -965,11 +958,11 @@
       "image_url": "https://img.zeit.de/campus/2024/04/herausforderung-karriere-leben-bildung-teaser/wide__892x501"
     },
     {
-      "title": "Verlagsangebot : Und was macht man dann damit?",
-      "teaser": "Was verbirgt sich konkret hinter den sperrigen Studiengangsbezeichnungen? Einen Einblick in mögliche Berufsfelder liefert die Suchmaschine für Studienangebote.",
-      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.kaffeepause_wasmachtmandamit.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_kaffeepause_wasmachtmandamit_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-4-klein/photo-of-women-looking-on-monitors-197.jpg",
-      "image_title": "Und was macht man dann damit?"
+      "title": "Verlagsangebot : Welcher Studiengang passt zu mir?",
+      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
+      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.bildtext.allein.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=campus-verlagsteaser&amp;utm_content=sit_bildtext_allein_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/sit-gruppe/wide__430x286__desktop",
+      "image_title": "Welcher Studiengang passt zu mir?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Herzfehler in der Uni : Wie lebt man ein ganzes Leben mit halbem Herz, Sabrina Lorenz?",
@@ -1027,48 +1020,48 @@
       "image_url": "https://img.zeit.de/hamburg/2024-08/segeln-alster-segelverein-andreas-borrink-picture/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); TSG Hoffenheim : Königsmord in Hoffenheim",
+      "teaser": "Shakespeare bei der TSG Hoffenheim: Dort wollen viele Fans ausgerechnet den Mann loswerden, der ihr Fantum erst ermöglicht hat – den Mäzen Dietmar Hopp. Warum auch nicht?",
+      "url": "https://www.zeit.de/sport/2024-08/tsg-hoffenheim-dietmar-hopp-fussball-gruenflaeche",
+      "image_url": "https://img.zeit.de/sport/2024-08/tsg-hoffenheim-dietmar-hopp-proteste-bundesliga-01/wide__892x501"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Bundesliga : 90.+11",
       "teaser": "Ein Auftaktspiel voller Wendungen, Abwehrfehler, Traumschüsse und einer Menge VAR-Ärger – am Ende heißt der Sieger wieder mal Bayer Leverkusen.",
       "url": "https://www.zeit.de/sport/2024-08/bayer-leverkusen-borussia-moenchengladbach-var-bundesliga-auftakt",
-      "image_url": "https://img.zeit.de/sport/2024-08/florian-wirtz-sieg-leverkusen-gladbach-bundesliga-auftakt/wide__892x501"
+      "image_url": "https://img.zeit.de/sport/2024-08/florian-wirtz-sieg-leverkusen-gladbach-bundesliga-auftakt/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Bundesliga, 1. Spieltag : Bayer Leverkusen feiert gelungenen Saisonauftakt gegen Mönchengladbach",
-      "teaser": "Mit einem späten Sieg über die Borussia startet Leverkusen in die neue Bundesligasaison. Die Entscheidung fällt per Elfmeter in der Nachspielzeit. Der Spielbericht",
-      "url": "https://www.zeit.de/sport/2024-08/bundesliga-erster-spieltag-leverkusen-besiegt-moenchengladbach",
-      "image_url": "https://img.zeit.de/sport/2024-08/leverkusen-gladbach-sieg-bundesliga-auftakt/super__430x286"
+      "title": "Messerangriff bei Stadtfest: 15-Jähriger nach Messerangriff von Solingen festgenommen",
+      "url": "https://www.zeit.de/news/2024-08/24/15-jaehriger-nach-messerangriff-von-solingen-festgenommen"
     },
     {
-      "title": "2. Fußball-Bundesliga: Maza rettet Herthas Start: 2:0 gegen Regensburg",
-      "url": "https://www.zeit.de/news/2024-08/24/maza-rettet-herthas-start-2-0-gegen-regensburg"
+      "title": "Feuer: Mensch bei Hausbrand in Donzdorf verletzt",
+      "url": "https://www.zeit.de/news/2024-08/24/mensch-bei-hausbrand-in-donzdorf-verletzt"
     },
     {
-      "title": "Angriffe: Aggressive Hornissen attackieren Spaziergänger",
-      "url": "https://www.zeit.de/news/2024-08/24/aggressive-hornissen-attackieren-spaziergaenger"
+      "title": "Messerangriff bei Stadtfest: Noch kein Bildmaterial vom Täter von Solingen",
+      "url": "https://www.zeit.de/news/2024-08/24/noch-kein-bildmaterial-vom-taeter-von-solingen"
     },
     {
-      "title": "Portugiesische Insel: Waldbrand auf Madeira unter Kontrolle",
-      "url": "https://www.zeit.de/news/2024-08/24/waldbrand-auf-madeira-unter-kontrolle"
+      "title": "Wetter: Waldbrandgefahr in Thüringen ist gestiegen - Gewitter kommen",
+      "url": "https://www.zeit.de/news/2024-08/24/waldbrandgefahr-in-thueringen-ist-gestiegen-gewitter-kommen"
     },
     {
-      "title": "Notfälle: 41-Jährige stirbt während Böhse-Onkelz-Konzertes in Berlin",
-      "url": "https://www.zeit.de/news/2024-08/24/41-jaehrige-stirbt-waehrend-boehse-onkelz-konzertes-in-berlin"
+      "title": "Migration: Flüchtlingsrat kritisiert Abschiebungen von Familien",
+      "url": "https://www.zeit.de/news/2024-08/24/fluechtlingsrat-kritisiert-abschiebungen-von-familien"
     },
     {
-      "title": "Anschlag von Solingen: Zahl der Messerangriffe hat deutlich zugenommen",
-      "url": "https://www.zeit.de/news/2024-08/24/zahl-der-messerangriffe-hat-deutlich-zugenommen"
+      "title": "Arabische Halbinsel: Wandergruppe im Oman gerät in schwere Regenfälle - vier Tote",
+      "url": "https://www.zeit.de/news/2024-08/24/wandergruppe-im-oman-geraet-in-schwere-regenfaelle-vier-tote"
     },
     {
-      "title": "Messerangriff von Solingen: Tatwaffe von Solingen offenbar gefunden",
-      "url": "https://www.zeit.de/news/2024-08/24/tatwaffe-von-solingen-offenbar-gefunden"
+      "title": "2. Liga: Unions Fußballerinnen starten mit Remis in zweite Liga",
+      "url": "https://www.zeit.de/news/2024-08/24/unions-fussballerinnen-starten-mit-remis-in-zweite-liga"
     },
     {
-      "title": "Schlägerei bei Volksfest: Mehrere Verletzte nach Schlägerei bei Dorffest",
-      "url": "https://www.zeit.de/news/2024-08/24/mehrere-verletzte-nach-schlaegerei-bei-dorffest"
-    },
-    {
-      "title": "Messerangriff Solingen: Kirchen zu Solinger Anschlag: «Abgrund des Bösen»",
-      "url": "https://www.zeit.de/news/2024-08/24/kirchen-zu-solinger-anschlag-abgrund-des-boesen"
+      "title": "Messerangriff von Solingen: Polizeiaktionen im ganzen Land nach Angriff von Solingen",
+      "url": "https://www.zeit.de/news/2024-08/24/polizeiaktionen-im-ganzen-land-nach-angriff-von-solingen"
     }
   ]
 }
