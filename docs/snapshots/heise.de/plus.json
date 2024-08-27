@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-27T05:01:00",
+  "timestamp": "2024-08-27T06:09:56",
   "url": "https://www.heise.de/plus/",
   "response": {
     "status": 200
@@ -26,41 +26,49 @@
   ],
   "articles": [
     {
+      "title": "RatgeberWie Sie Musik live coden mit Sonic Pi unterstützt von Sprachmodellen",
+      "teaser": "Mit ein paar Zeilen Code programmieren Sie im kostenlosen Sonic Pi einen coolen Elektro-Track. Wir zeigen, wie ChatGPT bei aufwendigeren Songs helfen kann.",
+      "url": "https://www.heise.de/ratgeber/Wie-Sie-Musik-live-coden-mit-Sonic-Pi-unterstuetzt-von-Sprachmodellen-9829751.html"
+    },
+    {
+      "title": "HintergrundLaden und Batterie: Warum Elektroautos billiger werden und weiter fahren",
+      "teaser": "NMC- und LFP-Zellen werden vorerst dominant bleiben. Hier gibt es nur Feintuning. Das heißt aber nicht, dass nichts passiert: Anodenmaterialien verändern sich.",
+      "url": "https://www.heise.de/hintergrund/Serie-Laden-und-Batterie-III-Trends-in-der-Zellchemie-im-E-Auto-9811041.html",
+      "image_title": "Kia EV3"
+    },
+    {
+      "title": "HintergrundEine Analyse der xz-Hintertür, Teil 3",
+      "teaser": "Diesmal geht es um das zentrale Shellskript des Angreifers: Wie es beim Paketbau Schadcode in die xz-Bibliothek liblzma einfügt und woher der Schadcode kommt.",
+      "url": "https://www.heise.de/hintergrund/Eine-Analyse-der-xz-Hintertuer-Teil-3-9833538.html",
+      "image_title": ", Thorsten Hübner"
+    },
+    {
+      "title": "HintergrundWie man Logikrätsel mit Computerhilfe löst",
+      "teaser": "Mithilfe von Python und der Bibliothek PySAT Rätsel lösen: Um Probleme zu formalisieren, brauchen Sie boolesche Algebra. In all das führt dieser Artikel ein.",
+      "url": "https://www.heise.de/hintergrund/Wie-man-Logikraetsel-mit-Computerhilfe-loest-9834875.html",
+      "image_title": ", KI Collage c’t"
+    },
+    {
+      "title": "TestsKurztests: Drei In-Ear-Kopfhörer mit Bluetooth und Kabel",
+      "teaser": "Wir haben die Bluetooth-Kopfhörer von Beyerdynamic und Nothing sowie günstigen Kabel-In-Ears von Moondrop einem Trage- und Klangtest unterzogen.",
+      "url": "https://www.heise.de/tests/Kurztests-Drei-In-Ear-Kopfhoerer-mit-Bluetooth-und-Kabel-9823935.html"
+    },
+    {
       "title": "TestsFotografieren wie früher: Fujifilm X100 VI und Nikon Z f im Test",
       "teaser": "Außen analog, innen digital: Fujifilm X100 VI und Nikon Zf übernehmen das Bedienkonzept alter Filmkameras. Das hat Vorteile, aber auch gravierende Nachteile.",
       "url": "https://www.heise.de/tests/Fotografieren-wie-frueher-Fujifilm-X100-VI-und-Nikon-Z-f-im-Test-9834763.html"
-    },
-    {
-      "title": "RatgeberWie Sie macOS auf dem iPad nutzen​",
-      "teaser": "Das iPad ist bereits ein halber Laptop, warum nicht das mächtigere macOS darauf nutzen? Was Apple nicht will, geht tatsächlich.",
-      "url": "https://www.heise.de/ratgeber/Wie-Sie-macOS-auf-dem-iPad-nutzen-9824001.html"
-    },
-    {
-      "title": "TestsMit smarten Fahrradhelmen frei sprechen und sicher navigieren",
-      "teaser": "Mit smarten Fahrradhelmen hat man Navi und die Gesprächspartner im Ohr. Wir testen vier Modelle von Livall und Sena.",
-      "url": "https://www.heise.de/tests/Smarte-Fahrradhelme-im-Test-Frei-sprechen-und-sicher-navigieren-beim-Radfahren-9840905.html"
-    },
-    {
-      "title": "RatgeberSmarte Dashboards erstellen",
-      "teaser": "Es kann mühselig sein, Dashboards in Home Assistant zu erstellen. Wir zeigen, wie es intuitiv per Sektions-Ansicht geht.",
-      "url": "https://www.heise.de/ratgeber/Home-Assistant-Smarte-Dashboards-per-Drag-and-drop-erstellen-9770643.html"
-    },
-    {
-      "title": "TestsApple-Zubehör Im Test: iPhone-Feingewebe-Case und Darkboard iPad Drawing Stand",
-      "teaser": "Eine vegane Lederhülle fürs iPhone trifft auf eine iPad-Zeichenhilfe: Zwei Peripherieprodukte für Apple-User im Check.",
-      "url": "https://www.heise.de/tests/Apple-Zubehoer-Im-Test-iPhone-Feingewebe-Case-und-Darkboard-iPad-Drawing-Stand-9841809.html"
-    },
-    {
-      "title": "TestsDonner Medo: Portables Multifunktionsinstrument im Test",
-      "teaser": "Musik machen überall, ohne Steckdose, intuitiv und das ohne Üben und Lernen? Wir haben geprüft, ob das Donner Medo liefert, was der Hersteller verspricht.",
-      "url": "https://www.heise.de/tests/Donner-Medo-Portables-Multifunktionsinstrument-im-Test-9837767.html",
-      "image_title": ","
     },
     {
       "title": "heise-ChatbotPersönlicher IT-Experte: Beta-Version des heise-Chatbots für heise+ Abonnenten",
       "teaser": "Unser neuer Chatbot beantwortet ihre IT-Fragen mit Inhalten von heise online und heise+. Den Bot gibt es exklusiv als Betaversion für heise+ Abonnenten.",
       "url": "https://www.heise.de/news/Persoenlicher-IT-Experte-Beta-Version-des-heise-Chatbots-fuer-heise-Abonnenten-9753979.html",
       "image_title": "Der Chatbot mit dem physischen Botti"
+    },
+    {
+      "title": "Instant-Farbfilme fürs iPhone: Das leistet die Kino-App von den Halide-Machern",
+      "teaser": "Kino von Lux Optics verleiht iPhone-Videos eine Farbdramaturgie für die Leinwand. Wir haben die App getestet.",
+      "url": "https://www.heise.de/tests/Instant-Farbfilme-fuers-iPhone-Das-leistet-die-Kino-App-von-den-Halide-Machern-9848117.html",
+      "image_title": "Kino-App mit Funktionsüberblick"
     },
     {
       "title": "Hitzeschutz im Sommer: Expertentalk mit Clemens Gleich",
@@ -142,12 +150,6 @@
       "image_title": ", KI, Collage c’t"
     },
     {
-      "title": "Wissensmanagement: Einführung in Obsidian",
-      "teaser": "Es fallen immer Unmengen von Daten an, die gespeichert, sortiert und verknüpft werden wollen. Ideal ist dafür ein Wissensmanagementprogramm wie Obsidian.",
-      "url": "https://www.heise.de/ratgeber/Wissensmanagement-Einfuehrung-in-Obsidian-9832070.html",
-      "image_title": ", KI Midjourney Collage c't"
-    },
-    {
       "title": "Elektroauto GWM Ora 07 GT im Test: Wie reist es sich im Granturismo aus China?",
       "url": "https://www.heise.de/tests/Elektroauto-GWM-Ora-07-GT-im-Test-Wie-reist-es-sich-im-Granturismo-aus-China-9818127.html"
     },
@@ -160,6 +162,12 @@
       "title": "So hält die Batterie im Elektroauto ​​noch länger",
       "url": "https://www.heise.de/hintergrund/So-haelt-die-Batterie-im-Elektroauto-noch-laenger-9814834.html",
       "image_title": "BMW i5 an der Ladesäule"
+    },
+    {
+      "title": "Wissensmanagement: Einführung in Obsidian",
+      "teaser": "Es fallen immer Unmengen von Daten an, die gespeichert, sortiert und verknüpft werden wollen. Ideal ist dafür ein Wissensmanagementprogramm wie Obsidian.",
+      "url": "https://www.heise.de/ratgeber/Wissensmanagement-Einfuehrung-in-Obsidian-9832070.html",
+      "image_title": ", KI Midjourney Collage c't"
     },
     {
       "title": "Programme zum Literaturmanagement im Test",
@@ -236,11 +244,6 @@
       "image_title": "Govee Neon Rope Light 2 und Apple-Vision-Pro-Linsen-Einsätze von VR Optiker"
     },
     {
-      "title": "Powerbanks mit Power Delivery für Smartphones und Notebooks im Vergleich",
-      "teaser": "In den Beschreibungen aktueller Powerbanks geizen die Hersteller nicht mit Superlativen. Im Test zeigten fünf Modelle mit 20.000 mAh ihre Stärken und Schwächen.",
-      "url": "https://www.heise.de/tests/Powerbanks-mit-Power-Delivery-fuer-Smartphones-und-Notebooks-im-Vergleich-9840784.html"
-    },
-    {
       "title": "AnalyseSo abhängig ist Deutschland vom Strom aus dem Ausland",
       "teaser": "Aktuell importiert Deutschland mehr Strom als es exportiert. Das ist allerdings eine gute Nachricht und kein Zeichen für eine Energiekrise.",
       "url": "https://www.heise.de/hintergrund/So-abhaengig-ist-Deutschland-vom-Strom-aus-dem-Ausland-9770951.html"
@@ -291,14 +294,14 @@
       "url": "https://www.heise.de/tests/Elektroauto-Porsche-Taycan-im-Test-Neue-Dimension-des-Schnellladens-9831819.html"
     },
     {
-      "title": "Laden und Batterie: Warum Elektroautos billiger werden und weiter fahren",
-      "url": "https://www.heise.de/hintergrund/Serie-Laden-und-Batterie-III-Trends-in-der-Zellchemie-im-E-Auto-9811041.html",
-      "image_title": "Kia EV3"
-    },
-    {
       "title": "VolltrefferMotorrad Zero DS A1 für B196 und mit Betriebsrollerförderung​",
       "url": "https://www.heise.de/tests/Volltreffer-E-Motorrad-Zero-DS-A1-fuer-B196-und-mit-Betriebsrollerfoerderung-9796958.html",
       "image_title": "Zero DS"
+    },
+    {
+      "title": "E-MobilitätWarum Elektroautos immer schneller laden",
+      "url": "https://www.heise.de/hintergrund/Warum-Elektroautos-immer-schneller-laden-9805305.html",
+      "image_title": "Polestar beim Laden"
     },
     {
       "title": "Staatliche Hilfe bei der Einführung von KI-Tools bei deutschem Mittelstand",
@@ -315,6 +318,10 @@
       "url": "https://www.heise.de/tests/Rack-Server-mit-288-CPU-Kernen-im-Test-9843771.html"
     },
     {
+      "title": "Apple-Zubehör Im Test: iPhone-Feingewebe-Case und Darkboard iPad Drawing Stand",
+      "url": "https://www.heise.de/tests/Apple-Zubehoer-Im-Test-iPhone-Feingewebe-Case-und-Darkboard-iPad-Drawing-Stand-9841809.html"
+    },
+    {
       "title": "Für Unternehmens-AdminsPrivate und berufliche iPhone-Daten trennen",
       "url": "https://www.heise.de/ratgeber/Private-und-berufliche-Daten-trennen-So-geht-s-mit-dem-iPhone-9839907.html",
       "image_title": ", Ki generiert mit Midjourney von Madlen Grunert, Mac & i"
@@ -323,11 +330,6 @@
       "title": "Virtuell brainstormen mit dem Online-Whiteboard Miro",
       "url": "https://www.heise.de/ratgeber/Virtuell-brainstormen-mit-dem-Online-Whiteboard-Miro-9834915.html",
       "image_title": "Die Software Miro auf einem Laptop, Freepik.com; Montage: Mac & i"
-    },
-    {
-      "title": "Intelligentes für Entwickler: Rückblick auf die WWDC 2024 mit allen Details",
-      "url": "https://www.heise.de/hintergrund/Intelligentes-fuer-Entwickler-Rueckblick-auf-die-WWDC-2024-mit-allen-Details-9834029.html",
-      "image_title": ","
     },
     {
       "title": "Smartes KlosterSmartes Kloster: Erneuerbare Energien erleichtern griechischen Mönchen das Leben",
