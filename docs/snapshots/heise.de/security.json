@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-27T08:00:47",
+  "timestamp": "2024-08-27T09:00:43",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Wordpress-Plug-in WPML",
+      "url": "https://www.heise.de/news/Wordpress-1-Million-Webseiten-nutzen-verwundbares-Plug-in-WPML-9848419.html"
+    },
+    {
       "title": "Chrome und Edge",
       "url": "https://www.heise.de/news/Webbrowser-Weitere-Luecke-aktiv-ausgenutzt-Adobe-PDF-Viewer-aktualisiert-9848318.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Update-verfuegbar-IT-Sicherheitsloesung-IBM-QRadar-SIEM-ist-verwundbar-9845070.html"
     },
     {
-      "title": "Atlassian Bamboo, Confluence, Jira und Co.",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-Atlassian-patcht-Bamboo-Confluence-Jira-und-Co-9845032.html"
+      "title": "Wordpress: 1 Million Webseiten nutzen verwundbares Plug-in WPML",
+      "teaser": "Das Wordpress-Plug-in WPML kommt auf mehr als eine Million aktive Installationen. Jetzt wurde eine kritische Lücke darin gestopft.",
+      "url": "https://www.heise.de/news/Wordpress-1-Million-Webseiten-nutzen-verwundbares-Plug-in-WPML-9848419.html",
+      "image_title": "Laptop zeigt Wordpress-Logo, Viren fliegen herum"
     },
     {
       "title": "Webbrowser: Weitere Lücke aktiv ausgenutzt, Adobe PDF-Viewer aktualisiert",
@@ -156,11 +162,6 @@
       "teaser": "Das Wordpress-Plug-in LiteSpeed Cache ist auf 5 Millionen Seiten installiert. Nun haben IT-Forscher eine kritische Sicherheitslücke darin entdeckt.",
       "url": "https://www.heise.de/news/5-Millionen-Wordpress-Seiten-gefaehrdet-Kritisches-Leck-in-LiteSpeed-Cache-9843667.html",
       "image_title": "Mann arbeitet an einer Wordpress-Seite auf einem Laptop"
-    },
-    {
-      "title": "Admin-Attacken auf GitHub Enterprise Server möglich",
-      "teaser": "Unter bestimmten Voraussetzungen können Angreifer Admin-Accounts von GitHub Enterprise Server kapern.",
-      "url": "https://www.heise.de/news/Admin-Attacken-auf-GitHub-Enterprise-Server-moeglich-9843620.html"
     },
     {
       "title": "NTLM–Webinar",
