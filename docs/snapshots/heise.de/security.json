@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-28T09:01:39",
+  "timestamp": "2024-08-28T10:00:38",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Hitachi Ops Center",
+      "url": "https://www.heise.de/news/Hitachi-Ops-Center-Attacken-auf-Hitachi-Speicherinfrastruktur-moeglich-9849932.html"
+    },
+    {
       "title": "Ticketsystem OTRS",
       "url": "https://www.heise.de/news/Ticketsystem-OTRS-Angreifer-koennen-unverschluesselte-Passwoerter-einsehen-9849809.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Wordpress-1-Million-Webseiten-nutzen-verwundbares-Plug-in-WPML-9848419.html"
     },
     {
-      "title": "Chrome und Edge",
-      "url": "https://www.heise.de/news/Webbrowser-Weitere-Luecke-aktiv-ausgenutzt-Adobe-PDF-Viewer-aktualisiert-9848318.html"
+      "title": "Hitachi Ops Center: Attacken auf Hitachi-Speicherinfrastruktur möglich",
+      "teaser": "Hitachi Ops Center Common Services ist unter Linux verwundbar. Eine abgesicherte Version ist erschienen.",
+      "url": "https://www.heise.de/news/Hitachi-Ops-Center-Attacken-auf-Hitachi-Speicherinfrastruktur-moeglich-9849932.html"
     },
     {
       "title": "Ticketsystem OTRS: Angreifer können unverschlüsselte Passwörter einsehen",
@@ -159,12 +164,6 @@
       "image_title": "Edge Logo"
     },
     {
-      "title": "Phishing-Warnung vor betrügerischen ELSTER-Mails",
-      "teaser": "Das Thüringer Finanzministerium warnt vor einer Phishing-Welle mit ELSTER-Bezug. Die Betrüger haben es auf Kontoinformationen abgesehen.",
-      "url": "https://www.heise.de/news/Phishing-Warnung-vor-betruegerischen-ELSTER-Mails-9845602.html",
-      "image_title": "Krimineller phisht am Rechner, darüber sitzt eine Elster"
-    },
-    {
       "title": "NTLM–Webinar",
       "teaser": "Lernen Sie die Schwächen von NTLM kennen und erfahren Sie, wie Sicherheitsrisiken minimiert werden können. Ideal für Administratoren und Sicherheitsexperten, die ihre AD-Umgebung besser schützen wollen.",
       "url": "https://heise-academy.de/webinare/ntlm?wt_mc=intern.academy.security.web_ntlm.hs_teaser.teaser.teaser"
@@ -188,7 +187,7 @@
     {
       "title": "Re: Desinfect 2024: Einfach, schnell, funktioniert",
       "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Desinfect-2024-Einfach-schnell-funktioniert/posting-44362882/show/"
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Desinfect-2024-Einfach-schnell-funktioniert/posting-44367314/show/"
     },
     {
       "title": "Re: Desinfec't 2024: Scan-Assistent beendet sich einfach während des Update",
