@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-29T08:09:17",
+  "timestamp": "2024-08-29T09:00:48",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -19,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.da0e62670e69da2f8539",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.63057e8b8e68f72c6e4e",
       "id": null,
       "text": null
     },
@@ -31,6 +31,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Fortra FileCatalyst Workflow",
+      "url": "https://www.heise.de/news/Fortra-FileCatalyst-Workflow-Hintertuer-macht-Angreifer-zu-Admins-9851158.html"
+    },
     {
       "title": "Cisco",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Cisco-Switches-sind-fuer-DoS-Attacken-anfaellig-9850921.html"
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Ticketsystem-OTRS-Angreifer-koennen-unverschluesselte-Passwoerter-einsehen-9849809.html"
     },
     {
-      "title": "Versa Director",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Netzwerksoftware-Versa-Director-attackiert-9848543.html"
+      "title": "Fortra FileCatalyst Workflow: Hintertür macht Angreifer zu Admins",
+      "teaser": "Aufgrund von hartkodierten Zugangsdaten können sich Angreifer weitreichenden Zugriff auf Fortra FileCatalyst Workflow verschaffen.",
+      "url": "https://www.heise.de/news/Fortra-FileCatalyst-Workflow-Hintertuer-macht-Angreifer-zu-Admins-9851158.html"
     },
     {
       "title": "iX-Workshop: IT-Sicherheit nach ISO 27001 – Herausforderungen und Chancen",
@@ -158,12 +163,6 @@
       "teaser": "Phishing und Malware kombiniert ein Angreifer, um Geldautomaten Bankkarten vorzuspielen und per NFC Geld abzuheben. Beobachtet wurde das in Tschechien.​",
       "url": "https://www.heise.de/news/NFC-Malware-leert-tschechische-Bankkonten-9848256.html",
       "image_title": "Eine Person bedient einen Geldautomaten"
-    },
-    {
-      "title": "Secure Boot: Microsoft erweitert Workaround für parallele Linux-Installationen",
-      "teaser": "Die unausgereifte Linux-Erkennung im Windows-Update verursacht Probleme bei Parallelinstallationen. Microsofts Workaround soll das beheben, greift aber zu kurz.",
-      "url": "https://www.heise.de/news/Microsoft-erweitert-Workaround-fuer-Windows-SBAT-Update-9847760.html",
-      "image_title": "CrowdStrike-Ausfall auf einem Windows-PC"
     },
     {
       "title": "NTLM–Webinar",
