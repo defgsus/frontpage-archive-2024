@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-29T07:00:46",
+  "timestamp": "2024-08-29T08:09:17",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Cisco",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Cisco-Switches-sind-fuer-DoS-Attacken-anfaellig-9850921.html"
+    },
+    {
       "title": "Hitachi Ops Center",
       "url": "https://www.heise.de/news/Hitachi-Ops-Center-Attacken-auf-Hitachi-Speicherinfrastruktur-moeglich-9849932.html"
     },
@@ -44,19 +48,28 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Netzwerksoftware-Versa-Director-attackiert-9848543.html"
     },
     {
-      "title": "Wordpress-Plug-in WPML",
-      "url": "https://www.heise.de/news/Wordpress-1-Million-Webseiten-nutzen-verwundbares-Plug-in-WPML-9848419.html"
+      "title": "iX-Workshop: IT-Sicherheit nach ISO 27001 – Herausforderungen und Chancen",
+      "teaser": "Der Workshop zeigt, wie man Informationssicherheit im Unternehmen mit dem Sicherheitsstandard ISO 27001 umsetzt und welche Herausforderungen sich dabei stellen.",
+      "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-nach-ISO-27001-Herausforderungen-und-Chancen-9844269.html",
+      "image_title": "ix-Workshop IT-Sicherheit nach ISO 27001 umsetzen"
     },
     {
-      "title": "secIT Digital: Active Directory vor Ransomware & Co. schützen",
-      "teaser": "Die redaktionell ausgewählten Referenten der secIT Digital skizzieren die aktuelle IT-Bedrohungslage und zeigen, wie man Systeme effektiv schützt.",
-      "url": "https://www.heise.de/news/secIT-Digital-Active-Directory-vor-Ransomware-Co-schuetzen-9849990.html"
+      "title": "Sicherheitsupdates: Cisco Switches sind für DoS-Attacken anfällig",
+      "teaser": "Es sind wichtige Sicherheitsupdates für verschiedene Produkte des Netzwerkausrüsters Cisco erscheinen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Cisco-Switches-sind-fuer-DoS-Attacken-anfaellig-9850921.html",
+      "image_title": "Stilisiertes Bild: Ein Stapel brennender Cisco-Appliances"
     },
     {
       "title": "Prozessorhersteller AMD: Angeblich erneutes Datenleck",
       "teaser": "Nachdem AMD im Juni ein Datenleck untersucht hatte, sind nun erneut angeblich in einem Untergrundforum AMD-Daten zum Verkauf aufgetaucht.",
       "url": "https://www.heise.de/news/Angeblich-erneut-Datenleck-bei-AMD-9850379.html",
       "image_title": "Computer vor Serverschränken, auf dem Dataleak steht, drumherum lungern Datendiebe"
+    },
+    {
+      "title": "Intel-Verschlüsselungstechnik SGX: Root-Key ausgelesen, Angriff unwahrscheinlich",
+      "teaser": "Ein Experte überwand alle Schutzvorrichtungen gegen das Auslesen des zentralen SGX-Schlüssels aus einer Intel-CPU, aber praktisch hat das wenig Bedeutung.",
+      "url": "https://www.heise.de/news/Intel-Verschluesselungstechnik-SGX-Root-Key-ausgelesen-Angriff-unwahrscheinlich-9850355.html",
+      "image_title": "Intel-Prozessor auf Mainboard"
     },
     {
       "title": "Ransomware Qilin klaut Log-in-Daten aus Google Chrome",
@@ -85,6 +98,12 @@
       "teaser": "Die Entwickler des Open Ticket Request System haben mehrere Sicherheitslücken geschlossen.",
       "url": "https://www.heise.de/news/Ticketsystem-OTRS-Angreifer-koennen-unverschluesselte-Passwoerter-einsehen-9849809.html",
       "image_title": "Tastatur mit \"Time to update\"-Taste"
+    },
+    {
+      "title": "\"Passwort\" Folge 12: Zero Trust",
+      "teaser": "In Folge Nummer zwölf des Podcasts von heise security geht es um Zero Trust. Ein viel gehyptes Konzept, an dem aber durchaus etwas dran ist.",
+      "url": "https://www.heise.de/news/Passwort-Folge-12-Zero-Trust-9843182.html",
+      "image_title": "Bild vom heise-Security-Podcast"
     },
     {
       "title": "iX-Workshop: Zero Trust für eine sichere Unternehmens-IT",
@@ -145,23 +164,6 @@
       "teaser": "Die unausgereifte Linux-Erkennung im Windows-Update verursacht Probleme bei Parallelinstallationen. Microsofts Workaround soll das beheben, greift aber zu kurz.",
       "url": "https://www.heise.de/news/Microsoft-erweitert-Workaround-fuer-Windows-SBAT-Update-9847760.html",
       "image_title": "CrowdStrike-Ausfall auf einem Windows-PC"
-    },
-    {
-      "title": "Kommentar: Das verantwortungslose Schweigen der Hersteller muss ein Ende haben",
-      "teaser": "Wenn eine Sicherheitslücke aktiv ausgenutzt wird, braucht man Zusatz-Informationen. Jürgen Schmidt von heise security sieht da die Hersteller in der Pflicht.",
-      "url": "https://www.heise.de/meinung/Kommentar-Das-verantwortungslose-Schweigen-der-Hersteller-muss-ein-Ende-haben-9847706.html"
-    },
-    {
-      "title": "Untersuchung: FBI schlampt bei Entsorgung von Festplatten mit sensiblen Daten",
-      "teaser": "Laut dem Ergebnis einer Prüfung lagert und entsorgt die US-Sicherheitsbehörde FBI zum Beispiel Daten aus Kriminalfällen nicht fachgerecht.",
-      "url": "https://www.heise.de/news/Untersuchung-FBI-schlampt-bei-Entsorgung-von-Festplatten-mit-sensiblen-Daten-9847700.html",
-      "image_title": "Jacke mit FBI-Schriftzug"
-    },
-    {
-      "title": "iX-Workshop: Angriffe auf Entra ID abwehren",
-      "teaser": "Lernen Sie, wie Sie Entra ID einschließlich Azure-Diensten härten und effektiv vor Angriffen schützen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Angriffe-auf-Entra-ID-abwehren-9844064.html",
-      "image_title": "iX-Workshop Entra ID (AAD) gegen Angriffe absichern"
     },
     {
       "title": "NTLM–Webinar",
