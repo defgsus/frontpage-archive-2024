@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-29T09:00:48",
+  "timestamp": "2024-08-29T10:00:40",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.94163091db66e55c658c",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.5da952d9043b58acff99",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Alienware-Notebooks",
+      "url": "https://www.heise.de/news/BIOS-Update-Angreifer-koennen-Secure-Boot-auf-Alienware-Notebooks-deaktivieren-9851284.html"
+    },
     {
       "title": "Fortra FileCatalyst Workflow",
       "url": "https://www.heise.de/news/Fortra-FileCatalyst-Workflow-Hintertuer-macht-Angreifer-zu-Admins-9851158.html"
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Hitachi-Ops-Center-Attacken-auf-Hitachi-Speicherinfrastruktur-moeglich-9849932.html"
     },
     {
-      "title": "Ticketsystem OTRS",
-      "url": "https://www.heise.de/news/Ticketsystem-OTRS-Angreifer-koennen-unverschluesselte-Passwoerter-einsehen-9849809.html"
+      "title": "BIOS-Update: Angreifer können Secure Boot auf Alienware-Notebooks deaktivieren",
+      "teaser": "Unter bestimmten Voraussetzungen können Angreifer eine zentrale Schutzfunktion von Dells Alienware-Notebooks umgehen.",
+      "url": "https://www.heise.de/news/BIOS-Update-Angreifer-koennen-Secure-Boot-auf-Alienware-Notebooks-deaktivieren-9851284.html",
+      "image_title": "Stilisiertes Bild: Suche liefert Spam und Malware"
     },
     {
       "title": "Fortra FileCatalyst Workflow: Hintertür macht Angreifer zu Admins",
@@ -157,12 +163,6 @@
       "teaser": "Google meldet das Ausnutzen einer weiteren Lücke in freier Wildbahn. Die Updates von Edge schließen auch ein Leck im Adobe PDF Viewer.",
       "url": "https://www.heise.de/news/Webbrowser-Weitere-Luecke-aktiv-ausgenutzt-Adobe-PDF-Viewer-aktualisiert-9848318.html",
       "image_title": "Webbrowser auf einem Laptop brennt"
-    },
-    {
-      "title": "NFC-Malware leert Bankkonten",
-      "teaser": "Phishing und Malware kombiniert ein Angreifer, um Geldautomaten Bankkarten vorzuspielen und per NFC Geld abzuheben. Beobachtet wurde das in Tschechien.​",
-      "url": "https://www.heise.de/news/NFC-Malware-leert-tschechische-Bankkonten-9848256.html",
-      "image_title": "Eine Person bedient einen Geldautomaten"
     },
     {
       "title": "NTLM–Webinar",
