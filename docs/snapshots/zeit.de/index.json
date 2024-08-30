@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-30T17:00:58",
+  "timestamp": "2024-08-30T18:08:42",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -14,6 +14,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
@@ -98,23 +104,16 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Polizei und Abschiebungen : \"Schiebt mehr ab! Da stellt sich bei mir so der Kamm auf\"",
-      "teaser": "Zwei Polizisten, die abschieben, sprechen über die gescheiterte Abschiebung des Attentäters von Solingen – und über deren Folgen.",
-      "url": "https://www.zeit.de/entdecken/2024-08/polizei-abschiebung-meinung-fluege-rueckfuehrung",
-      "image_url": "https://img.zeit.de/entdecken/2024-08/polizei-abschiebung-meinung-fluege-rueckfuehrung-bild/wide__1000x562"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Abschiebeflug nach Afghanistan : Was über die abgeschobenen Afghanen bekannt ist",
-      "teaser": "28 Straftäter sind per Flug nach Afghanistan abgeschoben worden. An der Aktion waren elf Bundesländer beteiligt. Das ist bisher über die abgeschobenen Männer bekannt.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-08/abschiebung-afghanistan-straftaeter-kabul-migration",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-08/abschiebung-afghanistan-straftaeter/super__430x286",
-      "image_title": "abschiebung-afghanistan-straftaeter"
+      "title": "Z+ (abopflichtiger Inhalt); Leerstehende Plattenbauten : Die Geisterblöcke",
+      "teaser": "Nirgends in Deutschland stehen so viele Wohnungen leer wie in Hartmannsdorf, Thüringen. Niemand weiß, wem sie gehören. Auf der Suche nach dem Phantom der Platte.",
+      "url": "https://www.zeit.de/wirtschaft/2024-08/leerstehende-plattenbauten-ostdeutschland-thueringen-hartmannsdorf",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-08/leerstehende-plattenbauten-ostdeutschland-2/wide__1000x562"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Freundschaften und Politik : \"Ich fragte ihn: Was willst du mit diesen Nazis?\"",
       "teaser": "Sie waren unzertrennlich. Dann ging sie zur SPD, er radikalisierte sich, ging zur AfD. Ihr Mitschüler Martin Machowecz erzählt, wie Politik im Osten Freunde entzweit.",
       "url": "https://www.zeit.de/2024/37/freundschaften-politik-schule-jugendliche-kommunikation",
-      "image_url": "https://img.zeit.de/2024/37/rasha-nasr-julien-wiesemann-teaser/wide__892x501"
+      "image_url": "https://img.zeit.de/2024/37/rasha-nasr-julien-wiesemann-teaser/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Wahlmotive : Warum wählen Menschen AfD?",
@@ -127,6 +126,19 @@
       "teaser": "Sie denken ans Wegziehen, aber Ostdeutschland ist auch ihr Zuhause: Hier erzählen migrantische Menschen und Geflüchtete, wie sie auf die anstehenden Wahlen blicken.",
       "url": "https://www.zeit.de/gesellschaft/2024-08/menschen-migrationshintergrund-ostdeutschland-landtagswahlen-afd-gefluechtete",
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-08/menschen-migrationshintergrund-ostdeutschland-landtagswahlen-afd-gefluechtete-bild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Polizei und Abschiebungen : \"Schiebt mehr ab! Da stellt sich bei mir so der Kamm auf\"",
+      "teaser": "Zwei Polizisten, die abschieben, sprechen über die gescheiterte Abschiebung des Attentäters von Solingen – und über deren Folgen.",
+      "url": "https://www.zeit.de/entdecken/2024-08/polizei-abschiebung-meinung-fluege-rueckfuehrung",
+      "image_url": "https://img.zeit.de/entdecken/2024-08/polizei-abschiebung-meinung-fluege-rueckfuehrung-bild/wide__892x501"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Abschiebeflug nach Afghanistan : Was über die abgeschobenen Afghanen bekannt ist",
+      "teaser": "28 Straftäter sind per Flug nach Afghanistan abgeschoben worden. An der Aktion waren elf Bundesländer beteiligt. Das ist bisher über die abgeschobenen Männer bekannt.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-08/abschiebung-afghanistan-straftaeter-kabul-migration",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-08/abschiebung-afghanistan-straftaeter/super__430x286",
+      "image_title": "abschiebung-afghanistan-straftaeter"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Änderungen im September 2024 : Verkaufsverbot von Kindersitzen und Fristende für die Steuererklärung",
@@ -239,6 +251,20 @@
       "teaser": "Das besetzte Westjordanland radikalisiert sich. Israels Armee greift islamistische Gruppen an, während sich der Siedlerterror ausbreitet. Wer soll das stoppen?",
       "url": "https://www.zeit.de/politik/ausland/2024-08/westjordanland-israel-siedlungen-palaestinenser-hamas-nahostkonflikt",
       "image_url": "https://img.zeit.de/politik/ausland/2024-08/westjordanland-israel-siedlungen-palaestinenser-hamas-nahostkonflikt-bild-2/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Krieg in Nahost : Israel meldet 20 getötete militante Palästinenser im Westjordanland",
+      "teaser": "Das israelische Militär hat bei seinem Großeinsatz im Westjordanland nach eigenen Angaben Sprengsätze und Waffen beschlagnahmt. 17 Verdächtige seien festgenommen worden.",
+      "url": "https://www.zeit.de/politik/ausland/2024-08/krieg-nahost-20-militante-palaestineneser-westjordanland-israel-getoetet",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-08/israel-westjordanland-militaereinsatz/super__430x286",
+      "image_title": "Israel Westjordanland Militäreinsatz"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Sahelzone : Bundeswehreinsatz im Niger beendet",
+      "teaser": "Acht Jahre nach Beginn der Mission hat die Bundeswehr ihren Rückzug aus dem Niger abgeschlossen. Die letzten Soldaten haben den Lufttransportstützpunkt Niamey verlassen.",
+      "url": "https://www.zeit.de/politik/ausland/2024-08/militaer-bundeswehreinsatz-niger-beendet",
+      "image_url": "https://img.zeit.de/politik/2024-08/militaer-bundeswehreinsatz-niger/super__430x286",
+      "image_title": "militaer-bundeswehreinsatz-niger"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"Riefenstahl\" auf dem Filmfest in Venedig : Filmisches Kreuzverhör",
@@ -446,22 +472,22 @@
       "url": "https://www.zeit.de/gesellschaft/schule/2024-08/bildungsmonitpr-2024-sachsen-bestes-bildungssystem-deutschland"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Leerstehende Plattenbauten : Die Geisterblöcke",
+      "teaser": "Nirgends in Deutschland stehen so viele Wohnungen leer wie in Hartmannsdorf, Thüringen. Niemand weiß, wem sie gehören. Auf der Suche nach dem Phantom der Platte.",
+      "url": "https://www.zeit.de/wirtschaft/2024-08/leerstehende-plattenbauten-ostdeutschland-thueringen-hartmannsdorf",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-08/leerstehende-plattenbauten-ostdeutschland-2/wide__892x501"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Salade niçoise : Hat mehr und kann mehr als Caesar",
       "teaser": "In den Siebzigern total angesagt, inzwischen im Schatten des Caesar Salads beinahe verschwunden: Salade niçoise transportiert einen direkt an die französische Riviera.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-08/salade-nicoise-mais-nizza-rezept",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-08/salade-nicoise-mais-nizza-rezept-bild/wide__892x501"
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-08/salade-nicoise-mais-nizza-rezept-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Italien : Einmal Amore, bitte",
       "teaser": "Über den Brenner brettern, Capri besingen, Amore-Caps: Italiensehnsucht ist ein dolci-deutsches Klischee. Doch diese Liebe war immer auch eines: Verdrängung.",
       "url": "https://www.zeit.de/kultur/2024-08/italien-sehnsucht-traditionen",
       "image_url": "https://img.zeit.de/kultur/2024-08/italien-sehnsucht-traditionen-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Abschiebungen : Die Illusion von Härte und Handlungsfähigkeit",
-      "teaser": "Abschiebungen, Asylreformen, alles nicht falsch: Aber sicherer wird das Land nicht, wenn die Politik sich darauf konzentriert, möglichst viele Schutzsuchende loszuwerden.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-08/abschiebungen-asylpolitik-regierung-syrien-afghanistan",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-08/abschiebungen-asylpolitik-regierung-syrien-afghanistan-bild-2/super__430x286"
     },
     {
       "title": "Verlagsangebot : Ausflug ins Grüne: 7 besondere Flüsse in Deutschland",
@@ -626,16 +652,16 @@
       "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__892x501"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Abschiebungen : Die Illusion von Härte und Handlungsfähigkeit",
+      "teaser": "Abschiebungen, Asylreformen, alles nicht falsch: Aber sicherer wird das Land nicht, wenn die Politik sich darauf konzentriert, möglichst viele Schutzsuchende loszuwerden.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-08/abschiebungen-asylpolitik-regierung-syrien-afghanistan",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-08/abschiebungen-asylpolitik-regierung-syrien-afghanistan-bild-2/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Politikpodcast : \"Die Jugend fühlt sich von der Politik verarscht\"",
       "teaser": "Die AfD nutzt TikTok, um gezielt junge Leute anzusprechen. Welchen Einfluss hat die Plattform auf die politische Meinungsbildung der Jugend? Ein Gespräch mit Sascha Lobo",
       "url": "https://www.zeit.de/politik/2024-08/wahlkampf-tiktok-social-media-sascha-lobo-politikpodcast",
       "image_url": "https://img.zeit.de/politik/deutschland/2021-05/wahlkampf-tiktok-social-media-sascha-lobo-politikpodcast-portraet/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); BSW in Thüringen : Können die das?",
-      "teaser": "Viele Kandidaten des Bündnis Sahra Wagenknecht sind politisch unerfahren. Sie könnten aber bald schon in der Regierung sitzen. Profis ohne Parteibuch sollen nun helfen.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-08/bsw-thueringen-kandidaten-politische-erfahrung-kompetenz",
-      "image_url": "https://img.zeit.de/politik/2024-08/bsw-thueringen-kandidaten/super__430x286"
     },
     {
       "title": "Verlagsangebot : Schreiben Sie Ihr Buch – in 5 Tagen zu besseren Texten",
@@ -956,11 +982,11 @@
       "image_url": "https://img.zeit.de/gesellschaft/2024-08/studenten-azubis-besonders-armutsgefaehrdet-hohe-wohnkosten-bild/wide__892x501"
     },
     {
-      "title": "Verlagsangebot : Ein Studium finden, das passt",
+      "title": "Verlagsangebot : Welcher Studiengang passt zu mir?",
       "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
-      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.teaser.bewerben-schreibtisch.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=sit-verlagsteaser&amp;utm_content=sit_teaser_bewerben-schreibtisch_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/sit-bewerben-schreibtisch/wide__430x286__desktop",
-      "image_title": "Ein Studium finden, das passt"
+      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.bildtext.allein.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=campus-verlagsteaser&amp;utm_content=sit_bildtext_allein_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/sit-gruppe/wide__430x286__desktop",
+      "image_title": "Welcher Studiengang passt zu mir?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Herausforderung in Karriere und Leben : Die Strategien der Hürdenläufer",
@@ -1029,36 +1055,36 @@
       "image_url": "https://img.zeit.de/sport/2024-08/carlos-alcaraz-bild/super__430x286"
     },
     {
-      "title": "Transfers: Vuskovic-Ersatz da: HSV verpflichtet Franzosen Perrin",
-      "url": "https://www.zeit.de/news/2024-08/30/vuskovic-ersatz-da-hsv-verpflichtet-franzosen-perrin"
+      "title": "Spiele in Paris: Debütant Wetekam holt erste Paralympics-Medaille",
+      "url": "https://www.zeit.de/news/2024-08/30/debuetant-wetekam-holt-erste-paralympics-medaille"
     },
     {
-      "title": "Sahelzone: Bundeswehreinsatz im westafrikanischen Niger beendet",
-      "url": "https://www.zeit.de/news/2024-08/30/bundeswehreinsatz-im-westafrikanischen-niger-beendet"
+      "title": "Wahlkampf: Baerbock warnt vor dem Verlust «demokratischer Mehrheiten»",
+      "url": "https://www.zeit.de/news/2024-08/30/baerbock-warnt-vor-dem-verlust-demokratischer-mehrheiten"
     },
     {
-      "title": "Tennis: Niemeier gegen Olympiasiegerin bei US Open ohne Chance",
-      "url": "https://www.zeit.de/news/2024-08/30/niemeier-gegen-olympiasiegerin-bei-us-open-ohne-chance"
+      "title": "Fußball-Bundesliga: VfL Bochum verpflichtet Mittelfeldspieler Miyoshi",
+      "url": "https://www.zeit.de/news/2024-08/30/vfl-bochum-verpflichtet-mittelfeldspieler-miyoshi"
     },
     {
-      "title": "2. Fußball-Bundesliga: Greuther Fürth leiht Offensiv-Talent Motika aus",
-      "url": "https://www.zeit.de/news/2024-08/30/greuther-fuerth-leiht-offensiv-talent-motika-aus"
+      "title": "Kriminalität: Mann bei Streit durch Stiche in Wuppertal schwer verletzt",
+      "url": "https://www.zeit.de/news/2024-08/30/mann-bei-streit-durch-stiche-in-wuppertal-schwer-verletzt"
     },
     {
-      "title": "Wahlkampf: Gysi: Deutschland darf nicht an Waffenlieferungen verdienen",
-      "url": "https://www.zeit.de/news/2024-08/30/gysi-deutschland-darf-nicht-an-waffenlieferungen-verdienen"
+      "title": "Missbrauchsskandal: Missbrauchsopfer verlangt 800.000 Euro von Erzbistum Köln",
+      "url": "https://www.zeit.de/news/2024-08/30/missbrauchsopfer-verlangt-800-000-euro-von-erzbistum-koeln"
     },
     {
-      "title": "Transfer: Bayern-Talent Vidovic auf Leihbasis nach Mainz",
-      "url": "https://www.zeit.de/news/2024-08/30/bayern-talent-vidovic-auf-leihbasis-nach-mainz"
+      "title": "Fußball-Bundesliga: Union Berlin verpflichtet serbischen Stürmer Andrej Ilic",
+      "url": "https://www.zeit.de/news/2024-08/30/union-berlin-verpflichtet-serbischen-stuermer-andrej-ilic"
     },
     {
-      "title": "Tragisches Unglück: Nach Panne: 32-Jähriger wird von Auto erfasst und stirbt",
-      "url": "https://www.zeit.de/news/2024-08/30/nach-panne-32-jaehriger-wird-von-auto-erfasst-und-stirbt"
+      "title": "Wahlkampf: Union: Thüringer Landtagswahl ist auch Abstimmung über Ampel",
+      "url": "https://www.zeit.de/news/2024-08/30/union-thueringer-landtagswahl-ist-auch-abstimmung-ueber-ampel"
     },
     {
-      "title": "Ungarn bittet zur Kasse: Orban will Geld von EU für seine Anti-Migranten-Politik",
-      "url": "https://www.zeit.de/news/2024-08/30/orban-will-geld-von-eu-fuer-seine-anti-migranten-politik"
+      "title": "Industriepolitik: SPD schlägt Landesregierung \"Task-Force Stahl\" vor",
+      "url": "https://www.zeit.de/news/2024-08/30/spd-schlaegt-landesregierung-task-force-stahl-vor"
     }
   ]
 }
