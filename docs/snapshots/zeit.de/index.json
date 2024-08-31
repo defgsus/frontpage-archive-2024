@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-31T13:09:53",
+  "timestamp": "2024-08-31T14:00:53",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -14,6 +14,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
@@ -98,16 +104,16 @@
   ],
   "articles": [
     {
+      "title": "Z+ (abopflichtiger Inhalt); Nichtwähler : Stimme null",
+      "teaser": "Ein Drittel der Wahlberechtigten wird sich bei den Landtagswahlen enthalten. Zu Besuch bei zwei Nichtwählern, die die Politik verachten, aber auch die AfD fürchten.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-08/nichtwaehler-landtagswahl-sachsen-thueringen-ostdeutschland-wahlbeteiligung",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-08/nichtwaehler-landtagswahl-sachsen-thueringen-ostdeutschland-wahlbeteiligung-bild-4/wide__1000x562"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Wahlkampf in Sachsen und Thüringen : Ein Lichtenhagen-Moment",
       "teaser": "Die AfD könnte die Landtagswahlen gewinnen, doch nach Solingen spricht die Politik nur noch über: Migration. Dabei hat der Osten Deutschlands sein eigenes Terrorproblem.",
       "url": "https://www.zeit.de/politik/deutschland/2024-08/wahlkampf-sachsen-thueringen-rechtsextremismus-nazis-ostdeutschland",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-08/wahlkampf-sachsen-thueringen-rechtsextremismus-nazis-ostdeutschland-bild/wide__1000x562"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Erfolg von AfD und BSW : Ostbeauftragter beklagt geringe Parteibindung in Ostdeutschland",
-      "teaser": "Die Menschen im Osten befänden sich wegen Erfahrungen in der DDR in einer \"politischen Zuschauerstellung\", sagt Carsten Schneider. AfD und BSW nutzten das aus.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-08/afd-bsw-erfolg-landtagswahlen-osten-carsten-schneider",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-08/landtagswahl-sachsen-thueringen-parteienbindung/super__430x286"
+      "image_url": "https://img.zeit.de/gesellschaft/2024-08/wahlkampf-sachsen-thueringen-rechtsextremismus-nazis-ostdeutschland-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Landtagswahlen im Osten : \"Hauptsache, ich wähle AfD und nicht das andere Gelumpe\"",
@@ -140,29 +146,22 @@
       "image_url": "https://img.zeit.de/familie/2024-08/durchhaltevermoegen-kinder-beharrlichkeit-hobbies-entwicklungspsychologie-bild/super__430x286"
     },
     {
-      "title": "An dieser Stelle ist ein externer Inhalt eingebunden",
-      "teaser": "Zum Anschauen benötigen wir Ihre Zustimmung",
-      "url": "https://www.zeit.de/z2x/2024-08/florence-gaub-zukunft-politik-forschung-live",
-      "image_url": "https://img.zeit.de/z2x/2024-08/florence-gaub-zukunft-politik-forschung-bild/wide__892x501"
+      "title": "Z+ (abopflichtiger Inhalt); Charli xcx • Das Beste aus Z+ : Der Aufstieg der Göre",
+      "teaser": "Charli xcx hat mit \"brat\" das Album des Jahres veröffentlicht. Was macht ihren Erfolg aus? Wir haben sie in ihrem Zuhause in Los Angeles getroffen.",
+      "url": "https://www.zeit.de/zeit-magazin/2024/37/charli-xcx-brat-album-popmusik-crash",
+      "image_url": "https://img.zeit.de/zeit-magazin/mode-design/2024-08/charli-xcx-brat-album-popmusik-crash-bild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Ideenfestival 2024 : Das passiert heute bei Z2X",
+      "teaser": "Mehr als 1.000 Menschen zwischen 20 und 29 Jahren treffen sich in Berlin beim ZEIT ONLINE-Ideenfestival. Sei live dabei!",
+      "url": "https://www.zeit.de/z2x/2024-04/z2xfestival",
+      "image_url": "https://img.zeit.de/z2x/2024-07/z2x-2024-teaser-helene-hegemann-faraz-shariat/wide__892x501"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Said Etris Hashemi : \"Rassismus entsteht nicht im luftleeren Raum\"",
       "teaser": "Said Etris Hashemi hat den rechtsextremen Anschlag in Hanau überlebt. Auf dem Z2X-Festival spricht der Autor über seine Geschichte und Alltagsrassismus in Deutschland.",
       "url": "https://www.zeit.de/z2x/2024-08/said-etris-hashemi-hanau-anschlag-ueberlebender-rassismus",
       "image_url": "https://img.zeit.de/z2x/2024-08/impuls-z2x-ausgekoppelt/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Innere Sicherheit : SPD-Abgeordnete fordern Sondervermögen für innere Sicherheit",
-      "teaser": "Die SPD-Bundestagsfraktion will die Sicherheitsbehörden besser ausstatten. Dafür schlägt die SPD einen schon länger favorisierten Finanzierungsweg vor.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-08/innnere-sicherheit-finanzierung-sondervermoegen-vorschlag-spd",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-08/spd-sondervermoegen-bessere-ausstattung-innere-sicherheit-bild/super__430x286",
-      "image_title": "Einheitskräfte der Polizei im Einsatz beim Parteitag der AfD in Essen"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Gewalt gegen Frauen : Lisa Paus fordert mehr Geld für Schutz von Frauen",
-      "teaser": "Die Bundesfrauenministerin hat nach mehreren, teils tödlichen Angriffen auf Frauen mehr Hilfeleistungen gefordert. Sie kündigte ein Gewalthilfegesetz für Betroffene an.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-08/lisa-paus-sicherheitspaket-gewalt-frauen",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-08/lisa-paus-sicherheitspaket-gewalt-frauen-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Islamisten und Rechtsextreme : Der Erfolg der Islamisten wird die Macht der Rechten sein",
@@ -182,6 +181,18 @@
       "teaser": "Der Strand glüht, der Wald brennt, die Einheimischen sind genervt: Unsere Urlaubsorte verändern sich. Wir zeigen, wo es bald hingeht und was Wales zum neuen Korfu macht.",
       "url": "https://www.zeit.de/wissen/umwelt/2024-08/europaeische-urlaubsorte-klimawandel-waldbrand-extremwetter",
       "image_url": "https://img.zeit.de/wissen/umwelt/2024-08/europaeische-urlaubsorte-klimawandel-waldbrand-extremwetter-teaser/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Liveblog:Ukrainekrieg : Ukraine legt USA Liste mit Zielen in Russland vor",
+      "teaser": "Die Ukraine hofft, Einrichtungen wie russische Militärflugplätze mit US-Raketen angreifen zu dürfen. Eine Liste solcher Ziele präsentierte sie nun den USA. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-08/ukraine-krieg-news-liveblog-bild-30/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Liveblog:Krieg in Israel und Gaza : Polio-Impfkampagne im Gazastreifen gestartet",
+      "teaser": "Im Gazastreifen werden Kinder gegen Polio geimpft. Israel setzt seinen Militäreinsatz im Westjordanland fort, im Norden des Gebiets gibt es Kämpfe. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/2023-12/news-israel-gaza-krieg-live",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-08/news-israel-gaza-krieg-live-bild-20/super__430x286"
     },
     {
       "title": "Ausgabe 35/2024 : Möwenanteil. Willkommen im Wochenende.",
@@ -322,6 +333,25 @@
       "image_url": "https://img.zeit.de/zeit-magazin/leben/2024-08/jugendliebe-partner-abschiednehmen-power-of-goodbye-bild/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Gewalt gegen Frauen : Lisa Paus fordert mehr Geld für Schutz von Frauen",
+      "teaser": "Die Bundesfrauenministerin hat nach mehreren, teils tödlichen Angriffen auf Frauen mehr Hilfeleistungen gefordert. Sie kündigte ein Gewalthilfegesetz für Betroffene an.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-08/lisa-paus-sicherheitspaket-gewalt-frauen",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-08/lisa-paus-sicherheitspaket-gewalt-frauen-bild/super__320x213"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Innere Sicherheit : SPD-Abgeordnete fordern Sondervermögen für innere Sicherheit",
+      "teaser": "Die SPD-Bundestagsfraktion will die Sicherheitsbehörden besser ausstatten. Dafür schlägt die SPD einen schon länger favorisierten Finanzierungsweg vor.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-08/innnere-sicherheit-finanzierung-sondervermoegen-vorschlag-spd",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-08/spd-sondervermoegen-bessere-ausstattung-innere-sicherheit-bild/super__320x213",
+      "image_title": "Einheitskräfte der Polizei im Einsatz beim Parteitag der AfD in Essen"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Erfolg von AfD und BSW : Ostbeauftragter beklagt geringe Parteibindung in Ostdeutschland",
+      "teaser": "Die Menschen im Osten befänden sich wegen Erfahrungen in der DDR in einer \"politischen Zuschauerstellung\", sagt Carsten Schneider. AfD und BSW nutzten das aus.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-08/afd-bsw-erfolg-landtagswahlen-osten-carsten-schneider",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-08/landtagswahl-sachsen-thueringen-parteienbindung/super__320x213"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Ländlicher Raum : SPD will mehr bezahlbaren Wohnraum auf dem Land schaffen",
       "teaser": "Die Bevölkerung auf dem Land wachse, also müsse auch hier günstiger Wohnraum gesichert sein, fordert die SPD-Fraktion. Wünschenswert sei der Bau von Azubiwohnheimen.",
       "url": "https://www.zeit.de/politik/deutschland/2024-08/laendlicher-raum-wohnraum-spd-wohungsbau",
@@ -352,24 +382,6 @@
       "teaser": "Die USA haben im Irak im Rahmen einer Militärkoalition gegen den IS etwa 2.500 Soldaten stationiert. Nun wurden bei einem Antiterroreinsatz mehrere IS-Kämpfer getötet.",
       "url": "https://www.zeit.de/politik/ausland/2024-08/usa-irak-islamischer-staat-15-kaempfer-getoetet",
       "image_url": "https://img.zeit.de/politik/ausland/2024-08/us-stuetzpunkt-irak-ain-al-assad/super__320x213"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Cannabislegalisierung : Mehr als 280 Anträge auf gemeinschaftlichen Anbau von Cannabis",
-      "teaser": "Seit Anfang Juli sind Anträge auf den gemeinschaftlichen Anbau von Cannabis möglich. Die große Mehrzahl der 14 bisherigen Zulassungen wurde in einem Bundesland erteilt.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-08/cannabis-anbau-vereinigung-erste-zulassungen-erteilt",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-08/cannabis-club-aschheim-bayern/super__320x213"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Raumfahrt : US-Luftfahrtbehörde erteilt Starterlaubnis für SpaceX-Rakete",
-      "teaser": "Nach einem Landeunfall der Falcon 9 waren weitere Raketenstarts ausgesetzt worden. Nun erteilte die US-Luftfahrtbehörde Elon Musks SpaceX die Erlaubnis zum Weiterbetrieb.",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-08/falcon-9-spacex-starterlaubnis-erteilt",
-      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-08/falcon-x-rakete-start-spacex/super__320x213"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Städte- und Gemeindebund : Gemeindebund fordert zusätzliche Mittel für die Bundespolizei",
-      "teaser": "Der Geschäftsführer des Gemeindebunds will der Polizei nach dem Attentat in Solingen mehr Kompetenzen einräumen. Dazu gehörten auch verdachtsunabhängige Kontrollen.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-08/gemeindebund-mittel-polizei-attentat-solingen",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-08/gemeindebund-mittel-polizei-attentat-solingen-bild/super__320x213"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Freundschaften und Politik : \"Ich fragte ihn: Was willst du mit diesen Nazis?\"",
@@ -706,10 +718,10 @@
       "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Asyldebatte : CDU-Politiker Frei hält Asylleistungsstreichungen nicht für wirksam",
-      "teaser": "CDU-Politiker Frei zweifelt an Maßnahmen, um die Weiterreise von Asylsuchenden nach Deutschland zu stoppen. Die Caritas warnt vor der Retraumatisierung von Geflüchteten.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-08/asyldebatte-cdu-wirksamkeit-leistungsstreichungen-caritas-diskriminierung",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-08/asyldebatte-cdu-wirksamkeit-leistungsstreichungen-caritas-diskriminierung-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Städte- und Gemeindebund : Gemeindebund fordert zusätzliche Mittel für die Bundespolizei",
+      "teaser": "Der Geschäftsführer des Gemeindebunds will der Polizei nach dem Attentat in Solingen mehr Kompetenzen einräumen. Dazu gehörten auch verdachtsunabhängige Kontrollen.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-08/gemeindebund-mittel-polizei-attentat-solingen",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-08/gemeindebund-mittel-polizei-attentat-solingen-bild/super__430x286"
     },
     {
       "title": "Verlagsangebot : Schreiben Sie Ihr Buch – in 5 Tagen zu besseren Texten",
@@ -761,6 +773,12 @@
       "image_url": "https://img.zeit.de/gesellschaft/2024-07/cover-z-verbrechen-abc-2/super__320x213"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Cannabislegalisierung : Mehr als 280 Anträge auf gemeinschaftlichen Anbau von Cannabis",
+      "teaser": "Seit Anfang Juli sind Anträge auf den gemeinschaftlichen Anbau von Cannabis möglich. Die große Mehrzahl der 14 bisherigen Zulassungen wurde in einem Bundesland erteilt.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-08/cannabis-anbau-vereinigung-erste-zulassungen-erteilt",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-08/cannabis-club-aschheim-bayern/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Südamerika : In Venezuela fällt landesweit der Strom aus",
       "teaser": "In Venezuela hat es einen nahezu flächendeckenden Stromausfall gegeben. Die Regierung macht die Opposition verantwortlich und spricht von Sabotage.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-08/venezuela-stromausfall-landesweit",
@@ -775,16 +793,16 @@
       "image_title": "Ermittlungen Crewmitglieder Bayesian"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Menschen mit Migrationshintergrund : \"Auf der Straße zähle ich AfD-Wähler: eins, zwei, drei, du\"",
-      "teaser": "Sie denken ans Wegziehen, aber Ostdeutschland ist auch ihr Zuhause: Hier erzählen migrantische Menschen und Geflüchtete, wie sie auf die anstehenden Wahlen blicken.",
-      "url": "https://www.zeit.de/gesellschaft/2024-08/menschen-migrationshintergrund-ostdeutschland-landtagswahlen-afd-gefluechtete",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-08/menschen-migrationshintergrund-ostdeutschland-landtagswahlen-afd-gefluechtete-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Raumfahrt : US-Luftfahrtbehörde erteilt Starterlaubnis für SpaceX-Rakete",
+      "teaser": "Nach einem Landeunfall der Falcon 9 waren weitere Raketenstarts ausgesetzt worden. Nun erteilte die US-Luftfahrtbehörde Elon Musks SpaceX die Erlaubnis zum Weiterbetrieb.",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-08/falcon-9-spacex-starterlaubnis-erteilt",
+      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-08/falcon-x-rakete-start-spacex/wide__892x501"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Erneuerbare Energien : Kosten für Ausbau des Stromnetzes sollen regional umverteilt werden",
       "teaser": "Wer in einer Region mit vielen Windrädern wohnt, zahlt oft mehr für Strom. Das soll sich ändern: Ab 2025 werden die Kosten laut Bundesnetzagentur umverteilt.",
       "url": "https://www.zeit.de/wirtschaft/2024-08/netzausbau-erneuerbare-energien-bundesnetzagentur-netzentgelte",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-08/netzausbau-erneuerbare-energien-bundesnetzagentur-netzentgelte-bild/wide__892x501"
+      "image_url": "https://img.zeit.de/wirtschaft/2024-08/netzausbau-erneuerbare-energien-bundesnetzagentur-netzentgelte-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Stahlstreit : Bundeswirtschaftsminister beunruhigt über Lage bei Thyssenkrupp",
@@ -799,17 +817,11 @@
       "image_url": "https://img.zeit.de/wirtschaft/2024-08/inflation-europa-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Wirtschaftszahlen zu den Landtagswahlen : Ist wirklich alles so schlimm?",
-      "teaser": "Inflation, Wachstumsflaute, Fachkräftemangel: Wirtschaftsthemen bestimmen die Landtagswahlen. Doch wie steht es wirklich um die ostdeutsche Wirtschaft? Ein Überblick",
-      "url": "https://www.zeit.de/wirtschaft/2024-08/wirtschaftszahlen-landtagswahl-ostdeutschland-fachkraeftemangel-wachstum",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-08/08-24-wirtschaftskennzahlen-ostdeutschland-bild/super__430x286"
-    },
-    {
-      "title": "Büroimmobilien : Wo der Sanierungsstau bei alten Bürogebäuden am größten ist",
+      "title": "Immobilien : Wo Büroimmobilien ein Sanierungsfall sind",
       "teaser": "Erstmals erhobene Daten zeigen, wie sanierungsbedürftig Büroimmobilien in Deutschlands Metropolen sind. Beim Schlusslicht der Studie ist die Hälfte der Flächen als Sanierungsfall eingestuft.",
-      "url": "https://www.wiwo.de/unternehmen/dienstleister/bueroimmobilien-wo-der-sanierungsstau-bei-alten-buerogebaeuden-am-groessten-ist/29968432.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
+      "url": "https://www.wiwo.de/unternehmen/dienstleister/immobilien-wo-bueroimmobilien-ein-sanierungsfall-sind/29968432.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
       "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/dpa-picture-alliance-2-278055640-highres/29969608/5-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
-      "image_title": "Wo der Sanierungsstau bei alten Bürogebäuden am größten ist"
+      "image_title": "Wo Büroimmobilien ein Sanierungsfall sind"
     },
     {
       "title": "Breuninger-Interessent : Wer sich etwas gönnen will, der geht zu El Corte Inglés",
@@ -1106,36 +1118,36 @@
       "image_url": "https://img.zeit.de/sport/2024-08/bundesliga-zweiter-spieltag-freitag-union-berlin-st-pauli-bild/super__430x286"
     },
     {
-      "title": "2. Bundesliga: HSV feiert 4:1-Heimsieg über Preußen Münster",
-      "url": "https://www.zeit.de/news/2024-08/31/hsv-feiert-4-1-heimsieg-ueber-preussen-muenster"
+      "title": "Fußball-Bundesliga: VfB-Fans applaudieren für gestorbenen Ex-Meistercoach Daum",
+      "url": "https://www.zeit.de/news/2024-08/31/vfb-fans-applaudieren-fuer-gestorbenen-ex-meistercoach-daum"
     },
     {
-      "title": "Oberfranken: Sieben Menschen bei Brand in Mehrfamilienhaus verletzt",
-      "url": "https://www.zeit.de/news/2024-08/31/sieben-menschen-bei-brand-in-mehrfamilienhaus-verletzt"
+      "title": "Fußball-Bundesliga: Werder mit Choreographie und Sondertrikot für Willi Lemke",
+      "url": "https://www.zeit.de/news/2024-08/31/werder-mit-choreographie-und-sondertrikot-fuer-willi-lemke"
     },
     {
-      "title": "Queere Community: CSD-Parade zieht mit 600 Personen durch Zeitz",
-      "url": "https://www.zeit.de/news/2024-08/31/csd-parade-zieht-mit-600-personen-durch-zeitz"
+      "title": "E-Scooter: Senior stirbt nach Unfall mit Elektroscooter in Krefeld",
+      "url": "https://www.zeit.de/news/2024-08/31/senior-stirbt-nach-unfall-mit-elektroscooter-in-krefeld"
     },
     {
-      "title": "Hessen: Grünen-Politiker Al-Wazir will in den Bundestag",
-      "url": "https://www.zeit.de/news/2024-08/31/gruenen-politiker-al-wazir-will-in-den-bundestag"
+      "title": "First Class fliegen: Aus dem Lot: Erste-Klasse-Sitze bei Airline Swiss zu schwer",
+      "url": "https://www.zeit.de/news/2024-08/31/aus-dem-lot-erste-klasse-sitze-bei-airline-swiss-zu-schwer"
     },
     {
-      "title": "Migration: Frankreichs Küstenwache rettet 223 Migranten aus Ärmelkanal",
-      "url": "https://www.zeit.de/news/2024-08/31/frankreichs-kuestenwache-rettet-223-migranten-aus-aermelkanal"
+      "title": "Zwillingstreffen: 40 Zwillingspaare besuchen Filmpark Babelsberg",
+      "url": "https://www.zeit.de/news/2024-08/31/40-zwillingspaare-besuchen-filmpark-babelsberg"
     },
     {
-      "title": "Brand in Niederbayern: Waldbrandgefahr durch brennende Garage",
-      "url": "https://www.zeit.de/news/2024-08/31/waldbrandgefahr-durch-brennende-garage"
+      "title": "Vor Christopher Street Day: Unbekannte verbrennen Regenbogenflagge in Burgdorf",
+      "url": "https://www.zeit.de/news/2024-08/31/unbekannte-verbrennen-regenbogenflagge-in-burgdorf"
     },
     {
-      "title": "Problembezirk: «Open Viertel» statt Bahnhofsviertelnacht",
-      "url": "https://www.zeit.de/news/2024-08/31/open-viertel-statt-bahnhofsviertelnacht"
+      "title": "Kriminalität: Mann mit Waffe bedroht? - SEK-Einsatz im Berliner Südwesten",
+      "url": "https://www.zeit.de/news/2024-08/31/mann-mit-waffe-bedroht-sek-einsatz-im-berliner-suedwesten"
     },
     {
-      "title": "Badeunfall: 62-jährige Frau nach Badeunfall im Kochelsee gestorben",
-      "url": "https://www.zeit.de/news/2024-08/31/62-jaehrige-frau-nach-badeunfall-im-kochelsee-gestorben"
+      "title": "Fußball-Bundesliga: Nationalspieler Mittelstädt verlängert in Stuttgart",
+      "url": "https://www.zeit.de/news/2024-08/31/nationalspieler-mittelstaedt-verlaengert-in-stuttgart"
     }
   ]
 }
