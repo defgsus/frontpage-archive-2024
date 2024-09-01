@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-01T13:11:23",
+  "timestamp": "2024-09-01T14:00:56",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -14,6 +14,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
@@ -110,14 +116,14 @@
       "image_url": "https://img.zeit.de/politik/deutschland/2024-08/landtagswahl-thueringen-sachsen-simson/wide__1000x562"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Liveblog:Landtagswahl in Sachsen : Wahlbeteiligung in Sachsen bis 12 Uhr bei 25,8 Prozent",
-      "teaser": "Bis zum Mittag liegt die Wahlbeteiligung knapp unter dem Wert von 2019. Rund 26 Prozent der Wahlberechtigten gaben ihre Stimme ab. Unser Liveblog zur Landtagswahl",
+      "title": "Z+ (abopflichtiger Inhalt); Liveblog:Landtagswahl in Sachsen : Wahlbeteiligung in Sachsen bis 14 Uhr bei 35,4 Prozent",
+      "teaser": "Bis zum frühen Nachmittag sind in Sachsen etwas mehr Stimmen abgegeben worden als zum selben Zeitpunkt 2019. Der Anteil der Briefwähler liegt deutlich höher. Das Liveblog",
       "url": "https://www.zeit.de/politik/deutschland/2024-08/landtagswahl-sachsen-2024-live",
       "image_url": "https://img.zeit.de/politik/deutschland/2021-05/landtagswahl-sachsen-2024-live-beteiligung/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Liveblog:Landtagswahl in Thüringen : Rund 32 Prozent der Thüringer Wähler haben ihre Stimme abgegeben",
-      "teaser": "Die Wahlbeteiligung in Thüringen liegt bis zum Mittag leicht über dem Wert von 2019. Damals wählten 31,2 Prozent bis 12 Uhr, heute 32. Die Entwicklungen im Liveblog",
+      "title": "Z+ (abopflichtiger Inhalt); Liveblog:Landtagswahl in Thüringen : Gut 44 Prozent der Thüringer Wähler haben bisher ihre Stimme abgegeben",
+      "teaser": "Bis 14 Uhr haben 44,4 Prozent der Wahlberechtigten in Thüringen ihre Stimme abgegeben. Die AfD schließt die Presse von ihrer Wahlparty aus. Die Entwicklungen im Liveblog",
       "url": "https://www.zeit.de/politik/deutschland/2024-08/landtagswahl-thueringen-live",
       "image_url": "https://img.zeit.de/politik/deutschland/2024-09/landtagswahl-thueringen-live-wahl-beteiligung/super__430x286"
     },
@@ -140,17 +146,23 @@
       "image_url": "https://img.zeit.de/2024/37/kommunalpolitik-ostdeutschland-afd-buergermeister-wahlen-teaser/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Israelische Geiseln : Zu spät",
+      "teaser": "Israels Armee hat sechs tote Geiseln aus dem Gazastreifen geborgen. Hätten sie mit einem früheren Waffenstillstand gerettet werden können?",
+      "url": "https://www.zeit.de/politik/2024-09/israelische-geiseln-hamas-gaza-benjamin-netanjahu-waffenstillstand",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/israel-gaza-geiseln-armee-netanjahu/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Israel : Geisel-Angehörige rufen zu Generalstreik und Großdemo in Israel auf",
+      "teaser": "Nach dem Tod von sechs Geiseln erhöhen Angehörige den Druck auf die israelische Regierung. Sie rufen zu einem Generalstreik auf und fordern ein Abkommen mit der Hamas.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/israel-geiseln-abkommen-angehoerige-hamas",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-09/fund-toter-geiseln-aufruf-generalstreik-israel-bild/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); FC Schalke 04 : Wir! Hassen! Dieses! Lied!",
       "teaser": "Tausende Schalker grölen in Magdeburg: \"Wir! Hassen! Ostdeutschland!\" Unser Autor war dabei und findet es den dümmsten Fangesang, den man derzeit singen kann.",
       "url": "https://www.zeit.de/sport/2024-08/fc-schalke-04-ostdeutschland-fangesang-fussball-magdeburg",
       "image_url": "https://img.zeit.de/sport/2024-08/schalke-magdeburg-fans-ostdeutschland/super__430x286",
       "image_title": "Fangesänge können kreativ sein. Müssen sie aber auch nicht."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Krieg im Nahen Osten : Armee birgt Leichen von sechs aus Israel verschleppten Geiseln",
-      "teaser": "In einem Tunnel nahe Rafah fand Israels Militär sechs Leichen, inzwischen wurden diese als Geiseln identifiziert. Laut der Armee wurden sie kurz vor der Bergung getötet.",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/gazastreifen-sechs-geiseln-tot-geborgen-israel",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/israel-tod-von-sechs-geiseln-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Zweiter Weltkrieg : Polens Präsident fordert erneut Entschädigung von Deutschland",
@@ -160,14 +172,21 @@
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Gasimporte : EU-Staaten importieren mehr Gas aus Russland als aus den USA",
-      "teaser": "Nach dem Großangriff auf die Ukraine war Russland nicht mehr Europas größter Gaslieferant. Doch nun beziehen die EU-Staaten wieder mehr Gas von dort.",
-      "url": "https://www.zeit.de/wirtschaft/2024-09/gasimporte-eu-russland-usa-norwegen"
+      "teaser": "Nach dem Großangriff auf die Ukraine war Russland nicht mehr Europas größter Gaslieferant. Doch nun beziehen die EU-Staaten wieder am zweitmeisten Gas von dort.",
+      "url": "https://www.zeit.de/wirtschaft/2024-09/gasimporte-eu-russland-usa-norwegen",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-09/eu-staaten-importieren-gas-russland-bild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Genuss : Hin und weg",
+      "teaser": "Das Beste ist uns beim Essen gerade gut genug, seit auf Instagram ständig neue Hypes losgetreten werden. Jetzt sollen wir auch noch fürs Dessert das Restaurant wechseln.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2024-09/genuss-individualitaet-alltag-stress-belastung-leben",
+      "image_url": "https://img.zeit.de/kultur/2024-09/genuss-stress-individualitaet-imbiss-mustafa/wide__892x501"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Comeback der 90er : Gebt uns doch die richtigen Neunziger",
       "teaser": "Oasis ist back! Ja, schön. Doch um wirklich zurück in die Neunziger zu kommen, bräuchte es ganz andere Dinge. Zum Beispiel: CDs. Oder eine Vermögenssteuer.",
       "url": "https://www.zeit.de/kultur/2024-08/comeback-90er-nostalgie-oasis-dvd-vermoegenssteuer",
-      "image_url": "https://img.zeit.de/kultur/2024-08/comeback-90er-nostalgie-oasis-dvd/wide__892x501",
+      "image_url": "https://img.zeit.de/kultur/2024-08/comeback-90er-nostalgie-oasis-dvd/super__430x286",
       "image_title": "comeback-90er-nostalgie-oasis-dvd"
     },
     {
@@ -286,15 +305,27 @@
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Kulturelle Stereotype : Deutsch? Ich?",
-      "teaser": "Wenn junge Menschen vor allem ausländische Freunde habe, fühlen sie sich manchmal so gar nicht deutsch. Bis sie von ihren Freunden darauf aufmerksam gemacht werden.",
+      "teaser": "Wenn junge Menschen vor allem ausländische Freunde haben, fühlen sie sich manchmal so gar nicht deutsch. Bis sie von ihren Freunden darauf aufmerksam gemacht werden.",
       "url": "https://www.zeit.de/zeit-magazin/2024/37/kulturelle-stereotype-deutsch-englisch-pruefers-toechter",
       "image_url": "https://img.zeit.de/zeit-magazin/2024-08/kulturelle-stereotype-deutsch/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Gewitter : Soll man bei Gewitter die Fenster schließen?",
+      "teaser": "Wenn ein Sturm aufzieht, so lernt man es, lieber alle Fenster verriegeln. Vor seltenen Naturgewalten schützt das aber nicht.",
+      "url": "https://www.zeit.de/2024/37/gewitter-blitzeinschlag-fenster-gefahr-wetter",
+      "image_url": "https://img.zeit.de/2024/37/gewitter-beobachten-teaser/wide__892x501"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Kulinarische Souvenirs : \"Meeresfenchel? Da habe ich gleich ein paar Gläser voll gesammelt\"",
       "teaser": "Eine Delikatesse aus der kroatischer Adria, Holzbretter aus aller Welt, Feigenblätter gegen Winterblues: Köche und Köchinnen erzählen von ihren kulinarischen Souvenirs.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-08/kulinarische-souvenirs-urlaub-lebensmittel-kochen",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-08/kulinarische-souvenirs-urlaub-lebensmittel-kochen-clemens/wide__892x501"
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-08/kulinarische-souvenirs-urlaub-lebensmittel-kochen-clemens/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Landtagswahl in Sachsen : Wahlbeteiligung in Sachsen leicht höher als bei Wahlen 2019",
+      "teaser": "Bisher haben 35,4 Prozent der Wahlbeteiligten in den sächsischen Wahllokalen abgestimmt – 2019 waren es leicht weniger. Der Wahlleiter rechnet aber mit mehr Briefwählern.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/landtagswahl-sachsen-wahlbeteiligung-mittag",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/landtagswahl-sachsen-2024-wahlbeteiligung/super__320x213"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Trauerfeier in Solingen : \"Die Gutwilligen nicht überfordern\"",
@@ -327,22 +358,16 @@
       "image_url": "https://img.zeit.de/politik/deutschland/2024-09/landtagswahlen-thueringen-sachsen-wahllokale-geoeffnet-bild/super__320x213"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Krieg im Nahen Osten : Armee birgt Leichen von sechs aus Israel verschleppten Geiseln",
+      "teaser": "In einem Tunnel nahe Rafah fand Israels Militär sechs Leichen, inzwischen wurden diese als Geiseln identifiziert. Laut der Armee wurden sie kurz vor der Bergung getötet.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/gazastreifen-sechs-geiseln-tot-geborgen-israel",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/israel-tod-von-sechs-geiseln-bild/super__320x213"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Bakterienbelastung in der Seine : Paralympics-Triathlon wegen schlechter Wasserqualität verschoben",
       "teaser": "Nach Regenfällen ist das Wasser der Seine nicht sauber genug, um darin zu schwimmen. Der Triathlon der Paralympischen Spiele findet mindestens einen Tag später statt.",
       "url": "https://www.zeit.de/sport/2024-09/paralympics-paris-seine-wasserqualitaet-verschiebung",
       "image_url": "https://img.zeit.de/sport/2024-09/paralympics-triathlon-aufschub-bild/super__320x213"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Südchinesisches Meer : USA verurteilen Chinas Umgang mit philippinischer Küstenwache",
-      "teaser": "Nach einer Kollision im südchinesischen Meer ergreifen die USA Partei für die Philippinen. China verhalte sich \"gefährlich und eskalierend\", sagte ein Sprecher.",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/usa-kritik-verhalten-china-suedchinesisches-meer-philippinen",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/philippinen-china-schiffskollision-usa/super__320x213"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Mpox-Virus : Unicef bringt Notfallausschreibung für Mpox-Impfstoff auf den Weg",
-      "teaser": "In afrikanischen Ländern hat sich eine neue Mpox-Variante ausgebreitet. Die WHO hat eine Notlage ausgerufen. Nun soll mehr Impfstoff geliefert werden.",
-      "url": "https://www.zeit.de/gesundheit/2024-09/mpox-virus-unicef-notfallausschreibung-fuer-mpox-impfstoff",
-      "image_url": "https://img.zeit.de/gesundheit/2024-09/mpox-impfstoff-notfallausschreibung/super__320x213"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Hochzeit : Thomas Gottschalk ist wieder verheiratet",
@@ -457,14 +482,14 @@
       "image_url": "https://img.zeit.de/politik/deutschland/2024-08/afd-thueringen-wahlparty-abgesagt/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Nichtwähler : Stimme null",
-      "teaser": "Ein Drittel der Wahlberechtigten wird sich bei den Landtagswahlen enthalten. Zu Besuch bei zwei Nichtwählern, die die Politik verachten, aber auch die AfD fürchten",
-      "url": "https://www.zeit.de/politik/deutschland/2024-08/nichtwaehler-landtagswahl-sachsen-thueringen-ostdeutschland-wahlbeteiligung"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Gefangenenaustausch : \"Die anderen verstanden sehr schnell, dass ich kein Spion war\"",
       "teaser": "Plötzlich endete die Tortur im russischen Straflager: Kevin Lick kam beim großen Gefangenenaustausch frei. Sein neues Leben in Deutschland fällt dem 19-Jährigen schwer.",
       "url": "https://www.zeit.de/politik/ausland/2024-08/gefangenenaustausch-russland-deutschland-kevin-lick-freilassung"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Russischer Angriffskrieg gegen die Ukraine : Russland meldet ukrainische Angriffe auf Energieinfrastruktur",
+      "teaser": "Über 100 ukrainische Drohnen will Russland abgefangen haben. Wie viele russische Ziele getroffen haben, ist unklar. Eine Raffinerie in Moskau stehe in Flammen.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/russland-ukraine-drohnen-moskau-kraftwerk"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Landtagswahlen : Wahllokale in Sachsen und Thüringen sind geöffnet",
@@ -473,9 +498,9 @@
       "image_url": "https://img.zeit.de/politik/deutschland/2024-09/landtagswahlen-thueringen-sachsen-wahllokale-geoeffnet-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Nichtwähler : Stimme null",
-      "teaser": "Ein Drittel der Wahlberechtigten wird sich bei den Landtagswahlen enthalten. Zu Besuch bei zwei Nichtwählern, die die Politik verachten, aber auch die AfD fürchten",
-      "url": "https://www.zeit.de/politik/deutschland/2024-08/nichtwaehler-landtagswahl-sachsen-thueringen-ostdeutschland-wahlbeteiligung"
+      "title": "Z+ (abopflichtiger Inhalt); Landtagswahlen in Ostdeutschland : Das Ostdeutschlandproblem der etablierten Parteien",
+      "teaser": "Im Osten ohnehin schwach, droht das etablierte Parteiensystem durch die Wahlen dort zu kippen. Um aus der Krise zu kommen, braucht es auch neue Wege der Beteiligung.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-08/landtagswahlen-ostdeutschland-parteiensystem-minderheitsregierung-demokratie"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Landtagswahlen : Tausende demonstrieren in Erfurt gegen AfD und Rechtsruck",
@@ -621,10 +646,16 @@
       "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-08/aprikosentartelettes-thymian-gorgonzola-rezept-elbkombuese-sonntagsessen-teaserbild/super__320x213"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Livestream:\"Was jetzt? – Die Woche\" : Der Livestream zu den Wahlen in Sachsen und Thüringen",
+      "teaser": "Wird die AfD in Thüringen stärkste Kraft? Wie erfolgreich schneidet das BSW ab? Wir begleiten die Wahlen im Livestream.",
+      "url": "https://www.zeit.de/politik/2024-08/wahlen-sachsen-thueringen-landtagswahlen-osten-live",
+      "image_url": "https://img.zeit.de/politik/2024-09/wahlen-sachsen-thueringen-landtagswahlen-osten-live-artikelfoto/wide__892x501"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); \"Was jetzt? – Die Woche\" : Nach Anschlag in Solingen – politisches Maßnahmen-Bingo?",
       "teaser": "Die Antwort auf den Terror in Solingen ist ein emotionsgeladener Streit über Asylpolitik. Warum wir jetzt Ruhe bewahren sollten, in \"Was jetzt? – Die Woche\".",
       "url": "https://www.zeit.de/politik/2024-08/anschlag-solingen-islamismus-ostwahlen-rechtsextremismus-was-jetzt-videopodcast",
-      "image_url": "https://img.zeit.de/2024-08/was-jetzt-die-woche/wide__892x501"
+      "image_url": "https://img.zeit.de/2024-08/was-jetzt-die-woche/super__320x213"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"Was jetzt? – Die Woche\" : Wie Kamala Harris gegen Donald Trump gewinnen will",
@@ -651,28 +682,21 @@
       "image_url": "https://img.zeit.de/politik/2024-08/was-jetzt-wochenshow-moderatorin-dilan-stella-libanon/super__320x213"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); \"Was jetzt? - Die Woche\" : Kamala Harris auf der Überholspur",
-      "teaser": "Donald Trumps neue Gegnerin wird ihm gefährlich, liegt in einigen Umfragen sogar vorn. Was sie auszeichnet und wie sie ihn schlagen könnte, in \"Was jetzt? – Die Woche\".",
-      "url": "https://www.zeit.de/politik/2024-07/kamala-harris-donald-trump-us-wahlkampf-was-jetzt-videopodcast",
-      "image_url": "https://img.zeit.de/2024-07/was-jetzt-die-woche-5/super__320x213"
+      "title": "Z+ (abopflichtiger Inhalt); Wahl in Thüringen : 44,4 Prozent der Thüringer haben bislang in Wahllokalen abgestimmt",
+      "teaser": "Bei der Wahl in Thüringen hat sich bis zum Mittag eine etwas höhere Beteiligung als vor fünf Jahren abgezeichnet. Briefwählende sind noch nicht berücksichtigt.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/wahl-in-thueringen-wahlbeteiligung-mittag"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Liveblog:Krieg in Israel und Gaza : Israels Verteidigungsminister fordert Sitzung des Sicherheitskabinetts",
       "teaser": "Israels Armee solle auf die Kontrolle über den Philadelphi-Korridor verzichten, fordert Joaw Galant. Diese steht einem Geiseldeal mit der Hamas im Weg. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/2023-12/news-israel-gaza-krieg-live",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/news-israel-gaza-krieg-live-bild/wide__892x501"
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/news-israel-gaza-krieg-live-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Ukrainekarte aktuell : Russland stößt an mehreren Frontabschnitten in Donezk vor",
       "teaser": "In der Region Donezk setzt Russland seinen Vormarsch auf Pokrowsk fort. Auch nahe der Regionalhauptstadt rückt das russische Militär vor.",
       "url": "https://www.zeit.de/politik/ausland/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen",
       "image_url": "https://img.zeit.de/politik/ausland/2023-09/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen-teaserbild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Nachrichtenpodcast : Was heute Abend bei den Landtagswahlen wichtig wird",
-      "teaser": "Bei den Landtagswahlen könnten AfD und BSW neue Bestergebnisse erzielen. Die Wahlen könnten Deutschland verändern. Und: Wie SPD und FDP sich beim Thema Mieten blockieren.",
-      "url": "https://www.zeit.de/politik/2024-08/landtagswahlen-sachsen-thueringen-afd-bsw-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__430x286"
     },
     {
       "title": "Verlagsangebot : Schreiben Sie Ihr Buch – in 5 Tagen zu besseren Texten",
@@ -925,22 +949,22 @@
       "image_url": "https://img.zeit.de/administratives/2015-10/zeit-shop-bilder/kug-neu.jpg/super__320x213"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Mpox-Virus : Unicef bringt Notfallausschreibung für Mpox-Impfstoff auf den Weg",
+      "teaser": "In afrikanischen Ländern hat sich eine neue Mpox-Variante ausgebreitet. Die WHO hat eine Notlage ausgerufen. Nun soll mehr Impfstoff geliefert werden.",
+      "url": "https://www.zeit.de/gesundheit/2024-09/mpox-virus-unicef-notfallausschreibung-fuer-mpox-impfstoff",
+      "image_url": "https://img.zeit.de/gesundheit/2024-09/mpox-impfstoff-notfallausschreibung/wide__892x501"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Gesundheitskosten : Karl Lauterbach rechnet mit höheren Kassenbeiträgen ab 2025",
       "teaser": "Der Bundesgesundheitsminister erwartet, dass Beitragszahler für Kranken- und Pflegeversicherung bald mehr zahlen müssen. Zugleich profitierten die Bürger aber auch.",
       "url": "https://www.zeit.de/gesundheit/2024-08/gesundheitskosten-karl-lauterbach-kassenbeitraege-anstieg",
-      "image_url": "https://img.zeit.de/gesundheit/2024-08/gesundheitskosten-karl-lauterbach-kassenbeitraege-anstieg-bild/wide__892x501"
+      "image_url": "https://img.zeit.de/gesundheit/2024-08/gesundheitskosten-karl-lauterbach-kassenbeitraege-anstieg-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Gesundheit : Immer weniger junge Menschen in Europa nutzen Kondome",
       "teaser": "Junge Menschen kümmern sich beim Sex immer weniger um Verhütung. Die WHO warnt nun vor weitreichenden Folgen und fordert die Politik zum Handeln auf.",
       "url": "https://www.zeit.de/gesundheit/2024-08/jugendliche-verhuetung-sex-kondome",
       "image_url": "https://img.zeit.de/gesundheit/2024-08/jugendliche-europa-sex-nutzung-kondome-rueckgang-bild-3/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Herzgesundheit : \"Dann wiegen sie sich in falscher Sicherheit\"",
-      "teaser": "Das Bundeskabinett hat das Gesundes-Herz-Gesetz beschlossen. Werden nun alle Kinder auf zu hohe Cholesterinwerte untersucht? Ärztin Michaela Eikermann sieht das kritisch.",
-      "url": "https://www.zeit.de/2024/37/herzgesundheit-medizin-cholesterin-kinder-jugendliche",
-      "image_url": "https://img.zeit.de/2024/37/dann-wiegen-sie-sich-in-falscher-sicherheit-bild-3/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); X in Brasilien : Oberster Gerichtshof Brasiliens ordnet Sperrung von X an",
@@ -992,11 +1016,11 @@
       "image_url": "https://img.zeit.de/gesellschaft/2024-08/studenten-azubis-besonders-armutsgefaehrdet-hohe-wohnkosten-bild/wide__892x501"
     },
     {
-      "title": "Verlagsangebot : Und was macht man dann damit?",
-      "teaser": "Was verbirgt sich konkret hinter den sperrigen Studiengangsbezeichnungen? Einen Einblick in mögliche Berufsfelder liefert die Suchmaschine für Studienangebote.",
-      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.kaffeepause_wasmachtmandamit.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_kaffeepause_wasmachtmandamit_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-4-klein/photo-of-women-looking-on-monitors-197.jpg",
-      "image_title": "Und was macht man dann damit?"
+      "title": "Verlagsangebot : Durchblick im Studiendschungel",
+      "teaser": "Bei 20.000 möglichen Studiengängen in Deutschland verliert man schnell den Überblick. Unterstützung bietet die Suchmaschine für Studiengänge und Hochschulen.",
+      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.whiteboard_studiendschungel.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_whiteboard_studiendschungel_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-3-klein/man-wearing-black-and-white-stripe-shirt-looking-at-white-197.jpg",
+      "image_title": "Durchblick im Studiendschungel"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Herausforderung in Karriere und Leben : Die Strategien der Hürdenläufer",
@@ -1065,36 +1089,36 @@
       "image_url": "https://img.zeit.de/sport/2024-08/bundesliga-2-spieltag-samstag-werder-bremen-borussia-dortmund-bayer-leverkusen-rb-leipzig-bild-3/super__430x286"
     },
     {
-      "title": "Kriminalität: Ortungsfunktion führt zu flüchtigen Einbrechern im Taxi",
-      "url": "https://www.zeit.de/news/2024-09/01/ortungsfunktion-fuehrt-zu-fluechtigen-einbrechern-im-taxi"
+      "title": "Kriminalität: Tatverdächtige nach Sprengung eines Automaten gefasst",
+      "url": "https://www.zeit.de/news/2024-09/01/tatverdaechtige-nach-sprengung-eines-automaten-gefasst"
     },
     {
-      "title": "Soziales: Viele Arbeitnehmer in NRW steuern wohl auf niedrige Rente zu",
-      "url": "https://www.zeit.de/news/2024-09/01/viele-arbeitnehmer-in-nrw-steuern-wohl-auf-niedrige-rente-zu"
+      "title": "Landkreis Börde: Frau an Bahnhof von Gruppe rassistisch angegriffen",
+      "url": "https://www.zeit.de/news/2024-09/01/frau-an-bahnhof-von-gruppe-rassistisch-angegriffen"
     },
     {
-      "title": "Dortmund: Radfahrer bei Angriff von Gruppe schwer verletzt",
-      "url": "https://www.zeit.de/news/2024-09/01/radfahrer-bei-angriff-von-gruppe-schwer-verletzt"
+      "title": "2. Fußball-Bundesliga: Köln setzt sich im Westduell gegen Schalke durch",
+      "url": "https://www.zeit.de/news/2024-09/01/koeln-setzt-sich-im-westduell-gegen-schalke-durch"
     },
     {
-      "title": "Fußball: HSV und Abwehrspieler Jonas David lösen Vertrag auf",
-      "url": "https://www.zeit.de/news/2024-09/01/hsv-und-abwehrspieler-jonas-david-loesen-vertrag-auf"
+      "title": "3. Fußball-Liga: Cottbus verliert unglücklich in Wiesbaden",
+      "url": "https://www.zeit.de/news/2024-09/01/cottbus-verliert-ungluecklich-in-wiesbaden"
     },
     {
-      "title": "Brände: Großer Schaden nach Brand eines Skilifts",
-      "url": "https://www.zeit.de/news/2024-09/01/grosser-schaden-nach-brand-eines-skilifts"
+      "title": "2. Fußball-Bundesliga: SC Paderborn nur 0:0 gegen Aufsteiger Ulm",
+      "url": "https://www.zeit.de/news/2024-09/01/sc-paderborn-nur-0-0-gegen-aufsteiger-ulm"
     },
     {
-      "title": "Leichtathletik: Im letzten Versuch: Diskuswerferin Pudenz gewinnt beim Istaf",
-      "url": "https://www.zeit.de/news/2024-09/01/im-letzten-versuch-diskuswerferin-pudenz-gewinnt-beim-istaf"
+      "title": "Unfälle: Fußgänger wird von Transporter überfahren und stirbt",
+      "url": "https://www.zeit.de/news/2024-09/01/fussgaenger-wird-von-transporter-ueberfahren-und-stirbt"
     },
     {
-      "title": "Badeunfälle: Drei Menschen sterben beim Baden in bayerischen Seen",
-      "url": "https://www.zeit.de/news/2024-09/01/drei-menschen-sterben-beim-baden-in-bayerischen-seen"
+      "title": "2. Bundesliga: Nächster Sieg: KSC dreht Spiel in Braunschweig",
+      "url": "https://www.zeit.de/news/2024-09/01/naechster-sieg-ksc-dreht-spiel-in-braunschweig"
     },
     {
-      "title": "Harry-Potter-Event: Tausende feiern in Hamburg bei Fantreffen für Harry Potter",
-      "url": "https://www.zeit.de/news/2024-09/01/tausende-feiern-in-hamburg-bei-fantreffen-fuer-harry-potter"
+      "title": "Filmfestspiele Venedig: George Clooney lobt Biden als «selbstlos»",
+      "url": "https://www.zeit.de/news/2024-09/01/george-clooney-lobt-biden-als-selbstlos"
     }
   ]
 }
