@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-02T07:07:18",
+  "timestamp": "2024-09-02T08:09:56",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Progress Whatsup Gold",
+      "url": "https://www.heise.de/news/Whatsup-Gold-Umgehen-der-Anmeldung-durch-kritische-Sicherheitsluecken-moeglich-9854118.html"
+    },
+    {
       "title": "Avtech-IP-Kamera",
       "url": "https://www.heise.de/news/Support-ausgelaufen-Attacken-auf-IP-Kamera-von-Avtech-beobachtet-9852140.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Fortra-FileCatalyst-Workflow-Hintertuer-macht-Angreifer-zu-Admins-9851158.html"
     },
     {
-      "title": "Cisco",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Cisco-Switches-sind-fuer-DoS-Attacken-anfaellig-9850921.html"
+      "title": "Malware \"Voldemort\": Angreifer nehmen verstärkt Steuerzahler ins Visier​",
+      "teaser": "Die Malware Voldemort soll der Spionage dienen. Sie wird allerdings erst aktiv, nachdem mehrfach Sicherheitshinweise ignoriert wurden.",
+      "url": "https://www.heise.de/news/Malware-Voldemort-Angreifer-nehmen-verstaerkt-Steuerzahler-ins-Visier-9854106.html",
+      "image_title": "VIele blaue geschlossene Schloss-Symbole, eines in rot ist offen"
+    },
+    {
+      "title": "\"Whatsup Gold\": Umgehen der Anmeldung durch kritische Sicherheitslücken möglich",
+      "teaser": "Progress schließt mit aktualisierter Software kritische Sicherheitslücken in der Monitoring-Software \"Whatsup Gold\".",
+      "url": "https://www.heise.de/news/Whatsup-Gold-Umgehen-der-Anmeldung-durch-kritische-Sicherheitsluecken-moeglich-9854118.html",
+      "image_title": "Brennendes Laptop vor Servern, die das Laptop überwacht"
     },
     {
       "title": "Chrome Extension greift sich Solana-Coins",
@@ -152,18 +164,6 @@
       "title": "secIT Digital: Active Directory vor Ransomware & Co. schützen",
       "teaser": "Die redaktionell ausgewählten Referenten der secIT Digital skizzieren die aktuelle IT-Bedrohungslage und zeigen, wie man Systeme effektiv schützt.",
       "url": "https://www.heise.de/news/secIT-Digital-Active-Directory-vor-Ransomware-Co-schuetzen-9849990.html"
-    },
-    {
-      "title": "Prozessorhersteller AMD: Angeblich erneutes Datenleck",
-      "teaser": "Nachdem AMD im Juni ein Datenleck untersucht hatte, sind nun erneut angeblich in einem Untergrundforum AMD-Daten zum Verkauf aufgetaucht.",
-      "url": "https://www.heise.de/news/Angeblich-erneut-Datenleck-bei-AMD-9850379.html",
-      "image_title": "Computer vor Serverschränken, auf dem Dataleak steht, drumherum lungern Datendiebe"
-    },
-    {
-      "title": "Intel-Verschlüsselungstechnik SGX: Root-Key ausgelesen, Angriff unwahrscheinlich",
-      "teaser": "Ein Experte überwand alle Schutzvorrichtungen gegen das Auslesen des zentralen SGX-Schlüssels aus einer Intel-CPU, aber praktisch hat das wenig Bedeutung.",
-      "url": "https://www.heise.de/news/Intel-Verschluesselungstechnik-SGX-Root-Key-ausgelesen-Angriff-unwahrscheinlich-9850355.html",
-      "image_title": "Intel-Prozessor auf Mainboard"
     },
     {
       "title": "NTLM–Webinar",
