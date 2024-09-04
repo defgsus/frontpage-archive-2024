@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-04T12:12:48",
+  "timestamp": "2024-09-04T13:14:29",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,7 +25,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.c1252bc2245226a947e1",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.372f47a37eb18c64d9e0",
       "id": null,
       "text": null
     }
@@ -48,16 +48,16 @@
       "url": "https://www.heise.de/news/Whatsup-Gold-Umgehen-der-Anmeldung-durch-kritische-Sicherheitsluecken-moeglich-9854118.html"
     },
     {
-      "title": "Yubikey Cloning-Angriff: Offenbar möglich – aber nicht trivial",
-      "teaser": "In Yubikey und YubiSHM von Yubico können Angreifer eine Sicherheitslücke ausnutzen und Schlüssel abgreifen. Das erfordert jedoch einiges an Aufwand.",
-      "url": "https://www.heise.de/news/Yubikey-Cloning-Angriff-Offenbar-moeglich-aber-nicht-trivial-9856972.html",
-      "image_title": "Stilisierte Grafik: ein Schloss mit biometrischen Schlüsseln"
+      "title": "Wireshark-Entwickler im Interview: Er war dumm genug, es zu versuchen",
+      "teaser": "Das Tool zur Protokollanalyse Wireshark ist eine der festen Größen für Admins. Doch die Cloud, Verschlüsselung und riesige Datenmengen machen die Arbeit schwer.",
+      "url": "https://www.heise.de/news/Wireshark-Entwickler-im-Interview-Er-war-dumm-genug-es-zu-versuchen-9856785.html",
+      "image_title": "Switch mit Ethernet-Kabeln"
     },
     {
-      "title": "Android Patchday: Updates schließen mehrere hochriskante Lücken",
-      "teaser": "Im September gibt Google zum Patchday fehlerbereinigte Android-Versionen heraus. Sie schließen vor allem hochriskante Lücken.",
-      "url": "https://www.heise.de/news/Android-Patchday-Updates-schliessen-mehrere-hochriskante-Luecken-9856847.html",
-      "image_title": "Stilisiertes Bild: Smartphone mit Android-Roboter auf dem Bildschirm, steht in Flammen"
+      "title": "Cyberangriffe betreffen Wertachkliniken in Bayern und Londoner Verkehrsbetrieb",
+      "teaser": "Ein Cyberangriff hat die IT-Systeme der Wertachkliniken lahmgelegt. Indes bestätigt einer der größten Ölfeld-Dienstleister einen Datenabfluss und mehr.",
+      "url": "https://www.heise.de/news/Cyberangriffe-betreffen-Wertachkliniken-in-Bayern-und-Londoner-Verkehrsbetrieb-9857069.html",
+      "image_title": "Hand auf Tastatur"
     },
     {
       "title": "Keycloak startet Special Interest Group für Site Reliability Engineers",
@@ -75,6 +75,18 @@
       "teaser": "Diesmal geht es im Podcast von heise security um Pläne von OpenSSL, Probleme von Windows mit Linux, unsichere MLOps und weitere Security-News der letzten Tage.",
       "url": "https://www.heise.de/news/Passwort-Folge-13-Protokolle-Messenger-Bootloader-alles-unsicher-9852747.html",
       "image_title": "Bild vom heise-Security-Podcast"
+    },
+    {
+      "title": "CISA warnt vor Angriffen auf WPS Office und VigorConnect",
+      "teaser": "Die CISA warnt davor, dass Schwachstellen in WPS Office und VigorConnect in freier Wildbahn angegriffen werden. Updates stehen bereit.",
+      "url": "https://www.heise.de/news/CISA-warnt-vor-Angriffen-auf-WPS-Office-und-VigorConnect-9856571.html",
+      "image_title": "Brennendes Laptop vor Servern, die das Laptop überwacht"
+    },
+    {
+      "title": "US-Behörden sollen Internet-Routing absichern",
+      "teaser": "Das Weiße Haus macht Druck auf Behörden: Sie sollen ihre Netzrouten kryptografisch absichern. Erst dann können Fehler auffallen.​",
+      "url": "https://www.heise.de/news/US-Behoerden-sollen-Internet-Routing-absichern-9856483.html",
+      "image_title": "Netzwerkkabel steckt in einem Rack"
     },
     {
       "title": "Zyxel: Mehrere hochriskante Sicherheitslücken in Firewalls",
@@ -153,18 +165,6 @@
       "teaser": "Sicherheitsforschern in den USA ist es gelungen, über SQL-Injection das FlyCASS-Sicherheitssystem zu täuschen und damit Zugangssperren zu umgehen.",
       "url": "https://www.heise.de/news/TSA-Airport-Sicherheitskontrollen-per-SQL-Injection-ausgehebelt-9853305.html",
       "image_title": "Aerial,View,Of,Airport.,Airplane,Is,Taxiing,To,Gate,Of"
-    },
-    {
-      "title": "Lookiero: Online-Stylisten \"verlieren\" rund 5 Millionen Datensätze",
-      "teaser": "Das Have-I-Been-Pwned-Projekt hat knapp fünf Millionen Datensätze mehr. Die stammen von Online-Stylisten-Service Lookiero.",
-      "url": "https://www.heise.de/news/Online-Style-Dienst-Lookiero-knapp-5-Millionen-Konten-kompromittiert-9852792.html",
-      "image_title": "Frau am Rechner mit Klamotten zur Anprobe an Stange, daneben Krimineller"
-    },
-    {
-      "title": "Nach Cyberangriff: Solaranbieter \"Qcells\" informiert Kunden über Datenleck",
-      "teaser": "Wieder gibt es ein Datenleck in der Solarbranche. Kunden von Qcell werden darum informiert.",
-      "url": "https://www.heise.de/news/Nach-Cyberangriff-Solaranbieter-Qcells-informiert-Kunden-ueber-Datenleck-9852641.html",
-      "image_title": "Techniker mit Hand auf Solarpanele"
     },
     {
       "title": "NTLM–Webinar",
