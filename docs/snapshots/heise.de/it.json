@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-04T08:08:05",
+  "timestamp": "2024-09-04T09:07:13",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -19,12 +19,17 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.b55750fb6c82f7f94d95",
+      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.8f3328f2c12e9535626f",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Gluster-Tutorial, Teil 2: Snapshots und TLS",
+      "teaser": "Snapshots sind eine gängige Ergänzung zu Backup-Strategien. TLS-Verschlüsselung erhöht die Sicherheit. Wenige Handgriffe verschaffen Entspannung im Admin-Alltag",
+      "url": "https://www.heise.de/ratgeber/Gluster-Tutorial-Teil-2-Snapshots-und-TLS-9852845.html"
+    },
     {
       "title": "Apple-Zubehör Im Test: MagSafe-iPhone-Mount für Apple TV​, PowerCube Rewirable​",
       "teaser": "Ein iPhone-Ständer für Videochats am Fernseher trifft auf eine besondere Stromversorgung: Zwei Peripherieprodukte für Apple-User im Check.",
@@ -32,20 +37,26 @@
       "image_title": "iPhone Mount für Apple 4K plus PowerCube Rewirable"
     },
     {
-      "title": "Smart Home: \"Überstandard\" Matter im Praxistest",
-      "teaser": "Das Kommunikationsprotokoll Matter soll als Universalsprache zwischen Smart-Home-Ökosystemen vermitteln. Bislang profitiert aber nur eine Plattform.",
-      "url": "https://www.heise.de/tests/Smart-Home-Ueberstandard-Matter-im-Praxistest-9840804.html",
-      "image_title": "KI, Collage c’t"
+      "title": "Keycloak startet Special Interest Group für Site Reliability Engineers",
+      "teaser": "Eine neue SIG steht bereit, um Keycloak für Site Reliability Engineers besser nutzbar zu machen. Interessierte können am Slack-Channel teilnehmen.",
+      "url": "https://www.heise.de/news/Keycloak-startet-Special-Interest-Group-fuer-Site-Reliability-Engineers-9856750.html",
+      "image_title": "Stilisierter elektronischer Schlüssel vor Kästchenhintergrund."
+    },
+    {
+      "title": "Schluss mit der Security-Katastrophe: Reden wir wieder normal über Sicherheit!",
+      "teaser": "Ständig Hiobsbotschaften, schlimmste IT-Security überall! Doch das verzerrt den Blick auf den echten Stand der Dinge. Schluss damit, meint Dennis-Kenji Kipker.",
+      "url": "https://www.heise.de/meinung/Cyber-Unsecurity-sells-Endlich-mal-wieder-normal-ueber-Cybersicherheit-sprechen-9856069.html"
+    },
+    {
+      "title": "Powertoys 0.84: \"Arbeitsbereiche\" startet Programme an vorgegebenen Plätzen",
+      "teaser": "In der Powertoys-Version 0.84 ergänzt Microsoft die praktische Funktion \"Arbeitsbereiche\" und liefert weitere Verbesserungen.",
+      "url": "https://www.heise.de/news/Powertoys-0-84-Arbeitsbereiche-startet-Programme-an-vorgegebenen-Plaetzen-9856665.html",
+      "image_title": "Stilisiertes Bild: Ein Laptop mit Windows-Logo auf einer Werkbank, umgeben von Werkzeugen und Zahrädern"
     },
     {
       "title": "iX-Workshop: Effiziente IT-Sicherheit durch KI",
       "teaser": "Erfahren Sie, wie KI die IT-Sicherheit verbessern kann. Praxisnahe Einblicke für IT-Sicherheitsverantwortliche und Entscheider. (Last Call)",
       "url": "https://www.heise.de/news/iX-Workshop-Effiziente-IT-Sicherheit-durch-KI-9855944.html"
-    },
-    {
-      "title": "Gluster-Tutorial, Teil 2: Snapshots und TLS",
-      "teaser": "Snapshots sind eine gängige Ergänzung zu Backup-Strategien. TLS-Verschlüsselung erhöht die Sicherheit. Wenige Handgriffe verschaffen Entspannung im Admin-Alltag",
-      "url": "https://www.heise.de/ratgeber/Gluster-Tutorial-Teil-2-Snapshots-und-TLS-9852845.html"
     },
     {
       "title": "\"Passwort\" Folge 13: Protokolle, Messenger, Bootloader – alles unsicher",
@@ -64,6 +75,12 @@
       "teaser": "Nach der Online-Konferenz am 19. November stehen sechs Workshops zur Auswahl. Sie behandeln C#, ASP.NET Core, .NET MAUI, Blazor, Entity Framework Core und KI.",
       "url": "https://www.heise.de/news/betterCode-NET-9-0-Sechs-Workshops-zu-ASP-NET-Core-C-13-0-KI-und-mehr-9849060.html",
       "image_title": "betterCode() .NET 9.0, Online-Konferenz, 19. November 2024"
+    },
+    {
+      "title": "Smart Home: \"Überstandard\" Matter im Praxistest",
+      "teaser": "Das Kommunikationsprotokoll Matter soll als Universalsprache zwischen Smart-Home-Ökosystemen vermitteln. Bislang profitiert aber nur eine Plattform.",
+      "url": "https://www.heise.de/tests/Smart-Home-Ueberstandard-Matter-im-Praxistest-9840804.html",
+      "image_title": "KI, Collage c’t"
     },
     {
       "title": "US-Behörden sollen Internet-Routing absichern",
@@ -105,24 +122,6 @@
       "teaser": "Zyxel warnt vor mehreren Sicherheitslücken in den Firewalls des Unternehmens. Updates stehen bereit, die Lecks abdichten.",
       "url": "https://www.heise.de/news/Zyxel-Mehrere-hochriskante-Sicherheitsluecken-in-Firewalls-9855938.html",
       "image_title": "Rote und blaue Ethernet-Kabel hängen an einem Rack"
-    },
-    {
-      "title": "VMware Fusion: Update stopft Rechteausweitungslücke",
-      "teaser": "Broadcom schließt mit einem Update eine Sicherheitslücke in VMware Fusion. Angreifer können ihre Rechte dadurch ausweiten.",
-      "url": "https://www.heise.de/news/VMware-Fusion-Update-stopft-Rechteausweitungsluecke-9855846.html",
-      "image_title": "Stilisierte Grafik: Brennendes VMware-Logo auf einem Laptop"
-    },
-    {
-      "title": "iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
-      "teaser": "Lernen Sie, wie Sie Angriffe auf das Active Directory Ihres Unternehmens sicher erkennen und effektiv verhindern können.",
-      "url": "https://www.heise.de/news/iX-Workshop-Lokales-Active-Directory-gegen-Angriffe-absichern-9851791.html",
-      "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
-    },
-    {
-      "title": "Neuauflage der Umfrage \"Softwaretest in Praxis und Forschung\"",
-      "teaser": "Die Initiatoren der Online-Umfrage \"Softwaretest in Praxis und Forschung\" untersuchen, wie sich das Software-Testen in der Praxis darstellt.",
-      "url": "https://www.heise.de/news/Neuauflage-der-Umfrage-Softwaretest-in-Praxis-und-Forschung-9855574.html",
-      "image_title": "Stilisierte Monitore"
     },
     {
       "title": "Zahlreiche Bestwerte",
