@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-04T09:07:17",
+  "timestamp": "2024-09-04T10:00:49",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.223d489f832b26a26fe2",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.c1252bc2245226a947e1",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Android Patchday",
+      "url": "https://www.heise.de/news/Android-Patchday-Updates-schliessen-mehrere-hochriskante-Luecken-9856847.html"
+    },
     {
       "title": "Zyxel Firewalls",
       "url": "https://www.heise.de/news/Zyxel-Mehrere-hochriskante-Sicherheitsluecken-in-Firewalls-9855938.html"
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Whatsup-Gold-Umgehen-der-Anmeldung-durch-kritische-Sicherheitsluecken-moeglich-9854118.html"
     },
     {
-      "title": "Avtech-IP-Kamera",
-      "url": "https://www.heise.de/news/Support-ausgelaufen-Attacken-auf-IP-Kamera-von-Avtech-beobachtet-9852140.html"
+      "title": "Android Patchday: Updates schließen mehrere hochriskante Lücken",
+      "teaser": "Im September gibt Google zum Patchday fehlerbereinigte Android-Versionen heraus. Sie schließen vor allem hochriskante Lücken.",
+      "url": "https://www.heise.de/news/Android-Patchday-Updates-schliessen-mehrere-hochriskante-Luecken-9856847.html",
+      "image_title": "Stilisiertes Bild: Smartphone mit Android-Roboter auf dem Bildschirm, steht in Flammen"
+    },
+    {
+      "title": "Keycloak startet Special Interest Group für Site Reliability Engineers",
+      "teaser": "Eine neue SIG steht bereit, um Keycloak für Site Reliability Engineers besser nutzbar zu machen. Interessierte können am Slack-Channel teilnehmen.",
+      "url": "https://www.heise.de/news/Keycloak-startet-Special-Interest-Group-fuer-Site-Reliability-Engineers-9856750.html",
+      "image_title": "Stilisierter elektronischer Schlüssel vor Kästchenhintergrund."
     },
     {
       "title": "Schluss mit der Security-Katastrophe: Reden wir wieder normal über Sicherheit!",
@@ -153,18 +165,6 @@
       "teaser": "Beim IC-Hersteller Microchip sind vor zwei Wochen Einbrecher in die IT eingestiegen. Jetzt bietet die Ransomware-Gruppe \"Play\" Daten feil.",
       "url": "https://www.heise.de/news/Ransomware-Gruppe-Play-veroeffentlicht-Daten-angeblich-von-Microchip-9852402.html",
       "image_title": "Computer vor Serverschränken, auf dem Dataleak steht, drumherum lungern Datendiebe"
-    },
-    {
-      "title": "Multi-Plattform-Messenger: Pidgin-Plug-in hatte Keylogger im Gepäck",
-      "teaser": "Die Entwickler von Pidgin warnen, dass das Plug-in ss-otr einen Trojaner mitgebracht hat. Mittlerweile ist es offline.",
-      "url": "https://www.heise.de/news/Multi-Plattform-Messenger-Pidgin-Plug-in-hatte-Keylogger-im-Gepaeck-9852426.html",
-      "image_title": "Symbolbild für ein trojanisches Pferd"
-    },
-    {
-      "title": "Filmstudios lassen größte illegale Streaming-Seite schließen",
-      "teaser": "Die \"größte Organisation von illegalem Streaming der Welt\" ist nicht mehr erreichbar: Fmovies wurde von vietnamesischen Behörden vom Netz genommen.",
-      "url": "https://www.heise.de/news/Filmstudios-lassen-groesste-illegale-Streaming-Seite-schliessen-9852190.html",
-      "image_title": "Fernbedienung von Streaming-Angebot"
     },
     {
       "title": "NTLM–Webinar",
