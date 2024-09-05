@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-05T11:00:48",
+  "timestamp": "2024-09-05T12:12:14",
   "url": "https://www.zeit.de/politik/index",
   "response": {
     "status": 200
@@ -38,22 +38,24 @@
   ],
   "articles": [
     {
-      "title": "Asly-Reform : SPD und Grüne weisen Ultimatum zur Migrationspolitik zurück",
+      "title": "Frankreich : Macron ernennt Ex-EU-Kommissar Barnier zum französischen Premier",
+      "teaser": "Seit der Parlamentswahl vor zwei Monaten hat Frankreich keine funktionierende Regierung. Nun stellt Emmanuel Macron eine prominente Personalie für den Spitzenposten vor.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/ex-eu-kommissar-barnier-zum-franzoesischen-premierminister-ernannt",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/michel-barnier/wide__892x501",
+      "image_title": "Michel Barnier"
+    },
+    {
+      "title": "Liveblog:Ukrainekrieg : Andrij Sybiha wird neuer Außenminister der Ukraine",
+      "teaser": "Ein langjähriger Mitarbeiter von Selenskyj folgt auf Kuleba als neuer Außenminister. Die Ukraine meldet den Abschuss von 60 russischen Drohnen. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/andrij-sybiha-aussenminister-ukraine/super__430x286",
+      "image_title": "Andrij Sybiha Außenminister Ukraine"
+    },
+    {
+      "title": "Aslyreform : SPD und Grüne weisen Ultimatum zur Migrationspolitik zurück",
       "teaser": "Friedrich Merz hat versucht, durch eine Frist den Druck auf die Beratungen zur Asylpolitik zu erhöhen. SPD und Grüne sehen darin \"Wahlkampfgetöse\" der Union.",
       "url": "https://www.zeit.de/politik/deutschland/2024-09/spd-gruene-ultimatum-reform-asylgesetz",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/ultimatum-zur-migrationspolitik-katja-mast-bild/wide__892x501"
-    },
-    {
-      "title": "Video : Das sagt die Polizei zum Einsatz in München",
-      "teaser": "Wann begann der Einsatz in der Münchner Innenstadt? Gab es Verletze? Wie war der erschossene Tatverdächtige bewaffnet? Hier die Erkenntnisse der Polizei",
-      "url": "https://www.zeit.de/politik/2024-09/polizeieinsatz-muenchen-ns-dokumentationszentrum-statement-polizei",
-      "image_url": "https://img.zeit.de/politik/2024-09/muenchen-statement-polizei/super__430x286"
-    },
-    {
-      "title": "BKA-Lagebericht : Schäden durch Organisierte Kriminalität 2023 verdoppelt",
-      "teaser": "Die Zahl der Verfahren gegen die Organisierte Kriminalität bleibt laut Lagebericht fast unverändert hoch. Doch der finanzielle Schaden steigt; vor allem in einem Bereich.",
-      "url": "https://www.zeit.de/politik/2024-09/bka-lagebericht-organisierte-kriminalitaet-2023",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-09/bka-lagebericht-organisierte-kriminalitaet-2023-bild/super__430x286"
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/ultimatum-zur-migrationspolitik-katja-mast-bild/super__430x286"
     },
     {
       "title": "Landtagswahlen in Sachsen : Weitere manipulierte Wahlzettel in Sachsen gefunden",
@@ -116,10 +118,16 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-09/gefangenenaustausch-russland-deutschland-kevin-lick-freilassung-bild/super__430x286"
     },
     {
-      "title": "Liveblog:Ukrainekrieg : Wladimir Putin nennt Bedingungen für Verhandlungen mit der Ukraine",
-      "teaser": "Russlands Staatschef zeigt sich zu Gesprächen mit der Ukraine bereit – will aber die Gesprächsgrundlage bestimmen. Selenskyj wird in Ramstein erwartet. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/ukraine-krieg-news-liveblog-putin/wide__892x501"
+      "title": "Großeinsatz in München : Das sagt die Polizei zum Einsatz in München",
+      "teaser": "Wann begann der Einsatz in der Münchner Innenstadt? Gab es Verletzte? Wie war der erschossene Tatverdächtige bewaffnet? Hier die Erkenntnisse der Polizei",
+      "url": "https://www.zeit.de/politik/2024-09/polizeieinsatz-muenchen-ns-dokumentationszentrum-statement-polizei",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/polizei-neu/wide__892x501"
+    },
+    {
+      "title": "BKA-Lagebericht : Schäden durch Organisierte Kriminalität 2023 verdoppelt",
+      "teaser": "Die Zahl der Verfahren gegen die Organisierte Kriminalität bleibt laut Lagebericht fast unverändert hoch. Doch der finanzielle Schaden steigt; vor allem in einem Bereich.",
+      "url": "https://www.zeit.de/politik/2024-09/bka-lagebericht-organisierte-kriminalitaet-2023",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-09/bka-lagebericht-organisierte-kriminalitaet-2023-bild/super__430x286"
     },
     {
       "title": "Ukrainekarte aktuell : Ukraine erobert Stellungen westlich von Donezk zurück",
@@ -131,13 +139,13 @@
       "title": "Z+ (abopflichtiger Inhalt); Krieg im Sudan : Kein US-Rap für die Emirate",
       "teaser": "Weil die Vereinigten Arabischen Emirate den Krieg im Sudan anheizen, hat US-Rapper Macklemore ein Konzert in dem Golfstaat abgesagt. Das trifft den Herrscher empfindlich.",
       "url": "https://www.zeit.de/politik/2024-09/krieg-sudan-vereinigte-arabische-emirate-5vor8",
-      "image_url": "https://img.zeit.de/politik/2024-09/krieg-sudan-vereinigte-arabische-emirate-5vor8-bild/super__430x286"
+      "image_url": "https://img.zeit.de/politik/2024-09/krieg-sudan-vereinigte-arabische-emirate-5vor8-bild/wide__892x501"
     },
     {
       "title": "Krieg in der Ukraine : Kühlturm des AKW Saporischschja muss wohl abgerissen werden",
       "teaser": "Ein Brand hat das Atomkraftwerk in Saporischschja beschädigt. Laut IAEA-Chef Rafael Grossi muss ein Kühlturm abgerissen werden. Es bestehe jedoch keine weitere Gefahr.",
       "url": "https://www.zeit.de/politik/ausland/2024-09/saporischschja-akw-kuehlturm-abreissen-ukraine-krieg-grossi",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/saporischschja-atomkraftwerk/wide__892x501"
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/saporischschja-atomkraftwerk/super__430x286"
     },
     {
       "title": "Landtagswahl in Thüringen : CDU-Politiker plädiert für Zusammenarbeit mit Thüringer Linken",
@@ -149,13 +157,13 @@
       "title": "Neuseeland : Indigene Neuseeländer ernennen neue Māori-Königin",
       "teaser": "In der vergangenen Woche war der König der Māori in Neuseeland verstorben. Am Tag seiner Beerdigung wählten indigene Anführer dessen Tochter als Nachfolgerin.",
       "url": "https://www.zeit.de/politik/ausland/2024-09/neuseeland-maori-koenigin",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/maori-koenigin-beerdigung-bild/super__430x286"
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/maori-koenigin-beerdigung-bild/wide__892x501"
     },
     {
       "title": "Nachrichtenpodcast : Welche Folgen hat die Wahlfälschung?",
       "teaser": "In Sachsen ermittelt das Landeskriminalamt wegen gefälschter Briefwahlstimmen. Muss die Wahl wiederholt werden? Und: Was bedeutet eine starke AfD für People of Color?",
       "url": "https://www.zeit.de/politik/2024-09/wahlbetrug-sachsen-manipulation-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__892x501"
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__430x286"
     },
     {
       "title": "Karibikstaat : Haiti weitet Ausnahmezustand auf das ganze Land aus",
@@ -167,13 +175,13 @@
       "title": "US-Präsidentschaftswahl : Trump und Harris einigen sich auf Regeln für erste TV-Debatte",
       "teaser": "Die Präsidentschaftskandidaten waren darüber uneins, ob beim TV-Duell die Mikrofone stumm bleiben sollen, wenn der andere spricht. Nun hat Harris wohl nachgegeben.",
       "url": "https://www.zeit.de/politik/ausland/2024-09/harris-trump-usa-tv-debatte-regeln",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/mikrophon-usa-wahlkampf-tv-debatte/super__430x286"
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/mikrophon-usa-wahlkampf-tv-debatte/wide__892x501"
     },
     {
       "title": "Ampelregierung : FDP warnt Grüne vor Blockade bei Zurückweisungen noch an der Grenze",
       "teaser": "Der FDP-Generalsekretär fordert die Grünen zu mehr Härte in Asylfragen auf. Die im Raum stehenden Zurückweisungen an der deutschen Grenze sind aber juristisch umstritten.",
       "url": "https://www.zeit.de/politik/deutschland/2024-09/djir-sarai-fdp-asyl-gruene",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/bijan-djir-sarai-fdp-asyl-gruene/wide__892x501"
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/bijan-djir-sarai-fdp-asyl-gruene/super__430x286"
     },
     {
       "title": "Krieg in Israel und Gaza : Abkommen über Waffenruhe steht laut US-Regierung \"zu 90 Prozent\"",
@@ -210,12 +218,6 @@
       "teaser": "In Sachsen wurden Wahlscheine zugunsten der Freien Sachsen überklebt. Die Generalstaatsanwaltschaft ermittelt. Verändert die Fälschung das Ergebnis? Was bekannt ist.",
       "url": "https://www.zeit.de/politik/deutschland/2024-09/wahlfaelschung-freie-sachsen-stimmzettel-landtagswahl",
       "image_url": "https://img.zeit.de/politik/deutschland/2024-09/wahlfaelschung-freie-sachsen-stimmzettel-landtagswahl-bild-2/super__430x286"
-    },
-    {
-      "title": "US-Präsidentschaftswahlkampf : USA verhängen wegen Wahleinmischung Sanktionen gegen Russland",
-      "teaser": "Die US-Regierung hat Strafmaßnahmen gegen mehrere Personen und Organisationen in Russland erlassen. Ihnen wird vorgeworfen, den US-Wahlkampf beeinflussen zu wollen.",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/usa-verhaengen-wegen-wahleinmischung-sanktionen-gegen-russland",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/usa-verhaengen-wegen-wahleinmischung-sanktionen-gegen-russland-bild/super__430x286"
     },
     {
       "title": "Asylreform : Friedrich Merz stellt Ultimatum zu strengerer Migrationspolitik",

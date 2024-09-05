@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-05T11:00:38",
+  "timestamp": "2024-09-05T12:12:04",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,7 +25,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.bd953ec45c3ba309b045",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.b2d24e836eeba3b834d0",
       "id": null,
       "text": null
     }
@@ -36,10 +36,6 @@
       "url": "https://www.heise.de/news/Veeam-behebt-mehrere-Sicherheitsluecken-Codeschmuggel-moeglich-9858027.html"
     },
     {
-      "title": "Veeam",
-      "url": "https://www.heise.de/news/Backuploesungen-von-Veeam-Angreifer-koennen-MFA-umgehen-9858162.html"
-    },
-    {
       "title": "Cisco",
       "url": "https://www.heise.de/news/Angreifer-koennen-durch-Hintertuer-in-Cisco-Smart-Licensing-Utility-schluepfen-9857962.html"
     },
@@ -48,32 +44,19 @@
       "url": "https://www.heise.de/news/Zyxel-Angreifer-koennen-Kontrolle-ueber-Access-Points-und-Router-erlangen-9857791.html"
     },
     {
+      "title": "Android Patchday",
+      "url": "https://www.heise.de/news/Android-Patchday-Updates-schliessen-mehrere-hochriskante-Luecken-9856847.html"
+    },
+    {
       "title": "Veeam behebt mehrere Sicherheitslücken - Codeschmuggel möglich",
       "teaser": "Angreifer konnten eigenen zudem Dateien aus der Ferne löschen, die Authentifizierung manipulieren und ihre Privilegien erhöhen. Patches stehen bereit.",
       "url": "https://www.heise.de/news/Veeam-behebt-mehrere-Sicherheitsluecken-Codeschmuggel-moeglich-9858027.html"
-    },
-    {
-      "title": "Schadcode-Attacken auf Veeam-Backuplösungen möglich",
-      "teaser": "Angreifer können an mehreren Sicherheitslücken in Veeam Backup & Replication, ONE und Co. ansetzen. Dagegen abgesicherte Versionen sind verfügbar.",
-      "url": "https://www.heise.de/news/Backuploesungen-von-Veeam-Angreifer-koennen-MFA-umgehen-9858162.html"
     },
     {
       "title": "Studie: Smarte Spielzeuge senden Nutzungsdaten an Hersteller",
       "teaser": "Viele smarte Spielzeuge in Kinderzimmern erfassen nicht nur die Nutzung durch ihre jungen Besitzer, sondern erstellen auch Profile, sagt eine Studie.",
       "url": "https://www.heise.de/news/Studie-Smarte-Kinderspielzeuge-haben-oft-mangelhaften-Datenschutz-9847746.html",
       "image_title": "Drei Kinder sitzen auf dem Sofa und spielen mit Tablet und Handy"
-    },
-    {
-      "title": "Sextortion-Fälle in den USA: Kriminelle schicken Bilder von der Umgebung mit",
-      "teaser": "Kriminelle behaupten, im Besitz von Videos zu sein, in denen sich Menschen selbst befriedigen. Zudem schicken sie in der E-Mail ein Foto der Umgebung mit.",
-      "url": "https://www.heise.de/news/Sextortion-Faelle-in-den-USA-Kriminelle-schicken-Bilder-von-der-Umgebung-mit-9857881.html",
-      "image_title": "Hand auf der Tastatur"
-    },
-    {
-      "title": "Yubikey-Lücke: Hersteller will weder Update noch generell Ersatz bereitstellen",
-      "teaser": "Yubico plant auch künftig keine Firmware-Updates für verwundbare Yubikeys. Über einen Ersatz will das Unternehmen im Einzelfall entscheiden.",
-      "url": "https://www.heise.de/news/Yubikey-Cloning-Angriff-Kein-Firmware-Update-vielleicht-Key-Austausch-9857807.html",
-      "image_title": "Ein Krimineller untersucht einen USB-Dongle, rundherum Sicherheitssymbole"
     },
     {
       "title": "Angreifer können durch Hintertür in Cisco Smart Licensing Utility schlüpfen",
@@ -98,6 +81,18 @@
       "teaser": "Ein Cyberangriff hat die IT-Systeme der Wertachkliniken lahmgelegt. Indes bestätigt einer der größten Ölfeld-Dienstleister einen Datenabfluss und mehr.",
       "url": "https://www.heise.de/news/Cyberangriffe-betreffen-Wertachkliniken-in-Bayern-und-Londoner-Verkehrsbetrieb-9857069.html",
       "image_title": "Hand auf Tastatur"
+    },
+    {
+      "title": "Yubikey: Cloning-Angriff über Seitenkanal",
+      "teaser": "In Yubikey und YubiHSM von Yubico können Angreifer eine Sicherheitslücke ausnutzen und Schlüssel abgreifen. Das erfordert jedoch einiges an Aufwand.",
+      "url": "https://www.heise.de/news/Yubikey-Cloning-Angriff-Offenbar-moeglich-aber-nicht-trivial-9856972.html",
+      "image_title": "Stilisierte Grafik: ein Schloss mit biometrischen Schlüsseln"
+    },
+    {
+      "title": "Android Patchday: Updates schließen mehrere hochriskante Lücken",
+      "teaser": "Im September gibt Google zum Patchday fehlerbereinigte Android-Versionen heraus. Sie schließen vor allem hochriskante Lücken.",
+      "url": "https://www.heise.de/news/Android-Patchday-Updates-schliessen-mehrere-hochriskante-Luecken-9856847.html",
+      "image_title": "Stilisiertes Bild: Smartphone mit Android-Roboter auf dem Bildschirm, steht in Flammen"
     },
     {
       "title": "Keycloak startet Special Interest Group für Site Reliability Engineers",
@@ -163,6 +158,12 @@
       "teaser": "IT-Forscher haben eine neue Ransomware-as-a-Service-Gruppe mit dem Namen Cicada3301 entdeckt. Sie ist auf ESXi-Server spezialisiert.",
       "url": "https://www.heise.de/news/Ransomware-Gruppe-Cicada3301-Spezialisiert-auf-ESXi-Server-9855325.html",
       "image_title": "Darknet-Seite von Cicada3301"
+    },
+    {
+      "title": "iX-Workshop: Sicherer Betrieb von Windows 11 in Unternehmen",
+      "teaser": "Lernen Sie an praktischen Beispielen, wie Sie Windows 11 Pro und Enterprise in Ihrem Unternehmen sicher und effektiv einsetzen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Sicherer-Betrieb-von-Windows-11-in-Unternehmen-9851683.html",
+      "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
     },
     {
       "title": "NTLM–Webinar",
