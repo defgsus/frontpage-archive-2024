@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-05T10:07:14",
+  "timestamp": "2024-09-05T11:00:35",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,22 +26,6 @@
   ],
   "articles": [
     {
-      "title": "Einfache Fernsteuerung für Fahrzeuge, Roboter und Ähnliches bauen",
-      "teaser": "Die preiswerte 433-MHz-Fernsteuerung ist vielseitig. Durch die ATtiny-Chips ist man in der Programmierung uneingeschränkt und kann Funktionen optimieren.",
-      "url": "https://www.heise.de/ratgeber/Einfache-Fernsteuerung-fuer-Fahrzeuge-Roboter-und-Aehnliches-bauen-9845574.html",
-      "image_title": ","
-    },
-    {
-      "title": "Einstieg in AutoGen: Das Multi-Agenten-Framework im Einsatz",
-      "teaser": "Mehrere Sprachmodelle zu verketten, ist aktuell ein vielversprechender Ansatz: Das flexible und offene Framework AutoGen hebt sich mit dynamischen Chats ab.",
-      "url": "https://www.heise.de/ratgeber/Einstieg-in-AutoGen-Das-Multi-Agenten-Framework-im-Einsatz-9856657.html"
-    },
-    {
-      "title": "Online-Konferenz zu PHP: Das Programm der betterCode() PHP 2024 steht fest",
-      "teaser": "Am 21. November können sich Teilnehmende der Online-Konferenz zu PHP über die Neuerungen von PHP 8.4 informieren. Jetzt Tickets zum Frühbucherpreis sichern!",
-      "url": "https://www.heise.de/news/Online-Konferenz-zu-PHP-Das-Programm-der-betterCode-PHP-2024-steht-fest-9857136.html"
-    },
-    {
       "title": "So richten Sie den Raspberry Pi schnell und komfortabel ein",
       "teaser": "Die Zeiten, in denen die Raspi-Einrichtung eine frickelige Tagesaufgabe war, sind längst vorbei – inzwischen ist ein Raspberry Pi nach wenigen Klicks startklar.",
       "url": "https://www.heise.de/ratgeber/So-richten-Sie-den-Raspberry-Pi-schnell-und-komfortabel-ein-9855509.html"
@@ -52,10 +36,31 @@
       "url": "https://www.heise.de/ratgeber/BASPi-Backup-und-Sync-ohne-Cloud-mit-einem-Raspi-einrichten-9852318.html"
     },
     {
+      "title": "Veeam behebt mehrere Sicherheitslücken - Codeschmuggel möglich",
+      "teaser": "Angreifer konnten eigenen zudem Dateien aus der Ferne löschen, die Authentifizierung manipulieren und ihre Privilegien erhöhen. Patches stehen bereit.",
+      "url": "https://www.heise.de/news/Veeam-behebt-mehrere-Sicherheitsluecken-Codeschmuggel-moeglich-9858027.html"
+    },
+    {
+      "title": "Schadcode-Attacken auf Veeam-Backuplösungen möglich",
+      "teaser": "Angreifer können an mehreren Sicherheitslücken in Veeam Backup & Replication, ONE und Co. ansetzen. Dagegen abgesicherte Versionen sind verfügbar.",
+      "url": "https://www.heise.de/news/Backuploesungen-von-Veeam-Angreifer-koennen-MFA-umgehen-9858162.html"
+    },
+    {
+      "title": "Online-Konferenz zu PHP: Das Programm der betterCode() PHP 2024 steht fest",
+      "teaser": "Am 21. November können sich Teilnehmende der Online-Konferenz zu PHP über die Neuerungen von PHP 8.4 informieren. Jetzt Tickets zum Frühbucherpreis sichern!",
+      "url": "https://www.heise.de/news/Online-Konferenz-zu-PHP-Das-Programm-der-betterCode-PHP-2024-steht-fest-9857136.html"
+    },
+    {
       "title": "Sextortion-Fälle in den USA: Kriminelle schicken Bilder von der Umgebung mit",
       "teaser": "Kriminelle behaupten, im Besitz von Videos zu sein, in denen sich Menschen selbst befriedigen. Zudem schicken sie in der E-Mail ein Foto der Umgebung mit.",
       "url": "https://www.heise.de/news/Sextortion-Faelle-in-den-USA-Kriminelle-schicken-Bilder-von-der-Umgebung-mit-9857881.html",
       "image_title": "Hand auf der Tastatur"
+    },
+    {
+      "title": "Einfache Fernsteuerung für Fahrzeuge, Roboter und Ähnliches bauen",
+      "teaser": "Die preiswerte 433-MHz-Fernsteuerung ist vielseitig. Durch die ATtiny-Chips ist man in der Programmierung uneingeschränkt und kann Funktionen optimieren.",
+      "url": "https://www.heise.de/ratgeber/Einfache-Fernsteuerung-fuer-Fahrzeuge-Roboter-und-Aehnliches-bauen-9845574.html",
+      "image_title": ","
     },
     {
       "title": "Yubikey-Lücke: Hersteller will weder Update noch generell Ersatz bereitstellen",
@@ -74,6 +79,11 @@
       "teaser": "Das Event am 29. Oktober liefert Softwarearchitekten und Developern praxisnahes Know-how zu Microservices-Architekturen. Bis 1. Oktober noch mit Rabatt buchen.",
       "url": "https://www.heise.de/news/Online-Konferenz-Jetzt-Fruehbucherrabatt-zur-Mastering-Microservices-sichern-9857061.html",
       "image_title": "Online-Konferenz Mastering Microservices"
+    },
+    {
+      "title": "Einstieg in AutoGen: Das Multi-Agenten-Framework im Einsatz",
+      "teaser": "Mehrere Sprachmodelle zu verketten, ist aktuell ein vielversprechender Ansatz: Das flexible und offene Framework AutoGen hebt sich mit dynamischen Chats ab.",
+      "url": "https://www.heise.de/ratgeber/Einstieg-in-AutoGen-Das-Multi-Agenten-Framework-im-Einsatz-9856657.html"
     },
     {
       "title": "Zyxel: Angreifer können Kontrolle über Access Points und Router erlangen",
@@ -110,18 +120,6 @@
       "teaser": "Broadcom lässt erste Chips bei Intel im 18A-Prozess fertigen. Doch die Ergebnisse zeigen, dass 18A noch nicht reif sei für die Massenproduktion, heißt es.",
       "url": "https://www.heise.de/news/Rueckschlag-Broadcom-angeblich-nicht-zufrieden-mit-Chips-aus-Intels-18A-Prozess-9857713.html",
       "image_title": "Silizium-Wafer mit aufgedruckten Mikroprozessoren."
-    },
-    {
-      "title": "KI-Boom: Europas Rechenzentren halten mit Nachfragewachstum nicht Schritt",
-      "teaser": "Große US-Konzerne buchen Standorte in europäischen Rechenzentren noch bevor diese gebaut sind. Die Bautätigkeit liegt deutlich unter dem Zuwachs der Nachfrage.​",
-      "url": "https://www.heise.de/news/KI-Boom-Europas-Rechenzentren-halten-mit-Nachfragewachstum-nicht-Schritt-9857689.html",
-      "image_title": "Serverraum"
-    },
-    {
-      "title": "Colossus ist fertig: Womöglich schnellster Supercomputer der Welt",
-      "teaser": "Der Supercomputer Colossus verwendet 100.000 H100-Beschleuniger von Nvidia. Die Rechenleistung ist enorm, aber auch der Stromverbrauch.",
-      "url": "https://www.heise.de/news/xAI-hat-offenbar-den-schnellsten-Supercomputer-der-Welt-fertiggestellt-9857511.html",
-      "image_title": "Nvidia HGX H100 System"
     },
     {
       "title": "Zahlreiche Bestwerte",

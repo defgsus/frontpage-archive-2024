@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-05T10:07:17",
+  "timestamp": "2024-09-05T11:00:38",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Veeam",
+      "url": "https://www.heise.de/news/Veeam-behebt-mehrere-Sicherheitsluecken-Codeschmuggel-moeglich-9858027.html"
+    },
+    {
+      "title": "Veeam",
+      "url": "https://www.heise.de/news/Backuploesungen-von-Veeam-Angreifer-koennen-MFA-umgehen-9858162.html"
+    },
+    {
       "title": "Cisco",
       "url": "https://www.heise.de/news/Angreifer-koennen-durch-Hintertuer-in-Cisco-Smart-Licensing-Utility-schluepfen-9857962.html"
     },
@@ -40,12 +48,20 @@
       "url": "https://www.heise.de/news/Zyxel-Angreifer-koennen-Kontrolle-ueber-Access-Points-und-Router-erlangen-9857791.html"
     },
     {
-      "title": "Android Patchday",
-      "url": "https://www.heise.de/news/Android-Patchday-Updates-schliessen-mehrere-hochriskante-Luecken-9856847.html"
+      "title": "Veeam behebt mehrere Sicherheitslücken - Codeschmuggel möglich",
+      "teaser": "Angreifer konnten eigenen zudem Dateien aus der Ferne löschen, die Authentifizierung manipulieren und ihre Privilegien erhöhen. Patches stehen bereit.",
+      "url": "https://www.heise.de/news/Veeam-behebt-mehrere-Sicherheitsluecken-Codeschmuggel-moeglich-9858027.html"
     },
     {
-      "title": "Zyxel Firewalls",
-      "url": "https://www.heise.de/news/Zyxel-Mehrere-hochriskante-Sicherheitsluecken-in-Firewalls-9855938.html"
+      "title": "Schadcode-Attacken auf Veeam-Backuplösungen möglich",
+      "teaser": "Angreifer können an mehreren Sicherheitslücken in Veeam Backup & Replication, ONE und Co. ansetzen. Dagegen abgesicherte Versionen sind verfügbar.",
+      "url": "https://www.heise.de/news/Backuploesungen-von-Veeam-Angreifer-koennen-MFA-umgehen-9858162.html"
+    },
+    {
+      "title": "Studie: Smarte Spielzeuge senden Nutzungsdaten an Hersteller",
+      "teaser": "Viele smarte Spielzeuge in Kinderzimmern erfassen nicht nur die Nutzung durch ihre jungen Besitzer, sondern erstellen auch Profile, sagt eine Studie.",
+      "url": "https://www.heise.de/news/Studie-Smarte-Kinderspielzeuge-haben-oft-mangelhaften-Datenschutz-9847746.html",
+      "image_title": "Drei Kinder sitzen auf dem Sofa und spielen mit Tablet und Handy"
     },
     {
       "title": "Sextortion-Fälle in den USA: Kriminelle schicken Bilder von der Umgebung mit",
@@ -147,24 +163,6 @@
       "teaser": "IT-Forscher haben eine neue Ransomware-as-a-Service-Gruppe mit dem Namen Cicada3301 entdeckt. Sie ist auf ESXi-Server spezialisiert.",
       "url": "https://www.heise.de/news/Ransomware-Gruppe-Cicada3301-Spezialisiert-auf-ESXi-Server-9855325.html",
       "image_title": "Darknet-Seite von Cicada3301"
-    },
-    {
-      "title": "iX-Workshop: Sicherer Betrieb von Windows 11 in Unternehmen",
-      "teaser": "Lernen Sie an praktischen Beispielen, wie Sie Windows 11 Pro und Enterprise in Ihrem Unternehmen sicher und effektiv einsetzen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Sicherer-Betrieb-von-Windows-11-in-Unternehmen-9851683.html",
-      "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
-    },
-    {
-      "title": "Malware \"Voldemort\": Angreifer nehmen verstärkt Steuerzahler ins Visier​",
-      "teaser": "Die Malware Voldemort soll der Spionage dienen. Sie wird allerdings erst aktiv, nachdem mehrfach Sicherheitshinweise ignoriert wurden.",
-      "url": "https://www.heise.de/news/Malware-Voldemort-Angreifer-nehmen-verstaerkt-Steuerzahler-ins-Visier-9854106.html",
-      "image_title": "VIele blaue geschlossene Schloss-Symbole, eines in rot ist offen"
-    },
-    {
-      "title": "\"Whatsup Gold\": Umgehen der Anmeldung durch kritische Sicherheitslücken möglich",
-      "teaser": "Progress schließt mit aktualisierter Software kritische Sicherheitslücken in der Monitoring-Software \"Whatsup Gold\".",
-      "url": "https://www.heise.de/news/Whatsup-Gold-Umgehen-der-Anmeldung-durch-kritische-Sicherheitsluecken-moeglich-9854118.html",
-      "image_title": "Brennendes Laptop vor Servern, die das Laptop überwacht"
     },
     {
       "title": "NTLM–Webinar",
