@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-05T09:00:41",
+  "timestamp": "2024-09-05T10:07:14",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -13,7 +13,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.bbb8f0639a0773e9e734",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.c4dbf19dccca46278d61",
       "id": null,
       "text": null
     },
@@ -26,15 +26,36 @@
   ],
   "articles": [
     {
+      "title": "Einfache Fernsteuerung für Fahrzeuge, Roboter und Ähnliches bauen",
+      "teaser": "Die preiswerte 433-MHz-Fernsteuerung ist vielseitig. Durch die ATtiny-Chips ist man in der Programmierung uneingeschränkt und kann Funktionen optimieren.",
+      "url": "https://www.heise.de/ratgeber/Einfache-Fernsteuerung-fuer-Fahrzeuge-Roboter-und-Aehnliches-bauen-9845574.html",
+      "image_title": ","
+    },
+    {
       "title": "Einstieg in AutoGen: Das Multi-Agenten-Framework im Einsatz",
       "teaser": "Mehrere Sprachmodelle zu verketten, ist aktuell ein vielversprechender Ansatz: Das flexible und offene Framework AutoGen hebt sich mit dynamischen Chats ab.",
       "url": "https://www.heise.de/ratgeber/Einstieg-in-AutoGen-Das-Multi-Agenten-Framework-im-Einsatz-9856657.html"
     },
     {
-      "title": "Apple-Zubehör Im Test: Arlo-Essential-2K-Outdoor-Camera​, MX Keys S for Mac​",
-      "teaser": "Zwei Peripherieprodukte für Apple-User im Check: Außenkamera mit Cloud und Logitech-Keyboard für den Mac.",
-      "url": "https://www.heise.de/tests/Apple-Zubehoer-Im-Test-Arlo-Essential-2K-Outdoor-Camera-MX-Keys-S-for-Mac-9856045.html",
-      "image_title": "Arlo Essential 2K Outdoor-Camera + MX Keys S for Mac"
+      "title": "Online-Konferenz zu PHP: Das Programm der betterCode() PHP 2024 steht fest",
+      "teaser": "Am 21. November können sich Teilnehmende der Online-Konferenz zu PHP über die Neuerungen von PHP 8.4 informieren. Jetzt Tickets zum Frühbucherpreis sichern!",
+      "url": "https://www.heise.de/news/Online-Konferenz-zu-PHP-Das-Programm-der-betterCode-PHP-2024-steht-fest-9857136.html"
+    },
+    {
+      "title": "So richten Sie den Raspberry Pi schnell und komfortabel ein",
+      "teaser": "Die Zeiten, in denen die Raspi-Einrichtung eine frickelige Tagesaufgabe war, sind längst vorbei – inzwischen ist ein Raspberry Pi nach wenigen Klicks startklar.",
+      "url": "https://www.heise.de/ratgeber/So-richten-Sie-den-Raspberry-Pi-schnell-und-komfortabel-ein-9855509.html"
+    },
+    {
+      "title": "BASPi: Backup und Sync ohne Cloud mit einem Raspi einrichten",
+      "teaser": "Unser BASPi synchronisiert Ihre Dateien auf all Ihren Geräten und kümmert sich auch noch um sichere Backups. Dafür taugt jeder alte Raspi oder Rechner.",
+      "url": "https://www.heise.de/ratgeber/BASPi-Backup-und-Sync-ohne-Cloud-mit-einem-Raspi-einrichten-9852318.html"
+    },
+    {
+      "title": "Sextortion-Fälle in den USA: Kriminelle schicken Bilder von der Umgebung mit",
+      "teaser": "Kriminelle behaupten, im Besitz von Videos zu sein, in denen sich Menschen selbst befriedigen. Zudem schicken sie in der E-Mail ein Foto der Umgebung mit.",
+      "url": "https://www.heise.de/news/Sextortion-Faelle-in-den-USA-Kriminelle-schicken-Bilder-von-der-Umgebung-mit-9857881.html",
+      "image_title": "Hand auf der Tastatur"
     },
     {
       "title": "Yubikey-Lücke: Hersteller will weder Update noch generell Ersatz bereitstellen",
@@ -67,6 +88,12 @@
       "image_title": "Verschiedene Macs mit Bildschirm"
     },
     {
+      "title": "Apple-Zubehör Im Test: Arlo-Essential-2K-Outdoor-Camera​, MX Keys S for Mac​",
+      "teaser": "Zwei Peripherieprodukte für Apple-User im Check: Außenkamera mit Cloud und Logitech-Keyboard für den Mac.",
+      "url": "https://www.heise.de/tests/Apple-Zubehoer-Im-Test-Arlo-Essential-2K-Outdoor-Camera-MX-Keys-S-for-Mac-9856045.html",
+      "image_title": "Arlo Essential 2K Outdoor-Camera + MX Keys S for Mac"
+    },
+    {
       "title": "iX-Praxis-Workshop: Cloud-native Softwareentwicklung mit Kubernetes und Docker",
       "teaser": "Cloud-native Anwendungsentwicklung – der schnelle Praxiseinstieg am Beispiel von Docker und der produktionsreifen Orchestrierung mit Kubernetes",
       "url": "https://www.heise.de/news/iX-Praxis-Workshop-Cloud-native-Softwareentwicklung-mit-Kubernetes-und-Docker-9851886.html",
@@ -95,35 +122,6 @@
       "teaser": "Der Supercomputer Colossus verwendet 100.000 H100-Beschleuniger von Nvidia. Die Rechenleistung ist enorm, aber auch der Stromverbrauch.",
       "url": "https://www.heise.de/news/xAI-hat-offenbar-den-schnellsten-Supercomputer-der-Welt-fertiggestellt-9857511.html",
       "image_title": "Nvidia HGX H100 System"
-    },
-    {
-      "title": "Einwilligungsmanagement: Bundesregierung will Cookie-Banner-Flut bekämpfen​",
-      "teaser": "Über einen anerkannten Dienst zur Einwilligungsverwaltung sollen Nutzer ein transparentes Werkzeug erhalten, um Zustimmungen und Ablehnungen zu managen.​",
-      "url": "https://www.heise.de/news/Einwilligungsmanagement-Bundesregierung-will-Cookie-Banner-Flut-bekaempfen-9857507.html"
-    },
-    {
-      "title": "\"Daylist\": An Tageszeit angepasste Spotify-Playlist auch hierzulande verfügbar",
-      "teaser": "Eine Spotify-Playlist soll Hörern zur Tageszeit passende Musik vorschlagen. Der Musik-Streaming-Dienst bringt die Funktion dafür jetzt auch nach Deutschland.",
-      "url": "https://www.heise.de/news/Daylist-An-Tageszeit-angepasste-Spotify-Playlist-auch-hierzulande-verfuegbar-9857292.html",
-      "image_title": "Blick auf Spotifys Playlist"
-    },
-    {
-      "title": "Microsoft gibt Tipps zur Startbeschleunigung von Windows",
-      "teaser": "Microsoft hat eine Support-Seite mit Tipps für die Beschleunigung des Windows-Starts veröffentlicht.",
-      "url": "https://www.heise.de/news/Microsoft-Starthilfe-fuer-lahmende-PCs-9857164.html",
-      "image_title": "Ein Musclecar mit Windows-Logo vor Flammen aus dem Auspuff"
-    },
-    {
-      "title": "Wireshark-Entwickler im Interview: Er war dumm genug, es zu versuchen",
-      "teaser": "Das Tool zur Protokollanalyse Wireshark ist eine der festen Größen für Admins. Doch die Cloud, Verschlüsselung und riesige Datenmengen machen die Arbeit schwer.",
-      "url": "https://www.heise.de/news/Wireshark-Entwickler-im-Interview-Er-war-dumm-genug-es-zu-versuchen-9856785.html",
-      "image_title": "Switch mit Ethernet-Kabeln"
-    },
-    {
-      "title": "Cyberangriffe betreffen Wertachkliniken in Bayern und Londoner Verkehrsbetrieb",
-      "teaser": "Ein Cyberangriff hat die IT-Systeme der Wertachkliniken lahmgelegt. Indes bestätigt einer der größten Ölfeld-Dienstleister einen Datenabfluss und mehr.",
-      "url": "https://www.heise.de/news/Cyberangriffe-betreffen-Wertachkliniken-in-Bayern-und-Londoner-Verkehrsbetrieb-9857069.html",
-      "image_title": "Hand auf Tastatur"
     },
     {
       "title": "Zahlreiche Bestwerte",
