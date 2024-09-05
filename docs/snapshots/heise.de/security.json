@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-05T08:09:31",
+  "timestamp": "2024-09-05T09:00:43",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Cisco",
+      "url": "https://www.heise.de/news/Angreifer-koennen-durch-Hintertuer-in-Cisco-Smart-Licensing-Utility-schluepfen-9857962.html"
+    },
+    {
       "title": "Zyxel-Access-Points/-Router",
       "url": "https://www.heise.de/news/Zyxel-Angreifer-koennen-Kontrolle-ueber-Access-Points-und-Router-erlangen-9857791.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Zyxel-Mehrere-hochriskante-Sicherheitsluecken-in-Firewalls-9855938.html"
     },
     {
-      "title": "VMware Fusion",
-      "url": "https://www.heise.de/news/VMware-Fusion-Update-stopft-Rechteausweitungsluecke-9855846.html"
+      "title": "Yubikey-Lücke: Hersteller will weder Update noch generell Ersatz bereitstellen",
+      "teaser": "Yubico plant auch künftig keine Firmware-Updates für verwundbare Yubikeys. Über einen Ersatz will das Unternehmen im Einzelfall entscheiden.",
+      "url": "https://www.heise.de/news/Yubikey-Cloning-Angriff-Kein-Firmware-Update-vielleicht-Key-Austausch-9857807.html",
+      "image_title": "Ein Krimineller untersucht einen USB-Dongle, rundherum Sicherheitssymbole"
+    },
+    {
+      "title": "Angreifer können durch Hintertür in Cisco Smart Licensing Utility schlüpfen",
+      "teaser": "Es sind wichtige Sicherheitsupdates für mehrere Produkte des Netzwerkausrüster Cisco erschienen.",
+      "url": "https://www.heise.de/news/Angreifer-koennen-durch-Hintertuer-in-Cisco-Smart-Licensing-Utility-schluepfen-9857962.html",
+      "image_title": "Stilisiertes Bild: Ein Stapel brennender Cisco-Appliances"
     },
     {
       "title": "Zyxel: Angreifer können Kontrolle über Access Points und Router erlangen",
@@ -153,18 +165,6 @@
       "teaser": "Sicherheitsforscher entdeckten, dass die Chrome-Erweiterung \"Bull Checker\" es offenbar gezielt auf das Solana-Netzwerk abgesehen hat.",
       "url": "https://www.heise.de/news/Chrome-Extension-greift-sich-Solana-Coins-9853889.html",
       "image_title": "Handy mit Google-Chrome-Logo"
-    },
-    {
-      "title": "Cyberangriff auf Deutsche Flugsicherung - steckt APT28 dahinter?",
-      "teaser": "Wie die DFS bestätigte, drangen Angreifer in die Büro-IT der Behörde ein. Auf den Flugbetrieb habe der Angriff aus der vergangenen Woche keine Auswirkungen.",
-      "url": "https://www.heise.de/news/Cyberangriff-auf-Deutsche-Flugsicherung-steckt-APT28-dahinter-9853967.html",
-      "image_title": "Flughafen-Tower"
-    },
-    {
-      "title": "BSI entdeckt schwere Sicherheitslücken in Mastodon, einige kleinere in Matrix",
-      "teaser": "Im Rahmen einer Open-Source-Codeanalyse hat das BSI den Messenger Matrix und die Social-Media-Anwendung Mastodon auf kritische Schwachstellen untersucht.",
-      "url": "https://www.heise.de/news/BSI-findet-Sicherheitsluecken-in-Matrix-und-Mastodon-9853779.html",
-      "image_title": "BSI"
     },
     {
       "title": "NTLM–Webinar",
