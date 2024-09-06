@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-06T08:09:08",
+  "timestamp": "2024-09-06T09:00:56",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "WordPress-Plug-in LiteSpeed Cache",
+      "url": "https://www.heise.de/news/WordPress-Plug-in-LiteSpeed-Cache-erneut-angreifbar-9859538.html"
+    },
+    {
       "title": "Apache OFBiz",
       "url": "https://www.heise.de/news/Apache-OFBiz-Aktueller-Sicherheitspatch-repariert-aeltere-Patches-9859389.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Angreifer-koennen-durch-Hintertuer-in-Cisco-Smart-Licensing-Utility-schluepfen-9857962.html"
     },
     {
-      "title": "Zyxel-Access-Points/-Router",
-      "url": "https://www.heise.de/news/Zyxel-Angreifer-koennen-Kontrolle-ueber-Access-Points-und-Router-erlangen-9857791.html"
+      "title": "WordPress-Plug-in LiteSpeed Cache erneut angreifbar",
+      "teaser": "Mehr als 6 Millionen WordPress-Websites setzen das Plug-in LiteSpeed Cache ein. Nun wurde abermals eine Sicherheitslücke geschlossen.",
+      "url": "https://www.heise.de/news/WordPress-Plug-in-LiteSpeed-Cache-erneut-angreifbar-9859538.html",
+      "image_title": "Laptop zeigt Wordpress-Logo, Viren fliegen herum"
     },
     {
       "title": "Apache OFBiz: Aktueller Sicherheitspatch repariert ältere Patches",
@@ -158,12 +164,6 @@
       "teaser": "Zyxel warnt vor mehreren Sicherheitslücken in den Firewalls des Unternehmens. Updates stehen bereit, die Lecks abdichten.",
       "url": "https://www.heise.de/news/Zyxel-Mehrere-hochriskante-Sicherheitsluecken-in-Firewalls-9855938.html",
       "image_title": "Rote und blaue Ethernet-Kabel hängen an einem Rack"
-    },
-    {
-      "title": "VMware Fusion: Update stopft Rechteausweitungslücke",
-      "teaser": "Broadcom schließt mit einem Update eine Sicherheitslücke in VMware Fusion. Angreifer können ihre Rechte dadurch ausweiten.",
-      "url": "https://www.heise.de/news/VMware-Fusion-Update-stopft-Rechteausweitungsluecke-9855846.html",
-      "image_title": "Stilisierte Grafik: Brennendes VMware-Logo auf einem Laptop"
     },
     {
       "title": "NTLM–Webinar",
