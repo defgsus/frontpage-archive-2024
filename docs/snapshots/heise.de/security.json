@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-06T07:06:34",
+  "timestamp": "2024-09-06T08:09:08",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Apache OFBiz",
+      "url": "https://www.heise.de/news/Apache-OFBiz-Aktueller-Sicherheitspatch-repariert-aeltere-Patches-9859389.html"
+    },
+    {
       "title": "Veeam",
       "url": "https://www.heise.de/news/Veeam-behebt-mehrere-Sicherheitsluecken-Codeschmuggel-moeglich-9858027.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Zyxel-Angreifer-koennen-Kontrolle-ueber-Access-Points-und-Router-erlangen-9857791.html"
     },
     {
-      "title": "Android Patchday",
-      "url": "https://www.heise.de/news/Android-Patchday-Updates-schliessen-mehrere-hochriskante-Luecken-9856847.html"
+      "title": "Apache OFBiz: Aktueller Sicherheitspatch repariert ältere Patches",
+      "teaser": "Ein aktueller Patch für Apache OFBiz verhindert, dass Sicherheitsupdates für ältere Lücken umgangen werden können.",
+      "url": "https://www.heise.de/news/Apache-OFBiz-Aktueller-Sicherheitspatch-repariert-aeltere-Patches-9859389.html",
+      "image_title": "Frau zeigt auf Update"
     },
     {
       "title": "iX-Workshop: NIS 2: Anforderungen und Vorgaben",
@@ -158,12 +164,6 @@
       "teaser": "Broadcom schließt mit einem Update eine Sicherheitslücke in VMware Fusion. Angreifer können ihre Rechte dadurch ausweiten.",
       "url": "https://www.heise.de/news/VMware-Fusion-Update-stopft-Rechteausweitungsluecke-9855846.html",
       "image_title": "Stilisierte Grafik: Brennendes VMware-Logo auf einem Laptop"
-    },
-    {
-      "title": "iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
-      "teaser": "Lernen Sie, wie Sie Angriffe auf das Active Directory Ihres Unternehmens sicher erkennen und effektiv verhindern können.",
-      "url": "https://www.heise.de/news/iX-Workshop-Lokales-Active-Directory-gegen-Angriffe-absichern-9851791.html",
-      "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
     },
     {
       "title": "NTLM–Webinar",
