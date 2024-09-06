@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-06T15:01:10",
+  "timestamp": "2024-09-06T16:07:34",
   "url": "https://www.welt.de/regionales/",
   "response": {
     "status": 200
@@ -25,6 +25,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "Ödyssee",
+      "teaser": "Das Ernst Deutsch Theater startet mit der Uraufführung „Odyssee oder das Kalypsotief“ frei nach Homer aus der Feder des designierten Intendanten Daniel Schütter in die Saison. Mit der Premiere scheitert der Auftakt einer Trilogie, die 2025 im Ohnsorg Theater und im Lichthof fortgesetzt werden soll.",
+      "url": "https://www.welt.de/regionales/hamburg/",
+      "image_url": "https://img.welt.de/img/bildergalerien/mobile253401154/6917932747-ci23x11-w20/Odyssee-oder-das-Kalypsotief-Ernst-Deutsch-Theater.jpg",
+      "image_title": "Ines Nieri als Neusikaa und Rune Jürgensen als ihr Vater Alkinoos (v.l.)",
+      "author": "Stefan Grund"
+    },
     {
       "title": "Volksbegehren für ein werbefreies Hamburg darf stattfinden",
       "teaser": "Die Volksinitiative „Hamburg Werbefrei“ möchte die Zahl der Werbeanlagen in der Stadt reduzieren sowie digitale Werbeanlagen ganz verbieten. Laut Urteil des Hamburgischen Verfassungsgerichts ist das geplante Volksbegehren „überwiegend durchzuführen“.",
@@ -69,14 +77,6 @@
       "image_url": "https://img.welt.de/img/regionales/nrw/mobile253376570/7297937737-ci23x11-w20/Kombo-Stoldt-3.jpg",
       "image_title": "Das Foto zeigt eine weiße Friedenstaube vor blauem Hintergrund und rechts daneben den Kopf von Kommentator Till-Reimer Stoldt",
       "author": "Till-R. Stoldt"
-    },
-    {
-      "title": "Polizei erschießt bewaffneten 18-Jährigen – Innenminister geht von „islamistischer Motivation“ aus",
-      "teaser": "Die Polizei hat in München vor dem israelischen Generalkonsulat und dem NS-Dokuzentrum einen bewaffneten 18-Jährigen erschossen. Er soll einen Anschlag auf das Konsulat geplant haben. Bayerns Innenminister sprach von einer „islamistischen Motivation“.",
-      "url": "https://www.welt.de/politik/deutschland/",
-      "image_url": "https://img.welt.de/img/newsticker/dpa_nt/afxline/topthemen/mobile253372392/2637933527-ci23x11-w20/Polizeieinsatz-in-Muenchen.jpg",
-      "image_title": "Großeinsatz vor dem israelischen Generalkonsulat in München",
-      "author": "Robert Tannenberg"
     },
     {
       "title": "Schlafender Obdachloser in Hamburg vor Tiefgarage überrollt",
@@ -198,10 +198,17 @@
       "author": "Deniz Yücel"
     },
     {
+      "title": "Polizei erschießt bewaffneten 18-Jährigen – Innenminister geht von „islamistischer Motivation“ aus",
+      "teaser": "Die Polizei hat in München vor dem israelischen Generalkonsulat und dem NS-Dokuzentrum einen bewaffneten 18-Jährigen erschossen. Er soll einen Anschlag auf das Konsulat geplant haben. Bayerns Innenminister sprach von einer „islamistischen Motivation“.",
+      "url": "https://www.welt.de/politik/deutschland/",
+      "image_url": "https://img.welt.de/img/newsticker/dpa_nt/afxline/topthemen/mobile253372392/2637933527-ci16x9-w20/Polizeieinsatz-in-Muenchen.jpg",
+      "image_title": "Großeinsatz vor dem israelischen Generalkonsulat in München",
+      "author": "Robert Tannenberg"
+    },
+    {
       "title": "Mehr Bayern als auf dieser Radtour geht kaum",
-      "teaser": "Bergig nein, hügelig ja und immer ein Gewässer in der Nähe: Statt über Pässe führt die Route des Bodensee-Königssee-Radwegs am Alpenrand entlang von einem schönen See zum nächsten. Unser Autor war auf dem 180 Kilometer langen Teilstück ab Gmund am Tegernsee unterwegs.",
-      "url": "https://www.welt.de/reise/deutschland/",
-      "image_url": "https://img.welt.de/img/reise/mobile253353296/8957933397-ci16x9-w20/Tegernsee.jpg",
+      "url": "https://www.welt.de/reise/deutschland/article253277010/Mehr-Bayern-geht-kaum-Eine-Tour-auf-dem-Bodensee-Koenigssee-Radweg.html",
+      "image_url": "https://img.welt.de/img/reise/mobile253353296/8957933397-ci102l-w20/Tegernsee.jpg",
       "image_title": "ARCHIV - Bilderbuchschön: der Tegernsee und seine Egerner Bucht. (zu dpa: «Klischees in tollen Kulissen: Der Bodensee-Königssee-Radweg») Foto: Georg Weindl/dpa-tmn - Honorarfrei nur für Bezieher des dpa-Themendienstes +++ dpa-Themendienst +++",
       "author": "Georg Weindl"
     },
@@ -224,13 +231,6 @@
       "image_url": "https://img.welt.de/img/politik/mobile253205764/6537933897-ci102l-w20/284412280-jpg.jpg",
       "image_title": "Kein alternativer Text für dieses Bild vorhanden",
       "author": "Philipp Woldin"
-    },
-    {
-      "title": "So erkennen Sie echte regionale Spezialitäten",
-      "url": "https://www.welt.de/reise/deutschland/article244189301/Deutsches-Essen-So-erkennen-Sie-echte-regionale-Spezialitaeten.html",
-      "image_url": "https://img.welt.de/img/reise/mobile244304371/5367932497-ci102l-w20/DWO-RE-Spezialitaeten-Illus-cw-Teaser-jpg.jpg",
-      "image_title": "Schwarzwälder Schinken kann durchaus auch von dänischen Schweinen stammen",
-      "author": "Stefan Weißenborn"
     },
     {
       "title": "Todesfalle Bodensee. Warum?",
@@ -409,6 +409,102 @@
       "image_title": "Notarzt, Notarztwagen, RTW, Rettungswagen, Rettung, Krankenwagen, Bewegungseffekt, Wischeffekt, Geschwindigkeit, Blaulicht, Einsatz, Frankfurt am Main, Hessen, Deutschland, Europa"
     },
     {
+      "title": "Messerstich in Linienbus - Mann schwer verletzt",
+      "url": "https://www.welt.de/regionales/bayern/article253402098/Messerstich-in-Linienbus-Mann-schwer-verletzt.html"
+    },
+    {
+      "title": "Tah: Zeige bestimmt nicht mit dem Finger auf Bayer",
+      "url": "https://www.welt.de/regionales/bayern/article253402090/Tah-Zeige-bestimmt-nicht-mit-dem-Finger-auf-Bayer.html"
+    },
+    {
+      "title": "Nilgans-Familie nahe Autobahn löst Polizeieinsatz aus",
+      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article253402088/Nilgans-Familie-nahe-Autobahn-loest-Polizeieinsatz-aus.html"
+    },
+    {
+      "title": "Prozess um Vergewaltigung eines Mannes in U-Bahnhof startet",
+      "url": "https://www.welt.de/regionales/bayern/article253402082/Prozess-um-Vergewaltigung-eines-Mannes-in-U-Bahnhof-startet.html"
+    },
+    {
+      "title": "Verkehrsminister Hermann verlässt Landespolitik zur Wahl",
+      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article253402070/Verkehrsminister-Hermann-verlaesst-Landespolitik-zur-Wahl.html"
+    },
+    {
+      "title": "Ödyssee",
+      "url": "https://www.welt.de/regionales/hamburg/article253401252/Theater-Oedyssee.html"
+    },
+    {
+      "title": "Lagerfeuer auf dem Lilienstein verursacht Waldbrand",
+      "url": "https://www.welt.de/regionales/sachsen/article253401554/Lagerfeuer-auf-dem-Lilienstein-verursacht-Waldbrand.html"
+    },
+    {
+      "title": "Wartungsarbeiten am E-Highway",
+      "url": "https://www.welt.de/regionales/hamburg/article253401466/Wartungsarbeiten-am-E-Highway.html"
+    },
+    {
+      "title": "Mehr als 40 Lesungen bei der «Langen Nacht der Literatur»",
+      "url": "https://www.welt.de/regionales/hamburg/article253401402/Mehr-als-40-Lesungen-bei-der-Langen-Nacht-der-Literatur.html"
+    },
+    {
+      "title": "Festakt zum 75-jährigen Jubiläum des Bundesrats",
+      "url": "https://www.welt.de/regionales/nrw/article253401420/Festakt-zum-75-jaehrigen-Jubilaeum-des-Bundesrats.html"
+    },
+    {
+      "title": "Mann gerät auf Bahngleis und stirbt zwei Tage später",
+      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article253401260/Mann-geraet-auf-Bahngleis-und-stirbt-zwei-Tage-spaeter.html"
+    },
+    {
+      "title": "Vater tot im Auto - Sohn nach Deutschland ausgeliefert",
+      "url": "https://www.welt.de/regionales/bayern/article253400846/Vater-tot-im-Auto-Sohn-nach-Deutschland-ausgeliefert.html"
+    },
+    {
+      "title": "Brandenburg dringt nach Solingen auf verschärfte Asylpolitik",
+      "url": "https://www.welt.de/regionales/berlin/article253400800/Brandenburg-dringt-nach-Solingen-auf-verschaerfte-Asylpolitik.html"
+    },
+    {
+      "title": "Rapper stirbt durch Schüsse - Fahndung nach Tätern",
+      "url": "https://www.welt.de/regionales/berlin/article253400742/Rapper-stirbt-durch-Schuesse-Fahndung-nach-Taetern.html"
+    },
+    {
+      "title": "Staatsgalerie in Stuttgart schließt lange wegen Sanierung",
+      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article253400688/Staatsgalerie-in-Stuttgart-schliesst-lange-wegen-Sanierung.html"
+    },
+    {
+      "title": "Seehafenbetriebe legen Verdi neues Angebot vor",
+      "url": "https://www.welt.de/regionales/hamburg/article253400684/Seehafenbetriebe-legen-Verdi-neues-Angebot-vor.html"
+    },
+    {
+      "title": "Köche für 3,15 Euro pro Stunde beschäftigt - Bewährung",
+      "url": "https://www.welt.de/regionales/hamburg/article253400682/Koeche-fuer-3-15-Euro-pro-Stunde-beschaeftigt-Bewaehrung.html"
+    },
+    {
+      "title": "Lebende Mäuse an verbotenen Klebefallen im Müll entsorgt",
+      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article253400672/Lebende-Maeuse-an-verbotenen-Klebefallen-im-Muell-entsorgt.html"
+    },
+    {
+      "title": "Nach Fischsterben pumpt Feuerwehr Wasser in den See",
+      "url": "https://www.welt.de/regionales/bayern/article253400658/Nach-Fischsterben-pumpt-Feuerwehr-Wasser-in-den-See.html"
+    },
+    {
+      "title": "Mann vor Obdachlosenunterkunft erstochen",
+      "url": "https://www.welt.de/regionales/nrw/article253400664/Mann-vor-Obdachlosenunterkunft-erstochen.html"
+    },
+    {
+      "title": "Ein Toter und 350.000 Euro Schaden bei Wohnungsbrand",
+      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article253400640/Ein-Toter-und-350-000-Euro-Schaden-bei-Wohnungsbrand.html"
+    },
+    {
+      "title": "Falsche Wölfin abgeschossen",
+      "url": "https://www.welt.de/regionales/bayern/article253400646/Falsche-Woelfin-abgeschossen.html"
+    },
+    {
+      "title": "Erneuter Einspruch: RB zieht wegen Orban vor Bundesgericht",
+      "url": "https://www.welt.de/regionales/sachsen/article253400626/Erneuter-Einspruch-RB-zieht-wegen-Orban-vor-Bundesgericht.html"
+    },
+    {
+      "title": "Unbekannter schießt Mann ins Bein",
+      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article253400542/Unbekannter-schiesst-Mann-ins-Bein.html"
+    },
+    {
       "title": "KI half entscheidend bei Ermittlungen nach Eritrea-Festival",
       "url": "https://www.welt.de/regionales/hessen/article253400462/KI-half-entscheidend-bei-Ermittlungen-nach-Eritrea-Festival.html"
     },
@@ -435,98 +531,6 @@
     {
       "title": "Gründung von BSW-Landesverband noch im September",
       "url": "https://www.welt.de/regionales/niedersachsen/article253399766/Gruendung-von-BSW-Landesverband-noch-im-September.html"
-    },
-    {
-      "title": "Wasserstoffflugzeug vorgestellt - Noch kein Jungfernflug",
-      "url": "https://www.welt.de/regionales/berlin/article253399638/Wasserstoffflugzeug-vorgestellt-Noch-kein-Jungfernflug.html"
-    },
-    {
-      "title": "Gabelstapler verletzt 58-Jährigen",
-      "url": "https://www.welt.de/regionales/thueringen/article253399516/Gabelstapler-verletzt-58-Jaehrigen.html"
-    },
-    {
-      "title": "Feuerwehr dämmt Ölfilm auf Donau ein",
-      "url": "https://www.welt.de/regionales/bayern/article253399380/Feuerwehr-daemmt-Oelfilm-auf-Donau-ein.html"
-    },
-    {
-      "title": "Volksinitiative «Hamburg Werbefrei» bekommt recht",
-      "url": "https://www.welt.de/regionales/hamburg/article253399216/Volksinitiative-Hamburg-Werbefrei-bekommt-recht.html"
-    },
-    {
-      "title": "Interesse an Ausbildung im Sachsen-Handwerk hält an",
-      "url": "https://www.welt.de/regionales/sachsen/article253399256/Interesse-an-Ausbildung-im-Sachsen-Handwerk-haelt-an.html"
-    },
-    {
-      "title": "Bahn: Endspurt bei Sanierung der Elstertalbrücke",
-      "url": "https://www.welt.de/regionales/sachsen/article253399258/Bahn-Endspurt-bei-Sanierung-der-Elstertalbruecke.html"
-    },
-    {
-      "title": "Mehr offene Stellen in der Hamburger Verwaltung",
-      "url": "https://www.welt.de/regionales/hamburg/article253399196/Mehr-offene-Stellen-in-der-Hamburger-Verwaltung.html"
-    },
-    {
-      "title": "Großbrand auf dem Truppenübungsplatz Altmark ausgebrochen",
-      "url": "https://www.welt.de/regionales/sachsen-anhalt/article253399106/Grossbrand-auf-dem-Truppenuebungsplatz-Altmark-ausgebrochen.html"
-    },
-    {
-      "title": "Aufstiegsspiele zur 3. Liga: Heimrecht für Nordost-Club",
-      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article253399058/Aufstiegsspiele-zur-3-Liga-Heimrecht-fuer-Nordost-Club.html"
-    },
-    {
-      "title": "Großkontrolle im Frankfurter Bahnhofsviertel - 32 Verfahren",
-      "url": "https://www.welt.de/regionales/hessen/article253399002/Grosskontrolle-im-Frankfurter-Bahnhofsviertel-32-Verfahren.html"
-    },
-    {
-      "title": "Mann soll in Jobcenter randaliert haben",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article253399000/Mann-soll-in-Jobcenter-randaliert-haben.html"
-    },
-    {
-      "title": "Poseck besucht Abschiebehaft - neue «Migrationspolitik»",
-      "url": "https://www.welt.de/regionales/hessen/article253398974/Poseck-besucht-Abschiebehaft-neue-Migrationspolitik.html"
-    },
-    {
-      "title": "Nach Angriff auf Mann in S-Bahn - Verdächtiger ermittelt",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article253398802/Nach-Angriff-auf-Mann-in-S-Bahn-Verdaechtiger-ermittelt.html"
-    },
-    {
-      "title": "Feuer in Obdachlosenunterkunft bei Melle - Frau in U-Haft",
-      "url": "https://www.welt.de/regionales/niedersachsen/article253398574/Feuer-in-Obdachlosenunterkunft-bei-Melle-Frau-in-U-Haft.html"
-    },
-    {
-      "title": "Das Juni-Hochwasser und seine Folgen",
-      "url": "https://www.welt.de/regionales/bayern/article253398240/Das-Juni-Hochwasser-und-seine-Folgen.html"
-    },
-    {
-      "title": "Thyssenkrupp Steel: Betriebsräte wählen neue Aufsichtsräte",
-      "url": "https://www.welt.de/regionales/nrw/article253397974/Thyssenkrupp-Steel-Betriebsraete-waehlen-neue-Aufsichtsraete.html"
-    },
-    {
-      "title": "Kassen stocken Mittel für Hospizdienste in Thüringen auf",
-      "url": "https://www.welt.de/regionales/thueringen/article253397960/Kassen-stocken-Mittel-fuer-Hospizdienste-in-Thueringen-auf.html"
-    },
-    {
-      "title": "31-jährige Frau tot – Partner vorläufig festgenommen",
-      "url": "https://www.welt.de/regionales/nrw/article253397976/31-jaehrige-Frau-tot-Partner-vorlaeufig-festgenommen.html"
-    },
-    {
-      "title": "50. Deutsche Meisterschaft im Pfeife-Langsam-Rauchen",
-      "url": "https://www.welt.de/regionales/berlin/article253397944/50-Deutsche-Meisterschaft-im-Pfeife-Langsam-Rauchen.html"
-    },
-    {
-      "title": "Tote Frau in Bellheim: Polizei schließt Verbrechen aus",
-      "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article253397726/Tote-Frau-in-Bellheim-Polizei-schliesst-Verbrechen-aus.html"
-    },
-    {
-      "title": "Schütze von München war laut Vater psychisch auffällig",
-      "url": "https://www.welt.de/regionales/bayern/article253397648/Schuetze-von-Muenchen-war-laut-Vater-psychisch-auffaellig.html"
-    },
-    {
-      "title": "Rund 100 Wagen bei Autohändler zerkratzt",
-      "url": "https://www.welt.de/regionales/hessen/article253397466/Rund-100-Wagen-bei-Autohaendler-zerkratzt.html"
-    },
-    {
-      "title": "Betrug mit Reiseangeboten: 41-Jähriger vor Gericht",
-      "url": "https://www.welt.de/regionales/berlin/article253397372/Betrug-mit-Reiseangeboten-41-Jaehriger-vor-Gericht.html"
     },
     {
       "title": "Volksbegehren für ein werbefreies Hamburg darf stattfinden",
@@ -643,10 +647,6 @@
     {
       "title": "Messerangriff in Hamburg – Ein Mann im Krankenhaus",
       "url": "https://www.welt.de/regionales/hamburg/article253345834/Kriminalitaet-Messerangriff-in-Hamburg-Ein-Mann-im-Krankenhaus.html"
-    },
-    {
-      "title": "St. Peter-Ording revolutioniert das legendäre Strandparken",
-      "url": "https://www.welt.de/regionales/hamburg/article253347558/Digitale-Kennzeichenerfassung-St-Peter-Ording-revolutioniert-das-legendaere-Strandparken.html"
     },
     {
       "title": "Die letzte Chance für Grüne und Linke könnte in Leipzig liegen",
