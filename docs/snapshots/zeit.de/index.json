@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-06T03:08:25",
+  "timestamp": "2024-09-06T04:08:19",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -14,6 +14,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -98,22 +104,28 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Westdeutsche über Ostdeutsche : Also, der Ossi an sich …",
-      "teaser": "Die Westdeutschen brauchen die Ostdeutschen als Idole, Sündenböcke, und um überhaupt von sich selbst abzulenken. Besser wäre: Sie würden ihr Positiv-Trauma aufarbeiten.",
-      "url": "https://www.zeit.de/2024-09/westdeutsche-ostdeutsche-faszination-abhaengigkeit-ablenkung",
-      "image_url": "https://img.zeit.de/kultur/2024-09/westdeutsche-ostdeutsche-faszination-abhaengigkeit/wide__1000x562"
+      "title": "Z+ (abopflichtiger Inhalt); Fake-News : Wie Wladimir Putin Deutschland mit Propaganda vergiftet",
+      "teaser": "US-Behörden haben Dokumente sichergestellt, die eine russische Fake-News-Kampagne in Europa bloßlegen. Welche fatale Wirkung sie hat, zeigt sich in Thüringen und Sachsen.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/russland-fake-news-kampagne-deutschland-europa",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/russland-fake-news-kampagne-deutschland-europa-2/wide__1000x562"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Abwanderung in Deutschland : Wo sind all die Ostdeutschen hin?",
-      "teaser": "Im Osten von Deutschland wohnen immer weniger Menschen. Unsere Datenauswertung zeigt, woran das liegt – und in welchen Gegenden die Abwanderung seit der Wende extrem war.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/abwanderung-deutschland-ostdeutschland-bevoelkerung-trend",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/abwanderung-deutschland-ostdeutschland-bevoelkerung-trend-teaserbild/super__430x286"
+      "title": "Ukraine : Olaf Scholz trifft Wolodymyr Selenskyj in Frankfurt",
+      "teaser": "Der Bundeskanzler und der ukrainische Präsident planen ein Vieraugengespräch. Am gleichen Tag soll Selenskyj in Ramstein am Treffen der Ukraine-Kontaktgruppe teilnehmen.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/ukraine-olaf-scholz-treffen-selenskyj-frankfurt-wafffen",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/ukraine-krieg-olaf-scholz-selenskyj-treffen-frankfurt-bild/super__430x286"
     },
     {
-      "title": "Erstarken der AfD : Viele Menschen in Deutschland erwägen Wegzug wegen AfD-Aufstiegs",
-      "teaser": "Fast jeder Fünfte könnte sich laut einer Befragung wegen des Erstarkens der AfD einen Umzug vorstellen. Forscher warnen vor fatalen Folgen vor allem für Ostdeutschland.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/afd-aufstieg-abwanderungsplaene-migrationshintergrund-studie",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/afd-aufstieg-abwanderungsplaene-migrationshintergrund-studie-bild/super__430x286"
+      "title": "Schüsse in München : Was über den mutmaßlichen Täter von München bekannt ist",
+      "teaser": "Wer war der 18-jährige Österreicher, der in München offenbar einen Anschlag geplant hatte? Er war mutmaßlich ein Islamist. Für ihn galt in Österreich ein Waffenverbot.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/muenchen-schuesse-generalkonsulat-taeter-islamist",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/ermittler-gehen-von-versuchtem-terroranschlag-in-muenchen-aus-bild/super__430x286"
+    },
+    {
+      "title": "USA : Vater von 14-Jährigem nach Schüssen in Georgia verhaftet",
+      "teaser": "An einer Schule nahe Atlanta waren vier Menschen getötet worden. Dem Vater des mutmaßlichen Schützen wird fahrlässige Tötung und Mord zweiten Grades vorgeworfen.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/usa-georgia-schule-schusswaffen-gewalt-vater-verhaftung",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/usa-georgia-schule-schusswaffen-gewalt-vater-verhaftung-bild/super__430x286"
     },
     {
       "title": "Steuerhinterziehung : Hunter Biden bekennt sich in Steuerverfahren schuldig",
@@ -122,28 +134,22 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-09/hunter-biden/super__430x286"
     },
     {
-      "title": "Schüsse in München : Was über den mutmaßlichen Täter von München bekannt ist",
-      "teaser": "Wer war der 18-jährige Österreicher, der in München offenbar einen Anschlag geplant hatte? Er war mutmaßlich ein Islamist. Für ihn galt in Österreich ein Waffenverbot.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/muenchen-schuesse-generalkonsulat-taeter-islamist",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/ermittler-gehen-von-versuchtem-terroranschlag-in-muenchen-aus-bild/wide__892x501"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Volkswagen : Ein Sturm, der viele Ursachen hat",
-      "teaser": "Die Krise bei VW hat nicht nur mit schlechter Weltlage zu tun. Die Ursachen sind auch in Wolfsburg zu finden – deshalb müssen sich alle dort an der Lösung beteiligen.",
-      "url": "https://www.zeit.de/mobilitaet/2024-09/volkswagen-sparkurs-entlassungen-ursachen-elektromobilitaet",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-09/volkswagen-wirtschaft/super__430x286"
-    },
-    {
       "title": "USA : Donald Trump plant Kommission für Regierungseffizienz unter Elon Musk",
       "teaser": "Sollte er US-Präsident werden, will Donald Trump die Regierungsausgaben prüfen lassen. Die Leitung des Gremiums soll Tesla-Chef Elon Musk übernehmen.",
       "url": "https://www.zeit.de/politik/ausland/2024-09/usa-donald-trump-elon-musk-kommission-finanzen",
       "image_url": "https://img.zeit.de/politik/ausland/2024-09/donald-trump-bei-wahlsieg-elon-musk-kommission-fuer-regierungseffizienz-bild/super__430x286"
     },
     {
-      "title": "Ukraine : Olaf Scholz trifft Wolodymyr Selenskyj in Frankfurt",
-      "teaser": "Der Bundeskanzler und der ukrainische Präsident planen ein Vieraugengespräch. Am gleichen Tag soll Selenskyj in Ramstein am Treffen der Ukraine-Kontaktgruppe teilnehmen.",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/ukraine-olaf-scholz-treffen-selenskyj-frankfurt-wafffen",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/ukraine-krieg-olaf-scholz-selenskyj-treffen-frankfurt-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Börse : Wann verkaufe ich verlustbringende Aktien?",
+      "teaser": "Zurzeit schwanken die Börsen stark. Einige Aktien erholen sich womöglich nie. Wann Anleger verkaufen sollten.",
+      "url": "https://www.zeit.de/geld/2024-09/boerse-aktien-verkauf-finanzen-kursverlust",
+      "image_url": "https://img.zeit.de/geld/2024-09/boerse-aktien-verkauf-finanzen-kursverlust-bild/wide__892x501"
+    },
+    {
+      "title": "ARD-\"Deutschlandtrend\" : Große Mehrheit befürwortet grundsätzliche Wende in der Asylpolitik",
+      "teaser": "Drei von vier Deutschen wollen laut einer Umfrage eine andere Asylpolitik. Die meisten Befürworter einer grundsätzlichen Wende gibt es demnach unter Anhängern der AfD.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/ard-deutschlandtrend-asyl-gefluechtete-politik",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/migration-deutschland-bild/super__430x286"
     },
     {
       "title": "Asylpolitik : Grüne Jugend fordert Abbruch der Migrationsgespräche mit der CDU",
@@ -158,10 +164,10 @@
       "image_url": "https://img.zeit.de/politik/deutschland/2024-09/afd-brandenburg-umfrage/super__430x286"
     },
     {
-      "title": "ARD-\"Deutschlandtrend\" : Große Mehrheit befürwortet grundsätzliche Wende in der Asylpolitik",
-      "teaser": "Drei von vier Deutschen wollen laut einer Umfrage eine andere Asylpolitik. Die meisten Befürworter einer grundsätzlichen Wende gibt es demnach unter Anhängern der AfD.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/ard-deutschlandtrend-asyl-gefluechtete-politik",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/migration-deutschland-bild/super__430x286"
+      "title": "Erstarken der AfD : Viele Menschen in Deutschland erwägen Wegzug wegen AfD-Aufstiegs",
+      "teaser": "Fast jeder Fünfte könnte sich laut einer Befragung wegen des Erstarkens der AfD einen Umzug vorstellen. Forscher warnen vor fatalen Folgen vor allem für Ostdeutschland.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/afd-aufstieg-abwanderungsplaene-migrationshintergrund-studie",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/afd-aufstieg-abwanderungsplaene-migrationshintergrund-studie-bild/super__430x286"
     },
     {
       "title": "An dieser Stelle ist ein externer Inhalt eingebunden",
@@ -170,28 +176,16 @@
       "image_url": "https://img.zeit.de/gesellschaft/2024-09/was-jetzt-die-woche-dilan-0509/wide__892x501"
     },
     {
-      "title": "Venezuela : Opposition will Druck auf Präsident Maduro beibehalten",
-      "teaser": "Nach einem Haftbefehl ist die Oppositionsführung in Venezuela untergetaucht. In einer virtuellen Pressekonferenz zeigte sich Anführerin María Corina Machado kämpferisch.",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/venezuela-opposition-machado-maduro-wahl",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/machado-venezuela/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Kitas • Das Beste aus Z+ : So klein und schon so gestresst",
+      "teaser": "Bereits Einjährige wirken erschöpft und teilnahmslos. 300 Wissenschaftler warnen vor den Folgen der Kitakrise für die Kinder: Unter Dreijährige sind besonders vulnerabel.",
+      "url": "https://www.zeit.de/2024/38/kitas-kinderbetreuung-erzieher-psychologie-entwicklung",
+      "image_url": "https://img.zeit.de/2024/38/kitas-kinderbetreuung-erzieher-psychologie-entwicklung-teaser-2/super__430x286"
     },
     {
-      "title": "Paralympische Spiele in Paris : Zwei Goldmedaillen für deutsche Paralympics-Schwimmer",
-      "teaser": "Die Schwimmer Elena Semechin und Taliso Engel lassen über 100 Meter Brust die Konkurrenz weit hinter sich. Semechin stellte einen Weltrekord auf.",
-      "url": "https://www.zeit.de/sport/2024-09/paralympische-spiele-paris-schwimmen-gold-elena-semechin-taliso-engel",
-      "image_url": "https://img.zeit.de/sport/2024-09/elena-semechin-taliso-engel-doppel-gold-paralympics-schwimmen-bild/super__430x286"
-    },
-    {
-      "title": "Tierforschung : Hier kommt die gläserne Maus",
-      "teaser": "Forschende haben die Haut lebender Mäuse durchsichtig gemacht. Ihnen boten sich spektakuläre Einblicke ins Innere der Körper. Ginge das auch bei Menschen? Theoretisch ja.",
-      "url": "https://www.zeit.de/wissen/2024-09/tierforschung-maus-durchsichtige-haut-anatomie",
-      "image_url": "https://img.zeit.de/wissen/2024-09/tierforschung-maus-durchsichtige-haut-anatomie-aufmacherbild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Kinderwunsch bei Männern • Z+ Empfehlung : \"Ich sagte zu meiner Frau: Das ist Wahnsinn, was wir hier machen\"",
-      "teaser": "Wenn das Kinderkriegen zum Problem wird, leiden nicht nur die Frauen. Drei Männer erzählen, was der Kinderwunschprozess mit ihnen und ihrer Beziehung gemacht hat.",
-      "url": "https://www.zeit.de/familie/2024-08/kinderwunsch-maenner-vaeter-familie-kinder",
-      "image_url": "https://img.zeit.de/familie/2024-08/kinderwunsch-maenner-vaeter/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Volkswagen : Ein Sturm, der viele Ursachen hat",
+      "teaser": "Die Krise bei VW hat nicht nur mit schlechter Weltlage zu tun. Die Ursachen sind auch in Wolfsburg zu finden – deshalb müssen sich alle dort an der Lösung beteiligen.",
+      "url": "https://www.zeit.de/mobilitaet/2024-09/volkswagen-sparkurs-entlassungen-ursachen-elektromobilitaet",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-09/volkswagen-wirtschaft/super__430x286"
     },
     {
       "title": "Frankreich : Macrons letzte Hoffnung",
@@ -200,25 +194,28 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-09/frankreich-premierminister-ernennung-michel-barnier-emmanuel-macron-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Caspar David Friedrich : Der größte Abendunterhalter der deutschen Malereigeschichte",
-      "teaser": "Vor 250 Jahren wurde Caspar David Friedrich geboren. Niemand hat den Abendhimmel vollkommener gemalt als er. Darum ein abendlicher Gruß aus Friedrichs Wahlheimat Sachsen.",
-      "url": "https://www.zeit.de/kultur/kunst/2024-09/caspar-david-friedrich-geburtstag-kunst-maler-dresden-ausstellung",
-      "image_url": "https://img.zeit.de/kultur/kunst/2024-09/caspar-david-friedrich-das-grosse-gehege-bei-dresden-1832/wide__892x501",
-      "image_title": "Caspar David Friedrich, Das Große Gehege bei Dresden, 1832"
+      "title": "Z+ (abopflichtiger Inhalt); Westdeutsche über Ostdeutsche : Also, der Ossi an sich …",
+      "teaser": "Die Westdeutschen brauchen die Ostdeutschen als Idole, Sündenböcke, und um überhaupt von sich selbst abzulenken. Besser wäre: Sie würden ihr Positiv-Trauma aufarbeiten.",
+      "url": "https://www.zeit.de/2024-09/westdeutsche-ostdeutsche-faszination-abhaengigkeit-ablenkung",
+      "image_url": "https://img.zeit.de/kultur/2024-09/westdeutsche-ostdeutsche-faszination-abhaengigkeit/super__430x286"
     },
     {
-      "title": "Oasis-Ticketpreise : Schaut nicht mit Zorn nach vorn",
-      "teaser": "Die Empörung über Ticketpreise für Oasis-Konzerte erreicht die britische Politik, Premierminister Keir Starmer kündete gar ein Vorgehen dagegen an. Was dahintersteckt.",
-      "url": "https://www.zeit.de/kultur/musik/2024-09/oasis-ticketpreise-konzerte-liam-noel-gallagher-keir-starmer",
-      "image_url": "https://img.zeit.de/kultur/musik/2024-09/oasis-liam-noel-gallagher-tickets-dynamic-pricing/super__430x286",
-      "image_title": "Oasis Liam Noel Gallagher Tickets Dynamic Pricing"
+      "title": "Z+ (abopflichtiger Inhalt); Geld sparen : \"Am günstigsten ist tatsächlich eine vegane Ernährung\"",
+      "teaser": "Wer Fleisch isst, kauft günstiger ein? Wir nehmen Preise verzerrt wahr, sagt der Forscher Marco Springmann. Aber es gibt auch eine schlechte Nachricht für Veganer.",
+      "url": "https://www.zeit.de/entdecken/2024-08/geld-sparen-ernaehrung-vegetarisch-umwelt",
+      "image_url": "https://img.zeit.de/zeit-verlag/2024-08/geld-sparen-ernaehrung-vegetarisch-umwelt-bild/super__430x286"
     },
     {
-      "title": "Ausstellung von Pussy Riot : \"Was in Russland passiert, ist auch in anderen Ländern möglich\"",
-      "teaser": "Eine Ausstellung im Münchner Haus der Kunst zeigt die letzten zwölf Jahre Russlands aus der Sicht von Pussy Riot. Marija Aljochina hat sie als Warnung konzipiert.",
-      "url": "https://www.zeit.de/kultur/kunst/2024-09/ausstellung-pussy-riot-muenchen-velvet-terrorism-kunst",
-      "image_url": "https://img.zeit.de/kultur/kunst/2024-09/haus-der-kunst-velvet-terrorism-03/super__430x286",
-      "image_title": "haus-der-kunst-velvet-terrorism-03"
+      "title": "Z+ (abopflichtiger Inhalt); Dienstwagen : Elektro nur für Gutverdiener",
+      "teaser": "Eigentlich will die Regierung günstige Elektroautos für alle. Eine neue Regelung aber macht Luxusmodelle attraktiv. Das grenzt an FDP-Satire – und die Grünen machen mit.",
+      "url": "https://www.zeit.de/mobilitaet/2024-09/dienstwagen-bundesregierung-e-autos-steuern-foerderung",
+      "image_url": "https://img.zeit.de/mobilitaet/2024-09/dienstwagen-bundesregierung-e-autos/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Rückenschmerzen und Sport : \"Unser Lebensstil wirkt sich auf nichts so aus wie auf den Rücken\"",
+      "teaser": "Fast jeder hat im Laufe seines Lebens Rückenschmerzen. Dagegen hilft am besten: Sport. Zwei Experten verraten, warum es Quatsch ist, alles mit geradem Rücken aufzuheben.",
+      "url": "https://www.zeit.de/sport/2024-08/rueckenschmerzen-sport-vorsorge-alltag-uebungen",
+      "image_url": "https://img.zeit.de/sport/2024-08/rueckenschmerzen-sport-vorsorge-alltag-uebungen-bild/super__430x286"
     },
     {
       "title": "Hitze in den USA : Wetterdienst warnt vor 48 Grad in Los Angeles",
@@ -227,95 +224,46 @@
       "image_url": "https://img.zeit.de/gesellschaft/2024-09/hitze-usa-suedwesten-los-angeles-48-grad-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Lesen im Alltag : \"Lesen ist die Schule des Herzens. Dafür gibt es keinen Ersatz\"",
-      "teaser": "Bücher können trösten, die Zeit austricksen und ein Ausweg aus der Waschmaschinenwelt sein. ZEIT-Redakteurin Iris Radisch über das Lesen, die Aufgabe ihres Lebens.",
-      "url": "https://www.zeit.de/zeit-wissen/2024/04/lesen-alltag-iris-radisch-literatur-kinder",
-      "image_url": "https://img.zeit.de/zeit-wissen/2024/04/iris-radisch-bild-1/super__430x286"
+      "title": "Airbus : Flugsicherheit ordnet Inspektionen bei A350-Flotte von Airbus an",
+      "teaser": "Die europäische Flugsicherheitsagentur hat Airbus weitere Untersuchungen auferlegt. Anfang September hatte auf einem Flug von Hongkong nach Zürich ein Triebwerk gebrannt.",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-09/airbus-inspektion-easa-triebwerkbrand-a350-flotte",
+      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-09/airbus-inspektion/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Sommer 2024 : Dieser Sommer war so nass und heiß wie lange nicht. Oder?",
-      "teaser": "Erst Dauerregen, dann Hitzewelle – der Sommer war unberechenbar. Nur: War das Wetter bei Ihnen ungewöhnlicher als sonst? Überprüfen Sie es auf unserer interaktiven Karte.",
-      "url": "https://www.zeit.de/wissen/2024-09/sommer-2024-temperatur-wetter-vergleich-regen-daten",
-      "image_url": "https://img.zeit.de/wissen/2024-09/sommer-2024-temperatur-wetter-vergleich-regen-daten-teaserbild/super__430x286"
+      "title": "Paralympische Spiele in Paris : Zwei Goldmedaillen für deutsche Paralympics-Schwimmer",
+      "teaser": "Die Schwimmer Elena Semechin und Taliso Engel lassen über 100 Meter Brust die Konkurrenz weit hinter sich. Semechin stellte einen Weltrekord auf.",
+      "url": "https://www.zeit.de/sport/2024-09/paralympische-spiele-paris-schwimmen-gold-elena-semechin-taliso-engel",
+      "image_url": "https://img.zeit.de/sport/2024-09/elena-semechin-taliso-engel-doppel-gold-paralympics-schwimmen-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Erzieherinnen : Ist der Erzieherjob noch zu retten?",
-      "teaser": "Mehr als nur Viren: Erzieherinnen melden sich deutlich öfter krank als andere Beschäftigte. Die fatale Kitamisere könnte man verhindern, so wie in Mönchengladbach.",
-      "url": "https://www.zeit.de/arbeit/2024-08/erzieherinnen-kitas-krankmeldung-kinderbetreuung-ueberlastung",
-      "image_url": "https://img.zeit.de/arbeit/2024-08/erzieherinnen-kitas-krankmeldung/super__430x286"
+      "title": "Tennis : Kevin Krawietz und Tim Pütz gewinnen Halbfinale der US Open",
+      "teaser": "Die deutschen Doppelspieler setzten sich in New York gegen Marcelo Arévalo aus El Salvador und den Kroaten Mate Pavić durch. Im Finale treffen sie auf zwei Australier.",
+      "url": "https://www.zeit.de/sport/2024-09/tennis-us-open-kevin-krawietz-und-tim-puetz-sieg-halbfinale",
+      "image_url": "https://img.zeit.de/sport/2024-09/puetz-krawietz-tennis/super__430x286"
     },
     {
-      "title": "KI und Demokratie : Vielleicht nicht wahr ist auch schon schlimm",
-      "teaser": "Noch ist nicht klar, ob KI die Demokratie und Wahlen gefährden wird. Doch allein die Existenz der Technologie hat einen unguten Effekt.",
-      "url": "https://www.zeit.de/digital/internet/2024-09/ki-demokratie-bilder-wahlen-einfluss-gefaehrdung",
-      "image_url": "https://img.zeit.de/digital/internet/2024-09/ki-demokratie-bilder-wahlen-einfluss/super__430x286"
+      "title": "Tennis : Aryna Sabalenka zieht erneut ins Finale der US Open",
+      "teaser": "Im Halbfinale hat Aryna Sabalenka die US-Amerikanerin Emma Navarro geschlagen. Die Tennisspielerin aus Belarus erreicht damit zum vierten Mal ein Grand-Slam-Finale.",
+      "url": "https://www.zeit.de/sport/2024-09/tennis-us-open-ayrina-sabalenka-emma-navarro-sieg-halbfinale",
+      "image_url": "https://img.zeit.de/sport/2024-09/tennis-us-open-ayrina-sabalenka-emma-navarro-sieg-halbfinale-bild/super__320x213"
     },
     {
-      "title": "Zukunft des Weins : Die letzte Weinkolumne",
-      "teaser": "Nach 125 Folgen empfiehlt unser Weinkolumnist zum Abschied noch einmal großartigen Riesling. Und blickt auf die Zukunft des Weins – in Deutschland und der Welt.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-09/zukunft-wein-geschichte-globalisierung-weinkolumne",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-09/zukunft-wein-geschichte-globalisierung-weinkolumne-teaserbild/wide__892x501"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Antientzündliche Ernährung • Das Beste aus Z+ : \"Bauchfett beschleunigt auch Entzündungen in der Leber oder im Knie\"",
-      "teaser": "Chronische Entzündungen schwelen oft unbemerkt im Körper. Bessere Ernährung schützt, sagt Wissenschaftler Martin Smollich. Über Bauchfett, Darmbakterien, Ballaststoffe",
-      "url": "https://www.zeit.de/gesundheit/2024-04/antientzuendliche-ernaehrung-uebergewicht-bauchfett-gesundheit",
-      "image_url": "https://img.zeit.de/gesundheit/2024-04/antientzuendliche-ernaehrung-uebergewicht-bauchfett-gesundheit-2/super__430x286"
-    },
-    {
-      "title": "Capri-Sun : Make it umweltschädlich again",
-      "teaser": "Eine Petition fordert: Der Strohhalm der Capri-Sun muss wieder aus Plastik sein. Initiiert wurde sie von der Getränkefirma selbst. Nun, die Rechnung geht nicht ganz auf.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-09/capri-sun-plastikstrohhalme-online-petition-muell-greenwashing",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-09/capri-sonne-strohhalme/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Verhalten als Gast : 44 Dinge, die jeder gute Gast wissen sollte",
-      "teaser": "Gastgeschenke sind spießig? Wie komme ich ins WLAN? Wie unterbreche ich die Anekdotendauererzählung? Eine vierte Nacht ist ok? Und dann ist da die Sache mit dem Teebeutel",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2024-09/verhalten-gast-regeln-manieren",
-      "image_url": "https://img.zeit.de/2024-09/44-dinge-die-jeder-gast-wissen-sollte-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Illegales Autorennen in Hamburg : \"Das ist manchmal wie auf einer Rennstrecke\"",
-      "teaser": "Zwei Autos rasen durch Hamburg-Billstedt. Sie stoßen mit einem Wagen zusammen, in dem ein Kind stirbt. Ein mutmaßlich illegales Straßenrennen. Die werden immer häufiger.",
-      "url": "https://www.zeit.de/hamburg/2024-09/illegales-autorennen-hamburg-tod-kind",
-      "image_url": "https://img.zeit.de/hamburg/2024-09/illegales-autorennen-hamburg-tod-kind-bild/wide__892x501"
-    },
-    {
-      "title": "US-Wahlkampf : Keine Steuern auf Trinkgeld? It's the economy, stupid …",
-      "teaser": "\"No tax on tips\": Kann Donald Trumps Vorschlag, bei dem Kamala Harris mitzieht, funktionieren? Unser Thema im US-Podcast. Und: Harris' erstes Interview, Trumps Redekunst",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/us-wahlkampf-trinkgeldsteuer-donald-trump-ok-america",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-09/us-wahlkampf-trinkgeldsteuer-donald-trump-ok-america-bild/super__430x286"
-    },
-    {
-      "title": "Prozess gegen Hunter Biden : Hunter Biden will Prozess wegen Steuerhinterziehung abwenden",
-      "teaser": "Im Juni wurde Hunter Biden wegen Verstößen gegen das Waffenrecht verurteilt. Einen weiteren Prozess versucht der Sohn des US-Präsidenten nun mit einem Deal abzuwenden.",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/hunter-biden-prozess-steuervergehen-deal",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/hunter-biden-prozess-steuervergehen-deal-bild/super__430x286"
-    },
-    {
-      "title": "Diese Woche in der ZEIT : Angst vor dem eigenen Volk?",
-      "teaser": "Der Erfolg von AfD und BSW im Osten stellt die Mitte-Parteien vor ein Dilemma: Sollen sie Populisten-Wähler ansprechen oder reden sie den Radikalen längst nach dem Mund?",
-      "url": "https://premium.zeit.de/abo/diezeit?aktionsnummer=1130785&wt_zmc=fix.int.zonpme.zeitde.epaper.z+.home.bildtext.bildtext&utm_medium=fix&utm_source=zeitde_zonpme_int&utm_campaign=epaper&utm_content=z+_home_bildtext_bildtext?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.link.link&utm_medium=cross&utm_source=zeitde_zonpme_int&utm_campaign=printbox&utm_content=ausgseite_bildtext_link_link",
-      "image_url": "https://img.zeit.de/2024/38/printbox/super__430x286",
-      "image_title": "DIE ZEIT 38/2024"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Richard Socher : Und, sind Sie schon besser als Google, Herr Socher?",
-      "teaser": "Richard Socher, einer der wichtigsten KI-Forscher der Welt, baut gerade ein neues, besseres Google. Wie läuft's? Super, sagt er. Seit er eine Antwortmaschine baut.",
-      "url": "https://www.zeit.de/digital/internet/2024-09/richard-socher-ki-forscher-suchmaschine-you-google",
-      "image_url": "https://img.zeit.de/digital/internet/2024-09/richard-socher-ki-forscher-suchmaschine/super__430x286"
-    },
-    {
-      "title": "USA : Vater von 14-Jährigem nach Schüssen in Georgia verhaftet",
-      "teaser": "An einer Schule nahe Atlanta waren vier Menschen getötet worden. Dem Vater des mutmaßlichen Schützen wird fahrlässige Tötung und Mord zweiten Grades vorgeworfen.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/usa-georgia-schule-schusswaffen-gewalt-vater-verhaftung",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/usa-georgia-schule-schusswaffen-gewalt-vater-verhaftung-bild/super__320x213"
+      "title": "Venezuela : Opposition will Druck auf Präsident Maduro beibehalten",
+      "teaser": "Nach einem Haftbefehl ist die Oppositionsführung in Venezuela untergetaucht. In einer virtuellen Pressekonferenz zeigte sich Anführerin María Corina Machado kämpferisch.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/venezuela-opposition-machado-maduro-wahl",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/machado-venezuela/super__320x213"
     },
     {
       "title": "Landtagswahl in Sachsen : Manipulierte Stimmzettel in Dresden für ungültig erklärt",
       "teaser": "In Dresden haben 111 Stimmzettel wegen Manipulation ihre Gültigkeit verloren. Laut Wahlleiter wurden die Zahlen korrigiert, an der Sitzverteilung ändert sich nichts.",
       "url": "https://www.zeit.de/politik/deutschland/2024-09/dresden-stimmen-manipulation-sachsen-landtagswahl-sitzverteilung",
       "image_url": "https://img.zeit.de/politik/deutschland/2024-09/bild-wahl-manipulation-dresden/super__320x213"
+    },
+    {
+      "title": "Prozess gegen Hunter Biden : Hunter Biden will Prozess wegen Steuerhinterziehung abwenden",
+      "teaser": "Im Juni wurde Hunter Biden wegen Verstößen gegen das Waffenrecht verurteilt. Einen weiteren Prozess versucht der Sohn des US-Präsidenten nun mit einem Deal abzuwenden.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/hunter-biden-prozess-steuervergehen-deal",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/hunter-biden-prozess-steuervergehen-deal-bild/super__320x213"
     },
     {
       "title": "ARD-\"Deutschlandtrend\" : FDP rutscht unter Fünf-Prozent-Hürde, Union liegt klar vorn",
@@ -343,17 +291,56 @@
       "image_url": "https://img.zeit.de/mobilitaet/2024-09/spanien-madrid-e-scooter-verbot-ab-oktober-bild/super__320x213"
     },
     {
-      "title": "FDP : Christian Lindner will erneut für FDP-Vorsitz kandidieren",
-      "teaser": "In Umfragen steht es schlecht um die FDP, dennoch will Christian Lindner die Partei in die Bundestagswahl führen. Er werde im Frühjahr wieder für den Vorsitz kandidieren.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/fdp-vorsitz-christian-lindner-kandidatur",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/christian-lindner-erneute-kandidatur-fdp-vorsitz-bild/super__320x213"
+      "title": "Oasis-Ticketpreise : Schaut nicht mit Zorn nach vorn",
+      "teaser": "Die Empörung über Ticketpreise für Oasis-Konzerte erreicht die britische Politik, Premierminister Keir Starmer kündete gar ein Vorgehen dagegen an. Was dahintersteckt.",
+      "url": "https://www.zeit.de/kultur/musik/2024-09/oasis-ticketpreise-konzerte-liam-noel-gallagher-keir-starmer",
+      "image_url": "https://img.zeit.de/kultur/musik/2024-09/oasis-liam-noel-gallagher-tickets-dynamic-pricing/super__430x286",
+      "image_title": "Oasis Liam Noel Gallagher Tickets Dynamic Pricing"
     },
     {
-      "title": "Oasis-Tour 2025 : Britische Wettbewerbsbehörde untersucht Oasis-Ticketverkäufe",
-      "teaser": "Stundenlang warteten Fans online auf Karten für Oasis-Konzerte. Dann waren die Preise auch noch doppelt so hoch wie angegeben. Nun prüft eine Behörde die Preissteigerung.",
-      "url": "https://www.zeit.de/kultur/musik/2024-09/oasis-tour-dynamische-preisgesaltung-behoerde-ermittelt",
-      "image_url": "https://img.zeit.de/kultur/musik/2024-09/oasis-rock-band-grossbritannien/super__320x213",
-      "image_title": "Oasis Rock Band Großbritannien"
+      "title": "Tierforschung : Hier kommt die gläserne Maus",
+      "teaser": "Forschende haben die Haut lebender Mäuse durchsichtig gemacht. Ihnen boten sich spektakuläre Einblicke ins Innere der Körper. Ginge das auch bei Menschen? Theoretisch ja.",
+      "url": "https://www.zeit.de/wissen/2024-09/tierforschung-maus-durchsichtige-haut-anatomie",
+      "image_url": "https://img.zeit.de/wissen/2024-09/tierforschung-maus-durchsichtige-haut-anatomie-aufmacherbild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Caspar David Friedrich : Der größte Abendunterhalter der deutschen Malereigeschichte",
+      "teaser": "Vor 250 Jahren wurde Caspar David Friedrich geboren. Niemand hat den Abendhimmel vollkommener gemalt als er. Darum ein abendlicher Gruß aus Friedrichs Wahlheimat Sachsen.",
+      "url": "https://www.zeit.de/kultur/kunst/2024-09/caspar-david-friedrich-geburtstag-kunst-maler-dresden-ausstellung",
+      "image_url": "https://img.zeit.de/kultur/kunst/2024-09/caspar-david-friedrich-das-grosse-gehege-bei-dresden-1832/super__430x286",
+      "image_title": "Caspar David Friedrich, Das Große Gehege bei Dresden, 1832"
+    },
+    {
+      "title": "KI und Demokratie : Vielleicht nicht wahr ist auch schon schlimm",
+      "teaser": "Noch ist nicht klar, ob KI die Demokratie und Wahlen gefährden wird. Doch allein die Existenz der Technologie hat einen unguten Effekt.",
+      "url": "https://www.zeit.de/digital/internet/2024-09/ki-demokratie-bilder-wahlen-einfluss-gefaehrdung",
+      "image_url": "https://img.zeit.de/digital/internet/2024-09/ki-demokratie-bilder-wahlen-einfluss/super__430x286"
+    },
+    {
+      "title": "Ausstellung von Pussy Riot : \"Was in Russland passiert, ist auch in anderen Ländern möglich\"",
+      "teaser": "Eine Ausstellung im Münchner Haus der Kunst zeigt die letzten zwölf Jahre Russlands aus der Sicht von Pussy Riot. Marija Aljochina hat sie als Warnung konzipiert.",
+      "url": "https://www.zeit.de/kultur/kunst/2024-09/ausstellung-pussy-riot-muenchen-velvet-terrorism-kunst",
+      "image_url": "https://img.zeit.de/kultur/kunst/2024-09/haus-der-kunst-velvet-terrorism-03/super__430x286",
+      "image_title": "haus-der-kunst-velvet-terrorism-03"
+    },
+    {
+      "title": "Diese Woche in der ZEIT : Angst vor dem eigenen Volk?",
+      "teaser": "Der Erfolg von AfD und BSW im Osten stellt die Mitte-Parteien vor ein Dilemma: Sollen sie Populisten-Wähler ansprechen oder reden sie den Radikalen längst nach dem Mund?",
+      "url": "https://premium.zeit.de/abo/diezeit?aktionsnummer=1130785&wt_zmc=fix.int.zonpme.zeitde.epaper.z+.home.bildtext.bildtext&utm_medium=fix&utm_source=zeitde_zonpme_int&utm_campaign=epaper&utm_content=z+_home_bildtext_bildtext?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.link.link&utm_medium=cross&utm_source=zeitde_zonpme_int&utm_campaign=printbox&utm_content=ausgseite_bildtext_link_link",
+      "image_url": "https://img.zeit.de/2024/38/printbox/super__430x286",
+      "image_title": "DIE ZEIT 38/2024"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Illegales Autorennen in Hamburg : \"Das ist manchmal wie auf einer Rennstrecke\"",
+      "teaser": "Zwei Autos rasen durch Hamburg-Billstedt. Sie stoßen mit einem Wagen zusammen, in dem ein Kind stirbt. Ein mutmaßlich illegales Straßenrennen. Die werden immer häufiger.",
+      "url": "https://www.zeit.de/hamburg/2024-09/illegales-autorennen-hamburg-tod-kind",
+      "image_url": "https://img.zeit.de/hamburg/2024-09/illegales-autorennen-hamburg-tod-kind-bild/super__430x286"
+    },
+    {
+      "title": "\"Und was machst du am Wochenende?\" : \"Italienisch habe ich wegen Adriano Celentano gelernt\"",
+      "teaser": "Im Podcast ist der Autor und Italienkenner Eric Pfeil zu Gast. Er mistet am Wochenende erfolglos Schallplatten aus und macht schlechte Geschäfte auf dem Flohmarkt.",
+      "url": "https://www.zeit.de/entdecken/2024-09/eric-pfeil-autor-wochenende-tipps-podcast",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-09/eric-pfeil-autor-wochenende-tipps-podcast-bild/super__430x286"
     },
     {
       "title": "Livepodcasts : Das Programm der ZEIT Podcast-Tour 2024",
@@ -428,7 +415,7 @@
       "image_url": "https://img.zeit.de/wirtschaft/2024-09/arbeitsproduktivitaet-arbeitsstunden-deutschland/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Kitas : So klein und schon so gestresst",
+      "title": "Z+ (abopflichtiger Inhalt); Kitas • Das Beste aus Z+ : So klein und schon so gestresst",
       "teaser": "Bereits Einjährige wirken erschöpft und teilnahmslos. 300 Wissenschaftler warnen vor den Folgen der Kitakrise für die Kinder: Unter Dreijährige sind besonders vulnerabel.",
       "url": "https://www.zeit.de/2024/38/kitas-kinderbetreuung-erzieher-psychologie-entwicklung"
     },
@@ -449,9 +436,9 @@
       "url": "https://www.zeit.de/gesellschaft/2024-09/polizeieinsatz-am-ns-dokuzentrum-muenchen-berichte-von-schuessen"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Handystrahlung : Was eine Metastudie über Handystrahlung verrät",
-      "teaser": "Kann die Strahlung von Smartphones und Handys zu Hirntumoren führen? Wissenschaftler haben sich die Studien der vergangenen Jahre genauer angesehen.",
-      "url": "https://www.zeit.de/gesundheit/2024-09/handystrahlung-hirntumor-krebs-handy-studie"
+      "title": "Schüsse in München : Bewaffneter von München war 18-Jähriger aus Österreich",
+      "teaser": "Der niedergeschossene Angreifer in München stammte aus Österreich. Sein Motiv ist noch unklar, Medienberichten zufolge soll er als Islamist aufgefallen sein.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/bewaffneter-von-muenchen-war-laut-polizei-18-jaehriger-aus-oesterreich"
     },
     {
       "title": "München : Niedergeschossener Mann in München ist tot",
@@ -482,10 +469,10 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-09/nahostkonflikt-israel-palaestina-benjamin-netanjahu-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Krieg im Sudan : Kein US-Rap für die Emirate",
-      "teaser": "Weil die Vereinigten Arabischen Emirate den Krieg im Sudan anheizen, hat US-Rapper Macklemore ein Konzert in dem Golfstaat abgesagt. Das trifft den Herrscher empfindlich.",
-      "url": "https://www.zeit.de/politik/2024-09/krieg-sudan-vereinigte-arabische-emirate-5vor8",
-      "image_url": "https://img.zeit.de/politik/2024-09/krieg-sudan-vereinigte-arabische-emirate-5vor8-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Abwanderung in Deutschland : Wo sind all die Ostdeutschen hin?",
+      "teaser": "Im Osten von Deutschland wohnen immer weniger Menschen. Unsere Datenauswertung zeigt, woran das liegt – und in welchen Gegenden die Abwanderung seit der Wende extrem war.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/abwanderung-deutschland-ostdeutschland-bevoelkerung-trend",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/abwanderung-deutschland-ostdeutschland-bevoelkerung-trend-teaserbild/super__430x286"
     },
     {
       "title": "Verlagsangebot : 9 historische Altstädte in Deutschland",
@@ -566,16 +553,28 @@
       "image_url": "https://img.zeit.de/zeit-verlag/zeit-sprachen/bilder-englisch-quiz/englisch-quiz-teaserbild-woche-5/super__430x286"
     },
     {
+      "title": "Zukunft des Weins : Die letzte Weinkolumne",
+      "teaser": "Nach 125 Folgen empfiehlt unser Weinkolumnist zum Abschied noch einmal großartigen Riesling. Und blickt auf die Zukunft des Weins – in Deutschland und der Welt.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-09/zukunft-wein-geschichte-globalisierung-weinkolumne",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-09/zukunft-wein-geschichte-globalisierung-weinkolumne-teaserbild/wide__892x501"
+    },
+    {
+      "title": "Capri-Sun : Make it umweltschädlich again",
+      "teaser": "Eine Petition fordert: Der Strohhalm der Capri-Sun muss wieder aus Plastik sein. Initiiert wurde sie von der Getränkefirma selbst. Nun, die Rechnung geht nicht ganz auf.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-09/capri-sun-plastikstrohhalme-online-petition-muell-greenwashing",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-09/capri-sonne-strohhalme/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Okroschka : Heute bleibt die Suppe kalt",
       "teaser": "Gurken, Kartoffeln, Radieschen und jede Menge Dill: Die säuerlich-leichte Suppe namens Okroschka wird kalt serviert – und erfrischt deshalb vor allem an warmen Tagen.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-09/okroschka-suppe-kartoffel-dill-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-09/okroshka-suppe-kartoffel-dill-rezept-wochenmarkt-bild-2/wide__892x501"
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-09/okroshka-suppe-kartoffel-dill-rezept-wochenmarkt-bild-2/super__320x213"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Pasta mit Bohnen und Butterbröseln : Die beste Art, sich zu verkrümeln",
       "teaser": "Schon wieder Nudeln? Oh ja! Dieses Gericht bringt alles mit, was ein gutes Pastarezept ausmacht, und ist trotzdem nicht gewöhnlich. Das Geheimwort: Butterbrösel",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-08/pasta-bohnen-butterbroesel-rezept",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-08/pasta-bohnen-butterbroesel-teaser/super__430x286"
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-08/pasta-bohnen-butterbroesel-teaser/super__320x213"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Brotsalat mit Zucchini und Miso : Miso, weshalb, warum",
@@ -594,18 +593,6 @@
       "teaser": "In den Siebzigern total angesagt, inzwischen im Schatten des Caesar Salads beinahe verschwunden: Salade niçoise transportiert einen direkt an die französische Riviera.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-08/salade-nicoise-mais-nizza-rezept",
       "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-08/salade-nicoise-mais-nizza-rezept-bild/super__320x213"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Grilled Blue Cheese Sandwich : Wenn die Käsestulle blaumacht",
-      "teaser": "Brombeeren ebnen den bittersüßen Weg vom Sommer in den Herbst. Besonders eingelegt – so passen sie zum Beispiel zu einem gegrillten Käsesandwich mit Blauschimmelkäse.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-08/grilled-blue-cheese-sandwich-brombeeren-rezept",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-08/grilled-blue-cheese-sandwich-brombeeren-rezept-bild/super__320x213"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Erbsensalat : Nicht nur für Erbsenzähler",
-      "teaser": "Nanu, hier wird die Artischockencreme nicht aufs Brot, sondern auf den Teller geschmiert. So liefert sie die Basis für ein schnelles Mittagessen mit Erbsen und Speck.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-08/erbsensalat-artischocken-speck-rezept",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-08/erbsensalat-artischocken-speck-rezept-teaserbild/super__320x213"
     },
     {
       "title": "Livestream:\"Was jetzt? – Die Woche\" : Der Livestream zu den Wahlen in Sachsen und Thüringen",
@@ -644,22 +631,22 @@
       "image_url": "https://img.zeit.de/politik/2024-08/was-jetzt-wochenshow-moderatorin-dilan-stella-libanon/super__320x213"
     },
     {
+      "title": "Politikpodcast : \"Wie zwei Stachelschweine, die sich küssen sollen\"",
+      "teaser": "Es ist eine Zerreißprobe: Wie gefährlich ist eine mögliche Koalition mit dem Bündnis Sahra Wagenknecht für die Christdemokraten – und für deren Chef?",
+      "url": "https://www.zeit.de/politik/2024-09/cdu-bsw-koalition-friedrich-merz-politikpodcast",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/bsw-cdu-koalition/wide__892x501"
+    },
+    {
+      "title": "Nachrichtenpodcast : Für einen Frieden in Gaza kommt es auf das Westjordanland an",
+      "teaser": "Außenministerin Baerbock ist zum elften Mal seit dem 7. Oktober in Nahost unterwegs. Was kann sie in Israel und dem Westjordanland erreichen? Und: Umziehen wegen der AfD?",
+      "url": "https://www.zeit.de/politik/2024-09/annalena-baerbock-israel-nahost-nachrichtenpodcast",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__430x286"
+    },
+    {
       "title": "Nachrichtenpodcast : Schüsse am Gedenktag des Olympiaattentats",
       "teaser": "Ein mutmaßlicher Islamist hat in der Nähe des israelischen Konsulats in München das Feuer auf Beamte eröffnet und wurde getötet. Und: Frankreichs neuer Premierminister",
       "url": "https://www.zeit.de/politik/2024-09/polizeieinsatz-muenchen-schuesse-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__892x501"
-    },
-    {
-      "title": "Schüsse in München : Ermittler gehen von versuchtem Terroranschlag in München aus",
-      "teaser": "Nach den Schüssen in München bestätigen die Behörden, dass sie von einem versuchten \"terroristischen Anschlag\" ausgehen. Die Generalstaatsanwaltschaft ermittle.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/ermittler-gehen-von-versuchtem-terroranschlag-in-muenchen-aus",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/muenchen-schuesse-generalkonsulat-taeter-bild/super__430x286"
-    },
-    {
-      "title": "Regierungsbildung : Wie es jetzt in Sachsen und Thüringen weitergehen könnte",
-      "teaser": "Die Parteien in Erfurt und Dresden stehen vor schwierigen Verhandlungen. Wie Björn Höcke noch Ministerpräsident werden könnte – und wann Neuwahlen drohen. Ein Überblick",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/regierungsbildung-thueringen-sachsen-landtagswahlen-koalition-faq",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/regierungsbildung-thueringen-sachsen-landtagswahlen/super__430x286"
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__430x286"
     },
     {
       "title": "Verlagsangebot : Einfach besser schreiben. Profitieren Sie vom Wissen der ZEIT-Autoren",
@@ -668,10 +655,10 @@
       "image_url": "https://img.zeit.de/angebote/Links/Bilder/akademie/2024/zak-besser-schreiben-5/super__430x286"
     },
     {
-      "title": "\"Und was machst du am Wochenende?\" : \"Italienisch habe ich wegen Adriano Celentano gelernt\"",
-      "teaser": "Im Podcast ist der Autor und Italienkenner Eric Pfeil zu Gast. Er mistet am Wochenende erfolglos Schallplatten aus und macht schlechte Geschäfte auf dem Flohmarkt.",
-      "url": "https://www.zeit.de/entdecken/2024-09/eric-pfeil-autor-wochenende-tipps-podcast",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-09/eric-pfeil-autor-wochenende-tipps-podcast-bild/super__320x213"
+      "title": "US-Wahlkampf : Keine Steuern auf Trinkgeld? It's the economy, stupid …",
+      "teaser": "\"No tax on tips\": Kann Donald Trumps Vorschlag, bei dem Kamala Harris mitzieht, funktionieren? Unser Thema im US-Podcast. Und: Harris' erstes Interview, Trumps Redekunst",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/us-wahlkampf-trinkgeldsteuer-donald-trump-ok-america",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-09/us-wahlkampf-trinkgeldsteuer-donald-trump-ok-america-bild/super__320x213"
     },
     {
       "title": "Erfolg von Rechtspopulismus : Hauptsache, die anderen sind die Deppen",
@@ -773,6 +760,13 @@
       "image_title": "Psychosoziale Probleme bei Auszubildenden nehmen zu"
     },
     {
+      "title": "Oasis-Tour 2025 : Britische Wettbewerbsbehörde untersucht Oasis-Ticketverkäufe",
+      "teaser": "Stundenlang warteten Fans online auf Karten für Oasis-Konzerte. Dann waren die Preise auch noch doppelt so hoch wie angegeben. Nun prüft eine Behörde die Preissteigerung.",
+      "url": "https://www.zeit.de/kultur/musik/2024-09/oasis-tour-dynamische-preisgesaltung-behoerde-ermittelt",
+      "image_url": "https://img.zeit.de/kultur/musik/2024-09/oasis-rock-band-grossbritannien/super__430x286",
+      "image_title": "Oasis Rock Band Großbritannien"
+    },
+    {
       "title": "A$AP Rocky : Ein Alice-im-Wunderland-hafter Horrortrip",
       "teaser": "Dieses Musikvideo ist genau, was wir jetzt brauchen: Der Rapper A$AP Rocky hat im Winter 2021 in Kiew den Clip \"Tailor Swif\" gedreht. Jetzt erst wurde er veröffentlicht.",
       "url": "https://www.zeit.de/2024/38/asap-rocky-tailor-swif-musikvideo-kunst-rapper",
@@ -790,12 +784,6 @@
       "url": "https://www.zeit.de/kultur/film/2024-09/joker-folie-a-deux-joaquin-phoenix-lady-gaga-premiere-venedig",
       "image_url": "https://img.zeit.de/kultur/film/2024-09/joker-folie-a-deux-joacquin-phoenix-and-lady-gaga/super__430x286",
       "image_title": "JOKER FOLIE À DEUX - Joacquin Phoenix and Lady Gaga"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Gesellschaftliche Entwicklungen : Hier spricht ein Mann von gestern",
-      "teaser": "In der ZEIT spielte der Satiriker Jan Böhmermann durch, wie es die Welt voranbringen würde, \"Menschen von gestern\" auszugrenzen. Nun antwortet ihm Ulf Poschardt.",
-      "url": "https://www.zeit.de/2024/38/gesellschaftliche-entwicklungen-ulf-poschardt-jan-boehmermann-mensch-von-gestern",
-      "image_url": "https://img.zeit.de/2024/38/ulf-poschardt-jan-boehmermann-gesellschaft-mensch-von-gestern-teaser/super__430x286"
     },
     {
       "title": "Polizei nach Schüssen in München : Täter war 18-Jähriger aus Österreich",
@@ -912,16 +900,16 @@
       "image_url": "https://img.zeit.de/gesundheit/2024-09/bundeskabinett-beschluss-neue-pflegefachassistenzausbildung-bild/super__430x286"
     },
     {
+      "title": "KI in der Bildung : Mein Lehrer, der KI-Tutor",
+      "teaser": "Volle Klassen, zu wenig Lehrer, teure Nachhilfestunden: Können KI-Lernhilfen das Schulsystem entlasten oder helfen sie am Ende gar den Falschen? Was Schulen ausprobieren.",
+      "url": "https://www.zeit.de/digital/internet/2024-09/kuenstliche-intelligenz-bildung-schule-lernhilfe-lehrer",
+      "image_url": "https://img.zeit.de/digital/internet/2024-09/kuenstliche-intelligenz-bildung-schule-lernhilfe/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Glasfaser • Das Beste aus Z+ : Stell dir vor, es gibt schnelleres Internet, und niemand will es",
       "teaser": "Der Glasfaserausbau in Deutschland schreitet voran, doch die Nachfrage stockt: Viele Menschen wollen ihren DSL-Anschluss behalten, darunter unser Autor. Wieso nur?",
       "url": "https://www.zeit.de/digital/internet/2024-09/glasfaser-internet-geschwindigkeit-dsl-anschluss",
       "image_url": "https://img.zeit.de/digital/internet/2024-09/glasfaser-internet-geschwindigkeit-dsl/super__430x286"
-    },
-    {
-      "title": "Internetkonzern : Facebook-Konzern Meta erlaubt Parole \"From the river to the sea\"",
-      "teaser": "Meta hat entschieden, dass der von der Hamas genutzte Slogan \"From the river to the sea\" plattformintern zulässig ist. In Deutschland ist die Rechtslage weiter unklar.",
-      "url": "https://www.zeit.de/digital/2024-09/meta-facebook-parole-israel-palaestina",
-      "image_url": "https://img.zeit.de/digital/2024-09/meta-facebook-parole-israel-palaestina-bild/super__430x286"
     },
     {
       "title": "Arbeitsmarkt : In Deutschland werden weniger Stellen ausgeschrieben",
@@ -942,16 +930,16 @@
       "image_url": "https://img.zeit.de/zeit-magazin/2024/38/liebe-leute-bild-1/wide__892x501"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Verhalten als Gast : 44 Dinge, die jeder gute Gast wissen sollte",
+      "teaser": "Gastgeschenke sind spießig? Wie komme ich ins WLAN? Wie unterbreche ich die Anekdotendauererzählung? Eine vierte Nacht ist ok? Und dann ist da die Sache mit dem Teebeutel",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2024-09/verhalten-gast-regeln-manieren",
+      "image_url": "https://img.zeit.de/2024-09/44-dinge-die-jeder-gast-wissen-sollte-bild/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Luisa Neubauer : \"Auch Eltern sterben, und manchmal viel zu früh\"",
       "teaser": "Luisa Neubauer hätte vieles gerne eher gewusst: dass sich große Momente oft klein anfühlen – und eine Klimaaktivistin gekränkte Männer in Machtpositionen aushalten muss.",
       "url": "https://www.zeit.de/zeit-magazin/2024/37/luisa-neubauer-ratschlaege-leben",
       "image_url": "https://img.zeit.de/zeit-magazin/2024/37/was-ich-gern-frueher-gewusst-haette-bild-1/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Pyjamas von Prominenten : Was Tim Raue und Bruce Darnell zum Schlafen anziehen",
-      "teaser": "Band-T-Shirt, Leinenpyjama oder am besten nackt? 13 Prominente und Modeexperten verraten, in welcher Kleidung sie am liebsten schlafen.",
-      "url": "https://www.zeit.de/zeit-magazin/2024/37/pyjamas-prominente-schlafanzug-mode-bruce-darnell",
-      "image_url": "https://img.zeit.de/zeit-magazin/mode-design/2024-08/pyjamas-prominente-schlafanzug-mode-bruce-darnell-teaser/super__430x286"
     },
     {
       "title": "Armutsrisiko : Studierende und Azubis besonders armutsgefährdet",
@@ -985,10 +973,10 @@
       "image_url": "https://img.zeit.de/2024/38/der-berg-raucht-bild-1/wide__892x501"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Geld sparen : \"Am günstigsten ist tatsächlich eine vegane Ernährung\"",
-      "teaser": "Wer Fleisch isst, kauft günstiger ein? Wir nehmen Preise verzerrt wahr, sagt der Forscher Marco Springmann. Aber es gibt auch eine schlechte Nachricht für Veganer.",
-      "url": "https://www.zeit.de/entdecken/2024-08/geld-sparen-ernaehrung-vegetarisch-umwelt",
-      "image_url": "https://img.zeit.de/zeit-verlag/2024-08/geld-sparen-ernaehrung-vegetarisch-umwelt-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Minsener Oog : \"Viele wissen gar nicht, dass man das auch mit 60 machen kann\"",
+      "teaser": "Ihr Kollege und sie sind die einzigen Menschen auf diesem Nordseeinselchen. Für einige Monate wohnt sie im Bauwagen. Wie es wirklich ist, Tausende Vögel zu zählen.",
+      "url": "https://www.zeit.de/2024/37/minsener-oog-vogelkunde-wattenmeer-naturschutz",
+      "image_url": "https://img.zeit.de/2024/37/insel-minsener-oog-im-naturschutzgebiet-wattenmeer-teaser/super__430x286"
     },
     {
       "title": "Anzeige : Kulturexpeditionen mit ZEIT REISEN",
@@ -1003,10 +991,10 @@
       "image_url": "https://img.zeit.de/politik/2024-09/mario-reiss-gdl-chef/wide__892x501"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Dienstwagen : Elektro nur für Gutverdiener",
-      "teaser": "Eigentlich will die Regierung günstige Elektroautos für alle. Eine neue Regelung aber macht Luxusmodelle attraktiv. Das grenzt an FDP-Satire – und die Grünen machen mit.",
-      "url": "https://www.zeit.de/mobilitaet/2024-09/dienstwagen-bundesregierung-e-autos-steuern-foerderung",
-      "image_url": "https://img.zeit.de/mobilitaet/2024-09/dienstwagen-bundesregierung-e-autos/super__430x286"
+      "title": "Elektromobilität : Regierung beschließt Steuervorteile für teure Elektrodienstwagen",
+      "teaser": "Um den Absatz von E-Autos zu steigern, werden die Steuervorteile für teure Elektrodienstwagen angehoben. Zuletzt waren die Verkaufszahlen deutlich gesunken.",
+      "url": "https://www.zeit.de/mobilitaet/2024-09/elektroautos-dienstwagen-steuererleichterungen-wachstumschancenpaket",
+      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-09/elektroautos-dienstwagen-steuererleichterungen-wachstumschancenpaket-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Hamburger Hafen : Egal, wir machen das jetzt",
@@ -1034,36 +1022,36 @@
       "image_url": "https://img.zeit.de/sport/2024-09/markus-rehm-paralympics-weitsprung-gold-bild/super__430x286"
     },
     {
-      "title": "«Eltern-Taxis»: ADAC: Jeder vierte Grundschüler wird von Eltern chauffiert",
-      "url": "https://www.zeit.de/news/2024-09/06/adac-jeder-vierte-grundschueler-wird-von-eltern-chauffiert"
+      "title": "National Football League: Chiefs holen Sieg zum Start: 27:20 gegen Baltimore Ravens",
+      "url": "https://www.zeit.de/news/2024-09/06/chiefs-holen-sieg-zum-start-27-20-gegen-baltimore-ravens"
     },
     {
-      "title": "Roth oder Hawaii: Deichmanns Körper noch fit, aber der Kopf will nicht mehr",
-      "url": "https://www.zeit.de/news/2024-09/06/deichmanns-koerper-noch-fit-aber-der-kopf-will-nicht-mehr"
+      "title": "Irreguläre Migration: Darum geht es in der Debatte um Zurückweisungen an Grenzen",
+      "url": "https://www.zeit.de/news/2024-09/06/darum-geht-es-in-der-debatte-um-zurueckweisungen-an-grenzen"
     },
     {
-      "title": "Konkurrenz aus Asien: Shoppingportale: Politischer Druck auf Temu und Shein steigt",
-      "url": "https://www.zeit.de/news/2024-09/06/shoppingportale-politischer-druck-auf-temu-und-shein-steigt"
+      "title": "Reden und reden lassen: Meinungsfreiheit: Pen Berlin debattiert in Brandenburg",
+      "url": "https://www.zeit.de/news/2024-09/06/meinungsfreiheit-pen-berlin-debattiert-in-brandenburg"
     },
     {
-      "title": "Paralympics in Paris: Gold und Weltrekord: Schwimmstar Semechin zeigt es allen",
-      "url": "https://www.zeit.de/news/2024-09/06/gold-und-weltrekord-schwimmstar-semechin-zeigt-es-allen"
+      "title": "Niedersachsens Parlament: CDU kritisiert Absage von Landtagssitzungen",
+      "url": "https://www.zeit.de/news/2024-09/06/cdu-kritisiert-absage-von-landtagssitzungen"
     },
     {
-      "title": "Parlament: Liedtke möchte als Landtagspräsidentin weitermachen",
-      "url": "https://www.zeit.de/news/2024-09/06/liedtke-moechte-als-landtagspraesidentin-weitermachen"
+      "title": "Hilfe nach Katastrophenflut: Das Juni-Hochwasser und seine Folgen",
+      "url": "https://www.zeit.de/news/2024-09/06/das-juni-hochwasser-und-seine-folgen"
     },
     {
-      "title": "Lage im Überblick: Baerbock beginnt schwierige Gespräche in Israel",
-      "url": "https://www.zeit.de/news/2024-09/06/baerbock-beginnt-schwierige-gespraeche-in-israel"
+      "title": "US-Justiz: Zum Schutz der Familie? Hunter Biden bekennt sich schuldig",
+      "url": "https://www.zeit.de/news/2024-09/06/zum-schutz-der-familie-hunter-biden-bekennt-sich-schuldig"
     },
     {
-      "title": "Automobilzulieferer: VW-Sparpläne könnten auch Auswirkungen auf Zulieferer haben",
-      "url": "https://www.zeit.de/news/2024-09/06/vw-sparplaene-koennten-auch-auswirkungen-auf-zulieferer-haben"
+      "title": "Nachrückerin bei der CDU: Wissenschaftsministerin Brandes jetzt auch Abgeordnete",
+      "url": "https://www.zeit.de/news/2024-09/06/wissenschaftsministerin-brandes-jetzt-auch-abgeordnete"
     },
     {
-      "title": "Schwimmbäder: Hallenbadsaison beginnt langsam - zahlreiche Bauarbeiten",
-      "url": "https://www.zeit.de/news/2024-09/06/hallenbadsaison-beginnt-langsam-zahlreiche-bauarbeiten"
+      "title": "Sommerliches Wetter: Freibadsaison endet allmählich – Manche Bäder verlängern",
+      "url": "https://www.zeit.de/news/2024-09/06/freibadsaison-endet-allmaehlich-manche-baeder-verlaengern"
     }
   ]
 }
