@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-09T04:08:36",
+  "timestamp": "2024-09-09T05:07:49",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -14,6 +14,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -98,16 +104,10 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Sahra Wagenknecht : Kleinklein statt Auseinandersetzung mit politischen Inhalten",
-      "teaser": "Sahra Wagenknechts erster Talk-Auftritt seit den Landtagswahlen ist eine verpasste Chance. Eine mehr als oberflächliche Beschäftigung mit den BSW-Inhalten bleibt aus.",
+      "title": "Z+ (abopflichtiger Inhalt); Sahra Wagenknecht : Die neue Rolle der Sahra Wagenknecht",
+      "teaser": "In Talkshows auftreten: Dafür hat die BSW-Chefin schon lange ein Talent. Aber kann sie auch Machtlust ausstrahlen? Und will sie das überhaupt? Ein Abend bei Caren Miosga",
       "url": "https://www.zeit.de/politik/deutschland/2024-09/sahra-wagenknecht-bsw-caren-miosga",
       "image_url": "https://img.zeit.de/politik/deutschland/2024-09/sahra-wagenknecht-caren-miosga-bild/wide__1000x562"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Olaf Scholz : Der Kanzler und die verbauten Aussichten",
-      "teaser": "Im ZDF-Sommerinterview erklärt Olaf Scholz in knapp 20 Minuten die vermeintlich in die Zukunft gerichtete Politik seiner Regierung. Wenn das mal alles gut geht.",
-      "url": "https://www.zeit.de/kultur/2024-09/olaf-scholz-sommerinterview-zdf-kanzler-spd",
-      "image_url": "https://img.zeit.de/kultur/2024-09/olaf-scholz-sommerinterview-zdf-kanzler-spd-bild/super__430x286"
     },
     {
       "title": "Migrationspolitik : Söder und Lindner dringen auf drastische Reduktion der Asylanträge",
@@ -134,6 +134,18 @@
       "image_url": "https://img.zeit.de/familie/2024-09/sommer-kinder-vorbei-schule-beschaeftigung-eltern-bild/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Olaf Scholz : Der Kanzler und die verbauten Aussichten",
+      "teaser": "Im ZDF-Sommerinterview erklärt Olaf Scholz in knapp 20 Minuten die vermeintlich in die Zukunft gerichtete Politik seiner Regierung. Wenn das mal alles gut geht.",
+      "url": "https://www.zeit.de/kultur/2024-09/olaf-scholz-sommerinterview-zdf-kanzler-spd",
+      "image_url": "https://img.zeit.de/kultur/2024-09/olaf-scholz-sommerinterview-zdf-kanzler-spd-bild/super__430x286"
+    },
+    {
+      "title": "Nachrichtenpodcast : Gut erholt zum neuen Haushaltsstreit",
+      "teaser": "Friedrich Merz kritisiert den Haushaltsentwurf der Bundesregierung als \"unseriös\". Hat er damit recht? Und: Saudi-Arabien wandelt sich, doch die Repression bleibt.",
+      "url": "https://www.zeit.de/politik/2024-09/friedrich-merz-haushalt-kritik-nachrichtenpodcast",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Riestern ohne Risiko : So geht Riestern ohne Risiko",
       "teaser": "Für die Alten steigen die Renten, für die Jungen steigt nur die Rentenlücke. Worauf sollten Menschen unter 40 bei der privaten Altersvorsorge achten?",
       "url": "https://www.zeit.de/wirtschaft/geldanlage/2024-06/private-altersvorsorge-riester-rente-rentenluecke-faq",
@@ -153,40 +165,16 @@
       "image_url": "https://img.zeit.de/2024/38/was-trinken-wir-da-eigentlich-bild-4/super__430x286"
     },
     {
-      "title": "Bundeshaushalt : Grüne kündigen Änderungen am Haushaltsentwurf der Regierung an",
-      "teaser": "Im Bundestag beginnt die Haushaltswoche. Der haushaltspolitische Sprecher der Grünen, Sven-Christian Kindler, hofft auf konstruktive Zusammenarbeit mit den Ampelpartnern.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/haushalt-verhandlungen-bundestag-gruene-kindler-aenderungen",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/haushalt-verhandlungen-bundestag-gruene-kindler-aenderungen-bild-2/super__430x286"
-    },
-    {
       "title": "Liveblog:Krieg in Israel und Gaza : Tote und Verletzte bei israelischen Luftangriffen in Syrien",
       "teaser": "In Syrien sind bei israelischen Angriffen mindestens fünf Menschen getötet worden. Ziel war offenbar ein Forschungszentrum iranischer Militärexperten. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/2023-12/news-israel-gaza-krieg-live",
       "image_url": "https://img.zeit.de/politik/ausland/2024-09/israel-liveblog-syrien-luftangriff-tote-verletzte-bild/super__430x286"
     },
     {
-      "title": "Liveblog:Ukrainekrieg : Lettland meldet Absturz russischer Drohne auf Staatsgebiet",
-      "teaser": "Eine mutmaßlich russische Drohne ist in Lettland abgestürzt. Zuvor meldet Rumänien ebenfalls eine Verletzung des Nato-Luftraums. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/ukraine-krieg-news-liveblog-bild-7/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Heiratsanzeigen : Die Single-Männer meiner Kaste? Durchweg attraktive Überperformer",
-      "teaser": "In Indien ist der Nachname ein Statussymbol. Via Heiratsanzeige suchen Agarwala-Männer passende Frauen. Unser Autor, ein Agarwala, fragt sich: Wer wäre ich in dem System?",
-      "url": "https://www.zeit.de/2024/38/heiratsanzeigen-indien-zeitung-status-familie",
-      "image_url": "https://img.zeit.de/2024/38/indien-heiratsmarkt-nachname-agarwala/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Fake-News • Das Wichtigste aus Z+ : Wie Wladimir Putin Deutschland mit Propaganda vergiftet",
-      "teaser": "US-Behörden haben Dokumente sichergestellt, die eine russische Fake-News-Kampagne in Europa bloßlegen. Welche fatale Wirkung sie hat, zeigt sich in Thüringen und Sachsen.",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/russland-fake-news-kampagne-deutschland-europa",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/russland-fake-news-kampagne-deutschland-europa-2/super__430x286"
-    },
-    {
-      "title": "Krankenhausgipfel in Berlin : Patientenschützer kritisieren fehlende Finanzierung für Klinikreform",
-      "teaser": "1.750 Krankenhäuser sollen deutschlandweit transformiert werden. Das kostet Geld, welches weder Bund noch Länder Patientenschützern zufolge ausreichend eingeplant haben.",
-      "url": "https://www.zeit.de/gesundheit/2024-09/krankenhausreform-kritik-karl-lauterbach-krankenhausgipfel",
-      "image_url": "https://img.zeit.de/gesundheit/2024-09/krankenhausgipfel-kritik-bild/super__430x286"
+      "title": "Amoklauf in den USA : Mutter soll Schule vor Amoklauf in Georgia gewarnt haben",
+      "teaser": "Vier Menschen starben bei dem jüngsten Amoklauf im US-Bundesstaat Georgia. Nun heißt es, die Mutter des Tatverdächtigen habe die Schule vor der Krise des Jungen gewarnt.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/amoklauf-usa-georgia-rabecca-sayarath-schule-warnung",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-09/amoklauf-in-georgia-mutter-soll-schule-gewarnt-haben-bild-2/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Verkehrsunfälle : So viele Unfälle passieren auf dem Schulweg Ihres Kindes",
@@ -207,6 +195,12 @@
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/abwanderung-deutschland-ostdeutschland-bevoelkerung-trend-teaserbild/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Heiratsanzeigen : Die Single-Männer meiner Kaste? Durchweg attraktive Überperformer",
+      "teaser": "In Indien ist der Nachname ein Statussymbol. Via Heiratsanzeige suchen Agarwala-Männer passende Frauen. Unser Autor, ein Agarwala, fragt sich: Wer wäre ich in dem System?",
+      "url": "https://www.zeit.de/2024/38/heiratsanzeigen-indien-zeitung-status-familie",
+      "image_url": "https://img.zeit.de/2024/38/indien-heiratsmarkt-nachname-agarwala/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Fußballtrikots : Vom Rasen auf die Straße",
       "teaser": "Wir haben eine Jury gebeten, die neuen Trikots der Fußballbundesligisten modisch zu bewerten. Hier kommt die Style-Tabelle, von untragbar bis sehr cool",
       "url": "https://www.zeit.de/zeit-magazin/2024/38/fussball-trikots-bundesliga-mode",
@@ -222,7 +216,7 @@
       "title": "Paralympics : Paralympisches Feuer bei Abschlussfeier in Paris erloschen",
       "teaser": "In der französischen Hauptstadt ist die insgesamt sechswöchige Olympiazeit beendet worden. Die nächsten Sommer-Paralympics finden 2028 in Los Angeles statt.",
       "url": "https://www.zeit.de/sport/2024-09/paralympics-abschlussfeier-paris",
-      "image_url": "https://img.zeit.de/sport/2024-09/paralympics-abschlussfeier-paris-bild/super__430x286"
+      "image_url": "https://img.zeit.de/sport/2024-09/paralympics-abschlussfeier-paris-bild-2/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Gewicht abnehmen : \"Ich empfehle, maximal ein bis zwei Kilo pro Monat abzunehmen\"",
@@ -231,9 +225,10 @@
       "image_url": "https://img.zeit.de/gesundheit/2024-09/gewicht-abnehmen-crash-diaeten-abnehmspritzen-ernaehrung-bild/super__430x286"
     },
     {
-      "title": "Marokko : Mindestens zehn Tote nach Starkregen in Dürreregion",
-      "teaser": "In Marokko haben starke Niederschläge Überschwemmungen verursacht. Neun Menschen werden noch vermisst. Die Gebiete an der Grenze zu Algerien leiden unter Dürre.",
-      "url": "https://www.zeit.de/wissen/umwelt/2024-09/marokko-regen-duerre-tote"
+      "title": "Super-Taifun Yagi : Taifun über China und Vietnam war der stärkste seit Jahrzehnten",
+      "teaser": "Der Super-Taifun Yagi hat Schiffe zum Sinken gebracht und viele Hektar Reisfelder geflutet. In Vietnam starben 26 Menschen, in China vier. Teile Vietnams sind ohne Strom.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/taifun-yagi-china-vietnam-tote-verletzte",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/taifun-yagi-china-vietnam-tote-verletzte-bild/super__430x286"
     },
     {
       "title": "Dürre : Wasserstand der Weichsel in Warschau fällt auf Rekordtief",
@@ -273,6 +268,24 @@
       "image_url": "https://img.zeit.de/2024/38/gerhard-richter-nackt-teaser/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Fake-News • Das Wichtigste aus Z+ : Wie Wladimir Putin Deutschland mit Propaganda vergiftet",
+      "teaser": "US-Behörden haben Dokumente sichergestellt, die eine russische Fake-News-Kampagne in Europa bloßlegen. Welche fatale Wirkung sie hat, zeigt sich in Thüringen und Sachsen.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/russland-fake-news-kampagne-deutschland-europa",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/russland-fake-news-kampagne-deutschland-europa-2/super__430x286"
+    },
+    {
+      "title": "Bundeshaushalt : Bundestag debattiert nach Sommerpause erneut über den Haushalt",
+      "teaser": "Im Bundestag beginnt die Haushaltswoche. Die Grünen kündigen Veränderungen an der Vorlage an. Die CDU wirft der Ampelkoalition eine unseriöse Haushaltspolitik vor.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/haushalt-verhandlungen-bundestag-gruene-kindler-aenderungen",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/haushalt-verhandlungen-bundestag-gruene-kindler-aenderungen-bild-2/super__320x213"
+    },
+    {
+      "title": "Krankenhausgipfel in Berlin : Patientenschützer kritisieren fehlende Finanzierung für Klinikreform",
+      "teaser": "1.750 Krankenhäuser sollen deutschlandweit transformiert werden. Das kostet Geld, welches weder Bund noch Länder Patientenschützern zufolge ausreichend eingeplant haben.",
+      "url": "https://www.zeit.de/gesundheit/2024-09/krankenhausreform-kritik-karl-lauterbach-krankenhausgipfel",
+      "image_url": "https://img.zeit.de/gesundheit/2024-09/krankenhausgipfel-kritik-bild/super__320x213"
+    },
+    {
       "title": "Flugzeugbauer : Boeing verspricht Beschäftigten 25 Prozent mehr Lohn",
       "teaser": "Ein Einkommensplus von 25 Prozent, Verbesserungen bei Gesundheitskosten und Ruhestand liegen auf dem Tisch. Der Flugzeugbauer will damit einen drohenden Streik abwenden.",
       "url": "https://www.zeit.de/wirtschaft/2024-09/boeing-beschaeftigte-lohnplus-25-prozent",
@@ -307,18 +320,6 @@
       "teaser": "Der Bundeskanzler sieht sich nicht als Getriebenen von CDU-Chef Friedrich Merz. Vielmehr habe er Leistungskürzungen für Asylbewerber und Grenzkontrollen durchgesetzt.",
       "url": "https://www.zeit.de/politik/2024-09/scholz-wende-asylpolitik",
       "image_url": "https://img.zeit.de/politik/deutschland/2024-09/olaf-scholz-sommerinterview-ard-bild/super__320x213"
-    },
-    {
-      "title": "Luke Mockridge : Sat.1 stoppt nach Äußerungen über Para-Athleten TV-Show mit Mockridge",
-      "teaser": "Der Comedian Luke Mockridge hat mit Kommentaren zu den Paralympischen Spielen für Empörung gesorgt. Nun nimmt der Fernsehsender Sat.1 eine neue Sendung aus dem Programm.",
-      "url": "https://www.zeit.de/kultur/film/2024-09/luke-mockridge-sat-1-paralympics-behindertensport",
-      "image_url": "https://img.zeit.de/kultur/film/2024-09/sat-1-sendet-mockridge-show-nicht-kontroverse-paralympics-bild/super__320x213"
-    },
-    {
-      "title": "Installationskünstlerin : Rebecca Horn ist tot",
-      "teaser": "Sie galt als eine der wichtigsten Künstlerinnen der Gegenwart. Ihre \"magischen Kunstmaschinen\" machten sie bekannt. Nun ist Rebecca Horn im Alter von 80 Jahren gestorben.",
-      "url": "https://www.zeit.de/kultur/kunst/2024-09/rebecca-horn-tot",
-      "image_url": "https://img.zeit.de/kultur/kunst/2024-09/kuenstlerin-rebecca-horn-verstorben-bild/super__320x213"
     },
     {
       "title": "Diese Woche in der ZEIT : Angst vor dem eigenen Volk?",
@@ -617,10 +618,10 @@
       "image_url": "https://img.zeit.de/politik/2024-08/was-jetzt-wochenshow-moderatorin-dilan-stella-libanon/super__320x213"
     },
     {
-      "title": "Nachrichtenpodcast : Gut erholt zum neuen Haushaltsstreit",
-      "teaser": "Friedrich Merz kritisiert den Haushaltsentwurf der Bundesregierung als \"unseriös\". Hat er damit recht? Und: Saudi-Arabien wandelt sich, doch die Repression bleibt.",
-      "url": "https://www.zeit.de/politik/2024-09/friedrich-merz-haushalt-kritik-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__892x501"
+      "title": "Liveblog:Ukrainekrieg : Lettland meldet Absturz russischer Drohne auf Staatsgebiet",
+      "teaser": "Eine mutmaßlich russische Drohne ist in Lettland abgestürzt. Zuvor meldet Rumänien ebenfalls eine Verletzung des Nato-Luftraums. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/ukraine-krieg-news-liveblog-bild-7/wide__892x501"
     },
     {
       "title": "Bundeskanzler : Große Mehrheit hält Olaf Scholz für führungsschwach",
@@ -739,6 +740,18 @@
       "image_title": "„Die Praktikantin hat noch nie einen Drucker benutzt“"
     },
     {
+      "title": "Luke Mockridge : Sat.1 stoppt nach Äußerungen über Para-Athleten TV-Show mit Mockridge",
+      "teaser": "Der Comedian Luke Mockridge hat mit Kommentaren zu den Paralympischen Spielen für Empörung gesorgt. Nun nimmt der Fernsehsender Sat.1 eine neue Sendung aus dem Programm.",
+      "url": "https://www.zeit.de/kultur/film/2024-09/luke-mockridge-sat-1-paralympics-behindertensport",
+      "image_url": "https://img.zeit.de/kultur/film/2024-09/sat-1-sendet-mockridge-show-nicht-kontroverse-paralympics-bild/super__430x286"
+    },
+    {
+      "title": "Installationskünstlerin : Rebecca Horn ist tot",
+      "teaser": "Sie galt als eine der wichtigsten Künstlerinnen der Gegenwart. Ihre \"magischen Kunstmaschinen\" machten sie bekannt. Nun ist Rebecca Horn im Alter von 80 Jahren gestorben.",
+      "url": "https://www.zeit.de/kultur/kunst/2024-09/rebecca-horn-tot",
+      "image_url": "https://img.zeit.de/kultur/kunst/2024-09/kuenstlerin-rebecca-horn-verstorben-bild/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Filmfestival in Venedig : Wie lebendig doch das Kino ist",
       "teaser": "Die diesjährigen Filmfestspiele von Venedig waren umwerfend. Am Ende gewinnt ein Altmeister den Hauptpreis, den man auch einem Newcomer hätte geben können. Eine Bilanz",
       "url": "https://www.zeit.de/kultur/film/2024-09/filmfestival-venedig-gewinner-pedro-almodovar-nicole-kidman-tilda-swinton-julianne-moore",
@@ -750,18 +763,6 @@
       "teaser": "Der Comedian Luke Mockridge hat mit Kommentaren zu den Paralympischen Spielen für Empörung gesorgt. Er habe niemanden ins Lächerliche ziehen wollen, sagt er nun.",
       "url": "https://www.zeit.de/sport/2024-09/luke-mockridge-paralympics-behindertenfeindliche-aeusserungen",
       "image_url": "https://img.zeit.de/kultur/2024-09/luke-mockridge-paralympics-behindertenfeindliche-aeusserungen-bild/super__430x286"
-    },
-    {
-      "title": "Biennale Venedig : Goldener Löwe für \"The Room Next Door\" von Pedro Almodóvar",
-      "teaser": "Beim Filmfestival Venedig gewinnt ein Drama um zwei Freundinnen, die sich mit dem Sterben auseinandersetzen müssen. Als beste Schauspielerin wurde Nicole Kidman geehrt.",
-      "url": "https://www.zeit.de/kultur/film/2024-09/biennale-venedig-pedro-almodovar-nicole-kidman-vincent-lindon",
-      "image_url": "https://img.zeit.de/kultur/film/2024-09/pedro-almodovar-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Geister der Gegenwart\" von Wolfram Eilenberger : Philosophie als Akt der Befreiung",
-      "teaser": "Adorno, Sontag, Feyerabend, Foucault: Wolfram Eilenberger schließt mit dem Buch \"Geister der Gegenwart\" seine Trilogie der Philosophiegeschichte großartig ab.",
-      "url": "https://www.zeit.de/2024/38/geister-der-gegenwart-wolfram-eilenberger-philosophie-aufklaerung-geschichte",
-      "image_url": "https://img.zeit.de/2024/38/geister-der-gegenwart-wolfram-eilenberger-philosophie-aufklaerung-geschichte-bild/super__430x286"
     },
     {
       "title": "Krieg in der Ukraine : Ukraine meldet zwei Tote durch russischen Beschuss in Sumy",
@@ -788,6 +789,11 @@
       "image_url": "https://img.zeit.de/video/2024-09/sachsen-thueringen-voxpops/super__430x286"
     },
     {
+      "title": "Marokko : Mindestens zehn Tote nach Starkregen in Dürreregion",
+      "teaser": "In Marokko haben starke Niederschläge Überschwemmungen verursacht. Neun Menschen werden noch vermisst. Die Gebiete an der Grenze zu Algerien leiden unter Dürre.",
+      "url": "https://www.zeit.de/wissen/umwelt/2024-09/marokko-regen-duerre-tote"
+    },
+    {
       "title": "Waldbrand im Harz : Feuerwehr schließt Brandstiftung am Brocken nicht aus",
       "teaser": "Am Brocken im Harz sind erneut Löschhubschrauber im Einsatz. Der Harzer Kreisbrandmeister hält es für möglich, dass das Feuer bewusst gelegt worden ist.",
       "url": "https://www.zeit.de/wissen/umwelt/2024-09/brocken-harz-feuer-loescharbeiten-aufgenommen",
@@ -804,12 +810,6 @@
       "teaser": "Die Ostsee droht zu ersticken, und das liegt vor allem an der Landwirtschaft. Hoffnung verspricht nun ein Halm.",
       "url": "https://www.zeit.de/2024/38/ostsee-meer-umweltschutz-wasserqualitaet-verschmutzung",
       "image_url": "https://img.zeit.de/2024/38/ostsee-meer-umweltschutz-wasserqualitaet-teaserbild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Aufklärung : Das stand im ersten modernen Schulbuch",
-      "teaser": "Vor 250 Jahren erschien Johann Bernhard Basedows \"Elementarwerk\". Das Lehrbuch setzte schon damals auf Vielfalt und Toleranz. Ein Projekt, das bis heute nicht fertig ist",
-      "url": "https://www.zeit.de/2024/38/aufklaerung-johann-bernhard-basedow-elementarwerk-paedagogik-lehrbuch",
-      "image_url": "https://img.zeit.de/2024/38/aufklaerung-johann-bernhard-basedow-elementarwerk-paedagogik-lehrbuch-bild/super__430x286"
     },
     {
       "title": "Sommerliche Drinks entdecken",
@@ -927,11 +927,11 @@
       "image_url": "https://img.zeit.de/gesellschaft/2024-08/studenten-azubis-besonders-armutsgefaehrdet-hohe-wohnkosten-bild/wide__892x501"
     },
     {
-      "title": "Verlagsangebot : Persönlichkeit als Door Opener",
-      "teaser": "Immer mehr Unternehmen setzen bei ihren Bewerbern auf die Persönlichkeit. Auf der Suche nach einem Job stellt der Berufstest die eigenen Stärken in den Mittelpunkt.",
-      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.textbild.frau-smartphone_dooropener.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=bot_textbild_frau-smartphone_dooropener_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-boa-index-teaser-1-klein/bruce-mars-fwvmhua-wby-unsplash.jpg",
-      "image_title": "Persönlichkeit als Door Opener"
+      "title": "Verlagsangebot : Welcher Beruf passt zu mir?",
+      "teaser": "Mit dem BOA-Berufstest erfahren Berufseinsteiger mehr über die eigenen Stärken und finden den passenden Job.",
+      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.verlagsteaser.quan.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=verlagsteaserindex&amp;utm_content=bot_verlagsteaser_quan_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/boa-quan/wide__430x286__desktop",
+      "image_title": "Welcher Beruf passt zu mir?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Herausforderung in Karriere und Leben : Die Strategien der Hürdenläufer",
@@ -1000,6 +1000,18 @@
       "image_url": "https://img.zeit.de/sport/2024-09/gruenflaeche-hansi-flick-barca/super__430x286"
     },
     {
+      "title": "Verkehr: Tödlicher Unfall in Herzogenrath",
+      "url": "https://www.zeit.de/news/2024-09/09/toedlicher-unfall-in-herzogenrath"
+    },
+    {
+      "title": "Tropensturm in Asien: Stärkster Taifun seit Jahrzehnten trifft China und Vietnam",
+      "url": "https://www.zeit.de/news/2024-09/09/staerkster-taifun-seit-jahrzehnten-trifft-china-und-vietnam"
+    },
+    {
+      "title": "Unfall: Auto überschlägt sich bei Limbach - Fahrer schwer verletzt",
+      "url": "https://www.zeit.de/news/2024-09/09/auto-ueberschlaegt-sich-bei-limbach-fahrer-schwer-verletzt"
+    },
+    {
       "title": "Stellenabbau in der Industrie: Bürgermeister: Wollen Goodyear-Areal für einen Euro",
       "url": "https://www.zeit.de/news/2024-09/09/buergermeister-wollen-goodyear-areal-fuer-einen-euro"
     },
@@ -1018,18 +1030,6 @@
     {
       "title": "Paralympics in Paris: Zehn Athleten mit besonderen Lebensgeschichten",
       "url": "https://www.zeit.de/news/2024-09/09/zehn-athleten-mit-besonderen-lebensgeschichten"
-    },
-    {
-      "title": "Auszeichnungen: Angelina Jolie beim Filmfestival in Toronto geehrt",
-      "url": "https://www.zeit.de/news/2024-09/09/angelina-jolie-beim-filmfestival-in-toronto-geehrt"
-    },
-    {
-      "title": "Fußball-Bundesliga: Bayer-Delegation mit drei Trophäen im Gepäck in die USA",
-      "url": "https://www.zeit.de/news/2024-09/09/bayer-delegation-mit-drei-trophaeen-im-gepaeck-in-die-usa"
-    },
-    {
-      "title": "Schulen: Preußler-Gymnasium: Neues Schuljahr mit ungeliebtem Namen",
-      "url": "https://www.zeit.de/news/2024-09/09/preussler-gymnasium-neues-schuljahr-mit-ungeliebtem-namen"
     }
   ]
 }
