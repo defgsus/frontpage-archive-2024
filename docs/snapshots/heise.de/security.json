@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-09T07:07:16",
+  "timestamp": "2024-09-09T08:10:43",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Sonicwall-Firewalls",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Firewalls-von-Sonicwall-9861528.html"
+    },
+    {
       "title": "Qnap",
       "url": "https://www.heise.de/news/Qnap-Zahlreiche-Updates-fuer-mehrere-Produkte-9861381.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Apache-OFBiz-Aktueller-Sicherheitspatch-repariert-aeltere-Patches-9859389.html"
     },
     {
-      "title": "Veeam",
-      "url": "https://www.heise.de/news/Veeam-behebt-mehrere-Sicherheitsluecken-Codeschmuggel-moeglich-9858027.html"
+      "title": "Jetzt patchen! Angreifer attackieren Firewalls von Sonicwall",
+      "teaser": "Mittlerweile ist klar, dass eine Schwachstelle nicht nur SonicOS, sondern auch die SSLVPN-Funktion betrifft. Sicherheitsupdates sind verfügbar.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Firewalls-von-Sonicwall-9861528.html",
+      "image_title": "Alarmdreieck auf Bildschirm"
+    },
+    {
+      "title": "iX-Praxis-Workshop: Leitfaden für Cloud-Native-Architekturen und Kubernetes",
+      "teaser": "Bauen Sie eine Cloud-native-Umgebung mit hochverfügbarem Kubernetes-Cluster und automatischer Skalierung auf, inkl. Access Management, Monitoring und GitOps.",
+      "url": "https://www.heise.de/news/iX-Praxis-Workshop-Leitfaden-fuer-Cloud-Native-Architekturen-und-Kubernetes-9859076.html",
+      "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
     },
     {
       "title": "Qnap: Zahlreiche Updates für mehrere Produkte",
@@ -151,18 +163,6 @@
       "teaser": "Yubico plant auch künftig keine Firmware-Updates für verwundbare Yubikeys. Über einen Ersatz will das Unternehmen im Einzelfall entscheiden.",
       "url": "https://www.heise.de/news/Yubikey-Cloning-Angriff-Kein-Firmware-Update-vielleicht-Key-Austausch-9857807.html",
       "image_title": "Ein Krimineller untersucht einen USB-Dongle, rundherum Sicherheitssymbole"
-    },
-    {
-      "title": "Angreifer können durch Hintertür in Cisco Smart Licensing Utility schlüpfen",
-      "teaser": "Es sind wichtige Sicherheitsupdates für mehrere Produkte des Netzwerkausrüster Cisco erschienen.",
-      "url": "https://www.heise.de/news/Angreifer-koennen-durch-Hintertuer-in-Cisco-Smart-Licensing-Utility-schluepfen-9857962.html",
-      "image_title": "Stilisiertes Bild: Ein Stapel brennender Cisco-Appliances"
-    },
-    {
-      "title": "Zyxel: Angreifer können Kontrolle über Access Points und Router erlangen",
-      "teaser": "Ein Sicherheitsupdate schließt eine kritische Sicherheitslücke unter anderem in Access-Point-Modellen von Zyxel.",
-      "url": "https://www.heise.de/news/Zyxel-Angreifer-koennen-Kontrolle-ueber-Access-Points-und-Router-erlangen-9857791.html",
-      "image_title": "Update lädt"
     },
     {
       "title": "NTLM–Webinar",
