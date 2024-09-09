@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-09T09:00:47",
+  "timestamp": "2024-09-09T10:07:30",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -14,12 +14,6 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -55,7 +49,13 @@
     },
     {
       "type": null,
-      "src": "https://static.zeit.de/p/zeit.web/js/site.3b352430107e0fbf43ec.js",
+      "src": "https://static.zeit.de/p/zeit.web/js/site.3b2bb13a366a50e47f4f.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://interactive.zeit.de/g/2024/gehaelter-gemeinden/static/assets/standalone.db1db2e4.mjs",
       "id": null,
       "text": null
     },
@@ -104,22 +104,10 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Synthetische Drogen : Warum es immer mehr Drogenopfer gibt",
-      "teaser": "Nie sind so viele in Deutschland an Drogen gestorben. Auch weil sich der Rauschgiftmarkt dramatisch verändert hat. Wie ein Chemiker vom Labor aus die Mafia jagt",
-      "url": "https://www.zeit.de/2024/38/synthetische-drogen-bundeskriminalamt-chemie-drogenhandel",
-      "image_url": "https://img.zeit.de/2024/38/der-rausch-wird-krasser-teaser/wide__1000x562"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Sahra Wagenknecht : Die neue Rolle der Sahra Wagenknecht",
-      "teaser": "In Talkshows auftreten: Dafür hat die BSW-Chefin schon lange ein Talent. Aber kann sie auch Machtlust ausstrahlen? Und will sie das überhaupt? Ein Abend bei Caren Miosga",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/sahra-wagenknecht-bsw-caren-miosga",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/sahra-wagenknecht-bsw-caren-miosga-bild/super__430x286"
-    },
-    {
-      "title": "Migrationspolitik : Söder und Lindner dringen auf drastische Reduktion der Asylanträge",
-      "teaser": "Bayerns Ministerpräsident will, dass in Deutschland jährlich weniger als 100.000 Asylerstanträge gestellt werden. Eine Zahl, die auch FDP-Chef Christian Lindner gefällt.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/soeder-lindner-asylerstantraege-einschraenkung-migrationspolitik",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/asylbewerber-bayern-soeder-lindner-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Schulnoten : Wie man dem Kind mit der Schule hilft – ohne ihm zu schaden",
+      "teaser": "Hausaufgabenhilfe, Zeugnisgeld: Eltern tun vieles, um ihre Kinder in der Schule zu unterstützen. Forschung zeigt: Manches davon wirkt sich negativ auf deren Leistung aus.",
+      "url": "https://www.zeit.de/wissen/2024-09/schulnoten-kinder-unterricht-nachhilfe-hausaufgaben",
+      "image_url": "https://img.zeit.de/wissen/2024-09/schulnoten-kinder-unterricht-nachhilfe-hausaufgaben-bild/wide__1000x562"
     },
     {
       "title": "Landtagswahl in Brandenburg : AfD-Spitzenkandidat Christoph Berndt verlässt Talkrunde zu Asylpolitik",
@@ -128,16 +116,22 @@
       "image_url": "https://img.zeit.de/politik/deutschland/2024-09/afd-kandidat-verlaesst-talk-streit-ueber-migrationspolitik-bild/super__430x286"
     },
     {
+      "title": "München : Polizei vernimmt etwa 100 Zeugen zu mutmaßlichem Anschlag in München",
+      "teaser": "Nach dem mutmaßlichen Terroranschlag in München sollen die Aussagen von Zeugen zahlreiche offene Fragen klären. Zudem werten Ermittler das Handy des Schützen aus.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/mutmasslicher-terroranschlag-muenchen-polizei-vernimmt-100-zeugen",
+      "image_url": "https://img.zeit.de/2024-09/mutmasslicher-terroranschlag-muenchen-polizei-vernimmt-100-zeugen-bild/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Paralympics : Was stimmt nicht mit dir, Luke Mockridge?",
       "teaser": "Witze über meine Behinderung? Mach ich gerne selbst! Aber das, was der Comedian Luke Mockridge zuletzt gesagt hat, ist vor allem eins: unreif.",
       "url": "https://www.zeit.de/gesellschaft/2024-09/paralympics-luke-mockridge-ableismus-behinderung-sport",
       "image_url": "https://img.zeit.de/gesellschaft/2024-09/paralympics-luke-mockridge-ableismus-behinderung-sport-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Wechseljahre : Was für ein heißer Scheiß!",
-      "teaser": "Die Wechseljahre sind ein wilder Ritt. Und Hormonersatztherapien sollen da Ruhe reinbringen. Aber warum sollte man das wollen – jetzt, wo die größte Freiheit beginnt?",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/wechseljahre-frauen-hormone-geschlechterrollen-freiheit",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-08/laute-frauen-menopause-perspektive-bild/wide__892x501"
+      "title": "Z+ (abopflichtiger Inhalt); Synthetische Drogen : Warum es immer mehr Drogenopfer gibt",
+      "teaser": "Nie sind so viele in Deutschland an Drogen gestorben. Auch weil sich der Rauschgiftmarkt dramatisch verändert hat. Wie ein Chemiker vom Labor aus die Mafia jagt",
+      "url": "https://www.zeit.de/2024/38/synthetische-drogen-bundeskriminalamt-chemie-drogenhandel",
+      "image_url": "https://img.zeit.de/2024/38/der-rausch-wird-krasser-teaser/wide__892x501"
     },
     {
       "title": "Immobilien : Bereuen Sie den Hauskauf?",
@@ -164,12 +158,6 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-09/donald-trump-neue-umfrage-knapp-vor-kamala-harris-bild/super__430x286"
     },
     {
-      "title": "USA : Tausende Menschen in Kalifornien fliehen vor Waldbrand",
-      "teaser": "An der Westküste der USA brennen 80 Quadratkilometer Wald. Die Flammen sind außer Kontrolle, Schulen geschlossen. Tausende Menschen bringen sich in Sicherheit.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/kalifornien-waldbrand-feuer-los-angeles-san-bernardino-county-flucht",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-09/tausende-fliehen-feuer-kalifornien-bild/super__430x286"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Lesen im Alltag : \"Lesen ist die Schule des Herzens. Dafür gibt es keinen Ersatz\"",
       "teaser": "Bücher können trösten, die Zeit austricksen und ein Ausweg aus der Waschmaschinenwelt sein. ZEIT-Redakteurin Iris Radisch über das Lesen, die Aufgabe ihres Lebens.",
       "url": "https://www.zeit.de/zeit-wissen/2024/04/lesen-alltag-iris-radisch-literatur-kinder",
@@ -188,16 +176,23 @@
       "image_url": "https://img.zeit.de/mobilitaet/2024-07/verkehrsunfaelle-strassen-fahrrad-schulweg-arbeitsweg-karte-teaser/super__430x286"
     },
     {
-      "title": "Bundesnetzagentur : Deutsche Post hat auf dem Land zu wenige Filialen",
-      "teaser": "Ab einer bestimmten Größe müssen deutsche Gemeinden mindestens eine Postfiliale vorweisen. Auf dem Land wird die Vorgabe an fast 150 Pflichtstandorten nicht eingehalten.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/deutsche-post-bundesnetzagentur-pflichtstandorte-postfilialen",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-09/141-orte-keine-postfiliale-bild/super__430x286"
+      "title": "Feuilletonpodcast : \"Dune\" und die Macht der Science-Fiction",
+      "teaser": "Ökologie, Macht, Technik: Wo endet Science-Fiction? Wo beginnt Fantasy? Was das Wüstenplanet-Epos \"Dune\" über unsere Gegenwart erzählt.",
+      "url": "https://www.zeit.de/kultur/2024-09/science-fiction-dune-feuilleton-podcast",
+      "image_url": "https://img.zeit.de/kultur/film/2024-09/science-fiction-dune-feuilleton/super__430x286",
+      "image_title": "science-fiction-dune-feuilleton"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Fußballtrikots : Vom Rasen auf die Straße",
       "teaser": "Wir haben eine Jury gebeten, die neuen Trikots der Fußballbundesligisten modisch zu bewerten. Hier kommt die Style-Tabelle, von untragbar bis sehr cool",
       "url": "https://www.zeit.de/zeit-magazin/2024/38/fussball-trikots-bundesliga-mode",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024/38/die-tabelle-bild-1/wide__892x501"
+      "image_url": "https://img.zeit.de/zeit-magazin/2024/38/die-tabelle-bild-1/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Dukkah : Diese Gewürzmischung ist in der Küche viele Dukaten wert",
+      "teaser": "Ob in einem Dip oder über Ofengemüse: Die ursprünglich aus Ägypten stammende Gewürzmischung Dukkah wertet fast jedes Gericht auf – und ist schnell selbst gemacht.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-09/haselnuss-dukah-gewuerz-mischung-rezept",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-09/haselnuss-dukah-teaser/wide__892x501"
     },
     {
       "title": "Dürre : Wasserstand der Weichsel in Warschau fällt auf Rekordtief",
@@ -206,17 +201,17 @@
       "image_url": "https://img.zeit.de/wissen/umwelt/2024-09/weichsel-wasserstand-polen-rekort-tief-bild/super__430x286"
     },
     {
-      "title": "Weltrisikobericht 2024 : Wasserkrise macht Länder besonders verwundbar",
-      "teaser": "Katastrophen gefährden laut dem Weltrisikobericht 2024 vor allem Länder in Amerika und Asien. China verbessert seine Position deutlich, Deutschland bleibt im Mittelfeld.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/weltrisikobericht-2024-klimawandel-naturkatastophen-afrika-asien",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/weltrisikobericht-2024-asien-afrika/super__430x286",
-      "image_title": "Weltrisikobericht 2024 Asien Afrika"
+      "title": "Z+ (abopflichtiger Inhalt); Digitalisierung an Schulen : Tablets allein machen keinen besseren Unterricht",
+      "teaser": "Die Digitalisierung der Schulen hängt nicht an der Technik. Wir zählen eifrig Tablets, haben aber wenig Ahnung, was die Schulen damit sinnvoll machen sollen.",
+      "url": "https://www.zeit.de/2024/38/digitalisierung-schulen-bildung-unterricht-technik",
+      "image_url": "https://img.zeit.de/2024/38/digitalisierung-schulen-bildung-teaser/super__430x286"
     },
     {
-      "title": "Krankenhausgipfel in Berlin : Kliniken warnen vor großen Leistungseinschränkungen durch Klinikreform",
-      "teaser": "Die stationäre Versorgung in Kliniken soll verbessert werden. Doch vor dem Krankenhausgipfel schlagen die Kliniken Alarm. Es drohten Wartelisten und Einschränkungen.",
-      "url": "https://www.zeit.de/gesundheit/2024-09/krankenhausreform-kritik-karl-lauterbach-krankenhausgipfel",
-      "image_url": "https://img.zeit.de/gesundheit/2024-09/krankenhausreform-kritik-karl-lauterbach-krankenhausgipfel-bild/super__430x286"
+      "title": "Diese Woche in der ZEIT : Angst vor dem eigenen Volk?",
+      "teaser": "Der Erfolg von AfD und BSW im Osten stellt die Mitte-Parteien vor ein Dilemma: Sollen sie Populisten-Wähler ansprechen oder reden sie den Radikalen längst nach dem Mund?",
+      "url": "https://premium.zeit.de/abo/diezeit?aktionsnummer=1130785&wt_zmc=fix.int.zonpme.zeitde.epaper.z+.home.bildtext.bildtext&utm_medium=fix&utm_source=zeitde_zonpme_int&utm_campaign=epaper&utm_content=z+_home_bildtext_bildtext?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.link.link&utm_medium=cross&utm_source=zeitde_zonpme_int&utm_campaign=printbox&utm_content=ausgseite_bildtext_link_link",
+      "image_url": "https://img.zeit.de/2024/38/printbox/super__430x286",
+      "image_title": "DIE ZEIT 38/2024"
     },
     {
       "title": "Jerusalem : Netanjahu untersagt Ministern Tempelberg-Besuche ohne Genehmigung",
@@ -225,20 +220,26 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-09/netanjahu-untersagt-ministern-tempelberg-besuche-ohne-genehmigung-bild/super__430x286"
     },
     {
-      "title": "Russischer Militärgeheimdienst : Bundesverfassungsschutz warnt vor Cyberangriffen russischer Hacker",
-      "teaser": "Der Verfassungsschutz weist auf die Aktivitäten einer Einheit des russischen Militärgeheimdiensts hin. Sie soll Angriffe auf EU-Staaten und Einrichtungen der Nato planen.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/verfassungsschutz-warnung-cyberangriff-russland-hacker",
-      "image_url": "https://img.zeit.de/digital/2024-09/verfassungsschutz-warnung-cyberangriffe-russischer-hacker-bild-2/super__430x286"
-    },
-    {
       "title": "Ukrainekarte aktuell : Russische Truppen rücken in Torezk vor",
       "teaser": "In der Region Donezk besetzt Russland im Osten der Stadt Torezk weiteres Gelände. Auch bei Tschassiw Jar stoßen die russischen Streitkräfte vor.",
       "url": "https://www.zeit.de/politik/ausland/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen",
       "image_url": "https://img.zeit.de/politik/ausland/2023-09/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen-teaserbild/super__430x286"
     },
     {
-      "title": "Nahost : Syrien meldet 14 Tote durch israelischen Luftangriff",
-      "teaser": "Die israelische Luftwaffe soll im Nachbarland ein militärisches Forschungszentrum angegriffen haben. Dort sollen auch iranische Militärangehörige tätig gewesen sein.",
+      "title": "Waldbrand im Harz : Feuerwehr setzt wegen Feuers am Brocken Drohnen ein",
+      "teaser": "Regen hat die Lage am Brocken entspannt, doch an mindestens drei Stellen brennt es weiter. Wegen schlechter Sicht können derzeit keine Löschflugzeuge eingesetzt werden.",
+      "url": "https://www.zeit.de/wissen/umwelt/2024-09/brocken-waldbrand-drohnen",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-09/drei-brandstellen-am-brocken-drohneneinsatz-bild/super__320x213"
+    },
+    {
+      "title": "USA : Tausende Menschen in Kalifornien fliehen vor Waldbrand",
+      "teaser": "An der Westküste der USA brennen 80 Quadratkilometer Wald. Die Flammen sind außer Kontrolle, Schulen geschlossen. Tausende Menschen bringen sich in Sicherheit.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/kalifornien-waldbrand-feuer-los-angeles-san-bernardino-county-flucht",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-09/tausende-fliehen-feuer-kalifornien-bild/super__320x213"
+    },
+    {
+      "title": "Nahost : Viele Tote und Verletzte bei mutmaßlich israelischem Angriff in Syrien",
+      "teaser": "Israels Luftwaffe soll im Nachbarland eine vom Iran unterstützte Militäreinrichtung angegriffen haben. Das Regime in Teheran spricht von einer \"kriminellen\" Attacke.",
       "url": "https://www.zeit.de/politik/ausland/2024-09/syrien-israel-angriffe-forschungszentrum-iran-tote",
       "image_url": "https://img.zeit.de/politik/ausland/2024-09/syrien-meldet-14-tote-durch-israelischen-luftangriff-bild/super__320x213"
     },
@@ -249,8 +250,20 @@
       "image_url": "https://img.zeit.de/wirtschaft/2024-09/ifo-institut-bauindustrie-wohnungsbau-auftragsmangel-krise-bild/super__320x213"
     },
     {
+      "title": "Russischer Militärgeheimdienst : Bundesverfassungsschutz warnt vor Cyberangriffen russischer Hacker",
+      "teaser": "Der Verfassungsschutz weist auf die Aktivitäten einer Einheit des russischen Militärgeheimdiensts hin. Sie soll Angriffe auf EU-Staaten und Einrichtungen der Nato planen.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/verfassungsschutz-warnung-cyberangriff-russland-hacker",
+      "image_url": "https://img.zeit.de/digital/2024-09/verfassungsschutz-warnung-cyberangriffe-russischer-hacker-bild-2/super__320x213"
+    },
+    {
+      "title": "Bundesnetzagentur : Deutsche Post hat auf dem Land zu wenige Filialen",
+      "teaser": "Ab einer bestimmten Größe müssen deutsche Gemeinden mindestens eine Postfiliale vorweisen. Auf dem Land wird die Vorgabe an fast 150 Pflichtstandorten nicht eingehalten.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/deutsche-post-bundesnetzagentur-pflichtstandorte-postfilialen",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-09/141-orte-keine-postfiliale-bild/super__320x213"
+    },
+    {
       "title": "Yagi : Taifun über China und Vietnam war der stärkste seit Jahrzehnten",
-      "teaser": "Der Supertaifun Yagi hat Schiffe zum Sinken gebracht und viele Hektar Reisfelder geflutet. In Vietnam starben 35 Menschen, in China vier. Teile Vietnams sind ohne Strom.",
+      "teaser": "Der Supertaifun Yagi hat Schiffe zum Sinken gebracht und viele Hektar Reisfelder geflutet. In Vietnam starben 59 Menschen, in China vier. Teile Vietnams sind ohne Strom.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/taifun-yagi-china-vietnam-tote-verletzte",
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/taifun-yagi-china-vietnam-tote-verletzte-bild/super__320x213"
     },
@@ -261,41 +274,10 @@
       "image_url": "https://img.zeit.de/digital/2024-09/apple-iphone-apple-watch-neu-ki-bild/super__320x213"
     },
     {
-      "title": "Migration : Kommunen fordern Arbeitsgruppe für mehr Abschiebungen",
-      "teaser": "Die Städte und Gemeinden verlangen mehr Beteiligung an Migrationsberatungen. Die Gewerkschaft der Polizei pocht auf Rechtssicherheit für Zurückweisungen an den Grenzen.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/kommunen-forderung-task-force-abschiebungen",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/kommunen-forderung-task-force-abschiebungen-bild/super__320x213"
-    },
-    {
-      "title": "Bundeshaushalt : Bundestag debattiert nach Sommerpause erneut über den Haushalt",
-      "teaser": "Im Bundestag beginnt die Haushaltswoche. Die Grünen kündigen Veränderungen an der Vorlage an. Die CDU wirft der Ampelkoalition eine unseriöse Haushaltspolitik vor.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/haushalt-verhandlungen-bundestag-gruene-kindler-aenderungen",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/haushalt-verhandlungen-bundestag-gruene-kindler-aenderungen-bild-2/super__320x213"
-    },
-    {
-      "title": "Marokko : Mindestens zehn Tote nach Starkregen in Dürreregion",
-      "teaser": "In Marokko haben starke Niederschläge Überschwemmungen verursacht. Neun Menschen werden noch vermisst. Die Gebiete an der Grenze zu Algerien leiden unter Dürre.",
-      "url": "https://www.zeit.de/wissen/umwelt/2024-09/marokko-regen-duerre-tote",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2024-09/marokko-regen-duerre-tote-bild/super__320x213"
-    },
-    {
-      "title": "Flugzeugbauer : Boeing verspricht Beschäftigten 25 Prozent mehr Lohn",
-      "teaser": "Ein Einkommensplus von 25 Prozent, Verbesserungen bei Gesundheitskosten und Ruhestand liegen auf dem Tisch. Der Flugzeugbauer will damit einen drohenden Streik abwenden.",
-      "url": "https://www.zeit.de/wirtschaft/2024-09/boeing-beschaeftigte-lohnplus-25-prozent",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-09/boeing-einkommensplus-beschaeftigte-25-prozent-bild/super__320x213"
-    },
-    {
       "title": "Livepodcasts : Das Programm der ZEIT Podcast-Tour 2024",
       "teaser": "Seien Sie dabei und erleben Sie Ihren Lieblingspodcasts – live! Treffen Sie die Hosts in vielen Städten in Deutschland, Österreich und der Schweiz.",
       "url": "https://www.zeit.de/gesellschaft/2024-04/live-podcasts-zeit-tour-programm-2024",
       "image_url": "https://img.zeit.de/gesellschaft/2024-04/zeit-podcast-tour-2024-header/wide__892x501"
-    },
-    {
-      "title": "Diese Woche in der ZEIT : Angst vor dem eigenen Volk?",
-      "teaser": "Der Erfolg von AfD und BSW im Osten stellt die Mitte-Parteien vor ein Dilemma: Sollen sie Populisten-Wähler ansprechen oder reden sie den Radikalen längst nach dem Mund?",
-      "url": "https://premium.zeit.de/abo/diezeit?aktionsnummer=1130785&wt_zmc=fix.int.zonpme.zeitde.epaper.z+.home.bildtext.bildtext&utm_medium=fix&utm_source=zeitde_zonpme_int&utm_campaign=epaper&utm_content=z+_home_bildtext_bildtext?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.link.link&utm_medium=cross&utm_source=zeitde_zonpme_int&utm_campaign=printbox&utm_content=ausgseite_bildtext_link_link",
-      "image_url": "https://img.zeit.de/2024/38/printbox/super__430x286",
-      "image_title": "DIE ZEIT 38/2024"
     },
     {
       "title": "\"WHITE\" – Folge 1 : Hat dieser Mann jemanden umgebracht?",
@@ -396,9 +378,9 @@
       "image_url": "https://img.zeit.de/politik/deutschland/2024-09/bundeskanzler-olaf-scholz-umfragewerte-bild-2/super__430x286"
     },
     {
-      "title": "Haushalt 2025 : Union wirft Ampel beim Haushalt \"rechtlich zweifelhafte Manöver\" vor",
-      "teaser": "Kurz vor den Haushaltsberatungen erneuert die Union ihre Kritik an den Ampelplänen. Die Schuldenbremse werde nur auf dem Papier eingehalten.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/haushalt-bundestag-kritik-friedrich-merz"
+      "title": "Migrationspolitik : Söder und Lindner dringen auf drastische Reduktion der Asylanträge",
+      "teaser": "Bayerns Ministerpräsident will, dass in Deutschland jährlich weniger als 100.000 Asylerstanträge gestellt werden. Eine Zahl, die auch FDP-Chef Christian Lindner gefällt.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/soeder-lindner-asylerstantraege-einschraenkung-migrationspolitik"
     },
     {
       "title": "ZDF-Sommerinterview : Olaf Scholz reklamiert \"größte Wende\" in der Asylpolitik für sich",
@@ -412,16 +394,16 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-09/appalachen-usa-booneville-kentucky/wide__892x501"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Sahra Wagenknecht : Die neue Rolle der Sahra Wagenknecht",
+      "teaser": "In Talkshows auftreten: Dafür hat die BSW-Chefin schon lange ein Talent. Aber kann sie auch Machtlust ausstrahlen? Und will sie das überhaupt? Ein Abend bei Caren Miosga",
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/sahra-wagenknecht-bsw-caren-miosga",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/sahra-wagenknecht-bsw-caren-miosga-bild/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Sommer mit Kindern : Hurra, endlich nicht mehr an den See fahren müssen",
       "teaser": "Ab Montag ist dieser endlose Sommer vorbei. Bevor nun jemand schwermütig wird: Das schlechte Wetter birgt einige Vorteile, über die sich gerade Eltern freuen sollten.",
       "url": "https://www.zeit.de/familie/2024-09/sommer-kinder-vorbei-schule-beschaeftigung-eltern",
       "image_url": "https://img.zeit.de/familie/2024-09/sommer-kinder-vorbei-schule-beschaeftigung-eltern-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Olaf Scholz : Der Kanzler und die verbauten Aussichten",
-      "teaser": "Im ZDF-Sommerinterview erklärt Olaf Scholz in knapp 20 Minuten die vermeintlich in die Zukunft gerichtete Politik seiner Regierung. Wenn das mal alles gut geht.",
-      "url": "https://www.zeit.de/kultur/2024-09/olaf-scholz-sommerinterview-zdf-kanzler-spd",
-      "image_url": "https://img.zeit.de/kultur/2024-09/olaf-scholz-sommerinterview-zdf-kanzler-spd-bild/super__430x286"
     },
     {
       "title": "Verlagsangebot : 9 historische Altstädte in Deutschland",
@@ -496,10 +478,10 @@
       "image_url": "https://img.zeit.de/geld/2024-09/jung-kauft-alt-kfw-foerderung-finanzierung-immobilienkauf-bild/super__430x286"
     },
     {
-      "title": "Verlagsangebot : Einfach besser schreiben. Profitieren Sie vom Wissen der ZEIT-Autoren",
-      "teaser": "Entdecken Sie die Geheimnisse fesselnder Texte. ZEIT- & Bestsellerautorin Heike Faller zeigt Ihnen die Kunst starker Worte – egal ob Geschichten, E-Mails oder Grußkarten.",
+      "title": "Verlagsangebot : 5 Text-Tricks, die Ihr innerer Kritiker Ihnen nicht zeigen will",
+      "teaser": "Entdecken Sie die Geheimnisse starker Texte. ZEIT- & Bestsellerautorin Heike Faller zeigt Ihnen, wie Worte lebendig werden – egal ob Geschichten, E-Mails oder Grußkarten.",
       "url": "https://www.zeitakademie.de/e-mail-kurs-besser-schreiben/?icode=01w0387k1516inhrefall2409&utm_medium=referall&utm_source=zon&utm_campaign=emk_besser_schreiben&utm_content=01w0387k1516inhrefall2409&wt_zmc=refall.Ext.zabo.zon.emk_besser_schreiben.x",
-      "image_url": "https://img.zeit.de/angebote/Links/Bilder/akademie/2024/zak-besser-schreiben-6/super__430x286"
+      "image_url": "https://img.zeit.de/angebote/Links/Bilder/akademie/2024/zak-besser-schreiben-7/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Kräuterseitlingspesto : Pesto für Pilzpeople",
@@ -580,34 +562,28 @@
       "image_url": "https://img.zeit.de/politik/2024-08/was-jetzt-die-woche-constanze-moderation/super__320x213"
     },
     {
+      "title": "Migrationspolitik : Söder und Lindner dringen auf drastische Reduktion der Asylanträge",
+      "teaser": "Bayerns Ministerpräsident will, dass in Deutschland jährlich weniger als 100.000 Asylerstanträge gestellt werden. Eine Zahl, die auch FDP-Chef Christian Lindner gefällt.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/soeder-lindner-asylerstantraege-einschraenkung-migrationspolitik",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/asylbewerber-bayern-soeder-lindner-bild/wide__892x501"
+    },
+    {
       "title": "Nachrichtenpodcast : Gut erholt zum neuen Haushaltsstreit",
       "teaser": "Friedrich Merz kritisiert den Haushaltsentwurf der Bundesregierung als \"unseriös\". Hat er damit recht? Und: Saudi-Arabien wandelt sich, doch die Repression bleibt.",
       "url": "https://www.zeit.de/politik/2024-09/friedrich-merz-haushalt-kritik-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__892x501"
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__430x286"
     },
     {
-      "title": "Industrie : SPD fordert laut Bericht Strompreisbremse für angeschlagene Firmen",
-      "teaser": "Konzerne wie VW und Thyssenkrupp schwächeln, die Politik sieht den Wirtschaftsstandort Deutschland in Gefahr. Die SPD hat laut Medien eine Strompreisbremse gefordert.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/industrie-spd-strompreisbremse-vw-thyssenkrupp",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/industrie-spd-strompreisbremse-vw-thyssenkrupp-2/super__430x286"
-    },
-    {
-      "title": "Algerien : Tebboune gewinnt nach vorläufigen Ergebnissen Präsidentschaftswahl",
-      "teaser": "Abdelmadjid Tebboune bleibt wohl Präsident von Algerien. Mehr als 90 Prozent haben für ihn gestimmt, meldet die Wahlbehörde. Vorwürfe des Wahlbetrugs werden laut.",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/algerien-abdelmadjid-tebboune-praesidentschaftswahl",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/algerien-vorlaeufiges-ergebnis-wahl-tebboune-gewinner-bild/super__430x286"
+      "title": "Migration : Kommunen fordern Arbeitsgruppe für mehr Abschiebungen",
+      "teaser": "Die Städte und Gemeinden verlangen mehr Beteiligung an Migrationsberatungen. Die Gewerkschaft der Polizei pocht auf Rechtssicherheit für Zurückweisungen an den Grenzen.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/kommunen-forderung-task-force-abschiebungen",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/kommunen-forderung-task-force-abschiebungen-bild/super__430x286"
     },
     {
       "title": "Verlagsangebot : Das kleine Hauptstadt-Quiz",
       "teaser": "London, Dublin & Co.: Wie gut kennen Sie die Hauptstädte der englischsprachigen Welt? Testen Sie Ihr Wissen!",
       "url": "https://freundederzeit.typeform.com/englishcapitals",
       "image_url": "https://img.zeit.de/zeit-verlag/zeit-sprachen/bilder-englisch-quiz/englisch-quiz-teaserbild-woche-5/super__430x286"
-    },
-    {
-      "title": "Feuilletonpodcast : \"Dune\" und die Macht der Science-Fiction",
-      "teaser": "Ökologie, Macht, Technik: Was das Wüstenplanet-Epos \"Dune\" über unsere Gegenwart erzählt.",
-      "url": "https://www.zeit.de/kultur/2024-09/science-fiction-dune-feuilleton-podcast",
-      "image_url": "https://img.zeit.de/kultur/2022-09/podcast-die-sogenannte-gegenwart-2022-weisbrod-mangold/super__320x213"
     },
     {
       "title": "Bücher-Podcast : Geld beruhigt auch nicht immer",
@@ -646,6 +622,19 @@
       "image_url": "https://img.zeit.de/gesellschaft/2024-09/eric-pfeil-autor-wochenende-tipps-podcast-bild/super__320x213"
     },
     {
+      "title": "Erfolg von Rechtspopulismus : Hauptsache, die anderen sind die Deppen",
+      "teaser": "Die neuen Wahlerfolge der AfD: Wie blickt man in der Schweiz und Österreich darauf, wo rechtspopulistische Parteien schon lange erfolgreich sind? Außerdem: Paralympics",
+      "url": "https://www.zeit.de/gesellschaft/2024-09/erfolg-rechtspopulismus-afd-oesterreich-schweiz-alpenpodcast",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/erfolg-rechtspopulismus-afd/super__320x213"
+    },
+    {
+      "title": "Weltrisikobericht 2024 : Wasserkrise macht Länder besonders verwundbar",
+      "teaser": "Katastrophen gefährden laut dem Weltrisikobericht 2024 vor allem Länder in Amerika und Asien. China verbessert seine Position deutlich, Deutschland bleibt im Mittelfeld.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/weltrisikobericht-2024-klimawandel-naturkatastophen-afrika-asien",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/weltrisikobericht-2024-asien-afrika/super__430x286",
+      "image_title": "Weltrisikobericht 2024 Asien Afrika"
+    },
+    {
       "title": "Konzerte im Gefängnis : \"Diana, wann kommst du wieder?\"",
       "teaser": "Die Sängerin Diana Ezerex gibt seit Jahren regelmäßig Konzerte für Menschen in Haft. Was treibt sie an? Ein Gespräch übers Gefangensein und über die Freiheit in der Kunst",
       "url": "https://www.zeit.de/zeit-verbrechen/2024/28/konzerte-gefaegnis-musik-diana-ezerex",
@@ -658,17 +647,17 @@
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/waldbrand-harz-loescharbeiten-bild/super__430x286"
     },
     {
-      "title": "Kolumbien : Gericht ordnet Jagd auf Flusspferde von Drogenboss Escobar an",
-      "teaser": "Früher versetzte Kartellführer Pablo Escobar Kolumbien in Angst, heute tun es seine einstigen Haustiere: eine Herde Hippos. Nun sollen die Tiere getötet werden.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/kolumbien-flusspferde-pablo-escobar-gericht-toetung-invasive-art",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/hippos-pablo-escobar-bild/super__430x286"
-    },
-    {
       "title": "Riestern ohne Risiko : So geht Riestern ohne Risiko",
       "teaser": "Für die Alten steigen die Renten, für die Jungen steigt nur die Rentenlücke. Worauf sollten Menschen unter 40 bei der privaten Altersvorsorge achten?",
       "url": "https://www.zeit.de/wirtschaft/geldanlage/2024-06/private-altersvorsorge-riester-rente-rentenluecke-faq",
       "image_url": "https://img.zeit.de/wirtschaft/geldanlage/2024-06/private-altersvorsorge-riester-rente-rentenluecke-faq-teaser/wide__892x501",
       "image_title": "Für Mütter mit mehreren kleinen Kindern, die zum Beispiel wegen längerer Familienzeiten nur ein geringes Einkommen haben, lohnt sich eine Riester-Rente auch heute noch."
+    },
+    {
+      "title": "Flugzeugbauer : Boeing verspricht Beschäftigten 25 Prozent mehr Lohn",
+      "teaser": "Ein Einkommensplus von 25 Prozent, Verbesserungen bei Gesundheitskosten und Ruhestand liegen auf dem Tisch. Der Flugzeugbauer will damit einen drohenden Streik abwenden.",
+      "url": "https://www.zeit.de/wirtschaft/2024-09/boeing-beschaeftigte-lohnplus-25-prozent",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-09/boeing-einkommensplus-beschaeftigte-25-prozent-bild/super__430x286"
     },
     {
       "title": "Wirtschaftspodcast \"Ist das eine Blase?\" : Ist das für Amerika schon Kommunismus?",
@@ -683,24 +672,24 @@
       "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-09/oliver-blume-vw-bild-am-sonntag/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Geldanlage : Wer wirklich reich wird mit ETFs",
-      "teaser": "Mit ETFs zum Milliardär: Das gelingt nicht als Kunde, aber als Aktienhändler. Wie kaum regulierte US-Firmen an der Börse gerade Rekordgewinne machen.",
-      "url": "https://www.zeit.de/wirtschaft/boerse/2024-09/geldanlage-etf-markt-aktien-finanzen-kurs",
-      "image_url": "https://img.zeit.de/wirtschaft/boerse/2024-09/geldanlage-etf-markt-aktien-finanzen-kurs-bild/super__430x286"
-    },
-    {
-      "title": "VW-Sparprogramm : „Bei den Zulieferern schrillen die Alarmglocken“",
+      "title": "VW-Sparprogramm : „Wenn VW Rabatte verlangen würde, wäre das nicht akzeptabel“",
       "teaser": "Der VW-Konzern ist unzufrieden mit seinen Margen und will mit einem Sparprogramm nachsteuern. Christian Vietmeyer von der Arbeitsgemeinschaft Zulieferindustrie macht im Interview klar, dass bei ihnen nichts zu holen ist.",
-      "url": "https://www.wiwo.de/unternehmen/auto/vw-sparprogramm-bei-den-zulieferern-schrillen-die-alarmglocken/29975916.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
+      "url": "https://www.wiwo.de/unternehmen/auto/vw-sparprogramm-wenn-vw-rabatte-verlangen-wuerde-waere-das-nicht-akzeptabel/29975916.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
       "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/die-grammer-ag-produziert-weniger/29978138/2-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
-      "image_title": "„Bei den Zulieferern schrillen die Alarmglocken“"
+      "image_title": "„Wenn VW Rabatte verlangen würde, wäre das nicht akzeptabel“"
     },
     {
-      "title": "Europa-Park-Gründer : „Roland Mack ist positiv besessen von seinem Park“",
-      "teaser": "Roland Mack gründete seinen Europa-Park, als noch keiner an das Geschäft glaubte. Auch mit 75 lässt es ihn nicht los.",
-      "url": "https://www.wiwo.de/my/unternehmen/dienstleister/europa-park-gruender-roland-mack-ist-positiv-besessen-von-seinem-park/29979178.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/37_unt_park_02-_50-prozent-jpg/29979192/4-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
-      "image_title": "„Roland Mack ist positiv besessen von seinem Park“"
+      "title": "Physische Pentester : Der Mann, der sich für den TÜV in fremde Firmen einschleicht",
+      "teaser": "Die Gefahr durch Cyberangriffe bereitet Unternehmen immer größere Sorgen. Doch sie müssen auch physisch Zugänge zu Gebäuden, Computern und Dokumenten schützen. Ob das funktioniert, testet der TÜV auf ungewöhnliche Weise.",
+      "url": "https://www.wiwo.de/my/erfolg/trends/physische-pentester-der-mann-der-sich-fuer-den-tuev-in-fremde-firmen-einschleicht/29976562.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/pentester/29979216/1-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
+      "image_title": "Der Mann, der sich für den TÜV in fremde Firmen einschleicht"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Olaf Scholz : Der Kanzler und die verbauten Aussichten",
+      "teaser": "Im ZDF-Sommerinterview erklärt Olaf Scholz in knapp 20 Minuten die vermeintlich in die Zukunft gerichtete Politik seiner Regierung. Wenn das mal alles gut geht.",
+      "url": "https://www.zeit.de/kultur/2024-09/olaf-scholz-sommerinterview-zdf-kanzler-spd",
+      "image_url": "https://img.zeit.de/kultur/2024-09/olaf-scholz-sommerinterview-zdf-kanzler-spd-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Sunburn-Chic : Fifty Shades of Fleischfarben",
@@ -722,16 +711,22 @@
       "image_url": "https://img.zeit.de/kultur/kunst/2024-09/kuenstlerin-rebecca-horn-verstorben-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Gerhard Richter : Immer wich er aus ins Unerwartete",
-      "teaser": "Bis heute gilt Gerhard Richter vielen als Übermaler und Symbolfigur künstlerischer Freiheit. Doch das ist nur die halbe Wahrheit.",
-      "url": "https://www.zeit.de/2024/38/malerei-gerhard-richter-kunst-gemaelde-nacktheit",
-      "image_url": "https://img.zeit.de/2024/38/gerhard-richter-nackt-teaser/super__430x286"
+      "title": "An dieser Stelle ist ein externer Inhalt eingebunden",
+      "teaser": "Zum Anschauen benötigen wir Ihre Zustimmung",
+      "url": "https://www.zeit.de/video/2024-05/rassismus-europa-migration-iran-frankreich-deutschland",
+      "image_url": "https://img.zeit.de/video/2024-05/maryam-rassismus-london-auswanderung/wide__892x501"
+    },
+    {
+      "title": "Paris : Paralympische Sommerspiele feierlich beendet",
+      "teaser": "Die Paralympischen Sommerspiele in Paris sind festlich beendet worden. China konnte mit 220 Medaillen die meisten Erfolge verbuchen, Deutschland holte 49.",
+      "url": "https://www.zeit.de/video/2024-09/6361727423112/paris-paralympische-sommerspiele-feierlich-beendet",
+      "image_url": "https://img.zeit.de/video/2024-09/6361727423112-still/super__430x286"
     },
     {
       "title": "Krieg in der Ukraine : Ukraine meldet zwei Tote durch russischen Beschuss in Sumy",
       "teaser": "Ein älteres Ehepaar ist der Ukraine zufolge bei einem Angriff Russlands getötet worden. In der nordöstlichen Region sind wohl vier weitere Menschen verletzt worden.",
       "url": "https://www.zeit.de/video/2024-09/6361697010112/krieg-in-der-ukraine-ukraine-meldet-zwei-tote-durch-russischen-beschuss-in-sumy",
-      "image_url": "https://img.zeit.de/video/2024-09/6361697010112-still/wide__892x501"
+      "image_url": "https://img.zeit.de/video/2024-09/6361697010112-still/super__430x286"
     },
     {
       "title": "Bolivien : Bolivien erklärt nationalen Notstand wegen Waldbränden",
@@ -740,16 +735,10 @@
       "image_url": "https://img.zeit.de/video/2024-09/6361694599112-still/super__430x286"
     },
     {
-      "title": "Klimakrise : Sommer 2024 war der heißeste seit Beginn der Aufzeichnungen",
-      "teaser": "Zwischen Juni und August lagen die Durchschnittstemperaturen weltweit auf einem neuen Rekordhoch. Damit ist der Sommer 2024 der heißeste seit Aufzeichnungsbeginn.",
-      "url": "https://www.zeit.de/video/2024-09/6361594418112/klimakrise-sommer-2024-war-der-heisseste-seit-beginn-der-aufzeichnungen",
-      "image_url": "https://img.zeit.de/video/2024-09/6361594418112-still/super__430x286"
-    },
-    {
-      "title": "Landtagswahlen : Wahl in Sachsen und Thüringen: Was die Menschen vor Ort bewegt",
-      "teaser": "Die Wahllokale sind geschlossen. Wir haben in Sachsen und Thüringen Menschen auf der Straße gefragt, was sie bei ihrer Wahlentscheidung beeinflusst hat.",
-      "url": "https://www.zeit.de/video/2024-09/sachsen-thueringen-video-umfrage-wahl",
-      "image_url": "https://img.zeit.de/video/2024-09/sachsen-thueringen-voxpops/super__430x286"
+      "title": "Marokko : Mindestens zehn Tote nach Starkregen in Dürreregion",
+      "teaser": "In Marokko haben starke Niederschläge Überschwemmungen verursacht. Neun Menschen werden noch vermisst. Die Gebiete an der Grenze zu Algerien leiden unter Dürre.",
+      "url": "https://www.zeit.de/wissen/umwelt/2024-09/marokko-regen-duerre-tote",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2024-09/marokko-regen-duerre-tote-bild/super__430x286"
     },
     {
       "title": "Waldbrand im Harz : Brand am Brocken ist laut Behörden unter Kontrolle",
@@ -768,12 +757,6 @@
       "teaser": "20 Meter lang, 15 Tonnen schwer: In Spanien ist das Skelett eines gewaltigen, bisher unbekannten Pflanzenfressers entdeckt worden, der vor etwa 75 Millionen Jahren lebte.",
       "url": "https://www.zeit.de/wissen/2024-09/dinosaurier-pflanzenfresser-fund-spanien",
       "image_url": "https://img.zeit.de/wissen/2024-09/langhalsdinosaurier-spanien-fund-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Ostsee : Kann ein Meer einfach kaputtgehen?",
-      "teaser": "Die Ostsee droht zu ersticken, und das liegt vor allem an der Landwirtschaft. Hoffnung verspricht nun ein Halm.",
-      "url": "https://www.zeit.de/2024/38/ostsee-meer-umweltschutz-wasserqualitaet-verschmutzung",
-      "image_url": "https://img.zeit.de/2024/38/ostsee-meer-umweltschutz-wasserqualitaet-teaserbild/super__430x286"
     },
     {
       "title": "Sommerliche Drinks entdecken",
@@ -824,22 +807,22 @@
       "image_url": "https://img.zeit.de/administratives/2015-10/zeit-shop-bilder/kug-neu.jpg/super__320x213"
     },
     {
+      "title": "Krankenhausgipfel in Berlin : Kliniken warnen vor großen Leistungseinschränkungen durch Klinikreform",
+      "teaser": "Die stationäre Versorgung in Kliniken soll verbessert werden. Doch vor dem Krankenhausgipfel schlagen die Kliniken Alarm. Es drohten Wartelisten und Einschränkungen.",
+      "url": "https://www.zeit.de/gesundheit/2024-09/krankenhausreform-kritik-karl-lauterbach-krankenhausgipfel",
+      "image_url": "https://img.zeit.de/gesundheit/2024-09/krankenhausreform-kritik-karl-lauterbach-krankenhausgipfel-bild/wide__892x501"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Narzissmus : Wir sind alle Narzissten",
       "teaser": "Aber wir sind es unterschiedlich stark. Hier erklärt der Psychologe Mitja Back, ab wann aus der Eigenschaft eine Krankheit wird. Und welchen Einfluss Eltern darauf haben.",
       "url": "https://www.zeit.de/2024/38/narzissmus-psychologie-persoenlichkeitsstoerung-charakter-beziehung",
-      "image_url": "https://img.zeit.de/2024/38/narzissmus-psychologie-persoenlichkeitsstoerung-charakter-beziehung-bild/wide__892x501"
+      "image_url": "https://img.zeit.de/2024/38/narzissmus-psychologie-persoenlichkeitsstoerung-charakter-beziehung-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Chorea Huntington : Und plötzlich: Hoffnung",
       "teaser": "Chorea Huntington ist eine Erbkrankheit, für die es bisher keine wirksame Behandlung gibt. Doch jetzt könnte der Durchbruch gelingen – für dieses und andere Nervenleiden.",
       "url": "https://www.zeit.de/2024/38/chorea-huntington-erbkrankheit-therapie-rna-medizin-forschung",
       "image_url": "https://img.zeit.de/2024/38/chorea-huntington-erbkrankheit-teaserbild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Gewicht abnehmen : \"Ich empfehle, maximal ein bis zwei Kilo pro Monat abzunehmen\"",
-      "teaser": "Crashdiäten und Abnehmspritzen versprechen schnelles Abnehmen. Und dann? Ein Ernährungswissenschaftler erklärt, wie man sein Gewicht langfristig hält.",
-      "url": "https://www.zeit.de/gesundheit/2024-09/gewicht-abnehmen-crash-diaeten-abnehmspritzen-ernaehrung",
-      "image_url": "https://img.zeit.de/gesundheit/2024-09/gewicht-abnehmen-crash-diaeten-abnehmspritzen-ernaehrung-bild/super__430x286"
     },
     {
       "title": "Loop Earplugs : Die Stress-weg-Stecker",
@@ -891,11 +874,11 @@
       "image_url": "https://img.zeit.de/gesellschaft/2024-08/studenten-azubis-besonders-armutsgefaehrdet-hohe-wohnkosten-bild/wide__892x501"
     },
     {
-      "title": "Verlagsangebot : Persönlichkeit als Door Opener",
-      "teaser": "Immer mehr Unternehmen setzen bei ihren Bewerbern auf die Persönlichkeit. Auf der Suche nach einem Job stellt der Berufstest die eigenen Stärken in den Mittelpunkt.",
-      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.textbild.frau-smartphone_dooropener.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=bot_textbild_frau-smartphone_dooropener_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-boa-index-teaser-1-klein/bruce-mars-fwvmhua-wby-unsplash.jpg",
-      "image_title": "Persönlichkeit als Door Opener"
+      "title": "Verlagsangebot : Welcher Studiengang passt zu mir?",
+      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
+      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.bildtext.allein.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=campus-verlagsteaser&amp;utm_content=sit_bildtext_allein_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/sit-gruppe/wide__430x286__desktop",
+      "image_title": "Welcher Studiengang passt zu mir?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Herausforderung in Karriere und Leben : Die Strategien der Hürdenläufer",
@@ -922,10 +905,10 @@
       "image_url": "https://img.zeit.de/2024/38/bars-tallinn-restaurant-teaser/super__430x286"
     },
     {
-      "title": "Anzeige : Reisen mit der ZEIT",
-      "teaser": "Entdecken Sie unsere Reisen. Exklusive Inhalte, besondere Begegnungen und außergewöhnliche Reiseleiter versprechen ein unvergessliches Erlebnis. Hier entdecken!",
-      "url": "https://zeitreisen.zeit.de/?utm_medium=display&utm_source=zeit_online&utm_campaign=rotation_startseite_Reisen&utm_content=rotation_startseite_Reisen",
-      "image_url": "https://img.zeit.de/angebote/Links/bilder-zeit-reisen/bilder-2023/freunde-am-tisch-c-solstock-istock-611076216-standardlizenz-1160x656/super__430x286"
+      "title": "Anzeige : ZEIT REISEN Individualreisen",
+      "teaser": "Reisen Sie in Ihrem eigenen Tempo mit Ihrem Partner, Freunden oder der Familie. Wir geben Ihnen ausgearbeitete Programme und Routenvorschläge an die Hand. Hier entdecken!",
+      "url": "https://zeitreisen.zeit.de/reiseuebersicht/individualreisen/?utm_medium=display&utm_source=zeit_online&utm_campaign=rotation_individualreisen&utm_content=rotation_individualreisen",
+      "image_url": "https://img.zeit.de/angebote/Links/bilder-zeit-reisen/bilder-2023/nordspanien-c-mimadeo-istock-467204776-erweiterte-lizenz-207-aufmacher-1160x656/super__430x286"
     },
     {
       "title": "Automobilindustrie : Ampel sieht bei Volkswagen-Krise EU-Kommission in der Pflicht",
@@ -964,36 +947,36 @@
       "image_url": "https://img.zeit.de/sport/2024-09/paralympics-2/super__430x286"
     },
     {
-      "title": "Frauenanteil gestiegen: Deutlich mehr Professorinnen an Thüringer Hochschulen",
-      "url": "https://www.zeit.de/news/2024-09/09/deutlich-mehr-professorinnen-an-thueringer-hochschulen"
+      "title": "Sperrung ab Elmshorn: Nach E-Bus-Brand - Züge sollen ab Dienstag wieder fahren",
+      "url": "https://www.zeit.de/news/2024-09/09/nach-e-bus-brand-zuege-sollen-ab-dienstag-wieder-fahren"
     },
     {
-      "title": "Anzeigenerstattung: Mutter zeigt eigenen Sohn wegen Schlagrings an",
-      "url": "https://www.zeit.de/news/2024-09/09/mutter-zeigt-eigenen-sohn-wegen-schlagrings-an"
+      "title": "Briefe und Pakete: Drei Orte in Thüringen ohne vorgeschriebene Postfiliale",
+      "url": "https://www.zeit.de/news/2024-09/09/drei-orte-in-thueringen-ohne-vorgeschriebene-postfiliale"
     },
     {
-      "title": "Mutmaßlicher Terroranschlag: Ermittler vernehmen etwa 100 Zeugen zu Schüssen in München",
-      "url": "https://www.zeit.de/news/2024-09/09/ermittler-vernehmen-etwa-100-zeugen-zu-schuessen-in-muenchen"
+      "title": "Betrugsprozess: Schneeballsystem mit 17 Millionen Schaden vor Gericht",
+      "url": "https://www.zeit.de/news/2024-09/09/schneeballsystem-mit-17-millionen-schaden-vor-gericht"
     },
     {
-      "title": "Nahost: Sorge vor Eskalation zwischen Israel und Hisbollah",
-      "url": "https://www.zeit.de/news/2024-09/09/sorge-vor-eskalation-zwischen-israel-und-hisbollah"
+      "title": "Finanzen: Grundsteuer: Streit um Veröffentlichung von Register",
+      "url": "https://www.zeit.de/news/2024-09/09/grundsteuer-streit-um-veroeffentlichung-von-register"
     },
     {
-      "title": "Paralympics: Traum von Spielen in Deutschland: «Bitte unterstützt das»",
-      "url": "https://www.zeit.de/news/2024-09/09/traum-von-spielen-in-deutschland-bitte-unterstuetzt-das"
+      "title": "Messerverbotszonen: Kreise sind bei Waffenverbotszonen zurückhaltend",
+      "url": "https://www.zeit.de/news/2024-09/09/kreise-sind-bei-waffenverbotszonen-zurueckhaltend"
     },
     {
-      "title": "Nach Suchaktion: Tote Frau in Bellheim war vermisste Heimbewohnerin",
-      "url": "https://www.zeit.de/news/2024-09/09/tote-frau-in-bellheim-war-vermisste-heimbewohnerin"
+      "title": "Militärverbände: Soldaten auf Rückreise von Nato-Übung",
+      "url": "https://www.zeit.de/news/2024-09/09/soldaten-auf-rueckreise-von-nato-uebung"
     },
     {
-      "title": "Notfall am Fluss: Auto kippt mit zwei Insassen in den Main",
-      "url": "https://www.zeit.de/news/2024-09/09/auto-kippt-mit-zwei-insassen-in-den-main"
+      "title": "Angriff: Mann nach Attacke auf zwei Frauen festgenommen",
+      "url": "https://www.zeit.de/news/2024-09/09/mann-nach-attacke-auf-zwei-frauen-festgenommen"
     },
     {
-      "title": "Kriminalität: Mutmaßlicher Mord an Achtjähriger wühlt die Türkei auf",
-      "url": "https://www.zeit.de/news/2024-09/09/mutmasslicher-mord-an-achtjaehriger-wuehlt-die-tuerkei-auf"
+      "title": "Leipzig: Frau an Haltestelle lebensgefährlich verletzt: Zeugenaufruf",
+      "url": "https://www.zeit.de/news/2024-09/09/frau-an-haltestelle-lebensgefaehrlich-verletzt-zeugenaufruf"
     }
   ]
 }
