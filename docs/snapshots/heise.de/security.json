@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-09T08:10:43",
+  "timestamp": "2024-09-09T09:00:45",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Kibana",
+      "url": "https://www.heise.de/news/Schadcode-Luecken-gefaehrden-Visualiserungsplattform-Kibana-9861621.html"
+    },
+    {
       "title": "Sonicwall-Firewalls",
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Firewalls-von-Sonicwall-9861528.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/WordPress-Plug-in-LiteSpeed-Cache-erneut-angreifbar-9859538.html"
     },
     {
-      "title": "Apache OFBiz",
-      "url": "https://www.heise.de/news/Apache-OFBiz-Aktueller-Sicherheitspatch-repariert-aeltere-Patches-9859389.html"
+      "title": "Schadcode-Lücken gefährden Visualiserungsplattform Kibana",
+      "teaser": "Ein Sicherheitsupdate schließt zwei kritische Sicherheitslücken in Kibana.",
+      "url": "https://www.heise.de/news/Schadcode-Luecken-gefaehrden-Visualiserungsplattform-Kibana-9861621.html",
+      "image_title": "Knopf für ein Update"
     },
     {
       "title": "Jetzt patchen! Angreifer attackieren Firewalls von Sonicwall",
@@ -66,9 +72,10 @@
       "image_title": "Brennende NAS-Systeme"
     },
     {
-      "title": "Jetzt buchen: heise security Tour 2024 online",
-      "teaser": "Die Ein-Tages-Konferenz von heise security vermittelt den Überblick und praxisrelevantes Wissen zu den wichtigen Security-Themen – online und 100% unabhängig.",
-      "url": "https://www.heise.de/news/Jetzt-buchen-heise-security-Tour-2024-online-9855668.html"
+      "title": "Android-Malware: SpyAgent stiehlt Zugangsdaten zu Krypto-Wallets",
+      "teaser": "SpyAgent nutzt Texterkennung per OCR, um aus Bildschirmfotos auf Mobilgeräten Wiederherstellungsphrasen für Krypo-Wallets zu erbeuten.",
+      "url": "https://www.heise.de/news/Android-Malware-SpyAgent-stiehlt-Zugangsdaten-zu-Krypto-Wallets-aus-9861205.html",
+      "image_title": "Ein leuchtendes Warnschild auf einem Design-Hintergrund."
     },
     {
       "title": "iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response (DFIR)",
@@ -157,12 +164,6 @@
       "teaser": "Kriminelle behaupten, im Besitz von Videos zu sein, in denen sich Menschen selbst befriedigen. Zudem schicken sie in der E-Mail ein Foto der Umgebung mit.",
       "url": "https://www.heise.de/news/Sextortion-Faelle-in-den-USA-Kriminelle-schicken-Bilder-von-der-Umgebung-mit-9857881.html",
       "image_title": "Hand auf der Tastatur"
-    },
-    {
-      "title": "Yubikey-Lücke: Hersteller will weder Update noch generell Ersatz bereitstellen",
-      "teaser": "Yubico plant auch künftig keine Firmware-Updates für verwundbare Yubikeys. Über einen Ersatz will das Unternehmen im Einzelfall entscheiden.",
-      "url": "https://www.heise.de/news/Yubikey-Cloning-Angriff-Kein-Firmware-Update-vielleicht-Key-Austausch-9857807.html",
-      "image_title": "Ein Krimineller untersucht einen USB-Dongle, rundherum Sicherheitssymbole"
     },
     {
       "title": "NTLM–Webinar",
