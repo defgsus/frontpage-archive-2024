@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-10T07:00:43",
+  "timestamp": "2024-09-10T08:09:20",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,14 +26,36 @@
   ],
   "articles": [
     {
+      "title": "Künstliche Intelligenz und ihre Rolle in wissenschaftlichen Publikationen",
+      "teaser": "Der letzte Schritt beim wissenschaftlichen Arbeiten ist die Publikation. KI scheint wie gemacht, um den Inhalt zu begutachten. Doch oft ist das keine gute Idee.",
+      "url": "https://www.heise.de/hintergrund/Kuenstliche-Intelligenz-und-ihre-Rolle-in-wissenschaftlichen-Publikationen-9859351.html"
+    },
+    {
       "title": "Wie NIS2 Zulieferer und Dienstleister unter Druck setzt",
       "teaser": "In diesem Artikel beleuchten wir, warum die Regulierung Lieferanten und Drittdienstleister früher trifft als die direkt Verpflichteten.",
       "url": "https://www.heise.de/hintergrund/Wie-NIS2-Zulieferer-und-Dienstleister-unter-Druck-setzt-9858310.html"
     },
     {
-      "title": "Apple II: Nostalgische Zeitreise und Interview mit Zeitzeuge John Romero",
-      "teaser": "Als man mit 4K nicht die Auflösung, sondern die Größe des Arbeitsspeichers beschrieb, erschien mit dem Apple II der einflussreichste Computer aller Zeiten.",
-      "url": "https://www.heise.de/ratgeber/Apple-II-Nostalgische-Zeitreise-und-Interview-mit-Zeitzeuge-John-Romero-9847196.html",
+      "title": "Joint-Venture baut nachhaltige Rechenzentren in Deutschland",
+      "teaser": "Der Baukonzern Hochtief und der bayrische Serverhersteller Thomas-Krenn gründen ein Joint-Venture für Rechenzentren auch mit effizienter Wasserkühlung.",
+      "url": "https://www.heise.de/news/Joint-Venture-baut-nachhaltige-Rechenzentren-in-Deutschland-9862322.html",
+      "image_title": "Rendering des Rechenzentrums Yexio in Heiligenhaus"
+    },
+    {
+      "title": "heise security Webinar: Geräte im Unternehmensnetz sicher betreiben",
+      "teaser": "IoT-Geräte stellen eine massiv unterschätzte Gefahr für Unternehmens-IT dar. Doch mit dem Hintergrundwissen aus diesem Webinar bekommen Admins das in den Griff.",
+      "url": "https://www.heise.de/news/heise-security-Webinar-Geraete-im-Unternehmensnetz-sicher-betreiben-9857459.html"
+    },
+    {
+      "title": "Ein Überblick über C++26: die arithmetische Erweiterung in der Bibliothek",
+      "teaser": "Verglichen mit den bisherigen Versionen der Programmiersprache gewinnt C++26 deutlich an mathematischen Fähigkeiten hinzu.",
+      "url": "https://www.heise.de/blog/Ein-Ueberblick-ueber-C-26-die-arithmetische-Erweiterung-in-der-Bibliothek-9856919.html",
+      "image_title": "Ein Abakus auf einem Blatt mit Zahlen"
+    },
+    {
+      "title": "Mini-PC im Test: x86-Barebone Minisforum MS-01-S1260",
+      "teaser": "Minisforums MS-01 ragt mit seinen beiden SFP+-Slots für 10 Gbit/s aus der Barebone-Flut heraus. Wir haben ihn mit vier Betriebssystemen ausprobiert.",
+      "url": "https://www.heise.de/tests/Mini-PC-im-Test-x86-Barebone-Minisforum-MS-01-S1260-9859575.html",
       "image_title": ","
     },
     {
@@ -99,29 +121,6 @@
       "teaser": "Eine Umfrage des Bundesamtes für Sicherheit in der Informationstechnik hat ergeben, dass für drei Viertel der Verbraucher IT-Sicherheit kaufentscheidend ist.",
       "url": "https://www.heise.de/news/BSI-Umfrage-IT-Sicherheit-beim-Geraetekauf-entscheidend-9862479.html",
       "image_title": "BSI-Gebäude"
-    },
-    {
-      "title": "Programmieren für die Umwelt: 48-stündiger Hackathon in Mannheim",
-      "teaser": "Das Hackfestival in Mannheim bot Entwicklerinnen und Entwicklern die Chance, ihre Fähigkeiten in sechs Coding-Challenges für mehr Nachhaltigkeit einzusetzen.",
-      "url": "https://www.heise.de/news/Programmieren-fuer-die-Umwelt-48-stuendiger-Hackathon-in-Mannheim-9862230.html"
-    },
-    {
-      "title": "EuGH entscheidet Dienstag: Muss Apple 13 Milliarden Steuern nachzahlen?",
-      "teaser": "Am Dienstag wird die nächste Entscheidung in einem langjährigen Rechtsstreit erwartet. Die EU-Kommission will, dass Apple Steuern in Milliardenhöhe nachzahlt.",
-      "url": "https://www.heise.de/news/EU-Gericht-entscheidet-Dienstag-Muss-Apple-13-Milliarden-Steuern-nachzahlen-9862310.html",
-      "image_title": "Europa EuGH Justiz Europarecht"
-    },
-    {
-      "title": "Loadbalancer: Angreifer können LoadMaster kompromittieren",
-      "teaser": "Es sind wichtige Sicherheitspatches für LoadMaster und MultiTenant Hypervisor von Progress Kemp erschienen.",
-      "url": "https://www.heise.de/news/Loadbalancer-Angreifer-koennen-LoadMaster-kompromittieren-9862252.html",
-      "image_title": "Stilisiertes Bild: Ein Stapel brennender Appliances"
-    },
-    {
-      "title": "Mini-PC MSI Cubi NUC 1M im Test: Intel Ultra 7, Arc & zwei Thunderbolt-Ports",
-      "teaser": "Der Hersteller von Gaming-Hardware MSI setzt im Cubi NUC 1M auf Intel. Ob sich der Mini-PC lohnt und er sich auch zum Zocken eignet, zeigt TechStage im Test.",
-      "url": "https://www.techstage.de/test/mini-pc-msi-cubi-nuc-1m-im-test-intel-ultra-7-arc-und-zwei-thunderbolt-ports/pkn7h1z?wt_mc=intern.red.techstage.newsticker.rubrikstart.teaser.teaser",
-      "image_title": "##PHxVALUE_ALT_TEXT##"
     },
     {
       "title": "Zahlreiche Bestwerte",
