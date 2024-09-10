@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-10T15:01:43",
+  "timestamp": "2024-09-10T16:07:27",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -54,6 +54,12 @@
       "text": null
     },
     {
+      "type": "module",
+      "src": "https://interactive.zeit.de/g/2024/us-wahl-polls/static/assets/dashboard.xjeNDCR7.mjs",
+      "id": null,
+      "text": null
+    },
+    {
       "type": null,
       "src": "https://live0.zeit.de/zon-er/pland-dash-scripts.js",
       "id": null,
@@ -98,16 +104,29 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Umfragen vor der US-Wahl : Knapper geht es nicht",
-      "teaser": "Kamala Harris hat Bewegung in die US-Wahlumfragen gebracht. Doch Donald Trump scheint sich vom Schock der neuen Gegnerin zu erholen. Bringt das TV-Duell die Entscheidung?",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/us-wahl-umfragen-kamala-harris-donald-trump-tv-duell",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/2024-09-us-wahl-umfragen-kamala-harris-donald-trump-tv-duell-teaserbild/wide__1000x562"
+      "title": "Migrationsdebatte : Union bricht Migrationsgespräche mit der Regierung ab",
+      "teaser": "Die Bundesregierung zeigte sich zuletzt offen für Zurückweisungen von Asylbewerbern an der Grenze. Der Union geht das nicht weit genug. Verhandlungen wurden beendet.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/union-bricht-migrationsgespraeche-mit-der-regierung-ab",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/migrationsgespraeche-migrationspolitik/wide__1000x562",
+      "image_title": "Migrationsgespräche Migrationspolitik"
     },
     {
       "title": "Migrationsdebatte : Faeser will Asylgesuche schon an der Grenze prüfen",
       "teaser": "Bundesinnenministerin Nancy Faeser hat mit der Unionsfraktion über die Prüfung von Asylgesuchen an der Grenze geredet. Gegen Zurückweisungen gibt es rechtliche Bedenken.",
       "url": "https://www.zeit.de/politik/deutschland/2024-09/bundesinnenministerium-faeser-nancy-grenzkontrollen-zurueckweisung-eu-kommission",
       "image_url": "https://img.zeit.de/politik/deutschland/2024-09/nancy-faeser-grenzverfahren-asylsuchende/super__430x286"
+    },
+    {
+      "title": "Zurückweisungen : Grenzkontrollen müssen laut EU-Kommission \"absolute Ausnahme\" bleiben",
+      "teaser": "Die EU-Kommission erinnert an den Ausnahmecharakter von Grenzkontrollen im Schengenraum. Polens Regierung nennt die geplante Maßnahme der Bundesregierung \"inakzeptabel\".",
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/grenzkontrollen-eu-polen-baerbock",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/grenzkontrollen-eu-polen-baerbock-bundespolizei/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Umfragen vor der US-Wahl : Knapper geht es nicht",
+      "teaser": "Kamala Harris hat Bewegung in die US-Wahlumfragen gebracht. Doch Donald Trump scheint sich vom Schock der neuen Gegnerin zu erholen. Bringt das TV-Duell die Entscheidung?",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/us-wahl-umfragen-kamala-harris-donald-trump-tv-duell",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/2024-09-us-wahl-umfragen-kamala-harris-donald-trump-tv-duell-teaserbild/super__430x286"
     },
     {
       "title": "Sparkurs : Volkswagen kündigt Tarifvertrag für Beschäftigungssicherung",
@@ -122,6 +141,12 @@
       "image_url": "https://img.zeit.de/mobilitaet/2024-09/volkswagen-krise-autoindustrie-elektroautos/wide__892x501"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); EuGH-Urteile : Vestagers Vermächtnis",
+      "teaser": "Google und Apple müssen Milliarden an die EU zahlen. Damit zeigt Wettbewerbshüterin Margrethe Vestager zum Abschied, was Regulierung kann: einiges – und doch zu wenig.",
+      "url": "https://www.zeit.de/digital/internet/2024-09/eugh-urteile-google-apple-margrethe-vestager-strafen",
+      "image_url": "https://img.zeit.de/digital/2024-09/eu-wettbewerbskommissarin-margarethe-vestager-urteil/super__430x286"
+    },
+    {
       "title": "Liveblog:Ukrainekrieg : Russland startet Manöver mit mehr als 400 Kriegsschiffen",
       "teaser": "Mehr als 400 russische Schiffe und 90.000 Personen sind an einem von Putin eröffneten Manöver beteiligt. Lettland verlängert den Grenzschutz zu Belarus. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
@@ -134,10 +159,16 @@
       "image_url": "https://img.zeit.de/kultur/2024-09/seyla-benhabib-israel-krieg-judeo-faschismus-zionismus-3/wide__892x501"
     },
     {
-      "title": "DDR-Bürgerrechtler : Theologe Friedrich Schorlemmer ist tot",
-      "teaser": "Durch seine Aktion \"Schwerter zu Pflugscharen\" wurde Friedrich Schorlemmer bekannt. Er setzte sich für die Demokratisierung der DDR ein. Nun ist der Theologe gestorben.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/ddr-buergerrechtler-theologe-friedrich-schorlemmer-tot",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/ddr-buergerrechtler-theologe-friedrich-schorlemmer-tot-bild/super__430x286"
+      "title": "Paralympics-Häme : Veranstalter sagen Tourtermine von Luke Mockridge ab",
+      "teaser": "Trotz ausverkaufter Auftritte haben Veranstalter Tourtermine von Luke Mockridge gestrichen. Grund sind seine beleidigenden Aussagen über Para-Athleten.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/paralympics-haeme-luke-mockridge-tour-absage",
+      "image_url": "https://img.zeit.de/kultur/2024-09/paralympics-haeme-luke-mockridge-tour-absage/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Eltern-Burn-out : Warum sind Eltern hier so gestresst?",
+      "teaser": "Die Diagnose Eltern-Burn-out steigt weltweit. Doch nirgends sind die Zahlen so hoch wie in manchen westlichen Industrieländern. Was deutsche Eltern ausbrennen lässt.",
+      "url": "https://www.zeit.de/familie/2024-07/eltern-burnout-stress-belastung-alltag-kinder",
+      "image_url": "https://img.zeit.de/familie/2024-08/eltern-burnout-stress-belastung-alltag/super__430x286"
     },
     {
       "title": "Bundeshaushalt : Das ist die wichtigste Schwachstelle des Haushalts",
@@ -146,10 +177,16 @@
       "image_url": "https://img.zeit.de/wirtschaft/2024-09/bundeshaushalt-haushaltswoche-parlament-bundesverfassungsgericht-christian-lindner-bild/super__430x286"
     },
     {
-      "title": "Paralympics-Häme : Veranstalter sagen Tourtermine von Luke Mockridge ab",
-      "teaser": "Trotz ausverkaufter Auftritte haben Veranstalter Tourtermine von Luke Mockridge gestrichen. Grund sind seine beleidigenden Aussagen über Para-Athleten.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/paralympics-haeme-luke-mockridge-tour-absage",
-      "image_url": "https://img.zeit.de/kultur/2024-09/paralympics-haeme-luke-mockridge-tour-absage/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Gehirne von Jugendlichen : Wie die Pandemie auf jugendliche Gehirne wirkte",
+      "teaser": "Ängste, Depressionen, Essstörungen: Die Pandemie hat Jugendlichen aufs Gemüt geschlagen. Eine neue Studie zeigt nun: Sogar ihre Gehirne alterten schneller. Was ist dran?",
+      "url": "https://www.zeit.de/gesundheit/2024-09/gehirn-jugendliche-studie-forschung-alterung-corona-pandemie",
+      "image_url": "https://img.zeit.de/gesundheit/2024-09/gehirn-jugendliche-studie-forschung-alterung-corona-pandemie-bild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Hobbys : Was gibt Kraft, wenn es einem dreckig geht?",
+      "teaser": "In harten Momenten hilft, was vermeintlich sinnlos ist: Warum Leidenschaften wie Fliegenfischen, Zocken und Eishockeygucken das Leben erst lebenswert machen.",
+      "url": "https://www.zeit.de/zeit-magazin/2024-09/hobbys-sinn-entspannung-entlastung-eishockey-stress",
+      "image_url": "https://img.zeit.de/zeit-verlag/2024-09/hobbys-sinn-entspannung-entlastung-eishockey-stress-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Verhalten als Gast : 44 Dinge, die jeder gute Gast wissen sollte",
@@ -158,16 +195,10 @@
       "image_url": "https://img.zeit.de/2024-09/44-dinge-die-jeder-gast-wissen-sollte-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Rückenschmerzen und Sport : \"Unser Lebensstil wirkt sich auf nichts so aus wie auf den Rücken\"",
-      "teaser": "Fast jeder hat im Laufe seines Lebens Rückenschmerzen. Dagegen hilft am besten: Sport. Zwei Experten verraten, warum es Quatsch ist, alles mit geradem Rücken aufzuheben.",
-      "url": "https://www.zeit.de/sport/2024-08/rueckenschmerzen-sport-vorsorge-alltag-uebungen",
-      "image_url": "https://img.zeit.de/sport/2024-08/rueckenschmerzen-sport-vorsorge-alltag-uebungen-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Geld sparen : \"Am günstigsten ist tatsächlich eine vegane Ernährung\"",
-      "teaser": "Wer Fleisch isst, kauft günstiger ein? Wir nehmen Preise verzerrt wahr, sagt der Forscher Marco Springmann. Aber es gibt auch eine schlechte Nachricht für Veganer.",
-      "url": "https://www.zeit.de/entdecken/2024-08/geld-sparen-ernaehrung-vegetarisch-umwelt",
-      "image_url": "https://img.zeit.de/zeit-verlag/2024-08/geld-sparen-ernaehrung-vegetarisch-umwelt-bild/super__430x286"
+      "title": "DDR-Bürgerrechtler : Theologe Friedrich Schorlemmer ist tot",
+      "teaser": "Durch seine Aktion \"Schwerter zu Pflugscharen\" wurde Friedrich Schorlemmer bekannt. Er setzte sich für die Demokratisierung der DDR ein. Nun ist der Theologe gestorben.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/ddr-buergerrechtler-theologe-friedrich-schorlemmer-tot",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/ddr-buergerrechtler-theologe-friedrich-schorlemmer-tot-bild/super__430x286"
     },
     {
       "title": "James Earl Jones : American Dad",
@@ -177,10 +208,28 @@
       "image_title": "James Earl Jones 2014"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Surfen in Kuba : Er will doch nur surfen",
+      "teaser": "Frank Gonzáles Guerra liebt das Surfen, sein Heimatland Kuba möchte keine Surfer haben. Der Grund: Fluchtgefahr",
+      "url": "https://www.zeit.de/sport/2024-08/surfen-kuba-frank-gonzales-guerra-olympia",
+      "image_url": "https://img.zeit.de/sport/2024-08/surfen-kuba-frank-gonzales-guerra-olympia-bild/wide__892x501"
+    },
+    {
+      "title": "Mode bei den Paralympics : Mit Mode gegen Vorurteile",
+      "teaser": "Die Paralympics waren nicht nur ein sportliches Spektakel, sondern setzten auch optische Akzente. Fünf Sportlerinnen und Sportler mit extravaganten Looks",
+      "url": "https://www.zeit.de/sport/2024-09/mode-paralympics-sportler-looks",
+      "image_url": "https://img.zeit.de/sport/2024-09/mode-paralympics-sportler-2/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); \"Jugend – Es ist kompliziert\" : Auf vage Weise woke",
       "teaser": "Junge Menschen leben in Cafés und ihrer WG am Leben vorbei – Berlin-Blase sei Dank! Die Sitcom \"Jugend\" knüpft überzeugend an US-amerikanische Genreklassiker an.",
       "url": "https://www.zeit.de/kultur/film/2024-09/jugend-es-ist-kompliziert-zdf-neo-sitcom-fernsehen",
-      "image_url": "https://img.zeit.de/kultur/2024-09/zdfneojugendkompliziert2/wide__892x501"
+      "image_url": "https://img.zeit.de/kultur/2024-09/zdfneojugendkompliziert2/super__430x286"
+    },
+    {
+      "title": "Kaltes Mittagessen : Allwettergerichte für die Zwischensaison",
+      "teaser": "An einem Tag ist es zu heiß für Schmortopf, am anderen zu kühl für Salat: Was soll man aktuell bitte kochen? Hier kommen elf Rezepte, die warm genauso wie kalt schmecken.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-09/kaltes-mittagessen-rezepte-warm-kochen",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024/18/suess-und-samtig-bild-1/wide__892x501"
     },
     {
       "title": "Kriminalpodcast : Der Knochenmann",
@@ -193,18 +242,6 @@
       "teaser": "Mehrere Stunden lang stand der Zugverkehr im Raum Frankfurt am Main am Wochenende still. Nach Angaben der Bahn war ein Stromausfall die Ursache dafür.",
       "url": "https://www.zeit.de/mobilitaet/2024-09/deutsche-bahn-frankfurt-zugausfaelle-stromausfall",
       "image_url": "https://img.zeit.de/mobilitaet/2024-09/deutschen-bahn-ist-ein-stromausfallbahn-zug-energieversorger-grossstoerung-frankfurt/super__430x286"
-    },
-    {
-      "title": "OECD-Bericht : Es beginnt schon in der Kita",
-      "teaser": "Trotz aller Bemühungen: Es gibt keine Chancengleichheit im deutschen Bildungssystem. Der Anteil der Jungen ohne Abschluss liegt über dem der anderen OECD-Industrieländer.",
-      "url": "https://www.zeit.de/gesellschaft/schule/2024-09/chancengleichheit-oecd-bericht-schulen-lehrer-kita-plaetze",
-      "image_url": "https://img.zeit.de/gesellschaft/schule/2024-09/chancengleichheit-oecd-bericht-schulen-lehrer-kita/super__430x286"
-    },
-    {
-      "title": "Kaltes Mittagessen : Allwettergerichte für die Zwischensaison",
-      "teaser": "An einem Tag ist es zu heiß für Schmortopf, am anderen zu kühl für Salat: Was soll man aktuell bitte kochen? Hier kommen elf Rezepte, die warm genauso wie kalt schmecken.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-09/kaltes-mittagessen-rezepte-warm-kochen",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024/18/suess-und-samtig-bild-1/wide__892x501"
     },
     {
       "title": "Avignon : Hauptangeklagter im Vergewaltigungsprozess in Krankenhaus eingeliefert",
@@ -321,10 +358,10 @@
       "image_url": "https://img.zeit.de/politik/2024-05/white-podcast-folge1-a-srgb/super__320x213"
     },
     {
-      "title": "Atomenergie in Japan : Atomkraft? Gerne wieder!",
-      "teaser": "Dreizehn Jahre nach der Reaktorkatastrophe von Fukushima baut Japan neue Meiler – und verschleppt so die Wende zu erneuerbarer Energie. Warum eigentlich?",
-      "url": "https://www.zeit.de/2024/38/atomenergie-japan-fukushima-kernkraft-energiewende-klimaschutz",
-      "image_url": "https://img.zeit.de/2024/38/atomenergie-japan-fukushima-kernkraft-energiewende-klimaschutz-teaser/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Hamburger Hafen : Was in Rotterdam besser läuft",
+      "teaser": "In dem größten Hafen Europas arbeiten viele Kräne längst vollautomatisch – und die Betreiber in ganz anderen Strukturen. Könnte Hamburg das auch?",
+      "url": "https://www.zeit.de/2024/37/hamburger-hafen-rotterdam-niederlande-hafenbehoerde-europa",
+      "image_url": "https://img.zeit.de/2024/37/hamburger-hafen-rotterdam-niederlande-hafenbehoerde-europa-teaser/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Fragen Sie ZEIT ONLINE : Haben Sie ein Thema verpasst?",
@@ -380,14 +417,14 @@
       "image_url": "https://img.zeit.de/gesundheit/2024-09/arzt-termin-strafzahlung-unentschuldigtes-fehlen/super__430x286"
     },
     {
-      "title": "Aufrüstung in Deutschland : Die Zeitenwende existiert nur auf dem Papier",
-      "teaser": "Die Aufrüstung zu unambitioniert, die Beschaffung zu lahm: Das Institut für Weltwirtschaft kritisiert die Bundesregierung. Deutschland sei eben nicht kriegstüchtig.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/aufruestung-deutschland-bundeswehr-ifw-kiel"
-    },
-    {
       "title": "Asyl- und Migrationspolitik : Grüne reagieren zurückhaltend auf Nancy Faesers Migrationsvorschläge",
       "teaser": "Die Ankündigung von Grenzkontrollen lässt aus Sicht des Grünenvorsitzenden viele Fragen offen. Die Partei sei aber bereit, \"alles zu diskutieren, was rechtens ist\".",
       "url": "https://www.zeit.de/politik/deutschland/2024-09/grenzkontrollen-nancy-faser-gruene-reaktion"
+    },
+    {
+      "title": "US-Wahlkampf : Mitarbeiter sehen Trumps Unberechenbarkeit als Vorteil im TV-Duell",
+      "teaser": "Kamala Harris bereitet sich sorgfältig auf die Fernsehdebatte mit Donald Trump vor. Der Republikaner lässt es nach Angaben seines Teams lockerer angehen.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/donald-trump-tv-duell-unberechenbarkeit-vorteil-kamala-harris"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Streits unter Eltern : Die regeln das schon unter sich",
@@ -570,16 +607,16 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-09/umfragen-us-wahl-donald-trump-kamala-harris-swing-states-teaserbild/wide__892x501"
     },
     {
+      "title": "Nachrichtenpodcast : Die Union sitzt mit am Tisch",
+      "teaser": "Die Bundesregierung berät weitere Schritte in der Asylpolitik – auch mit der größten Oppositionsfraktion. Und: Christian Lindner verteidigt den Haushaltsentwurf.",
+      "url": "https://www.zeit.de/politik/2024-09/asylpolitik-bund-laender-union-migration-nachrichtenpodcast",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__430x286"
+    },
+    {
       "title": "Studierende in Ostdeutschland : Wie wehren sich Studierende im Osten gegen die AfD?",
       "teaser": "Die Erfolge der Rechten verändern das Unileben im Osten. Und die Studierenden? Sie besetzen Hörsäle und demonstrieren im Regen.",
       "url": "https://www.zeit.de/politik/deutschland/2024-08/studierende-ostdeutschland-afd-rechtsextremismus-alltag",
       "image_url": "https://img.zeit.de/politik/deutschland/2024-09/studierende-ostdeutschland-afd-rechtsextremismus-alltag-bild/super__430x286"
-    },
-    {
-      "title": "Parlamentarismus : Die AfD zielt auf das Herz",
-      "teaser": "Die Wähler verlieren zunehmend das Vertrauen in die Parlamente. Wer das für ein rein ostdeutsches Problem hält, macht einen Fehler.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/afd-parlamentarismus-buergerrat-volksentscheid-landtagswahlen",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/afd-parlamentarismus-buergerrat-volksentscheid/super__430x286"
     },
     {
       "title": "Verlagsangebot : Das kleine Hauptstadt-Quiz",
@@ -631,6 +668,12 @@
       "image_url": "https://img.zeit.de/gesellschaft/2020-01/bibel-podcast-gott-unter-pfarrerstoechtern-foto/super__320x213"
     },
     {
+      "title": "OECD-Bericht : Es beginnt schon in der Kita",
+      "teaser": "Trotz aller Bemühungen: Es gibt keine Chancengleichheit im deutschen Bildungssystem. Der Anteil der Jungen ohne Abschluss liegt über dem der anderen OECD-Industrieländer.",
+      "url": "https://www.zeit.de/gesellschaft/schule/2024-09/chancengleichheit-oecd-bericht-schulen-lehrer-kita-plaetze",
+      "image_url": "https://img.zeit.de/gesellschaft/schule/2024-09/chancengleichheit-oecd-bericht-schulen-lehrer-kita/super__430x286"
+    },
+    {
       "title": "Vietnam : Mehr als 80 Menschen durch Taifun Yagi gestorben",
       "teaser": "Örtliche Behörden haben die Zahl der Toten durch den Taifun Yagi auf mindestens 87 korrigiert. Weiterhin werden Menschen vermisst. Etwa 46.000 Häuser wurden zerstört.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/taifun-yagi-china-vietnam-ueberschwemmungen",
@@ -641,12 +684,6 @@
       "teaser": "Laut einer Studie bewerten Erwachsene in Bayern, Hamburg und Sachsen ihre eigenen Schulsysteme am besten. Bundesweite Sorge bereitet den Menschen der Lehrermangel.",
       "url": "https://www.zeit.de/gesellschaft/schule/2024-09/schule-bildungssystem-ifo-bildungsbarometer-lehrermangel",
       "image_url": "https://img.zeit.de/gesellschaft/schule/2024-09/schule-bildungssystem-ifo-bildungsbarometer-lehrermangel-bild/super__430x286"
-    },
-    {
-      "title": "Fall Tyre Nichols : Ex-Polizisten nach tödlichem Vorfall bei Verkehrskontrolle vor Gericht",
-      "teaser": "Drei am Tod des schwarzen US-Bürgers Tyre Nichols beteiligte frühere Polizisten müssen sich vor einem Bundesgericht verantworten. Zwei weitere bekannten sich schuldig.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/prozessbeginn-bundesgericht-tyre-nichols-polizeigewalt-usa",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/tyre-nichols-prozessbeginn-ehemalige-polizisten/super__430x286"
     },
     {
       "title": "Bundeshaushalt 2025 : SPD-Politiker Rohde warnt in Haushaltsdebatte vor \"Selbstprofilierung\"",
@@ -673,18 +710,18 @@
       "image_url": "https://img.zeit.de/wirtschaft/2024-09/ifo-institut-bauindustrie-wohnungsbau-auftragsmangel-krise-bild/super__430x286"
     },
     {
-      "title": "Shortselling auf Autoaktien : Erst VW, jetzt Porsche: Angriff der Leerverkäufer",
-      "teaser": "Immer mehr Shortseller wetten auf sinkende Kurse bei Porsche, zuvor hatten sie bereits Volkswagen im Visier. Bei Porsche sehen Sie allerdings andere Probleme als bei VW.",
-      "url": "https://www.wiwo.de/my/finanzen/boerse/shortselling-auf-autoaktien-erst-vw-jetzt-porsche-angriff-der-leerverkaeufer/29984050.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/vw-porsche-shortseller-imago-mst-jpg/29984770/2-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
-      "image_title": "Erst VW, jetzt Porsche: Angriff der Leerverkäufer"
+      "title": "Rückruf und gekappte Prognose : BMW – „nur“ ein Rückruf?",
+      "teaser": "Die schlechten Nachrichten aus der Automobil-Branche häufen sich. Jetzt trifft es BMW. Handelt es sich um den Fehler eines Zulieferers oder stecken auch hier strukturelle Probleme dahinter?",
+      "url": "https://www.wiwo.de/unternehmen/auto/rueckruf-und-gekappte-prognose-bmw-nur-ein-rueckruf/29985586.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/imago0391687352h/29985770/4-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
+      "image_title": "BMW – „nur“ ein Rückruf?"
     },
     {
-      "title": "Migration : Das bedeuten die Grenzkontrollen für Logistiker",
-      "teaser": "Bundesinnenministerin Nancy Faeser hat Kontrollen an allen deutschen Grenzen angekündigt. Die Pläne könnten Folgen für die Logistikbranche haben.",
-      "url": "https://www.wiwo.de/politik/deutschland/migration-das-bedeuten-die-grenzkontrollen-fuer-logistiker/29985430.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/coronavirus-lange-staus-an-der-grenze/29985444/2-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
-      "image_title": "Das bedeuten die Grenzkontrollen für Logistiker"
+      "title": "Mindestlohn : „Irgendwann ist beim Mindestlohn der Kipppunkt erreicht“",
+      "teaser": "Der Bundesarbeitsminister will beim Thema Mindestlohn eine EU-Empfehlung umsetzen. Dabei versucht er die Änderung an der FDP vorbei durchzudrücken und erntet Kritik vom Instituts der deutschen Wirtschaft.",
+      "url": "https://www.wiwo.de/politik/deutschland/mindestlohn-irgendwann-ist-beim-mindestlohn-der-kipppunkt-erreicht/29984852.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/deutschland-2024-wahlplakate-fuer-die-landtagswahl-2024-in-sachsen-im-bild-ein-wahlplakat-der-spd-das-richtige-fuer-sa/29985340/2-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
+      "image_title": "„Irgendwann ist beim Mindestlohn der Kipppunkt erreicht“"
     },
     {
       "title": "Teresa Reichl : Alte Bücher für junge Leute",
@@ -693,16 +730,16 @@
       "image_url": "https://img.zeit.de/2024/38/alte-buecher-fuer-junge-leute-bild-1/wide__892x501"
     },
     {
-      "title": "Plan D Liveblog: Wähler in Ostdeutschland : \"Thüringen liegt nicht im Sterben\"",
-      "teaser": "Wir haben Wähler in Thüringen und Sachsen durch den Abend begleitet. \"Jetzt müssen die Brandmauern weg\", fordert ein AfD-Anhänger. Andere feilen schon an Gegenstrategien.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-08/waehler-ostdeutschland-landtagswahl-meinungen-plan-d-live",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/waehler-ostdeutschland-landtagswahl-meinungen-plan-d-live-michael-pawelsky3/super__430x286"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Kulturelle Stereotype : Deutsch? Ich?",
       "teaser": "Wenn junge Menschen vor allem ausländische Freunde haben, fühlen sie sich manchmal so gar nicht deutsch. Bis sie von ihren Freunden darauf aufmerksam gemacht werden.",
       "url": "https://www.zeit.de/zeit-magazin/2024/37/kulturelle-stereotype-deutsch-englisch-pruefers-toechter",
       "image_url": "https://img.zeit.de/zeit-magazin/2024-08/kulturelle-stereotype-deutsch/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); TikTok : Eine Woche im Männer-Fascho-Algo",
+      "teaser": "TikTok ist essenziell in der Radikalisierung junger Männer. Jugendliche Unsicherheit und Kränkung ziehen sie in den Sumpf. Was sie dort sehen, ist kaum auszuhalten.",
+      "url": "https://www.zeit.de/zett/politik/2024-08/tiktok-junge-maenner-radikalisierung-social-media",
+      "image_url": "https://img.zeit.de/zett/2024-07/tiktok-junge-maenner-radikalisierung/super__430x286"
     },
     {
       "title": "Darth Vaders Stimme : Schauspieler James Earl Jones stirbt mit 93 Jahren",
@@ -753,6 +790,12 @@
       "image_url": "https://img.zeit.de/video/2024-09/6361777228112-still/super__430x286"
     },
     {
+      "title": "Atomenergie in Japan : Atomkraft? Gerne wieder!",
+      "teaser": "Dreizehn Jahre nach der Reaktorkatastrophe von Fukushima baut Japan neue Meiler – und verschleppt so die Wende zu erneuerbarer Energie. Warum eigentlich?",
+      "url": "https://www.zeit.de/2024/38/atomenergie-japan-fukushima-kernkraft-energiewende-klimaschutz",
+      "image_url": "https://img.zeit.de/2024/38/atomenergie-japan-fukushima-kernkraft-energiewende-klimaschutz-teaser/super__430x286"
+    },
+    {
       "title": "Hvaldimir : Spionage-Wal wurde laut Polizei nicht erschossen",
       "teaser": "Der Tod des Belugawals Hvaldimir ist nach Angaben der norwegischen Polizei nicht durch menschliches Handeln verursacht worden. Er könnte demnach verhungert sein.",
       "url": "https://www.zeit.de/wissen/2024-09/hvaldimir-russland-spionagewal-verhungert",
@@ -769,12 +812,6 @@
       "teaser": "Hausaufgabenhilfe, Zeugnisgeld: Eltern tun vieles, um ihre Kinder in der Schule zu unterstützen. Forschung zeigt: Manches davon wirkt sich negativ auf deren Leistung aus.",
       "url": "https://www.zeit.de/wissen/2024-09/schulnoten-kinder-unterricht-nachhilfe-hausaufgaben",
       "image_url": "https://img.zeit.de/wissen/2024-09/schulnoten-kinder-unterricht-nachhilfe-hausaufgaben-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Synthetische Drogen : Warum es immer mehr Drogenopfer gibt",
-      "teaser": "Nie sind so viele in Deutschland an Drogen gestorben. Auch weil sich der Rauschgiftmarkt dramatisch verändert hat. Wie ein Chemiker vom Labor aus die Mafia jagt.",
-      "url": "https://www.zeit.de/2024/38/synthetische-drogen-bundeskriminalamt-chemie-drogenhandel",
-      "image_url": "https://img.zeit.de/2024/38/der-rausch-wird-krasser-teaser/super__430x286"
     },
     {
       "title": "Sommerliche Drinks entdecken",
@@ -831,16 +868,16 @@
       "image_url": "https://img.zeit.de/gesundheit/2024-09/arzt-termin-strafzahlung-unentschuldigtes-fehlen/wide__892x501"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Gehirne von Jugendlichen : Wie die Pandemie auf jugendliche Gehirne wirkte",
-      "teaser": "Ängste, Depressionen, Essstörungen: Die Pandemie hat Jugendlichen aufs Gemüt geschlagen. Eine neue Studie zeigt nun: Sogar ihre Gehirne alterten schneller. Was ist dran?",
-      "url": "https://www.zeit.de/gesundheit/2024-09/gehirn-jugendliche-studie-forschung-alterung-corona-pandemie",
-      "image_url": "https://img.zeit.de/gesundheit/2024-09/gehirn-jugendliche-studie-forschung-alterung-corona-pandemie-bild/super__430x286"
-    },
-    {
       "title": "Krankenhausgipfel in Berlin : Kliniken warnen vor großen Leistungseinschränkungen durch Klinikreform",
       "teaser": "Die stationäre Versorgung in Kliniken soll verbessert werden. Doch vor dem Krankenhausgipfel schlagen die Kliniken Alarm. Es drohten Wartelisten und Einschränkungen.",
       "url": "https://www.zeit.de/gesundheit/2024-09/krankenhausreform-kritik-karl-lauterbach-krankenhausgipfel",
       "image_url": "https://img.zeit.de/gesundheit/2024-09/krankenhausreform-kritik-karl-lauterbach-krankenhausgipfel-bild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Narzissmus • Das Beste aus Z+ : Wir sind alle Narzissten",
+      "teaser": "Aber wir sind es unterschiedlich stark. Hier erklärt der Psychologe Mitja Back, ab wann aus der Eigenschaft eine Krankheit wird. Und welchen Einfluss Eltern darauf haben.",
+      "url": "https://www.zeit.de/2024/38/narzissmus-psychologie-persoenlichkeitsstoerung-charakter-beziehung",
+      "image_url": "https://img.zeit.de/2024/38/narzissmus-psychologie-persoenlichkeitsstoerung-charakter-beziehung-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Apple Event : Das sind die neuen Apple-Geräte",
@@ -891,11 +928,11 @@
       "image_url": "https://img.zeit.de/gesellschaft/2024-08/studenten-azubis-besonders-armutsgefaehrdet-hohe-wohnkosten-bild/wide__892x501"
     },
     {
-      "title": "Verlagsangebot : Nicht nur irgendwas studieren",
-      "teaser": "Studieren! Aber was? Der Studiuminteressentest unterstützt Unschlüssige bei ihrer Suche nach dem passenden Studium, basierend auf den eigenen Interessen.",
-      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.textbild.schwarzer-hut_nichtnurirgendwas.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=sit_textbild_schwarzer-hut_nichtnurirgendwas_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-2-klein/brooke-cagle-tlg2hcpitze-unsplash-197.jpg",
-      "image_title": "Nicht nur irgendwas studieren"
+      "title": "Verlagsangebot : Durchblick im Studiendschungel",
+      "teaser": "Bei 20.000 möglichen Studiengängen in Deutschland verliert man schnell den Überblick. Unterstützung bietet die Suchmaschine für Studiengänge und Hochschulen.",
+      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.whiteboard_studiendschungel.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_whiteboard_studiendschungel_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-3-klein/man-wearing-black-and-white-stripe-shirt-looking-at-white-197.jpg",
+      "image_title": "Durchblick im Studiendschungel"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Herausforderung in Karriere und Leben : Die Strategien der Hürdenläufer",
@@ -964,36 +1001,36 @@
       "image_url": "https://img.zeit.de/sport/2024-09/paralympics-abschlussfeier-paris-bild-2/super__430x286"
     },
     {
-      "title": "Kriminalität: Sabotage im Maisfeld - Häcksler beschädigt",
-      "url": "https://www.zeit.de/news/2024-09/10/sabotage-im-maisfeld-haecksler-beschaedigt"
+      "title": "Migration: Regierungschef Weil offen für Asylverfahren außerhalb der EU",
+      "url": "https://www.zeit.de/news/2024-09/10/regierungschef-weil-offen-fuer-asylverfahren-ausserhalb-der-eu"
     },
     {
-      "title": "Geflüchtete: Bezahlkarte: Landkreise wünschen sich einheitliches Vorgehen",
-      "url": "https://www.zeit.de/news/2024-09/10/bezahlkarte-landkreise-wuenschen-sich-einheitliches-vorgehen"
+      "title": "Falschgeld: Falsche 50-Euro-Scheine in Schweinfurt - Trio festgenommen",
+      "url": "https://www.zeit.de/news/2024-09/10/falsche-50-euro-scheine-in-schweinfurt-trio-festgenommen"
     },
     {
-      "title": "Ausstellungen: Landesausstellung 2027 nimmt Rolle der Frauen in den Blick",
-      "url": "https://www.zeit.de/news/2024-09/10/landesausstellung-2027-nimmt-rolle-der-frauen-in-den-blick"
+      "title": "Gerichtsverfahren: Frauen betrogen und bestohlen? Prozess gegen 66-Jährigen",
+      "url": "https://www.zeit.de/news/2024-09/10/frauen-betrogen-und-bestohlen-prozess-gegen-66-jaehrigen"
     },
     {
-      "title": "Kriminalität: Mann mit Messer schwer verletzt - 49-Jähriger in U-Haft",
-      "url": "https://www.zeit.de/news/2024-09/10/mann-mit-messer-schwer-verletzt-49-jaehriger-in-u-haft"
+      "title": "Brand: Brand in Duisburger Chemiewerk - Stadt warnt Bevölkerung",
+      "url": "https://www.zeit.de/news/2024-09/10/brand-in-duisburger-chemiewerk-stadt-warnt-bevoelkerung"
     },
     {
-      "title": "Kultur: Spatenstich für das neue Naturkundemuseum in Leipzig",
-      "url": "https://www.zeit.de/news/2024-09/10/spatenstich-fuer-das-neue-naturkundemuseum-in-leipzig"
+      "title": "Angriff in Wohnung: Versuchter Totschlag? - Prozess gegen Trio gestartet",
+      "url": "https://www.zeit.de/news/2024-09/10/versuchter-totschlag-prozess-gegen-trio-gestartet"
     },
     {
-      "title": "Bildung: CDU-Politiker: Grundschulen im ländlichen Raum sind sicher",
-      "url": "https://www.zeit.de/news/2024-09/10/cdu-politiker-grundschulen-im-laendlichen-raum-sind-sicher"
+      "title": "Tarifrunde: Tarifverhandlungen in Metall- und Elektroindustrie beginnen",
+      "url": "https://www.zeit.de/news/2024-09/10/tarifverhandlungen-in-metall-und-elektroindustrie-beginnen"
     },
     {
-      "title": "Migration: Pirmasens: Vorerst keine Kriegsflüchtlinge aus der Ukraine",
-      "url": "https://www.zeit.de/news/2024-09/10/pirmasens-vorerst-keine-kriegsfluechtlinge-aus-der-ukraine"
+      "title": "Haushaltsnöte: Saar-Landtag beschließt Nachtragshaushalt",
+      "url": "https://www.zeit.de/news/2024-09/10/saar-landtag-beschliesst-nachtragshaushalt"
     },
     {
-      "title": "Trassenführung: Ramelow interveniert erneut gegen Stromtrasse",
-      "url": "https://www.zeit.de/news/2024-09/10/ramelow-interveniert-erneut-gegen-stromtrasse"
+      "title": "Volkswagen: VW kündigt Tarifverträge - Dulig: «Das ist erschreckend»",
+      "url": "https://www.zeit.de/news/2024-09/10/vw-kuendigt-tarifvertraege-dulig-das-ist-erschreckend"
     }
   ]
 }
