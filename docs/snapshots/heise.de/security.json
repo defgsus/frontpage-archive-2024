@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-10T10:00:56",
+  "timestamp": "2024-09-10T11:01:01",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "ImageMagick, Linux, Sonicwall",
+      "url": "https://www.heise.de/news/Acht-Jahre-alte-Luecke-in-ImageMagick-und-weitere-Lecks-missbraucht-9863292.html"
+    },
+    {
+      "title": "Patchday SAP",
+      "url": "https://www.heise.de/news/SAP-Patchday-16-Sicherheitsmitteilungen-zu-diversen-Produkten-9863252.html"
+    },
+    {
       "title": "Progress Kemp LoadMaster und MultiTenant Hypervisor",
       "url": "https://www.heise.de/news/Loadbalancer-Angreifer-koennen-LoadMaster-kompromittieren-9862252.html"
     },
@@ -40,12 +48,16 @@
       "url": "https://www.heise.de/news/Schadcode-Luecken-gefaehrden-Visualiserungsplattform-Kibana-9861621.html"
     },
     {
-      "title": "Sonicwall-Firewalls",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Firewalls-von-Sonicwall-9861528.html"
+      "title": "Acht Jahre alte Lücke in ImageMagick und weitere Lecks missbraucht",
+      "teaser": "Die CISA warnt, dass in ImageMagick eine acht Jahre alte Sicherheitslücke angegriffen wird. Ebenso eine sieben Jahre alte Lücke in Linux.",
+      "url": "https://www.heise.de/news/Acht-Jahre-alte-Luecke-in-ImageMagick-und-weitere-Lecks-missbraucht-9863292.html",
+      "image_title": "Stilisierte Grafik: eine brennende Appliance im Netz"
     },
     {
-      "title": "Qnap",
-      "url": "https://www.heise.de/news/Qnap-Zahlreiche-Updates-fuer-mehrere-Produkte-9861381.html"
+      "title": "SAP-Patchday: 16 Sicherheitsmitteilungen zu diversen Produkten",
+      "teaser": "Am September-Patchday hat SAP 16 neue Sicherheitsmitteilungen herausgegeben. Sie behandeln Lücken, die als mittleres oder niedriges Risiko gelten.",
+      "url": "https://www.heise.de/news/SAP-Patchday-16-Sicherheitsmitteilungen-zu-diversen-Produkten-9863252.html",
+      "image_title": "Stilisiertes Bild: Laptop mit SAP-Logo brennt, vor Serverracks"
     },
     {
       "title": "Windows 11: In 30 Tagen endet Support für bestimmte Builds",
@@ -154,18 +166,6 @@
       "image_title": "Laptop zeigt Wordpress-Logo, Viren fliegen herum"
     },
     {
-      "title": "Apache OFBiz: Aktueller Sicherheitspatch repariert ältere Patches",
-      "teaser": "Ein aktueller Patch für Apache OFBiz verhindert, dass Sicherheitsupdates für ältere Lücken umgangen werden können.",
-      "url": "https://www.heise.de/news/Apache-OFBiz-Aktueller-Sicherheitspatch-repariert-aeltere-Patches-9859389.html",
-      "image_title": "Frau zeigt auf Update"
-    },
-    {
-      "title": "iX-Workshop: NIS 2: Anforderungen und Vorgaben",
-      "teaser": "Erhalten Sie praxisnahe Einblicke in die effektive Umsetzung von NIS2 und dem deutschen NIS2UmsuCG.",
-      "url": "https://www.heise.de/news/iX-Workshop-NIS-2-Anforderungen-und-Vorgaben-9837710.html",
-      "image_title": "iX-Workshop: Cybersicherheit – Awareness richtig gemacht"
-    },
-    {
       "title": "NTLM–Webinar",
       "teaser": "Lernen Sie die Schwächen von NTLM kennen und erfahren Sie, wie Sicherheitsrisiken minimiert werden können. Ideal für Administratoren und Sicherheitsexperten, die ihre AD-Umgebung besser schützen wollen.",
       "url": "https://heise-academy.de/webinare/ntlm?wt_mc=intern.academy.security.web_ntlm.hs_teaser.teaser.teaser"
@@ -188,7 +188,7 @@
     {
       "title": "Re: PXE mit Definitionen auf NFS hat noch nie funktioniert und 2024 ändert sich",
       "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-PXE-mit-Definitionen-auf-NFS-hat-noch-nie-funktioniert-und-2024-aendert-sich/posting-44409630/show/"
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-PXE-mit-Definitionen-auf-NFS-hat-noch-nie-funktioniert-und-2024-aendert-sich/posting-44410188/show/"
     },
     {
       "title": "Re: keine LAN Verbindung mit desinfect 2024",
