@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-11T11:00:55",
+  "timestamp": "2024-09-11T12:12:01",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Endpoint Manager, Workspace Control, Cloud Service Appliance",
+      "url": "https://www.heise.de/news/Ivanti-Updates-gegen-kritische-Lecks-im-Endpoint-Manager-und-weiteren-Produkten-9864654.html"
+    },
+    {
       "title": "ownCloud",
       "url": "https://www.heise.de/news/ownCloud-Update-stopft-teils-hochriskante-Sicherheitsluecken-9864422.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Adobe-Patchday-Kritische-Luecken-in-mehreren-Produkten-9864254.html"
     },
     {
-      "title": "Patchday Microsoft",
-      "url": "https://www.heise.de/news/Patchday-Microsoft-Aeltere-Sicherheitsupdates-in-neuer-Luecke-ausgehebelt-9864233.html"
+      "title": "Ivanti: Updates gegen kritische Lecks im Endpoint Manager und weiteren Produkten",
+      "teaser": "Ivanti bessert Schwachstellen in Endpoint Manager, Workspace Control und Cloud Service Appliance aus. Eine Lücke in EPM erreicht die Höchstwertung CVSS 10.",
+      "url": "https://www.heise.de/news/Ivanti-Updates-gegen-kritische-Lecks-im-Endpoint-Manager-und-weiteren-Produkten-9864654.html",
+      "image_title": "Stilisierte Grafik: Brennende Appliances im Netz"
     },
     {
       "title": "ownCloud: Update stopft teils hochriskante Sicherheitslücken",
@@ -158,12 +164,6 @@
       "teaser": "Lernen Sie, professionelle Incident Response Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können.",
       "url": "https://www.heise.de/news/iX-Workshop-Nach-dem-Einbruch-Digital-Forensics-Incident-Response-DFIR-9851930.html",
       "image_title": "iX-Workshop Digital Forensics & Incident Response"
-    },
-    {
-      "title": "Google: Kostenlose Dark-Web-Überwachung für den Schutz der eigenen Identität​",
-      "teaser": "Mit dem Dark Web Report von Google lässt sich die eigene Identität auf Datenpannen überwachen. Der Dienst ist nun kostenlos und nicht mehr Abo-Bestandteil.",
-      "url": "https://www.heise.de/news/Eigene-Identitaet-im-Blick-Google-Dark-Web-Report-warnt-vor-Datenlecks-9860797.html",
-      "image_title": "Darknet Report von Google"
     },
     {
       "title": "NTLM–Webinar",
