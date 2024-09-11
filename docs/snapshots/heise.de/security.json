@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-11T09:00:54",
+  "timestamp": "2024-09-11T10:07:08",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -19,18 +19,22 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.fa11c48107986b91e16a",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.281998019d881a4b5436",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.cb71667ec0b3a44b1c4d",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.1724fe365378616bc355",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "ownCloud",
+      "url": "https://www.heise.de/news/ownCloud-Update-stopft-teils-hochriskante-Sicherheitsluecken-9864422.html"
+    },
     {
       "title": "Citrix Workspace App für Windows",
       "url": "https://www.heise.de/news/Citrix-Workspace-App-fuer-Windows-ermoeglicht-Rechteausweitung-9864320.html"
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Patchday-Microsoft-Aeltere-Sicherheitsupdates-in-neuer-Luecke-ausgehebelt-9864233.html"
     },
     {
-      "title": "ImageMagick, Linux, Sonicwall",
-      "url": "https://www.heise.de/news/Acht-Jahre-alte-Luecke-in-ImageMagick-und-weitere-Lecks-missbraucht-9863292.html"
+      "title": "ownCloud: Update stopft teils hochriskante Sicherheitslücken",
+      "teaser": "Das ownCloud-Projekt warnt vor Sicherheitslücken in der Kollaborationssoftware. Angreifer können etwa Zugriff auf Zugangsdaten erlangen.",
+      "url": "https://www.heise.de/news/ownCloud-Update-stopft-teils-hochriskante-Sicherheitsluecken-9864422.html",
+      "image_title": "Stilisiertes Bild: Ein Stapel brennender Appliances"
     },
     {
       "title": "Citrix Workspace App für Windows ermöglicht Rechteausweitung",
@@ -158,11 +164,6 @@
       "teaser": "Mit dem Dark Web Report von Google lässt sich die eigene Identität auf Datenpannen überwachen. Der Dienst ist nun kostenlos und nicht mehr Abo-Bestandteil.",
       "url": "https://www.heise.de/news/Eigene-Identitaet-im-Blick-Google-Dark-Web-Report-warnt-vor-Datenlecks-9860797.html",
       "image_title": "Darknet Report von Google"
-    },
-    {
-      "title": "Rust für Firmware: Sicherheit durch speichersichere Programmiersprachen",
-      "teaser": "Das Android-Team erläutert die schrittweise Einführung von Rust in Firmware, um Sicherheitslücken zu reduzieren und die Speichersicherheit zu erhöhen.",
-      "url": "https://www.heise.de/news/Rust-fuer-Firmware-Sicherheit-durch-speichersichere-Programmiersprachen-9860759.html"
     },
     {
       "title": "NTLM–Webinar",

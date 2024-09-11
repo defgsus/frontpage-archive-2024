@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-11T09:00:54",
+  "timestamp": "2024-09-11T10:07:08",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -55,7 +55,13 @@
     },
     {
       "type": "module",
-      "src": "https://interactive.zeit.de/g/2024/us-wahl-polls/static/assets/dashboard.xjeNDCR7.mjs",
+      "src": "https://interactive.zeit.de/g/2024/us-wahl-polls/static/assets/dashboard.CRWs2mER.mjs",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://interactive.zeit.de/g/2024/gehaelter-gemeinden/static/assets/standalone.db1db2e4.mjs",
       "id": null,
       "text": null
     },
@@ -104,34 +110,28 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-09/us-wahlkampf-tv-duell-kamala-harris-donald-trump-3/wide__1000x562"
     },
     {
-      "title": "Liveblog: TV-Duell : Harris bleibt sachlich, Trump wird laut",
-      "teaser": "Trump warf mit Vorwürfen um sich, Harris ließ sich nicht aus der Ruhe bringen. Eine CNN-Befragung nach dem TV-Duell fällt eindeutig aus. Das Liveblog zum Nachlesen",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/tv-duell-kamala-harris-donald-trump-live",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/tv-duell-trump-harris-aufmacher-liveblog-22/super__430x286"
+      "title": "Donald Trump gegen Kamala Harris : Sehen Sie hier die wichtigsten Szenen der TV-Debatte",
+      "teaser": "Harris umwirbt Arbeiter, Trump weicht Fragen aus und schürt Angst vor Einwanderern: Sehen Sie die Höhepunkte der US-Präsidentschaftsdebatte hier im Videozusammenschnitt.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/kamala-harris-donald-trump-tv-duell-us-wahl-highlights",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/trump-harris-tv-debatte-zusammenschnitt/super__430x286"
+    },
+    {
+      "title": "TV-Debatte : Wo Donald Trump und Kamala Harris nicht die Wahrheit gesagt haben",
+      "teaser": "Migranten essen Haustiere, Babys werden getötet, die USA haben keine Truppen im Ausland: Trump und Harris haben teils beide gelogen. Eine Auswahl der falschen Aussagen",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/donald-trump-tv-debatte-kamala-harris-falschbehauptungen",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/donald-trump-falschbehauptungen-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Kamala Harris gegen Donald Trump : Sie findet ihre Rolle, er verliert die Fassung",
       "teaser": "Beim TV-Duell gelingt Kamala Harris, was Joe Biden nicht mehr schaffte: Sie entwaffnet und demütigt Donald Trump. Die fünf wichtigsten Erkenntnisse der Debatte",
       "url": "https://www.zeit.de/politik/ausland/2024-09/us-wahlkampf-tv-duell-kamala-harris-donald-trump",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/us-wahlkampf-tv-duell-kamala-harris-donald-trump-bild/super__430x286"
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/us-wahlkampf-tv-duell-kamala-harris-donald-trump-bild/wide__892x501"
     },
     {
-      "title": "Presseschau : \"Sie hat Trump nicht die Manege überlassen\"",
+      "title": "Presseschau zum TV-Duell : \"Sie hat Trump nicht die Manege überlassen\"",
       "teaser": "Nach dem TV-Duell zur US-Präsidentschaftswahl kommentiert die internationale Presse: Harris habe angriffslustig gewirkt, Trump defensiv.",
       "url": "https://www.zeit.de/politik/ausland/2024-09/trump-harris-debatte-presseschau",
       "image_url": "https://img.zeit.de/politik/2024-09/trump-harris-debatte-presseschau-bild/super__430x286"
-    },
-    {
-      "title": "An dieser Stelle ist ein externer Inhalt eingebunden",
-      "teaser": "Zum Anschauen benötigen wir Ihre Zustimmung",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/kamala-harris-donald-trump-tv-duell-us-wahl-highlights",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/trump-harris-tv-debatte-zusammenschnitt/wide__892x501"
-    },
-    {
-      "title": "TV-Debatte : Wo Donald Trump gelogen hat",
-      "teaser": "Migranten essen Haustiere, Babys werden nach der Geburt getötet: Viele Lügen von Donald Trump kennt man schon, einige sind neu. Welche Behauptungen widerlegt sind.",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/donald-trump-tv-debatte-kamala-harris-falschbehauptungen",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/donald-trump-falschbehauptungen-bild/super__430x286"
     },
     {
       "title": "US-Wahlkampf : Taylor Swift unterstützt Kamala Harris",
@@ -141,58 +141,16 @@
       "image_title": "us-wahlkampf-tv-debatte-kamala-harris-donald-trump"
     },
     {
-      "title": "Dresden : Teile der Carolabrücke über Elbe eingestürzt",
-      "teaser": "In Dresden sind Teile einer Brücke in die Elbe gestürzt. Laut Feuerwehr drohen weitere Teile einzustürzen. Die Fernwärmeversorgung ist in der ganzen Stadt unterbrochen.",
-      "url": "https://www.zeit.de/mobilitaet/2024-08/dresden-einsturz-carolabruecke-elbe",
-      "image_url": "https://img.zeit.de/mobilitaet/2024-09/dresden-einsturz-carolabruecke-elbe-bild/super__430x286"
+      "title": "Dresden : Korrosion könnte Einsturz der Carolabrücke verursacht haben",
+      "teaser": "Von der Carolabrücke ist der Teil eingestürzt, der noch nicht saniert wurde. Zur Ursache gibt es erste Vermutungen: Korrosion könnte den Einsturz begünstigt haben.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/dresden-carolabruecke-einsturz-ursache-korrosion",
+      "image_url": "https://img.zeit.de/2024-09/carolabruecke-eingestuerzt-ursache-korrosion-bild/super__430x286"
     },
     {
-      "title": "Generaldebatte im Bundestag : \"Herr Bundeskanzler, Sie haben den Wumms verloren!\"",
-      "teaser": "In der Generaldebatte sagt Alexander Dobrindt, niemand wolle eine Fortsetzung der Ampel – nicht mal sie selbst. Olaf Scholz zeige sich \"respektlos\" gegenüber den Bürgern.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/generaldebatte-bundestag-haushaltswoche-friedrich-merz-olaf-scholz",
-      "image_url": "https://img.zeit.de/politik/2024-09/generaldebatte-bundestag-haushaltswoche-friedrich-merz-olaf-scholz-bild/super__430x286"
-    },
-    {
-      "title": "Generaldebatte : \"Nicht motzen, sondern anpacken und handeln\"",
-      "teaser": "Olaf Scholz attackiert in der Generaldebatte die AfD und verspricht, sie zurückzudrängen. Der Union wirft er jahrzehntelange Untätigkeit in der Asylpolitik vor.",
+      "title": "Olaf Scholz im Bundestag : \"Nicht motzen, sondern anpacken und handeln\"",
+      "teaser": "Olaf Scholz wirft der Union jahrzehntelange Untätigkeit in der Asylpolitik vor. Friedrich Merz schließt eine Fortsetzung der Gespräche zur Begrenzung der Zuwanderung aus.",
       "url": "https://www.zeit.de/politik/deutschland/2024-09/bundeskanzler-olaf-scholz-generaldebatte-bundestag",
       "image_url": "https://img.zeit.de/politik/2024-09/olaf-scholz-generaldebatte-bild/super__430x286"
-    },
-    {
-      "title": "An dieser Stelle ist ein externer Inhalt eingebunden",
-      "teaser": "Zum Anschauen benötigen wir Ihre Zustimmung",
-      "url": "https://www.zeit.de/politik/2024-09/generaldebatte-bundestag-olaf-scholz-friedrich-merz-live",
-      "image_url": "https://img.zeit.de/politik/2024-09/bundestag-plenum-regierungserklaerung-bild/wide__892x501"
-    },
-    {
-      "title": "Schiffbau : Bundestag billigt Staatseinstieg bei Meyer Werft",
-      "teaser": "Die Meyer Werft steckt in einer existenzbedrohenden Finanzkrise. Der Bund wird helfen und sich mit 200 Millionen Euro an der Stabilisierung des Unternehmens beteiligen.",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-09/bundestag-staatseinstieg-meyer-werft-haushaltsausschuss",
-      "image_url": "https://img.zeit.de/politik/2024-09/bundestag-einstieg-meyer-werft-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Psychotherapie : \"Seien Sie glücklich, und enttäuschen Sie Ihre Eltern\"",
-      "teaser": "Depressionen sind der Dank für jahrelanges Artigsein. Und: Wer loslässt, hat zwei Hände frei. Diese 100 Sätze haben unsere Leser aus ihrer Therapie mitgenommen.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2024-07/psychotherapie-psychologie-mentale-gesundheit-inspiration",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-07/psychotherapie-psychologie-mentale-gesundheit-inspiration-teaser/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Schulbeginn : \"Unter der Lernerei mit meiner Tochter leiden meine Freundschaften\"",
-      "teaser": "Der Blick auf das neue Schuljahr bereitet vielen Eltern Sorgen. Wie Lehrermangel, Unterrichtsausfälle und mangelnder Infektionsschutz den Familienalltag beeinträchtigen.",
-      "url": "https://www.zeit.de/familie/2024-09/schulbeginn-eltern-sorgen-lehrermangel-unterricht-ausfaelle",
-      "image_url": "https://img.zeit.de/familie/2024-08/schulanfang-eltern-sorgen/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Prävention von Demenz : So viel Einfluss haben wir auf unsere Hirngesundheit",
-      "teaser": "Fast jeder zweite Demenzfall wäre vermeidbar oder ließe sich verzögern. Wer diese 14 Faktoren kennt, kann sein Risiko senken. Vorausgesetzt, man fängt früh genug an.",
-      "url": "https://www.zeit.de/gesundheit/2024-07/praevention-demenz-risikofaktor-rauchen-alkohol-studie",
-      "image_url": "https://img.zeit.de/wissen/2024-07/praevention-demenz-risikofaktor-rauchen-alkohol-studie-bild/super__430x286"
-    },
-    {
-      "title": "Nations League : Leidenschaft alleine reicht nicht",
-      "teaser": "Ein unterhaltsames Spiel, aber auch ein gutes? Das wilde 2:2 gegen die Niederlande lässt Zweifel zu, ob die Nationalelf auf dem Weg ist, WM-Titelkandidat zu werden.",
-      "url": "https://www.zeit.de/sport/2024-09/niederlande-deutschland-nations-league-joshua-kimmich",
-      "image_url": "https://img.zeit.de/sport/2024-09/niederlande-deutschland-nations-league-joshua-kimmich-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Blaumachen : \"Meine Vorgesetzten haben es nicht anders verdient\"",
@@ -201,10 +159,16 @@
       "image_url": "https://img.zeit.de/arbeit/2024-08/blaumachen-arbeit-krankmeldung/wide__892x501"
     },
     {
-      "title": "Kriminalität : Zahl von Autodiebstählen hat deutlich zugenommen",
-      "teaser": "Mehr als 14.000 kaskoversicherte Fahrzeuge sind im vergangenen Jahr in Deutschland gestohlen worden. Am höchsten ist das Diebstahlrisiko in Berlin.",
-      "url": "https://www.zeit.de/gesellschaft/2024-09/kriminalitaet-autodiebstahl-anstieg-berlin",
-      "image_url": "https://img.zeit.de/2024-09/kriminalitaet-autodiebstahl-anstieg-berlin-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Schulnoten • Das Beste aus Z+ : Wie man dem Kind mit der Schule hilft – ohne ihm zu schaden",
+      "teaser": "Hausaufgabenhilfe, Zeugnisgeld: Eltern tun vieles, um ihre Kinder in der Schule zu unterstützen. Forschung zeigt: Manches davon wirkt sich negativ auf deren Leistung aus.",
+      "url": "https://www.zeit.de/wissen/2024-09/schulnoten-kinder-unterricht-nachhilfe-hausaufgaben",
+      "image_url": "https://img.zeit.de/wissen/2024-09/schulnoten-kinder-unterricht-nachhilfe-hausaufgaben-bild/super__430x286"
+    },
+    {
+      "title": "Terroranschlag von Solingen : Sicherheitsbehörden in Nordrhein-Westfalen bekommen mehr Befugnisse",
+      "teaser": "Die NRW-Landesregierung hat mit einem Gesetzespaket auf den Anschlag von Solingen reagiert. Abschiebungen sollen leichter werden, Behörden dürfen künftig KI einsetzen.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/nordrhein-westfalen-cdu-gruene-sicherheit-paket-gesetz-solingen-terror",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/nordrhein-westfalen-cdu-gruene-sicherheit-paket-gesetz-solingen-terror-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Zinsen : So sichern Sie sich jetzt noch hohe Zinsen",
@@ -213,22 +177,76 @@
       "image_url": "https://img.zeit.de/geld/2024-09/zinsen-geldanlage-sparen-leitzins/super__430x286"
     },
     {
+      "title": "Kriminalität : Zahl von Autodiebstählen hat deutlich zugenommen",
+      "teaser": "Mehr als 14.000 kaskoversicherte Fahrzeuge sind im vergangenen Jahr in Deutschland gestohlen worden. Am höchsten ist das Diebstahlrisiko in Berlin.",
+      "url": "https://www.zeit.de/gesellschaft/2024-09/kriminalitaet-autodiebstahl-anstieg-berlin",
+      "image_url": "https://img.zeit.de/2024-09/kriminalitaet-autodiebstahl-anstieg-berlin-bild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Arbeit im Rentenalter : \"Man darf sich im Alter auf keinen Fall gehen lassen\"",
+      "teaser": "Erika ist 73 Jahre alt, aber arbeitet noch immer täglich als Dozentin. Auch, weil ihre Rente nicht reicht, aber vor allem, weil sie unbedingt beschäftigt sein will.",
+      "url": "https://www.zeit.de/arbeit/2024-08/arbeit-rentenalter-unterricht-fitness-geld",
+      "image_url": "https://img.zeit.de/arbeit/2024-08/arbeit-rentenalter-unterricht/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Private Krankenversicherung : Patient erster Klasse, aber Leben kaum mehr möglich",
+      "teaser": "Die private Krankenversicherung gilt als Luxus. Dieter Wassmann wollte nur eines: raus da. Warum Privatversicherte im Alter existenzielle Probleme bekommen können.",
+      "url": "https://www.zeit.de/geld/2024-08/private-krankenversicherung-wechsel-gesetzliche-krankenversicherung-beitraege-alter",
+      "image_url": "https://img.zeit.de/geld/2024-08/private-krankenversicherung-wechsel-gesetzliche-krankenversicherung/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Psychotherapie : \"Seien Sie glücklich, und enttäuschen Sie Ihre Eltern\"",
+      "teaser": "Depressionen sind der Dank für jahrelanges Artigsein. Und: Wer loslässt, hat zwei Hände frei. Diese 100 Sätze haben unsere Leser aus ihrer Therapie mitgenommen.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2024-07/psychotherapie-psychologie-mentale-gesundheit-inspiration",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-07/psychotherapie-psychologie-mentale-gesundheit-inspiration-teaser/super__430x286"
+    },
+    {
+      "title": "Nations League : Leidenschaft alleine reicht nicht",
+      "teaser": "Ein unterhaltsames Spiel, aber auch ein gutes? Das wilde 2:2 gegen die Niederlande lässt Zweifel zu, ob die Nationalelf auf dem Weg ist, WM-Titelkandidat zu werden.",
+      "url": "https://www.zeit.de/sport/2024-09/niederlande-deutschland-nations-league-joshua-kimmich",
+      "image_url": "https://img.zeit.de/sport/2024-09/niederlande-deutschland-nations-league-joshua-kimmich-bild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Celebrity-Salate : Lunchen wie die Promis",
+      "teaser": "Hollywooddiät? Nein, viel besser! Wir schauen uns die Ernährungstricks von Prominenten ab, von Jennifer Anistons \"Friends\"-Lunch bis zu Kim Kardashians Schüttelsalat.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-09/celebrity-salate-rezept-wochenmarkt",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-09/celebrity-salate-rezept-wochenmarkt-teaser/wide__892x501"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Friedrich Schorlemmer : \"Bleib fromm. Werd frei. Leb fröhlich.\"",
+      "teaser": "Er war Weltretter und Seelsorger, Aufwiegler und Tröster. Und er fehlt schon jetzt. Zum Tod von Friedrich Schorlemmer",
+      "url": "https://www.zeit.de/2024/39/friedrich-schorlemmer-theologe-buergerrechtler-nachruf",
+      "image_url": "https://img.zeit.de/2024/39/mut-macht-mut-bild-1/wide__892x501"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Guantánamo : Die anderen Opfer von 9/11",
+      "teaser": "Nach den Anschlägen kam die Folter: So verhinderten die USA bis heute den wichtigsten Prozess in der Geschichte ihres Landes – und treiben Angehörige in die Verzweiflung.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/guantanamo-11-september-terror-prozess",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/guantanamo-11-september-terror-10/super__430x286"
+    },
+    {
       "title": "Ukrainekarte aktuell : Ukraine rückt erneut in russischer Grenzregion vor",
       "teaser": "Die Ukraine setzt ihre Offensive nahe Kursk fort, das ISW geht dort von einer Aufstockung russischer Kräfte aus. In der Region Donezk nähert sich Russland wohl Wuhledar.",
       "url": "https://www.zeit.de/politik/ausland/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen",
       "image_url": "https://img.zeit.de/politik/ausland/2023-09/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen-teaserbild/super__430x286"
     },
     {
-      "title": "Dresden : Korrosion könnte Einsturz der Carolabrücke verursacht haben",
-      "teaser": "Von der Carolabrücke ist der Teil eingestürzt, der noch nicht saniert wurde. Zur Ursache gibt es erste Vermutungen: Korrosion könnte den Einsturz begünstigt haben.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/dresden-carolabruecke-einsturz-ursache-korrosion",
-      "image_url": "https://img.zeit.de/2024-09/carolabruecke-eingestuerzt-ursache-korrosion-bild/super__320x213"
+      "title": "Mexiko : Senat billigt Justizreform grundsätzlich",
+      "teaser": "Der Senat hat den Weg für eine umstrittene Reform geebnet, die das mexikanische Justizwesen umgestalten soll. Während der Beratungen hatte es heftige Proteste gegeben.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/mexiko-justizreform-senat-richter",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/mexikos-senat-demonstration-justizreform-bild/super__320x213"
     },
     {
       "title": "Insolvenzen : Zahl der Firmenpleiten nimmt deutlich zu",
       "teaser": "Mehr als 10.000 Unternehmen meldeten im ersten Halbjahr bereits Insolvenz an. Besonders betroffen war der Wirtschaftsbereich Verkehr und Lagerei.",
       "url": "https://www.zeit.de/wirtschaft/2024-09/insolvenzen-firmenpleiten-unternehmen-wirtschaftsbereich-verkehr",
       "image_url": "https://img.zeit.de/wirtschaft/2024-09/insolvenzen-firmenpleiten-unternehmen-wirtschaftsbereich-verkehr-bild/super__320x213"
+    },
+    {
+      "title": "Schiffbau : Bundestag billigt Staatseinstieg bei Meyer Werft",
+      "teaser": "Die Meyer Werft steckt in einer Finanzkrise. Der Bund und das Land Niedersachsen wollen sich mit 400 Millionen Euro an der Stabilisierung des Unternehmens beteiligen.",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-09/bundestag-staatseinstieg-meyer-werft-haushaltsausschuss",
+      "image_url": "https://img.zeit.de/politik/2024-09/bundestag-einstieg-meyer-werft-bild/super__320x213"
     },
     {
       "title": "US-Präsidentschaftswahlkampf : Kamala Harris fordert Donald Trump zu zweiter TV-Debatte heraus",
@@ -243,6 +261,12 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-09/us-wahlkampf-tv-debatte-kamala-harris-donald-trump-politische-reaktionen-bild/super__320x213"
     },
     {
+      "title": "Dresden : Teile der Carolabrücke über Elbe eingestürzt",
+      "teaser": "In Dresden sind Teile einer Brücke in die Elbe gestürzt. Laut Feuerwehr drohen weitere Teile einzustürzen. Die Fernwärmeversorgung ist in der ganzen Stadt unterbrochen.",
+      "url": "https://www.zeit.de/mobilitaet/2024-08/dresden-einsturz-carolabruecke-elbe",
+      "image_url": "https://img.zeit.de/mobilitaet/2024-09/dresden-einsturz-carolabruecke-elbe-bild/super__320x213"
+    },
+    {
       "title": "Mexiko : Demonstranten dringen bei Protest gegen Justizreform in Senat ein",
       "teaser": "Justizangestellte in Mexiko fürchten eine Aushöhlung des Rechtsstaats durch die Direktwahl von Bundesrichtern. Diese sind in unbefristeten Streik getreten.",
       "url": "https://www.zeit.de/politik/ausland/2024-09/proteste-mexiko-justizreform-senat-demonstranten",
@@ -253,24 +277,6 @@
       "teaser": "Nahe der zweitgrößten Stadt der USA sind mehrere Waldbrände außer Kontrolle. Nordöstlich von Los Angeles hat ein Feuer mehr als 100 Quadratkilometer Land zerstört.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/kalifornien-los-angeles-waldbraende-breiten-sich-aus",
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/waldbrand-usa-kalifornien-los-angeles-golf/super__320x213"
-    },
-    {
-      "title": "Überschwemmungsgefahren : Fast 400.000 Deutsche laut Studie von Hochwasser bedroht",
-      "teaser": "Laut Forschern könnten allein am Rhein binnen Jahren knapp 200.000 Menschen von Hochwasser betroffen sein. Zur Absicherung wird eine Elementarschadenversicherung erwogen.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/hochwasser-gefahren-deutschland-studie-elementarschaedenversicherung",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/flut-ahrtal-ruine-drei-jahre-spaeter-bild/super__320x213"
-    },
-    {
-      "title": "TV-Debatte : Trump weist Verantwortung für Sturm auf das Kapitol zurück",
-      "teaser": "Vor bald vier Jahren wiegelte Trump eine Menschenmenge auf, die eine friedliche Machtübergabe in den USA verhindern wollte. Gegenüber Harris wiederholt er bekannte Lügen.",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/donald-trump-tv-debatte-kamala-harris-sturm-auf-das-us-kapitol",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/tv-duell-trump-harris-aufmacher-liveblog-2/super__320x213"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Guantánamo : Die anderen Opfer von 9/11",
-      "teaser": "Nach den Anschlägen kam die Folter: So verhinderten die USA bis heute den wichtigsten Prozess in der Geschichte ihres Landes – und treiben Angehörige in die Verzweiflung.",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/guantanamo-11-september-terror-prozess",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/guantanamo-11-september-terror-10/wide__892x501"
     },
     {
       "title": "Livepodcasts : Das Programm der ZEIT Podcast-Tour 2024",
@@ -363,9 +369,9 @@
       "url": "https://www.zeit.de/arbeit/2024-08/postcovid-coronavirus-gesundheit-langzeitfolgen-arbeit"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Sexualtherapeuten : \"Ich habe eine sehr hohe Ekeltoleranz\"",
-      "teaser": "Sexualtherapeuten helfen bei intimsten Fragen und sexuellen Störungen. Sie hören teils extreme Schilderungen. Vier von ihnen erzählen von ihren größten Herausforderungen.",
-      "url": "https://www.zeit.de/wissen/2024-09/sexualtherapeuten-erfahrungen-patienten-sexualitaet"
+      "title": "Z+ (abopflichtiger Inhalt); Kamala Harris gegen Donald Trump : Sie findet ihre Rolle, er verliert die Fassung",
+      "teaser": "Beim TV-Duell gelingt Kamala Harris, was Joe Biden nicht mehr schaffte: Sie entwaffnet und demütigt Donald Trump. Die fünf wichtigsten Erkenntnisse der Debatte",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/us-wahlkampf-tv-duell-kamala-harris-donald-trump"
     },
     {
       "title": "Liveblog: TV-Duell : Harris bleibt sachlich, Trump wird laut",
@@ -379,9 +385,9 @@
       "url": "https://www.zeit.de/mobilitaet/2024-08/dresden-einsturz-carolabruecke-elbe"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Volkswagen : So steht es wirklich um VW",
-      "teaser": "Der Volkswagen-Vorstand droht mit nie dagewesenem Stellenabbau – dabei verdient der Konzern Milliarden. Unsere Grafiken zeigen, was bei VW wirklich los ist.",
-      "url": "https://www.zeit.de/mobilitaet/2024-09/volkswagen-krise-autoindustrie-elektroautos-verkaeufe"
+      "title": "Livestream:US-Wahlkampf : Jetzt live: Das TV-Duell zwischen Donald Trump und Kamala Harris",
+      "teaser": "Das erste Fernsehduell im US-Wahlkampf war ein Desaster für die Demokraten. Nun soll Harris es besser machen gegen Trump. Verfolgen Sie die Debatte hier im Livestream",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/us-wahlkampf-tv-duell-kamala-harris-donald-trump-live"
     },
     {
       "title": "Dresden : Teile der Carolabrücke über Elbe eingestürzt",
@@ -390,14 +396,14 @@
       "image_url": "https://img.zeit.de/mobilitaet/2024-09/dresden-einsturz-carolabruecke-elbe-bild/super__430x286"
     },
     {
-      "title": "Migrationsdebatte : Union bricht Migrationsgespräche mit der Regierung ab",
-      "teaser": "Die Bundesregierung zeigte sich zuletzt offen für Zurückweisungen von Asylbewerbern an der Grenze. Der Union geht das nicht weit genug. Verhandlungen wurden beendet.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/union-bricht-migrationsgespraeche-mit-der-regierung-ab"
-    },
-    {
       "title": "Liveblog: TV-Duell : Harris bleibt sachlich, Trump wird laut",
       "teaser": "Trump warf mit Vorwürfen um sich, Harris ließ sich nicht aus der Ruhe bringen. Eine CNN-Befragung nach dem TV-Duell fällt eindeutig aus. Das Liveblog zum Nachlesen",
       "url": "https://www.zeit.de/politik/ausland/2024-09/tv-duell-kamala-harris-donald-trump-live"
+    },
+    {
+      "title": "Migrationsdebatte : Union bricht Migrationsgespräche mit der Regierung ab",
+      "teaser": "Die Bundesregierung zeigte sich zuletzt offen für Zurückweisungen von Asylbewerbern an der Grenze. Der Union geht das nicht weit genug. Verhandlungen wurden beendet.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/union-bricht-migrationsgespraeche-mit-der-regierung-ab"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Migrationsdebatte : Die große Asylwende fällt aus",
@@ -490,10 +496,10 @@
       "image_url": "https://img.zeit.de/geld/2024-09/boerse-aktien-verkauf-finanzen-kursverlust-bild/super__430x286"
     },
     {
-      "title": "Verlagsangebot : 5 Text-Tricks, die Ihr innerer Kritiker Ihnen nicht zeigen will",
-      "teaser": "Entdecken Sie die Geheimnisse starker Texte. ZEIT- & Bestsellerautorin Heike Faller zeigt Ihnen, wie Worte lebendig werden – egal ob Geschichten, E-Mails oder Grußkarten.",
+      "title": "Verlagsangebot : Schieben Sie noch oder schreiben Sie schon? 5 Tricks für bessere Texte",
+      "teaser": "Entdecken Sie die Geheimnisse fesselnder Texte. ZEIT- & Bestsellerautorin Heike Faller zeigt Ihnen die Kunst starker Worte – egal ob Geschichten, E-Mails oder Grußkarten.",
       "url": "https://www.zeitakademie.de/e-mail-kurs-besser-schreiben/?icode=01w0387k1516inhrefall2409&utm_medium=referall&utm_source=zon&utm_campaign=emk_besser_schreiben&utm_content=01w0387k1516inhrefall2409&wt_zmc=refall.Ext.zabo.zon.emk_besser_schreiben.x",
-      "image_url": "https://img.zeit.de/angebote/Links/Bilder/akademie/2024/zak-besser-schreiben-7/super__430x286"
+      "image_url": "https://img.zeit.de/angebote/Links/Bilder/akademie/2024/zak-besser-schreiben-8/super__430x286"
     },
     {
       "title": "Kaltes Mittagessen : Allwettergerichte für die Zwischensaison",
@@ -574,22 +580,22 @@
       "image_url": "https://img.zeit.de/politik/2024-08/was-jetzt-die-woche-constanze-moderation/super__320x213"
     },
     {
+      "title": "Generaldebatte im Bundestag : \"Herr Bundeskanzler, Sie haben den Wumms verloren!\"",
+      "teaser": "In der Generaldebatte sagt Alexander Dobrindt, niemand wolle eine Fortsetzung der Ampel – nicht mal sie selbst. Olaf Scholz zeige sich \"respektlos\" gegenüber den Bürgern.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/generaldebatte-bundestag-haushaltswoche-friedrich-merz-olaf-scholz",
+      "image_url": "https://img.zeit.de/politik/2024-09/generaldebatte-bundestag-haushaltswoche-friedrich-merz-olaf-scholz-bild/wide__892x501"
+    },
+    {
+      "title": "Liveblog: TV-Duell : Harris bleibt sachlich, Trump wird laut",
+      "teaser": "Trump warf mit Vorwürfen um sich, Harris ließ sich nicht aus der Ruhe bringen. Eine CNN-Befragung nach dem TV-Duell fällt eindeutig aus. Das Liveblog zum Nachlesen",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/tv-duell-kamala-harris-donald-trump-live",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/tv-duell-trump-harris-aufmacher-liveblog-22/super__430x286"
+    },
+    {
       "title": "TV-Debatte : Das waren die zentralen Aussagen von Harris und Trump",
       "teaser": "Auf den Handschlag folgt der Schlagabtausch zu Wirtschaft, Migration, Schwangerschaftsabbruch: zentrale Punkte des Fernsehduells zwischen Kamala Harris und Donald Trump.",
       "url": "https://www.zeit.de/politik/ausland/2024-09/tv-debatte-usa-kamala-harris-donald-trump-ueberblick",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/us-wahlkampf-donald-trump-kamala-harris-abc-debate-bild-rita/wide__892x501"
-    },
-    {
-      "title": "Liveblog:Ukrainekrieg : IWF und Ukraine einigen sich auf Milliardenkredit",
-      "teaser": "Der IWF ermöglicht der Ukraine Zugang zu weiteren Finanzhilfen. US-Außenminister Blinken und sein britischer Amtskollege Lammy reisen nach Kiew. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/ukrain-liveblog-blinken-lammy-kiew-bild/super__430x286"
-    },
-    {
-      "title": "Nachrichtenpodcast : An der deutschen Grenze inhaftiert",
-      "teaser": "Die Innenministerin macht neue Vorschläge zur Migrationspolitik an der deutschen Grenze. Und: Viele Menschen in Deutschland starten ohne gute Bildungsbasis ins Leben.",
-      "url": "https://www.zeit.de/politik/2024-09/migrationspolitik-nancy-faeser-union-grenzschutz-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__430x286"
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/us-wahlkampf-donald-trump-kamala-harris-abc-debate-bild-rita/super__430x286"
     },
     {
       "title": "Verlagsangebot : Das kleine Hauptstadt-Quiz",
@@ -647,16 +653,16 @@
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/taifun-yagi-china-vietnam-ueberschwemmungen-bild/super__430x286"
     },
     {
+      "title": "Überschwemmungsgefahren : Fast 400.000 Deutsche laut Studie von Hochwasser bedroht",
+      "teaser": "Laut Forschern könnten allein am Rhein binnen Jahren knapp 200.000 Menschen von Hochwasser betroffen sein. Zur Absicherung wird eine Elementarschadenversicherung erwogen.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/hochwasser-gefahren-deutschland-studie-elementarschaedenversicherung",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/flut-ahrtal-ruine-drei-jahre-spaeter-bild/super__430x286"
+    },
+    {
       "title": "Migration : Mindestens 26 Menschen vor der Küste Senegals ertrunken",
       "teaser": "Am Sonntag war ein Fischerboot mit Migranten vor der Küste des Senegals gekentert. Bislang hat die Marine 26 Leichen geborgen. Weitere Tote werden befürchtet.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/senegal-boot-migranten-gekentert-26-tote-bisher",
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/migranten-boot-kueste-senegal-tote/super__430x286"
-    },
-    {
-      "title": "Paralympics-Häme : Veranstalter sagen Tourtermine von Luke Mockridge ab",
-      "teaser": "Trotz ausverkaufter Auftritte haben Veranstalter Tourtermine von Luke Mockridge gestrichen. Grund sind seine beleidigenden Aussagen über Para-Athleten.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/paralympics-haeme-luke-mockridge-tour-absage",
-      "image_url": "https://img.zeit.de/kultur/2024-09/paralympics-haeme-luke-mockridge-tour-absage/super__430x286"
     },
     {
       "title": "Finanzmarktstabilisierungsfonds : Der Bund verkauft seine Commerzbank-Beteiligung",
@@ -686,7 +692,7 @@
       "title": "Herbert Diess über die VW-Krise : „Man kann in Deutschland eigentlich nur noch Premiumfahrzeuge herstellen“",
       "teaser": "Herbert Diess war bis vor zwei Jahren Chef des VW-Konzerns und mächtigster E-Auto-Förderer in Deutschland. Wie er jetzt über E-Autos, die Lage bei VW, die China-Konkurrenz und sein früheres Idol Elon Musk denkt.",
       "url": "https://www.wiwo.de/my/unternehmen/auto/herbert-diess-ueber-die-vw-krise-man-kann-in-deutschland-eigentlich-nur-noch-premiumfahrzeuge-herstellen/29986438.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/38_unt_diess_iv/29986506/5-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/38_unt_diess_iv/29986506/7-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
       "image_title": "„Man kann in Deutschland eigentlich nur noch Premiumfahrzeuge herstellen“"
     },
     {
@@ -872,10 +878,10 @@
       "image_url": "https://img.zeit.de/arbeit/2024-08/postcovid-coronavirus-gesundheit-2/wide__892x501"
     },
     {
-      "title": "Fachkräftemangel : Supermärkte suchen Tausende Beschäftigte für Bedientheken",
-      "teaser": "Supermärkte unterscheiden sich von Discountern durch Personal an den Bedientheken, doch es gibt seit Jahren zu wenig Fachkräfte. Momentan sind Tausende Stellen offen.",
-      "url": "https://www.zeit.de/arbeit/2024-09/supermarkt-bedientheken-personalmangel-fachkraeftemangel",
-      "image_url": "https://img.zeit.de/arbeit/2024-09/supermarkt-bedientheken-personalmangel-fachkraeftemangel-bild/super__430x286"
+      "title": "Mobile Kirche : Der Mini-Glockenturm fährt immer mit",
+      "teaser": "Im Schwarzwald ist das nächste Gemeindezentrum weit. Eine Pfarrerin hatte da eine Idee: Es gibt da diesen Kirchenanhänger, eine Tiny Church. Ein Modell für die Zukunft?",
+      "url": "https://www.zeit.de/2024/37/mobile-kirche-tiny-church-pfarrerin-religion-schwarzwald",
+      "image_url": "https://img.zeit.de/2024/37/das-gottesmobil-bild-2/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Herbstanfang : So kommen wir gut durch die dunkle Jahreszeit",
@@ -902,11 +908,11 @@
       "image_url": "https://img.zeit.de/gesellschaft/2024-08/studenten-azubis-besonders-armutsgefaehrdet-hohe-wohnkosten-bild/wide__892x501"
     },
     {
-      "title": "Verlagsangebot : Persönlichkeit als Door Opener",
-      "teaser": "Immer mehr Unternehmen setzen bei ihren Bewerbern auf die Persönlichkeit. Auf der Suche nach einem Job stellt der Berufstest die eigenen Stärken in den Mittelpunkt.",
-      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.textbild.frau-smartphone_dooropener.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=bot_textbild_frau-smartphone_dooropener_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-boa-index-teaser-1-klein/bruce-mars-fwvmhua-wby-unsplash.jpg",
-      "image_title": "Persönlichkeit als Door Opener"
+      "title": "Verlagsangebot : Durchblick im Studiendschungel",
+      "teaser": "Bei 20.000 möglichen Studiengängen in Deutschland verliert man schnell den Überblick. Unterstützung bietet die Suchmaschine für Studiengänge und Hochschulen.",
+      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.whiteboard_studiendschungel.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_whiteboard_studiendschungel_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-3-klein/man-wearing-black-and-white-stripe-shirt-looking-at-white-197.jpg",
+      "image_title": "Durchblick im Studiendschungel"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Herausforderung in Karriere und Leben : Die Strategien der Hürdenläufer",
@@ -975,36 +981,36 @@
       "image_url": "https://img.zeit.de/sport/2024-09/julian-nagelsmann/super__430x286"
     },
     {
-      "title": "Kabel übersehen: Kipplader reißt sechs Ampeln zu Boden",
-      "url": "https://www.zeit.de/news/2024-09/11/kipplader-reisst-sechs-ampeln-zu-boden"
+      "title": "Deutsche Bahn: 19 Milliarden Euro Investitionsstau bei Bahn in Bayern",
+      "url": "https://www.zeit.de/news/2024-09/11/19-milliarden-euro-investitionsstau-bei-bahn-in-bayern"
     },
     {
-      "title": "Tarifverhandlungen: Verdi ruft Haspa-Beschäftigte zum Warnstreik auf",
-      "url": "https://www.zeit.de/news/2024-09/11/verdi-ruft-haspa-beschaeftigte-zum-warnstreik-auf"
+      "title": "Kreislaufwirtschaft: Kunstharz aus Rotorblättern: Unternehmen ausgezeichnet",
+      "url": "https://www.zeit.de/news/2024-09/11/kunstharz-aus-rotorblaettern-unternehmen-ausgezeichnet"
     },
     {
-      "title": "Bauarbeiten: Wichtige Fernstraße nach Österreich für zwei Wochen gesperrt",
-      "url": "https://www.zeit.de/news/2024-09/11/wichtige-fernstrasse-nach-oesterreich-fuer-zwei-wochen-gesperrt"
+      "title": "Unfälle: Lkw mit Stahlträgern kippt bei starkem Wind auf A20 um",
+      "url": "https://www.zeit.de/news/2024-09/11/lkw-mit-stahltraegern-kippt-bei-starkem-wind-auf-a20-um"
     },
     {
-      "title": "Waldbrand im Harz: Brandermittler beginnen Arbeit am Brocken",
-      "url": "https://www.zeit.de/news/2024-09/11/brandermittler-beginnen-arbeit-am-brocken"
+      "title": "Tourismus: Studie: Tourismusniveau in Sachsen fast wie vor Corona",
+      "url": "https://www.zeit.de/news/2024-09/11/studie-tourismusniveau-in-sachsen-fast-wie-vor-corona"
     },
     {
-      "title": "Landtag: Voigt als Vorsitzender der CDU-Fraktion bestätigt",
-      "url": "https://www.zeit.de/news/2024-09/11/voigt-als-vorsitzender-der-cdu-fraktion-bestaetigt"
+      "title": "Kriminalität: Schleuser-Affäre: Ermittler beschlagnahmen Bordell «Pascha»",
+      "url": "https://www.zeit.de/news/2024-09/11/schleuser-affaere-ermittler-beschlagnahmen-bordell-pascha"
     },
     {
-      "title": "Urteil nach tödlichem Unfall: Hochzeitsbus-Unglück in Australien: 32 Jahre Haft für Fahrer",
-      "url": "https://www.zeit.de/news/2024-09/11/hochzeitsbus-unglueck-in-australien-32-jahre-haft-fuer-fahrer"
+      "title": "Auszeichnung: Publikums-Abstimmung zur Goldenen Henne 2024 beginnt",
+      "url": "https://www.zeit.de/news/2024-09/11/publikums-abstimmung-zur-goldenen-henne-2024-beginnt"
     },
     {
-      "title": "Migrationspolitik: Schwarz-Grün in NRW einigt sich auf großes Sicherheitspaket",
-      "url": "https://www.zeit.de/news/2024-09/11/schwarz-gruen-in-nrw-einigt-sich-auf-grosses-sicherheitspaket"
+      "title": "Telefonate mit Klimaaktivisten: Verfassungsbeschwerden von Journalisten gegen Abhöraktion",
+      "url": "https://www.zeit.de/news/2024-09/11/verfassungsbeschwerden-von-journalisten-gegen-abhoeraktion"
     },
     {
-      "title": "Katholische Kirche: Fluglinie versorgt Papst vor Start mit Gebeten",
-      "url": "https://www.zeit.de/news/2024-09/11/fluglinie-versorgt-papst-vor-start-mit-gebeten"
+      "title": "Hauptbahnhof Karlsruhe: Polizei sucht 29 Jahre alten Asylbewerber nach Messerangriff",
+      "url": "https://www.zeit.de/news/2024-09/11/polizei-sucht-29-jahre-alten-asylbewerber-nach-messerangriff"
     }
   ]
 }
