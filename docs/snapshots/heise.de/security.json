@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-11T06:10:21",
+  "timestamp": "2024-09-11T07:06:43",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.1724fe365378616bc355",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.cb71667ec0b3a44b1c4d",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Patchday Adobe",
+      "url": "https://www.heise.de/news/Adobe-Patchday-Kritische-Luecken-in-mehreren-Produkten-9864254.html"
+    },
     {
       "title": "Patchday Microsoft",
       "url": "https://www.heise.de/news/Patchday-Microsoft-Aeltere-Sicherheitsupdates-in-neuer-Luecke-ausgehebelt-9864233.html"
@@ -44,17 +48,19 @@
       "url": "https://www.heise.de/news/SAP-Patchday-16-Sicherheitsmitteilungen-zu-diversen-Produkten-9863252.html"
     },
     {
-      "title": "Progress Kemp LoadMaster und MultiTenant Hypervisor",
-      "url": "https://www.heise.de/news/Loadbalancer-Angreifer-koennen-LoadMaster-kompromittieren-9862252.html"
+      "title": "Adobe-Patchday: Kritische Lücken in mehreren Produkten",
+      "teaser": "Adobe stopft am Patchday mehrere kritische Sicherheitslecks. Updates gibt es für acht Produkte des Herstellers.",
+      "url": "https://www.heise.de/news/Adobe-Patchday-Kritische-Luecken-in-mehreren-Produkten-9864254.html",
+      "image_title": "Laptop mit Adobe-Logo auf dem Display brennt"
     },
     {
-      "title": "Patchday Microsoft: Ältere Sicherheitsupdates in neuer Lücke ausgehebelt",
+      "title": "Patchday Microsoft: Angreifer attackieren vier Lücken in Windows & Co.",
       "teaser": "Microsoft hat Schwachstellen in unter anderem Azure, SharePoint und Windows geschlossen. Einige Lücken gelten als kritisch.",
       "url": "https://www.heise.de/news/Patchday-Microsoft-Aeltere-Sicherheitsupdates-in-neuer-Luecke-ausgehebelt-9864233.html",
       "image_title": "Windows-Logo mit Flecken und der Aufschrift \"Patchday\""
     },
     {
-      "title": "iX-Workshop: Linux-Server vor Angriffen wirksam schützen",
+      "title": "iX-Workshop: Sicherheitsstrategien für Linux-Server",
       "teaser": "Linux-Server und Netzwerkdienste effektiv und umfassend vor Angriffen schützen - von physischer Sicherheit über Verschlüsselung und 2FA bis hin zu SELinux.",
       "url": "https://www.heise.de/news/iX-Workshop-Linux-Server-vor-Angriffen-wirksam-schuetzen-9859106.html",
       "image_title": "iX-Workshop: Linux-Server härten"
@@ -158,12 +164,6 @@
       "teaser": "Die quelloffene Multi-Faktor-Authentifizierung bietet neue Funktionsweisen wie Token-Container, Offline-WebAuthn und ein erweitertes Push-Token-Verfahren.",
       "url": "https://www.heise.de/news/privacyIDEA-3-10-Neue-Container-Verwaltung-und-Offline-WebAuthn-Support-9860743.html",
       "image_title": "Acess Denied steht vor Servern"
-    },
-    {
-      "title": "Durchbruch für Passkeys? Google synchronisiert Schlüssel automatisch",
-      "teaser": "Automatisch und im Hintergrund überträgt Google jetzt Passkeys zwischen Android, Windows und macOS. Voraussetzung ist lediglich Chrome.",
-      "url": "https://www.heise.de/news/Durchbruch-fuer-Passkeys-Google-synchronisiert-Schluessel-automatisch-9860485.html",
-      "image_title": "Gleicher Fingerabdruck auf Token, Laptop und Smartphone"
     },
     {
       "title": "NTLM–Webinar",
