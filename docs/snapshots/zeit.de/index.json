@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-11T03:07:09",
+  "timestamp": "2024-09-11T04:09:29",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -66,6 +66,12 @@
       "text": null
     },
     {
+      "type": null,
+      "src": "https://live0.zeit.de/zon-er/pland-dash-scripts.js",
+      "id": null,
+      "text": null
+    },
+    {
       "type": "module",
       "src": "https://interactive.zeit.de/g/2024/energiekostenmonitor/static/assets/index.11d27e25.mjs",
       "id": null,
@@ -100,32 +106,26 @@
       "src": "https://interactive.zeit.de/g/2024/energiekostenmonitor/static/assets/dashboard.ffb686f3.mjs",
       "id": null,
       "text": null
-    },
-    {
-      "type": null,
-      "src": "https://live0.zeit.de/zon-er/pland-dash-scripts.js",
-      "id": null,
-      "text": null
     }
   ],
   "articles": [
     {
-      "title": "Liveblog:TV-Duell vor US-Wahl : Harris beschwört Gemeinsamkeiten beider Lager, Trump greift an",
-      "teaser": "Im TV-Duell wurde Trump zunehmend wütend und machte wiederholt Falschaussagen. Harris ließ sich nicht aus der Ruhe bringen und gab sich volksnah. Das Liveblog",
+      "title": "Liveblog:TV-Duell vor US-Wahl : Harris bleibt sachlich, Trump wird laut",
+      "teaser": "Im TV-Duell warf Trump mit Anschuldigungen um sich und machte wiederholt Falschaussagen. Harris ließ sich nicht aus der Ruhe bringen und gab sich volksnah. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/2024-09/tv-duell-kamala-harris-donald-trump-live",
       "image_url": "https://img.zeit.de/politik/ausland/2024-09/tv-duell-trump-harris-aufmacher-liveblog/wide__1000x562"
     },
     {
       "title": "TV-Debatte : Das waren die zentralen Aussagen von Harris und Trump",
-      "teaser": "Auf den Handschlag folgt der Schlagabtausch zu Wirtschaft, Migration, Schwangerschaftsabbruch: Zentrale Punkte des Fernsehduells zwischen Kamala Harris und Donald Trump.",
+      "teaser": "Auf den Handschlag folgt der Schlagabtausch zu Wirtschaft, Migration, Schwangerschaftsabbruch: zentrale Punkte des Fernsehduells zwischen Kamala Harris und Donald Trump.",
       "url": "https://www.zeit.de/politik/ausland/2024-09/tv-debatte-usa-kamala-harris-donald-trump-ueberblick",
       "image_url": "https://img.zeit.de/politik/ausland/2024-09/us-wahlkampf-donald-trump-kamala-harris-abc-debate-bild-rita/super__430x286"
     },
     {
-      "title": "Umfragen vor der US-Wahl : Knapper geht es nicht",
-      "teaser": "Kamala Harris hat Bewegung in die US-Wahlumfragen gebracht. Doch Donald Trump scheint sich vom Schock der neuen Gegnerin zu erholen. Bringt das TV-Duell die Entscheidung?",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/us-wahl-umfragen-kamala-harris-donald-trump-tv-duell",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/2024-09-us-wahl-umfragen-kamala-harris-donald-trump-tv-duell-teaserbild/super__430x286"
+      "title": "US-Wahlkampf : Taylor Swift unterstützt Kamala Harris",
+      "teaser": "Über einen möglichen Wahlaufruf von Taylor Swift war wochenlang spekuliert worden. Nach dem TV-Duell stellt sich der Megastar nun hinter Harris.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/us-wahlkampf-tv-debatte-kamala-harris-donald-trump-reaktionen",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/us-wahlkampf-donald-trump-kamala-harris-abc-debate-bild-tayorswift/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Migrationsdebatte : Die große Asylwende fällt aus",
@@ -146,16 +146,40 @@
       "image_url": "https://img.zeit.de/politik/deutschland/2024-09/migrationspolitik-staedtetag-asyl-integration-kritik-bild/super__430x286"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Louisa Specht-Riemenschneider : \"Ich habe TikTok nie genutzt, tue es nicht und werde es nie tun\"",
+      "teaser": "Die neue Bundesdatenschützerin Louisa Specht-Riemenschneider will weniger verhindern und mehr Datennutzung ermöglichen. Und zieht trotzdem klare Grenzen.",
+      "url": "https://www.zeit.de/digital/datenschutz/2024-09/louisa-specht-riemenschneider-bundesbeauftragte-datenschutz-informationsfreiheit-bfdi",
+      "image_url": "https://img.zeit.de/digital/2024-09/louisa-specht-riemenschneider-bundesbeauftragte-datenschutz-informationsfreiheit/wide__892x501"
+    },
+    {
+      "title": "Mexiko : Demonstranten dringen bei Protest gegen Justizreform in Senat ein",
+      "teaser": "Justizangestellte in Mexiko fürchten eine Aushöhlung des Rechtsstaats durch die Direktwahl von Bundesrichtern. Diese sind in unbefristeten Streik getreten.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/proteste-mexiko-justizreform-senat-demonstranten",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/mexiko-justizreform-senat-protest-bild/super__430x286"
+    },
+    {
+      "title": "Kalifornien : Waldbrände bei Los Angeles breiten sich weiter aus",
+      "teaser": "Nahe der zweitgrößten Stadt der USA sind mehrere Waldbrände außer Kontrolle. Nordöstlich von Los Angeles hat ein Feuer mehr als 100 Quadratkilometer Land zerstört.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/kalifornien-los-angeles-waldbraende-breiten-sich-aus",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/waldbrand-usa-kalifornien-los-angeles-golf/super__430x286"
+    },
+    {
+      "title": "Überschwemmungsgefahren : Fast 400.000 Deutsche laut Studie von Hochwasser bedroht",
+      "teaser": "Laut Forschern könnten allein am Rhein binnen Jahren knapp 200.000 Menschen von Hochwasser betroffen sein. Zur Absicherung wird eine Elementarschadenversicherung erwogen.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/hochwasser-gefahren-deutschland-studie-elementarschaedenversicherung",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/flut-ahrtal-ruine-drei-jahre-spaeter-bild/super__430x286"
+    },
+    {
+      "title": "Nachrichtenpodcast : An der deutschen Grenze inhaftiert",
+      "teaser": "Die Innenministerin macht neue Vorschläge zur Migrationspolitik an der deutschen Grenze. Und: Viele Menschen in Deutschland starten ohne gute Bildungsbasis ins Leben.",
+      "url": "https://www.zeit.de/politik/2024-09/migrationspolitik-nancy-faeser-union-grenzschutz-nachrichtenpodcast",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__892x501"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Guantánamo : Die anderen Opfer von 9/11",
       "teaser": "Nach den Anschlägen kam die Folter: So verhinderten die USA bis heute den wichtigsten Prozess in der Geschichte ihres Landes – und treiben Angehörige in die Verzweiflung.",
       "url": "https://www.zeit.de/politik/ausland/2024-09/guantanamo-11-september-terror-prozess",
       "image_url": "https://img.zeit.de/politik/ausland/2024-09/guantanamo-11-september-terror-10/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Ampelkoalition : Auf zur nächsten Klatsche",
-      "teaser": "Olaf Scholz und die Ampel haben ihre politische Energie verloren. Jeder der drei Ampelmänner könnte sie zurückgewinnen, doch dafür müssten sie endlich mal \"all in\".",
-      "url": "https://www.zeit.de/kultur/2024-09/ampelkoalition-olaf-scholz-robert-habeck-christian-lindner",
-      "image_url": "https://img.zeit.de/kultur/2024-09/ampelkoalition-olaf-scholz-robert-habeck-christian-lindner-bild/wide__892x501"
     },
     {
       "title": "Investitionen : Tut endlich was!",
@@ -164,34 +188,10 @@
       "image_url": "https://img.zeit.de/politik/deutschland/2024-09/investitionen-draghi-bdi-schuldenbremse-wirtschaftswachstum-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Volkswagen : So steht es wirklich um VW",
-      "teaser": "Der Volkswagen-Vorstand droht mit nie dagewesenem Stellenabbau – dabei verdient der Konzern Milliarden. Unsere Grafiken zeigen, was bei VW wirklich los ist.",
-      "url": "https://www.zeit.de/mobilitaet/2024-09/volkswagen-krise-autoindustrie-elektroautos-verkaeufe",
-      "image_url": "https://img.zeit.de/mobilitaet/2024-09/volkswagen-krise-autoindustrie-elektroautos/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Sexualtherapeuten : \"Ich habe eine sehr hohe Ekeltoleranz\"",
-      "teaser": "Sexualtherapeuten helfen bei intimsten Fragen und sexuellen Störungen. Sie hören teils extreme Schilderungen. Vier von ihnen erzählen von ihren größten Herausforderungen.",
-      "url": "https://www.zeit.de/wissen/2024-09/sexualtherapeuten-erfahrungen-patienten-sexualitaet",
-      "image_url": "https://img.zeit.de/wissen/2024-09/sexualtherapeuten-erfahrungen-patienten-sexualitaet-bild/wide__892x501"
-    },
-    {
-      "title": "Paralympics-Häme : Veranstalter sagen Tourtermine von Luke Mockridge ab",
-      "teaser": "Trotz ausverkaufter Auftritte haben Veranstalter Tourtermine von Luke Mockridge gestrichen. Grund sind seine beleidigenden Aussagen über Para-Athleten.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/paralympics-haeme-luke-mockridge-tour-absage",
-      "image_url": "https://img.zeit.de/kultur/2024-09/paralympics-haeme-luke-mockridge-tour-absage/super__430x286"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Krebs in der Familie : Die Royal Family auf \"Krebsreise\"",
       "teaser": "In einem Video inszeniert Prinzessin Kate ihre Krebserkrankung wie eine Landpartie. Von dem, was Krebs normalerweise mit Familien anrichtet, ist das leider weit entfernt.",
       "url": "https://www.zeit.de/familie/2024-09/krebs-familie-krankheit-belastung-gesundheit",
       "image_url": "https://img.zeit.de/2024-09/kate-william-bild/super__430x286"
-    },
-    {
-      "title": "Vereinigtes Königreich : Großbritannien führt elektronische Reisegenehmigung ein",
-      "teaser": "EU-Bürger, die ab April 2025 nach Großbritannien reisen möchten, müssen eine elektronische Reisegenehmigung beantragen. Für andere Staaten gilt das schon ab Januar.",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/grossbritannien-eu-eta-reisegenehmigung-2025",
-      "image_url": "https://img.zeit.de/mobilitaet/2024-09/grossbritannien-elektronische-reisegenehmigung-besucher-visapflicht-eu-staaten/super__430x286"
     },
     {
       "title": "Liveblog:Krieg in Israel und Gaza : \"Staat Palästina\" erstmals mit aktivem Status bei UN-Vollversammlung",
@@ -200,16 +200,22 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-09/un-palaestina-vollversammlung-aktiver-status/super__430x286"
     },
     {
+      "title": "Paralympics-Häme : Veranstalter sagen Tourtermine von Luke Mockridge ab",
+      "teaser": "Trotz ausverkaufter Auftritte haben Veranstalter Tourtermine von Luke Mockridge gestrichen. Grund sind seine beleidigenden Aussagen über Para-Athleten.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/paralympics-haeme-luke-mockridge-tour-absage",
+      "image_url": "https://img.zeit.de/kultur/2024-09/paralympics-haeme-luke-mockridge-tour-absage/super__430x286"
+    },
+    {
+      "title": "Vereinigtes Königreich : Großbritannien führt elektronische Reisegenehmigung ein",
+      "teaser": "EU-Bürger, die ab April 2025 nach Großbritannien reisen möchten, müssen eine elektronische Reisegenehmigung beantragen. Für andere Staaten gilt das schon ab Januar.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/grossbritannien-eu-eta-reisegenehmigung-2025",
+      "image_url": "https://img.zeit.de/mobilitaet/2024-09/grossbritannien-elektronische-reisegenehmigung-besucher-visapflicht-eu-staaten/super__430x286"
+    },
+    {
       "title": "Liveblog:Ukrainekrieg : Russland startet Manöver mit mehr als 400 Kriegsschiffen",
       "teaser": "Mehr als 400 russische Schiffe und 90.000 Personen sind an einem von Putin eröffneten Manöver beteiligt. Lettland verlängert den Grenzschutz zu Belarus. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
       "image_url": "https://img.zeit.de/politik/ausland/2024-09/russland-ukraine-putin-marine-grossmanoever-usa/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Arbeitsproduktivität : Warum wir immer unproduktiver werden",
-      "teaser": "Es klingt paradox: In Deutschland wird zwar immer mehr gearbeitet, aber die Produktivität sinkt. Sind wir einfach zu faul?",
-      "url": "https://www.zeit.de/wirtschaft/2024-06/arbeitsproduktivitaet-arbeitsstunden-deutschland-leistung-paradox",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-09/arbeitsproduktivitaet-arbeitsstunden-deutschland/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Gerichte für Kinder : Was Eltern wirklich kochen",
@@ -218,16 +224,28 @@
       "image_url": "https://img.zeit.de/zeit-magazin/2024-09/gerichte-kinder-schnell-einfach-eltern-teaser-neu/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Gehirne von Jugendlichen : Wie die Pandemie auf jugendliche Gehirne wirkte",
-      "teaser": "Ängste, Depressionen, Essstörungen: Die Pandemie hat Jugendlichen aufs Gemüt geschlagen. Eine neue Studie zeigt nun: Sogar ihre Gehirne alterten schneller. Was ist dran?",
-      "url": "https://www.zeit.de/gesundheit/2024-09/gehirn-jugendliche-studie-forschung-alterung-corona-pandemie",
-      "image_url": "https://img.zeit.de/gesundheit/2024-09/gehirn-jugendliche-studie-forschung-alterung-corona-pandemie-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Marketingmanager : \"Ich bekomme den Druck nicht ausreichend vergütet\"",
+      "teaser": "Pablo arbeitet als Marketingmanager in München und trägt als Berufsanfänger schon viel Verantwortung. Obwohl er nicht so viel verdient, spart er jeden Monat 500 Euro.",
+      "url": "https://www.zeit.de/arbeit/2024-09/marketing-manager-gehalt-sparen-familie-kontoauszug",
+      "image_url": "https://img.zeit.de/arbeit/2024-09/marketing-manager-gehalt-sparen/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Arbeitsproduktivität : Warum wir immer unproduktiver werden",
+      "teaser": "Es klingt paradox: In Deutschland wird zwar immer mehr gearbeitet, aber die Produktivität sinkt. Sind wir einfach zu faul?",
+      "url": "https://www.zeit.de/wirtschaft/2024-06/arbeitsproduktivitaet-arbeitsstunden-deutschland-leistung-paradox",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-09/arbeitsproduktivitaet-arbeitsstunden-deutschland/super__430x286"
     },
     {
       "title": "Nations League : Deutschland und die Niederlande trennen sich unentschieden",
       "teaser": "Nach frühem Rückstand holt das DFB-Team gegen die Niederlande nur ein Unentschieden. Trotzdem führt Deutschland aktuell in seiner Gruppe – dank des Torverhältnisses.",
       "url": "https://www.zeit.de/sport/2024-09/nations-league-deutschland-niederlande-unentschieden",
       "image_url": "https://img.zeit.de/sport/2024-09/deutschland-niederlande-bild/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Sexualtherapeuten : \"Ich habe eine sehr hohe Ekeltoleranz\"",
+      "teaser": "Sexualtherapeuten helfen bei intimsten Fragen und sexuellen Störungen. Sie hören teils extreme Schilderungen. Vier von ihnen erzählen von ihren größten Herausforderungen.",
+      "url": "https://www.zeit.de/wissen/2024-09/sexualtherapeuten-erfahrungen-patienten-sexualitaet",
+      "image_url": "https://img.zeit.de/wissen/2024-09/sexualtherapeuten-erfahrungen-patienten-sexualitaet-bild/super__430x286"
     },
     {
       "title": "Mode bei den Paralympics : Mit Mode gegen Vorurteile",
@@ -240,24 +258,6 @@
       "teaser": "Viele Post-Covid-Patienten sollen in Reha wieder fit für die Arbeit gemacht werden. Für einige funktioniert das nicht. Sie erleben die Härte der Leistungsgesellschaft.",
       "url": "https://www.zeit.de/arbeit/2024-08/postcovid-coronavirus-gesundheit-langzeitfolgen-arbeit",
       "image_url": "https://img.zeit.de/arbeit/2024-08/postcovid-coronavirus-gesundheit-2/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Moderne Landwirtschaft : Die Öko-Utopie ist möglich",
-      "teaser": "Agrar-Fachleute haben eine hoffnungsvolle Vision für Europas Äcker und Wälder entworfen – mit wissenschaftlichem Fundament. Sieht so die Landwirtschaft von morgen aus?",
-      "url": "https://www.zeit.de/wissen/2024-09/moderne-landwirtschaft-oekologisch-nachhaltig-veraenderung",
-      "image_url": "https://img.zeit.de/wissen/2024-09/moderne-landwirtschaft-oekologisch-nachhaltig/super__430x286"
-    },
-    {
-      "title": "China : Huawei stellt erstes doppelt aufklappbares Smartphone vor",
-      "teaser": "Das Huawei Mate XT ist das erste seiner Art. Der Bildschirm lässt sich zweimal falten und ist außergewöhnlich dünn. Das Smartphone kostet aktuell mehr als ein Laptop.",
-      "url": "https://www.zeit.de/wirtschaft/2024-09/china-huawei-smartphone-klappbar-apple",
-      "image_url": "https://img.zeit.de/digital/2024-09/smartphone-huawei-mate-xt-faltbar/super__430x286"
-    },
-    {
-      "title": "Migration : Mindestens 26 Menschen vor der Küste Senegals ertrunken",
-      "teaser": "Am Sonntag war ein Fischerboot mit Migranten vor der Küste des Senegals gekentert. Bislang hat die Marine 26 Leichen geborgen. Weitere Tote werden befürchtet.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/senegal-boot-migranten-gekentert-26-tote-bisher",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/migranten-boot-kueste-senegal-tote/super__430x286"
     },
     {
       "title": "TV-Debatte : Trump weist Verantwortung für Sturm auf das Kapitol zurück",
@@ -290,23 +290,23 @@
       "image_url": "https://img.zeit.de/politik/deutschland/2024-09/migrationsdebatte-friedrich-merz-union-ampel-cdu/super__320x213"
     },
     {
+      "title": "Migration : Mindestens 26 Menschen vor der Küste Senegals ertrunken",
+      "teaser": "Am Sonntag war ein Fischerboot mit Migranten vor der Küste des Senegals gekentert. Bislang hat die Marine 26 Leichen geborgen. Weitere Tote werden befürchtet.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/senegal-boot-migranten-gekentert-26-tote-bisher",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/migranten-boot-kueste-senegal-tote/super__320x213"
+    },
+    {
+      "title": "China : Huawei stellt erstes doppelt aufklappbares Smartphone vor",
+      "teaser": "Das Huawei Mate XT ist das erste seiner Art. Der Bildschirm lässt sich zweimal falten und ist außergewöhnlich dünn. Das Smartphone kostet aktuell mehr als ein Laptop.",
+      "url": "https://www.zeit.de/wirtschaft/2024-09/china-huawei-smartphone-klappbar-apple",
+      "image_url": "https://img.zeit.de/digital/2024-09/smartphone-huawei-mate-xt-faltbar/super__320x213"
+    },
+    {
       "title": "Migrationsdebatte : Union bricht Migrationsgespräche mit der Regierung ab",
       "teaser": "Die Bundesregierung zeigte sich zuletzt offen für Zurückweisungen von Asylbewerbern an der Grenze. Der Union geht das nicht weit genug. Verhandlungen wurden beendet.",
       "url": "https://www.zeit.de/politik/deutschland/2024-09/union-bricht-migrationsgespraeche-mit-der-regierung-ab",
       "image_url": "https://img.zeit.de/politik/deutschland/2024-09/migrationsgespraeche-migrationspolitik/super__320x213",
       "image_title": "Migrationsgespräche Migrationspolitik"
-    },
-    {
-      "title": "Zurückweisungen : Grenzkontrollen müssen laut EU-Kommission \"absolute Ausnahme\" bleiben",
-      "teaser": "Die EU-Kommission erinnert an den Ausnahmecharakter von Grenzkontrollen im Schengenraum. Polens Regierung nennt die geplante Maßnahme der Bundesregierung \"inakzeptabel\".",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/grenzkontrollen-eu-polen-baerbock",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/grenzkontrollen-eu-polen-baerbock-bundespolizei/super__320x213"
-    },
-    {
-      "title": "Migrationsdebatte : Faeser will Asylgesuche schon an der Grenze prüfen",
-      "teaser": "Bundesinnenministerin Nancy Faeser hat mit der Unionsfraktion über die Prüfung von Asylgesuchen an der Grenze geredet. Gegen Zurückweisungen gibt es rechtliche Bedenken.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/bundesinnenministerium-faeser-nancy-grenzkontrollen-zurueckweisung-eu-kommission",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/nancy-faeser-grenzverfahren-asylsuchende/super__320x213"
     },
     {
       "title": "Livepodcasts : Das Programm der ZEIT Podcast-Tour 2024",
@@ -367,6 +367,12 @@
       "teaser": "Die Schwarze Bewährungshelferin Tiffany hat Mike aus der Neonazi-Szene geholt. Wie reagiert sie, wenn sie erfährt, dass er möglicherweise Schwarze Menschen ermordet hat?",
       "url": "https://www.zeit.de/gesellschaft/2024-06/neonazi-aussteiger-mord-gestaendnis-true-crime-white-podcast-folge-9",
       "image_url": "https://img.zeit.de/politik/2024-05/white-podcast-folge1-a-srgb/super__320x213"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Moderne Landwirtschaft : Die Öko-Utopie ist möglich",
+      "teaser": "Agrar-Fachleute haben eine hoffnungsvolle Vision für Europas Äcker und Wälder entworfen – mit wissenschaftlichem Fundament. Sieht so die Landwirtschaft von morgen aus?",
+      "url": "https://www.zeit.de/wissen/2024-09/moderne-landwirtschaft-oekologisch-nachhaltig-veraenderung",
+      "image_url": "https://img.zeit.de/wissen/2024-09/moderne-landwirtschaft-oekologisch-nachhaltig/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Fragen Sie ZEIT ONLINE : Haben Sie ein Thema verpasst?",
@@ -431,22 +437,22 @@
       "url": "https://www.zeit.de/politik/deutschland/2024-09/migrationsgespraech-union-teilnahme-offen-zurueckweisungen"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Zinsen : So sichern Sie sich jetzt noch hohe Zinsen",
+      "teaser": "Am 12. September dürfte die Europäische Zentralbank die Leitzinsen senken. Wie Sie die Treppenstrategie nutzen, um ihr Geld noch zu besseren Konditionen anzulegen.",
+      "url": "https://www.zeit.de/geld/2024-09/zinsen-geldanlage-sparen-leitzins-festgeld",
+      "image_url": "https://img.zeit.de/geld/2024-09/zinsen-geldanlage-sparen-leitzins/wide__892x501"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Ampelkoalition : Auf zur nächsten Klatsche",
+      "teaser": "Olaf Scholz und die Ampel haben ihre politische Energie verloren. Jeder der drei Ampelmänner könnte sie zurückgewinnen, doch dafür müssten sie endlich mal \"all in\".",
+      "url": "https://www.zeit.de/kultur/2024-09/ampelkoalition-olaf-scholz-robert-habeck-christian-lindner",
+      "image_url": "https://img.zeit.de/kultur/2024-09/ampelkoalition-olaf-scholz-robert-habeck-christian-lindner-bild/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Hamburger Hafen : Was in Rotterdam besser läuft",
       "teaser": "In dem größten Hafen Europas arbeiten viele Kräne längst vollautomatisch – und die Betreiber in ganz anderen Strukturen. Könnte Hamburg das auch?",
       "url": "https://www.zeit.de/2024/37/hamburger-hafen-rotterdam-niederlande-hafenbehoerde-europa",
-      "image_url": "https://img.zeit.de/2024/37/hamburger-hafen-rotterdam-niederlande-hafenbehoerde-europa-teaser/wide__892x501"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Seyla Benhabib : \"Israels Armee hat das Recht auf Selbstverteidigung überschritten\"",
-      "teaser": "Israel ist im Gazastreifen zu weit gegangen, sagt die Philosophin Seyla Benhabib. Auch sei die deutsche Antisemitismusresolution falsch.",
-      "url": "https://www.zeit.de/kultur/2024-09/seyla-benhabib-israel-krieg-judeo-faschismus-zionismus-antisemitismus",
-      "image_url": "https://img.zeit.de/kultur/2024-09/seyla-benhabib-israel-krieg-judeo-faschismus-zionismus-3/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Jugend – Es ist kompliziert\" : Auf vage Weise woke",
-      "teaser": "Junge Menschen leben in Cafés und ihrer WG am Leben vorbei – Berlin-Blase sei Dank! Die Sitcom \"Jugend\" knüpft überzeugend an US-amerikanische Genreklassiker an.",
-      "url": "https://www.zeit.de/kultur/film/2024-09/jugend-es-ist-kompliziert-zdf-neo-sitcom-fernsehen",
-      "image_url": "https://img.zeit.de/kultur/2024-09/zdfneojugendkompliziert2/super__430x286"
+      "image_url": "https://img.zeit.de/2024/37/hamburger-hafen-rotterdam-niederlande-hafenbehoerde-europa-teaser/super__430x286"
     },
     {
       "title": "Verlagsangebot : 9 historische Altstädte in Deutschland",
@@ -617,10 +623,10 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-09/umfragen-us-wahl-donald-trump-kamala-harris-swing-states-teaserbild/super__430x286"
     },
     {
-      "title": "Nachrichtenpodcast : Die Union sitzt mit am Tisch",
-      "teaser": "Die Bundesregierung berät weitere Schritte in der Asylpolitik – auch mit der größten Oppositionsfraktion. Und: Christian Lindner verteidigt den Haushaltsentwurf.",
-      "url": "https://www.zeit.de/politik/2024-09/asylpolitik-bund-laender-union-migration-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__430x286"
+      "title": "Zurückweisungen : Grenzkontrollen müssen laut EU-Kommission \"absolute Ausnahme\" bleiben",
+      "teaser": "Die EU-Kommission erinnert an den Ausnahmecharakter von Grenzkontrollen im Schengenraum. Polens Regierung nennt die geplante Maßnahme der Bundesregierung \"inakzeptabel\".",
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/grenzkontrollen-eu-polen-baerbock",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/grenzkontrollen-eu-polen-baerbock-bundespolizei/super__430x286"
     },
     {
       "title": "Verlagsangebot : Das kleine Hauptstadt-Quiz",
@@ -728,10 +734,16 @@
       "image_title": "BMW – „nur“ ein Rückruf?"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); \"Jugend – Es ist kompliziert\" : Auf vage Weise woke",
+      "teaser": "Junge Menschen leben in Cafés und ihrer WG am Leben vorbei – Berlin-Blase sei Dank! Die Sitcom \"Jugend\" knüpft überzeugend an US-amerikanische Genreklassiker an.",
+      "url": "https://www.zeit.de/kultur/film/2024-09/jugend-es-ist-kompliziert-zdf-neo-sitcom-fernsehen",
+      "image_url": "https://img.zeit.de/kultur/2024-09/zdfneojugendkompliziert2/wide__892x501"
+    },
+    {
       "title": "Teresa Reichl : Alte Bücher für junge Leute",
       "teaser": "Schiller bis Lessing: Kabarettistin Teresa Reichl liebt Klassiker der Literatur und will auch andere begeistern – mit einer YouTube-Sendung und nun auch mit einem Buch.",
       "url": "https://www.zeit.de/2024/38/teresa-reichl-but-make-it-classy-literatur-klassiker-jugendliche",
-      "image_url": "https://img.zeit.de/2024/38/alte-buecher-fuer-junge-leute-bild-1/wide__892x501"
+      "image_url": "https://img.zeit.de/2024/38/alte-buecher-fuer-junge-leute-bild-1/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Kulturelle Stereotype : Deutsch? Ich?",
@@ -740,10 +752,10 @@
       "image_url": "https://img.zeit.de/zeit-magazin/2024-08/kulturelle-stereotype-deutsch/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); TikTok : Eine Woche im Männer-Fascho-Algo",
-      "teaser": "TikTok ist essenziell in der Radikalisierung junger Männer. Jugendliche Unsicherheit und Kränkung ziehen sie in den Sumpf. Was sie dort sehen, ist kaum auszuhalten.",
-      "url": "https://www.zeit.de/zett/politik/2024-08/tiktok-junge-maenner-radikalisierung-social-media",
-      "image_url": "https://img.zeit.de/zett/2024-07/tiktok-junge-maenner-radikalisierung/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Seyla Benhabib : \"Israels Armee hat das Recht auf Selbstverteidigung überschritten\"",
+      "teaser": "Israel ist im Gazastreifen zu weit gegangen, sagt die Philosophin Seyla Benhabib. Auch sei die deutsche Antisemitismusresolution falsch.",
+      "url": "https://www.zeit.de/kultur/2024-09/seyla-benhabib-israel-krieg-judeo-faschismus-zionismus-antisemitismus",
+      "image_url": "https://img.zeit.de/kultur/2024-09/seyla-benhabib-israel-krieg-judeo-faschismus-zionismus-3/super__430x286"
     },
     {
       "title": "James Earl Jones : American Dad",
@@ -763,12 +775,6 @@
       "teaser": "Taito Yoshino führt den einzigen Verlag für Mangas in Österreich. Im Interview erklärt er, warum Übersetzungen nicht nur gut klingen, sondern auch gut aussehen müssen.",
       "url": "https://www.zeit.de/2024/38/mangas-comic-japan-oesterreich-uebersetzung-verlag",
       "image_url": "https://img.zeit.de/2024/38/die-mimik-ist-uebertrieben-bild-1/super__430x286"
-    },
-    {
-      "title": "Rebecca Horn : Das große Erwachen",
-      "teaser": "Die Welt- und Wunderkünstlerin Rebecca Horn erweckte die Kunst zu neuem Leben. Nun ist Horn im Alter von 80 Jahren gestorben. Ein Nachruf",
-      "url": "https://www.zeit.de/kultur/kunst/2024-09/rebecca-horn-bildhauerin-kuenstlerin-nachruf",
-      "image_url": "https://img.zeit.de/kultur/kunst/2024-09/rebecca-horn-kuenstlerin-nachruf-bild-2/super__430x286"
     },
     {
       "title": "Ukrainekrieg : Drohnenangriff auf Moskau – das schildern die Anwohner",
@@ -873,16 +879,16 @@
       "image_url": "https://img.zeit.de/gesundheit/2024-09/arzt-termin-strafzahlung-unentschuldigtes-fehlen/wide__892x501"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Gehirne von Jugendlichen : Wie die Pandemie auf jugendliche Gehirne wirkte",
+      "teaser": "Ängste, Depressionen, Essstörungen: Die Pandemie hat Jugendlichen aufs Gemüt geschlagen. Eine neue Studie zeigt nun: Sogar ihre Gehirne alterten schneller. Was ist dran?",
+      "url": "https://www.zeit.de/gesundheit/2024-09/gehirn-jugendliche-studie-forschung-alterung-corona-pandemie",
+      "image_url": "https://img.zeit.de/gesundheit/2024-09/gehirn-jugendliche-studie-forschung-alterung-corona-pandemie-bild/super__430x286"
+    },
+    {
       "title": "Krankenhausgipfel in Berlin : Kliniken warnen vor großen Leistungseinschränkungen durch Klinikreform",
       "teaser": "Die stationäre Versorgung in Kliniken soll verbessert werden. Doch vor dem Krankenhausgipfel schlagen die Kliniken Alarm. Es drohten Wartelisten und Einschränkungen.",
       "url": "https://www.zeit.de/gesundheit/2024-09/krankenhausreform-kritik-karl-lauterbach-krankenhausgipfel",
       "image_url": "https://img.zeit.de/gesundheit/2024-09/krankenhausreform-kritik-karl-lauterbach-krankenhausgipfel-bild/super__430x286"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Narzissmus • Das Beste aus Z+ : Wir sind alle Narzissten",
-      "teaser": "Aber wir sind es unterschiedlich stark. Hier erklärt der Psychologe Mitja Back, ab wann aus der Eigenschaft eine Krankheit wird. Und welchen Einfluss Eltern darauf haben.",
-      "url": "https://www.zeit.de/2024/38/narzissmus-psychologie-persoenlichkeitsstoerung-charakter-beziehung",
-      "image_url": "https://img.zeit.de/2024/38/narzissmus-psychologie-persoenlichkeitsstoerung-charakter-beziehung-bild/super__430x286"
     },
     {
       "title": "Wettbewerbsverzerrung : EuGH bestätigt Geldbuße von 2,4 Milliarden Euro gegen Google",
@@ -933,11 +939,11 @@
       "image_url": "https://img.zeit.de/gesellschaft/2024-08/studenten-azubis-besonders-armutsgefaehrdet-hohe-wohnkosten-bild/wide__892x501"
     },
     {
-      "title": "Verlagsangebot : Ein Studium finden, das passt",
-      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
-      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.teaser.bewerben-schreibtisch.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=sit-verlagsteaser&amp;utm_content=sit_teaser_bewerben-schreibtisch_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/sit-bewerben-schreibtisch/wide__430x286__desktop",
-      "image_title": "Ein Studium finden, das passt"
+      "title": "Verlagsangebot : Welcher Beruf passt zu mir?",
+      "teaser": "Mit dem BOA-Berufstest erfahren Berufseinsteiger mehr über die eigenen Stärken und finden den passenden Job.",
+      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.verlagsteaser.quan.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=verlagsteaserindex&amp;utm_content=bot_verlagsteaser_quan_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/boa-quan/wide__430x286__desktop",
+      "image_title": "Welcher Beruf passt zu mir?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Herausforderung in Karriere und Leben : Die Strategien der Hürdenläufer",
@@ -976,10 +982,10 @@
       "image_url": "https://img.zeit.de/mobilitaet/2024-09/deutschen-bahn-ist-ein-stromausfallbahn-zug-energieversorger-grossstoerung-frankfurt/wide__892x501"
     },
     {
-      "title": "Automobilindustrie : Ampel sieht bei Volkswagen-Krise EU-Kommission in der Pflicht",
-      "teaser": "Sinkende Verkaufszahlen und neue Wettbewerber sorgen für eine alarmierende Lage bei Volkswagen. Ampelpolitiker plädieren für mehr Hilfe von Ursula von der Leyen.",
-      "url": "https://www.zeit.de/mobilitaet/2024-09/volkswagen-krise-ampel-hilfe-eu-kommission",
-      "image_url": "https://img.zeit.de/mobilitaet/2024-09/ampelvertreter-volkswagen-krise-eu-kommission-in-der-pflicht-bild/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Volkswagen : So steht es wirklich um VW",
+      "teaser": "Der Volkswagen-Vorstand droht mit nie dagewesenem Stellenabbau – dabei verdient der Konzern Milliarden. Unsere Grafiken zeigen, was bei VW wirklich los ist.",
+      "url": "https://www.zeit.de/mobilitaet/2024-09/volkswagen-krise-autoindustrie-elektroautos-verkaeufe",
+      "image_url": "https://img.zeit.de/mobilitaet/2024-09/volkswagen-krise-autoindustrie-elektroautos/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Polizeieinsatz in Hamburg : Ein nervöser Vormittag",
@@ -1006,36 +1012,36 @@
       "image_url": "https://img.zeit.de/sport/2024-08/surfen-kuba-frank-gonzales-guerra-olympia-bild/super__430x286"
     },
     {
-      "title": "Die Lage im Überblick: Außenminister in Kiew - Darf die Ukraine bald weit schießen?",
-      "url": "https://www.zeit.de/news/2024-09/11/aussenminister-in-kiew-darf-die-ukraine-bald-weit-schiessen"
+      "title": "Feuer in der Nacht: Landwirtschaftliche Halle brennt ab - 300.000 Euro Schaden",
+      "url": "https://www.zeit.de/news/2024-09/11/landwirtschaftliche-halle-brennt-ab-300-000-euro-schaden"
     },
     {
-      "title": "Musik: TV-Satiriker Kalkofe: 70er waren das farbloseste Jahrzehnt",
-      "url": "https://www.zeit.de/news/2024-09/11/tv-satiriker-kalkofe-70er-waren-das-farbloseste-jahrzehnt"
+      "title": "Schlüsselindustrie: Autoland Deutschland - wie schwer wiegt die Krise?",
+      "url": "https://www.zeit.de/news/2024-09/11/autoland-deutschland-wie-schwer-wiegt-die-krise"
     },
     {
-      "title": "Nations League: Kane nach Doppelpack im 100. Länderspiel: «Keine Grenzen»",
-      "url": "https://www.zeit.de/news/2024-09/11/kane-nach-doppelpack-im-100-laenderspiel-keine-grenzen"
+      "title": "Migration: Mehr unerlaubte Einreisen bis Ende Juli als in ganz 2023",
+      "url": "https://www.zeit.de/news/2024-09/11/mehr-unerlaubte-einreisen-bis-ende-juli-als-in-ganz-2023"
     },
     {
-      "title": "Leute: Annette Frier: Wenig interessante Rollen für Frauen ab 40",
-      "url": "https://www.zeit.de/news/2024-09/11/annette-frier-wenig-interessante-rollen-fuer-frauen-ab-40"
+      "title": "EM-Qualifikation: Fünf Adeyemi-Tore in zwei Spielen: «Sollte Standard sein»",
+      "url": "https://www.zeit.de/news/2024-09/11/fuenf-adeyemi-tore-in-zwei-spielen-sollte-standard-sein"
     },
     {
-      "title": "Todestag: Joachim Fuchsberger starb vor zehn Jahren",
-      "url": "https://www.zeit.de/news/2024-09/11/joachim-fuchsberger-starb-vor-zehn-jahren"
+      "title": "Verkehr: Teile der Carolabrücke in Dresden eingestürzt",
+      "url": "https://www.zeit.de/news/2024-09/11/teile-der-carolabruecke-in-dresden-eingestuerzt"
     },
     {
-      "title": "Personalien: Neue Stellungnahme der geschassten Staatssekretärin",
-      "url": "https://www.zeit.de/news/2024-09/11/neue-stellungnahme-der-geschassten-staatssekretaerin"
+      "title": "Fußball-Nationalmannschaft: Undavs glorreicher Tag: Tor-Premiere und «Gammel-Vorlage»",
+      "url": "https://www.zeit.de/news/2024-09/11/undavs-glorreicher-tag-tor-premiere-und-gammel-vorlage"
     },
     {
-      "title": "Showdown: SPD wie AfD zeigen sich zuversichtlich vor Wahl",
-      "url": "https://www.zeit.de/news/2024-09/11/spd-wie-afd-zeigen-sich-zuversichtlich-vor-wahl"
+      "title": "Nach dem TV-Duell: Instagram-Post: Swift unterstützt Harris im Wahlkampf",
+      "url": "https://www.zeit.de/news/2024-09/11/instagram-post-swift-unterstuetzt-harris-im-wahlkampf"
     },
     {
-      "title": "Nach gescheiterten Gesprächen: Lindner will Migrationsgipfel mit Scholz, Merz und Habeck",
-      "url": "https://www.zeit.de/news/2024-09/11/lindner-will-migrationsgipfel-mit-scholz-merz-und-habeck"
+      "title": "Kriminalität: Versicherer: Berlin ist Hauptstadt der Autodiebe",
+      "url": "https://www.zeit.de/news/2024-09/11/versicherer-berlin-ist-hauptstadt-der-autodiebe"
     }
   ]
 }
