@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-11T07:06:43",
+  "timestamp": "2024-09-11T08:09:34",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Citrix Workspace App für Windows",
+      "url": "https://www.heise.de/news/Citrix-Workspace-App-fuer-Windows-ermoeglicht-Rechteausweitung-9864320.html"
+    },
+    {
       "title": "Patchday Adobe",
       "url": "https://www.heise.de/news/Adobe-Patchday-Kritische-Luecken-in-mehreren-Produkten-9864254.html"
     },
@@ -44,20 +48,10 @@
       "url": "https://www.heise.de/news/Acht-Jahre-alte-Luecke-in-ImageMagick-und-weitere-Lecks-missbraucht-9863292.html"
     },
     {
-      "title": "Patchday SAP",
-      "url": "https://www.heise.de/news/SAP-Patchday-16-Sicherheitsmitteilungen-zu-diversen-Produkten-9863252.html"
-    },
-    {
-      "title": "Adobe-Patchday: Kritische Lücken in mehreren Produkten",
-      "teaser": "Adobe stopft am Patchday mehrere kritische Sicherheitslecks. Updates gibt es für acht Produkte des Herstellers.",
-      "url": "https://www.heise.de/news/Adobe-Patchday-Kritische-Luecken-in-mehreren-Produkten-9864254.html",
-      "image_title": "Laptop mit Adobe-Logo auf dem Display brennt"
-    },
-    {
-      "title": "Patchday Microsoft: Angreifer attackieren vier Lücken in Windows & Co.",
-      "teaser": "Microsoft hat Schwachstellen in unter anderem Azure, SharePoint und Windows geschlossen. Einige Lücken gelten als kritisch.",
-      "url": "https://www.heise.de/news/Patchday-Microsoft-Aeltere-Sicherheitsupdates-in-neuer-Luecke-ausgehebelt-9864233.html",
-      "image_title": "Windows-Logo mit Flecken und der Aufschrift \"Patchday\""
+      "title": "Citrix Workspace App für Windows ermöglicht Rechteausweitung",
+      "teaser": "In der Citrix Workspace App für Windows klaffen zwei Sicherheitslücken. Angreifer können dadurch ihre Rechte im System ausweiten.",
+      "url": "https://www.heise.de/news/Citrix-Workspace-App-fuer-Windows-ermoeglicht-Rechteausweitung-9864320.html",
+      "image_title": "Computer mit Citrix-Schriftzügen brennen"
     },
     {
       "title": "iX-Workshop: Sicherheitsstrategien für Linux-Server",
@@ -88,6 +82,17 @@
       "teaser": "Microsoft erinnert daran, dass einige Windows-11-Builds in 30 Tagen aus dem Support fallen. Ein Upgrade sollte zügig erfolgen.",
       "url": "https://www.heise.de/news/Windows-11-In-30-Tagen-endet-Support-fuer-bestimmte-Builds-9863148.html",
       "image_title": "Stilisierte Grafik: zersplitterter Sicherheitsschild auf einem Laptop"
+    },
+    {
+      "title": "heise security Webinar: Geräte im Unternehmensnetz sicher betreiben",
+      "teaser": "IoT-Geräte stellen eine massiv unterschätzte Gefahr für Unternehmens-IT dar. Doch mit dem Hintergrundwissen aus diesem Webinar bekommen Admins das in den Griff.",
+      "url": "https://www.heise.de/news/heise-security-Webinar-Geraete-im-Unternehmensnetz-sicher-betreiben-9857459.html"
+    },
+    {
+      "title": "Wegen US-Verbannung: Kaspersky-Kunden erhalten UltraAV von Pango",
+      "teaser": "Nach dem Bann in den USA stellt das Unternehmen Kunden nun auf UltraAV um, bestätigt Kaspersky gegenüber heise online.",
+      "url": "https://www.heise.de/news/Wegen-US-Verbannung-Kaspersky-Kunden-erhalten-UltraAV-von-Pango-9862992.html",
+      "image_title": "Laptop vor USA-Flagge zeigt Kaspersky-Schriftzug und durchgestrichenes Schild"
     },
     {
       "title": "Cyberangriffe betreffen Kurklinik und US-Autovermietung​",
@@ -158,12 +163,6 @@
       "title": "Rust für Firmware: Sicherheit durch speichersichere Programmiersprachen",
       "teaser": "Das Android-Team erläutert die schrittweise Einführung von Rust in Firmware, um Sicherheitslücken zu reduzieren und die Speichersicherheit zu erhöhen.",
       "url": "https://www.heise.de/news/Rust-fuer-Firmware-Sicherheit-durch-speichersichere-Programmiersprachen-9860759.html"
-    },
-    {
-      "title": "privacyIDEA 3.10: Neue Container-Verwaltung und Offline WebAuthn-Support",
-      "teaser": "Die quelloffene Multi-Faktor-Authentifizierung bietet neue Funktionsweisen wie Token-Container, Offline-WebAuthn und ein erweitertes Push-Token-Verfahren.",
-      "url": "https://www.heise.de/news/privacyIDEA-3-10-Neue-Container-Verwaltung-und-Offline-WebAuthn-Support-9860743.html",
-      "image_title": "Acess Denied steht vor Servern"
     },
     {
       "title": "NTLM–Webinar",
