@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-11T04:09:29",
+  "timestamp": "2024-09-11T05:00:56",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -14,6 +14,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -111,7 +117,7 @@
   "articles": [
     {
       "title": "Liveblog:TV-Duell vor US-Wahl : Harris bleibt sachlich, Trump wird laut",
-      "teaser": "Im TV-Duell warf Trump mit Anschuldigungen um sich und machte wiederholt Falschaussagen. Harris ließ sich nicht aus der Ruhe bringen und gab sich volksnah. Das Liveblog",
+      "teaser": "Im TV-Duell warf Trump mit Vorwürfen um sich, Harris ließ sich nicht aus der Ruhe bringen. Eine CNN-Befragung zum Gewinner des Duells fällt eindeutig aus. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/2024-09/tv-duell-kamala-harris-donald-trump-live",
       "image_url": "https://img.zeit.de/politik/ausland/2024-09/tv-duell-trump-harris-aufmacher-liveblog/wide__1000x562"
     },
@@ -128,16 +134,16 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-09/us-wahlkampf-donald-trump-kamala-harris-abc-debate-bild-tayorswift/super__430x286"
     },
     {
+      "title": "Dresden : Teile der Carolabrücke über Elbe eingestürzt",
+      "teaser": "In Dresden sind Teile einer über die Elbe führenden Brücke in den Fluss gestürzt. Betroffen ist nach Angaben der Feuerwehr eine Strecke von 100 Metern.",
+      "url": "https://www.zeit.de/mobilitaet/2024-08/dresden-einsturz-carolabruecke-elbe",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/carolabruecke-dresden-einsturz-bild/super__430x286"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Migrationsdebatte : Die große Asylwende fällt aus",
       "teaser": "Die Union wollte Zurückweisungen an der Grenze erzwingen. Die Ampel reagiert mit einem eigenen Vorschlag. Doch der enthält wenig Neues.",
       "url": "https://www.zeit.de/politik/deutschland/2024-09/asyl-zurueckweisungen-grenze-ampel-union",
       "image_url": "https://img.zeit.de/politik/deutschland/2024-09/migrationstreffen-ampel-union/super__430x286"
-    },
-    {
-      "title": "Migrationspolitik : Scholz wirft Merz Taschenspielertricks vor",
-      "teaser": "Nach Abbruch der Migrationsgespräche kritisiert Olaf Scholz Unionsführer Merz als verantwortungslos. Christian Lindner schlägt ein Treffen Merz' mit den Ampelspitzen vor.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/olaf-scholz-friedrich-merz-migration",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/scholz-merz-bild/super__430x286"
     },
     {
       "title": "Deutscher Städtetag : Städtetag kritisiert Abbruch der Asylgespräche",
@@ -146,10 +152,22 @@
       "image_url": "https://img.zeit.de/politik/deutschland/2024-09/migrationspolitik-staedtetag-asyl-integration-kritik-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Louisa Specht-Riemenschneider : \"Ich habe TikTok nie genutzt, tue es nicht und werde es nie tun\"",
+      "title": "Nachrichtenpodcast : An der deutschen Grenze inhaftiert",
+      "teaser": "Die Innenministerin macht neue Vorschläge zur Migrationspolitik an der deutschen Grenze. Und: Viele Menschen in Deutschland starten ohne gute Bildungsbasis ins Leben.",
+      "url": "https://www.zeit.de/politik/2024-09/migrationspolitik-nancy-faeser-union-grenzschutz-nachrichtenpodcast",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Zinsen : So sichern Sie sich jetzt noch hohe Zinsen",
+      "teaser": "Am 12. September dürfte die Europäische Zentralbank die Leitzinsen senken. Wie Sie die Treppenstrategie nutzen, um ihr Geld noch zu besseren Konditionen anzulegen.",
+      "url": "https://www.zeit.de/geld/2024-09/zinsen-geldanlage-sparen-leitzins-festgeld",
+      "image_url": "https://img.zeit.de/geld/2024-09/zinsen-geldanlage-sparen-leitzins/wide__892x501"
+    },
+    {
+      "title": "Louisa Specht-Riemenschneider : \"Ich habe TikTok nie genutzt, tue es nicht und werde es nie tun\"",
       "teaser": "Die neue Bundesdatenschützerin Louisa Specht-Riemenschneider will weniger verhindern und mehr Datennutzung ermöglichen. Und zieht trotzdem klare Grenzen.",
       "url": "https://www.zeit.de/digital/datenschutz/2024-09/louisa-specht-riemenschneider-bundesbeauftragte-datenschutz-informationsfreiheit-bfdi",
-      "image_url": "https://img.zeit.de/digital/2024-09/louisa-specht-riemenschneider-bundesbeauftragte-datenschutz-informationsfreiheit/wide__892x501"
+      "image_url": "https://img.zeit.de/digital/2024-09/louisa-specht-riemenschneider-bundesbeauftragte-datenschutz-informationsfreiheit/super__430x286"
     },
     {
       "title": "Mexiko : Demonstranten dringen bei Protest gegen Justizreform in Senat ein",
@@ -158,28 +176,16 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-09/mexiko-justizreform-senat-protest-bild/super__430x286"
     },
     {
-      "title": "Kalifornien : Waldbrände bei Los Angeles breiten sich weiter aus",
-      "teaser": "Nahe der zweitgrößten Stadt der USA sind mehrere Waldbrände außer Kontrolle. Nordöstlich von Los Angeles hat ein Feuer mehr als 100 Quadratkilometer Land zerstört.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/kalifornien-los-angeles-waldbraende-breiten-sich-aus",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/waldbrand-usa-kalifornien-los-angeles-golf/super__430x286"
-    },
-    {
       "title": "Überschwemmungsgefahren : Fast 400.000 Deutsche laut Studie von Hochwasser bedroht",
       "teaser": "Laut Forschern könnten allein am Rhein binnen Jahren knapp 200.000 Menschen von Hochwasser betroffen sein. Zur Absicherung wird eine Elementarschadenversicherung erwogen.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/hochwasser-gefahren-deutschland-studie-elementarschaedenversicherung",
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/flut-ahrtal-ruine-drei-jahre-spaeter-bild/super__430x286"
     },
     {
-      "title": "Nachrichtenpodcast : An der deutschen Grenze inhaftiert",
-      "teaser": "Die Innenministerin macht neue Vorschläge zur Migrationspolitik an der deutschen Grenze. Und: Viele Menschen in Deutschland starten ohne gute Bildungsbasis ins Leben.",
-      "url": "https://www.zeit.de/politik/2024-09/migrationspolitik-nancy-faeser-union-grenzschutz-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__892x501"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Guantánamo : Die anderen Opfer von 9/11",
       "teaser": "Nach den Anschlägen kam die Folter: So verhinderten die USA bis heute den wichtigsten Prozess in der Geschichte ihres Landes – und treiben Angehörige in die Verzweiflung.",
       "url": "https://www.zeit.de/politik/ausland/2024-09/guantanamo-11-september-terror-prozess",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/guantanamo-11-september-terror-10/super__430x286"
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/guantanamo-11-september-terror-10/wide__892x501"
     },
     {
       "title": "Investitionen : Tut endlich was!",
@@ -200,22 +206,10 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-09/un-palaestina-vollversammlung-aktiver-status/super__430x286"
     },
     {
-      "title": "Paralympics-Häme : Veranstalter sagen Tourtermine von Luke Mockridge ab",
-      "teaser": "Trotz ausverkaufter Auftritte haben Veranstalter Tourtermine von Luke Mockridge gestrichen. Grund sind seine beleidigenden Aussagen über Para-Athleten.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/paralympics-haeme-luke-mockridge-tour-absage",
-      "image_url": "https://img.zeit.de/kultur/2024-09/paralympics-haeme-luke-mockridge-tour-absage/super__430x286"
-    },
-    {
-      "title": "Vereinigtes Königreich : Großbritannien führt elektronische Reisegenehmigung ein",
-      "teaser": "EU-Bürger, die ab April 2025 nach Großbritannien reisen möchten, müssen eine elektronische Reisegenehmigung beantragen. Für andere Staaten gilt das schon ab Januar.",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/grossbritannien-eu-eta-reisegenehmigung-2025",
-      "image_url": "https://img.zeit.de/mobilitaet/2024-09/grossbritannien-elektronische-reisegenehmigung-besucher-visapflicht-eu-staaten/super__430x286"
-    },
-    {
-      "title": "Liveblog:Ukrainekrieg : Russland startet Manöver mit mehr als 400 Kriegsschiffen",
-      "teaser": "Mehr als 400 russische Schiffe und 90.000 Personen sind an einem von Putin eröffneten Manöver beteiligt. Lettland verlängert den Grenzschutz zu Belarus. Das Liveblog",
+      "title": "Liveblog:Ukrainekrieg : IWF und Ukraine einigen sich auf Milliardenkredit",
+      "teaser": "Der IWF ermöglicht der Ukraine Zugang zu weiteren Finanzhilfen. US-Außenminister Blinken und sein britischer Amtskollege Lammy reisen nach Kiew. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/russland-ukraine-putin-marine-grossmanoever-usa/super__430x286"
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/ukrain-liveblog-blinken-lammy-kiew-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Gerichte für Kinder : Was Eltern wirklich kochen",
@@ -242,10 +236,16 @@
       "image_url": "https://img.zeit.de/sport/2024-09/deutschland-niederlande-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Sexualtherapeuten : \"Ich habe eine sehr hohe Ekeltoleranz\"",
-      "teaser": "Sexualtherapeuten helfen bei intimsten Fragen und sexuellen Störungen. Sie hören teils extreme Schilderungen. Vier von ihnen erzählen von ihren größten Herausforderungen.",
-      "url": "https://www.zeit.de/wissen/2024-09/sexualtherapeuten-erfahrungen-patienten-sexualitaet",
-      "image_url": "https://img.zeit.de/wissen/2024-09/sexualtherapeuten-erfahrungen-patienten-sexualitaet-bild/super__430x286"
+      "title": "Kalifornien : Waldbrände bei Los Angeles breiten sich weiter aus",
+      "teaser": "Nahe der zweitgrößten Stadt der USA sind mehrere Waldbrände außer Kontrolle. Nordöstlich von Los Angeles hat ein Feuer mehr als 100 Quadratkilometer Land zerstört.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/kalifornien-los-angeles-waldbraende-breiten-sich-aus",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/waldbrand-usa-kalifornien-los-angeles-golf/super__430x286"
+    },
+    {
+      "title": "Paralympics-Häme : Veranstalter sagen Tourtermine von Luke Mockridge ab",
+      "teaser": "Trotz ausverkaufter Auftritte haben Veranstalter Tourtermine von Luke Mockridge gestrichen. Grund sind seine beleidigenden Aussagen über Para-Athleten.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/paralympics-haeme-luke-mockridge-tour-absage",
+      "image_url": "https://img.zeit.de/kultur/2024-09/paralympics-haeme-luke-mockridge-tour-absage/super__430x286"
     },
     {
       "title": "Mode bei den Paralympics : Mit Mode gegen Vorurteile",
@@ -254,10 +254,10 @@
       "image_url": "https://img.zeit.de/sport/2024-09/mode-paralympics-sportler-2/wide__892x501"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Plan D: Post Covid und ME/CFS : Wenn der Tag nur noch drei Stunden hat",
-      "teaser": "Viele Post-Covid-Patienten sollen in Reha wieder fit für die Arbeit gemacht werden. Für einige funktioniert das nicht. Sie erleben die Härte der Leistungsgesellschaft.",
-      "url": "https://www.zeit.de/arbeit/2024-08/postcovid-coronavirus-gesundheit-langzeitfolgen-arbeit",
-      "image_url": "https://img.zeit.de/arbeit/2024-08/postcovid-coronavirus-gesundheit-2/super__430x286"
+      "title": "Z+ (abopflichtiger Inhalt); Sexualtherapeuten : \"Ich habe eine sehr hohe Ekeltoleranz\"",
+      "teaser": "Sexualtherapeuten helfen bei intimsten Fragen und sexuellen Störungen. Sie hören teils extreme Schilderungen. Vier von ihnen erzählen von ihren größten Herausforderungen.",
+      "url": "https://www.zeit.de/wissen/2024-09/sexualtherapeuten-erfahrungen-patienten-sexualitaet",
+      "image_url": "https://img.zeit.de/wissen/2024-09/sexualtherapeuten-erfahrungen-patienten-sexualitaet-bild/super__430x286"
     },
     {
       "title": "TV-Debatte : Trump weist Verantwortung für Sturm auf das Kapitol zurück",
@@ -272,6 +272,12 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-09/tv-duell-donald-trump-landung-philadelphia-bild/super__320x213"
     },
     {
+      "title": "Migrationspolitik : Scholz wirft Merz Taschenspielertricks vor",
+      "teaser": "Nach Abbruch der Migrationsgespräche kritisiert Scholz Unionsführer Merz als verantwortungslos. Lindner schlägt ein Treffen von Merz und den Ampelspitzen vor.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/olaf-scholz-friedrich-merz-migration",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/scholz-merz-bild/super__320x213"
+    },
+    {
       "title": "Gaza-Krieg : UN werfen Israel Bedrohung von Mitarbeitern im Gazastreifen vor",
       "teaser": "Die israelische Armee hat laut UN-Angaben humanitäre Mitarbeiter im Gazastreifen bedroht. Die UN-Fahrzeuge wurden rasch umzingelt. Es sollen Schüsse gefallen sein.",
       "url": "https://www.zeit.de/politik/2024-09/un-mitarbeiter-gazastreifen-israel-armee",
@@ -284,6 +290,12 @@
       "image_url": "https://img.zeit.de/wirtschaft/2024-09/commerzbank-aktien-verkauf-bund/super__320x213"
     },
     {
+      "title": "Vereinigtes Königreich : Großbritannien führt elektronische Reisegenehmigung ein",
+      "teaser": "EU-Bürger, die ab April 2025 nach Großbritannien reisen möchten, müssen eine elektronische Reisegenehmigung beantragen. Für andere Staaten gilt das schon ab Januar.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/grossbritannien-eu-eta-reisegenehmigung-2025",
+      "image_url": "https://img.zeit.de/mobilitaet/2024-09/grossbritannien-elektronische-reisegenehmigung-besucher-visapflicht-eu-staaten/super__320x213"
+    },
+    {
       "title": "Reaktionen auf Migrationsgespräch : Friedrich Merz bezeichnet die Ampelregierung als führungslos",
       "teaser": "Friedrich Merz vermutet, die Verschärfung der Asylregeln sei an den Grünen gescheitert. Er vermisse Führung durch Kanzler Scholz, sagte der Unionsfraktionschef.",
       "url": "https://www.zeit.de/politik/deutschland/2024-09/migrationsdebatte-friedrich-merz-union-ampel",
@@ -294,19 +306,6 @@
       "teaser": "Am Sonntag war ein Fischerboot mit Migranten vor der Küste des Senegals gekentert. Bislang hat die Marine 26 Leichen geborgen. Weitere Tote werden befürchtet.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/senegal-boot-migranten-gekentert-26-tote-bisher",
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/migranten-boot-kueste-senegal-tote/super__320x213"
-    },
-    {
-      "title": "China : Huawei stellt erstes doppelt aufklappbares Smartphone vor",
-      "teaser": "Das Huawei Mate XT ist das erste seiner Art. Der Bildschirm lässt sich zweimal falten und ist außergewöhnlich dünn. Das Smartphone kostet aktuell mehr als ein Laptop.",
-      "url": "https://www.zeit.de/wirtschaft/2024-09/china-huawei-smartphone-klappbar-apple",
-      "image_url": "https://img.zeit.de/digital/2024-09/smartphone-huawei-mate-xt-faltbar/super__320x213"
-    },
-    {
-      "title": "Migrationsdebatte : Union bricht Migrationsgespräche mit der Regierung ab",
-      "teaser": "Die Bundesregierung zeigte sich zuletzt offen für Zurückweisungen von Asylbewerbern an der Grenze. Der Union geht das nicht weit genug. Verhandlungen wurden beendet.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/union-bricht-migrationsgespraeche-mit-der-regierung-ab",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/migrationsgespraeche-migrationspolitik/super__320x213",
-      "image_title": "Migrationsgespräche Migrationspolitik"
     },
     {
       "title": "Livepodcasts : Das Programm der ZEIT Podcast-Tour 2024",
@@ -437,22 +436,22 @@
       "url": "https://www.zeit.de/politik/deutschland/2024-09/migrationsgespraech-union-teilnahme-offen-zurueckweisungen"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Zinsen : So sichern Sie sich jetzt noch hohe Zinsen",
-      "teaser": "Am 12. September dürfte die Europäische Zentralbank die Leitzinsen senken. Wie Sie die Treppenstrategie nutzen, um ihr Geld noch zu besseren Konditionen anzulegen.",
-      "url": "https://www.zeit.de/geld/2024-09/zinsen-geldanlage-sparen-leitzins-festgeld",
-      "image_url": "https://img.zeit.de/geld/2024-09/zinsen-geldanlage-sparen-leitzins/wide__892x501"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Ampelkoalition : Auf zur nächsten Klatsche",
       "teaser": "Olaf Scholz und die Ampel haben ihre politische Energie verloren. Jeder der drei Ampelmänner könnte sie zurückgewinnen, doch dafür müssten sie endlich mal \"all in\".",
       "url": "https://www.zeit.de/kultur/2024-09/ampelkoalition-olaf-scholz-robert-habeck-christian-lindner",
-      "image_url": "https://img.zeit.de/kultur/2024-09/ampelkoalition-olaf-scholz-robert-habeck-christian-lindner-bild/super__430x286"
+      "image_url": "https://img.zeit.de/kultur/2024-09/ampelkoalition-olaf-scholz-robert-habeck-christian-lindner-bild/wide__892x501"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Hamburger Hafen : Was in Rotterdam besser läuft",
       "teaser": "In dem größten Hafen Europas arbeiten viele Kräne längst vollautomatisch – und die Betreiber in ganz anderen Strukturen. Könnte Hamburg das auch?",
       "url": "https://www.zeit.de/2024/37/hamburger-hafen-rotterdam-niederlande-hafenbehoerde-europa",
       "image_url": "https://img.zeit.de/2024/37/hamburger-hafen-rotterdam-niederlande-hafenbehoerde-europa-teaser/super__430x286"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Seyla Benhabib : \"Israels Armee hat das Recht auf Selbstverteidigung überschritten\"",
+      "teaser": "Israel ist im Gazastreifen zu weit gegangen, sagt die Philosophin Seyla Benhabib. Auch sei die deutsche Antisemitismusresolution falsch.",
+      "url": "https://www.zeit.de/kultur/2024-09/seyla-benhabib-israel-krieg-judeo-faschismus-zionismus-antisemitismus",
+      "image_url": "https://img.zeit.de/kultur/2024-09/seyla-benhabib-israel-krieg-judeo-faschismus-zionismus-3/super__430x286"
     },
     {
       "title": "Verlagsangebot : 9 historische Altstädte in Deutschland",
@@ -617,16 +616,17 @@
       "image_url": "https://img.zeit.de/politik/ausland/2024-09/trump-harris-tv-debatte/wide__892x501"
     },
     {
+      "title": "Migrationsdebatte : Union bricht Migrationsgespräche mit der Regierung ab",
+      "teaser": "Die Bundesregierung zeigte sich zuletzt offen für Zurückweisungen von Asylbewerbern an der Grenze. Der Union geht das nicht weit genug. Verhandlungen wurden beendet.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/union-bricht-migrationsgespraeche-mit-der-regierung-ab",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/migrationsgespraeche-migrationspolitik/super__430x286",
+      "image_title": "Migrationsgespräche Migrationspolitik"
+    },
+    {
       "title": "Umfragen zur US-Wahl : Wer zieht ins Weiße Haus – Donald Trump oder Kamala Harris?",
       "teaser": "Donald Trump und Kamala Harris liegen in Umfragen fast gleichauf. Was die Daten über den Wahlkampf sagen und worauf es ankommt: der täglich aktualisierte Überblick.",
       "url": "https://www.zeit.de/politik/ausland/umfragen-us-wahl-donald-trump-kamala-harris-swing-states",
       "image_url": "https://img.zeit.de/politik/ausland/2024-09/umfragen-us-wahl-donald-trump-kamala-harris-swing-states-teaserbild/super__430x286"
-    },
-    {
-      "title": "Zurückweisungen : Grenzkontrollen müssen laut EU-Kommission \"absolute Ausnahme\" bleiben",
-      "teaser": "Die EU-Kommission erinnert an den Ausnahmecharakter von Grenzkontrollen im Schengenraum. Polens Regierung nennt die geplante Maßnahme der Bundesregierung \"inakzeptabel\".",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/grenzkontrollen-eu-polen-baerbock",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/grenzkontrollen-eu-polen-baerbock-bundespolizei/super__430x286"
     },
     {
       "title": "Verlagsangebot : Das kleine Hauptstadt-Quiz",
@@ -679,7 +679,7 @@
     },
     {
       "title": "Vietnam : Mehr als 140 Menschen durch Taifun Yagi getötet",
-      "teaser": "Örtliche Behörden haben die Zahl der Toten durch den Taifun Yagi auf mindestens 141 korrigiert. Weiterhin werden Menschen vermisst. Etwa 46.000 Häuser wurden zerstört.",
+      "teaser": "Örtliche Behörden haben die Zahl der Toten durch den Taifun Yagi auf mindestens 143 korrigiert. Weiterhin werden Menschen vermisst. Etwa 46.000 Häuser wurden zerstört.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/taifun-yagi-china-vietnam-ueberschwemmungen",
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/taifun-yagi-china-vietnam-ueberschwemmungen-bild/super__430x286"
     },
@@ -696,10 +696,16 @@
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/ddr-buergerrechtler-theologe-friedrich-schorlemmer-tot-bild/super__430x286"
     },
     {
+      "title": "China : Huawei stellt erstes doppelt aufklappbares Smartphone vor",
+      "teaser": "Das Huawei Mate XT ist das erste seiner Art. Der Bildschirm lässt sich zweimal falten und ist außergewöhnlich dünn. Das Smartphone kostet aktuell mehr als ein Laptop.",
+      "url": "https://www.zeit.de/wirtschaft/2024-09/china-huawei-smartphone-klappbar-apple",
+      "image_url": "https://img.zeit.de/digital/2024-09/smartphone-huawei-mate-xt-faltbar/wide__892x501"
+    },
+    {
       "title": "Sparkurs : Volkswagen kündigt Tarifvertrag für Beschäftigungssicherung",
       "teaser": "Aufgrund \"aktueller wirtschaftlicher Herausforderungen\" hat VW angekündigt, eine Reihe von Tarifverträgen zu kündigen. Dazu zähle auch die Beschäftigungssicherung.",
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-09/sparkurs-volkswagen-kuendigung-tarifvertraege-beschaeftigungssicherung",
-      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-09/vw-volkswagen-tarifvertrag-beschaeftigungssicherung/wide__892x501"
+      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-09/vw-volkswagen-tarifvertrag-beschaeftigungssicherung/super__430x286"
     },
     {
       "title": "Bundeshaushalt : Das ist die wichtigste Schwachstelle des Haushalts",
@@ -712,12 +718,6 @@
       "teaser": "Vor Christian Linders Grundsatzrede zum Haushalt mahnt Haushaltsexperte Rohde zu Geschlossenheit. Der Bundesfinanzminister müsse im Sinne der gesamten Ampel auftreten.",
       "url": "https://www.zeit.de/wirtschaft/2024-09/haushalt-debatte-rohde-lindner-selbstprofilierung",
       "image_url": "https://img.zeit.de/politik/deutschland/2024-09/christian-lindner-haushaltsdebatte-warnung-vor-selbstprofilierung/super__430x286"
-    },
-    {
-      "title": "Wettbewerbsverzerrung : Ryanair muss Staatshilfe zurückzahlen",
-      "teaser": "Rheinland-Pfalz unterstütze Ryanair am Flughafen Frankfurt-Hahn mit Millionenbeträgen. Die EU-Kommission entschied nun, dass dieses Geld unrechtmäßig gewährt wurde.",
-      "url": "https://www.zeit.de/wirtschaft/2024-09/ryanair-staatshilfen-rueckzahlung-eu-kommission",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-09/ryanair-staatshilfen-rueckzahlung-eu-kommission-2/super__430x286"
     },
     {
       "title": "Manfred Knof hört auf : Das sind die Hintergründe des plötzlichen Chefwechsels bei der Commerzbank",
@@ -752,12 +752,6 @@
       "image_url": "https://img.zeit.de/zeit-magazin/2024-08/kulturelle-stereotype-deutsch/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Seyla Benhabib : \"Israels Armee hat das Recht auf Selbstverteidigung überschritten\"",
-      "teaser": "Israel ist im Gazastreifen zu weit gegangen, sagt die Philosophin Seyla Benhabib. Auch sei die deutsche Antisemitismusresolution falsch.",
-      "url": "https://www.zeit.de/kultur/2024-09/seyla-benhabib-israel-krieg-judeo-faschismus-zionismus-antisemitismus",
-      "image_url": "https://img.zeit.de/kultur/2024-09/seyla-benhabib-israel-krieg-judeo-faschismus-zionismus-3/super__430x286"
-    },
-    {
       "title": "James Earl Jones : American Dad",
       "teaser": "James Earl Jones war ein Gigant auf der Theaterbühne sowie die Stimme für zwei sehr verschiedene Vaterfiguren: Darth Vader und Mufasa aus \"König der Löwen\". Ein Nachruf",
       "url": "https://www.zeit.de/kultur/film/2024-09/james-earl-jones-tod-schauspieler-star-wars",
@@ -775,6 +769,12 @@
       "teaser": "Taito Yoshino führt den einzigen Verlag für Mangas in Österreich. Im Interview erklärt er, warum Übersetzungen nicht nur gut klingen, sondern auch gut aussehen müssen.",
       "url": "https://www.zeit.de/2024/38/mangas-comic-japan-oesterreich-uebersetzung-verlag",
       "image_url": "https://img.zeit.de/2024/38/die-mimik-ist-uebertrieben-bild-1/super__430x286"
+    },
+    {
+      "title": "Rebecca Horn : Das große Erwachen",
+      "teaser": "Die Welt- und Wunderkünstlerin Rebecca Horn erweckte die Kunst zu neuem Leben. Nun ist Horn im Alter von 80 Jahren gestorben. Ein Nachruf",
+      "url": "https://www.zeit.de/kultur/kunst/2024-09/rebecca-horn-bildhauerin-kuenstlerin-nachruf",
+      "image_url": "https://img.zeit.de/kultur/kunst/2024-09/rebecca-horn-kuenstlerin-nachruf-bild-2/super__430x286"
     },
     {
       "title": "Ukrainekrieg : Drohnenangriff auf Moskau – das schildern die Anwohner",
@@ -903,16 +903,16 @@
       "image_url": "https://img.zeit.de/digital/2024-09/eugh-urteil-apple-steuernachzahlung-bild/super__430x286"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Arbeit im Rentenalter : \"Man darf sich im Alter auf keinen Fall gehen lassen\"",
-      "teaser": "Erika ist 73 Jahre alt, aber arbeitet noch immer täglich als Dozentin. Auch, weil ihre Rente nicht reicht, aber vor allem, weil sie unbedingt beschäftigt sein will.",
-      "url": "https://www.zeit.de/arbeit/2024-08/arbeit-rentenalter-unterricht-fitness-geld",
-      "image_url": "https://img.zeit.de/arbeit/2024-08/arbeit-rentenalter-unterricht/wide__892x501"
+      "title": "Z+ (abopflichtiger Inhalt); Plan D: Post Covid und ME/CFS : Wenn der Tag nur noch drei Stunden hat",
+      "teaser": "Viele Post-Covid-Patienten sollen in Reha wieder fit für die Arbeit gemacht werden. Für einige funktioniert das nicht. Sie erleben die Härte der Leistungsgesellschaft.",
+      "url": "https://www.zeit.de/arbeit/2024-08/postcovid-coronavirus-gesundheit-langzeitfolgen-arbeit",
+      "image_url": "https://img.zeit.de/arbeit/2024-08/postcovid-coronavirus-gesundheit-2/wide__892x501"
     },
     {
-      "title": "Mobile Kirche : Der Mini-Glockenturm fährt immer mit",
-      "teaser": "Im Schwarzwald ist das nächste Gemeindezentrum weit. Eine Pfarrerin hatte da eine Idee: Es gibt da diesen Kirchenanhänger, eine Tiny Church. Ein Modell für die Zukunft?",
-      "url": "https://www.zeit.de/2024/37/mobile-kirche-tiny-church-pfarrerin-religion-schwarzwald",
-      "image_url": "https://img.zeit.de/2024/37/das-gottesmobil-bild-2/super__430x286"
+      "title": "Fachkräftemangel : Supermärkte suchen Tausende Beschäftigte für Bedientheken",
+      "teaser": "Supermärkte unterscheiden sich von Discountern durch Personal an den Bedientheken, doch es gibt seit Jahren zu wenig Fachkräfte. Momentan sind Tausende Stellen offen.",
+      "url": "https://www.zeit.de/arbeit/2024-09/supermarkt-bedientheken-personalmangel-fachkraeftemangel",
+      "image_url": "https://img.zeit.de/arbeit/2024-09/supermarkt-bedientheken-personalmangel-fachkraeftemangel-bild/super__430x286"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Herbstanfang : So kommen wir gut durch die dunkle Jahreszeit",
@@ -939,11 +939,11 @@
       "image_url": "https://img.zeit.de/gesellschaft/2024-08/studenten-azubis-besonders-armutsgefaehrdet-hohe-wohnkosten-bild/wide__892x501"
     },
     {
-      "title": "Verlagsangebot : Welcher Beruf passt zu mir?",
-      "teaser": "Mit dem BOA-Berufstest erfahren Berufseinsteiger mehr über die eigenen Stärken und finden den passenden Job.",
-      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.verlagsteaser.quan.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=verlagsteaserindex&amp;utm_content=bot_verlagsteaser_quan_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/boa-quan/wide__430x286__desktop",
-      "image_title": "Welcher Beruf passt zu mir?"
+      "title": "Verlagsangebot : Ein Studium finden, das passt",
+      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
+      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.teaser.bewerben-schreibtisch.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=sit-verlagsteaser&amp;utm_content=sit_teaser_bewerben-schreibtisch_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/sit-bewerben-schreibtisch/wide__430x286__desktop",
+      "image_title": "Ein Studium finden, das passt"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Herausforderung in Karriere und Leben : Die Strategien der Hürdenläufer",
@@ -1012,36 +1012,36 @@
       "image_url": "https://img.zeit.de/sport/2024-08/surfen-kuba-frank-gonzales-guerra-olympia-bild/super__430x286"
     },
     {
+      "title": "Wetter: Regen und kurze Gewitter in Berlin und Brandenburg",
+      "url": "https://www.zeit.de/news/2024-09/11/regen-und-kurze-gewitter-in-berlin-und-brandenburg"
+    },
+    {
+      "title": "Raumfahrt: «Polaris Dawn» hat Extremhöhe von 1.400 Kilometern erreicht",
+      "url": "https://www.zeit.de/news/2024-09/11/polaris-dawn-hat-extremhoehe-von-1-400-kilometern-erreicht"
+    },
+    {
+      "title": "Probealarm: Praxistest für viele neue Sirenen bei bundesweitem Warntag",
+      "url": "https://www.zeit.de/news/2024-09/11/praxistest-fuer-viele-neue-sirenen-bei-bundesweitem-warntag"
+    },
+    {
+      "title": "Comeback: Alexander Klaws wird auf der Bühne wieder zu «Tarzan»",
+      "url": "https://www.zeit.de/news/2024-09/11/alexander-klaws-wird-auf-der-buehne-wieder-zu-tarzan"
+    },
+    {
+      "title": "Schwere Schäden nach Sturm: Nach Taifun: Zahl der Toten und Vermissten in Vietnam steigt",
+      "url": "https://www.zeit.de/news/2024-09/11/nach-taifun-zahl-der-toten-und-vermissten-in-vietnam-steigt"
+    },
+    {
+      "title": "Notfälle: Teile der Carolabrücke in Dresden eingestürzt",
+      "url": "https://www.zeit.de/news/2024-09/11/teile-der-carolabruecke-in-dresden-eingestuerzt"
+    },
+    {
       "title": "Feuer in der Nacht: Landwirtschaftliche Halle brennt ab - 300.000 Euro Schaden",
       "url": "https://www.zeit.de/news/2024-09/11/landwirtschaftliche-halle-brennt-ab-300-000-euro-schaden"
     },
     {
       "title": "Schlüsselindustrie: Autoland Deutschland - wie schwer wiegt die Krise?",
       "url": "https://www.zeit.de/news/2024-09/11/autoland-deutschland-wie-schwer-wiegt-die-krise"
-    },
-    {
-      "title": "Migration: Mehr unerlaubte Einreisen bis Ende Juli als in ganz 2023",
-      "url": "https://www.zeit.de/news/2024-09/11/mehr-unerlaubte-einreisen-bis-ende-juli-als-in-ganz-2023"
-    },
-    {
-      "title": "EM-Qualifikation: Fünf Adeyemi-Tore in zwei Spielen: «Sollte Standard sein»",
-      "url": "https://www.zeit.de/news/2024-09/11/fuenf-adeyemi-tore-in-zwei-spielen-sollte-standard-sein"
-    },
-    {
-      "title": "Verkehr: Teile der Carolabrücke in Dresden eingestürzt",
-      "url": "https://www.zeit.de/news/2024-09/11/teile-der-carolabruecke-in-dresden-eingestuerzt"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: Undavs glorreicher Tag: Tor-Premiere und «Gammel-Vorlage»",
-      "url": "https://www.zeit.de/news/2024-09/11/undavs-glorreicher-tag-tor-premiere-und-gammel-vorlage"
-    },
-    {
-      "title": "Nach dem TV-Duell: Instagram-Post: Swift unterstützt Harris im Wahlkampf",
-      "url": "https://www.zeit.de/news/2024-09/11/instagram-post-swift-unterstuetzt-harris-im-wahlkampf"
-    },
-    {
-      "title": "Kriminalität: Versicherer: Berlin ist Hauptstadt der Autodiebe",
-      "url": "https://www.zeit.de/news/2024-09/11/versicherer-berlin-ist-hauptstadt-der-autodiebe"
     }
   ]
 }
