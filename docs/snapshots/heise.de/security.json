@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-11T05:00:56",
+  "timestamp": "2024-09-11T06:10:21",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.cb71667ec0b3a44b1c4d",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.1724fe365378616bc355",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Patchday Microsoft",
+      "url": "https://www.heise.de/news/Patchday-Microsoft-Aeltere-Sicherheitsupdates-in-neuer-Luecke-ausgehebelt-9864233.html"
+    },
     {
       "title": "ImageMagick, Linux, Sonicwall",
       "url": "https://www.heise.de/news/Acht-Jahre-alte-Luecke-in-ImageMagick-und-weitere-Lecks-missbraucht-9863292.html"
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Loadbalancer-Angreifer-koennen-LoadMaster-kompromittieren-9862252.html"
     },
     {
-      "title": "Kibana",
-      "url": "https://www.heise.de/news/Schadcode-Luecken-gefaehrden-Visualiserungsplattform-Kibana-9861621.html"
+      "title": "Patchday Microsoft: Ältere Sicherheitsupdates in neuer Lücke ausgehebelt",
+      "teaser": "Microsoft hat Schwachstellen in unter anderem Azure, SharePoint und Windows geschlossen. Einige Lücken gelten als kritisch.",
+      "url": "https://www.heise.de/news/Patchday-Microsoft-Aeltere-Sicherheitsupdates-in-neuer-Luecke-ausgehebelt-9864233.html",
+      "image_title": "Windows-Logo mit Flecken und der Aufschrift \"Patchday\""
+    },
+    {
+      "title": "iX-Workshop: Linux-Server vor Angriffen wirksam schützen",
+      "teaser": "Linux-Server und Netzwerkdienste effektiv und umfassend vor Angriffen schützen - von physischer Sicherheit über Verschlüsselung und 2FA bis hin zu SELinux.",
+      "url": "https://www.heise.de/news/iX-Workshop-Linux-Server-vor-Angriffen-wirksam-schuetzen-9859106.html",
+      "image_title": "iX-Workshop: Linux-Server härten"
     },
     {
       "title": "Phishing-Warnung: Spam-E-Mails im Namen des BSI",
@@ -152,18 +164,6 @@
       "teaser": "Automatisch und im Hintergrund überträgt Google jetzt Passkeys zwischen Android, Windows und macOS. Voraussetzung ist lediglich Chrome.",
       "url": "https://www.heise.de/news/Durchbruch-fuer-Passkeys-Google-synchronisiert-Schluessel-automatisch-9860485.html",
       "image_title": "Gleicher Fingerabdruck auf Token, Laptop und Smartphone"
-    },
-    {
-      "title": "l+f: Die NSA startet \"No such Podcast\"",
-      "teaser": "Klandestin war gestern. Jetzt versucht sich der berühmt-berüchtigte US-Geheimdienst NSA an Öffentlichkeitsarbeit – mit einem eigenen Podcast.",
-      "url": "https://www.heise.de/news/l-f-Die-Charme-Offensive-der-NSA-9859756.html",
-      "image_title": "NSA-Schriftzug auf Chip"
-    },
-    {
-      "title": "Telegram-Chef verspricht bessere Moderation von Inhalten",
-      "teaser": "Zwei Wochen nach der Festnahme des Telegram-CEO Pavel Durov verspricht er, mehr gegen Kriminalität auf seiner Plattform zu tun.",
-      "url": "https://www.heise.de/news/Telegram-Chef-meldet-sich-und-verspricht-den-Messenger-sicherer-zu-machen-9859379.html",
-      "image_title": "Telegram-Symbol auf einem Smartphone"
     },
     {
       "title": "NTLM–Webinar",
