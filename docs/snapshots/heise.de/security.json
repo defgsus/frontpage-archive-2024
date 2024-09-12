@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-12T18:08:37",
+  "timestamp": "2024-09-12T19:01:06",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "GitLab CE/EE",
+      "url": "https://www.heise.de/news/Sicherheitspatch-Gitlab-behebt-Luecken-in-Serverversionen-9866401.html"
+    },
+    {
       "title": "Cisco",
       "url": "https://www.heise.de/news/Cisco-DoS-und-Rechteausweitungsluecken-in-IOS-und-weiteren-Produkten-9865581.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/ownCloud-Update-stopft-teils-hochriskante-Sicherheitsluecken-9864422.html"
     },
     {
-      "title": "Citrix Workspace App für Windows",
-      "url": "https://www.heise.de/news/Citrix-Workspace-App-fuer-Windows-ermoeglicht-Rechteausweitung-9864320.html"
+      "title": "Sicherheitspatch: Gitlab behebt Lücken in Serverversionen",
+      "teaser": "Angreifer konnten Code einschleusen, fremde Konten übernehmen und den Server außer Gefecht setzen. Admins selbst gehosteter Instanzen sollten patchen.",
+      "url": "https://www.heise.de/news/Sicherheitspatch-Gitlab-behebt-Luecken-in-Serverversionen-9866401.html",
+      "image_title": "Stilisierte Grafik: eine brennende Appliance im Netz"
     },
     {
       "title": "Norton setzt auf Avast-Scan-Engine",
@@ -158,12 +164,6 @@
       "teaser": "Es sind wichtige Sicherheitspatches für LoadMaster und MultiTenant Hypervisor von Progress Kemp erschienen.",
       "url": "https://www.heise.de/news/Loadbalancer-Angreifer-koennen-LoadMaster-kompromittieren-9862252.html",
       "image_title": "Stilisiertes Bild: Ein Stapel brennender Appliances"
-    },
-    {
-      "title": "Schadcode-Lücken gefährden Visualiserungsplattform Kibana",
-      "teaser": "Ein Sicherheitsupdate schließt zwei kritische Sicherheitslücken in Kibana.",
-      "url": "https://www.heise.de/news/Schadcode-Luecken-gefaehrden-Visualiserungsplattform-Kibana-9861621.html",
-      "image_title": "Knopf für ein Update"
     },
     {
       "title": "NTLM–Webinar",
