@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-12T07:00:44",
+  "timestamp": "2024-09-12T08:09:29",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Cisco",
+      "url": "https://www.heise.de/news/Cisco-DoS-und-Rechteausweitungsluecken-in-IOS-und-weiteren-Produkten-9865581.html"
+    },
+    {
       "title": "Endpoint Manager, Workspace Control, Cloud Service Appliance",
       "url": "https://www.heise.de/news/Ivanti-Updates-gegen-kritische-Lecks-im-Endpoint-Manager-und-weiteren-Produkten-9864654.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Citrix-Workspace-App-fuer-Windows-ermoeglicht-Rechteausweitung-9864320.html"
     },
     {
-      "title": "Patchday Adobe",
-      "url": "https://www.heise.de/news/Adobe-Patchday-Kritische-Luecken-in-mehreren-Produkten-9864254.html"
+      "title": "WordPress: 2FA wird verpflichtend für Plug-in- und Theme-Entwickler",
+      "teaser": "Um Angreifern den Zugriff auf Code Repositories von WordPress zu erschweren, wird die Anmeldung verschärft.",
+      "url": "https://www.heise.de/news/WordPress-2FA-wird-verpflichtend-fuer-Plug-in-und-Theme-Entwickler-9865670.html"
+    },
+    {
+      "title": "Cisco: DoS- und Rechteausweitungslücken in IOS und weiteren Produkten",
+      "teaser": "In Ciscos IOS und weiteren Produkten klaffen Sicherheitslücken. Angreifer können ihre Rechte ausweiten oder Geräte lahmlegen.",
+      "url": "https://www.heise.de/news/Cisco-DoS-und-Rechteausweitungsluecken-in-IOS-und-weiteren-Produkten-9865581.html",
+      "image_title": "Stilisiertes Bild: Ein Stapel brennender Cisco-Appliances"
     },
     {
       "title": "Um 11 Uhr bimmeln die Handys: Vierter bundesweiter Warntag",
@@ -153,17 +164,6 @@
       "teaser": "Bauen Sie eine Cloud-native-Umgebung mit hochverfügbarem Kubernetes-Cluster und automatischer Skalierung auf, inkl. Access Management, Monitoring und GitOps.",
       "url": "https://www.heise.de/news/iX-Praxis-Workshop-Leitfaden-fuer-Cloud-Native-Architekturen-und-Kubernetes-9859076.html",
       "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
-    },
-    {
-      "title": "Qnap: Zahlreiche Updates für mehrere Produkte",
-      "teaser": "Qnap hat eine Reihe von Softwareaktualisierungen veröffentlicht, die Schwachstellen in mehreren Produkten ausbessern.",
-      "url": "https://www.heise.de/news/Qnap-Zahlreiche-Updates-fuer-mehrere-Produkte-9861381.html",
-      "image_title": "Brennende NAS-Systeme"
-    },
-    {
-      "title": "Jetzt buchen: heise security Tour 2024 online",
-      "teaser": "Die Ein-Tages-Konferenz von heise security vermittelt den Überblick und praxisrelevantes Wissen zu den wichtigen Security-Themen – online und 100% unabhängig.",
-      "url": "https://www.heise.de/news/Jetzt-buchen-heise-security-Tour-2024-online-9855668.html"
     },
     {
       "title": "NTLM–Webinar",
