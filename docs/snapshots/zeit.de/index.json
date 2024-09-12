@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-12T03:07:49",
+  "timestamp": "2024-09-12T04:00:39",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -14,6 +14,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -98,23 +104,11 @@
   ],
   "articles": [
     {
-      "title": "Bundesweiter Warntag : Ab elf Uhr wird es laut",
-      "teaser": "Das Bundesamt für Bevölkerungsschutz testet Alarmstrukturen in Deutschland. Am späten Vormittag sollen überall im Land Sirenen heulen und Warnungen auf Handys eintreffen.",
-      "url": "https://www.zeit.de/digital/2024-09/warntag-katastrophenschutz-alarmsysteme-test",
-      "image_url": "https://img.zeit.de/digital/2024-09/warntag-sirenen-katastrophenschutz-bild/wide__1000x562",
-      "image_title": "Bundesweiter Warntag: Eine Sirene über Petersdorf in Brandenburg. Am Donnerstag soll zum vierten Mal der bundesweite Warntag stattfinden."
-    },
-    {
-      "title": "Einsturz der Carolabrücke : Kommunen und Bauwirtschaft dringen nach Einsturz auf Brückensanierung",
-      "url": "https://www.zeit.de/wirtschaft/2024-09/bauwirtschaft-brueckensanierung-infrastruktur-teileinsturz-carolabruecke",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-09/carolabruecke-bauwirtschaft-sanierung-bruecken-bild/square__430x430",
-      "image_title": "Einsturz der Carolabrücke: Der Teileinsturz der Carolabrücke über die Elbe wirft neue Fragen zur Sicherheit der Infrastruktur auf."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Brückeneinsturz in Dresden : \"Da hat doch jemand Mist gebaut!\"",
-      "url": "https://www.zeit.de/mobilitaet/2024-09/brueckeneinsturz-dresden-sicherheit-sanierung-alter",
-      "image_url": "https://img.zeit.de/mobilitaet/2024-09/brueckeneinsturz-dresden-sicherheit-sanierung-alter-bild/square__430x430",
-      "image_title": "Brückeneinsturz in Dresden: Mit einer Drohne werden die Schäden an der eingestürzten Carolabrücke überprüft."
+      "title": "Z+ (abopflichtiger Inhalt); Autokosten : Was Autofahren gerade so teuer macht",
+      "teaser": "Sprit, Gebrauchtwagen, Versicherung: Die Kosten rund ums Auto sind stärker gestiegen als die Inflation, zeigen unsere Grafiken. Wir erklären, was dahintersteckt.",
+      "url": "https://www.zeit.de/mobilitaet/2024-08/autokosten-unterhalt-autofahren-sprit-fahrschule-versicherung",
+      "image_url": "https://img.zeit.de/mobilitaet/2024-09/autokosten-unterhalt-autofahren-sprit-fahrschule/wide__1000x562",
+      "image_title": "Autokosten: Was Autofahren gerade so teuer macht"
     },
     {
       "title": "US-Wahlkampf : Trump will sich nicht auf zweites Duell mit Harris festlegen",
@@ -124,39 +118,60 @@
       "image_title": "US-Wahlkampf: TOPSHOT - US Vice President and Democratic presidential candidate Kamala Harris (R) shakes hands with former US President and Republican presidential candidate Donald Trump during a presidential debate at the National Constitution Center in Philadelphia, Pennsylvania, on September 10, 2024. (Photo by SAUL LOEB / AFP) (Photo by SAUL LOEB/AFP via Getty Images)"
     },
     {
-      "title": "US-Wahl : Verschärfte Sicherheitsvorkehrungen für Bestätigung der US-Wahl",
-      "teaser": "Der US-Geheimdienst plant umfassende Sicherheitsmaßnahmen für den 6. Januar 2025. Gewaltsame Ausschreitungen wie der Sturm aufs Kapitol 2021 sollen so verhindert werden.",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/usa-wahlen-2024-sicherheit-trump-harris-kapitol",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/capitol-usa-wahlen/super__430x286",
-      "image_title": "US-Wahl: Congress Returns To Capitol Hill After Summer Recess WASHINGTON, DC - SEPTEMBER 9: An exterior view of the U.S. Capitol on September 9, 2024 in Washington, DC. Members of the Senate and U.S. House of Representatives return to the Nation's capitol, following their August recess. (Photo by Kent Nishimura/Getty Images)"
+      "title": "Einsturz der Carolabrücke : Kommunen und Bauwirtschaft dringen nach Einsturz auf Brückensanierung",
+      "teaser": "Nach dem Teileinsturz der Carolabrücke in Dresden fordern Kommunen und Bauindustrie Investitionen in Infrastruktur. Zehntausende Brücken seien in schlechtem Zustand.",
+      "url": "https://www.zeit.de/wirtschaft/2024-09/bauwirtschaft-brueckensanierung-infrastruktur-teileinsturz-carolabruecke",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-09/carolabruecke-bauwirtschaft-sanierung-bruecken-bild/super__430x286",
+      "image_title": "Einsturz der Carolabrücke: Der Teileinsturz der Carolabrücke über die Elbe wirft neue Fragen zur Sicherheit der Infrastruktur auf."
     },
     {
-      "title": "ISS : Sojuskapsel erreicht Internationale Raumstation im Eiltempo",
-      "teaser": "Normalerweise dauert es Tage, aber dieser Flug brauchte nur drei Stunden: An der ISS ist eine Sojuskapsel angekommen. An Bord sind zwei Russen und ein US-Amerikaner.",
-      "url": "https://www.zeit.de/wissen/2024-09/iss-sojus-russland-usa-weltall",
-      "image_url": "https://img.zeit.de/wissen/2024-09/iss-sojus-russland-usa-weltall-bild/super__430x286",
-      "image_title": "ISS: BAIKONUR, KAZAKHSTAN - SEPTEMBER 11: (EDITOR’S NOTE: This Handout image/clip was provided by a third-party organization and may not adhere to Getty Images’ editorial policy.) In this NASA handout, the Soyuz rocket launches to the International Space Station with Expedition 72 crew members: NASA astronaut Don Pettit, Roscosmos cosmonauts Alexey Ovchinin, and Ivan Vagner, onboard, on September 11, 2024, at the Baikonur Cosmodrome in Kazakhstan. (Photo by Bill Ingalls/NASA via Getty Images)"
+      "title": "Z+ (abopflichtiger Inhalt); Brückeneinsturz in Dresden : \"Da hat doch jemand Mist gebaut!\"",
+      "teaser": "In Dresden stürzt plötzlich eine Brücke ein. Am Unfallort fragen sich nun viele: Wie konnte das geschehen? Was die Brücke über den Sanierungsstau in Deutschland aussagt.",
+      "url": "https://www.zeit.de/mobilitaet/2024-09/brueckeneinsturz-dresden-sicherheit-sanierung-alter",
+      "image_url": "https://img.zeit.de/mobilitaet/2024-09/brueckeneinsturz-dresden-sicherheit-sanierung-alter-bild/super__430x286",
+      "image_title": "Brückeneinsturz in Dresden: Mit einer Drohne werden die Schäden an der eingestürzten Carolabrücke überprüft."
     },
     {
-      "title": "Mexiko : Gewaltausbruch in Mexiko nach US-Festnahme von Drogenboss \"El Mayo\"",
-      "teaser": "Im Juli hatten die USA überraschend den mächtigen mexikanischen Drogenboss \"El Mayo\" gefasst. Nun nimmt die Bandengewalt im Bundesstaat Sinaloa wieder zu.",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/mexiko-drogen-gewalt-sinaloa-el-mayo-usa",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/mexiko-sinaloa-gewalt/super__430x286",
-      "image_title": "Mexiko: A burned truck is seen on the streets of Culiacan, Sinaloa State, Mexico, on September 11, 2024. Elements of Mexico's National Guard were deployed in the state of Sinaloa, in the northwest of the country, amid an escalation of violence that authorities attribute to internal struggles within the Sinaloa cartel following the capture of its leader, Ismael \"Mayo\" Zambada. (Photo by Ivan MEDINA / AFP) (Photo by IVAN MEDINA/AFP via Getty Images)"
+      "title": "Migrationspolitik : Ampel bringt Sicherheitspaket allein in den Bundestag ein",
+      "teaser": "Ohne die erhoffte Unterstützung der Union bringen die Ampelparteien verschärfte Asylregeln in den Bundestag. Die FDP fordert CDU-Chef Merz auf, wieder zu verhandeln.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/migrationspolitik-asylpaket-bundestag-ampelkoalition-union-gesetz",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/migrationspolitik-asylpaket-bundestag-ampelkoalition-union-gesetz-bild/super__430x286",
+      "image_title": "Migrationspolitik: Blick in den Plenarsaal des Bundestags zu Beginn der Haushaltswoche nach der parlamentarischen Sommerpause. Service +++ dpa-Bildfunk +++ Aufnahmedatum 09.09.2024"
     },
     {
-      "title": "Königreich Jordanien : Islamistische Oppositionspartei wird stärkste Kraft bei Parlamentswahl",
-      "teaser": "Jordanien ist ein Verbündeter der USA, doch viele Bürger haben palästinensische Wurzeln. Bei der Parlamentswahl nützt das dem politischen Arm der Muslimbruderschaft.",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/jordanien-parlamentswahl-islamisten-muslimbruderschaft",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/jordanien-wahllokal-amman-bild/super__430x286",
-      "image_title": "Königreich Jordanien: Ein Wahllokal in der jordanischen Hauptstadt Amman"
+      "title": "Z+ (abopflichtiger Inhalt); Schengenraum : Grenzenlos mit Grenzen",
+      "teaser": "Die Bundesregierung will mehr Grenzkontrollen, die es im Schengenraum eigentlich nicht mehr geben soll. Doch in der EU wird dieses Prinzip seit zehn Jahren aufgeweicht.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/schengenraum-grenzkontrollen-eu-bundesregierung-grenzen",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/deutsch-polnische-grenze/super__430x286",
+      "image_title": "deutsch-polnischen Grenze"
     },
     {
-      "title": "Krieg in Nahost : US-Regierung gewährt Ägypten 1,3 Milliarden Dollar Militärhilfe",
-      "teaser": "Die USA wollen die Militärhilfen für Ägypten in diesem Jahr nicht an die dortige Menschenrechtslage knüpfen. Grund dafür ist vor allem dessen Rolle im Gaza-Konflikt.",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/aegypten-us-militaerhilfen-1-3-milliarden-dollar",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/aegypten-us-militaerhilfen-1-3-milliarden-dollar-bild/super__430x286",
-      "image_title": "Krieg in Nahost: Der ägyptische Staatschef Abdel Fattah al-Sissi spricht im Jahr 2020 mit den angehenden Soldaten der Luftwaffe in Kairo."
+      "title": "Z+ (abopflichtiger Inhalt); Produktives Arbeiten : Konzentrierter Arbeiten? So kommt man in den Flow",
+      "teaser": "Bei der Arbeit im Flow zu sein, macht glücklich. Man arbeitet fokussiert und schafft viel. Doch wie erreicht man diesen Zustand? Dabei helfen nicht nur Deadlines.",
+      "url": "https://www.zeit.de/arbeit/2024-07/produktives-arbeiten-flow-konzentration",
+      "image_url": "https://img.zeit.de/arbeit/2024-07/produktives-arbeiten-flow/wide__892x501",
+      "image_title": "Produktives Arbeiten: Konzentrierter Arbeiten? So kommt man in den Flow"
+    },
+    {
+      "title": "Bundesweiter Warntag : Ab elf Uhr wird es laut",
+      "teaser": "Das Bundesamt für Bevölkerungsschutz testet Alarmstrukturen in Deutschland. Am späten Vormittag sollen überall im Land Sirenen heulen und Warnungen auf Handys eintreffen.",
+      "url": "https://www.zeit.de/digital/2024-09/warntag-katastrophenschutz-alarmsysteme-test",
+      "image_url": "https://img.zeit.de/digital/2024-09/warntag-sirenen-katastrophenschutz-bild/super__430x286",
+      "image_title": "Bundesweiter Warntag: Eine Sirene über Petersdorf in Brandenburg. Am Donnerstag soll zum vierten Mal der bundesweite Warntag stattfinden."
+    },
+    {
+      "title": "Bundesamt für Bevölkerungsschutz : Das Wichtigste zum bundesweiten Warntag",
+      "teaser": "Sirenen, Warn-Apps, Cell Broadcast: Mit dem bundesweiten Warntag wird am Donnerstag erneut getestet, wie Menschen bei Katastrophen alarmiert werden können. Ein Überblick",
+      "url": "https://www.zeit.de/digital/2023-09/bundesweiter-warntag-sirenen-handy-cell-broadcast-faq",
+      "image_url": "https://img.zeit.de/politik/2024-09/bundesweiten-warntag-raussuchen-stichwobundesweiter-warntag-cell-broadcast-warn-apps-nina-katwarn/super__430x286",
+      "image_title": "Bundesamt für Bevölkerungsschutz: Die NINA Warnapp, das WarnWetter vom DWD und die Katwarn-App sind auf einem Display zu sehen."
+    },
+    {
+      "title": "Liveblog:Krieg in Israel und Gaza : Palästinenser melden 14 Tote bei Angriff auf Schule im Gazastreifen",
+      "teaser": "Bei einem israelischen Angriff auf eine Schule im Gazastreifen starben 14 Menschen. Im Westjordanland wurde ein israelischer Soldat mit einem Lkw überfahren. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/2023-12/news-israel-gaza-krieg-live",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/news-israel-gaza-krieg-live-bild-6/super__430x286",
+      "image_title": "Krieg in Israel und Gaza: A Palestinian woman gestures at the courtyard of a school after an Israeli air strike hit the site, in Nuseirat in the central Gaza Strip on September 11, 2024, amid the ongoing war in the Palestinian territory between Israel and Hamas. An Israeli air strike on September 11 hit a central Gaza school, with the Hamas-run territory's civil defence agency reporting 10 killed in the facility turned displacement shelter and the military saying it had targeted militants. (Photo by Eyad BABA / AFP) (Photo by EYAD BABA/AFP via Getty Images)"
     },
     {
       "title": "Liveblog:Ukrainekrieg : USA und Briten kündigen rasche Entscheidung über Waffeneinsatz an",
@@ -173,25 +188,11 @@
       "image_title": "Gisèle Pelicot: Gisèle Pelicot am 11. September 2024 im Gerichtsgebäude von Avignon"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Burkhard Garweg : Der RAF-Mann und seine Frauen",
-      "teaser": "Der Ex-RAF-Terrorist Garweg hatte offenbar zahlreiche Beziehungen. Die Ermittler bitten nun gezielt Frauen um Mithilfe – unter anderem mit einem privaten Video.",
-      "url": "https://www.zeit.de/2024/39/burkhard-garweg-ex-raf-terrorist-fahndung-video",
-      "image_url": "https://img.zeit.de/2024/39/burkhard-garweg-bauwagenplatz-berlin-teaser/super__430x286",
-      "image_title": "Burkhard Garweg: Burkhard Garweg auf dem Bauwagenplatz in Berlin"
-    },
-    {
-      "title": "Peru : Früherer peruanischer Präsident Alberto Fujimori gestorben",
-      "teaser": "Er trat als Saubermann an und musste schließlich wegen schwerer Menschenrechtsverletzungen in Haft. Nun ist Perus Ex-Präsident Alberto Fujimori mit 86 Jahren gestorben.",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/peru-ex-praesident-alberto-fujimori-tod-mit-86",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/alberto-fujimori-tod-mit-86-jahren-bild/super__430x286",
-      "image_title": "Peru: Alberto Fujimori bei einem Gerichtstermin im Jahr 2018. Er wurde 2009 ursprünglich zu 25 Jahren Haft verurteilt, kam aber im Dezember 2023 aus humanitären Gründen frei."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Polaris Dawn : Deckel auf und raus ins All",
-      "teaser": "In wenigen Stunden wagt ein Milliardär mit SpaceX den ersten privaten Weltraumspaziergang – als Test für den Flug zum Mars. Verrückt oder die Zukunft der Raumfahrt?",
-      "url": "https://www.zeit.de/wissen/2024-09/polaris-dawn-spacex-raumfahrt-private-rakete",
-      "image_url": "https://img.zeit.de/wissen/2024-09/space-x-polaris-dawn/wide__892x501",
-      "image_title": "Polaris Dawn: HANDOUT - Diese von SpaceX via AP zur Verfügung gestellte Illustration zeigt einen Weltraumspaziergang aus der Dragon-Kapsel. Für die vier Privat-Astronauten der Mission «Polaris Dawn» stehen Außeneinsätze in dafür erstmals genutzten Raumanzügen an. +++ dpa-Bildfunk +++"
+      "title": "Koreanische Halbinsel : Nordkorea feuert ballistische Kurzstreckenraketen Richtung Meer ab",
+      "teaser": "Nordkoreas jüngster Raketenstart ist laut Südkoreas Generalstab eine besondere Provokation. Die Geschosse könnten offenbar Ziele in Südkorea erreichen.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/nordkorea-kim-jong-un-kurzstreckenraketen-test-suedkorea",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/suedkorea-nordkorea-raketentest-bild/super__430x286",
+      "image_title": "Koreanische Halbinsel: Ein Fernsehbildschirm im Bahnhof von Seoul zeigt ein Archivbild eines nordkoreanischen Raketenstarts."
     },
     {
       "title": "Vogelgrippe : Und dann ist da plötzlich dieser Fall aus Missouri",
@@ -201,13 +202,6 @@
       "image_title": "Vogelgrippe: Truthahn-Farm in Missouri - der aktuelle Fall könnte die erste bekannte Übertragung eines H5-Virus von Mensch zu Mensch in den USA sein."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Blaumachen : \"Meine Vorgesetzten haben es nicht anders verdient\"",
-      "teaser": "Sie melden sich krank, obwohl sie gesund sind – um den Urlaub zu verlängern oder einzukaufen: Menschen erzählen, warum sie im Job blaumachen und das völlig okay finden.",
-      "url": "https://www.zeit.de/arbeit/2024-08/blaumachen-arbeit-krankmeldung-ausreden-job",
-      "image_url": "https://img.zeit.de/arbeit/2024-08/blaumachen-arbeit-krankmeldung/super__430x286",
-      "image_title": "Blaumachen: \"Meine Vorgesetzten haben es nicht anders verdient\""
-    },
-    {
       "title": "Diese Woche in der ZEIT : Mein Körper und ich",
       "teaser": "Vom Leben mit kleinen Zipperlein und großen Leiden: Der Schriftsteller Axel Hacke über einen faszinierenden Fremden, den er jetzt erst richtig kennenlernt.",
       "url": "https://premium.zeit.de/abo/diezeit?aktionsnummer=1130785&wt_zmc=fix.int.zonpme.zeitde.epaper.z+.home.bildtext.bildtext&utm_medium=fix&utm_source=zeitde_zonpme_int&utm_campaign=epaper&utm_content=z+_home_bildtext_bildtext?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.link.link&utm_medium=cross&utm_source=zeitde_zonpme_int&utm_campaign=printbox&utm_content=ausgseite_bildtext_link_link",
@@ -215,18 +209,39 @@
       "image_title": "Diese Woche in der ZEIT: Mein Körper und ich"
     },
     {
-      "title": "Friedrich Merz : Der Wüterich will auch mal präsidentiell",
-      "teaser": "Friedrich Merz bestimmt in der Asylpolitik längst die Geschicke der Ampel mit. Bei der Generaldebatte im Bundestag überrascht der CDU-Chef mit einer neuen Strategie.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/friedrich-merz-migrationspolitik-bundestag-generaldebatte",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/friedrich-merz-migrationspolitik-bundestag-bild/super__430x286",
-      "image_title": "Friedrich Merz: Der Wüterich will auch mal präsidentiell"
+      "title": "Z+ (abopflichtiger Inhalt); Polaris Dawn : Deckel auf und raus ins All",
+      "teaser": "In wenigen Stunden wagt ein Milliardär mit SpaceX den ersten privaten Weltraumspaziergang – als Test für den Flug zum Mars. Verrückt oder die Zukunft der Raumfahrt?",
+      "url": "https://www.zeit.de/wissen/2024-09/polaris-dawn-spacex-raumfahrt-private-rakete",
+      "image_url": "https://img.zeit.de/wissen/2024-09/space-x-polaris-dawn/super__430x286",
+      "image_title": "Polaris Dawn: HANDOUT - Diese von SpaceX via AP zur Verfügung gestellte Illustration zeigt einen Weltraumspaziergang aus der Dragon-Kapsel. Für die vier Privat-Astronauten der Mission «Polaris Dawn» stehen Außeneinsätze in dafür erstmals genutzten Raumanzügen an. +++ dpa-Bildfunk +++"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Umfrage zur Migration : Selbst Grenzzäune sind kein Tabu mehr",
-      "teaser": "Eine klare Mehrheit in Deutschland wünscht sich eine restriktivere Migrationspolitik, ergibt eine ZEIT-Umfrage. Was genau Sorgen macht und welche Maßnahmen überzeugen.",
-      "url": "https://www.zeit.de/2024/39/migration-umfrage-asylpolitik-rechtsradikalismus",
-      "image_url": "https://img.zeit.de/2024/39/migration-umfrage-asylpolitik-rechtsradikalismus-teaser-1/super__430x286",
-      "image_title": "Umfrage zur Migration: Selbst Grenzzäune sind kein Tabu mehr"
+      "title": "Z+ (abopflichtiger Inhalt); Marketingmanager : \"Ich bekomme den Druck nicht ausreichend vergütet\"",
+      "teaser": "Pablo arbeitet als Marketingmanager in München und trägt als Berufsanfänger schon viel Verantwortung. Obwohl er nicht so viel verdient, spart er jeden Monat 500 Euro.",
+      "url": "https://www.zeit.de/arbeit/2024-09/marketing-manager-gehalt-sparen-familie-kontoauszug",
+      "image_url": "https://img.zeit.de/arbeit/2024-09/marketing-manager-gehalt-sparen/super__430x286",
+      "image_title": "Marketingmanager: \"Ich bekomme den Druck nicht ausreichend vergütet\""
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Verkehrsunfälle : So viele Unfälle passieren auf dem Schulweg Ihres Kindes",
+      "teaser": "Wie gefährlich ist die Strecke, die Ihr Kind zur Schule fährt oder läuft? Unser interaktives Tool zeigt Ihnen, welche Straßen besonders riskant sind.",
+      "url": "https://www.zeit.de/mobilitaet/2024-07/verkehrsunfaelle-strassen-fahrrad-schulweg-arbeitsweg-karte-statistik",
+      "image_url": "https://img.zeit.de/mobilitaet/2024-07/verkehrsunfaelle-strassen-fahrrad-schulweg-arbeitsweg-karte-teaser/super__430x286",
+      "image_title": "Verkehrsunfälle: So viele Unfälle passieren auf dem Schulweg Ihres Kindes"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Charlotte Knobloch : \"Ich kann nur noch sehr wenig ausrichten\"",
+      "teaser": "Charlotte Knobloch, 91 Jahre alt, hat ihr Leben lang gegen Antisemitismus und Rechtsextremismus gekämpft. Nach den Ost-Wahlen fragt sie sich: War alles umsonst?",
+      "url": "https://www.zeit.de/2024/38/charlotte-knobloch-ostdeutschland-landtagswahlen-antisemitismus-afd",
+      "image_url": "https://img.zeit.de/2024/38/charlotte-knobloch-ostdeutschland-teaser/super__430x286",
+      "image_title": "Charlotte Knobloch: Charlotte Knobloch, fotografiert am 3. September 2024 in der Ohel-Jakob-Synagoge in München"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Kinder als Straftäter : Ein Junge, der jedes System sprengt",
+      "teaser": "Ein erst elfjähriger Marokkaner begeht 70 Einbrüche. Die Polizei kann ihn nicht bestrafen, die Jugendhilfe ist ratlos. Nun ist er mit seinem Bruder untergetaucht.",
+      "url": "https://www.zeit.de/hamburg/2024-09/kinder-straftaeter-kriminalitaet-strafmuendigkeit-hamburg",
+      "image_url": "https://img.zeit.de/hamburg/2024-09/kinder-straftaeter-kriminalitaet-strafmuendigkeit-bild/super__430x286",
+      "image_title": "Kinder als Straftäter: Archivbild - Ein Aufseher schließt eine Tür in der Geschlossenen Unterbringung in der Feuerbergstraße in Hamburg ab."
     },
     {
       "title": "Theodor-Wolff-Preis : Autoren von ZEIT und ZEIT ONLINE erhalten Reporterpreis",
@@ -236,95 +251,53 @@
       "image_title": "Theodor-Wolff-Preis: Thilo Adam (l) bekommt den Journalistenpreis «Theodor-Wolff-Preis» für das Thema des Jahres «Der Nahostkonflikt und Deutschland - die geforderte Gesellschaft» von der Patin des Preises Ulrike Winkelmann, Chefredakteurin der Tageszeitung TAZ, übergeben. Der Journalistenpreis der Digital-Publisher und Zeitungsverleger erinnert an den langjährigen Chefredakteur des «Berliner Tageblatts», Theodor Wolff (1868-1943). +++ dpa-Bildfunk +++"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Kindeswohl : Ist das Kind in Gefahr?",
-      "teaser": "Noch nie waren so viele Kinder in Deutschland von Vernachlässigung oder Gewalt betroffen. Woran man Kindeswohlgefährdung erkennt – und was oft übersehen wird.",
-      "url": "https://www.zeit.de/familie/2024-09/kindeswohl-gefaehrdung-gewalt-eltern-vernachlaessigung",
-      "image_url": "https://img.zeit.de/familie/2024-09/kinder-deutschland-gewalt-vernachlaessigung/super__430x286",
-      "image_title": "Kinder Deutschland Gewalt Vernachlässigung"
+      "title": "Königreich Jordanien : Islamistische Oppositionspartei wird stärkste Kraft bei Parlamentswahl",
+      "teaser": "Jordanien ist ein Verbündeter der USA, doch viele Bürger haben palästinensische Wurzeln. Bei der Parlamentswahl nützt das dem politischen Arm der Muslimbruderschaft.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/jordanien-parlamentswahl-islamisten-muslimbruderschaft",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/jordanien-wahllokal-amman-bild/super__430x286",
+      "image_title": "Königreich Jordanien: Ein Wahllokal in der jordanischen Hauptstadt Amman"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Bornholms Windpark : \"Eine Krankenschwester verdient bei uns 5.000 Euro im Monat\"",
-      "teaser": "Auf der dänischen Insel Bornholm entsteht ein großer Windpark. Die Insel sucht deshalb nach Fachkräften aus Deutschland – und bietet günstige Häuser und gute Gehälter.",
-      "url": "https://www.zeit.de/arbeit/2024-08/bornholm-windpark-ostsee-fachkraefte-jobangebot",
-      "image_url": "https://img.zeit.de/arbeit/2024-08/bornholm-windpark-ostsee/super__430x286",
-      "image_title": "Bornholms Windpark: Waves crash against rocks on Bornholm's north coast, Denmark Friday October 20, 2023. DMI has warned of storm-force winds on Bornholm. Due to a heavy storm, there is a warning of increased water levels of up to 2.4 metres, says Danish Meteorological Institute. Ritzau Scanpix/Pelle Rink/via REUTERS ATTENTION EDITORS - THIS IMAGE WAS PROVIDED BY A THIRD PARTY. DENMARK OUT. NO COMMERCIAL OR EDITORIAL SALES IN DENMARK."
+      "title": "Krieg in Nahost : US-Regierung gewährt Ägypten 1,3 Milliarden Dollar Militärhilfe",
+      "teaser": "Die USA wollen die Militärhilfen für Ägypten in diesem Jahr nicht an die dortige Menschenrechtslage knüpfen. Grund dafür ist vor allem dessen Rolle im Gaza-Konflikt.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/aegypten-us-militaerhilfen-1-3-milliarden-dollar",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/aegypten-us-militaerhilfen-1-3-milliarden-dollar-bild/super__430x286",
+      "image_title": "Krieg in Nahost: Der ägyptische Staatschef Abdel Fattah al-Sissi spricht im Jahr 2020 mit den angehenden Soldaten der Luftwaffe in Kairo."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Sinn des Lebens : \"Wer hindert mich daran, ein Lebensziel zu ändern?\"",
-      "teaser": "Jeder sucht es, wenige finden es: das gute Leben. Die Philosophin Viktoria Bachmann über den Umgang mit Zielen, Lüsten und radikalen Brüchen",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2024-07/sinn-des-lebens-griechische-philosophie-viktoria-bachmann",
-      "image_url": "https://img.zeit.de/zeit-magazin/leben/2024-08/sinn-des-lebens-griechische-philosophie-viktoria-bachmann-bild/super__430x286",
-      "image_title": "Sinn des Lebens: \"Wer hindert mich daran, ein Lebensziel zu ändern?\""
+      "title": "Peru : Früherer peruanischer Präsident Alberto Fujimori gestorben",
+      "teaser": "Er trat als Saubermann an und musste schließlich wegen schwerer Menschenrechtsverletzungen in Haft. Nun ist Perus Ex-Präsident Alberto Fujimori mit 86 Jahren gestorben.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/peru-ex-praesident-alberto-fujimori-tod-mit-86",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/alberto-fujimori-tod-mit-86-jahren-bild/super__430x286",
+      "image_title": "Peru: Alberto Fujimori bei einem Gerichtstermin im Jahr 2018. Er wurde 2009 ursprünglich zu 25 Jahren Haft verurteilt, kam aber im Dezember 2023 aus humanitären Gründen frei."
     },
     {
-      "title": "Chanson : Sängerin Caterina Valente ist tot",
-      "teaser": "\"Ganz Paris träumt von der Liebe\" und \"Tschau, Tschau Bambina\": Die italienisch-französische Schlagersängerin Caterina Valente ist im Alter von 93 Jahren gestorben.",
-      "url": "https://www.zeit.de/kultur/musik/2024-09/caterina-valente-saengerin-tot",
-      "image_url": "https://img.zeit.de/kultur/musik/2024-09/caterina-valente-saengerin-schauspielerin/super__430x286",
-      "image_title": "caterina-valente-saengerin Schauspielerin"
+      "title": "Mexiko : Gewaltausbruch in Mexiko nach US-Festnahme von Drogenboss \"El Mayo\"",
+      "teaser": "Im Juli hatten die USA überraschend den mächtigen mexikanischen Drogenboss \"El Mayo\" gefasst. Nun nimmt die Bandengewalt im Bundesstaat Sinaloa wieder zu.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/mexiko-drogen-gewalt-sinaloa-el-mayo-usa",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/mexiko-sinaloa-gewalt/super__430x286",
+      "image_title": "Mexiko: A burned truck is seen on the streets of Culiacan, Sinaloa State, Mexico, on September 11, 2024. Elements of Mexico's National Guard were deployed in the state of Sinaloa, in the northwest of the country, amid an escalation of violence that authorities attribute to internal struggles within the Sinaloa cartel following the capture of its leader, Ismael \"Mayo\" Zambada. (Photo by Ivan MEDINA / AFP) (Photo by IVAN MEDINA/AFP via Getty Images)"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Antilopen Gang : Ärzte mit Grenzen",
-      "teaser": "Zehn Rap- und zwölf Punkstücke enthält das neue Album der Antilopen Gang. Ein einziger Song über den Krieg in Gaza droht das Monumentalwerk jedoch zu überschatten.",
-      "url": "https://www.zeit.de/kultur/musik/2024-09/antilopen-gang-album-musik-rechtsruck-nazis-bearbeitet",
-      "image_url": "https://img.zeit.de/kultur/musik/2024-09/antilopen/wide__892x501",
-      "image_title": "Antilopen Gang: Wer ganz genau hinguckt, entdeckt auch bei dieser antikapitalistischen Rapgruppe drei Markenlogos: Kolja, Danger Dan und Panik Panzer (von links nach rechts) sind die Antilopen Gang."
+      "title": "US-Wahl : Verschärfte Sicherheitsvorkehrungen für Bestätigung der US-Wahl",
+      "teaser": "Der US-Geheimdienst plant umfassende Sicherheitsmaßnahmen für den 6. Januar 2025. Gewaltsame Ausschreitungen wie der Sturm aufs Kapitol 2021 sollen so verhindert werden.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/usa-wahlen-2024-sicherheit-trump-harris-kapitol",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/capitol-usa-wahlen/super__320x213",
+      "image_title": "US-Wahl: Congress Returns To Capitol Hill After Summer Recess WASHINGTON, DC - SEPTEMBER 9: An exterior view of the U.S. Capitol on September 9, 2024 in Washington, DC. Members of the Senate and U.S. House of Representatives return to the Nation's capitol, following their August recess. (Photo by Kent Nishimura/Getty Images)"
     },
     {
-      "title": "Kate Winslet : \"Wir Frauen haben einfach mehr Scheiße am Hacken\"",
-      "teaser": "In ihrem neuen Film \"Die Fotografin\" spielt Kate Winslet die Kriegsreporterin Lee Miller. Ein Gespräch über vermeintliche Männerjobs und Hitlers Badewanne",
-      "url": "https://www.zeit.de/2024/39/kate-winslet-die-fotografin-film-kriegsfotografie",
-      "image_url": "https://img.zeit.de/2024/39/kate-winslet-die-fotografin-film-kriegsfotografie-teaser/super__430x286",
-      "image_title": "Kate Winslet: \"Wir Frauen haben unseren Platz am Tisch verdient.\" Kate Winslet, 48, in \"Die Fotografin\""
-    },
-    {
-      "title": "\"Treasure\" : Am Ende einer langen Reise",
-      "teaser": "Vor zehn Jahren begann die Regisseurin Julia von Heinz die Arbeit an \"Treasure\". Nun kommt ihr Film über eine Reise nach Auschwitz ins Kino. Eine Langzeitbeobachtung",
-      "url": "https://www.zeit.de/kultur/film/2024-09/film-treasure-holocaust-erinnerungskultur-julia-von-heinz",
-      "image_url": "https://img.zeit.de/kultur/film/2024-09/treasure-familie-ist-ein-fremdes-land-02/super__430x286",
-      "image_title": "Treasure - Familie ist ein fremdes Land 02"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Beziehungen : \"Ich dachte, beim ersten Mal Sex kann bestimmt nichts passieren\"",
-      "teaser": "Unter den wachsamen Augen der Stasi geht Henriette, heute 66, eine Scheinehe mit Robert ein. So gelingt ihr die Flucht in den Westen, wo sie ihrer großen Liebe begegnet.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2024-08/beziehungen-sex-liebe-meines-lebens",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-08/zwe-beziehungen-sex-liebe-meines-lebens/wide__892x501",
-      "image_title": "Beziehungen: \"Ich dachte, beim ersten Mal Sex kann bestimmt nichts passieren\""
-    },
-    {
-      "title": "Liveblog:Krieg in Israel und Gaza : Palästinenser melden 14 Tote bei Angriff auf Schule im Gazastreifen",
-      "teaser": "Bei einem israelischen Angriff auf eine Schule im Gazastreifen starben 14 Menschen. Im Westjordanland wurde ein israelischer Soldat mit einem Lkw überfahren. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/2023-12/news-israel-gaza-krieg-live",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/news-israel-gaza-krieg-live-bild-6/super__430x286",
-      "image_title": "Krieg in Israel und Gaza: A Palestinian woman gestures at the courtyard of a school after an Israeli air strike hit the site, in Nuseirat in the central Gaza Strip on September 11, 2024, amid the ongoing war in the Palestinian territory between Israel and Hamas. An Israeli air strike on September 11 hit a central Gaza school, with the Hamas-run territory's civil defence agency reporting 10 killed in the facility turned displacement shelter and the military saying it had targeted militants. (Photo by Eyad BABA / AFP) (Photo by EYAD BABA/AFP via Getty Images)"
+      "title": "ISS : Sojuskapsel erreicht Internationale Raumstation im Eiltempo",
+      "teaser": "Normalerweise dauert es Tage, aber dieser Flug brauchte nur drei Stunden: An der ISS ist eine Sojuskapsel angekommen. An Bord sind zwei Russen und ein US-Amerikaner.",
+      "url": "https://www.zeit.de/wissen/2024-09/iss-sojus-russland-usa-weltall",
+      "image_url": "https://img.zeit.de/wissen/2024-09/iss-sojus-russland-usa-weltall-bild/super__320x213",
+      "image_title": "ISS: BAIKONUR, KAZAKHSTAN - SEPTEMBER 11: (EDITOR’S NOTE: This Handout image/clip was provided by a third-party organization and may not adhere to Getty Images’ editorial policy.) In this NASA handout, the Soyuz rocket launches to the International Space Station with Expedition 72 crew members: NASA astronaut Don Pettit, Roscosmos cosmonauts Alexey Ovchinin, and Ivan Vagner, onboard, on September 11, 2024, at the Baikonur Cosmodrome in Kazakhstan. (Photo by Bill Ingalls/NASA via Getty Images)"
     },
     {
       "title": "USA : Abstimmung über Haushaltsgesetz im US-Repräsentantenhaus abgesagt",
       "teaser": "Die Finanzierung der US-Bundesbehörden ist derzeit nur bis Ende September gesichert. Der Kongress konnte sich jedoch erneut auf keine Finanzierung des Haushalts einigen.",
       "url": "https://www.zeit.de/politik/ausland/2024-09/usa-haushaltsgesetz-finanzierung-abstimmung-abgesagt",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/usa-haushaltsgesetz-finanzierung-abstimmung-abgesagt-bild/super__430x286",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/usa-haushaltsgesetz-finanzierung-abstimmung-abgesagt-bild/super__320x213",
       "image_title": "USA: WASHINGTON, DC - SEPTEMBER 10: A visitor runs up stairs along the East Front Plaza at the U.S. Capitol on September 10, 2024 in Washington, DC. Members of the Senate and U.S. House of Representatives returned to the nation's capital, following their August recess. (Photo by Tom Brenner/Getty Images)"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Guantánamo : Die anderen Opfer von 9/11",
-      "teaser": "Nach den Anschlägen kam die Folter: So verhinderten die USA bis heute den wichtigsten Prozess in der Geschichte ihres Landes – und treiben Angehörige in die Verzweiflung.",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/guantanamo-11-september-terror-prozess",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/guantanamo-11-september-terror-10/wide__892x501",
-      "image_title": "Guantánamo: 'Families of Flight 93' president Gordon Felt, 57, who lost his brother Edward Felt on Flight 93 during the September 11, 2001 attacks visits the Flight 93 National Memorial in Shanksville, Pennsylvania on May 26, 2021. - Gordon Felt knows the old mining land in Pennsylvania where United Airlines Flight 93 crashed on September 11, 2001, by heart. He's been there about a hundred times since the attacks. His brother Edward was on the plane that went down in wooded hills outside Shanksville after passengers stopped hijackers from crashing it into Washington, DC, 155 miles (250 kilometers) away."
-    },
-    {
-      "title": "Islamisches Zentrum Hamburg : Früherer Leiter des ehemaligen Islamischen Zentrums Hamburg ausgereist",
-      "teaser": "Nach dem Verbot des dem iranischen Regime zugeordneten Islamischen Zentrum Hamburg ist dessen ehemaliger Leiter Mofatteh ausgereist. Die Behörden hatten ihn ausgewiesen.",
-      "url": "https://www.zeit.de/politik/2024-09/islamisches-zentrum-hamburg-ausweisung-ausreise-moffateh",
-      "image_url": "https://img.zeit.de/politik/2024-09/islamisches-zentrum-hamburg-ausweisung-ausreise-moffateh-bild/super__430x286",
-      "image_title": "Islamisches Zentrum Hamburg: 31.08.2018, Hamburg: Der schiitische Geistliche Mohammad Hadi Mofatteh, neuer Leiter des Islamischen Zentrum Hamburg (IZH), spricht bei einer Pressekonferenz im IZH. Mofatteh, der den Titel Hodschatoleslam trägt, ist Nachfolger von Ajatollah Ramezani, der in den Iran zurückkehrt. Foto: Christian Charisius/dpa +++ dpa-Bildfunk +++"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Kinder als Straftäter : Ein Junge, der jedes System sprengt",
-      "teaser": "Ein erst elfjähriger Marokkaner begeht 70 Einbrüche. Die Polizei kann ihn nicht bestrafen, die Jugendhilfe ist ratlos. Nun ist er mit seinem Bruder untergetaucht.",
-      "url": "https://www.zeit.de/hamburg/2024-09/kinder-straftaeter-kriminalitaet-strafmuendigkeit-hamburg",
-      "image_url": "https://img.zeit.de/hamburg/2024-09/kinder-straftaeter-kriminalitaet-strafmuendigkeit-bild/super__430x286",
-      "image_title": "Kinder als Straftäter: Archivbild - Ein Aufseher schließt eine Tür in der Geschlossenen Unterbringung in der Feuerbergstraße in Hamburg ab."
     },
     {
       "title": "Griechenland : Hotels wegen Brand auf Kreta evakuiert",
@@ -355,32 +328,18 @@
       "image_title": "Frankreich: Marine Le Pen, President of the French far-right National Rally (Rassemblement National - RN) party parliamentary group, looks on during the party's campaign for the EU elections, in Paris, France, June 2, 2024. REUTERS/Christian Hartmann"
     },
     {
-      "title": "Teuerung : Inflation in den USA schwächt sich vor möglicher Zinswende ab",
-      "teaser": "In den USA hat sich die Teuerungsrate seit Juli deutlich gesenkt – sie fiel um 0,4 Prozentpunkte. Der Rückgang kommt vor einer möglichen Zinssenkung der US-Notenbank.",
-      "url": "https://www.zeit.de/wirtschaft/2024-09/inflation-usa-abschwaechung-moegliche-zinswende",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-09/inflation-usa-abschwaechung-moegliche-zinswende-bild/super__320x213",
-      "image_title": "Teuerung: WASHINGTON, DC - MAY 02: The Federal Reserve building is shown May 2, 2023 in Washington, DC. The Federal Reserve begins two days of meetings today to determine its next steps in relation to interest rates in an ongoing battle against reigning in inflation. (Photo by Win McNamee/Getty Images)"
+      "title": "Chanson : Sängerin Caterina Valente ist tot",
+      "teaser": "\"Ganz Paris träumt von der Liebe\" und \"Tschau, Tschau Bambina\": Die italienisch-französische Schlagersängerin Caterina Valente ist im Alter von 93 Jahren gestorben.",
+      "url": "https://www.zeit.de/kultur/musik/2024-09/caterina-valente-saengerin-tot",
+      "image_url": "https://img.zeit.de/kultur/musik/2024-09/caterina-valente-saengerin-schauspielerin/super__320x213",
+      "image_title": "caterina-valente-saengerin Schauspielerin"
     },
     {
-      "title": "Paris : Frankreich will geplante Anschläge während Olympia verhindert haben",
-      "teaser": "Während der Olympischen und der Paralympischen Spiele sollen Attentate geplant gewesen sein. Die Verdächtigen sitzen laut Antiterrorstaatsanwalt in Untersuchungshaft.",
-      "url": "https://www.zeit.de/politik/2024-09/frankreich-olympischen-paralympischen-spiele-anschlaege",
-      "image_url": "https://img.zeit.de/politik/2024-09/frankreich-olympischen-paralympischen-spiele-anschlaege-bild/super__320x213",
-      "image_title": "Paris: Paris 2024 Olympics - Paris 2024 Olympics Preview - Paris, France - July 21, 2024 Police officers patrol at the Trocadero as the Eiffel Tower is seen ahead of the Olympics REUTERS/Marko Djurica"
-    },
-    {
-      "title": "Irak : Angriff auf Außenstelle der US-Botschaft in Bagdad",
-      "teaser": "Am Flughafen Bagdad ist eine Zweigstelle der US-Botschaft angegriffen worden. Eine Rakete traf nach irakischen Angaben Räume einer Einheit, die gegen den IS arbeitet.",
-      "url": "https://www.zeit.de/politik/2024-09/bagdad-usa-botschaft-irak",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/bagdad-usa-botschaft-irak-bild/super__320x213",
-      "image_title": "Irak: IRAQ LANSCAPE Iraq, Baghdad on 2022 10 15 Iraqi landscape Baghdad International Airport Photograph by Martin Bertrand Irak, Bagdad le 2022 10 15 Paysage dIrakien Aeroport international de Bagdad Photographie de Martin Bertrand Baghdad Iraq PUBLICATIONxNOTxINxFRA"
-    },
-    {
-      "title": "Haushaltsdebatte : Baerbock kritisiert Etatkürzungen als Risiko für deutsche Sicherheit",
-      "teaser": "In der Haushaltsdebatte hat Außenministerin Baerbock die Kürzungen im Haushalt des Auswärtigen Amts bedauert. Für die deutsche Sicherheit sei \"weit mehr\" notwendig.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/baerbock-haushalt-auswaertiges-amt-kuerzungen",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/baerbock-haushalt-auswaertiges-amt-kuerzungen-bild/super__320x213",
-      "image_title": "Haushaltsdebatte: Annalena Baerbock (Bündnis 90/Die Grünen), Außenministerin, nach der Pressekonferenz über die Fortsetzung der Gespräche der Ampel-Koalition mit Union und Ländern zur Migrationspolitik. +++ dpa-Bildfunk +++ 10/09/2024 Berlin"
+      "title": "Z+ (abopflichtiger Inhalt); Beziehungen : \"Ich dachte, beim ersten Mal Sex kann bestimmt nichts passieren\"",
+      "teaser": "Unter den wachsamen Augen der Stasi geht Henriette, heute 66, eine Scheinehe mit Robert ein. So gelingt ihr die Flucht in den Westen, wo sie ihrer großen Liebe begegnet.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2024-08/beziehungen-sex-liebe-meines-lebens",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-08/zwe-beziehungen-sex-liebe-meines-lebens/super__430x286",
+      "image_title": "Beziehungen: \"Ich dachte, beim ersten Mal Sex kann bestimmt nichts passieren\""
     },
     {
       "title": "ZEIT Podcast-Tour : Feiern Sie mit uns das ZEIT Podcast-Tour Finale",
@@ -728,11 +687,11 @@
       "image_title": "Die Gesichtsausdrücke von Donald Trump und Kamala Harris während des TV-Duells"
     },
     {
-      "title": "Migration : Bund kündigt weitere Gespräche mit Ländern zu Asylpolitik an",
-      "teaser": "Die Regierungsparteien wollen auch ohne die Union die Gespräche zur Begrenzung der Zuwanderung fortsetzen. Die Länder hätten bereits ihre Bereitschaft signalisiert.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/bundesregierung-laender-fortsetzung-gespraeche-asylpolitik",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/bundesregierung-laender-fortsetzung-gespraeche-asylpolitik-bild/super__430x286",
-      "image_title": "Migration: Ein kleines Mädchen steht auf dem Flur von Wohncontainern für Migranten auf dem Gelände der Zentralen Erstaufnahmeeinrichtung für Asylbewerber (ZABH) des Landes Brandenburg. Die Ministerpräsidentenkonferenz wird am 20. Juni die Frage erörtern, ob Asylverfahren von Schutzsuchenden unter Achtung der völker- und menschenrechtlichen Vorgaben in einen kooperierenden Staat außerhalb der EU verlagert werden können. +++ dpa-Bildfunk +++ Eisenhüttenstadt 18/06/2024"
+      "title": "Islamisches Zentrum Hamburg : Früherer Leiter des ehemaligen Islamischen Zentrums Hamburg ausgereist",
+      "teaser": "Nach dem Verbot des dem iranischen Regime zugeordneten Islamischen Zentrum Hamburg ist dessen ehemaliger Leiter Mofatteh ausgereist. Die Behörden hatten ihn ausgewiesen.",
+      "url": "https://www.zeit.de/politik/2024-09/islamisches-zentrum-hamburg-ausweisung-ausreise-moffateh",
+      "image_url": "https://img.zeit.de/politik/2024-09/islamisches-zentrum-hamburg-ausweisung-ausreise-moffateh-bild/super__430x286",
+      "image_title": "Islamisches Zentrum Hamburg: 31.08.2018, Hamburg: Der schiitische Geistliche Mohammad Hadi Mofatteh, neuer Leiter des Islamischen Zentrum Hamburg (IZH), spricht bei einer Pressekonferenz im IZH. Mofatteh, der den Titel Hodschatoleslam trägt, ist Nachfolger von Ajatollah Ramezani, der in den Iran zurückkehrt. Foto: Christian Charisius/dpa +++ dpa-Bildfunk +++"
     },
     {
       "title": "Verlagsangebot : Das kleine Hauptstadt-Quiz",
@@ -812,10 +771,17 @@
       "image_title": "Letzte Generation: Journalisten filmen während eines Pressestatements der Klimaschutzgruppe Letzte Generation zu den Protesten ab dem 13. September in Berlin vor dem Bundeskanzleramt die Teilnehmer der Pressekonferenz."
     },
     {
+      "title": "Teuerung : Inflation in den USA schwächt sich vor möglicher Zinswende ab",
+      "teaser": "In den USA hat sich die Teuerungsrate seit Juli deutlich gesenkt – sie fiel um 0,4 Prozentpunkte. Der Rückgang kommt vor einer möglichen Zinssenkung der US-Notenbank.",
+      "url": "https://www.zeit.de/wirtschaft/2024-09/inflation-usa-abschwaechung-moegliche-zinswende",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-09/inflation-usa-abschwaechung-moegliche-zinswende-bild/wide__892x501",
+      "image_title": "Teuerung: WASHINGTON, DC - MAY 02: The Federal Reserve building is shown May 2, 2023 in Washington, DC. The Federal Reserve begins two days of meetings today to determine its next steps in relation to interest rates in an ongoing battle against reigning in inflation. (Photo by Win McNamee/Getty Images)"
+    },
+    {
       "title": "Banken : Italienische UniCredit wird zweitgrößter Anteilseigner der Commerzbank",
       "teaser": "Die Großbank UniCredit ist bei der Commerzbank eingestiegen und direkt zweitgrößter Anteilseigner geworden. An der Börse wird schon über eine Gesamtübernahme spekuliert.",
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-09/unicredit-commerzbank-einstieg-boerse-banken",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-09/italienische-bank-unicredit-einstieg-commerzbank-bild-2/wide__892x501",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-09/italienische-bank-unicredit-einstieg-commerzbank-bild-2/super__430x286",
       "image_title": "Banken: Milan's skyline with the Unicredit Tower is seen from the terrace of Duomo Cathedral in Milan, on July 6, 2023. (Photo by GABRIEL BOUYS / AFP) (Photo by GABRIEL BOUYS/AFP via Getty Images)"
     },
     {
@@ -831,13 +797,6 @@
       "url": "https://www.zeit.de/wirtschaft/2024-09/insolvenzen-firmenpleiten-unternehmen-wirtschaftsbereich-verkehr",
       "image_url": "https://img.zeit.de/wirtschaft/2024-09/insolvenzen-firmenpleiten-unternehmen-wirtschaftsbereich-verkehr-bild/super__430x286",
       "image_title": "Insolvenzen: HAMBURG, GERMANY - APRIL 17: In this aerial view a freight-carrying vehicle called a straddle carrier, or straddle truck, transports a Hapag-Lloyd shipping container among stacked containers at Hamburg Port on April 17, 2024 in Hamburg, Germany. The International Monetary Fund (IMF) has reduced its prognosis for Germany's economic growth this year to 0.2%, the lowest of any G7 nation. Hamburg Port is Germany's biggest port and is a hub for exports and imports. (Photo by Sean Gallup/Getty Images)"
-    },
-    {
-      "title": "Finanzmarktstabilisierungsfonds : Der Bund verkauft seine Commerzbank-Beteiligung",
-      "teaser": "Die Bundesrepublik Deutschland ist seit der Finanzkrise größter Einzelaktionär bei der Commerzbank. Nun sollen die Aktien der Großbank schrittweise verkauft werden.",
-      "url": "https://www.zeit.de/wirtschaft/2024-09/deutschland-bund-fonds-aktien-commerzbank",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-09/commerzbank-aktien-verkauf-bund/super__430x286",
-      "image_title": "Finanzmarktstabilisierungsfonds: FRANKFURT AM MAIN, GERMANY - JUNE 09: The headquarters of Commerzbank is seen in the financial district on June 09, 2021 in Frankfurt, Germany. While the German economy is showing positive trends as authorities ease nationwide lockdown measures, several of Germany's biggest banks are continuing to struggle. (Photo by /Getty Images)"
     },
     {
       "title": "Unicredit-Chef : Der Angstgegner",
@@ -889,18 +848,18 @@
       "image_title": "Skulpturen-Hallen Ulrich Rückriem: Schwerer wird’s nicht – Einblick in den Museumspark"
     },
     {
+      "title": "\"Treasure\" : Am Ende einer langen Reise",
+      "teaser": "Vor zehn Jahren begann die Regisseurin Julia von Heinz die Arbeit an \"Treasure\". Nun kommt ihr Film über eine Reise nach Auschwitz ins Kino. Eine Langzeitbeobachtung",
+      "url": "https://www.zeit.de/kultur/film/2024-09/film-treasure-holocaust-erinnerungskultur-julia-von-heinz",
+      "image_url": "https://img.zeit.de/kultur/film/2024-09/treasure-familie-ist-ein-fremdes-land-02/super__430x286",
+      "image_title": "Treasure - Familie ist ein fremdes Land 02"
+    },
+    {
       "title": "Taylor Swift : Daumen hoch von der Katzenlady",
       "teaser": "Mit ihrem Bekenntnis zu Kamala Harris schreibt Taylor Swift einen perfekten Taylor-Swift-Song: unverbindlich, schwesterlich, leicht gemein. Und die Katze ist auch super.",
       "url": "https://www.zeit.de/kultur/musik/2024-09/taylor-swift-kamala-harris-us-wahlkampf-demokraten-unterstuetzung",
       "image_url": "https://img.zeit.de/kultur/musik/2024-09/taylor-swift-kamala-harris-dnc/super__430x286",
       "image_title": "Taylor Swift Kamala-Harris DNC"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); TV-Debatte : Die Bidenisierung des Donald Trump",
-      "teaser": "Beim Duell zwischen Harris und Trump begegnete man einem erloschenen Ex-Präsidenten. Und es präsentierte sich eine Gegnerin, die für Pläne statt Träume brennt.",
-      "url": "https://www.zeit.de/kultur/2024-09/tv-debatte-donald-trump-kamala-harris-us-wahlkampf-joe-biden",
-      "image_url": "https://img.zeit.de/kultur/2024-09/tv-debatte-donald-trump-kamala-harris-us-wahlkampf-2/super__430x286",
-      "image_title": "TV-Debatte: Die Bidenisierung des Donald Trump"
     },
     {
       "title": "An dieser Stelle ist ein externer Inhalt eingebunden",
@@ -1042,18 +1001,18 @@
       "image_title": "Wettbewerbsverzerrung: A view shows the Google logo on a building in San Salvador, El Salvador, July 26, 2024."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Plan D: Post Covid und ME/CFS : Wenn der Tag nur noch drei Stunden hat",
-      "teaser": "Viele Post-Covid-Patienten sollen in Reha wieder fit für die Arbeit gemacht werden. Für einige funktioniert das nicht. Sie erleben die Härte der Leistungsgesellschaft.",
-      "url": "https://www.zeit.de/arbeit/2024-08/postcovid-coronavirus-gesundheit-langzeitfolgen-arbeit",
-      "image_url": "https://img.zeit.de/arbeit/2024-08/postcovid-coronavirus-gesundheit-2/wide__892x501",
-      "image_title": "Plan D: Post Covid und ME/CFS: Wenn der Tag nur noch drei Stunden hat"
+      "title": "Z+ (abopflichtiger Inhalt); Blaumachen : \"Meine Vorgesetzten haben es nicht anders verdient\"",
+      "teaser": "Sie melden sich krank, obwohl sie gesund sind – um den Urlaub zu verlängern oder einzukaufen: Menschen erzählen, warum sie im Job blaumachen und das völlig okay finden.",
+      "url": "https://www.zeit.de/arbeit/2024-08/blaumachen-arbeit-krankmeldung-ausreden-job",
+      "image_url": "https://img.zeit.de/arbeit/2024-08/blaumachen-arbeit-krankmeldung/wide__892x501",
+      "image_title": "Blaumachen: \"Meine Vorgesetzten haben es nicht anders verdient\""
     },
     {
-      "title": "Fachkräftemangel : Supermärkte suchen Tausende Beschäftigte für Bedientheken",
-      "teaser": "Supermärkte unterscheiden sich von Discountern durch Personal an den Bedientheken, doch es gibt seit Jahren zu wenig Fachkräfte. Momentan sind Tausende Stellen offen.",
-      "url": "https://www.zeit.de/arbeit/2024-09/supermarkt-bedientheken-personalmangel-fachkraeftemangel",
-      "image_url": "https://img.zeit.de/arbeit/2024-09/supermarkt-bedientheken-personalmangel-fachkraeftemangel-bild/super__430x286",
-      "image_title": "Fachkräftemangel: Eine Mitarbeiterin eines Bioladens sortiert an der Käsetheke verschiedene Sorten Ziegenkäse (l). (Zu dpa \" Ziegenkäse immer beliebter - Aber was passiert mit den Böcken?\") +++ dpa-Bildfunk +++"
+      "title": "Z+ (abopflichtiger Inhalt); Arbeit im Rentenalter : \"Man darf sich im Alter auf keinen Fall gehen lassen\"",
+      "teaser": "Erika ist 73 Jahre alt, aber arbeitet noch immer täglich als Dozentin. Auch, weil ihre Rente nicht reicht, aber vor allem, weil sie unbedingt beschäftigt sein will.",
+      "url": "https://www.zeit.de/arbeit/2024-08/arbeit-rentenalter-unterricht-fitness-geld",
+      "image_url": "https://img.zeit.de/arbeit/2024-08/arbeit-rentenalter-unterricht/super__430x286",
+      "image_title": "Arbeit im Rentenalter: \"Man darf sich im Alter auf keinen Fall gehen lassen\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Übergriffige Frage : Und warum hast du keine Kinder?",
@@ -1084,11 +1043,11 @@
       "image_title": "Armutsrisiko: FRANKFURT AM MAIN, GERMANY - OCTOBER 13: Students learn in the library of the Johann Wolfang Goethe-University on October 13, 2014 in Frankfurt am Main, Germany. The Johann Wolfgang Goethe-University celebrates its 100th anniversary with a ceremony on 18 October. (Photo by Thomas Lohnes/Getty Images)"
     },
     {
-      "title": "Verlagsangebot : Nicht nur irgendwas studieren",
-      "teaser": "Studieren! Aber was? Der Studiuminteressentest unterstützt Unschlüssige bei ihrer Suche nach dem passenden Studium, basierend auf den eigenen Interessen.",
-      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.textbild.schwarzer-hut_nichtnurirgendwas.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=sit_textbild_schwarzer-hut_nichtnurirgendwas_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-2-klein/brooke-cagle-tlg2hcpitze-unsplash-197.jpg",
-      "image_title": "Nicht nur irgendwas studieren"
+      "title": "Verlagsangebot : Welcher Studiengang passt zu mir?",
+      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
+      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.bildtext.allein.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=campus-verlagsteaser&amp;utm_content=sit_bildtext_allein_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/sit-gruppe/wide__430x286__desktop",
+      "image_title": "Welcher Studiengang passt zu mir?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Herausforderung in Karriere und Leben : Die Strategien der Hürdenläufer",
@@ -1168,36 +1127,36 @@
       "image_title": "Nations League: Deutschland und die Niederlande trennen sich unentschieden"
     },
     {
-      "title": "Die Lage im Überblick: Selenskyj will starke Waffen - USA: Tun alles für den Sieg",
-      "url": "https://www.zeit.de/news/2024-09/12/selenskyj-will-starke-waffen-usa-tun-alles-fuer-den-sieg"
+      "title": "Wärmepumpen und Photovoltaik: Studie: Norden bei der Energiewende leicht unter dem Schnitt",
+      "url": "https://www.zeit.de/news/2024-09/12/studie-norden-bei-der-energiewende-leicht-unter-dem-schnitt"
     },
     {
-      "title": "Einkaufen auf dem Land: Agrarministerin: Wieder mehr Dorfläden ermöglichen",
-      "url": "https://www.zeit.de/news/2024-09/12/agrarministerin-wieder-mehr-dorflaeden-ermoeglichen"
+      "title": "KfW-Auswertung: Bayerische Haushalte bei Energiewende vorne",
+      "url": "https://www.zeit.de/news/2024-09/12/bayerische-haushalte-bei-energiewende-vorne"
     },
     {
-      "title": "Unfälle: Tödlicher Unfall: Autofahrer prallt gegen Baum",
-      "url": "https://www.zeit.de/news/2024-09/12/toedlicher-unfall-autofahrer-prallt-gegen-baum"
+      "title": "Reisetrends 2025: «Marco Polo» preist Dessau, Chemnitz und Wuppertal an",
+      "url": "https://www.zeit.de/news/2024-09/12/marco-polo-preist-dessau-chemnitz-und-wuppertal-an"
     },
     {
-      "title": "Katastrophenschutz: Berlin und Brandenburg testen Alarm - Bundesweiter Warntag",
-      "url": "https://www.zeit.de/news/2024-09/12/berlin-und-brandenburg-testen-alarm-bundesweiter-warntag"
+      "title": "Zeitgeschichte: Ostbeauftragter: Am 9. November die Freiheit feiern",
+      "url": "https://www.zeit.de/news/2024-09/12/ostbeauftragter-am-9-november-die-freiheit-feiern"
     },
     {
-      "title": "Innere Sicherheit: Bundestag berät über Maßnahmen für mehr Sicherheit",
-      "url": "https://www.zeit.de/news/2024-09/12/bundestag-beraet-ueber-massnahmen-fuer-mehr-sicherheit"
+      "title": "Kirchenchöre: Gospel-Festival in Essen: «Chöre haben Corona überstanden»",
+      "url": "https://www.zeit.de/news/2024-09/12/gospel-festival-in-essen-choere-haben-corona-ueberstanden"
     },
     {
-      "title": "Kritik an Infrastruktur: Nach Einsturz in Dresden: Debatte um Zustand von Brücken",
-      "url": "https://www.zeit.de/news/2024-09/12/nach-einsturz-in-dresden-debatte-um-zustand-von-bruecken"
+      "title": "Probealarm in ganz Deutschland: Bundesweiter Warntag: Heute heulen Sirenen und Apps warnen",
+      "url": "https://www.zeit.de/news/2024-09/12/bundesweiter-warntag-heute-heulen-sirenen-und-apps-warnen"
     },
     {
-      "title": "Rechtsextremismus: Erneut Prozess nach rechtsextremer Anschlagsserie",
-      "url": "https://www.zeit.de/news/2024-09/12/erneut-prozess-nach-rechtsextremer-anschlagsserie"
+      "title": "Photovoltaik und Wärmepumpen: Studie: Brandenburg bei Energiewende im Bundesschnitt",
+      "url": "https://www.zeit.de/news/2024-09/12/studie-brandenburg-bei-energiewende-im-bundesschnitt"
     },
     {
-      "title": "Angelkarte spezial: Gute Noten für Thüringer Touristen-Angelschein",
-      "url": "https://www.zeit.de/news/2024-09/12/gute-noten-fuer-thueringer-touristen-angelschein"
+      "title": "Photovoltaik und Wärmepumpen: Studie: NRW bei Energiewende unter Bundesschnitt",
+      "url": "https://www.zeit.de/news/2024-09/12/studie-nrw-bei-energiewende-unter-bundesschnitt"
     }
   ]
 }
