@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-13T03:08:15",
+  "timestamp": "2024-09-13T04:00:42",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -14,6 +14,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -98,18 +104,11 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Dublin-Vereinbarung : Das System funktioniert nicht",
-      "teaser": "Die Dublin-Vereinbarung regelt, welches Land für Asylsuchende zuständig ist. Oft scheitert das, wie Zahlen zeigen. Einige Staaten machen gar nicht mehr mit.",
-      "url": "https://www.zeit.de/gesellschaft/2024-09/dublin-vereinbarung-asylpolitik-abschiebung-eu-schengenraum",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-09/dublin-vereinbarung-asylpolitik-abschiebung-eu/wide__1000x562",
-      "image_title": "Dublin-Vereinbarung: Das System funktioniert nicht"
-    },
-    {
-      "title": "Wandel in der Politik : Die German Angst regiert",
-      "teaser": "Der islamistische Anschlag von Solingen und die Landtagswahlen in Thüringen und Sachsen haben gemeinsam die Politik durchgeschüttelt. Was für ein rasanter Panikanfall.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/wandel-politik-angst-solingen-anschlag-islamismus-landtagswahl-thueringen-sachsen",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-09/wandel-politik-angst-solingen-anschlag-islamismus-landtagswahl-thueringen-sachsen-bild/super__430x286",
-      "image_title": "Wandel in der Politik: Die German Angst regiert"
+      "title": "Z+ (abopflichtiger Inhalt); Russland : Ostalgie für Putins Russland",
+      "teaser": "In Russland formt sich ein neues Geschichtsbild, nun auch mit Blick auf DDR und Wiedervereinigung. Sahra Wagenknecht und die AfD spielen darin eine besondere Rolle.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/russland-ostdeutschland-ddr-sahra-wagenknecht-afd",
+      "image_url": "https://img.zeit.de/2024-09/russland-ostdeutschland-ddr-sahra-wagenknecht-afd-bild/wide__1000x562",
+      "image_title": "Russland: Die Parade zum 1. Mai 1989 in Ostberlin."
     },
     {
       "title": "Ukrainekrieg : Nato wäre bei Ja zu Raketeneinsatz laut Putin \"im Krieg mit Russland\"",
@@ -124,13 +123,6 @@
       "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
       "image_url": "https://img.zeit.de/politik/ausland/2024-09/ukraine-liveblog-keir-starmer-grossbritannien-russland-bild/super__430x286",
       "image_title": "Ukrainekrieg: Großbritannien weist Putins Vorwurf der Kriegsbeteiligung zurück"
-    },
-    {
-      "title": "Eingestürzte Brücke : Teilabriss der Carolabrücke in Dresden beginnt",
-      "teaser": "In Dresden hat eine Spezialfirma mit dem teilweisen Abriss eines Strangs der maroden Carolabrücke begonnen. Die Zeit drängt, denn für Sonntag ist Hochwasser angekündigt.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/carolabruecke-dresden-teilabriss-zeitdruck-hochwasser",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/carolabruecke-dresden-teilabriss-bild/super__430x286",
-      "image_title": "Eingestürzte Brücke: Feuer einer Explosion produziert schwarzen Rauch an der teilweise eingestürzten Carolabrücke über die Elbe. Mit kleinen Sprengungen wurden Straßenbahnschienen und Fernwärme-Rohre auf der Neustädter Seite der Brücke getrennt."
     },
     {
       "title": "US-Präsidentschaftswahlkampf : Donald Trump will keine weitere TV-Debatte mit Kamala Harris",
@@ -154,6 +146,13 @@
       "image_title": "\"Was jetzt? – Die Woche\": Kamala Harris vs. Donald Trump – wer liegt nach der Debatte vorn?"
     },
     {
+      "title": "Eingestürzte Brücke : Teilabriss der Carolabrücke in Dresden beginnt",
+      "teaser": "In Dresden hat eine Spezialfirma mit dem teilweisen Abriss eines Strangs der maroden Carolabrücke begonnen. Die Zeit drängt, denn für Sonntag ist Hochwasser angekündigt.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/carolabruecke-dresden-teilabriss-zeitdruck-hochwasser",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/carolabruecke-dresden-teilabriss-bild/super__430x286",
+      "image_title": "Eingestürzte Brücke: Feuer einer Explosion produziert schwarzen Rauch an der teilweise eingestürzten Carolabrücke über die Elbe. Mit kleinen Sprengungen wurden Straßenbahnschienen und Fernwärme-Rohre auf der Neustädter Seite der Brücke getrennt."
+    },
+    {
       "title": "Umweltbundesamt : Mehr als drei Viertel der Kommunen von Extremwetter betroffen",
       "teaser": "Der Großteil der Kommunen hat bereits Starkregen, Hitze oder Dürre erlebt. Einen Plan zum Umgang mit dem Klimawandel haben aber laut dem Umweltbundesamt nur wenige.",
       "url": "https://www.zeit.de/wissen/umwelt/2024-09/umweltbundesamt-umfrage-kommunen-extremwetter-klimawandel",
@@ -173,6 +172,13 @@
       "url": "https://www.zeit.de/politik/deutschland/2024-09/asylpolitik-zurueckweisungen-grenze-austesten-eu-recht-fdp-politiker",
       "image_url": "https://img.zeit.de/politik/deutschland/2024-09/migration-grenze-zurueckweisung-fdp-polizei/super__430x286",
       "image_title": "Asylpolitik: Officers of the German Federal Police (Bundespolizei) stop a van near Forst, eastern Germany on October 11, 2023, during a patrol near the border with Poland. (Photo by JENS SCHLUETER / AFP) (Photo by JENS SCHLUETER/AFP via Getty Images)"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Dublin-Vereinbarung : Das System funktioniert nicht",
+      "teaser": "Die Dublin-Vereinbarung regelt, welches Land für Asylsuchende zuständig ist. Oft scheitert das, wie Zahlen zeigen. Einige Staaten machen gar nicht mehr mit.",
+      "url": "https://www.zeit.de/gesellschaft/2024-09/dublin-vereinbarung-asylpolitik-abschiebung-eu-schengenraum",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-09/dublin-vereinbarung-asylpolitik-abschiebung-eu/super__430x286",
+      "image_title": "Dublin-Vereinbarung: Das System funktioniert nicht"
     },
     {
       "title": "Liveblog:Krieg in Israel und Gaza : UN werfen Israel Übergriffe auf Journalisten im Westjordanland vor",
@@ -215,6 +221,13 @@
       "url": "https://www.zeit.de/arbeit/2024-09/arbeitgeber-lohnfortzahlung-krankheitsfall-rekordsumme",
       "image_url": "https://img.zeit.de/arbeit/2024-09/lohnfortzahlung-krankenstand-attest-bild/super__430x286",
       "image_title": "Krankenstand: Eine ärztliche Arbeitsunfähigkeitsbescheinigung kann gegenwärtig auch telefonisch erbeten werden."
+    },
+    {
+      "title": "USA : Richter hebt Verbot von Schwangerschaftsabbrüchen in North Dakota auf",
+      "teaser": "\"Verwirrend und vage\": So kritisiert ein Richter das strenge Gesetz in dem konservativ regierten US-Bundesstaat. Kliniken, die Abbrüche vornehmen, gibt es dort kaum noch.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/schwangerschaftsabbruch-abtreibung-usa-north-dakota-urteil-gesetz-verfassungswidrig",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/schwangerschaftsabbruch-abtreibung-usa-north-dakota-urteil-gesetz-verfassungswidrig-bild-2/super__430x286",
+      "image_title": "USA: Women wait in the waiting room at Camelback Family Planning, an abortion clinic in Phoenix, Arizona on April 18, 2024. Arizona's abortion laws are in flux.In making its ruling this month, the state's supreme court said since the 2022 overturning of Roe vs. Wade, which had legalized abortion nationwide, Arizona's own arrangements had to revert to a 160-year-old statute, drafted before it was even a state and when women did not have the right to vote. (Photo by Frederic J. BROWN / AFP) (Photo by FREDERIC J. BROWN/AFP via Getty Images)"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Vergewaltigungsprozess in Avignon : Einige Männer kamen immer wieder vorbei, zweimal, dreimal, achtmal",
@@ -273,25 +286,25 @@
       "image_title": "Diese Woche in der ZEIT: Mein Körper und ich"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Kinderwunsch bei Männern : \"Ich sagte zu meiner Frau: Das ist Wahnsinn, was wir hier machen\"",
+      "teaser": "Wenn das Kinderkriegen zum Problem wird, leiden nicht nur die Frauen. Drei Männer erzählen, was der Kinderwunschprozess mit ihnen und ihrer Beziehung gemacht hat.",
+      "url": "https://www.zeit.de/familie/2024-08/kinderwunsch-maenner-vaeter-familie-kinder",
+      "image_url": "https://img.zeit.de/familie/2024-08/kinderwunsch-maenner-vaeter/super__430x286",
+      "image_title": "Kinderwunsch bei Männern: \"Ich sagte zu meiner Frau: Das ist Wahnsinn, was wir hier machen\""
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Ernährung am Arbeitsplatz : Wie man sich im Büro gesund ernährt",
+      "teaser": "Während der Arbeit braucht der Körper Energie, was isst man am besten? Experten erklären, welche Nährstoffe der Körper braucht und was man nicht frühstücken sollte.",
+      "url": "https://www.zeit.de/arbeit/2023-06/ernaehrung-arbeitsplatz-gesundes-essen-buero-vorbereiten",
+      "image_url": "https://img.zeit.de/arbeit/2023-06/ello/super__430x286",
+      "image_title": "Ernährung am Arbeitsplatz: Wie man sich im Büro gesund ernährt"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Rezepte fürs Wochenbett : Meal-Prep für die allerersten Tage",
       "teaser": "Die ersten acht Wochen nach der Entbindung sind eine Zeit der Veränderung. Wichtig ist, dass eines gleich bleibt: gutes Essen. Fünf Rezepte für Meal-Prep im Wochenbett.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-09/rezepte-wochenbett-meal-prep-ernaehrung-geburt",
       "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-09/rezepte-wochenbett-meal-prep-ernaehrung-geburt-bild/super__430x286",
       "image_title": "Rezepte fürs Wochenbett: Meal-Prep für die allerersten Tage"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Verhalten als Gast : 44 Dinge, die jeder gute Gast wissen sollte",
-      "teaser": "Gastgeschenke sind spießig? Wie komme ich ins WLAN? Wie unterbreche ich die Anekdotendauererzählung? Eine vierte Nacht ist ok? Und dann ist da die Sache mit dem Teebeutel",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2024-09/verhalten-gast-regeln-manieren",
-      "image_url": "https://img.zeit.de/2024-09/44-dinge-die-jeder-gast-wissen-sollte-bild/super__430x286",
-      "image_title": "Verhalten als Gast: p426m2018744 - RS - Happy mature friends toasting drinks in party at home"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Lesen im Alltag : \"Lesen ist die Schule des Herzens. Dafür gibt es keinen Ersatz\"",
-      "teaser": "Bücher können trösten, die Zeit austricksen und ein Ausweg aus der Waschmaschinenwelt sein. ZEIT-Redakteurin Iris Radisch über das Lesen, die Aufgabe ihres Lebens.",
-      "url": "https://www.zeit.de/zeit-wissen/2024/04/lesen-alltag-iris-radisch-literatur-kinder",
-      "image_url": "https://img.zeit.de/zeit-wissen/2024/04/iris-radisch-bild-1/super__430x286",
-      "image_title": "Lesen im Alltag: \"Lesen ist die Schule des Herzens. Dafür gibt es keinen Ersatz\""
     },
     {
       "title": "Bundestagswahl 2025 : CDU-Chef Merz will mögliche Koalitionen schon vor nächster Wahl klären",
@@ -306,6 +319,13 @@
       "url": "https://www.zeit.de/politik/ausland/2024-09/muenchner-sicherheitskonferenz-chef-jens-stoltenberg-christoph-heusgen",
       "image_url": "https://img.zeit.de/2024-09/stoltenberg-neuer-msc-chef-bild/super__430x286",
       "image_title": "Nato-Generalsekretär: NATO Secretary General Jens Stoltenberg and Norway's Prime Minister Jonas Gahr Store (not pictured) attend a press conference in the Prime Minister's residence in Oslo, Norway September 6, 2024. NTB/Thomas Fure/via REUTERS ATTENTION EDITORS - THIS IMAGE WAS PROVIDED BY A THIRD PARTY. NORWAY OUT. NO COMMERCIAL OR EDITORIAL SALES IN NORWAY."
+    },
+    {
+      "title": "Wetter am Wochenende : Deutscher Wetterdienst warnt vor Sturm, Dauerregen und Schnee",
+      "teaser": "Das Wochenende wird stürmisch und nass, besonders im Osten und Südosten. Der Deutsche Wetterdienst warnt vor orkanartigen Böen. In Teilen Deutschlands soll es schneien.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/wetter-wochenende-sturmboeen-dauerregen-schnee",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/wetter-sturm-dauerregen-schnee-bild/super__320x213",
+      "image_title": "Wetter am Wochenende: Regenschirme werden in vielen Teilen Deutschlands am Wochenende benötigt."
     },
     {
       "title": "UN-Sicherheitsratsreform : USA unterstützen Forderung nach zwei Afrika-Sitzen im Sicherheitsrat",
@@ -355,13 +375,6 @@
       "url": "https://www.zeit.de/politik/2024-09/bundeskanzler-olaf-scholz-lithium-serbien-eu",
       "image_url": "https://img.zeit.de/politik/deutschland/2024-09/olaf-scholz-vci-berlin-bild/super__320x213",
       "image_title": "Rohstoffe: Bundeskanzler Olaf Scholz im Portrait bei seiner Rede beim Chemie und Pharma Summit 2024 des Verbandes der Chemischen Industrie (VCI), Berlin, 12.09.2024"
-    },
-    {
-      "title": "Probleme bei IT-Dienstleister : Kartenzahlungen funktionieren nach stundenlangen Störungen wieder",
-      "teaser": "An der Kasse kann wieder wie gewohnt mit allen gängigen Karten gezahlt werden. Die Störungen am Vormittag gingen von einem IT-Dienstleister aus.",
-      "url": "https://www.zeit.de/wirtschaft/2024-09/bezahlen-kreditkarte-stoerung-it",
-      "image_url": "https://img.zeit.de/2024-09/kartenzahlungen-funktioniert-wieder-bild/super__320x213",
-      "image_title": "Probleme bei IT-Dienstleister: Kartenzahlung"
     },
     {
       "title": "ZEIT Podcast-Tour : Feiern Sie mit uns das ZEIT Podcast-Tour Finale",
@@ -458,21 +471,21 @@
       "url": "https://www.zeit.de/2024/39/gisele-pelicot-vergewaltigung-gerichtsprozess-sexuelle-gewalt"
     },
     {
+      "title": "Ukrainekrieg : Nato wäre bei Ja zu Raketeneinsatz laut Putin \"im Krieg mit Russland\"",
+      "teaser": "Die Ukraine fordert von Verbündeten, mit gelieferten Raketen Ziele in Russland angreifen zu dürfen. Das würde \"die Natur des Konflikts\" grundlegend verändern, sagt Putin.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/putin-droht-westen-krieg-erlaubnis-raketen-ukraine",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/putin-raketeneinsatz-kiew-nato-russland-bild/super__430x286",
+      "image_title": "Ukrainekrieg: Russian President Vladimir Putin meets with moderators of key sessions on the sidelines of the Eastern Economic Forum in Vladivostok, Russia September 4, 2024. Sputnik/Alexander Kazakov/Pool via REUTERS ATTENTION EDITORS - THIS IMAGE WAS PROVIDED BY A THIRD PARTY."
+    },
+    {
       "title": "US-Präsidentschaftswahlkampf : Donald Trump will keine weitere TV-Debatte mit Kamala Harris",
       "teaser": "Es werde \"keine dritte Debatte\" geben, sagt der republikanische Präsidentschaftskandidat Trump. Harris entgegnet, man schulde diese den Wählerinnen und Wählern.",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/trump-will-keine-zweite-debatte-mit-harris",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/donald-trump-zweite-fernsehdebatte-absage-bild/super__430x286",
-      "image_title": "US-Präsidentschaftswahlkampf: TOPSHOT - Former US President and Republican presidential candidate Donald Trump speaks during a presidential debate with US Vice President and Democratic presidential candidate Kamala Harris at the National Constitution Center in Philadelphia, Pennsylvania, on September 10, 2024. (Photo by SAUL LOEB / AFP) (Photo by SAUL LOEB/AFP via Getty Images)"
+      "url": "https://www.zeit.de/politik/ausland/2024-09/trump-will-keine-zweite-debatte-mit-harris"
     },
     {
       "title": "Wandel in der Politik : Die German Angst regiert",
       "teaser": "Der islamistische Anschlag von Solingen und die Landtagswahlen in Thüringen und Sachsen haben gemeinsam die Politik durchgeschüttelt. Was für ein rasanter Panikanfall.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/wandel-politik-angst-solingen-anschlag-islamismus-landtagswahl-thueringen-sachsen"
-    },
-    {
-      "title": "Ukrainekrieg : Nato wäre bei Ja zu Raketeneinsatz laut Putin \"im Krieg mit Russland\"",
-      "teaser": "Die Ukraine fordert von Verbündeten, mit gelieferten Raketen Ziele in Russland angreifen zu dürfen. Das würde \"die Natur des Konflikts\" grundlegend verändern, sagt Putin.",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/putin-droht-westen-krieg-erlaubnis-raketen-ukraine"
     },
     {
       "title": "Asylrecht : Merz schlägt zeitweise Zurückweisung an Grenzen vor",
@@ -709,10 +722,17 @@
       "image_title": "\"Was jetzt? – Die Woche\": Woher die Gewalt auf Großbritanniens Straßen kommt"
     },
     {
+      "title": "Nachrichtenpodcast : Was neben der Migrationsdebatte untergeht",
+      "teaser": "Die politische Diskussion ist fixiert auf das Thema Migration. Welche Themen werden von der Politik vernachlässigt? Und: Femizide in Deutschland",
+      "url": "https://www.zeit.de/politik/2024-09/migration-politik-versaeumnisse-nachrichtenpodcas",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__892x501",
+      "image_title": "Nachrichtenpodcast: Was neben der Migrationsdebatte untergeht"
+    },
+    {
       "title": "Nachrichtenpodcast : Warum viele sich eine strengere Migrationspolitik wünschen",
       "teaser": "Laut einer ZEIT-Umfrage ist Migration die größte Sorge der Deutschen. 82 Prozent der Befragten wollen die Zuwanderung beschränken. Und: russische Rückeroberungen in Kursk",
       "url": "https://www.zeit.de/politik/2024-09/migration-debatte-bundestag-umfrage-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__892x501",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__430x286",
       "image_title": "Nachrichtenpodcast: Warum viele sich eine strengere Migrationspolitik wünschen"
     },
     {
@@ -721,13 +741,6 @@
       "url": "https://www.zeit.de/2024/38/saudi-arabien-riad-entwicklung-mohammed-bin-salman-reform",
       "image_url": "https://img.zeit.de/2024/38/ambitioniert-bis-zum-wahnsinn-bild-1/super__430x286",
       "image_title": "Saudi-Arabien: Sechs Kunden für die Tankstelle – junge Männer am Nationalfeiertag in Dschidda"
-    },
-    {
-      "title": "Asylrecht : Merz schlägt zeitweise Zurückweisung an Grenzen vor",
-      "teaser": "CDU-Chef Friedrich Merz fordert trotz rechtlicher und praktischer Hindernisse weiterhin Zurückweisungen von Migranten. Dazu erwägt er einen dreimonatigen Test.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/merz-zurueckweisungen-test-ampel",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/merz-zurueckweisungen-test-ampel-bild/super__430x286",
-      "image_title": "Asylrecht: Friedrich Merz, CDU Bundesvorsitzender und CDU/CSU Fraktionsvorsitzender im Bundestag, spricht während eines Interviews mit der dpa Deutsche Presse-Agentur und äußert sich zum Angriff Russlands auf die Ukraine. +++ dpa-Bildfunk ++ 03/09/2024 Berlin"
     },
     {
       "title": "Verlagsangebot : Das kleine Hauptstadt-Quiz",
@@ -793,6 +806,13 @@
       "image_title": "Stark- und Dauerregen: Gewitterwolken"
     },
     {
+      "title": "Wandel in der Politik : Die German Angst regiert",
+      "teaser": "Der islamistische Anschlag von Solingen und die Landtagswahlen in Thüringen und Sachsen haben gemeinsam die Politik durchgeschüttelt. Was für ein rasanter Panikanfall.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/wandel-politik-angst-solingen-anschlag-islamismus-landtagswahl-thueringen-sachsen",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-09/wandel-politik-angst-solingen-anschlag-islamismus-landtagswahl-thueringen-sachsen-bild/super__430x286",
+      "image_title": "Wandel in der Politik: Die German Angst regiert"
+    },
+    {
       "title": "Dresden : Teil der Carolabrücke soll kontrolliert abgerissen werden",
       "teaser": "Während der intakte Teil der Dresdner Carolabrücke stabilisiert wird, bleibt für den eingestürzten Teil laut Feuerwehr nur der Abriss. Er sei weiter einsturzgefährdet.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/dresden-carolabruecke-einsturz-abriss",
@@ -800,17 +820,17 @@
       "image_title": "Dresden: Blick auf die in Teilen eingestürzte Carolabrücke über die Elbe vor der Kulisse der Altstadt mit der Frauenkirche. Am Tag nach dem Teileinsturz der Carolabrücke laufen die Sicherungsarbeiten an dem Bauwerk. In der vergangenen Nacht ist auf der Seite der Dresdner Neustadt ein Unterbau fertiggestellt worden, der die Brücke am Übergang aufs Festland stützen soll. +++ dpa-Bildfunk +++"
     },
     {
-      "title": "Kalifornien : Gouverneur ruft Notstand wegen Waldbrand bei Los Angeles aus",
-      "teaser": "Seit Sonntag brennt bei Los Angeles der Wald. Nun haben die Flammen Gemeinden in den Bergen nordöstlich der Großstadt erreicht und viele Häuser zerstört.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/los-angeles-waldbrand-kalifornien-ausgebreitet-usa",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/los-angeles-feuer/super__430x286",
-      "image_title": "Kalifornien: The Bridge Fire burns the mountain communities to the northeast of Los Angeles, in Wrightwood, California, U.S. September 11, 2024. REUTERS/Ringo Chiu"
+      "title": "Probleme bei IT-Dienstleister : Kartenzahlungen funktionieren nach stundenlangen Störungen wieder",
+      "teaser": "An der Kasse kann wieder wie gewohnt mit allen gängigen Karten gezahlt werden. Die Störungen am Vormittag gingen von einem IT-Dienstleister aus.",
+      "url": "https://www.zeit.de/wirtschaft/2024-09/bezahlen-kreditkarte-stoerung-it",
+      "image_url": "https://img.zeit.de/2024-09/kartenzahlungen-funktioniert-wieder-bild/wide__892x501",
+      "image_title": "Probleme bei IT-Dienstleister: Kartenzahlung"
     },
     {
       "title": "Kredit-, Debit- und Girokarten : Bundesweite Störungen bei Kartenzahlungen",
       "teaser": "Wer mit Karte zahlen will, muss derzeit womöglich auf Bargeld ausweichen: Bundesweit gibt es Probleme beim Bezahlen. Hacker sollen nicht dafür verantwortlich sein.",
       "url": "https://www.zeit.de/wirtschaft/2024-09/banken-kreditkarten-zahlungen-hacker",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-09/banken-kreditkarten-zahlungen-hacker-bild/wide__892x501",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-09/banken-kreditkarten-zahlungen-hacker-bild/super__430x286",
       "image_title": "Kredit-, Debit- und Girokarten: Bundesweite Störungen bei Kartenzahlungen"
     },
     {
@@ -826,13 +846,6 @@
       "url": "https://www.zeit.de/wirtschaft/2024-09/inflation-usa-abschwaechung-moegliche-zinswende",
       "image_url": "https://img.zeit.de/wirtschaft/2024-09/inflation-usa-abschwaechung-moegliche-zinswende-bild/super__430x286",
       "image_title": "Teuerung: WASHINGTON, DC - MAY 02: The Federal Reserve building is shown May 2, 2023 in Washington, DC. The Federal Reserve begins two days of meetings today to determine its next steps in relation to interest rates in an ongoing battle against reigning in inflation. (Photo by Win McNamee/Getty Images)"
-    },
-    {
-      "title": "Banken : Italienische UniCredit wird zweitgrößter Anteilseigner der Commerzbank",
-      "teaser": "Die Großbank UniCredit ist bei der Commerzbank eingestiegen und direkt zweitgrößter Anteilseigner geworden. An der Börse wird schon über eine Gesamtübernahme spekuliert.",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-09/unicredit-commerzbank-einstieg-boerse-banken",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-09/italienische-bank-unicredit-einstieg-commerzbank-bild-2/super__430x286",
-      "image_title": "Banken: Milan's skyline with the Unicredit Tower is seen from the terrace of Duomo Cathedral in Milan, on July 6, 2023. (Photo by GABRIEL BOUYS / AFP) (Photo by GABRIEL BOUYS/AFP via Getty Images)"
     },
     {
       "title": "Kanzlerkandidatur : Das größte Risiko für Friedrich Merz bleibt Friedrich Merz",
@@ -1078,11 +1091,11 @@
       "image_title": "Armutsrisiko: FRANKFURT AM MAIN, GERMANY - OCTOBER 13: Students learn in the library of the Johann Wolfang Goethe-University on October 13, 2014 in Frankfurt am Main, Germany. The Johann Wolfgang Goethe-University celebrates its 100th anniversary with a ceremony on 18 October. (Photo by Thomas Lohnes/Getty Images)"
     },
     {
-      "title": "Verlagsangebot : Welcher Studiengang passt zu mir?",
-      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
-      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.bildtext.allein.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=campus-verlagsteaser&amp;utm_content=sit_bildtext_allein_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/sit-gruppe/wide__430x286__desktop",
-      "image_title": "Welcher Studiengang passt zu mir?"
+      "title": "Verlagsangebot : Welcher Beruf passt zu mir?",
+      "teaser": "Was uns im Job von anderen unterscheidet, sind nicht nur unsere Fähigkeiten – erst die Persönlichkeit macht jeden einmalig. Der BOA Berufstest hilft, sie zu erkennen.",
+      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.teaser.boa-faeuste.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=boa-verlagsteaser&amp;utm_content=bot_teaser_boa-faeuste_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/boa-faeuste/wide__430x286__desktop",
+      "image_title": "Welcher Beruf passt zu mir?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Herausforderung in Karriere und Leben : Die Strategien der Hürdenläufer",
@@ -1162,6 +1175,18 @@
       "image_title": "Nations League: AMSTERDAM, NETHERLANDS - SEPTEMBER 10: Joshua Kimmich of Germany celebrates scoring his team's second goal during the UEFA Nations League 2024/25 League A Group A3 match between Netherlands and Germany at Johan Cruijff ArenA on September 10, 2024 in Amsterdam, Netherlands. (Photo by Frederic Scheidemann - UEFA/UEFA via Getty Images)"
     },
     {
+      "title": "Notfall: Weiterer Abschnitt der Carolabrücke in Dresden eingestürzt",
+      "url": "https://www.zeit.de/news/2024-09/13/weiterer-abschnitt-der-carolabruecke-in-dresden-eingestuerzt"
+    },
+    {
+      "title": "Lob vom Ex-Bundestrainer: Vogts adelt Netzer: Wie Beckenbauer und Walter",
+      "url": "https://www.zeit.de/news/2024-09/13/vogts-adelt-netzer-wie-beckenbauer-und-walter"
+    },
+    {
+      "title": "Zuwanderung: Deutschland und Kenia schließen Migrationsabkommen",
+      "url": "https://www.zeit.de/news/2024-09/13/deutschland-und-kenia-schliessen-migrationsabkommen"
+    },
+    {
       "title": "Arbeitsmarkt: Teilzeitausbildung wird im Südwesten öfter genutzt",
       "url": "https://www.zeit.de/news/2024-09/13/teilzeitausbildung-wird-im-suedwesten-oefter-genutzt"
     },
@@ -1180,18 +1205,6 @@
     {
       "title": "Finanzstreit: Abschlüsse der Landkreise oft besser als prognostiziert",
       "url": "https://www.zeit.de/news/2024-09/13/abschluesse-der-landkreise-oft-besser-als-prognostiziert"
-    },
-    {
-      "title": "Nach Brückeneinsturz: Weiter angespannte Lage an Carolabrücke in Dresden",
-      "url": "https://www.zeit.de/news/2024-09/13/weiter-angespannte-lage-an-carolabruecke-in-dresden"
-    },
-    {
-      "title": "Fehde zwischen Clans: Mindestens 20 Tote bei Massakern in Papua-Neuguinea",
-      "url": "https://www.zeit.de/news/2024-09/13/mindestens-20-tote-bei-massakern-in-papua-neuguinea"
-    },
-    {
-      "title": "Fußball-Bundesliga: Fünf Fakten zum Spiel von Union Berlin bei RB Leipzig",
-      "url": "https://www.zeit.de/news/2024-09/13/fuenf-fakten-zum-spiel-von-union-berlin-bei-rb-leipzig"
     }
   ]
 }
