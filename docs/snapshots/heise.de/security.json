@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-13T07:00:41",
+  "timestamp": "2024-09-13T08:09:12",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Solwarwinds Access Rights Manager",
+      "url": "https://www.heise.de/news/Solarwinds-ARM-Unbefugte-Zugriffe-und-Schadcode-Attacken-moeglich-9866660.html"
+    },
+    {
       "title": "GitLab CE/EE",
       "url": "https://www.heise.de/news/Sicherheitspatch-Gitlab-behebt-Luecken-in-Serverversionen-9866401.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Ivanti-Updates-gegen-kritische-Lecks-im-Endpoint-Manager-und-weiteren-Produkten-9864654.html"
     },
     {
-      "title": "ownCloud",
-      "url": "https://www.heise.de/news/ownCloud-Update-stopft-teils-hochriskante-Sicherheitsluecken-9864422.html"
+      "title": "iX-Workshop: AWS-Sicherheit - Angriffe erkennen und abwehren",
+      "teaser": "Erfahren Sie, wie Angreifer Fehlkonfigurationen und mangelnde Härtung der Amazon Cloud ausnutzen und wie Sie AWS-Dienste und Cloud-Identitäten dagegen schützen.",
+      "url": "https://www.heise.de/news/iX-Workshop-AWS-Sicherheit-Angriffe-erkennen-und-abwehren-9851844.html",
+      "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
+    },
+    {
+      "title": "Solarwinds ARM: Unbefugte Zugriffe und Schadcode-Attacken möglich",
+      "teaser": "Die Solarwinds-Entwickler haben zwei Sicherheitslücken in Access Rights Manager geschlossen. Eine Lücke gilt als kritisch.",
+      "url": "https://www.heise.de/news/Solarwinds-ARM-Unbefugte-Zugriffe-und-Schadcode-Attacken-moeglich-9866660.html",
+      "image_title": "Schild mit Aufschrift \"Time to update\""
     },
     {
       "title": "Sicherheitspatch: Gitlab behebt Lücken in Serverversionen",
@@ -152,18 +164,6 @@
       "teaser": "Infolge eines Cyberangriffs auf eine Klinik kam es zu einem Datenabfluss. ​In einem weiteren Fall sind 300.000 Kunden einer US-Autovermietung betroffen.​",
       "url": "https://www.heise.de/news/Cyberangriffe-betreffen-Kurklinik-und-US-Autovermietung-9862998.html",
       "image_title": "Human,Hand,Holding,Digital,Identification,Card,,Technology,And,Business,Concept, ID, Identität, digitale identität"
-    },
-    {
-      "title": "Polen zerschlägt Ring von Cybersaboteuren",
-      "teaser": "Das EU- und Nato-Land Polen ist zunehmend Ziel von Cyberattacken. Warschau vermutet dahinter die Tätigkeit russischer und belarussischer Geheimdienste.",
-      "url": "https://www.heise.de/news/Polen-zerschlaegt-Ring-von-Cybersaboteuren-9862555.html",
-      "image_title": "Hände am Laptop im Gegenlicht, Vordergrund im Dunklen"
-    },
-    {
-      "title": "Loadbalancer: Angreifer können LoadMaster kompromittieren",
-      "teaser": "Es sind wichtige Sicherheitspatches für LoadMaster und MultiTenant Hypervisor von Progress Kemp erschienen.",
-      "url": "https://www.heise.de/news/Loadbalancer-Angreifer-koennen-LoadMaster-kompromittieren-9862252.html",
-      "image_title": "Stilisiertes Bild: Ein Stapel brennender Appliances"
     },
     {
       "title": "NTLM–Webinar",
