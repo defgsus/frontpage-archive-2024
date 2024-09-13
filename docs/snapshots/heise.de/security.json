@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-13T13:13:35",
+  "timestamp": "2024-09-13T14:01:20",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Lenovo",
+      "url": "https://www.heise.de/news/Lenovo-schliesst-Luecken-in-BIOS-Management-Controller-und-WLAN-Treiber-9867290.html"
+    },
+    {
       "title": "Solwarwinds Access Rights Manager",
       "url": "https://www.heise.de/news/Solarwinds-ARM-Unbefugte-Zugriffe-und-Schadcode-Attacken-moeglich-9866660.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Cisco-DoS-und-Rechteausweitungsluecken-in-IOS-und-weiteren-Produkten-9865581.html"
     },
     {
-      "title": "Endpoint Manager, Workspace Control, Cloud Service Appliance",
-      "url": "https://www.heise.de/news/Ivanti-Updates-gegen-kritische-Lecks-im-Endpoint-Manager-und-weiteren-Produkten-9864654.html"
+      "title": "Lenovo schließt Lücken in BIOS, Management-Controller und WLAN-Treiber",
+      "teaser": "Wichtige Sicherheitsupdates schützen Computer von Lenovo. Im schlimmsten Fall können Angreifer Schadcode ausführen.",
+      "url": "https://www.heise.de/news/Lenovo-schliesst-Luecken-in-BIOS-Management-Controller-und-WLAN-Treiber-9867290.html"
+    },
+    {
+      "title": "GAZEploit: Rekonstruktion von Passwörtern über Vision-Pro-Personas demonstriert",
+      "teaser": "Sicherheitsforscher haben einen Weg gezeigt, anhand der Augenbewegungen der Nutzer von Apples Headset sensible Daten zu rekonstruieren. Der Konzern reagierte.",
+      "url": "https://www.heise.de/news/Vision-Pro-Eyetracking-erlaubt-Rekonstruktion-von-Passwoertern-theoretisch-9867131.html",
+      "image_title": "Vision Pro mit Nutzerin"
     },
     {
       "title": "MS: Niemand hat die Absicht, eine Mauer um den Windows-Kernel zu errichten",
@@ -153,17 +164,6 @@
       "teaser": "Microsoft erinnert daran, dass einige Windows-11-Builds in 30 Tagen aus dem Support fallen. Ein Upgrade sollte zügig erfolgen.",
       "url": "https://www.heise.de/news/Windows-11-In-30-Tagen-endet-Support-fuer-bestimmte-Builds-9863148.html",
       "image_title": "Stilisierte Grafik: zersplitterter Sicherheitsschild auf einem Laptop"
-    },
-    {
-      "title": "heise security Webinar: Geräte im Unternehmensnetz sicher betreiben",
-      "teaser": "IoT-Geräte stellen eine massiv unterschätzte Gefahr für Unternehmens-IT dar. Doch mit dem Hintergrundwissen aus diesem Webinar bekommen Admins das in den Griff.",
-      "url": "https://www.heise.de/news/heise-security-Webinar-Geraete-im-Unternehmensnetz-sicher-betreiben-9857459.html"
-    },
-    {
-      "title": "Wegen US-Verbannung: Kaspersky-Kunden erhalten UltraAV von Pango",
-      "teaser": "Nach dem Bann in den USA stellt das Unternehmen Kunden nun auf UltraAV um, bestätigt Kaspersky gegenüber heise online.",
-      "url": "https://www.heise.de/news/Wegen-US-Verbannung-Kaspersky-Kunden-erhalten-UltraAV-von-Pango-9862992.html",
-      "image_title": "Laptop vor USA-Flagge zeigt Kaspersky-Schriftzug und durchgestrichenes Schild"
     },
     {
       "title": "NTLM–Webinar",
