@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-15T10:01:27",
+  "timestamp": "2024-09-15T11:01:12",
   "url": "https://www.welt.de/sport/",
   "response": {
     "status": 200
@@ -25,6 +25,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "Raab unterliegt Halmich – aber schlägt TV-Konkurrenz mit Traumquote",
+      "teaser": "17 Jahre nach ihrem zweiten Box-Kampf gewinnt Regina Halmich spielend leicht das dritte Duell gegen Stefan Raab. Und das, obwohl der 57-Jährige zumindest optisch in bestechender Form zum Ring marschiert war. Die eigentliche Ankündigung folgt aber nach dem Kampf.",
+      "url": "https://www.welt.de/sport/",
+      "image_url": "https://img.welt.de/img/sport/mobile253516518/6417937207-ci23x11-w20/Bildschirmfoto-2024-09-14-um-22-26-28.jpg",
+      "image_title": "Stefan Raab beim Einmarsch in die Arena",
+      "author": "Florian Sädler"
+    },
     {
       "title": "Die eindeutige Drohung der Uefa an die englische Nationalelf",
       "teaser": "Kommt die neue Regulierungsbehörde im englischen Fußball? In dem Fall könnte es harte Strafen gegen die betroffenen Verbände geben. Die Uefa hat schon mal eine Warnung ausgesprochen und droht in Hinblick auf die EM 2028 mit dem Schlimmsten.",
@@ -54,14 +62,6 @@
       "url": "https://www.welt.de/sport/fussball/",
       "image_url": "https://img.welt.de/img/sport/fussball/mobile253516362/3637931967-ci23x11-w20/FBL-GER-BUNDESLIGA-KIEL-BAYERN-MUNICH.jpg",
       "image_title": "Harry Kane erzielt eines seiner drei Tore"
-    },
-    {
-      "title": "Halmich schlägt Raab auch im dritten Kampf – Der kündigt Rückkehr ins Show-Business an",
-      "teaser": "17 Jahre nach ihrem zweiten Box-Kampf gewinnt Regina Halmich spielend leicht das dritte Duell gegen Stefan Raab. Und das, obwohl der 57-Jährige zumindest optisch in bestechender Form zum Ring marschiert war. Die eigentliche Ankündigung folgt aber nach dem Kampf.",
-      "url": "https://www.welt.de/sport/",
-      "image_url": "https://img.welt.de/img/sport/mobile253516518/6417937207-ci23x11-w20/Bildschirmfoto-2024-09-14-um-22-26-28.jpg",
-      "image_title": "Stefan Raab beim Einmarsch in die Arena",
-      "author": "Florian Sädler"
     },
     {
       "title": "Souveräner Späth, souveräne Rhein-Neckar Löwen – Klarer Sieg in Bietigheim",
@@ -565,6 +565,10 @@
       "image_title": "1. FC Heidenheim - FC Augsburg"
     },
     {
+      "title": "Raab unterliegt Halmich – aber schlägt TV-Konkurrenz mit Traumquote",
+      "url": "https://www.welt.de/sport/article253516516/Final-Fight-Raab-unterliegt-Halmich-aber-schlaegt-TV-Konkurrenz-mit-Traumquote.html"
+    },
+    {
       "title": "Die eindeutige Drohung der Uefa an die englische Nationalelf",
       "url": "https://www.welt.de/sport/fussball/article253518060/Fussbal-Uefa-droht-dem-Verband-findet-die-EM-in-England-ohne-England-statt.html"
     },
@@ -591,10 +595,6 @@
     {
       "title": "Gnadenlose Bayern überrollen Aufsteiger Kiel",
       "url": "https://www.welt.de/sport/fussball/article253516616/Bundesliga-Gnadenloser-FC-Bayern-ueberrollt-Aufsteiger-Kiel.html"
-    },
-    {
-      "title": "Halmich schlägt Raab auch im dritten Kampf – Der kündigt Rückkehr ins Show-Business an",
-      "url": "https://www.welt.de/sport/article253516516/Final-Fight-Halmich-schlaegt-Raab-auch-im-dritten-Kampf-Der-kuendigt-Rueckkehr-ins-Show-Business-an.html"
     },
     {
       "title": "Gnadenlose Bayern überrollen Aufsteiger Kiel",
@@ -833,22 +833,6 @@
       "image_url": "https://img.welt.de/img/sport/mobile252564928/8617939167-ci23x11-w20/Vergleich-176-130kg-Privatfoto-u-Oliver-Vogler.jpg",
       "image_title": "Vergleich 176_130kg (Privatfoto_u_Oliver Vogler)",
       "author": "Yannick Hüber"
-    },
-    {
-      "title": "„Es gibt Sonderurlaub für Frauen, die sich Eizellen entnehmen lassen wollen“",
-      "teaser": "Die ehemalige deutsche Nationaltorhüterin Almuth Schult hat überraschend den HSV verlassen und bei Kansas City angeheuert. Für die dreifache Mutter ist das ein logischer Schritt. Sie preist die Vorzüge, die eine Frau dort im Vergleich zum deutschen Fußball hat.",
-      "url": "https://www.welt.de/sport/",
-      "image_url": "https://img.welt.de/img/sport/mobile253416134/2237933817-ci23x11-w20/National-Womens-Soccer-League-Washington-Spirit-v-Kansas-City-C.jpg",
-      "image_title": "Almuth Schult vor dem Spiel bei Washington Spirit",
-      "author": "Robert Schreier"
-    },
-    {
-      "title": "Gefährliche Väter",
-      "teaser": "Seit dem Rücktritt von Lothar Matthäus als Jugendtrainer entflammt die Debatte um übergriffige Helikopter-Eltern im Fußball. Auch drastische Maßnahmen zeigen wenig Wirkung. Viele Trainer geben entnervt auf. Doch es gibt Lösungsansätze.",
-      "url": "https://www.welt.de/sport/plus253386870/Jugendfussball-Gefaehrliche-Vaeter-Wenn-Eltern-am-Platzrand-uebergriffig-werden.html",
-      "image_url": "https://img.welt.de/img/sport/mobile253395468/0097937197-ci23x11-w20/Father-Practicing-Soccer-with-Son.jpg",
-      "image_title": "Father Practicing Soccer with Son",
-      "author": "Oliver Müller"
     }
   ]
 }
