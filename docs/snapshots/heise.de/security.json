@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-16T07:07:20",
+  "timestamp": "2024-09-16T08:10:22",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Ivanti Cloud Service Appliance",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Ivanti-Cloud-Service-Appliance-9868997.html"
+    },
+    {
       "title": "Lenovo",
       "url": "https://www.heise.de/news/Lenovo-schliesst-Luecken-in-BIOS-Management-Controller-und-WLAN-Treiber-9867290.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Sicherheitspatch-Gitlab-behebt-Luecken-in-Serverversionen-9866401.html"
     },
     {
-      "title": "Cisco",
-      "url": "https://www.heise.de/news/Cisco-DoS-und-Rechteausweitungsluecken-in-IOS-und-weiteren-Produkten-9865581.html"
+      "title": "Jetzt patchen! Angreifer attackieren Ivanti Cloud Service Appliance",
+      "teaser": "Derzeit attackieren Angreifer Ivanti Cloud Service Appliances mit Schadcode. Damit das klappt, müssen aber die Voraussetzungen stimmen.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Ivanti-Cloud-Service-Appliance-9868997.html",
+      "image_title": "Leuchtendes Warn-Dreieick vor kryptischer Anzeige"
+    },
+    {
+      "title": "Yubikey-Cloning-Attacke: Online-Ausweis nicht verwundbar",
+      "teaser": "Im Personalausweis kommen teils Infineon-Chips zum Einsatz, die mittels EUCLEAK angegriffen wurden. Der Perso ist jedoch nicht anfällig.",
+      "url": "https://www.heise.de/news/Yubikey-Cloning-Attacke-Online-Ausweis-nicht-verwundbar-9866168.html",
+      "image_title": "Ein Krimineller untersucht einen USB-Dongle, rundherum Sicherheitssymbole"
     },
     {
       "title": "GAZEploit: Rekonstruktion von Passwörtern über Vision-Pro-Personas demonstriert",
@@ -153,18 +165,6 @@
       "teaser": "Aktuell werden Phishing-E-Mails im Namen des BSI verschickt. Davor warnt die Behörde in einem Post auf LinkedIn.",
       "url": "https://www.heise.de/news/Phishing-Warnung-Spam-E-Mails-im-Namen-des-BSI-9863496.html",
       "image_title": "Schattenhände um ein Notebook herum"
-    },
-    {
-      "title": "CISA warnt: Acht Jahre alte Lücke in ImageMagick und weitere angegriffen",
-      "teaser": "Die CISA warnt, dass in ImageMagick eine acht Jahre alte Sicherheitslücke angegriffen wird. Ebenso eine sieben Jahre alte Lücke in Linux.",
-      "url": "https://www.heise.de/news/Acht-Jahre-alte-Luecke-in-ImageMagick-und-weitere-Lecks-missbraucht-9863292.html",
-      "image_title": "Stilisierte Grafik: eine brennende Appliance im Netz"
-    },
-    {
-      "title": "SAP-Patchday: 16 Sicherheitsmitteilungen zu diversen Produkten",
-      "teaser": "Am September-Patchday hat SAP 16 neue Sicherheitsmitteilungen herausgegeben. Sie behandeln Lücken, die als mittleres oder niedriges Risiko gelten.",
-      "url": "https://www.heise.de/news/SAP-Patchday-16-Sicherheitsmitteilungen-zu-diversen-Produkten-9863252.html",
-      "image_title": "Stilisiertes Bild: Laptop mit SAP-Logo brennt, vor Serverracks"
     },
     {
       "title": "NTLM–Webinar",
