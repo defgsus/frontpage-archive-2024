@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-17T11:00:46",
+  "timestamp": "2024-09-17T12:11:45",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "HP-Samsung Universaltreiber für Windows",
+      "url": "https://www.heise.de/news/Samsung-Druckertreiber-ermoeglichen-Angreifern-Rechteausweitung-9871165.html"
+    },
+    {
       "title": "MSHTML, Progress Whatsup Gold",
       "url": "https://www.heise.de/news/Angreifer-attackieren-Sicherheitsluecken-in-Microsofts-MSHTML-und-Whatsup-Gold-9870626.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Ivanti-Cloud-Service-Appliance-9868997.html"
     },
     {
-      "title": "Lenovo",
-      "url": "https://www.heise.de/news/Lenovo-schliesst-Luecken-in-BIOS-Management-Controller-und-WLAN-Treiber-9867290.html"
+      "title": "Samsung-Druckertreiber ermöglichen Angreifern Rechteausweitung",
+      "teaser": "Für Samsungs Office-Drucker stellt HP einen aktualisierten Universal-Treiber für Windows bereit. Er dichtet ein Rechteausweitungsleck ab.",
+      "url": "https://www.heise.de/news/Samsung-Druckertreiber-ermoeglichen-Angreifern-Rechteausweitung-9871165.html",
+      "image_title": "Stilisierte Grafik: ein brennender Netzwerkdrucker"
     },
     {
       "title": "IT-Sicherheitstag Gelsenkirchen: Komplexität managen",
@@ -156,12 +162,6 @@
       "teaser": "Unter der Haube gibt es zahlreiche Verbesserungen für das kompakte Hackerwerkzeug Flipper Zero. Auch die Akkulaufzeit steigt deutlich.",
       "url": "https://www.heise.de/news/Hacking-Gadget-Firmware-1-0-fuer-Flipper-Zero-ist-da-und-bringt-Appstore-mit-9864746.html",
       "image_title": "Flipper Zero mit Firmware 1.0.1"
-    },
-    {
-      "title": "Ivanti: Updates gegen kritische Lecks im Endpoint Manager und weiteren Produkten",
-      "teaser": "Ivanti bessert Schwachstellen in Endpoint Manager, Workspace Control und Cloud Service Appliance aus. Eine Lücke in EPM erreicht die Höchstwertung CVSS 10.",
-      "url": "https://www.heise.de/news/Ivanti-Updates-gegen-kritische-Lecks-im-Endpoint-Manager-und-weiteren-Produkten-9864654.html",
-      "image_title": "Stilisierte Grafik: Brennende Appliances im Netz"
     },
     {
       "title": "NTLM–Webinar",
