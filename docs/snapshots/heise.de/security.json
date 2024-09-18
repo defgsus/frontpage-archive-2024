@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-18T11:00:47",
+  "timestamp": "2024-09-18T12:12:12",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Dell-PCs",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-BIOS-Luecken-gefaehrden-Dell-Computer-9882510.html"
+    },
+    {
       "title": "HPE Aruba Networking Controller",
       "url": "https://www.heise.de/news/Sicherheitsupdate-Luecken-in-Aruba-OS-gefaehrden-Netzwerk-Gateways-9876534.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Samsung-Druckertreiber-ermoeglichen-Angreifern-Rechteausweitung-9871165.html"
     },
     {
-      "title": "MSHTML, Progress Whatsup Gold",
-      "url": "https://www.heise.de/news/Angreifer-attackieren-Sicherheitsluecken-in-Microsofts-MSHTML-und-Whatsup-Gold-9870626.html"
+      "title": "Fakeshops ködern Opfer mit niedrigen Heizöl- und Feuerholz-Preisen",
+      "teaser": "Die Verbraucherzentrale NRW hat eine Reihe an Fakeshops aufgespürt, die günstiges Brennholz und Heizöl versprechen – aber nicht liefern.",
+      "url": "https://www.heise.de/news/Fakeshops-koedern-Opfer-mit-niedrigen-Heizoel-und-Feuerholz-Preisen-9879078.html",
+      "image_title": "Kriminelle betreiben einen Fakeshop für Brennholz und zählen Geld"
+    },
+    {
+      "title": "Sicherheitsupdates: BIOS-Lücken gefährden Dell-Computer",
+      "teaser": "Unter anderem sind bestimmte Computer von Dells Alienware-Serie attackierbar. Sicherheitspatches stehen zum Download.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-BIOS-Luecken-gefaehrden-Dell-Computer-9882510.html"
     },
     {
       "title": "Sicherheitslücken: Netzwerk-Controller und -Gateways von Aruba sind verwundbar",
@@ -149,18 +160,6 @@
       "title": "Lenovo schließt Lücken in BIOS, Management-Controller und WLAN-Treiber",
       "teaser": "Wichtige Sicherheitsupdates schützen Computer von Lenovo. Im schlimmsten Fall können Angreifer Schadcode ausführen.",
       "url": "https://www.heise.de/news/Lenovo-schliesst-Luecken-in-BIOS-Management-Controller-und-WLAN-Treiber-9867290.html"
-    },
-    {
-      "title": "GAZEploit: Rekonstruktion von Passwörtern über Vision-Pro-Personas demonstriert",
-      "teaser": "Sicherheitsforscher haben einen Weg gezeigt, anhand der Augenbewegungen der Nutzer von Apples Headset sensible Daten zu rekonstruieren. Der Konzern reagierte.",
-      "url": "https://www.heise.de/news/Vision-Pro-Eyetracking-erlaubt-Rekonstruktion-von-Passwoertern-theoretisch-9867131.html",
-      "image_title": "Vision Pro mit Nutzerin"
-    },
-    {
-      "title": "MS: Niemand hat die Absicht, eine Mauer um den Windows-Kernel zu errichten",
-      "teaser": "Wie die Windows-Sicherheit verbessern? Microsoft lud Security-Anbieter zum großen Konsens-Summit. Der Elefant im Raum: ein abgeriegelter Windows-Kernel.",
-      "url": "https://www.heise.de/news/Microsofts-Windows-Kernel-Niemand-hat-die-Absicht-eine-Mauer-zu-errichten-9867222.html",
-      "image_title": "Schlüssel mit Windows-Logo als Schlüsselanhänger"
     },
     {
       "title": "NTLM–Webinar",
