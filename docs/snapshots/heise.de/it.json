@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-18T10:07:18",
+  "timestamp": "2024-09-18T11:00:44",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,15 +26,56 @@
   ],
   "articles": [
     {
+      "title": "Recht: Bildersuche zur Temposünderermittlung ist zumutbar",
+      "teaser": "Um einen geblitzten Fahrer zu identifizieren, müssen Ordnungsbehörden zumindest eine Web-Bildersuche starten können – so ein Berliner Verwaltungsrichter.",
+      "url": "https://www.heise.de/hintergrund/Recht-Bildersuche-zur-Temposuenderermittlung-ist-zumutbar-9867019.html",
+      "image_title": "Tempoblitzer liefern"
+    },
+    {
       "title": "Projekt: ESP32-Platine für Schrittmotoren",
       "teaser": "Das PD-Stepper-Board ist ein ESP32-Board mit eingebautem Motortreiber, mit dem Schrittmotoren bis zu 50 Watt über USB-C betrieben werden können.",
       "url": "https://www.heise.de/ratgeber/Projekt-ESP32-Platine-fuer-Schrittmotoren-9865816.html"
     },
     {
-      "title": "Fotos-App: Die besten Tipps für iOS 18",
-      "teaser": "iOS 18 und iPadOS 18 strukturieren die Fotos-App um. Während die Bearbeitung wie gehabt abläuft, muss sich der Nutzer an die neue Medienverwaltung gewöhnen.",
-      "url": "https://www.heise.de/ratgeber/Fotos-App-Die-besten-Tipps-fuer-iOS-18-9871158.html",
-      "image_title": ","
+      "title": "Mikrocontroller: Echtzeit-Zusammenarbeit in der Arduino Cloud",
+      "teaser": "Arduinos Cloud Editor erlaubt nun Developern das gemeinsame Programmieren in einem Projekt. Voraussetzung ist ein kostenpflichtiges Arduino-Cloud-Abo.",
+      "url": "https://www.heise.de/news/Mikrocontroller-Echtzeit-Zusammenarbeit-in-der-Arduino-Cloud-9878163.html",
+      "image_title": "Gruppe von Menschen aus verschiedenen Ländern, die gemeinsam in einem Coworking-Space arbeiten."
+    },
+    {
+      "title": "Open Source Summit: Mehr Offenheit in Telko-Netzen",
+      "teaser": "Die Linux-Foundation mischt auch bei der Telko-Standardisierung mit. Auf dem Open Source Summit in Wien präsentierte das CAMARA-Projekt gleich 25 APIs.",
+      "url": "https://www.heise.de/news/Open-Source-Summit-Mehr-Offenheit-in-Telko-Netzen-9876588.html",
+      "image_title": "5G im grünen Gitternetz"
+    },
+    {
+      "title": "Linux Foundation: Neue Organisationen für Blockchain und Developer Relations",
+      "teaser": "LF Decentralized Trust kümmert sich jetzt in der Linux Foundation um die Belange von Blockchain und verwandeten Projekten. Eine DevRel-Foundation ist geplant.",
+      "url": "https://www.heise.de/news/Linux-Foundation-Neue-Organisationen-fuer-Blockchain-und-Developer-Relations-9878996.html",
+      "image_title": "Daniela Barbosa, Executive Director bei LF Decentralized Trust, stellt die neue Foundation vor.​"
+    },
+    {
+      "title": "macOS 15: Diese Features fehlen Intel-Macs",
+      "teaser": "Apple gibt einmal mehr nur Apple-Silicon-Maschinen alle neuen macOS-Features. Auf absehbare Zeit werden die Updates ganz wegfallen.",
+      "url": "https://www.heise.de/news/macOS-15-Diese-Features-fehlen-Intel-Macs-9871139.html",
+      "image_title": "macOS 15 Sequoia"
+    },
+    {
+      "title": "Sicherheitslücken: Netzwerk-Controller und -Gateways von Aruba sind verwundbar",
+      "teaser": "Angreifer können Netzwerkgeräte von HPE Aruba attackieren und im schlimmsten Fall Appliances kompromittieren.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Luecken-in-Aruba-OS-gefaehrden-Netzwerk-Gateways-9876534.html"
+    },
+    {
+      "title": "DeepL bietet automatisierte Glossarfunktion für Unternehmen",
+      "teaser": "Das Kölner Unternehmen DeepL führt eine automatisierte Glossarfunktion ein. Damit lassen sich Vorgaben für Übersetzungen machen.",
+      "url": "https://www.heise.de/news/DeepL-bietet-automatisierte-Glossarfunktion-fuer-Unternehmen-9876451.html",
+      "image_title": "Frauenhände auf der Tastatur. ​"
+    },
+    {
+      "title": "iX-Workshop: Zero Trust für eine sichere Unternehmens-IT",
+      "teaser": "Mit dem Sicherheitsmodell Zero Trust Ihre Firmen-IT effektiv gegen Angriffe von außen und innen schützen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Zero-Trust-fuer-eine-sichere-Unternehmens-IT-9866533.html",
+      "image_title": "iX-Workshop: Sichere Unternehmens-IT mit Zero Trust"
     },
     {
       "title": "Oracle-Datenbank ab sofort in natürlicher Sprache abfragen",
@@ -66,6 +107,12 @@
       "image_title": "Ein Mann sitzt am Computer im Homeoffice und denkt ans Großraumbüro"
     },
     {
+      "title": "Fotos-App: Die besten Tipps für iOS 18",
+      "teaser": "iOS 18 und iPadOS 18 strukturieren die Fotos-App um. Während die Bearbeitung wie gehabt abläuft, muss sich der Nutzer an die neue Medienverwaltung gewöhnen.",
+      "url": "https://www.heise.de/ratgeber/Fotos-App-Die-besten-Tipps-fuer-iOS-18-9871158.html",
+      "image_title": ","
+    },
+    {
       "title": "iX-Workshop: Kostenkontrolle in der Public Cloud",
       "teaser": "Einblick in die Gebührenmodelle der großen Public-Cloud-Anbieter: Entdecken Sie, wie Sie mit den richtigen Einstellungen & Tools Kosten reduzieren.",
       "url": "https://www.heise.de/news/iX-Workshop-Kostenkontrolle-in-der-Public-Cloud-9867340.html",
@@ -75,52 +122,6 @@
       "title": "Oracle Fusion: Erweiterung um KI und RFID",
       "teaser": "Oracles Business-Suite Fusion erhielt umfangreiche Neuerungen und Aktualisierungen, vor allem für den Supply Chain.",
       "url": "https://www.heise.de/news/Oracle-Fusion-Erweiterung-um-KI-und-RFID-9876030.html"
-    },
-    {
-      "title": "Salesforce-CRM: Details zum autonomen KI-Kundendienst",
-      "teaser": "Die Agentforce-Plattform soll im Salesforce-CRM den Kundendienst automatisieren. Auf der Hauskonferenz Dreamforce sprach CEO Marc Benioff übers Halluzinieren.",
-      "url": "https://www.heise.de/news/Salesforce-CEO-Benioff-mit-Details-zur-KI-Plattform-Agentforce-9870497.html"
-    },
-    {
-      "title": "iOS 18 und macOS 15: 20 Tipps zu Kalender, Nachrichten, Karten & Co",
-      "teaser": "Apple wertet seine mitgelieferten Apps auf – von Nachrichten über Safari und Kalender bis zu Karten. 20 Tipps zu den entscheidenden Neuerungen.",
-      "url": "https://www.heise.de/ratgeber/iOS-18-und-macOS-15-20-Tipps-zu-Kalender-Nachrichten-Karten-Co-9876210.html",
-      "image_title": "iOS 18 & Co: Tipps zu den Apple-Apps"
-    },
-    {
-      "title": "Top 10: Der beste Mini-PC im Test – von Homeoffice bis Gaming",
-      "teaser": "Mini-PCs sind leise und werden immer schneller. Als Desktop-Ersatz eignen sie sich für Office-Arbeit und sogar Gaming. TechStage zeigt die zehn besten Modelle aus über 50 Tests.",
-      "url": "https://www.techstage.de/bestenliste/top-10-der-beste-mini-pc-im-test-von-homeoffice-bis-gaming/zqwyp9f?wt_mc=intern.red.techstage.newsticker.rubrikstart.teaser.teaser",
-      "image_title": "##PHxVALUE_ALT_TEXT##"
-    },
-    {
-      "title": "Neue Spectacles von Snap: Zwischen Meta Ray-Ban und Apple Vision Pro",
-      "teaser": "Snap, das Mutterunternehmen von Snapchat, bringt eine neue AR-Brille heraus. Sie kann für 99 US-Dollar abonniert werden.",
-      "url": "https://www.heise.de/news/Neue-Spectacles-von-Snap-AR-Brille-mit-KI-Funktionen-9869482.html",
-      "image_title": "Zwei Menschen mit Spectacles spielen ein virtuelles Spiel von Lego.​"
-    },
-    {
-      "title": "Amazon ist Intels zweiter großer 18A-Kunde",
-      "teaser": "AWS bestellt bei Intel einen \"AI Fabric Chip\" mit 18A-Fertigungstechnik. Auch angepasste Xeon-CPUs sind Teil des Intel-Deals.",
-      "url": "https://www.heise.de/news/Amazon-ist-Intels-zweiter-grosser-18A-Kunde-9876101.html",
-      "image_title": "Chipstrukturen auf Silizium-Wafer"
-    },
-    {
-      "title": "Oracle-Infrastruktur jetzt auch bei AWS und GCP",
-      "teaser": "Nachdem bereits seit einem Jahr die Oracle-Datenbank-Systeme nativ bei Azure angeboten werden, folgen jetzt auch AWS und GCP.",
-      "url": "https://www.heise.de/news/Oracle-Infrastruktur-jetzt-auch-bei-AWS-und-GCP-9873526.html",
-      "image_title": "Oracle-Schild vor dem Waterfront Campus in Austin"
-    },
-    {
-      "title": "Datenlecks bei Check24 und Verivox aufgedeckt",
-      "teaser": "Daten zu Einkommen und Krediten standen nahezu offen im Netz. Der Chaos Computer Club und ein IT-Experte haben womöglich Schlimmeres verhindert.",
-      "url": "https://www.heise.de/news/Datenlecks-bei-Check24-und-Verivox-aufgedeckt-9875338.html",
-      "image_title": "Check24-Zentrale in München"
-    },
-    {
-      "title": "Programmiersprache Java 23 erweitert Pattern Matching und Import von Klassen",
-      "teaser": "Neben weiterentwickelten Preview-Features wie der Class-File API bringt das JDK Neuerungen beim Pattern Matching und öffnet die Dokumentation für Markdown.",
-      "url": "https://www.heise.de/news/Java-23-erweitert-Import-und-Patterns-verzichtet-aber-auf-String-Templates-9870591.html"
     },
     {
       "title": "Zahlreiche Bestwerte",
