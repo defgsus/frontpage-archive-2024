@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-18T07:07:07",
+  "timestamp": "2024-09-18T08:09:32",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "VMware vCenter",
+      "url": "https://www.heise.de/news/VMware-vCenter-Angreifer-aus-dem-Netz-koennen-Schadcode-einschleusen-9871243.html"
+    },
+    {
       "title": "HP-Samsung Universaltreiber für Windows",
       "url": "https://www.heise.de/news/Samsung-Druckertreiber-ermoeglichen-Angreifern-Rechteausweitung-9871165.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Sicherheitspatch-Hintertuer-in-einigen-D-Link-Routern-erlaubt-unbefugte-Zugriffe-9870648.html"
     },
     {
-      "title": "Ivanti Cloud Service Appliance",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Ivanti-Cloud-Service-Appliance-9868997.html"
+      "title": "\"Passwort\" Folge 14: Intels Management Engine und die Sicherheit",
+      "teaser": "Nicht Windows ME, sondern Intel ME: Mit c't-Prozessorkoryphäe Christof Windeck zusammen besprechen die Hosts in dieser Folge die Management Engine.",
+      "url": "https://www.heise.de/news/Passwort-Folge-14-Intels-Management-Engine-und-die-Sicherheit-9865631.html",
+      "image_title": "Bild vom heise-Security-Podcast"
+    },
+    {
+      "title": "VMware vCenter: Angreifer aus dem Netz können Schadcode einschleusen",
+      "teaser": "Broadcom stopft mehrere Sicherheitslücken in VMware vCenter. Schlimmstenfalls können Angreifer aus dem Netz Schadcode einschmuggeln und ausführen.",
+      "url": "https://www.heise.de/news/VMware-vCenter-Angreifer-aus-dem-Netz-koennen-Schadcode-einschleusen-9871243.html",
+      "image_title": "Stilisierte Grafik: Brennendes VMware-Logo auf einem Laptop"
     },
     {
       "title": "23andme: Gehacktes Genanalyse-Start-up muss 30 Millionen Schadensersatz zahlen​",
@@ -150,18 +162,6 @@
       "teaser": "Angreifer konnten Code einschleusen, fremde Konten übernehmen und den Server außer Gefecht setzen. Admins selbst gehosteter Instanzen sollten patchen.",
       "url": "https://www.heise.de/news/Sicherheitspatch-Gitlab-behebt-Luecken-in-Serverversionen-9866401.html",
       "image_title": "Stilisierte Grafik: eine brennende Appliance im Netz"
-    },
-    {
-      "title": "Norton setzt auf Avast-Scan-Engine",
-      "teaser": "Die Zahl an Malware-Scan-Engines sinkt erneut. Schutzsoftware der Norton-Marke nutzt nun auch die Avast-Engine.",
-      "url": "https://www.heise.de/news/Norton-setzt-auf-Avast-Scan-Engine-9866036.html",
-      "image_title": "Computer mit mehreren Schutzschilden, von denen eingie durchgestrichen sind, wird von Viren attackiert"
-    },
-    {
-      "title": "Microsoft Office: ActiveX wird abgedreht",
-      "teaser": "Länger war es still darum, aber ActiveX gibt es noch. Kommende Microsoft Office-Versionen schalten die Unterstützung endlich ab. Zumindest fast.",
-      "url": "https://www.heise.de/news/Microsoft-Office-ActiveX-wird-abgedreht-9865690.html",
-      "image_title": "Ostersund,,Sweden,-,Jan,18,,2022:,Microsoft,365,On,A"
     },
     {
       "title": "NTLM–Webinar",

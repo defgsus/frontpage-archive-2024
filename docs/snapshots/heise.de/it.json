@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-18T07:07:03",
+  "timestamp": "2024-09-18T08:09:29",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -36,6 +36,35 @@
       "teaser": "Apple wertet seine mitgelieferten Apps auf – von Nachrichten über Safari und Kalender bis zu Karten. 20 Tipps zu den entscheidenden Neuerungen.",
       "url": "https://www.heise.de/ratgeber/iOS-18-und-macOS-15-20-Tipps-zu-Kalender-Nachrichten-Karten-Co-9876210.html",
       "image_title": "iOS 18 & Co: Tipps zu den Apple-Apps"
+    },
+    {
+      "title": "enterJS Accessibility Day: Zwei Workshops für barrierefreie Websites",
+      "teaser": "Vor und nach dem enterJS-Thementag Accessibility Day finden zwei Online-Workshops statt: So werden Websites barrierefrei und gesetzeskonform.",
+      "url": "https://www.heise.de/news/enterJS-Accessibility-Day-Zwei-Workshops-fuer-barrierefreie-Websites-9869283.html",
+      "image_title": "enterJS Accessibility Day, Online-Konferenz, 7. November 2024"
+    },
+    {
+      "title": "Projekt: ESP32-Platine für Schrittmotoren",
+      "teaser": "Das PD-Stepper-Board ist ein ESP32-Board mit eingebautem Motortreiber, mit dem Schrittmotoren bis zu 50 Watt über USB-C betrieben werden können.",
+      "url": "https://www.heise.de/ratgeber/Projekt-ESP32-Platine-fuer-Schrittmotoren-9865816.html"
+    },
+    {
+      "title": "\"Passwort\" Folge 14: Intels Management Engine und die Sicherheit",
+      "teaser": "Nicht Windows ME, sondern Intel ME: Mit c't-Prozessorkoryphäe Christof Windeck zusammen besprechen die Hosts in dieser Folge die Management Engine.",
+      "url": "https://www.heise.de/news/Passwort-Folge-14-Intels-Management-Engine-und-die-Sicherheit-9865631.html",
+      "image_title": "Bild vom heise-Security-Podcast"
+    },
+    {
+      "title": "VMware vCenter: Angreifer aus dem Netz können Schadcode einschleusen",
+      "teaser": "Broadcom stopft mehrere Sicherheitslücken in VMware vCenter. Schlimmstenfalls können Angreifer aus dem Netz Schadcode einschmuggeln und ausführen.",
+      "url": "https://www.heise.de/news/VMware-vCenter-Angreifer-aus-dem-Netz-koennen-Schadcode-einschleusen-9871243.html",
+      "image_title": "Stilisierte Grafik: Brennendes VMware-Logo auf einem Laptop"
+    },
+    {
+      "title": "Eine Frage des Vertrauens: Finger weg vom Homeoffice!",
+      "teaser": "Viele Konzerne wollen das Homeoffice abschaffen. Die Politik hingegen diskutiert über ein gesetzlich verankertes Recht darauf. Was spricht dafür, was dagegen?",
+      "url": "https://www.heise.de/blog/Eine-Frage-des-Vertrauens-Finger-weg-vom-Homeoffice-9868729.html",
+      "image_title": "Ein Mann sitzt am Computer im Homeoffice und denkt ans Großraumbüro"
     },
     {
       "title": "iX-Workshop: Kostenkontrolle in der Public Cloud",
@@ -93,35 +122,6 @@
       "teaser": "Unbekannte Angreifer konnten über eine Cloud-Instanz eines Drittanbieters auf persönliche Daten von Fortinet-Kunden zugreifen.",
       "url": "https://www.heise.de/news/Kundendatenleck-beim-Anbieter-von-IT-Securityloesungen-Fortinet-9872669.html",
       "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
-    },
-    {
-      "title": "Teen-Konten sollen Jugendliche schützen, Instagram will echtes Alter erkennen",
-      "teaser": "Instagram will Jugendliche mit \"Teen-Konten\" schützen. Diese sind mit einschränkenden Schutzfunktionen ausgestattet, etwa bei den Kontaktmöglichkeiten.",
-      "url": "https://www.heise.de/news/Teen-Konten-sollen-Jugendliche-schuetzen-Instagram-will-echtes-Alter-erkennen-9871359.html",
-      "image_title": "Screenshots der Teen Einstellungen auf Instagram"
-    },
-    {
-      "title": "Linux 6.11: Mehr Rust, Torvalds ergänzt \"Runtime Constants\"",
-      "teaser": "Mit Linux 6.11 geht es bei Rust voran. Der Linux-Schöpfer Torvalds bringt \"Runtime Constants\" ein. Altes Unix-Verhalten kommt auf den Prüfstand.",
-      "url": "https://www.heise.de/news/Linux-6-11-Mehr-Rust-Torvalds-ergaenzt-Runtime-Constants-9871277.html",
-      "image_title": "Pinguin sitzt verliebt vor einem Computer, der einen Pinguin und die Schrift \"Linux\" anzeigt"
-    },
-    {
-      "title": "Intel-Fallout: Zank über das Magdeburger Fördergeld",
-      "teaser": "Die Magdeburger Halbleiterwerke entstehen vorerst nicht. Jetzt starten Diskussionen, was mit den Milliarden von Euro geschieht.",
-      "url": "https://www.heise.de/news/Intel-Fallout-Zank-ueber-das-Foerdergeld-9871218.html",
-      "image_title": "Intel Wafer mit bunten Reflexionen"
-    },
-    {
-      "title": "Fast 30 Jahre MetaGer: Über die Geschichte und aktuelle Entwicklungen",
-      "teaser": "Die datenschutzfreundliche Suchmaschine MetaGer gibt es nach einer plötzlichen Kündigung von Yahoo erstmal nur noch kostenpflichtig. Wie es weitergehen soll.",
-      "url": "https://www.heise.de/hintergrund/Fast-30-Jahre-MetaGer-Ueber-die-Geschichte-und-aktuelle-Entwicklungen-9870616.html",
-      "image_title": "MetaGer-Suchmaschine"
-    },
-    {
-      "title": "c't-Workshop: CI/CD mit GitLab",
-      "teaser": "Lernen Sie die CI-Funktionen der Entwicklungsplattform GitLab kennen und üben Sie, Softwareprojekte damit zu bauen, zu testen und zu veröffentlichen.",
-      "url": "https://www.heise.de/news/c-t-Workshop-CI-CD-mit-GitLab-9864270.html"
     },
     {
       "title": "Zahlreiche Bestwerte",
