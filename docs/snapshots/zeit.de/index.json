@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-18T16:08:18",
+  "timestamp": "2024-09-18T17:00:58",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -14,6 +14,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -99,7 +105,7 @@
   "articles": [
     {
       "title": "Hisbollah : 300 Menschen bei Explosionen von Funkgeräten im Libanon verletzt",
-      "teaser": "Im Libanon sind erneut Kommunikationsgeräte explodiert, mindestens neun Menschen starben, 300 wurden verletzt. Ziel waren offenbar wieder Mitglieder der Hisbollah-Miliz.",
+      "teaser": "Im Libanon sind erneut Kommunikationsgeräte explodiert. Mindestens neun Menschen starben, 300 wurden verletzt. Ziel waren offenbar wieder Mitglieder der Hisbollah-Miliz.",
       "url": "https://www.zeit.de/politik/ausland/2024-09/hisbollah-explosionen-funkgeraete-libanon",
       "image_url": "https://img.zeit.de/politik/ausland/2024-09/hisbollah-explosionen-funkgeraete-libanon-bild/wide__1000x562",
       "image_title": "Hisbollah: Rauch steigt aus einem Haus in Baalbek im Ostlibanon auf, nachdem am 18. September 2024 inmitten der anhaltenden grenzüberschreitenden Spannungen zwischen Israel und Hisbollah-Kämpfern ein Funkgerät explodiert ist. Am 18. Juli explodierten in Hisbollah-Hochburgen im Libanon Kommunikationsgeräte, nachdem die vom Iran unterstützte Gruppe nach einer tödlichen Welle von Pager-Sprengungen, die Befürchtungen vor einem totalen Krieg aufkommen ließ, Vergeltung an Israel geübt hatte."
@@ -126,11 +132,18 @@
       "image_title": "Wohnorte in Deutschland: Wo soll ich wohnen?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); iPhone 16 und 16 Pro : Alles, was das neue iPhone (noch nicht) kann",
-      "teaser": "Das iPhone 16 kommt mit einem fancy Knopf für Foto-Nerds. Wir haben es getestet und erklären, warum man sich für die neue KI lieber ein gebrauchtes iPhone kaufen sollte.",
-      "url": "https://www.zeit.de/digital/mobil/2024-09/iphone-16-pro-funktionen-leistung-test",
-      "image_url": "https://img.zeit.de/digital/mobil/2024-09/iphone-16-pro-funktionen-leistung/super__430x286",
-      "image_title": "iPhone 16 und 16 Pro: Alles, was das neue iPhone (noch nicht) kann"
+      "title": "Vapen : EU-Kommission will Vapes aus der Öffentlichkeit verbannen",
+      "teaser": "Auch draußen müssen Menschen besser vor Tabakqualm geschützt werden, sagt die Kommission. Sie will generell keine Ausnahmen mehr für Verdampfer oder E-Zigaretten.",
+      "url": "https://www.zeit.de/gesundheit/2024-09/vapen-e-zigarette-eu-kommission-regelung",
+      "image_url": "https://img.zeit.de/gesundheit/2024-09/vapen-e-zigarette-eu-kommission-regelung-bild/super__430x286",
+      "image_title": "Vapen: Man smoking electronic cigarette vapor. Smoking Electronic Cigarette Man smoking electronic cigarette vapor. Smoking Electronic Cigarette against the background of a glass building Copyright: xx 37875334"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Markus Söder : Er hat so viel für Deutschland getan",
+      "teaser": "Mit der begnadeten Meme-Schleuder Markus Söder verliert die Bundespolitik ihren einzigen Popstar. Wie unglaublich schade!",
+      "url": "https://www.zeit.de/kultur/2024-09/markus-soeder-kanzlerkandidatur-rueckzug-bundespolitik",
+      "image_url": "https://img.zeit.de/kultur/2024-09/markus-soeder-kanzlerkandidatur-rueckzug-bundespolitik-bild/super__430x286",
+      "image_title": "Markus Söder: Er hat so viel für Deutschland getan"
     },
     {
       "title": "Einleitung : 48 Monate Trump",
@@ -161,32 +174,46 @@
       "image_title": "Diese Woche in der ZEIT: Das unheimliche Gefühl: WUT"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); US-Wahlkampf : Als würden permanent zwei Tonspuren gleichzeitig laufen",
+      "title": "US-Wahlkampf : Als würden permanent zwei Tonspuren gleichzeitig laufen",
       "teaser": "Attentatsversuche und Katzenvideos – ist das noch der US-Wahlkampf oder ein fiebriger Traum?",
       "url": "https://www.zeit.de/2024/40/us-wahlkampf-donald-trump-attentat-kamala-harris-usa",
       "image_url": "https://img.zeit.de/2024/40/als-wuerden-permanent-zwei-tonspuren-gleichzeitig-laufen-teaserbild/super__430x286",
       "image_title": "US-Wahlkampf: Als würden permanent zwei Tonspuren gleichzeitig laufen"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Heinrich von Kleist : Ein Sensationsfund",
-      "teaser": "Mehr als 200 Jahre nach dem Tod des Dichters Heinrich von Kleist sind neue Briefe von ihm aufgetaucht. DIE ZEIT hat sie exklusiv lesen können.",
-      "url": "https://www.zeit.de/2024/40/heinrich-von-kleist-briefe-fund-joseph-von-buol-berenberg-oesterreich-selbstmord",
-      "image_url": "https://img.zeit.de/2024/40/ein-licht-auf-das-dunkel-teaserbild/wide__892x501",
-      "image_title": "Heinrich von Kleist: Vergeblich agitierte Heinrich von Kleist (1777–1811) gegen Napoleon: \"Ich habe Unglück gehabt\"."
+      "title": "US-Präsidentschaftswahl : Frühere US-Regierungsbeamte warnen vor Wahl von Donald Trump",
+      "teaser": "In einem Brief haben sich 111 republikanische Ex-Funktionäre hinter die Demokratin Kamala Harris gestellt. Donald Trump habe \"gefährliche Eigenschaften\", warnten sie.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/us-praesidentenwahl-donald-trump-warnung-republikaner-brief",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/fruehere-republikanische-kongressmitglieder-sicherheitsbeamte-offenen-brief-gegen-us-praesidentschaftskandidaten-donald-trump/super__430x286",
+      "image_title": "US-Präsidentschaftswahl: Der republikanische Präsidentschaftskandidat und ehemalige US-Präsident Donald Trump spricht während einer Pressekonferenz im Trump Tower am 06. September 2024 in New York City."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Kleist-Briefe : Der Entdecker",
-      "teaser": "Der Germanist Hermann F. Weiss hat bisher unbekannte Kleist-Briefe entdeckt. Wie sucht man nach etwas, von dem niemand wusste, dass es das gibt? Ein Besuch bei Weiss",
-      "url": "https://www.zeit.de/2024/40/innsbruck-heinrich-von-kleist-briefe-fund-joseph-von-buol-berenberg",
-      "image_url": "https://img.zeit.de/2024/40/ein-ueberraschender-fund-teaserbild/super__430x286",
-      "image_title": "Kleist-Briefe: Hermann F. Weiss, 87, fand durch jahrzehntelanges Forschen neue Dokumente über und von Kleist"
+      "title": "Z+ (abopflichtiger Inhalt); iPhone 16 und 16 Pro : Alles, was das neue iPhone (noch nicht) kann",
+      "teaser": "Das iPhone 16 kommt mit einem fancy Knopf für Foto-Nerds. Wir haben es getestet und erklären, warum man sich für die neue KI lieber ein gebrauchtes iPhone kaufen sollte.",
+      "url": "https://www.zeit.de/digital/mobil/2024-09/iphone-16-pro-funktionen-leistung-test",
+      "image_url": "https://img.zeit.de/digital/mobil/2024-09/iphone-16-pro-funktionen-leistung/super__430x286",
+      "image_title": "iPhone 16 und 16 Pro: Alles, was das neue iPhone (noch nicht) kann"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Kleist-Briefe : \"Vielleicht wünschte er sich sogar Freiheit\"",
-      "teaser": "Was sagen uns die neu entdeckten Briefe über Heinrich von Kleist? Ein Gespräch mit Anne Fleig, der Präsidentin der Heinrich-von-Kleist-Gesellschaft",
-      "url": "https://www.zeit.de/2024/40/heinrich-von-kleist-briefe-joseph-von-buol-oesterreich-anne-fleig",
-      "image_url": "https://img.zeit.de/2024/40/vielleicht-wuenschte-er-sich-sogar-freiheit-teaserbild/super__430x286",
-      "image_title": "Kleist-Briefe: Ausschnitt aus einem Brief von Heinrich von Kleist an Joseph von Buol, Prag, 24. Juli 1809"
+      "title": "Z+ (abopflichtiger Inhalt); Arbeitsrecht : Was geht es den Chef an, was ich in meiner Freizeit mache?",
+      "teaser": "In den meisten Fällen: nichts. Doch es gibt Ausnahmen, die zur Kündigung führen oder den Arbeitnehmer einiges kosten können, sagt Arbeitsrechtsanwalt Peter Meyer.",
+      "url": "https://www.zeit.de/arbeit/2024-08/arbeitsrecht-arbeitgeber-freizeit-arbeitnehmer-peter-meyer",
+      "image_url": "https://img.zeit.de/arbeit/2024-08/arbeitsrecht-arbeitgeber-freizeit/wide__892x501",
+      "image_title": "Arbeitsrecht: Was geht es den Chef an, was ich in meiner Freizeit mache?"
+    },
+    {
+      "title": "Toto Schillaci : Er traf nur einen Sommer",
+      "teaser": "Es war eine Karriere voller Brüche, doch bei der WM 1990 war der Stürmer mit den großen braunen Augen Italiens Held. Nun ist Toto Schillaci mit 59 verstorben.",
+      "url": "https://www.zeit.de/sport/2024-09/toto-schillaci-fussball-italien-tod",
+      "image_url": "https://img.zeit.de/sport/2024-09/toto-schillaci-fussball-italien/super__430x286",
+      "image_title": "Toto Schillaci: Toto Schillaci während der WM 1990"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Reichtum : Der neue Geldadel: Von Volkes Gnaden",
+      "teaser": "Reiche werden immer reicher – und niemanden interessiert es. Der Ökonom Daniel Stähr erklärt, warum Ungleichheit dort am meisten akzeptiert wird, wo sie am größten ist.",
+      "url": "https://www.zeit.de/kultur/2024-09/reichtum-geld-ungleichheit-daniel-staehr",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/reichtum-armut-ungleichheit-oekonomie-bild/super__430x286",
+      "image_title": "Reichtum: Der neue Geldadel: Von Volkes Gnaden"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Emotionale Granularität : All die Feinheiten der Gefühle",
@@ -210,24 +237,31 @@
       "image_title": "Gewalt gegen Frauen: Berlin, Ende August: Gerade ist wieder eine Frau bei einem Messerangriff ums Leben gekommen."
     },
     {
-      "title": "Grenzkontrollen in Deutschland : An der Kapazitätsgrenze",
-      "teaser": "Seit Montag kontrolliert die Bundespolizei an allen deutschen Grenzen. Kritiker bezweifeln den Erfolg, Gewerkschafter klagen über die Belastung – nicht zum ersten Mal.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/grenzkontrollen-deutschland-kritik-polizeigewerkschaft-nancy-faeser",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/grenzkontrollen-deutschland-kritik-polizeigewerkschaft/super__430x286",
-      "image_title": "Grenzkontrollen in Deutschland: Deutsche Polizeibeamte stehen an der Grenze zwischen Deutschland und Frankreich. Bundesinnenministerin Faeser hat Kontrollen zu den westlichen und nördlichen deutschen Nachbarstaaten beginnend ab dem 16. September angeordnet. +++ dpa-Bildfunk +++"
+      "title": "Z+ (abopflichtiger Inhalt); Heinrich von Kleist : Ein Sensationsfund",
+      "teaser": "Mehr als 200 Jahre nach dem Tod des Dichters Heinrich von Kleist sind neue Briefe von ihm aufgetaucht. DIE ZEIT hat sie exklusiv lesen können.",
+      "url": "https://www.zeit.de/2024/40/heinrich-von-kleist-briefe-fund-joseph-von-buol-berenberg-oesterreich-selbstmord",
+      "image_url": "https://img.zeit.de/2024/40/ein-licht-auf-das-dunkel-teaserbild/wide__892x501",
+      "image_title": "Heinrich von Kleist: Vergeblich agitierte Heinrich von Kleist (1777–1811) gegen Napoleon: \"Ich habe Unglück gehabt\"."
     },
     {
-      "title": "Hochwasserkarte : Verfolgen Sie die aktuelle Hochwasserlage in Deutschland",
-      "teaser": "Extremer Regen über Mitteleuropa lässt die Flusspegel steigen. Besonders in Sachsen ist die Lage angespannt. Unsere Karte zeigt die regelmäßig aktualisierten Warnungen.",
-      "url": "https://www.zeit.de/wissen/2024-09/extremwetter-hochwasser-regen-ueberschwemmungen-bayern-sachsen",
-      "image_url": "https://img.zeit.de/wissen/2024-09/extremwetter-hochwasser-regen-ueberschwemmungen-bayern-sachsen-bild/super__430x286",
-      "image_title": "Hochwasserkarte: Luftbildaufnahmen zeigen die aus den Ufern getretene Ilm. Es ist zu erwarten, dass die Pegelstände weiter steigen werden. +++ dpa-Bildfunk +++"
+      "title": "Z+ (abopflichtiger Inhalt); Kleist-Briefe : Der Entdecker",
+      "teaser": "Der Germanist Hermann F. Weiss hat bisher unbekannte Kleist-Briefe entdeckt. Wie sucht man nach etwas, von dem niemand wusste, dass es das gibt? Ein Besuch bei Weiss",
+      "url": "https://www.zeit.de/2024/40/innsbruck-heinrich-von-kleist-briefe-fund-joseph-von-buol-berenberg",
+      "image_url": "https://img.zeit.de/2024/40/ein-ueberraschender-fund-teaserbild/super__430x286",
+      "image_title": "Kleist-Briefe: Hermann F. Weiss, 87, fand durch jahrzehntelanges Forschen neue Dokumente über und von Kleist"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Liebesaffäre : \"Als Khalil Nachtschicht hatte, trafen wir uns heimlich\"",
+      "teaser": "Als Praktikantin lernt sie einen charmanten Assistenzarzt kennen. Er ist Muslim, sie Jüdin. Er will mehr, sie nur ein Abenteuer.",
+      "url": "https://www.zeit.de/zeit-magazin/2024/39/liebesaffaere-krankenhaus-religion-liebeskolumne",
+      "image_url": "https://img.zeit.de/zeit-magazin/leben/2024-09/liebesaffaere-krankenhaus-religion-liebeskolumne-bild/super__430x286",
+      "image_title": "Liebesaffäre: \"Als Khalil Nachtschicht hatte, trafen wir uns heimlich\""
     },
     {
       "title": "Ukraine-Krieg : Ukraine soll Munitionsdepot im Nordwesten Russlands angegriffen haben",
       "teaser": "Ukrainische Drohnen haben im russischen Toropez einen Großbrand ausgelöst. Die Kleinstadt wurde zeitweise evakuiert. Der Angriff soll einem Munitionsdepot gegolten haben.",
       "url": "https://www.zeit.de/politik/ausland/2024-09/ukraine-krieg-russland-kleinstadt-toropez-grossbrand-evakuiert-drohnenangriff",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/ukraine-krieg-russland-kleinstadt-toropez-grossbrand-evakuiert-drohnenangriff-bild/super__430x286",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/ukraine-krieg-russland-kleinstadt-toropez-grossbrand-evakuiert-drohnenangriff-bild/super__320x213",
       "image_title": "Ukraine-Krieg: Flammen steigen während einer Explosion inmitten des russisch-ukrainischen Konflikts in Toropets, Region Twer, Russland, auf. Dieses Bild stammt aus einem Video in den sozialen Medien, das am 18. September 2024 veröffentlicht wurde."
     },
     {
@@ -278,13 +312,6 @@
       "url": "https://www.zeit.de/gesellschaft/2024-09/autorennen-hessen-frankfurt-gericht-prozess",
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/prozess-illegales-autorennen-autobahn-hessen-bild/super__320x213",
       "image_title": "Frankfurt am Main: Hinter einem Mikrofon haben ein Angeklagter (l) und sein Verteidiger Ulrich Endres beim Prozessauftakt im Landgericht Platz genommen. Knapp vier Jahre nach dem mutmaßlichen Autorennen mit tödlichem Ausgang auf der A66 nahe Hofheim müssen sich die damaligen Fahrer ab heute vor Gericht verantworten. Drei Männern im Alter von 30, 33 und 38 Jahren wird die Teilnahme an einem verbotenen Autorennen vorgeworfen. Bei dem mutmaßlich illegalen Rennen im Oktober 2020 war eine unbeteiligte Autofahrerin ums Leben gekommen."
-    },
-    {
-      "title": "Ungarn : EU will Zahlungen an Ungarn wegen nicht bezahlter Strafe einbehalten",
-      "teaser": "Weil Ungarn eine Strafe der EU-Kommission nicht bezahlt hat, holt sich die Behörde das Geld auf anderem Weg. Zahlungen über 200 Millionen Euro sollen einbehalten werden.",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/ungarn-eu-kommission-gelder-strafe-asyl",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/millionen-strafe-ungarn-eu-gelder-bild/super__320x213",
-      "image_title": "Ungarn: The flags of the European Union (L) and of Hungary are seen on the wall of the Delegation Hall of the parliament building in Budapest on September 11, 2014 prior to a press conference of outgoing President of the European Commission Barroso and his host Hungarian Prime Minister Orban to sign the document of a partnership agreement between the European Union (EU) and Hungary. The agreement sets the strategy for the optimal use of EU cohesion funds worth 21,9 billion euros during the 2014-2020 EU budget period. AFP PHOTO / ATTILA KISBENEDEK (Photo credit should read ATTILA KISBENEDEK/AFP via Getty Images)"
     },
     {
       "title": "ZEIT Podcast-Tour : Feiern Sie mit uns das ZEIT Podcast-Tour Finale",
@@ -357,6 +384,20 @@
       "image_title": "WHITE – Folge 9: Überlebt ihre Freundschaft einen mutmaßlichen Mord?"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Duschen : Ist es besser, abends zu duschen als morgens?",
+      "teaser": "Eine Dusche macht etwas mit dem Kreislauf und der Haut. Wer darüber nachdenkt, weiß, ob die Dusche am Abend die bessere Wahl ist oder am Morgen.",
+      "url": "https://www.zeit.de/2024/39/duschen-morgens-abends-tageszeit-lebensstil",
+      "image_url": "https://img.zeit.de/2024/39/einschlaf-probleme-dusche-am-abend-teaser/super__430x286",
+      "image_title": "Duschen: Für Menschen, die Probleme mit dem Einschlafen haben, kann eine Dusche am Abend hilfreich sein."
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Blumenkohlsuppe : Die einzige Creme, die Sie brauchen",
+      "teaser": "Manchmal sind es die kleinen Dinge, die etwas noch besser machen. So auch hier: Wenn der Blumenkohl vor dem Kochen im Ofen rösten darf, verändert das die ganze Suppe.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-09/blumenkohlsuppe-tahin-kartoffel-rezept",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-09/blumenkohlsuppe-tahin-teaser/super__430x286",
+      "image_title": "Blumenkohlsuppe: Die einzige Creme, die Sie brauchen"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Fragen Sie ZEIT ONLINE : Haben Sie ein Thema verpasst?",
       "teaser": "ZEIT ONLINE beantwortet Ihre Fragen zu aktuellen Ereignissen – mit einer KI, die unsere Artikel der vergangenen 30 Tage als Quelle nutzt. Probieren Sie es aus!",
       "url": "https://www.zeit.de/beta/fragen-sie-zeit-online-news",
@@ -393,9 +434,9 @@
       "url": "https://www.zeit.de/politik/ausland/2024-09/libanon-pager-explosion-israel-hisbollah"
     },
     {
-      "title": "Union : Friedrich Merz lehnt Koalition mit den Grünen \"aus heutiger Sicht\" ab",
-      "teaser": "Keine Partei stoße unter Unionsanhängern auf so große Ablehnung wie die Grünen, sagt der designierte Kanzlerkandidat von CDU und CSU. Der AfD wirft er Antisemitismus vor.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/cdu-csu-friedrich-merz-kanzlerkandidat-koalition-gruene"
+      "title": "Hisbollah : 300 Menschen bei Explosionen von Funkgeräten im Libanon verletzt",
+      "teaser": "Im Libanon sind erneut Kommunikationsgeräte explodiert. Mindestens neun Menschen starben, 300 wurden verletzt. Ziel waren offenbar wieder Mitglieder der Hisbollah-Miliz.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/hisbollah-explosionen-funkgeraete-libanon"
     },
     {
       "title": "Union : Friedrich Merz lehnt Koalition mit den Grünen \"aus heutiger Sicht\" ab",
@@ -707,6 +748,13 @@
       "image_title": "Politikpodcast: ASHTON, IDAHO - SEPTEMBER 10: A television showing Democratic presidential nominee, U.S. Vice President Kamala Harris, debating Republican presidential nominee, former U.S. president Donald Trump, is seen playing in a living room on September 10, 2024 in Ashton, Idaho. Trump easily won Idaho in the 2020 presidential election winning 64% of the vote in 41 of 44 counties. (Photo by Natalie Behring/Getty Images)"
     },
     {
+      "title": "Grenzkontrollen in Deutschland : An der Kapazitätsgrenze",
+      "teaser": "Seit Montag kontrolliert die Bundespolizei an allen deutschen Grenzen. Kritiker bezweifeln den Erfolg, Gewerkschafter klagen über die Belastung – nicht zum ersten Mal.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/grenzkontrollen-deutschland-kritik-polizeigewerkschaft-nancy-faeser",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/grenzkontrollen-deutschland-kritik-polizeigewerkschaft/super__430x286",
+      "image_title": "Grenzkontrollen in Deutschland: Deutsche Polizeibeamte stehen an der Grenze zwischen Deutschland und Frankreich. Bundesinnenministerin Faeser hat Kontrollen zu den westlichen und nördlichen deutschen Nachbarstaaten beginnend ab dem 16. September angeordnet. +++ dpa-Bildfunk +++"
+    },
+    {
       "title": "Hochwasser : Österreich stockt Katastrophenfonds auf eine Milliarde Euro auf",
       "teaser": "Die Regierung in Wien will die geplanten Bundeshilfen deutlich auf eine Milliarde Euro erhöhen. In Tschechien beginnen nach dem Hochwasser die ersten Aufräumarbeiten.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/hochwasser-lage-europa-oesterreich-tschechien",
@@ -719,13 +767,6 @@
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/hochwasser-unwetter-starkregen-sturm-live",
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/hochwasser-unwetter-starkregen-sturm-live-bild-9/super__430x286",
       "image_title": "Hochwasser: Die Anleger für die Schiffe der Sächsischen Dampfschifffahrt sind vom Hochwasser der Elbe umspült. Im Hintergrund ist die Altstadtkulisse und die teilweise eingestürzte Carolabrücke zu sehen. +++ dpa-Bildfunk +++ 17/09/2024"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Das Lehrerzimmer : Mit dem Lehrerzimmer verhält es sich wie mit der Akropolis",
-      "teaser": "Das Lehrerzimmer ist der seltsamste Ort an jeder Schule. Ein von Geheimnissen umwittertes Loch für Schüler und Eltern. Die neue Lehrerkolumne",
-      "url": "https://www.zeit.de/gesellschaft/schule/2024-09/schule-lehrerzimmer-lehrkraefte-lehrerkolumne",
-      "image_url": "https://img.zeit.de/zeit-verlag/2024-09/schule-lehrerzimmer-lehrkraefte-lehrerkolumne-bild/super__430x286",
-      "image_title": "Das Lehrerzimmer: Mit dem Lehrerzimmer verhält es sich wie mit der Akropolis"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Zinsentscheidung der Fed : Kann die US-Notenbank eine Rezession abwenden?",
@@ -791,6 +832,13 @@
       "image_title": "Teresa Reichl: Teresa Reichl"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Kleist-Briefe : \"Vielleicht wünschte er sich sogar Freiheit\"",
+      "teaser": "Was sagen uns die neu entdeckten Briefe über Heinrich von Kleist? Ein Gespräch mit Anne Fleig, der Präsidentin der Heinrich-von-Kleist-Gesellschaft",
+      "url": "https://www.zeit.de/2024/40/heinrich-von-kleist-briefe-joseph-von-buol-oesterreich-anne-fleig",
+      "image_url": "https://img.zeit.de/2024/40/vielleicht-wuenschte-er-sich-sogar-freiheit-teaserbild/super__430x286",
+      "image_title": "Kleist-Briefe: Ausschnitt aus einem Brief von Heinrich von Kleist an Joseph von Buol, Prag, 24. Juli 1809"
+    },
+    {
       "title": "Okay Kaya : Sisyphos aus Sicht des Steins",
       "teaser": "Zwischen finnischen Comics und griechischer Mythologie spannt die Folkmusikerin Okay Kaya ihre Welt auf. Wer sich einsam darin fühlt, hat schon mal etwas richtig gemacht.",
       "url": "https://www.zeit.de/kultur/musik/2024-09/okay-kaya-album-oh-my-god-thats-so-me-folkmusik-saengerin",
@@ -810,13 +858,6 @@
       "url": "https://www.zeit.de/kultur/musik/2024-09/sean-combs-diddy-festnahme-sexuelle-uebergriffe",
       "image_url": "https://img.zeit.de/kultur/2024-09/anklage-sean-combs-bild/super__430x286",
       "image_title": "\"Diddy\": FILE PHOTO: Rapper Sean Diddy Combs arrives at the 2016 MTV Video Music Awards in New York, U.S., August 28, 2016. REUTERS/Eduardo Munoz/File Photo"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Sean Combs : Und wieder stellt sich die Systemfrage",
-      "teaser": "Der Rapper Sean Combs ist angeklagt, eine \"kriminelle Unternehmung\" zum Missbrauch von Frauen geführt zu haben. Es ist der wohl größte MeToo-Fall des Pop-Business bisher.",
-      "url": "https://www.zeit.de/kultur/musik/2024-09/sean-diddy-combs-anklage-sexueller-missbrauch-festnahme",
-      "image_url": "https://img.zeit.de/kultur/musik/2024-09/sean-diddy-combs-anklage-sexueller-missbrauch-festnahme-bild/super__430x286",
-      "image_title": "Sean Combs: FILE PHOTO: Metropolitan Museum of Art Costume Institute Gala - Rei Kawakubo/Comme des Garcons: Art of the In-Between - Arrivals - New York City, U.S. - 01/05/17 - Sean \"Diddy\" Combs. REUTERS/Lucas Jackson/File Photo"
     },
     {
       "title": "Krieg in der Ukraine : Ukraine meldet Luftangriff auf russisches Waffenlager",
@@ -1000,11 +1041,11 @@
       "image_title": "Ostdeutsche Unistädte: \"Wir überlassen Cottbus nicht den Rechtsextremen\""
     },
     {
-      "title": "Verlagsangebot : Durchblick im Studiendschungel",
-      "teaser": "Bei 20.000 möglichen Studiengängen in Deutschland verliert man schnell den Überblick. Unterstützung bietet die Suchmaschine für Studiengänge und Hochschulen.",
-      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.whiteboard_studiendschungel.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_whiteboard_studiendschungel_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-3-klein/man-wearing-black-and-white-stripe-shirt-looking-at-white-197.jpg",
-      "image_title": "Durchblick im Studiendschungel"
+      "title": "Verlagsangebot : Welcher Beruf passt zu mir?",
+      "teaser": "Mit dem BOA-Berufstest erfahren Berufseinsteiger mehr über die eigenen Stärken und finden den passenden Job.",
+      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.verlagsteaser.quan.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=verlagsteaserindex&amp;utm_content=bot_verlagsteaser_quan_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/boa-quan/wide__430x286__desktop",
+      "image_title": "Welcher Beruf passt zu mir?"
     },
     {
       "title": "Armutsrisiko : Studierende und Azubis besonders armutsgefährdet",
@@ -1084,36 +1125,36 @@
       "image_title": "Champions League: Vieles ändert sich in der Champions League, aber Real Madrid, im Vorjahr wieder mal Sieger, bleibt einer der Favoriten."
     },
     {
-      "title": "Hochwassergefahr: Alarmstufe 1 für Flussabschnitte an Oder ausgerufen",
-      "url": "https://www.zeit.de/news/2024-09/18/alarmstufe-1-fuer-flussabschnitte-an-oder-ausgerufen"
-    },
-    {
-      "title": "Verkehr: Bisher so viele tödliche Motorradunfälle wie 2023 insgesamt",
-      "url": "https://www.zeit.de/news/2024-09/18/bisher-so-viele-toedliche-motorradunfaelle-wie-2023-insgesamt"
-    },
-    {
-      "title": "Batteriekonzern: Varta-Chef: Weitere Einigung in Sanierungsverfahren",
-      "url": "https://www.zeit.de/news/2024-09/18/varta-chef-weitere-einigung-in-sanierungsverfahren"
-    },
-    {
       "title": "Deutschland-Visite: Zeitung: Biden plant Besuch in Berlin im Oktober",
       "url": "https://www.zeit.de/news/2024-09/18/zeitung-biden-plant-besuch-in-berlin-im-oktober"
     },
     {
-      "title": "Schifffahrt: Binnenschiff schlägt leck - Feuerwehr verhindert Sinken",
-      "url": "https://www.zeit.de/news/2024-09/18/binnenschiff-schlaegt-leck-feuerwehr-verhindert-sinken"
+      "title": "Gesundheit: Nuklearmedizin in französischer Stadt öffnet sich Deutschen",
+      "url": "https://www.zeit.de/news/2024-09/18/nuklearmedizin-in-franzoesischer-stadt-oeffnet-sich-deutschen"
     },
     {
-      "title": "Diplomatie: UN-Vollversammlung fordert Rückzug Israels",
-      "url": "https://www.zeit.de/news/2024-09/18/un-vollversammlung-fordert-rueckzug-israels"
+      "title": "Oberverwaltungsgericht Bremen: Urteil gegen Prediger - GdP sieht Bremen als Vorbild",
+      "url": "https://www.zeit.de/news/2024-09/18/urteil-gegen-prediger-gdp-sieht-bremen-als-vorbild"
     },
     {
-      "title": "IAA Transportation: Strafzölle gegen E-Autos - Habeck will politische Lösung",
-      "url": "https://www.zeit.de/news/2024-09/18/strafzoelle-gegen-e-autos-habeck-will-politische-loesung"
+      "title": "Gesundheit: Ärztekammer: Quereinsteigerprogramm ist Erfolg",
+      "url": "https://www.zeit.de/news/2024-09/18/aerztekammer-quereinsteigerprogramm-ist-erfolg"
     },
     {
-      "title": "Festnahme: Acht Verdächtige nach etlichen Diebstählen festgenommen",
-      "url": "https://www.zeit.de/news/2024-09/18/acht-verdaechtige-nach-etlichen-diebstaehlen-festgenommen"
+      "title": "Wahlkampf: Wagenknecht: «Merz würde Deutschland massiv gefährden»",
+      "url": "https://www.zeit.de/news/2024-09/18/wagenknecht-merz-wuerde-deutschland-massiv-gefaehrden"
+    },
+    {
+      "title": "Polizeieinsatz: Mutter und zwei Kinder tot aus Teupitzer See geborgen",
+      "url": "https://www.zeit.de/news/2024-09/18/mutter-und-zwei-kinder-tot-aus-teupitzer-see-geborgen"
+    },
+    {
+      "title": "Verkehr: Austausch von Asphaltbelägen an A1-Ausfahrten",
+      "url": "https://www.zeit.de/news/2024-09/18/austausch-von-asphaltbelaegen-an-a1-ausfahrten"
+    },
+    {
+      "title": "Regionalversammlung: Neuer Vorsitzender des Verbands Region Stuttgart gewählt",
+      "url": "https://www.zeit.de/news/2024-09/18/neuer-vorsitzender-des-verbands-region-stuttgart-gewaehlt"
     }
   ]
 }
