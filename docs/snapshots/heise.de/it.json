@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-19T07:07:12",
+  "timestamp": "2024-09-19T08:10:15",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,16 +26,39 @@
   ],
   "articles": [
     {
+      "title": "Synology-NAS: Handgemachte DMZ schottet virtuelle Maschinen ab",
+      "teaser": "Netzwerkspeicher von Synology enthalten keine DMZ-Funktion. Hier finden Sie die Netzwerktricks zum Nachrüsten, damit das Netzwerk bei Angriffen geschützt ist.",
+      "url": "https://www.heise.de/ratgeber/Synology-NAS-Handgemachte-DMZ-schottet-virtuelle-Maschinen-ab-9860114.html",
+      "image_title": ", KI, Collage c’t"
+    },
+    {
       "title": "macOS 15 Sequoia: 16 Tipps zu allen Neuerungen",
       "teaser": "Neues Fenstermanagement, Kontextmenü per Taste, systemweite Hintergründe für Videocalls, Video-Vorschau in Safari & mehr: So nutzen Sie die neuen Mac-Features.",
       "url": "https://www.heise.de/ratgeber/macOS-15-Sequoia-16-Tipps-zu-allen-Neuerungen-9881604.html",
       "image_title": ","
     },
     {
-      "title": "Notizen und Wissen organisieren in Obsidian: Fortgeschrittene Funktionen",
-      "teaser": "Wir zeigen Ihnen, wie Sie mit Tabs und Vorlagen Ihre Arbeitsumgebung optimieren, Notizen mit Metadaten organisieren und zwischen Ihren Geräten synchronisieren.",
-      "url": "https://www.heise.de/ratgeber/Notizen-und-Wissen-organisieren-in-Obsidian-Fortgeschrittene-Funktionen-9869892.html",
-      "image_title": ", KI, Collage c't"
+      "title": "iX-Workshop: Hands-on Migration von VMware zu Proxmox",
+      "teaser": "Lernen Sie, wie man virtuelle Maschinen von VMware-Umgebungen auf Proxmox VE überträgt.",
+      "url": "https://www.heise.de/news/iX-Workshop-Hands-on-Migration-von-VMware-zu-Proxmox-9867218.html",
+      "image_title": "Workshop Azure AD als zentralen Verzeichnisdienst inrichten"
+    },
+    {
+      "title": "Roboter im Eigenbau, Teil 1: Ein Schimpfwortgenerator",
+      "teaser": "Es ist Zeit, unbesiegbar zu werden und mit Schimpfolino immer eine Beleidigungskombination parat zu haben. Wir bauen dafür einen Generator.",
+      "url": "https://www.heise.de/ratgeber/Roboter-im-Eigenbau-Teil-1-Ein-Schimpfwortgenerator-9857007.html"
+    },
+    {
+      "title": "Kritische SAML-Anmelde-Lücke mit Höchstwertung gefährdet Gitlab-Server",
+      "teaser": "Unter bestimmten Voraussetzungen können sich Angreifer Zugriff auf die DevSecOps-Plattform Gitlab verschaffen.",
+      "url": "https://www.heise.de/news/Kritische-SAML-Anmelde-Luecke-mit-Hoechstwertung-gefaehrdet-Gitlab-Server-9904574.html",
+      "image_title": "Oranges Warndreieck vor bläulich schimmernden Hintergrund"
+    },
+    {
+      "title": "Gnome 47 setzt Akzente und macht X11 optional",
+      "teaser": "Erstmals bekommt ein Gnome-Programme eine Ergänzung in Rust. Krumme Skalierungsfaktoren unter Wayland und Farbakzente sind nun feste Bestandteile des Desktops.",
+      "url": "https://www.heise.de/news/Gnome-47-setzt-Akzente-und-macht-X11-optional-9904605.html",
+      "image_title": "Desktop von Gnome 47 auf Notebook auf Tisch"
     },
     {
       "title": "Tipp: SMS vom Mac verschicken",
@@ -44,15 +67,15 @@
       "image_title": "ALTERNATIVTEXT"
     },
     {
-      "title": "Synology-NAS: Handgemachte DMZ schottet virtuelle Maschinen ab",
-      "teaser": "Netzwerkspeicher von Synology enthalten keine DMZ-Funktion. Hier finden Sie die Netzwerktricks zum Nachrüsten, damit das Netzwerk bei Angriffen geschützt ist.",
-      "url": "https://www.heise.de/ratgeber/Synology-NAS-Handgemachte-DMZ-schottet-virtuelle-Maschinen-ab-9860114.html",
-      "image_title": ", KI, Collage c’t"
-    },
-    {
       "title": "KI Navigator: Jetzt noch Frühbuchertickets für die Konferenz in Nürnberg sichern",
       "teaser": "Das Programm der Konferenz KI Navigator ist dieses Jahr mit acht Tracks doppelt so umfangreich wie 2023. Noch bis zum 30. September gilt der Frühbucherrabatt.",
       "url": "https://www.heise.de/news/KI-Navigator-Jetzt-noch-Fruehbuchertickets-fuer-die-Konferenz-in-Nuernberg-sichern-9876392.html"
+    },
+    {
+      "title": "Notizen und Wissen organisieren in Obsidian: Fortgeschrittene Funktionen",
+      "teaser": "Wir zeigen Ihnen, wie Sie mit Tabs und Vorlagen Ihre Arbeitsumgebung optimieren, Notizen mit Metadaten organisieren und zwischen Ihren Geräten synchronisieren.",
+      "url": "https://www.heise.de/ratgeber/Notizen-und-Wissen-organisieren-in-Obsidian-Fortgeschrittene-Funktionen-9869892.html",
+      "image_title": ", KI, Collage c't"
     },
     {
       "title": "Causal ML: KI erfasst Ursache und Wirkung",
@@ -101,30 +124,6 @@
       "teaser": "Kriminelle behaupten, Temu gehackt zu haben, und bieten 87 Millionen angebliche Kundendatensätze im Darknet zum Kauf an. Temu streitet das ab.",
       "url": "https://www.heise.de/news/Temu-dementiert-Angreifer-wollen-87-Millionen-Kundendatensaetze-erbeutet-haben-9883224.html",
       "image_title": "Handy mit Temu App vor einem Bildschirm"
-    },
-    {
-      "title": "LibreOffice: Reparaturmodus ermöglicht Signaturfälschung",
-      "teaser": "LibreOffice versucht, beschädigte Dateien im zip-Format zu reparieren. Digitale Signaturen wurden danach falsch validiert.",
-      "url": "https://www.heise.de/news/LibreOffice-Reparaturmodus-ermoeglicht-Signaturfaelschung-9885478.html",
-      "image_title": "Nutzer vor einem Laptop mit LibreOffice, das von Viren attackiert wird"
-    },
-    {
-      "title": "Vermeintliches Datenleck bei Kleinanzeigen entpuppt sich als Fehlalarm",
-      "teaser": "Medienberichte verunsicherten viele Menschen, es gebe ein Datenleck bei Kleinanzeigen. Das Unternehmen bestreitet das plausibel.",
-      "url": "https://www.heise.de/news/Vermeintliches-Datenleck-bei-Kleinanzeigen-entpuppt-sich-als-Fehlalarm-9883701.html",
-      "image_title": "Computer vor Serverschränken, auf dem Dataleak steht, drumherum lungern Datendiebe"
-    },
-    {
-      "title": "Adobe Acrobat KI-Assistent in deutscher Sprache verfügbar",
-      "teaser": "Ein KI-Assistent fasst in Adobe Acrobat Dokumente zusammen. Die im Frühjahr 2024 vorgestellte Funktion steht nun in deutscher Sprache als Abo zur Verfügung.",
-      "url": "https://www.heise.de/news/Adobe-Acrobat-KI-Assistent-in-deutscher-Sprache-verfu-gbar-9876322.html",
-      "image_title": "Screenshot zeigt Adobe-Assistenten"
-    },
-    {
-      "title": "Drei 4K-Monitore an einem Notebook: Die ersten Thunderbolt-5-Docks kommen",
-      "teaser": "Thunderbolt-5-Geräte kommen allmählich an. Dockingstations, etwa von Kensington, verbinden drei 4K-Monitore und reichlich Peripherie.",
-      "url": "https://www.heise.de/news/Kensington-bringt-die-erste-Thunderbolt-5-Dockingstation-9885021.html",
-      "image_title": "Thunderbolt 5 Dockingstation von Kensington"
     },
     {
       "title": "Zahlreiche Bestwerte",

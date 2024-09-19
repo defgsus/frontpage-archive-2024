@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-19T07:07:15",
+  "timestamp": "2024-09-19T08:10:18",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Gitlab",
+      "url": "https://www.heise.de/news/Kritische-SAML-Anmelde-Luecke-mit-Hoechstwertung-gefaehrdet-Gitlab-Server-9904574.html"
+    },
+    {
       "title": "Dell-PCs",
       "url": "https://www.heise.de/news/Sicherheitsupdates-BIOS-Luecken-gefaehrden-Dell-Computer-9882510.html"
     },
@@ -42,10 +46,6 @@
     {
       "title": "VMware vCenter",
       "url": "https://www.heise.de/news/VMware-vCenter-Angreifer-aus-dem-Netz-koennen-Schadcode-einschleusen-9871243.html"
-    },
-    {
-      "title": "HP-Samsung Universaltreiber für Windows",
-      "url": "https://www.heise.de/news/Samsung-Druckertreiber-ermoeglichen-Angreifern-Rechteausweitung-9871165.html"
     },
     {
       "title": "Temu dementiert: Angreifer wollen 87 Millionen Kundendatensätze erbeutet haben",
@@ -94,6 +94,12 @@
       "image_title": "IP-Adresse in einer Shell"
     },
     {
+      "title": "\"Passwort\" Folge 14: Intels Management Engine und die Sicherheit",
+      "teaser": "Nicht Windows ME, sondern Intel ME: Mit c't-Prozessorkoryphäe Christof Windeck zusammen besprechen die Hosts in dieser Folge die Management Engine.",
+      "url": "https://www.heise.de/news/Passwort-Folge-14-Intels-Management-Engine-und-die-Sicherheit-9865631.html",
+      "image_title": "Bild vom heise-Security-Podcast"
+    },
+    {
       "title": "VMware vCenter: Angreifer aus dem Netz können Schadcode einschleusen",
       "teaser": "Broadcom stopft mehrere Sicherheitslücken in VMware vCenter. Schlimmstenfalls können Angreifer aus dem Netz Schadcode einschmuggeln und ausführen.",
       "url": "https://www.heise.de/news/VMware-vCenter-Angreifer-aus-dem-Netz-koennen-Schadcode-einschleusen-9871243.html",
@@ -104,6 +110,12 @@
       "teaser": "Daten zu Einkommen und Krediten standen nahezu offen im Netz. Der Chaos Computer Club und ein IT-Experte haben womöglich Schlimmeres verhindert.",
       "url": "https://www.heise.de/news/Datenlecks-bei-Check24-und-Verivox-aufgedeckt-9875338.html",
       "image_title": "Check24-Zentrale in München"
+    },
+    {
+      "title": "Swatting: Open-Source-Entwickler vor laufender Kamera durch Polizei abgeführt",
+      "teaser": "Der Polizeieinsatz bei René Rebe wurde durch eine gefälschte E-Mail ausgelöst, die einen erweiterten Suizid des Entwicklers ankündigte.",
+      "url": "https://www.heise.de/news/Polizeibesuch-im-Linux-Livestream-Open-Source-Entwickler-Opfer-von-Swatting-9873744.html",
+      "image_title": "Zwei deutsche Polizeiautos"
     },
     {
       "title": "23andme: Gehacktes Genanalyse-Start-up muss 30 Millionen Schadensersatz zahlen​",
@@ -149,18 +161,6 @@
       "teaser": "Google hat angekündigt, den Sicherheitscheck im Webbrowser Chrome zu verbessern. Insbesondere auf dem Smartphone wird einges einfacher.",
       "url": "https://www.heise.de/news/Google-Chrome-Ueberarbeiteter-Sicherheitscheck-soll-Schutz-verbessern-9869517.html",
       "image_title": "Der Sicherheitscheck im Desktop-Browser"
-    },
-    {
-      "title": "Anonymisierendes Linux: Tails 6.7 mit anonymem Chat und Secure-Boot-Tipps",
-      "teaser": "Das anonymisierende Linux für den USB-Stick Tails bringt in Version 6.7 eine anonyme Chat-Möglichkeit mit. Außerdem gibt es Tipps zu Secure-Boot-Problemen.",
-      "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-6-7-mit-anonymem-Chat-und-Secure-Boot-Tipps-9869193.html",
-      "image_title": "TAils 6.7 Desktop auf Notebook auf Tisch"
-    },
-    {
-      "title": "Sicherheitspatch verfügbar: Angriffe auf Ivanti Cloud Service Appliance",
-      "teaser": "Derzeit attackieren Angreifer Ivanti Cloud Service Appliances mit Schadcode. Außedem könnten Attacken auf Endpoint Manager bevorstehen.",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Ivanti-Cloud-Service-Appliance-9868997.html",
-      "image_title": "Leuchtendes Warn-Dreieick vor kryptischer Anzeige"
     },
     {
       "title": "NTLM–Webinar",
