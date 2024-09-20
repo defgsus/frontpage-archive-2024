@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-20T18:08:53",
+  "timestamp": "2024-09-20T19:00:41",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -14,6 +14,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
@@ -98,18 +104,11 @@
   ],
   "articles": [
     {
-      "title": "Pager-Explosionen : \"Wir wollten diesen Krieg nicht, aber wir werden mit hineingezogen\"",
-      "teaser": "Plötzlich explodierten im ganzen Land Tausende Geräte, nun fliegt Israel Luftangriffe. Drei Libanesen erzählen von ihren Erlebnissen und Sorgen.",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/pager-explosionen-libanon-israel-lage-nahostkrieg",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/pager-explosionen-libanon-israel-lage-nahostkrieg-bild1/wide__1000x562",
-      "image_title": "Pager-Explosionen: A Lebanese solider guards AUB Hospital as victims arrive after pager explosions in Beirut, Lebanon. September 17, 2024. Ali Khara"
-    },
-    {
-      "title": "Liveblog:Krieg in Israel und Gaza : Israels Armee meldet Tod von hochrangigem Hisbollah-Kommandeur",
-      "teaser": "Israel hat in Beirut laut Militär Hisbollah-Kommandeur Ibrahim Akil getötet. Nach libanesischen Angaben starben insgesamt zwölf Menschen, 66 wurden verletzt. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/2023-12/news-israel-gaza-krieg-live",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/news-israel-gaza-krieg-live-angriff-beirut-bild/super__430x286",
-      "image_title": "Krieg in Israel und Gaza: Schauplatz des israelischen Angriffs im Süden Beiruts"
+      "title": "Z+ (abopflichtiger Inhalt); Julian Reichelt : Er sagt: Wir sind eine Bewegung",
+      "teaser": "Den Machern der Plattform Nius wird vorgeworfen, sie verbreiteten rechte Hetze. Nachfragen beantwortet Chefredakteur Julian Reichelt nur zögerlich.",
+      "url": "https://www.zeit.de/2024/40/julian-reichelt-nius-nachrichten-bild-rechtspopulismus",
+      "image_url": "https://img.zeit.de/2024/40/julian-reichelt-nius-nachrichten-bild-rechtspopulismus-teaserbild-neu/wide__1000x562",
+      "image_title": "Julian Reichelt: Der ehemalige \"Bild\"-Chef Julian Reichelt auf der Onlineplattform Nius."
     },
     {
       "title": "Lage in der Ukraine : Eine Million Tote und Verletzte?",
@@ -117,6 +116,13 @@
       "url": "https://www.zeit.de/politik/ausland/2024-09/ukraine-lage-verluste-soldaten-demografie-russland-woche",
       "image_url": "https://img.zeit.de/politik/ausland/2024-09/ukraine-lage-verluste-soldaten-demografie-russland-woche-bild-1/super__430x286",
       "image_title": "Lage in der Ukraine: A person drives a car along a road while roadside burns after a Russian military strike outside the town of Pokrovsk, amid Russia's attack on Ukraine, in Donetsk region, Ukraine September 17, 2024. REUTERS/Anton Shynkarenko TPX IMAGES OF THE DAY"
+    },
+    {
+      "title": "Pager-Explosionen : \"Wir wollten diesen Krieg nicht, aber wir werden mit hineingezogen\"",
+      "teaser": "Plötzlich explodierten im ganzen Land Tausende Geräte, nun fliegt Israel Luftangriffe. Drei Libanesen erzählen von ihren Erlebnissen und Sorgen.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/pager-explosionen-libanon-israel-lage-nahostkrieg",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/pager-explosionen-libanon-israel-lage-nahostkrieg-bild1/super__430x286",
+      "image_title": "Pager-Explosionen: A Lebanese solider guards AUB Hospital as victims arrive after pager explosions in Beirut, Lebanon. September 17, 2024. Ali Khara"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Alte Männer in der Politik : Bis einer den Globus anzündet",
@@ -175,11 +181,9 @@
       "image_title": "Folge 3: März 2017: Germany's Chancellor Angela Merkel (L) gives U.S. President Donald Trump a look after he suggested they might have something in common, as he answered a question about his accusation that he had been wiretapped by former President Barack Obama, during their joint news conference in the East Room of the White House in Washington, U.S., March 17, 2017. REUTERS/Jonathan Ernst"
     },
     {
-      "title": "USA : In drei US-Bundesstaaten beginnt die vorzeitige Stimmabgabe",
-      "teaser": "Sechs Wochen vor der Präsidentschaftswahl haben erste US-Bürger ihre Stimmen abgegeben. Vor Wahllokalen in Minnesota, South Dakota und Virginia bildeten sich Schlangen.",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/usa-praesidentschaftswahlen-vorzeitige-stimmenabgabe",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/usa-praesidentschaftswahlen-vorzeitige-stimmenabgabe-virginia/super__430x286",
-      "image_title": "USA: Voters wanting to cast an early vote line up outside the Elena Bozeman Government Center for a polling station to open in Arlington, Virginia, on September 20, 2024. Early in-person voting for the 2024 US presidential election began in Virginia, South Dakota and Minnesota. (Photo by AFP) (Photo by -/AFP via Getty Images)"
+      "title": "USA : Secret Service gibt Fehler vor erstem Attentat auf Donald Trump zu",
+      "teaser": "Für sein Vorgehen bei dem ersten versuchten Attentat auf Donald Trump war der Secret Service heftig kritisiert worden. Nun räumt die Behörde Kommunikationspannen ein.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/secret-service-donald-trump-us-wahl-usa-attentat"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Psychische Gesundheit : Was beim Sport in Körper und Kopf passiert",
@@ -189,18 +193,11 @@
       "image_title": "Psychische Gesundheit: Was beim Sport in Körper und Kopf passiert"
     },
     {
-      "title": "Bundesligavorschau : Ein Abo weniger, ach wär das schön!",
-      "teaser": "Dazn fühlt sich bei der TV-Rechte-Vergabe betrogen – und droht mit einem Rückzug aus der Bundesliga. Und die deutschen Nationaltorhüter machen Sorgen. Der 4. Spieltag",
-      "url": "https://www.zeit.de/sport/2024-09/bundesliga-vorschau-dazn-rueckzug-tv-rechte",
-      "image_url": "https://img.zeit.de/sport/2024-09/bundesliga-vorschau-dazn-rueckzug-xabi-alonso-bild/super__430x286",
-      "image_title": "Bundesligavorschau: Xabi Alonso bei einem Dazn-Interview. Aber wie lange überträgt der Streamingdienst noch die Bundesliga?"
-    },
-    {
-      "title": "\"Tor des Monats\" : Früherer \"Sportschau\"-Moderator Klaus Schwarze ist tot",
+      "title": "Tor des Monats : Früherer \"Sportschau\"-Moderator Klaus Schwarze ist tot",
       "teaser": "Bis heute wird in der \"Sportschau\" die Medaille für das Tor des Monats vergeben – dank Klaus Schwarze. Im Alter von 83 Jahren ist der Fernsehmoderator gestorben.",
       "url": "https://www.zeit.de/sport/2024-09/sportschau-moderator-klaus-schwarze-gestorben",
       "image_url": "https://img.zeit.de/sport/2024-09/sportschau-moderator-klaus-schwarze-bild/super__430x286",
-      "image_title": "\"Tor des Monats\": HANDOUT - Klaus Schwarze, Sportjournalist und langjährige Leiter und Moderator der ARD-\"Sportschau\" (undatierte Aufnahme). Der frühere «Sportschau»-Moderator starb am 18.09.2024 im Alter von 83 Jahren, wie der WDR der Deutschen Presse-Agentur unter Berufung auf die Familie bestätigte. (nur s/w) +++ dpa-Bildfunk +++"
+      "image_title": "Tor des Monats: HANDOUT - Klaus Schwarze, Sportjournalist und langjährige Leiter und Moderator der ARD-\"Sportschau\" (undatierte Aufnahme). Der frühere «Sportschau»-Moderator starb am 18.09.2024 im Alter von 83 Jahren, wie der WDR der Deutschen Presse-Agentur unter Berufung auf die Familie bestätigte. (nur s/w) +++ dpa-Bildfunk +++"
     },
     {
       "title": "Ausgabe 38/2024 : Glücksrad. Willkommen im Wochenende.",
@@ -294,11 +291,11 @@
       "image_title": "Femizide: FRANCE. Clesse. Novembre 2022. Reportage documentant les lieux dans lesquels ont ete commis des feminicides (2019-2022). Realise a la chambre photographique. Jeudi 9 juin 2022, Emma, 13 ans, tuee de plusieurs dizaines de coups de couteau portes par son petit ami age de 14 ans. FRANCE. Clesse. November 2022. Documentary identifying and documenting places where femicides have been committed in France between 2019 and 2022. This project was shot with a photographic chamber in order to create landscapes and still life, witnessing these tragedies with dignity."
     },
     {
-      "title": "Unicredit : Bund stoppt Verkauf von Commerzbank-Aktien",
-      "teaser": "Eigentlich wollte der Bund langsam bei der Commerzbank aussteigen. Doch nach dem überraschenden Einstieg von Unicredit sollen vorerst keine Aktien mehr verkauft werden.",
+      "title": "UniCredit : Bund stoppt Verkauf von Commerzbank-Aktien",
+      "teaser": "Eigentlich wollte der Bund langsam bei der Commerzbank aussteigen. Doch nach dem überraschenden Einstieg von UniCredit sollen vorerst keine Aktien mehr verkauft werden.",
       "url": "https://www.zeit.de/wirtschaft/2024-09/commerbank-bund-akien-kein-verkauf-mehr-unicredit",
       "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-09/commerzbank-aktien-unicredit-bild/super__430x286",
-      "image_title": "Unicredit: The Unicredit Tower skyscraper, headquarter of Italys biggest bank UniCredit is pictured in the Porta Garibaldi - Porta Nuova district of northern Milan on April 2, 2023. (Photo by GABRIEL BOUYS / AFP) (Photo by GABRIEL BOUYS/AFP via Getty Images)"
+      "image_title": "UniCredit: The Unicredit Tower skyscraper, headquarter of Italys biggest bank UniCredit is pictured in the Porta Garibaldi - Porta Nuova district of northern Milan on April 2, 2023. (Photo by GABRIEL BOUYS / AFP) (Photo by GABRIEL BOUYS/AFP via Getty Images)"
     },
     {
       "title": "Sachsen : Geflüchteten-Ausstellung in Pirna wird nach Kritik in Kirche verlegt",
@@ -309,7 +306,7 @@
     },
     {
       "title": "Niederlande : Behörde vermutet nach Messerangriff in Rotterdam terroristisches Motiv",
-      "teaser": "Ein Angreifer hatte in Rotterdam einen Mann erstochen und einen weiteren schwer verletzt. Der mutmaßliche Täter soll mehrfach \"Allahu Akbar\" gerufen haben.",
+      "teaser": "Ein Angreifer hat in Rotterdam einen Mann erstochen und einen weiteren schwer verletzt. Der mutmaßliche Täter soll mehrfach \"Allahu Akbar\" gerufen haben.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/messerangriff-rotterdam-terrorismus-niederlande-staatsanwaltschaft",
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/messerangriff-rotterdam-bild/super__320x213",
       "image_title": "Niederlande: Auf diesem Bild, das aus einem von Media TV zur Verfügung gestellten Video stammt, sind Polizei und Rettungskräfte nach einem Messerangriff am Tatort im Einsatz. +++ dpa-Bildfunk +++"
@@ -327,6 +324,13 @@
       "url": "https://www.zeit.de/politik/ausland/2024-09/libanon-beirut-hisbollah-israel-angriff-ibrahim-akil",
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/beirut-israelischen-armee-angriff-bild/super__320x213",
       "image_title": "Libanon: People inspect the site of an Israeli strike in the southern suburbs of Beirut, Lebanon, September 20, 2024. REUTERS"
+    },
+    {
+      "title": "USA : In drei US-Bundesstaaten beginnt die vorzeitige Stimmabgabe",
+      "teaser": "Sechs Wochen vor der Präsidentschaftswahl haben erste US-Bürger ihre Stimmen abgegeben. Vor Wahllokalen in Minnesota, South Dakota und Virginia bildeten sich Schlangen.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/usa-praesidentschaftswahlen-vorzeitige-stimmenabgabe",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/usa-praesidentschaftswahlen-vorzeitige-stimmenabgabe-virginia/super__320x213",
+      "image_title": "USA: Voters wanting to cast an early vote line up outside the Elena Bozeman Government Center for a polling station to open in Arlington, Virginia, on September 20, 2024. Early in-person voting for the 2024 US presidential election began in Virginia, South Dakota and Minnesota. (Photo by AFP) (Photo by -/AFP via Getty Images)"
     },
     {
       "title": "Hochwasser : Scheitel der Oder nähert sich Brandenburg",
@@ -357,25 +361,11 @@
       "image_title": "Mecklenburg-Vorpommern: Zwei Autos werden am Eingang der PCK Raffinerie in Schwedt kontrolliert. In den Verhandlungen mit Polen über Öllieferungen an die PCK-Raffinerie in Schwedt gibt es noch keine Lösung. (zu dpa \"Schwedt: Noch keine Lösung für Öl via Polen für PCK-Raffinerie\") +++ dpa-Bildfunk +++"
     },
     {
-      "title": "Ukrainekrieg : Russland hatte womöglich Hinweise auf Vorstoß in Kursk-Region",
-      "teaser": "Dokumente aus Kursk legen nahe, dass die russische Militärführung bereits seit Januar mit einem ukrainischen Angriff rechnete. Laut Bericht wurden Maßnahmen angeordnet.",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/ukraine-krieg-kursk-vorstoss-russland-dokumente",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/ukraine-einmarsch-kursk-bild/super__320x213",
-      "image_title": "Ukrainekrieg: A Ukrainian serviceman repairs a military vehicle, amid Russia's attack on Ukraine, near the Russian border in Sumy region, Ukraine August 11, 2024. REUTERS/Viacheslav Ratynskyi"
-    },
-    {
       "title": "ZEIT Podcast-Tour : Feiern Sie mit uns das ZEIT Podcast-Tour Finale",
       "teaser": "Seien Sie live dabei, wenn die Hosts von \"Verbrechen\" und weiteren ZEIT-Podcasts das große Tour-Finale feiern. Wir freuen uns auf Ihren Besuch am 15. Dezember in Berlin.",
       "url": "https://www.zeit.de/gesellschaft/2024-08/zeit-podcast-tour-finale-live-berlin-was-jetzt-verbrechen-alles-gesagt",
       "image_url": "https://img.zeit.de/gesellschaft/2024-08/podcast-tour-finale-2024-titelbild-2/wide__892x501",
       "image_title": "ZEIT Podcast-Tour: Feiern Sie mit uns das ZEIT Podcast-Tour Finale"
-    },
-    {
-      "title": "Hamburg-Podcast \"Elbvertiefung\" : Eine Stadt, zwei Keller, 139 Leichen",
-      "teaser": "In Hamburg sind verstaubte Pappkartons mit menschlichen Schädeln zum Vorschein gekommen. Woher sind sie? Und was macht man nun damit?",
-      "url": "https://www.zeit.de/hamburg/2024-09/menschliche-ueberreste-umgang-hamburg-podcast-elbvertiefung",
-      "image_url": "https://img.zeit.de/podcasts/logos/elbvertiefung/super__430x286",
-      "image_title": "Hamburg-Podcast \"Elbvertiefung\": Logo für den Podcast 'Elbvertiefung'"
     },
     {
       "title": "\"WHITE\" – Folge 1 : Hat dieser Mann jemanden umgebracht?",
@@ -462,14 +452,14 @@
       "image_title": "Wohnorte in Deutschland: Wo soll ich wohnen?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Israels Geheimdienst : Erschreckend neu",
-      "teaser": "Gezielte Tötungen haben bei Israels Geheimdiensten Tradition. Die explodierten Pager im Libanon sind eine neue Dimension. Ethisch liegt das wahre Problem aber woanders.",
-      "url": "https://www.zeit.de/kultur/2024-09/israel-geheimdienst-libanon-explosionen-hisbollah"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Psychische Gesundheit : Was beim Sport in Körper und Kopf passiert",
       "teaser": "Jenseits von Kraft und Ausdauer hat Sport komplexe Wirkungen auf die Psyche: Er hilft bei Depressionen oder Angst und beugt auch vor. Wie Bewegung das Gehirn beeinflusst.",
       "url": "https://www.zeit.de/gesundheit/2024-09/psychische-gesundheit-gehirn-sport-bewegung-depressionen"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Israels Geheimdienst : Erschreckend neu",
+      "teaser": "Gezielte Tötungen haben bei Israels Geheimdiensten Tradition. Die explodierten Pager im Libanon sind eine neue Dimension. Ethisch liegt das wahre Problem aber woanders.",
+      "url": "https://www.zeit.de/kultur/2024-09/israel-geheimdienst-libanon-explosionen-hisbollah"
     },
     {
       "title": "Landtagswahl in Brandenburg : SPD schließt in Umfrage fast zur AfD auf",
@@ -723,25 +713,25 @@
       "image_title": "\"Was jetzt? – Die Woche\": Wie Kamala Harris gegen Donald Trump gewinnen will"
     },
     {
+      "title": "Liveblog:Krieg in Israel und Gaza : Israels Armee meldet Tod von hochrangigem Hisbollah-Kommandeur",
+      "teaser": "Israel hat in Beirut laut Militär Hisbollah-Kommandeur Ibrahim Akil getötet. Nach libanesischen Angaben starben insgesamt zwölf Menschen, 66 wurden verletzt. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/2023-12/news-israel-gaza-krieg-live",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/news-israel-gaza-krieg-live-angriff-beirut-bild/wide__892x501",
+      "image_title": "Krieg in Israel und Gaza: Schauplatz des israelischen Angriffs im Süden Beiruts"
+    },
+    {
       "title": "Nachrichtenpodcast : Habeck will VW fordern – und fördern",
       "teaser": "Beim Besuch eines Werks deutet der Wirtschaftsminister Unterstützung für VW an, stellt aber auch Forderungen an den Konzern. Und: Milliardenhilfen der EU für die Ukraine",
       "url": "https://www.zeit.de/politik/2024-09/autoindustrie-robert-habeck-elektromobilitaet-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__892x501",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__430x286",
       "image_title": "Nachrichtenpodcast: Habeck will VW fordern – und fördern"
     },
     {
-      "title": "AfD Brandenburg : Miniwaffen statt Lutscher",
-      "teaser": "Abschieben, Grenzkontrollen: Längst vertreten auch Ampel und CDU, was die AfD fordert. Im Wahlkampf in Brandenburg zeigt sich, dass das die AfD noch radikaler macht.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/landtagswahl-brandenburg-afd-radikalisierung-migration-ampel",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/landtagswahl-brandenburg-afd-radikalisierung-migration-ampel-bild/super__430x286",
-      "image_title": "AfD Brandenburg: Deutsche Flagge bei AFD Familienfest Karstädt am 7.9.2024"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Migrationsabkommen : Und noch eins, und noch eins, und was bringt's?",
-      "teaser": "Die Bundesregierung hat weitere Migrationsabkommen mit Kenia und Usbekistan unterzeichnet. Mehr Abschiebungen wird es deswegen kaum geben. Darum geht es aber auch nicht.",
-      "url": "https://www.zeit.de/politik/2024-09/migrationsabkommen-abschiebungen-arbeitsmigration-kenia-usbekistan",
-      "image_url": "https://img.zeit.de/politik/2024-09/migrationsabkommen-abschiebungen-arbeitsmigration-usbekistan/super__430x286",
-      "image_title": "Migrationsabkommen: Bundeskanzler Olaf Scholz (SPD), nimmt an der Unterzeichnung mehrerer Abkommen, darunter ein Migrationsabkommen teil. Scholz besucht mit Usbekistan und Kasachstan erstmals zwei der fünf ehemaligen Sowjetrepubliken Zentralasiens. Erste Station ist die mehr als 2500 Jahre alte usbekische Oasenstadt Samarkand an der Seidenstraße. +++ dpa-Bildfunk +++"
+      "title": "Ukrainekrieg : Russland hatte womöglich Hinweise auf Vorstoß in Kursk-Region",
+      "teaser": "Dokumente aus Kursk legen nahe, dass die russische Militärführung bereits seit Januar mit einem ukrainischen Angriff rechnete. Laut Bericht wurden Maßnahmen angeordnet.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/ukraine-krieg-kursk-vorstoss-russland-dokumente",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/ukraine-einmarsch-kursk-bild/super__430x286",
+      "image_title": "Ukrainekrieg: A Ukrainian serviceman repairs a military vehicle, amid Russia's attack on Ukraine, near the Russian border in Sumy region, Ukraine August 11, 2024. REUTERS/Viacheslav Ratynskyi"
     },
     {
       "title": "Verlagsangebot : Das Quiz über die US-Wahl: Wie heißt Harris mit Vornamen?",
@@ -749,6 +739,13 @@
       "url": "https://freundederzeit.typeform.com/uswahlquiz",
       "image_url": "https://img.zeit.de/zeit-verlag/zeit-sprachen/bilder-englisch-quiz/englisch-quiz-teaserbild-woche-4/super__430x286",
       "image_title": "Das Quiz über die US-Wahl: Wie heißt Harris mit Vornamen?"
+    },
+    {
+      "title": "Hamburg-Podcast \"Elbvertiefung\" : Eine Stadt, zwei Keller, 139 Leichen",
+      "teaser": "In Hamburg sind verstaubte Pappkartons mit menschlichen Schädeln zum Vorschein gekommen. Woher sind sie? Und was macht man nun damit?",
+      "url": "https://www.zeit.de/hamburg/2024-09/menschliche-ueberreste-umgang-hamburg-podcast-elbvertiefung",
+      "image_url": "https://img.zeit.de/podcasts/logos/elbvertiefung/super__320x213",
+      "image_title": "Hamburg-Podcast \"Elbvertiefung\": Logo für den Podcast 'Elbvertiefung'"
     },
     {
       "title": "Politikpodcast : Der Wettbewerb der Unbeliebten",
@@ -791,13 +788,6 @@
       "url": "https://www.zeit.de/wissen/2024-09/ricarda-winkelmann-anthropozaen-extremwetter-krisenpodcast",
       "image_url": "https://img.zeit.de/gesellschaft/2024-09/antarktis-gletscher-extremwetter-handelsketten-krisenpodcast-bild/super__320x213",
       "image_title": "Krisenpodcast \"Auch das noch\": HANDOUT - Kaiserpinguine auf dem Meereis in der Nähe der Halley Research Station auf dem Brunt-Schelfeis (Aufnahmedatum unbekannt). Kaiserpinguine leiden einer Analyse zufolge massiv unter dem Verschwinden von Meereis in der Antarktis. (zu dpa «Eisschwund hat katastrophale Folgen für aKaiserpinguine») +++ dpa-Bildfunk +++"
-    },
-    {
-      "title": "Wirtschaftspodcast \"Ist das eine Blase?\" : Und wieder schließt ein kleiner Laden",
-      "teaser": "Wann waren Sie zuletzt in einem Fachgeschäft und haben ein Buch gekauft? Oder eine Hose? Der Handel hat gerade zu kämpfen – nicht nur weil weniger Kunden kommen.",
-      "url": "https://www.zeit.de/wirtschaft/2024-09/wirtschaftspodcast-handel-konsumlaune-insolvenzen",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-09/wirtschaftspodcast-handel-konsumlaune-insolvenzen-1/super__320x213",
-      "image_title": "Wirtschaftspodcast \"Ist das eine Blase?\": Einkaufsstraße in Chemnitz kurz vor der Schließung des örtlichen Galeria-Kaufhauses"
     },
     {
       "title": "Bundespräsident : Jürgen Klopp und Alena Buyx erhalten Bundesverdienstorden",
@@ -1100,11 +1090,11 @@
       "image_title": "Studium: Studienanfänger Timo betrachtet am 18.09.2015 die Wohnungsanzeigen am Schwarzen Brett in der Mensa der Ludwig-Maximilians-Universität in München (Bayern)."
     },
     {
-      "title": "Verlagsangebot : Welcher Beruf passt zu mir?",
-      "teaser": "Was uns im Job von anderen unterscheidet, sind nicht nur unsere Fähigkeiten – erst die Persönlichkeit macht jeden einmalig. Der BOA Berufstest hilft, sie zu erkennen.",
-      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.teaser.boa-faeuste.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=boa-verlagsteaser&amp;utm_content=bot_teaser_boa-faeuste_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/boa-faeuste/wide__430x286__desktop",
-      "image_title": "Welcher Beruf passt zu mir?"
+      "title": "Verlagsangebot : Was kann man wo studieren?",
+      "teaser": "Deutschlands größte Suchmaschine für Studiengänge und Hochschulen bietet Orientierung und hilft bei der Studienwahl.",
+      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.automation.bleistift-biss.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=verlagsteaser&amp;utm_content=suma_automation_bleistift-biss_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/suma-teaser-januar2019/wide__430x286__desktop",
+      "image_title": "Was kann man wo studieren?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Ostdeutsche Unistädte : \"Wir überlassen Cottbus nicht den Rechtsextremen\"",
@@ -1170,50 +1160,50 @@
       "image_title": "Interview mit Landschaftsarchitektin: Baden in der Elbe"
     },
     {
+      "title": "Bundesligavorschau : Ein Abo weniger, ach wär das schön!",
+      "teaser": "Dazn fühlt sich bei der TV-Rechte-Vergabe betrogen – und droht mit einem Rückzug aus der Bundesliga. Und die deutschen Nationaltorhüter machen Sorgen. Der 4. Spieltag",
+      "url": "https://www.zeit.de/sport/2024-09/bundesliga-vorschau-dazn-rueckzug-tv-rechte",
+      "image_url": "https://img.zeit.de/sport/2024-09/bundesliga-vorschau-dazn-rueckzug-xabi-alonso-bild/wide__892x501",
+      "image_title": "Bundesligavorschau: Xabi Alonso bei einem Dazn-Interview. Aber wie lange überträgt der Streamingdienst noch die Bundesliga?"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Wout van Aert : Der Mann mit dem goldenen Vertrag",
       "teaser": "Der Belgier Wout van Aert gehört zu den ikonischsten Radprofis dieser Zeit. Nun hat er einen neuen Vertrag unterschrieben. Einen, wirklich, für die Ewigkeit.",
       "url": "https://www.zeit.de/sport/2024-09/wout-van-aert-vertrag",
-      "image_url": "https://img.zeit.de/sport/2024-09/wout-van-aert/wide__892x501",
+      "image_url": "https://img.zeit.de/sport/2024-09/wout-van-aert/super__430x286",
       "image_title": "Wout van Aert: Der Mann mit dem goldenen Vertrag"
     },
     {
-      "title": "Champions League : Leverkusen siegt gegen Rotterdam, Leipzig verliert knapp in Madrid",
-      "teaser": "Beim Auftaktspiel in der Champions League überzeugt Leverkusen gegen den niederländischen Vizemeister. Madrid sichert sich gegen Leipzig einen Sieg. Die Spielberichte",
-      "url": "https://www.zeit.de/sport/2024-09/champions-league-bayer-leverkusen-feyenoord-rotterdam",
-      "image_url": "https://img.zeit.de/sport/2024-09/champions-league-feyenoord-bayer-leverkusen-bild/super__430x286",
-      "image_title": "Champions League: Champions League - Feyenoord v Bayer Leverkusen - Feyenoord Stadium, Rotterdam, Netherlands - September 19, 2024 Bayer Leverkusen's Edmond Tapsoba celebrates scoring their fourth goal with Jonathan Tah and Granit Xhaka"
+      "title": "Dahlem-Dorf: Unfall an U-Bahnhof - schwer verletzte Person",
+      "url": "https://www.zeit.de/news/2024-09/20/unfall-an-u-bahnhof-schwer-verletzte-person"
     },
     {
-      "title": "2. Fußball-Bundesliga: Stromausfall: Schalker Tor bei Sky nicht zu sehen",
-      "url": "https://www.zeit.de/news/2024-09/20/stromausfall-schalker-tor-bei-sky-nicht-zu-sehen"
+      "title": "Fußball-Bundesliga der Frauen: Leipzigs Fußballerinnen gewinnen gegen Bremen",
+      "url": "https://www.zeit.de/news/2024-09/20/leipzigs-fussballerinnen-gewinnen-gegen-bremen"
     },
     {
-      "title": "Fund bei Aufräumarbeiten: Experten bergen explosionsfähigen Stoff aus unbewohntem Haus",
-      "url": "https://www.zeit.de/news/2024-09/20/experten-bergen-explosionsfaehigen-stoff-aus-unbewohntem-haus"
+      "title": "2. Bundesliga: Schalke verliert nach 3:0-Führung noch gegen Darmstadt",
+      "url": "https://www.zeit.de/news/2024-09/20/schalke-verliert-nach-3-0-fuehrung-noch-gegen-darmstadt"
     },
     {
-      "title": "Landtagswahl: Linke mobilisiert für den Sprung über die Fünf-Prozent-Hürde",
-      "url": "https://www.zeit.de/news/2024-09/20/linke-mobilisiert-fuer-den-sprung-ueber-die-fuenf-prozent-huerde"
+      "title": "2. Bundesliga: SC Paderborn bleibt in 2. Liga ungeschlagen",
+      "url": "https://www.zeit.de/news/2024-09/20/sc-paderborn-bleibt-in-2-liga-ungeschlagen"
     },
     {
-      "title": "Rettungsaktion: Mann in Baugrube verschüttet - Mit Schaufeln befreit",
-      "url": "https://www.zeit.de/news/2024-09/20/mann-in-baugrube-verschuettet-mit-schaufeln-befreit"
+      "title": "US-Wahlkampf: Secret Service legt konkrete Fehler bei Trump-Attentat offen",
+      "url": "https://www.zeit.de/news/2024-09/20/secret-service-legt-konkrete-fehler-bei-trump-attentat-offen"
     },
     {
-      "title": "2. Fußball-Bundesliga: Hertha BSC verlängert bis 2028 mit Marton Dardai",
-      "url": "https://www.zeit.de/news/2024-09/20/hertha-bsc-verlaengert-bis-2028-mit-marton-dardai"
+      "title": "Widerstandslos festgenommen: Polizei rückt zu Nachbarschaftsstreit aus - Festnahme",
+      "url": "https://www.zeit.de/news/2024-09/20/polizei-rueckt-zu-nachbarschaftsstreit-aus-festnahme"
     },
     {
-      "title": "2. Bundesliga: Schalkes Abwehrspieler Gantenbein fällt vorerst aus",
-      "url": "https://www.zeit.de/news/2024-09/20/schalkes-abwehrspieler-gantenbein-faellt-vorerst-aus"
+      "title": "Deutsche Eishockey Liga: Red Bull München mit zwei Ausfällen am ersten DEL-Wochenende",
+      "url": "https://www.zeit.de/news/2024-09/20/red-bull-muenchen-mit-zwei-ausfaellen-am-ersten-del-wochenende"
     },
     {
-      "title": "«Globaler Klimastreik»: Rheinland-Pfalz und Saarland: Kundgebungen für Klimaschutz",
-      "url": "https://www.zeit.de/news/2024-09/20/rheinland-pfalz-und-saarland-kundgebungen-fuer-klimaschutz"
-    },
-    {
-      "title": "Landtagswahl: Baerbock: Landtagswahl wird auch im Ausland genau beobachtet",
-      "url": "https://www.zeit.de/news/2024-09/20/baerbock-landtagswahl-wird-auch-im-ausland-genau-beobachtet"
+      "title": "Frachter «Ruby»: Behörden beobachten Schiff mit wohl explosiver Ladung",
+      "url": "https://www.zeit.de/news/2024-09/20/behoerden-beobachten-schiff-mit-wohl-explosiver-ladung"
     }
   ]
 }
