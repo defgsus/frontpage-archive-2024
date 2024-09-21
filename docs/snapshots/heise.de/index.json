@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-21T06:08:37",
+  "timestamp": "2024-09-21T07:00:52",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -147,6 +147,23 @@
       "image_title": "Montage: Bob Borchers vor dem Chipdesign-Zentrum in München"
     },
     {
+      "title": "Viele Open-Source-Maintainer schmeißen hin – steigender Druck auf Projekte",
+      "teaser": "In Open-Source-Projekten steigt der Unmut. Mangelnde Vergütung bei wachsenden Anforderungen an Features, Dokumentation und Sicherheit belastet Maintainer.",
+      "url": "https://www.heise.de/news/Viele-Open-Source-Maintainer-schmeissen-hin-steigender-Druck-auf-Projekte-9904636.html",
+      "image_title": "Programmierer vor Laptop, mit Klischee-Mate"
+    },
+    {
+      "title": "GitLab 17.4 macht Codevorschläge stärker vom Kontext abhängig",
+      "teaser": "Das monatliche Update für GitLab bringt neue Features für das KI-Tool GitLab Duo, das Security Testing und den Umgang mit Erweiterungen.",
+      "url": "https://www.heise.de/news/GitLab-17-4-macht-Codevorschlaege-staerker-vom-Kontext-abhaengig-9938351.html"
+    },
+    {
+      "title": "GitOps geht auch ohne Kubernetes – alternative Betriebsumgebungen",
+      "teaser": "Im GitOps-Universum ist Kubernetes erfolgreicher Standard: Eine Betriebsumgebung lässt sich jedoch auch transparenter und zuverlässiger konfigurieren.",
+      "url": "https://www.heise.de/hintergrund/GitOps-geht-auch-ohne-Kubernetes-alternative-Betriebsumgebungen-9865864.html",
+      "image_title": "Steuerrad vor Wolken"
+    },
+    {
       "title": "Endlich legale ROMs: Alte Spielmodule selbst digitalisieren",
       "teaser": "Module von Game Boy, SNES und Mega Drive lassen bequem am eigenen PC sichern. Wir zeigen, wie das mit GB Operator und Retrode2 geht.",
       "url": "https://www.heise.de/ratgeber/Endlich-legale-ROMs-Alte-Spielmodule-selbst-digitalisieren-9826204.html"
@@ -175,23 +192,6 @@
       "image_title": "Ein Elektroauto von Volkswagten wird per Stromkabel geladen."
     },
     {
-      "title": "TechStages Top 7: Die besten Adapter für Android Auto Wireless im Test",
-      "teaser": "Wer das Smartphone ohne Kabel mit dem Auto verbinden will, benötigt einen Adapter. TechStage zeigt Lösungen für Android Auto Wireless.",
-      "url": "https://www.techstage.de/bestenliste/top-7-die-besten-adapter-fuer-android-auto-wireless-im-test/2n255r7?wt_mc=intern.red.techstage.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Personalengpässe: Jobcenter setzen bereits vielfach auf KI",
-      "teaser": "Als Reaktion auf den demografischen Wandel hält die Regierung den Einsatz von KI zur Entlastung der Mitarbeiter in den Jobcentern für einen wesentlichen Hebel.",
-      "url": "https://www.heise.de/news/Personalengpaesse-Jobcenter-setzen-bereits-vielfach-auf-KI-9939288.html",
-      "image_title": "Eine Flagge mit dem Logo der Agentur für Arbeit weht vor einem Bürogebäude."
-    },
-    {
-      "title": "Windows-Notebooks mit starken NPUs im Vergleich",
-      "teaser": "Das Angebot an Windows-Notebooks mit ARM-Prozessor Snapdragon X wächst weiter. Mit AMDs Ryzen AI 300 steht inzwischen aber auch eine erste x86-CPU parat.",
-      "url": "https://www.heise.de/ratgeber/Windows-Notebooks-mit-starken-NPUs-im-Vergleich-9842949.html",
-      "image_title": "KI, Collage c't"
-    },
-    {
       "title": "Virtual RealityPornos auf der VR-Brille: Apple Vision Pro & Meta Quest 3",
       "teaser": "Sind VR-Pornos dank hochauflösender Brillen so lebensecht, dass sie gefährlich für zwischenmenschliche Beziehungen sind?",
       "url": "https://www.heise.de/ratgeber/Pornos-auf-der-VR-Brille-Apple-Vision-Pro-und-Meta-Quest-3-9854758.html"
@@ -217,6 +217,23 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 Euro sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "TechStages Top 7: Die besten Adapter für Android Auto Wireless im Test",
+      "teaser": "Wer das Smartphone ohne Kabel mit dem Auto verbinden will, benötigt einen Adapter. TechStage zeigt Lösungen für Android Auto Wireless.",
+      "url": "https://www.techstage.de/bestenliste/top-7-die-besten-adapter-fuer-android-auto-wireless-im-test/2n255r7?wt_mc=intern.red.techstage.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Personalengpässe: Jobcenter setzen bereits vielfach auf KI",
+      "teaser": "Als Reaktion auf den demografischen Wandel hält die Regierung den Einsatz von KI zur Entlastung der Mitarbeiter in den Jobcentern für einen wesentlichen Hebel.",
+      "url": "https://www.heise.de/news/Personalengpaesse-Jobcenter-setzen-bereits-vielfach-auf-KI-9939288.html",
+      "image_title": "Eine Flagge mit dem Logo der Agentur für Arbeit weht vor einem Bürogebäude."
+    },
+    {
+      "title": "Windows-Notebooks mit starken NPUs im Vergleich",
+      "teaser": "Das Angebot an Windows-Notebooks mit ARM-Prozessor Snapdragon X wächst weiter. Mit AMDs Ryzen AI 300 steht inzwischen aber auch eine erste x86-CPU parat.",
+      "url": "https://www.heise.de/ratgeber/Windows-Notebooks-mit-starken-NPUs-im-Vergleich-9842949.html",
+      "image_title": "KI, Collage c't"
     },
     {
       "title": "Atomstrom für KI-Rechenzentren: Microsoft lässt Three Mile Island reaktivieren",
@@ -277,6 +294,11 @@
       "image_title": "Schwer bewaffnete Kriminelle stehen um Server, die zeigen Verschlüsselungssymbole. Menschen sitzen mt Laptops drum herum."
     },
     {
+      "title": "Öffentliches oder privates Peering – die Vorteile von direktem Datenaustausch",
+      "teaser": "Damit das Internet funktioniert, tauschen Carrier, ISPs und Netzbetreiber Daten aus („Peering“). In der Regel ohne gegenseitige Bezahlung. In einem Webcast erklären wir, welche weiteren Vorteile Unternehmen von einem direkten Datenaustausch haben und wie sich öffentliches und privates Peering unterscheiden.",
+      "url": "https://business-services.heise.de/netze/lan-wan/beitrag/cloud-ki-oder-iot-warum-peering-und-private-verbindungen-entscheidend-fuer-den-unternehmenserfolg-sind-4812/?source=hbsad-ersatz"
+    },
+    {
       "title": "Neu in .NET 8.0 [39]: SDK-Workloads verwalten​",
       "teaser": ".NET 8.0 führt einen neuen Befehl ein, um .NET-SDK-Workloads zu entfernen.​",
       "url": "https://www.heise.de/blog/Neu-in-NET-8-0-39-SDK-Workloads-verwalten-9938449.html"
@@ -291,11 +313,6 @@
       "teaser": "Mit modernen Verfahren und einem schnellen Computer hat ein Kryptologe einen Brief entschlüsselt und liefert der Geschichtsforschung eine neue Quelle.",
       "url": "https://www.heise.de/hintergrund/Historische-Kryptografie-Ein-Brief-aus-der-Jakobiten-Rebellion-entschluesselt-9866668.html",
       "image_title": ", Albert Hulm"
-    },
-    {
-      "title": "MFA für alle Benutzer einrichten und einführen",
-      "teaser": "Gegen Phishing über Geschäfts-E-Mails kann eine Multi-Faktor-Authentifizierung (MFA) helfen. Aber wie gestaltet sich die Umsetzung, MFA für alle Nutzer einzuführen? Antworten darauf liefert ein Webcast.",
-      "url": "https://business-services.heise.de/security/authentifizierung-zugangssysteme/beitrag/mfa-fuer-alle-benutzer-was-sie-beim-einrichten-einer-mehrstufigen-authentifizierung-beachten-sollten-4799/?source=hbsad-ersatz"
     },
     {
       "title": "Europas Halbleiterziel: Von unrealistisch zu fast unmöglich",
@@ -337,24 +354,6 @@
       "teaser": "Der erste ernstzunehmende alternative App-Marktplatz landet auf dem iPhone: Der Abodienst Setapp darf nun breit getestet werden.",
       "url": "https://www.heise.de/news/Alternativer-App-Laden-Setapp-fuer-alle-in-der-EU-9882465.html",
       "image_title": "Setapp​ auf dem iPhone"
-    },
-    {
-      "title": "Vierte Titanvariante: Apple Watch Hermès bekommt Sonderfarbe",
-      "teaser": "Gut versteckt, aber ab Freitag lieferbar: Apple verkauft die Apple Watch Series 10 auch in einer Sonderfarbe. Dafür wird aber auch ein Sonderpreis fällig.",
-      "url": "https://www.heise.de/news/Sonderfarbe-fuer-Apple-Watch-Hermes-Titan-in-poliertem-Silber-9875810.html",
-      "image_title": "Apple Watch Series 10 Hermès"
-    },
-    {
-      "title": "Mercedes-Benz gibt wegen China unerwartet kräftige Gewinnwarnung aus",
-      "teaser": "Nach jahrelang gutem Geschäft kappt Mercedes-Benz seine Gewinnprognose wegen lahmender Verkäufe in China. Gerade die teuren Autos verkaufen sich schlecht.",
-      "url": "https://www.heise.de/news/Mercedes-Benz-gibt-wegen-China-unerwartet-kraeftige-Gewinnwarnung-aus-9934437.html",
-      "image_title": "Mercedes Beijing"
-    },
-    {
-      "title": "AMD & Intel: Gerüchte um erneute Prozessor-Neuauflagen",
-      "teaser": "Sowohl AMD als auch Intel sollen Prozessor-Neuauflagen planen. Interessenten würde alte Technik als aktuell vorgegaukelt.",
-      "url": "https://www.heise.de/news/AMD-Intel-Geruechte-um-erneute-Prozessor-Neuauflagen-9935007.html",
-      "image_title": "Diverse aufgeklappte Notebooks übereinander"
     },
     {
       "title": "Plus von 50 Prozent: Ladetrick verbessert Gesamtlaufzeit von Batterien",
@@ -460,14 +459,14 @@
       "image_title": "Start eines Starships"
     },
     {
+      "title": "Mercedes-Benz gibt wegen China unerwartet kräftige Gewinnwarnung aus",
+      "url": "https://www.heise.de/news/Mercedes-Benz-gibt-wegen-China-unerwartet-kraeftige-Gewinnwarnung-aus-9934437.html",
+      "image_title": "Mercedes Beijing"
+    },
+    {
       "title": "Apple Card: Gerüchte über neuen Bankpartner",
       "url": "https://www.heise.de/news/Apple-Card-Geruechte-ueber-neuen-Bankpartner-9883190.html",
       "image_title": "Einsatz einer Apple Card im Handel"
-    },
-    {
-      "title": "EuGH-Urteil zu Booking.com: Hotels dürfen günstiger sein",
-      "url": "https://www.heise.de/news/EuGH-Urteil-zu-Booking-com-Hotelbetriebe-duerfen-guenstigere-Preise-anbieten-9904782.html",
-      "image_title": "Booking.com"
     },
     {
       "title": "Sammelklage: Amazon führt Kunden mit aufgeblasenen Listenpreisen in die Irre",
@@ -566,6 +565,12 @@
       "url": "https://www.heise.de/en/news/After-20-years-of-painstaking-work-Linux-kernel-now-real-time-capable-9935651.html"
     },
     {
+      "title": "Synology-NAS: Handgemachte DMZ schottet virtuelle Maschinen ab",
+      "teaser": "Netzwerkspeicher von Synology enthalten keine DMZ-Funktion. Hier finden Sie die Netzwerktricks zum Nachrüsten, damit das Netzwerk bei Angriffen geschützt ist.",
+      "url": "https://www.heise.de/ratgeber/Synology-NAS-Handgemachte-DMZ-schottet-virtuelle-Maschinen-ab-9860114.html",
+      "image_title": ", KI, Collage c’t"
+    },
+    {
       "title": "Notizen und Wissen organisieren in Obsidian: Fortgeschrittene Funktionen",
       "teaser": "Wir zeigen Ihnen, wie Sie mit Tabs und Vorlagen Ihre Arbeitsumgebung optimieren, Notizen mit Metadaten organisieren und zwischen Ihren Geräten synchronisieren.",
       "url": "https://www.heise.de/ratgeber/Notizen-und-Wissen-organisieren-in-Obsidian-Fortgeschrittene-Funktionen-9869892.html",
@@ -584,9 +589,9 @@
       "image_title": ","
     },
     {
-      "title": "16 TippsDie Neuerungen von macOS 15 Sequoia",
-      "teaser": "Neues Fenstermanagement, Kontextmenü per Taste, systemweite Hintergründe für Videocalls, Video-Vorschau in Safari & mehr: So nutzen Sie die neuen Mac-Features.",
-      "url": "https://www.heise.de/ratgeber/macOS-15-Sequoia-16-Tipps-zu-allen-Neuerungen-9881604.html",
+      "title": "Sicher verkaufen So werden Sie Ihr altes iPhone am besten los",
+      "teaser": "Das neue Apple-Handy liegt endlich bereit, doch was macht man mit dem alten? Tipps, wie sie es gut verkaufen.",
+      "url": "https://www.heise.de/ratgeber/Sicher-verkaufen-So-werden-Sie-Ihr-altes-iPhone-am-besten-los-9566374.html",
       "image_title": ","
     },
     {
@@ -701,14 +706,15 @@
       "url": "https://www.techstage.de/bestenliste/top-10-die-besten-balkonkraftwerke-von-extrem-leicht-bis-besonders-stark/ywhkvwx?wt_mc=intern.red.techstage.techstage_buehne.startseite.buehne.buehne#nav-ring-6"
     },
     {
-      "title": "Wie der Verfassungsschutz in die Meinungsfreiheit eingreift",
-      "teaser": "Der deutsche Inlandsgeheimdienst wird zunehmend zum politischen Akteur. Macht sich Behördenchef Haldenwang einer strafbaren Nötigung im Amt schuldig? Und was hat das mit Orwells \"1984\" zu tun?",
-      "url": "https://www.heise.de/tp/features/Wie-der-Verfassungsschutz-in-die-Meinungsfreiheit-eingreift-9206508.html"
+      "title": "China beschränkt Export wichtiger Mineralien: Europas grüner Wandel bedroht",
+      "teaser": "Der Umgang zwischen EU und China wird zunehmend unfreundlich. Die Entscheidung Beijings hat ein Vorspiel in Europa. Das sind die Hintergründe.",
+      "url": "https://www.heise.de/tp/features/China-beschraenkt-Export-wichtiger-Mineralien-Europas-gruener-Wandel-bedroht-9206885.html",
+      "image_title": "China schränkt Export von Mineralien für grüne Technologien ein."
     },
     {
-      "title": "Ukraine-Krieg, Nato und Russland: Perverses Spiel mit der nuklearen Gefahr",
-      "teaser": "Die Zeichen stehen auf Eskalation. Die größte Bedrohung wird im Westen leichtfertig abgetan. Wie dramatisch die Zuspitzung ist, zeigt ein Abgleich der Debatte mit der Lage Ende 2018.",
-      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Nato-und-Russland-Perverses-Spiel-mit-der-nuklearen-Gefahr-9208766.html"
+      "title": "Elterngeld, Gesundheit und Pflege: Wo gestrichen wird und wo nicht",
+      "teaser": "Die geplante Elterngeld-Streichung für Besserverdienende erhitzt die Gemüter. Über andere Haushaltsposten wird weniger gesprochen.",
+      "url": "https://www.heise.de/tp/features/Elterngeld-Gesundheit-und-Pflege-Wo-gestrichen-wird-und-wo-nicht-9208202.html"
     },
     {
       "title": "Wird der Nato-Gipfel einen unendlichen Krieg in Europa eröffnen?",
