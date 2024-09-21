@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-21T13:11:07",
+  "timestamp": "2024-09-21T14:00:43",
   "url": "https://www.welt.de",
   "response": {
     "status": 200
@@ -26,12 +26,16 @@
   ],
   "articles": [
     {
-      "title": "„Ich bin in großer Sorge um alles, was unsere Eltern erarbeitet haben“",
+      "title": "„Ich bin in großer Sorge um unser Land und um alles, was unsere Eltern erarbeitet haben“",
       "teaser": "Jochen Schweizer war erst Extremsportler und Stuntman, dann erfolgreicher Unternehmer. Heute blickt er mit Sorge auf Deutschland. Ideologie stehe für manche Politiker über dem Wohl des Landes. Er erklärt, warum er dennoch zuversichtlich bleibt – und was jeder einzelne tun sollte.",
       "url": "https://www.welt.de/wirtschaft/plus253604912/Jochen-Schweizer-Bin-in-grosser-Sorge-um-alles-was-unsere-Eltern-erarbeitet-haben.html",
       "image_url": "https://img.welt.de/img/wirtschaft/mobile253613414/8207939517-ci16x9-w20/SchweizerBILD.jpg",
       "image_title": "Jochen Schweizer",
       "author": "Dennis Sand"
+    },
+    {
+      "title": "Interne Mail belastet Grünen-Minister Habeck bei Atomausstieg",
+      "url": "https://www.welt.de/politik/deutschland/article253633242/Affaere-im-Wirtschaftsministerium-Interne-Mail-belastet-Gruenen-Minister-Habeck-bei-Atomausstieg.html"
     },
     {
       "title": "FDP kritisiert Habecks geplanten Autogipfel",
@@ -42,12 +46,8 @@
       "url": "https://www.welt.de/politik/deutschland/article253628822/Hannover-Flaschen-und-Steinwuerfe-21-Polizisten-bei-Demo-gegen-AfD-Veranstaltung-mit-Krah-verletzt.html"
     },
     {
-      "title": "Libanons Außenminister droht mit „großer Explosion“ und „dunklem Zeitalter“",
-      "url": "https://www.welt.de/politik/ausland/article253628760/Israel-Libanons-Aussenminister-droht-mit-grosser-Explosion-und-dunklem-Zeitalter.html"
-    },
-    {
-      "title": "Polizei fasst Schleuser mit sieben Syrern im Auto, drei davon kauern im Kofferraum",
-      "url": "https://www.welt.de/politik/deutschland/article253628840/Illegale-Migration-Polizei-fasst-Schleuser-mit-sieben-Syrern-im-Auto-drei-davon-kauern-im-Kofferraum.html"
+      "title": "Israel meldet weitere Angriffe auf Hisbollah-Ziele im Libanon",
+      "url": "https://www.welt.de/politik/ausland/article253628760/Israel-meldet-weitere-Angriffe-auf-Hisbollah-Ziele-im-Libanon.html"
     },
     {
       "title": "Schüsse auf Bus und Passantin in Berlin-Spandau",
@@ -168,6 +168,12 @@
       "author": "Michel Bernier"
     },
     {
+      "title": "Derby-Wahnsinn in Düsseldorf – Spektakel-Tor rettet Fortuna in letzter Sekunde",
+      "url": "https://www.welt.de/sport/fussball/2-bundesliga/video253567902/Fortuna-Duesseldorf-1-FC-Koeln-Die-Highlights-im-Video-2-Liga.html",
+      "image_url": "https://img.welt.de/img/bildergalerien/mobile253633360/1547939277-ci23x11-w20/Fortuna-Duesseldorf-1-FC-Koeln.jpg",
+      "image_title": "Fortuna Düsseldorf - 1. FC Köln"
+    },
+    {
       "title": "Braunschweigs Befreiungsschlag – Dieser Doppelpack lässt die Eintracht aufatmen",
       "url": "https://www.welt.de/sport/fussball/2-bundesliga/video253567934/Eintracht-Braunschweig-SpVgg-Fuerth-Die-Highlights-im-Video-2-Liga.html",
       "image_url": "https://img.welt.de/img/sport/fussball/2-bundesliga/mobile253633244/7067930087-ci23x11-w20/Eintracht-Braunschweig-SpVgg-Greuther-Fuerth.jpg",
@@ -178,12 +184,6 @@
       "url": "https://www.welt.de/sport/fussball/2-bundesliga/video253567922/1-FC-Nuernberg-Hertha-BSC-Die-Highlights-im-Video-2-Liga.html",
       "image_url": "https://img.welt.de/img/bildergalerien/mobile253633156/8977930757-ci23x11-w20/1-FC-Nuernberg-Hertha-BSC.jpg",
       "image_title": "1. FC Nürnberg - Hertha BSC"
-    },
-    {
-      "title": "Derby-Wahnsinn in Düsseldorf – Spektakel-Tor rettet Fortuna in letzter Sekunde",
-      "url": "https://www.welt.de/sport/fussball/2-bundesliga/video253567902/Fortuna-Duesseldorf-1-FC-Koeln-Die-Highlights-im-Video-2-Liga.html",
-      "image_url": "https://img.welt.de/img/sport/fussball/2-bundesliga/mobile253633150/5987933457-ci23x11-w20/Fortuna-Duesseldorf-v-1-FC-Koeln-Second-Bundesliga.jpg",
-      "image_title": "Fortuna Düsseldorf v 1. FC Köln - Second Bundesliga"
     },
     {
       "title": "Auf Schalke gehen die Lichter aus – Zwei Stromausfälle und eine sensationelle Aufholjagd",
@@ -658,11 +658,11 @@
       "image_title": "474115129"
     },
     {
-      "title": "Überlegene Kölner führen erneut in Düsseldorf",
-      "teaser": "In der 2. Liga stehen am Samstag drei Spiele an. Tabellenführer Fortuna Düsseldorf empfängt im Derby den 1. FC Köln, der 1. FC Nürnberg und Hertha BSC kämpfen im direkten Duell um den Anschluss nach oben. Die Konferenz hier im Liveticker.",
+      "title": "Kurz vor Ende schießt Düsseldorf ein Wahnsinns-Tor gegen Köln",
+      "teaser": "In der 2. Liga sichert sich Tabellenführer Fortuna Düsseldorf gegen den 1. FC Köln einen späten Punkt. Verdient ist das nicht, zumal der Ausgleich so nicht mal gewollt war. In Nürnberg gerät Trainer Klose mit einer Niederlage gegen Hertha zunehmend in die Krise.",
       "url": "https://www.welt.de/sport/fussball/",
-      "image_url": "https://img.welt.de/img/sport/fussball/mobile253632660/7807936347-ci23x11-w20/Fortuna-Duesseldorf-v-1-FC-Koeln-Second-Bundesliga.jpg",
-      "image_title": "Fortuna Düsseldorf v 1. FC Köln - Second Bundesliga",
+      "image_url": "https://img.welt.de/img/sport/fussball/mobile253633356/4387932657-ci23x11-w20/Fortuna-Duesseldorf-1-FC-Koeln.jpg",
+      "image_title": "Fortuna Düsseldorf - 1. FC Köln",
       "author": "Sven Flohr"
     },
     {
@@ -758,11 +758,99 @@
       "author": "49 Min"
     },
     {
+      "title": "Wehen Wiesbaden mit erster Niederlage - 1:3 gegen Sandhausen",
+      "url": "https://www.welt.de/regionales/hessen/article253633770/Wehen-Wiesbaden-mit-erster-Niederlage-1-3-gegen-Sandhausen.html"
+    },
+    {
+      "title": "Ministerpräsident Rhein empfängt hessische «Majestäten»",
+      "url": "https://www.welt.de/regionales/hessen/article253633774/Ministerpraesident-Rhein-empfaengt-hessische-Majestaeten.html"
+    },
+    {
+      "title": "Großübung in Hannover - Polizei simuliert Terroranschlag",
+      "url": "https://www.welt.de/regionales/niedersachsen/article253633746/Grossuebung-in-Hannover-Polizei-simuliert-Terroranschlag.html"
+    },
+    {
+      "title": "Interne Mail belastet Grünen-Minister Habeck bei Atomausstieg",
+      "url": "https://www.welt.de/politik/deutschland/article253633242/Affaere-im-Wirtschaftsministerium-Interne-Mail-belastet-Gruenen-Minister-Habeck-bei-Atomausstieg.html"
+    },
+    {
+      "title": "Historisches Motorrad von 1941 gestohlen",
+      "url": "https://www.welt.de/regionales/thueringen/article253633662/Historisches-Motorrad-von-1941-gestohlen.html"
+    },
+    {
+      "title": "FSV 63 Luckenwalde - Greifswalder FC",
+      "url": "https://www.welt.de/sport/fussball/regionalliga/regionalliga-nordost/article253572952/FSV-63-Luckenwalde-Greifswalder-FC-Greifswald-patzt-gegen-Luckenwalde-Regionalliga-Nordost.html"
+    },
+    {
+      "title": "Chemnitzer FC - FC Hertha 03 Zehlendorf",
+      "url": "https://www.welt.de/sport/fussball/regionalliga/regionalliga-nordost/article253572942/Chemnitzer-FC-FC-Hertha-03-Zehlendorf-Kein-Sieger-zwischen-Chemnitz-und-Hertha-03-Regionalliga-Nordost.html"
+    },
+    {
+      "title": "Phillips versteigert Industriegedichte von Marcel Broodthaers",
+      "url": "https://www.welt.de/kultur/article253546454/Aus-bedeutender-Sammlung-Phillips-versteigert-Industriegedichte-von-Marcel-Broodthaers.html"
+    },
+    {
+      "title": "Bayern ohne Manuel Neuer in Bremen",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/sport_nt/article253633618/Bayern-ohne-Manuel-Neuer-in-Bremen.html"
+    },
+    {
+      "title": "Hochwassergefahr steigt - Woidke bei Anwohnern in Oder-Stadt",
+      "url": "https://www.welt.de/regionales/berlin/article253633600/Hochwassergefahr-steigt-Woidke-bei-Anwohnern-in-Oder-Stadt.html"
+    },
+    {
+      "title": "24-Jährige aus den USA erstes «Bieropfer»",
+      "url": "https://www.welt.de/regionales/bayern/article253633594/24-Jaehrige-aus-den-USA-erstes-Bieropfer.html"
+    },
+    {
+      "title": "Autofahrer verwechselt Nebel mit Rauch und ruft Feuerwehr",
+      "url": "https://www.welt.de/regionales/hamburg/article253633582/Autofahrer-verwechselt-Nebel-mit-Rauch-und-ruft-Feuerwehr.html"
+    },
+    {
+      "title": "Autofahrer stößt mit Polizeiauto zusammen und flüchtet",
+      "url": "https://www.welt.de/regionales/berlin/article253633496/Autofahrer-stoesst-mit-Polizeiauto-zusammen-und-fluechtet.html"
+    },
+    {
+      "title": "TV-Star Diana Körner verzichtet beim Wiesn-Besuch auf Tracht",
+      "url": "https://www.welt.de/regionales/bayern/article253633486/TV-Star-Diana-Koerner-verzichtet-beim-Wiesn-Besuch-auf-Tracht.html"
+    },
+    {
+      "title": "Anzapf-Trainer Huber coacht Rathauschefs seit über 40 Jahren",
+      "url": "https://www.welt.de/newsticker/dpa_nt/afxline/topthemen/article253633396/Anzapf-Trainer-Huber-coacht-Rathauschefs-seit-ueber-40-Jahren.html"
+    },
+    {
+      "title": "Aiwanger wirbt für schwimmende Photovoltaik",
+      "url": "https://www.welt.de/regionales/bayern/article253633382/Aiwanger-wirbt-fuer-schwimmende-Photovoltaik.html"
+    },
+    {
+      "title": "Eintracht Braunschweig - SpVgg Greuther Fürth",
+      "url": "https://www.welt.de/sport/fussball/2-bundesliga/article253572956/Eintracht-Braunschweig-SpVgg-Greuther-Fuerth-Doppelpack-von-Philippe-ebnet-den-Weg-2-Bundesliga.html"
+    },
+    {
+      "title": "Fortuna Düsseldorf - 1. FC Köln",
+      "url": "https://www.welt.de/sport/fussball/2-bundesliga/article253572944/Fortuna-Duesseldorf-1-FC-Koeln-Niemiec-trifft-in-Nachspielzeit-Remis-fuer-Duesseldorf-2-Bundesliga.html"
+    },
+    {
+      "title": "1. FC Nürnberg - Hertha BSC",
+      "url": "https://www.welt.de/sport/fussball/2-bundesliga/article253572950/1-FC-Nuernberg-Hertha-BSC-Berlin-rueckt-auf-Platz-sieben-vor-2-Bundesliga.html"
+    },
+    {
+      "title": "Olise schießt Bayern in Führung, Bochum gleicht gegen Kiel aus",
+      "url": "https://www.welt.de/sport/fussball/article253632160/Bundesliga-live-Zwei-Neue-FC-Bayern-will-Siegesserie-in-Bremen-ausbauen.html"
+    },
+    {
+      "title": "Kurz vor Ende schießt Düsseldorf ein Wahnsinns-Tor gegen Köln",
+      "url": "https://www.welt.de/sport/fussball/article253631380/2-Liga-Kurz-vor-Ende-schiesst-Duesseldorf-ein-Wahnsinns-Tor-gegen-Koeln.html"
+    },
+    {
+      "title": "Düsseldorf verhindert im Derby spät die erste Saisonpleite",
+      "url": "https://www.welt.de/regionales/nrw/article253633326/Duesseldorf-verhindert-im-Derby-spaet-die-erste-Saisonpleite.html"
+    },
+    {
       "title": "Laver Cup: Zverevs Team Europa wieder hinten",
       "url": "https://www.welt.de/regionales/berlin/article253633292/Laver-Cup-Zverevs-Team-Europa-wieder-hinten.html"
     },
     {
-      "title": "„Ich bin in großer Sorge um alles, was unsere Eltern erarbeitet haben“",
+      "title": "„Ich bin in großer Sorge um unser Land und um alles, was unsere Eltern erarbeitet haben“",
       "url": "https://www.welt.de/wirtschaft/plus253604912/Jochen-Schweizer-Bin-in-grosser-Sorge-um-alles-was-unsere-Eltern-erarbeitet-haben.html"
     },
     {
@@ -822,10 +910,6 @@
       "url": "https://www.welt.de/incoming/article253631702/Gerhard-Schroeder-Ukraine-Loesung-war-nach-Angaben-von-Alt-Kanzler-nahe.html"
     },
     {
-      "title": "Überlegene Kölner führen erneut in Düsseldorf",
-      "url": "https://www.welt.de/sport/fussball/article253631380/2-Liga-Ueberlegene-Koelner-fuehren-erneut-in-Duesseldorf.html"
-    },
-    {
       "title": "Wenn Rolex in Berlin zum Tennis-Gipfel mit Björn Borg und John McEnroe einlädt",
       "url": "https://www.welt.de/iconmagazine/watches/article253621608/Laver-Cup-Wenn-Rolex-in-Berlin-zum-Tennis-Gipfel-mit-Bjoern-Borg-und-John-McEnroe-einlaedt.html"
     },
@@ -834,92 +918,20 @@
       "url": "https://www.welt.de/regionales/hessen/article253632652/Protest-am-Kassel-Airport-Klimaschuetzer-beschmieren-Fassade.html"
     },
     {
-      "title": "74-Jähriger fährt gegen Poller - und lügt bei Polizei",
-      "url": "https://www.welt.de/regionales/thueringen/article253632528/74-Jaehriger-faehrt-gegen-Poller-und-luegt-bei-Polizei.html"
-    },
-    {
-      "title": "85-Jähriger überschlägt sich mit Auto - schwer verletzt",
-      "url": "https://www.welt.de/regionales/berlin/article253632252/85-Jaehriger-ueberschlaegt-sich-mit-Auto-schwer-verletzt.html"
-    },
-    {
       "title": "Eidechse auf der Fahrbahn – Abschlusstraining unterbrochen",
       "url": "https://www.welt.de/sport/article253631756/Formel-1-Eidechse-auf-der-Fahrbahn-Abschlusstraining-unterbrochen.html"
-    },
-    {
-      "title": "Nach SEK-Einsatz in Karlsruhe - Haftbefehl beantragt",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article253632242/Nach-SEK-Einsatz-in-Karlsruhe-Haftbefehl-beantragt.html"
     },
     {
       "title": "Fußballprofis nehmen Abendessen an der Leitplanke ein",
       "url": "https://www.welt.de/sport/article253631288/FSV-Zwickau-Fussballprofis-nehmen-das-Dinner-an-der-Leitplanke-der-A9.html"
     },
     {
-      "title": "Linienbus im Harz erfasst zwei Wildschweine",
-      "url": "https://www.welt.de/regionales/sachsen-anhalt/article253631934/Linienbus-im-Harz-erfasst-zwei-Wildschweine.html"
-    },
-    {
-      "title": "Derby in Düsseldorf: Lage bisher «sehr ruhig»",
-      "url": "https://www.welt.de/regionales/nrw/article253631906/Derby-in-Duesseldorf-Lage-bisher-sehr-ruhig.html"
-    },
-    {
-      "title": "Schüsse auf Bus und Passantin in Spandau",
-      "url": "https://www.welt.de/regionales/berlin/article253631876/Schuesse-auf-Bus-und-Passantin-in-Spandau.html"
-    },
-    {
-      "title": "Italien ruft Notstand für zwei Hochwasser-Regionen aus",
-      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/panorama_nt/article253631862/Italien-ruft-Notstand-fuer-zwei-Hochwasser-Regionen-aus.html"
-    },
-    {
-      "title": "Hochwasserwelle bewegt sich in Polen flussabwärts",
-      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/panorama_nt/article253631840/Hochwasserwelle-bewegt-sich-in-Polen-flussabwaerts.html"
-    },
-    {
-      "title": "Tierarzt: Höhere Impfdichte gegen Blauzungenkrankheit nötig",
-      "url": "https://www.welt.de/regionales/thueringen/article253631852/Tierarzt-Hoehere-Impfdichte-gegen-Blauzungenkrankheit-noetig.html"
-    },
-    {
-      "title": "Schwesig aus Südamerika wieder zurück im Nordosten",
-      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article253631790/Schwesig-aus-Suedamerika-wieder-zurueck-im-Nordosten.html"
-    },
-    {
-      "title": "Hochwasser löst Verkehrseinschränkungen in Grenzregion aus",
-      "url": "https://www.welt.de/regionales/berlin/article253631732/Hochwasser-loest-Verkehrseinschraenkungen-in-Grenzregion-aus.html"
-    },
-    {
-      "title": "Gordon Schnieder neuer Vorsitzender der CDU Rheinland-Pfalz",
-      "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article253631708/Gordon-Schnieder-neuer-Vorsitzender-der-CDU-Rheinland-Pfalz.html"
-    },
-    {
-      "title": "85-Jähriger wird in Marzahn von Auto erfasst und stirbt",
-      "url": "https://www.welt.de/regionales/berlin/article253631660/85-Jaehriger-wird-in-Marzahn-von-Auto-erfasst-und-stirbt.html"
-    },
-    {
-      "title": "Werteunion gründet Berliner Landesverband",
-      "url": "https://www.welt.de/regionales/berlin/article253631646/Werteunion-gruendet-Berliner-Landesverband.html"
-    },
-    {
-      "title": "Wetterumschwung passend zum Herbstanfang",
-      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/panorama_nt/article253631642/Wetterumschwung-passend-zum-Herbstanfang.html"
-    },
-    {
-      "title": "Quad-Fahrer aus Hattingen stirbt nach Unfall auf A46",
-      "url": "https://www.welt.de/regionales/nrw/article253631616/Quad-Fahrer-aus-Hattingen-stirbt-nach-Unfall-auf-A46.html"
-    },
-    {
       "title": "Reich dank Whistleblowing – das Milliarden-Geschäft mit Geheimnissen",
       "url": "https://www.welt.de/wirtschaft/plus253514116/Whistleblower-Das-Milliarden-Geschaeft-mit-Geheimnissen.html"
     },
     {
-      "title": "Martin: Kirchentag trägt zur Suche nach Ausgleich bei",
-      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article253631514/Martin-Kirchentag-traegt-zur-Suche-nach-Ausgleich-bei.html"
-    },
-    {
       "title": "Islands erster Eisbär seit 2016 von Polizei erschossen",
       "url": "https://www.welt.de/vermischtes/article253631376/Islands-erster-Eisbaer-seit-2016-von-Polizei-erschossen.html"
-    },
-    {
-      "title": "Hochwasserscheitel der Elbe durchläuft Sachsen-Anhalt",
-      "url": "https://www.welt.de/regionales/sachsen-anhalt/article253631472/Hochwasserscheitel-der-Elbe-durchlaeuft-Sachsen-Anhalt.html"
     },
     {
       "title": "Polizei ermittelt wegen Schüssen auf Uhrengeschäft in Köln",
@@ -984,18 +996,6 @@
     {
       "title": "Hotels, Achterbahnen und zu wenig Bier – der Milliarden-Kosmos Oktoberfest",
       "url": "https://www.welt.de/wirtschaft/article253609246/Oktoberfest-Hotels-Achterbahnen-Hendl-Bier-Milliardengeschaeft-mit-dem-Volksfest.html"
-    },
-    {
-      "title": "FDP kritisiert Habecks geplanten Autogipfel",
-      "url": "https://www.welt.de/wirtschaft/article253629310/VW-Krise-FDP-kritisiert-Habecks-geplanten-Autogipfel.html"
-    },
-    {
-      "title": "Ein wenig ist die veränderte Migrationspolitik in Hamburg schon zu spüren",
-      "url": "https://www.welt.de/regionales/hamburg/article253629192/Fluechtlinge-Ein-wenig-ist-die-veraenderte-Migrationspolitik-in-Hamburg-schon-zu-spueren.html"
-    },
-    {
-      "title": "Russland meldet Abwehr von mehr als 100 Drohnen – Dorf wegen Explosionsgefahr evakuiert",
-      "url": "https://www.welt.de/politik/article253629286/Russischer-Angriffskrieg-Verteidigungsministerium-meldet-Abschuss-von-mehr-als-100-Drohnen-Dorf-wegen-Explosionsgefahr-evakuiert.html"
     },
     {
       "title": "CHRIST-Rabattcodes",
