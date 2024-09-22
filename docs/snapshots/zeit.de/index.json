@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-22T13:11:26",
+  "timestamp": "2024-09-22T14:01:07",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -14,6 +14,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
@@ -98,39 +104,25 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Medikamentenknappheit bei Ozempic : Wenn Ozempic knapp wird",
-      "teaser": "In den USA ist die Nachfrage nach Abnehmspritzen so groß, dass Apotheken anfangen, den Wirkstoff selbst anzumischen. Auf dem Schwarzmarkt kursieren gefälschte Spritzen.",
-      "url": "https://www.zeit.de/wirtschaft/2024-09/medikamentenknappheit-ozempic-tirzepatid-semaglutid-usa-abnehmspritzen",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-09/medikamentenknappheit-ozempic-tirzepatid/wide__1000x562",
-      "image_title": "Medikamentenknappheit bei Ozempic: Pharmacy sign with a glowing cross and a sign with the inscription:Ozempic"
+      "title": "Z+ (abopflichtiger Inhalt); Künstliche Intelligenz : Kapierst du?",
+      "teaser": "Wie ein Gehirn tickt und wie eine KI, das sind zwei sehr unterschiedliche Dinge. Doch die große Frage unserer Zeit ist: Kann beides am Ende zum gleichen Ergebnis führen?",
+      "url": "https://www.zeit.de/digital/2024-09/kuenstliche-intelligenz-entwicklung-daten-verstaendnis",
+      "image_url": "https://img.zeit.de/digital/2024-09/kuenstliche-intelligenz-entwicklung-daten/wide__1000x562",
+      "image_title": "Künstliche Intelligenz: Kapierst du?"
     },
     {
-      "title": "Liveblog:Landtagswahl in Brandenburg : Wer wird stärkste Kraft in Brandenburg?",
-      "teaser": "Seit 1990 regiert die SPD in Brandenburg. Sollte seine Partei schlechter abschneiden als die AfD, will Ministerpräsident Dietmar Woidke abtreten. Das Liveblog",
+      "title": "Liveblog:Landtagswahl in Brandenburg : Hohe Wahlbeteiligung zeichnet sich ab",
+      "teaser": "Bis 14 Uhr haben bereits 46 Prozent der Wahlberechtigten abgestimmt. Bei der Landtagswahl 2019 hatte der Wert zu dieser Zeit bei 31,3 Prozent gelegen. Das Liveblog",
       "url": "https://www.zeit.de/politik/deutschland/2024-09/landtagswahl-brandenburg-2024-live",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/landtagswahl-brandenburg-2024-live-bild-2/super__430x286",
-      "image_title": "Landtagswahl in Brandenburg: A dog waits as a man votes during the Brandenburg state election in Forst, Germany, September 22, 2024."
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/landtagswahl-brandenburg-2024-live-bild-3/super__430x286",
+      "image_title": "Landtagswahl in Brandenburg: People sit at a polling station, during the Brandenburg state election in Potsdam, Germany, September 22, 2024. REUTERS/Nadja Wohlleben TPX IMAGES OF THE DAY"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); SPD in Brandenburg : Ein bisschen Programm hätte nicht geschadet",
+      "title": "SPD in Brandenburg : Ein bisschen Programm hätte nicht geschadet",
       "teaser": "\"Wir sind hier eine andere Sorte Mäuse,\" sagt Dietmar Woidke über Brandenburg. Jetzt könnte seine SPD erstmals von der AfD überholt werden. Wie konnte das passieren?",
       "url": "https://www.zeit.de/politik/deutschland/2024-09/spd-brandenburg-dietmar-woidke-landtagswahl-afd",
       "image_url": "https://img.zeit.de/politik/2024-09/spd-brandenburg-dietmar-woidke-landtagswahl/super__430x286",
       "image_title": "SPD in Brandenburg: Ein bisschen Programm hätte nicht geschadet"
-    },
-    {
-      "title": "Rechtsruck in Deutschland : \"Ob es sich lohnt, zu bleiben? Ich weiß es nicht\"",
-      "teaser": "Der Ton gegenüber Menschen mit Migrationsbiografie wird rauer. Hier erzählen sechs von ihnen von Wut, Unsicherheit – oder dass sie gar kein Problem sehen.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/rechtsruck-deutschland-migrantische-menschen-rechtsextremismus",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-09/rechtsruck-deutschland-migrantische-menschen-rechtsextremismus-bild-2/super__430x286",
-      "image_title": "Rechtsruck in Deutschland: \"Ob es sich lohnt, zu bleiben? Ich weiß es nicht\""
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); AfD-Wähler in Ostdeutschland : Ein Girlfriend ist keine Lösung",
-      "teaser": "Wählen junge Männer in Ostdeutschland die AfD, weil in ihrer Heimat die Frauen fehlen? Wahrscheinlich ja. Reicht es dann, wenn die Frauen bleiben würden? Auf keinen Fall!",
-      "url": "https://www.zeit.de/kultur/2024-09/afd-waehler-ostdeutschland-maenner-beziehung-frauen",
-      "image_url": "https://img.zeit.de/politik/2024-09/junge-maenner-ostdeutschland-afd/super__430x286",
-      "image_title": "AfD-Wähler in Ostdeutschland: Ein Girlfriend ist keine Lösung"
     },
     {
       "title": "Bündnis Sahra Wagenknecht : BSW gründet rheinland-pfälzischen Landesverband",
@@ -140,15 +132,8 @@
       "image_title": "Bündnis Sahra Wagenknecht: Das Bündnis Sahra Wagenknecht (BSW) hat einen Landesverband in Rheinland-Pfalz gegründet. Dafür stimmten die anwesenden Mitglieder beim Gründungsparteitag in Kaiserslautern einstimmig. Anschließend sollte ein Landesvorstand gewählt werden. Für den zweiköpfigen Landesvorsitz kandidierten der Bundestagsabgeordnete Alexander Ulrich, früherer Linkspartei-Landesvorsitzender, und Sina Listmann. +++ dpa-Bildfunk +++"
     },
     {
-      "title": "Liveblog:Krieg in Israel und Gaza : Benjamin Netanjahu droht Hisbollah mit weiteren Angriffen",
-      "teaser": "Israels Regierungschef hat ein hartes Vorgehen gegen die Hisbollah im Libanon angekündigt. Die Zahl der Toten in Beirut steigt auf 45. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/2023-12/news-israel-gaza-krieg-live",
-      "image_url": "https://img.zeit.de/2024-09/news-israel-libanon-hisbollah-bild/super__430x286",
-      "image_title": "Krieg in Israel und Gaza: TOPSHOT - Smoke billows from the site of an Israeli strike that targeted the Jabal Al-Rehan area in the southern Lebanese Jezzine district on September 21, 2024. The Israeli military announced on September 21 that it was carrying out new air strikes against Hezbollah targets in Lebanon, without offering details. (Photo by Rabih DAHER / AFP) (Photo by RABIH DAHER/AFP via Getty Images)"
-    },
-    {
       "title": "Liveblog:Ukrainekrieg : Ukraine traf offenbar Waffenlager mit nordkoreanischer Munition",
-      "teaser": "Die Ukraine hat ein Waffenlager in Südrussland beschossen – dort lagerte wohl auch Munition aus Nordkorea. Russland greift ukrainische Energieversorgung an. Das Liveblog",
+      "teaser": "Die Ukraine hat ein Waffenlager in Südrussland beschossen, das eine \"Schlüsselrolle\" beim Nachschub spielen soll. Russland greift ukrainisches Stromnetz an. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
       "image_url": "https://img.zeit.de/politik/ausland/2024-09/ukrainischer-angriff-traf-waffenlager-mit-nordkoreanischer-munition-bild/super__430x286",
       "image_title": "Ukrainekrieg: Ukrainian military drone operators of the 22nd Mechanized Brigade carry a Poseidon reconnaissance unmanned aerial vehicle on their position, in the Sumy region, near the border with Russia, on August 11, 2024, amid the Russian invasion of Ukraine. Russia on August 11, 2024 acknowledged Ukrainian troops had pierced deep into the Kursk border region in an offensive that a top official in Ukraine said aimed to \"destabilise\" Russia and \"stretch\" its forces."
@@ -161,11 +146,39 @@
       "image_title": "Key-Account-Manager: \"Wir besitzen ein Haus mit Wohnungen, einem Café und einer Spielhalle\""
     },
     {
+      "title": "Liveblog:Krieg in Israel und Gaza : Benjamin Netanjahu droht Hisbollah mit weiteren Angriffen",
+      "teaser": "Israels Regierungschef hat ein hartes Vorgehen gegen die Hisbollah im Libanon angekündigt. Die Zahl der Toten in Beirut steigt auf 45. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/2023-12/news-israel-gaza-krieg-live",
+      "image_url": "https://img.zeit.de/2024-09/news-israel-libanon-hisbollah-bild/super__430x286",
+      "image_title": "Krieg in Israel und Gaza: TOPSHOT - Smoke billows from the site of an Israeli strike that targeted the Jabal Al-Rehan area in the southern Lebanese Jezzine district on September 21, 2024. The Israeli military announced on September 21 that it was carrying out new air strikes against Hezbollah targets in Lebanon, without offering details. (Photo by Rabih DAHER / AFP) (Photo by RABIH DAHER/AFP via Getty Images)"
+    },
+    {
       "title": "Untergang der \"Bayesian\" : Hersteller von gesunkener Luxusjacht fordern Entschädigung",
       "teaser": "Nach dem Untergang der \"Bayesian\" ist vieles unklar. Die Staatsanwaltschaft ermittelt – und jetzt verlangen die Erbauer 222 Millionen Euro Entschädigung.",
       "url": "https://www.zeit.de/gesellschaft/2024-09/luxusjacht-bayesian-havarie-entschaedigung",
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/bayesian-luxusjacht-untergang-bild/super__430x286",
       "image_title": "Untergang der \"Bayesian\": Rescue teams operate off Porticello harbor near Palermo, where they search for a last missing person on August 22, 2024, three days after the British-flagged luxury yacht Bayesian sank. All the men missing after a luxury yacht sank off Sicily -- who included UK tech tycoon Mike Lynch -- have been found, a coastguard official told. The official did not identify Lynch by name, after reports that his was the latest body pulled from the wreck of the \"Bayesian\", but confirmed that of three men and three women who had been missing, authorities were now only searching for a female. The Bayesian, which had 22 people aboard including 10 crew, was anchored some 700 metres from port before dawn when it was struck by a waterspout. Among the six missing were UK tech entrepreneur Mike Lynch and his 18-year-old daughter Hannah, and Jonathan Bloomer, the chair of Morgan Stanley International, and his wife Judy. (Photo by Alberto PIZZOLI / AFP) (Photo by ALBERTO PIZZOLI/AFP via Getty Images)"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Robotik im Naturfilm : \"Oktopusse machen ständig Quatsch\"",
+      "teaser": "Da fragt sich der Krake: Bist du echt oder ein Roboter? Zwei BBC-Naturfilmer nähern sich Meerestieren mit ferngesteuerten Attrappen. Und das weckt Gefühle im Tierreich.",
+      "url": "https://www.zeit.de/kultur/film/2024-09/robotik-naturfilm-spy-in-the-ocean-bbc-dokumentation",
+      "image_url": "https://img.zeit.de/kultur/film/2024-09/robotik-naturfilm-spy-in-the-ocean-bbc-dokumentation-krake/wide__892x501",
+      "image_title": "Robotik im Naturfilm: \"Oktopusse machen ständig Quatsch\""
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Medikamentenknappheit bei Ozempic : Wenn Ozempic knapp wird",
+      "teaser": "In den USA ist die Nachfrage nach Abnehmspritzen so groß, dass Apotheken anfangen, den Wirkstoff selbst anzumischen. Auf dem Schwarzmarkt kursieren gefälschte Spritzen.",
+      "url": "https://www.zeit.de/wirtschaft/2024-09/medikamentenknappheit-ozempic-tirzepatid-semaglutid-usa-abnehmspritzen",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-09/medikamentenknappheit-ozempic-tirzepatid/super__430x286",
+      "image_title": "Medikamentenknappheit bei Ozempic: Pharmacy sign with a glowing cross and a sign with the inscription:Ozempic"
+    },
+    {
+      "title": "Rechtsruck in Deutschland : \"Ob es sich lohnt, zu bleiben? Ich weiß es nicht\"",
+      "teaser": "Der Ton gegenüber Menschen mit Migrationsbiografie wird rauer. Hier erzählen sechs von ihnen von Wut, Unsicherheit – oder dass sie gar kein Problem sehen.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/rechtsruck-deutschland-migrantische-menschen-rechtsextremismus",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-09/rechtsruck-deutschland-migrantische-menschen-rechtsextremismus-bild-2/wide__892x501",
+      "image_title": "Rechtsruck in Deutschland: \"Ob es sich lohnt, zu bleiben? Ich weiß es nicht\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Wohnorte in Deutschland • Das Beste aus Z+ : Wo soll ich wohnen?",
@@ -231,27 +244,6 @@
       "image_title": "Folge 5: Mai 2017: HEMPSTEAD, NY - SEPTEMBER 26: Republican presidential nominee Donald Trump speaks during the Presidential Debate at Hofstra University on September 26, 2016 in Hempstead, New York. The first of four debates for the 2016 Election, three Presidential and one Vice Presidential, is moderated by NBC's Lester Holt. (Photo by Win McNamee/Getty Images)"
     },
     {
-      "title": "Kohlebergwerk : Mindestens 51 Tote nach Methanexplosion im Iran",
-      "teaser": "Staatsmedien berichten von einer Methanexplosion in einem Kohlebergwerk im Osten des Iran. 51 Menschen sollen dabei getötet und 20 weitere verletzt worden sein.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/kohlebergwerk-iran-explosion-tabas-tote",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/explosion-methan-kohlebergwerk-iran-bild-4/super__430x286",
-      "image_title": "Kohlebergwerk: Rescuers work following a gas explosion in a coal mine in South Khorasan Province, Iran September 22, 2024. Iranian Red Crescent Society/WANA (West Asia News Agency)/Handout via REUTERS ATTENTION EDITORS - THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY"
-    },
-    {
-      "title": "Ukrainekarte aktuell : Russland gewinnt Gelände in Kursk zurück",
-      "teaser": "Russische Truppen sind in der eigenen Region Kursk vorgerückt. Auch in der Region Luhansk hat Russland offenbar mindestens eine weitere Siedlung eingenommen.",
-      "url": "https://www.zeit.de/politik/ausland/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen-teaserbild/super__430x286",
-      "image_title": "Ukrainekarte aktuell: Russland gewinnt Gelände in Kursk zurück"
-    },
-    {
-      "title": "Liveblog:Ukrainekrieg : Ukraine traf offenbar Waffenlager mit nordkoreanischer Munition",
-      "teaser": "Die Ukraine hat ein Waffenlager in Südrussland beschossen – dort lagerte wohl auch Munition aus Nordkorea. Russland greift ukrainische Energieversorgung an. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/ukrainischer-angriff-traf-waffenlager-mit-nordkoreanischer-munition-bild/super__430x286",
-      "image_title": "Ukrainekrieg: Ukrainian military drone operators of the 22nd Mechanized Brigade carry a Poseidon reconnaissance unmanned aerial vehicle on their position, in the Sumy region, near the border with Russia, on August 11, 2024, amid the Russian invasion of Ukraine. Russia on August 11, 2024 acknowledged Ukrainian troops had pierced deep into the Kursk border region in an offensive that a top official in Ukraine said aimed to \"destabilise\" Russia and \"stretch\" its forces."
-    },
-    {
       "title": "Politikpodcast : Der Wettbewerb der Unbeliebten",
       "teaser": "Wie es aktuell aussieht, setzen Union und SPD je auf Kanzlerkandidaten, die bei den Wählern nicht gerade beliebt sind. Was erzählt das über uns und über die Politik?",
       "url": "https://www.zeit.de/politik/2024-09/kanzlerkandidaten-cdu-spd-karl-rudolf-korte-politikpodcast",
@@ -315,27 +307,6 @@
       "image_title": "Elisabeth Sobotka: Elisabeth Sobotka in der Berliner Staatsoper Unter den Linden"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Robotik im Naturfilm : \"Oktopusse machen ständig Quatsch\"",
-      "teaser": "Da fragt sich der Krake: Bist du echt oder ein Roboter? Zwei BBC-Naturfilmer nähern sich Meerestieren mit ferngesteuerten Attrappen. Und das weckt Gefühle im Tierreich.",
-      "url": "https://www.zeit.de/kultur/film/2024-09/robotik-naturfilm-spy-in-the-ocean-bbc-dokumentation",
-      "image_url": "https://img.zeit.de/kultur/film/2024-09/robotik-naturfilm-spy-in-the-ocean-bbc-dokumentation-krake/wide__892x501",
-      "image_title": "Robotik im Naturfilm: \"Oktopusse machen ständig Quatsch\""
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Rosamunde Pilcher : Brühwürfel der Harmonie",
-      "teaser": "Cornwall als Wille und Vorstellung: Die Geschichten von Rosamunde Pilcher ließen uns an eine heilvolle Welt glauben. Zum 100. Geburtstag der Bestsellerautorin",
-      "url": "https://www.zeit.de/kultur/literatur/2024-09/rosamunde-pilcher-100-geburtstag",
-      "image_url": "https://img.zeit.de/kultur/2024-09/rosamunde-pilcher-100-geburtstag-teaser/super__430x286",
-      "image_title": "Rosamunde Pilcher: links: BERLIN, GERMANY - JUNE 07: British author Rosamunde Pilcher attends a garden party at the official residence of the British ambassador to Germany on June 7, 2012 in Berlin, Germany. British Ambassador Simon McDonald hosted the event at his official residence during the visit of British Prime Minister David Cameron to the city, just after the Queen's Diamond Jubilee. (Photo by Adam Berry/Getty Images); RECHTS: 12 Hektar kornischer Schluchtgarten mit exotischen Pflanzen Palmen und andere exotische Pflanzen im Garten Trebah *** 12 hectares of Cornish canyon garden with exotic plants Palms and other exotic plants in the garden Trebah"
-    },
-    {
-      "title": "Schreibstile im Internet : ICH LIEBE GROSSBUCHSTABEN",
-      "teaser": "Donald Trump schreibt sozialmedial gern in Großbuchstaben, etwa \"I HATE TAYLOR SWIFT\". Da zetert das Netz: Ist das nicht HETZE, und geht das nicht auch leiser? ACH WAS",
-      "url": "https://www.zeit.de/kultur/2024-09/schreibstile-internet-grossschreibung-donald-trump-social-media",
-      "image_url": "https://img.zeit.de/kultur/2024-09/wochenende-39-pflichtverteidigung-bild-2/super__430x286",
-      "image_title": "Schreibstile im Internet: ICH LIEBE GROSSBUCHSTABEN"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Vitamin B12 : Das unterschätzte Vitamin",
       "teaser": "Vitamin B12 ist lebenswichtig. Wem es fehlt, der kann unter kognitiven oder neuronalen Ausfällen leiden. Veganer sind sich dessen meist bewusst, andere leider weniger.",
       "url": "https://www.zeit.de/gesundheit/2024-09/vitamin-b12-mangel-blut-muedigkeit-laehmungen",
@@ -364,11 +335,11 @@
       "image_title": "AirPods 4: Fast nichts im Ohr"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); \"Missunde 2\" : Kleine Fähre, große Fehlplanung",
-      "teaser": "Schleswig-Holstein verkauft eine alte Dieselfähre, eine elektrische soll her. Doch dann geht alles schief. Und am Ende kauft das Land die alte für ein Vielfaches zurück.",
-      "url": "https://www.zeit.de/2024/40/missunde-2-schlei-faehre-schiff-schleswig-holstein",
-      "image_url": "https://img.zeit.de/2024/40/die-faehre-die-nicht-faehrt-bild-2/super__430x286",
-      "image_title": "\"Missunde 2\": Die »Missunde 2« ist alt, läuft aber noch – nur eben mit Diesel, nicht mit Strom"
+      "title": "Z+ (abopflichtiger Inhalt); Rosamunde Pilcher : Brühwürfel der Harmonie",
+      "teaser": "Cornwall als Wille und Vorstellung: Die Geschichten von Rosamunde Pilcher ließen uns an eine heilvolle Welt glauben. Zum 100. Geburtstag der Bestsellerautorin",
+      "url": "https://www.zeit.de/kultur/literatur/2024-09/rosamunde-pilcher-100-geburtstag",
+      "image_url": "https://img.zeit.de/kultur/2024-09/rosamunde-pilcher-100-geburtstag-teaser/super__430x286",
+      "image_title": "Rosamunde Pilcher: links: BERLIN, GERMANY - JUNE 07: British author Rosamunde Pilcher attends a garden party at the official residence of the British ambassador to Germany on June 7, 2012 in Berlin, Germany. British Ambassador Simon McDonald hosted the event at his official residence during the visit of British Prime Minister David Cameron to the city, just after the Queen's Diamond Jubilee. (Photo by Adam Berry/Getty Images); RECHTS: 12 Hektar kornischer Schluchtgarten mit exotischen Pflanzen Palmen und andere exotische Pflanzen im Garten Trebah *** 12 hectares of Cornish canyon garden with exotic plants Palms and other exotic plants in the garden Trebah"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Bandnamen : Wie klingt die Wut des ehrlichen Steuerzahlers?",
@@ -378,11 +349,25 @@
       "image_title": "Bandnamen: Matthew Greywolf von Powerwolf im Palladium in Hollywood,Kalifornien am 29. August 2024."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Laub : Wo ist der Harken?",
-      "teaser": "\"Rose, auf meinem Rasen sammelt sich das Laub. Hast du Tipps, wie ich es am besten entferne?\" – fragt Lars.",
-      "url": "https://www.zeit.de/entdecken/2024-09/laub-haken-rechen-sauberkeit",
-      "image_url": "https://img.zeit.de/entdecken/2024-09/wochenende-39-frag-rose-bild/super__430x286",
-      "image_title": "Laub: Wo ist der Harken?"
+      "title": "Z+ (abopflichtiger Inhalt); \"Missunde 2\" : Kleine Fähre, große Fehlplanung",
+      "teaser": "Schleswig-Holstein verkauft eine alte Dieselfähre, eine elektrische soll her. Doch dann geht alles schief. Und am Ende kauft das Land die alte für ein Vielfaches zurück.",
+      "url": "https://www.zeit.de/2024/40/missunde-2-schlei-faehre-schiff-schleswig-holstein",
+      "image_url": "https://img.zeit.de/2024/40/die-faehre-die-nicht-faehrt-bild-2/super__430x286",
+      "image_title": "\"Missunde 2\": Die »Missunde 2« ist alt, läuft aber noch – nur eben mit Diesel, nicht mit Strom"
+    },
+    {
+      "title": "Brandenburg : Hohe Beteiligung bei Landtagswahl in Brandenburg",
+      "teaser": "Fast die Hälfte der Wahlberechtigten in Brandenburg haben bereits ihre Stimme abgegeben. Damit liegt die Wahlbeteiligung deutlich höher als vor fünf Jahren.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/brandenburg-landtagswahl-wahlbeteiligung-hoch",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/landtagswahl-brandenburg-hohe-wahlbeteiligung-bild/super__320x213",
+      "image_title": "Brandenburg: Eine Person mit einem kleinen Hund sitzt in einer Wahlkabine und gibt seine Stimme zur Landtagswahl in Brandenburg ab. In Brandenburg findet am Sonntag (22.09.2024) die Landtagswahl statt. Brandenburg, Forst, 22.09.2024"
+    },
+    {
+      "title": "Kohlebergwerk : Mindestens 51 Tote nach Methanexplosion im Iran",
+      "teaser": "Staatsmedien berichten von einer Methanexplosion in einem Kohlebergwerk im Osten des Iran. 51 Menschen sollen dabei getötet und 20 weitere verletzt worden sein.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/kohlebergwerk-iran-explosion-tabas-tote",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/explosion-methan-kohlebergwerk-iran-bild-4/super__320x213",
+      "image_title": "Kohlebergwerk: Rescuers work following a gas explosion in a coal mine in South Khorasan Province, Iran September 22, 2024. Iranian Red Crescent Society/WANA (West Asia News Agency)/Handout via REUTERS ATTENTION EDITORS - THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY"
     },
     {
       "title": "Landtagswahl : Wahllokale in Brandenburg sind geöffnet",
@@ -425,20 +410,6 @@
       "url": "https://www.zeit.de/politik/ausland/2024-09/nahost-israel-libanon-angriffe-abschussrampen-hisbollah",
       "image_url": "https://img.zeit.de/politik/ausland/2024-09/nahost-israel-libanon-angriffe-abschussrampen-hisbollah-bild2/super__320x213",
       "image_title": "Nahost: Mediennummer 484030948 Beschreibung Libanesen beobachten den von der südlibanesischen Stadt Mardsch Uyun aus gesehen Rauch, der nach israelischem Beschuss aufsteigt. Service +++ dpa-Bildfunk +++ Aufnahmedatum 21.09.2024 Bildnachweis picture alliance/dpa/AP | Hussein Malla Besondere Hinweise - Release"
-    },
-    {
-      "title": "Autoindustrie : IG Metall spricht sich für Förderung von E-Autos aus",
-      "teaser": "Die Gewerkschaft IG Metall fordert, dass die Bundesregierung die Elektromobilität subventioniert. Aus der CDU kommt Widerspruch gegen eine einseitige Förderung.",
-      "url": "https://www.zeit.de/wirtschaft/2024-09/e-autos-ig-metall-gewerkschaft-fordert-foerderung",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-09/ig-metall-fordert-foerderung-von-e-autos/super__320x213",
-      "image_title": "Autoindustrie: Industrieroboter arbeiten an einem vollelektrischen Porsche Macan nach der Hochzeit (der Verbindung von Fahrwerk und Motor mit der Karosse) im Werk Leipzig."
-    },
-    {
-      "title": "US-Wahl : Harris nimmt Einladung zu weiterem TV-Duell an",
-      "teaser": "Kamala Harris war für viele die klare Siegerin der ersten TV-Debatte. Nun hat sie die Einladung von CNN zum nächsten Duell angenommen. Donald Trump bleibt ablehnend.",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/donald-trump-kamala-harris-us-wahl-usa-tv-debatte",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/donald-trump-kamala-harris-us-wahl-usa-tv-debatte-2/super__320x213",
-      "image_title": "US-Wahl: Zuschauer jubeln bei der Debatte zwischen der demokratischen US-Präsidentschaftskandidatin Kamala Harris und dem republikanischen Präsidentschaftskandidaten und ehemaligen US-Präsidenten Donald Trump in der Angry Elephant Bar and Grill."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Fitnessübung : Der Partnerstretch",
@@ -583,10 +554,17 @@
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/rechtsruck-deutschland-migrantische-menschen-rechtsextremismus"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); AfD-Wähler in Ostdeutschland : Ein Girlfriend ist keine Lösung",
+      "teaser": "Wählen junge Männer in Ostdeutschland die AfD, weil in ihrer Heimat die Frauen fehlen? Wahrscheinlich ja. Reicht es dann, wenn die Frauen bleiben würden? Auf keinen Fall!",
+      "url": "https://www.zeit.de/kultur/2024-09/afd-waehler-ostdeutschland-maenner-beziehung-frauen",
+      "image_url": "https://img.zeit.de/politik/2024-09/junge-maenner-ostdeutschland-afd/wide__892x501",
+      "image_title": "AfD-Wähler in Ostdeutschland: Ein Girlfriend ist keine Lösung"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Landtagswahl : Ein Boom, der sich nicht auszahlt",
       "teaser": "Die Wirtschaft wächst, die Menschen verdienen mehr. Brandenburg geht es besser denn je. Aber die Unzufriedenheit im Land ist groß. Wie passt das zusammen?",
       "url": "https://www.zeit.de/politik/deutschland/2024-09/landtagswahl-brandenburg-wirtschaftswachstum-unzufriedenheit-regierung",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/landtagswahl-brandenburg-wirtschaftswachstum-unzufriedenheit/wide__892x501",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/landtagswahl-brandenburg-wirtschaftswachstum-unzufriedenheit/super__430x286",
       "image_title": "Landtagswahl: Hightech zwischen Kiefern: Teslas Gigafactory produziert seit 2022 Elektroautos in Grünheide, im Osten von Berlin."
     },
     {
@@ -595,13 +573,6 @@
       "url": "https://www.zeit.de/familie/2024-09/pflegebeduerftige-eltern-pflege-alter-krankheit",
       "image_url": "https://img.zeit.de/familie/2024-09/pflegebeduerftige-eltern-pflege-alter/super__430x286",
       "image_title": "Pflegebedürftige Eltern: Was ich mit meinen Eltern gern gemacht hätte, bevor es zu spät war"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Bright Eyes : \"Manchmal glaube ich, dass ich Musik hasse\"",
-      "teaser": "Conor Oberst hat keine Angst vor Elon Musk und will nicht Taylor Swift sein. Ein Treffen mit dem Ex-Indie-It-Boy in L.A., \"einem der wenigen wahrhaftigen Orte der USA\".",
-      "url": "https://www.zeit.de/kultur/musik/2024-09/bright-eyes-rockmusik-band-conor-oberst-album",
-      "image_url": "https://img.zeit.de/kultur/musik/2024-08/bright-eyes-five-dice-all-threes-album/super__430x286",
-      "image_title": "Bright Eyes Five Dice All Threes Album"
     },
     {
       "title": "Verlagsangebot : 9 historische Altstädte in Deutschland",
@@ -814,11 +785,11 @@
       "image_title": "Die Linke: Sie kämpft um jede Stimme: Kerstin Kaiser will für die Linke in Brandenburg das Direktmandat gewinnen."
     },
     {
-      "title": "Landtagswahl in Brandenburg : In Brandenburg droht das nächste Beben",
-      "teaser": "Die AfD könnte bei der heutigen Wahl in Brandenburg stärkste Kraft werden. Doch die SPD holt in Umfragen auf – und ist offen für eine Koalition mit dem BSW. Ein Überblick",
-      "url": "https://www.zeit.de/politik/deutschland/2024-08/landtagswahl-brandenburg-2024-parteien-faq",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-08/afd-brandenburgministerpraesident-dietmar-woidke-spd-koalition-bsw-cdu-bild/super__430x286",
-      "image_title": "Landtagswahl in Brandenburg: Zwei Wahlplakate mit dem Bild von Brandenburgs Ministerpräsident und Spitzenkandidat Dietmar Woidke (SPD) stehen auf dem Potsdamer «Platz der Einheit». +++ dpa-Bildfunk +++"
+      "title": "Ukrainekarte aktuell : Russland gewinnt Gelände in Kursk zurück",
+      "teaser": "Russische Truppen sind in der eigenen Region Kursk vorgerückt. Auch in der Region Luhansk hat Russland offenbar mindestens eine weitere Siedlung eingenommen.",
+      "url": "https://www.zeit.de/politik/ausland/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen-teaserbild/super__430x286",
+      "image_title": "Ukrainekarte aktuell: Russland gewinnt Gelände in Kursk zurück"
     },
     {
       "title": "Verlagsangebot : Das Quiz über die US-Wahl: Wie heißt Harris mit Vornamen?",
@@ -898,10 +869,17 @@
       "image_title": "Gedenkstätte in Potsdam: Die Gedenkstätte Lindenstraße 54/55 in Potsdam"
     },
     {
+      "title": "Autoindustrie : IG Metall spricht sich für Förderung von E-Autos aus",
+      "teaser": "Die Gewerkschaft IG Metall fordert, dass die Bundesregierung die Elektromobilität subventioniert. Aus der CDU kommt Widerspruch gegen eine einseitige Förderung.",
+      "url": "https://www.zeit.de/wirtschaft/2024-09/e-autos-ig-metall-gewerkschaft-fordert-foerderung",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-09/ig-metall-fordert-foerderung-von-e-autos/wide__892x501",
+      "image_title": "Autoindustrie: Industrieroboter arbeiten an einem vollelektrischen Porsche Macan nach der Hochzeit (der Verbindung von Fahrwerk und Motor mit der Karosse) im Werk Leipzig."
+    },
+    {
       "title": "E-Autos : SPD-Politiker fordern Prämie für Wechsel zum E-Auto",
       "teaser": "Mit einer Umtauschprämie will die SPD-Fraktion der deutschen Autoindustrie helfen. Die CDU sieht Ähnlichkeiten zur Abwrackprämie – und kritisiert den Vorschlag.",
       "url": "https://www.zeit.de/wirtschaft/2024-09/e-auto-umtauschpraemie-spd-fraktion",
-      "image_url": "https://img.zeit.de/mobilitaet/2024-09/e-auto-spd-politiker-fordern-auto-austauschpraemie-bild/wide__892x501",
+      "image_url": "https://img.zeit.de/mobilitaet/2024-09/e-auto-spd-politiker-fordern-auto-austauschpraemie-bild/super__430x286",
       "image_title": "E-Autos: Elektrofahrzeuge aus der Produktion von Volkswagen Sachsen parken vor der Auslieferung auf dem Werksgelände in Zwickau. Das Werk in Zwickau war bisher Vorreiter der Elektromobilität bei Volkswagen. Neben den Modellen ID.3, ID.4 und ID.5 werden dort auch zwei Modelle für Audi und eins der Marke Cupra produziert. Jetzt wächst vor Ort die Sorge um die Zukunft des Standortes, da man dem Vernehmen nach weit von einer Vollauslastung entfernt ist. Im Gespräch ist ein sukzessiver Abbau von Stellen, der viele befristet Beschäftigte treffen würde. Außerdem könnten Schichten reduziert werden. Heute ist dazu an dem Standort eine Betriebsversammlung geplant. Zwickau, 14.09.2023"
     },
     {
@@ -917,13 +895,6 @@
       "url": "https://www.zeit.de/wirtschaft/2024-09/atomkraft-microsoft-three-mile-island-kuenstliche-intelligenz",
       "image_url": "https://img.zeit.de/wirtschaft/2024-09/atomreaktor-microsoft-bild-2/super__430x286",
       "image_title": "Künstliche Intelligenz: Die Kühltürme von Three Mile Island, dem Ort des schwersten kommerziellen Atomunfalls der USA vor rund 40 Jahre"
-    },
-    {
-      "title": "Autoindustrie : FDP zweifelt an Sinn von Habecks Autogipfel",
-      "teaser": "Die Liberalen werfen Volkswagen \"massives Missmanagement\" vor. Staatliche Hilfen, wie Minister Habeck sie ins Spiel bringt, seien unangebracht.",
-      "url": "https://www.zeit.de/wirtschaft/2024-09/autoindustrie-fdp-vw-autogipfel-robert-habeck",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-09/autoindustrie-fdp-vw-autogipfel-robert-habeck-1/super__430x286",
-      "image_title": "Autoindustrie: Wirtschaftsminister Robert Habeck während eines Rundgang durch die Elektromontage des VW-Werkes in Emden"
     },
     {
       "title": "VW, BMW und Co. : Warum keine Besserung für die deutsche Autobranche in Sicht ist",
@@ -961,6 +932,13 @@
       "image_title": "Teresa Reichl: Teresa Reichl"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Bright Eyes : \"Manchmal glaube ich, dass ich Musik hasse\"",
+      "teaser": "Conor Oberst hat keine Angst vor Elon Musk und will nicht Taylor Swift sein. Ein Treffen mit dem Ex-Indie-It-Boy in L.A., \"einem der wenigen wahrhaftigen Orte der USA\".",
+      "url": "https://www.zeit.de/kultur/musik/2024-09/bright-eyes-rockmusik-band-conor-oberst-album",
+      "image_url": "https://img.zeit.de/kultur/musik/2024-08/bright-eyes-five-dice-all-threes-album/super__430x286",
+      "image_title": "Bright Eyes Five Dice All Threes Album"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Julian Sartorius : Der Soundwalker",
       "teaser": "Der Schlagzeuger Julian Sartorius wandert durch die Alpen und trommelt auf Felsen und Äste. Unterwegs mit einem Mann, der den Klang der Berge heraufbeschwören kann.",
       "url": "https://www.zeit.de/2024/40/julian-sartorius-musik-alpen-berge-schlagzeug",
@@ -982,18 +960,18 @@
       "image_title": "Wolfgang Amadeus Mozart: ARCHIV - Porträt in Öl des österreichischen Komponisten Wolfgang Amadeus Mozart, der am 27. Januar 1756 in Salzburg geboren wurde und am 5. Dezember 1791 in Wien starb (undatiertes Archivfoto). Die ausgedehnten Reisen führten Mozart durch über 200 Städte und Regionen in ganz Europa. Der Verein europäische Mozart-Wege ist den Spuren des Komponisten gefolgt und hat alle wichtigen Orte des gebürtigen Salzburgers aus zehn Ländern verbunden, damit Kulturreisende auf eigene Faust Mozarts Wege erkunden können Foto: dpa (zu dpa-Korr: \"Von Neapel bis London - Auf Mozarts Spuren durch Europa\" vom 24.07.2007) +++ dpa-Bildfunk +++"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Björn Borg und John McEnroe : \"Kein Mensch hat mehr Psychiater verschlissen als ich\"",
-      "teaser": "Mit ihrer Rivalität kam Tennis in der Popkultur an. Hier sprechen Björn Borg und John McEnroe über Künstlerhände, Zeitlupenmatches und Mittel gegen den Selbsthass.",
-      "url": "https://www.zeit.de/kultur/2024-09/tennis-bjoern-borg-john-mcenroe",
-      "image_url": "https://img.zeit.de/kultur/2024-09/borg-mcenroe/super__430x286",
-      "image_title": "Björn Borg und John McEnroe: Björn Borg (links) und John McEnroe im Wimbledonfinale 1980, das der Schwede in fünf Sätzen gegen den US-Amerikaner gewann. 2017 wurde das Match im Spielfilm \"Borg/McEnroe\" des Regisseurs Janus Metz Pedersen verewigt."
+      "title": "Potsdam : Landtagswahl in Brandenburg hat begonnen",
+      "teaser": "Rund zwei Millionen Wahlberechtigte sind in Brandenburg aufgerufen, ihre Stimme bei den Landtagswahlen abzugeben. In Vorwahlumfragen liegen AfD und SPD nah beieinander.",
+      "url": "https://www.zeit.de/video/2024-09/6362298308112/potsdam-landtagswahl-in-brandenburg-hat-begonnen",
+      "image_url": "https://img.zeit.de/video/2024-09/6362298308112-still/wide__892x501",
+      "image_title": "Potsdam: Landtagswahl in Brandenburg hat begonnen"
     },
     {
-      "title": "Krieg in Nahost : Tote bei israelischem Angriff auf Schule in Gaza-Stadt",
-      "teaser": "Bei einem israelischen Angriff auf eine ehemalige Schule in Gaza wurden laut palästinensischen Angaben 22 Menschen getötet. Flüchtende sollen dort Schutz gesucht haben.",
-      "url": "https://www.zeit.de/video/2024-09/6362260561112/krieg-in-nahost-tote-bei-israelischem-angriff-auf-schule-in-gaza-stadt",
-      "image_url": "https://img.zeit.de/video/2024-09/6362260561112-still/wide__892x501",
-      "image_title": "Krieg in Nahost: Tote bei israelischem Angriff auf Schule in Gaza-Stadt"
+      "title": "US-Präsidentschaftswahlkampf : Trump will weiterhin keine zweite Fernsehdebatte",
+      "teaser": "Während Kamala Harris sich zu einer zweiten TV-Debatte bei CNN bereit erklärt hat, lehnt Donald Trump dies weiter ab. Dafür sei es \"einfach zu spät\".",
+      "url": "https://www.zeit.de/video/2024-09/6362300448112/us-praesidentschaftswahlkampf-trump-will-weiterhin-keine-zweite-fernsehdebatte",
+      "image_url": "https://img.zeit.de/video/2024-09/6362300448112-still/super__430x286",
+      "image_title": "US-Präsidentschaftswahlkampf: Trump will weiterhin keine zweite Fernsehdebatte"
     },
     {
       "title": "Bergbau : Tote und Verletzte nach Gasexplosion in iranischem Bergwerk",
@@ -1003,18 +981,11 @@
       "image_title": "Bergbau: Tote und Verletzte nach Gasexplosion in iranischem Bergwerk"
     },
     {
-      "title": "Angriff auf Beirut : UN fordert Deeskalation zwischen Israel und Libanon",
-      "teaser": "Israels Angriff auf Beirut hat zahlreiche Menschen getötet, darunter zwei Kommandeure der Hisbollah. Der UN-Menschenrechtskommissar kritisierte das israelische Vorgehen.",
-      "url": "https://www.zeit.de/video/2024-09/6362253802112/angriff-auf-beirut-un-fordert-deeskalation-zwischen-israel-und-libanon",
-      "image_url": "https://img.zeit.de/video/2024-09/6362253802112-still/super__430x286",
-      "image_title": "Angriff auf Beirut: UN fordert Deeskalation zwischen Israel und Libanon"
-    },
-    {
-      "title": "Hochwasser : Ursula von der Leyen kündigt Milliardenhilfe für Flutgebiete an",
-      "teaser": "EU-Kommissionspräsidentin von der Leyen hat von Hochwasser betroffenen Ländern in Mitteleuropa Hilfe zugesagt. Zehn Milliarden sollen aus EU-Fonds mobilisiert werden.",
-      "url": "https://www.zeit.de/video/2024-09/6362194371112/hochwasser-ursula-von-der-leyen-kuendigt-milliardenhilfe-fuer-flutgebiete-an",
-      "image_url": "https://img.zeit.de/video/2024-09/6362194371112-still/super__430x286",
-      "image_title": "Hochwasser: Ursula von der Leyen kündigt Milliardenhilfe für Flutgebiete an"
+      "title": "Krieg in Nahost : Tote bei israelischem Angriff auf Schule in Gaza-Stadt",
+      "teaser": "Bei einem israelischen Angriff auf eine ehemalige Schule in Gaza wurden laut palästinensischen Angaben 22 Menschen getötet. Flüchtende sollen dort Schutz gesucht haben.",
+      "url": "https://www.zeit.de/video/2024-09/6362260561112/krieg-in-nahost-tote-bei-israelischem-angriff-auf-schule-in-gaza-stadt",
+      "image_url": "https://img.zeit.de/video/2024-09/6362260561112-still/super__430x286",
+      "image_title": "Krieg in Nahost: Tote bei israelischem Angriff auf Schule in Gaza-Stadt"
     },
     {
       "title": "Wasserstofffabriken im Meer : Die Tankstelle der Zukunft",
@@ -1170,11 +1141,11 @@
       "image_title": "Betterov: Als Kind mochte Manuel die Gangsterkomödien-Reihe »Die Olsenbande«. Er nannte sich nach einer Randfigur: Betterov. Hier ist er in seinem Lieblingskino Delphi Filmpalast zu sehen."
     },
     {
-      "title": "Verlagsangebot : Und was macht man dann damit?",
-      "teaser": "Was verbirgt sich konkret hinter den sperrigen Studiengangsbezeichnungen? Einen Einblick in mögliche Berufsfelder liefert die Suchmaschine für Studienangebote.",
-      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.kaffeepause_wasmachtmandamit.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_kaffeepause_wasmachtmandamit_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-4-klein/photo-of-women-looking-on-monitors-197.jpg",
-      "image_title": "Und was macht man dann damit?"
+      "title": "Verlagsangebot : Durchblick im Studiendschungel",
+      "teaser": "Bei 20.000 möglichen Studiengängen in Deutschland verliert man schnell den Überblick. Unterstützung bietet die Suchmaschine für Studiengänge und Hochschulen.",
+      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.whiteboard_studiendschungel.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_whiteboard_studiendschungel_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-3-klein/man-wearing-black-and-white-stripe-shirt-looking-at-white-197.jpg",
+      "image_title": "Durchblick im Studiendschungel"
     },
     {
       "title": "Studium : Preise für WG-Zimmer in Unistädten sind gestiegen",
@@ -1191,18 +1162,18 @@
       "image_title": "Ostdeutsche Unistädte: \"Wir überlassen Cottbus nicht den Rechtsextremen\""
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Laub : Wo ist der Harken?",
+      "teaser": "\"Rose, auf meinem Rasen sammelt sich das Laub. Hast du Tipps, wie ich es am besten entferne?\" – fragt Lars.",
+      "url": "https://www.zeit.de/entdecken/2024-09/laub-haken-rechen-sauberkeit",
+      "image_url": "https://img.zeit.de/entdecken/2024-09/wochenende-39-frag-rose-bild/wide__892x501",
+      "image_title": "Laub: Wo ist der Harken?"
+    },
+    {
       "title": "Erbenermittlung : \"Gerade habe ich vier Millionen Euro verteilt\"",
       "teaser": "Wenn Menschen sterben, ohne Erben bestimmt zu haben und ohne direkte Verwandtschaft, dann begibt sich Bernd Clasen auf die Suche. Wie es wirklich ist, Erben aufzuspüren.",
       "url": "https://www.zeit.de/2024/40/erbenermittlung-erbe-familie-vermoegen-erbordnung",
-      "image_url": "https://img.zeit.de/2024/40/erben-aufzuspueren-bild-3/wide__892x501",
+      "image_url": "https://img.zeit.de/2024/40/erben-aufzuspueren-bild-3/super__430x286",
       "image_title": "Erbenermittlung: Für den Erbermittler ist das Schönste, Leute zusammenzubringen."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Einbrecher in Rom : Wenn Lesen wirklich fesselt",
-      "teaser": "Ein Einbrecher in Rom wird geschnappt, weil er in einen Roman vertieft war. Was ist das für ein Buch? Und: Ist die Geschichte nicht vielleicht zu gut, um wahr zu sein?",
-      "url": "https://www.zeit.de/2024/39/einbrecher-rom-verhaftung-lesen-giovanni-nucci",
-      "image_url": "https://img.zeit.de/2024/39/roman-die-goetter-um-sechs-die-ilias-zur-cocktailstunde-giovanni-nucci-teaser/super__430x286",
-      "image_title": "Einbrecher in Rom: Der Roman \"Die Götter um sechs. Die Ilias zur Cocktailstunde\" von Giovanni Nucci hat angeblich einen italienischen Einbrecher seine Freiheit gekostet."
     },
     {
       "title": "Anzeige : ZEIT REISEN Individualreisen",
@@ -1254,36 +1225,36 @@
       "image_title": "Fußball: Warum die Bundesliga mehr Frauen braucht"
     },
     {
-      "title": "Kühlere Temperaturen: Wetterwechsel: Es wird herbstlicher in Niedersachsen",
-      "url": "https://www.zeit.de/news/2024-09/22/wetterwechsel-es-wird-herbstlicher-in-niedersachsen"
+      "title": "Feuer in Leverkusen: Brandstiftung vermutet: Zehn Neuwagen ausgebrannt",
+      "url": "https://www.zeit.de/news/2024-09/22/brandstiftung-vermutet-zehn-neuwagen-ausgebrannt"
     },
     {
-      "title": "Feuerwehr: Hoher Schaden bei zwei Bränden in Offenbach",
-      "url": "https://www.zeit.de/news/2024-09/22/hoher-schaden-bei-zwei-braenden-in-offenbach"
+      "title": "Formel 1: Norris lässt Verstappen in Singapur keine Chance",
+      "url": "https://www.zeit.de/news/2024-09/22/norris-laesst-verstappen-in-singapur-keine-chance"
     },
     {
-      "title": "Musiktheater: Mephistos Gegenspielerin - Martina Gedeck an der Semperoper",
-      "url": "https://www.zeit.de/news/2024-09/22/mephistos-gegenspielerin-martina-gedeck-an-der-semperoper"
+      "title": "Unfall: Neun Verletzte bei Zusammenstoß zwischen zwei Autos",
+      "url": "https://www.zeit.de/news/2024-09/22/neun-verletzte-bei-zusammenstoss-zwischen-zwei-autos"
     },
     {
-      "title": "Niederbayern: Insasse aus Psychiatrie geflohen - Fahndung läuft",
-      "url": "https://www.zeit.de/news/2024-09/22/insasse-aus-psychiatrie-geflohen-fahndung-laeuft"
+      "title": "2. Fußball-Bundesliga: Münster mit erstem Saisonsieg im Krisenduell beim Jahn",
+      "url": "https://www.zeit.de/news/2024-09/22/muenster-mit-erstem-saisonsieg-im-krisenduell-beim-jahn"
     },
     {
-      "title": "Nächtlicher Einsatz: Flucht vor Polizei - drei Verletzte bei Unfall bei Wolgast",
-      "url": "https://www.zeit.de/news/2024-09/22/flucht-vor-polizei-drei-verletzte-bei-unfall-bei-wolgast"
+      "title": "2. Fußball-Bundesliga: Weiter Zweiter: Karlsruhe nutzt Fortuna-Patzer nicht",
+      "url": "https://www.zeit.de/news/2024-09/22/weiter-zweiter-karlsruhe-nutzt-fortuna-patzer-nicht"
     },
     {
-      "title": "Unglück: Drei Tote bei Gasexplosion nahe Neapel",
-      "url": "https://www.zeit.de/news/2024-09/22/drei-tote-bei-gasexplosion-nahe-neapel"
+      "title": "3. Liga: Sieg in Hannover: Saarbrücken bleibt auswärts eine Macht",
+      "url": "https://www.zeit.de/news/2024-09/22/sieg-in-hannover-saarbruecken-bleibt-auswaerts-eine-macht"
     },
     {
-      "title": "Fußball-Bundesliga: 20 Tore: Bayern müssen im Bierzelt «nichts schön trinken»",
-      "url": "https://www.zeit.de/news/2024-09/22/20-tore-bayern-muessen-im-bierzelt-nichts-schoen-trinken"
+      "title": "Kriminalität: Festnahme nach zwei Angriffen mit Reizgas",
+      "url": "https://www.zeit.de/news/2024-09/22/festnahme-nach-zwei-angriffen-mit-reizgas"
     },
     {
-      "title": "Oktoberfest: Hunderte Einsätze für Wiesn-Sanitäter - viele «Bieropfer»",
-      "url": "https://www.zeit.de/news/2024-09/22/hunderte-einsaetze-fuer-wiesn-sanitaeter-viele-bieropfer"
+      "title": "2. Fußball-Bundesliga: Spitzenspiel ohne Sieger: Magdeburg weiter ungeschlagen",
+      "url": "https://www.zeit.de/news/2024-09/22/verdienter-punkt-magdeburg-trennt-sich-2-2-vom-ksc"
     }
   ]
 }
