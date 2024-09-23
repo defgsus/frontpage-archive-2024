@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-23T13:16:14",
+  "timestamp": "2024-09-23T14:06:37",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -14,6 +14,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -61,12 +67,6 @@
     },
     {
       "type": "module",
-      "src": "https://interactive.zeit.de/g/2024/brandenburg-wahl-2024/dashboardBb.0441fd1db340d3d4135c.cached.mjs",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "module",
       "src": "https://interactive.zeit.de/g/2024/energiekostenmonitor/static/assets/index.ece95f03.mjs",
       "id": null,
       "text": null
@@ -104,11 +104,11 @@
   ],
   "articles": [
     {
-      "title": "Nahostkrieg : Libanon meldet mehr als 180 Tote nach israelischen Angriffen",
-      "teaser": "Die libanesische Regierung wirft Israel vor, mit den Angriffen auf Hisbollah-Ziele im Land einen \"Zerstörungsplan\" zu verfolgen. Die Zahl der Toten steigt stetig.",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/libanon-meldet-mehr-als-180-tote-nach-israelischen-angriffen",
-      "image_url": "https://img.zeit.de/2024-09/nahostkrieg-israel-libanon-luftangriffe-tote-hisbollah-bild/wide__1000x562",
-      "image_title": "Nahostkrieg: Rettungskräfte setzen Bagger ein, um die Trümmer des israelischen Angriffs vom Freitag in den südlichen Vororten zu beseitigen."
+      "title": "Z+ (abopflichtiger Inhalt); Ausländische Fachkräfte : In den USA Erzieherin, in Deutschland nicht anerkannt",
+      "teaser": "Es fehlen Tausende Ärzte und Erzieherinnen. Doch qualifizierte Fachkräfte aus dem Ausland haben es schwer. Die Jobs sind da, der Wille auch – wo liegt also das Problem?",
+      "url": "https://www.zeit.de/arbeit/2024-08/auslaendische-fachkraefte-frachkraeftemangel-aerzte-erzieherinnen",
+      "image_url": "https://img.zeit.de/arbeit/2024-09/auslaendische-fachkraefte-frachkraeftemangel-aerzte-erzieherinnen-singh-4/wide__1000x562",
+      "image_title": "Ausländische Fachkräfte: Wiebke Singh auf einem Spielplatz in der Nähe ihrer Wohnung"
     },
     {
       "title": "Landtagswahl Brandenburg : Dietmar Woidke kündigt Gespräche mit CDU und BSW an – CDU lehnt ab",
@@ -118,39 +118,39 @@
       "image_title": "Landtagswahl Brandenburg: Dietmar Woidke (r, SPD), Ministerpräsident von Brandenburg, und Lars Klingbeil, SPD-Bundesvorsitzender, geben eine Pressekonferenz nach den Gremiensitzungen der Partei nach der Landtagswahl in Brandenburg. +++ dpa-Bildfunk +++"
     },
     {
-      "title": "Wahl in Brandenburg : Christian Lindner führt \"ernüchterndes Ergebnis\" auf Wahltaktik zurück",
-      "teaser": "Das schlechte Abschneiden in Brandenburg erklärt Christian Lindner mit taktischen Stimmen für die SPD. Für die Ampelkoalition stehe ein \"Herbst der Entscheidungen\" bevor.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/landtagswahl-brandenburg-fdp-christian-lindner-zyon-braun-ampel-koalition",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/christian-lindner-fdp-pressekonferenz-bild/super__430x286",
-      "image_title": "Wahl in Brandenburg: Christian Lindner (FDP), Bundesfinanzminister und FDP-Bundesvorsitzender, gibt ein Pressestatement zu den Landtagswahlen in Brandenburg. +++ dpa-Bildfunk +++"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Fachkräftemangel in Brandenburg : \"Ich habe Kollegen, die sagen: 'Ich gehöre hier nicht her, ich störe'\"",
-      "teaser": "Die Wirtschaft in Brandenburg wächst, doch der Wahlerfolg der AfD besorgt Unternehmer. Sie fürchten, dass künftig noch weniger Fachkräfte ins Land kommen wollen.",
-      "url": "https://www.zeit.de/arbeit/2024-09/fachkraeftemangel-brandenburg-arbeitsmarkt-unternehmen-wirtschaft",
-      "image_url": "https://img.zeit.de/arbeit/2024-09/fachkraeftemangel-brandenburg-arbeitsmarkt-unternehmen-wirtschaft-bild/super__430x286",
-      "image_title": "Fachkräftemangel in Brandenburg: Bundeswirtschaftsminister und Bundesarbeitsminister besuchen die Charite in Berlin Symbolbild Physiotherapeut mit Gymnastikball in Behandlungszimmer Deutschland *** Federal Minister of Economics and Federal Minister of Labor visit Charite in Berlin Symbol image Physiotherapist with exercise ball in treatment room Germany"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Daten zur Landtagswahl : So stark ist Berlins Einfluss auf Brandenburg",
-      "teaser": "Das eher ländliche Bundesland liegt wie ein Ring um die Hauptstadt. Unsere Daten zeigen, wie sich das auf die Ergebnisse der Landtagswahl auswirkte.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/wahl-brandenburg-landtag-gemeinden-berlin-speckguertel",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/wahl-brandenburg-landtag-gemeinden-berlin-speckguertel-teaserbild/wide__892x501",
-      "image_title": "Daten zur Landtagswahl: So stark ist Berlins Einfluss auf Brandenburg"
-    },
-    {
-      "title": "Kanzlerkandidatur : CDU-Parteigremien bestätigen Merz als Kanzlerkandidaten",
-      "teaser": "Friedrich Merz geht bei der Bundestagswahl als Kandidat der Union ins Rennen. Das haben die CDU-Gremien bestätigt. Merz sagte, er nehme die Aufgabe \"mit großer Demut\" an.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/merz-kanzlerkandidat-cdu-bestaetigung",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/merz-kanzlerkandidat-cdu-bestaetigung-bild-2/super__430x286",
-      "image_title": "Kanzlerkandidatur: Friedrich Merz, CDU-Bundesvorsitzender und Unions-Fraktionsvorsitzender, lächelt, als er beim Sommerinterview des ARD-«Berichts aus Berlin» auf der Terrasse des Marie-Elisabeth-Lüders-Hauses spricht. Stadt Berlin"
-    },
-    {
       "title": "Bundestagswahl 2025 : Markus Söder will Schwarz-Grün im Bund mit CSU-Stimme verhindern",
       "teaser": "Nach der nächsten Bundestagswahl will der CSU-Chef auf keinen Fall mit den Grünen koalieren. Auch eine Zusammenarbeit mit dem BSW nannte Söder ein \"No-Go\".",
       "url": "https://www.zeit.de/politik/deutschland/2024-09/bundestagswahl-markus-soeder-csu-cdu-koalition-gruene",
       "image_url": "https://img.zeit.de/politik/deutschland/2024-09/soeder-schwarz-gruen-bundestagswahl-csu-stimme-bild/super__430x286",
       "image_title": "Bundestagswahl 2025: Pressekonferenz nach Sitzung des CSU-Vorstands am 23.09.2024 in der CSU Landesleitung in München Markus Söder ( Ministerpräsident Bayern ) Foto: Revierfoto"
+    },
+    {
+      "title": "Joe Chialo : Farbanschlag auf Wohnhaus des Berliner Kultursenators",
+      "teaser": "Der Berliner Kultursenator Joe Chialo ist wieder Ziel einer Attacke geworden. Dieses Mal schmierten und sprühten Unbekannte rote Farbe auf sein Privathaus.",
+      "url": "https://www.zeit.de/gesellschaft/2024-09/kultursenator-joe-chialo-farbanschlag",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/kultursenator-joe-chialo-bild/super__430x286",
+      "image_title": "Joe Chialo: Joe Chialo (CDU), Berlins Kultursenator, spricht im dpa-Interview. Chialo will Chancen und Grenzen des Einsatzes von Künstlicher Intelligenz (KI) in der Kultur besser ausloten. (zu dpa: «Chialo: Angebot für Kaufpreis von Quartier 207 «überholt»»)"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Antisemitismus an der Hochschule Rhein-Waal : \"Es ging gegen mich als Person\"",
+      "teaser": "Die Jüdin Sharon Spievak wurde Asta-Vorsitzende an einer Hochschule mit vielen muslimischen Studenten. Dann begannen die Anfeindungen. Sie will trotzdem stark bleiben.",
+      "url": "https://www.zeit.de/2024/40/antisemitismus-hochschule-rhein-waal-sharon-spievak-asta-kleve",
+      "image_url": "https://img.zeit.de/2024/40/es-ging-gegen-mich-als-person-bild-1/wide__892x501",
+      "image_title": "Antisemitismus an der Hochschule Rhein-Waal: Sharon Spievak, 31, fühlte sich wohl in Kleve. Ihre Kommilitonen unterstützten sie. Dann kam der 7. Oktober."
+    },
+    {
+      "title": "Nahostkrieg : Libanon meldet mehr als 180 Tote nach israelischen Angriffen",
+      "teaser": "Die libanesische Regierung wirft Israel vor, mit den Angriffen auf Hisbollah-Ziele im Land einen \"Zerstörungsplan\" zu verfolgen. Die Zahl der Toten steigt stetig.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/libanon-meldet-mehr-als-180-tote-nach-israelischen-angriffen",
+      "image_url": "https://img.zeit.de/2024-09/nahostkrieg-israel-libanon-luftangriffe-tote-hisbollah-bild/super__430x286",
+      "image_title": "Nahostkrieg: Rettungskräfte setzen Bagger ein, um die Trümmer des israelischen Angriffs vom Freitag in den südlichen Vororten zu beseitigen."
+    },
+    {
+      "title": "Cybersicherheit : US-Regierung plant Verbot von Fahrzeugsoftware aus China",
+      "teaser": "Systeme zur Vernetzung von Autos und autonomem Fahren gelten als Einfallstor für Cyberangriffe. Chinesische Komponenten dafür sollen in den USA verboten werden.",
+      "url": "https://www.zeit.de/wirtschaft/2024-09/cybersicherheit-auto-software-china-usa-verbot",
+      "image_url": "https://img.zeit.de/2024-09/cybersicherheit-auto-software-china-usa-verbot-bild/super__430x286",
+      "image_title": "Cybersicherheit: A Tesla Model 3 vehicle is shown using the Full Self Driving Beta software (FSD) while navigating a city road in Encinitas, California, U.S., February 28, 2023. REUTERS/Mike Blake"
     },
     {
       "title": "Einleitung : 48 Monate Trump",
@@ -209,56 +209,35 @@
       "image_title": "Folge 6: Juni 2017: WASHINGTON, DC - JUNE 01: U.S. President Donald Trump announces his decision for the United States to pull out of the Paris climate agreement in the Rose Garden at the White House June 1, 2017 in Washington, DC. Trump pledged on the campaign trail to withdraw from the accord, which former President Barack Obama and the leaders of 194 other countries signed in 2015. The agreement is intended to encourage the reduction of greenhouse gas emissions in an effort to limit global warming to a manageable level. (Photo by Win McNamee/Getty Images)"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Wahlen in den USA : Ein harter Schlag für Kamala Harris",
-      "teaser": "Die starke Teamsters-Gewerkschaft will Kamala Harris nicht unterstützen. Stattdessen wenden sich die Mitglieder Donald Trump zu, der Arbeitnehmerrechte schwächen will.",
-      "url": "https://www.zeit.de/wirtschaft/2024-09/wahlen-usa-kamala-harris-teamsters-gewerkschaft-5vor8",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-09/teamsters-usa/super__430x286",
-      "image_title": "Teamsters-Chef O'Brien beim Parteitag der Republikaner."
+      "title": "US-Wahl : Neue Umfrage sieht Trump in südlichen Bundesstaaten knapp vor Harris",
+      "teaser": "Arizona, Georgia und North Carolina zählen zu den wahlentscheidenden Swing-States. Laut einer neuen Umfrage hat Donald Trump dort zuletzt an Zustimmung gewonnen.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/us-wahl-umfrage-new-york-times-donald-trump-arizona-north-carolina-georgia-vorn",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/us-wahl-umfrage-new-york-times-donald-trump-arizona-north-carolina-georgia-vorn-bild/super__430x286",
+      "image_title": "US-Wahl: Republican presidential nominee and former U.S. President Donald Trump speaks during a campaign rally held with Republican vice presidential nominee Senator JD Vance, in Atlanta, Georgia, U.S., August 3, 2024. REUTERS/Megan Varner"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Linkin Park in Hamburg : Der Himmel als letzter Zufluchtsort",
-      "teaser": "Sieben Jahre nach dem Tod von Chester Bennington treten Linkin Park mit neuer Sängerin auf. Die Vergangenheit der Band ist allgegenwärtig – und wird kurz überwunden.",
-      "url": "https://www.zeit.de/kultur/musik/2024-09/inkin-park-hamburg-konzert-comeback-band",
-      "image_url": "https://img.zeit.de/kultur/musik/2024-09/linkin-park/wide__892x501",
-      "image_title": "Linkin Park in Hamburg: Rotes Licht, pinkes Trikot: Mike Shinoda und Emily Armstrong beim Konzert von Linkin Park am 22. September in Hamburg"
+      "title": "Z+ (abopflichtiger Inhalt); Volkstümlicher Schlager : Aus die Gaudi? Nicht ganz",
+      "teaser": "Der volkstümliche Schlager erreichte mal ein Millionenpublikum. Heute tingeln die einstigen Stars durch die Provinz. Doch die Sehnsucht nach Alpenkitsch und Dirndl lebt.",
+      "url": "https://www.zeit.de/2024/40/volkstuemlicher-schlager-musik-dominik-ofner-alpenlaender",
+      "image_url": "https://img.zeit.de/2024/40/volkstuemlicher-schlager-musik-dominik-ofner-alpenlaender-teaserbild/wide__892x501",
+      "image_title": "Volkstümlicher Schlager: Die Schlager-Queen Helene Fischer (l.) mit der Rapperin Shirin David 2023"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Trinkgeld : Wenn selbst der Imbiss Trinkgeld will",
-      "teaser": "Zehn, 15 oder sogar 20 Prozent: Neue Kartenlesegeräte fragen die Kunden nach Trinkgeld. Wie die Terminals Gäste dazu verführen, mehr zu zahlen, als sie eigentlich wollen",
-      "url": "https://www.zeit.de/geld/2024-09/trinkgeld-vorschlag-restaurant-imbiss-usa",
-      "image_url": "https://img.zeit.de/geld/2024-09/trinkgeld-vorschlag-restaurant-imbiss-usa-bild/super__430x286",
-      "image_title": "Trinkgeld: Wenn selbst der Imbiss Trinkgeld will"
+      "title": "Mobilität : Umweltverbände kritisieren Preiserhöhung beim Deutschlandticket",
+      "teaser": "Umwelt- und Verbraucherverbände sehen im teureren Deutschlandticket ein Hindernis für gerechte Mobilität und Umweltziele. Die Verkehrsunternehmen hingegen sind zufrieden.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/deutschland-ticket-preiserhoehung-58-euro-reaktionen-sozial-umwelt-verband",
+      "image_url": "https://img.zeit.de/2024-09/deutschland-ticket-preiserhoehung-58-euro-reaktionen-sozial-umwelt-verband-bild-2/super__430x286",
+      "image_title": "Mobilität: Ein Nahverkehrszug fährt über die neu gebaute Bahnstrecke zum Schweriner Hauptbahnhof (Aufnahme mit langer Belichtungszeit). Nach dem 9-Euro-Ticket kommt nun Deutschlandticket für Busse und Bahnen im Nah- und Regionalverkehr. (zu dpa «Das Deutschlandticket kommt - Was geplant ist»)"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Kommunikation am Arbeitsplatz • Z+ Empfehlung : Kollegen aus der Hölle",
-      "teaser": "Die Übermotivierte, der Geltungssüchtige, der ewig Unzufriedene: Manche Kollegen-Typen nerven gewaltig. Tipps, wie man mit schwierigen Leuten gut arbeiten kann",
-      "url": "https://www.zeit.de/arbeit/2024-08/nervige-arbeitskollegen-problem-chef-kommunikation",
-      "image_url": "https://img.zeit.de/arbeit/2024-08/nervige-arbeitskollegen-problem/super__430x286",
-      "image_title": "Kommunikation am Arbeitsplatz • Z+ Empfehlung: Kollegen aus der Hölle"
+      "title": "Z+ (abopflichtiger Inhalt); Schließungen von Fabriken • Das Beste aus Z+ : Wenn die Industrie nicht mehr kann",
+      "teaser": "Stahl-, Chemie- und Automobilkonzerne haben Deutschland reich gemacht. Nun bauen sie Fabriken ab. Gibt es einen Ausweg?",
+      "url": "https://www.zeit.de/2024/40/schliessungen-fabriken-deutsche-industrie-stahl-autoindustrie",
+      "image_url": "https://img.zeit.de/2024/40/schliessungen-fabriken-deutsche-industrie-stahl-autoindustrie-teaserbild/super__430x286",
+      "image_title": "Schließungen von Fabriken • Das Beste aus Z+: Ein Stahlarbeiter an einem der Hochöfen von Thyssenkrupp in Duisburg – das Werk ist bei Weitem nicht ausgelastet."
     },
     {
-      "title": "Deutsche Bahn : Deutschlandticket kostet ab Januar 58 Euro",
-      "teaser": "Das Deutschlandticket soll es auch im kommenden Jahr geben, aber die Nutzer müssen neun Euro mehr zahlen. Hintergrund sind hohe Einbußen von Verkehrsunternehmen.",
-      "url": "https://www.zeit.de/mobilitaet/2024-09/deutschlandticket-kostet-ab-dem-kommenden-jahr-58-euro",
-      "image_url": "https://img.zeit.de/mobilitaet/2024-09/deutschlandticket-erhoehter-preis-bild/super__430x286",
-      "image_title": "Deutsche Bahn: Ein Regionalzug fährt am 29.10.23 in den Berliner Hauptbahnhof ein."
-    },
-    {
-      "title": "Großbanken : UniCredit erweitert Beteiligung an Commerzbank trotz Verkaufstops",
-      "teaser": "Nachdem UniCredit Commerzbank-Anteile vom Bund erworben hat, wurden weitere Verkäufe gestoppt. Nun hat die Bank sich auf andere Weise eine größere Beteiligung gesichert.",
-      "url": "https://www.zeit.de/wirtschaft/2024-09/unicredit-commerzbank-beteiligung-erweitert-verkaufsstop-aktien",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-09/unicredit-commerzbank-beteiligung-erweitert-verkaufsstop-aktien-bild/super__430x286",
-      "image_title": "Großbanken: Der Hauptsitz der Commerzbank spiegelt sich am 26. Februar 2023 im Fenster einer Bankfiliale in Frankfurt am Main."
-    },
-    {
-      "title": "Lebensmittelpreise : Butter könnte bis Weihnachten so teuer werden wie nie zuvor",
-      "teaser": "Mehr als zwei Euro kostet derzeit ein Viertelkilo Butter, die Milcherzeuger erwarten einen weiteren Anstieg: \"Zum Jahresende werden wir wohl neue Rekordpreise sehen.\"",
-      "url": "https://www.zeit.de/wirtschaft/2024-09/lebensmittel-preise-butter-milcherzeuger",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-09/ankuendigung-preiserhoehungen-butter-bild-2/super__430x286",
-      "image_title": "Lebensmittelpreise: Milcherzeuger erwarten einen weiteren Anstieg beim Preis für Butter."
-    },
-    {
-      "title": "Transportfahrräder : Sicher unterwegs auf dem Lastenrad",
+      "title": "Z+ (abopflichtiger Inhalt); Transportfahrräder : Sicher unterwegs auf dem Lastenrad",
       "teaser": "Lastenräder sind wegen Sicherheitsproblemen in Verruf geraten. Dabei gibt es eine Norm für sie. Doch nicht alle Hersteller testen danach. Oder informieren darüber.",
       "url": "https://www.zeit.de/mobilitaet/2024-09/transportraeder-lastenraeder-fahrrad-sicherheit-kauf",
       "image_url": "https://img.zeit.de/mobilitaet/2024-09/transportraeder-lastenraeder-fahrrad/super__430x286",
@@ -279,32 +258,32 @@
       "image_title": "Wahlverhalten: Weshalb Geringverdiener gegen ihre Interessen wählen"
     },
     {
-      "title": "Psychische Erkrankungen bei Kindern : Chillen bis zum nächsten Gong",
-      "teaser": "Mental Health Coaches sollen an Schulen versuchen, psychischen Störungen bei Kindern vorzubeugen. Super Idee – aber lassen sich die Schülerinnen darauf überhaupt ein?",
-      "url": "https://www.zeit.de/gesellschaft/schule/2024-09/psychische-erkrankungen-kinder-schule-mental-health-coaches",
-      "image_url": "https://img.zeit.de/gesellschaft/schule/2024-09/psychische-erkrankungen-kinder-schule-mental-health-2/super__430x286",
-      "image_title": "Psychische Erkrankungen bei Kindern: Chillen bis zum nächsten Gong"
+      "title": "Z+ (abopflichtiger Inhalt); Sri Lanka : Elefantastisch schön",
+      "teaser": "Über Jahre schwärmte ihre Oma von Sri Lanka. Als unsere Autorin endlich hinreist, fragt sie sich: warum? Dass sich das schnell ändert, liegt nicht nur an Buddhas Eckzahn.",
+      "url": "https://www.zeit.de/2024/40/sri-lanka-reise-kandy-natur-hochland",
+      "image_url": "https://img.zeit.de/2024/40/schon-schoen-bild-2/wide__892x501",
+      "image_title": "Sri Lanka: Zugfahrt durch das Hochland zwischen Ella und Colombo"
     },
     {
-      "title": "Bügeln : Nur du verstehst dein Hemd",
-      "teaser": "Warum können es Frauen kaum glauben, wenn ein Mann gerne bügelt? Es gibt wenig, das maskuliner wäre. Zeit für ein persönliches Coming-out: Ja, ich bin gut am Brett.",
-      "url": "https://www.zeit.de/familie/2024-09/buegeln-hemd-maenner-rollenbilder-haushalt",
-      "image_url": "https://img.zeit.de/familie/2024-09/buegeln-hemd-maenner-rollenbilder/wide__892x501",
-      "image_title": "Bügeln: Nur du verstehst dein Hemd"
+      "title": "Z+ (abopflichtiger Inhalt); Hotels in Deutschland : \"Deutsche bekommen keine Lockerheit rein\"",
+      "teaser": "Robert Kittel sucht schöne Hotels auf der ganzen Welt. Hier erzählt er, warum er hierzulande bislang kaum welche gefunden hat. Auf Sylt etwa kein einziges.",
+      "url": "https://www.zeit.de/2024/40/hotels-deutschland-robert-kittel-plattform-pretty-hotels",
+      "image_url": "https://img.zeit.de/2024/40/oft-ist-da-wenig-zu-retten-bild1/super__430x286",
+      "image_title": "Hotels in Deutschland: Quastenlampen, Wandpolster, Röhren-TV à la Krankenhaus – es gibt so viele Möglichkeiten, ein Hotelzimmer ungastlich zu machen."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Wohnorte in Deutschland • Das Beste aus Z+ : Wo soll ich wohnen?",
-      "teaser": "Günstige Mieten, viel Sonne, gerne im Speckgürtel: Unser interaktives Tool findet den Wohnort in Deutschland, der zu Ihren Bedürfnissen passt.",
-      "url": "https://www.zeit.de/zeit-magazin/2024-09/wohnorte-deutschland-lebensqualitaet-versorgung-infrastruktur",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-09/orte-deutschland-finden-miete-lebensqualitaet-wohnen-versorgung-tool-teaserbild/super__430x286",
-      "image_title": "Wohnorte in Deutschland • Das Beste aus Z+: Wo soll ich wohnen?"
+      "title": "Landtagswahlen : Thüringer CDU will Sondierungsgespräche mit BSW und SPD beschließen",
+      "teaser": "Nach der Landtagswahl in Thüringen will die CDU mit BSW und SPD verhandeln. Friedrich Merz hatte eine Zusammenarbeit mit dem BSW zuletzt \"sehr unwahrscheinlich\" genannt.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/thueringen-cdu-spd-bsw-sondierung-koalition-landtagswahl",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/thueringen-cdu-spd-bsw-sondierung-koalition-landtagswahl-bild/super__430x286",
+      "image_title": "Landtagswahlen: CDU top candidate at Thuringia's state elections Mario Voigt attends a press conference after elections in Saxony and Thuringia, in Berlin, Germany, September 2, 2024. REUTERS/Fabrizio Bensch"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Ehemaliger Hotelier : \"Jetzt stimmt einfach alles: der Job, die Arbeitszeiten, das Geld\"",
-      "teaser": "Max Fehrmann liebte seinen Job im Luxushotel. Als er Vater wurde, störten ihn die Überstunden, die Nachtdienste, der Druck – er kündigte und wurde Sozialarbeiter.",
-      "url": "https://www.zeit.de/arbeit/2024-09/ehemaliger-hotelier-hotellerie-sozialarbeiter-familie",
-      "image_url": "https://img.zeit.de/arbeit/2024-09/ehemaliger-hotelier-hotellerie-sozialarbeiter/super__430x286",
-      "image_title": "Ehemaliger Hotelier: Hier am Spielplatz gegenüber der Uni"
+      "title": "Kanzlerkandidatur : CDU-Parteigremien bestätigen Merz als Kanzlerkandidaten",
+      "teaser": "Friedrich Merz geht bei der Bundestagswahl als Kandidat der Union ins Rennen. Das haben die CDU-Gremien bestätigt. Merz sagte, er nehme die Aufgabe \"mit großer Demut\" an.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/merz-kanzlerkandidat-cdu-bestaetigung",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/merz-kanzlerkandidat-cdu-bestaetigung-bild-2/super__320x213",
+      "image_title": "Kanzlerkandidatur: Friedrich Merz, CDU-Bundesvorsitzender und Unions-Fraktionsvorsitzender, lächelt, als er beim Sommerinterview des ARD-«Berichts aus Berlin» auf der Terrasse des Marie-Elisabeth-Lüders-Hauses spricht. Stadt Berlin"
     },
     {
       "title": "Brandenburgwahl : BSW-Spitzenkandidat \"mehr als überwältigt\" von Wahlergebnis",
@@ -312,6 +291,27 @@
       "url": "https://www.zeit.de/politik/2024-09/brandenburgwahl-bsw-robert-crumbach-landtag",
       "image_url": "https://img.zeit.de/politik/deutschland/2024-09/pressekonferenz-bsw-landtagswahlen-brandenburg-bild-2/super__320x213",
       "image_title": "Brandenburgwahl: Der BSW-Spitzenkandidat Robert Crumbach (R) und die BSW-Ko-Vorsitzende Amira Mohamed Ali geben am 23. September 2024 eine Pressekonferenz in Berlin."
+    },
+    {
+      "title": "Großbanken : UniCredit erweitert Beteiligung an Commerzbank trotz Verkaufsstopp",
+      "teaser": "Nachdem UniCredit Commerzbank-Anteile vom Bund erworben hat, wurden weitere Verkäufe gestoppt. Nun hat die Bank sich auf andere Weise eine größere Beteiligung gesichert.",
+      "url": "https://www.zeit.de/wirtschaft/2024-09/unicredit-commerzbank-beteiligung-erweitert-verkaufsstop-aktien",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-09/unicredit-commerzbank-beteiligung-erweitert-verkaufsstop-aktien-bild/super__320x213",
+      "image_title": "Großbanken: Der Hauptsitz der Commerzbank spiegelt sich am 26. Februar 2023 im Fenster einer Bankfiliale in Frankfurt am Main."
+    },
+    {
+      "title": "Wahl in Brandenburg : Christian Lindner führt \"ernüchterndes Ergebnis\" auf Wahltaktik zurück",
+      "teaser": "Das schlechte Abschneiden in Brandenburg erklärt Christian Lindner mit taktischen Stimmen für die SPD. Für die Ampelkoalition stehe ein \"Herbst der Entscheidungen\" bevor.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/landtagswahl-brandenburg-fdp-christian-lindner-zyon-braun-ampel-koalition",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/christian-lindner-fdp-pressekonferenz-bild/super__320x213",
+      "image_title": "Wahl in Brandenburg: Christian Lindner (FDP), Bundesfinanzminister und FDP-Bundesvorsitzender, gibt ein Pressestatement zu den Landtagswahlen in Brandenburg. +++ dpa-Bildfunk +++"
+    },
+    {
+      "title": "Deutsche Bahn : Deutschlandticket kostet ab Januar 58 Euro",
+      "teaser": "Das Deutschlandticket soll es auch im kommenden Jahr geben, aber die Nutzer müssen neun Euro mehr zahlen. Hintergrund sind hohe Einbußen von Verkehrsunternehmen.",
+      "url": "https://www.zeit.de/mobilitaet/2024-09/deutschlandticket-kostet-ab-dem-kommenden-jahr-58-euro",
+      "image_url": "https://img.zeit.de/mobilitaet/2024-09/deutschlandticket-erhoehter-preis-bild/super__320x213",
+      "image_title": "Deutsche Bahn: Ein Regionalzug fährt am 29.10.23 in den Berliner Hauptbahnhof ein."
     },
     {
       "title": "Sri Lanka : Dissanayake als neuer Präsident von Sri Lanka vereidigt",
@@ -335,109 +335,74 @@
       "image_title": "49-Euro-Ticket: Eine Zugbegleiterin gibt in Coburg am 07.06.2024 auf dem Bahnsteig das Signal für die Abfahrt des neuen Franken-Thüringen-Express."
     },
     {
-      "title": "Bundespräsident : Steinmeier fordert von Digitalkonzernen mehr Einsatz gegen Hassrede",
-      "teaser": "Der Bundespräsident spricht Onlineplattformen eine Verantwortung für politisch motivierte Gewalt zu: Sie täten zu wenig gegen die Verbreitung von Hetze.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/bundespraesident-frank-walter-steinmeier-digitalkonzerne-hassrede",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/bundespraesident-frank-walter-steinmeier-digitalkonzerne-hassrede-bild/super__320x213",
-      "image_title": "Bundespräsident: Bundespräsident Frank-Walter Steinmeier spricht am 13.09.2024 beim Bürgerfest des Bundespräsidenten im Schloss Bellevue."
-    },
-    {
-      "title": "Koreanische Halbinsel : Südkorea droht wegen Müllballons aus dem Norden mit Militärmaßnahmen",
-      "teaser": "Seit Monaten schickt Nordkorea Ballons mit Abfällen und Gülle ins Nachbarland. Das südkoreanische Militär will nun im schlimmsten Fall entsprechende Maßnahmen ergreifen.",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/suedkorea-nordkorea-muellballons-militaer",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/suedkorea-militaermassnahmen-muellballon-bild/super__320x213",
-      "image_title": "Koreanische Halbinsel: Südkoreanische Soldaten nehmen am 20. August 2024 in Seoul an einer Anti-Terror-Übung zwischen den USA und Südkorea teil, um sich besser auf künftige Müllballons und nordkoreanische Drohnenangriffe vorzubereiten."
-    },
-    {
-      "title": "Landtagswahl in Brandenburg : Kevin Kühnert fordert klare Aussage von FDP zur Ampelkoalition",
-      "teaser": "Nach der Wahl in Brandenburg stellen einige Liberale die Zukunft der Bundesregierung infrage. Der SPD-Generalsekretär wünscht sich \"ein klares Wort\" von der FDP-Spitze.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/landtagswahl-brandenburg-kevin-kuehnert-fdp-ampel-koalition",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/landtagswahlen-brandenburg-reaktion-kuehnert-bild/super__320x213",
-      "image_title": "Landtagswahl in Brandenburg: Kevin Kühnert äußert sich am 01. September 2024 bei einem Fernsehinterview in der SPD-Zentrale, dem Willy-Brandt-Haus, zu den Landtagswahlen in Sachsen und Thüringen."
-    },
-    {
-      "title": "Robert Crumbach : Brandenburger BSW-Spitzenkandidat knüpft Koalition an Bedingungen",
-      "teaser": "Die SPD ist für eine Mehrheit in Brandenburg auf das BSW angewiesen. Dessen Spitzenkandidat erwartet von einer Landesregierung ein Nein zu US-Atomraketen in Deutschland.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/brandenburg-landtag-bsw-robert-crumbach",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/landtagswahlen-brandenburg-spitzekandidat-bsw-robert-crumbach-bild/super__320x213",
-      "image_title": "Robert Crumbach: BSW-Spitzenkandidat Robert Crumbach auf einer Wahlkampfveranstaltung seiner Partei vor der Landtagswahl in Brandenburg."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); John Taylor : \"Du hast nie genug Geld, um dich wirklich frei zu fühlen\"",
-      "teaser": "Mit Duran Duran hat John Taylor mehr als 100 Millionen Tonträger verkauft. Dennoch weiß er heute: Mit Neid klarzukommen, ist ein lebenslanger Prozess.",
-      "url": "https://www.zeit.de/zeit-magazin/2024/40/john-taylor-ratschlaege-leben",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024/40/was-ich-gern-frueher-gewusst-haette-bild-1/super__430x286",
-      "image_title": "John Taylor: \"Du hast nie genug Geld, um dich wirklich frei zu fühlen\""
-    },
-    {
       "title": "ZEIT Podcast-Tour : Feiern Sie mit uns das ZEIT Podcast-Tour Finale",
       "teaser": "Seien Sie live dabei, wenn die Hosts von \"Verbrechen\" und weiteren ZEIT-Podcasts das große Tour-Finale feiern. Wir freuen uns auf Ihren Besuch am 15. Dezember in Berlin.",
       "url": "https://www.zeit.de/gesellschaft/2024-08/zeit-podcast-tour-finale-live-berlin-was-jetzt-verbrechen-alles-gesagt",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-08/podcast-tour-finale-2024-titelbild-2/super__430x286",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-08/podcast-tour-finale-2024-titelbild-2/wide__892x501",
       "image_title": "ZEIT Podcast-Tour: Feiern Sie mit uns das ZEIT Podcast-Tour Finale"
     },
     {
-      "title": "\"WHITE\" – Folge 1 : Hat dieser Mann jemanden umgebracht?",
-      "teaser": "Mike Kent war ein Neonazi, dann stieg er aus: Darüber wollte unser Reporter mit dem Amerikaner reden. Dann gesteht Mike sein schlimmstes Verbrechen. Der Dokupodcast",
-      "url": "https://www.zeit.de/gesellschaft/2024-06/neonazi-aussteiger-mord-gestaendnis-true-crime-white-podcast-folge-1",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-06/white-podcast-tapete-2/super__320x213",
-      "image_title": "\"WHITE\" – Folge 1: Hat dieser Mann jemanden umgebracht?"
+      "title": "Feuilletonpodcast : Narzisstisch sind immer nur die anderen",
+      "teaser": "Es ist die Modediagnose Nummer eins: nervige Chefs, verletzte Ex-Partner, der eigene Vater – heute sind vermeintlich alle narzisstisch. Aber kann das stimmen?",
+      "url": "https://www.zeit.de/kultur/2024-09/narzissmus-diagnose-psychologie-feuilleton-podcast",
+      "image_url": "https://img.zeit.de/kultur/2022-09/podcast-die-sogenannte-gegenwart-2022-pauer-mangold/super__430x286",
+      "image_title": "Feuilletonpodcast: Narzisstisch sind immer nur die anderen"
     },
     {
-      "title": "\"WHITE\" – Folge 2 : \"Was ich dir gerade erzählt habe, weiß niemand\"",
-      "teaser": "Ex-Nazi Mike hat einen Mord gestanden, für den er nie verurteilt wurde. Erst denkt unser Reporter: Ich muss ihn anzeigen. Doch unterschreibt er damit sein Todesurteil?",
-      "url": "https://www.zeit.de/gesellschaft/2024-06/neonazi-aussteiger-mord-gestaendnis-true-crime-white-podcast-folge-2",
-      "image_url": "https://img.zeit.de/politik/2024-05/white-podcast-folge1-b-srgb/super__320x213",
-      "image_title": "\"WHITE\" – Folge 2: \"Was ich dir gerade erzählt habe, weiß niemand\""
+      "title": "\"Deutsche Geister – Die Geschichte von Schmusch und Schmidt\" : Der SS-Offizier, der 100 Juden gerettet hat?",
+      "teaser": "Ihr Vater überlebte als Jude das Warschauer Ghetto. Plötzlich bekommt sie eine Mail vom Enkel eines SS-Manns, die alles verändert. Gemeinsam suchen sie nach der Wahrheit.",
+      "url": "https://www.zeit.de/entdecken/2024-07/nationalsozialismus-familiengeschichte-vorfahren-holocaust-taeter-opfer-podcast-folge-1",
+      "image_url": "https://img.zeit.de/politik/2024-07/deutsche-geister-teaser-folge1/super__320x213",
+      "image_title": "\"Deutsche Geister – Die Geschichte von Schmusch und Schmidt\": Der SS-Offizier, der 100 Juden gerettet hat?"
     },
     {
-      "title": "\"WHITE\" – Folge 3 : Der Schwarze Junge",
-      "teaser": "Das Opfer sei ein Schwarzer Junge gewesen, sagt Ex-Nazi Mike. Etwa 17 Jahre alt. Unsere Reporter versuchen, die Familie zu finden. Und stoßen auf ein großes Rätsel.",
-      "url": "https://www.zeit.de/gesellschaft/2024-06/neonazi-aussteiger-mord-gestaendnis-true-crime-white-podcast-folge-3",
-      "image_url": "https://img.zeit.de/politik/2024-05/white-podcast-folge3-b/super__320x213",
-      "image_title": "\"WHITE\" – Folge 3: Der Schwarze Junge"
+      "title": "\"Deutsche Geister\" – Folge 2 : Der Opa, ein SS-Offizier – und Held?",
+      "teaser": "Norman Baltrusch hat eine Leidenschaft: Ahnenforschung. Sein Opa war bei der SS, soll aber 100 Juden gerettet haben. Dafür gibt es Zeugen. Aber es ist nur das halbe Bild.",
+      "url": "https://www.zeit.de/entdecken/2024-07/nationalsozialismus-familiengeschichte-vorfahren-holocaust-taeter-opfer-podcast-folge-2",
+      "image_url": "https://img.zeit.de/politik/2024-07/deutsche-geister-teaser-folge2/super__320x213",
+      "image_title": "\"Deutsche Geister\" – Folge 2: Der Opa, ein SS-Offizier – und Held?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); \"WHITE\" – Folge 4 : Warum lügt er sich in einen Mord rein?",
-      "teaser": "Nirgends finden sich Beweise für Mikes angeblichen Mord. Unsere Reporter glauben schon, einen notorischen Lügner zu enttarnen. Doch dann erreichen sie Mikes Mutter.",
-      "url": "https://www.zeit.de/gesellschaft/2024-06/neonazi-aussteiger-mord-gestaendnis-true-crime-white-podcast-folge-4",
-      "image_url": "https://img.zeit.de/politik/2024-05/white-podcast-folge3-c/super__320x213",
-      "image_title": "\"WHITE\" – Folge 4: Warum lügt er sich in einen Mord rein?"
+      "title": "\"Deutsche Geister\" – Folge 3 : \"Und ich kann nicht weinen\"",
+      "teaser": "Die Täter sind bis auf wenige Ausnahmen tot. Aber es gibt noch Opfer, die von der dunkelsten Zeit der deutschen Geschichte erzählen können. Sie waren damals Kinder.",
+      "url": "https://www.zeit.de/entdecken/2024-07/nationalsozialismus-familiengeschichte-vorfahren-holocaust-taeter-opfer-podcast-folge-3",
+      "image_url": "https://img.zeit.de/politik/2024-07/deutsche-geister-teaser-folge3/super__320x213",
+      "image_title": "\"Deutsche Geister\" – Folge 3: \"Und ich kann nicht weinen\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); \"WHITE\" – Folge 5 : \"Hier haben wir ihn gekriegt\"",
-      "teaser": "Ex-Neonazi Mike Kent besucht mit unseren Reportern den Tatort. Überall sei damals Blut gewesen. Danach hätten sie sich vollgesoffen. Nur: Erinnerung kann trügerisch sein.",
-      "url": "https://www.zeit.de/gesellschaft/2024-06/neonazi-aussteiger-mord-gestaendnis-true-crime-white-podcast-folge-5",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-05/white-podcast-aufmacher/super__320x213",
-      "image_title": "\"WHITE\" – Folge 5: \"Hier haben wir ihn gekriegt\""
+      "title": "\"Deutsche Geister\" – Folge 4 : \"Nein … nein! Da ist wirklich ein Versteck!\"",
+      "teaser": "Wie hat Robert Schmusch überlebt: im Ghetto, als Zwangsarbeiter, auf der Flucht? Seine Tochter Ilana reist nach Warschau, findet eine Ruine – und ein Loch im Boden.",
+      "url": "https://www.zeit.de/entdecken/2024-07/nationalsozialismus-familiengeschichte-vorfahren-holocaust-taeter-opfer-podcast-folge-4",
+      "image_url": "https://img.zeit.de/politik/2024-07/deutsche-geister-teaser-folge4/super__320x213",
+      "image_title": "\"Deutsche Geister\" – Folge 4: \"Nein … nein! Da ist wirklich ein Versteck!\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); \"WHITE\" – Folge 6 : Hat er mehr als einen Menschen umgebracht?",
-      "teaser": "Er prügelte mit Baseballschlägern, trat mit Stiefeln auf Köpfe: Recherchiert man Mikes Vergangenheit, findet man Schreckliches. Plötzlich geht es um mehr als einen Mord.",
-      "url": "https://www.zeit.de/gesellschaft/2024-06/neonazi-aussteiger-mord-gestaendnis-true-crime-white-podcast-folge-6",
-      "image_url": "https://img.zeit.de/politik/2024-05/white-podcast-folge6-b/super__320x213",
-      "image_title": "\"WHITE\" – Folge 6: Hat er mehr als einen Menschen umgebracht?"
+      "title": "Z+ (abopflichtiger Inhalt); \"Deutsche Geister\" – Folge 5 : \"Er hat gelegentlich Schreie durch die dicke Steindecke gehört\"",
+      "teaser": "Ilana und Norman suchen in Warschau den Ort, an dem sich ihre Vorfahren trafen: eine Autowerkstatt. Doch die Stimmung kippt. Denn Ilana äußert erste Zweifel.",
+      "url": "https://www.zeit.de/entdecken/2024-07/nationalsozialismus-familiengeschichte-vorfahren-holocaust-taeter-opfer-podcast-folge-5",
+      "image_url": "https://img.zeit.de/politik/2024-07/deutsche-geister-teaser-folge5/super__320x213",
+      "image_title": "\"Deutsche Geister\" – Folge 5: \"Er hat gelegentlich Schreie durch die dicke Steindecke gehört\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); \"WHITE\" – Folge 7 : \"Sie ist der Grund, warum das alles passiert ist\"",
-      "teaser": "Endlich: Die wichtigste Augenzeugin für Mikes Mord taucht auf. Lisa erzählt von traumatischen Jahren. Doch an die brutale Tat erinnert sie sich nicht. Wirklich nicht?",
-      "url": "https://www.zeit.de/gesellschaft/2024-06/neonazi-aussteiger-mord-gestaendnis-true-crime-white-podcast-folge-7",
-      "image_url": "https://img.zeit.de/politik/2024-05/white-podcast-folge7-a/super__320x213",
-      "image_title": "\"WHITE\" – Folge 7: \"Sie ist der Grund, warum das alles passiert ist\""
+      "title": "Z+ (abopflichtiger Inhalt); \"Deutsche Geister\" – Folge 6 : \"Thank God for Schmidt\"",
+      "teaser": "Er ist einer der letzten Nazijäger: Efraim Zuroff liest die Akten über den SS-Offizier Schmidt. Er hat eine klare Meinung. Und sagt: Nicht jeder kann Superman sein.",
+      "url": "https://www.zeit.de/entdecken/2024-07/nationalsozialismus-familiengeschichte-vorfahren-holocaust-taeter-opfer-podcast-folge-6",
+      "image_url": "https://img.zeit.de/politik/2024-07/deutsche-geister-teaser-folge6/super__320x213",
+      "image_title": "\"Deutsche Geister\" – Folge 6: \"Thank God for Schmidt\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); \"WHITE\" – Folge 8 : Die Suche nach den Blutspuren",
-      "teaser": "Eine Forensikerin prüft Proben vom Tatort. Auch nach Jahren lassen sich oft noch Blutspuren finden. Unsere Reporter haben eine Theorie, was wirklich passiert sein könnte.",
-      "url": "https://www.zeit.de/gesellschaft/2024-06/neonazi-aussteiger-mord-gestaendnis-true-crime-white-podcast-folge-8",
-      "image_url": "https://img.zeit.de/politik/2024-05/white-podcast-folge8-a/super__320x213",
-      "image_title": "\"WHITE\" – Folge 8: Die Suche nach den Blutspuren"
+      "title": "Z+ (abopflichtiger Inhalt); \"Deutsche Geister\" – Folge 7 : \"In die Luft geschossen\" – eine sehr deutsche Geschichte",
+      "teaser": "Sucht man in den Archiven nach der Geschichte des SS-Manns, kommen neue Fragen auf. Schmidt war auch an einem Ort stationiert, an dem Gaswagen im Einsatz waren.",
+      "url": "https://www.zeit.de/entdecken/2024-07/nationalsozialismus-familiengeschichte-vorfahren-holocaust-taeter-opfer-podcast-folge-7",
+      "image_url": "https://img.zeit.de/politik/2024-07/deutsche-geister-teaser-folge7/super__320x213",
+      "image_title": "\"Deutsche Geister\" – Folge 7: \"In die Luft geschossen\" – eine sehr deutsche Geschichte"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); WHITE – Folge 9 : Überlebt ihre Freundschaft einen mutmaßlichen Mord?",
-      "teaser": "Die Schwarze Bewährungshelferin Tiffany hat Mike aus der Neonazi-Szene geholt. Wie reagiert sie, wenn sie erfährt, dass er möglicherweise Schwarze Menschen ermordet hat?",
-      "url": "https://www.zeit.de/gesellschaft/2024-06/neonazi-aussteiger-mord-gestaendnis-true-crime-white-podcast-folge-9",
-      "image_url": "https://img.zeit.de/politik/2024-05/white-podcast-folge1-a-srgb/super__320x213",
-      "image_title": "WHITE – Folge 9: Überlebt ihre Freundschaft einen mutmaßlichen Mord?"
+      "title": "Z+ (abopflichtiger Inhalt); \"Deutsche Geister\" – Folge 8 : Mittäter – oder Widerstandskämpfer?",
+      "teaser": "Am Ende der Recherche blicken Ilana und Norman sehr unterschiedlich auf die Frage, welche Rolle der SS-Offizier Willy Schmidt damals hatte. Gelingt noch ein Gespräch?",
+      "url": "https://www.zeit.de/entdecken/2024-07/nationalsozialismus-familiengeschichte-vorfahren-holocaust-taeter-opfer-podcast-folge-8",
+      "image_url": "https://img.zeit.de/politik/2024-07/deutsche-geister-teaser-folge8/super__320x213",
+      "image_title": "\"Deutsche Geister\" – Folge 8: Mittäter – oder Widerstandskämpfer?"
     },
     {
       "title": "Diese Woche in der ZEIT : Das unheimliche Gefühl: WUT",
@@ -500,30 +465,30 @@
       "url": "https://www.zeit.de/politik/deutschland/2024-09/brandenburg-landtag-bsw-robert-crumbach"
     },
     {
-      "title": "Reaktionen zur Landtagswahl in Brandenburg : Bayerns FDP-Chef Hagen fordert Ausstieg aus Ampelkoalition",
-      "teaser": "Während SPD, AfD und das BSW ihr Abschneiden in Brandenburg feiern, sind Grüne und CDU enttäuscht. Aus der FDP kommen starke Zweifel am Fortbestehen der Ampel.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/brandenburg-landtagswahl-reaktionen-scholz-ali"
+      "title": "Landtagswahl in Brandenburg : Kevin Kühnert fordert klare Aussage von FDP zur Ampelkoalition",
+      "teaser": "Nach der Wahl in Brandenburg stellen einige Liberale die Zukunft der Bundesregierung infrage. Der SPD-Generalsekretär wünscht sich \"ein klares Wort\" von der FDP-Spitze.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/landtagswahl-brandenburg-kevin-kuehnert-fdp-ampel-koalition"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Alternative für Deutschland : Sie können grölen, was sie wollen",
-      "teaser": "Am Wahlabend wirkten AfD-Vertreter erstaunlich derangiert und konfus. Schaden kann der Partei das nicht. Und selbst die Aufregung um den Abschiebesong ist eingepreist.",
-      "url": "https://www.zeit.de/kultur/2024-09/alternative-fuer-deutschland-wahlparty-landtagswahl-brandenburg",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/alternative-fuer-deutschland-wahlparty-landtagswahl-brandenburg-bild/wide__892x501",
-      "image_title": "Alternative für Deutschland: Sie können grölen, was sie wollen"
+      "title": "Z+ (abopflichtiger Inhalt); Literaturhaus Hamburg : Nehmt mich! Oder habt ihr die Hosen voll?",
+      "teaser": "Das Literaturhaus sucht zum 1. Mai 2025 einen neuen Chef (m/w/d). Lesen Sie hier die öffentliche Bewerbung von Daniel Haas.",
+      "url": "https://www.zeit.de/2024/37/literaturhaus-hamburg-leitung-stellenausschreibung-kultur",
+      "image_url": "https://img.zeit.de/2024/37/literaturhaus-hamburg-leitung-stellenausschreibung-kultur-teaser/wide__892x501",
+      "image_title": "Literaturhaus Hamburg: Daniel Haas bewirbt sich um die Stelle als neuer Chef des Literaturhauses."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Wahl in Brandenburg : Jetzt müssen die Grünen ins Risiko gehen",
-      "teaser": "Die Partei schickt sich an, die Niederlage in Brandenburg einfach wegzuverwalten. Dabei sind die Grünen in ihrer schwersten Krise seit 1990 – und brauchen nun eine Tat.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/landtagswahl-brandenburg-gruene-niederlage",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/die-gruenen-brandenburg-landtagswahl-bild2/super__430x286",
-      "image_title": "Wahl in Brandenburg: Jetzt müssen die Grünen ins Risiko gehen"
+      "title": "Z+ (abopflichtiger Inhalt); Fachkräftemangel in Brandenburg : \"Ich habe Kollegen, die sagen: 'Ich gehöre hier nicht her, ich störe'\"",
+      "teaser": "Die Wirtschaft in Brandenburg wächst, doch der Wahlerfolg der AfD besorgt Unternehmer. Sie fürchten, dass künftig noch weniger Fachkräfte ins Land kommen wollen.",
+      "url": "https://www.zeit.de/arbeit/2024-09/fachkraeftemangel-brandenburg-arbeitsmarkt-unternehmen-wirtschaft",
+      "image_url": "https://img.zeit.de/arbeit/2024-09/fachkraeftemangel-brandenburg-arbeitsmarkt-unternehmen-wirtschaft-bild/super__430x286",
+      "image_title": "Fachkräftemangel in Brandenburg: Bundeswirtschaftsminister und Bundesarbeitsminister besuchen die Charite in Berlin Symbolbild Physiotherapeut mit Gymnastikball in Behandlungszimmer Deutschland *** Federal Minister of Economics and Federal Minister of Labor visit Charite in Berlin Symbol image Physiotherapist with exercise ball in treatment room Germany"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); AfD-Wahlparty : Wie die AfD-Security mir ein AfD-Geschenk abnahm",
-      "teaser": "Im Wahlkampf verteilte die AfD den Kubotan – ein Mittel zur Selbstverteidigung, in Deutschland legal. Nur auf die Party der Partei kommt man damit nicht. Zu gefährlich!",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/afd-wahlkampf-kubotans-waffe-brandenburg",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/afd-wahlkampf-kubotans-waffe/super__430x286",
-      "image_title": "AfD-Wahlparty: Wie die AfD-Security mir ein AfD-Geschenk abnahm"
+      "title": "Z+ (abopflichtiger Inhalt); Daten zur Landtagswahl : So stark ist Berlins Einfluss auf Brandenburg",
+      "teaser": "Das eher ländliche Bundesland liegt wie ein Ring um die Hauptstadt. Unsere Daten zeigen, wie sich das auf die Ergebnisse der Landtagswahl auswirkte.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/wahl-brandenburg-landtag-gemeinden-berlin-speckguertel",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/wahl-brandenburg-landtag-gemeinden-berlin-speckguertel-teaserbild/super__430x286",
+      "image_title": "Daten zur Landtagswahl: So stark ist Berlins Einfluss auf Brandenburg"
     },
     {
       "title": "Verlagsangebot : 9 historische Altstädte in Deutschland",
@@ -603,10 +568,17 @@
       "image_title": "Plan D: Wahlergebnisse: Was passiert mit meinem Land?"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Trinkgeld : Wenn selbst der Imbiss Trinkgeld will",
+      "teaser": "Zehn, 15 oder sogar 20 Prozent: Neue Kartenlesegeräte fragen die Kunden nach Trinkgeld. Wie die Terminals Gäste dazu verführen, mehr zu zahlen, als sie eigentlich wollen",
+      "url": "https://www.zeit.de/geld/2024-09/trinkgeld-vorschlag-restaurant-imbiss-usa",
+      "image_url": "https://img.zeit.de/geld/2024-09/trinkgeld-vorschlag-restaurant-imbiss-usa-bild/wide__892x501",
+      "image_title": "Trinkgeld: Wenn selbst der Imbiss Trinkgeld will"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Geld ausgeben : Hoch die Krüge, raus die Scheine",
       "teaser": "Die Deutschen konsumieren nicht mehr gern. Auf dem Oktoberfest können sie an ihrer Einstellung arbeiten. Geld verprassen kann glücklich machen!",
       "url": "https://www.zeit.de/geld/2024-09/geld-ausgeben-gluecklich-sein-oktoberfest-konsum",
-      "image_url": "https://img.zeit.de/geld/2024-09/geld-ausgeben-gluecklich-sein-oktoberfest/wide__892x501",
+      "image_url": "https://img.zeit.de/geld/2024-09/geld-ausgeben-gluecklich-sein-oktoberfest/super__430x286",
       "image_title": "Geld ausgeben: Hoch die Krüge, raus die Scheine"
     },
     {
@@ -615,13 +587,6 @@
       "url": "https://www.zeit.de/geld/2024-02/wohnen-mieten-oder-kaufen-rechner-immobilien-hauskauf",
       "image_url": "https://img.zeit.de/geld/2023-11/wohnen-mieten-oder-kaufen-rechner-immobilien/super__430x286",
       "image_title": "Interaktiver Rechner: Mieten oder Kaufen? Der endgültige Rechner"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Geld und Dating : Ist Liebe doch käuflich?",
-      "teaser": "Wie viel Geld jemand hat, ist für junge Menschen beim Daten wichtiger als Gefühle, Aussehen oder die Persönlichkeit, zeigt eine Studie. Warum das gar nicht schlecht ist.",
-      "url": "https://www.zeit.de/geld/2024-09/geld-dating-partnersuche-angst-altersarmut",
-      "image_url": "https://img.zeit.de/geld/2024-09/geld-dating-partnersuche-angst-altersarmut-bild-2/super__430x286",
-      "image_title": "Geld und Dating: Ist Liebe doch käuflich?"
     },
     {
       "title": "Verlagsangebot : Worte wie Pfeile: So treffen Sie rhetorisch ins Schwarze",
@@ -757,13 +722,6 @@
       "image_title": "Boris Pistorius: \"Demokratie muss jeden Tag erkämpft, bestätigt und verteidigt werden\""
     },
     {
-      "title": "Feuilletonpodcast : Narzisstisch sind immer nur die anderen",
-      "teaser": "Es ist die Modediagnose Nummer eins: nervige Chefs, verletzte Ex-Partner, der eigene Vater – heute sind vermeintlich alle narzisstisch. Aber kann das stimmen?",
-      "url": "https://www.zeit.de/kultur/2024-09/narzissmus-diagnose-psychologie-feuilleton-podcast",
-      "image_url": "https://img.zeit.de/kultur/2022-09/podcast-die-sogenannte-gegenwart-2022-pauer-mangold/super__320x213",
-      "image_title": "Feuilletonpodcast: Narzisstisch sind immer nur die anderen"
-    },
-    {
       "title": "Bücherpodcast : Kampf und Glamour",
       "teaser": "Die deutsche Literatur des Herbstes ist weltläufig. Von der Istanbuler Upperclass zu indischen Freiheitskämpfern, die gegen den britischen Kolonialismus aufstehen.",
       "url": "https://www.zeit.de/kultur/2024-09/deutsche-literatur-herbst-neuerscheinungen-buecherpodcast",
@@ -799,6 +757,20 @@
       "image_title": "Gewalt im US-Wahlkampf: Der Golfplatz in West Palm Beach war nach dem möglichen Anschlagsversuch gegen Donald Trump weiträumig abgesperrt."
     },
     {
+      "title": "\"Und was machst du am Wochenende?\" : \"In meinem Leben wird gerade alles neu definiert\"",
+      "teaser": "Im Wochenendpodcast erzählt der Schauspieler und Autor Sabin Tambrea von der Flucht seiner Familie und von dem Zufallsmoment, der ihn zum Schauspieler machte.",
+      "url": "https://www.zeit.de/entdecken/2024-09/sabin-tambrea-schauspieler-wochenende-tipps-podcast",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-09/sabin-tambrea-wochenendpodcast/super__320x213",
+      "image_title": "\"Und was machst du am Wochenende?\": \"In meinem Leben wird gerade alles neu definiert\""
+    },
+    {
+      "title": "Psychische Erkrankungen bei Kindern : Chillen bis zum nächsten Gong",
+      "teaser": "Mental Health Coaches sollen an Schulen versuchen, psychischen Störungen bei Kindern vorzubeugen. Super Idee – aber lassen sich die Schülerinnen darauf überhaupt ein?",
+      "url": "https://www.zeit.de/gesellschaft/schule/2024-09/psychische-erkrankungen-kinder-schule-mental-health-coaches",
+      "image_url": "https://img.zeit.de/gesellschaft/schule/2024-09/psychische-erkrankungen-kinder-schule-mental-health-2/super__430x286",
+      "image_title": "Psychische Erkrankungen bei Kindern: Chillen bis zum nächsten Gong"
+    },
+    {
       "title": "Dackelparade : Rekordzahl von 1.175 Dackeln zieht durch Regensburg",
       "teaser": "Zehntausende Menschen beobachten die Dackelparade in Regensburg. 1.175 Tiere laufen mit – ein Rekord. Die Parade steht im Schatten der umstrittenen Dackelzucht.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/dackelparade-regensburg-rekord",
@@ -813,17 +785,24 @@
       "image_title": "Jonas Grethlein: Anderen Menschen in Not einen Hoffnungsschimmer zu geben, könne ein Akt christlicher Nächstenliebe sein, sagt Jonas Grethlein."
     },
     {
-      "title": "Untergang der \"Bayesian\" : Hersteller von gesunkener Luxusjacht fordern Entschädigung",
-      "teaser": "Nach dem Untergang der \"Bayesian\" ist vieles unklar. Die Staatsanwaltschaft ermittelt – und jetzt verlangen die Erbauer 222 Millionen Euro Entschädigung.",
-      "url": "https://www.zeit.de/gesellschaft/2024-09/luxusjacht-bayesian-havarie-entschaedigung",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/bayesian-luxusjacht-untergang-bild/super__430x286",
-      "image_title": "Untergang der \"Bayesian\": Rescue teams operate off Porticello harbor near Palermo, where they search for a last missing person on August 22, 2024, three days after the British-flagged luxury yacht Bayesian sank. All the men missing after a luxury yacht sank off Sicily -- who included UK tech tycoon Mike Lynch -- have been found, a coastguard official told. The official did not identify Lynch by name, after reports that his was the latest body pulled from the wreck of the \"Bayesian\", but confirmed that of three men and three women who had been missing, authorities were now only searching for a female. The Bayesian, which had 22 people aboard including 10 crew, was anchored some 700 metres from port before dawn when it was struck by a waterspout. Among the six missing were UK tech entrepreneur Mike Lynch and his 18-year-old daughter Hannah, and Jonathan Bloomer, the chair of Morgan Stanley International, and his wife Judy. (Photo by Alberto PIZZOLI / AFP) (Photo by ALBERTO PIZZOLI/AFP via Getty Images)"
+      "title": "Z+ (abopflichtiger Inhalt); Wahlen in den USA : Ein harter Schlag für Kamala Harris",
+      "teaser": "Die starke Teamsters-Gewerkschaft will Kamala Harris nicht unterstützen. Stattdessen wenden sich die Mitglieder Donald Trump zu, der Arbeitnehmerrechte schwächen will.",
+      "url": "https://www.zeit.de/wirtschaft/2024-09/wahlen-usa-kamala-harris-teamsters-gewerkschaft-5vor8",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-09/teamsters-usa/wide__892x501",
+      "image_title": "Teamsters-Chef O'Brien beim Parteitag der Republikaner."
+    },
+    {
+      "title": "Lebensmittelpreise : Butter könnte bis Weihnachten so teuer werden wie nie zuvor",
+      "teaser": "Mehr als zwei Euro kostet derzeit ein Viertelkilo Butter, die Milcherzeuger erwarten einen weiteren Anstieg: \"Zum Jahresende werden wir wohl neue Rekordpreise sehen.\"",
+      "url": "https://www.zeit.de/wirtschaft/2024-09/lebensmittel-preise-butter-milcherzeuger",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-09/ankuendigung-preiserhoehungen-butter-bild-2/super__430x286",
+      "image_title": "Lebensmittelpreise: Milcherzeuger erwarten einen weiteren Anstieg beim Preis für Butter."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Medikamentenknappheit bei Ozempic : Wenn Ozempic knapp wird",
       "teaser": "In den USA ist die Nachfrage nach Abnehmspritzen so groß, dass Apotheken anfangen, den Wirkstoff selbst anzumischen. Auf dem Schwarzmarkt kursieren gefälschte Spritzen.",
       "url": "https://www.zeit.de/wirtschaft/2024-09/medikamentenknappheit-ozempic-tirzepatid-semaglutid-usa-abnehmspritzen",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-09/medikamentenknappheit-ozempic-tirzepatid/wide__892x501",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-09/medikamentenknappheit-ozempic-tirzepatid/super__430x286",
       "image_title": "Medikamentenknappheit bei Ozempic: Pharmacy sign with a glowing cross and a sign with the inscription:Ozempic"
     },
     {
@@ -834,25 +813,11 @@
       "image_title": "Autoindustrie: Industrieroboter arbeiten an einem vollelektrischen Porsche Macan nach der Hochzeit (der Verbindung von Fahrwerk und Motor mit der Karosse) im Werk Leipzig."
     },
     {
-      "title": "E-Autos : SPD-Politiker fordern Prämie für Wechsel zum E-Auto",
-      "teaser": "Mit einer Umtauschprämie will die SPD-Fraktion der deutschen Autoindustrie helfen. Die CDU sieht Ähnlichkeiten zur Abwrackprämie – und kritisiert den Vorschlag.",
-      "url": "https://www.zeit.de/wirtschaft/2024-09/e-auto-umtauschpraemie-spd-fraktion",
-      "image_url": "https://img.zeit.de/mobilitaet/2024-09/e-auto-spd-politiker-fordern-auto-austauschpraemie-bild/super__430x286",
-      "image_title": "E-Autos: Elektrofahrzeuge aus der Produktion von Volkswagen Sachsen parken vor der Auslieferung auf dem Werksgelände in Zwickau. Das Werk in Zwickau war bisher Vorreiter der Elektromobilität bei Volkswagen. Neben den Modellen ID.3, ID.4 und ID.5 werden dort auch zwei Modelle für Audi und eins der Marke Cupra produziert. Jetzt wächst vor Ort die Sorge um die Zukunft des Standortes, da man dem Vernehmen nach weit von einer Vollauslastung entfernt ist. Im Gespräch ist ein sukzessiver Abbau von Stellen, der viele befristet Beschäftigte treffen würde. Außerdem könnten Schichten reduziert werden. Heute ist dazu an dem Standort eine Betriebsversammlung geplant. Zwickau, 14.09.2023"
-    },
-    {
-      "title": "Jörg Steinbach : Minister Tesla hat ein Problem",
-      "teaser": "Brandenburgs Wirtschaftsminister holte Tesla ins Land, die Wirtschaft wächst. Vom Wahlvolk bekommt er dafür wenig Dankbarkeit. Vielleicht, weil er etwas übersehen hat?",
-      "url": "https://www.zeit.de/wirtschaft/2024-09/joerg-steinbach-brandenburg-wirtschaftsminister-spd-tesla",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/wirtschaftsminister-brandenburg-joerg-steinbach-bild-2/super__430x286",
-      "image_title": "Jörg Steinbach: Joerg Steinbach, SPD, Minister fuer Wirtschaft, Arbeit und Energie des Landes Brandenburg. 21.11.2020 Joerg Steinbach, Minister for Economic Affairs, Labour and Energy of the State of Brandenburg 21-11-2020"
-    },
-    {
-      "title": "Abwrackprämie : Nur ein Strohfeuer? Die Bilanz der Umweltprämie von 2009",
+      "title": "Abwrackprämie : Diese Autobauer haben 2009 von der Umweltprämie profitiert",
       "teaser": "Um die Autoindustrie anzukurbeln, bringt die SPD eine Neuauflage der Abwrackprämie ins Spiel. Doch die war schon vor 15 Jahren kein Allheilsbringer.",
-      "url": "https://www.wiwo.de/politik/deutschland/abwrackpraemie-nur-ein-strohfeuer-die-bilanz-der-umweltpraemie-von-2009-/30005418.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
+      "url": "https://www.wiwo.de/politik/deutschland/abwrackpraemie-diese-autobauer-haben-2009-von-der-umweltpraemie-profitiert/30005418.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
       "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/abwrackpraemie-x-grafiken-iamgo/30006046/2-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
-      "image_title": "Nur ein Strohfeuer? Die Bilanz der Umweltprämie von 2009"
+      "image_title": "Diese Autobauer haben 2009 von der Umweltprämie profitiert"
     },
     {
       "title": "Aurelius-Gründer Dirk Markus : Der harte Hund und die Pleite-Firmen",
@@ -883,6 +848,20 @@
       "image_title": "Teresa Reichl: Teresa Reichl"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Linkin Park in Hamburg : Der Himmel als letzter Zufluchtsort",
+      "teaser": "Sieben Jahre nach dem Tod von Chester Bennington treten Linkin Park mit neuer Sängerin auf. Die Vergangenheit der Band ist allgegenwärtig – und wird kurz überwunden.",
+      "url": "https://www.zeit.de/kultur/musik/2024-09/inkin-park-hamburg-konzert-comeback-band",
+      "image_url": "https://img.zeit.de/kultur/musik/2024-09/linkin-park/super__430x286",
+      "image_title": "Linkin Park in Hamburg: Rotes Licht, pinkes Trikot: Mike Shinoda und Emily Armstrong beim Konzert von Linkin Park am 22. September in Hamburg"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Alternative für Deutschland : Sie können grölen, was sie wollen",
+      "teaser": "Am Wahlabend wirkten AfD-Vertreter erstaunlich derangiert und konfus. Schaden kann der Partei das nicht. Und selbst die Aufregung um den Abschiebesong ist eingepreist.",
+      "url": "https://www.zeit.de/kultur/2024-09/alternative-fuer-deutschland-wahlparty-landtagswahl-brandenburg",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/alternative-fuer-deutschland-wahlparty-landtagswahl-brandenburg-bild/super__430x286",
+      "image_title": "Alternative für Deutschland: Sie können grölen, was sie wollen"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); \"Tatort\" Schwarzwald : Ich sag nicht gegen Svenja aus",
       "teaser": "Im Schwarzwald-\"Tatort\" ist das Schwäbisch des Kommissars Berg nur eines von vielen schönen Details. Auch der Fall bleibt dank später Twists spannend.",
       "url": "https://www.zeit.de/kultur/film/2024-09/tatort-schwarzwald-ad-acta-obduktionsbericht",
@@ -895,20 +874,6 @@
       "url": "https://www.zeit.de/kultur/2024-09/brandenburg-wahlergebnisse-landtagswahl-ostdeutschland-usa",
       "image_url": "https://img.zeit.de/politik/deutschland/2024-09/brandenburg-wahlergebnisse-landtagswahl-ostdeutschland-usa-bild-2/super__430x286",
       "image_title": "Wahlergebnisse in Brandenburg: Der Osten, unsere USA"
-    },
-    {
-      "title": "Theater : Unbesiegbar?",
-      "teaser": "Das deutsche Theater geht tapfer in die neue Saison. Ein Überblick über die am meisten erwarteten Premieren in Stuttgart, Frankfurt am Main, Leipzig, München und Berlin",
-      "url": "https://www.zeit.de/2024/40/theater-stueck-saison-schauspiel-auffuehrung",
-      "image_url": "https://img.zeit.de/2024/40/unbesiegbar-bild1/super__430x286",
-      "image_title": "Theater: In Kürze am Hamburger Schauspielhaus: Joachim Meyerhoff (stehend) in \"Herr Puntila und sein Knecht Matti\""
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Ignatz Bubis : Der nahe Osten",
-      "teaser": "Unser Autor fuhr in den Neunzigerjahren einmal mit dem damaligen Zentralratschef Ignatz Bubis durch Ostdeutschland. Was Bubis damals sagte, wirkt bis heute gegenwärtig.",
-      "url": "https://www.zeit.de/2024/40/ignatz-bubis-ostdeutschland-berlin-nachkriegszeit-ddr",
-      "image_url": "https://img.zeit.de/2024/40/der-nahe-osten-teaserbild/super__430x286",
-      "image_title": "Ignatz Bubis: Ignatz Bubis war von 1992 bis zu seinem Tod 1999 Vorsitzender des Zentralrats der Juden in Deutschland."
     },
     {
       "title": "Brandenburgwahl : Friedrich Merz sagt, Woidke habe \"mit größtmöglichem Abstand zur eigenen Partei\" gewonnen",
@@ -925,11 +890,11 @@
       "image_title": "Landtagswahl in Brandenburg: BSW knüpft Regierungsbeteiligung an Kehrtwende der SPD in der Ukrainepolitik"
     },
     {
-      "title": "Nach Brandenburg-Wahl : Lindner erwartet \"Herbst der Entscheidungen\" für die Ampel",
+      "title": "Nach Brandenburgwahl : Lindner erwartet \"Herbst der Entscheidungen\" für die Ampel",
       "teaser": "Christian Lindner zeigt sich nach der Wahl in Brandenburg besorgt. Der Herbst werde zeigen, ob die Bundesregierung handlungsfähig bleibt, sagte der Bundesfinanzminister.",
-      "url": "https://www.zeit.de/video/2024-09/6362340286112/nach-brandenburg-wahl-lindner-erwartet-herbst-der-entscheidungen-fuer-die-ampel",
+      "url": "https://www.zeit.de/video/2024-09/6362340286112/nach-brandenburgwahl-lindner-erwartet-herbst-der-entscheidungen-fuer-die-ampel",
       "image_url": "https://img.zeit.de/video/2024-09/6362340286112-still/super__430x286",
-      "image_title": "Nach Brandenburg-Wahl: Lindner erwartet \"Herbst der Entscheidungen\" für die Ampel"
+      "image_title": "Nach Brandenburgwahl: Lindner erwartet \"Herbst der Entscheidungen\" für die Ampel"
     },
     {
       "title": "Landtagswahl : SPD wird stärkste Kraft in Brandenburg",
@@ -1050,24 +1015,31 @@
       "image_title": "iPhone 16: Die EU hängt sich selbst ab"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Key-Account-Manager : \"Wir besitzen ein Haus mit Wohnungen, einem Café und einer Spielhalle\"",
-      "teaser": "Alexander, 31, hat eine Ausbildung zum Kaufmann gemacht und verdient 3.500 Euro. Mit dem Schwager hat er ein Haus gekauft – die Raten zahlen sie aus den Mieteinnahmen ab.",
-      "url": "https://www.zeit.de/arbeit/2024-09/key-account-manager-hauskauf-mieteinnahmen-kontoauszug",
-      "image_url": "https://img.zeit.de/arbeit/2024-09/key-account-manager-hauskauf-mieteinnahmen-kontoauszug-bild/wide__892x501",
-      "image_title": "Key-Account-Manager: \"Wir besitzen ein Haus mit Wohnungen, einem Café und einer Spielhalle\""
+      "title": "Z+ (abopflichtiger Inhalt); Ehemaliger Hotelier : \"Jetzt stimmt einfach alles: der Job, die Arbeitszeiten, das Geld\"",
+      "teaser": "Max Fehrmann liebte seinen Job im Luxushotel. Als er Vater wurde, störten ihn die Überstunden, die Nachtdienste, der Druck – er kündigte und wurde Sozialarbeiter.",
+      "url": "https://www.zeit.de/arbeit/2024-09/ehemaliger-hotelier-hotellerie-sozialarbeiter-familie",
+      "image_url": "https://img.zeit.de/arbeit/2024-09/ehemaliger-hotelier-hotellerie-sozialarbeiter/wide__892x501",
+      "image_title": "Ehemaliger Hotelier: Hier am Spielplatz gegenüber der Uni"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Ausbildung zur Psychotherapeutin : \"Wir leben als Familie größtenteils mit dem Gehalt meines Mannes\"",
-      "teaser": "Maya, 35, macht eine Ausbildung zur Psychotherapeutin, die sie 21.000 Euro kostet. Gleichzeitig verdient sie kaum etwas – und hofft auf ein gutes Gehalt in der Zukunft.",
-      "url": "https://www.zeit.de/arbeit/2024-09/ausbildung-psychotherapeutin-gehalt-kosten-kontoauszug",
-      "image_url": "https://img.zeit.de/arbeit/2024-09/psychotherapheutin-ausbildung-gehalt/super__430x286",
-      "image_title": "Ausbildung zur Psychotherapeutin: \"Wir leben als Familie größtenteils mit dem Gehalt meines Mannes\""
+      "title": "Z+ (abopflichtiger Inhalt); Bildungssystem : Stoppt die Inflation der guten Noten!",
+      "teaser": "Immer weniger Schüler wiederholen eine Klasse, die Abiturnoten werden besser, auch Studierende erhalten leichter Bestnoten. Das schadet der ganzen Gesellschaft.",
+      "url": "https://www.zeit.de/2024/40/bildungssystem-gute-noten-zensuren-abitur-hochschule",
+      "image_url": "https://img.zeit.de/2024/40/bildungssystem-gute-noten-zensuren-abitur-hochschule-teaserbild/super__430x286",
+      "image_title": "Bildungssystem: Wenn alle eine Eins bekommen, sind diejenigen im Nachteil, die wirklich eine Eins verdienen."
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); John Taylor : \"Du hast nie genug Geld, um dich wirklich frei zu fühlen\"",
+      "teaser": "Mit Duran Duran hat John Taylor mehr als 100 Millionen Tonträger verkauft. Dennoch weiß er heute: Mit Neid klarzukommen, ist ein lebenslanger Prozess.",
+      "url": "https://www.zeit.de/zeit-magazin/2024/40/john-taylor-ratschlaege-leben",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024/40/was-ich-gern-frueher-gewusst-haette-bild-1/wide__892x501",
+      "image_title": "John Taylor: \"Du hast nie genug Geld, um dich wirklich frei zu fühlen\""
     },
     {
       "title": "Kleidungsstil : \"Mein Outfit ist emotional gesteuert\"",
       "teaser": "Rentnerbeige und Funktionsweste? Von wegen. Menschen zwischen 69 und 86 Jahren haben uns erzählt, was ihnen Mode bedeutet. Und warum sie so gern tragen, was sie tragen.",
       "url": "https://www.zeit.de/zeit-magazin/2024/40/kleidungsstil-mode-alter-berlin-outfit",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024/40/mein-outfit-ist-emotional-gesteuert-bild-1/wide__892x501",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024/40/mein-outfit-ist-emotional-gesteuert-bild-1/super__430x286",
       "image_title": "Kleidungsstil: \"Mein Outfit ist emotional gesteuert\""
     },
     {
@@ -1076,13 +1048,6 @@
       "url": "https://www.zeit.de/zeit-magazin/leben/2024-09/reisen-leben-veraenderung-hawaii-mount-everest",
       "image_url": "https://img.zeit.de/zeit-magazin/2024-09/reisen-leben-veraenderung-hawaii-mount-everest-bild/super__430x286",
       "image_title": "Reisen: Der Urlaub, der mein Leben veränderte"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Älterwerden : Warum ist 40 werden so scheiße?",
-      "teaser": "Unser Autor kam mit dem Älterwerden lange klar. Doch je näher die 40 rückt, desto deutlicher wird: Der Abstieg hat begonnen. Fünf Erkenntnisse gegen die Midlife-Crisis",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2024-09/aelterwerden-alter-midlife-crisis-40-jahre",
-      "image_url": "https://img.zeit.de/zeit-magazin/leben/2024-09/aelterwerden-alter-midlife-crisis-40-jahre-lampe/super__430x286",
-      "image_title": "Älterwerden: Warum ist 40 werden so scheiße?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Betterov : \"Ohne Führerschein ist man trapped\"",
@@ -1141,11 +1106,11 @@
       "image_title": "\"Missunde 2\": Die »Missunde 2« ist alt, läuft aber noch – nur eben mit Diesel, nicht mit Strom"
     },
     {
-      "title": "Deutschlandticket : Bundesländer halten teureres Deutschlandticket für unvermeidbar",
-      "teaser": "Die Mehrzahl der Länder steht laut einer Umfrage hinter einer Preiserhöhung des Deutschlandtickets. Für fast ein Drittel der Fahrgäste ist der aktuelle Preis die Grenze.",
-      "url": "https://www.zeit.de/mobilitaet/2024-09/deutschlandticket-preis-erhoehung-verkehrministerkonferenz",
-      "image_url": "https://img.zeit.de/mobilitaet/2024-09/deutschlandticket-preis-erhoehung-verkehrministerkonferenz-bild/super__430x286",
-      "image_title": "Deutschlandticket: Bei der Verkehrsministerkonferenz am Montag soll über den zukünftigen Preis des Deutschlandtickets beraten werden."
+      "title": "E-Autos : SPD-Politiker fordern Prämie für Wechsel zum E-Auto",
+      "teaser": "Mit einer Umtauschprämie will die SPD-Fraktion der deutschen Autoindustrie helfen. Die CDU sieht Ähnlichkeiten zur Abwrackprämie – und kritisiert den Vorschlag.",
+      "url": "https://www.zeit.de/wirtschaft/2024-09/e-auto-umtauschpraemie-spd-fraktion",
+      "image_url": "https://img.zeit.de/mobilitaet/2024-09/e-auto-spd-politiker-fordern-auto-austauschpraemie-bild/super__430x286",
+      "image_title": "E-Autos: Elektrofahrzeuge aus der Produktion von Volkswagen Sachsen parken vor der Auslieferung auf dem Werksgelände in Zwickau. Das Werk in Zwickau war bisher Vorreiter der Elektromobilität bei Volkswagen. Neben den Modellen ID.3, ID.4 und ID.5 werden dort auch zwei Modelle für Audi und eins der Marke Cupra produziert. Jetzt wächst vor Ort die Sorge um die Zukunft des Standortes, da man dem Vernehmen nach weit von einer Vollauslastung entfernt ist. Im Gespräch ist ein sukzessiver Abbau von Stellen, der viele befristet Beschäftigte treffen würde. Außerdem könnten Schichten reduziert werden. Heute ist dazu an dem Standort eine Betriebsversammlung geplant. Zwickau, 14.09.2023"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Neue Hybrid-Fähre : Hoffnung in Pink",
@@ -1176,36 +1141,36 @@
       "image_title": "Bundesligarückschau: Schoss gegen den BVB zwei der fünf Stuttgarter Tore: Deniz Undav."
     },
     {
-      "title": "Bahn: Minister begrüßt Preiseinigung beim Deutschlandticket",
-      "url": "https://www.zeit.de/news/2024-09/23/minister-begruesst-preiseinigung-beim-deutschlandticket"
+      "title": "Unfallflucht: Ausweichmanöver - Auto schleift 40 Meter weit auf Leitplanke",
+      "url": "https://www.zeit.de/news/2024-09/23/ausweichmanoever-auto-schleift-40-meter-weit-auf-leitplanke"
     },
     {
-      "title": "Nach der Landtagswahl: Aufstieg im Osten: AfD und BSW saugen den Protest auf",
-      "url": "https://www.zeit.de/news/2024-09/23/aufstieg-im-osten-afd-und-bsw-saugen-den-protest-auf"
+      "title": "2. Fußball-Bundesliga: Stürmer Amenyido fehlt Preußen Münster wochenlang",
+      "url": "https://www.zeit.de/news/2024-09/23/stuermer-amenyido-fehlt-preussen-muenster-wochenlang"
     },
     {
-      "title": "Standort Deutschland: Autoindustrie in der Krise - die fünf größten Probleme",
-      "url": "https://www.zeit.de/news/2024-09/23/autoindustrie-in-der-krise-die-fuenf-groessten-probleme"
+      "title": "Verkehr: A66: Lkw kracht durch Betonwand und gegen Mittelschutzplanke",
+      "url": "https://www.zeit.de/news/2024-09/23/a66-lkw-kracht-durch-betonwand-und-gegen-mittelschutzplanke"
     },
     {
-      "title": "Kriminalität: Vergewaltigungsversuch – Frau verfolgt und vom Rad gestoßen",
-      "url": "https://www.zeit.de/news/2024-09/23/vergewaltigungsversuch-frau-verfolgt-und-vom-rad-gestossen"
+      "title": "Kriminalität: Schüsse in Magdeburg - Polizei findet Schreckschusswaffe",
+      "url": "https://www.zeit.de/news/2024-09/23/schuesse-in-magdeburg-polizei-findet-schreckschusswaffe"
     },
     {
-      "title": "Strafprozess: Neun Jahre Haft für schwer bewaffneten Drogendealer",
-      "url": "https://www.zeit.de/news/2024-09/23/neun-jahre-haft-fuer-schwer-bewaffneten-drogendealer"
+      "title": "Autoindustrie: VW-Chef Blume will bis Jahresende Sparpaket schnüren",
+      "url": "https://www.zeit.de/news/2024-09/23/vw-chef-blume-will-bis-jahresende-sparpaket-schnueren"
     },
     {
-      "title": "Kriminalität: Einsatzgruppe «Bahnhof-Zentrum» kontrollierte 5.100 Personen",
-      "url": "https://www.zeit.de/news/2024-09/23/einsatzgruppe-bahnhof-zentrum-kontrollierte-5-100-personen"
+      "title": "Landtagswahl: Erststimmen: AfD überzeugt besonders in Hirschfeld",
+      "url": "https://www.zeit.de/news/2024-09/23/erststimmen-afd-ueberzeugt-besonders-in-hirschfeld"
     },
     {
-      "title": "Feuer: Rund 250.000 Euro Schaden bei zwei Bränden in Offenbach",
-      "url": "https://www.zeit.de/news/2024-09/23/rund-250-000-euro-schaden-bei-zwei-braenden-in-offenbach"
+      "title": "Vollversammlung der Bischöfe: Keine deutschen Frauen in Rom - Bätzing kritisiert Papst",
+      "url": "https://www.zeit.de/news/2024-09/23/keine-deutschen-frauen-in-rom-baetzing-kritisiert-papst"
     },
     {
-      "title": "Fahrkarten-Kontrolle: HVV-Großkontrolle in Bussen und Bahnen am Donnerstag",
-      "url": "https://www.zeit.de/news/2024-09/23/hvv-grosskontrolle-in-bussen-und-bahnen-am-donnerstag"
+      "title": "Überschwemmungen in Westafrika: Ärzte ohne Grenzen warnen vor Cholera nach Fluten in Nigeria",
+      "url": "https://www.zeit.de/news/2024-09/23/aerzte-ohne-grenzen-warnen-vor-cholera-nach-fluten-in-nigeria"
     }
   ]
 }
