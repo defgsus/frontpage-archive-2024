@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-23T02:09:38",
+  "timestamp": "2024-09-23T03:13:20",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -14,6 +14,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -104,25 +110,18 @@
   ],
   "articles": [
     {
+      "title": "Z+ (abopflichtiger Inhalt); Wahlen in Brandenburg : Die Ampel blinkt gelb",
+      "teaser": "Die Wahl in Brandenburg ist für die SPD noch mal gut ausgegangen. Doch für die FDP ist es das dritte katastrophale Ergebnis in Folge. Das birgt Sprengstoff für die Ampel.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/ampel-koalition-landtagswahl-brandenburg-spd-fdp",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/ampel-koalition-landtagswahl-brandenburg-spd-2/wide__1000x562",
+      "image_title": "Wahlen in Brandenburg: Die Ampel blinkt gelb"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Landtagswahl in Brandenburg : Frauen, Rentner und Dietmar Woidke retten der SPD die Wahl",
       "teaser": "Wem das BSW die Stimmen abnahm, wie die SPD aufholte und was das wichtigste Thema aus Sicht der Bürger war: die Daten zum Wahlabend.",
       "url": "https://www.zeit.de/politik/deutschland/2024-09/landtagswahl-brandenburg-waehlerwanderung-dietmar-woidke",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/landtagswahl-brandenburg-waehlerwanderung-dietmar-woidke-teaserbild/wide__1000x562",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/landtagswahl-brandenburg-waehlerwanderung-dietmar-woidke-teaserbild/super__430x286",
       "image_title": "Landtagswahl in Brandenburg: Frauen, Rentner und Dietmar Woidke retten der SPD die Wahl"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); AfD-Wahlparty : Wie die AfD-Security mir ein AfD-Geschenk abnahm",
-      "teaser": "Im Wahlkampf verteilte die AfD den Kubotan – ein Mittel zur Selbstverteidigung, in Deutschland legal. Nur auf die Party der Partei kommt man damit nicht. Zu gefährlich!",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/afd-wahlkampf-kubotans-waffe-brandenburg",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/afd-wahlkampf-kubotans-waffe/super__430x286",
-      "image_title": "AfD-Wahlparty: Wie die AfD-Security mir ein AfD-Geschenk abnahm"
-    },
-    {
-      "title": "Liveblog: Wahl in Brandenburg : SPD gewinnt vor AfD – Grüne, Linke und Freie Wähler nicht im Landtag",
-      "teaser": "Im Brandenburger Landtag werden künftig nur noch Vertreter von SPD, AfD, BSW und CDU sitzen. Für die Grünen ein \"Horror\". Das Liveblog zum Nachlesen",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/landtagswahl-brandenburg-2024-live",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/liveblog-brandenburg-woidke/super__430x286",
-      "image_title": "Wahl in Brandenburg: Landtagswahlen 2024 im Bundesland Brandenburg Wahlabend im Brandenburger Landtag Dietmar Woidke, amtierender Ministerpr‰sident und Spitzenkandidat SPD am Wahlabend im LandtagLandtagswahlen 2024 im Bundesland Brandenburg Wahlabend im Brandenburger Landtag , Potsdam Brandenburg Deutschland Landtag *** State elections 2024 in the federal state of Brandenburg Election evening in the Brandenburg state parliament Dietmar Woidke, incumbent Minister President and top SPD candidate on election evening in the state parliament State elections 2024 in the federal state of Brandenburg Election evening in the Brandenburg state parliament , Potsdam Brandenburg Germany Landtag"
     },
     {
       "title": "Landtagswahl in Brandenburg : AfD erreicht Sperrminorität in Brandenburg",
@@ -132,11 +131,32 @@
       "image_title": "Landtagswahl in Brandenburg: Tino Chrupalla (l-r), AfD-Bundessprecher, Hans-Christoph Berndt, stellvertetender Vorsitzender der AfD Brandenburg und Spitzenkandidat, und Alice Weidel, AfD-Bundessprecherin, stehen bei der Wahlparty der Brandenburger AfD in einem Gasthaus in Potsdam-Marquardt vor den ersten Hochrechnungen vor der Bühne. In Brandenburg findet am Sonntag die Landtagswahl statt. +++ dpa-Bildfunk +++"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); AfD-Wahlparty : Wie die AfD-Security mir ein AfD-Geschenk abnahm",
+      "teaser": "Im Wahlkampf verteilte die AfD den Kubotan – ein Mittel zur Selbstverteidigung, in Deutschland legal. Nur auf die Party der Partei kommt man damit nicht. Zu gefährlich!",
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/afd-wahlkampf-kubotans-waffe-brandenburg",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/afd-wahlkampf-kubotans-waffe/super__430x286",
+      "image_title": "AfD-Wahlparty: Wie die AfD-Security mir ein AfD-Geschenk abnahm"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Wahltag in Brandenburg : Nächste Station: Woidke. Und dann?",
       "teaser": "Der Berliner Speckgürtel: Hennigsdorf und Teltow, zwei Welten verbunden durch eine S-Bahn. Was hier über die Wahl gesagt wird, dürfte nun vor allem die SPD interessieren.",
       "url": "https://www.zeit.de/politik/2024-09/wahltag-brandenburg-waehler-landtagswahl-2024",
       "image_url": "https://img.zeit.de/politik/deutschland/2024-09/wahltag-brandenburg-waehler-landtagswahl-2024-bild4/wide__892x501",
       "image_title": "Wahltag in Brandenburg: Anita Janke-Rock, 35, Henningsdorf"
+    },
+    {
+      "title": "Liveblog: Wahl in Brandenburg : SPD gewinnt vor AfD – Grüne, Linke und Freie Wähler nicht im Landtag",
+      "teaser": "Im Brandenburger Landtag werden künftig nur noch Vertreter von SPD, AfD, BSW und CDU sitzen. Für die Grünen ein \"Horror\". Das Liveblog zum Nachlesen",
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/landtagswahl-brandenburg-2024-live",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/liveblog-brandenburg-woidke/super__430x286",
+      "image_title": "Wahl in Brandenburg: Landtagswahlen 2024 im Bundesland Brandenburg Wahlabend im Brandenburger Landtag Dietmar Woidke, amtierender Ministerpr‰sident und Spitzenkandidat SPD am Wahlabend im LandtagLandtagswahlen 2024 im Bundesland Brandenburg Wahlabend im Brandenburger Landtag , Potsdam Brandenburg Deutschland Landtag *** State elections 2024 in the federal state of Brandenburg Election evening in the Brandenburg state parliament Dietmar Woidke, incumbent Minister President and top SPD candidate on election evening in the state parliament State elections 2024 in the federal state of Brandenburg Election evening in the Brandenburg state parliament , Potsdam Brandenburg Germany Landtag"
+    },
+    {
+      "title": "Reaktionen zur Landtagswahl in Brandenburg : \"Ist doch super, dass wir gewonnen haben\"",
+      "teaser": "SPD, AfD und das BSW feiern ihr Abschneiden in Brandenburg. Bei den Grünen und der CDU ist man enttäuscht, die FDP teilt gegen die Ampelkoalition in Berlin aus.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/brandenburg-landtagswahl-reaktionen-scholz-ali",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/spd-reax-landtagswahl-brandenburg/super__430x286",
+      "image_title": "Reaktionen zur Landtagswahl in Brandenburg: Anhängerinnen und Anhänger der SPD reagieren auf die Bekanntgabe der ersten Prognosen."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Junge Wähler in Brandenburg : Brandenburgs Jugend wählt rechts",
@@ -174,25 +194,18 @@
       "image_title": "Brandenburg: Dietmar Woidke auf dem Weg in den Brandenburger Landtag"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Wahlergebnisse in Brandenburg : Bitte nicht noch so ein Wahlkampf",
-      "teaser": "Ausgerechnet die Volksparteien haben in der Bevölkerung zuletzt ein Panikgefühl erzeugt. Hören sie damit nicht auf, muss einem vor dem kommenden Jahr angst werden.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/brandenburg-wahlergebnisse-landtag-afd-spd",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/landtagswahl-brandenburg-afd-nationalismus/wide__892x501",
-      "image_title": "Wahlergebnisse in Brandenburg: Bitte nicht noch so ein Wahlkampf"
-    },
-    {
-      "title": "Wahlergebnisse in Brandenburg : Der Osten, unsere USA",
-      "teaser": "Auch die Wahlergebnisse in Brandenburg zeigen, dass ostdeutsche Eigenheiten sich verfestigen. Paradoxerweise führt das zu einer Amerikanisierung der politischen Kultur.",
-      "url": "https://www.zeit.de/kultur/2024-09/brandenburg-wahlergebnisse-landtagswahl-ostdeutschland-usa",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/brandenburg-wahlergebnisse-landtagswahl-ostdeutschland-usa-bild-2/super__430x286",
-      "image_title": "Wahlergebnisse in Brandenburg: Der Osten, unsere USA"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Reisen : Der Urlaub, der mein Leben veränderte",
       "teaser": "Ein Anarchist, der im Bürgerkrieg den Staat lieben lernt. Ein Verzagter, der seinen Mut am Mount Everest findet. Eine Surferin, die immer mit Hawaii verbunden sein wird.",
       "url": "https://www.zeit.de/zeit-magazin/leben/2024-09/reisen-leben-veraenderung-hawaii-mount-everest",
       "image_url": "https://img.zeit.de/zeit-magazin/2024-09/reisen-leben-veraenderung-hawaii-mount-everest-bild/wide__892x501",
       "image_title": "Reisen: Der Urlaub, der mein Leben veränderte"
+    },
+    {
+      "title": "Liveblog:Krieg in Israel und Gaza : Libanon meldet erneut Gefechte zwischen Israel und Hisbollah",
+      "teaser": "Sicherheitskreise melden Angriffe im Libanon, die Hisbollah beschießt Israels Norden. Krankenhaussprecher berichten von Toten nach Angriff im Gazastreifen. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/2023-12/news-israel-gaza-krieg-live",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/blog-libanon-israel-angriff-hisbollah-2/super__430x286",
+      "image_title": "Krieg in Israel und Gaza: Rauch steigt nach einem israelischen Angriff auf Zawtar im Süden des Libanon auf."
     },
     {
       "title": "CDU/CSU : Union streitet über den Umgang mit den Grünen",
@@ -202,7 +215,7 @@
       "image_title": "CDU/CSU: Friedrich Merz (l), CDU-Bundesvorsitzender und CDU/CSU-Fraktionsvorsitzender im Bundestag, geht neben Alexander Dobrindt, CSU-Landesgruppenchef, nach einem Pressestatement vor Abschluss der Klausurtagung des Geschäftsführenden Vorstands der CDU/CSU-Fraktion im Deutschen Bundestag vor Schloss Neuhardenberg."
     },
     {
-      "title": "Krise der Automobilbranche : FDP lehnt SPD-Vorschlag für \"Abwrackprämie\" bei E-Auto-Kauf ab",
+      "title": "Krise der Automobilbranche : FDP lehnt SPD-Vorschlag für \"Abwrackprämie\" bei E-Autokauf ab",
       "teaser": "Die SPD will die Autoindustrie mit einer Prämie unterstützen. Die FDP lehnt das ab. Am Montag geht es bei einem Krisentreffen um die Zukunft der Branche.",
       "url": "https://www.zeit.de/politik/deutschland/2024-09/autobranche-krise-spd-fdp-praemie-e-auto",
       "image_url": "https://img.zeit.de/politik/deutschland/2024-09/ampel-koalition-abwrackpraemie-autokonjunktur-staerken-bild/super__430x286",
@@ -214,13 +227,6 @@
       "url": "https://www.zeit.de/politik/deutschland/2024-09/deutschlandticket-verkehrsminister-preiserhoehung-verkehrsunternehmen",
       "image_url": "https://img.zeit.de/mobilitaet/2024-09/deutschlandticket-preiserhoehung-bild/super__430x286",
       "image_title": "Deutschlandticket: Fahrgäste steigen an der Hackerbrücke aus einer S-Bahn. München, 26.08.2024"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Wohnorte in Deutschland • Das Beste aus Z+ : Wo soll ich wohnen?",
-      "teaser": "Günstige Mieten, viel Sonne, gerne im Speckgürtel: Unser interaktives Tool findet den Wohnort in Deutschland, der zu Ihren Bedürfnissen passt.",
-      "url": "https://www.zeit.de/zeit-magazin/2024-09/wohnorte-deutschland-lebensqualitaet-versorgung-infrastruktur",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-09/orte-deutschland-finden-miete-lebensqualitaet-wohnen-versorgung-tool-teaserbild/super__430x286",
-      "image_title": "Wohnorte in Deutschland • Das Beste aus Z+: Wo soll ich wohnen?"
     },
     {
       "title": "Einleitung : 48 Monate Trump",
@@ -293,32 +299,32 @@
       "image_title": "Frankreich: Beschreibung Der neue französische Premierminister Michel Barnier trifft zur Übergabezeremonie ein. Nach dreieinhalb Monaten politischer Krise in Frankreich zeichnet sich mit der nun erwarteten Vorstellung einer neuen Regierung in Paris keine Stabilisierung der Lage ab. (zu dpa: «Neue Regierung in Paris erwarten Herausforderungen») Service +++ dpa-Bildfunk +++ Aufnahmedatum 05.09.2024 Bildnachweis picture alliance/dpa/Pool AFP/AP | Stephane de Sakutin Besondere Hinweise - Release"
     },
     {
-      "title": "Volksentscheid : Schweizer stimmen gegen Rentenreform und mehr Artenschutz",
-      "teaser": "Die Mehrheit der Schweizerinnen und Schweizer hat in einem Volksentscheid gegen eine Biodiversitätsinitiative gestimmt. Auch eine Teilreform der Rente lehnten sie ab.",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/schweiz-volksentscheid-artenschutz-rentenreform",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/schweiz-volksentscheide-rentenreform-artenschutz-bild/super__430x286",
-      "image_title": "Volksentscheid: Bunte Heuballen mit Transparenten gegen die Biodiversitätsinitiative. (zu dpa: «Schweizer stimmen über Biodiversität und Altersvorsorge ab») Bern, 22.09.2024"
+      "title": "Z+ (abopflichtiger Inhalt); Wohnorte in Deutschland • Das Beste aus Z+ : Wo soll ich wohnen?",
+      "teaser": "Günstige Mieten, viel Sonne, gerne im Speckgürtel: Unser interaktives Tool findet den Wohnort in Deutschland, der zu Ihren Bedürfnissen passt.",
+      "url": "https://www.zeit.de/zeit-magazin/2024-09/wohnorte-deutschland-lebensqualitaet-versorgung-infrastruktur",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-09/orte-deutschland-finden-miete-lebensqualitaet-wohnen-versorgung-tool-teaserbild/super__430x286",
+      "image_title": "Wohnorte in Deutschland • Das Beste aus Z+: Wo soll ich wohnen?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Beziehungen : \"Mir war vollkommen klar, dass nichts zwischen uns laufen durfte\"",
-      "teaser": "Julia, 39, ist fest vergeben, als sie sich in den verheirateten Ruben verliebt. Weil auch der nicht von ihr lassen kann, müssen beide eine schwere Entscheidung treffen.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2024-08/beziehungen-verliebt-emotionen-liebe-meines-lebens",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-09/beziehungen-verliebt-emotionen-liebe-meines-lebens-illu/super__430x286",
-      "image_title": "Beziehungen: \"Mir war vollkommen klar, dass nichts zwischen uns laufen durfte\""
+      "title": "Z+ (abopflichtiger Inhalt); Arbeitsrecht : Was geht es den Chef an, was ich in meiner Freizeit mache?",
+      "teaser": "In den meisten Fällen: nichts. Doch es gibt Ausnahmen, die zur Kündigung führen oder den Arbeitnehmer einiges kosten können, sagt Arbeitsrechtsanwalt Peter Meyer.",
+      "url": "https://www.zeit.de/arbeit/2024-08/arbeitsrecht-arbeitgeber-freizeit-arbeitnehmer-peter-meyer",
+      "image_url": "https://img.zeit.de/arbeit/2024-08/arbeitsrecht-arbeitgeber-freizeit/super__430x286",
+      "image_title": "Arbeitsrecht: Was geht es den Chef an, was ich in meiner Freizeit mache?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Immobilienpreise : Warum Immobilien wieder teurer werden",
-      "teaser": "Zwei Jahre lang sind die Preise für Häuser und Wohnungen gesunken. Nun zeigen neue Daten, dass sie in vielen Städten wieder steigen. Auch für Käufer ist das gut.",
-      "url": "https://www.zeit.de/geld/2024-08/immobilienpreise-deutsche-staedte-greix-index-immobilienmarkt",
-      "image_url": "https://img.zeit.de/geld/2024-08/immobilienpreise-deutsche-staedte-greix-index/super__430x286",
-      "image_title": "Immobilienpreise: Warum Immobilien wieder teurer werden"
+      "title": "Z+ (abopflichtiger Inhalt); Ozempic, Wegovy und Mounjaro : Noch acht Kilo bis zum glücklichen Leben",
+      "teaser": "Abnehmspritzen erfüllen Tausenden Menschen einen Traum: endlich dünn sein. Kommt damit das große Glück? Ein Besuch in den USA bei Frauen, die sich seit Jahren spritzen",
+      "url": "https://www.zeit.de/wissen/2024-06/ozempic-abnehmspritzen-usa-uebergewicht-schlank-sein-glueck",
+      "image_url": "https://img.zeit.de/wissen/2024-06/ozempic-abnehmspritzen-usa-uebergewicht-schlank-sein/super__430x286",
+      "image_title": "Ozempic, Wegovy und Mounjaro: Emily Clasen is photographed with an old bridesmaid dress at her home in Fort Wayne, Indiana, on Wednesday, June 12, 2024. Clasen wore the dress in 2020 before she started her weight loss journey. To-date she has lost 160 pounds. “All I wanted was to get healthy to live out a long life with my husband and now we’re doing that,” she said. Photo by Sarah Rice for ZEIT"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Prävention von Demenz : So viel Einfluss haben wir auf unsere Hirngesundheit",
-      "teaser": "Fast jeder zweite Demenzfall wäre vermeidbar oder ließe sich verzögern. Wer diese 14 Faktoren kennt, kann sein Risiko senken. Vorausgesetzt, man fängt früh genug an.",
-      "url": "https://www.zeit.de/gesundheit/2024-07/praevention-demenz-risikofaktor-rauchen-alkohol-studie",
-      "image_url": "https://img.zeit.de/wissen/2024-07/praevention-demenz-risikofaktor-rauchen-alkohol-studie-bild/super__430x286",
-      "image_title": "Prävention von Demenz: So viel Einfluss haben wir auf unsere Hirngesundheit"
+      "title": "Z+ (abopflichtiger Inhalt); Pflegebedürftige Eltern : Was ich mit meinen Eltern gern gemacht hätte, bevor es zu spät war",
+      "teaser": "Wenn Eltern alt oder pflegebedürftig werden, geht vieles nicht mehr, was zuvor beiläufig erschien. Diese fünf Dinge sollte man gemeinsam tun, solange alle noch fit sind.",
+      "url": "https://www.zeit.de/familie/2024-09/pflegebeduerftige-eltern-pflege-alter-krankheit",
+      "image_url": "https://img.zeit.de/familie/2024-09/pflegebeduerftige-eltern-pflege-alter/super__430x286",
+      "image_title": "Pflegebedürftige Eltern: Was ich mit meinen Eltern gern gemacht hätte, bevor es zu spät war"
     },
     {
       "title": "Kleidungsstil : \"Mein Outfit ist emotional gesteuert\"",
@@ -925,6 +931,13 @@
       "image_title": "Teresa Reichl: Teresa Reichl"
     },
     {
+      "title": "Wahlergebnisse in Brandenburg : Der Osten, unsere USA",
+      "teaser": "Auch die Wahlergebnisse in Brandenburg zeigen, dass ostdeutsche Eigenheiten sich verfestigen. Paradoxerweise führt das zu einer Amerikanisierung der politischen Kultur.",
+      "url": "https://www.zeit.de/kultur/2024-09/brandenburg-wahlergebnisse-landtagswahl-ostdeutschland-usa",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/brandenburg-wahlergebnisse-landtagswahl-ostdeutschland-usa-bild-2/super__430x286",
+      "image_title": "Wahlergebnisse in Brandenburg: Der Osten, unsere USA"
+    },
+    {
       "title": "Theater : Unbesiegbar?",
       "teaser": "Das deutsche Theater geht tapfer in die neue Saison. Ein Überblick über die am meisten erwarteten Premieren in Stuttgart, Frankfurt am Main, Leipzig, München und Berlin",
       "url": "https://www.zeit.de/2024/40/theater-stueck-saison-schauspiel-auffuehrung",
@@ -944,13 +957,6 @@
       "url": "https://www.zeit.de/2024/40/elisabeth-sobotka-staatsoper-unter-den-linden-berlin-oper",
       "image_url": "https://img.zeit.de/2024/40/braucht-berlin-drei-opern-natuerlich-bild-1/super__430x286",
       "image_title": "Elisabeth Sobotka: Elisabeth Sobotka in der Berliner Staatsoper Unter den Linden"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Rosamunde Pilcher : Brühwürfel der Harmonie",
-      "teaser": "Cornwall als Wille und Vorstellung: Die Geschichten von Rosamunde Pilcher ließen uns an eine heilvolle Welt glauben. Zum 100. Geburtstag der Bestsellerautorin",
-      "url": "https://www.zeit.de/kultur/literatur/2024-09/rosamunde-pilcher-100-geburtstag",
-      "image_url": "https://img.zeit.de/kultur/2024-09/rosamunde-pilcher-100-geburtstag-teaser/super__430x286",
-      "image_title": "Rosamunde Pilcher: links: BERLIN, GERMANY - JUNE 07: British author Rosamunde Pilcher attends a garden party at the official residence of the British ambassador to Germany on June 7, 2012 in Berlin, Germany. British Ambassador Simon McDonald hosted the event at his official residence during the visit of British Prime Minister David Cameron to the city, just after the Queen's Diamond Jubilee. (Photo by Adam Berry/Getty Images); RECHTS: 12 Hektar kornischer Schluchtgarten mit exotischen Pflanzen Palmen und andere exotische Pflanzen im Garten Trebah *** 12 hectares of Cornish canyon garden with exotic plants Palms and other exotic plants in the garden Trebah"
     },
     {
       "title": "Landtagswahl : SPD wird stärkste Kraft in Brandenburg",
@@ -1134,11 +1140,11 @@
       "image_title": "Betterov: Als Kind mochte Manuel die Gangsterkomödien-Reihe »Die Olsenbande«. Er nannte sich nach einer Randfigur: Betterov. Hier ist er in seinem Lieblingskino Delphi Filmpalast zu sehen."
     },
     {
-      "title": "Verlagsangebot : Nicht nur irgendwas studieren",
-      "teaser": "Studieren! Aber was? Der Studiuminteressentest unterstützt Unschlüssige bei ihrer Suche nach dem passenden Studium, basierend auf den eigenen Interessen.",
-      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.textbild.schwarzer-hut_nichtnurirgendwas.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=sit_textbild_schwarzer-hut_nichtnurirgendwas_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-2-klein/brooke-cagle-tlg2hcpitze-unsplash-197.jpg",
-      "image_title": "Nicht nur irgendwas studieren"
+      "title": "Verlagsangebot : Persönlichkeit als Door Opener",
+      "teaser": "Immer mehr Unternehmen setzen bei ihren Bewerbern auf die Persönlichkeit. Auf der Suche nach einem Job stellt der Berufstest die eigenen Stärken in den Mittelpunkt.",
+      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.textbild.frau-smartphone_dooropener.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=bot_textbild_frau-smartphone_dooropener_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-boa-index-teaser-1-klein/bruce-mars-fwvmhua-wby-unsplash.jpg",
+      "image_title": "Persönlichkeit als Door Opener"
     },
     {
       "title": "Studium : Preise für WG-Zimmer in Unistädten sind gestiegen",
@@ -1218,36 +1224,36 @@
       "image_title": "Fitnessübung: Der Partnerstretch"
     },
     {
-      "title": "Verkehr: A1 in Hamburg nach Bauarbeiten wieder voll befahrbar",
-      "url": "https://www.zeit.de/news/2024-09/23/a1-in-hamburg-nach-bauarbeiten-wieder-voll-befahrbar"
+      "title": "Fußball-Bundesliga: «Außergewöhnlich»: Stuttgarter Sonderlob für Millot",
+      "url": "https://www.zeit.de/news/2024-09/23/aussergewoehnlich-stuttgarter-sonderlob-fuer-millot"
     },
     {
-      "title": "Verkehr: Motorradfahrer bei Unfall schwer verletzt",
-      "url": "https://www.zeit.de/news/2024-09/23/motorradfahrer-bei-unfall-schwer-verletzt"
+      "title": "Berliner Bildungsprojekt: «Demokratie-Mobil» von Autorin Ateş hält am Humboldt Forum",
+      "url": "https://www.zeit.de/news/2024-09/23/demokratie-mobil-von-autorin-ate-haelt-am-humboldt-forum"
     },
     {
-      "title": "Terrorprozess: Zentrale Figur will im Reichsbürger-Prozess aussagen",
-      "url": "https://www.zeit.de/news/2024-09/23/zentrale-figur-will-im-reichsbuerger-prozess-aussagen"
+      "title": "Verkehr: Deutschlandticket: Minister Meyer warnt vor zu hohem Preis",
+      "url": "https://www.zeit.de/news/2024-09/23/deutschlandticket-minister-meyer-warnt-vor-zu-hohem-preis"
     },
     {
-      "title": "Preisdebatte: Unter NRW-Vorsitz - Minister entscheiden über D-Ticket-Preis",
-      "url": "https://www.zeit.de/news/2024-09/23/unter-nrw-vorsitz-minister-entscheiden-ueber-d-ticket-preis"
+      "title": "Die Lage im Überblick: Selenskyj hofft in den USA auf Zustimmung für seinen Plan",
+      "url": "https://www.zeit.de/news/2024-09/23/selenskyj-hofft-in-den-usa-auf-zustimmung-fuer-seinen-plan"
     },
     {
-      "title": "Streit über Weil-Mitarbeiterin: Staatskanzlei-Chef wird im Untersuchungsausschuss befragt",
-      "url": "https://www.zeit.de/news/2024-09/23/staatskanzlei-chef-wird-im-untersuchungsausschuss-befragt"
+      "title": "Alpwirtschaft: Verein: Guter Alpsommer für Hirten und Rinder",
+      "url": "https://www.zeit.de/news/2024-09/23/verein-guter-alpsommer-fuer-hirten-und-rinder"
     },
     {
-      "title": "Handel: Neues Amazon-Logistikzentrum bei Rostock startet",
-      "url": "https://www.zeit.de/news/2024-09/23/neues-amazon-logistikzentrum-bei-rostock-startet"
+      "title": "Fußball-Bundesliga: «Richtig St.-Pauli-like»: Aufsteiger jubelt nach Punkt",
+      "url": "https://www.zeit.de/news/2024-09/23/richtig-st-pauli-like-aufsteiger-jubelt-nach-punkt"
     },
     {
-      "title": "Vor der Sturmflutsaison: Herbst-Deichschauen beginnen",
-      "url": "https://www.zeit.de/news/2024-09/23/herbst-deichschauen-beginnen"
+      "title": "Fußball-Bundesliga: Dortmunder Debakel: Kehl schlägt ersten kleinen Alarm",
+      "url": "https://www.zeit.de/news/2024-09/23/dortmunder-debakel-kehl-schlaegt-ersten-kleinen-alarm"
     },
     {
-      "title": "Neuer Landschaftspark: Offizieller Baustart der Landesgartenschau 2027 in Neustadt",
-      "url": "https://www.zeit.de/news/2024-09/23/offizieller-baustart-der-landesgartenschau-2027-in-neustadt"
+      "title": "Verkehr: Motorradfahrer bei Unfall lebensgefährlich verletzt",
+      "url": "https://www.zeit.de/news/2024-09/23/motorradfahrer-bei-unfall-lebensgefaehrlich-verletzt"
     }
   ]
 }
