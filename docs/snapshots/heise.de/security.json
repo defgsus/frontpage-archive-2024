@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-23T07:07:29",
+  "timestamp": "2024-09-23T08:10:24",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Atlassian",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Atlassian-Bitbucket-Confluence-Co-attackierbar-9940025.html"
+    },
+    {
       "title": "Ivanti Cloud Service Appliance",
       "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Ivanti-Cloud-Service-Appliance-verschaerfen-sich-9931990.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-BIOS-Luecken-gefaehrden-Dell-Computer-9882510.html"
     },
     {
-      "title": "HPE Aruba Networking Controller",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-Luecken-in-Aruba-OS-gefaehrden-Netzwerk-Gateways-9876534.html"
+      "title": "Sicherheitsupdates: Atlassian Bitbucket, Confluence & Co. attackierbar",
+      "teaser": "Angreifer können an mehreren Schwachstellen in Software von Atlassian ansetzen und sie via DoS-Attacke abstürzen lassen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Atlassian-Bitbucket-Confluence-Co-attackierbar-9940025.html"
+    },
+    {
+      "title": "macOS 15: Probleme mit Sicherheitssoftware bekannter Hersteller",
+      "teaser": "Nach Installation von macOS 15 Sequoia kann es zu Problemen mit Enterprise-Security-Apps kommen. Grund sind offenbar Änderungen im Netzwerk-Stack.",
+      "url": "https://www.heise.de/news/macOS-15-Probleme-mit-Sicherheitssoftware-bekannter-Hersteller-9939358.html",
+      "image_title": "Apple-Logo"
     },
     {
       "title": "NEU im Programm der iX-Workshops: Präsenzschulungen für IT-Professionals",
@@ -60,6 +71,11 @@
       "image_title": "Computer und Smartphone zeigen Freigabeanforderung für Passkeys"
     },
     {
+      "title": "Mit smarter Verbrauchssteuerung Energie sparen",
+      "teaser": "Steigende Kosten und Umweltaspekte machen einen verantwortungsvollen Umgang mit Energie unabdingbar. Mit smarten Technologien können Sie Ihren Stromverbrauch reduzieren, Kosten sparen und einen Beitrag zum Umweltschutz leisten.",
+      "url": "https://www.heise.de/solutions/eq-3/mit-smarter-verbrauchssteuerung-energie-sparen/?source=nat_teas"
+    },
+    {
       "title": "Jetzt patchen! Attacken auf Ivanti Cloud Service Appliance verschärfen sich",
       "teaser": "Derzeit kombinieren Angreifer zwei Sicherheitslücken, um auf Cloud Services Appliances von Ivanti Schadcode auszuführen.",
       "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Ivanti-Cloud-Service-Appliance-verschaerfen-sich-9931990.html",
@@ -70,11 +86,6 @@
       "teaser": "Der russische Antivirenhersteller Dr. Web hat nach einem Cyberangriff unter anderem die Update-Server vom Netz genommen.",
       "url": "https://www.heise.de/news/Nach-Cyberangriff-Dr-Web-nahm-Server-vom-Netz-9931956.html",
       "image_title": "Kriminelle greifen Server an, Admin versucht, den Stecker zu ziehen"
-    },
-    {
-      "title": "Mit smarter Verbrauchssteuerung Energie sparen",
-      "teaser": "Steigende Kosten und Umweltaspekte machen einen verantwortungsvollen Umgang mit Energie unabdingbar. Mit smarten Technologien können Sie Ihren Stromverbrauch reduzieren, Kosten sparen und einen Beitrag zum Umweltschutz leisten.",
-      "url": "https://www.heise.de/solutions/eq-3/mit-smarter-verbrauchssteuerung-energie-sparen/?source=nat_teas"
     },
     {
       "title": "iX-Workshop: Sich selbst hacken – Pentesting mit Open-Source-Werkzeugen",
@@ -157,18 +168,6 @@
       "title": "Sicherheitslücken: Netzwerk-Controller und -Gateways von Aruba sind verwundbar",
       "teaser": "Angreifer können Netzwerkgeräte von HPE Aruba attackieren und im schlimmsten Fall Appliances kompromittieren.",
       "url": "https://www.heise.de/news/Sicherheitsupdate-Luecken-in-Aruba-OS-gefaehrden-Netzwerk-Gateways-9876534.html"
-    },
-    {
-      "title": "iX-Workshop: Zero Trust für eine sichere Unternehmens-IT",
-      "teaser": "Mit dem Sicherheitsmodell Zero Trust Ihre Firmen-IT effektiv gegen Angriffe von außen und innen schützen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Zero-Trust-fuer-eine-sichere-Unternehmens-IT-9866533.html",
-      "image_title": "iX-Workshop: Sichere Unternehmens-IT mit Zero Trust"
-    },
-    {
-      "title": "Kinderschutz: Beauftragte fordert Sicherung von IP-Adressen",
-      "teaser": "Aus Sicht der Missbrauchsbeauftragten Claus sollten Internetanbieter verpflichtet werden, Kommunikationsdaten länger zu speichern. Das sei entscheidend.",
-      "url": "https://www.heise.de/news/Missbrauchsbeauftragte-fordert-Sicherung-von-IP-Adressen-9876546.html",
-      "image_title": "IP-Adresse in einer Shell"
     },
     {
       "title": "NTLM–Webinar",
