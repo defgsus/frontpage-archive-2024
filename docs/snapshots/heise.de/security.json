@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-24T08:10:31",
+  "timestamp": "2024-09-24T09:07:18",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "checkmk",
+      "url": "https://www.heise.de/news/Monitoring-Software-checkmk-Sicherheitsluecke-ermoeglicht-2FA-Umgehung-9950321.html"
+    },
+    {
       "title": "Atlassian",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Atlassian-Bitbucket-Confluence-Co-attackierbar-9940025.html"
     },
@@ -44,20 +48,16 @@
       "url": "https://www.heise.de/news/Kritische-SAML-Anmelde-Luecke-mit-Hoechstwertung-gefaehrdet-Gitlab-Server-9904574.html"
     },
     {
-      "title": "Dell-PCs",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-BIOS-Luecken-gefaehrden-Dell-Computer-9882510.html"
+      "title": "Monitoring-Software checkmk: Sicherheitslücke ermöglicht 2FA-Umgehung",
+      "teaser": "Eine Sicherheitslücke in der Monitoring-Software checkmk ermöglicht Angreifern, die Zwei-Faktor-Authentifizierung zu umgehen.",
+      "url": "https://www.heise.de/news/Monitoring-Software-checkmk-Sicherheitsluecke-ermoeglicht-2FA-Umgehung-9950321.html",
+      "image_title": "IT-Verwalter steht vor Severn und Computern und überwacht die Performance"
     },
     {
       "title": "US-Behörde für Cybersecurity: Sicherheitslücken sind Produktfehler",
       "teaser": "Auf einer Sicherheitskonferenz beklagt CISA-Leiterin Jen Easterly, dass Technologieanbieter zu wenig Verantwortung für ihre Produkte übernehmen.",
       "url": "https://www.heise.de/news/US-Behoerde-fuer-Cybersecurity-Sicherheitsluecken-sind-Produktfehler-9940116.html",
       "image_title": "Logo CISA"
-    },
-    {
-      "title": "Handy-Abhören und Passcode-Klau: SS7 für Attacken offen wie ein Scheunentor",
-      "teaser": "Youtuber zeigen mit der Hilfe von Profis, wie einfach es ist, Handygespräche über die Roaming-Technik SS7 umzuleiten und abzuhören sowie SMS abzufangen.",
-      "url": "https://www.heise.de/news/Handy-Abhoeren-und-Passcode-Klau-SS7-fuer-Attacken-offen-wie-ein-Scheunentor-9949849.html",
-      "image_title": "Women's,Hand,Typing,On,Mobile,Smartphone,,Live,Chat,Chatting,On"
     },
     {
       "title": "iX-Workshop IT-Sicherheit: Pentests methodisch planen, anfordern und analysieren",
@@ -85,6 +85,12 @@
       "teaser": "Nach Installation von macOS 15 Sequoia kann es zu Problemen mit Enterprise-Security-Apps kommen. Grund sind offenbar Änderungen im Netzwerk-Stack.",
       "url": "https://www.heise.de/news/macOS-15-Probleme-mit-Sicherheitssoftware-bekannter-Hersteller-9939358.html",
       "image_title": "Apple-Logo"
+    },
+    {
+      "title": "FBI schaltet riesiges Botnet aus Heim-Routern, Webcams und NAS-Geräten ab",
+      "teaser": "Rund 1,2 Millionen IoT-Geräte waren weltweit Teil eines Botnetzes, ein Zehntel davon in Deutschland. Das FBI hat es nun abgeschaltet.",
+      "url": "https://www.heise.de/news/Heim-Router-Webcams-NAS-Geraete-Riesiges-IoT-Botnet-vom-FBI-abgeschaltet-9939939.html",
+      "image_title": "IP-Kameras, NAS-Systeme und Router sind von aus China gelenkter Malware befallen"
     },
     {
       "title": "Deutsches Jugendherbergswerk bestätigt Datenschutzvorfall",
@@ -163,12 +169,6 @@
       "teaser": "Die Ermittlungsakte zum Boystown-Prozess enthält Hinweise auf eine Timing-Analyse, mit der Tor-Nutzer deanonymisiert werden können. Abhilfe ist nicht in Sicht.",
       "url": "https://www.heise.de/news/Boystown-Ermittlungen-Mit-der-Stoppuhr-auf-Taeterfang-im-Darknet-9885038.html",
       "image_title": "Hand mit Uhr"
-    },
-    {
-      "title": "Temu dementiert: Angreifer wollen 87 Millionen Kundendatensätze erbeutet haben",
-      "teaser": "Kriminelle behaupten, Temu gehackt zu haben, und bieten 87 Millionen angebliche Kundendatensätze im Darknet zum Kauf an. Temu streitet das ab.",
-      "url": "https://www.heise.de/news/Temu-dementiert-Angreifer-wollen-87-Millionen-Kundendatensaetze-erbeutet-haben-9883224.html",
-      "image_title": "Handy mit Temu App vor einem Bildschirm"
     },
     {
       "title": "IoT-Webinar",
