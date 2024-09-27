@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-27T17:00:47",
+  "timestamp": "2024-09-27T18:08:55",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -14,6 +14,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
@@ -98,46 +104,39 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Kooperation mit der AfD : Die Brandmauer – bald nur noch eine Ruine?",
-      "teaser": "Seit die AfD vielerorts die stärkste Kraft ist, wird es immer schwerer, sie politisch auszugrenzen. Besonders in der Provinz nimmt es die CDU längst nicht mehr so genau.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/kooperation-afd-cdu-friedrich-merz-thueringen",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/kooperation-afd-cdu-friedrich-merz-thueringen-bild/wide__1000x562",
-      "image_title": "Kooperation mit der AfD: Die Brandmauer – bald nur noch eine Ruine?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Bundestagswahl 2025 : Alice Weidel soll AfD-Kanzlerkandidatin werden",
-      "teaser": "Die Parteichefs Alice Weidel und Tino Chrupalla haben sich darauf geeinigt, dass Weidel die AfD in den Bundestagswahlkampf führt. Die Parteigremien müssen noch zustimmen.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/alice-weidel-afd-kanzlerkandidatin-bundestagswahl-2025",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/alice-weidel-afd-kanzlerkandidatin-bundestagswahl/super__430x286",
-      "image_title": "Bundestagswahl 2025: Alice Weidel, co-leader of the Alternative for Germany (AfD), during a news conference at the party's headquarters in Berlin, Germany, on Monday, Sept. 23, 2024. Olaf Scholz's Social Democrats held off the far-right Alternative for Germany and look set to cling on to power in the eastern state of Brandenburg, sparing the chancellor and his party another embarrassing electoral setback. Photographer: Krisztian Bocsi/Bloomberg via Getty Images"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Thüringer Landtag : Kein Kampf ohne Lärm",
       "teaser": "Die anderen Parteien haben sich in Thüringen erfolgreich gegen die AfD gewehrt. Gewinnen können sie langfristig nur, wenn die Öffentlichkeit die Ruhestörung erträgt.",
       "url": "https://www.zeit.de/politik/deutschland/2024-09/thueringer-landtag-afd-streit-parlament-demokratie-verfassung",
-      "image_url": "https://img.zeit.de/kultur/2024-09/thueringer-landtag-afd-streit-parlament-demokratie/super__430x286",
+      "image_url": "https://img.zeit.de/kultur/2024-09/thueringer-landtag-afd-streit-parlament-demokratie/wide__1000x562",
       "image_title": "Thüringer Landtag: Machte nicht nur mit der Tagungsglocke Lärm: Jürgen Treutler (AfD), Alterspräsident der ersten Sitzung im Thüringer Parlament"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Bündnis 90/Die Grünen : Franziska Brantner und Felix Banaszak wollen neue Grünenspitze bilden",
-      "teaser": "Der Abgeordnete Banaszak und Robert Habecks Staatssekretärin Brantner wollen das neue Führungsduo der Grünen werden. Habeck sieht darin ein \"starkes Signal\".",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/gruene-franziska-brantner-und-felix-banaszak-kandidieren-fuer-vorsitz",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/gruene-franziska-brantner-felix-banaszak/super__430x286",
-      "image_title": "gruene-franziska-brantner-felix-banaszak"
+      "title": "Z+ (abopflichtiger Inhalt); Kooperation mit der AfD : Die Brandmauer – bald nur noch eine Ruine?",
+      "teaser": "Seit die AfD vielerorts die stärkste Kraft ist, wird es immer schwerer, sie politisch auszugrenzen. Besonders in der Provinz nimmt es die CDU längst nicht mehr so genau.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/kooperation-afd-cdu-friedrich-merz-thueringen",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/kooperation-afd-cdu-friedrich-merz-thueringen-bild/super__430x286",
+      "image_title": "Kooperation mit der AfD: Die Brandmauer – bald nur noch eine Ruine?"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Interviewpodcast \"Alles gesagt?\" : Winfried Kretschmann, sind die Grünen noch zu retten?",
+      "teaser": "Er ist der einzige grüne Ministerpräsident Deutschlands. Vielleicht auch der letzte? Im Podcast spricht er über die aktuellen Rücktritte und großen Krisen seiner Partei.",
+      "url": "https://www.zeit.de/politik/2024-09/winfried-kretschmann-interviewpodcast-alles-gesagt",
+      "image_url": "https://img.zeit.de/politik/2024-09/winfried-kretschmann-interviewpodcast-alles-gesagt-aufmacher/wide__892x501",
+      "image_title": "Interviewpodcast \"Alles gesagt?\": Winfried Kretschmann, sind die Grünen noch zu retten?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Liveblog:Krieg in Israel und Gaza : Israel bombardiert Hisbollah-Hauptquartier in Beirut",
       "teaser": "Israels Militär hat das Hauptquartier der Hisbollah in der libanesischen Hauptstadt angegriffen. An der Grenze zum Libanon wurden Reservisten stationiert. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/2023-12/news-israel-gaza-krieg-live",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/beirut-3/wide__892x501",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/beirut-3/super__430x286",
       "image_title": "Beirut"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Nahost : \"Ein Waffenstillstand wäre eine Rettungsleine für die Hisbollah\"",
-      "teaser": "Die Schiiten-Miliz ist schockiert über ihre Schwäche und der Iran versucht zu retten, was noch zu retten ist: Hisbollah-Expertin Hanin Ghaddar zur Lage im Libanon.",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/nahost-krieg-waffenruhe-israel-hisbollah-hamas",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/hisbollah/super__430x286",
-      "image_title": "Hisbollah"
+      "title": "Z+ (abopflichtiger Inhalt); Türkei : Bundesregierung vereinbart mit der Türkei schnellere Abschiebungen",
+      "teaser": "Auf Druck der Bundesregierung will die Türkei ausreisepflichtige Staatsbürger aus Deutschland schneller wieder aufnehmen. Nancy Faeser sieht einen \"großen Fortschritt\".",
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/abschiebungen-tuerkei-rueckfuehrungen-nancy-faeser",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/abschiebungen-tuerkei-rueckfuehrungen/super__430x286",
+      "image_title": "abschiebungen-tuerkei-rueckfuehrungen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Conchita Wurst : \"Ich liebe es, im Dialekt zu singen\"",
@@ -152,6 +151,13 @@
       "url": "https://www.zeit.de/2024/41/sparprogramm-bundesrat-schweiz-svp-finanzpolitik-europapolitik",
       "image_url": "https://img.zeit.de/politik/2024-09/was-wenns-eng-wird-rot-teaser/super__430x286",
       "image_title": "Sparprogramm des Bundesrats: Die langfristige Budgetplanung, zeigt, dass der Staat künftig deutlich mehr Geld brauchen wird."
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Krise der Automobilindustrie : Volkswagen senkt Prognose erneut",
+      "teaser": "Zum zweiten Mal binnen weniger Monate nimmt der Volkswagen-Konzern seine Erwartungen an das Geschäftsjahr zurück. Als Gründe werden gesunkene Verkaufszahlen genannt.",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-09/volkswagen-prognose-2025-absatz-rendite",
+      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-09/volkswagen-prognose-autoverkaeufe/super__430x286",
+      "image_title": "Volkswagen Prognose Autoverkäufe"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Mykoplasmen-Infektionen : Was steckt hinter der Lungenentzündungswelle bei Kindern?",
@@ -322,18 +328,18 @@
       "image_title": "Radsport: Muriel Furrer während der UCI Road Cycling World Championships in Zürich 2024"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Berliner Kulturetat : Die Krisen wollen ihr Geld zurück",
+      "teaser": "Der Berliner Kulturetat soll 2025 um zehn Prozent gekürzt werden. Die Kultur protestiert. Kurios ist nur: Alle wussten, dass gespart werden muss – und es gar nicht geht.",
+      "url": "https://www.zeit.de/kultur/2024-09/berliner-kulturetat-kuerzungen-kulturpolitik-joe-chialo",
+      "image_url": "https://img.zeit.de/kultur/2024-09/berliner-kulturetat-kuerzungen-kulturpolitik/square__500x500",
+      "image_title": "Berliner Kulturetat: Oliver Reese, Intendant des Berliner Ensembles, steht im Berliner Ensemble mit einem Schal auf dem \"Brecht Ultras\" steht. (zu dpa Theaterchef: Brecht ist in diesen Zeiten hochaktuell) +++ dpa-Bildfunk +++"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); \"Harlequin\" von Lady Gaga : Jazz mal im Ernst",
       "teaser": "Kurz vor der \"Joker\"-Farce \"Folie à Deux\" veröffentlicht Lady Gaga ein Album voller Jazzstandards. Es soll ihr sechseinhalbtes sein, mit Betonung auf der Nachkommastelle.",
       "url": "https://www.zeit.de/kultur/musik/2024-09/harlequin-lady-gaga-joker-album-musik",
-      "image_url": "https://img.zeit.de/kultur/musik/2024-09/lady-gaga/wide__892x501",
+      "image_url": "https://img.zeit.de/kultur/musik/2024-09/lady-gaga/super__430x286",
       "image_title": "\"Harlequin\" von Lady Gaga: Cute! Lady Gaga (rechts) und Joaquin Phoenix in einer Szene aus \"Joker – Folie a Deux\""
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Kanzlei Liebling Kreuzberg\" : Bei Opa war alles besser",
-      "teaser": "Die ARD hat die alte Anwaltsserie \"Liebling Kreuzberg\" in die Gegenwart gezerrt und als Spielfilm adaptiert. Hoffentlich bleibt es bei diesem einmaligen Experiment.",
-      "url": "https://www.zeit.de/kultur/film/2024-09/kanzlei-liebling-kreuzberg-ard-film-serie",
-      "image_url": "https://img.zeit.de/kultur/film/2024-09/kanzlei-liebling-kreuzberg-ard-film-schmeide-finckh/super__430x286",
-      "image_title": "\"Kanzlei Liebling Kreuzberg\": Talia Jahnka (Gabriela Maria Schmeide, links) ist verständlicherweise nicht erfreut, als die Enkelin des Kanzleigründers, Lisa Liebling (Luise von Finckh) plötzlich Ansprüche anmeldet"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Energiewende : Willkommen im Solarzeitalter",
@@ -357,11 +363,11 @@
       "image_title": "Sex: Haben Männer eigentlich Spaß an Sex?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Energieversorgung in der Ukraine : Der nächste Winter wird hart",
-      "teaser": "Russland greift seit Monaten die Energieversorgung der Ukraine an. Mit Stromausfällen sollen die Menschen zur Aufgabe gezwungen werden. Hilfe aus dem Westen ist zwingend.",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/energieversorgung-ukraine-krieg-russland-heizung-kraftwerke-winter",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/energieversorgung-ukraine-krieg-russland-heizung-kraftwerke-winter-teaser/super__430x286",
-      "image_title": "Energieversorgung in der Ukraine: A worker walks inside DTEK's power plant which was destroyed by a Russian missile attack in Ukraine, on Monday, April 1, 2024. Russia is attacking Ukraine’s energy sector with renewed intensity and alarming accuracy, signaling to Ukrainian officials that Russia is armed with better intelligence and fresh tactics in its campaign to annihilate the country’s power generation capacity. (AP Photo/Evgeniy Maloletka)"
+      "title": "Z+ (abopflichtiger Inhalt); Nachbarschaftsstreit vor Gericht : Münchner Landgericht reduziert Geldstrafe für Jens Lehmann deutlich",
+      "teaser": "Ex-Torhüter Lehmann muss nach seiner Verurteilung nur noch ein Bruchteil der Geldstrafe zahlen. Grund seien ein Schuldeingeständnis und Unterhaltszahlungen.",
+      "url": "https://www.zeit.de/gesellschaft/2024-09/nachbarschaftsstreit-jens-lehmann-geldstrafe-prozess-berufung",
+      "image_url": "https://img.zeit.de/sport/2024-09/jens-lehmann/super__430x286",
+      "image_title": "Jens Lehmann"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); UN-Generaldebatte : Netanjahu lehnt Waffenruhe mit Hisbollah in Rede vor den UN ab",
@@ -369,6 +375,13 @@
       "url": "https://www.zeit.de/politik/ausland/2024-09/vereinte-nationen-benjamin-netanjahu-israel-libanon-krieg",
       "image_url": "https://img.zeit.de/politik/ausland/2024-09/benjamin-netanjahu-un/super__320x213",
       "image_title": "Benjamin Netanjahu UN"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Bundestagswahl 2025 : Alice Weidel soll AfD-Kanzlerkandidatin werden",
+      "teaser": "Die Parteichefs Alice Weidel und Tino Chrupalla haben sich darauf geeinigt, dass Weidel die AfD in den Bundestagswahlkampf führt. Die Parteigremien müssen noch zustimmen.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/alice-weidel-afd-kanzlerkandidatin-bundestagswahl-2025",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/alice-weidel-afd-kanzlerkandidatin-bundestagswahl/super__320x213",
+      "image_title": "Bundestagswahl 2025: Alice Weidel, co-leader of the Alternative for Germany (AfD), during a news conference at the party's headquarters in Berlin, Germany, on Monday, Sept. 23, 2024. Olaf Scholz's Social Democrats held off the far-right Alternative for Germany and look set to cling on to power in the eastern state of Brandenburg, sparing the chancellor and his party another embarrassing electoral setback. Photographer: Krisztian Bocsi/Bloomberg via Getty Images"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Klimaprotest : Britische Aktivistinnen müssen wegen Tomatensuppenwurf ins Gefängnis",
@@ -392,6 +405,13 @@
       "image_title": "eu-datenschutzverstoesse-facebook-meta"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Bündnis 90/Die Grünen : Franziska Brantner und Felix Banaszak wollen neue Grünenspitze bilden",
+      "teaser": "Der Abgeordnete Banaszak und Robert Habecks Staatssekretärin Brantner wollen das neue Führungsduo der Grünen werden. Habeck sieht darin ein \"starkes Signal\".",
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/gruene-franziska-brantner-und-felix-banaszak-kandidieren-fuer-vorsitz",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/gruene-franziska-brantner-felix-banaszak/super__320x213",
+      "image_title": "gruene-franziska-brantner-felix-banaszak"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Landtagswahl in Brandenburg : SPD und BSW vereinbaren Sondierungsgespräche",
       "teaser": "Brandenburgs Ministerpräsident Dietmar Woidke hat sich mit Sahra Wagenknecht getroffen. Kommende Woche sollen die Sondierungsgespräche für eine SPD-BSW-Regierung starten.",
       "url": "https://www.zeit.de/politik/deutschland/2024-09/brandenburg-landtagswahl-spd-bsw-dietmar-woidke-sahra-wagenknecht",
@@ -404,20 +424,6 @@
       "url": "https://www.zeit.de/wirtschaft/2024-09/balkonkraftwerke-solar-bundesrat-mieter",
       "image_url": "https://img.zeit.de/wirtschaft/2024-09/balkonkraftwerk/super__320x213",
       "image_title": "Balkonkraftwerk"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Verbot der Gehsteigbelästigung : Bundesrat unterstützt besseren Schutz von Schwangeren",
-      "teaser": "Manche Gegner von Schwangerschaftsabbrüchen belästigen Schwangere vor Beratungsstellen. Ein Verbot dieser sogenannten Gehsteigbelästigung hat die Länderkammer passiert.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/schwangerschaftsabbruch-belaestigung-beratungsstellen-verbot-bundesrat",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-09/schwangerschaftsabbruch-belaestigung-beratungsstellen-verbot-bundesrat-bild/super__320x213",
-      "image_title": "Verbot der Gehsteigbelästigung: Bei der Demonstration \"Marsch für das Leben\" zeigt diese Gegendemonstrantin ein besonderes Schmuckstück in Form eines Uterus. Service +++ dpa-Bildfunk +++ Aufnahmedatum 21.09.2024 Bildnachweis picture alliance/dpa | Paul Zinken"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Vorschlag zur Waffenruhe : Verbündete drängen Netanjahu vor UN-Vollversammlung zu Waffenruhe",
-      "teaser": "Von Benjamin Netanjahus Rede vor den Vereinten Nationen werden kaum Zeichen der Deeskalation erwartet. EU, USA und andere äußern bei aller Diplomatie deutliche Kritik.",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/benjamin-netanjahu-israel-vereinte-nationen-un-generaldebatte-feuerpause",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/benjamin-netanjahu-israel-vereinte-nationen-un-generaldebatte-feuerpause-bild/super__320x213",
-      "image_title": "Vorschlag zur Waffenruhe: United Nations Secretary-General Antonio Guterres addresses the 79th United Nations General Assembly at U.N. headquarters in New York, U.S., September 24, 2024."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); ZEIT Podcast-Tour : Feiern Sie mit uns das ZEIT Podcast-Tour Finale",
@@ -758,23 +764,25 @@
       "image_title": "\"Was jetzt? – Die Woche\": Nach Anschlag in Solingen – politisches Maßnahmen-Bingo?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Interviewpodcast \"Alles gesagt?\" : Winfried Kretschmann, sind die Grünen noch zu retten?",
-      "teaser": "Er ist der einzige grüne Ministerpräsident Deutschlands. Vielleicht auch der letzte? Im Podcast spricht er über die aktuellen Rücktritte und großen Krisen seiner Partei.",
-      "url": "https://www.zeit.de/politik/2024-09/winfried-kretschmann-interviewpodcast-alles-gesagt",
-      "image_url": "https://img.zeit.de/politik/2024-09/winfried-kretschmann-interviewpodcast-alles-gesagt-aufmacher/wide__892x501",
-      "image_title": "Interviewpodcast \"Alles gesagt?\": Winfried Kretschmann, sind die Grünen noch zu retten?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Türkei : Bundesregierung vereinbart mit der Türkei schnellere Abschiebungen",
-      "teaser": "Auf Druck der Bundesregierung will die Türkei ausreisepflichtige Staatsbürger aus Deutschland schneller wieder aufnehmen. Nancy Faeser sieht einen \"großen Fortschritt\".",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/abschiebungen-tuerkei-rueckfuehrungen-nancy-faeser"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Nachrichtenpodcast : Die Ampel streitet über die Rente",
       "teaser": "Der Bundestag debattiert über die Rentenreform. Die FDP will nachbessern, die SPD mahnt die Abmachungen an. Und: Wie geht es weiter im Thüringer Landtag?",
       "url": "https://www.zeit.de/politik/2024-09/rentenreform-bundestag-ampelregierung-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__430x286",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__892x501",
       "image_title": "Nachrichtenpodcast: Die Ampel streitet über die Rente"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Energieversorgung in der Ukraine : Der nächste Winter wird hart",
+      "teaser": "Russland greift seit Monaten die Energieversorgung der Ukraine an. Mit Stromausfällen sollen die Menschen zur Aufgabe gezwungen werden. Hilfe aus dem Westen ist zwingend.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/energieversorgung-ukraine-krieg-russland-heizung-kraftwerke-winter",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/energieversorgung-ukraine-krieg-russland-heizung-kraftwerke-winter-teaser/super__430x286",
+      "image_title": "Energieversorgung in der Ukraine: A worker walks inside DTEK's power plant which was destroyed by a Russian missile attack in Ukraine, on Monday, April 1, 2024. Russia is attacking Ukraine’s energy sector with renewed intensity and alarming accuracy, signaling to Ukrainian officials that Russia is armed with better intelligence and fresh tactics in its campaign to annihilate the country’s power generation capacity. (AP Photo/Evgeniy Maloletka)"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); AfD-Alterspräsident Jürgen Treutler : Verfassungsrichter entscheiden über Vorgehen im Thüringer Landtag",
+      "teaser": "Im Eilverfahren entscheidet das Landesverfassungsgericht, wie es am Samstag im Thüringer Landtag weitergeht. Die erste Sitzung des Parlaments war chaotisch verlaufen.",
+      "url": "https://www.zeit.de/politik/2024-09/thueringen-verfassungsgericht-parlament-afd-alterspraesident",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/thueringen-verfassungsgericht-parlament-afd-alterspraesident-bild/super__430x286",
+      "image_title": "AfD-Alterspräsident Jürgen Treutler: Die parlamentarischen Geschäftsführer der Parteien beraten sich während einer Unterbrechung kurz nach Beginn der konstituierenden Sitzung des Thüringer Landtags. Zum ersten Mal hat die AfD als stärkste Fraktion das Vorschlagsrecht für das Amt des Landtagspräsidenten. Service +++ dpa-Bildfunk +++ Aufnahmedatum 26.09.2024 Bildnachweis picture alliance/dpa | Martin Schutt"
     },
     {
       "title": "Verlagsangebot : Das Sprachtandem der besonderen Art – von ZEIT SPRACHEN",
@@ -889,11 +897,11 @@
       "image_title": "Berlin versinkt im peinlichen Kita-Chaos"
     },
     {
-      "title": "Chinas Konjunkturmaßnahmen : „Das wird nicht ausreichen, um 2025 ein starkes Wachstum zu erwarten“",
+      "title": "Chinas Konjunkturmaßnahmen : „Deutsche Firmen, die in den letzten Jahren keinen Erfolg hatten, werden auch jetzt keinen haben“",
       "teaser": "Neue Konjunkturmaßnahmen sollen die Wirtschaft in China stützen. Was das für deutsche Unternehmen bedeutet, erklärt China-Experte Max Zenglein.",
-      "url": "https://www.wiwo.de/politik/ausland/chinas-konjunkturmassnahmen-das-wird-nicht-ausreichen-um-2025-ein-starkes-wachstum-zu-erwarten/30014984.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
+      "url": "https://www.wiwo.de/politik/ausland/chinas-konjunkturmassnahmen-deutsche-firmen-die-in-den-letzten-jahren-keinen-erfolg-hatten-werden-auch-jetzt-keinen-haben/30014984.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
       "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/imago0471987631h/30015010/2-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
-      "image_title": "„Das wird nicht ausreichen, um 2025 ein starkes Wachstum zu erwarten“"
+      "image_title": "„Deutsche Firmen, die in den letzten Jahren keinen Erfolg hatten, werden auch jetzt keinen haben“"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Studierende in Ostdeutschland : Wie wehren sich Studierende im Osten gegen die AfD?",
@@ -924,6 +932,13 @@
       "image_title": "Austrofred: Franz Adrian Wenzl (48) ist Österreichs bekanntester Freddie-Mercury-Interpret sowie Sänger der Band Kreisky."
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); \"Kanzlei Liebling Kreuzberg\" : Bei Opa war alles besser",
+      "teaser": "Die ARD hat die alte Anwaltsserie \"Liebling Kreuzberg\" in die Gegenwart gezerrt und als Spielfilm adaptiert. Hoffentlich bleibt es bei diesem einmaligen Experiment.",
+      "url": "https://www.zeit.de/kultur/film/2024-09/kanzlei-liebling-kreuzberg-ard-film-serie",
+      "image_url": "https://img.zeit.de/kultur/film/2024-09/kanzlei-liebling-kreuzberg-ard-film-schmeide-finckh/super__430x286",
+      "image_title": "\"Kanzlei Liebling Kreuzberg\": Talia Jahnka (Gabriela Maria Schmeide, links) ist verständlicherweise nicht erfreut, als die Enkelin des Kanzleigründers, Lisa Liebling (Luise von Finckh) plötzlich Ansprüche anmeldet"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); ARD und ZDF : Länder legen Reformplan für Öffentlich-Rechtliche vor",
       "teaser": "Weniger Sender, niedrigere Kosten: ARD und ZDF sollen effizienter und sparsamer werden, aber auch \"digitaler und zukunftsfester\". Ein erster Entwurf dazu liegt jetzt vor.",
       "url": "https://www.zeit.de/kultur/film/2024-09/oeffentlich-rechtlicher-rundfunk-reform-laender-entwurf",
@@ -936,13 +951,6 @@
       "url": "https://www.zeit.de/2024/41/patricia-schlesinger-intendantin-rbb-skandal-journalismus-medien",
       "image_url": "https://img.zeit.de/2024/41/patricia-schlesinger-intendantin-rbb-skandal-journalismus-medien-teaser/super__430x286",
       "image_title": "Patricia Schlesinger: Patricia Schlesinger, 2020"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); US-Journalismus : Wie sie versagt haben",
-      "teaser": "Der US-Journalismus scheitert weiter daran, über Trump, seine Gefolgschaft und autoritäre Tendenzen zu berichten. Ein Aufschrei (der auch anderswo nützlich sein könnte)",
-      "url": "https://www.zeit.de/kultur/2024-09/journalismus-medien-washington-post-faschismus-jeff-jarvis",
-      "image_url": "https://img.zeit.de/kultur/2024-09/journalismus-medien-washington-post-faschismus/super__430x286",
-      "image_title": "US-Journalismus: Wie sie versagt haben"
     },
     {
       "title": "An dieser Stelle ist ein externer Inhalt eingebunden",
@@ -1126,11 +1134,11 @@
       "image_title": "Sich entschuldigen: Das Gaffer-Tape der deutschen Sprache"
     },
     {
-      "title": "Verlagsangebot : Nicht nur irgendwas studieren",
-      "teaser": "Studieren! Aber was? Der Studiuminteressentest unterstützt Unschlüssige bei ihrer Suche nach dem passenden Studium, basierend auf den eigenen Interessen.",
-      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.textbild.schwarzer-hut_nichtnurirgendwas.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=sit_textbild_schwarzer-hut_nichtnurirgendwas_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-2-klein/brooke-cagle-tlg2hcpitze-unsplash-197.jpg",
-      "image_title": "Nicht nur irgendwas studieren"
+      "title": "Verlagsangebot : Und was macht man dann damit?",
+      "teaser": "Was verbirgt sich konkret hinter den sperrigen Studiengangsbezeichnungen? Einen Einblick in mögliche Berufsfelder liefert die Suchmaschine für Studienangebote.",
+      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.kaffeepause_wasmachtmandamit.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_kaffeepause_wasmachtmandamit_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-4-klein/photo-of-women-looking-on-monitors-197.jpg",
+      "image_title": "Und was macht man dann damit?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Wohnungsnot : Bafög-Wohnhilfe reicht nur in zwei Städten für die Miete",
@@ -1210,36 +1218,36 @@
       "image_title": "Paula Enzweiler: \"Ich habe Maranoia\""
     },
     {
-      "title": "Auto überschlägt sich: Unfall mit vier Fahrzeugen auf der Autobahn",
-      "url": "https://www.zeit.de/news/2024-09/27/unfall-mit-vier-fahrzeugen-auf-der-autobahn"
+      "title": "Feuerwehreinsatz: Substanz löst Atemwegsreizungen bei Kindern aus",
+      "url": "https://www.zeit.de/news/2024-09/27/substanz-loest-atemwegsreizungen-bei-kindern-aus"
     },
     {
-      "title": "Oktoberfest: Gefährliche Bierbank: Frau wegen Holzsplitter bei Sanitätern",
-      "url": "https://www.zeit.de/news/2024-09/27/gefaehrliche-bierbank-frau-wegen-holzsplitter-bei-sanitaetern"
+      "title": "Reformiertes Turnier: FIFA gibt Stadien für Club-WM am Samstag bekannt",
+      "url": "https://www.zeit.de/news/2024-09/27/fifa-gibt-stadien-fuer-club-wm-am-samstag-bekannt"
     },
     {
-      "title": "Ukraine-Krieg: Russischer Angriff in Ostukraine mit Kampfdrohnen abgewehrt",
-      "url": "https://www.zeit.de/news/2024-09/27/russischer-angriff-in-ostukraine-mit-kampfdrohnen-abgewehrt"
+      "title": "Notfälle: Kellerbrand in Berlin-Pankow - 70 Feuerwehrleute im Einsatz",
+      "url": "https://www.zeit.de/news/2024-09/27/kellerbrand-in-berlin-pankow-70-feuerwehrleute-im-einsatz"
     },
     {
-      "title": "Gefährlicher Wirbelsturm: Hurrikan «Helene» wütet im Südosten der USA - Rund 20 Tote",
-      "url": "https://www.zeit.de/news/2024-09/27/hurrikan-helene-wuetet-im-suedosten-der-usa-rund-20-tote"
+      "title": "Maritime Wirtschaft: Verdi nimmt Angebot der Seehafenbetriebe an",
+      "url": "https://www.zeit.de/news/2024-09/27/verdi-nimmt-angebot-der-seehafenbetriebe-an"
     },
     {
-      "title": "2. Fußball-Bundesliga: Hertha verlängert vorzeitig mit Torwart Ernst",
-      "url": "https://www.zeit.de/news/2024-09/27/hertha-verlaengert-vorzeitig-mit-torwart-ernst"
+      "title": "Mordprozess: Mit über 100 Messerstichen getötet - lebenslang für Frau",
+      "url": "https://www.zeit.de/news/2024-09/27/mit-ueber-100-messerstichen-getoetet-lebenslang-fuer-frau"
     },
     {
-      "title": "Migration: Deutschland startet mehr Abschiebungen in Türkei",
-      "url": "https://www.zeit.de/news/2024-09/27/neu-vereinbarte-abschiebungen-in-tuerkei-starten"
+      "title": "Leiche gefunden: Mann soll 25-Jährige getötet haben - Untersuchungshaft",
+      "url": "https://www.zeit.de/news/2024-09/27/mann-soll-25-jaehrige-getoetet-haben-untersuchungshaft"
     },
     {
-      "title": "Filmwelt: Tod von Maggie Smith: Premier und Kollegen würdigen Britin",
-      "url": "https://www.zeit.de/news/2024-09/27/tod-von-maggie-smith-premier-und-kollegen-wuerdigen-britin"
+      "title": "Autokrise: Volkswagen-Konzern kappt Prognose erneut - Kernmarke schwach",
+      "url": "https://www.zeit.de/news/2024-09/27/volkswagen-konzern-kappt-prognose-erneut-kernmarke-schwach"
     },
     {
-      "title": "Migration: Neu vereinbarte Abschiebeflüge in Türkei starten",
-      "url": "https://www.zeit.de/news/2024-09/27/neu-vereinbarte-abschiebefluege-in-tuerkei-starten"
+      "title": "Datenschutz: Microsoft schränkt umstrittene KI-Suchfunktion ein",
+      "url": "https://www.zeit.de/news/2024-09/27/microsoft-schraenkt-umstrittene-ki-suchfunktion-ein"
     }
   ]
 }
