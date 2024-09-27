@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-27T07:07:04",
+  "timestamp": "2024-09-27T08:09:58",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Nvidia Container Toolkit, GPU Operator",
+      "url": "https://www.heise.de/news/Schadcode-Schlupfloch-in-Nvidia-Container-Toolkit-geschlossen-9955200.html"
+    },
+    {
       "title": "Cisco",
       "url": "https://www.heise.de/news/Angreifer-koennen-Cisco-Router-via-DoS-Attacken-abstuerzen-lassen-9953784.html"
     },
@@ -44,11 +48,13 @@
       "url": "https://www.heise.de/news/Teamviewer-Hochriskante-Luecken-ermoeglichen-Rechteausweitung-9953034.html"
     },
     {
-      "title": "HPE Aruba Access Points",
-      "url": "https://www.heise.de/news/HPE-Aruba-Access-Points-fuer-Codeschmuggel-aus-dem-Netz-anfaellig-9952754.html"
+      "title": "Schadcode-Schlupfloch in Nvidia Container Toolkit geschlossen",
+      "teaser": "Angreifer können an Sicherheitslücken in Nvidia Container Toolkit und GPU Operator ansetzen, um Systeme zu kompromittieren.",
+      "url": "https://www.heise.de/news/Schadcode-Schlupfloch-in-Nvidia-Container-Toolkit-geschlossen-9955200.html",
+      "image_title": "Testbild mit \"Update\"-Schriftzug"
     },
     {
-      "title": "NIS2-Umsetzung: Wie das BMI die IT-Sicherheit der Verwaltung in den Sand setzt​",
+      "title": "Kommentar: Schallende Ohrfeige für desolate NIS-2-Umsetzung​",
       "teaser": "Für die Umsetzung der EU-IT-Securityrichtlinie NIS2 haben Bundesregierung und Innenministerium eine Klatsche kassiert. Mehr als berechtigt, findet Manuel Atug.​",
       "url": "https://www.heise.de/news/Kommentar-Eine-schallende-Ohrfeige-fuer-die-desolate-NIS-2-Umsetzung-9954012.html",
       "image_title": "Frau macht doppelten Facepalm"
@@ -157,12 +163,6 @@
       "teaser": "Angreifer haben den internationalen Geldtransferdienst MoneyGram außer Gefecht gesetzt. Die Ermittlungen laufen.",
       "url": "https://www.heise.de/news/Cyberangriff-auf-US-Finanzdienstleister-MoneyGram-9951507.html",
       "image_title": "Moneygram ist ein Finandienstleister"
-    },
-    {
-      "title": "Kaspersky-Kunden in den USA werden automatisch auf UltraAV umgestellt",
-      "teaser": "Kaspersky kündigte an, nach dem Bann in den USA als Alternative UltraAV anzubieten. Clients werden nun automatisch umgestellt.",
-      "url": "https://www.heise.de/news/Kaspersky-Kunden-in-den-USA-werden-automatisch-auf-UltraAV-umgestellt-9951411.html",
-      "image_title": "Laptop vor USA-Flagge zeigt einen Schutzschild wie vom Virenscanner"
     },
     {
       "title": "IoT-Webinar",
