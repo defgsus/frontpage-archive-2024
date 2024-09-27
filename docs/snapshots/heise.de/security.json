@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-27T08:09:58",
+  "timestamp": "2024-09-27T09:07:32",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Foxit PDF",
+      "url": "https://www.heise.de/news/Foxit-PDF-Manipulierte-PDFs-koennen-Schadcode-durchschleusen-9955308.html"
+    },
+    {
+      "title": "CUPS",
+      "url": "https://www.heise.de/news/Teils-kritische-Luecken-in-Unix-Drucksystem-CUPS-ermoeglichen-Codeschmuggel-9955130.html"
+    },
+    {
       "title": "Nvidia Container Toolkit, GPU Operator",
       "url": "https://www.heise.de/news/Schadcode-Schlupfloch-in-Nvidia-Container-Toolkit-geschlossen-9955200.html"
     },
@@ -40,12 +48,10 @@
       "url": "https://www.heise.de/news/Angreifer-koennen-Cisco-Router-via-DoS-Attacken-abstuerzen-lassen-9953784.html"
     },
     {
-      "title": "Progress Telerik UI for WPF & WinForms",
-      "url": "https://www.heise.de/news/Progress-Telerik-hochriskante-Luecken-erlauben-Code-und-Befehlsschmuggel-9953714.html"
-    },
-    {
-      "title": "Teamviewer",
-      "url": "https://www.heise.de/news/Teamviewer-Hochriskante-Luecken-ermoeglichen-Rechteausweitung-9953034.html"
+      "title": "Foxit PDF: Manipulierte PDFs können Schadcode durchschleusen",
+      "teaser": "Es sind gegen verschiedene Attacken gerüstete Versionen von Foxit PDF Editor und PDF Reader für macOS und Windows erschienen.",
+      "url": "https://www.heise.de/news/Foxit-PDF-Manipulierte-PDFs-koennen-Schadcode-durchschleusen-9955308.html",
+      "image_title": "Eine Frau drückt symbolisch einen Upodate-Knopf."
     },
     {
       "title": "Schadcode-Schlupfloch in Nvidia Container Toolkit geschlossen",
@@ -112,6 +118,12 @@
       "url": "https://www.heise.de/news/Progress-Telerik-hochriskante-Luecken-erlauben-Code-und-Befehlsschmuggel-9953714.html"
     },
     {
+      "title": "Teamviewer: Hochriskante Lücken ermöglichen Rechteausweitung",
+      "teaser": "In der Fernwartungssoftware Teamviewer klaffen Sicherheitslücken, durch die Angreifer ihre Rechte ausweiten können. Updates schließen sie.",
+      "url": "https://www.heise.de/news/Teamviewer-Hochriskante-Luecken-ermoeglichen-Rechteausweitung-9953034.html",
+      "image_title": "Remote Desktop: Rechner über das Netzwerk fernsteuern."
+    },
+    {
       "title": "Schon wieder: Offizielles Twitter-Konto OpenAIs von Krypto-Betrügern übernommen",
       "teaser": "Der offizielle Twitter-Account der Pressestelle von ChatGPT-Anbieter OpenAI wurde von Betrügern übernommen und genutzt, um eine Fake-Kryptowährung zu promoten.",
       "url": "https://www.heise.de/news/Schon-wieder-Offizielles-Twitter-Konto-OpenAIs-von-Krypto-Betruegern-uebernommen-9953073.html",
@@ -152,17 +164,6 @@
       "teaser": "Telegram fliegt von Mitarbeiter-Handys von Behörden, Infrastrukturbetreibern und Militärs der Ukraine. Grund: Russlands Dienste könnten Telegram überwachen.​",
       "url": "https://www.heise.de/news/Spionageabwehr-Ukraine-verbietet-Telegram-auf-Diensthandys-9952101.html",
       "image_title": "Telegram-Icon auf einem Smartphone"
-    },
-    {
-      "title": "Online-Konferenz zu NIS2-Regulierung: Was Unternehmen jetzt tun müssen",
-      "teaser": "Die NIS2-Regulierung der EU bringt neue Verpflichtungen im Bereich Cybersecurity. Auf unserer Online-Konferenz erklären renommierte Fachleute, was zu tun ist.",
-      "url": "https://www.heise.de/news/Online-Konferenz-zu-NIS2-Regulierung-Was-Unternehmen-jetzt-tun-muessen-9951017.html"
-    },
-    {
-      "title": "Cyberangriff auf US-Finanzdienstleister MoneyGram",
-      "teaser": "Angreifer haben den internationalen Geldtransferdienst MoneyGram außer Gefecht gesetzt. Die Ermittlungen laufen.",
-      "url": "https://www.heise.de/news/Cyberangriff-auf-US-Finanzdienstleister-MoneyGram-9951507.html",
-      "image_title": "Moneygram ist ein Finandienstleister"
     },
     {
       "title": "IoT-Webinar",
