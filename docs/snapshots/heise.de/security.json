@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-27T12:12:31",
+  "timestamp": "2024-09-27T13:16:11",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "PHP",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-PHP-8-3-12-und-8-2-24-stopfen-kritische-Sicherheitslecks-9955863.html"
+    },
+    {
       "title": "Foxit PDF",
       "url": "https://www.heise.de/news/Foxit-PDF-Manipulierte-PDFs-koennen-Schadcode-durchschleusen-9955308.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Schadcode-Schlupfloch-in-Nvidia-Container-Toolkit-geschlossen-9955200.html"
     },
     {
-      "title": "Cisco",
-      "url": "https://www.heise.de/news/Angreifer-koennen-Cisco-Router-via-DoS-Attacken-abstuerzen-lassen-9953784.html"
+      "title": "Sicherheitsupdates: PHP 8.3.12 und 8.2.24 stopfen kritische Sicherheitslecks",
+      "teaser": "Die PHP-Entwickler haben PHP 8.3.12 und 8.2.24 veröffentlicht. Darin schließen sie mehrere, teils kritische Sicherheitslücken.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-PHP-8-3-12-und-8-2-24-stopfen-kritische-Sicherheitslecks-9955863.html",
+      "image_title": "Programmierer am Laptop, der COde und \"PHP\" anzeigt. Viren und Kriminelle greifen das an"
     },
     {
       "title": "iX-Workshop: AWS-Sicherheit - Angriffe erkennen und abwehren",
@@ -64,6 +70,11 @@
       "teaser": "Angreifer können an Sicherheitslücken in Nvidia Container Toolkit und GPU Operator ansetzen, um Systeme zu kompromittieren.",
       "url": "https://www.heise.de/news/Schadcode-Schlupfloch-in-Nvidia-Container-Toolkit-geschlossen-9955200.html",
       "image_title": "Testbild mit \"Update\"-Schriftzug"
+    },
+    {
+      "title": "Mit smarter Verbrauchssteuerung Energie sparen",
+      "teaser": "Steigende Kosten und Umweltaspekte machen einen verantwortungsvollen Umgang mit Energie unabdingbar. Mit smarten Technologien können Sie Ihren Stromverbrauch reduzieren, Kosten sparen und einen Beitrag zum Umweltschutz leisten.",
+      "url": "https://www.heise.de/solutions/eq-3/mit-smarter-verbrauchssteuerung-energie-sparen/?source=nat_teas"
     },
     {
       "title": "Kommentar: Schallende Ohrfeige für desolate NIS-2-Umsetzung​",
@@ -158,12 +169,6 @@
       "teaser": "In einem Bericht erläutert Microsoft, wie es mit der Secure Future Initiative vorangeht. Mehrere Maßnahmen sollen unter anderem Cyberattacken vorbeugen.",
       "url": "https://www.heise.de/news/Initiative-fuer-mehr-IT-Sicherheit-Microsoft-zieht-erstes-Resuemee-9952362.html",
       "image_title": "Sicherheitsschloss auf einer ausgestreckten Hand"
-    },
-    {
-      "title": "Secure by Design: CISA und FBI wollen Cross-Site-Scripting den Garaus machen",
-      "teaser": "Die US-amerikanischen Sicherheitsbehörden CISA und FBI knöpfen sich Cross-SIte-Scripting-Lücken im Entwicklungsprozess vor.",
-      "url": "https://www.heise.de/news/Secure-by-Design-CISA-und-FBI-wollen-Cross-Site-Scripting-den-Garaus-machen-9952290.html",
-      "image_title": "Ein stark defekter Laptop mit Aufklebern, die es zusammenhalten und FBI- und CISA-Logos zeigen"
     },
     {
       "title": "IoT-Webinar",
