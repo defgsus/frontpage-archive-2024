@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-28T12:10:49",
+  "timestamp": "2024-09-28T13:12:10",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -14,6 +14,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
@@ -98,11 +104,11 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Hisbollah-Chef Sajjed Hassan Nasrallah : Hisbollah bestätigt Tod ihres Anführers Hassan Nasrallah",
-      "teaser": "Die radikal-islamische Hisbollah-Miliz hat ihren Anführer verloren. Er wurde bei einem israelischen Luftangriff auf das Hauptquartier in Beirut getötet.",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/hisbollah-bestaetigt-tod-ihres-anfuehrers-nasrallah",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/nahostkrieg-hisbollah-nasrallah-getoetet-israel-bild-2/wide__1000x562",
-      "image_title": "Hisbollah-Chef Sajjed Hassan Nasrallah: Scheich Hassan Nasrallah, das Oberhaupt der libanesischen schiitisch-muslimischen Bewegung Hisbollah, hält eine Rede zum Jahrestag der Ermordung ihres Generalsekretärs Scheich Abbas Musawi durch Israel, 16. Februar 2006 in Beirut."
+      "title": "Z+ (abopflichtiger Inhalt); Tod von Hisbollah-Chef : Die Bewegung ist ins Mark getroffen",
+      "teaser": "Jetzt hat auch die Hisbollah bestätigt: Ihr Anführer Hassan Nasrallah ist tot. Eindrücke aus einer Nacht, deren Folgen schwer absehbar sind",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/tod-hassan-nasrallah-hisbollah-beirut",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/hassan-nasrallah-teaser/wide__1000x562",
+      "image_title": "Tod von Hisbollah-Chef: ///Sheik Hassan Nasrallah, leader and spokesman for the Hezbollah Islamic extremist group. /// Sheik Hassan Nasrallah, leader and spokesman for the Hezbollah Islamic extremist group."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Liveblog:Krieg in Israel und Gaza : Irans Ajatollah Chamenei fordert zur Unterstützung der Hisbollah auf",
@@ -115,8 +121,15 @@
       "title": "Z+ (abopflichtiger Inhalt); Liveblog: Thüringer Landtag : Thadäus König ist Landtagspräsident, Sitzung verlief störungsfrei",
       "teaser": "Kein weiterer Eklat: Die Konstituierung des Thüringer Parlaments verlief geordnet. Neuer Landtagspräsident ist der CDU-Politiker König. Das Liveblog zum Nachlesen",
       "url": "https://www.zeit.de/politik/deutschland/2024-09/thueringer-landtag-wahl-landtagspraesident-liveblog",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/thueringer-landtag-wahl-landtagspraesident-liveblog-blumen-2/wide__892x501",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/thueringer-landtag-wahl-landtagspraesident-liveblog-blumen-2/super__430x286",
       "image_title": "Thüringer Landtag: Bodo Ramelow (r, Die Linke), geschäftsführender Ministerpräsident von Thüringen, gratuliert Thadäus König (CDU) zur Wahl als Landtagspräsident während der konstituierenden Sitzung des Thüringer Landtags."
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Marathonlauf : \"Eigentlich ist es Blödsinn, einen Marathon zu laufen\"",
+      "teaser": "42,195 Kilometer? Eine extreme und manchmal sogar gefährliche Distanz. Margrit Lock versorgt seit 20 Jahren Läufer beim Berlin-Marathon und erklärt, wie man ihn überlebt.",
+      "url": "https://www.zeit.de/sport/2024-09/marathonlauf-gesundheit-sport-gefahr-aerztin",
+      "image_url": "https://img.zeit.de/sport/2024-09/marathonlauf-gesundheit-sport-gefahr-aerztin-bild-3/wide__892x501",
+      "image_title": "Marathonlauf: Knapp 60.000 laufen am Sonntag beim Berliner Marathon mit."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Luke Mockridge : Witze müssten doch reichen, wenn man Komiker ist",
@@ -124,13 +137,6 @@
       "url": "https://www.zeit.de/kultur/2024-09/luke-mockridge-bamberg-auftritt-dirty-comedy-skandal",
       "image_url": "https://img.zeit.de/kultur/2024-09/mockridge/super__430x286",
       "image_title": "Luke Mockridge: Der Comedian Luke Mockridge ist zurück auf der Bühne. Gestern trat er in Bamberg auf, hier ist er auf einem Bild aus seiner Show am 18. September in Wien zu sehen."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Maggie Smith : Die Queen ist tot",
-      "teaser": "Zum Superstar wurde sie durch \"Harry Potter\" und \"Downton Abbey\". Doch der Ruhm überdeckte die komplexe Karriere einer ziemlich einzigartigen Schauspielerin. Ein Nachruf",
-      "url": "https://www.zeit.de/kultur/2024-09/maggie-smith-tod-harry-potter-downton-abbey",
-      "image_url": "https://img.zeit.de/kultur/film/2024-09/maggie-smith-bild/super__430x286",
-      "image_title": "Maggie Smith: English actress Maggie Smith, UK, 8th March 1974. She is appearing in the stage comedy 'Snap!' at the Vaudeville Theatre on the Strand in London. (Photo by Evening Standard/Hulton Archive/Getty Images)"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Conchita Wurst : \"Ich liebe es, im Dialekt zu singen\"",
@@ -147,25 +153,25 @@
       "image_title": "Sparprogramm des Bundesrats: Die langfristige Budgetplanung, zeigt, dass der Staat künftig deutlich mehr Geld brauchen wird."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Shurjoka : Politisch unbequeme Frauen? Haben hier nichts zu suchen.",
-      "teaser": "Shurjoka, eine der wichtigsten Gamerinnen Deutschlands, ist seit Monaten Ziel einer Hasskampagne. Besonders laut hetzt ein bekannter Streamer – und casht ordentlich ab.",
-      "url": "https://www.zeit.de/digital/internet/2024-09/shurjoka-streamerin-gaming-mobbing-kuchentv",
-      "image_url": "https://img.zeit.de/digital/2024-09/hurjoka-streamerin-gaming-mobbing-12/super__430x286",
-      "image_title": "Shurjoka: Politisch unbequeme Frauen? Haben hier nichts zu suchen."
+      "title": "Z+ (abopflichtiger Inhalt); Pilates Reformer : Das Work-out für die ideale Frau",
+      "teaser": "Ein 100 Jahre alter Apparat aus Deutschland ist der jüngste Fitnesshype: Der Kult um das teure Work-out auf dem Pilates Reformer zeigt, wonach wir wirklich streben.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2024-09/pilates-reformer-fitnessgeraet-sport-muskeln",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-09/pilates-reformer-fitnessgeraet-sport-muskeln-bild/wide__892x501",
+      "image_title": "Pilates Reformer: NEW YORK - OCTOBER 1961: Joe Pilates, Inventor, physical fitness guru and founder of the Pilates exercise method instructs a client on the Short Box and works her through an exercise routine in his 8th Avenue studio on October 4, 1961 in New York City, New York. (Photo by I.C. Rapoport/Getty Images)"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Blue Zones : Zu alt, um wahr zu sein",
       "teaser": "Griechenland, Sardinien, Okinawa: Hier sollen mehr Hundertjährige als überall sonst leben. Quatsch, sagt ein australischer Forscher. Er hat das wahre Geheimnis entdeckt.",
       "url": "https://www.zeit.de/wissen/2024-09/blue-zones-alter-langes-leben-geheimnis-forschung",
-      "image_url": "https://img.zeit.de/wissen/2024-09/blue-zones-alter-langes-leben-geheimnis-forschung-bild/wide__892x501",
+      "image_url": "https://img.zeit.de/wissen/2024-09/blue-zones-alter-langes-leben-geheimnis-forschung-bild/super__430x286",
       "image_title": "Blue Zones: Zu alt, um wahr zu sein"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Beruf-O-Mat : Welcher Beruf passt zu Ihnen?",
-      "teaser": "Viele Menschen sind unzufrieden mit ihren Aufgaben, Gehältern, Arbeitszeiten. Zeit, Fragen zu stellen! Finden Sie mit dem Job-O-Mat raus, welcher Beruf zu Ihnen passt.",
-      "url": "https://www.zeit.de/arbeit/2024-09/beruf-o-mat-berufseinstieg-jobsuche-aufgaben",
-      "image_url": "https://img.zeit.de/arbeit/2024-09/beruf-o-mat-berufseinstieg-jobsuche-aufgaben-bild-3/super__430x286",
-      "image_title": "Beruf-O-Mat: Welcher Beruf passt zu Ihnen?"
+      "title": "Z+ (abopflichtiger Inhalt); Maggie Smith : Die Queen ist tot",
+      "teaser": "Zum Superstar wurde sie durch \"Harry Potter\" und \"Downton Abbey\". Doch der Ruhm überdeckte die komplexe Karriere einer ziemlich einzigartigen Schauspielerin. Ein Nachruf",
+      "url": "https://www.zeit.de/kultur/2024-09/maggie-smith-tod-harry-potter-downton-abbey",
+      "image_url": "https://img.zeit.de/kultur/film/2024-09/maggie-smith-bild/super__430x286",
+      "image_title": "Maggie Smith: English actress Maggie Smith, UK, 8th March 1974. She is appearing in the stage comedy 'Snap!' at the Vaudeville Theatre on the Strand in London. (Photo by Evening Standard/Hulton Archive/Getty Images)"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Einleitung : 48 Monate Trump",
@@ -266,25 +272,18 @@
       "image_title": "Journalismus und Demokratie: Es wird Zeit, dass Journalisten zuhören"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); USA : Wir beantworten Ihre Fragen zur US-Wahl",
-      "teaser": "Warum wird in den USA dienstags gewählt? Wer sind diese Wahlleute? Und worüber stimmen die Amerikaner im November noch ab? Im Podcast klärt unsere Korrespondentin auf.",
-      "url": "https://www.zeit.de/politik/2024-09/us-wahl-wahlsystem-kandidaten-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2024-09/us-wahl-wahlsystem-kandidaten-nachrichtenpodcast-bild/super__430x286",
-      "image_title": "USA: A woman votes at the Richland County Adult Activities Center during the republican presidential primary in Columbia, South Carolina, U.S., February 24, 2024. REUTERS/Sam Wolfe"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Pandadiplomatie : Meister der Entspannung",
       "teaser": "Chinas Nationalbären, die Pandas, sind nicht nur knuffig, sondern auch diplomatisches Mittel. Sie sollen dabei helfen, den Großmachtkonflikt mit den USA zu entschärfen.",
       "url": "https://www.zeit.de/2024/41/pandadiplomatie-china-usa-krieg-zoo-pandas",
-      "image_url": "https://img.zeit.de/2024/41/meister-der-entspannung-bild-1/wide__892x501",
+      "image_url": "https://img.zeit.de/2024/41/meister-der-entspannung-bild-1/super__430x286",
       "image_title": "Pandadiplomatie: Noch lebt Qingbao, drei Jahre alt, in Südchina. Bald soll sie umziehen nach Washington"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Scarborough-Riff : China absolviert Militärmanöver im umstrittenen Südchinesischen Meer",
-      "teaser": "Eine neue Provokation gegen die Philippinen? Die chinesische Armee hat erneut eine Seeübung im Südchinesischen Meer durchgeführt. China spricht von Aufklärung.",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/china-militaermanoever-suedchinesisches-meer",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/china-militaermanoever-suedchinesisches-meer-bild/super__430x286",
-      "image_title": "Die Lagune in der von China kontrollierten Scarborough Shoal: Zwischen den Philippinen und China kommt es in dem Gewässer immer wieder zu Zusammenstößen."
+      "title": "Z+ (abopflichtiger Inhalt); Shurjoka : Politisch unbequeme Frauen? Haben hier nichts zu suchen.",
+      "teaser": "Shurjoka, eine der wichtigsten Gamerinnen Deutschlands, ist seit Monaten Ziel einer Hasskampagne. Besonders laut hetzt ein bekannter Streamer – und casht ordentlich ab.",
+      "url": "https://www.zeit.de/digital/internet/2024-09/shurjoka-streamerin-gaming-mobbing-kuchentv",
+      "image_url": "https://img.zeit.de/digital/2024-09/hurjoka-streamerin-gaming-mobbing-12/super__430x286",
+      "image_title": "Shurjoka: Politisch unbequeme Frauen? Haben hier nichts zu suchen."
     },
     {
       "title": "Ausgabe 39/2024 : Alles klar. Willkommen im Wochenende.",
@@ -336,18 +335,11 @@
       "image_title": "Enttäuschung in der Liebe: Eine Frau mit zwei gebrochenen Herzen"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Gemüse ernten : Jetzt ist Zahltag!",
-      "teaser": "Unsere Kolumnistin zieht Erntebilanz. Welche ihrer zwölf Tomatensorten schmeckt am besten, und warum wuchsen die Bohnen so hoch, dass man eine Leiter braucht?",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2024-09/gemuese-ernten-tomaten-gartenkolumne",
-      "image_url": "https://img.zeit.de/zeit-magazin/leben/2024-09/gemuese-ernten-tomaten-gartenkolumne-bild/super__430x286",
-      "image_title": "Gemüse ernten: Jetzt ist Zahltag!"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Eltern-Burn-out • Das Wichtigste aus Z+ : Warum sind Eltern hier so gestresst?",
-      "teaser": "Die Diagnose Eltern-Burn-out steigt weltweit. Doch nirgends sind die Zahlen so hoch wie in manchen westlichen Industrieländern. Was deutsche Eltern ausbrennen lässt.",
-      "url": "https://www.zeit.de/familie/2024-07/eltern-burnout-stress-belastung-alltag-kinder",
-      "image_url": "https://img.zeit.de/familie/2024-08/eltern-burnout-stress-belastung-alltag/super__430x286",
-      "image_title": "Eltern-Burn-out • Das Wichtigste aus Z+: Warum sind Eltern hier so gestresst?"
+      "title": "Z+ (abopflichtiger Inhalt); Suppe aus geröstetem Kürbis : An die Löffel, fertig, los!",
+      "teaser": "Wer feiert jedes Jahr ein Comeback – und erfindet sich dabei verlässlich neu? Gestatten, der Kürbis in der Rolle seines Lebens: als Suppe. Dieses Mal mit Erdnussbutter!",
+      "url": "https://www.zeit.de/zeit-magazin/2024/41/suppe-geroesteter-kuerbis-erdnussbutter-rezept-wochenmarkt",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024/41/hallo-herbst-bild-1/super__430x286",
+      "image_title": "Suppe aus geröstetem Kürbis: An die Löffel, fertig, los!"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Handspiel : Der Handspanier und die Legende vom zweiten Wembley",
@@ -355,6 +347,13 @@
       "url": "https://www.zeit.de/sport/2024-09/handspiel-marc-cucurella-spanien-fussball-gruenflaeche",
       "image_url": "https://img.zeit.de/sport/2024-09/wochenende-40-gruenflaeche-bild-3/super__430x286",
       "image_title": "Handspiel: Der Handspanier und die Legende vom zweiten Wembley"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Tagebuch von Siegfried Unseld : Affären, Skandale und großer Krach",
+      "teaser": "Der einstige Suhrkamp-Verleger Siegfried Unseld führte von 1970 bis zu seinem Tod 2002 eine Art Verlagstagebuch. Nun geht diese Chronik online: 6.000 Seiten Abenteuer",
+      "url": "https://www.zeit.de/2024/41/tagebuch-siegfried-unseld-chronik-skandale-suhrkamp-verlag",
+      "image_url": "https://img.zeit.de/2024/41/siegfried-unseld-brecht-matinee-berlin-teaser/wide__892x501",
+      "image_title": "Tagebuch von Siegfried Unseld: Siegfried Unseld (1924-2002) bei einer Brecht-Matinee 1981 in Berlin"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Stadtentwicklung : \"Es bedrückt mich, dass das Überseequartier so aus dem Ruder lief\"",
@@ -378,11 +377,11 @@
       "image_title": "Mossad: Ein Geheimdienst spielt Gott"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Ekrem Imamoğlu : Autokraten schauen voneinander ab",
-      "teaser": "Der türkische Staatspräsident Erdoğan versucht seinen stärksten Widersacher loszuwerden, den Istanbuler Bürgermeister Ekrem Imamoğlu. Die Methode kommt einem bekannt vor.",
-      "url": "https://www.zeit.de/kultur/2024-09/ekrem-imamoglu-recep-tayyip-erdogan-opposition-istanbul-tuerkei",
-      "image_url": "https://img.zeit.de/kultur/2024-09/ekrem-imamoglu-recep-tayyip-erdogan-opposition-istanbul-teaserfoto/super__430x286",
-      "image_title": "Ekrem Imamoğlu: Autokraten schauen voneinander ab"
+      "title": "Z+ (abopflichtiger Inhalt); Migrationspolitik : Asylverfahren in diesem Jahr dauern länger",
+      "teaser": "Während die Politik schnellere Asylverfahren fordert, passiert in der Realität das Gegenteil: Die Behörden brauchen zur Bearbeitung länger als im Vorjahr, fast ein Jahr.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/migrationspolitik-asylverfahren-dauer-behoerden-deutschland",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/migrationspolitik-asylverfahren-dauer-behoerden-deutschland-bild/super__430x286",
+      "image_title": "Unzählige Akten: Blick in ein Büro im Bundesamt für Migration und Flüchtlinge in Berlin (Archivbild aus dem Jahr 2015)"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Extremismus : Polizei ermittelt nach Hasskommentaren zu Synagoge in Halle",
@@ -390,6 +389,13 @@
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/halle-synagoge-hasskommentare-internet-polizei",
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/halle-synagoge-hasskommentare-internet-polizei-bild/super__430x286",
       "image_title": "Polizisten, die zum Schutz der Synagoge in Halle/Saale eingeteilt sind, vor der Synagoge in Halle (Archivbild vom Oktober 2023)"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Hisbollah-Chef Sajjed Hassan Nasrallah : Hisbollah bestätigt Tod ihres Anführers Hassan Nasrallah",
+      "teaser": "Der Anführer der radikal-islamischen Hisbollah, Hassan Nasrallah, ist bei einem israelischen Luftangriff in Beirut getötet worden. 32 Jahre lang führte er die Miliz an.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/hisbollah-bestaetigt-tod-ihres-anfuehrers-nasrallah",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/nahostkrieg-hisbollah-nasrallah-getoetet-israel-bild-2/super__320x213",
+      "image_title": "Hisbollah-Chef Sajjed Hassan Nasrallah: Scheich Hassan Nasrallah, das Oberhaupt der libanesischen schiitisch-muslimischen Bewegung Hisbollah, hält eine Rede zum Jahrestag der Ermordung ihres Generalsekretärs Scheich Abbas Musawi durch Israel, 16. Februar 2006 in Beirut."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Konstituierende Sitzung : CDU-Politiker König ist neuer Thüringer Landtagspräsident",
@@ -420,6 +426,13 @@
       "image_title": "Oberster Gerichtshof: Das Logo der Social-Media-Plattform X ist auf einem Mobiltelefon neben einer Abbildung des brasilianischen Obersten Gerichtshofs zu sehen. Die Aufnahme entstand am 30. August 2024 in Brasilia, Brasilien."
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Scarborough-Riff : China absolviert Militärmanöver im umstrittenen Südchinesischen Meer",
+      "teaser": "Eine neue Provokation gegen die Philippinen? Die chinesische Armee hat erneut eine Seeübung im Südchinesischen Meer durchgeführt. China spricht von Aufklärung.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/china-militaermanoever-suedchinesisches-meer",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/china-militaermanoever-suedchinesisches-meer-bild/super__320x213",
+      "image_title": "Die Lagune in der von China kontrollierten Scarborough Shoal: Zwischen den Philippinen und China kommt es in dem Gewässer immer wieder zu Zusammenstößen."
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); P. Diddy : Auf US-Rapper Sean Combs kommen weitere Klagen zu",
       "teaser": "Immer mehr Frauen melden sich mit Missbrauchsvorwürfen gegen den Musiker Sean Combs. Nun hat eine Frau in New York eine weitere Klage eingereicht.",
       "url": "https://www.zeit.de/gesellschaft/2024-09/diddy-sean-combs-missbrauch-klagen",
@@ -434,25 +447,11 @@
       "image_title": "Er war für viele Menschen eine Art Chef-Virologe: Der Direktor des Instituts für Virologie an der Charité-Universitätsmedizin Berlin, Christian Drosten, bei einer Pressekonferenz im Januar 2021."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Ukrainekrieg : Mehrere verschleppte Kinder kehren zurück in die Ukraine",
-      "teaser": "Russland soll Tausende ukrainische Kinder und Jugendliche in sein Land und in besetzte Gebiete verschleppt haben. Nun konnten erneut einige in ihre Heimat zurückkommen.",
-      "url": "https://www.zeit.de/politik/2024-09/ukraine-russland-kinder-rueckkehr",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/ukraine-russland-krieg-verschleppte-kinder-heimat-bild/super__320x213",
-      "image_title": "Ukrainekrieg: Kinder spielen auf einem Spielplatz vor einem Gebäude, das nach einem Raketenangriff in der westukrainischen Stadt Lwiw am 4. Mai 2022 beschädigt wurde."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Terrorismus : USA und Irak vereinbaren Ende von Militäreinsatz gegen den IS",
-      "teaser": "Iraks Ministerpräsident will den Abzug der US-Truppen aus seinem Land einleiten, die USA wollen den Irak verlassen. Nun haben beide einen Zwei-Stufen-Plan vereinbart.",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/usa-irak-ende-militaereinsatz-gegen-is",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/usa-irak-ende-militaereinsatz-gegen-is-bild/super__320x213",
-      "image_title": "Ein Fahrzeug, das zu einem US-Militärkonvoi gehört, Mitte September 2024 in Arbil, der Hauptstadt der autonomen kurdischen Region im Nordirak"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Nachbarschaftsstreit : Nervt der Nachbar? Mindern Sie doch die Miete!",
-      "teaser": "Mobbing im Treppenhaus, Flugzeug überm Garten, Kaugummi im Schlüsselloch: Wir haben Streitfälle unter Nachbarn gesammelt – und einen Experten gefragt, wie man sich wehrt.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2024-09/nachbarschaftsstreit-wohnen-konflikt-mietminderung",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-09/nachbarschaftsstreit-wohnen-konflikt-mietminderung-bild/wide__892x501",
-      "image_title": "Nachbarschaftsstreit: Nervt der Nachbar? Mindern Sie doch die Miete!"
+      "title": "Z+ (abopflichtiger Inhalt); Mikrotrends : Heute Cowgirl, morgen Soft Boy",
+      "teaser": "Auf TikTok können heute alle einen Modestil finden, der gerade zu ihnen passt. Wie uns Mikrotrends helfen und wann sie gefährlich werden.",
+      "url": "https://www.zeit.de/campus/2024/05/mikrotrends-tiktok-gorpcore-office-siren-social-media",
+      "image_url": "https://img.zeit.de/campus/2024/05/meine-gorpcore-soft-boy-office-siren-cowgirl-era-bild-3/wide__892x501",
+      "image_title": "Mikrotrends: Heute Cowgirl, morgen Soft Boy"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Sissi Chen : Einfach chinesisch",
@@ -462,67 +461,81 @@
       "image_title": "Sissi Chen: Einfach chinesisch"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Gemüse ernten : Jetzt ist Zahltag!",
+      "teaser": "Unsere Kolumnistin zieht Erntebilanz. Welche ihrer zwölf Tomatensorten schmeckt am besten, und warum wuchsen die Bohnen so hoch, dass man eine Leiter braucht?",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2024-09/gemuese-ernten-tomaten-gartenkolumne",
+      "image_url": "https://img.zeit.de/zeit-magazin/leben/2024-09/gemuese-ernten-tomaten-gartenkolumne-bild/super__430x286",
+      "image_title": "Gemüse ernten: Jetzt ist Zahltag!"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); \"WHITE\" – Folge 1 : Hat dieser Mann jemanden umgebracht?",
+      "teaser": "Mike Kent war ein Neonazi, dann stieg er aus: Darüber wollte unser Reporter mit dem Amerikaner reden. Dann gesteht Mike sein schlimmstes Verbrechen. Der Dokupodcast",
+      "url": "https://www.zeit.de/gesellschaft/2024-06/neonazi-aussteiger-mord-gestaendnis-true-crime-white-podcast-folge-1",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-06/white-podcast-tapete-2/super__320x213",
+      "image_title": "\"WHITE\" – Folge 1: Hat dieser Mann jemanden umgebracht?"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); \"WHITE\" – Folge 2 : \"Was ich dir gerade erzählt habe, weiß niemand\"",
+      "teaser": "Ex-Nazi Mike hat einen Mord gestanden, für den er nie verurteilt wurde. Erst denkt unser Reporter: Ich muss ihn anzeigen. Doch unterschreibt er damit sein Todesurteil?",
+      "url": "https://www.zeit.de/gesellschaft/2024-06/neonazi-aussteiger-mord-gestaendnis-true-crime-white-podcast-folge-2",
+      "image_url": "https://img.zeit.de/politik/2024-05/white-podcast-folge1-b-srgb/super__320x213",
+      "image_title": "\"WHITE\" – Folge 2: \"Was ich dir gerade erzählt habe, weiß niemand\""
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); \"WHITE\" – Folge 3 : Der Schwarze Junge",
+      "teaser": "Das Opfer sei ein Schwarzer Junge gewesen, sagt Ex-Nazi Mike. Etwa 17 Jahre alt. Unsere Reporter versuchen, die Familie zu finden. Und stoßen auf ein großes Rätsel.",
+      "url": "https://www.zeit.de/gesellschaft/2024-06/neonazi-aussteiger-mord-gestaendnis-true-crime-white-podcast-folge-3",
+      "image_url": "https://img.zeit.de/politik/2024-05/white-podcast-folge3-b/super__320x213",
+      "image_title": "\"WHITE\" – Folge 3: Der Schwarze Junge"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); \"WHITE\" – Folge 4 : Warum lügt er sich in einen Mord rein?",
+      "teaser": "Nirgends finden sich Beweise für Mikes angeblichen Mord. Unsere Reporter glauben schon, einen notorischen Lügner zu enttarnen. Doch dann erreichen sie Mikes Mutter.",
+      "url": "https://www.zeit.de/gesellschaft/2024-06/neonazi-aussteiger-mord-gestaendnis-true-crime-white-podcast-folge-4",
+      "image_url": "https://img.zeit.de/politik/2024-05/white-podcast-folge3-c/super__320x213",
+      "image_title": "\"WHITE\" – Folge 4: Warum lügt er sich in einen Mord rein?"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); \"WHITE\" – Folge 5 : \"Hier haben wir ihn gekriegt\"",
+      "teaser": "Ex-Neonazi Mike Kent besucht mit unseren Reportern den Tatort. Überall sei damals Blut gewesen. Danach hätten sie sich vollgesoffen. Nur: Erinnerung kann trügerisch sein.",
+      "url": "https://www.zeit.de/gesellschaft/2024-06/neonazi-aussteiger-mord-gestaendnis-true-crime-white-podcast-folge-5",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-05/white-podcast-aufmacher/super__320x213",
+      "image_title": "\"WHITE\" – Folge 5: \"Hier haben wir ihn gekriegt\""
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); \"WHITE\" – Folge 6 : Hat er mehr als einen Menschen umgebracht?",
+      "teaser": "Er prügelte mit Baseballschlägern, trat mit Stiefeln auf Köpfe: Recherchiert man Mikes Vergangenheit, findet man Schreckliches. Plötzlich geht es um mehr als einen Mord.",
+      "url": "https://www.zeit.de/gesellschaft/2024-06/neonazi-aussteiger-mord-gestaendnis-true-crime-white-podcast-folge-6",
+      "image_url": "https://img.zeit.de/politik/2024-05/white-podcast-folge6-b/super__320x213",
+      "image_title": "\"WHITE\" – Folge 6: Hat er mehr als einen Menschen umgebracht?"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); \"WHITE\" – Folge 7 : \"Sie ist der Grund, warum das alles passiert ist\"",
+      "teaser": "Endlich: Die wichtigste Augenzeugin für Mikes Mord taucht auf. Lisa erzählt von traumatischen Jahren. Doch an die brutale Tat erinnert sie sich nicht. Wirklich nicht?",
+      "url": "https://www.zeit.de/gesellschaft/2024-06/neonazi-aussteiger-mord-gestaendnis-true-crime-white-podcast-folge-7",
+      "image_url": "https://img.zeit.de/politik/2024-05/white-podcast-folge7-a/super__320x213",
+      "image_title": "\"WHITE\" – Folge 7: \"Sie ist der Grund, warum das alles passiert ist\""
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); \"WHITE\" – Folge 8 : Die Suche nach den Blutspuren",
+      "teaser": "Eine Forensikerin prüft Proben vom Tatort. Auch nach Jahren lassen sich oft noch Blutspuren finden. Unsere Reporter haben eine Theorie, was wirklich passiert sein könnte.",
+      "url": "https://www.zeit.de/gesellschaft/2024-06/neonazi-aussteiger-mord-gestaendnis-true-crime-white-podcast-folge-8",
+      "image_url": "https://img.zeit.de/politik/2024-05/white-podcast-folge8-a/super__320x213",
+      "image_title": "\"WHITE\" – Folge 8: Die Suche nach den Blutspuren"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); WHITE – Folge 9 : Überlebt ihre Freundschaft einen mutmaßlichen Mord?",
+      "teaser": "Die Schwarze Bewährungshelferin Tiffany hat Mike aus der Neonazi-Szene geholt. Wie reagiert sie, wenn sie erfährt, dass er möglicherweise Schwarze Menschen ermordet hat?",
+      "url": "https://www.zeit.de/gesellschaft/2024-06/neonazi-aussteiger-mord-gestaendnis-true-crime-white-podcast-folge-9",
+      "image_url": "https://img.zeit.de/politik/2024-05/white-podcast-folge1-a-srgb/super__320x213",
+      "image_title": "WHITE – Folge 9: Überlebt ihre Freundschaft einen mutmaßlichen Mord?"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); ZEIT Podcast-Tour : Feiern Sie mit uns das ZEIT Podcast-Tour Finale",
       "teaser": "Seien Sie live dabei, wenn die Hosts von \"Verbrechen\" und weiteren ZEIT-Podcasts das große Tour-Finale feiern. Wir freuen uns auf Ihren Besuch am 15. Dezember in Berlin.",
       "url": "https://www.zeit.de/gesellschaft/2024-08/zeit-podcast-tour-finale-live-berlin-was-jetzt-verbrechen-alles-gesagt",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-08/podcast-tour-finale-2024-titelbild-2/super__430x286",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-08/podcast-tour-finale-2024-titelbild-2/wide__892x501",
       "image_title": "ZEIT Podcast-Tour: Feiern Sie mit uns das ZEIT Podcast-Tour Finale"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Deutsche Geister – Die Geschichte von Schmusch und Schmidt\" : Der SS-Offizier, der 100 Juden gerettet hat?",
-      "teaser": "Ihr Vater überlebte als Jude das Warschauer Ghetto. Plötzlich bekommt sie eine Mail vom Enkel eines SS-Manns, die alles verändert. Gemeinsam suchen sie nach der Wahrheit.",
-      "url": "https://www.zeit.de/entdecken/2024-07/nationalsozialismus-familiengeschichte-vorfahren-holocaust-taeter-opfer-podcast-folge-1",
-      "image_url": "https://img.zeit.de/politik/2024-07/deutsche-geister-teaser-folge1/super__320x213",
-      "image_title": "\"Deutsche Geister – Die Geschichte von Schmusch und Schmidt\": Der SS-Offizier, der 100 Juden gerettet hat?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Deutsche Geister\" – Folge 2 : Der Opa, ein SS-Offizier – und Held?",
-      "teaser": "Norman Baltrusch hat eine Leidenschaft: Ahnenforschung. Sein Opa war bei der SS, soll aber 100 Juden gerettet haben. Dafür gibt es Zeugen. Aber es ist nur das halbe Bild.",
-      "url": "https://www.zeit.de/entdecken/2024-07/nationalsozialismus-familiengeschichte-vorfahren-holocaust-taeter-opfer-podcast-folge-2",
-      "image_url": "https://img.zeit.de/politik/2024-07/deutsche-geister-teaser-folge2/super__320x213",
-      "image_title": "\"Deutsche Geister\" – Folge 2: Der Opa, ein SS-Offizier – und Held?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Deutsche Geister\" – Folge 3 : \"Und ich kann nicht weinen\"",
-      "teaser": "Die Täter sind bis auf wenige Ausnahmen tot. Aber es gibt noch Opfer, die von der dunkelsten Zeit der deutschen Geschichte erzählen können. Sie waren damals Kinder.",
-      "url": "https://www.zeit.de/entdecken/2024-07/nationalsozialismus-familiengeschichte-vorfahren-holocaust-taeter-opfer-podcast-folge-3",
-      "image_url": "https://img.zeit.de/politik/2024-07/deutsche-geister-teaser-folge3/super__320x213",
-      "image_title": "\"Deutsche Geister\" – Folge 3: \"Und ich kann nicht weinen\""
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Deutsche Geister\" – Folge 4 : \"Nein … nein! Da ist wirklich ein Versteck!\"",
-      "teaser": "Wie hat Robert Schmusch überlebt: im Ghetto, als Zwangsarbeiter, auf der Flucht? Seine Tochter Ilana reist nach Warschau, findet eine Ruine – und ein Loch im Boden.",
-      "url": "https://www.zeit.de/entdecken/2024-07/nationalsozialismus-familiengeschichte-vorfahren-holocaust-taeter-opfer-podcast-folge-4",
-      "image_url": "https://img.zeit.de/politik/2024-07/deutsche-geister-teaser-folge4/super__320x213",
-      "image_title": "\"Deutsche Geister\" – Folge 4: \"Nein … nein! Da ist wirklich ein Versteck!\""
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Deutsche Geister\" – Folge 5 : \"Er hat gelegentlich Schreie durch die dicke Steindecke gehört\"",
-      "teaser": "Ilana und Norman suchen in Warschau den Ort, an dem sich ihre Vorfahren trafen: eine Autowerkstatt. Doch die Stimmung kippt. Denn Ilana äußert erste Zweifel.",
-      "url": "https://www.zeit.de/entdecken/2024-07/nationalsozialismus-familiengeschichte-vorfahren-holocaust-taeter-opfer-podcast-folge-5",
-      "image_url": "https://img.zeit.de/politik/2024-07/deutsche-geister-teaser-folge5/super__320x213",
-      "image_title": "\"Deutsche Geister\" – Folge 5: \"Er hat gelegentlich Schreie durch die dicke Steindecke gehört\""
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Deutsche Geister\" – Folge 6 : \"Thank God for Schmidt\"",
-      "teaser": "Er ist einer der letzten Nazijäger: Efraim Zuroff liest die Akten über den SS-Offizier Schmidt. Er hat eine klare Meinung. Und sagt: Nicht jeder kann Superman sein.",
-      "url": "https://www.zeit.de/entdecken/2024-07/nationalsozialismus-familiengeschichte-vorfahren-holocaust-taeter-opfer-podcast-folge-6",
-      "image_url": "https://img.zeit.de/politik/2024-07/deutsche-geister-teaser-folge6/super__320x213",
-      "image_title": "\"Deutsche Geister\" – Folge 6: \"Thank God for Schmidt\""
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Deutsche Geister\" – Folge 7 : \"In die Luft geschossen\" – eine sehr deutsche Geschichte",
-      "teaser": "Sucht man in den Archiven nach der Geschichte des SS-Manns, kommen neue Fragen auf. Schmidt war auch an einem Ort stationiert, an dem Gaswagen im Einsatz waren.",
-      "url": "https://www.zeit.de/entdecken/2024-07/nationalsozialismus-familiengeschichte-vorfahren-holocaust-taeter-opfer-podcast-folge-7",
-      "image_url": "https://img.zeit.de/politik/2024-07/deutsche-geister-teaser-folge7/super__320x213",
-      "image_title": "\"Deutsche Geister\" – Folge 7: \"In die Luft geschossen\" – eine sehr deutsche Geschichte"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Deutsche Geister\" – Folge 8 : Mittäter – oder Widerstandskämpfer?",
-      "teaser": "Am Ende der Recherche blicken Ilana und Norman sehr unterschiedlich auf die Frage, welche Rolle der SS-Offizier Willy Schmidt damals hatte. Gelingt noch ein Gespräch?",
-      "url": "https://www.zeit.de/entdecken/2024-07/nationalsozialismus-familiengeschichte-vorfahren-holocaust-taeter-opfer-podcast-folge-8",
-      "image_url": "https://img.zeit.de/politik/2024-07/deutsche-geister-teaser-folge8/super__320x213",
-      "image_title": "\"Deutsche Geister\" – Folge 8: Mittäter – oder Widerstandskämpfer?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Frankfurter Buchmesse : DIE ZEIT auf der Frankfurter Buchmesse 2024",
@@ -800,10 +813,17 @@
       "image_title": "\"Was jetzt? – Die Woche\": Nach Anschlag in Solingen – politisches Maßnahmen-Bingo?"
     },
     {
-      "title": "An dieser Stelle ist ein externer Inhalt eingebunden",
-      "teaser": "Zum Anschauen benötigen wir Ihre Zustimmung",
+      "title": "Z+ (abopflichtiger Inhalt); USA : Wir beantworten Ihre Fragen zur US-Wahl",
+      "teaser": "Warum wird in den USA dienstags gewählt? Wer sind diese Wahlleute? Und worüber stimmen die Amerikaner im November noch ab? Im Podcast klärt unsere Korrespondentin auf.",
+      "url": "https://www.zeit.de/politik/2024-09/us-wahl-wahlsystem-kandidaten-nachrichtenpodcast",
+      "image_url": "https://img.zeit.de/politik/2024-09/us-wahl-wahlsystem-kandidaten-nachrichtenpodcast-bild/wide__892x501",
+      "image_title": "USA: A woman votes at the Richland County Adult Activities Center during the republican presidential primary in Columbia, South Carolina, U.S., February 24, 2024. REUTERS/Sam Wolfe"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Livestream:Erfurt : Jetzt live: Thüringer Landtag setzt konstituierende Sitzung fort",
+      "teaser": "In Erfurt sind die Landtagsabgeordneten erneut zusammengekommen. Verfolgen Sie das Geschehen hier im Livestream",
       "url": "https://www.zeit.de/politik/2024-09/thueringen-landtag-sitzung-konstituierung-alterspraesident-afd-livestream",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/landtag-thueringen-bild/wide__892x501",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/landtag-thueringen-bild/super__430x286",
       "image_title": "Erfurt: MPs attend the constituent session of the newly elected state parliament in Erfurt, eastern Germany on September 26, 2024. Germany's far-right Alternative for Germany (AfD) party won the regional vote in the former East German state of Thuringia, in a blow to Chancellor Olaf Scholz ahead of national elections in 2025. The AfD is unlikely to come to power because other parties have ruled out working with the far right to form a government. (Photo by JENS SCHLUETER / AFP) (Photo by JENS SCHLUETER/AFP via Getty Images)"
     },
     {
@@ -812,13 +832,6 @@
       "url": "https://www.zeit.de/politik/ausland/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen",
       "image_url": "https://img.zeit.de/politik/ausland/2023-09/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen-teaserbild/super__430x286",
       "image_title": "Ukrainekarte aktuell: Russische Truppen haben offenbar Vorort von Torezk besetzt"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Nationalratswahl in Österreich : Wählt sich Österreich zur \"Festung\"?",
-      "teaser": "Im Nachbarland Österreich sind die Rechten auf dem Vormarsch. Nun könnte die FPÖ die Nationalratswahl als stärkste Partei gewinnen. Was bedeutet das für das EU-Land?",
-      "url": "https://www.zeit.de/politik/ausland/2024-07/oesterreich-nationalratswahl-2024-fpoe-prognose-faq",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/nationalratswahl-oesterreich-faq-bild-2/super__430x286",
-      "image_title": "Nationalratswahl in Österreich: FPÖ-Parteichef Herbert Kickl hält eine Rede beim Wahlkampfauftakt der FPÖ in Graz. (zu dpa: «Wahl in Österreich: Schmilzt der Vorsprung der rechten FPÖ?») +++ dpa-Bildfunk +++"
     },
     {
       "title": "Verlagsangebot : Das Sprachtandem der besonderen Art – von ZEIT SPRACHEN",
@@ -975,18 +988,18 @@
       "image_title": "Journalism and Democracy: It's time for journalists to listen"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Ekrem Imamoğlu : Autokraten schauen voneinander ab",
+      "teaser": "Der türkische Staatspräsident Erdoğan versucht seinen stärksten Widersacher loszuwerden, den Istanbuler Bürgermeister Ekrem Imamoğlu. Die Methode kommt einem bekannt vor.",
+      "url": "https://www.zeit.de/kultur/2024-09/ekrem-imamoglu-recep-tayyip-erdogan-opposition-istanbul-tuerkei",
+      "image_url": "https://img.zeit.de/kultur/2024-09/ekrem-imamoglu-recep-tayyip-erdogan-opposition-istanbul-teaserfoto/super__430x286",
+      "image_title": "Ekrem Imamoğlu: Autokraten schauen voneinander ab"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Berlin-Marathon : Dumm gelaufen",
       "teaser": "An diesem Wochenende nehmen mehr als 50.000 Menschen am 50. Berlin-Marathon teil. Glückwunsch! Unser Autor war auch schon mal dabei, fand es aber doch ein bisschen heavy.",
       "url": "https://www.zeit.de/kultur/2024-09/berlin-marathon-laufen-teilnehmer-sport",
       "image_url": "https://img.zeit.de/kultur/2024-09/wochenende-40-nie-wieder-marathon-bild/super__430x286",
       "image_title": "Berlin-Marathon: FRANCE - CIRCA 1993: Transportation in Paris, France in 2003 - A man prepares for the marathon at the RER station in 1993."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Chappell Roan : Theatralisch, kitschig, wahnsinnig, bissig",
-      "teaser": "Erst Sabrina Carpenter, dann Charli xcx, jetzt der kommende Superstar Chappell Roan: Die Abwesenheit von Männern bringt den Spaß in die Popkultur zurück.",
-      "url": "https://www.zeit.de/kultur/musik/2024-09/chappell-roan-saengerin-musik-konzert-berlin",
-      "image_url": "https://img.zeit.de/kultur/musik/2024-09/chappell-roan-saengerin-musik-konzert-berlin-bild/super__430x286",
-      "image_title": "Chappell Roan: Chappell Roan performs at the Capitol Hill Block Party in Seattle, July 19, 2024. The rising pop star now has two songs on the Hot 100 and the venues her team picked out months ago are struggling to fit her ballooning audience. (Chona Kasinger/The New York Times)"
     },
     {
       "title": "An dieser Stelle ist ein externer Inhalt eingebunden",
@@ -1135,11 +1148,11 @@
       "image_title": "Arbeitsmarkt: Verstaubte Bauhelme hängen auf einer Baustelle."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Tesla : Kontrolliert euch erst mal selbst",
-      "teaser": "Tesla stattet Angestellten, die sich krankmelden, Kontrollbesuche ab. Das ist bei einem Verdacht legitim. Doch zuerst sollte sich das Unternehmen selbst hinterfragen.",
-      "url": "https://www.zeit.de/arbeit/2024-09/tesla-angestellte-krankmeldung-kontrolle-unternehmen",
-      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-09/tesla-angestellte-krankmeldung-kontrolle-unternehmen-bild/super__430x286",
-      "image_title": "Tesla: Neue Elektrofahrzeuge vom Typ Model Y stehen am frühen Morgen auf einem Parkplatz vor dem Werk des US-Elektroautobauers Tesla. Tesla beschäftigt derzeit nach eigenen Angaben mehr als 7000 Mitarbeiter im Werk in Grünheide. Bald sollen es in der Tesla Gigafactory Berlin-Brandenburg schon 12000 Beschäftigte sein. Mit dem geplanten Ausbau würden es dann noch mehr. Tesla will nach eigenen Angaben möglichst viel Verkehr von der Straße auf die Schiene verlegen. Das bisherige Tesla-Gelände umfasst rund 300 Hektar. Neu hinzu kommen jetzt weitere 100 Hektar. +++ dpa-Bildfunk +++"
+      "title": "Z+ (abopflichtiger Inhalt); Auszubildende aus Vietnam : 20.000 Euro für eine Lehrstelle",
+      "teaser": "Viele junge Vietnamesen bezahlen hohe Summen für einen Ausbildungsplatz in Deutschland – und arbeiten in teils prekären Verhältnissen. Einige landen in der Illegalität.",
+      "url": "https://www.zeit.de/2024/41/auszubildende-vietnam-agentur-vermittlung-ausbildungsplatz-migration",
+      "image_url": "https://img.zeit.de/2024/41/vietnamesen-ausbildungsplatz-deutschland-kosten-teaser/super__430x286",
+      "image_title": "Auszubildende aus Vietnam: In Würzburg arbeitet der 24-Jährige heute als Rezeptionist bei einer Hotelkette"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Fahrradbesitzer : Welches Fahrrad will ich sein?",
@@ -1170,11 +1183,11 @@
       "image_title": "Sich entschuldigen: Das Gaffer-Tape der deutschen Sprache"
     },
     {
-      "title": "Verlagsangebot : Durchblick im Studiendschungel",
-      "teaser": "Bei 20.000 möglichen Studiengängen in Deutschland verliert man schnell den Überblick. Unterstützung bietet die Suchmaschine für Studiengänge und Hochschulen.",
-      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.whiteboard_studiendschungel.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_whiteboard_studiendschungel_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-3-klein/man-wearing-black-and-white-stripe-shirt-looking-at-white-197.jpg",
-      "image_title": "Durchblick im Studiendschungel"
+      "title": "Verlagsangebot : Welcher Studiengang passt zu mir?",
+      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
+      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.bildtext.allein.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=campus-verlagsteaser&amp;utm_content=sit_bildtext_allein_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/sit-gruppe/wide__430x286__desktop",
+      "image_title": "Welcher Studiengang passt zu mir?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Wohnungsnot : Bafög-Wohnhilfe reicht nur in zwei Städten für die Miete",
@@ -1254,36 +1267,36 @@
       "image_title": "Radsport: Muriel Furrer während der UCI Road Cycling World Championships in Zürich 2024"
     },
     {
-      "title": "Bahn: Feuerwehr evakuiert ICE nach Oberleitungsschaden",
-      "url": "https://www.zeit.de/news/2024-09/28/feuerwehr-evakuiert-ice-nach-oberleitungsschaden"
+      "title": "2. Fußball-Bundesliga: Remis gegen Paderborn: HSV-Tor in Schlussphase nicht gegeben",
+      "url": "https://www.zeit.de/news/2024-09/28/remis-gegen-paderborn-hsv-tor-in-schlussphase-nicht-gegeben"
     },
     {
-      "title": "50 Jahre Carillon: Glockenspieler erhält Ehrennadel für langjähriges Engagement",
-      "url": "https://www.zeit.de/news/2024-09/28/glockenspieler-erhaelt-ehrennadel-fuer-langjaehriges-engagement"
+      "title": "Weltkriegsbombe: Weltkriegsbombe in Hannover erfolgreich entschärft",
+      "url": "https://www.zeit.de/news/2024-09/28/weltkriegsbombe-in-hannover-erfolgreich-entschaerft"
     },
     {
-      "title": "Nach Gerichtsbeschluss: CDU-Chef sieht bessere Zeiten für Thüringer Landtag",
-      "url": "https://www.zeit.de/news/2024-09/28/cdu-chef-sieht-bessere-zeiten-fuer-thueringer-landtag"
+      "title": "2. Bundesliga: Sieg in Darmstadt: Magdeburg bleibt oben dran",
+      "url": "https://www.zeit.de/news/2024-09/28/sieg-in-darmstadt-magdeburg-bleibt-oben-dran"
     },
     {
-      "title": "CSD Görlitz: CSD und rechte Proteste in Görlitz - weitgehend friedlich",
-      "url": "https://www.zeit.de/news/2024-09/28/csd-und-rechte-proteste-in-goerlitz-weitgehend-friedlich"
+      "title": "Blindgänger in Hannover: Weltkriegsbombenfund in Hannover bestätigt",
+      "url": "https://www.zeit.de/news/2024-09/28/weltkriegsbombenfund-in-hannover-bestaetigt"
     },
     {
-      "title": "Niedersachsenplan: CDU-Chef Lechner: Wollen die Vorteile des Landes betonen",
-      "url": "https://www.zeit.de/news/2024-09/28/cdu-chef-lechner-wollen-die-vorteile-des-landes-betonen"
+      "title": "Parteitag: Bätzing-Lichtenthäler ist neue SPD-Chefin in Rheinland-Pfalz",
+      "url": "https://www.zeit.de/news/2024-09/28/baetzing-lichtenthaeler-ist-neue-spd-chefin"
     },
     {
-      "title": "Notfalleinsatz: Schwerverletzter zwei Stunden nach Unfall gefunden",
-      "url": "https://www.zeit.de/news/2024-09/28/schwerverletzter-zwei-stunden-nach-unfall-gefunden"
+      "title": "Gefängnisse: 59 Brände in Gefangenen-Zellen in fünf Jahren",
+      "url": "https://www.zeit.de/news/2024-09/28/59-braende-in-gefangenen-zellen-in-fuenf-jahren"
     },
     {
-      "title": "Parteitag: Bätzing-Lichtenthäler will mehr SPD-Mitglieder gewinnen",
-      "url": "https://www.zeit.de/news/2024-09/28/baetzing-lichtenthaeler-will-mehr-spd-mitglieder-gewinnen"
+      "title": "Staatsbesuch: Italiens Staatspräsident in NRW - Per Schiff nach Köln",
+      "url": "https://www.zeit.de/news/2024-09/28/italiens-staatspraesident-in-nrw-per-schiff-nach-koeln"
     },
     {
-      "title": "Unfall im Kreis Ravensburg: Auto stürzt Böschung hinab - Beifahrer schwer verletzt",
-      "url": "https://www.zeit.de/news/2024-09/28/auto-stuerzt-boeschung-hinab-beifahrer-schwer-verletzt"
+      "title": "2. Fußball-Bundesliga: Schlüsselbeinbruch: SSV Ulm lange ohne Torhüter Ortag",
+      "url": "https://www.zeit.de/news/2024-09/28/schluesselbeinbruch-ssv-ulm-lange-ohne-torhueter-ortag"
     }
   ]
 }
