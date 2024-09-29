@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-29T20:00:32",
+  "timestamp": "2024-09-29T21:00:47",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -161,9 +161,9 @@
       "image_title": "Warnschild mit Ausrufezeichen auf dunkelblauem Hintergrund, über den stilisierte Listingzeilen laufen."
     },
     {
-      "title": "Smarte Geräte ohne Risiko",
-      "teaser": "Wie sicher sind Ihre digitalen vier Wände wirklich? Nicht jeder weiß, wie sich Hackerangriffe konkret abwehren und Datenlecks vermeiden lassen. Mit der richtigen Technik ist ein effektiver Schutz leicht möglich.",
-      "url": "https://www.heise.de/solutions/eq-3/smarte-geraete-ohne-risiko-it-sicherheit-im-vernetzten-zuhause/?source=nat_teas"
+      "title": "Mit smarter Verbrauchssteuerung Energie sparen",
+      "teaser": "Steigende Kosten und Umweltaspekte machen einen verantwortungsvollen Umgang mit Energie unabdingbar. Mit smarten Technologien können Sie Ihren Stromverbrauch reduzieren, Kosten sparen und einen Beitrag zum Umweltschutz leisten.",
+      "url": "https://www.heise.de/solutions/eq-3/mit-smarter-verbrauchssteuerung-energie-sparen/?source=nat_teas"
     },
     {
       "title": "Einziges offizielles Nintendo-Museum eröffnet in Japan – ein Rundgang",
@@ -301,9 +301,9 @@
       "image_title": "Der Schriftzug \"Hacked\" ist zwischen einer großen Menge Binärzahlen zu sehen."
     },
     {
-      "title": "Öffentliches oder privates Peering – die Vorteile von direktem Datenaustausch",
-      "teaser": "Damit das Internet funktioniert, tauschen Carrier, ISPs und Netzbetreiber Daten aus („Peering“). In der Regel ohne gegenseitige Bezahlung. In einem Webcast erklären wir, welche weiteren Vorteile Unternehmen von einem direkten Datenaustausch haben und wie sich öffentliches und privates Peering unterscheiden.",
-      "url": "https://business-services.heise.de/netze/lan-wan/beitrag/cloud-ki-oder-iot-warum-peering-und-private-verbindungen-entscheidend-fuer-den-unternehmenserfolg-sind-4812/?source=hbsad-ersatz"
+      "title": "KI im RZ: Auswirkung der CPU-Wahl auf Kosten, Leistung und Energieverbrauch",
+      "teaser": "Wie Unternehmen mit der passenden CPU-Plattform ihre KI-Projekte vorantreiben und dabei Kosten, Platzbedarf und Energieverbrauch im Rechenzentrum senken können.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/ki/beitrag/ki-im-rechenzentrum-auswirkung-der-cpu-wahl-auf-kosten-leistung-und-energieverbrauch-4801/?source=hbsad-ersatz"
     },
     {
       "title": "Xiaomi 14T Pro im Test: Neues Smartphone lädt in 25 Minuten",
@@ -563,21 +563,15 @@
       "url": "https://www.heise.de/en/news/Microsoft-365-alternative-openDesk-version-1-0-announced-for-October-9955715.html"
     },
     {
-      "title": "Web-Tipps: Virtuelle Pressefreiheit",
-      "teaser": "Die Uncensored Library von Reporter ohne Grenzen nutzt Minecraft, um zensierten Journalisten eine Plattform zu bieten und Pressefreiheit weltweit zu fördern.",
-      "url": "https://www.heise.de/news/Web-Tipps-Virtuelle-Pressefreiheit-9909155.html"
-    },
-    {
       "title": "Schnelle Speicher: 20 SSDs mit PCIe von 3.0 bis 5.0 im Test",
       "teaser": "Bei PCIe-5.0-SSDs gibt es Konkurrenz für die Phison-Controller: Wir testen die erste SSD mit Innogrit-Basis. Die meisten Neuvorstellungen arbeiten mit PCIe 4.0.",
       "url": "https://www.heise.de/tests/Schnelle-Speicher-20-SSDs-mit-PCIe-von-3-0-bis-5-0-im-Test-9950774.html",
       "image_title": ","
     },
     {
-      "title": "Top TenApple Watch Series 10 im Test",
-      "teaser": "Die Series 10 bietet einen größeren Bildschirm, lädt rasant und soll über den Schlaf des Trägers wachen. So hat sie sich im Test geschlagen.",
-      "url": "https://www.heise.de/tests/Top-Ten-Apple-Watch-Series-10-im-Test-9945345.html",
-      "image_title": "Apple Watch Series 10 zeigt Foto-Ziffernblatt"
+      "title": "Web-Tipps: Virtuelle Pressefreiheit",
+      "teaser": "Die Uncensored Library von Reporter ohne Grenzen nutzt Minecraft, um zensierten Journalisten eine Plattform zu bieten und Pressefreiheit weltweit zu fördern.",
+      "url": "https://www.heise.de/news/Web-Tipps-Virtuelle-Pressefreiheit-9909155.html"
     },
     {
       "title": "16 TippsDie Neuerungen von macOS 15 Sequoia",
@@ -590,6 +584,12 @@
       "teaser": "Personalisierung, flexibles Kontrollzentrum, Datenschutz, Live-Voicemail: Holen Sie mehr aus iPhone und iPad heraus.",
       "url": "https://www.heise.de/ratgeber/iOS-18-im-Praxiseinsatz-14-Tipps-und-Tricks-zu-den-Neuerungen-9870228.html",
       "image_title": "Grafik zeigt ein Wallpaper von iOS 18"
+    },
+    {
+      "title": "Apples tvOS 18 und Home-App: Die besten Tipps zu den neuen Systemen",
+      "teaser": "Automatische Untertitel, Filminformationen, Sprachverbesserung, digitale Schlüssel für Gäste und mehr: sechs Tipps zu den Neuerungen in Apple TV und Home-App.",
+      "url": "https://www.heise.de/ratgeber/Apples-tvOS-18-und-Home-App-Die-besten-Tipps-zu-den-neuen-Systemen-9952901.html",
+      "image_title": "Apple TV und Apple Home"
     },
     {
       "title": "WaveshareBuntes E-Ink-Display für den Pi",
@@ -704,19 +704,20 @@
       "url": "https://www.techstage.de/bestenliste/top-10-die-besten-balkonkraftwerke-von-extrem-leicht-bis-besonders-stark/ywhkvwx?wt_mc=intern.red.techstage.techstage_buehne.startseite.buehne.buehne#nav-ring-6"
     },
     {
-      "title": "Ukraine-Krieg, Nato und Russland: Perverses Spiel mit der nuklearen Gefahr",
-      "teaser": "Die Zeichen stehen auf Eskalation. Die größte Bedrohung wird im Westen leichtfertig abgetan. Wie dramatisch die Zuspitzung ist, zeigt ein Abgleich der Debatte mit der Lage Ende 2018.",
-      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Nato-und-Russland-Perverses-Spiel-mit-der-nuklearen-Gefahr-9208766.html"
+      "title": "El Niño gestartet: Warum das nichts Gutes für die Welt bedeutet",
+      "teaser": "Energie und Klima – kompakt: Wichtige Wind- und Meeresströmungen ändern sich. Die Meteorologen warnen vor extremen Temperaturen, aber auch Unwettern. Warum ist das so?",
+      "url": "https://www.heise.de/tp/features/El-Nino-gestartet-Warum-das-nichts-Gutes-fuer-die-Welt-bedeutet-9207700.html"
     },
     {
-      "title": "Wie der Verfassungsschutz in die Meinungsfreiheit eingreift",
-      "teaser": "Der deutsche Inlandsgeheimdienst wird zunehmend zum politischen Akteur. Macht sich Behördenchef Haldenwang einer strafbaren Nötigung im Amt schuldig? Und was hat das mit Orwells \"1984\" zu tun?",
-      "url": "https://www.heise.de/tp/features/Wie-der-Verfassungsschutz-in-die-Meinungsfreiheit-eingreift-9206508.html"
+      "title": "Bud Light: Biertrinker falsch abgeholt",
+      "teaser": "Werbekampagne mit Transgender-Star geht daneben. Schäumende Entrüstung, Geschäft bricht ein. Kulturkampf-Boykott gewinnt. Fabriken schließen. Angestellte werden arbeitslos.",
+      "url": "https://www.heise.de/tp/features/Bud-Light-Biertrinker-falsch-abgeholt-9209052.html"
     },
     {
-      "title": "Ukraine-Krieg: Nukleare Eskalation unwahrscheinlich – und doch wahrscheinlicher",
-      "teaser": "Nach der Wagner-Revolte muss der Kreml Stärke beweisen. Das steigert das Risiko, meint der russische Politologe Michail Troizki. Er weist auf ein Paradoxon hin .",
-      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Nukleare-Eskalation-unwahrscheinlich-und-doch-wahrscheinlicher-9207244.html"
+      "title": "China beschränkt Export wichtiger Mineralien: Europas grüner Wandel bedroht",
+      "teaser": "Der Umgang zwischen EU und China wird zunehmend unfreundlich. Die Entscheidung Beijings hat ein Vorspiel in Europa. Das sind die Hintergründe.",
+      "url": "https://www.heise.de/tp/features/China-beschraenkt-Export-wichtiger-Mineralien-Europas-gruener-Wandel-bedroht-9206885.html",
+      "image_title": "China schränkt Export von Mineralien für grüne Technologien ein."
     },
     {
       "title": "VPN-Test 2024: Die besten VPN-Anbieter im Vergleich",
