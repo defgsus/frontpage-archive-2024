@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-29T13:12:14",
+  "timestamp": "2024-09-29T14:01:02",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -14,6 +14,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
@@ -98,18 +104,18 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Österreich : Alles gschissn!",
+      "title": "Z+ (abopflichtiger Inhalt); Wahl in Österreich : Alles gschissn!",
       "teaser": "Zufrieden sind die FPÖ-Wähler erst, wenn es dem Land so schlecht geht, wie sie es immer schon gesagt haben. Gedanken eines Wiener Piefkes zur Wahl in Österreich",
       "url": "https://www.zeit.de/kultur/2024-09/oesterreich-fpoe-rechtsextremismus-ungarn-geschichte",
       "image_url": "https://img.zeit.de/kultur/2024-09/oesterreich-fpoe-rechtsextremismus-ungarn-geschichte-bild/wide__1000x562",
-      "image_title": "Österreich: VATICAN CITY, VATICAN - DECEMBER 16: Austria's far-right political leader, Jorg Haider attends a ceremony in St Peter's Square relating to the Christmas tree that was donated by Carinthia to the Pope on December 16, 2000 in Vatican City, Vatican."
+      "image_title": "Wahl in Österreich: VATICAN CITY, VATICAN - DECEMBER 16: Austria's far-right political leader, Jorg Haider attends a ceremony in St Peter's Square relating to the Christmas tree that was donated by Carinthia to the Pope on December 16, 2000 in Vatican City, Vatican."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Liveblog:Nationalratswahl in Österreich : Österreichs Regierungschef sieht \"starke Wahlbewegung\" für ÖVP",
-      "teaser": "Mehr als sechs Millionen Österreicher sind zur Wahl aufgerufen. Im Nachbarland könnten dabei die Rechtspopulisten zum ersten Mal stärkste Kraft werden. Das Liveblog",
+      "title": "Z+ (abopflichtiger Inhalt); Liveblog:Nationalratswahl in Österreich : Hackerangriffe legen Webseiten von österreichischen Parteien lahm",
+      "teaser": "Die Webseiten von ÖVP und Neos sind nach sogenannten DDoS-Angriffe ausgefallen. Die ersten Wahllokale sind bereits geschlossen. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/2024-09/nationalratswahl-oesterreich-fpoe-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/oesterreich-wahl-liveblog-bild-2/super__430x286",
-      "image_title": "Nationalratswahl in Österreich: VIENNA, AUSTRIA - SEPTEMBER 24: People walk past election campaign billboards showing Austrian Chancellor Karl Nehammer of the Austrian People's Party (OeVP) and Herbet Kickl of the far-right Austria Freedom Party (FPOe) on September 24, 2024 in Vienna, Austria. Austria is scheduled to hold parliamentary elections on September 29. (Photo by Thomas Kronsteiner/Getty Images)"
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/nationalratswahl-oesterreich-neos/super__430x286",
+      "image_title": "Nationalratswahl in Österreich: - Niederösterreich 08.01.2023 - Landtagswahl Niederösterreich 2023 - Die Parteien haben auch auf den Strassen von Niederösterreich den Wahlkampf eröffnet. Unzählige Wahlplakate und Plakatständer säumen die Strassen an den Orteinfahrten, Kreiverkehren und Land- und Bundesstrassen. PHOTO: Wahlplakat der VPNOE, VPNÖ, Volkspartei Niederösterreich, ÖVP mit Landeshauptfrau Johanna Mikl-Leitner L und der NEOS mit Indra Collini und der Bundesvorsitzenden Beate Meinl-Reisinger. Niederösterreich Landtagswahl 2023 *** Lower Austria 08 01 2023 Landtagswahl Niederösterreich 2023 The parties have also opened the election campaign on the streets of Lower Austria Countless election posters and poster stands line the streets at the entrances to the PUBLICATIONxNOTxINxAUT"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Nationalratswahl in Österreich : Wählt sich Österreich zur \"Festung\"?",
@@ -120,7 +126,7 @@
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); AfD : Bundestag soll offenbar über AfD-Verbotsverfahren abstimmen",
-      "teaser": "Abgeordnete mehrerer Parteien wollen laut Medienbericht einen Antrag in den Bundestag einbringen, mit dem Ziel, die AfD zu verbieten.In den Fraktionen ist das umstritten.",
+      "teaser": "Abgeordnete mehrerer Parteien wollen laut eines Medienberichts im Bundestag ein Verbotsverfahren gegen die AfD beantragen. In den Fraktionen ist das umstritten.",
       "url": "https://www.zeit.de/politik/deutschland/2024-09/afd-verbot-bundestag-antrag-bundesverfassungsgericht-parteienfinanzierung",
       "image_url": "https://img.zeit.de/politik/deutschland/2024-09/gruppenantrag-afd-verbotsverfahren-bundestag-bild/super__430x286",
       "image_title": "AfD: Alice Weidel, Fraktionsvorsitzende der AfD, gibt zu Beginn der Sitzung ihrer Bundestagsfraktion ein Pressestatement. +++ dpa-Bildfunk +++"
@@ -164,8 +170,15 @@
       "title": "Z+ (abopflichtiger Inhalt); Kommunikation : Input ist nicht gleich Intake",
       "teaser": "Viele Gespräche sind in Wahrheit zwei sich kreuzende Monologe. Dabei stärken tiefe Gespräche die Verbindung zwischen Menschen. Die Nähe ist sogar körperlich nachweisbar.",
       "url": "https://www.zeit.de/wissen/2024-09/kommunikation-unterhaltungen-gespraech-wissenschaft",
-      "image_url": "https://img.zeit.de/wissen/2024-09/kommunikation-unterhaltungen-gespraech-wissenschaft-aufmacherbild/wide__892x501",
+      "image_url": "https://img.zeit.de/wissen/2024-09/kommunikation-unterhaltungen-gespraech-wissenschaft-aufmacherbild/super__430x286",
       "image_title": "Kommunikation: Input ist nicht gleich Intake"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Zweiter Mond : Ein Mini-Mond als Lebensabschnittsgefährte",
+      "teaser": "Die Erde hat sich einen kleinen Asteroiden als weiteren Mond eingefangen. Das ist fast ein bisschen romantisch – und hübscht noch dazu die Bilanz unseres Planeten auf.",
+      "url": "https://www.zeit.de/wissen/2024-09/zweiter-mond-asteroid-astronomie-ueber-all",
+      "image_url": "https://img.zeit.de/wissen/2024-09/zweiter-mond-asteroid-astronomie-ueber-all-animation/wide__892x501",
+      "image_title": "Zweiter Mond: Asteroiden der Klasse \"Near-Earth objects\" (NEO) bewegen sich auf Bahnen durch Alls, die sie immer wieder ins Innere des Sonnensystems hineinführt, wodurch sie in die Nähe der Erde geraten."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Kunst sammeln : Wie man mit wenig Geld zum Kunstsammler wird",
@@ -173,6 +186,13 @@
       "url": "https://www.zeit.de/geld/2024-09/kunst-sammeln-auktion-kunstwerk-preise-kauf",
       "image_url": "https://img.zeit.de/geld/2024-09/kunst-sammeln-auktion-kunstwerk-preise/super__430x286",
       "image_title": "Kunst sammeln: Wie man mit wenig Geld zum Kunstsammler wird"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Partnerschaft mit Kindern • Das Wichtigste aus Z+ : Dann trennt euch doch!",
+      "teaser": "Viele Paare leben nur nebeneinander her. Die Kinder oder das Haus halten sie noch zusammen – und sie öffnen ihre Beziehung. Unsere Autorin hält das für einen Fehler.",
+      "url": "https://www.zeit.de/arbeit/2024-05/partnerschaft-mit-kindern-beziehung-paar-liebe",
+      "image_url": "https://img.zeit.de/arbeit/2024-05/partnerschaft-mit-kindern-beziehung/super__430x286",
+      "image_title": "Partnerschaft mit Kindern • Das Wichtigste aus Z+: Dann trennt euch doch!"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); CDU : CDU-Chef Friedrich Merz fordert mehr Respekt für Besserverdienende",
@@ -189,20 +209,6 @@
       "image_title": "Essen: Blick auf das Mehrfamilienhaus an der Zollvereinstraße. Bei mehreren Bränden sind 31 Menschen verletzt worden - zwei Kinder schweben in Lebensgefahr. Die Einsatzkräfte waren an drei Orten parallel im Einsatz, wie die Feuerwehr mitteilte. Der Tatverdächtige wurde festgenommen, nachdem er mutmaßlich mit einem Lieferwagen in ein Geschäft gefahren ist. +++ dpa-Bildfunk +++"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Abschied von Verstorbenen : Liebe Mama",
-      "teaser": "Ich war 21, als du gestorben bist. Elf Jahre bin ich daran gescheitert, dir einen Grabstein zu besorgen. Bis jetzt.",
-      "url": "https://www.zeit.de/zeit-magazin/2024/41/abschied-verstorbene-mutter-grab-grabstein-trauer",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-09/abschied-verstorbene-mutter-grab-grabstein-trauer-bild/super__430x286",
-      "image_title": "Abschied von Verstorbenen: Liebe Mama"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Vaterschaft : \"Für meinen mittleren Sohn bin ich ein Monster\"",
-      "teaser": "Was bereuen Väter rückblickend? Hier erinnern sich drei Männer mit erwachsenen Kindern selbstkritisch – und erzählen, was sie heute als Vater anders machen würden.",
-      "url": "https://www.zeit.de/familie/2024-09/vaterschaft-reue-fehler-choleriker-boomer",
-      "image_url": "https://img.zeit.de/familie/2024-09/vaterschaft-reue-fehler-choleriker/super__430x286",
-      "image_title": "Vaterschaft: \"Für meinen mittleren Sohn bin ich ein Monster\""
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Berlin-Marathon : Äthiopier Milkesa Mengesha gewinnt 50. Berlin-Marathon",
       "teaser": "In Abwesenheit der Topstars siegt der Äthiopier in einem knappen Rennen in 2:03:17 Stunden. Sebastian Hendel kam als bester deutscher Läufer auf Rang 17.",
       "url": "https://www.zeit.de/sport/2024-09/50-berlin-marathon-sieger-milkesa-mengesha",
@@ -210,10 +216,17 @@
       "image_title": "Berlin-Marathon: Athletics - Berlin Marathon - Berlin, Germany - September 29, 2024 Ethiopia's Milkesa Mengesha crosses the line to win the men's elite race REUTERS/Annegret Hilse"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Wissenspodcast : Mein Smartphone und ich beim Paartherapeuten",
+      "teaser": "Viele Menschen führen eine toxische Beziehung – nicht mit dem Partner, sondern mit ihrem Handy. Das muss nicht so bleiben. Wir haben einen Paartherapeuten um Rat gebeten.",
+      "url": "https://www.zeit.de/wissen/2024-09/smartphone-sucht-toxische-beziehung-paartherapeut",
+      "image_url": "https://img.zeit.de/wissen/2024-09/smartphone-sucht-toxische-beziehung-paartherapeut-bild/wide__892x501",
+      "image_title": "Wissenspodcast: Mein Smartphone und ich beim Paartherapeuten"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Radtour um den Bodensee : Vergangenheit, Gegenwart und Zukunft auf einen Blick",
       "teaser": "Wer sich auf dem Rad um den Bodensee quält, wird belohnt mit Ausblicken aufs eigene Fortkommen. Nur muss man den Weg erst mal finden und das richtige Gefährt haben.",
       "url": "https://www.zeit.de/2024/41/radtour-bodensee-konstanz-sport-fahrrad",
-      "image_url": "https://img.zeit.de/2024/41/wassertreten-bild-1/wide__892x501",
+      "image_url": "https://img.zeit.de/2024/41/wassertreten-bild-1/super__430x286",
       "image_title": "Radtour um den Bodensee: Unsere Autorin auf der Klosterinsel Reichenau westlich von Konstanz"
     },
     {
@@ -238,11 +251,25 @@
       "image_title": "Beziehung mit Kindern: Wie schafft man es, als Eltern auch ein Liebespaar zu bleiben?"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Abschied von Verstorbenen : Liebe Mama",
+      "teaser": "Ich war 21, als du gestorben bist. Elf Jahre bin ich daran gescheitert, dir einen Grabstein zu besorgen. Bis jetzt.",
+      "url": "https://www.zeit.de/zeit-magazin/2024/41/abschied-verstorbene-mutter-grab-grabstein-trauer",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-09/abschied-verstorbene-mutter-grab-grabstein-trauer-bild/super__430x286",
+      "image_title": "Abschied von Verstorbenen: Liebe Mama"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Einsamkeit : \"Die Vorteile von Freundschaften sind größer als die der Familie\"",
       "teaser": "Neue Freundschaften schließen – mit 20 ist das einfach. Aber mit 30, 50, 70? Der Psychologe Oliver Huxhold erforscht, warum Menschen vereinsamen – und was dagegen hilft.",
       "url": "https://www.zeit.de/2024/41/einsamkeit-neue-freundschaften-alter-psychologie-oliver-uxhold",
-      "image_url": "https://img.zeit.de/2024/41/warum-ist-es-im-alter-schwerer-freunde-zu-finden-herr-huxhold-bild-2/super__430x286",
+      "image_url": "https://img.zeit.de/2024/41/warum-ist-es-im-alter-schwerer-freunde-zu-finden-herr-huxhold-bild-2/wide__892x501",
       "image_title": "Einsamkeit: Dr. Oliver Huxhold, Psychologe und Forschungsleiter am Deutschen Zentrum für Altersfragen"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Vaterschaft : \"Für meinen mittleren Sohn bin ich ein Monster\"",
+      "teaser": "Was bereuen Väter rückblickend? Hier erinnern sich drei Männer mit erwachsenen Kindern selbstkritisch – und erzählen, was sie heute als Vater anders machen würden.",
+      "url": "https://www.zeit.de/familie/2024-09/vaterschaft-reue-fehler-choleriker-boomer",
+      "image_url": "https://img.zeit.de/familie/2024-09/vaterschaft-reue-fehler-choleriker/super__430x286",
+      "image_title": "Vaterschaft: \"Für meinen mittleren Sohn bin ich ein Monster\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Nepal : Mindestens 148 Menschen bei Überschwemmungen gestorben",
@@ -364,18 +391,11 @@
       "image_title": "Enttäuschung in der Liebe: Eine Frau mit zwei gebrochenen Herzen"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Birnentarte mit Schokosahne : Das Schokosahnehäubchen der Birnensaison",
-      "teaser": "Geschmacklich erinnert dieses Rezept an die berühmte Birne Helene, nur als Tarte. Für die Zubereitung braucht es weder besonderes Talent noch eine Backform.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-09/birnentarte-schokosahne-backen-sonntag-rezept",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-09/birnentarte-schokosahne-backen-sonntag-rezept-bild/wide__892x501",
-      "image_title": "Birnentarte mit Schokosahne: Das Schokosahnehäubchen der Birnensaison"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Interaktiver Rechner • Das Beste aus Z+ : Mieten oder Kaufen? Der endgültige Rechner",
-      "teaser": "Viele träumen vom eigenen Haus, von der eigenen Wohnung. Aber lohnt sich der Kauf wirklich? Unser interaktiver Rechner hilft bei der teuersten aller Lebensentscheidungen.",
-      "url": "https://www.zeit.de/geld/2024-02/wohnen-mieten-oder-kaufen-rechner-immobilien-hauskauf",
-      "image_url": "https://img.zeit.de/geld/2023-11/wohnen-mieten-oder-kaufen-rechner-immobilien/super__430x286",
-      "image_title": "Interaktiver Rechner • Das Beste aus Z+: Mieten oder Kaufen? Der endgültige Rechner"
+      "title": "Z+ (abopflichtiger Inhalt); Gesundheit des Präsidenten : Wie fit ist der Präsident?",
+      "teaser": "Ob Bidens Stolpern oder Roosevelts Zittern: Die Gesundheit der US-Präsidenten ist ein Politikum. Das hat 2024 erneut gezeigt – und das war in der Vergangenheit schon so.",
+      "url": "https://www.zeit.de/zeit-geschichte/2024/05/gesundheit-praesident-usa-franklin-d-roosevelt-joe-biden",
+      "image_url": "https://img.zeit.de/zeit-geschichte/2024/05/aus-dem-tritt-bild-3/super__430x286",
+      "image_title": "Gesundheit des Präsidenten: Auf den Knien: Joe Biden stolpert am 19. März 2021 vor den Kameras der Presse dreimal nacheinander, als er auf einem Militärflughafen bei Washington die Gangway zur »Air Force One« hinaufgeht"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Einleitung : 48 Monate Trump",
@@ -476,20 +496,6 @@
       "image_title": "Folge 12: Dezember 2017: Jul 28, 2022; Bedminster, NJ, USA; Former President of the United States Donald Trump hits a tee shot during the LIV Invitational Pro-Am at Trump National Golf Club Bedminster. Mandatory Credit: John Jones-USA TODAY Sports TPX IMAGES OF THE DAY"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Podcast \"English, please!\" : Mutig, bescheiden, inspirierend",
-      "teaser": "Im Sprachenpodcast erzählen die Hosts von Politikern, die sie bewundern – und warum sie das tun. Außerdem: ein Buch über eine spannende US-Präsidentschaftskampagne",
-      "url": "https://www.zeit.de/wissen/2024-09/inspirierende-politiker-alexandria-ocasio-cortez-englisch-podcast",
-      "image_url": "https://img.zeit.de/wissen/2024-05/raubkunst-kolonialzeit-grossbritannien-englisch-podcast-bild/super__430x286",
-      "image_title": "Podcast \"English, please!\": Die Hosts von \"English, please!\""
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Crack : \"Man kann sich selbst beim Sterben zuschauen\"",
-      "teaser": "Crack verändert Deutschland radikal. So wie Heroin vor 30 Jahren. Mike Schöneberg wäre fast an dem Teufelszeug gestorben. Bis er einen Arzt traf mit einer Idee.",
-      "url": "https://www.zeit.de/gesellschaft/2024-09/crack-abhaengige-behandlung-kokain-arzt-berlin",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-09/crack-abhaengige-behandlung-kokain-arzt-berlin-bild/super__430x286",
-      "image_title": "Crack: Mike Schöneberg, 59, ist Patient in der Praxis von Dr. Peschel. Thomas Peschel, 54 Jahre alt und Facharzt für Psychiatrie, leitet seit 2013 die Praxis „Patrida“ in Berlin Wedding, einem Namen, der „Heimat“ auf Griechisch bedeutet. In seiner Praxis behandelt er Menschen mit Drogensucht. In den letzten Jahren ist ein Anstieg von Crack zu verzeichnen, während der Heroinmarkt fast zusammengebrochen ist, seitdem die Taliban 2022 in Afghanistan das Anbauen von Opium verboten haben. Crack ist auf dem Markt als kleiner Klumpen erhältlich, und ist ein Substrat aus Kokain und Natron, welches in einer Pfeife geraucht wird; es ist mittlerweile oft schon für wenige Euros erhältlich. Dr. Peschel hat begonnen, drogenabhängige Patienten erfolgreich mit Elvanse zu behandeln, einem Medikament, das eigentlich für die Behandlung von ADHS bei Erwachsenen entwickelt wurde. Mike Schöneberg, 59 Jahre alt, ist einer seiner Patienten. Maik, der seit Jahrzehnten unter Drogensucht leidet, beschreibt, wie Dr. Peschel ihm mit der Therapie das Leben gerettet hat. Maik erhält einmal ma Tag in der Praxis im sogenannten Applikationsraum eine Tablette Elvanse und bekommt zudem täglich Diamorphin medizinisches Heroin, auf Rezept, welches er unter der Aufsicht von medizinischem Personal selbst injiziert. Der Leopoldplatz im Berliner Stadtteil Wedding ist einer der Umschlagplätze für Crack. Direkt neben den Bushaltestellen gibt es 2 größere Sitzflächen und ein Toilettenhäuschen für die drogenkranken Menschen die inzwischen umzäunt worden sind, und daher von ihnen “der Käfig” genannt werden."
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Shurjoka : Politisch unbequeme Frauen? Haben hier nichts zu suchen.",
       "teaser": "Shurjoka, eine der wichtigsten Gamerinnen Deutschlands, ist seit Monaten Ziel einer Hasskampagne. Besonders laut hetzt ein bekannter Streamer – und casht ordentlich ab.",
       "url": "https://www.zeit.de/digital/internet/2024-09/shurjoka-streamerin-gaming-mobbing-kuchentv",
@@ -497,11 +503,18 @@
       "image_title": "Shurjoka: Politisch unbequeme Frauen? Haben hier nichts zu suchen."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Rafael Behr : \"Gewalt gegen die Polizei wird hysterisch skandalisiert\"",
-      "teaser": "Rafael Behr hat Tausende Polizisten und Polizistinnen ausgebildet. Jetzt verabschiedet er sich in den Ruhestand und spart nicht mit Kritik an seiner Behörde.",
-      "url": "https://www.zeit.de/2024/41/rafael-behr-kritik-gewalt-akademie-der-polizei-hamburg",
-      "image_url": "https://img.zeit.de/2024/41/rafael-behr-kritik-gewalt-akademie-der-polizei-hamburg-teaser/super__430x286",
-      "image_title": "Rafael Behr: Behr (65) wurde 2008 zum Professor für Polizeiwissenschaften in Hamburg berufen. Angefangen hat er 1975 als Polizeibeamter in Wiesbaden."
+      "title": "Z+ (abopflichtiger Inhalt); Radtour um den Bodensee : Vergangenheit, Gegenwart und Zukunft auf einen Blick",
+      "teaser": "Wer sich auf dem Rad um den Bodensee quält, wird belohnt mit Ausblicken aufs eigene Fortkommen. Nur muss man den Weg erst mal finden und das richtige Gefährt haben.",
+      "url": "https://www.zeit.de/2024/41/radtour-bodensee-konstanz-sport-fahrrad",
+      "image_url": "https://img.zeit.de/2024/41/wassertreten-bild-1/super__430x286",
+      "image_title": "Radtour um den Bodensee: Unsere Autorin auf der Klosterinsel Reichenau westlich von Konstanz"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Birnentarte mit Schokosahne : Das Schokosahnehäubchen der Birnensaison",
+      "teaser": "Geschmacklich erinnert dieses Rezept an die berühmte Birne Helene, nur als Tarte. Für die Zubereitung braucht es weder besonderes Talent noch eine Backform.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-09/birnentarte-schokosahne-backen-sonntag-rezept",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-09/birnentarte-schokosahne-backen-sonntag-rezept-bild/super__430x286",
+      "image_title": "Birnentarte mit Schokosahne: Das Schokosahnehäubchen der Birnensaison"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"WHITE\" – Folge 1 : Hat dieser Mann jemanden umgebracht?",
@@ -629,16 +642,16 @@
       "url": "https://www.zeit.de/politik/ausland/2024-09/hisbollah-nasrallah-tod-folgen-libanon"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Strafrecht : Merz will Anwendung des Jugendstrafrechts einschränken",
-      "teaser": "Wählen mit 16, strafmündig erst mit 18: Friedrich Merz kritisiert das Jugendstrafrecht. Der Unions-Kanzlerkandidat will Straftäter früher voll zur Verantwortung ziehen.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/jugendstrafrecht-friedrich-merz-bundestagswahlkampf-wohlstand",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/jugendstrafrecht-friedrich-merz-bundestagswahlkampf-wohlstand-bild/super__430x286",
-      "image_title": "Strafrecht: riedrich Merz, CDU-Bundesvorsitzender und Unionsfraktionsvorsitzender, spricht auf dem 46. Landesparteitag der CDU Nordrhein-Westfalen. Inhaltlicher Schwerpunkt des Parteitags ist das Thema Künstliche Intelligenz. Service +++ dpa-Bildfunk +++ Aufnahmedatum 28.09.2024"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); CDU : CDU-Chef Friedrich Merz fordert mehr Respekt für Besserverdienende",
       "teaser": "Wirtschaftlichen Erfolg dürfe man auch zeigen, sagt CDU-Chef Friedrich Merz und fordert von den Deutschen mehr Fleiß. Seinen früheren Millionenverdienst verteidigt er.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/cdu-friedrich-merz-besserverdienende-arbeit"
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/cdu-friedrich-merz-besserverdienende-arbeit",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/cdu-friedrich-merz-besserverdienende-arbeit-bild/super__430x286",
+      "image_title": "CDU: Friedrich Merz, CDU Bundesvorsitzender und CDU/CSU-Fraktionsvorsitzender im Bundestag, aufgenommen nach einem Interview der dpa Deutsche Presse-Agentur in dem er sich unter anderem zu den Wahlen im Sachsen und in Thüringen äußert. (zu dpa: «Merz vor Brandenburg-Wahl: Politische Mitte stärken») +++ dpa-Bildfunk +++"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Strafrecht : Merz will Anwendung des Jugendstrafrechts einschränken",
+      "teaser": "Wählen mit 16, strafmündig erst mit 18: Friedrich Merz kritisiert das Jugendstrafrecht. Der Unions-Kanzlerkandidat will Straftäter früher voll zur Verantwortung ziehen.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/jugendstrafrecht-friedrich-merz-bundestagswahlkampf-wohlstand"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Grüne Jugend : Landesvorstand der Grünen Jugend NRW kündigt Parteiaustritt an",
@@ -849,10 +862,15 @@
       "image_title": "\"Was jetzt? – Die Woche\": Nach Anschlag in Solingen – politisches Maßnahmen-Bingo?"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Nahost : Zwei ranghohe Kommandeure der Hisbollah getötet",
+      "teaser": "Israel hat bei Luftangriffen die Kommandeure Ali Karaki und Nabil Kauk getötet. Kauk leitete die Sicherheitsabteilung der Miliz. Die Hisbollah bestätigte die Tode.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/tod-hisbollah-kommandeure-ali-karaki-nabil-kauk"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Asylpolitik in Europa : Verheddert im Recht",
       "teaser": "Die europäische Migrationspolitik ist durch zahllose Gesetze und Beschlüsse überreguliert. Daran scheitert sie. Das Asylrecht müssen Staaten gestalten, nicht Gerichte.",
       "url": "https://www.zeit.de/2024/41/asylpolitik-europa-migration-menschenrechte-gefluechtete",
-      "image_url": "https://img.zeit.de/2024/41/verheddert-im-recht-bild-1/wide__892x501",
+      "image_url": "https://img.zeit.de/2024/41/verheddert-im-recht-bild-1/super__430x286",
       "image_title": "Asylpolitik in Europa: Verheddert im Recht"
     },
     {
@@ -863,18 +881,18 @@
       "image_title": "Ukrainekarte aktuell: Russische Einheiten stoßen in Donezk vor"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Nachrichtenpodcast : Viel Kickl, wenig Inhalt",
-      "teaser": "FPÖ-Chef Herbert Kickl prägte den Wahlkampf in Österreich. Seine Partei könnte heute stärkste Kraft im Nationalrat werden. Und: Was bleibt vom AfD-Eklat in Thüringen?",
-      "url": "https://www.zeit.de/politik/2024-09/nationalratswahl-oesterreich-fpoe-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__430x286",
-      "image_title": "Nachrichtenpodcast: Viel Kickl, wenig Inhalt"
-    },
-    {
       "title": "Verlagsangebot : Das Sprachtandem der besonderen Art – von ZEIT SPRACHEN",
       "teaser": "It's time to talk! Sprechen Sie mit einem anderen Leser über die US-Wahl. Ihre Englischkenntnisse müssen nicht perfekt sein. Jetzt kostenlos ausprobieren!",
       "url": "https://zeit-sprachen.de/talks/?utm_campaign=talks&utm_source=zeitonline&utm_medium=button",
       "image_url": "https://img.zeit.de/zeit-verlag/zeit-sprachen/bilder-englisch-quiz/englisch-quiz-teaserbild-woche-11/super__430x286",
       "image_title": "Das Sprachtandem der besonderen Art – von ZEIT SPRACHEN"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Podcast \"English, please!\" : Mutig, bescheiden, inspirierend",
+      "teaser": "Im Sprachenpodcast erzählen die Hosts von Politikern, die sie bewundern – und warum sie das tun. Außerdem: ein Buch über eine spannende US-Präsidentschaftskampagne",
+      "url": "https://www.zeit.de/wissen/2024-09/inspirierende-politiker-alexandria-ocasio-cortez-englisch-podcast",
+      "image_url": "https://img.zeit.de/wissen/2024-05/raubkunst-kolonialzeit-grossbritannien-englisch-podcast-bild/super__320x213",
+      "image_title": "Podcast \"English, please!\": Die Hosts von \"English, please!\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); USA : Wir beantworten Ihre Fragen zur US-Wahl",
@@ -919,11 +937,11 @@
       "image_title": "US-Außenpolitik: US-Interessen zuerst: das ist die außenpolitische Linie von Donald Trump"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); \"Und was machst Du am Wochenende?\" : \"Ich fand das Wochenende immer wahnsinnig langweilig\"",
-      "teaser": "Für die Schauspielerin Luise von Finckh ist Milchreis bis heute Comfort-Food. Im Podcast erzählt sie von ihrer Rebellion gegen gesundes Essen und die Musik ihrer Eltern.",
-      "url": "https://www.zeit.de/entdecken/2024-09/luise-von-finckh-schauspielerin-wochenende-tipps-podcast",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-09/luise-von-finckh-schauspielerin-wochenende-tipps-podcast-bild/super__320x213",
-      "image_title": "\"Und was machst Du am Wochenende?\": \"Ich fand das Wochenende immer wahnsinnig langweilig\""
+      "title": "Z+ (abopflichtiger Inhalt); Rafael Behr : \"Gewalt gegen die Polizei wird hysterisch skandalisiert\"",
+      "teaser": "Rafael Behr hat Tausende Polizisten und Polizistinnen ausgebildet. Jetzt verabschiedet er sich in den Ruhestand und spart nicht mit Kritik an seiner Behörde.",
+      "url": "https://www.zeit.de/2024/41/rafael-behr-kritik-gewalt-akademie-der-polizei-hamburg",
+      "image_url": "https://img.zeit.de/2024/41/rafael-behr-kritik-gewalt-akademie-der-polizei-hamburg-teaser/super__430x286",
+      "image_title": "Rafael Behr: Behr (65) wurde 2008 zum Professor für Polizeiwissenschaften in Hamburg berufen. Angefangen hat er 1975 als Polizeibeamter in Wiesbaden."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); USA : Biden verspricht Hilfe beim Wiederaufbau nach Hurrikan Helene",
@@ -938,13 +956,6 @@
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-09/hurrikan-helene-usa-unwetter-klimawandel-tote",
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-09/hurrikan-helene/super__430x286",
       "image_title": "Unwetter in den USA: Ein Mann in einem Kajak benutzt ein behelfsmäßiges Paddel, während er durch eine Straße fährt, die durch den Hurrikan «Helene» überflutet wurde. Service +++ dpa-Bildfunk +++ Aufnahmedatum 26.09.2024 Bildnachweis picture alliance/dpa/AP | Ramon Espinosa"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Wels : Eine blaue Glitzerstadt",
-      "teaser": "Die Rechtspopulisten in Österreich schielen gern nach Wels. Lange in der Hand der Sozialdemokraten, regiert dort ein FPÖ-Vorzeigemann – mit Überwachung und Sozialdruck.",
-      "url": "https://www.zeit.de/gesellschaft/2024-09/oesterreich-wels-wahlkampf-herbert-kickl-nationalratswahl",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/oesterreich-wels-wahlkampf-herbert-kickl-nationalratswahl-bild/super__430x286",
-      "image_title": "Wels: Eine blaue Glitzerstadt"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Krieg in Nahost : Ratingagentur Moody's stuft Israels Kreditwürdigkeit erneut ab",
@@ -1219,11 +1230,11 @@
       "image_title": "Mikrotrends: Heute Cowgirl, morgen Soft Boy"
     },
     {
-      "title": "Verlagsangebot : Welcher Beruf passt zu mir?",
-      "teaser": "Was uns im Job von anderen unterscheidet, sind nicht nur unsere Fähigkeiten – erst die Persönlichkeit macht jeden einmalig. Der BOA Berufstest hilft, sie zu erkennen.",
-      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.teaser.boa-faeuste.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=boa-verlagsteaser&amp;utm_content=bot_teaser_boa-faeuste_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/boa-faeuste/wide__430x286__desktop",
-      "image_title": "Welcher Beruf passt zu mir?"
+      "title": "Verlagsangebot : Durchblick im Studiendschungel",
+      "teaser": "Bei 20.000 möglichen Studiengängen in Deutschland verliert man schnell den Überblick. Unterstützung bietet die Suchmaschine für Studiengänge und Hochschulen.",
+      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.whiteboard_studiendschungel.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_whiteboard_studiendschungel_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-3-klein/man-wearing-black-and-white-stripe-shirt-looking-at-white-197.jpg",
+      "image_title": "Durchblick im Studiendschungel"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Sich entschuldigen : Das Gaffer-Tape der deutschen Sprache",
@@ -1247,11 +1258,11 @@
       "image_title": "DJ: Techno ist heute überall – leider auf eine eher dämliche Art und Weise."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); \"Underconsumption\" : Teure Reste",
-      "teaser": "Unsere Autorin entdeckt den \"Underconsumption\"-Trend auf TikTok und stellt fest: Das macht ja wirklich etwas mit meinem Leben.",
-      "url": "https://www.zeit.de/2024/41/underconsumption-core-tiktok-trend-lebenswandel",
-      "image_url": "https://img.zeit.de/2024/41/yasmine-m-barek-entdeckt-teure-reste-bild-2/super__430x286",
-      "image_title": "\"Underconsumption\": Ist es normal, mehr als eine Creme zu besitzen?"
+      "title": "Z+ (abopflichtiger Inhalt); \"Und was machst Du am Wochenende?\" : \"Ich fand das Wochenende immer wahnsinnig langweilig\"",
+      "teaser": "Für die Schauspielerin Luise von Finckh ist Milchreis bis heute Comfort-Food. Im Podcast erzählt sie von ihrer Rebellion gegen gesundes Essen und die Musik ihrer Eltern.",
+      "url": "https://www.zeit.de/entdecken/2024-09/luise-von-finckh-schauspielerin-wochenende-tipps-podcast",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-09/luise-von-finckh-schauspielerin-wochenende-tipps-podcast-bild/super__430x286",
+      "image_title": "\"Und was machst Du am Wochenende?\": \"Ich fand das Wochenende immer wahnsinnig langweilig\""
     },
     {
       "title": "Anzeige : ZEIT REISEN Individualreisen",
@@ -1303,36 +1314,36 @@
       "image_title": "Bundesliga: Fußball, Bundesliga, Bayern München - Bayer Leverkusen, Spieltag 5, Allianz Arena, Münchens Jamal Musiala (2vl) kommt vor Leverkusens Robert Andrich zum Schuss. WICHTIGER HINWEIS: Gemäß den Vorgaben der DFL Deutsche Fußball Liga bzw. des DFB Deutscher Fußball-Bund ist es untersagt, in dem Stadion und/oder vom Spiel angefertigte Fotoaufnahmen in ... + Mehr lesen Service +++ dpa-Bildfunk +++ Aufnahmedatum 28.09.2024 Bildnachweis picture alliance/dpa | Sven Hoppe"
     },
     {
-      "title": "2. Fußball-Bundesliga: HSV braucht langen Atem für ein langes Rennen",
-      "url": "https://www.zeit.de/news/2024-09/29/hsv-braucht-langen-atem-fuer-ein-langes-rennen"
+      "title": "Handball: SC Magdeburg quält sich ins Halbfinale der Club-WM",
+      "url": "https://www.zeit.de/news/2024-09/29/sc-magdeburg-quaelt-sich-ins-halbfinale-der-club-wm"
     },
     {
-      "title": "Bahnverkehr: Oberleitungsschaden bei Altona behindert Zugverkehr",
-      "url": "https://www.zeit.de/news/2024-09/29/oberleitungsschaden-bei-altona-behindert-zugverkehr"
+      "title": "2. Fußball-Bundesliga: Kein Sieger trotz Torspektakel in Köln",
+      "url": "https://www.zeit.de/news/2024-09/29/kein-sieger-trotz-torspektakel-in-koeln"
     },
     {
-      "title": "Oktoberfest: Wiesnhit Fehlanzeige - nicht mehr zeitgemäß?",
-      "url": "https://www.zeit.de/news/2024-09/29/wiesnhit-fehlanzeige-nicht-mehr-zeitgemaess"
+      "title": "Polizeieinsatz: Verdächtiger Rucksack – Munitionsbergungsteam im Einsatz",
+      "url": "https://www.zeit.de/news/2024-09/29/verdaechtiger-rucksack-munitionsbergungsteam-im-einsatz"
     },
     {
-      "title": "Versuchter Mord: Richter erlässt Haftbefehl gegen Tatverdächtigen von Essen",
-      "url": "https://www.zeit.de/news/2024-09/29/richter-erlaesst-haftbefehl-gegen-tatverdaechtigen-von-essen"
+      "title": "2. Fußball-Bundesliga: 1000. Heimtor: Hannover 96 bleibt zu Hause eine Macht",
+      "url": "https://www.zeit.de/news/2024-09/29/1000-heimtor-hannover-96-bleibt-zu-hause-eine-macht"
     },
     {
-      "title": "Vandalismus: Polizei: Unbekannte verunstalten Graffiti für Hanau-Opfer",
-      "url": "https://www.zeit.de/news/2024-09/29/polizei-unbekannte-verunstalten-graffiti-fuer-hanau-opfer"
+      "title": "Landwirtschaftsmesse: Rund 23.500 Besucher zu «Grünen Tagen» in Erfurt",
+      "url": "https://www.zeit.de/news/2024-09/29/rund-23-500-besucher-zu-gruenen-tagen-in-erfurt"
     },
     {
-      "title": "Nahost: Was bedeutet der Tod von Hisbollah-Chef Hassan Nasrallah?",
-      "url": "https://www.zeit.de/news/2024-09/29/was-bedeutet-der-tod-von-hisbollah-chef-hassan-nasrallah"
+      "title": "2. Fußball-Bundesliga: «Club» bringt sich um den Lohn in Hannover - Pechvogel Serra",
+      "url": "https://www.zeit.de/news/2024-09/29/club-bringt-sich-um-den-lohn-in-hannover-pechvogel-serra"
     },
     {
-      "title": "Extremismus: Islamistische Drohungen gegen Kulturkneipe in Neukölln",
-      "url": "https://www.zeit.de/news/2024-09/29/islamistische-drohungen-gegen-kulturkneipe-in-neukoelln"
+      "title": "Konzerte: Apache 207 kündigt «umfangreichste und längste Tour» an",
+      "url": "https://www.zeit.de/news/2024-09/29/apache-207-kuendigt-umfangreichste-und-laengste-tour-an"
     },
     {
-      "title": "Bayerns Mittelfeldchef: Kimmichs Freude über Kompany-Stil: Kommt mir sehr zugute",
-      "url": "https://www.zeit.de/news/2024-09/29/kimmichs-freude-ueber-kompany-stil-kommt-mir-sehr-zugute"
+      "title": "2. Fußball-Bundesliga: 1:4 gegen Elversberg: Hertha erlebt Heim-Debakel",
+      "url": "https://www.zeit.de/news/2024-09/29/1-4-gegen-elversberg-hertha-erlebt-heim-debakel"
     }
   ]
 }
