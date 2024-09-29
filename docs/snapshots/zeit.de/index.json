@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-29T03:17:23",
+  "timestamp": "2024-09-29T04:08:26",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -14,6 +14,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -98,18 +104,18 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Crack : \"Man kann sich selbst beim Sterben zuschauen\"",
-      "teaser": "Crack verändert Deutschland radikal. So wie Heroin vor 30 Jahren. Mike Schöneberg wäre fast an dem Teufelszeug gestorben. Bis er einen Arzt traf mit einer Idee.",
-      "url": "https://www.zeit.de/gesellschaft/2024-09/crack-abhaengige-behandlung-kokain-arzt-berlin",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-09/crack-abhaengige-behandlung-kokain-arzt-berlin-bild/wide__1000x562",
-      "image_title": "Crack: Mike Schöneberg, 59, ist Patient in der Praxis von Dr. Peschel. Thomas Peschel, 54 Jahre alt und Facharzt für Psychiatrie, leitet seit 2013 die Praxis „Patrida“ in Berlin Wedding, einem Namen, der „Heimat“ auf Griechisch bedeutet. In seiner Praxis behandelt er Menschen mit Drogensucht. In den letzten Jahren ist ein Anstieg von Crack zu verzeichnen, während der Heroinmarkt fast zusammengebrochen ist, seitdem die Taliban 2022 in Afghanistan das Anbauen von Opium verboten haben. Crack ist auf dem Markt als kleiner Klumpen erhältlich, und ist ein Substrat aus Kokain und Natron, welches in einer Pfeife geraucht wird; es ist mittlerweile oft schon für wenige Euros erhältlich. Dr. Peschel hat begonnen, drogenabhängige Patienten erfolgreich mit Elvanse zu behandeln, einem Medikament, das eigentlich für die Behandlung von ADHS bei Erwachsenen entwickelt wurde. Mike Schöneberg, 59 Jahre alt, ist einer seiner Patienten. Maik, der seit Jahrzehnten unter Drogensucht leidet, beschreibt, wie Dr. Peschel ihm mit der Therapie das Leben gerettet hat. Maik erhält einmal ma Tag in der Praxis im sogenannten Applikationsraum eine Tablette Elvanse und bekommt zudem täglich Diamorphin medizinisches Heroin, auf Rezept, welches er unter der Aufsicht von medizinischem Personal selbst injiziert. Der Leopoldplatz im Berliner Stadtteil Wedding ist einer der Umschlagplätze für Crack. Direkt neben den Bushaltestellen gibt es 2 größere Sitzflächen und ein Toilettenhäuschen für die drogenkranken Menschen die inzwischen umzäunt worden sind, und daher von ihnen “der Käfig” genannt werden."
+      "title": "Z+ (abopflichtiger Inhalt); Österreich : Eine Republik auf dem Weg nach Rechtsaußen",
+      "teaser": "Herbert Kickl versammelt Österreichs Unzufriedene hinter sich und könnte mit der FPÖ die Wahlen gewinnen. Probleme mit Rechtsextremen oder Corona-Leugnern hat er keine.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/oesterreich-wahl-fpoe-herbert-kickl",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/oesterreich-wahl-fpoe-herbert-kickl-bild/wide__1000x562",
+      "image_title": "Österreich: FPÖ-Chef Herbert Kickl (2024)"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Israel : Netanjahu nennt Nasrallah-Tötung \"Abrechnung mit Massenmörder\"",
-      "teaser": "Israels Premier hat sich erstmals öffentlich zur gezielten Tötung von Hisbollah-Chef Nasrallah geäußert. Den Iran warnte Netanjahu vor einem Vergeltungsschlag.",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/netanjahu-stellungnahme-toetung-nasrallah-hisbollah",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/netanjahu-israel-toetung-nasrallah-stellungnahme/super__430x286",
-      "image_title": "Israel: Benjamin Netanjahu, Ministerpräsident von Israel, spricht auf der 79. Sitzung der Generalversammlung im UN-Hauptquartier in New York."
+      "title": "Z+ (abopflichtiger Inhalt); Nahost : Iran fordert nach Tötung Nasrallahs Sitzung des UN-Sicherheitsrats",
+      "teaser": "Der iranische UN-Vertreter verurteilt in einem Brief an den Sicherheitsrat Israels Angriffe im Libanon. US-Präsident Biden spricht von einer \"Maßnahme der Gerechtigkeit\".",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/iran-un-sicherheitsrat-verurteilung-angriffe-israel",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/iran-verurteilung-un-sicherheitsrat-angriffe-israel/super__430x286",
+      "image_title": "Nahost: Der iranische UN-Botschafter Amir Saeid Iravani hört die Rede des Ständigen Vertreters Israels bei den Vereinten Nationen, während einer Dringlichkeitssitzung im UN-Hauptquartier im Sitzungssaal des Sicherheitsrats der Vereinten Nationen."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Liveblog:Krieg in Israel und Gaza : Biden wirbt erneut für Waffenruhe zwischen Israel und Hisbollah",
@@ -126,18 +132,25 @@
       "image_title": "Lage im Nahen Osten: An Iranian worshipper carries a portrait of Lebanon's Hezbollah Secretary General, Hassan Nasrallah, during an anti-Israeli protest to condemn Israel's military attack on Lebanon, after Friday prayers ceremonies in downtown Tehran, Iran, on September 27, 2024."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Thüringen : Auf den Tumult folgt Vernunft",
-      "teaser": "Beim zweiten Teil der Thüringer Landtagssitzung gab sich die AfD handzahm. Das Verfassungsgericht hatte Alterspräsident Treutler einen genauen Regieplan vorgegeben.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/thueringen-landtag-afd-cdu-thadaeus-koenig-praesident-wiebke-muhsal",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/thueringen-landtag-afd-cdu-thadaeus-koenig-praesident-wiebke-muhsal-bild-3/super__430x286",
-      "image_title": "Thüringen: Thadäus König (CDU) als neuer Landtagspräsident während der konstituierenden Sitzung des Thüringer Landtags. Am 1. September wurde in Thüringen ein neuer Landtag gewählt."
+      "title": "Z+ (abopflichtiger Inhalt); Parlamentswahl in Österreich : FPÖ und Konservative hoffen auf Regierungsmehrheit",
+      "teaser": "In Österreich könnte erstmals die rechtspopulistische FPÖ die Nationalratswahl gewinnen. Doch ein Sieg würde Parteichef Kickl nicht automatisch ins Kanzleramt bringen.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/oesterreich-parlamentswahl-rechtsruck-fpoe-oevp-karl-nehammer-herbert-kickl",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/oesterreich-parlamentswahl-rechtsruck-fpoe-oevp-karl-nehammer-herbert-kickl-bild/super__430x286",
+      "image_title": "Parlamentswahl in Österreich: hancellor and head of Peoples Party (OeVP) Karl Nehammer, Vice-Chancellor and head of Green Party Werner Kogler, Austria's Freedom Party (FPOe) leader and top candidate Herbert Kickl, and head of Social Democrats (SPOe) Andreas Babler, attend last TV discussion before Austrian general elections on Sunday, in Vienna, Austria, September 26, 2024. REUTERS/Lisa Leutner"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Bundesliga : Der FC Bayern ist wieder eine Mannschaft",
-      "teaser": "Unter Vincent Kompany haben die Bayern etwas wiederentdeckt, was ihnen lange fehlte: Spirit und Disziplin. Meister Leverkusen blieb nichts anderes, als zu verteidigen.",
-      "url": "https://www.zeit.de/sport/2024-09/fussball-bundesliga-bayern-leverkusen-vincent-kompany",
-      "image_url": "https://img.zeit.de/sport/2024-09/leverkusen-bayern-2/wide__892x501",
-      "image_title": "Bundesliga: Fußball, Bundesliga, Bayern München - Bayer Leverkusen, Spieltag 5, Allianz Arena, Münchens Jamal Musiala (2vl) kommt vor Leverkusens Robert Andrich zum Schuss. WICHTIGER HINWEIS: Gemäß den Vorgaben der DFL Deutsche Fußball Liga bzw. des DFB Deutscher Fußball-Bund ist es untersagt, in dem Stadion und/oder vom Spiel angefertigte Fotoaufnahmen in ... + Mehr lesen Service +++ dpa-Bildfunk +++ Aufnahmedatum 28.09.2024 Bildnachweis picture alliance/dpa | Sven Hoppe"
+      "title": "Z+ (abopflichtiger Inhalt); Wels : Eine blaue Glitzerstadt",
+      "teaser": "Die Rechtspopulisten in Österreich schielen gern nach Wels. Lange in der Hand der Sozialdemokraten, regiert dort ein FPÖ-Vorzeigemann – mit Überwachung und Sozialdruck.",
+      "url": "https://www.zeit.de/gesellschaft/2024-09/oesterreich-wels-wahlkampf-herbert-kickl-nationalratswahl",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/oesterreich-wels-wahlkampf-herbert-kickl-nationalratswahl-bild/super__430x286",
+      "image_title": "Wels: Eine blaue Glitzerstadt"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Nachrichtenpodcast : Viel Kickl, wenig Inhalt",
+      "teaser": "FPÖ-Chef Herbert Kickl prägte den Wahlkampf in Österreich. Seine Partei könnte heute stärkste Kraft im Nationalrat werden. Und: Was bleibt vom AfD-Eklat in Thüringen?",
+      "url": "https://www.zeit.de/politik/2024-09/nationalratswahl-oesterreich-fpoe-nachrichtenpodcast",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__892x501",
+      "image_title": "Nachrichtenpodcast: Viel Kickl, wenig Inhalt"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Austrofred : \"Nicht mal die Deutschen kommen schlecht weg\"",
@@ -161,18 +174,25 @@
       "image_title": "Murray Rothbard: Der Vordenker des neuen Rechtspopulismus"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Parlamentswahl in Österreich : FPÖ und Konservative hoffen auf Regierungsmehrheit",
-      "teaser": "In Österreich könnte erstmals die rechtspopulistische FPÖ die Nationalratswahl gewinnen. Doch ein Sieg würde Parteichef Kickl nicht automatisch ins Kanzleramt bringen.",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/oesterreich-parlamentswahl-rechtsruck-fpoe-oevp-karl-nehammer-herbert-kickl",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/oesterreich-parlamentswahl-rechtsruck-fpoe-oevp-karl-nehammer-herbert-kickl-bild/super__430x286",
-      "image_title": "Parlamentswahl in Österreich: hancellor and head of Peoples Party (OeVP) Karl Nehammer, Vice-Chancellor and head of Green Party Werner Kogler, Austria's Freedom Party (FPOe) leader and top candidate Herbert Kickl, and head of Social Democrats (SPOe) Andreas Babler, attend last TV discussion before Austrian general elections on Sunday, in Vienna, Austria, September 26, 2024. REUTERS/Lisa Leutner"
+      "title": "Z+ (abopflichtiger Inhalt); Crack : \"Man kann sich selbst beim Sterben zuschauen\"",
+      "teaser": "Crack verändert Deutschland radikal. So wie Heroin vor 30 Jahren. Mike Schöneberg wäre fast an dem Teufelszeug gestorben. Bis er einen Arzt traf mit einer Idee.",
+      "url": "https://www.zeit.de/gesellschaft/2024-09/crack-abhaengige-behandlung-kokain-arzt-berlin",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-09/crack-abhaengige-behandlung-kokain-arzt-berlin-bild/super__430x286",
+      "image_title": "Crack: Mike Schöneberg, 59, ist Patient in der Praxis von Dr. Peschel. Thomas Peschel, 54 Jahre alt und Facharzt für Psychiatrie, leitet seit 2013 die Praxis „Patrida“ in Berlin Wedding, einem Namen, der „Heimat“ auf Griechisch bedeutet. In seiner Praxis behandelt er Menschen mit Drogensucht. In den letzten Jahren ist ein Anstieg von Crack zu verzeichnen, während der Heroinmarkt fast zusammengebrochen ist, seitdem die Taliban 2022 in Afghanistan das Anbauen von Opium verboten haben. Crack ist auf dem Markt als kleiner Klumpen erhältlich, und ist ein Substrat aus Kokain und Natron, welches in einer Pfeife geraucht wird; es ist mittlerweile oft schon für wenige Euros erhältlich. Dr. Peschel hat begonnen, drogenabhängige Patienten erfolgreich mit Elvanse zu behandeln, einem Medikament, das eigentlich für die Behandlung von ADHS bei Erwachsenen entwickelt wurde. Mike Schöneberg, 59 Jahre alt, ist einer seiner Patienten. Maik, der seit Jahrzehnten unter Drogensucht leidet, beschreibt, wie Dr. Peschel ihm mit der Therapie das Leben gerettet hat. Maik erhält einmal ma Tag in der Praxis im sogenannten Applikationsraum eine Tablette Elvanse und bekommt zudem täglich Diamorphin medizinisches Heroin, auf Rezept, welches er unter der Aufsicht von medizinischem Personal selbst injiziert. Der Leopoldplatz im Berliner Stadtteil Wedding ist einer der Umschlagplätze für Crack. Direkt neben den Bushaltestellen gibt es 2 größere Sitzflächen und ein Toilettenhäuschen für die drogenkranken Menschen die inzwischen umzäunt worden sind, und daher von ihnen “der Käfig” genannt werden."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Wels : Eine blaue Glitzerstadt",
-      "teaser": "Die Rechtspopulisten in Österreich schielen gern nach Wels. Lange in der Hand der Sozialdemokraten, regiert dort ein FPÖ-Vorzeigemann – mit Überwachung und Sozialdruck.",
-      "url": "https://www.zeit.de/gesellschaft/2024-09/oesterreich-wels-wahlkampf-herbert-kickl-nationalratswahl",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/oesterreich-wels-wahlkampf-herbert-kickl-nationalratswahl-bild/super__430x286",
-      "image_title": "Wels: Eine blaue Glitzerstadt"
+      "title": "Z+ (abopflichtiger Inhalt); Thüringen : Auf den Tumult folgt Vernunft",
+      "teaser": "Beim zweiten Teil der Thüringer Landtagssitzung gab sich die AfD handzahm. Das Verfassungsgericht hatte Alterspräsident Treutler einen genauen Regieplan vorgegeben.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/thueringen-landtag-afd-cdu-thadaeus-koenig-praesident-wiebke-muhsal",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/thueringen-landtag-afd-cdu-thadaeus-koenig-praesident-wiebke-muhsal-bild-3/super__430x286",
+      "image_title": "Thüringen: Thadäus König (CDU) als neuer Landtagspräsident während der konstituierenden Sitzung des Thüringer Landtags. Am 1. September wurde in Thüringen ein neuer Landtag gewählt."
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Präsidentschaftswahlen in den USA : Trump und Harris deuten harte Politik zu undokumentierten Migranten an",
+      "teaser": "Donald Trump hetzt bei einem Wahlkampfauftritt erneut gegen undokumentierte Migranten. Kamala Harris besucht zum ersten Mal im Wahlkampf die Grenze zu Mexiko.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/usa-migration-trump-harris-grenze-mexiko",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/border-mexico/super__430x286",
+      "image_title": "Präsidentschaftswahlen in den USA: Póngase en contacto con su oficina local para conocer todos los usos con fines comerciales o promocionales. Derechos editoriales plenos en Reino Unido, EE.UU., Irlanda y Canadá (excepto Québec). Si desea conocer los derechos editoriales restringidos para los diarios en cualquier otro país, llámenos por teléfono. Crédito: John Moore / Fotógrafo de plantilla Editorial n.º: 2173924265 Colección: Getty Images News Fecha de creación: 18 de septiembre de 2024 Fecha de subida: 23 de septiembre de 2024"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Strafrecht : Merz will Anwendung des Jugendstrafrechts einschränken",
@@ -222,6 +242,13 @@
       "url": "https://www.zeit.de/kultur/2024-09/luke-mockridge-bamberg-auftritt-dirty-comedy-skandal",
       "image_url": "https://img.zeit.de/kultur/2024-09/mockridge/super__430x286",
       "image_title": "Luke Mockridge: Der Comedian Luke Mockridge ist zurück auf der Bühne. Gestern trat er in Bamberg auf, hier ist er auf einem Bild aus seiner Show am 18. September in Wien zu sehen."
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Bundesliga : Der FC Bayern ist wieder eine Mannschaft",
+      "teaser": "Unter Vincent Kompany haben die Bayern etwas wiederentdeckt, was ihnen lange fehlte: Spirit und Disziplin. Meister Leverkusen blieb nichts anderes, als zu verteidigen.",
+      "url": "https://www.zeit.de/sport/2024-09/fussball-bundesliga-bayern-leverkusen-vincent-kompany",
+      "image_url": "https://img.zeit.de/sport/2024-09/leverkusen-bayern-2/super__430x286",
+      "image_title": "Bundesliga: Fußball, Bundesliga, Bayern München - Bayer Leverkusen, Spieltag 5, Allianz Arena, Münchens Jamal Musiala (2vl) kommt vor Leverkusens Robert Andrich zum Schuss. WICHTIGER HINWEIS: Gemäß den Vorgaben der DFL Deutsche Fußball Liga bzw. des DFB Deutscher Fußball-Bund ist es untersagt, in dem Stadion und/oder vom Spiel angefertigte Fotoaufnahmen in ... + Mehr lesen Service +++ dpa-Bildfunk +++ Aufnahmedatum 28.09.2024 Bildnachweis picture alliance/dpa | Sven Hoppe"
     },
     {
       "title": "Ausgabe 39/2024 : Alles klar. Willkommen im Wochenende.",
@@ -371,6 +398,13 @@
       "image_title": "Folge 11: November 2017: WASHINGTON DC - OCTOBER 07: President Donald Trump walks across the South Lawn to the White House on October 7, 2017 in Washington, DC. Trump traveled to North Carolina to attend fund raising events. (Photo by Shawn Thew-Pool/Getty Images)"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Folge 12: Dezember 2017 : Einreisebann auf unbestimmte Zeit",
+      "teaser": "In der dritten Version geht Donald Trumps Einreiseverbot durch. Und am Ende des Monats geht der Präsident viel Golf spielen. Der Dezember 2017",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/praesidentschaft-donald-trump-dezember-2017",
+      "image_url": "https://img.zeit.de/2024-09/trump-steuerreform-golf/super__320x213",
+      "image_title": "Folge 12: Dezember 2017: Jul 28, 2022; Bedminster, NJ, USA; Former President of the United States Donald Trump hits a tee shot during the LIV Invitational Pro-Am at Trump National Golf Club Bedminster. Mandatory Credit: John Jones-USA TODAY Sports TPX IMAGES OF THE DAY"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Popkultur im US-Wahlkampf : Unter der Sonne der Palisades",
       "teaser": "Der Wahlkampf in den USA ist geprägt von Memes und dem Kampf um kulturelle Deutungshoheit. Zwar waren sich Politik und Pop in den USA stets nahe – aber nie so sehr.",
       "url": "https://www.zeit.de/kultur/2024-09/popkultur-us-wahlkampf-kamala-harris-donald-trump-politik",
@@ -427,11 +461,11 @@
       "image_title": "Grüne Jugend: Die Landessprecherinnen der Grünen Jugend in Nordrhein-Westfalen Vivianne Schwedersky (links) und Laura Alderath (rechts)"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Präsidentschaftswahlen in den USA : Trump und Harris deuten harte Politik zu undokumentierten Migranten an",
-      "teaser": "Donald Trump hetzt bei einem Wahlkampfauftritt erneut gegen undokumentierte Migranten. Kamala Harris besucht zum ersten Mal im Wahlkampf die Grenze zu Mexiko.",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/usa-migration-trump-harris-grenze-mexiko",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/border-mexico/super__320x213",
-      "image_title": "Präsidentschaftswahlen in den USA: Póngase en contacto con su oficina local para conocer todos los usos con fines comerciales o promocionales. Derechos editoriales plenos en Reino Unido, EE.UU., Irlanda y Canadá (excepto Québec). Si desea conocer los derechos editoriales restringidos para los diarios en cualquier otro país, llámenos por teléfono. Crédito: John Moore / Fotógrafo de plantilla Editorial n.º: 2173924265 Colección: Getty Images News Fecha de creación: 18 de septiembre de 2024 Fecha de subida: 23 de septiembre de 2024"
+      "title": "Z+ (abopflichtiger Inhalt); Israel : Netanjahu nennt Nasrallah-Tötung \"Abrechnung mit Massenmörder\"",
+      "teaser": "Israels Premier hat sich erstmals öffentlich zur gezielten Tötung von Hisbollah-Chef Nasrallah geäußert. Den Iran warnte Netanjahu vor einem Vergeltungsschlag.",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/netanjahu-stellungnahme-toetung-nasrallah-hisbollah",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/netanjahu-israel-toetung-nasrallah-stellungnahme/super__320x213",
+      "image_title": "Israel: Benjamin Netanjahu, Ministerpräsident von Israel, spricht auf der 79. Sitzung der Generalversammlung im UN-Hauptquartier in New York."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Nahost-Überblick : Hisbollah will Kampf fortsetzen – Israel ruft Libanesen zur Flucht auf",
@@ -629,21 +663,21 @@
       "url": "https://www.zeit.de/politik/ausland/2024-09/tod-hassan-nasrallah-hisbollah-beirut"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Bündnis 90/Die Grünen : Grüne Finanzpolitiker wollen Steuerprivilegien für Reiche abschaffen",
-      "teaser": "Im Zuge des personellen Neustarts geht es bei den Grünen auch um inhaltliche Neuerungen. Finanzexperten der Partei fordern eine Reform des Steuer- und Erbschaftsrechts.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/gruene-wollen-steuerprivilegien-fuer-reiche-abschaffen",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/gruene-finanzpolitiker-wollen-steuerprivilegien-fuer-reiche-abschaffen/super__430x286",
-      "image_title": "Bündnis 90/Die Grünen: Andreas Audretsch (Bündnis 90/ Die Grünen) spricht beim Abschluss der Landesdelegiertenkonferenz im Merkur Hotel MOA. Der Kandidat aus dem Bezirk Neukölln steht auf Listenplatz 4 für den Berliner Bundestag."
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Liveblog: Thüringer Landtag : Thadäus König ist Landtagspräsident, Sitzung verlief störungsfrei",
       "teaser": "Kein weiterer Eklat: Die Konstituierung des Thüringer Parlaments verlief geordnet. Neuer Landtagspräsident ist der CDU-Politiker König. Das Liveblog zum Nachlesen",
-      "url": "https://www.zeit.de/politik/deutschland/2024-09/thueringer-landtag-wahl-landtagspraesident-liveblog"
+      "url": "https://www.zeit.de/politik/deutschland/2024-09/thueringer-landtag-wahl-landtagspraesident-liveblog",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-09/thueringer-landtag-wahl-landtagspraesident-liveblog-blumen-2/super__430x286",
+      "image_title": "Thüringer Landtag: Bodo Ramelow (r, Die Linke), geschäftsführender Ministerpräsident von Thüringen, gratuliert Thadäus König (CDU) zur Wahl als Landtagspräsident während der konstituierenden Sitzung des Thüringer Landtags."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Grüne Jugend : Landesvorstand der Grünen Jugend NRW kündigt Parteiaustritt an",
       "teaser": "Auch in Nordrhein-Westfalen verlässt der gesamte Vorstand der Grünen Jugend die Partei. Die Grünen trügen in der Asylpolitik \"einen massiven Rechtsruck\" mit.",
       "url": "https://www.zeit.de/politik/deutschland/2024-09/gruene-jugend-nrw-vorstand-parteiaustritt-linke"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Journalismus und Demokratie : Es wird Zeit, dass Journalisten zuhören",
+      "teaser": "Der heutige World News Day soll die Bedeutung des Journalismus für die Demokratie betonen. Aber was tun, wenn sich die Öffentlichkeit zunehmend von ihm abwendet?",
+      "url": "https://www.zeit.de/kultur/2024-09/journalismus-demokratie-vertrauen-world-news-day"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Drei-Tassen-Hühnchen : Dieses Huhn hat drei Tassen im Schrank",
@@ -1212,11 +1246,11 @@
       "image_title": "Sich entschuldigen: Das Gaffer-Tape der deutschen Sprache"
     },
     {
-      "title": "Verlagsangebot : Und was macht man dann damit?",
-      "teaser": "Was verbirgt sich konkret hinter den sperrigen Studiengangsbezeichnungen? Einen Einblick in mögliche Berufsfelder liefert die Suchmaschine für Studienangebote.",
-      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.kaffeepause_wasmachtmandamit.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_kaffeepause_wasmachtmandamit_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-4-klein/photo-of-women-looking-on-monitors-197.jpg",
-      "image_title": "Und was macht man dann damit?"
+      "title": "Verlagsangebot : Nicht nur irgendwas studieren",
+      "teaser": "Studieren! Aber was? Der Studiuminteressentest unterstützt Unschlüssige bei ihrer Suche nach dem passenden Studium, basierend auf den eigenen Interessen.",
+      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.textbild.schwarzer-hut_nichtnurirgendwas.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=sit_textbild_schwarzer-hut_nichtnurirgendwas_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-2-klein/brooke-cagle-tlg2hcpitze-unsplash-197.jpg",
+      "image_title": "Nicht nur irgendwas studieren"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Wohnungsnot : Bafög-Wohnhilfe reicht nur in zwei Städten für die Miete",
@@ -1296,36 +1330,36 @@
       "image_title": "Radsport: Muriel Furrer während der UCI Road Cycling World Championships in Zürich 2024"
     },
     {
-      "title": "Hintergrund zunächst unklar: Polizei ermittelt zu Bränden in Essen - ein Festgenommener",
-      "url": "https://www.zeit.de/news/2024-09/29/polizei-ermittelt-zu-braenden-in-essen-ein-festgenommener"
+      "title": "Studieren: Auf den letzten Drücker - Freie Studienplätze in Berlin",
+      "url": "https://www.zeit.de/news/2024-09/29/auf-den-letzten-druecker-freie-studienplaetze-in-berlin"
     },
     {
-      "title": "Enges Rennen: Wahl in Österreich: Rechte FPÖ mit Chance auf Sieg",
-      "url": "https://www.zeit.de/news/2024-09/29/wahl-in-oesterreich-rechte-fpoe-mit-chance-auf-sieg"
+      "title": "Feuerwehr: Mehr Mitglieder in Schleswig-Holsteins Jugendfeuerwehren",
+      "url": "https://www.zeit.de/news/2024-09/29/mehr-mitglieder-in-schleswig-holsteins-jugendfeuerwehren"
     },
     {
-      "title": "Preise: Autoversicherungen: Es wird teuer",
-      "url": "https://www.zeit.de/news/2024-09/29/autoversicherungen-es-wird-teuer"
+      "title": "Konjunktur: Umfrage: Mittelstand zeigt «nahezu depressive Züge»",
+      "url": "https://www.zeit.de/news/2024-09/29/umfrage-mittelstand-zeigt-nahezu-depressive-zuege"
     },
     {
-      "title": "Kulturhauptstadt Europas 2025: Dix, Münter, Jawlensky - «Best of» der Sammlung Gunzenhauser",
-      "url": "https://www.zeit.de/news/2024-09/29/dix-muenter-jawlensky-best-of-der-sammlung-gunzenhauser"
+      "title": "Bundesliga-Spitzenspiel: Bayern-Freude über «großen Schritt» - «Ein schönes Signal»",
+      "url": "https://www.zeit.de/news/2024-09/29/bayern-freude-ueber-grossen-schritt-ein-schoenes-signal"
     },
     {
-      "title": "Naturschauspiel: Faszination Vogelzug: Experten laden zum Beobachten ein",
-      "url": "https://www.zeit.de/news/2024-09/29/faszination-vogelzug-experten-laden-zum-beobachten-ein"
+      "title": "Straßenrad-WM in Zürich: Tränen im Rennen: Niedermaier von Furrers Tod überwältigt",
+      "url": "https://www.zeit.de/news/2024-09/29/traenen-im-rennen-niedermaier-von-furrers-tod-ueberwaeltigt"
     },
     {
-      "title": "Lage im Überblick: Nach Tötung von Hisbollah-Chef: Israel warnt den Iran",
-      "url": "https://www.zeit.de/news/2024-09/29/nach-toetung-von-hisbollah-chef-israel-warnt-den-iran"
+      "title": "Unfall: Zwei Autos stoßen an Kreuzung zusammen – zwei Verletzte",
+      "url": "https://www.zeit.de/news/2024-09/29/zwei-autos-stossen-an-kreuzung-zusammen-zwei-verletzte"
     },
     {
-      "title": "Salzwedeler Traditionskonzern: Erfolgsrezept Baumkuchen: Neue Impulse nach Übernahme",
-      "url": "https://www.zeit.de/news/2024-09/29/erfolgsrezept-baumkuchen-neue-impulse-nach-uebernahme"
+      "title": "Lage im Überblick: Selenskyj: «Oktober ist Zeit der Entscheidungen»",
+      "url": "https://www.zeit.de/news/2024-09/29/selenskyj-oktober-ist-zeit-der-entscheidungen"
     },
     {
-      "title": "Finanzen: Haushalt 2025: NRW plant Sparmaßnahmen trotz Rekordbudget",
-      "url": "https://www.zeit.de/news/2024-09/29/haushalt-2025-nrw-plant-sparmassnahmen-trotz-rekordbudget"
+      "title": "Verkehr: «Sei kein Geist!» - Aktion gegen Fahrradunfälle in Lüneburg",
+      "url": "https://www.zeit.de/news/2024-09/29/sei-kein-geist-aktion-gegen-fahrradunfaelle-in-lueneburg"
     }
   ]
 }
