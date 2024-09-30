@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-30T09:08:07",
+  "timestamp": "2024-09-30T10:08:13",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Exchange-Server",
+      "url": "https://www.heise.de/news/CERT-Bund-warnt-Mehr-als-15-000-Exchange-Server-mit-Sicherheitsluecken-9957431.html"
+    },
+    {
       "title": "Whatsup Gold",
       "url": "https://www.heise.de/news/Monitoring-Software-Whatsup-Gold-Hersteller-raet-zum-schleunigen-Update-9957175.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Foxit-PDF-Manipulierte-PDFs-koennen-Schadcode-durchschleusen-9955308.html"
     },
     {
-      "title": "CUPS",
-      "url": "https://www.heise.de/news/Teils-kritische-Luecken-in-Unix-Drucksystem-CUPS-ermoeglichen-Codeschmuggel-9955130.html"
+      "title": "CERT-Bund warnt: Mehr als 15.000 Exchange-Server mit Sicherheitslücken",
+      "teaser": "In Deutschland stehen noch immer mehr als 15.000 Exchange-Server mit mindestens einer Codeschmuggel-Lücke offen im Netz, warnt das CERT-Bund.",
+      "url": "https://www.heise.de/news/CERT-Bund-warnt-Mehr-als-15-000-Exchange-Server-mit-Sicherheitsluecken-9957431.html",
+      "image_title": "Exchange-Server, die am Netz hängen und angegriffen werden"
     },
     {
       "title": "Mehr Privatsphäre im Internet: Tor-Projekt und Tails schließen sich zusammen",
@@ -158,11 +164,6 @@
       "teaser": "Sicherheitsexperten von HP weisen auf einen beunruhigenden Trend hin: Kriminelle nutzen verstärkt generative KI zur Entwicklung von Malware. ​",
       "url": "https://www.heise.de/news/Cybercrime-KI-generierte-Malware-in-freier-Wildbahn-gesichtet-9954308.html",
       "image_title": "Magnifying,Glass,Enlarging,Malware,In,Computer,Machine,Code"
-    },
-    {
-      "title": "Sicherheitsupdates: DoS-Angriffe auf Cisco-Netzwerkhardware möglich",
-      "teaser": "Aufgrund von mehreren Sicherheitslücken in Ciscos Netzwerkbetriebssystem IOS XE sind verschiedene Geräte verwundbar. Patches stehen zum Download.",
-      "url": "https://www.heise.de/news/Angreifer-koennen-Cisco-Router-via-DoS-Attacken-abstuerzen-lassen-9953784.html"
     },
     {
       "title": "IoT-Webinar",
