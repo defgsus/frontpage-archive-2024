@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-30T07:08:17",
+  "timestamp": "2024-09-30T08:11:30",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Whatsup Gold",
+      "url": "https://www.heise.de/news/Monitoring-Software-Whatsup-Gold-Hersteller-raet-zum-schleunigen-Update-9957175.html"
+    },
+    {
       "title": "PHP",
       "url": "https://www.heise.de/news/Sicherheitsupdates-PHP-8-3-12-und-8-2-24-stopfen-kritische-Sicherheitslecks-9955863.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Teils-kritische-Luecken-in-Unix-Drucksystem-CUPS-ermoeglichen-Codeschmuggel-9955130.html"
     },
     {
-      "title": "Nvidia Container Toolkit, GPU Operator",
-      "url": "https://www.heise.de/news/Schadcode-Schlupfloch-in-Nvidia-Container-Toolkit-geschlossen-9955200.html"
+      "title": "Tor-Projekt und Tails kooperieren für mehr Privatsphäre im Internet",
+      "teaser": "Das Tor-Netzwerk ermöglicht anonymes Surfen. Die Linux-Distribution Tails nutzt dieses Netzwerk zur Wahrung der Privatsphäre. Nun kooperieren beide Projekte.",
+      "url": "https://www.heise.de/news/Tor-Projekt-und-Tails-kooperieren-fuer-mehr-Privatsphaere-im-Internet-9957232.html",
+      "image_title": "Digitale Identitäten auf einem Tablet, darüber ein Schloss in dem ein Gesicht steckt (Symbolbild)"
+    },
+    {
+      "title": "Monitoring-Software Whatsup Gold: Hersteller rät zum schleunigen Update",
+      "teaser": "Progress warnt, dass teils kritische Sicherheitslücken in Whatsup Gold lauern. Admins sollen so schnell wie möglich aktualisieren.",
+      "url": "https://www.heise.de/news/Monitoring-Software-Whatsup-Gold-Hersteller-raet-zum-schleunigen-Update-9957175.html",
+      "image_title": "Brennendes Laptop vor Servern, die das Laptop überwacht"
     },
     {
       "title": "Bundesrat schiebt Ausschussempfehlungen zu NIS2 wortlos durch​",
@@ -151,17 +163,6 @@
       "title": "Sicherheitsupdates: DoS-Angriffe auf Cisco-Netzwerkhardware möglich",
       "teaser": "Aufgrund von mehreren Sicherheitslücken in Ciscos Netzwerkbetriebssystem IOS XE sind verschiedene Geräte verwundbar. Patches stehen zum Download.",
       "url": "https://www.heise.de/news/Angreifer-koennen-Cisco-Router-via-DoS-Attacken-abstuerzen-lassen-9953784.html"
-    },
-    {
-      "title": "NIS2 für mehr IT-Sicherheit: Viele Unternehmen sind noch nicht gut vorbereitet",
-      "teaser": "Lediglich ein Drittel der betroffenen rund 30.000 Unternehmen in Deutschland ist bereits gut auf das Inkrafttreten der NIS2-Richtlinie vorbereitet.",
-      "url": "https://www.heise.de/news/NIS2-fuer-mehr-IT-Sicherheit-Viele-Unternehmen-sind-noch-nicht-gut-vorbereitet-9953995.html",
-      "image_title": "Sicherheitsschloss"
-    },
-    {
-      "title": "Progress Telerik: hochriskante Lücken erlauben Code- und Befehlsschmuggel",
-      "teaser": "In Progress Telerik UI for WPF und WinForms können Angreifer aufgrund von Sicherheitslücken Schadcode und Befehle einschmuggeln.",
-      "url": "https://www.heise.de/news/Progress-Telerik-hochriskante-Luecken-erlauben-Code-und-Befehlsschmuggel-9953714.html"
     },
     {
       "title": "IoT-Webinar",
