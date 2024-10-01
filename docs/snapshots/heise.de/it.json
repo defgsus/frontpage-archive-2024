@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-01T11:00:39",
+  "timestamp": "2024-10-01T12:12:58",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -13,7 +13,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.336d9f494a8694a4d4f7",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.b494cb100afcf6e3808f",
       "id": null,
       "text": null
     },
@@ -26,23 +26,42 @@
   ],
   "articles": [
     {
+      "title": "Über Demokratisierung von Quantencomputern: Dr. Knackfuß-Nicolic im Interview",
+      "teaser": "Unzählige Forschungseinrichtungen arbeiten an der Entwicklung von Quantencomputern. Doch was Unternehmen damit künftig anstellen können, ist noch unklar.",
+      "url": "https://www.heise.de/hintergrund/Ueber-Demokratisierung-von-Quantencomputern-Dr-Knackfuss-Nicolic-im-Interview-9955460.html",
+      "image_title": ", D-Wave"
+    },
+    {
       "title": "Intrusion Prevention: Böswillige IP-Adressen sperren mit CrowdSec",
       "teaser": "CrowdSec ist eine moderne Open-Source-Software zum Schutz vor Cyberbedrohungen, die anhand von Logdateien böswillige IP-Adressen erkennen und blockieren kann.",
       "url": "https://www.heise.de/ratgeber/Intrusion-Prevention-Boeswillige-IP-Adressen-sperren-mit-CrowdSec-9957242.html"
     },
     {
-      "title": "Automatisiert Strom sparen mit selbstgebautem Tibber-Relais",
-      "teaser": "Als Tibber-Nutzer sparen Sie mit diesem selbstgebauten Tibber-Relais Zeit und Energie. Es steuert Geräte automatisch und findet den günstigsten Zeitpunkt dafür-",
-      "url": "https://www.heise.de/ratgeber/Automatisiert-Strom-sparen-mit-selbstgebautem-Tibber-Relais-9955965.html"
+      "title": "iX-Workshop IT-Sicherheit: Angriffstechniken verstehen und erfolgreich abwehren",
+      "teaser": "Analysieren Sie aktuelle Angriffstechniken, um die Wirksamkeit Ihrer Schutzmaßnahmen und die Verletzlichkeit Ihrer IT einzuschätzen.",
+      "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-Angriffstechniken-verstehen-und-erfolgreich-abwehren-9954464.html",
+      "image_title": "iX-Workshop Cybersicherheit: aktuelle Bedrohungen und ihre Abwehr"
     },
     {
-      "title": "Google und Rust: Interoperabilität statt Rewrite –Sicherheit in großen Projekten",
+      "title": "Netatmo verabschiedet sich von Matter, Nanoleaf wirft Thread raus​",
+      "teaser": "Mit Netatmo lässt eine prominente Marke den Smart-Home-Standard Matter fallen. Auch andere Hersteller zweifeln am unausgereiften Thread-Funk.",
+      "url": "https://www.heise.de/news/Netatmo-verabschiedet-sich-von-Matter-Nanoleaf-wirft-Thread-raus-9957883.html",
+      "image_title": "Tür mit smarten Schloss von Netatmo"
+    },
+    {
+      "title": "GPGMail bereit für macOS 15 – mit Einschränkungen",
+      "teaser": "Zur Verschlüsselung von E-Mails nutzen viele User auf dem Mac das GPGMail-Plug-in. Das ist nun für Sequoia bereit, wenn auch noch nicht ganz stabil.",
+      "url": "https://www.heise.de/news/GPGMail-bereit-fuer-macOS-15-mit-Einschraenkungen-9959065.html",
+      "image_title": "Apple Mail und GPGMail"
+    },
+    {
+      "title": "Googles Safe-Coding-Strategie verspricht Investitionsschutz und Sicherheit",
       "teaser": "Das neue Programmier-Paradigma von Google soll die Sicherheit von großen Anwendungen nachweislich erhöhen. Rust spielt eine zentrale Rolle dabei.",
       "url": "https://www.heise.de/news/Google-und-Rust-Interoperabilitaet-statt-Rewrite-Sicherheit-in-grossen-Projekten-9958640.html",
       "image_title": "Aufmacher Rust"
     },
     {
-      "title": "\"Home-Zubehör\" von Apple angeblich ab 2025 – \"Tischroboter\" später",
+      "title": "Laut Bericht ab 2025: Erstes \"Home-Zubehör\" von Apple geplant",
       "teaser": "Apple beabsichtigt offenbar schon relativ zeitnah die Einführung eines neuen Kombinationsgeräts fürs Smart Home. Der \"Tabletop Robot\" kommt aber wohl später.",
       "url": "https://www.heise.de/news/Home-Zubehoer-von-Apple-angeblich-ab-2025-Tischroboter-spaeter-9958994.html",
       "image_title": "Apple HomePod 2"
@@ -103,24 +122,6 @@
       "title": "Kommentar: Microsoft darf keine Standards mehr setzen",
       "teaser": "Wieder muss sich Microsoft dem Kartellamt stellen. Bisher kam der Konzern ständig mit der gleichen Masche durch. Schluss damit, meint Moritz Förster.",
       "url": "https://www.heise.de/meinung/Kommentar-Microsoft-darf-keine-Standards-mehr-setzen-9958480.html"
-    },
-    {
-      "title": "Podcast Software Testing: Umsetzung des Cyber Resilience Act (CRA)",
-      "teaser": "Richard Seidl spricht in dieser Episode mit Christoph Ranalter über die Umsetzung des Cyber Resilience Acts in einem Maschinenbauunternehmen.",
-      "url": "https://www.heise.de/blog/Podcast-Software-Testing-Umsetzung-des-Cyber-Resilience-Act-CRA-9954006.html",
-      "image_title": "Cover des Podcasts Software Testing von Richard Seidl; Thema diesmal: Umsetzung des Cyber Resilience Act (CRA)"
-    },
-    {
-      "title": "iX-Workshop: Produktiver programmieren mit Github Copilot und ChatGPT",
-      "teaser": "Anwendungen schneller und komfortabler programmieren mit den KI-Funktionen von GitHub Copilot und ChatGPT — eine Praxisanleitung",
-      "url": "https://www.heise.de/news/iX-Workshop-Produktiver-programmieren-mit-Github-Copilot-und-ChatGPT-9954434.html",
-      "image_title": "iX-Workshop Effizienter programmieren mit GitHub CoPilot"
-    },
-    {
-      "title": "Playstation Network: Dienste waren gestört, Log-in und Spielen nicht möglich",
-      "teaser": "Das Playstation Network hatte mit globaler Störung zu kämpfen. Seit etwa 2 Uhr waren weder Log-ins noch Online-Spielen möglich.",
-      "url": "https://www.heise.de/news/Playstation-Network-Dienste-gestoert-Log-in-und-Spielen-nicht-moeglich-9958484.html",
-      "image_title": "Spielekonsole am Fernseher zeigt \"Network error\"; Spieler sitzt ttraurig davor"
     },
     {
       "title": "Zahlreiche Bestwerte",
