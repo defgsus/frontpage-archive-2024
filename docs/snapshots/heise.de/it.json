@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-02T11:01:01",
+  "timestamp": "2024-10-02T12:12:37",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,15 +26,34 @@
   ],
   "articles": [
     {
-      "title": "Zehn Jahre HomeKit: Wie sich Apples Smart-Home-Plattform entwickelt hat",
-      "teaser": "Mit Apple Home hat Apple eine etablierte und sichere Smart-Home-Plattform geschaffen. Der Weg dorthin war nicht immer einfach. Wie es jetzt um HomeKit steht.",
-      "url": "https://www.heise.de/hintergrund/Zehn-Jahre-HomeKit-Wie-sich-Apples-Smart-Home-Plattform-entwickelt-hat-9959346.html",
+      "title": "Kompakter Server im Test: HPE ProLiant MicroServer Gen11",
+      "teaser": "Der HPE MicroServer steigt mit jeder neuen Generation weiter ins Profilager auf. Die jüngste Ausführung ist sparsam, lässt aber einige Funktionen vermissen.",
+      "url": "https://www.heise.de/tests/Kompakter-Server-im-Test-HPE-ProLiant-MicroServer-Gen11-9957974.html",
       "image_title": ","
     },
     {
-      "title": "Python: Robuste APIs mit FastAPI und Pydantic erstellen",
-      "teaser": "Qualitativ hochwertige APIs sind essenziell für die Systemintegration. Schlanke API-Frameworks erlauben eine schnelle Entwicklung und kommen mit wenig Code aus.",
-      "url": "https://www.heise.de/ratgeber/Python-Robuste-APIs-mit-FastAPI-und-Pydantic-erstellen-9958587.html"
+      "title": "Kamera selbst konfigurieren: So können Sie Ihre Spiegellose anpassen",
+      "teaser": "Dank programmierbarer Menüs und Benutzer-Presets bieten aktuelle spiegellose Systemkameras reichlich Komfort – und kurze Wege zu häufig verwendeten Funktionen.",
+      "url": "https://www.heise.de/ratgeber/Kamera-selbst-konfigurieren-So-koennen-Sie-Ihre-Spiegellose-anpassen-9959185.html",
+      "image_title": ", C’t Fotografie; alle Bilder im Artikel, wenn nicht anders aufgeführt: Sandra Petrowitz"
+    },
+    {
+      "title": "iX-Praxis-Workshop: Leitfaden für Cloud-Native-Architekturen und Kubernetes",
+      "teaser": "Bauen Sie eine Cloud-native-Umgebung mit hochverfügbarem Kubernetes-Cluster und automatischer Skalierung auf, inkl. Access Management, Monitoring und GitOps.",
+      "url": "https://www.heise.de/news/iX-Praxis-Workshop-Leitfaden-fuer-Cloud-Native-Architekturen-und-Kubernetes-9954488.html",
+      "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
+    },
+    {
+      "title": "Pro & Contra: Verzettelt sich Apple bei der Watch?",
+      "teaser": "Die Apple Watch macht nur winzige Sprünge. Konkurrenten locken mit langer Akkulaufzeit, Blutdruckmessung und smarten Ringen. Ist Apple auf dem falschen Weg?",
+      "url": "https://www.heise.de/meinung/Pro-Contra-Verzettelt-sich-Apple-bei-der-Watch-9960673.html",
+      "image_title": "Pro & Contra: Verzettelt sich Apple bei der Watch?"
+    },
+    {
+      "title": "Open-Source-Digitalkamera auf FPGA-Basis",
+      "teaser": "Ein Open-Source-Projekt zeigt, wie man mit einem AMD-Xilinx Zynq 7010 und einem Kodak-Sensor eine 35-mm-Vollbildkamera baut.",
+      "url": "https://www.heise.de/news/Open-Source-Digitalkamera-auf-FPGA-Basis-9960753.html",
+      "image_title": "Die Kamera ist ohne Objektiv zum sichtbaren Bildausschnitt ausgerichtet. Man sieht den Sensor."
     },
     {
       "title": "LKA Niedersachsen warnt vor andauernder Masche mit Erpresser-Mails",
@@ -100,28 +119,10 @@
       "image_title": "Ein Server im Zentrum, an dem viele Nutzer mit ihren Rechnern hängen und E-Mails lesen, wird von Viren angegriffen"
     },
     {
-      "title": "Microsoft lässt Hololens 2 auslaufen, kein Nachfolger der AR-Brille in Sicht",
-      "teaser": "Die AR-Brille Hololens 2 wird nicht mehr hergestellt, Software-Support endet 2027. Statt einen eigenen Nachfolger zu entwickeln, kooperiert Microsoft mit Meta.",
-      "url": "https://www.heise.de/news/Microsoft-laesst-Hololens-2-auslaufen-kein-Nachfolger-der-AR-Brille-in-Sicht-9960041.html",
-      "image_title": "Frau arbeitet mit Headset an einem Gerät"
-    },
-    {
-      "title": "Jetzt hat auch der Bundesrat das Faxen dicke",
-      "teaser": "Landesinitiativen können nun auch elektronisch als PDF-Datei nebst einer Word-Fassung rechtswirksam eingereicht werden. Kritiker vermissen aber offene Formate.​",
-      "url": "https://www.heise.de/news/Epochenwechsel-Bundesrat-schafft-Fax-Erfordernis-ab-9959877.html",
-      "image_title": "Altes Faxgerät"
-    },
-    {
-      "title": "Microsoft gibt Startschuss für Funktionsupdate Windows 11 24H2",
-      "teaser": "Es brodelte schon länger, nun ist es soweit: Microsoft gibt das Windows-11-Funktionsupdate 24H2 frei. Nicht jeder bekommt es sofort.",
-      "url": "https://www.heise.de/news/Microsoft-gibt-Startschuss-fuer-Funktionsupdate-Windows-11-24H2-9959795.html",
-      "image_title": "Ein Windows-Logo, vor dem 24H2 steht, dahinter Cloud-Wolken und ein KI-Roboter daneben"
-    },
-    {
-      "title": "Windows 11 bekommt KI-Radierer und Bild-Upscaler",
-      "teaser": "Microsoft kündigt einige neue KI-Funktionen für Windows 11 an. Wenn sie gut funktionieren, machen sie die NPUs deutlich nützlicher.",
-      "url": "https://www.heise.de/news/Windows-11-bekommt-KI-Radierer-und-Bild-Upscaler-9959829.html",
-      "image_title": "Notebook auf rosafarbenem Untergrund"
+      "title": "Zehn Jahre HomeKit: Wie sich Apples Smart-Home-Plattform entwickelt hat",
+      "teaser": "Mit Apple Home hat Apple eine etablierte und sichere Smart-Home-Plattform geschaffen. Der Weg dorthin war nicht immer einfach. Wie es jetzt um HomeKit steht.",
+      "url": "https://www.heise.de/hintergrund/Zehn-Jahre-HomeKit-Wie-sich-Apples-Smart-Home-Plattform-entwickelt-hat-9959346.html",
+      "image_title": ","
     },
     {
       "title": "Zahlreiche Bestwerte",
