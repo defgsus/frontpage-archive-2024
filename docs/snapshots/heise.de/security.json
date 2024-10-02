@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-02T06:10:08",
+  "timestamp": "2024-10-02T07:07:01",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Zimbra",
+      "url": "https://www.heise.de/news/Zimbra-Codeschmuggel-Luecke-wird-angegriffen-9960105.html"
+    },
+    {
       "title": "Seiko-Epson-Drucker",
       "url": "https://www.heise.de/news/Web-Config-von-Seiko-Epson-Geraeten-ermoeglicht-Angreifern-Uebernahme-9958605.html"
     },
@@ -44,14 +48,16 @@
       "url": "https://www.heise.de/news/Monitoring-Software-Whatsup-Gold-Hersteller-raet-zum-schleunigen-Update-9957175.html"
     },
     {
-      "title": "PHP",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-PHP-8-3-12-und-8-2-24-stopfen-kritische-Sicherheitslecks-9955863.html"
+      "title": "\"Passwort\" Folge 15: Vermischtes von Ghostbusters bis Clipboard-Schadsoftware",
+      "teaser": "In der neuesten Security-Podcast-Folge befassen die Hosts sich mit einem verschlüsselten Messenger für Kriminelle, gefährlichen Dateiendungen und mehr.",
+      "url": "https://www.heise.de/news/Passwort-Folge-15-Vermischtes-von-Ghostbusters-bis-Clipboard-Schadsoftware-9954546.html",
+      "image_title": "Bild vom heise-Security-Podcast"
     },
     {
-      "title": "Cybercrime: Verbindungen zwischen Lockbit und russischem Syndikat aufgedeckt",
-      "teaser": "Neben Verhaftungen in Frankreich und Großbritannien haben internationale Strafverfolger die Infrastruktur der Erpresser gestört – zudem ergingen Sanktionen.",
-      "url": "https://www.heise.de/news/Ransomware-Ermittler-melden-neue-Erfolge-im-Kampf-gegen-Lockbit-9959100.html",
-      "image_title": "Screenshot des durch Ermittler übernommenen Lockbit-Blogs"
+      "title": "Zimbra: Codeschmuggel-Lücke wird angegriffen",
+      "teaser": "In der Kollaborationssoftware Zimbra klafft eine Sicherheitslücke, die Angreifer bereits aktiv missbrauchen. Admins sollten zügig updaten.",
+      "url": "https://www.heise.de/news/Zimbra-Codeschmuggel-Luecke-wird-angegriffen-9960105.html",
+      "image_title": "Ein Server im Zentrum, an dem viele Nutzer mit ihren Rechnern hängen und E-Mails lesen, wird von Viren angegriffen"
     },
     {
       "title": "iX-Workshop IT-Sicherheit: Angriffstechniken verstehen und erfolgreich abwehren",
@@ -66,15 +72,21 @@
       "image_title": "Aufmacher Rust"
     },
     {
+      "title": "Mit smarter Verbrauchssteuerung Energie sparen",
+      "teaser": "Steigende Kosten und Umweltaspekte machen einen verantwortungsvollen Umgang mit Energie unabdingbar. Mit smarten Technologien können Sie Ihren Stromverbrauch reduzieren, Kosten sparen und einen Beitrag zum Umweltschutz leisten.",
+      "url": "https://www.heise.de/solutions/eq-3/mit-smarter-verbrauchssteuerung-energie-sparen/?source=nat_teas"
+    },
+    {
       "title": "Online-Kurs mit Hochschulzertifikat: IT-Sicherheit für Produktionsanlagen",
       "teaser": "Last Call: Lernen Sie an drei Wochenenden von Experten der Hochschule Hannover, wie man Produktionsanlagen nach der Norm IEC 62443 vor Cyberangriffen schützt.",
       "url": "https://www.heise.de/news/Online-Kurs-mit-Hochschulzertifikat-IT-Sicherheit-fuer-Produktionsanlagen-9957966.html",
       "image_title": "Mast einer Überlandstromleitung mit stilisiertem Hintergrund und den sichtbaren Worten \"Cyber Attack\"."
     },
     {
-      "title": "Mit smarter Verbrauchssteuerung Energie sparen",
-      "teaser": "Steigende Kosten und Umweltaspekte machen einen verantwortungsvollen Umgang mit Energie unabdingbar. Mit smarten Technologien können Sie Ihren Stromverbrauch reduzieren, Kosten sparen und einen Beitrag zum Umweltschutz leisten.",
-      "url": "https://www.heise.de/solutions/eq-3/mit-smarter-verbrauchssteuerung-energie-sparen/?source=nat_teas"
+      "title": "Microsoft Defender: VPN zum Schutz von WLAN-Verbindungen kommt nach Deutschland",
+      "teaser": "Microsoft weitet den VPN-Dienst des Defenders nun auch auf Deutschland aus. Abo-Inhaber schützen damit unsichere WLAN-Verbindungen.",
+      "url": "https://www.heise.de/news/Microsoft-Defender-VPN-zum-Schutz-von-WLAN-Verbindungen-kommt-nach-Deutschland-9958750.html",
+      "image_title": "Rechner verbindet über Wolke zu Server, Kreaturen versuchen, die Verbindung anzugreifen"
     },
     {
       "title": "Web-Config von Seiko-Epson-Geräten ermöglicht Angreifern Übernahme",
@@ -157,18 +169,6 @@
       "teaser": "Erfahren Sie, wie Angreifer Fehlkonfigurationen und mangelnde Härtung der Amazon Cloud ausnutzen und wie Sie AWS-Dienste und Cloud-Identitäten dagegen schützen.",
       "url": "https://www.heise.de/news/iX-Workshop-AWS-Sicherheit-Angriffe-erkennen-und-abwehren-9954622.html",
       "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
-    },
-    {
-      "title": "Foxit PDF: Manipulierte PDFs können Schadcode durchschleusen",
-      "teaser": "Es sind gegen verschiedene Attacken gerüstete Versionen von Foxit PDF Editor und PDF Reader für macOS und Windows erschienen.",
-      "url": "https://www.heise.de/news/Foxit-PDF-Manipulierte-PDFs-koennen-Schadcode-durchschleusen-9955308.html",
-      "image_title": "Eine Frau drückt symbolisch einen Upodate-Knopf."
-    },
-    {
-      "title": "Teils kritische Lücken in Unix-Drucksystem CUPS ermöglichen Codeschmuggel",
-      "teaser": "Im Linux-Drucksystem CUPS wurden teils kritische Sicherheitslücken entdeckt. Angreifer können dadurch etwa Code einschmuggeln.",
-      "url": "https://www.heise.de/news/Teils-kritische-Luecken-in-Unix-Drucksystem-CUPS-ermoeglichen-Codeschmuggel-9955130.html",
-      "image_title": "Ein Drucker schleudert Papier in die Luft, ein Server daneben wird von Viren angegriffen, ein Mensch sitzt am PC"
     },
     {
       "title": "IoT-Webinar",
