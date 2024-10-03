@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-03T02:10:13",
+  "timestamp": "2024-10-03T03:13:48",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -138,11 +144,11 @@
       "image_title": "Israel: Freund und Feind im Nahen Osten"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Liveblog:Krieg in Nahost : Libanon meldet 46 Tote im Laufe eines Tages",
-      "teaser": "Durch Israels Angriffe wurden laut Libanons Behörden binnen 24 Stunden 46 Menschen getötet. Israels Militär fliegt Luftangriffe auf einen Vorort von Beirut. Das Liveblog",
+      "title": "Z+ (abopflichtiger Inhalt); Liveblog:Krieg in Nahost : Israel fliegt Luftangriffe auf Beirut",
+      "teaser": "Nach Luftangriffen Israels melden libanesische Behörden Tote und Verletzte im Zentrum von Beirut. Etwa 100 US-Bürger verlassen den Libanon. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/2023-12/news-israel-gaza-krieg-live",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-10/libanon-beirut-israel-luftangriff-liveblog/super__430x286",
-      "image_title": "Krieg in Nahost: A smoke plume rises over the city after Israeli forces conducted multiple airstrikes on the city's southern suburbs, on October 2, 2024 in Beirut, Lebanon. Israel continued airstrikes on Beirut and its southern suburbs as its military announced a ground offensive in Lebanon, part of what it said would be a \"limited\" incursion to target Hezbollah forces."
+      "image_url": "https://img.zeit.de/politik/ausland/2024-10/beirut-luftangriff-israel-vorort-feuerwehrmann-bild/super__430x286",
+      "image_title": "Krieg in Nahost: Ein Feuerwehrmann steht vor einer Wohnung, die von einem Luftangriff getroffen wurde."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"Kill my Doppelgänger\" : Sie sah ihr ähnlich. Jetzt ist sie tot",
@@ -194,11 +200,11 @@
       "image_title": "Einsamkeit: Lasst mich ruhig allein"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Künstliche Intelligenz : OpenAI sammelt 6,5 Milliarden Dollar in neuer Finanzierungsrunde",
-      "teaser": "Thrive Capital, Nvidia, Microsoft und weitere Unternehmen investieren Milliarden in OpenAI. Apple soll sich gegen eine Finanzierung entschieden haben.",
-      "url": "https://www.zeit.de/digital/2024-10/open-ai-investoren-finanzierungsrunde-sam-altman",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-10/finanzierungsrunde-ki-unternehmen-openai-bild/super__430x286",
-      "image_title": "Künstliche Intelligenz: This photograph taken in Mulhouse, eastern France on October 19, 2023, shows figurines next to the ChatGPT logo. (Photo by SEBASTIEN BOZON / AFP) (Photo by SEBASTIEN BOZON/AFP via Getty Images)"
+      "title": "Z+ (abopflichtiger Inhalt); Liveblog:Ukrainekrieg : Mindestens zehn Verletzte bei russischem Bombenangriff in Charkiw",
+      "teaser": "In Charkiws Stadtteil Saltiwka hat ein russischer Bombenangriff mehrere Etagen eines Wohnhauses zerstört. Russland rekrutiert auch Angeklagte als Soldaten. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-10/ukraine-liveblog-charkiw-bei-nacht/super__430x286",
+      "image_title": "Ukrainekrieg: A car drives past an office building in Kharkiv late on September 14, 2024, amid the Russian invasion of Ukraine."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Michael Ballweg : Das Business eines Querdenkers",
@@ -208,6 +214,13 @@
       "image_title": "Michael Ballweg: Der «Querdenken»-Initiator Michael Ballweg sitzt in einem Saal des Landgerichts Stuttgart. Ballweg steht wegen versuchten Betrugs vor Gericht. +++ dpa-Bildfunk +++"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Prozess wegen Wahlmanipulation : Trump laut Anklage bei Wahlmanipulation nicht von Amts wegen immun",
+      "teaser": "Sonderermittler Smith argumentiert gegen eine Teilimmunität Trumps im Verfahren wegen Wahlmanipulation. Dieser habe dabei nicht kraft seines Amts als Präsident gehandelt.",
+      "url": "https://www.zeit.de/politik/ausland/2024-10/trump-kapitol-sturm-sonderermittler-neue-strategie",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-10/donald-trump-verfahren-wahlfaelschung-sonderermittler/super__430x286",
+      "image_title": "Prozess wegen Wahlmanipulation: Der republikanische Präsidentschaftskandidat und ehemalige US-Präsident Donald Trump tanzt bei einer Wahlkampfveranstaltung bei Dane Manufacturing."
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Hurrikan Helene : Biden und Harris besuchen Katastrophengebiete",
       "teaser": "Nach den Hurrikan-Zerstörungen haben Joe Biden und Kamala Harris ihre Besuche in betroffenen Gebieten begonnen. Beide machen in politisch umkämpften Bundesstaaten Halt.",
       "url": "https://www.zeit.de/politik/ausland/2024-10/hurrikan-helene-usa-besuche-biden-harris",
@@ -215,32 +228,25 @@
       "image_title": "Hurrikan Helene: Die demokratische US-Präsidentschaftskandidatin Kamala Harris besucht von Hurrikan «Helene» betroffenen Gebiete."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Champions League : Leipzig unterliegt Juventus Turin, Bayern verliert gegen Aston Villa",
-      "teaser": "Der RB Leipzig verliert trotz Überzahl und zweifacher Führung gegen Juventus Turin. Auch Bayern München unterliegt und bleibt bei Aston Villa ohne Tor. Die Spielberichte",
-      "url": "https://www.zeit.de/sport/2024-10/champions-league-mittwoch-rb-leipzig-juventus-turin-aston-villa-fc-bayern-muenchen",
-      "image_url": "https://img.zeit.de/sport/2024-10/champions-league-bayern-niederlage-aston-villa-bild/super__430x286",
-      "image_title": "Champions League: Fußball: Champions League, Aston Villa - Bayern München, Vorrunde, 2. Spieltag, Villa Park, Aston Villas Pau Torres (2.v.l) erzielt ein Abseitstor gegen Münchens Torhüter Manuel Neuer (l) und Harry Kane (M)."
+      "title": "Z+ (abopflichtiger Inhalt); Blaumachen : \"Meine Vorgesetzten haben es nicht anders verdient\"",
+      "teaser": "Sie melden sich krank, obwohl sie gesund sind – um den Urlaub zu verlängern oder einzukaufen: Menschen erzählen, warum sie im Job blaumachen und das völlig okay finden.",
+      "url": "https://www.zeit.de/arbeit/2024-08/blaumachen-arbeit-krankmeldung-ausreden-job",
+      "image_url": "https://img.zeit.de/arbeit/2024-08/blaumachen-arbeit-krankmeldung/super__430x286",
+      "image_title": "Blaumachen: \"Meine Vorgesetzten haben es nicht anders verdient\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Abschied von Verstorbenen : Liebe Mama",
-      "teaser": "Ich war 21, als du gestorben bist. Elf Jahre bin ich daran gescheitert, dir einen Grabstein zu besorgen. Bis jetzt.",
-      "url": "https://www.zeit.de/zeit-magazin/2024/41/abschied-verstorbene-mutter-grab-grabstein-trauer",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-09/abschied-verstorbene-mutter-grab-grabstein-trauer-bild/super__430x286",
-      "image_title": "Abschied von Verstorbenen: Liebe Mama"
+      "title": "Z+ (abopflichtiger Inhalt); Selbstdisziplin : Der Fünf-Minuten-Deal",
+      "teaser": "Er joggt, komme, was wolle: Als Ultramarathonläufer hat Norman Bücher eine eiserne Selbstdisziplin. Hier erklärt er, mit welchen Tricks er seinen Schmerzpunkt überwindet.",
+      "url": "https://www.zeit.de/sinn/2024-01/selbstdisziplin-norman-buecher-ultramarathon-tipps",
+      "image_url": "https://img.zeit.de/sinn/2024-01/selbstdisziplin-norman-buecher-ultramarathon/super__430x286",
+      "image_title": "Selbstdisziplin: Der Fünf-Minuten-Deal"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Texlock : \"Auf einmal stehst du als Betrügerin und Lügnerin da\"",
-      "teaser": "Auf diese Erfindung schien die Fahrradwelt gewartet zu haben: ein leichtes, sicheres Schloss, das keine Kratzer macht. Doch dann tauchte ein achtsekündiges Video auf.",
-      "url": "https://www.zeit.de/zeit-fuer-unternehmer/2024/03/texlock-fahrrad-schloss-innovation-alexandra-baum",
-      "image_url": "https://img.zeit.de/mobilitaet/2024-09/texlock-fahrrad-schloss-innovation-alexandra-baum-bild/super__430x286",
-      "image_title": "Texlock: Das Texlock-Schloss soll Räder nicht zerkratzen."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Cousinen und Cousins : Wie wichtig Cousins und Cousinen sind",
-      "teaser": "Die Deutschen haben immer weniger Cousins und Cousinen. Das ist ein herber Verlust. Denn ihre Rolle können weder Freunde noch andere Verwandte erfüllen.",
-      "url": "https://www.zeit.de/familie/2024-09/cousinen-cousins-verwandtschaft-beziehung-familie-freunde",
-      "image_url": "https://img.zeit.de/familie/2024-09/cousinen-cousins-verwandtschaft-beziehung-familie/super__430x286",
-      "image_title": "Cousinen und Cousins: Wie wichtig Cousins und Cousinen sind"
+      "title": "Z+ (abopflichtiger Inhalt); Schulnoten : Wie man dem Kind mit der Schule hilft – ohne ihm zu schaden",
+      "teaser": "Hausaufgabenhilfe, Zeugnisgeld: Eltern tun vieles, um ihre Kinder in der Schule zu unterstützen. Forschung zeigt: Manches davon wirkt sich negativ auf deren Leistung aus.",
+      "url": "https://www.zeit.de/wissen/2024-09/schulnoten-kinder-unterricht-nachhilfe-hausaufgaben",
+      "image_url": "https://img.zeit.de/wissen/2024-09/schulnoten-kinder-unterricht-nachhilfe-hausaufgaben-bild/super__430x286",
+      "image_title": "Schulnoten: Wie man dem Kind mit der Schule hilft – ohne ihm zu schaden"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Slack-Bot : Wie ich meine Chefin in einen Bot verwandelt habe",
@@ -250,18 +256,18 @@
       "image_title": "Slack-Bot: Wie ich meine Chefin in einen Bot verwandelt habe"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Champions League : Leipzig unterliegt Juventus Turin, Bayern verliert gegen Aston Villa",
+      "teaser": "Der RB Leipzig verliert trotz Überzahl und zweifacher Führung gegen Juventus Turin. Auch Bayern München unterliegt und bleibt bei Aston Villa ohne Tor. Die Spielberichte",
+      "url": "https://www.zeit.de/sport/2024-10/champions-league-mittwoch-rb-leipzig-juventus-turin-aston-villa-fc-bayern-muenchen",
+      "image_url": "https://img.zeit.de/sport/2024-10/champions-league-bayern-niederlage-aston-villa-bild/super__430x286",
+      "image_title": "Champions League: Fußball: Champions League, Aston Villa - Bayern München, Vorrunde, 2. Spieltag, Villa Park, Aston Villas Pau Torres (2.v.l) erzielt ein Abseitstor gegen Münchens Torhüter Manuel Neuer (l) und Harry Kane (M)."
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); EU und Großbritannien : EU und Großbritannien wollen sich wieder annähern",
       "teaser": "Viereinhalb Jahre nach dem Brexit gehen Großbritannien und die EU wieder aufeinander zu. In Brüssel plädierte Premier Keir Starmer für eine \"reifere Beziehung\".",
       "url": "https://www.zeit.de/politik/2024-10/grossbritannien-eu-ursula-von-der-leyen-keir-starmer",
       "image_url": "https://img.zeit.de/politik/ausland/2024-10/eu-und-grossbritannien-zusammenarbeit-bild/super__430x286",
       "image_title": "EU und Großbritannien: Britain's Prime Minister Keir Starmer and European Commission president Ursula von der Leyen speak to the press at the European Commission headquarters in Brussels, Belgium October 2, 2024. BENJAMIN CREMEL/Pool via REUTERS"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Liveticker: Champions League : Jetzt live: Bayern und Leipzig in der Champions League",
-      "teaser": "Der FC Bayern reist nach Birmingham zu Aston Villa. RB Leipzig empfängt den italienischen Rekordmeister Juventus Turin. Alle Spiele im Liveticker",
-      "url": "https://www.zeit.de/sport/championsleague-ticker",
-      "image_url": "https://img.zeit.de/sport/2016-09/champions-league-teaser/super__430x286",
-      "image_title": "Darum geht es: der Henkelpott"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Einleitung : 48 Monate Trump",
@@ -433,9 +439,9 @@
       "url": "https://www.zeit.de/gesundheit/2024-10/hamburg-marburg-virus-symptome-ruanda"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); TV-Duell : Vance und Walz streiten über Schwangerschaftsabbrüche und Migration",
-      "teaser": "In ihrem TV-Duell liefern sich die Kandidaten für das Amt des US-Vizepräsidenten einen Schlagabtausch. Dabei greifen sich J. D. Vance und Tim Walz zumeist inhaltlich an.",
-      "url": "https://www.zeit.de/politik/ausland/2024-10/tv-duell-tim-walz-jd-vance-usa-vize-praesidentschaft-praesidentenwahl"
+      "title": "Z+ (abopflichtiger Inhalt); Union und Grüne : Seid ihr noch ganz bei Trost?!",
+      "teaser": "Ein Bündnis mit den Grünen ausschließen? Ergibt aus Sicht der CDU eigentlich keinen Sinn. Warum es manche in der Partei trotzdem versprechen.",
+      "url": "https://www.zeit.de/kultur/2024-10/union-gruene-probleme-umgang-cdu-csu"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Krieg in Nahost : Israel verhängt Einreisesperre gegen UN-Generalsekretär Guterres",
@@ -686,18 +692,18 @@
       "image_title": "Freunde der ZEIT: 7 Tipps, die dabei helfen, das Gewicht zu halten"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Künstliche Intelligenz : OpenAI sammelt 6,5 Milliarden Dollar in neuer Finanzierungsrunde",
+      "teaser": "Thrive Capital, Nvidia, Microsoft und weitere Unternehmen investieren Milliarden in OpenAI. Apple soll sich gegen eine Finanzierung entschieden haben.",
+      "url": "https://www.zeit.de/digital/2024-10/open-ai-investoren-finanzierungsrunde-sam-altman",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-10/finanzierungsrunde-ki-unternehmen-openai-bild/wide__892x501",
+      "image_title": "Künstliche Intelligenz: This photograph taken in Mulhouse, eastern France on October 19, 2023, shows figurines next to the ChatGPT logo. (Photo by SEBASTIEN BOZON / AFP) (Photo by SEBASTIEN BOZON/AFP via Getty Images)"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Cybersicherheit : Verfassungsschutz warnt Firmen vor IT-Arbeitern aus Nordkorea",
       "teaser": "Nordkoreanische Agenten sollen unter Tarnnamen auf Onlineplattformen IT-Dienstleistungen anbieten. Der Verfassungsschutz sieht für Auftraggeber zahlreiche Risiken.",
       "url": "https://www.zeit.de/digital/2024-10/cybersicherheit-nordkorea-it-dienste-verfassungsschutz-warnung",
-      "image_url": "https://img.zeit.de/digital/2024-10/cybersicherheit-nordkorea-it-dienste-verfassungsschutz-warnung-2/wide__892x501",
+      "image_url": "https://img.zeit.de/digital/2024-10/cybersicherheit-nordkorea-it-dienste-verfassungsschutz-warnung-2/super__430x286",
       "image_title": "Cybersicherheit: Verfassungsschutz warnt Firmen vor IT-Arbeitern aus Nordkorea"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); US-Techkonzern : Bundeskartellamt stellt Microsoft unter verstärkte Aufsicht",
-      "teaser": "Die Marktmacht von Microsoft ist laut Kartellamt immens. Die Wettbewerbshüter wollen künftig stärker gegen wettbewerbsgefährdende Praktiken des Konzerns vorgehen.",
-      "url": "https://www.zeit.de/wirtschaft/2024-09/bundeskartellamt-microsoft-marktmacht-staerkere-aufsicht",
-      "image_url": "https://img.zeit.de/digital/2024-09/microsoft-kartellamt-aufsicht-marktmacht/super__430x286",
-      "image_title": "US-Techkonzern: In this photo illustration, a woman browses Microsoft Bing website on her laptop. (Photo by Serene Lee / SOPA Images/ddp/Sipa USA) *** Strictly for editorial news purposes only ***"
     },
     {
       "title": "An dieser Stelle ist ein externer Inhalt eingebunden",
@@ -909,36 +915,36 @@
       "image_url": "https://img.zeit.de/administratives/2015-10/zeit-shop-bilder/kug-neu.jpg/super__320x213"
     },
     {
-      "title": "Flüchtlinge: Verband: Kreise können Bezahlkarte noch dieses Jahr ausgeben",
-      "url": "https://www.zeit.de/news/2024-10/03/verband-kreise-koennen-bezahlkarte-noch-dieses-jahr-ausgeben"
+      "title": "Migration: Landesbischof: Themen Asyl und Migration nicht vermischen",
+      "url": "https://www.zeit.de/news/2024-10/03/landesbischof-themen-asyl-und-migration-nicht-vermischen"
     },
     {
-      "title": "Wein: CDU will Winzern mit Sieben-Punkte-Programm helfen",
-      "url": "https://www.zeit.de/news/2024-10/03/cdu-will-winzern-mit-sieben-punkte-programm-helfen"
+      "title": "Zum 7. Oktober: «Viele Dinge richtig gemacht»: Trainer-Legende Geyer wird 80",
+      "url": "https://www.zeit.de/news/2024-10/03/viele-dinge-richtig-gemacht-trainer-legende-geyer-wird-80"
     },
     {
-      "title": "Fotografie: Bilder des Tages",
-      "url": "https://www.zeit.de/news/2024-10/03/bilder-des-tages"
+      "title": "Champions League: RB Leipzig frustriert und enttäuscht nach 2:3 gegen Juve",
+      "url": "https://www.zeit.de/news/2024-10/03/rb-leipzig-frustriert-und-enttaeuscht-nach-2-3-gegen-juve"
     },
     {
-      "title": "Unfall: Sechsjährige bei Zusammenstoß mit Fahrzeug schwer verletzt",
-      "url": "https://www.zeit.de/news/2024-10/03/sechsjaehrige-bei-zusammenstoss-mit-fahrzeug-schwer-verletzt"
+      "title": "Conference League: Heidenheims Dorsch will auch mal international jubeln",
+      "url": "https://www.zeit.de/news/2024-10/03/heidenheims-dorsch-will-auch-mal-international-jubeln"
     },
     {
-      "title": "Kriminalität: Großeinsatz nach Schüssen in Göppinger Innenstadt",
-      "url": "https://www.zeit.de/news/2024-10/03/grosseinsatz-nach-schuessen-in-goeppinger-innenstadt"
+      "title": "Erntebilanz in Bayern: Tonnenweise Getreide, Kartoffeln, Obst",
+      "url": "https://www.zeit.de/news/2024-10/03/tonnenweise-getreide-kartoffeln-obst"
     },
     {
-      "title": "Krieg in Nahost: Israel greift erneut Beiruter Vorort an",
-      "url": "https://www.zeit.de/news/2024-10/03/israel-greift-erneut-beiruter-vorort-an"
+      "title": "Brauchtum: Die Wiesn wird jünger",
+      "url": "https://www.zeit.de/news/2024-10/03/die-wiesn-wird-juenger"
     },
     {
-      "title": "«Friends»-Star: Drogentod von Matthew Perry - Arzt bekennt sich schuldig",
-      "url": "https://www.zeit.de/news/2024-10/03/drogentod-von-matthew-perry-arzt-bekennt-sich-schuldig"
+      "title": "Großeinsatz der Polizei: Ein Toter und zwei Verletzte nach Schüssen in Göppinger Bar",
+      "url": "https://www.zeit.de/news/2024-10/03/schuesse-in-goeppinger-bar-ein-toter-und-zwei-verletzte"
     },
     {
-      "title": "Immobilien: Dobrindt: Union will nach Wahlsieg Erbschaftsteuer senken",
-      "url": "https://www.zeit.de/news/2024-10/03/dobrindt-union-will-nach-wahlsieg-erbschaftsteuer-senken"
+      "title": "Krankheit: Marburg-Virus in Hamburg? Was wir wissen und was nicht",
+      "url": "https://www.zeit.de/news/2024-10/03/marburg-virus-in-hamburg-was-wir-wissen-und-was-nicht"
     }
   ]
 }
