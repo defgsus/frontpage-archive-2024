@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-04T08:09:54",
+  "timestamp": "2024-10-04T09:07:43",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -14,6 +14,12 @@
     {
       "type": null,
       "src": "https://static.zeit.de/p/zeit.web/js/colorscheme.3e111d9ecb733d028b0c.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
       "id": null,
       "text": null
     },
@@ -112,7 +118,7 @@
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Liveblog:Krieg in Nahost : Iranischer Außenminister trifft libanesische Vertreter in Beirut",
-      "teaser": "Kurz nach heftigem israelischen Beschuss ist Irans Außenminister Abbas Aragschi im Libanon gelandet. Für viele Orte in Nordisrael gilt Raketenalarm. Das Liveblog",
+      "teaser": "Kurz nach heftigem israelischen Beschuss ist Irans Außenminister Abbas Aragchi im Libanon gelandet. Für viele Orte in Nordisrael gilt Raketenalarm. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/2023-12/news-israel-gaza-krieg-live",
       "image_url": "https://img.zeit.de/politik/ausland/2024-10/iranischer-aussenminister-trifft-libanesische-vertreter-in-beirut-bild/super__430x286",
       "image_title": "Krieg in Nahost: Iran's new foreign minister, Abbas Araghchi, waits for the arrival of his Qatari counterpart before their meeting in Tehran on August 26, 2024."
@@ -132,11 +138,11 @@
       "image_title": "Eine Demonstration von Rechtsextremen: Teilnehmer zeigen ein Plakat mit der Aufschrift \"Remigration jetzt!\"."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Beruf-O-Mat • Das Beste aus Z+ : Welcher Beruf passt zu Ihnen?",
-      "teaser": "Viele Menschen sind unzufrieden mit ihren Aufgaben, Gehältern, Arbeitszeiten. Zeit, Fragen zu stellen! Finden Sie mit dem Job-O-Mat raus, welcher Beruf zu Ihnen passt.",
-      "url": "https://www.zeit.de/arbeit/2024-09/beruf-o-mat-berufseinstieg-jobsuche-aufgaben",
-      "image_url": "https://img.zeit.de/arbeit/2024-09/beruf-o-mat-berufseinstieg-jobsuche-aufgaben-bild-3/super__430x286",
-      "image_title": "Beruf-O-Mat • Das Beste aus Z+: Welcher Beruf passt zu Ihnen?"
+      "title": "Z+ (abopflichtiger Inhalt); \"Schwäbische Zeitung\" • Z+ Empfehlung : Turbulenter Kurswechsel",
+      "teaser": "Ist die \"Schwäbische Zeitung\" zur Bühne für die AfD und Querdenker geworden? In der Redaktion ist ein Streit eskaliert, der auch anderen Lokalblättern drohen könnte.",
+      "url": "https://www.zeit.de/kultur/2024-10/schwaebische-zeitung-afd-querdenker-lokaljournalismus-nordkurier",
+      "image_url": "https://img.zeit.de/kultur/2024-10/schwaebische-zeitung-flugzeug/super__430x286",
+      "image_title": "\"Schwäbische Zeitung\" • Z+ Empfehlung: Turbulenter Kurswechsel"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); ÖVP : Werdet’s vernünftig!",
@@ -160,39 +166,25 @@
       "image_title": "Massentourismus: Wie Airbnbs europäische Städte überfordern"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Männerwohnungen : \"Wir zeigen nur die Zimmer der schmutzigsten Jungs\"",
-      "teaser": "Bis zu drei Millionen Menschen schauen Rachel Coster auf Instagram und TikTok zu, wenn sie die chaotischen Wohnungen junger Männer inspiziert. Was fasziniert sie daran?",
-      "url": "https://www.zeit.de/zeit-magazin/2024/42/maennerwohnungen-einrichtung-rachel-coster-comedy",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024/42/oh-boy-bild-1/super__430x286",
-      "image_title": "Männerwohnungen: Bei Instagram sind diese Bilder von @boyroomshow zu sehen. Einige der hier gezeigten Zimmer haben es auch in Rachel Costers Videos geschafft"
+      "title": "Z+ (abopflichtiger Inhalt); Älterwerden • Das Beste aus Z+ : Warum ist 40 werden so scheiße?",
+      "teaser": "Unser Autor kam mit dem Älterwerden lange klar. Doch je näher die 40 rückt, desto deutlicher wird: Der Abstieg hat begonnen. Fünf Erkenntnisse gegen die Midlife-Crisis",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2024-09/aelterwerden-alter-midlife-crisis-40-jahre",
+      "image_url": "https://img.zeit.de/zeit-magazin/leben/2024-09/aelterwerden-alter-midlife-crisis-40-jahre-lampe/super__430x286",
+      "image_title": "Älterwerden • Das Beste aus Z+: Warum ist 40 werden so scheiße?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Mikroben : Weißt du, was du isst?",
-      "teaser": "Überall finden sich Bakterien und Pilze – auch in unserem Essen. Ein Forschungsteam untersucht, was dort alles lebt. Und, was Probiotika bringen.",
-      "url": "https://www.zeit.de/2024/42/mikroben-ernaehrung-fermentation-lebensmittel",
-      "image_url": "https://img.zeit.de/2024/42/frisch-erforscht-teaserbild/super__430x286",
-      "image_title": "Mikroben: Milchsäurebakterien etwa wandeln bei der Käse Herstellung Zucker aus der Milch in Milchsäure um – die Milch wird dicker."
+      "title": "Z+ (abopflichtiger Inhalt); Restmüll : Sauber trennen, bitte!",
+      "teaser": "Im Restmüll landen zu viele Lebensmittel und Stoffe wie Glas und Elektronikschrott, die gut recycelt werden könnten. Worauf muss ich bei der Mülltrennung wirklich achten?",
+      "url": "https://www.zeit.de/2024/42/restmuell-muelltrennung-wertstoffe-biomuell-recycling",
+      "image_url": "https://img.zeit.de/2024/42/restmuell-muelltrennung-wertstoffe-bild/super__430x286",
+      "image_title": "Restmüll: Organischer Abfall landet laut dem Umweltbundesamt besonders oft in der schwarzen Tonne."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Felix Klein : Antisemitismusbeauftragter beobachtet \"Tsunami an Antisemitismus\"",
-      "teaser": "Jüdisches Leben ist laut Felix Klein so stark unter Druck wie nie seit 1949. Seit dem Hamas-Überfall auf Israel äußere sich der Antisemitismus noch aggressiver.",
-      "url": "https://www.zeit.de/gesellschaft/2024-10/antisemitismus-deutschland-tsunami-klein",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-10/antisemitismus-deutschland-tsunami-klein-bild/super__430x286",
-      "image_title": "Felix Klein: Beschreibung Felix Klein, Beauftragter der Bundesregierung für jüdisches Leben in Deutschland und den Kampf gegen Antisemitismus, gibt eine Pressekonferenz zu Antisemitismus in Deutschland nach dem 7. Oktober 2023 im Haus der Bundespressekonferenz. Service +++ dpa-Bildfunk +++ Aufnahmedatum 25.01.2024 Bildnachweis picture alliance/dpa |cKay Nietfeld"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Migration : Die sogenannte \"Remigration\" ist längst Realität",
-      "teaser": "Die AfD hat sich bei der Migrationspolitik im Grunde durchgesetzt: Die verschärfte Migrationspolitik führt dazu, dass viele Deutschland verlassen. Ein riesiger Schaden",
-      "url": "https://www.zeit.de/wirtschaft/2024-10/migration-asylpolitik-afd-union-bundesregierung",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-10/migrationspolitik-kritik/super__430x286",
-      "image_title": "Eine Demonstration von Rechtsextremen: Teilnehmer zeigen ein Plakat mit der Aufschrift \"Remigration jetzt!\"."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Union und Grüne : Mehrheit der CDU-Landesverbände offen für Schwarz-Grün",
-      "teaser": "Die meisten Landesverbände der CDU wollen eine schwarz-grüne Koalition nach der Bundestagswahl nicht ausschließen. Die Zweifel an einem solchen Bündnis sind aber groß.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-10/mehrheit-cdu-landesverbaende-offen-schwarz-gruen",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-10/mehrheit-der-cdu-landesverbaende-offen-fuer-schwarz-gruen/super__430x286",
-      "image_title": "Union und Grüne: The logo of the German Christian Democrats (CDU) hangs illuminated at the CDU party headquarters where inside the party leadership and CDU leader Armin Laschet were convening on April 19, 2021 in Berlin, Germany. The party leadership is meeting to possibly make a final choice of who will be the candidate for chancellor: Laschet, or Markus Soeder, head of the CDU's Bavarian sister party, the CSU. The two men have been locked in a standoff over the issue. Soeder, following a meeting of the CSU today in Munich, said in a statement he is still seeking the candidacy but will let the CDU decide. The two parties are aligned in what in German political speak is referred to as \"the Union\" and the two parties traditionally run on a single candidate for chancellor."
+      "title": "Z+ (abopflichtiger Inhalt); Deutsche Wirtschaft : Die Krise kommt am Arbeitsmarkt an",
+      "teaser": "Egal wie schlecht die Wirtschaft lief, der Arbeitsmarkt zeigte sich bislang erstaunlich stabil. Das ändert sich jetzt. Und darauf ist Deutschland nicht gut vorbereitet.",
+      "url": "https://www.zeit.de/wirtschaft/2024-09/rbeitsmarkt-deutsche-wirtschaft-kurzarbeit-arbeitslosigkeit-stellenangebote-fruehindikatoren",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-09/arbeitsmarkt-deutsche-wirtschaft-kurzarbeit-arbeitslosigkeit-stellenangebote-fruehindikatoren-bild/super__430x286",
+      "image_title": "Deutsche Wirtschaft: Die Krise kommt am Arbeitsmarkt an"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Prävention von Demenz : So viel Einfluss haben wir auf unsere Hirngesundheit",
@@ -209,18 +201,25 @@
       "image_title": "Wohnorte in Deutschland: Wo soll ich wohnen?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Deutsche Wirtschaft : Die Krise kommt am Arbeitsmarkt an",
-      "teaser": "Egal wie schlecht die Wirtschaft lief, der Arbeitsmarkt zeigte sich bislang erstaunlich stabil. Das ändert sich jetzt. Und darauf ist Deutschland nicht gut vorbereitet.",
-      "url": "https://www.zeit.de/wirtschaft/2024-09/rbeitsmarkt-deutsche-wirtschaft-kurzarbeit-arbeitslosigkeit-stellenangebote-fruehindikatoren",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-09/arbeitsmarkt-deutsche-wirtschaft-kurzarbeit-arbeitslosigkeit-stellenangebote-fruehindikatoren-bild/super__430x286",
-      "image_title": "Deutsche Wirtschaft: Die Krise kommt am Arbeitsmarkt an"
+      "title": "Z+ (abopflichtiger Inhalt); Coldplay & The Smile : Qualverwandtschaften",
+      "teaser": "Thom Yorke und Chris Martin gelten als Gegenpole der Popwelt – obwohl ihre Bands The Smile und Coldplay viel gemeinsam haben. Nun auch: den Erscheinungstag neuer Alben.",
+      "url": "https://www.zeit.de/kultur/musik/2024-09/musik-neuerscheinungen-coldplay-moon-music-the-smile-cutouts",
+      "image_url": "https://img.zeit.de/kultur/musik/2024-09/coldplay/wide__892x501",
+      "image_title": "Coldplay & The Smile: Öhm, waren bei Coldplay schon immer Zwillinge dabei?! Die Band und ihr Regenbogenmacher Chris Martin (rechts)"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Anastasia-Bewegung : Auf russischer Propagandatour durch die Republik",
       "teaser": "Eine russische Influencerin hat in Deutschland dafür geworben, Landsitze in der Natur zu gründen. Dahinter steht die rechtsesoterische Anastasia-Bewegung.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-10/anastasia-bewegung-russische-propaganda-influencerin-deutschland",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-10/anastasia-bewegung-russische-propaganda-influencerin/wide__892x501",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-10/anastasia-bewegung-russische-propaganda-influencerin/super__430x286",
       "image_title": "Anastasia-Bewegung: Auf russischer Propagandatour durch die Republik"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Nordkorea : Kim Jong Un droht mit Einsatz von Atomwaffen",
+      "teaser": "Nordkoreas Staatschef hat das Ausland davor gewarnt, die Souveränität seines Landes zu verletzen. In dem Fall werde er nicht zögern, auch Atomwaffen einzusetzen.",
+      "url": "https://www.zeit.de/politik/ausland/2024-10/nordkorea-suedkorea-nuklearwaffen-kim-jong-un",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-10/nordkorea-kim-droht-verletzung-souveraenitaet-nuklearwaffen-bild/super__430x286",
+      "image_title": "Nordkorea: In this pool photograph distributed by the Russian state agency Sputnik, North Korea's leader Kim Jong Un looks on, at the Pyongyang International Airport in Pyongyang, on June 19, 2024."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Einleitung : 48 Monate Trump",
@@ -363,18 +362,18 @@
       "image_title": "Folge 17: Mai 2018: US President Donald Trump responds to a reporter's question on domestic violence following a working session regarding \"opportunity zones\" following the recently signed tax bill in the Oval Office of the White House on February 14, 2018 in Washington, DC. (Photo by MANDEL NGAN / AFP) (Photo by MANDEL NGAN/AFP via Getty Images)"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Lassana Diarra : Ein Fall, der das Fußballsystem verändern könnte",
-      "teaser": "Der französische Ex-Profispieler Lassana Diarra klagt gegen die Fifa. Der Fall könnte das Fußballgeschäft so verändern wie einst das Bosman-Urteil.",
-      "url": "https://www.zeit.de/sport/2024-10/lassana-diarra-eugh-urteil",
-      "image_url": "https://img.zeit.de/sport/2024-10/lassana-diarra/super__430x286",
-      "image_title": "Lassana Diarra: Ein Fall, der das Fußballsystem verändern könnte"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); \"Und was machst Du am Wochenende?\" : \"Das deutsche Kino ist mehr oder weniger tot\"",
       "teaser": "Der Schauspieler Fabian Hinrichs geht aus Würdegründen nicht mehr tanzen – immerhin wird er jetzt 50 – und kennt sich aus mit leisen Hotels.",
       "url": "https://www.zeit.de/entdecken/2024-10/fabian-hinrichs-schauspieler-wochenende-tipps-podcast",
-      "image_url": "https://img.zeit.de/entdecken/2024-10/fabian-hinrichs-wochenendpodcast/wide__892x501",
+      "image_url": "https://img.zeit.de/entdecken/2024-10/fabian-hinrichs-wochenendpodcast/super__430x286",
       "image_title": "\"Und was machst Du am Wochenende?\": Der Schauspieler Fabian Hinrichs"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Beruf-O-Mat • Das Beste aus Z+ : Welcher Beruf passt zu Ihnen?",
+      "teaser": "Viele Menschen sind unzufrieden mit ihren Aufgaben, Gehältern, Arbeitszeiten. Zeit, Fragen zu stellen! Finden Sie mit dem Job-O-Mat raus, welcher Beruf zu Ihnen passt.",
+      "url": "https://www.zeit.de/arbeit/2024-09/beruf-o-mat-berufseinstieg-jobsuche-aufgaben",
+      "image_url": "https://img.zeit.de/arbeit/2024-09/beruf-o-mat-berufseinstieg-jobsuche-aufgaben-bild-3/super__430x286",
+      "image_title": "Beruf-O-Mat • Das Beste aus Z+: Welcher Beruf passt zu Ihnen?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Liebe im Alltag : Wie zeigen Sie Ihre Liebe im Alltag?",
@@ -384,18 +383,11 @@
       "image_title": "Liebe im Alltag: Wie zeigen Sie Ihre Liebe im Alltag?"
     },
     {
-      "title": "Diese Woche in der ZEIT : Das Staatsversagen",
-      "teaser": "Kein Mensch kann mehr verlässlich einen Termin ausmachen, wenn er auf die Bahn angewiesen ist. Soll das auf Jahre so bleiben? Und was würde jetzt helfen?",
-      "url": "https://premium.zeit.de/abo/diezeit?aktionsnummer=1130785&wt_zmc=fix.int.zonpme.zeitde.epaper.z+.home.bildtext.bildtext&utm_medium=fix&utm_source=zeitde_zonpme_int&utm_campaign=epaper&utm_content=z+_home_bildtext_bildtext?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.link.link&utm_medium=cross&utm_source=zeitde_zonpme_int&utm_campaign=printbox&utm_content=ausgseite_bildtext_link_link",
-      "image_url": "https://img.zeit.de/2024/packshot-24-42-1000x620/super__430x286",
-      "image_title": "Diese Woche in der ZEIT: Das Staatsversagen"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Schwäbische Zeitung\" : Turbulenter Kurswechsel",
+      "title": "Z+ (abopflichtiger Inhalt); \"Schwäbische Zeitung\" • Z+ Empfehlung : Turbulenter Kurswechsel",
       "teaser": "Ist die \"Schwäbische Zeitung\" zur Bühne für die AfD und Querdenker geworden? In der Redaktion ist ein Streit eskaliert, der auch anderen Lokalblättern drohen könnte.",
       "url": "https://www.zeit.de/kultur/2024-10/schwaebische-zeitung-afd-querdenker-lokaljournalismus-nordkurier",
       "image_url": "https://img.zeit.de/kultur/2024-10/schwaebische-zeitung-flugzeug/super__430x286",
-      "image_title": "\"Schwäbische Zeitung\": Turbulenter Kurswechsel"
+      "image_title": "\"Schwäbische Zeitung\" • Z+ Empfehlung: Turbulenter Kurswechsel"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Freundschaft zwischen Ex-Partnern : Die Beziehung nach der Beziehung",
@@ -420,9 +412,9 @@
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-10/frieden-demonstration-wagenknecht-stegner-berlin"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); \"Schwäbische Zeitung\" : Turbulenter Kurswechsel",
-      "teaser": "Ist die \"Schwäbische Zeitung\" zur Bühne für die AfD und Querdenker geworden? In der Redaktion ist ein Streit eskaliert, der auch anderen Lokalblättern drohen könnte.",
-      "url": "https://www.zeit.de/kultur/2024-10/schwaebische-zeitung-afd-querdenker-lokaljournalismus-nordkurier"
+      "title": "Z+ (abopflichtiger Inhalt); Friedensdemo in Berlin : Wagenknecht wirft Baerbock vor, ein \"Sicherheitsrisiko\" zu sein",
+      "teaser": "Sahra Wagenknecht kritisiert die Außenministerin und andere Ukraine-Unterstützer. Ein Appell ostdeutscher Spitzenpolitiker von CDU und SPD bewegt sich in Richtung BSW.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-10/friedensdemo-berlin-nie-wieder-krieg-ukraine-gaza-sahra-wagenknecht"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Friedensdemo in Berlin : Wagenknecht wirft Baerbock vor, ein \"Sicherheitsrisiko\" zu sein",
@@ -442,6 +434,20 @@
       "url": "https://www.zeit.de/politik/deutschland/2024-10/schwerin-tag-der-deutschen-einheit-auftakt"
     },
     {
+      "title": "Verlagsangebot : Das Sprachtandem der besonderen Art – von ZEIT SPRACHEN",
+      "teaser": "It’s time to talk! Sprechen Sie mit einem anderen Leser über die US-Wahl. Ihre Englischkenntnisse müssen nicht perfekt sein. Jetzt kostenlos ausprobieren!",
+      "url": "https://zeit-sprachen.de/talks/?utm_campaign=talks&utm_source=zeitonline&utm_medium=button",
+      "image_url": "https://img.zeit.de/angebote/zeit-sprachen/zeit-sprachen-talks/super__430x286",
+      "image_title": "Das Sprachtandem der besonderen Art – von ZEIT SPRACHEN"
+    },
+    {
+      "title": "Diese Woche in der ZEIT : Das Staatsversagen",
+      "teaser": "Kein Mensch kann mehr verlässlich einen Termin ausmachen, wenn er auf die Bahn angewiesen ist. Soll das auf Jahre so bleiben? Und was würde jetzt helfen?",
+      "url": "https://premium.zeit.de/abo/diezeit?aktionsnummer=1130785&wt_zmc=fix.int.zonpme.zeitde.epaper.z+.home.bildtext.bildtext&utm_medium=fix&utm_source=zeitde_zonpme_int&utm_campaign=epaper&utm_content=z+_home_bildtext_bildtext?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.link.link&utm_medium=cross&utm_source=zeitde_zonpme_int&utm_campaign=printbox&utm_content=ausgseite_bildtext_link_link",
+      "image_url": "https://img.zeit.de/2024/packshot-24-42-1000x620/super__430x286",
+      "image_title": "Diese Woche in der ZEIT: Das Staatsversagen"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Kampnagel : Von jetzt an nur noch aufwärts",
       "teaser": "Die Hamburger Kulturfabrik Kampnagel soll saniert und erweitert werden – aber auch ihren rauen Industriecharme behalten. Geht das?",
       "url": "https://www.zeit.de/2024/41/kampnagel-sanierung-hamburg-theater",
@@ -456,18 +462,18 @@
       "image_title": "Friedensdemo: Sahra Wagenknecht bei Ihrem Auftritt auf der Abschlusskundgebung an der Siegessäule."
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Ukrainekarte aktuell : Russische Truppen rücken weiter auf die Stadt Pokrowsk vor",
+      "teaser": "In der Region Donezk haben russische Streitkräfte weiteres Gelände besetzt. Ukrainische Truppen haben offenbar einen russischen Militärflughafen in Brand gesetzt.",
+      "url": "https://www.zeit.de/politik/ausland/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen-teaserbild/wide__892x501",
+      "image_title": "Ukrainekarte aktuell: Russische Truppen rücken weiter auf die Stadt Pokrowsk vor"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Gesamthaushalt : Staatsschulden steigen im ersten Halbjahr weiter",
       "teaser": "Der Bund hat den größten Anteil am Defizit der öffentlichen Haushalte. Zuletzt fehlten 68,4 Milliarden Euro. Mehrausgaben entstanden auch durch Militärausgaben.",
       "url": "https://www.zeit.de/politik/deutschland/2024-10/staatsschulden-deutschland-bund-laender-kommunen-defizit",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-10/verschuldung-deutscher-staat-gestiegen-bild/wide__892x501",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-10/verschuldung-deutscher-staat-gestiegen-bild/super__430x286",
       "image_title": "Gesamthaushalt: Ein Fahrradfahrer fährt am Finanzministerium vorbei. Berlin, 22.11.2023"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Nordkorea : Kim Jong Un droht mit Einsatz von Atomwaffen",
-      "teaser": "Nordkoreas Staatschef hat das Ausland davor gewarnt, die Souveränität seines Landes zu verletzen. In dem Fall werde er nicht zögern, auch Atomwaffen einzusetzen.",
-      "url": "https://www.zeit.de/politik/ausland/2024-10/nordkorea-suedkorea-nuklearwaffen-kim-jong-un",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-10/nordkorea-kim-droht-verletzung-souveraenitaet-nuklearwaffen-bild/super__430x286",
-      "image_title": "Nordkorea: In this pool photograph distributed by the Russian state agency Sputnik, North Korea's leader Kim Jong Un looks on, at the Pyongyang International Airport in Pyongyang, on June 19, 2024."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); US-Außenhandel : Hafenarbeiter an US-Ostküste beenden Streik nach vorläufiger Einigung",
@@ -512,11 +518,11 @@
       "image_title": "Bonner Siebengebirgsschule: Wenn den Schülern das Lernen zu viel wird, können sie sich eine Auszeit mit Bewegung gönnen"
     },
     {
-      "title": "Agrarkonzern in der Krise : Fünf Grafiken zeigen, wie es um BayWa steht",
-      "teaser": "Der BayWa-Umsatz ging deutlich zurück. Ein Verkauf der Anteile an der Erneuerbare-Energien-Tochter steht zur Debatte. Im Vorstand soll es aber Bedenken geben.",
-      "url": "https://www.wiwo.de/unternehmen/industrie/agrarkonzern-in-der-krise-fuenf-grafiken-zeigen-wie-es-um-baywa-steht/30019196.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/100-pro-imago-life-2-556842459-highres/30022488/2-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
-      "image_title": "Fünf Grafiken zeigen, wie es um BayWa steht"
+      "title": "Streit um Strafzölle : Scholz kuscht im Zollstreit – und das ist ganz nach Pekings Geschmack",
+      "teaser": "Olaf Scholz will heute gegen die Ausgleichszölle auf E-Autos aus China stimmen. Damit tut er der deutschen Autoindustrie keinen Gefallen. Ein Kommentar.",
+      "url": "https://www.wiwo.de/politik/europa/streit-um-strafzoelle-scholz-kuscht-im-zollstreit-und-das-ist-ganz-nach-pekings-geschmack-/30023736.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/bundeskanzler-beim-buergerdialog/30023756/2-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
+      "image_title": "Scholz kuscht im Zollstreit – und das ist ganz nach Pekings Geschmack"
     },
     {
       "title": "Rikscha-Fahrer vom Oktoberfest : „Während des Oktoberfests ist München das größte Bordell Europas“",
@@ -624,25 +630,18 @@
       "image_title": "Wissenspodcast: Mein Smartphone und ich beim Paartherapeuten"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Mikroben : Weißt du, was du isst?",
+      "teaser": "Überall finden sich Bakterien und Pilze – auch in unserem Essen. Ein Forschungsteam untersucht, was dort alles lebt. Und, was Probiotika bringen.",
+      "url": "https://www.zeit.de/2024/42/mikroben-ernaehrung-fermentation-lebensmittel",
+      "image_url": "https://img.zeit.de/2024/42/frisch-erforscht-teaserbild/wide__892x501",
+      "image_title": "Mikroben: Milchsäurebakterien etwa wandeln bei der Käse Herstellung Zucker aus der Milch in Milchsäure um – die Milch wird dicker."
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Donald Trump : \"Trump ist besser vorbereitet als 2016\"",
       "teaser": "Die Macht der US-Präsidenten ist groß. Nach einem Wahlsieg könnte Donald Trump das Land hin zu einer Diktatur formen, sagt der Politikwissenschaftler Stephan Bierling.",
       "url": "https://www.zeit.de/zeit-geschichte/2024/05/donald-trump-republikaner-wahl-ausgang-reaktion-stephan-bierling",
-      "image_url": "https://img.zeit.de/wissen/geschichte/2024-10/donald-trump-republikaner-wahl-ausgang-reaktion-stephan-bierling-bild/wide__892x501",
+      "image_url": "https://img.zeit.de/wissen/geschichte/2024-10/donald-trump-republikaner-wahl-ausgang-reaktion-stephan-bierling-bild/super__430x286",
       "image_title": "Donald Trump: WACO, TEXAS - MARCH 25: Former U.S. President Donald Trump dances while exiting after speaking during a rally at the Waco Regional Airport on March 25, 2023 in Waco, Texas."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Freundschaft zwischen Ex-Partnern : Die Beziehung nach der Beziehung",
-      "teaser": "Mit dem Ex Freunde bleiben scheint oft unmöglich. Das hat auch mit dem Hormon CRF zu tun. Was die Forschung darüber weiß, wie so eine Beziehung dennoch gelingt.",
-      "url": "https://www.zeit.de/wissen/2024-10/freundschaft-ex-partner-beziehung-queer-hetero-studie",
-      "image_url": "https://img.zeit.de/wissen/2024-10/freundschaft-ex-partner-beziehung-queer-hetero-studie-bild/super__430x286",
-      "image_title": "Freundschaft zwischen Ex-Partnern: Die Beziehung nach der Beziehung"
-    },
-    {
-      "title": "Verlagsangebot : Das Sprachtandem der besonderen Art – von ZEIT SPRACHEN",
-      "teaser": "It’s time to talk! Sprechen Sie mit einem anderen Leser über die US-Wahl. Ihre Englischkenntnisse müssen nicht perfekt sein. Jetzt kostenlos ausprobieren!",
-      "url": "https://zeit-sprachen.de/talks/?utm_campaign=talks&utm_source=zeitonline&utm_medium=button",
-      "image_url": "https://img.zeit.de/angebote/zeit-sprachen/zeit-sprachen-talks/super__430x286",
-      "image_title": "Das Sprachtandem der besonderen Art – von ZEIT SPRACHEN"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Mpox : Mehr als 800 Tote durch Mpox-Virus in Afrika seit Januar",
@@ -682,16 +681,16 @@
     {
       "title": "An dieser Stelle ist ein externer Inhalt eingebunden",
       "teaser": "Zum Anschauen benötigen wir Ihre Zustimmung",
-      "url": "https://www.zeit.de/politik/ausland/2024-10/j-d-vance-tim-walz-tv-debatte-us-wahlkampf",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-10/vance-vs-walz-tv-duell-zusammenschnitt/wide__892x501",
-      "image_title": "J. D. Vance gegen Tim Walz: Sehen Sie hier die wichtigsten Momente der TV-Debatte"
+      "url": "https://www.zeit.de/politik/ausland/2024-09/us-wahlsystem-bundesstaaten-parteien-waehlerstimmen",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/us-wahl-explainer/wide__892x501",
+      "image_title": "US-Wahlsystem: Wie das US-Wahlsystem funktioniert"
     },
     {
-      "title": "Berlin : Tausende Teilnehmer bei Friedensdemo in Berlin",
-      "teaser": "Bei einer Friedensdemo in Berlin haben Tausende gegen Krieg und Waffenlieferungen demonstriert. Sie forderten Verhandlungen mit Russland sowie ein Ende des Gaza-Kriegs.",
-      "url": "https://www.zeit.de/video/2024-10/6362829922112/berlin-tausende-teilnehmer-bei-friedensdemo-in-berlin",
-      "image_url": "https://img.zeit.de/video/2024-10/6362829922112-still/super__430x286",
-      "image_title": "Berlin: Tausende Teilnehmer bei Friedensdemo in Berlin"
+      "title": "Krieg in der Ukraine : Neuer NATO-Generalsekretär Rutte trifft Selenskyj in Kiew",
+      "teaser": "Der neue NATO-Generalsekretär Mark Rutte hat auf seiner ersten Auslandsreise die Ukraine besucht. Dort sicherte er Präsident Wolodymyr Selenskyj seine Unterstützung zu.",
+      "url": "https://www.zeit.de/video/2024-10/6362826658112/krieg-in-der-ukraine-neuer-nato-generalsekretaer-rutte-trifft-selenskyj-in-kiew",
+      "image_url": "https://img.zeit.de/video/2024-10/6362826658112-still/super__430x286",
+      "image_title": "Krieg in der Ukraine: Neuer NATO-Generalsekretär Rutte trifft Selenskyj in Kiew"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Oktoberfest : Rettet den Wiesnhit!",
@@ -813,11 +812,11 @@
       "image_title": "Europa League: Omar Marmoush bejubelt sein Tor gegen Besiktas."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Radsport : Radprofi Simon Geschke nimmt in Münster Abschied von seinen Fans",
-      "teaser": "Der Münsterland Giro war das letzte Rennen von Simon Geschke, der bei der Tour de France fast das Bergtrikot gewonnen hätte. Mit 38 Jahren macht \"Simoni\" nun Schluss.",
-      "url": "https://www.zeit.de/sport/2024-10/simon-geschke-karriere-ende-radsport",
-      "image_url": "https://img.zeit.de/sport/2024-10/letztes-rennen-radsportler-simon-geschke-bild-2/super__430x286",
-      "image_title": "Radsport: Simon Geschke im Trikot der französischen Cofidis-Mannschaft bei seinem letzten Rennen, dem Münsterland-Giro 2024"
+      "title": "Z+ (abopflichtiger Inhalt); Lassana Diarra : Ein Fall, der das Fußballsystem verändern könnte",
+      "teaser": "Der französische Ex-Profispieler Lassana Diarra klagt gegen die Fifa. Der Fall könnte das Fußballgeschäft so verändern wie einst das Bosman-Urteil.",
+      "url": "https://www.zeit.de/sport/2024-10/lassana-diarra-eugh-urteil",
+      "image_url": "https://img.zeit.de/sport/2024-10/lassana-diarra/super__430x286",
+      "image_title": "Lassana Diarra: Ein Fall, der das Fußballsystem verändern könnte"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Marburg-Virus : Hamburger Behörde gab Entwarnung erst nach Stunden bekannt",
@@ -889,36 +888,36 @@
       "image_url": "https://img.zeit.de/administratives/2015-10/zeit-shop-bilder/kug-neu.jpg/super__320x213"
     },
     {
-      "title": "Landessozialgericht: Grundsicherungsempfänger müssen Schöffenbezüge angeben",
-      "url": "https://www.zeit.de/news/2024-10/04/grundsicherungsempfaenger-muessen-schoeffenbezuege-angeben"
+      "title": "Notfälle: Polizeihelikopter nach Schreien im Einsatz - falscher Alarm",
+      "url": "https://www.zeit.de/news/2024-10/04/polizeihelikopter-nach-schreien-im-einsatz-falscher-alarm"
     },
     {
-      "title": "Feuer: Kerze löst Zimmerbrand aus - drei Leichtverletzte",
-      "url": "https://www.zeit.de/news/2024-10/04/kerze-loest-zimmerbrand-aus-drei-leichtverletzte"
+      "title": "Bruch von EU-Recht: FIFA erleidet Niederlage vor EuGH bei Transferregeln",
+      "url": "https://www.zeit.de/news/2024-10/04/fifa-erleidet-niederlage-vor-eugh-bei-transferregeln"
     },
     {
-      "title": "In Bauch gestochen: Krankenhausmitarbeiterin angegriffen – schwer verletzt",
-      "url": "https://www.zeit.de/news/2024-10/04/krankenhausmitarbeiterin-angegriffen-schwer-verletzt"
+      "title": "Eskalation in Nahost: Vor Angriffen: Israel ruft Libanesen zur Flucht auf",
+      "url": "https://www.zeit.de/news/2024-10/04/vor-angriffen-israel-ruft-libanesen-zur-flucht-auf"
     },
     {
-      "title": "Feuerwehr: Polizei ermittelt nach Feuer in Wohnhaus wegen Brandstiftung",
-      "url": "https://www.zeit.de/news/2024-10/04/polizei-ermittelt-nach-feuer-in-wohnhaus-wegen-brandstiftung"
+      "title": "Bauen und Wohnen: Baupreise in Sachsen-Anhalt steigen leicht",
+      "url": "https://www.zeit.de/news/2024-10/04/baupreise-in-sachsen-anhalt-steigen-leicht"
     },
     {
-      "title": "Ukraine-Krieg: Brände in zwei russischen Tanklagern",
-      "url": "https://www.zeit.de/news/2024-10/04/braende-in-zwei-russischen-tanklagern"
+      "title": "2. Fußball-Bundesliga: Fortuna-Chef Allofs: Kein logischer Favorit auf den Aufstieg",
+      "url": "https://www.zeit.de/news/2024-10/04/fortuna-chef-allofs-kein-logischer-favorit-auf-den-aufstieg"
     },
     {
-      "title": "Unfälle: 52-Jähriger läuft vor Auto und wird schwer verletzt",
-      "url": "https://www.zeit.de/news/2024-10/04/52-jaehriger-laeuft-vor-auto-und-wird-schwer-verletzt"
+      "title": "Bruch von EU-Recht: Streit um Transferregeln: FIFA erleidet Niederlage vor EuGH",
+      "url": "https://www.zeit.de/news/2024-10/04/streit-um-transferregeln-fifa-erleidet-niederlage-vor-eugh"
     },
     {
-      "title": "Verkehrsunfall: Unbekannter fährt 91-Jährige an – Verdacht auf Unfallflucht",
-      "url": "https://www.zeit.de/news/2024-10/04/unbekannter-faehrt-91-jaehrige-an-verdacht-auf-unfallflucht"
+      "title": "Krankheiten: WHO gibt grünes Licht für schnelleren Mpox-Test",
+      "url": "https://www.zeit.de/news/2024-10/04/who-gibt-gruenes-licht-fuer-schnelleren-mpox-test"
     },
     {
-      "title": "Ziele der Vereinten Nationen: Internationale Nachhaltigkeitskonferenz in Hamburg",
-      "url": "https://www.zeit.de/news/2024-10/04/internationale-nachhaltigkeitskonferenz-in-hamburg"
+      "title": "Frankfurter Börse: Börsengang von Wissenschaftsverlag Springer Nature glückt",
+      "url": "https://www.zeit.de/news/2024-10/04/boersengang-von-wissenschaftsverlag-springer-nature-glueckt"
     }
   ]
 }
