@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-05T03:11:43",
+  "timestamp": "2024-10-05T04:08:52",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -14,6 +14,12 @@
     {
       "type": null,
       "src": "https://static.zeit.de/p/zeit.web/js/colorscheme.3e111d9ecb733d028b0c.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -104,18 +110,11 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Krieg in Nahost : \"Es braucht Mut und Führungsstärke, um einen Krieg zu beenden\"",
-      "teaser": "Asymmetrische Kriege folgen oft einer strategischen Ethik, sagt der Politologe Felix Wassermann. Deshalb neigen sie zur Eskalation. Das zeigt sich gerade im Nahen Osten.",
-      "url": "https://www.zeit.de/kultur/2024-10/krieg-nahost-strategie-eskalation-felix-wassermann",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-10/krieg-nahost-strategie-eskalation-felix-wassermann-bild2/wide__1000x562",
-      "image_title": "Krieg in Nahost: \"Es braucht Mut und Führungsstärke, um einen Krieg zu beenden\""
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Israelis und Palästinenser in Deutschland : Einander näher, als sie denken",
-      "teaser": "Seit einem Jahr nimmt der Hass zwischen Palästinensern und Juden auch in Deutschland zu. Dagegen würde schon helfen, nicht jedes Für zugleich als ein Gegen zu verstehen.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-10/israelis-palaestinenser-deutschland-antisemitismus-ausgrenzung",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-10/israelis-palaestinenser-deutschland-antisemitismus-ausgrenzung-bild-2/super__430x286",
-      "image_title": "Israelis und Palästinenser in Deutschland: Europa, Deutschland, Berlin. Besetzung der Sozialwissenschaften an der Humboldt-Universitaet in Solidaritaet mit Gaza und Gegenprotest. Flagge Israels, Davidstern, Studenten, Demonstration, Kufiya, Palaestina, Israel, Konflikt. 23.05.2024 Engl: Europe, Germany, Berlin. Occupation of the social sciences at Humboldt University in solidarity with Gaza and counter-protest. Flag of Israel, Star of David, students, demonstration, Kufiya, Palestine, Israel, conflict. 23.05.2024"
+      "title": "Z+ (abopflichtiger Inhalt); Missbrauchsprozess in Avignon : Sie wollen von nichts gewusst haben",
+      "teaser": "Im Vergewaltigungsprozess von Avignon versuchen viele der 50 angeklagten Männer, sich als ahnungslos zu entlasten. Hilfe bekommen sie mitunter von ihren Partnerinnen.",
+      "url": "https://www.zeit.de/gesellschaft/2024-10/missbrauchsprozess-avignon-gisele-pelicot-frankreich-angeklagte-maenner",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-10/missbrauchsprozess-avignon-gisele-pelicot-frankreich/wide__1000x562",
+      "image_title": "Missbrauchsprozess in Avignon: Neben ihrem Ex-Mann Dominique sind noch 50 weitere Männer angeklagt, Gisèle Pélicot vergewaltigt zu haben. Die Staatsanwaltschaft will beweisen, dass sie im vollen Wissen handelten."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Liveblog:Krieg in Nahost : Trump spricht sich für israelischen Angriff auf Irans Atomanlagen aus",
@@ -125,11 +124,18 @@
       "image_title": "Krieg in Nahost: Der republikanische Präsidentschaftskandidat und ehemalige US-Präsident Donald Trump kommt am Fayetteville Regional Airport an, um an einer Bürgerversammlung teilzunehmen."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Lage in der Ukraine : Russlands Erfolg bemisst sich nicht in Kilometern",
-      "teaser": "Nach einem Jahr Vormarsch erobert Russland mit Wuhledar eine weitere Stadt. Ein Durchbruch ist es nicht, dennoch hat die Ukraine Grund zur Sorge. Der Wochenrückblick",
-      "url": "https://www.zeit.de/politik/ausland/2024-10/ukraine-lage-wuhledar-donezk-russland-offensive-woche",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-10/ukraine-lage-wuhledar-donezk-russland-offensive-woche-bild-wuhledar/super__430x286",
-      "image_title": "Lage in der Ukraine: A satellite view of Vuhledar, amid Russia's attack on Ukraine, in Donetsk region, Ukraine, September 29, 2024. 2024 Planet Labs Inc./via REUTERS THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY MANDATORY CREDIT."
+      "title": "Z+ (abopflichtiger Inhalt); Krieg in Nahost : \"Es braucht Mut und Führungsstärke, um einen Krieg zu beenden\"",
+      "teaser": "Asymmetrische Kriege folgen oft einer strategischen Ethik, sagt der Politologe Felix Wassermann. Deshalb neigen sie zur Eskalation. Das zeigt sich gerade im Nahen Osten.",
+      "url": "https://www.zeit.de/kultur/2024-10/krieg-nahost-strategie-eskalation-felix-wassermann",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-10/krieg-nahost-strategie-eskalation-felix-wassermann-bild2/super__430x286",
+      "image_title": "Krieg in Nahost: \"Es braucht Mut und Führungsstärke, um einen Krieg zu beenden\""
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Asyl : Seit Jahresbeginn fast ein Viertel weniger Asylanträge",
+      "teaser": "Ein vertraulicher EU-Bericht verzeichnet seit Jahresbeginn deutlich weniger Asylanträge in Deutschland als im Vorjahr. Gewarnt wird vor Fluchtbewegungen aus dem Libanon.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-10/bericht-eu-asyl-agentur-deutschland-rueckgang-asylantraege",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-10/eu-asyl-syrien-rueckgang-2024-deutschland/super__430x286",
+      "image_title": "Asyl: Ein Migrant aus Syrien trägt Bettwäsche über das Gelände der Zentralen Erstaufnahmeeinrichtung für Asylbewerber (ZABH) des Landes Brandenburg."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Schlafstörungen : Ein neues Medikament gegen schlaflose Nächte",
@@ -153,32 +159,25 @@
       "image_title": "Isolde Schaad: Die Autorin Isolde Schaad in ihrer Wohnung im Zürcher Quartier Wipkingen"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Crack • Das Wichtigste aus Z+ : \"Man kann sich selbst beim Sterben zuschauen\"",
-      "teaser": "Crack verändert Deutschland radikal. So wie Heroin vor 30 Jahren. Mike Schöneberg wäre fast an dem Teufelszeug gestorben. Bis er einen Arzt traf mit einer Idee.",
-      "url": "https://www.zeit.de/gesellschaft/2024-09/crack-abhaengige-behandlung-kokain-arzt-berlin",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-09/crack-abhaengige-behandlung-kokain-arzt-berlin-bild/super__430x286",
-      "image_title": "Crack • Das Wichtigste aus Z+: Mike Schöneberg, 59, ist Patient in der Praxis von Dr. Peschel. Thomas Peschel, 54 Jahre alt und Facharzt für Psychiatrie, leitet seit 2013 die Praxis „Patrida“ in Berlin Wedding, einem Namen, der „Heimat“ auf Griechisch bedeutet. In seiner Praxis behandelt er Menschen mit Drogensucht. In den letzten Jahren ist ein Anstieg von Crack zu verzeichnen, während der Heroinmarkt fast zusammengebrochen ist, seitdem die Taliban 2022 in Afghanistan das Anbauen von Opium verboten haben. Crack ist auf dem Markt als kleiner Klumpen erhältlich, und ist ein Substrat aus Kokain und Natron, welches in einer Pfeife geraucht wird; es ist mittlerweile oft schon für wenige Euros erhältlich. Dr. Peschel hat begonnen, drogenabhängige Patienten erfolgreich mit Elvanse zu behandeln, einem Medikament, das eigentlich für die Behandlung von ADHS bei Erwachsenen entwickelt wurde. Mike Schöneberg, 59 Jahre alt, ist einer seiner Patienten. Maik, der seit Jahrzehnten unter Drogensucht leidet, beschreibt, wie Dr. Peschel ihm mit der Therapie das Leben gerettet hat. Maik erhält einmal ma Tag in der Praxis im sogenannten Applikationsraum eine Tablette Elvanse und bekommt zudem täglich Diamorphin medizinisches Heroin, auf Rezept, welches er unter der Aufsicht von medizinischem Personal selbst injiziert. Der Leopoldplatz im Berliner Stadtteil Wedding ist einer der Umschlagplätze für Crack. Direkt neben den Bushaltestellen gibt es 2 größere Sitzflächen und ein Toilettenhäuschen für die drogenkranken Menschen die inzwischen umzäunt worden sind, und daher von ihnen “der Käfig” genannt werden."
+      "title": "Z+ (abopflichtiger Inhalt); Bildschirmzeit von Kleinkindern • Z+ Empfehlung : Im Kleinkindhirn macht's Brzzzz",
+      "teaser": "Viele Eltern geben dem Kleinkind mal das Smartphone oder Tablet. Totale Katastrophe oder Anpassungsleistung? Wie Screens die Entwicklung des Kindergehirns beeinflussen.",
+      "url": "https://www.zeit.de/familie/2024-10/bildschirmzeit-kleinkinder-smartphone-forschung-gefahr",
+      "image_url": "https://img.zeit.de/familie/2024-09/bildschirmzeit-kleinkinder-smartphone/super__430x286",
+      "image_title": "Bildschirmzeit von Kleinkindern • Z+ Empfehlung: Im Kleinkindhirn macht's Brzzzz"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Protein : Der Stoff, aus dem die Muskeln sind",
+      "teaser": "Morgens Eier, abends Steak und zwischendurch viel Quark und einen Shake: Viel Protein soll muskulös und gesund machen. Aber wie viel kann der Körper wirklich verarbeiten?",
+      "url": "https://www.zeit.de/gesundheit/2024-10/protein-eiweiss-muskeln-ernaehrung-bedarf",
+      "image_url": "https://img.zeit.de/gesundheit/2024-10/protein-eiweiss-muskeln-ernaehrung-bedarf-bild/wide__892x501",
+      "image_title": "Protein: Der Stoff, aus dem die Muskeln sind"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Van-Gogh-Fälschungen : Trübselige Erinnerungen in Öl",
       "teaser": "Drei Bilder von van Gogh, die als Originale galten, sind als Fälschungen erkannt worden. Eine der Besitzerinnen ist so berühmt wie der Maler selbst: Barbra Streisand",
       "url": "https://www.zeit.de/kultur/kunst/2024-10/van-gogh-faelschung-museum-amsterdam-barbara-streisand",
-      "image_url": "https://img.zeit.de/kultur/kunst/2024-10/van-gogh-faelschung-museum-amsterdam-barbara-streisand-bild/wide__892x501",
+      "image_url": "https://img.zeit.de/kultur/kunst/2024-10/van-gogh-faelschung-museum-amsterdam-barbara-streisand-bild/super__430x286",
       "image_title": "Van-Gogh-Fälschungen: Original vs. Fälschung"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Verdachtsfall in Hamburg : Vorgehen der Behörden beim Verdacht auf Marburg-Virus wird untersucht",
-      "teaser": "Der Verdacht, dass in Hamburg zwei Menschen mit dem Marburg-Virus infiziert waren, besteht nicht mehr. Doch es gibt Ungereimtheiten im Umgang der Behörden.",
-      "url": "https://www.zeit.de/gesundheit/2024-10/marburg-virus-hamburg-verdacht-behoerden",
-      "image_url": "https://img.zeit.de/gesundheit/2024-10/marburg-virus-hamburg-verdacht-behoerden-bild-2/super__430x286",
-      "image_title": "Verdachtsfall in Hamburg: Blick auf den Bahnsteig 7 und Bahnsteig 8 auf dem Hauptbahnhof. Am Hamburger Hauptbahnhof ist mindestens ein Mensch wegen einer möglichen schweren Infektionskrankheit mit einem Spezialfahrzeug der Feuerwehr ins Krankenhaus gebracht worden. Dafür wurde ein Bahnsteig gesperrt. +++ dpa-Bildfunk +++ 02.10.2024"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Grüne : Katrin Göring-Eckardt spricht sich für AfD-Verbotsverfahren aus",
-      "teaser": "Bundestagsvizepräsidentin Katrin Göring-Eckardt befürwortet ein AfD-Verbotsverfahren. Für eine schwarz-grüne Koalition im Bund zeigt sich die Grünenpolitikerin offen.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-10/goering-eckardt-afd-verbotsverfahren-schwarz-gruen",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-10/goering-eckardt-afd-verbotsverfahren-schwarz-gruen-bild/super__430x286",
-      "image_title": "Grüne: Katrin Göring-Eckardt (Bündnis90/Grüne) spricht auf einer Bühne. Am 01. September wird in Thüringen ein neuer Landtag gewählt"
     },
     {
       "title": "Ausgabe 40/2024 : Durch den Wind. Willkommen im Wochenende.",
@@ -230,11 +229,18 @@
       "image_title": "Lokführer: \"Wie geil ist die denn!\", sagt der Enkelsohn, als er die Lokführermütze des Großvaters sieht."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Aggression gegen Frauen : Wann schlägt Frauenhass in Gewalt um?",
-      "teaser": "Jeden Tag erleben Frauen durch Männer Gewalt. Oft steckt dahinter Verachtung. Eine Forscherin beleuchtet zwei psychologische Pfade, die eine entscheidende Rolle spielen.",
-      "url": "https://www.zeit.de/gesundheit/2024-09/gewalt-frauen-frauenfeindlichkeit-vergewaltigung-missbrauch",
-      "image_url": "https://img.zeit.de/gesundheit/2024-09/gewalt-frauen-frauenfeindlichkeit-vergewaltigung-missbrauch-bild/super__430x286",
-      "image_title": "Aggression gegen Frauen: Wann schlägt Frauenhass in Gewalt um?"
+      "title": "Z+ (abopflichtiger Inhalt); Nachrichtenpodcast : Eine ukrainische Festung ist gefallen",
+      "teaser": "Russische Truppen haben die Stadt Wuhledar im Donbass eingenommen. Bröckelt die Verteidigungsfront? Und: Eine vom IS entführte Jesidin ist nach zehn Jahren wieder frei.",
+      "url": "https://www.zeit.de/politik/2024-10/krieg-ostukraine-wuhledar-nachrichtenpodcast",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__430x286",
+      "image_title": "Nachrichtenpodcast: Eine ukrainische Festung ist gefallen"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Grüne : Katrin Göring-Eckardt spricht sich für AfD-Verbotsverfahren aus",
+      "teaser": "Bundestagsvizepräsidentin Katrin Göring-Eckardt befürwortet ein AfD-Verbotsverfahren. Für eine schwarz-grüne Koalition im Bund zeigt sich die Grünenpolitikerin offen.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-10/goering-eckardt-afd-verbotsverfahren-schwarz-gruen",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-10/goering-eckardt-afd-verbotsverfahren-schwarz-gruen-bild/super__430x286",
+      "image_title": "Grüne: Katrin Göring-Eckardt (Bündnis90/Grüne) spricht auf einer Bühne. Am 01. September wird in Thüringen ein neuer Landtag gewählt"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Texlock : \"Auf einmal stehst du als Betrügerin und Lügnerin da\"",
@@ -258,18 +264,18 @@
       "image_title": "Bedürfnisorientierte Erziehung: \"Die Erziehung meiner Eltern hat mich gerettet\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Vegane Ernährung : In welcher Welt würde ich Milch trinken?",
-      "teaser": "Unsere Autorin ernährt sich vegan, weil sie nicht möchte, dass wegen ihrer Essgewohnheiten Tiere ausgebeutet werden. Sie fragt sich, ob es auch anders gehen könnte.",
-      "url": "https://www.zeit.de/kultur/2024-10/vegane-ernaehrung-krankheit-unvertraeglichkeit-tierisch-pflanzlich-10nach8",
-      "image_url": "https://img.zeit.de/kultur/2024-10/vegane-ernaehrung-krankheit-unvertraeglichkeit-tierisch-pflanzlich-10nach8-bild/wide__892x501",
-      "image_title": "Vegane Ernährung: In welcher Welt würde ich Milch trinken?"
+      "title": "Z+ (abopflichtiger Inhalt); Klimawandel : Brasilien leidet unter schwerster Dürre seit Jahrzehnten",
+      "teaser": "Mehr als ein Drittel von Brasiliens Staatsgebiet ist von extremer Trockenheit betroffen. Der zweitgrößte Nebenfluss des Amazonas erreicht einen historischen Tiefstand.",
+      "url": "https://www.zeit.de/wissen/umwelt/2024-10/brasilien-leidet-unter-schwerster-duerre-seit-jahrzehnten-amazonas",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2024-10/brasilien-leidet-unter-schwerster-duerre-seit-jahrzehnten/super__430x286",
+      "image_title": "Klimawandel: Teil des Flusses Negro liegt am Hafen von Manaus im brasilianischen Bundesstaat Amazonas aufgrund einer schweren D ürre auf dem Trockenen."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Erkältungszeit : Diese fünf Spiele machen das Kranksein erträglicher",
-      "teaser": "Mit dem Herbst fängt auch die Erkältungszeit an. Wie verbringt man am besten die Zeit im Bett? Natürlich mit Videospielen – diese fünf lenken ab, ohne zu überfordern.",
-      "url": "https://www.zeit.de/digital/games/2024-10/erkaeltungszeit-krankheit-genesung-videospiele-empfehlungen",
-      "image_url": "https://img.zeit.de/digital/games/2024-10/erkaeltungszeit-krankheit-genesung-videospiele-empfehlungen-spiritfarer/super__430x286",
-      "image_title": "Erkältungszeit: Diese fünf Spiele machen das Kranksein erträglicher"
+      "title": "Z+ (abopflichtiger Inhalt); Brasilien : X zahlt Geldstrafe nach Sperrung in Brasilien",
+      "teaser": "Elon Musks Onlinedienst hat eine in Brasilien verhängte Strafe gezahlt. Die Sperre von X wird jedoch noch nicht aufgehoben. Das Geld ging offenbar an die falsche Bank.",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-10/x-sperrung-brasilien-zahlung-geldstrafe-entsperrung",
+      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-10/x-sperrung-brasilien-zahlung-geldstrafe/super__430x286",
+      "image_title": "Brasilien: Auf dem offiziellen Profil der Plattform X auf dem Bildschirm eines Smartphones und auf dem Display eines Laptops ist der weiße Buchstabe X auf schwarzem Hintergrund zu sehen."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Einleitung : 48 Monate Trump",
@@ -412,32 +418,18 @@
       "image_title": "Folge 17: Mai 2018: US President Donald Trump responds to a reporter's question on domestic violence following a working session regarding \"opportunity zones\" following the recently signed tax bill in the Oval Office of the White House on February 14, 2018 in Washington, DC. (Photo by MANDEL NGAN / AFP) (Photo by MANDEL NGAN/AFP via Getty Images)"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); US-Präsidentschaftswahlkampf : Barack Obama steigt in Wahlkampf von Kamala Harris ein",
-      "teaser": "Der ehemalige US-Präsident Barack Obama absolviert Wahlkampfauftritte für Kamala Harris. In besonders umkämpften Bundesstaaten will er ihr so zum Sieg verhelfen.",
-      "url": "https://www.zeit.de/politik/ausland/2024-10/barack-obama-kamala-harris-wahlkampf-unterstuetzung-swing-states-praesidentschaft",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-10/barack-obama-kamala-harris-wahlkampf-unterstuetzung-swing-states-praesidentschaft-bild/super__430x286",
-      "image_title": "US-Präsidentschaftswahlkampf: WASHINGTON, DC April 5, 2022: Vice President Kamala Harris and Former President Barack Obama meet and greet visitors following remarks on the Affordable Care Act and lowering health care costs for families in the East Room of The White House on Tuesday April 5, 2022. (Photo by Demetrius Freeman/The Washington Post via Getty Images)"
+      "title": "Z+ (abopflichtiger Inhalt); Folge 18: Juni 2018 : Trump trifft Kim Jong-un",
+      "teaser": "Es ist das erste Mal, dass ein US-Präsident einen Diktator aus Nordkorea trifft. Der Juni 2018",
+      "url": "https://www.zeit.de/politik/ausland/2024-10/praesidentschaft-donald-trump-juni-2018",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/praesidentschaft-donald-trump-juni/super__320x213",
+      "image_title": "Folge 18: Juni 2018: TOPSHOT - North Korea's leader Kim Jong Un (L) and US President Donald Trump shake hands during a meeting on the south side of the Military Demarcation Line that divides North and South Korea, in the Joint Security Area (JSA) of Panmunjom in the Demilitarized zone (DMZ) on June 30, 2019. (Photo by Brendan Smialowski / AFP) (Photo credit should read BRENDAN SMIALOWSKI/AFP via Getty Images)"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Klimawandel : Brasilien leidet unter schwerster Dürre seit Jahrzehnten",
-      "teaser": "Mehr als ein Drittel von Brasiliens Staatsgebiet ist von extremer Trockenheit betroffen. Der zweitgrößte Nebenfluss des Amazonas erreicht einen historischen Tiefstand.",
-      "url": "https://www.zeit.de/wissen/umwelt/2024-10/brasilien-leidet-unter-schwerster-duerre-seit-jahrzehnten-amazonas",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2024-10/brasilien-leidet-unter-schwerster-duerre-seit-jahrzehnten/super__430x286",
-      "image_title": "Klimawandel: Teil des Flusses Negro liegt am Hafen von Manaus im brasilianischen Bundesstaat Amazonas aufgrund einer schweren D ürre auf dem Trockenen."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Brasilien : X zahlt Geldstrafe nach Sperrung in Brasilien",
-      "teaser": "Elon Musks Onlinedienst hat eine in Brasilien verhängte Strafe gezahlt. Die Sperre von X wird jedoch noch nicht aufgehoben. Das Geld ging offenbar an die falsche Bank.",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-10/x-sperrung-brasilien-zahlung-geldstrafe-entsperrung",
-      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-10/x-sperrung-brasilien-zahlung-geldstrafe/super__430x286",
-      "image_title": "Brasilien: Auf dem offiziellen Profil der Plattform X auf dem Bildschirm eines Smartphones und auf dem Display eines Laptops ist der weiße Buchstabe X auf schwarzem Hintergrund zu sehen."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Bundesliga, 6. Spieltag : FC Augsburg gewinnt gegen Borussia Mönchengladbach",
-      "teaser": "In einer teils zähen Partie hat sich Augsburg gegen Mönchengladbach durchgesetzt. Die Borussia verliert damit auch das dritte Spiel in Folge. Der Spielbericht",
-      "url": "https://www.zeit.de/sport/2024-10/bundesliga-6-spieltag-freitag-fc-augsburg-borussia-moenchengladbach",
-      "image_url": "https://img.zeit.de/sport/2024-10/bundesliga-6-spieltag-freitag-fc-augsburg-borussia-moenchengladbach-bild/super__430x286",
-      "image_title": "Bundesliga, 6. Spieltag: Mönchengladbachs Luca Netz (l) gegen Augsburgs Marius Wolf."
+      "title": "Z+ (abopflichtiger Inhalt); Erkältungszeit : Diese fünf Spiele machen das Kranksein erträglicher",
+      "teaser": "Mit dem Herbst fängt auch die Erkältungszeit an. Wie verbringt man am besten die Zeit im Bett? Natürlich mit Videospielen – diese fünf lenken ab, ohne zu überfordern.",
+      "url": "https://www.zeit.de/digital/games/2024-10/erkaeltungszeit-krankheit-genesung-videospiele-empfehlungen",
+      "image_url": "https://img.zeit.de/digital/games/2024-10/erkaeltungszeit-krankheit-genesung-videospiele-empfehlungen-spiritfarer/super__430x286",
+      "image_title": "Erkältungszeit: Diese fünf Spiele machen das Kranksein erträglicher"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"Schwäbische Zeitung\" • Z+ Empfehlung : Turbulenter Kurswechsel",
@@ -519,18 +511,18 @@
       "image_title": "Hamburger Paloma-Viertel: Bis vor zehn Jahren standen die Esso-Häuser neben dem Spielbudenplatz. Seither liegt das Gelände brach."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Asyl in Deutschland : Seit Jahresbeginn fast ein Viertel weniger Asylanträge",
-      "teaser": "Ein vertraulicher EU-Bericht verzeichnet seit Jahresbeginn deutlich weniger Asylanträge in Deutschland als im Vorjahr. Gewarnt wird vor einer Fluchtwelle aus dem Libanon.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-10/bericht-eu-asyl-agentur-deutschland-rueckgang-asylantraege",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-10/eu-asyl-syrien-rueckgang-2024-deutschland/wide__892x501",
-      "image_title": "Asyl in Deutschland: Ein Migrant aus Syrien trägt Bettwäsche über das Gelände der Zentralen Erstaufnahmeeinrichtung für Asylbewerber (ZABH) des Landes Brandenburg."
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Tunesien : Hunderte protestieren in Tunesien gegen Präsidenten",
       "teaser": "Kurz vor der Präsidentschaftswahl in Tunesien sind mehr als tausend Menschen auf die Straße gegangen. Sie demonstrierten gegen den zunehmend autoritären Regierungschef.",
       "url": "https://www.zeit.de/politik/ausland/2024-10/praesidentschaftswahl-tunesien-proteste-tunis-kais-saied",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-10/demonstration-praesidentenwahl-tunesien-bild/super__430x286",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-10/demonstration-praesidentenwahl-tunesien-bild/wide__892x501",
       "image_title": "Tunesien: Tunisians shout slogans against President Kais Saied, on October 4 2024, in Tunis. Nearly 10 million Tunisians are set to cast their ballots for a new president on October 6. (Photo by FETHI BELAID / AFP) (Photo by FETHI BELAID/AFP via Getty Images)"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); US-Präsidentschaftswahlkampf : Barack Obama steigt in Wahlkampf von Kamala Harris ein",
+      "teaser": "Der ehemalige US-Präsident Barack Obama absolviert Wahlkampfauftritte für Kamala Harris. In besonders umkämpften Bundesstaaten will er ihr so zum Sieg verhelfen.",
+      "url": "https://www.zeit.de/politik/ausland/2024-10/barack-obama-kamala-harris-wahlkampf-unterstuetzung-swing-states-praesidentschaft",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-10/barack-obama-kamala-harris-wahlkampf-unterstuetzung-swing-states-praesidentschaft-bild/super__430x286",
+      "image_title": "US-Präsidentschaftswahlkampf: WASHINGTON, DC April 5, 2022: Vice President Kamala Harris and Former President Barack Obama meet and greet visitors following remarks on the Affordable Care Act and lowering health care costs for families in the East Room of The White House on Tuesday April 5, 2022. (Photo by Demetrius Freeman/The Washington Post via Getty Images)"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Banken : Commerzbank-Betriebsrat droht bei UniCredit-Übernahme mit Widerstand",
@@ -617,11 +609,11 @@
       "image_title": "Bandengewalt: Kenyan police officers patrol as the country is facing emergency food insecurity while immersed in a social and political crisis, in Port-au-Prince, Haiti October 3, 2024. REUTERS/Jean Feguens Regala"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Migration : EuGH stuft Umgang mit Frauen in Afghanistan als Verfolgung ein",
-      "teaser": "Laut dem Europäischen Gerichtshof werden Frauen in Afghanistan seit der Machtübernahme der Taliban verfolgt. Das kann eine Anerkennung als Flüchtling rechtfertigen.",
-      "url": "https://www.zeit.de/gesellschaft/2024-10/afghanistan-europaeischer-gerichtshof-migration-asylrecht",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-10/eugh-einstufung-frauen-taliban-verfolgung-bild/super__430x286",
-      "image_title": "Migration: Afghan women wait to receive fiscal aid from Afghan Red Crescent Society (ARCS) in Kohsan district of Herat province on September 25, 2024. (Photo by Mohsen KARIMI / AFP) (Photo by MOHSEN KARIMI/AFP via Getty Images)"
+      "title": "Z+ (abopflichtiger Inhalt); Verdachtsfall in Hamburg : Vorgehen der Behörden beim Verdacht auf Marburg-Virus wird untersucht",
+      "teaser": "Der Verdacht, dass in Hamburg zwei Menschen mit dem Marburg-Virus infiziert waren, besteht nicht mehr. Doch es gibt Ungereimtheiten im Umgang der Behörden.",
+      "url": "https://www.zeit.de/gesundheit/2024-10/marburg-virus-hamburg-verdacht-behoerden",
+      "image_url": "https://img.zeit.de/gesundheit/2024-10/marburg-virus-hamburg-verdacht-behoerden-bild-2/super__430x286",
+      "image_title": "Verdachtsfall in Hamburg: Blick auf den Bahnsteig 7 und Bahnsteig 8 auf dem Hauptbahnhof. Am Hamburger Hauptbahnhof ist mindestens ein Mensch wegen einer möglichen schweren Infektionskrankheit mit einem Spezialfahrzeug der Feuerwehr ins Krankenhaus gebracht worden. Dafür wurde ein Bahnsteig gesperrt. +++ dpa-Bildfunk +++ 02.10.2024"
     },
     {
       "title": "Verlagsangebot : Das Schottland-Quiz",
@@ -631,18 +623,18 @@
       "image_title": "Das Schottland-Quiz"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Vegane Ernährung : In welcher Welt würde ich Milch trinken?",
+      "teaser": "Unsere Autorin ernährt sich vegan, weil sie nicht möchte, dass wegen ihrer Essgewohnheiten Tiere ausgebeutet werden. Sie fragt sich, ob es auch anders gehen könnte.",
+      "url": "https://www.zeit.de/kultur/2024-10/vegane-ernaehrung-krankheit-unvertraeglichkeit-tierisch-pflanzlich-10nach8",
+      "image_url": "https://img.zeit.de/kultur/2024-10/vegane-ernaehrung-krankheit-unvertraeglichkeit-tierisch-pflanzlich-10nach8-bild/wide__892x501",
+      "image_title": "Vegane Ernährung: In welcher Welt würde ich Milch trinken?"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Suhrkamp : Dirk Möhrle wird alleiniger Inhaber des Suhrkamp Verlags",
       "teaser": "Der Suhrkamp Verlag ist Berichten zufolge wirtschaftlich angeschlagen. Der Unternehmer Dirk Möhrle übernimmt nun alle Anteile des Hauses ab Ende des Monats.",
       "url": "https://www.zeit.de/kultur/literatur/2024-10/dirk-moehrle-suhrkamp-verlag-inhaber",
-      "image_url": "https://img.zeit.de/kultur/2024-10/suhrkamp-verlag-dirk-moehrle-alleininhaber-bild-2/wide__892x501",
+      "image_url": "https://img.zeit.de/kultur/2024-10/suhrkamp-verlag-dirk-moehrle-alleininhaber-bild-2/super__430x286",
       "image_title": "Suhrkamp: Neues Suhrkamp-Verlagshaus nahe Volksb¸hne, Torstraﬂe Rosa-Luxemburg-Straﬂe, blaue Stunde, D‰mmerung, Architekten Roger Bundschuh und Kinzo, Berlin-Mitte, Berlin, Deutschland, Europa *** New Suhrkamp Publishing House near Volksb¸hne, Torstraﬂe Rosa Luxemburg Straﬂe, blue hour, twilight, architects Roger Bundschuh and Kinzo, Berlin Mitte, Berlin, Germany, Europe Copyright: imageBROKER/OliverxMann iblohm06744865.jpg Bitte beachten Sie die gesetzlichen Bestimmungen des deutschen Urheberrechtes hinsichtlich der Namensnennung des Fotografen im direkten Umfeld der Verˆffentlichung!"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Made in Germany\" : Ach, Deutschland",
-      "teaser": "Die ARD-Serie \"Made in Germany\" erzählt sechs postmigrantische Geschichten. Ihre Stärke liegt darin, dass sie Alltägliches beschreibt.",
-      "url": "https://www.zeit.de/kultur/film/2024-10/made-in-germany-ard-serie-migration-streaming",
-      "image_url": "https://img.zeit.de/kultur/film/2024-10/made-in-germany-ard-serie-bild-1/super__430x286",
-      "image_title": "\"Made in Germany\": Coumba (Vanessa Yeboah) bei einem Shooting."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Hamburg-Podcast \"Elbvertiefung\" : Der Stuhl, der Hamburg das Chillen beibrachte",
@@ -708,18 +700,18 @@
       "image_title": "Mikroben: Milchsäurebakterien etwa wandeln bei der Käse Herstellung Zucker aus der Milch in Milchsäure um – die Milch wird dicker."
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Aggression gegen Frauen : Wann schlägt Frauenhass in Gewalt um?",
+      "teaser": "Jeden Tag erleben Frauen durch Männer Gewalt. Oft steckt dahinter Verachtung. Eine Forscherin beleuchtet zwei psychologische Pfade, die eine entscheidende Rolle spielen.",
+      "url": "https://www.zeit.de/gesundheit/2024-09/gewalt-frauen-frauenfeindlichkeit-vergewaltigung-missbrauch",
+      "image_url": "https://img.zeit.de/gesundheit/2024-09/gewalt-frauen-frauenfeindlichkeit-vergewaltigung-missbrauch-bild/wide__892x501",
+      "image_title": "Aggression gegen Frauen: Wann schlägt Frauenhass in Gewalt um?"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Weltgesundheitsorganisation : WHO erteilt erstmals Notzulassung für Mpox-Test",
       "teaser": "Wegen der Mpox-Ausbreitung in Afrika hat die WHO die höchste Alarmstufe ausgerufen. Um das Virus einzudämmen, erteilte sie nun eine schnellere Zulassung für einen Test.",
       "url": "https://www.zeit.de/gesundheit/2024-10/weltgesundheitsorganisation-mpox-notfallzulassung-test-afrika",
-      "image_url": "https://img.zeit.de/gesundheit/2024-10/mpox-who-schnelltest-bild/wide__892x501",
+      "image_url": "https://img.zeit.de/gesundheit/2024-10/mpox-who-schnelltest-bild/super__430x286",
       "image_title": "Weltgesundheitsorganisation: Nurses examine patients at the mpox treatment centre in Kamituga, South Kivu province in the east of the Democratic Republic of Congo on September 20, 2024. Kamituga, one of the localities hardest hit by the epidemic with around a thousand confirmed cases, will be one of the first to receive the doses, according to the provincial health authorities. Kamituga, one of the localities hardest hit by the epidemic with around a thousand confirmed cases, will be one of the first to receive the doses, according to the provincial health authorities. (Photo by Glody MURHABAZI / AFP) (Photo by GLODY MURHABAZI/AFP via Getty Images)"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Mpox : Mehr als 800 Tote durch Mpox-Virus in Afrika seit Januar",
-      "teaser": "Die Gesundheitsbehörde der Afrikanischen Union warnt, die Mpox-Epidemie sei \"nicht unter Kontrolle\". In den fünf afrikanischen Regionen wurden 34.297 Fälle registriert.",
-      "url": "https://www.zeit.de/gesundheit/2024-10/mpox-virus-afrika-mehr-als-800-tote",
-      "image_url": "https://img.zeit.de/gesundheit/2024-10/mpox-virus-afrika-mehr-als-800-tote-bild/super__430x286",
-      "image_title": "Mpox: Beschreibung Atumisi Anaclet behandelt eine an Mpox erkrankte Sexarbeiterin in einem Krankenhaus in Kamituga in der ostkongolesischen Provinz Süd-Kivu, die das Epizentrum des jüngsten Ausbruchs der Krankheit weltweit ist. Service +++ dpa-Bildfunk +++ Aufnahmedatum 04.09.2024 Bildnachweis picture alliance/dpa/AP | Moses Sawasawa"
     },
     {
       "title": "Verlagsangebot : 7 Tipps, die dabei helfen, das Gewicht zu halten",
@@ -869,18 +861,18 @@
       "image_title": "Mikrotrends: Heute Cowgirl, morgen Soft Boy"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Bundesliga, 6. Spieltag : FC Augsburg gewinnt gegen Borussia Mönchengladbach",
+      "teaser": "In einer teils zähen Partie hat sich Augsburg gegen Mönchengladbach durchgesetzt. Die Borussia verliert damit auch das dritte Spiel in Folge. Der Spielbericht",
+      "url": "https://www.zeit.de/sport/2024-10/bundesliga-6-spieltag-freitag-fc-augsburg-borussia-moenchengladbach",
+      "image_url": "https://img.zeit.de/sport/2024-10/bundesliga-6-spieltag-freitag-fc-augsburg-borussia-moenchengladbach-bild/wide__892x501",
+      "image_title": "Bundesliga, 6. Spieltag: Mönchengladbachs Luca Netz (l) gegen Augsburgs Marius Wolf."
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Bundesligavorschau : Noch eine Pleite bis zur ersten Krise",
       "teaser": "Seit Mittwoch wissen die Bayern wieder, wie sich eine Niederlage anfühlt. Nun geht es zum Spitzenspiel nach Frankfurt. Und: Stunk bei RB Leipzig. Alles zum 6. Spieltag",
       "url": "https://www.zeit.de/sport/2024-10/bundesliga-vorschau-frankfurt-bayern",
-      "image_url": "https://img.zeit.de/sport/2024-10/fc-bayern/wide__892x501",
+      "image_url": "https://img.zeit.de/sport/2024-10/fc-bayern/super__430x286",
       "image_title": "Bundesligavorschau: Unter der Woche verloren die Bayern erstmals mit ihrem neuen Trainer Vincent Kompany."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Europäischer Gerichtshof : Fifa verliert Rechtsstreit über Transferregeln",
-      "teaser": "Einige Vorschriften der Fifa verstoßen gegen EU-Recht. Das entschied der Europäische Gerichtshof im Verfahren zugunsten des Klägers und Ex-Profispielers Lassana Diarra.",
-      "url": "https://www.zeit.de/sport/2024-10/lassana-diarra-eugh-urteil-fifa-niederlage",
-      "image_url": "https://img.zeit.de/sport/2024-10/fifa-transferregeln-hoechsten-europaeischen-gericht-niederlage-bild/super__430x286",
-      "image_title": "Europäischer Gerichtshof: Football - England v France - International Friendly - Wembley Stadium, London, England - 17/11/15 Lassana Diarra of France"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Marburg-Virus : Hamburger Behörde gab Entwarnung erst nach Stunden bekannt",
@@ -952,36 +944,36 @@
       "image_url": "https://img.zeit.de/administratives/2015-10/zeit-shop-bilder/kug-neu.jpg/super__320x213"
     },
     {
-      "title": "Jahrestag 7. Oktober: Faeser mahnt hartes Durchgreifen gegen Antisemitismus an",
-      "url": "https://www.zeit.de/news/2024-10/05/faeser-mahnt-hartes-durchgreifen-gegen-antisemitismus-an"
+      "title": "Nach Eklat in Thüringen: JuLis fordern Änderung der Geschäftsordnung des Landtags",
+      "url": "https://www.zeit.de/news/2024-10/05/julis-fordern-aenderung-der-geschaeftsordnung-des-landtags"
     },
     {
-      "title": "Wohnraum knapp: Viele Studierende zum Wintersemester in NRW noch ohne Zimmer",
-      "url": "https://www.zeit.de/news/2024-10/05/viele-studierende-zum-wintersemester-in-nrw-noch-ohne-zimmer"
+      "title": "Streitthema: FDP: Romantisierung des Wolfes hat ein Ende",
+      "url": "https://www.zeit.de/news/2024-10/05/fdp-romantisierung-des-wolfes-hat-ein-ende"
     },
     {
-      "title": "Feste: Kardinal Marx lobt Wiesn als Feier des Lebens",
-      "url": "https://www.zeit.de/news/2024-10/05/kardinal-marx-lobt-wiesn-als-feier-des-lebens"
+      "title": "Fußball-Bundesliga: «Well done»: Schlotterbeck glänzt in neuer FCA-Rolle",
+      "url": "https://www.zeit.de/news/2024-10/05/well-done-schlotterbeck-glaenzt-in-neuer-fca-rolle"
     },
     {
-      "title": "Justizministerin Wahlmann: Mit einer «schlagkräftigen Truppe» gegen Cybercrime",
-      "url": "https://www.zeit.de/news/2024-10/05/mit-einer-schlagkraeftigen-truppe-gegen-cybercrime"
+      "title": "Fußball-Nationalmannschaft: Kleindienst liefert nach «einem der schönsten Telefonate»",
+      "url": "https://www.zeit.de/news/2024-10/05/kleindienst-liefert-nach-einem-der-schoensten-telefonate"
     },
     {
-      "title": "Straßen, Brücken, Schienen: Marode Verkehrswege - Länder pochen auf Infrastrukturfonds",
-      "url": "https://www.zeit.de/news/2024-10/05/marode-verkehrswege-laender-pochen-auf-infrastrukturfonds"
+      "title": "1. FC Union Berlin: Svensson über Stadionumbau: «Motiviert mich als Mitarbeiter»",
+      "url": "https://www.zeit.de/news/2024-10/05/svensson-ueber-stadionumbau-motiviert-mich-als-mitarbeiter"
     },
     {
-      "title": "Verwaltung: KI hält in Thüringen zögerlich Einzug in den Behördenalltag",
-      "url": "https://www.zeit.de/news/2024-10/05/ki-haelt-in-thueringen-zoegerlich-einzug-in-den-behoerdenalltag"
+      "title": "Hohenlohekreis: Fünf Verletzte bei Autounfall während Überholmanöver",
+      "url": "https://www.zeit.de/news/2024-10/05/fuenf-verletzte-bei-autounfall-waehrend-ueberholmanoever"
     },
     {
-      "title": "Die Lage im Überblick: Selenskyj wirbt in Sumy für «Siegesplan» gegen Russland",
-      "url": "https://www.zeit.de/news/2024-10/05/selenskyj-wirbt-in-sumy-fuer-siegesplan-gegen-russland"
+      "title": "Kampf um die Krone: Trotz männlicher Konkurrenz: Denise Stripf neue Weinkönigin",
+      "url": "https://www.zeit.de/news/2024-10/05/trotz-maennlicher-konkurrenz-denise-stripf-neue-weinkoenigin"
     },
     {
-      "title": "Seit dem Hamas-Angriff: Zahl antisemitischer Straftaten auf Rekordhoch",
-      "url": "https://www.zeit.de/news/2024-10/05/zahl-antisemitischer-straftaten-auf-rekordhoch"
+      "title": "Kritik von Kinderärzten: Licht und Schatten bei RSV-Impfungen für Säuglinge",
+      "url": "https://www.zeit.de/news/2024-10/05/licht-und-schatten-bei-rsv-impfungen-fuer-saeuglinge"
     }
   ]
 }
