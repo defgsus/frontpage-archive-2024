@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-08T10:07:32",
+  "timestamp": "2024-10-08T11:00:42",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Patchday SAP",
+      "url": "https://www.heise.de/news/SAP-Patchday-Sechs-neu-gemeldete-Sicherheitsluecken-in-Business-Software-9971616.html"
+    },
+    {
       "title": "Patchday Android",
       "url": "https://www.heise.de/news/Android-Patchday-Codeschmuggel-Luecke-in-System-Komponente-gestopft-9968447.html"
     },
@@ -44,20 +48,21 @@
       "url": "https://www.heise.de/news/Zimbra-Codeschmuggel-Luecke-wird-angegriffen-9960105.html"
     },
     {
-      "title": "Seiko-Epson-Drucker",
-      "url": "https://www.heise.de/news/Web-Config-von-Seiko-Epson-Geraeten-ermoeglicht-Angreifern-Uebernahme-9958605.html"
+      "title": "Aus der Ukraine: Cyberangriff trifft russische Staatsmedien und Justizwebseiten",
+      "teaser": "Nicht nur die staatliche Medienholding war offline, sondern auch Webseiten des russischen Justizsystems. Verantwortlich sind womöglich ukrainische Aktivisten.",
+      "url": "https://www.heise.de/news/Aus-der-Ukraine-Cyberangriff-trifft-russische-Staatsmedien-und-Justizwebseiten-9971652.html"
     },
     {
-      "title": "iX-Workshop KRITIS: Zusätzliche Prüfverfahrenskompetenz für § 8a BSIG",
+      "title": "SAP-Patchday: Sechs neu gemeldete Sicherheitslücken in Business-Software",
+      "teaser": "Der Patchday im Oktober von SAP bringt wenige Aktualisierungen. Sechs Lücken stopfen die Entwickler neu, zwei davon sind hochriskant.",
+      "url": "https://www.heise.de/news/SAP-Patchday-Sechs-neu-gemeldete-Sicherheitsluecken-in-Business-Software-9971616.html",
+      "image_title": "Stilisiertes Bild: Laptop mit SAP-Logo brennt, vor Serverracks"
+    },
+    {
+      "title": "iX-Workshop: Spezialwissen für KRITIS – Prüfverfahrenskompetenz gemäß § 8a BSIG",
       "teaser": "Erlangen Sie spezielle Prüfverfahrenskompetenz für § 8a BSIG; inklusive Abschlussprüfung und Zertifizierung.",
       "url": "https://www.heise.de/news/iX-Workshop-KRITIS-Zusaetzliche-Pruefverfahrenskompetenz-fuer-8a-BSIG-9961388.html",
       "image_title": "Online-Workshop: KRITIS – Zusätzliche Prüfverfahrenskompetenz für § 8a BSIG"
-    },
-    {
-      "title": "Android Patchday: System-Komponente ermöglicht Codeschmuggel aus dem Netz",
-      "teaser": "Am Patchday im Oktober schließt Google mehrere Sicherheitslücken in Android. Die gravierendste ermöglicht Codeschmuggel aus dem Netz.",
-      "url": "https://www.heise.de/news/Android-Patchday-Codeschmuggel-Luecke-in-System-Komponente-gestopft-9968447.html",
-      "image_title": "Stilisiertes Bild: Smartphone mit Android-Roboter auf dem Bildschirm, steht in Flammen"
     },
     {
       "title": "Microsoft: Word-Fehler löscht Dokumente, statt sie zu speichern",
@@ -66,14 +71,20 @@
       "image_title": "Laptop zeigt einen Speichern-Dialog, davor ein Papierkorb mit vielen Briefen darin"
     },
     {
+      "title": "Die trügerische Sicherheit vermeintlich starker Passwörter",
+      "teaser": "Viele Anwender vertrauen auf vermeintlich sichere und leicht zu merkende Kennwörter mit Sonderzeichen und Ziffern wie „!passwort#2024“. Doch Angreifer nutzen die dort regelmäßig zu findenden Muster aus. Mit bestimmten Maßnahmen können Unternehmen hier entgegen wirken.",
+      "url": "https://www.heise.de/solutions/specops/die-truegerische-sicherheit-vermeintlich-starker-passwoerter/?source=nat_teas"
+    },
+    {
       "title": "Identitätsmanagement: Keycloak 26 setzt auf persistierende Benutzer-Sessions",
       "teaser": "Im neuen Release der IAM-Software sind User-Sessions standardmäßig persistierend. Eine Preview für Tracing mit OpenTelemetry dient der erhöhten Observability.",
       "url": "https://www.heise.de/news/Identitaetsmanagement-Keycloak-26-setzt-auf-persistierende-Benutzer-Sessions-9963727.html"
     },
     {
-      "title": "Die trügerische Sicherheit vermeintlich starker Passwörter",
-      "teaser": "Viele Anwender vertrauen auf vermeintlich sichere und leicht zu merkende Kennwörter mit Sonderzeichen und Ziffern wie „!passwort#2024“. Doch Angreifer nutzen die dort regelmäßig zu findenden Muster aus. Mit bestimmten Maßnahmen können Unternehmen hier entgegen wirken.",
-      "url": "https://www.heise.de/solutions/specops/die-truegerische-sicherheit-vermeintlich-starker-passwoerter/?source=nat_teas"
+      "title": "Nach USA-Bann: Google wirft Kaspersky aus Play Store",
+      "teaser": "Das faktische Kaspersky-Verbot in den USA wirkt sich global aus: Google wirft den Hersteller und seine Produkte aus dem Play Store.",
+      "url": "https://www.heise.de/news/Nach-USA-Bann-Google-wirft-Kaspersky-aus-Play-Store-9963668.html",
+      "image_title": "Laptop vor USA-Flagge zeigt einen Schutzschild wie vom Virenscanner"
     },
     {
       "title": "USA: AT&T, Verizon und Co. angeblich von chinesischer Spionagegruppe infiltriert",
@@ -156,18 +167,6 @@
       "teaser": "In der Kollaborationssoftware Zimbra klafft eine Sicherheitslücke, die Angreifer bereits aktiv missbrauchen. Admins sollten zügig updaten.",
       "url": "https://www.heise.de/news/Zimbra-Codeschmuggel-Luecke-wird-angegriffen-9960105.html",
       "image_title": "Ein Server im Zentrum, an dem viele Nutzer mit ihren Rechnern hängen und E-Mails lesen, wird von Viren angegriffen"
-    },
-    {
-      "title": "Cybercrime: Verbindungen zwischen Lockbit und russischem Syndikat aufgedeckt",
-      "teaser": "Neben Verhaftungen in Frankreich und Großbritannien haben internationale Strafverfolger die Infrastruktur der Erpresser gestört – zudem ergingen Sanktionen.",
-      "url": "https://www.heise.de/news/Ransomware-Ermittler-melden-neue-Erfolge-im-Kampf-gegen-Lockbit-9959100.html",
-      "image_title": "Screenshot des durch Ermittler übernommenen Lockbit-Blogs"
-    },
-    {
-      "title": "BSI empfiehlt die Nutzung von Passkeys",
-      "teaser": "Das BSI empfiehlt die Nutzung von Passkeys. Eine Umfrage zeige auf, dass die Bekanntheit und Verbreitung ausbaufähig seien.",
-      "url": "https://www.heise.de/news/BSI-empfiehlt-die-Nutzung-von-Passkeys-9959270.html",
-      "image_title": "Ein Schloss mit biometrischen Schlüsseln"
     },
     {
       "title": "IoT-Webinar",
