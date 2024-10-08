@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-08T15:00:46",
+  "timestamp": "2024-10-08T16:08:20",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "DrayOS",
+      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecken-in-Draytek-Geraeten-erlauben-Systemuebernahme-9973906.html"
+    },
+    {
       "title": "Patchday SAP",
       "url": "https://www.heise.de/news/SAP-Patchday-Sechs-neu-gemeldete-Sicherheitsluecken-in-Business-Software-9971616.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Cisco-patcht-Luecken-in-Produkten-quer-durch-die-Bank-9961998.html"
     },
     {
-      "title": "Zimbra",
-      "url": "https://www.heise.de/news/Zimbra-Codeschmuggel-Luecke-wird-angegriffen-9960105.html"
+      "title": "Kritische Sicherheitslücken in Draytek-Geräten erlauben Systemübernahme",
+      "teaser": "Forscher fanden im Betriebssystem der Vigor-Router vierzehn neue Lücken, betroffen sind zwei Dutzend teilweise veraltete Typen. Patches stehen bereit.",
+      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecken-in-Draytek-Geraeten-erlauben-Systemuebernahme-9973906.html"
     },
     {
       "title": "Russische Websites offline: Offenbar ukrainischer Geburtstagsgruß für Putin",
@@ -65,15 +70,15 @@
       "image_title": "Online-Workshop: KRITIS – Zusätzliche Prüfverfahrenskompetenz für § 8a BSIG"
     },
     {
+      "title": "Die trügerische Sicherheit vermeintlich starker Passwörter",
+      "teaser": "Viele Anwender vertrauen auf vermeintlich sichere und leicht zu merkende Kennwörter mit Sonderzeichen und Ziffern wie „!passwort#2024“. Doch Angreifer nutzen die dort regelmäßig zu findenden Muster aus. Mit bestimmten Maßnahmen können Unternehmen hier entgegen wirken.",
+      "url": "https://www.heise.de/solutions/specops/die-truegerische-sicherheit-vermeintlich-starker-passwoerter/?source=nat_teas"
+    },
+    {
       "title": "Microsoft: Word-Fehler löscht Dokumente, statt sie zu speichern",
       "teaser": "Microsoft warnt vor einem Fehler in Word aus Microsoft 365, wodurch die Textverarbeitung Dokumente löscht, anstatt sie zu speichern.",
       "url": "https://www.heise.de/news/Microsoft-warnt-vor-Word-Fehler-Dateien-geloescht-statt-gespeichert-9964336.html",
       "image_title": "Laptop zeigt einen Speichern-Dialog, davor ein Papierkorb mit vielen Briefen darin"
-    },
-    {
-      "title": "Die trügerische Sicherheit vermeintlich starker Passwörter",
-      "teaser": "Viele Anwender vertrauen auf vermeintlich sichere und leicht zu merkende Kennwörter mit Sonderzeichen und Ziffern wie „!passwort#2024“. Doch Angreifer nutzen die dort regelmäßig zu findenden Muster aus. Mit bestimmten Maßnahmen können Unternehmen hier entgegen wirken.",
-      "url": "https://www.heise.de/solutions/specops/die-truegerische-sicherheit-vermeintlich-starker-passwoerter/?source=nat_teas"
     },
     {
       "title": "Identitätsmanagement: Keycloak 26 setzt auf persistierende Benutzer-Sessions",
@@ -161,12 +166,6 @@
       "teaser": "In der neuesten Security-Podcast-Folge befassen die Hosts sich mit einem verschlüsselten Messenger für Kriminelle, gefährlichen Dateiendungen und mehr.",
       "url": "https://www.heise.de/news/Passwort-Folge-15-Vermischtes-von-Ghostbusters-bis-Clipboard-Schadsoftware-9954546.html",
       "image_title": "Bild vom heise-Security-Podcast"
-    },
-    {
-      "title": "Zimbra: Codeschmuggel-Lücke wird angegriffen",
-      "teaser": "In der Kollaborationssoftware Zimbra klafft eine Sicherheitslücke, die Angreifer bereits aktiv missbrauchen. Admins sollten zügig updaten.",
-      "url": "https://www.heise.de/news/Zimbra-Codeschmuggel-Luecke-wird-angegriffen-9960105.html",
-      "image_title": "Ein Server im Zentrum, an dem viele Nutzer mit ihren Rechnern hängen und E-Mails lesen, wird von Viren angegriffen"
     },
     {
       "title": "IoT-Webinar",
