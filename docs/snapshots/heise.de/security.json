@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-09T08:09:43",
+  "timestamp": "2024-10-09T09:08:10",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Patchday Adobe",
+      "url": "https://www.heise.de/news/Adobe-Patchday-Neun-Produkte-mit-Sicherheitsluecken-9974474.html"
+    },
+    {
       "title": "Patchday Microsoft",
       "url": "https://www.heise.de/news/Microsoft-Patchday-Zwei-Zeroday-Luecken-werden-bereits-angegriffen-9974365.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/SAP-Patchday-Sechs-neu-gemeldete-Sicherheitsluecken-in-Business-Software-9971616.html"
     },
     {
-      "title": "Patchday Android",
-      "url": "https://www.heise.de/news/Android-Patchday-Codeschmuggel-Luecke-in-System-Komponente-gestopft-9968447.html"
+      "title": "Adobe-Patchday: Neun Produkte mit Sicherheitslücken",
+      "teaser": "Adobe hat zum Oktober-Patchday Sicherheitsupdates für neun Produkte veröffentlicht. Admins sollten sie zügig installieren.",
+      "url": "https://www.heise.de/news/Adobe-Patchday-Neun-Produkte-mit-Sicherheitsluecken-9974474.html",
+      "image_title": "Laptop mit Adobe-Logo auf dem Display brennt"
     },
     {
       "title": "Microsoft Patchday: Zwei Zeroday-Lücken werden bereits angegriffen",
@@ -65,14 +71,14 @@
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecken-in-Draytek-Geraeten-erlauben-Systemuebernahme-9973906.html"
     },
     {
-      "title": "Russische Websites offline: Offenbar ukrainischer Geburtstagsgruß für Putin",
-      "teaser": "Nicht nur die staatliche Medienholding war offline, sondern auch Webseiten des russischen Justizsystems. Verantwortlich sind womöglich ukrainische Aktivisten.",
-      "url": "https://www.heise.de/news/Aus-der-Ukraine-Cyberangriff-trifft-russische-Staatsmedien-und-Justizwebseiten-9971652.html"
-    },
-    {
       "title": "Die trügerische Sicherheit vermeintlich starker Passwörter",
       "teaser": "Viele Anwender vertrauen auf vermeintlich sichere und leicht zu merkende Kennwörter mit Sonderzeichen und Ziffern wie „!passwort#2024“. Doch Angreifer nutzen die dort regelmäßig zu findenden Muster aus. Mit bestimmten Maßnahmen können Unternehmen hier entgegen wirken.",
       "url": "https://www.heise.de/solutions/specops/die-truegerische-sicherheit-vermeintlich-starker-passwoerter/?source=nat_teas"
+    },
+    {
+      "title": "Russische Websites offline: Offenbar ukrainischer Geburtstagsgruß für Putin",
+      "teaser": "Nicht nur die staatliche Medienholding war offline, sondern auch Webseiten des russischen Justizsystems. Verantwortlich sind womöglich ukrainische Aktivisten.",
+      "url": "https://www.heise.de/news/Aus-der-Ukraine-Cyberangriff-trifft-russische-Staatsmedien-und-Justizwebseiten-9971652.html"
     },
     {
       "title": "SAP-Patchday: Sechs neu gemeldete Sicherheitslücken in Business-Software",
@@ -161,12 +167,6 @@
       "teaser": "Bauen Sie eine Cloud-native-Umgebung mit hochverfügbarem Kubernetes-Cluster und automatischer Skalierung auf, inkl. Access Management, Monitoring und GitOps.",
       "url": "https://www.heise.de/news/iX-Praxis-Workshop-Leitfaden-fuer-Cloud-Native-Architekturen-und-Kubernetes-9954488.html",
       "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
-    },
-    {
-      "title": "LKA Niedersachsen warnt vor andauernder Masche mit Erpresser-Mails",
-      "teaser": "Die Betrüger lassen nicht nach, warnt das LKA Niedersachsen. Erpresser-Mails etwa mit angeblichen Videoaufnahmen kursieren weiter.",
-      "url": "https://www.heise.de/news/LKA-Niedersachsen-warnt-vor-andauernder-Masche-mit-Erpresser-Mails-9960503.html",
-      "image_title": "Ein Nutzer sitzt am Rechner, dahinter ein Krimineller mit Maske und einem Brief mit Aufschrift \"Sextortion\" in der Hand"
     },
     {
       "title": "IoT-Webinar",
