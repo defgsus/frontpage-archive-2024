@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-09T09:08:10",
+  "timestamp": "2024-10-09T10:00:40",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,7 +25,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.f7faeb8dbd3fa7405989",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.3031bacfceba75c19d9a",
       "id": null,
       "text": null
     }
@@ -48,16 +48,10 @@
       "url": "https://www.heise.de/news/SAP-Patchday-Sechs-neu-gemeldete-Sicherheitsluecken-in-Business-Software-9971616.html"
     },
     {
-      "title": "Adobe-Patchday: Neun Produkte mit Sicherheitslücken",
-      "teaser": "Adobe hat zum Oktober-Patchday Sicherheitsupdates für neun Produkte veröffentlicht. Admins sollten sie zügig installieren.",
-      "url": "https://www.heise.de/news/Adobe-Patchday-Neun-Produkte-mit-Sicherheitsluecken-9974474.html",
-      "image_title": "Laptop mit Adobe-Logo auf dem Display brennt"
-    },
-    {
-      "title": "Microsoft Patchday: Zwei Zeroday-Lücken werden bereits angegriffen",
-      "teaser": "Zum Microsoft-Patchday im Oktober dichten die Entwickler auch zwei Sicherheitslücken ab, die bereits in freier Wildbahn angegriffen werden.",
-      "url": "https://www.heise.de/news/Microsoft-Patchday-Zwei-Zeroday-Luecken-werden-bereits-angegriffen-9974365.html",
-      "image_title": "Computer zeigt Windows-Logo an, Server drum herum brennen, qualmende Viren attackieren alles"
+      "title": "Samsung bringt Passkeys auf seine Smarthome-Geräte",
+      "teaser": "Samsungs will seine Smarthome-Geräte künftig per Passkey schützen. Das hat der Hersteller am Donnerstag auf der Entwicklerkonferenz SDC24 angekündigt. ​",
+      "url": "https://www.heise.de/news/Samsung-bringt-Passkeys-auf-seine-Smarthome-Geraete-9974767.html",
+      "image_title": "Samsung Developer Congress Außenansicht Veranstaltungsgebäude"
     },
     {
       "title": "Schwachstellen in Intels Sicherheitstechnologie TDX entdeckt​",
@@ -71,14 +65,14 @@
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecken-in-Draytek-Geraeten-erlauben-Systemuebernahme-9973906.html"
     },
     {
-      "title": "Die trügerische Sicherheit vermeintlich starker Passwörter",
-      "teaser": "Viele Anwender vertrauen auf vermeintlich sichere und leicht zu merkende Kennwörter mit Sonderzeichen und Ziffern wie „!passwort#2024“. Doch Angreifer nutzen die dort regelmäßig zu findenden Muster aus. Mit bestimmten Maßnahmen können Unternehmen hier entgegen wirken.",
-      "url": "https://www.heise.de/solutions/specops/die-truegerische-sicherheit-vermeintlich-starker-passwoerter/?source=nat_teas"
-    },
-    {
       "title": "Russische Websites offline: Offenbar ukrainischer Geburtstagsgruß für Putin",
       "teaser": "Nicht nur die staatliche Medienholding war offline, sondern auch Webseiten des russischen Justizsystems. Verantwortlich sind womöglich ukrainische Aktivisten.",
       "url": "https://www.heise.de/news/Aus-der-Ukraine-Cyberangriff-trifft-russische-Staatsmedien-und-Justizwebseiten-9971652.html"
+    },
+    {
+      "title": "Die trügerische Sicherheit vermeintlich starker Passwörter",
+      "teaser": "Viele Anwender vertrauen auf vermeintlich sichere und leicht zu merkende Kennwörter mit Sonderzeichen und Ziffern wie „!passwort#2024“. Doch Angreifer nutzen die dort regelmäßig zu findenden Muster aus. Mit bestimmten Maßnahmen können Unternehmen hier entgegen wirken.",
+      "url": "https://www.heise.de/solutions/specops/die-truegerische-sicherheit-vermeintlich-starker-passwoerter/?source=nat_teas"
     },
     {
       "title": "SAP-Patchday: Sechs neu gemeldete Sicherheitslücken in Business-Software",
@@ -93,6 +87,12 @@
       "image_title": "Online-Workshop: KRITIS – Zusätzliche Prüfverfahrenskompetenz für § 8a BSIG"
     },
     {
+      "title": "Android Patchday: System-Komponente ermöglicht Codeschmuggel aus dem Netz",
+      "teaser": "Am Patchday im Oktober schließt Google mehrere Sicherheitslücken in Android. Die gravierendste ermöglicht Codeschmuggel aus dem Netz.",
+      "url": "https://www.heise.de/news/Android-Patchday-Codeschmuggel-Luecke-in-System-Komponente-gestopft-9968447.html",
+      "image_title": "Stilisiertes Bild: Smartphone mit Android-Roboter auf dem Bildschirm, steht in Flammen"
+    },
+    {
       "title": "Microsoft: Word-Fehler löscht Dokumente, statt sie zu speichern",
       "teaser": "Microsoft warnt vor einem Fehler in Word aus Microsoft 365, wodurch die Textverarbeitung Dokumente löscht, anstatt sie zu speichern.",
       "url": "https://www.heise.de/news/Microsoft-warnt-vor-Word-Fehler-Dateien-geloescht-statt-gespeichert-9964336.html",
@@ -102,6 +102,12 @@
       "title": "Identitätsmanagement: Keycloak 26 setzt auf persistierende Benutzer-Sessions",
       "teaser": "Im neuen Release der IAM-Software sind User-Sessions standardmäßig persistierend. Eine Preview für Tracing mit OpenTelemetry dient der erhöhten Observability.",
       "url": "https://www.heise.de/news/Identitaetsmanagement-Keycloak-26-setzt-auf-persistierende-Benutzer-Sessions-9963727.html"
+    },
+    {
+      "title": "Linux: Kritik, Gründe und Folgen der CVE-Schwemme im Kernel",
+      "teaser": "Rund 55 pro Woche veröffentlichte Kernel-CVEs stellen auch die Größen der Linux-Branche vor Probleme – und nötigen zu mehr Zusammenarbeit und neuen Werkzeugen.",
+      "url": "https://www.heise.de/news/Linux-Kritik-Gruende-und-Folgen-der-CVE-Schwemme-im-Kernel-9963793.html",
+      "image_title": "Laptop zeigt eine CVE-Liste, mit einigen \"Linux\"-Zeilen, davor sitzt ein Pinguin"
     },
     {
       "title": "Nach USA-Bann: Google wirft Kaspersky aus Play Store",
@@ -161,12 +167,6 @@
       "teaser": "Die Seite online-wohngeld.de behauptet, Anträge an zuständige Behörden weiterzuleiten. Der Verbraucherzentrale Bundesverband warnt vor Abzocke.",
       "url": "https://www.heise.de/news/Verbraucherzentrale-warnt-vor-online-wohngeld-de-9961463.html",
       "image_title": "Verbotstafel: Eine gezeichnete Person mit Helm hält die Hand als \"Stop\"-Befehl hoch"
-    },
-    {
-      "title": "iX-Praxis-Workshop: Leitfaden für Cloud-Native-Architekturen und Kubernetes",
-      "teaser": "Bauen Sie eine Cloud-native-Umgebung mit hochverfügbarem Kubernetes-Cluster und automatischer Skalierung auf, inkl. Access Management, Monitoring und GitOps.",
-      "url": "https://www.heise.de/news/iX-Praxis-Workshop-Leitfaden-fuer-Cloud-Native-Architekturen-und-Kubernetes-9954488.html",
-      "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
     },
     {
       "title": "IoT-Webinar",
