@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-09T06:10:52",
+  "timestamp": "2024-10-09T07:00:57",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Patchday Microsoft",
+      "url": "https://www.heise.de/news/Microsoft-Patchday-Zwei-Zeroday-Luecken-werden-bereits-angegriffen-9974365.html"
+    },
+    {
       "title": "DrayOS",
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecken-in-Draytek-Geraeten-erlauben-Systemuebernahme-9973906.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Android-Patchday-Codeschmuggel-Luecke-in-System-Komponente-gestopft-9968447.html"
     },
     {
-      "title": "Cisco",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Cisco-patcht-Luecken-in-Produkten-quer-durch-die-Bank-9961998.html"
+      "title": "Microsoft Patchday: Zwei Zeroday-Lücken werden bereits angegriffen",
+      "teaser": "Zum Microsoft-Patchday im Oktober dichten die Entwickler auch zwei Sicherheitslücken ab, die bereits in freier Wildbahn angegriffen werden.",
+      "url": "https://www.heise.de/news/Microsoft-Patchday-Zwei-Zeroday-Luecken-werden-bereits-angegriffen-9974365.html",
+      "image_title": "Computer zeigt Windows-Logo an, Server drum herum brennen, qualmende Viren attackieren alles"
     },
     {
       "title": "Schwachstellen in Intels Sicherheitstechnologie TDX entdeckt​",
@@ -64,15 +70,15 @@
       "url": "https://www.heise.de/news/Aus-der-Ukraine-Cyberangriff-trifft-russische-Staatsmedien-und-Justizwebseiten-9971652.html"
     },
     {
+      "title": "Die trügerische Sicherheit vermeintlich starker Passwörter",
+      "teaser": "Viele Anwender vertrauen auf vermeintlich sichere und leicht zu merkende Kennwörter mit Sonderzeichen und Ziffern wie „!passwort#2024“. Doch Angreifer nutzen die dort regelmäßig zu findenden Muster aus. Mit bestimmten Maßnahmen können Unternehmen hier entgegen wirken.",
+      "url": "https://www.heise.de/solutions/specops/die-truegerische-sicherheit-vermeintlich-starker-passwoerter/?source=nat_teas"
+    },
+    {
       "title": "SAP-Patchday: Sechs neu gemeldete Sicherheitslücken in Business-Software",
       "teaser": "Der Patchday im Oktober von SAP bringt wenige Aktualisierungen. Sechs Lücken stopfen die Entwickler neu, zwei davon sind hochriskant.",
       "url": "https://www.heise.de/news/SAP-Patchday-Sechs-neu-gemeldete-Sicherheitsluecken-in-Business-Software-9971616.html",
       "image_title": "Stilisiertes Bild: Laptop mit SAP-Logo brennt, vor Serverracks"
-    },
-    {
-      "title": "Die trügerische Sicherheit vermeintlich starker Passwörter",
-      "teaser": "Viele Anwender vertrauen auf vermeintlich sichere und leicht zu merkende Kennwörter mit Sonderzeichen und Ziffern wie „!passwort#2024“. Doch Angreifer nutzen die dort regelmäßig zu findenden Muster aus. Mit bestimmten Maßnahmen können Unternehmen hier entgegen wirken.",
-      "url": "https://www.heise.de/solutions/specops/die-truegerische-sicherheit-vermeintlich-starker-passwoerter/?source=nat_teas"
     },
     {
       "title": "iX-Workshop: Spezialwissen für KRITIS – Prüfverfahrenskompetenz gemäß § 8a BSIG",
@@ -161,11 +167,6 @@
       "teaser": "Die Betrüger lassen nicht nach, warnt das LKA Niedersachsen. Erpresser-Mails etwa mit angeblichen Videoaufnahmen kursieren weiter.",
       "url": "https://www.heise.de/news/LKA-Niedersachsen-warnt-vor-andauernder-Masche-mit-Erpresser-Mails-9960503.html",
       "image_title": "Ein Nutzer sitzt am Rechner, dahinter ein Krimineller mit Maske und einem Brief mit Aufschrift \"Sextortion\" in der Hand"
-    },
-    {
-      "title": "Das neue c't-Sicherheitstool Desinfec't 2024/25 ist ab sofort erhältlich",
-      "teaser": "Windows-Trojaner erledigen, Daten retten, Fernhilfe leisten: Die aktuelle Desinfec't-Version ist als Heftbeilage und auf einem USB-Stick verfügbar.",
-      "url": "https://www.heise.de/news/Das-neue-c-t-Sicherheitstool-Desinfec-t-2024-25-ist-ab-sofort-erhaeltlich-9949998.html"
     },
     {
       "title": "IoT-Webinar",

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-09T06:10:48",
+  "timestamp": "2024-10-09T07:00:54",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,17 +26,6 @@
   ],
   "articles": [
     {
-      "title": "Heizlüfter mit Bitcoin-Miner: Ofen Pro von 21energy im Test​",
-      "teaser": "Die Wohnung gemütlich heizen und damit Geld verdienen? Der Ofen Pro von 21energy schürft Bitcoins und gibt dabei Wärme ab. So sollen die Heizkosten sinken.​",
-      "url": "https://www.heise.de/tests/Heizluefter-mit-Bitcoin-Miner-Ofen-Pro-von-21energy-im-Test-9968169.html"
-    },
-    {
-      "title": "Apples neue Systeme in Unternehmen: iOS 18, macOS 15 und Co. im Überblick",
-      "teaser": "Mehr Sicherheit für Benachrichtigungen und Apps, Vision-Pro-Integration, gelockerte Aktivierungssperre für iOS: So helfen Apples neue Systeme Firmenkunden.",
-      "url": "https://www.heise.de/ratgeber/Apples-neue-Systeme-in-Unternehmen-iOS-18-macOS-15-und-Co-im-Ueberblick-9968344.html",
-      "image_title": ","
-    },
-    {
       "title": "Vektorvirtuose: Amadine für iOS und macOS im Test",
       "teaser": "Das Tool Amadine erstellt Vektorgrafiken auf Mac, iPad und iPhone – zu einem vergleichsweise günstigen Preis. Wir haben es getestet.",
       "url": "https://www.heise.de/tests/Vektorvirtuose-Amadine-fuer-iOS-und-macOS-im-Test-9973877.html",
@@ -46,6 +35,23 @@
       "title": "Intranetkontrolle ausgelagert: Network Access Control aus der Cloud",
       "teaser": "Zugang und Zugriff im internen Netz zu verwalten, galt lange als Domäne großer Organisationen. Doch NAC gibt es auch als Dienst aus der öffentlichen Cloud.",
       "url": "https://www.heise.de/ratgeber/Intranetkontrolle-ausgelagert-Network-Access-Control-aus-der-Cloud-9961892.html"
+    },
+    {
+      "title": "Microsoft Patchday: Zwei Zeroday-Lücken werden bereits angegriffen",
+      "teaser": "Zum Microsoft-Patchday im Oktober dichten die Entwickler auch zwei Sicherheitslücken ab, die bereits in freier Wildbahn angegriffen werden.",
+      "url": "https://www.heise.de/news/Microsoft-Patchday-Zwei-Zeroday-Luecken-werden-bereits-angegriffen-9974365.html",
+      "image_title": "Computer zeigt Windows-Logo an, Server drum herum brennen, qualmende Viren attackieren alles"
+    },
+    {
+      "title": "Jetzt schon einsetzen: .NET 9.0 Release Candidate 2 mit Go-Live-Lizenz",
+      "teaser": "Auch wenn erst im November die fertige Version von .NET 9.0 erscheint, können Entwicklerinnen und Entwickler die aktuelle Vorschauversion produktiv nutzen.",
+      "url": "https://www.heise.de/news/Jetzt-schon-einsetzen-NET-9-0-Release-Candidate-2-mit-Go-Live-Lizenz-9974342.html"
+    },
+    {
+      "title": "Git 2.47 bringt Incremental-Multi-Pack-Indizes und eine Basis-Branch-Suche",
+      "teaser": "Insbesondere größere und komplexere Projekte profitieren von den Neuerungen in Git 2.47 wie dem verbesserten Suchindex in mehreren Packfiles.",
+      "url": "https://www.heise.de/news/Git-2-47-bringt-Incremental-Multi-Pack-Indizes-und-eine-Basis-Branch-Suche-9973869.html",
+      "image_title": "Aufmacher Git"
     },
     {
       "title": "iX-Workshop: Große Sprachmodelle (LLM) entwickeln und im Unternehmen einsetzen",
@@ -64,6 +70,11 @@
       "teaser": "Konkurrenz für Qualcomm – Mediatek will weiter ins High-End vordrängen und stellt dafür seinen zweiten außergewöhnlichen Smartphone-Prozessor vor.",
       "url": "https://www.heise.de/news/Mediatek-Dimensity-9400-Dieser-Prozessor-koennte-im-Galaxy-S25-stecken-9974109.html",
       "image_title": "Renderbild des Mediatek Dimensity 9400"
+    },
+    {
+      "title": "Heizlüfter mit Bitcoin-Miner: Ofen Pro von 21energy im Test​",
+      "teaser": "Die Wohnung gemütlich heizen und damit Geld verdienen? Der Ofen Pro von 21energy schürft Bitcoins und gibt dabei Wärme ab. So sollen die Heizkosten sinken.​",
+      "url": "https://www.heise.de/tests/Heizluefter-mit-Bitcoin-Miner-Ofen-Pro-von-21energy-im-Test-9968169.html"
     },
     {
       "title": "Kritische Sicherheitslücken in Draytek-Geräten erlauben Systemübernahme",
@@ -110,18 +121,6 @@
       "teaser": "Bislang fragt Apple im Monatstakt nach, ob man denn wirklich möchte, dass Screenshotting-Tools Zugriff auf den Bildschirm haben. In macOS 15.1 wird's besser.",
       "url": "https://www.heise.de/news/macOS-15-1-Apple-will-Nutzer-weniger-mit-Sicherheits-Nagscreens-nerven-9968358.html",
       "image_title": "Nachfrageprompt in macOS 15"
-    },
-    {
-      "title": "Funktionale Programmierung und mehr: Jetzt Vorträge zur BOB-Konferenz einreichen",
-      "teaser": "Die Konferenz zu Programmierthemen jenseits des Mainstreams findet auch 2025 erneut in Berlin statt. Bis Mitte November läuft der Call for Contributions.",
-      "url": "https://www.heise.de/news/Funktionale-Programmierung-und-mehr-Jetzt-Vortraege-zur-BOB-Konferenz-einreichen-9971793.html",
-      "image_title": "Logo der BOB Konferenz 2025"
-    },
-    {
-      "title": "Python 3.13: Bessere interaktive Shell und endlich Multithreading ohne GIL",
-      "teaser": "Das neue Python-Release wartet mit einer verbesserten interaktiven Kommandozeile auf und erlaubt es, den Global Interpreter Lock zu deaktivieren.",
-      "url": "https://www.heise.de/news/Python-3-13-Bessere-interaktive-Shell-und-endlich-Multithreading-ohne-GIL-9968435.html",
-      "image_title": "Zwei Schlangen in den Farben gelb und blau des Python-Logos, vor einem Laptop mit Python-Code"
     },
     {
       "title": "Zahlreiche Bestwerte",
