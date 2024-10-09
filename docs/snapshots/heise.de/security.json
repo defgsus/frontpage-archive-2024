@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-09T12:12:51",
+  "timestamp": "2024-10-09T13:15:59",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "HP Business Notebooks",
+      "url": "https://www.heise.de/news/HP-Business-Notebooks-Rechtausweitungsluecke-in-Hotkey-Support-9975278.html"
+    },
+    {
+      "title": "Litespeed Cache",
+      "url": "https://www.heise.de/news/Wordpress-Plug-in-Abermals-gravierende-Sicherheitsluecke-in-Litespeed-Cache-9975165.html"
+    },
+    {
       "title": "Ivanti",
       "url": "https://www.heise.de/news/Ivanti-stopft-ausgenutzte-Sicherheitsluecken-und-mehr-9974839.html"
     },
@@ -40,12 +48,16 @@
       "url": "https://www.heise.de/news/Adobe-Patchday-Neun-Produkte-mit-Sicherheitsluecken-9974474.html"
     },
     {
-      "title": "Patchday Microsoft",
-      "url": "https://www.heise.de/news/Microsoft-Patchday-Zwei-Zeroday-Luecken-werden-bereits-angegriffen-9974365.html"
+      "title": "HP Business-Notebooks: Rechtausweitungslücke in Hotkey-Support",
+      "teaser": "Hewlett Packard warnt vor einer Schwachstelle im Hotkey-Support von Business-Notebooks. Angreifer können dadurch ihre Rechte ausweiten.",
+      "url": "https://www.heise.de/news/HP-Business-Notebooks-Rechtausweitungsluecke-in-Hotkey-Support-9975278.html",
+      "image_title": "HP Notebook mit Hotkeys auf der Tastatur"
     },
     {
-      "title": "DrayOS",
-      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecken-in-Draytek-Geraeten-erlauben-Systemuebernahme-9973906.html"
+      "title": "Wordpress-Plug-in: Abermals gravierende Sicherheitslücke in Litespeed Cache",
+      "teaser": "Auf mehr als sechs Millionen Websites lauert eine schwerwiegende Schwachstelle im Wordpress-Plug-in Litespeed Cache. Ein Update steht bereit.",
+      "url": "https://www.heise.de/news/Wordpress-Plug-in-Abermals-gravierende-Sicherheitsluecke-in-Litespeed-Cache-9975165.html",
+      "image_title": "Laptop zeigt Wordpress-Logo, Viren fliegen herum"
     },
     {
       "title": "Ivanti stopft ausgenutzte Sicherheitslücken und mehr",
@@ -60,6 +72,11 @@
       "image_title": "Samsung Developer Congress Außenansicht Veranstaltungsgebäude"
     },
     {
+      "title": "Die trügerische Sicherheit vermeintlich starker Passwörter",
+      "teaser": "Viele Anwender vertrauen auf vermeintlich sichere und leicht zu merkende Kennwörter mit Sonderzeichen und Ziffern wie „!passwort#2024“. Doch Angreifer nutzen die dort regelmäßig zu findenden Muster aus. Mit bestimmten Maßnahmen können Unternehmen hier entgegen wirken.",
+      "url": "https://www.heise.de/solutions/specops/die-truegerische-sicherheit-vermeintlich-starker-passwoerter/?source=nat_teas"
+    },
+    {
       "title": "Schwachstellen in Intels Sicherheitstechnologie TDX entdeckt​",
       "teaser": "Wissenschaftler von der Universität zu Lübeck haben Schwachstellen in Intels Trusted Domain Extensions identifiziert. Intel hat eine Lücke bereits geschlossen.",
       "url": "https://www.heise.de/news/Forscher-entdecken-Schwachstellen-in-Intels-Trust-Domain-Extensions-9974224.html",
@@ -69,11 +86,6 @@
       "title": "Kritische Sicherheitslücken in Draytek-Geräten erlauben Systemübernahme",
       "teaser": "Forscher fanden im Betriebssystem der Vigor-Router vierzehn neue Lücken, betroffen sind zwei Dutzend teilweise veraltete Typen. Patches stehen bereit.",
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecken-in-Draytek-Geraeten-erlauben-Systemuebernahme-9973906.html"
-    },
-    {
-      "title": "Die trügerische Sicherheit vermeintlich starker Passwörter",
-      "teaser": "Viele Anwender vertrauen auf vermeintlich sichere und leicht zu merkende Kennwörter mit Sonderzeichen und Ziffern wie „!passwort#2024“. Doch Angreifer nutzen die dort regelmäßig zu findenden Muster aus. Mit bestimmten Maßnahmen können Unternehmen hier entgegen wirken.",
-      "url": "https://www.heise.de/solutions/specops/die-truegerische-sicherheit-vermeintlich-starker-passwoerter/?source=nat_teas"
     },
     {
       "title": "Russische Websites offline: Offenbar ukrainischer Geburtstagsgruß für Putin",
@@ -155,18 +167,6 @@
       "title": "Star Blizzard: Microsoft und US-Justiz gelingt Schlag gegen Cyberkriminelle",
       "teaser": "Eine Gruppe Cyberkrimineller greift Journalisten und Russland-Experten an. Jetzt wird ihre Infrastruktur geschröpft.",
       "url": "https://www.heise.de/news/Star-Blizzard-Microsoft-und-US-Justiz-gelingt-Schlag-gegen-Cyberkriminelle-9962006.html"
-    },
-    {
-      "title": "Neue APT-Gruppe \"CeranaKeeper\" missbraucht Dropbox und Github",
-      "teaser": "Bei Angriffen auf thailändische Behörden erbeuteten Cyberkriminelle Daten, indem sie verschlüsselte Dateien zu Filesharing-Diensten hochluden.",
-      "url": "https://www.heise.de/news/Neue-APT-Gruppe-CeranaKeeper-missbraucht-Dropbox-und-Github-9961562.html",
-      "image_title": "Kriminelle greifen Server an, Admin versucht, den Stecker zu ziehen"
-    },
-    {
-      "title": "\"Alptraum\": Daten aller niederländischen Polizisten geklaut – von Drittstaat?",
-      "teaser": "Hacker haben die Kontaktdaten aller Mitarbeiter der Polizei erbeutet. Nun kommt das Justizministerium mit einer weiteren alarmierenden Nachricht.",
-      "url": "https://www.heise.de/news/Alptraum-Daten-aller-niederlaendischen-Polizisten-geklaut-von-Drittstaat-9961529.html",
-      "image_title": "Animierte Grafik zeigt das Piktogramm eines Sicherheitsschlosses auf einer ausgestreckten Hand"
     },
     {
       "title": "IoT-Webinar",
