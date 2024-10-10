@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-10T13:16:18",
+  "timestamp": "2024-10-10T14:06:54",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Fortinet",
+      "url": "https://www.heise.de/news/Kritische-Fortinet-Sicherheitsluecke-wird-angegriffen-9976779.html"
+    },
+    {
       "title": "Firefox",
       "url": "https://www.heise.de/news/Firefox-Notfall-Update-stopft-angegriffenes-Sicherheitsleck-9976162.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Wordpress-Plug-in-Abermals-gravierende-Sicherheitsluecke-in-Litespeed-Cache-9975165.html"
     },
     {
-      "title": "Ivanti",
-      "url": "https://www.heise.de/news/Ivanti-stopft-ausgenutzte-Sicherheitsluecken-und-mehr-9974839.html"
+      "title": "Kritische Fortinet-Sicherheitslücke wird angegriffen",
+      "teaser": "Die US-amerikanische IT-Sicherheitsbehörde CISA warnt, dass eine ältere Lücke in Fortinet-Produkten aktuell angegriffen wird.",
+      "url": "https://www.heise.de/news/Kritische-Fortinet-Sicherheitsluecke-wird-angegriffen-9976779.html",
+      "image_title": "Stilisierte Grafik: Brennende Appliances im Netz"
     },
     {
       "title": "Kaspersky wickelt Geschäft im Vereinigten Königreich ab",
@@ -66,15 +72,15 @@
       "image_title": "Bibliothek mit einem aufgeschlagenen Buch, in dem ein Stethoskop liegt."
     },
     {
+      "title": "Die trügerische Sicherheit vermeintlich starker Passwörter",
+      "teaser": "Viele Anwender vertrauen auf vermeintlich sichere und leicht zu merkende Kennwörter mit Sonderzeichen und Ziffern wie „!passwort#2024“. Doch Angreifer nutzen die dort regelmäßig zu findenden Muster aus. Mit bestimmten Maßnahmen können Unternehmen hier entgegen wirken.",
+      "url": "https://www.heise.de/solutions/specops/die-truegerische-sicherheit-vermeintlich-starker-passwoerter/?source=nat_teas"
+    },
+    {
       "title": "iX-Workshop für KMUs: Schritt für Schritt zur sicheren IT",
       "teaser": "Erhalten Sie einen Überblick über Methoden und Best Practices für eine effiziente Cybersicherheitsstrategie.",
       "url": "https://www.heise.de/news/iX-Workshop-fuer-KMUs-Schritt-fuer-Schritt-zur-sicheren-IT-9961413.html",
       "image_title": "iX-Workshop: IT-Sicherheit für KMU"
-    },
-    {
-      "title": "Die trügerische Sicherheit vermeintlich starker Passwörter",
-      "teaser": "Viele Anwender vertrauen auf vermeintlich sichere und leicht zu merkende Kennwörter mit Sonderzeichen und Ziffern wie „!passwort#2024“. Doch Angreifer nutzen die dort regelmäßig zu findenden Muster aus. Mit bestimmten Maßnahmen können Unternehmen hier entgegen wirken.",
-      "url": "https://www.heise.de/solutions/specops/die-truegerische-sicherheit-vermeintlich-starker-passwoerter/?source=nat_teas"
     },
     {
       "title": "Passkeys: Neue Apple-Passwörter-App könnte für schnellere Verbreitung sorgen",
@@ -163,11 +169,6 @@
       "teaser": "Microsoft warnt vor einem Fehler in Word aus Microsoft 365, wodurch die Textverarbeitung Dokumente löscht, anstatt sie zu speichern.",
       "url": "https://www.heise.de/news/Microsoft-warnt-vor-Word-Fehler-Dateien-geloescht-statt-gespeichert-9964336.html",
       "image_title": "Laptop zeigt einen Speichern-Dialog, davor ein Papierkorb mit vielen Briefen darin"
-    },
-    {
-      "title": "Identitätsmanagement: Keycloak 26 setzt auf persistierende Benutzer-Sessions",
-      "teaser": "Im neuen Release der IAM-Software sind User-Sessions standardmäßig persistierend. Eine Preview für Tracing mit OpenTelemetry dient der erhöhten Observability.",
-      "url": "https://www.heise.de/news/Identitaetsmanagement-Keycloak-26-setzt-auf-persistierende-Benutzer-Sessions-9963727.html"
     },
     {
       "title": "IoT-Webinar",
