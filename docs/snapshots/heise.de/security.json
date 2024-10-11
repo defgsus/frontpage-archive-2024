@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-11T06:10:25",
+  "timestamp": "2024-10-11T07:00:50",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Juniper Junos OS, Junos OS Evolved",
+      "url": "https://www.heise.de/news/Juniper-Mehr-als-30-Sicherheitsluecken-gestopft-9977411.html"
+    },
+    {
       "title": "Fortinet",
       "url": "https://www.heise.de/news/Kritische-Fortinet-Sicherheitsluecke-wird-angegriffen-9976779.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/HP-Business-Notebooks-Rechtausweitungsluecke-in-Hotkey-Support-9975278.html"
     },
     {
-      "title": "Litespeed Cache",
-      "url": "https://www.heise.de/news/Wordpress-Plug-in-Abermals-gravierende-Sicherheitsluecke-in-Litespeed-Cache-9975165.html"
+      "title": "Juniper: Mehr als 30 Sicherheitslücken gestopft",
+      "teaser": "Juniper Networks hat mehr als 30 Sicherheitsmitteilungen veröffentlicht. Zugehörige Updates schließen Schwachstellen in Junos OS.",
+      "url": "https://www.heise.de/news/Juniper-Mehr-als-30-Sicherheitsluecken-gestopft-9977411.html",
+      "image_title": "Stilisierte Grafik: Brennende Appliances im Netz"
     },
     {
       "title": "heise security Webinar: Warum NTLM gefährlich bleibt und was dagegen zu tun ist",
@@ -65,15 +71,15 @@
       "image_title": "Zwei Hände halten ein Tablet; dessen Bildschirm ist blau und zeigt einen Kreis aus gelben Sternen, in deren Mitte ein gelbes Vorhängeschloss gezeichnet ist"
     },
     {
+      "title": "Die trügerische Sicherheit vermeintlich starker Passwörter",
+      "teaser": "Viele Anwender vertrauen auf vermeintlich sichere und leicht zu merkende Kennwörter mit Sonderzeichen und Ziffern wie „!passwort#2024“. Doch Angreifer nutzen die dort regelmäßig zu findenden Muster aus. Mit bestimmten Maßnahmen können Unternehmen hier entgegen wirken.",
+      "url": "https://www.heise.de/solutions/specops/die-truegerische-sicherheit-vermeintlich-starker-passwoerter/?source=nat_teas"
+    },
+    {
       "title": "Kaspersky wickelt Geschäft im Vereinigten Königreich ab",
       "teaser": "Kaspersky stellt seine Geschäfte in Großbritannien ein. Offenbar müssen knapp 50 Mitarbeiter in London gehen.",
       "url": "https://www.heise.de/news/Kaspersky-wickelt-Geschaeft-im-Vereinigten-Koenigreich-ab-9976555.html",
       "image_title": "Angestellte verlassen ein Geschäftsgebäude mit Kaspersky-Aufschrift und der Flagge des Vereinigten Königreichs darauf"
-    },
-    {
-      "title": "Die trügerische Sicherheit vermeintlich starker Passwörter",
-      "teaser": "Viele Anwender vertrauen auf vermeintlich sichere und leicht zu merkende Kennwörter mit Sonderzeichen und Ziffern wie „!passwort#2024“. Doch Angreifer nutzen die dort regelmäßig zu findenden Muster aus. Mit bestimmten Maßnahmen können Unternehmen hier entgegen wirken.",
-      "url": "https://www.heise.de/solutions/specops/die-truegerische-sicherheit-vermeintlich-starker-passwoerter/?source=nat_teas"
     },
     {
       "title": "macOS 15.0.1: So fixt Apple Probleme mit Sicherheitstools",
@@ -162,12 +168,6 @@
       "title": "Russische Websites offline: Offenbar ukrainischer Geburtstagsgruß für Putin",
       "teaser": "Nicht nur die staatliche Medienholding war offline, sondern auch Webseiten des russischen Justizsystems. Verantwortlich sind womöglich ukrainische Aktivisten.",
       "url": "https://www.heise.de/news/Aus-der-Ukraine-Cyberangriff-trifft-russische-Staatsmedien-und-Justizwebseiten-9971652.html"
-    },
-    {
-      "title": "SAP-Patchday: Sechs neu gemeldete Sicherheitslücken in Business-Software",
-      "teaser": "Der Patchday im Oktober von SAP bringt wenige Aktualisierungen. Sechs Lücken stopfen die Entwickler neu, zwei davon sind hochriskant.",
-      "url": "https://www.heise.de/news/SAP-Patchday-Sechs-neu-gemeldete-Sicherheitsluecken-in-Business-Software-9971616.html",
-      "image_title": "Stilisiertes Bild: Laptop mit SAP-Logo brennt, vor Serverracks"
     },
     {
       "title": "IoT-Webinar",
