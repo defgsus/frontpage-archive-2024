@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-11T11:00:41",
+  "timestamp": "2024-10-11T12:12:26",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "IoT/ICS Delta Schneider, Siemens, Rockwell Automation",
+      "url": "https://www.heise.de/news/CISA-warnt-vor-Sicherheitsluecken-in-21-IoT-Industrie-Kontrollsystemen-9978035.html"
+    },
+    {
       "title": "Tails",
       "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-6-8-1-schliesst-kritische-Sicherheitsluecke-9977905.html"
     },
@@ -44,11 +48,13 @@
       "url": "https://www.heise.de/news/Kritische-Fortinet-Sicherheitsluecke-wird-angegriffen-9976779.html"
     },
     {
-      "title": "Firefox",
-      "url": "https://www.heise.de/news/Firefox-Notfall-Update-stopft-angegriffenes-Sicherheitsleck-9976162.html"
+      "title": "CISA warnt vor Sicherheitslücken in 21 IoT-Industrie-Kontrollsystemen",
+      "teaser": "Die US-IT-Sicherheitsbehörde CISA hat 21 Sicherheitsmeldungen zu industriellen Steuerungssystemen veröffentlicht. IT-Verantwortliche sollten sie prüfen.",
+      "url": "https://www.heise.de/news/CISA-warnt-vor-Sicherheitsluecken-in-21-IoT-Industrie-Kontrollsystemen-9978035.html",
+      "image_title": "Futuristische Datenmatrix"
     },
     {
-      "title": "Anonymisierendes Linux: Tails 6.8.1 schließt kritische Sicherheitslücke",
+      "title": "Anonymisierendes Linux: Tails 6.8.1 kann persistenten Speicher reparieren",
       "teaser": "Das zum anonymen Surfen gedachte Tails-Linux schließt in Version 6.8.1 eine Sicherheitslücke. Es verbessert zudem den Umgang mit persistentem Speicher.",
       "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-6-8-1-schliesst-kritische-Sicherheitsluecke-9977905.html",
       "image_title": "Tails-Desktop auf einem Notebook auf einem Tisch"
@@ -66,15 +72,15 @@
       "image_title": "LKWs im Konvoi"
     },
     {
+      "title": "Die trügerische Sicherheit vermeintlich starker Passwörter",
+      "teaser": "Viele Anwender vertrauen auf vermeintlich sichere und leicht zu merkende Kennwörter mit Sonderzeichen und Ziffern wie „!passwort#2024“. Doch Angreifer nutzen die dort regelmäßig zu findenden Muster aus. Mit bestimmten Maßnahmen können Unternehmen hier entgegen wirken.",
+      "url": "https://www.heise.de/solutions/specops/die-truegerische-sicherheit-vermeintlich-starker-passwoerter/?source=nat_teas"
+    },
+    {
       "title": "Juniper: Mehr als 30 Sicherheitslücken gestopft",
       "teaser": "Juniper Networks hat mehr als 30 Sicherheitsmitteilungen veröffentlicht. Zugehörige Updates schließen Schwachstellen in Junos OS.",
       "url": "https://www.heise.de/news/Juniper-Mehr-als-30-Sicherheitsluecken-gestopft-9977411.html",
       "image_title": "Stilisierte Grafik: Brennende Appliances im Netz"
-    },
-    {
-      "title": "Die trügerische Sicherheit vermeintlich starker Passwörter",
-      "teaser": "Viele Anwender vertrauen auf vermeintlich sichere und leicht zu merkende Kennwörter mit Sonderzeichen und Ziffern wie „!passwort#2024“. Doch Angreifer nutzen die dort regelmäßig zu findenden Muster aus. Mit bestimmten Maßnahmen können Unternehmen hier entgegen wirken.",
-      "url": "https://www.heise.de/solutions/specops/die-truegerische-sicherheit-vermeintlich-starker-passwoerter/?source=nat_teas"
     },
     {
       "title": "heise security Webinar: Warum NTLM gefährlich bleibt und was dagegen zu tun ist",
@@ -164,12 +170,6 @@
       "teaser": "Adobe hat zum Oktober-Patchday Sicherheitsupdates für neun Produkte veröffentlicht. Admins sollten sie zügig installieren.",
       "url": "https://www.heise.de/news/Adobe-Patchday-Neun-Produkte-mit-Sicherheitsluecken-9974474.html",
       "image_title": "Laptop mit Adobe-Logo auf dem Display brennt"
-    },
-    {
-      "title": "Microsoft Patchday: Zwei Zeroday-Lücken werden bereits angegriffen",
-      "teaser": "Zum Microsoft-Patchday im Oktober dichten die Entwickler auch zwei Sicherheitslücken ab, die bereits in freier Wildbahn angegriffen werden.",
-      "url": "https://www.heise.de/news/Microsoft-Patchday-Zwei-Zeroday-Luecken-werden-bereits-angegriffen-9974365.html",
-      "image_title": "Computer zeigt Windows-Logo an, Server drum herum brennen, qualmende Viren attackieren alles"
     },
     {
       "title": "IoT-Webinar",
