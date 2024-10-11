@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-11T10:07:19",
+  "timestamp": "2024-10-11T11:00:41",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Tails",
+      "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-6-8-1-schliesst-kritische-Sicherheitsluecke-9977905.html"
+    },
+    {
       "title": "Juniper Junos OS, Junos OS Evolved",
       "url": "https://www.heise.de/news/Juniper-Mehr-als-30-Sicherheitsluecken-gestopft-9977411.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Firefox-Notfall-Update-stopft-angegriffenes-Sicherheitsleck-9976162.html"
     },
     {
-      "title": "HP Business Notebooks",
-      "url": "https://www.heise.de/news/HP-Business-Notebooks-Rechtausweitungsluecke-in-Hotkey-Support-9975278.html"
+      "title": "Anonymisierendes Linux: Tails 6.8.1 schließt kritische Sicherheitslücke",
+      "teaser": "Das zum anonymen Surfen gedachte Tails-Linux schließt in Version 6.8.1 eine Sicherheitslücke. Es verbessert zudem den Umgang mit persistentem Speicher.",
+      "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-6-8-1-schliesst-kritische-Sicherheitsluecke-9977905.html",
+      "image_title": "Tails-Desktop auf einem Notebook auf einem Tisch"
+    },
+    {
+      "title": "Updates unmöglich: Niederlande müssen Ampeln wegen Sicherheitslücke austauschen",
+      "teaser": "Per Funk können Angreifer die Ampeln aus der Ferne umschalten und somit den Straßenverkehr stören. Der Austausch wird Jahre in Anspruch nehmen.",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-Niederlande-tauschen-wohl-bis-2030-Zehntausende-Ampeln-aus-9977898.html",
+      "image_title": "Zwei Verkehrsampeln vor wolkigem Abendhimmel."
     },
     {
       "title": "Schwachstellen in der Supply-Chain verdoppeln sich jedes Jahr",
@@ -60,6 +72,11 @@
       "image_title": "Stilisierte Grafik: Brennende Appliances im Netz"
     },
     {
+      "title": "Die trügerische Sicherheit vermeintlich starker Passwörter",
+      "teaser": "Viele Anwender vertrauen auf vermeintlich sichere und leicht zu merkende Kennwörter mit Sonderzeichen und Ziffern wie „!passwort#2024“. Doch Angreifer nutzen die dort regelmäßig zu findenden Muster aus. Mit bestimmten Maßnahmen können Unternehmen hier entgegen wirken.",
+      "url": "https://www.heise.de/solutions/specops/die-truegerische-sicherheit-vermeintlich-starker-passwoerter/?source=nat_teas"
+    },
+    {
       "title": "heise security Webinar: Warum NTLM gefährlich bleibt und was dagegen zu tun ist",
       "teaser": "NTLM ist ein zentraler Schwachpunkt aller Windows-Netze – und wird das auf Jahre hinaus bleiben. Zumindest, wenn der verantwortliche Admin das nicht ändert.",
       "url": "https://www.heise.de/news/heise-security-Webinar-Warum-NTLM-gefaehrlich-bleibt-und-was-dagegen-zu-tun-ist-9949936.html"
@@ -69,11 +86,6 @@
       "teaser": "Etliche Snapdragon-Chips für Android-Geräte weisen eine als kritisch eingestufte Sicherheitslücke auf. Sie wurde schon vereinzelt und gezielt ausgenutzt.",
       "url": "https://www.heise.de/news/Zero-Day-Luecke-in-Qualcomm-Mobilprozessoren-bereits-vereinzelt-angegriffen-9977340.html",
       "image_title": "Stilisiertes Bild: Smartphone mit Android-Roboter auf dem Bildschirm, steht in Flammen"
-    },
-    {
-      "title": "Die trügerische Sicherheit vermeintlich starker Passwörter",
-      "teaser": "Viele Anwender vertrauen auf vermeintlich sichere und leicht zu merkende Kennwörter mit Sonderzeichen und Ziffern wie „!passwort#2024“. Doch Angreifer nutzen die dort regelmäßig zu findenden Muster aus. Mit bestimmten Maßnahmen können Unternehmen hier entgegen wirken.",
-      "url": "https://www.heise.de/solutions/specops/die-truegerische-sicherheit-vermeintlich-starker-passwoerter/?source=nat_teas"
     },
     {
       "title": "EU-Rat bringt Cyber Resilience Act auf den Weg",
@@ -158,17 +170,6 @@
       "teaser": "Zum Microsoft-Patchday im Oktober dichten die Entwickler auch zwei Sicherheitslücken ab, die bereits in freier Wildbahn angegriffen werden.",
       "url": "https://www.heise.de/news/Microsoft-Patchday-Zwei-Zeroday-Luecken-werden-bereits-angegriffen-9974365.html",
       "image_title": "Computer zeigt Windows-Logo an, Server drum herum brennen, qualmende Viren attackieren alles"
-    },
-    {
-      "title": "Schwachstellen in Intels Sicherheitstechnologie TDX entdeckt​",
-      "teaser": "Wissenschaftler von der Universität zu Lübeck haben Schwachstellen in Intels Trusted Domain Extensions identifiziert. Intel hat eine Lücke bereits geschlossen.",
-      "url": "https://www.heise.de/news/Forscher-entdecken-Schwachstellen-in-Intels-Trust-Domain-Extensions-9974224.html",
-      "image_title": "TDX"
-    },
-    {
-      "title": "Kritische Sicherheitslücken in Draytek-Geräten erlauben Systemübernahme",
-      "teaser": "Forscher fanden im Betriebssystem der Vigor-Router vierzehn neue Lücken, betroffen sind zwei Dutzend teilweise veraltete Typen. Patches stehen bereit.",
-      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecken-in-Draytek-Geraeten-erlauben-Systemuebernahme-9973906.html"
     },
     {
       "title": "IoT-Webinar",
