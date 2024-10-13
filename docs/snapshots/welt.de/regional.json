@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-13T14:01:17",
+  "timestamp": "2024-10-13T15:01:01",
   "url": "https://www.welt.de/regionales/",
   "response": {
     "status": 200
@@ -25,6 +25,13 @@
     }
   ],
   "articles": [
+    {
+      "title": "Polizei ermittelt nach „Ausländer raus“-Gesängen auf Volksfest",
+      "teaser": "In den sozialen Netzwerken kursiert erneut ein Video, bei dem feiernde Menschen zu dem Lied „L‘Amour toujours“ von Gigi D‘Agostino rassistische Parolen grölen. Die Aufnahme soll von einem Volksfest in Südhessen am Freitag stammen.",
+      "url": "https://www.welt.de/vermischtes/",
+      "image_url": "https://img.welt.de/img/vermischtes/mobile253990886/3317935377-ci23x11-w200/Polizisten-auf-der-Wiesn.jpg",
+      "image_title": "Polizisten auf der Wiesn"
+    },
     {
       "title": "„Alles, was dann gegen meine Meinung geht, ist gleich diktatorisch“",
       "teaser": "Eine Woche lang wird in Hamburg über den Zustand der Pressefreiheit, die Rolle der Medien und des Internets diskutiert. Gleich zu Beginn behandelt eine prominent besetzte Gesprächsrunde grundsätzliche Fragen einer funktionierenden Demokratie.",
@@ -70,14 +77,6 @@
       "image_url": "https://img.welt.de/img/regionales/hamburg/mobile253956774/1777939197-ci23x11-w200/Lamin-Leroy-Gibba-2.jpg",
       "image_title": "Lamin Leroy Gibba in der Speicherstadt: Das „Gefühl von Hamburg“ vermitteln",
       "author": "Anne Klesse"
-    },
-    {
-      "title": "Bauen mit Weitsicht",
-      "teaser": "Auf der Fachmesse Expo Real in München präsentieren Städte und Entwickler aus NRW ihre wichtigsten Projekte und suchen nach Investoren. Das ist im derzeit schwierigen Marktumfeld ziemlich herausfordernd.",
-      "url": "https://www.welt.de/regionales/nrw/",
-      "image_url": "https://img.welt.de/img/regionales/nrw/mobile253940972/5637934287-ci23x11-w200/Expo-Real-Koeln-Rendering-Deutzer-Hafen.jpg",
-      "image_title": "In Köln soll der Deutzer Hafen zu einem attraktiven Mischgebiet werden, mit bis zu 3000 Wohneinheiten und 6000 Arbeitsplätzen.",
-      "author": "Guido M. Hartmann"
     },
     {
       "title": "Mit einem alten Merkel-Slogan wirbt SPD-Mann Tschentscher für sich",
@@ -165,10 +164,17 @@
       "image_title": "Barrikaden brennen auf der Straße im Berliner Bezirk Neukölln bei den Ausschreitungen"
     },
     {
+      "title": "Bauen mit Weitsicht",
+      "teaser": "Auf der Fachmesse Expo Real in München präsentieren Städte und Entwickler aus NRW ihre wichtigsten Projekte und suchen nach Investoren. Das ist im derzeit schwierigen Marktumfeld ziemlich herausfordernd.",
+      "url": "https://www.welt.de/regionales/nrw/",
+      "image_url": "https://img.welt.de/img/regionales/nrw/mobile253940972/5637934287-ci16x9-w200/Expo-Real-Koeln-Rendering-Deutzer-Hafen.jpg",
+      "image_title": "In Köln soll der Deutzer Hafen zu einem attraktiven Mischgebiet werden, mit bis zu 3000 Wohneinheiten und 6000 Arbeitsplätzen.",
+      "author": "Guido M. Hartmann"
+    },
+    {
       "title": "Der Begriff „Islamismus“ ist unverzichtbar",
-      "teaser": "Im Kampf gegen den radikalen Islam darf der Staat sich die Begriffe zur Markierung seiner Gegner keinesfalls von diesen vorgeben lassen. Das gilt insbesondere für den Ausdruck „Islamismus“. Er benennt die Gefahr präzise und erteilt einem Generalverdacht gegen alle Muslime gleichzeitig eine Abfuhr.",
       "url": "https://www.welt.de/regionales/nrw/article253956108/Radikaler-Islam-Der-Begriff-Islamismus-ist-unverzichtbar.html",
-      "image_url": "https://img.welt.de/img/regionales/nrw/mobile253955138/0917937807-ci16x9-w200/Kombo-Stoldt-Demo-Essen.jpg",
+      "image_url": "https://img.welt.de/img/regionales/nrw/mobile253955138/0917937807-ci102l-w200/Kombo-Stoldt-Demo-Essen.jpg",
       "image_title": "Das Foto zeigt demonstrierende Islamisten am 3.11.2023 in Essen und Kommentator Till Stoldt",
       "author": "Till-R. Stoldt"
     },
@@ -190,12 +196,6 @@
       "url": "https://www.welt.de/vermischtes/article253969298/Guetersloh-Autobrand-an-Tankstelle-Ermittler-gehen-von-Unglueck-aus.html",
       "image_url": "https://img.welt.de/img/vermischtes/mobile253969310/3387937547-ci102l-w200/Tote-und-Schwerverletzter-an-Tankstelle-in-Guetersloh.jpg",
       "image_title": "Das ausgebrannte Wrack in Gütersloh"
-    },
-    {
-      "title": "Messerstecherei vor Podolski-Abschiedsspiel – Fahndung nach 17-jährigem Marokkaner",
-      "url": "https://www.welt.de/vermischtes/kriminalitaet/article253963656/Koeln-Messerstecherei-vor-Podolski-Abschiedsspiel-Fahndung-nach-17-jaehrigem-Marokkaner.html",
-      "image_url": "https://img.welt.de/img/bildergalerien/mobile253963654/3077939687-ci102l-w200/Mann-in-Koelner-Innenstadt-durch-Messer-verletzt.jpg",
-      "image_title": "Der Tatort in der Kölner Innenstadt am Donnerstagabend"
     },
     {
       "title": "Scharfe Kritik an Ampel-Regierung – „Werden in der Migrationspolitik neues Kapitel aufschlagen“",
@@ -408,6 +408,66 @@
       "image_title": "Landesparteitag AfD Mecklenburg-Vorpommern"
     },
     {
+      "title": "Neubrandenburgs OB Witt zu Rücktritt: «Eine Menge Druck»",
+      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article253991416/Neubrandenburgs-OB-Witt-zu-Ruecktritt-Eine-Menge-Druck.html"
+    },
+    {
+      "title": "79-jährige Frau nach Küchenbrand in Grimma verletzt",
+      "url": "https://www.welt.de/regionales/sachsen/article253991430/79-jaehrige-Frau-nach-Kuechenbrand-in-Grimma-verletzt.html"
+    },
+    {
+      "title": "Zwei Verletzte bei Unfall zwischen Auto und Straßenbahn",
+      "url": "https://www.welt.de/regionales/hessen/article253991128/Zwei-Verletzte-bei-Unfall-zwischen-Auto-und-Strassenbahn.html"
+    },
+    {
+      "title": "Weimarer Zwiebelmarkt lockt 250.000 Besucher",
+      "url": "https://www.welt.de/regionales/thueringen/article253990974/Weimarer-Zwiebelmarkt-lockt-250-000-Besucher.html"
+    },
+    {
+      "title": "Polizei ermittelt nach „Ausländer raus“-Gesängen auf Volksfest",
+      "url": "https://www.welt.de/vermischtes/article253990622/Hessen-Polizei-ermittelt-nach-Auslaender-raus-Gesaengen-auf-Volksfest.html"
+    },
+    {
+      "title": "Bayern verdoppelt Olympia-Prämie für seine Sportler",
+      "url": "https://www.welt.de/regionales/bayern/article253990944/Bayern-verdoppelt-Olympia-Praemie-fuer-seine-Sportler.html"
+    },
+    {
+      "title": "Füchse Berlin nach Löwen-Sieg neuer Tabellenführer",
+      "url": "https://www.welt.de/regionales/berlin/article253990916/Fuechse-Berlin-nach-Loewen-Sieg-neuer-Tabellenfuehrer.html"
+    },
+    {
+      "title": "Böller aus Fenster geworfen - zwei Fußgänger verletzt",
+      "url": "https://www.welt.de/regionales/sachsen/article253990898/Boeller-aus-Fenster-geworfen-zwei-Fussgaenger-verletzt.html"
+    },
+    {
+      "title": "Neuseeland dominiert das Duell um den America's Cup",
+      "url": "https://www.welt.de/regionales/hamburg/article253990856/Neuseeland-dominiert-das-Duell-um-den-America-s-Cup.html"
+    },
+    {
+      "title": "Schleswig-Holsteins Grüne sehen Justizreform kritisch",
+      "url": "https://www.welt.de/regionales/hamburg/article253990632/Schleswig-Holsteins-Gruene-sehen-Justizreform-kritisch.html"
+    },
+    {
+      "title": "Mann ertrinkt in Rummelsburger Bucht - Obduktion angeregt",
+      "url": "https://www.welt.de/regionales/berlin/article253990654/Mann-ertrinkt-in-Rummelsburger-Bucht-Obduktion-angeregt.html"
+    },
+    {
+      "title": "Nach Dynamos Pokal-Aus: Auch Aue tut sich schwer",
+      "url": "https://www.welt.de/regionales/sachsen/article253990606/Nach-Dynamos-Pokal-Aus-Auch-Aue-tut-sich-schwer.html"
+    },
+    {
+      "title": "Der fetteste Kürbis Europas kommt dieses Jahr aus Belgien",
+      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article253990582/Der-fetteste-Kuerbis-Europas-kommt-dieses-Jahr-aus-Belgien.html"
+    },
+    {
+      "title": "Österreich: Zuwachs für rechte FPÖ auch bei Landtagswahl",
+      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article253990210/Oesterreich-Zuwachs-fuer-rechte-FPOe-auch-bei-Landtagswahl.html"
+    },
+    {
+      "title": "Podolski besucht verletzten Fan",
+      "url": "https://www.welt.de/regionales/nrw/article253990266/Podolski-besucht-verletzten-Fan.html"
+    },
+    {
       "title": "Ludwigsburg feiert zweiten Sieg in Champions League",
       "url": "https://www.welt.de/regionales/baden-wuerttemberg/article253990190/Ludwigsburg-feiert-zweiten-Sieg-in-Champions-League.html"
     },
@@ -474,62 +534,6 @@
     {
       "title": "Nach regnerischem Wochenstart mildes Herbstwetter erwartet",
       "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article253989122/Nach-regnerischem-Wochenstart-mildes-Herbstwetter-erwartet.html"
-    },
-    {
-      "title": "Österreich: Erneut Zugewinne für rechte FPÖ bei Landtagswahl",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article253989094/Oesterreich-Erneut-Zugewinne-fuer-rechte-FPOe-bei-Landtagswahl.html"
-    },
-    {
-      "title": "Mehr als 750 Aussteller auf der Infa in Hannover",
-      "url": "https://www.welt.de/regionales/niedersachsen/article253989090/Mehr-als-750-Aussteller-auf-der-Infa-in-Hannover.html"
-    },
-    {
-      "title": "Autofahrer bei Unfall schwer verletzt - Verdacht auf Alkohol",
-      "url": "https://www.welt.de/regionales/sachsen-anhalt/article253989028/Autofahrer-bei-Unfall-schwer-verletzt-Verdacht-auf-Alkohol.html"
-    },
-    {
-      "title": "Acht Polizisten nach Unfall auf Weg zum Einsatz verletzt",
-      "url": "https://www.welt.de/regionales/berlin/article253989022/Acht-Polizisten-nach-Unfall-auf-Weg-zum-Einsatz-verletzt.html"
-    },
-    {
-      "title": "Von Storch führt Berliner AfD in Bundestagswahlkampf",
-      "url": "https://www.welt.de/regionales/berlin/article253989002/Von-Storch-fuehrt-Berliner-AfD-in-Bundestagswahlkampf.html"
-    },
-    {
-      "title": "Wasen geht zu Ende - so viele Besucher wie selten zuvor",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article253988994/Wasen-geht-zu-Ende-so-viele-Besucher-wie-selten-zuvor.html"
-    },
-    {
-      "title": "Sachsens Wetter windig - mildere Temperaturen in Sicht",
-      "url": "https://www.welt.de/regionales/sachsen/article253988986/Sachsens-Wetter-windig-mildere-Temperaturen-in-Sicht.html"
-    },
-    {
-      "title": "25. NordArt: Mehr als 100.000 Besucher in Büdelsdorf",
-      "url": "https://www.welt.de/regionales/hamburg/article253988970/25-NordArt-Mehr-als-100-000-Besucher-in-Buedelsdorf.html"
-    },
-    {
-      "title": "Mann gerät mit Arm in Fleischwolf - schwere Verletzungen",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article253988524/Mann-geraet-mit-Arm-in-Fleischwolf-schwere-Verletzungen.html"
-    },
-    {
-      "title": "28-Jähriger bei Familienstreit lebensgefährlich verletzt",
-      "url": "https://www.welt.de/regionales/bayern/article253988408/28-Jaehriger-bei-Familienstreit-lebensgefaehrlich-verletzt.html"
-    },
-    {
-      "title": "Diebe räumen Garage leer - 29.000 Euro Schaden",
-      "url": "https://www.welt.de/regionales/thueringen/article253988394/Diebe-raeumen-Garage-leer-29-000-Euro-Schaden.html"
-    },
-    {
-      "title": "Özdemir führt Linke zur Bürgerschaftswahl",
-      "url": "https://www.welt.de/regionales/hamburg/article253988372/Oezdemir-fuehrt-Linke-zur-Buergerschaftswahl.html"
-    },
-    {
-      "title": "Nach Sturmböen ruhigeres Wetter in Niedersachsen",
-      "url": "https://www.welt.de/regionales/niedersachsen/article253988374/Nach-Sturmboeen-ruhigeres-Wetter-in-Niedersachsen.html"
-    },
-    {
-      "title": "Kunstwerk für Projekt «Purple Path» in Stollberg eingeweiht",
-      "url": "https://www.welt.de/regionales/sachsen/article253988356/Kunstwerk-fuer-Projekt-Purple-Path-in-Stollberg-eingeweiht.html"
     },
     {
       "title": "24-Jähriger wird in Brandenburg von Traktor überrollt und stirbt",
@@ -644,10 +648,6 @@
       "url": "https://www.welt.de/vermischtes/kriminalitaet/article253952716/Vor-Podolski-Abschiedsspiel-Mann-sticht-polnischen-Fan-in-Koeln-mit-Messer-nieder.html"
     },
     {
-      "title": "Die Verteidigung gipfelt in der verstörenden Frage „Kann ein Mensch überhaupt brennen?“",
-      "url": "https://www.welt.de/politik/deutschland/plus253945958/Mordprozess-gegen-Syrer-Die-Verteidigung-gipfelt-in-der-verstoerenden-Frage-Kann-ein-Mensch-ueberhaupt-brennen.html"
-    },
-    {
       "title": "Wer in Hamburg wirklich die Arbeit verweigert",
       "teaser": "Öffentliche Einschätzungen zu Bürgergeldbeziehern gibt es zuhauf. Doch die Fakten-Basis dafür ist bisweilen überschaubar. Eine Auswertung der Hamburger Agentur für Arbeit zeichnet jetzt das statistisch korrekte Bild für die Bürgergeldbezieher der Hansestadt.",
       "url": "https://www.welt.de/regionales/hamburg/",
@@ -680,19 +680,19 @@
       "author": "Anne Klesse"
     },
     {
+      "title": "Die Verteidigung gipfelt in der verstörenden Frage „Kann ein Mensch überhaupt brennen?“",
+      "teaser": "Ein 24-jähriger Syrer soll wegen enttäuschter Liebe mit Benzinkanistern bei seiner Ex-Verlobten aufgetaucht sein und ihre 17-jährige Schwester in Brand gesetzt haben. Sie stirbt an den Folgen. Der Angeklagte schweigt. Nun soll die zwölfjährige Schwester des Opfers aussagen, die alles miterlebt hat.",
+      "url": "https://www.welt.de/politik/deutschland/plus253945958/Mordprozess-gegen-Syrer-Die-Verteidigung-gipfelt-in-der-verstoerenden-Frage-Kann-ein-Mensch-ueberhaupt-brennen.html",
+      "image_url": "https://img.welt.de/img/politik/deutschland/mobile253945970/5717938757-ci23x11-w200/Beginn-Mord-Prozess-in-Arnsberg-4.jpg",
+      "image_title": "Der 24-jährige Angeklagte soll eine 17-Jährige mit Benzin übergossen und angezündet haben",
+      "author": "Kristian Frigelj"
+    },
+    {
       "title": "Grüne stürzen in Umfrage auf schlechtesten Wert seit 2010 – CDU legt spürbar zu",
       "teaser": "Baden-Württemberg wird als einziges Land unter grüner Führung regiert. Eine neue Infratest-Umfrage lässt zweifeln, ob das nach der nächsten Landtagswahl so bleibt: Die CDU kann den Vorsprung gegenüber der Partei von Winfried Kretschmann klar ausbauen. Die SPD legt derweil zum zweiten Mal in Folge zu.",
       "url": "https://www.welt.de/politik/deutschland/",
       "image_url": "https://img.welt.de/img/bildergalerien/mobile253940770/1827932227-ci23x11-w200/Landespressekonferenz-mit-Ministerpraesident-Kretschmann.jpg",
       "image_title": "Bei den schlechten Werten für die Grünen in Baden-Württemberg kommt auch Ministerpräsident Kretschmann ins Grübeln"
-    },
-    {
-      "title": "Goldschürfen in Deutschland – Ein Kenner verrät, wie er das Edelmetall findet",
-      "teaser": "Eine wachsende Szene sucht in Flüssen und Bächen nach dem großen Fund. So auch Paul Großmann, der für die Goldsuche sogar seinen erlernten Beruf aufgegeben hat. WELT hat ihn zu einem geheimen Ort begleitet.",
-      "url": "https://www.welt.de/vermischtes/plus253716884/Gold-schuerfen-in-Deutschland-Ein-Kenner-verraet-wie-er-das-Edelmetall-findet.html",
-      "image_url": "https://img.welt.de/img/vermischtes/mobile253774804/2317934517-ci23x11-w200/Paul-Bertram.jpg",
-      "image_title": "Behutsam verteilt der Goldsucher Sand und Gestein auf seiner eigens entwickelten Waschrinne",
-      "author": "Constantin Weeg"
     }
   ]
 }
