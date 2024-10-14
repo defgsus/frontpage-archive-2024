@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-14T12:13:18",
+  "timestamp": "2024-10-14T13:17:06",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.3031bacfceba75c19d9a",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.aca647ad673f73b4f25a",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Wireshark",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Angreifer-koennen-Netzwerkanalysetool-Wireshark-crashen-lassen-9979991.html"
+    },
     {
       "title": "Veeam Backup & Replication",
       "url": "https://www.heise.de/news/Ransomware-Sophos-warnt-vor-Angriffen-auf-Veeam-Sicherheitsluecke-9979932.html"
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/CISA-warnt-vor-Sicherheitsluecken-in-21-IoT-Industrie-Kontrollsystemen-9978035.html"
     },
     {
-      "title": "Tails",
-      "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-6-8-1-schliesst-kritische-Sicherheitsluecke-9977905.html"
+      "title": "Sicherheitsupdate: Angreifer können Netzwerkanalysetool Wireshark crashen lassen",
+      "teaser": "Wireshark ist in einer gegen mögliche Angriffe abgesicherten Version erschienen. Darin haben die Entwickler auch mehrere Bugs gefixt.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Angreifer-koennen-Netzwerkanalysetool-Wireshark-crashen-lassen-9979991.html",
+      "image_title": "Ein ladender Update-Balken"
     },
     {
       "title": "iX-Workshop IT-Sicherheit: Pentests methodisch planen, anfordern und analysieren",
@@ -159,12 +165,6 @@
       "teaser": "Etliche Snapdragon-Chips für Android-Geräte weisen eine als kritisch eingestufte Sicherheitslücke auf. Sie wurde schon vereinzelt und gezielt ausgenutzt.",
       "url": "https://www.heise.de/news/Zero-Day-Luecke-in-Qualcomm-Mobilprozessoren-bereits-vereinzelt-angegriffen-9977340.html",
       "image_title": "Stilisiertes Bild: Smartphone mit Android-Roboter auf dem Bildschirm, steht in Flammen"
-    },
-    {
-      "title": "EU-Rat bringt Cyber Resilience Act auf den Weg",
-      "teaser": "Künftig müssen vernetzte Produkte, die in der EU in Verkehr gebracht werden, gegen Angriffe gesichert sein und das mit dem CE-Zeichen signalisieren.",
-      "url": "https://www.heise.de/news/EU-Rat-bringt-Cyber-Resilience-Act-auf-den-Weg-9977103.html",
-      "image_title": "Zwei Hände halten ein Tablet; dessen Bildschirm ist blau und zeigt einen Kreis aus gelben Sternen, in deren Mitte ein gelbes Vorhängeschloss gezeichnet ist"
     },
     {
       "title": "IoT-Webinar",
