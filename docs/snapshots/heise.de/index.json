@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-14T03:16:58",
+  "timestamp": "2024-10-14T04:09:19",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -337,9 +337,9 @@
       "image_title": ","
     },
     {
-      "title": "Wie eine Kombi aus On-Prem und Cloud aussehen kann",
-      "teaser": "Es ist ein Unterschied, ob Lösungen On-Premises oder in der Cloud betrieben werden. Doch was ist wann sinnvoll? In einem Webcast zeigen wir anhand einer UEM-Lösung, warum ein hybrider Ansatz, der die jeweils besten Eigenschaften kombiniert, häufig die optimale Lösung ist.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/uem-in-der-cloud-oder-on-prem-warum-entweder-oder-hier-der-falsche-ansatz-ist-4782/?source=nat_teas"
+      "title": "Öffentliches oder privates Peering – die Vorteile von direktem Datenaustausch",
+      "teaser": "Damit das Internet funktioniert, tauschen Carrier, ISPs und Netzbetreiber Daten aus („Peering“). In der Regel ohne gegenseitige Bezahlung. In einem Webcast erklären wir, welche weiteren Vorteile Unternehmen von einem direkten Datenaustausch haben und wie sich öffentliches und privates Peering unterscheiden.",
+      "url": "https://business-services.heise.de/netze/lan-wan/beitrag/cloud-ki-oder-iot-warum-peering-und-private-verbindungen-entscheidend-fuer-den-unternehmenserfolg-sind-4812/?source=hbsad-ersatz"
     },
     {
       "title": "Zweiteiliges Webinar: BSI-Compliance für Apple-Geräte im Unternehmen",
@@ -563,6 +563,22 @@
       "url": "https://www.heise.de/en/news/Apple-Long-time-hardware-manager-retires-9978297.html"
     },
     {
+      "title": "Alexa-Alarm ist zu leise​",
+      "teaser": "Wenn ich auf meiner Alexa einen Timer stelle, ist der Alarm so leise, dass ich ihn mitunter verpasse. Kann ich die Lautstärke dauerhaft für den Alarm anpassen?",
+      "url": "https://www.heise.de/ratgeber/Alexa-Alarm-ist-zu-leise-9957095.html"
+    },
+    {
+      "title": "Web-Tipps: Ethik, zeitgemäß",
+      "teaser": "Der Practical Ethics Blog der Universität Oxford thematisiert aktuelle ethische Fragen wie zu Fleischkonsum, KI-Vertrauen und Machtverteilung.",
+      "url": "https://www.heise.de/news/Web-Tipps-Ethik-zeitgemaess-9958450.html"
+    },
+    {
+      "title": "Apple Watch: 10 Tipps, um mehr aus watchOS 11 herauszuholen",
+      "teaser": "Wegbegleitung, Dolmetscher, Vitalzeichen, Trainingsbelastung, Live-Infos und eine nützlichere Doppeltipp-Geste: So machen Sie mehr mit Ihrer Watch.",
+      "url": "https://www.heise.de/ratgeber/watchOS-11-Arbeiten-mit-den-besten-neuen-Features-9959815.html",
+      "image_title": ","
+    },
+    {
       "title": "Vektorvirtuose: Amadine für iOS und macOS im Test",
       "teaser": "Das Tool Amadine erstellt Vektorgrafiken auf Mac, iPad und iPhone – zu einem vergleichsweise günstigen Preis. Wir haben es getestet.",
       "url": "https://www.heise.de/tests/Vektorvirtuose-Amadine-fuer-iOS-und-macOS-im-Test-9973877.html",
@@ -575,27 +591,21 @@
       "image_title": ", Bilder: Mockup Free, unsplash.com; Montage: Mac & i"
     },
     {
-      "title": "Mit GeräuschunterdrückungApple AirPods 4 mit ANC im Test",
-      "teaser": "Erstmals gibt es günstigere AirPods mit aktiver Geräuschunterdrückung. Doch wie gut funktioniert das? Wir haben die Apple-In-Ears getestet.",
-      "url": "https://www.heise.de/tests/Jetzt-bitte-leise-AirPods-4-mit-ANC-im-Test-9952721.html",
-      "image_title": "AirPods 4"
-    },
-    {
       "title": "Jetzt wieder im heise Shop vorrätig: Make Special LoRaWAN",
       "teaser": "Das Heft führt in die C-Programmierung von LoRaWAN-Sensorknoten ein. Mit den beigelegten Funk- und Temperaturmodulen kann man sofort praktisch loslegen.",
       "url": "https://www.heise.de/news/Jetzt-wieder-im-heise-Shop-vorraetig-Make-Special-LoRaWAN-9961144.html"
     },
     {
-      "title": "Wie man Desktop-Windows auf Lumia-Handys installiert",
-      "teaser": "Es gibt kein Update für Lumia-Handys und die App-Unterstützung fehlt. Mit dem \"Lumia WOA Project\" installiert man die ARM-Version von Desktop-Windows aufs Gerät",
-      "url": "https://www.heise.de/ratgeber/Wie-man-Desktop-Windows-auf-Lumia-Handys-installiert-9976380.html",
-      "image_title": ","
+      "title": "Poolüberwachung mit Arduino",
+      "teaser": "Über Wasserbewegungen und den Geräuschpegel erkennt dieses Arduino-Projekt, ob jemand unbeaufsichtigt im heimischen Pool oder Teich schwimmt.",
+      "url": "https://www.heise.de/news/Poolueberwachung-ueber-Wellenbewegung-und-Geraeusche-9975040.html",
+      "image_title": "Man sieht ein 3d-gedrucktes, rundes Gehäuse von oben. Man hat freie Sicht auf die Technik. Es befinden sich ein Gyroskop, ein Arduino UNO, ein Bluetooth-Board und ein Mikrofonsensor in dem Gehäuse."
     },
     {
-      "title": "Linux: PostmarketOS auf dem Handy installieren",
-      "teaser": "Um die Lebenszeit alter Handys zu verlängern, kann man mit PostmarketOS ein nativ laufendes Linux-Betriebssystem auf unterstützte Geräte aufspielen.",
-      "url": "https://www.heise.de/ratgeber/Linux-PostmarketOS-auf-dem-Handy-installieren-9976086.html",
-      "image_title": ","
+      "title": "Pi BumperVerhüterli für Raspberry Pi 5",
+      "teaser": "Der Pi Bumper schützt den Raspi 5 vor Kurzschlüssen und Beschädigungen an der Unterseite. Ideal, wenn man viel experimentiert.",
+      "url": "https://www.heise.de/news/Pi-Bumper-Verhueterli-fuer-Raspberry-Pi-5-9971913.html",
+      "image_title": "Raspi 5 in Silikon Bumper"
     },
     {
       "title": "Supertele-Objektive richtig einsetzen: c't Fotografie 4/2024",
@@ -693,20 +703,20 @@
       "url": "https://www.techstage.de/bestenliste/top-10-die-besten-balkonkraftwerke-von-extrem-leicht-bis-besonders-stark/ywhkvwx?wt_mc=intern.red.techstage.techstage_buehne.startseite.buehne.buehne#nav-ring-6"
     },
     {
-      "title": "China beschränkt Export wichtiger Mineralien: Europas grüner Wandel bedroht",
-      "teaser": "Der Umgang zwischen EU und China wird zunehmend unfreundlich. Die Entscheidung Beijings hat ein Vorspiel in Europa. Das sind die Hintergründe.",
-      "url": "https://www.heise.de/tp/features/China-beschraenkt-Export-wichtiger-Mineralien-Europas-gruener-Wandel-bedroht-9206885.html",
-      "image_title": "China schränkt Export von Mineralien für grüne Technologien ein."
+      "title": "Ukraine-Krieg: Nukleare Eskalation unwahrscheinlich – und doch wahrscheinlicher",
+      "teaser": "Nach der Wagner-Revolte muss der Kreml Stärke beweisen. Das steigert das Risiko, meint der russische Politologe Michail Troizki. Er weist auf ein Paradoxon hin .",
+      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Nukleare-Eskalation-unwahrscheinlich-und-doch-wahrscheinlicher-9207244.html"
     },
     {
-      "title": "Bud Light: Biertrinker falsch abgeholt",
-      "teaser": "Werbekampagne mit Transgender-Star geht daneben. Schäumende Entrüstung, Geschäft bricht ein. Kulturkampf-Boykott gewinnt. Fabriken schließen. Angestellte werden arbeitslos.",
-      "url": "https://www.heise.de/tp/features/Bud-Light-Biertrinker-falsch-abgeholt-9209052.html"
+      "title": "Debatte ums Elterngeld: Wie mit falschen Zahlen Stimmung gemacht wird",
+      "teaser": "Große Aufregung über die Pläne, das Elterngeld einzuschränken. Alle möglichen Argumente werden vorgetragen, doch einige sind nicht ganz richtig. Ein Faktencheck.",
+      "url": "https://www.heise.de/tp/features/Debatte-ums-Elterngeld-Wie-mit-falschen-Zahlen-Stimmung-gemacht-wird-9209177.html",
+      "image_title": "Falsche Zahlen in Debatte ums Elterngeld"
     },
     {
-      "title": "AfD: Warum dieser Rechtsruck?",
-      "teaser": "German Angst statt Klima-Angst: Was macht die ultrarechte Partei attraktiv? Erklärungen wie \"aggressives Selbstmitleid\" von Ostdeutschen reichen wohl nicht.",
-      "url": "https://www.heise.de/tp/features/AfD-Warum-dieser-Rechtsruck-9208552.html"
+      "title": "Le Pen: Mit ihr vergeht die deutsch-französische Freundschaft?",
+      "teaser": "Unruhen in Frankreich: Es wird wieder über das vorzeitige Ende der Regierung Macron spekuliert. Für Deutschland wären das keine guten Aussichten. Die Krisen-Gewinnerin will einen deutlichen Kurswechsel.",
+      "url": "https://www.heise.de/tp/features/Le-Pen-Mit-ihr-vergeht-die-deutsch-franzoesische-Freundschaft-9208505.html"
     },
     {
       "title": "VPN-Test 2024: Die besten VPN-Anbieter im Vergleich",
