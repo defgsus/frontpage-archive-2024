@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-14T08:10:30",
+  "timestamp": "2024-10-14T09:08:21",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -19,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.bf4e2d48aa83daef32c1",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.3573053c445ec9d46999",
       "id": null,
       "text": null
     },
@@ -31,6 +31,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Veeam Backup & Replication",
+      "url": "https://www.heise.de/news/Ransomware-Sophos-warnt-vor-Angriffen-auf-Veeam-Sicherheitsluecke-9979932.html"
+    },
     {
       "title": "Sonicwall SMA1000, Connect Tunnel",
       "url": "https://www.heise.de/news/Sicherheitsluecke-in-Sonicwall-SMA1000-Reihe-ermoeglicht-Rechteausweitung-9979741.html"
@@ -44,20 +48,10 @@
       "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-6-8-1-schliesst-kritische-Sicherheitsluecke-9977905.html"
     },
     {
-      "title": "Juniper Junos OS, Junos OS Evolved",
-      "url": "https://www.heise.de/news/Juniper-Mehr-als-30-Sicherheitsluecken-gestopft-9977411.html"
-    },
-    {
-      "title": "Nach Cyberattacke: Datenleck beim Pokémon-Entwickler Game Freak",
-      "teaser": "Unbefugte konnten auf Personaldaten des Pokémon-Entwicklers Game Freak zugreifen. Berichten zufolge ist auch Sourcecode geleakt.",
-      "url": "https://www.heise.de/news/Nach-Cyberattacke-Datenleck-beim-Pokemon-Entwickler-Game-Freak-9979884.html",
-      "image_title": "Das Pokémon Pikachu steht als Figur in einem Ladengeschäft."
-    },
-    {
-      "title": "Sicherheitslücke in Sonicwall SMA1000-Reihe ermöglicht Rechteausweitung",
-      "teaser": "Sonicwall stopft Sicherheitslücken in SSL-VPN-Appliances der SMA1000-Serie und im Connect-Tunnel-Client. Angreifer können dadurch etwa ihre Rechte ausweiten.",
-      "url": "https://www.heise.de/news/Sicherheitsluecke-in-Sonicwall-SMA1000-Reihe-ermoeglicht-Rechteausweitung-9979741.html",
-      "image_title": "Eine Appliance verbindet viele Clients mit Kabeln durch die Cloud. Sie und paar Clients brennen."
+      "title": "Ransomware: Sophos warnt vor Angriffen auf Veeam-Sicherheitslücke",
+      "teaser": "Angreifer missbrauchen eine kritische Sicherheitslücke in Veeam, die Codeschmuggel ermöglicht. Davor warnt aktuell Sophos.",
+      "url": "https://www.heise.de/news/Ransomware-Sophos-warnt-vor-Angriffen-auf-Veeam-Sicherheitsluecke-9979932.html",
+      "image_title": "The,Abstract,Image,Of,Inside,Of,Hard,Disk,Drive,On"
     },
     {
       "title": "OpenAI bestätigt Nutzung von ChatGPT zur Malware-Entwicklung",
@@ -71,15 +65,15 @@
       "url": "https://www.heise.de/news/IT-Sicherheitstag-Gelsenkirchen-Komplexitaet-beherrschen-mit-Fruehbucherrabatt-9975187.html"
     },
     {
-      "title": "Die trügerische Sicherheit vermeintlich starker Passwörter",
-      "teaser": "Viele Anwender vertrauen auf vermeintlich sichere und leicht zu merkende Kennwörter mit Sonderzeichen und Ziffern wie „!passwort#2024“. Doch Angreifer nutzen die dort regelmäßig zu findenden Muster aus. Mit bestimmten Maßnahmen können Unternehmen hier entgegen wirken.",
-      "url": "https://www.heise.de/solutions/specops/die-truegerische-sicherheit-vermeintlich-starker-passwoerter/?source=nat_teas"
-    },
-    {
       "title": "Nach Cyberattacke: Ecovacs-Saugroboter erlauben Kamerazugriff und mehr",
       "teaser": "In den USA häufen sich Fälle, in denen gehackte Saugroboter offenbar fremdgesteuert Beleidigungen zurufen und Bilder über die interne Kamera übertragen.",
       "url": "https://www.heise.de/news/Sicherheitsluecke-in-Evovacs-Saugrobotern-erlaubt-Remote-Steuerung-durch-Hacker-9979104.html",
       "image_title": "Ein Saugroboter bei der Arbeit"
+    },
+    {
+      "title": "Die trügerische Sicherheit vermeintlich starker Passwörter",
+      "teaser": "Viele Anwender vertrauen auf vermeintlich sichere und leicht zu merkende Kennwörter mit Sonderzeichen und Ziffern wie „!passwort#2024“. Doch Angreifer nutzen die dort regelmäßig zu findenden Muster aus. Mit bestimmten Maßnahmen können Unternehmen hier entgegen wirken.",
+      "url": "https://www.heise.de/solutions/specops/die-truegerische-sicherheit-vermeintlich-starker-passwoerter/?source=nat_teas"
     },
     {
       "title": "Internet Archive bleibt vorerst offline",
@@ -141,6 +135,12 @@
       "url": "https://www.heise.de/news/heise-security-Webinar-Warum-NTLM-gefaehrlich-bleibt-und-was-dagegen-zu-tun-ist-9949936.html"
     },
     {
+      "title": "Firefox- und Thunderbird-Notfall-Update stopft angegriffenes Sicherheitsleck",
+      "teaser": "Neue Versionen von Firefox und Thunderbird schließen Sicherheitslücken, die bereits in freier Wildbahn angegriffen werden.",
+      "url": "https://www.heise.de/news/Firefox-Notfall-Update-stopft-angegriffenes-Sicherheitsleck-9976162.html",
+      "image_title": "Stilisierte Grafik: Brennendes Firefox-Logo auf einem Laptop"
+    },
+    {
       "title": "Zero-Day-Lücke in Qualcomm-Mobilprozessoren bereits vereinzelt angegriffen",
       "teaser": "Etliche Snapdragon-Chips für Android-Geräte weisen eine als kritisch eingestufte Sicherheitslücke auf. Sie wurde schon vereinzelt und gezielt ausgenutzt.",
       "url": "https://www.heise.de/news/Zero-Day-Luecke-in-Qualcomm-Mobilprozessoren-bereits-vereinzelt-angegriffen-9977340.html",
@@ -153,6 +153,12 @@
       "image_title": "Zwei Hände halten ein Tablet; dessen Bildschirm ist blau und zeigt einen Kreis aus gelben Sternen, in deren Mitte ein gelbes Vorhängeschloss gezeichnet ist"
     },
     {
+      "title": "Kritische Fortinet-Sicherheitslücke wird angegriffen",
+      "teaser": "Die US-amerikanische IT-Sicherheitsbehörde CISA warnt, dass eine ältere Lücke in Fortinet-Produkten aktuell angegriffen wird.",
+      "url": "https://www.heise.de/news/Kritische-Fortinet-Sicherheitsluecke-wird-angegriffen-9976779.html",
+      "image_title": "Stilisierte Grafik: Brennende Appliances im Netz"
+    },
+    {
       "title": "Kaspersky wickelt Geschäft im Vereinigten Königreich ab",
       "teaser": "Kaspersky stellt seine Geschäfte in Großbritannien ein. Offenbar müssen knapp 50 Mitarbeiter in London gehen.",
       "url": "https://www.heise.de/news/Kaspersky-wickelt-Geschaeft-im-Vereinigten-Koenigreich-ab-9976555.html",
@@ -163,12 +169,6 @@
       "teaser": "macOS 15 Sequoia sorgte vom Start weg für Ärger, wenn auf dem Mac bestimmte Security-Werkzeuge liefen. Apple behebt das mit macOS 15.0.1. Der Bug war \"known\".",
       "url": "https://www.heise.de/news/macOS-15-0-1-Infos-zum-Netzwerk-Bug-und-warum-er-nicht-haette-sein-muessen-9975169.html",
       "image_title": "Apple-Logo"
-    },
-    {
-      "title": "Internet Archive unter Beschuss: Über 30 Millionen Nutzerdaten gestohlen",
-      "teaser": "Bislang Unbekannte vergriffen sich mehrfach am Internet Archive. Bereits im September wurden Nutzerdaten und Passwort-Hashes abgezogen.",
-      "url": "https://www.heise.de/news/Datenleck-dDoS-und-Defacement-Cyberangriffe-auf-das-Internet-Archive-9975986.html",
-      "image_title": "Bibliothek mit einem aufgeschlagenen Buch, in dem ein Stethoskop liegt."
     },
     {
       "title": "IoT-Webinar",
