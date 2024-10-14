@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-14T05:07:50",
+  "timestamp": "2024-10-14T06:11:05",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -18,8 +18,8 @@
       "text": null
     },
     {
-      "type": null,
-      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
+      "type": "text/javascript",
+      "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
       "id": null,
       "text": null
     },
@@ -117,18 +117,11 @@
       "image_title": "Friedrich Merz bei Caren Miosga: Der Bundesvorsitzende und Kanzerkandidat der CDU, Friedrich Merz"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Liveblog:Krieg in Nahost : Israel erlebt tödlichsten Angriff seit Beginn der Bodenoffensive",
-      "teaser": "Bei einem Drohnenangriff der Hisbollah in Israel sind vier Soldaten getötet worden. António Guterres kritisiert Israels Angriffe auf UN-Truppen im Libanon. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/2023-12/news-israel-gaza-krieg-live",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-10/news-israel-gaza-krieg-live-bild-17/super__430x286",
-      "image_title": "Krieg in Nahost: 241014 -- JERUSALEM, Oct. 14, 2024 -- Israeli soldiers are seen near the site of a Hezbollah s drone attack in the town of Binyamina, northern Israel, on Oct. 13, 2024. Four soldiers were killed in a drone attack on a military base in northern Israel Sunday evening, the Israeli military said in a statement. The Israel Defense Forces IDF said that a drone launched by Hezbollah forces from Lebanon hit an army base adjacent to the town of Binyamina, located on the Carmel coast between Haifa and Tel Aviv. via Xinhua ISRAEL-BINYAMINA-HEZBOLLAH-DRONE ATTACK JINI PUBLICATIONxNOTxINxCHN"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); USA : Trump hält Militäreinsatz gegen den \"Feind im Inneren\" für möglich",
-      "teaser": "Donald Trump warnt vor Chaos am Wahltag durch \"linksradikale Irre\", gegen die auch ein Militäreinsatz denkbar sei. Seine eigenen Anhänger bezeichnet er als friedlich.",
-      "url": "https://www.zeit.de/politik/ausland/2024-10/trump-militaereinsatz-feind-im-inneren-festnahme-bewaffneter-wahlkampfveranstaltung",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-10/donald-trump-wahlkampfveranstaltung-coachella-kalifornien/super__430x286",
-      "image_title": "USA: Der republikanische Präsidentschaftskandidat und ehemalige Präsident Donald Trump spricht bei einer Wahlkampfveranstaltung auf der Calhoun Ranch in Coachella im Süden Kaliforniens."
+      "title": "Z+ (abopflichtiger Inhalt); UN-Mission im Libanon : UN sehen in Angriffen auf Friedenstruppe mögliches Kriegsverbrechen",
+      "teaser": "António Guterres hat wiederholte israelische Angriffe auf die UN-Mission im Libanon verurteilt. Israel fordert den Abzug der Truppe aus \"Hisbollah-Hochburgen\".",
+      "url": "https://www.zeit.de/politik/ausland/2024-10/un-mission-libanon-unifil-angriffe-israel-kritik-kriegsverbrechen",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-10/antonio-guterres-israelische-angriffe-un-mission-libanon-bild/super__430x286",
+      "image_title": "UN-Mission im Libanon: Peacekeepers of the Spanish Contingent walk at the United Nations Interim Force in Lebanon (UNIFIL) barracks near Khiam in southern Lebanon on August 23, 2024. Several Blue Helmets have been wounded in the crossfire between Israel and Lebanon's Hezbollah movement, which has also left dozens of Lebanese civilians dead in fallout from the war between Israel and Palestinian militants in Gaza. (Photo by ANWAR AMRO / AFP) (Photo by ANWAR AMRO/AFP via Getty Images)"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Tschetschenen in Österreich : \"Ich habe es satt, nur überlebt zu haben\"",
@@ -138,11 +131,25 @@
       "image_title": "Tschetschenen in Österreich: Das Theaterstück »Geschichten, die nicht geschrieben sind« wurde am vergangenen Dienstag im Linzer Ursulinenhof uraufgeführt"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Anne Spoerry : Die fliegende Verbrecherin",
-      "teaser": "Die Schweizer Ärztin Anne Spoerry beflog ein halbes Jahrhundert lang Kenia und behandelte mehr als eine Million Menschen. Sie tat es, um ihre Untaten im KZ zu büßen.",
-      "url": "https://www.zeit.de/2024/43/anne-spoerry-aerztin-schweiz-kenia-zuerich-konzentrationslager",
-      "image_url": "https://img.zeit.de/2024/43/die-fliegende-verbrecherin-teaser/super__430x286",
-      "image_title": "Anne Spoerry: Anne Spoerry 1988 in Kenia"
+      "title": "Z+ (abopflichtiger Inhalt); Kläranlagen in der Schweiz : Ein Kinderspielplatz im Klärbecken",
+      "teaser": "In der Schweiz werden Hunderte Kläranlagen aufgegeben, weil sie zu alt sind. Was tun mit den verlassenen Betonbauten?",
+      "url": "https://www.zeit.de/2024/42/klaeranlagen-aproz-outdoor-spielplatz-abwasser",
+      "image_url": "https://img.zeit.de/2024/42/klaeranlagen-aproz-outdoor-spielplatz-bild/super__430x286",
+      "image_title": "Kläranlagen in der Schweiz: Ehemaliges Klärbecken in Aproz, das zu einem Spielplatz umgebaut wurde."
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); USA : Trump hält Militäreinsatz gegen den \"Feind im Inneren\" für möglich",
+      "teaser": "Donald Trump warnt vor Chaos am Wahltag durch \"linksradikale Irre\", gegen die auch ein Militäreinsatz denkbar sei. Seine eigenen Anhänger bezeichnet er als friedlich.",
+      "url": "https://www.zeit.de/politik/ausland/2024-10/trump-militaereinsatz-feind-im-inneren-festnahme-bewaffneter-wahlkampfveranstaltung",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-10/donald-trump-wahlkampfveranstaltung-coachella-kalifornien/super__430x286",
+      "image_title": "USA: Der republikanische Präsidentschaftskandidat und ehemalige Präsident Donald Trump spricht bei einer Wahlkampfveranstaltung auf der Calhoun Ranch in Coachella im Süden Kaliforniens."
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); USA : Bewaffneter Mann vor Kundgebung Donald Trumps festgenommen",
+      "teaser": "Die Polizei hat einem mutmaßlichen Rechtsextremisten bei einer Kundgebung Donald Trumps den Zutritt verwehrt. Eine Gefahr für den Ex-Präsidenten bestand wohl nicht.",
+      "url": "https://www.zeit.de/politik/ausland/2024-10/donald-trump-festnahme-bewaffneter-wahlkampfveranstaltung-kalifornien",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-10/donald-trump-festnahme-bewaffneter-wahlkampfveranstaltung-kalifornien-bild/super__430x286",
+      "image_title": "USA: A U.S. flag hangs as people gather for a rally of Republican presidential nominee former U.S. President Donald Trump, in Coachella, California, U.S., October 12, 2024. REUTERS/Mike Blake"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Zufriedenheit im Ruhestand : \"Als ich in Rente ging, war ich total erleichtert\"",
@@ -152,11 +159,25 @@
       "image_title": "Zufriedenheit im Ruhestand: \"Als ich in Rente ging, war ich total erleichtert\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Institut der deutschen Wirtschaft : Renteneintritte von Boomern laut Studie bisher nicht kompensierbar",
+      "title": "Z+ (abopflichtiger Inhalt); Institut der deutschen Wirtschaft : Renteneintritte von Babyboomern bisher nicht kompensierbar",
       "teaser": "Fast 20 Millionen Arbeitnehmer kommen bis 2036 ins Renteneintrittsalter. Laut Prognosen können Zuwanderung und Mehrarbeit dies bisher nicht vollständig ausgleichen.",
       "url": "https://www.zeit.de/wirtschaft/2024-10/rente-boomer-wirtschaft-deutschland-migration-mehrarbeit",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-10/boomer-rente/super__430x286",
-      "image_title": "Institut der deutschen Wirtschaft: Ein älterer Mann sitzt an einem Computer. Männer und Frauen der sogenannten Babyboomer-Jahrgänge sind einer Studie zufolge im Schnitt deutlich länger erwerbstätig als vorangegangene Generationen. (Zu dpa \"Babyboomer arbeiten laut Studie länger als vorherige Generationen\") Service +++ dpa-Bildfunk +++ Aufnahmedatum 26.06.2014 Bildnachweis picture alliance/dpa | Tim Brakemeier Besondere Hinweise"
+      "image_url": "https://img.zeit.de/wirtschaft/2024-10/rente-boomer-wirtschaft-deutschland-migration-mehrarbeit-bild/super__430x286",
+      "image_title": "Institut der deutschen Wirtschaft: Wer ab 2025 die gesetzliche Regelaltersgrenze erreicht und weiterarbeitet, kann im Schnitt 22.000 Euro an Rentenaufschubprämie pro Jahr erhalten."
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Migration : Olaf Scholz will mehr Menschen abschieben",
+      "teaser": "Bundeskanzler Olaf Scholz hat einen härteren Kurs in der Migrationspolitik angekündigt. Bereits in diesem Jahr sei die Zahl der Rückführungen um 20 Prozent gestiegen.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-10/olaf-scholz-abschiebungen-afghanistan",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-10/bundeskanzler-olaf-scholz-mehr-abschiebungen-bild/super__430x286",
+      "image_title": "Migration: Bundeskanzler Olaf Scholz (SPD) trifft sich im Rahmen der Feierlichkeiten zum Tag der Deutschen Einheit mit Einwohnern zum Bürgerdialog im Gebäude der Industrie- und Handelskammer. Im Rahmen der Bundesratspräsidentschaft richtet Schwerin unter dem Motto „Vereint Segel setzen“ die zentralen Feierlichkeiten zum Tag der Deutschen Einheit aus. +++ dpa-Bildfunk +++02/10/2024 Schwerin"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Kinder wecken : Morgenstund läuft selten rund",
+      "teaser": "Man möchte als Familie motiviert in den Tag starten, aber das Kind muffelt vor sich hin. Gibt es ein Recht auf miese Stimmung am Morgen? Und haben das nur Kinder?",
+      "url": "https://www.zeit.de/zeit-magazin/2024/43/kinder-wecken-jugendliche-pruefers-toechter",
+      "image_url": "https://img.zeit.de/familie/2024-10/kinder-wecken-jugendliche-pruefers/wide__892x501",
+      "image_title": "Kinder wecken: Teenage girl wearing striped socks, with feet sticking out from under the duvet"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Trusted Flagger : Sie nennen es Freiheit. Aber sie fördern das Chaos",
@@ -166,25 +187,25 @@
       "image_title": "Trusted Flagger: Sie nennen es Freiheit. Aber sie fördern das Chaos"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Nachrichtenpodcast : Kleine Schritte auf dem Weg in die EU",
-      "teaser": "Beim Westbalkangipfel in Berlin geht es vor allem um unkritische Themen. Der EU-Beitritt bleibt aber immer im Blick. Und: die Debatte um Trusted Flagger",
-      "url": "https://www.zeit.de/politik/2024-10/westbalkan-gipfel-berlin-eu-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__430x286",
-      "image_title": "Nachrichtenpodcast: Kleine Schritte auf dem Weg in die EU"
+      "title": "Z+ (abopflichtiger Inhalt); Meetings : \"Oft ist der Grund für große Meetings ohnehin nur Faulheit\"",
+      "teaser": "Schlechte Meetings sind ein Zeichen von fehlendem Respekt: Das weiß der Organisationspsychologe Steven Rogelberg sehr genau und erklärt, wie Meetings richtig gut werden.",
+      "url": "https://www.zeit.de/zeit-magazin/2024/43/meetings-sitzungen-steven-rogelberg-respekt",
+      "image_url": "https://img.zeit.de/video/2024-10/6362981173112-still/super__430x286",
+      "image_title": "Meetings: \"Oft ist der Grund für große Meetings ohnehin nur Faulheit\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Taiwan : Chinesische Armee hält erneut Militärübungen rund um Taiwan ab",
-      "teaser": "Laut dem chinesischen Verteidigungsministerium umkreisen wie schon mehrmals zuvor Militärflugzeuge Taiwan. Die Regierung des Inselstaats verurteilt das Manöver deutlich.",
-      "url": "https://www.zeit.de/politik/ausland/2024-10/taiwan-china-militaeruebungen-oktober-2024",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-10/china-militaeruebung-taiwan-beginn-oktober-2024-2/super__430x286",
-      "image_title": "Taiwan: Chinese People's Liberation Army soldiers patrol at Tiananmen Square ahead of the second plenary session of the Chinese People's Political Consultative Conference (CPPCC) in Beijing on March 7, 2024."
+      "title": "Z+ (abopflichtiger Inhalt); Robotertaxis : Wollen oder können die Deutschen keine Roboterautos?",
+      "teaser": "Robotertaxis fahren in den USA und in China schon ganz normal auf den Straßen. Der Bedarf in Deutschland ist riesig – doch hier wird ein anderer Weg gesucht.",
+      "url": "https://www.zeit.de/2024/43/robotertaxis-usa-china-tesla-deutschland-verkehr",
+      "image_url": "https://img.zeit.de/2024/43/einfach-mal-loslassen-teaser-2/super__430x286",
+      "image_title": "Robotertaxis: Selbstfahrendes Auto von Waymo in Phoenix, Arizona USA."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Kinder wecken : Morgenstund läuft selten rund",
-      "teaser": "Man möchte als Familie motiviert in den Tag starten, aber das Kind muffelt vor sich hin. Gibt es ein Recht auf miese Stimmung am Morgen? Und haben das nur Kinder?",
-      "url": "https://www.zeit.de/zeit-magazin/2024/43/kinder-wecken-jugendliche-pruefers-toechter",
-      "image_url": "https://img.zeit.de/familie/2024-10/kinder-wecken-jugendliche-pruefers/super__430x286",
-      "image_title": "Kinder wecken: Teenage girl wearing striped socks, with feet sticking out from under the duvet"
+      "title": "Z+ (abopflichtiger Inhalt); Generationentest : Gen who bin ich wirklich?",
+      "teaser": "Generationen werden nach Geburt sortiert, dabei sagt die innere Haltung viel mehr über uns aus. Boomer, aber im Herzen Gen Z? Millennial mit Hang zu Gen X? Mach den Test.",
+      "url": "https://www.zeit.de/campus/2024-09/generationen-test-gen-z-boomer-millenials-jahrgaenge",
+      "image_url": "https://img.zeit.de/campus/2024-07/generationen-test-gen-z-boomer-millenials/super__430x286",
+      "image_title": "Generationentest: Gen who bin ich wirklich?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Einleitung : 48 Monate Trump",
@@ -397,27 +418,6 @@
       "image_title": "Folge 27: März 2019: Flaggen-Kuscheln"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Meetings : \"Oft ist der Grund für große Meetings ohnehin nur Faulheit\"",
-      "teaser": "Schlechte Meetings sind ein Zeichen von fehlendem Respekt: Das weiß der Organisationspsychologe Steven Rogelberg sehr genau und erklärt, wie Meetings richtig gut werden.",
-      "url": "https://www.zeit.de/zeit-magazin/2024/43/meetings-sitzungen-steven-rogelberg-respekt",
-      "image_url": "https://img.zeit.de/video/2024-10/6362981173112-still/super__430x286",
-      "image_title": "Meetings: \"Oft ist der Grund für große Meetings ohnehin nur Faulheit\""
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Robotertaxis : Wollen oder können die Deutschen keine Roboterautos?",
-      "teaser": "Robotertaxis fahren in den USA und in China schon ganz normal auf den Straßen. Der Bedarf in Deutschland ist riesig – doch hier wird ein anderer Weg gesucht.",
-      "url": "https://www.zeit.de/2024/43/robotertaxis-usa-china-tesla-deutschland-verkehr",
-      "image_url": "https://img.zeit.de/2024/43/einfach-mal-loslassen-teaser-2/super__430x286",
-      "image_title": "Robotertaxis: Selbstfahrendes Auto von Waymo in Phoenix, Arizona USA."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Generationentest : Gen who bin ich wirklich?",
-      "teaser": "Generationen werden nach Geburt sortiert, dabei sagt die innere Haltung viel mehr über uns aus. Boomer, aber im Herzen Gen Z? Millennial mit Hang zu Gen X? Mach den Test.",
-      "url": "https://www.zeit.de/campus/2024-09/generationen-test-gen-z-boomer-millenials-jahrgaenge",
-      "image_url": "https://img.zeit.de/campus/2024-07/generationen-test-gen-z-boomer-millenials/super__430x286",
-      "image_title": "Generationentest: Gen who bin ich wirklich?"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Jugendliche und Smartphones : Was macht ihr da eigentlich die ganze Zeit?",
       "teaser": "Sieben Stunden Smartphone am Tag: Teenager-Alltag. Was sie da tun, wie sie Eltern austricksen, aber auch versuchen, davon loszukommen, erzählen sieben von ihnen.",
       "url": "https://www.zeit.de/2024/43/jugendliche-smartphones-nutzung-social-media-spiele",
@@ -477,9 +477,9 @@
       "image_title": "Geflüchtete in Kiel: Wäsche neben der Flüchtlingsunterkunft"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Verivox-Analyse : Netzentgelte machen Gas vielerorts deutlich teurer",
-      "teaser": "Einzelne Gasnetzbetreiber wollen die Durchleitungspreise um fast 60 Prozent erhöhen. Das Heizen im Einfamilienhaus könnte pro Jahr Hunderte Euro mehr kosten.",
-      "url": "https://www.zeit.de/wirtschaft/2024-10/verivox-gaspreise-erhoehung-netzentgelte"
+      "title": "Z+ (abopflichtiger Inhalt); USA : Trump hält Militäreinsatz gegen den \"Feind im Inneren\" für möglich",
+      "teaser": "Donald Trump warnt vor Chaos am Wahltag durch \"linksradikale Irre\", gegen die auch ein Militäreinsatz denkbar sei. Seine eigenen Anhänger bezeichnet er als friedlich.",
+      "url": "https://www.zeit.de/politik/ausland/2024-10/trump-militaereinsatz-feind-im-inneren-festnahme-bewaffneter-wahlkampfveranstaltung"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Raumfahrt : SpaceX fängt nach Raketenstart zum ersten Mal Startstufe auf",
@@ -487,21 +487,21 @@
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-10/raumfahrt-spacex-elon-musk-rakete-starship"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Verivox-Analyse : Netzentgelte machen Gas vielerorts deutlich teurer",
-      "teaser": "Einzelne Gasnetzbetreiber wollen die Durchleitungspreise um fast 60 Prozent erhöhen. Das Heizen im Einfamilienhaus könnte pro Jahr Hunderte Euro mehr kosten.",
-      "url": "https://www.zeit.de/wirtschaft/2024-10/verivox-gaspreise-erhoehung-netzentgelte",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-10/heizen-gas-bild/super__430x286",
-      "image_title": "Verivox-Analyse: Heizkˆrper Heizung *** Radiator heating 1098600712"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Positionspapier : Die SPD will wieder SPD sein",
       "teaser": "Mit ihrem Papier zu Wirtschaft, Steuern und Arbeitsmarkt besinnen sich die Sozialdemokraten auf ihre Wurzeln. Auffallend ist, wie klar sie sich zur Konkurrenz absetzen.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-10/spd-positionspapier-steuerreform-wirtschaftsfoerderung-e-autos-mindestlohn-wahlkampf"
+      "url": "https://www.zeit.de/politik/deutschland/2024-10/spd-positionspapier-steuerreform-wirtschaftsfoerderung-e-autos-mindestlohn-wahlkampf",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-10/spd-positionspapier-steuerreform-wirtschaftsfoerderung-e-autos-mindestlohn/super__430x286",
+      "image_title": "Positionspapier: Zwei Porsche-Mitarbeiter prüfen in der Lackiererei den Lack der Karosserie eines vollelektrischen Porsche Macan im Werk Leipzig."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Nahostkrieg : UN-Friedenstruppe wirft Israels Armee \"gewaltsames\" Eindringen vor",
       "teaser": "Die UN-Friedensmission im Libanon hat Israel beschuldigt, ihre Stellungen erneut angegriffen zu haben. Zuvor hatte Netanjahu sie aufgefordert, das Land zu verlassen.",
       "url": "https://www.zeit.de/politik/ausland/2024-10/unifil-netanjahu-libanon-abzug-forderung"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Raumfahrt : SpaceX fängt nach Raketenstart zum ersten Mal Startstufe auf",
+      "teaser": "Beim Testflug der Starship-Rakete ist die untere Raketenstufe nach dem Start wieder aufgefangen worden. Das war zuvor noch nie gelungen.",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-10/raumfahrt-spacex-elon-musk-rakete-starship"
     },
     {
       "title": "Verlagsangebot : Das Sprachtandem der besonderen Art – von ZEIT SPRACHEN",
@@ -511,18 +511,18 @@
       "image_title": "Das Sprachtandem der besonderen Art – von ZEIT SPRACHEN"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Kamala Harris : Die Angst der Männer",
+      "teaser": "Kamala Harris hat Mühe, Schwarze Männer und Latinos für sich zu gewinnen – überraschend viele sprechen sich für Donald Trump aus. Selbst Barack Obama wird nun deutlich.",
+      "url": "https://www.zeit.de/politik/ausland/2024-10/kamala-harris-barack-obama-waehlerschaft-maenner",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-10/black-man-art-2/wide__892x501",
+      "image_title": "Kamala Harris: US-HEALTH-VIRUS-ART-INDEPENDENCE DAY Artist Jonah Elijah works on his painting \"Carefree,\" part of his four-painting set illustrating his reflections on the meaning of home and freedom in the context of the Black experience in the US, at the \"Portraits of Freedom: Building a Life in L.A.\" event in downtown Los Angeles, California's Grand Park, July 1, 2021 to celebrate the July 4th Independence Day holiday. - \"Portraits of Freedom,\" is a month-long public art installation exploring themes of freedom and home through the eyes of immigrant, BIPOC and indigenous communities. The event replaces the traditional Grand Park 4th of July party and fireworks which have been cancelled. - RESTRICTED TO EDITORIAL USE - MANDATORY MENTION OF THE ARTIST UPON PUBLICATION - TO ILLUSTRATE THE EVENT AS SPECIFIED IN THE CAPTION (Photo by Robyn Beck / AFP) / RESTRICTED TO EDITORIAL USE - MANDATORY MENTION OF THE ARTIST UPON PUBLICATION - TO ILLUSTRATE THE EVENT AS SPECIFIED IN THE CAPTION / RESTRICTED TO EDITORIAL USE - MANDATORY MENTION OF THE ARTIST UPON PUBLICATION - TO ILLUSTRATE THE EVENT AS SPECIFIED IN THE CAPTION (Photo by ROBYN BECK/AFP via Getty Images)"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Geschichte des Universums : Wieso das Weltall fast nicht entstanden wäre",
       "teaser": "Eigentlich dürften wir gar nicht existieren, denn während des Urknalls sorgte Antimaterie für ein Massensterben der Materie. Also: Warum gibt es uns – und nicht nichts?",
       "url": "https://www.zeit.de/wissen/2024-10/geschichte-universum-antimaterie-urknall-ueber-all",
-      "image_url": "https://img.zeit.de/zeit-verlag/2024-10/geschichte-universum-antimaterie-urknall-ueber-all-bild/wide__892x501",
+      "image_url": "https://img.zeit.de/zeit-verlag/2024-10/geschichte-universum-antimaterie-urknall-ueber-all-bild/super__430x286",
       "image_title": "Geschichte des Universums: Wieso das Weltall fast nicht entstanden wäre"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Phoenix : Ich lebe in einer Simulation",
-      "teaser": "Unsere Autorin hat zuletzt sechs Wochen in Phoenix in Arizona verbracht. Und fragte sich die ganze Zeit: Warum fühlt sich hier bloß alles wie in einem Computerspiel an?",
-      "url": "https://www.zeit.de/kultur/2024-10/phoenix-arizona-usa-videospiel-die-sims",
-      "image_url": "https://img.zeit.de/kultur/2024-10/phoenix-arizona-usa-videospiel-die-sims-bild-2/super__430x286",
-      "image_title": "Phoenix: Ich lebe in einer Simulation"
     },
     {
       "title": "Verlagsangebot : 5 unentdeckte Orte in Italien",
@@ -532,18 +532,18 @@
       "image_title": "Freunde der ZEIT: 5 unentdeckte Orte in Italien"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); USA : Bewaffneter Mann vor Kundgebung Donald Trumps festgenommen",
-      "teaser": "Die Polizei hat einem mutmaßlichen Rechtsextremisten bei einer Kundgebung Donald Trumps den Zutritt verwehrt. Eine Gefahr für den Ex-Präsidenten bestand wohl nicht.",
-      "url": "https://www.zeit.de/politik/ausland/2024-10/donald-trump-festnahme-bewaffneter-wahlkampfveranstaltung-kalifornien",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-10/trump-wahlkampfauftritt-kalifornien-bewaffneter-festgenommen/wide__892x501",
-      "image_title": "USA: Der republikanische Präsidentschaftskandidat und frühere Präsident Donald Trump spricht bei einer Wahlkampfveranstaltung auf der Calhoun Ranch."
+      "title": "Z+ (abopflichtiger Inhalt); Taiwan : Chinesische Armee hält erneut Militärübungen rund um Taiwan ab",
+      "teaser": "Laut dem chinesischen Verteidigungsministerium umkreisen Militärflugzeuge Taiwan. Die Regierung des Inselstaats verurteilt das Manöver deutlich.",
+      "url": "https://www.zeit.de/politik/ausland/2024-10/taiwan-china-militaeruebungen-oktober-2024",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-10/taiwan-china-militaeruebungen-oktober-2024-bild/wide__892x501",
+      "image_title": "Taiwan: Taiwan Air Force Mirage 2000 aircraft prepare to land at Hsinchu Air Base in Hsinchu, Taiwan October 14, 2024. REUTERS/Tyrone Siu"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Parlamentswahl in Litauen : Regierungswechsel in Litauen erwartet",
-      "teaser": "Nach der ersten Parlamentswahlrunde führen die oppositionellen Sozialdemokraten. Die neue russlandfreundliche Partei Morgenröte von Nemunas kommt auf Rang drei.",
-      "url": "https://www.zeit.de/politik/ausland/2024-10/litauen-wahlen-sozialdemokraten-parlament-regierungswechsel",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-10/litauen-sozialdemokraten/super__430x286",
-      "image_title": "Parlamentswahl in Litauen: LITHUANIA-POLITICS-VOTE Leader of the Social Democratic Party Vilija Blinkeviciute and supporters react to the first result projections during an election event in Vilnius, Lithuania, after the polls closed in the first round of parliamentary elections on October 13, 2024. (Photo by Petras Malukas / AFP) (Photo by PETRAS MALUKAS/AFP via Getty Images)"
+      "title": "Z+ (abopflichtiger Inhalt); Nachrichtenpodcast : Kleine Schritte auf dem Weg in die EU",
+      "teaser": "Beim Westbalkangipfel in Berlin geht es vor allem um unkritische Themen. Der EU-Beitritt bleibt aber immer im Blick. Und: die Debatte um Trusted Flagger",
+      "url": "https://www.zeit.de/politik/2024-10/westbalkan-gipfel-berlin-eu-nachrichtenpodcast",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__430x286",
+      "image_title": "Nachrichtenpodcast: Kleine Schritte auf dem Weg in die EU"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Weltbank : Verschuldung wirtschaftlich schwächster Länder wächst",
@@ -637,11 +637,11 @@
       "image_title": "Westafrika: NIGERIA-FLOOD This aerial view shows houses submerged under water in Adankolo in Kogi State on October 12, 2024. Two major rivers have flooded across central Nigeria displacing tens of thousands of people, the Red Cross told AFP. Rescue workers in Kogi State have been helping residents move away from the confluence of the Niger and Benue rivers to displacement camps or nearby villages. Umar Y Mahmud, the Red Cross disaster management officer in Kogi, said on October 11 there were more than 60,000 people displaced and about 60,000 hectares (150,000 acres) of land under water. (Photo by Haruna Yahaya / AFP) (Photo by HARUNA YAHAYA/AFP via Getty Images)"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Ye : Frühere Mitarbeiterin wirft Rapper Missbrauch vor",
-      "teaser": "Die Ex-Assistentin von Ye, vormals Kanye West, beschuldigt den Rapper, sie unter Drogen gesetzt und sexuell missbraucht zu haben. Sie hatte ihn bereits zuvor verklagt.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-10/ye-kanye-west-sexueller-missbrauch-pisciotta",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-10/ye-kanye-west-sexueller-missbrauch-pisciotta-bild/super__430x286",
-      "image_title": "Ye: US-Rapper Kanye West spricht während eines Gottesdienstes in der Lakewood Church. West hat sich in einer Megakirche in Texas vor tausenden Menschen zu seinem Glauben bekannt. +++ dpa-Bildfunk +++"
+      "title": "Z+ (abopflichtiger Inhalt); Anne Spoerry : Die fliegende Verbrecherin",
+      "teaser": "Die Schweizer Ärztin Anne Spoerry beflog ein halbes Jahrhundert lang Kenia und behandelte mehr als eine Million Menschen. Sie tat es, um ihre Untaten im KZ zu büßen.",
+      "url": "https://www.zeit.de/2024/43/anne-spoerry-aerztin-schweiz-kenia-zuerich-konzentrationslager",
+      "image_url": "https://img.zeit.de/2024/43/die-fliegende-verbrecherin-teaser/super__430x286",
+      "image_title": "Anne Spoerry: Anne Spoerry 1988 in Kenia"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"Stürzende Imperien\" von Peter Heather und John Rapley : Spätrömische Dekadenz ist nicht so schlimm",
@@ -651,11 +651,11 @@
       "image_title": "\"Stürzende Imperien\" von Peter Heather und John Rapley: Das Forum Romanum war einst das Zentrum des politischen, kulturellen und religiösen Lebens in Rom."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); \"Doppelgänger\" von Naomi Klein : Naomi in der Spiegelwelt",
-      "teaser": "Wie wird eine gefragte kritische Denkerin zur Verschwörungstheoretikern? Die Aktivistin Naomi Klein geht der Frage nach – am Beispiel ihrer Doppelgängerin Naomi Wolf.",
-      "url": "https://www.zeit.de/2024/43/doppelgaenger-naomi-klein-wolf-buch-verschwoerungstheorie",
-      "image_url": "https://img.zeit.de/2024/43/die-doppelte-naomi-teaser/super__430x286",
-      "image_title": "\"Doppelgänger\" von Naomi Klein: Naomi Klein, geboren 1960 (links) und Naomi Wolf, geboren 1962"
+      "title": "Z+ (abopflichtiger Inhalt); Phoenix : Ich lebe in einer Simulation",
+      "teaser": "Unsere Autorin hat zuletzt sechs Wochen in Phoenix in Arizona verbracht. Und fragte sich die ganze Zeit: Warum fühlt sich hier bloß alles wie in einem Computerspiel an?",
+      "url": "https://www.zeit.de/kultur/2024-10/phoenix-arizona-usa-videospiel-die-sims",
+      "image_url": "https://img.zeit.de/kultur/2024-10/phoenix-arizona-usa-videospiel-die-sims-bild-2/super__430x286",
+      "image_title": "Phoenix: Ich lebe in einer Simulation"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Wissenspodcast : Wie der Klimawandel den deutschen Wein verändert",
@@ -979,36 +979,36 @@
       "image_title": "Fragen Sie ZEIT ONLINE: Haben Sie ein Thema verpasst?"
     },
     {
+      "title": "Brände: Drei Verletzte bei Brand in Leipzig - Brandstiftung vermutet",
+      "url": "https://www.zeit.de/news/2024-10/14/drei-verletzte-bei-brand-in-leipzig-brandstiftung-vermutet"
+    },
+    {
+      "title": "Ausfälle und Einschränkungen: Warnstreik im Busverkehr in Schleswig-Holstein beginnt",
+      "url": "https://www.zeit.de/news/2024-10/14/warnstreik-im-busverkehr-in-schleswig-holstein-beginnt"
+    },
+    {
+      "title": "Landkreis Anhalt-Bitterfeld: Sieben Verletzte bei Auffahrunfall auf der A9",
+      "url": "https://www.zeit.de/news/2024-10/14/sieben-verletzte-bei-auffahrunfall-auf-der-a9"
+    },
+    {
+      "title": "Tarifkonflikt: Warnstreiks bremsen Pendler in Teilen Badens aus",
+      "url": "https://www.zeit.de/news/2024-10/14/warnstreiks-bremsen-pendler-in-teilen-badens-aus"
+    },
+    {
+      "title": "Durchtrennte Kabel: Bahnverkehr in München auch noch am Montag beeinträchtigt",
+      "url": "https://www.zeit.de/news/2024-10/14/bahnverkehr-in-muenchen-auch-noch-am-montag-beeintraechtigt"
+    },
+    {
+      "title": "Südpolarmeer in Gefahr: Antarktis-Konferenz ringt um Ausweisung neuer Schutzgebiete",
+      "url": "https://www.zeit.de/news/2024-10/14/antarktis-konferenz-ringt-um-ausweisung-neuer-schutzgebiete"
+    },
+    {
+      "title": "Kriminalität: Geldautomat gesprengt - Polizei fahndet nach drei Tätern",
+      "url": "https://www.zeit.de/news/2024-10/14/geldautomat-gesprengt-polizei-fahndet-nach-drei-taetern"
+    },
+    {
       "title": "Unfälle: Mit Auto gegen Baum geprallt - Fahrerin schwer verletzt",
       "url": "https://www.zeit.de/news/2024-10/14/mit-auto-gegen-baum-geprallt-fahrerin-schwer-verletzt"
-    },
-    {
-      "title": "Vom Studio nach Hause: Tonbandgerät nimmt erstmals Album in Hamburg auf",
-      "url": "https://www.zeit.de/news/2024-10/14/tonbandgeraet-nimmt-erstmals-album-in-hamburg-auf"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: Nagelsmann probt WM-Zukunft und Rüdiger ist «Stiller-Fan»",
-      "url": "https://www.zeit.de/news/2024-10/14/nagelsmann-probt-wm-zukunft-und-ruediger-ist-stiller-fan"
-    },
-    {
-      "title": "Wetter: Sonne, Wolken und Regen in Berlin und Brandenburg",
-      "url": "https://www.zeit.de/news/2024-10/14/sonne-wolken-und-regen-in-berlin-und-brandenburg"
-    },
-    {
-      "title": "Vogtlandkreis: Radfahrer stößt mit Transporter zusammen - schwer verletzt",
-      "url": "https://www.zeit.de/news/2024-10/14/radfahrer-stoesst-mit-transporter-zusammen-schwer-verletzt"
-    },
-    {
-      "title": "Breitbandausbau: Wissing: Fortschritte beim Ausbau des schnellen Interzugangs",
-      "url": "https://www.zeit.de/news/2024-10/14/wissing-fortschritte-beim-ausbau-des-schnellen-interzugangs"
-    },
-    {
-      "title": "«Ortszeit Deutschland»: Warum der Bundespräsident nach Nordhorn kommt",
-      "url": "https://www.zeit.de/news/2024-10/14/warum-der-bundespraesident-nach-nordhorn-kommt"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: DFB-Präsident: Kann so weitergehen mit Nagelsmann",
-      "url": "https://www.zeit.de/news/2024-10/14/dfb-praesident-kann-so-weitergehen-mit-nagelsmann"
     }
   ]
 }

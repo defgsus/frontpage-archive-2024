@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-14T05:07:50",
+  "timestamp": "2024-10-14T06:11:06",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Sonicwall SMA1000, Connect Tunnel",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-in-Sonicwall-SMA1000-Reihe-ermoeglicht-Rechteausweitung-9979741.html"
+    },
+    {
       "title": "IoT/ICS Delta Schneider, Siemens, Rockwell Automation",
       "url": "https://www.heise.de/news/CISA-warnt-vor-Sicherheitsluecken-in-21-IoT-Industrie-Kontrollsystemen-9978035.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Juniper-Mehr-als-30-Sicherheitsluecken-gestopft-9977411.html"
     },
     {
-      "title": "Fortinet",
-      "url": "https://www.heise.de/news/Kritische-Fortinet-Sicherheitsluecke-wird-angegriffen-9976779.html"
+      "title": "Sicherheitslücke in Sonicwall SMA1000-Reihe ermöglicht Rechteausweitung",
+      "teaser": "Sonicwall stopft Sicherheitslücken in SSL-VPN-Appliances der SMA1000-Serie und im Connect-Tunnel-Client. Angreifer können dadurch etwa ihre Rechte ausweiten.",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-in-Sonicwall-SMA1000-Reihe-ermoeglicht-Rechteausweitung-9979741.html",
+      "image_title": "Eine Appliance verbindet viele Clients mit Kabeln durch die Cloud. Sie und paar Clients brennen."
     },
     {
       "title": "OpenAI bestätigt Nutzung von ChatGPT zur Malware-Entwicklung",
@@ -65,15 +71,15 @@
       "image_title": "Ein Saugroboter bei der Arbeit"
     },
     {
+      "title": "Die trügerische Sicherheit vermeintlich starker Passwörter",
+      "teaser": "Viele Anwender vertrauen auf vermeintlich sichere und leicht zu merkende Kennwörter mit Sonderzeichen und Ziffern wie „!passwort#2024“. Doch Angreifer nutzen die dort regelmäßig zu findenden Muster aus. Mit bestimmten Maßnahmen können Unternehmen hier entgegen wirken.",
+      "url": "https://www.heise.de/solutions/specops/die-truegerische-sicherheit-vermeintlich-starker-passwoerter/?source=nat_teas"
+    },
+    {
       "title": "Internet Archive bleibt vorerst offline",
       "teaser": "Die \"Wayback Machine\" ist derzeit anhaltend nicht erreichbar. Laut ihrem Gründer ist das so gewollt, der Umbau nach einem Cyberangriff dauere noch etwas.",
       "url": "https://www.heise.de/news/Internet-Archive-bleibt-vorerst-offline-9979142.html",
       "image_title": "Bibliothek, Bücher"
-    },
-    {
-      "title": "Die trügerische Sicherheit vermeintlich starker Passwörter",
-      "teaser": "Viele Anwender vertrauen auf vermeintlich sichere und leicht zu merkende Kennwörter mit Sonderzeichen und Ziffern wie „!passwort#2024“. Doch Angreifer nutzen die dort regelmäßig zu findenden Muster aus. Mit bestimmten Maßnahmen können Unternehmen hier entgegen wirken.",
-      "url": "https://www.heise.de/solutions/specops/die-truegerische-sicherheit-vermeintlich-starker-passwoerter/?source=nat_teas"
     },
     {
       "title": "iX-Workshop: Sich selbst hacken – Pentesting mit Open-Source-Werkzeugen",
@@ -163,12 +169,6 @@
       "teaser": "Erhalten Sie einen Überblick über Methoden und Best Practices für eine effiziente Cybersicherheitsstrategie.",
       "url": "https://www.heise.de/news/iX-Workshop-fuer-KMUs-Schritt-fuer-Schritt-zur-sicheren-IT-9961413.html",
       "image_title": "iX-Workshop: IT-Sicherheit für KMU"
-    },
-    {
-      "title": "Passkeys: Neue Apple-Passwörter-App könnte für schnellere Verbreitung sorgen",
-      "teaser": "Apple hat seinen betriebssystemeigenen Passwortmanager jüngst überarbeitet. Der weiteren Verbreitung von Passkeys könnte das zugutekommen.",
-      "url": "https://www.heise.de/news/Passkeys-Neue-Apple-Passwoerter-App-koennte-fuer-schnellere-Verbreitung-sorgen-9974262.html",
-      "image_title": "Ein Schloss mit biometrischen Schlüsseln"
     },
     {
       "title": "IoT-Webinar",
