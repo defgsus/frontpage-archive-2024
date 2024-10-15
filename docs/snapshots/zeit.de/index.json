@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-15T02:11:36",
+  "timestamp": "2024-10-15T03:15:02",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -110,10 +116,17 @@
   ],
   "articles": [
     {
+      "title": "Z+ (abopflichtiger Inhalt); Wahlrecht in Georgia : Ihr Ziel ist der Zweifel",
+      "teaser": "Donald Trumps Anhänger versuchen in Georgia, die Wahlregeln zu seinen Gunsten zu ändern. Auch wenn das nicht klappt, droht dem Bundesstaat eine wochenlange Hängepartie.",
+      "url": "https://www.zeit.de/2024/43/wahlrecht-georgia-aenderung-donald-trump-anhaenger",
+      "image_url": "https://img.zeit.de/2024/43/ihr-ziel-ist-der-zweifel-teaser/wide__1000x562",
+      "image_title": "Wahlrecht in Georgia: 2020: An vielen Orten protestierten Menschen gegen das Ergebnis der Wahl, hier in Pennsylvania. 2024: In Savannah, Georgia, stapeln sich in einem Wahlbüro Umschläge für die Briefwahl."
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Unifil-Mission : Friedenshüter in Gefahr",
       "teaser": "Vermittler wollten sie sein, nun geraten UN-Blauhelme im Libanon zwischen die Fronten. Die UN wollen an der Mission festhalten – obwohl der Einsatz als gescheitert gilt.",
       "url": "https://www.zeit.de/politik/deutschland/2024-10/unifil-mission-libanon-israel-krieg-mandat-verlaengerung",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-10/unifil-mission-libanon-israel-krieg-mandat-verlaengerung-bild/wide__1000x562",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-10/unifil-mission-libanon-israel-krieg-mandat-verlaengerung-bild/super__430x286",
       "image_title": "Unifil-Mission: TOPSHOT - Spanish peacekeepers of the United Nations Interim Force in Lebanon (UNIFIL) coordinate their patrol with the Lebanese army, in Marjayoun in south Lebanon on October 8, 2024."
     },
     {
@@ -122,13 +135,6 @@
       "url": "https://www.zeit.de/politik/ausland/2023-12/news-israel-gaza-krieg-live",
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-10/un-sicherheitsrat-unifil-angriff-libanon/super__430x286",
       "image_title": "Krieg in Nahost: Eine Sitzung des UN-Sicherheitsrats im September"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Ex-Stasiprozess : Zehn Jahre Haft, auch 50 Jahre später",
-      "teaser": "Es ist der einzige Fall, in dem ein Stasitäter wegen Mordes verurteilt wurde. Wie das Gericht das Strafmaß begründet und warum es das letzte solche Urteil sein könnte.",
-      "url": "https://www.zeit.de/gesellschaft/2024-10/urteil-ex-stasi-prozess",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-10/prozess-ex-stasi-offizier-teaser-bild/super__430x286",
-      "image_title": "Ex-Stasiprozess: Der Angeklagte (l) steht vor der Verkündung des Urteils im Prozess gegen den Ex-Stasi-Mitarbeiter wegen Mordes vor dem Landgericht und verdeckt sein Gesicht. Der heute 80-Jährige aus Leipzig soll 1974 einen polnischen Staatsbürger am damaligen Grenzübergang Bahnhof Berlin-Friedrichstraße heimtückisch erschossen haben. +++ dpa-Bildfunk +++"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Asylpolitik : Italien schickt erstes Schiff mit Migranten nach Albanien",
@@ -159,6 +165,13 @@
       "image_title": "Kläranlagen in der Schweiz: Ehemaliges Klärbecken in Aproz, das zu einem Spielplatz umgebaut wurde."
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Ex-Stasiprozess : Zehn Jahre Haft, auch 50 Jahre später",
+      "teaser": "Es ist der einzige Fall, in dem ein Stasitäter wegen Mordes verurteilt wurde. Wie das Gericht das Strafmaß begründet und warum es das letzte solche Urteil sein könnte.",
+      "url": "https://www.zeit.de/gesellschaft/2024-10/urteil-ex-stasi-prozess",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-10/prozess-ex-stasi-offizier-teaser-bild/super__430x286",
+      "image_title": "Ex-Stasiprozess: Der Angeklagte (l) steht vor der Verkündung des Urteils im Prozess gegen den Ex-Stasi-Mitarbeiter wegen Mordes vor dem Landgericht und verdeckt sein Gesicht. Der heute 80-Jährige aus Leipzig soll 1974 einen polnischen Staatsbürger am damaligen Grenzübergang Bahnhof Berlin-Friedrichstraße heimtückisch erschossen haben. +++ dpa-Bildfunk +++"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Mutmaßlicher Sabotagefall : Bundesanwaltschaft ermittelt nach Brand eines DHL-Luftfrachtpakets",
       "teaser": "Im Juli entzündete sich ein DHL-Paket noch am Boden in Leipzig. Offenbar sollte es im Flug einen Brand verursachen. Ermittler vermuten russische Sabotage.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-10/dhl-paket-russland-brand-sabotage",
@@ -166,17 +179,17 @@
       "image_title": "Mutmaßlicher Sabotagefall: Ein DHL-Flugzeug auf dem Flughafen Leipzig/Halle"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Nations League : Deutschland siegt gegen die Niederlande und ist im Viertelfinale",
-      "teaser": "Mit einem Sieg gegen die Niederlande ist der DFB-Elf vorzeitig der Einzug ins Nations-League-Viertelfinale gelungen. Das entscheidende Tor ließ zunächst auf sich warten.",
-      "url": "https://www.zeit.de/sport/2024-10/nations-league-einzug-viertelfinale-deutschland-niederlande",
-      "image_url": "https://img.zeit.de/sport/2024-10/nations-league-einzug-viertelfinale-deutschland-niederlande-2/super__430x286",
-      "image_title": "Nations League: Die deutsche Nationalmannschaft jubelt – mit dem Sieg gegen die Niederlande zieht das Team vorzeitig ins Viertelfinale ein."
+      "title": "Z+ (abopflichtiger Inhalt); Nationalmannschaft : Deutschland fühlt sich stark und stärker",
+      "teaser": "Beim 1:0 gegen Holland ist der Ersatzspieler Jamie Leweling der Held. Offen bleibt, wer von der Mannschaft begeisterter ist: die Fans oder der Bundestrainer.",
+      "url": "https://www.zeit.de/sport/2024-10/deutschland-niederlande-jamie-leweling",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-10/leweling-ruediger-deutschland-holland-muenchen/wide__892x501",
+      "image_title": "Nationalmannschaft: Deutschlands Jamie Leweling (rechts) bejubelt sein Tor zum 1:0 mit Antonio Rüdiger."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Deutscher Buchpreis für Martina Hefter : Los, ab ins Kosmische",
       "teaser": "Ein schmaler, aber großer Roman: Martina Hefter gewinnt mit \"Hey guten Morgen, wie geht es Dir?\" den Deutschen Buchpreis.",
       "url": "https://www.zeit.de/kultur/literatur/2024-10/hey-guten-morgen-wie-geht-es-dir-martina-hefter-deutscher-buchpreis-gewinnerin",
-      "image_url": "https://img.zeit.de/kultur/literatur/2024-10/deutscher-buchpreis-martina-hefter-2024/wide__892x501",
+      "image_url": "https://img.zeit.de/kultur/literatur/2024-10/deutscher-buchpreis-martina-hefter-2024/super__430x286",
       "image_title": "Deutscher Buchpreis für Martina Hefter: FRANKFURT AM MAIN, GERMANY - OCTOBER 14: Author Martina Hefter attends the German Book Prize ceremony (Deutscher Buchpreis) at Römer cityhall on October 14, 2024 in Frankfurt am Main, Germany. (Photo by Thomas Lohnes/Getty Images)"
     },
     {
@@ -185,13 +198,6 @@
       "url": "https://www.zeit.de/zeit-verbrechen/2024/29/liebesbetrug-opfer-herzschmerz-liebe-beziehung-geld",
       "image_url": "https://img.zeit.de/zeit-verbrechen/2024/29/liebesbetrug-opfer-herzschmerz-liebe-beziehung-geld-teaserbild/super__430x286",
       "image_title": "Liebesbetrug: Gina Lollobrigidan mit Dalmatiner im Hotel Carlton bei den Filmfestspielen von Cannes 1972. Die Filmdiva verfiel einem Betrüger."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Mord an Sikhaktivist : Kanada und Indien weisen im Streit um Aktivistenmord Diplomaten aus",
-      "teaser": "Kanada wirft der indischen Regierung vor, in den Mord an einem Sikhaktivisten verwickelt zu sein. Indien weist das zurück. Nun haben beide Länder Diplomaten ausgewiesen.",
-      "url": "https://www.zeit.de/politik/ausland/2024-10/kanada-indien-diplomatie-hardeep-singh-nijjar",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-10/kanada-indien-diplomatie-botschafter-sikh/super__430x286",
-      "image_title": "Mord an Sikhaktivist: Ein Bild von Hardeep Singh Nijjar auf einem Transparent vor einem Sikh-Kulturzentrum in Kanada."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); USA : Sechs weitere Missbrauchsklagen gegen Sean \"Diddy\" Combs eingereicht",
@@ -215,25 +221,25 @@
       "image_title": "Flugstreichungen: Weniger Billigflüge? Weiter so!"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Körperliche Nähe : Berührungen helfen – fast allen und fast immer",
-      "teaser": "Umarmungen, Streicheln, Massagen – Berührungen sind gut für unsere physische und seelische Gesundheit. Manchmal tut es sogar ein Plüschroboter.",
-      "url": "https://www.zeit.de/gesundheit/2024-04/koerperliche-naehe-gesundheit-roboter-umarmung",
-      "image_url": "https://img.zeit.de/gesundheit/2024-04/koerperliche-naehe-gesundheit-roboter-umarmung-bild/super__430x286",
-      "image_title": "Körperliche Nähe: Berührungen helfen – fast allen und fast immer"
+      "title": "Z+ (abopflichtiger Inhalt); Selbstständigkeit von Kindern : \"400 Meter hoch in der Luft. Wie kann man so verrückt sein?\"",
+      "teaser": "Die Tochter unseres Autors ist Highline-Artistin. Sie lebt im Moment, ohne Einkommen, aber immer in Balance. Er kann oft nicht mal hinschauen. Ein innerfamiliäres Porträt",
+      "url": "https://www.zeit.de/zeit-magazin/2024/43/selbststaendigkeit-kinder-familie-erziehung",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-10/selbststaendigkeit-kinder-familie-erziehung-bild/super__430x286",
+      "image_title": "Selbstständigkeit von Kindern: \"400 Meter hoch in der Luft. Wie kann man so verrückt sein?\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Single leben : \"Entgegen der Erwartung werden Singles mit dem Alter zufriedener\"",
-      "teaser": "Wer single ist, ist frustriert und einsam? Nein, sagt Single und Singleforscherin Bella DePaulo. Warum Singles diskriminiert werden und wie man trotzdem glücklich wird.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2024-09/single-leben-beziehung-bella-depaulo-einsamkeit-diskriminierung-liebe",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-09/single-glueck-forschung-bella-depaulo/super__430x286",
-      "image_title": "Single leben: \"Entgegen der Erwartung werden Singles mit dem Alter zufriedener\""
+      "title": "Z+ (abopflichtiger Inhalt); Junge Väter : Vom großen Glück der jungen Vaterschaft",
+      "teaser": "Während ihre Freunde nur an die nächste Party dachten, bekamen sie ein Kind: Zwei junge Väter berichten, wie die frühe Verantwortung ihr Leben positiv beeinflusste.",
+      "url": "https://www.zeit.de/familie/2024-08/junge-vaeter-eltern-kinder-verantwortung-familie",
+      "image_url": "https://img.zeit.de/familie/2024-10/junge-vaeter-eltern-kinder-verantwortung/super__430x286",
+      "image_title": "Junge Väter: Vom großen Glück der jungen Vaterschaft"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Rostock : \"In Deutschland kann ich mir keine andere Stadt vorstellen\"",
-      "teaser": "Metropolen sind nicht für alle der beste Ort zum Leben und Arbeiten. Anton Schünemann ist von Berlin nach Rostock gezogen. Weil die Gesundheitsversorgung dort besser ist.",
-      "url": "https://www.zeit.de/arbeit/2024-09/rostock-stadt-mecklenburg-vorpommern-meer-natur",
-      "image_url": "https://img.zeit.de/arbeit/2024-09/rostock-stadt-mecklenburg-vorpommern/super__430x286",
-      "image_title": "Rostock: \"In Deutschland kann ich mir keine andere Stadt vorstellen\""
+      "title": "Z+ (abopflichtiger Inhalt); Protein : Der Stoff, aus dem die Muskeln sind",
+      "teaser": "Morgens Eier, abends Steak und zwischendurch viel Quark und einen Shake: Viel Protein soll muskulös und gesund machen. Aber wie viel kann der Körper wirklich verarbeiten?",
+      "url": "https://www.zeit.de/gesundheit/2024-10/protein-eiweiss-muskeln-ernaehrung-bedarf",
+      "image_url": "https://img.zeit.de/gesundheit/2024-10/protein-eiweiss-muskeln-ernaehrung-bedarf-bild/super__430x286",
+      "image_title": "Protein: Der Stoff, aus dem die Muskeln sind"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); SpaceX : Eine Rakete fangen – ist das genial oder Größenwahn?",
@@ -481,6 +487,11 @@
       "image_title": "Zufriedenheit im Ruhestand: \"Als ich in Rente ging, war ich total erleichtert\""
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); SpaceX : Eine Rakete fangen – ist das genial oder Größenwahn?",
+      "teaser": "SpaceX hat die Unterstufe seines Starships mit zwei Fangarmen aus der Luft gefischt. Wie so etwas möglich ist – und was es für die Zukunft der Raumfahrt bedeutet.",
+      "url": "https://www.zeit.de/wissen/2024-10/spacex-raumfahrt-starship-mechazilla-faq"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Kamala Harris : Die Angst der Männer",
       "teaser": "Kamala Harris hat Mühe, Schwarze Männer und Latinos für sich zu gewinnen – überraschend viele sprechen sich für Donald Trump aus. Selbst Barack Obama wird nun deutlich.",
       "url": "https://www.zeit.de/politik/ausland/2024-10/kamala-harris-barack-obama-waehlerschaft-maenner",
@@ -488,26 +499,21 @@
       "image_title": "Rieke Havertz"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); SpaceX : Eine Rakete fangen – ist das genial oder Größenwahn?",
-      "teaser": "SpaceX hat die Unterstufe seines Starships mit zwei Fangarmen aus der Luft gefischt. Wie so etwas möglich ist – und was es für die Zukunft der Raumfahrt bedeutet.",
-      "url": "https://www.zeit.de/wissen/2024-10/spacex-raumfahrt-starship-mechazilla-faq"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); USA : Trump hält Militäreinsatz gegen den \"Feind im Inneren\" für möglich",
-      "teaser": "Donald Trump warnt vor Chaos am Wahltag durch \"linksradikale Irre\", gegen die auch ein Militäreinsatz denkbar sei. Seine eigenen Anhänger bezeichnet er als friedlich.",
-      "url": "https://www.zeit.de/politik/ausland/2024-10/trump-militaereinsatz-feind-im-inneren-festnahme-bewaffneter-wahlkampfveranstaltung",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-10/trump-militaereinsatz-feind-im-inneren-festnahme-bewaffneter-wahlkampfveranstaltung-bild-2/super__430x286",
-      "image_title": "USA: Soldaten der Nationalgarde vor dem US-Kapitol bei der Absicherung der Vereidigung des gewählten US-Präsidenten Joe Biden im Januar 2021"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Steuern : Wirtschaftsweise Veronika Grimm kritisiert SPD-Steuerpläne",
       "teaser": "Die SPD will hohe Einkommen stärker belasten. Für Grimm ist das Wahlkampftaktik. Als sinnvoll erachtet die Wirtschaftsweise verbesserte Abschreibungsmöglichkeiten.",
-      "url": "https://www.zeit.de/wirtschaft/2024-10/steuern-wirtschaftsweise-veronika-grimm-spd"
+      "url": "https://www.zeit.de/wirtschaft/2024-10/steuern-wirtschaftsweise-veronika-grimm-spd",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-10/wirtschaftsweise-veronika-grimm-bild/super__430x286",
+      "image_title": "Steuern: Veronika Grimm, Mitglied im Sachverständigenrat der Bundesregierung, spricht bei der Pressekonferenz. (zu dpa: ««Wirtschaftsweise» stützt Lindner im Haushaltsstreit») +++ dpa-Bildfunk +++ 10/10/2022 00:00:00"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Friedrich Merz bei Caren Miosga : Der Mann mit der Stromberg-Aura",
       "teaser": "Seit gestern Abend steht fest: Friedrich Merz kann lustig sein. Die Sendung von Caren Miosga verwandelt er in eine Sitcomfolge. Die Moderatorin spielt leider einfach mit.",
       "url": "https://www.zeit.de/kultur/2024-10/friedrich-merz-caren-miosga-cdu-persoenlichkeit-staerke"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Zufriedenheit im Ruhestand : \"Als ich in Rente ging, war ich total erleichtert\"",
+      "teaser": "Monika, 74, rechnete damit, ihr Elternhaus zu erben – daraus wurde nichts. Heute hat sie nur 1.300 Euro Rente. Doch sie ist froh, ihren Job nicht mehr machen zu müssen.",
+      "url": "https://www.zeit.de/arbeit/2024-10/zufriedenheit-ruhestand-wenig-geld-rentenbescheid"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Friedrich Merz bei Caren Miosga : Der Mann mit der Stromberg-Aura",
@@ -555,18 +561,18 @@
       "image_title": "Freunde der ZEIT: 5 unentdeckte Orte in Italien"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Mord an Sikhaktivist : Kanada und Indien weisen im Streit um Aktivistenmord Diplomaten aus",
+      "teaser": "Kanada wirft der indischen Regierung vor, in den Mord an einem Sikhaktivisten verwickelt zu sein. Indien weist das zurück. Nun haben beide Länder Diplomaten ausgewiesen.",
+      "url": "https://www.zeit.de/politik/ausland/2024-10/kanada-indien-diplomatie-hardeep-singh-nijjar",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-10/kanada-indien-diplomatie-botschafter-sikh/wide__892x501",
+      "image_title": "Mord an Sikhaktivist: Ein Bild von Hardeep Singh Nijjar auf einem Transparent vor einem Sikh-Kulturzentrum in Kanada."
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Aktivität für Touristen : Prag verbietet organisierte nächtliche Kneipentouren",
       "teaser": "In Tschechiens Hauptstadt soll es nachts keine geführten Kneipentouren mehr geben. Die Stadtverwaltung will stattdessen \"kultivierte, wohlhabende\" Touristen ansprechen.",
       "url": "https://www.zeit.de/gesellschaft/2024-10/prag-kneipen-tour-trink-gelage-verbot-touristen",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-10/prag-naechtliche-trinkgelage-verbot/wide__892x501",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-10/prag-naechtliche-trinkgelage-verbot/super__430x286",
       "image_title": "Aktivität für Touristen: Guests sit in a pub in Prague on March 13, 2020"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Krieg in der Ukraine : Heftige Kämpfe um westrussische Region Kursk und frontnahe Dörfer",
-      "teaser": "Im Sommer war die Ukraine gen Kursk vorgestoßen, nun gestaltet sich die Verteidigung der Frontlinie offenbar schwierig. Die russische Armee verlegte Tausende Soldaten.",
-      "url": "https://www.zeit.de/politik/ausland/2024-10/ukraine-russland-krieg-kursk-kaempfe-militaer",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-10/ukraine-krieg-angriffe-russland-zelenskyy/super__430x286",
-      "image_title": "Krieg in der Ukraine: BERLIN, GERMANY - OCTOBER 11: German Ukrainian President Volodymyr Zelensky arrives to talk at the Chancellery with Chancellor Olaf Scholz on October 11, 2024 in Berlin, Germany. Zelensky is meeting with German leaders today following similar stops in recent days in other European capitals in a renewed effort to procure more military aid for Ukraine. (Photo by Carsten Koall/Getty Images)"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Wirtschaftsnobelpreis : US-Wohlstandsforscher erhalten Wirtschaftsnobelpreis",
@@ -730,18 +736,18 @@
       "image_title": "Hamburg-Podcast \"Elbvertiefung\": Die geheime Welt der Hamburger Selfstorage-Lager"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Jupitermond Europa : Nasa-Sonde \"Europa Clipper\" zum Jupiter gestartet",
+      "teaser": "Auf dem Jupitermond Europa könnten Bedingungen herrschen, die Leben ermöglichen. Eine Nasa-Sonde ist dorthin gestartet – in fünf Jahren soll sie ankommen.",
+      "url": "https://www.zeit.de/wissen/2024-10/jupiter-mond-europa-clipper-nasa-raumsonde",
+      "image_url": "https://img.zeit.de/wissen/2024-10/jupiter-mond-europa-clipper-nasa-raumsonde-bild/wide__892x501",
+      "image_title": "Jupitermond Europa: A SpaceX Falcon Heavy rocket with the Europa Clipper spacecraft aboard launches from Launch Complex 39A at NASA's Kennedy Space Center in Cape Canaveral on October 14, 2024. The spacecraft Clipper will soon launch for Jupiter's moon Europa, one of dozens of moons orbiting the Solar System's biggest planet and the nearest spot in our celestial neighborhood that could offer a perch for life. It should reach orbit around Jupiter and Europa in 2031, where it will begin a detailed study of the moon scientists believe is covered in frozen water, which could provide a similar habitat to Earth. (Photo by CHANDAN KHANNA / AFP) (Photo by CHANDAN KHANNA/AFP via Getty Images)"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Weltraum : So erfinden Forscher das Fliegen neu",
       "teaser": "Mars, Titan, Venus – Fluggeräte sollen die Himmelskörper bald erkunden. Nur sind dort die Bedingungen ganz anders als auf der Erde. Wie fliegt man in anderen Welten?",
       "url": "https://www.zeit.de/2024/43/weltraum-fremde-planeten-fliegen-mars-venus-studie",
-      "image_url": "https://img.zeit.de/2024/43/weltraum-fremde-planeten-fliegen-mars-venus-studie-bild/wide__892x501",
+      "image_url": "https://img.zeit.de/2024/43/weltraum-fremde-planeten-fliegen-mars-venus-studie-bild/super__430x286",
       "image_title": "Weltraum: So erfinden Forscher das Fliegen neu"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Burg Hohengenkingen : Wie der Klimawandel das archäologische Erbe der Menschheit gefährdet",
-      "teaser": "Stürme zerstören Burgen, Dünen vergraben Pyramiden, uralte Kirchtürme sacken ab: Viele archäologische Stätten sind durch Wetterextreme bedroht. Eine Denkmalkatastrophe",
-      "url": "https://www.zeit.de/2024/43/burg-hohengenkingen-sturm-klimawandel-archaeologie-geschichte",
-      "image_url": "https://img.zeit.de/2024/43/die-denkmalkatastrophe-bild-1/super__430x286",
-      "image_title": "Burg Hohengenkingen: Schneise der Zerstörung: Auf dem Burggipfel hat der Orkan fast alle Bäume umgeworfen. Teile der Ringmauer sind eingestürzt"
     },
     {
       "title": "Anzeige : Reisen mit der ZEIT",
@@ -973,18 +979,18 @@
       "image_title": "Rezeptvideos: Wie politisch sind Gewürzgurken, Ana Romas?"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Nations League : Deutschland siegt gegen die Niederlande und ist im Viertelfinale",
+      "teaser": "Mit einem Sieg gegen die Niederlande ist der DFB-Elf vorzeitig der Einzug ins Nations-League-Viertelfinale gelungen. Das entscheidende Tor ließ zunächst auf sich warten.",
+      "url": "https://www.zeit.de/sport/2024-10/nations-league-einzug-viertelfinale-deutschland-niederlande",
+      "image_url": "https://img.zeit.de/sport/2024-10/nations-league-einzug-viertelfinale-deutschland-niederlande-2/wide__892x501",
+      "image_title": "Nations League: Die deutsche Nationalmannschaft jubelt – mit dem Sieg gegen die Niederlande zieht das Team vorzeitig ins Viertelfinale ein."
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Leichtathletik : Kenianerin Ruth Chepngetich stellt in Chicago Marathonweltrekord auf",
       "teaser": "42,195 Kilometer in 2:09:57 Stunden. Beim Chicago Marathon ist Ruth Chepngetich Weltrekord gelaufen – und blieb dabei rund zwei Minuten unter der bisherigen Bestzeit.",
       "url": "https://www.zeit.de/sport/2024-10/marathon-weltrekord-chicago-kenia-ruth-chepngetich",
-      "image_url": "https://img.zeit.de/sport/2024-10/marathon-weltrekord-chicago-ruth-chepngetic-lauf/wide__892x501",
+      "image_url": "https://img.zeit.de/sport/2024-10/marathon-weltrekord-chicago-ruth-chepngetic-lauf/super__430x286",
       "image_title": "Leichtathletik: Oct 13, 2024; Chicago, IL, USA; Ruth Chepngetich of Kenya finishes first in the women’s race, setting a new world record at 2:09:56 during the Chicago Marathon at Grant Park. Mandatory Credit: Patrick Gorski-Imagn Images"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Fitnessübung : High five in der seitlichen Planke",
-      "teaser": "Die seitliche Rumpfmuskulatur wird im Sport oft unterschätzt. Nicht bei uns. So legen Sie Ihren Partner auf die Seite und haben Spaß dabei.",
-      "url": "https://www.zeit.de/sport/2024-10/fitnessuebung-high-five-seitliche-planke-personal-trainer",
-      "image_url": "https://img.zeit.de/sport/2024-10/fitnessuebung-high-five-seitliche-planke-personal-trainer-07/super__430x286",
-      "image_title": "Fitnessübung: High five in der seitlichen Planke"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Burchardkai Hamburg : Die Hafen-Roboter kommen",
@@ -1008,36 +1014,36 @@
       "image_title": "Fragen Sie ZEIT ONLINE: Haben Sie ein Thema verpasst?"
     },
     {
-      "title": "Medizinische Versorgung: Neues Blutspendezentrum in Potsdam öffnet",
-      "url": "https://www.zeit.de/news/2024-10/15/neues-blutspendezentrum-in-potsdam-oeffnet"
+      "title": "Fußball-Nationalmannschaft: «Stolzer» Nagelsmann entwickelt «Gewinner-Mannschaft»",
+      "url": "https://www.zeit.de/news/2024-10/15/stolzer-nagelsmann-entwickelt-gewinner-mannschaft"
     },
     {
-      "title": "Ausstellung: Kunsthochschule zeigt Arbeiten aus Prager Partnerhochschule",
-      "url": "https://www.zeit.de/news/2024-10/15/kunsthochschule-zeigt-arbeiten-aus-prager-partnerhochschule"
+      "title": "Lage im Überblick: Selenskyj: Eine Million Drohnen für Streitkräfte gebaut",
+      "url": "https://www.zeit.de/news/2024-10/15/selenskyj-eine-million-drohnen-fuer-streitkraefte-gebaut"
     },
     {
-      "title": "Digitale Gesundheitsdaten: Bessere Patientenversorgung mithilfe digitaler Daten",
-      "url": "https://www.zeit.de/news/2024-10/15/bessere-patientenversorgung-mithilfe-digitaler-daten"
+      "title": "«Ischa Freimaak»: Karussells und Festzelte - Aufbau für den Bremer Freimarkt",
+      "url": "https://www.zeit.de/news/2024-10/15/karussells-und-festzelte-aufbau-fuer-den-bremer-freimarkt"
     },
     {
-      "title": "Bahnverkehr im Norden: 4. Bahngipfel zur Situation auf der Marschbahnstrecke",
-      "url": "https://www.zeit.de/news/2024-10/15/4-bahngipfel-zur-situation-auf-der-marschbahnstrecke"
+      "title": "Landesentwicklung: Schularick sieht mehrere Gewinnerthemen für den Norden",
+      "url": "https://www.zeit.de/news/2024-10/15/schularick-sieht-mehrere-gewinnerthemen-fuer-den-norden"
     },
     {
-      "title": "Besuch in Niedersachsen: Flagge des Bundespräsidenten weht drei Tage lang in Nordhorn",
-      "url": "https://www.zeit.de/news/2024-10/15/flagge-des-bundespraesidenten-weht-drei-tage-lang-in-nordhorn"
+      "title": "Trübe Aussichten: KfW-Panel: Mittelständler verlieren deutlich Umsatz",
+      "url": "https://www.zeit.de/news/2024-10/15/kfw-panel-mittelstaendler-verlieren-deutlich-umsatz"
     },
     {
-      "title": "Landespolitik: Senat berät über Situation der Kita-Kinder in Berlin",
-      "url": "https://www.zeit.de/news/2024-10/15/senat-beraet-ueber-situation-der-kita-kinder-in-berlin"
+      "title": "Street-Art: Taylor Swift mit Graffiti in Gelsenkirchen verewigt",
+      "url": "https://www.zeit.de/news/2024-10/15/taylor-swift-mit-graffiti-in-gelsenkirchen-verewigt"
     },
     {
-      "title": "Mordprozess: Mann erstochen und Wohnung angezündet - Prozess beginnt",
-      "url": "https://www.zeit.de/news/2024-10/15/mann-erstochen-und-wohnung-angezuendet-prozess-beginnt"
+      "title": "Landwirtschaft: Kürbisernte endet - viele Hokkaido-Sorten im Anbau",
+      "url": "https://www.zeit.de/news/2024-10/15/kuerbisernte-endet-viele-hokkaido-sorten-im-anbau"
     },
     {
-      "title": "Tarifverhandlungen: Zweite Tarifrunde für Metall- und Elektroindustrie in Bremen",
-      "url": "https://www.zeit.de/news/2024-10/15/zweite-tarifrunde-fuer-metall-und-elektroindustrie-in-bremen"
+      "title": "Britisches Königshaus: Die Stehauffrau: Sarah «Fergie» Ferguson wird 65",
+      "url": "https://www.zeit.de/news/2024-10/15/die-stehauffrau-sarah-fergie-ferguson-wird-65"
     }
   ]
 }
