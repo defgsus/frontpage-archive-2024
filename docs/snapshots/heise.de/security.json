@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-15T09:07:27",
+  "timestamp": "2024-10-15T10:00:59",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -19,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.3573053c445ec9d46999",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.0a047507c23f23c3d07f",
       "id": null,
       "text": null
     },
@@ -31,6 +31,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Telerik Report Server",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Anmeldung-in-Telerik-Report-Server-umgehen-9981233.html"
+    },
     {
       "title": "Wireshark",
       "url": "https://www.heise.de/news/Sicherheitsupdate-Angreifer-koennen-Netzwerkanalysetool-Wireshark-crashen-lassen-9979991.html"
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Sicherheitsluecke-in-Sonicwall-SMA1000-Reihe-ermoeglicht-Rechteausweitung-9979741.html"
     },
     {
-      "title": "IoT/ICS Delta Schneider, Siemens, Rockwell Automation",
-      "url": "https://www.heise.de/news/CISA-warnt-vor-Sicherheitsluecken-in-21-IoT-Industrie-Kontrollsystemen-9978035.html"
+      "title": "Sicherheitsupdates: Angreifer können Anmeldung in Telerik Report Server umgehen",
+      "teaser": "Das Business-Reportingtool Telerik Report Server ist verwundbar. Patches schließen unter anderem eine Schadcodelücke.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Anmeldung-in-Telerik-Report-Server-umgehen-9981233.html",
+      "image_title": "Update-Schild auf Tisch"
     },
     {
       "title": "Sicherheitsupdate: Angreifer können Netzwerkanalysetool Wireshark crashen lassen",
@@ -159,12 +165,6 @@
       "teaser": "Neue Versionen von Firefox und Thunderbird schließen Sicherheitslücken, die bereits in freier Wildbahn angegriffen werden.",
       "url": "https://www.heise.de/news/Firefox-Notfall-Update-stopft-angegriffenes-Sicherheitsleck-9976162.html",
       "image_title": "Stilisierte Grafik: Brennendes Firefox-Logo auf einem Laptop"
-    },
-    {
-      "title": "Zero-Day-Lücke in Qualcomm-Mobilprozessoren bereits vereinzelt angegriffen",
-      "teaser": "Etliche Snapdragon-Chips für Android-Geräte weisen eine als kritisch eingestufte Sicherheitslücke auf. Sie wurde schon vereinzelt und gezielt ausgenutzt.",
-      "url": "https://www.heise.de/news/Zero-Day-Luecke-in-Qualcomm-Mobilprozessoren-bereits-vereinzelt-angegriffen-9977340.html",
-      "image_title": "Stilisiertes Bild: Smartphone mit Android-Roboter auf dem Bildschirm, steht in Flammen"
     },
     {
       "title": "IoT-Webinar",
