@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-16T13:16:15",
+  "timestamp": "2024-10-16T14:00:37",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -19,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.89bbb9aa50d52d450225",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.88cd02092dce209d31cd",
       "id": null,
       "text": null
     },
@@ -31,6 +31,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "HP-Drucker",
+      "url": "https://www.heise.de/news/HP-DesignJet-Drucker-Angreifer-koennen-SMTP-Server-Logins-abgreifen-9983364.html"
+    },
     {
       "title": "Solarwinds Web Help Desk",
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Solarwinds-Web-Help-Desk-9983329.html"
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Anmeldung-in-Telerik-Report-Server-umgehen-9981233.html"
     },
     {
-      "title": "Wireshark",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-Angreifer-koennen-Netzwerkanalysetool-Wireshark-crashen-lassen-9979991.html"
+      "title": "Sicherheitsupdate: Zwei Drucker-Modelle aus HPs DesignJet-Serie attackierbar",
+      "teaser": "Setzen Angreifer erfolgreich an einer Sicherheitslücke in bestimmten HP-Druckern an, können sie eigentlich abgeschottete Informationen einsehen.",
+      "url": "https://www.heise.de/news/HP-DesignJet-Drucker-Angreifer-koennen-SMTP-Server-Logins-abgreifen-9983364.html",
+      "image_title": "Stilisierte Grafik: ein brennender Netzwerkdrucker"
     },
     {
       "title": "Jetzt patchen! Angreifer attackieren Solarwinds Web Help Desk",
@@ -159,12 +165,6 @@
       "teaser": "Im Bundestag ist es zu einer ersten Aussprache über das NIS2-Umsetzungsgesetz gekommen. Dabei wurde die späte Umsetzung in Deutschland kritisiert.",
       "url": "https://www.heise.de/news/Cyberresilienz-muss-in-die-Koepfe-kommen-Bundestag-beraet-ueber-NIS2-9978158.html",
       "image_title": "Sicherheitsschloss liegt auf Smartphone, EU-Symbole im Hintergrund"
-    },
-    {
-      "title": "CISA warnt vor Sicherheitslücken in 21 IoT-Industrie-Kontrollsystemen",
-      "teaser": "Die US-IT-Sicherheitsbehörde CISA hat 21 Sicherheitsmeldungen zu industriellen Steuerungssystemen veröffentlicht. IT-Verantwortliche sollten sie prüfen.",
-      "url": "https://www.heise.de/news/CISA-warnt-vor-Sicherheitsluecken-in-21-IoT-Industrie-Kontrollsystemen-9978035.html",
-      "image_title": "Futuristische Datenmatrix"
     },
     {
       "title": "IoT-Webinar",
