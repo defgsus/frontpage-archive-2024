@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-16T08:10:00",
+  "timestamp": "2024-10-16T09:07:32",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Github Enterprise Server",
+      "url": "https://www.heise.de/news/Github-Enterprise-Server-Angreifer-koennen-Authentifizierung-umgehen-9982591.html"
+    },
+    {
       "title": "Telerik Report Server",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Anmeldung-in-Telerik-Report-Server-umgehen-9981233.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Ransomware-Sophos-warnt-vor-Angriffen-auf-Veeam-Sicherheitsluecke-9979932.html"
     },
     {
-      "title": "Sonicwall SMA1000, Connect Tunnel",
-      "url": "https://www.heise.de/news/Sicherheitsluecke-in-Sonicwall-SMA1000-Reihe-ermoeglicht-Rechteausweitung-9979741.html"
+      "title": "Github Enterprise Server: Angreifer können Authentifizierung umgehen",
+      "teaser": "Unter bestimmten Voraussetzungen sind unbefugte Zugriffe auf Github Enterprise Server möglich. Sicherheitsupdates sind verfügbar.",
+      "url": "https://www.heise.de/news/Github-Enterprise-Server-Angreifer-koennen-Authentifizierung-umgehen-9982591.html",
+      "image_title": "Kriminelle greifen Server an, Admin versucht, den Stecker zu ziehen"
     },
     {
       "title": "\"Passwort\" Folge 16: Die Technik hinter der Chatkontrolle",
@@ -158,12 +164,6 @@
       "teaser": "Die US-IT-Sicherheitsbehörde CISA hat 21 Sicherheitsmeldungen zu industriellen Steuerungssystemen veröffentlicht. IT-Verantwortliche sollten sie prüfen.",
       "url": "https://www.heise.de/news/CISA-warnt-vor-Sicherheitsluecken-in-21-IoT-Industrie-Kontrollsystemen-9978035.html",
       "image_title": "Futuristische Datenmatrix"
-    },
-    {
-      "title": "Anonymisierendes Linux: Tails 6.8.1 kann persistenten Speicher reparieren",
-      "teaser": "Das zum anonymen Surfen gedachte Tails-Linux schließt in Version 6.8.1 eine Sicherheitslücke. Es verbessert zudem den Umgang mit persistentem Speicher.",
-      "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-6-8-1-schliesst-kritische-Sicherheitsluecke-9977905.html",
-      "image_title": "Tails-Desktop auf einem Notebook auf einem Tisch"
     },
     {
       "title": "IoT-Webinar",
