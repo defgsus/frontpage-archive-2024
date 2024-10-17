@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-17T11:00:48",
+  "timestamp": "2024-10-17T12:12:53",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Oracle Critical Patch Update",
+      "url": "https://www.heise.de/news/Oracle-schuetzt-Softwareprodukte-mit-334-Sicherheitsupdates-9984558.html"
+    },
+    {
       "title": "Cisco",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Root-Attacken-auf-VoIP-Adapter-von-Cisco-moeglich-9984192.html"
     },
@@ -44,8 +48,21 @@
       "url": "https://www.heise.de/news/Solarwinds-Luecken-in-Plattform-und-Serv-U-ermoeglichen-Schadcode-Schmuggel-9983920.html"
     },
     {
-      "title": "VMware HCX",
-      "url": "https://www.heise.de/news/VMware-HCX-Codeschmuggel-durch-SQL-Injection-Luecke-moeglich-9983875.html"
+      "title": "Windkraft: Regierung für mehr IT-Sicherheit und weniger Abhängigkeit von China",
+      "teaser": "Das Bundeswirtschaftsministerium will dafür sorgen, dass Windkraftanlagen besser geschützt sind und der Wettbewerb fairer wird. Die Industrie sieht das positiv.",
+      "url": "https://www.heise.de/news/Windkraft-Regierung-fuer-mehr-IT-Sicherheit-und-weniger-Abhaengigkeit-von-China-9984716.html",
+      "image_title": "Windräder in Ostholstein"
+    },
+    {
+      "title": "Oracle schützt Softwareprodukte mit 334 Sicherheitsupdates",
+      "teaser": "Mit seinen quartalsweise erscheinenden Sicherheitsupdates sichert Oracle abermals das eigene Softwareportfolio ab.",
+      "url": "https://www.heise.de/news/Oracle-schuetzt-Softwareprodukte-mit-334-Sicherheitsupdates-9984558.html"
+    },
+    {
+      "title": "l+f: Microsoft verliert Log-Dateien",
+      "teaser": "Microsoft hat einen Fehler bei der Protokollierung in Entra und Azure entdeckt und behoben. Teilweise sind Daten verloren gegangen.",
+      "url": "https://www.heise.de/news/l-f-Microsoft-verliert-Log-Dateien-9984504.html",
+      "image_title": "Bug im Netzwerk unter der Lupe"
     },
     {
       "title": "F5 BIG-IP: Zugriffsbeschränkungen umgehbar",
@@ -147,24 +164,6 @@
       "teaser": "Eine massive Phishing-Kampagne hat Host-Europe-Kunden im Visier. Davor warnen das Unternehmen und das LKA Niedersachsen.",
       "url": "https://www.heise.de/news/Host-Europe-und-LKA-Niedersachsen-warnen-vor-Phishing-Welle-9980244.html",
       "image_title": "Krimineller angelt Kreditkartendaten, Geld,"
-    },
-    {
-      "title": "Ransomware: Sophos warnt vor Angriffen auf Veeam-Sicherheitslücke",
-      "teaser": "Angreifer missbrauchen eine kritische Sicherheitslücke in Veeam, die Codeschmuggel ermöglicht. Davor warnt aktuell Sophos.",
-      "url": "https://www.heise.de/news/Ransomware-Sophos-warnt-vor-Angriffen-auf-Veeam-Sicherheitsluecke-9979932.html",
-      "image_title": "The,Abstract,Image,Of,Inside,Of,Hard,Disk,Drive,On"
-    },
-    {
-      "title": "Nach Cyberattacke: Datenleck beim Pokémon-Entwickler Game Freak",
-      "teaser": "Unbefugte konnten auf Personaldaten des Pokémon-Entwicklers Game Freak zugreifen. Berichten zufolge ist auch Sourcecode geleakt.",
-      "url": "https://www.heise.de/news/Nach-Cyberattacke-Datenleck-beim-Pokemon-Entwickler-Game-Freak-9979884.html",
-      "image_title": "Das Pokémon Pikachu steht als Figur in einem Ladengeschäft."
-    },
-    {
-      "title": "Sicherheitslücke in Sonicwall SMA1000-Reihe ermöglicht Rechteausweitung",
-      "teaser": "Sonicwall stopft Sicherheitslücken in SSL-VPN-Appliances der SMA1000-Serie und im Connect-Tunnel-Client. Angreifer können dadurch etwa ihre Rechte ausweiten.",
-      "url": "https://www.heise.de/news/Sicherheitsluecke-in-Sonicwall-SMA1000-Reihe-ermoeglicht-Rechteausweitung-9979741.html",
-      "image_title": "Eine Appliance verbindet viele Clients mit Kabeln durch die Cloud. Sie und paar Clients brennen."
     },
     {
       "title": "IoT-Webinar",
