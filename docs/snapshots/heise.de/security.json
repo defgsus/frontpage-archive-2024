@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-17T08:10:24",
+  "timestamp": "2024-10-17T09:07:30",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.f2d317cc9660b3aeeef7",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.ceb954e343dab6a6015e",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "F5 Big-IP",
+      "url": "https://www.heise.de/news/F5-BIG-IP-Angreifer-koennen-Restriktionen-durch-Zugriffskontrollen-umgehen-9984055.html"
+    },
     {
       "title": "Solarwinds Plattform, Serv-U",
       "url": "https://www.heise.de/news/Solarwinds-Luecken-in-Plattform-und-Serv-U-ermoeglichen-Schadcode-Schmuggel-9983920.html"
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/HP-DesignJet-Drucker-Angreifer-koennen-SMTP-Server-Logins-abgreifen-9983364.html"
     },
     {
-      "title": "Solarwinds Web Help Desk",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Solarwinds-Web-Help-Desk-9983329.html"
+      "title": "F5 BIG-IP: Angreifer können Restriktionen durch Zugriffskontrollen umgehen",
+      "teaser": "F5 hat eine Sicherheitslücke in der Monitor-Funktion von BIG-IP gemeldet. Angreifer können betroffene Systeme kompromittieren.",
+      "url": "https://www.heise.de/news/F5-BIG-IP-Angreifer-koennen-Restriktionen-durch-Zugriffskontrollen-umgehen-9984055.html",
+      "image_title": "Stilisierte Grafik: Brennende Appliances im Netz"
+    },
+    {
+      "title": "GMX und Web.de filtern wöchentlich 1,9 Milliarden Spam-Mails – auch dank KI",
+      "teaser": "Pakete, die es nicht gibt, Kundenservice, den man nicht braucht: 1,9 Milliarden Mails filtern GMX und Web.de wöchentlich aus.",
+      "url": "https://www.heise.de/news/GMX-und-Web-de-filtern-woechentlich-1-9-Milliarden-Spam-Mails-auch-dank-KI-9983886.html",
+      "image_title": "Spam-Nachricht mit DHL-Fälschung"
     },
     {
       "title": "Solarwinds: Lücken in Plattform und Serv-U ermöglichen Schadcode-Schmuggel",
@@ -153,18 +165,6 @@
       "title": "IT-Sicherheitstag Gelsenkirchen: Komplexität beherrschen - mit Frühbucherrabatt",
       "teaser": "Verzahnte IT-Systeme und Lieferantenbeziehungen, dazu noch Regulatorik und KI: Sicherheitsverantwortliche müssen viel beachten. Der IT-Sicherheitstag hilft.",
       "url": "https://www.heise.de/news/IT-Sicherheitstag-Gelsenkirchen-Komplexitaet-beherrschen-mit-Fruehbucherrabatt-9975187.html"
-    },
-    {
-      "title": "Nach Cyberattacke: Ecovacs-Saugroboter erlauben Kamerazugriff und mehr",
-      "teaser": "In den USA häufen sich Fälle, in denen gehackte Saugroboter offenbar fremdgesteuert Beleidigungen zurufen und Bilder über die interne Kamera übertragen.",
-      "url": "https://www.heise.de/news/Sicherheitsluecke-in-Evovacs-Saugrobotern-erlaubt-Remote-Steuerung-durch-Hacker-9979104.html",
-      "image_title": "Ein Saugroboter bei der Arbeit"
-    },
-    {
-      "title": "Internet Archive bleibt vorerst offline",
-      "teaser": "Die \"Wayback Machine\" ist derzeit anhaltend nicht erreichbar. Laut ihrem Gründer ist das so gewollt, der Umbau nach einem Cyberangriff dauere noch etwas.",
-      "url": "https://www.heise.de/news/Internet-Archive-bleibt-vorerst-offline-9979142.html",
-      "image_title": "Bibliothek, Bücher"
     },
     {
       "title": "IoT-Webinar",
