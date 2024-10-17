@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-17T09:07:30",
+  "timestamp": "2024-10-17T10:00:42",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Cisco",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Root-Attacken-auf-VoIP-Adapter-von-Cisco-moeglich-9984192.html"
+    },
+    {
       "title": "F5 Big-IP",
       "url": "https://www.heise.de/news/F5-BIG-IP-Angreifer-koennen-Restriktionen-durch-Zugriffskontrollen-umgehen-9984055.html"
     },
@@ -44,11 +48,12 @@
       "url": "https://www.heise.de/news/VMware-HCX-Codeschmuggel-durch-SQL-Injection-Luecke-moeglich-9983875.html"
     },
     {
-      "title": "HP-Drucker",
-      "url": "https://www.heise.de/news/HP-DesignJet-Drucker-Angreifer-koennen-SMTP-Server-Logins-abgreifen-9983364.html"
+      "title": "Sicherheitsupdates: Root-Attacken auf VoIP-Adapter von Cisco möglich",
+      "teaser": "Angreifer können mehrere Produkte von Cisco attackieren und im schlimmsten Fall Systeme kompromittieren.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Root-Attacken-auf-VoIP-Adapter-von-Cisco-moeglich-9984192.html"
     },
     {
-      "title": "F5 BIG-IP: Angreifer können Restriktionen durch Zugriffskontrollen umgehen",
+      "title": "F5 BIG-IP: Zugriffsbeschränkungen umgehbar",
       "teaser": "F5 hat eine Sicherheitslücke in der Monitor-Funktion von BIG-IP gemeldet. Angreifer können betroffene Systeme kompromittieren.",
       "url": "https://www.heise.de/news/F5-BIG-IP-Angreifer-koennen-Restriktionen-durch-Zugriffskontrollen-umgehen-9984055.html",
       "image_title": "Stilisierte Grafik: Brennende Appliances im Netz"
@@ -160,11 +165,6 @@
       "teaser": "OpenAI hat in einem offiziellen Bericht bestätigt, dass ChatGPT in mehreren Fällen nachweislich zur Entwicklung von Malware eingesetzt wurde.",
       "url": "https://www.heise.de/news/OpenAI-gibt-zu-ChatGPT-wird-zur-Malware-Entwicklung-genutzt-9979470.html",
       "image_title": "Magnifying,Glass,Enlarging,Malware,In,Computer,Machine,Code"
-    },
-    {
-      "title": "IT-Sicherheitstag Gelsenkirchen: Komplexität beherrschen - mit Frühbucherrabatt",
-      "teaser": "Verzahnte IT-Systeme und Lieferantenbeziehungen, dazu noch Regulatorik und KI: Sicherheitsverantwortliche müssen viel beachten. Der IT-Sicherheitstag hilft.",
-      "url": "https://www.heise.de/news/IT-Sicherheitstag-Gelsenkirchen-Komplexitaet-beherrschen-mit-Fruehbucherrabatt-9975187.html"
     },
     {
       "title": "IoT-Webinar",
