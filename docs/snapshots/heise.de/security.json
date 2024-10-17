@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-17T06:10:26",
+  "timestamp": "2024-10-17T07:07:28",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Solarwinds Plattform, Serv-U",
+      "url": "https://www.heise.de/news/Solarwinds-Luecken-in-Plattform-und-Serv-U-ermoeglichen-Schadcode-Schmuggel-9983920.html"
+    },
+    {
       "title": "VMware HCX",
       "url": "https://www.heise.de/news/VMware-HCX-Codeschmuggel-durch-SQL-Injection-Luecke-moeglich-9983875.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Solarwinds-Web-Help-Desk-9983329.html"
     },
     {
-      "title": "Github Enterprise Server",
-      "url": "https://www.heise.de/news/Github-Enterprise-Server-Angreifer-koennen-Authentifizierung-umgehen-9982591.html"
+      "title": "Solarwinds: Lücken in Plattform und Serv-U ermöglichen Schadcode-Schmuggel",
+      "teaser": "Solarwinds warnt vor Sicherheitslücken in der Plattform und in Serv-U. Angreifer können etwa Code einschleusen oder ihre Rechte ausweiten.",
+      "url": "https://www.heise.de/news/Solarwinds-Luecken-in-Plattform-und-Serv-U-ermoeglichen-Schadcode-Schmuggel-9983920.html",
+      "image_title": "Stilisiertes Bild: Laptop steht auf Schreibtisch vor Serverschränken, es brennt"
     },
     {
       "title": "VMware HCX: Codeschmuggel durch SQL-Injection-Lücke möglich",
@@ -66,15 +72,15 @@
       "image_title": "Stilisierte Grafik: ein brennender Netzwerkdrucker"
     },
     {
+      "title": "Die trügerische Sicherheit vermeintlich starker Passwörter",
+      "teaser": "Viele Anwender vertrauen auf vermeintlich sichere und leicht zu merkende Kennwörter mit Sonderzeichen und Ziffern wie „!passwort#2024“. Doch Angreifer nutzen die dort regelmäßig zu findenden Muster aus. Mit bestimmten Maßnahmen können Unternehmen hier entgegen wirken.",
+      "url": "https://www.heise.de/solutions/specops/die-truegerische-sicherheit-vermeintlich-starker-passwoerter/?source=nat_teas"
+    },
+    {
       "title": "Jetzt patchen! Angreifer attackieren Solarwinds Web Help Desk",
       "teaser": "Derzeit laufen Attacken auf die Kundensupport-Software Web Help Desk von Solarwinds. Sicherheitsupdates stehen zum Download.",
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Solarwinds-Web-Help-Desk-9983329.html",
       "image_title": "Eine Warnlampe mit einem Warndreieck"
-    },
-    {
-      "title": "Die trügerische Sicherheit vermeintlich starker Passwörter",
-      "teaser": "Viele Anwender vertrauen auf vermeintlich sichere und leicht zu merkende Kennwörter mit Sonderzeichen und Ziffern wie „!passwort#2024“. Doch Angreifer nutzen die dort regelmäßig zu findenden Muster aus. Mit bestimmten Maßnahmen können Unternehmen hier entgegen wirken.",
-      "url": "https://www.heise.de/solutions/specops/die-truegerische-sicherheit-vermeintlich-starker-passwoerter/?source=nat_teas"
     },
     {
       "title": "Github Enterprise Server: Angreifer können Authentifizierung umgehen",
@@ -164,12 +170,6 @@
       "teaser": "Die \"Wayback Machine\" ist derzeit anhaltend nicht erreichbar. Laut ihrem Gründer ist das so gewollt, der Umbau nach einem Cyberangriff dauere noch etwas.",
       "url": "https://www.heise.de/news/Internet-Archive-bleibt-vorerst-offline-9979142.html",
       "image_title": "Bibliothek, Bücher"
-    },
-    {
-      "title": "iX-Workshop: Sich selbst hacken – Pentesting mit Open-Source-Werkzeugen",
-      "teaser": "Lernen Sie, wie Sie Sicherheitslücken in der eigenen Unternehmens-IT mit Hacker-Tools aufdecken und beseitigen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Sich-selbst-hacken-Pentesting-mit-Open-Source-Werkzeugen-9961433.html",
-      "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
     },
     {
       "title": "IoT-Webinar",
