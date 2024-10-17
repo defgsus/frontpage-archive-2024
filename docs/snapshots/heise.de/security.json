@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-17T05:00:49",
+  "timestamp": "2024-10-17T06:10:26",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "VMware HCX",
+      "url": "https://www.heise.de/news/VMware-HCX-Codeschmuggel-durch-SQL-Injection-Luecke-moeglich-9983875.html"
+    },
+    {
       "title": "HP-Drucker",
       "url": "https://www.heise.de/news/HP-DesignJet-Drucker-Angreifer-koennen-SMTP-Server-Logins-abgreifen-9983364.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Github-Enterprise-Server-Angreifer-koennen-Authentifizierung-umgehen-9982591.html"
     },
     {
-      "title": "Telerik Report Server",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Anmeldung-in-Telerik-Report-Server-umgehen-9981233.html"
+      "title": "VMware HCX: Codeschmuggel durch SQL-Injection-Lücke möglich",
+      "teaser": "Broadcom hat mit einem Update eine Sicherheitslücke in VMware HCX geschlossen. Angreifer können durch sie Code einschleusen und ausführen.",
+      "url": "https://www.heise.de/news/VMware-HCX-Codeschmuggel-durch-SQL-Injection-Luecke-moeglich-9983875.html",
+      "image_title": "Stilisierte Grafik: Brennendes VMware-Logo auf einem Laptop"
     },
     {
       "title": "Cyberangriff auf Internet Archive offenbar von russischen Hackern durchgeführt",
@@ -66,15 +72,15 @@
       "image_title": "Eine Warnlampe mit einem Warndreieck"
     },
     {
+      "title": "Die trügerische Sicherheit vermeintlich starker Passwörter",
+      "teaser": "Viele Anwender vertrauen auf vermeintlich sichere und leicht zu merkende Kennwörter mit Sonderzeichen und Ziffern wie „!passwort#2024“. Doch Angreifer nutzen die dort regelmäßig zu findenden Muster aus. Mit bestimmten Maßnahmen können Unternehmen hier entgegen wirken.",
+      "url": "https://www.heise.de/solutions/specops/die-truegerische-sicherheit-vermeintlich-starker-passwoerter/?source=nat_teas"
+    },
+    {
       "title": "Github Enterprise Server: Angreifer können Authentifizierung umgehen",
       "teaser": "Unter bestimmten Voraussetzungen sind unbefugte Zugriffe auf Github Enterprise Server möglich. Sicherheitsupdates sind verfügbar.",
       "url": "https://www.heise.de/news/Github-Enterprise-Server-Angreifer-koennen-Authentifizierung-umgehen-9982591.html",
       "image_title": "Kriminelle greifen Server an, Admin versucht, den Stecker zu ziehen"
-    },
-    {
-      "title": "Die trügerische Sicherheit vermeintlich starker Passwörter",
-      "teaser": "Viele Anwender vertrauen auf vermeintlich sichere und leicht zu merkende Kennwörter mit Sonderzeichen und Ziffern wie „!passwort#2024“. Doch Angreifer nutzen die dort regelmäßig zu findenden Muster aus. Mit bestimmten Maßnahmen können Unternehmen hier entgegen wirken.",
-      "url": "https://www.heise.de/solutions/specops/die-truegerische-sicherheit-vermeintlich-starker-passwoerter/?source=nat_teas"
     },
     {
       "title": "Passkeys sicher importieren und exportieren",
@@ -164,12 +170,6 @@
       "teaser": "Lernen Sie, wie Sie Sicherheitslücken in der eigenen Unternehmens-IT mit Hacker-Tools aufdecken und beseitigen.",
       "url": "https://www.heise.de/news/iX-Workshop-Sich-selbst-hacken-Pentesting-mit-Open-Source-Werkzeugen-9961433.html",
       "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
-    },
-    {
-      "title": "Schadhafte Chrome-Extensions kommen an Googles Sicherheitsvorkehrungen vorbei",
-      "teaser": "Google hat die API für Browsererweiterungen in Chrome sicherer gemacht. Dass das offenbar nicht ausreichend war, haben Sicherheitsforscher jüngst demonstriert.",
-      "url": "https://www.heise.de/news/Schadhafte-Chrome-Extensions-kommen-an-Googles-Sicherheitsvorkehrungen-vorbei-9978767.html",
-      "image_title": "Chrome Logo auf einem Smartphone"
     },
     {
       "title": "IoT-Webinar",
