@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-17T10:00:38",
+  "timestamp": "2024-10-17T11:00:45",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,14 +26,38 @@
   ],
   "articles": [
     {
+      "title": "Fünf Sprachmodelle im Vergleich mit ChatGPT",
+      "teaser": "ChatGPT ist das weltweit bekannteste Sprachmodell. Doch inzwischen gibt es Konkurrenz – auch aus Europa. Wir fühlen fünf konkurrierenden Anbietern auf den Zahn.",
+      "url": "https://www.heise.de/ratgeber/Fuenf-Sprachmodelle-im-Vergleich-mit-ChatGPT-9983051.html",
+      "image_title": ", KI, Collage c’t"
+    },
+    {
       "title": "Security: Top-Ten-Liste der Infrastrukturbedrohungen vorgestellt",
       "teaser": "Die Top 10 Infrastructure Security Risks beschreiben die größten Bedrohungen für unternehmensinterne IT-Infrastrukturen. Die Autoren rufen zur Mitwirkung auf.",
       "url": "https://www.heise.de/hintergrund/Security-Top-Ten-Liste-der-Infrastrukturbedrohungen-vorgestellt-9982994.html"
     },
     {
-      "title": "NIS2 und andere Sicherheitskonzepte erklärt",
-      "teaser": "Die NIS2-Regulierung erfindet die IT-Sicherheit nicht neu: Es gibt viele Überschneidungen mit etablierten Sicherheitskonzepten wie ISO 27001 und IT-Grundschutz.",
-      "url": "https://www.heise.de/hintergrund/NIS2-und-andere-Sicherheitskonzepte-erklaert-9981557.html"
+      "title": "New York Times warnt Perplexity: Nicht unsere Inhalte",
+      "teaser": "Die New York Times möchte nicht bei der KI-Suche Perplexity auftauchen. Die jedoch sagen, es gibt keine Exklusiv-Informationen.",
+      "url": "https://www.heise.de/news/New-York-Times-warnt-Perplexity-Nicht-unsere-Inhalte-9984215.html",
+      "image_title": "Eine Waage, auf der die Buchstaben AI und die Zeichnung eines menschlichen Gehirns liegen."
+    },
+    {
+      "title": "software-architektur.tv: Green Software Development mit Aydin Mir Mohammadi",
+      "teaser": "In Eberhard Wolffs Videocast geht es am Freitag im Gespräch mit Aydin Mir Mohammadi um das Thema grüne Softwareentwicklung.",
+      "url": "https://www.heise.de/news/software-architektur-tv-Green-Software-Development-mit-Aydin-Mir-Mohammadi-9981773.html",
+      "image_title": "neue Folge software-architektur.tv zum Thema Green Software Development"
+    },
+    {
+      "title": "Ex-Apple-Designer bringen ergonomisches Keyboard auf den Markt",
+      "teaser": "Der ehemalige Apple-Produktgestalter Tom Wilson hat sich mit seinem Bruder zusammengetan, um eine zweiteilige Tastatur zu bauen.",
+      "url": "https://www.heise.de/news/Ex-Apple-Designer-bringen-ergonomisches-Keyboard-auf-den-Markt-9983129.html",
+      "image_title": "Tastatur von Nuio"
+    },
+    {
+      "title": "heise security Webinar: IoT-Geräte im Unternehmensnetz sicher betreiben",
+      "teaser": "Millionen von Routern, Cams und NAS sind Teile von Bot-Netzen, weil sie so einfach zu kapern sind. Verantwortungsbewusste Admins müssen da aktiv vorbeugen.",
+      "url": "https://www.heise.de/news/heise-security-Webinar-IoT-Geraete-im-Unternehmensnetz-sicher-betreiben-9950002.html"
     },
     {
       "title": "Sicherheitsupdates: Root-Attacken auf VoIP-Adapter von Cisco möglich",
@@ -41,7 +65,7 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Root-Attacken-auf-VoIP-Adapter-von-Cisco-moeglich-9984192.html"
     },
     {
-      "title": "Gegen Bluescreens: Wichtige Firmware-Updates für Western-Digital-SSDs",
+      "title": "Wichtige Firmware-Updates für Western-Digital-SSDs",
       "teaser": "WD und Sandisk verteilen neue Firmware-Versionen für fünf SSD-Serien. Nur mit den Updates läuft Windows 11 24H2 absturzfrei.",
       "url": "https://www.heise.de/news/Gegen-Bluescreens-Wichtige-Firmware-Updates-fuer-Western-Digital-SSDs-9984351.html",
       "image_title": "WD Blue SN580 in einem M.2 Steckplatz"
@@ -71,6 +95,11 @@
       "image_title": "Neue Apple-Business-Connect-Funktionen"
     },
     {
+      "title": "NIS2 und andere Sicherheitskonzepte erklärt",
+      "teaser": "Die NIS2-Regulierung erfindet die IT-Sicherheit nicht neu: Es gibt viele Überschneidungen mit etablierten Sicherheitskonzepten wie ISO 27001 und IT-Grundschutz.",
+      "url": "https://www.heise.de/hintergrund/NIS2-und-andere-Sicherheitskonzepte-erklaert-9981557.html"
+    },
+    {
       "title": "iX-Workshop: Strategisches IT- und Technologie-Management",
       "teaser": "Dieser iX-Workshop vermittelt Best Practices zum Auf- oder Ausbau einer effektiven und erfolgreichen IT-Strategie.",
       "url": "https://www.heise.de/news/iX-Workshop-Strategisches-IT-und-Technologie-Management-9979566.html",
@@ -92,34 +121,6 @@
       "title": "Blick ins Heft c’t 23/2024: Wettstreit der Sprachmodelle",
       "teaser": "Wir klopfen ChatGPT und seine Herausforderer ab: Was haben sie sprachlich auf dem Kasten, wie hoch ist ihr Energiebedarf und sind sie schon fit für den AI Act?",
       "url": "https://www.heise.de/meinung/Blick-ins-Heft-c-t-23-2024-Wettstreit-der-Sprachmodelle-9983135.html"
-    },
-    {
-      "title": "c't-Workshop: CI/CD mit GitLab",
-      "teaser": "Der Workshop vermittelt Entwicklern den Umgang mit GitLabs CI-Funktionen: Sie lernen, Softwareprojekte effizient zu bauen, zu testen und zu veröffentlichen.",
-      "url": "https://www.heise.de/news/c-t-Workshop-CI-CD-mit-GitLab-9981323.html"
-    },
-    {
-      "title": "VMware HCX: Codeschmuggel durch SQL-Injection-Lücke möglich",
-      "teaser": "Broadcom hat mit einem Update eine Sicherheitslücke in VMware HCX geschlossen. Angreifer können durch sie Code einschleusen und ausführen.",
-      "url": "https://www.heise.de/news/VMware-HCX-Codeschmuggel-durch-SQL-Injection-Luecke-moeglich-9983875.html",
-      "image_title": "Stilisierte Grafik: Brennendes VMware-Logo auf einem Laptop"
-    },
-    {
-      "title": "#heiseshow: Intel und AMD im Bündnis gegen ARM, Tesla, Steam und die Besitzfrage",
-      "teaser": "In der #heiseshow: AMD und Intel verbünden sich gegen ARM, Tesla kündigt autonome Fahrzeuge an und Steam stellt klar, dass gekaufte Spiele nur geliehen sind.",
-      "url": "https://www.heise.de/news/heiseshow-Intel-und-AMD-im-Buendnis-gegen-ARM-Tesla-Steam-und-die-Besitzfrage-9983177.html"
-    },
-    {
-      "title": "Cyberangriff auf Internet Archive offenbar von russischen Hackern durchgeführt",
-      "teaser": "Die freie Internet-Bibliothek mit ihrer \"Wayback Machine\" war tagelang nicht erreichbar. Es war der Cyberangriff einer russischen Hackergruppe, behauptet diese.",
-      "url": "https://www.heise.de/news/Cyberangriff-auf-Internet-Archive-offenbar-von-russischen-Hackern-durchgefuehrt-9983833.html",
-      "image_title": "Kriminelle greifen Server an, Admin versucht, den Stecker zu ziehen"
-    },
-    {
-      "title": "Apple bekommt Patent für eine Holodeck-Glühbirne",
-      "teaser": "In den USA ist Apple ein Patent für eine aufsehenerregende Idee zugesprochen worden. Eine Glühbirne soll Mixed-Reality-Inhalte ohne Headset ermöglichen.",
-      "url": "https://www.heise.de/news/Apple-bekommt-Patent-fuer-eine-Holodeck-Gluehbirne-9983652.html",
-      "image_title": "Eine offene Hand hält eine leuchtende Glühbirne"
     },
     {
       "title": "Zahlreiche Bestwerte",
