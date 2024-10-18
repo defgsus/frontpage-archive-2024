@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-18T07:07:05",
+  "timestamp": "2024-10-18T08:09:45",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Kubernetes",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Kritische-Root-Luecke-in-Kubernetes-geschlossen-9985631.html"
+    },
+    {
       "title": "Oracle Critical Patch Update",
       "url": "https://www.heise.de/news/Oracle-schuetzt-Softwareprodukte-mit-334-Sicherheitsupdates-9984558.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/F5-BIG-IP-Angreifer-koennen-Restriktionen-durch-Zugriffskontrollen-umgehen-9984055.html"
     },
     {
-      "title": "Solarwinds Plattform, Serv-U",
-      "url": "https://www.heise.de/news/Solarwinds-Luecken-in-Plattform-und-Serv-U-ermoeglichen-Schadcode-Schmuggel-9983920.html"
+      "title": "Kritische Sicherheitslücke: Angreifer können Kubernetes als Root attackieren",
+      "teaser": "Bestimmte Kubernetes Image Builder erzeugen VM-Images mit statischen Zugangsdaten. Admins müssen bestehende Images neu erstellen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Kritische-Root-Luecke-in-Kubernetes-geschlossen-9985631.html"
     },
     {
       "title": "iX-Workshop: Sicherer Betrieb von Windows 11 in Unternehmen",
@@ -66,14 +71,14 @@
       "image_title": "Windräder in Ostholstein"
     },
     {
-      "title": "Oracle schützt Softwareprodukte mit 334 Sicherheitsupdates",
-      "teaser": "Mit seinen quartalsweise erscheinenden Sicherheitsupdates sichert Oracle abermals das eigene Softwareportfolio ab.",
-      "url": "https://www.heise.de/news/Oracle-schuetzt-Softwareprodukte-mit-334-Sicherheitsupdates-9984558.html"
-    },
-    {
       "title": "Die trügerische Sicherheit vermeintlich starker Passwörter",
       "teaser": "Viele Anwender vertrauen auf vermeintlich sichere und leicht zu merkende Kennwörter mit Sonderzeichen und Ziffern wie „!passwort#2024“. Doch Angreifer nutzen die dort regelmäßig zu findenden Muster aus. Mit bestimmten Maßnahmen können Unternehmen hier entgegen wirken.",
       "url": "https://www.heise.de/solutions/specops/die-truegerische-sicherheit-vermeintlich-starker-passwoerter/?source=nat_teas"
+    },
+    {
+      "title": "Oracle schützt Softwareprodukte mit 334 Sicherheitsupdates",
+      "teaser": "Mit seinen quartalsweise erscheinenden Sicherheitsupdates sichert Oracle abermals das eigene Softwareportfolio ab.",
+      "url": "https://www.heise.de/news/Oracle-schuetzt-Softwareprodukte-mit-334-Sicherheitsupdates-9984558.html"
     },
     {
       "title": "l+f: Microsoft verliert Log-Dateien",
@@ -163,12 +168,6 @@
       "teaser": "Wireshark ist in einer gegen mögliche Angriffe abgesicherten Version erschienen. Darin haben die Entwickler auch mehrere Bugs gefixt.",
       "url": "https://www.heise.de/news/Sicherheitsupdate-Angreifer-koennen-Netzwerkanalysetool-Wireshark-crashen-lassen-9979991.html",
       "image_title": "Ein ladender Update-Balken"
-    },
-    {
-      "title": "iX-Workshop IT-Sicherheit: Pentests methodisch planen, anfordern und analysieren",
-      "teaser": "Schritt für Schritt zum sicheren System: Penetrationstests methodisch planen, beauftragen und auswerten, um Schwachstellen in der eigenen IT aufzuspüren.",
-      "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-Pentests-methodisch-planen-anfordern-und-analysieren-9975862.html",
-      "image_title": "Penetrationstests: Methodik, Ausschreibung und Auswertung"
     },
     {
       "title": "IoT-Webinar",
