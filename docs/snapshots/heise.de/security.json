@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-20T09:03:51",
+  "timestamp": "2024-10-20T10:05:10",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Bitdefender und Trend Micro",
+      "url": "https://www.heise.de/news/Virenschutz-Software-von-Bitdefender-und-Trend-Micro-attackierbar-9987394.html"
+    },
+    {
       "title": "Kubernetes",
       "url": "https://www.heise.de/news/Sicherheitsupdate-Kritische-Root-Luecke-in-Kubernetes-geschlossen-9985631.html"
     },
@@ -44,8 +48,14 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Root-Attacken-auf-VoIP-Adapter-von-Cisco-moeglich-9984192.html"
     },
     {
-      "title": "F5 Big-IP",
-      "url": "https://www.heise.de/news/F5-BIG-IP-Angreifer-koennen-Restriktionen-durch-Zugriffskontrollen-umgehen-9984055.html"
+      "title": "Cisco-Hack: Angreifer hatten Zugriff auf Daten in einem DevHub-Portal",
+      "teaser": "Mittlerweile hat Cisco einen Cyberangriff bestätigt. Daten sind abgeflossen. Davon sollen aber die eigenen Systeme nicht direkt betroffen sein.",
+      "url": "https://www.heise.de/news/Cisco-bestaetigt-Attacke-auf-DevHub-Portal-und-nimmt-es-offline-9987412.html"
+    },
+    {
+      "title": "Angreifer können PCs mit Virenschutz von Bitdefender und Trend Micro attackieren",
+      "teaser": "Sicherheitsupdates schließen Schwachstellen in Bitdefender Total Security und Trend Micro Deep Security Agent.",
+      "url": "https://www.heise.de/news/Virenschutz-Software-von-Bitdefender-und-Trend-Micro-attackierbar-9987394.html"
     },
     {
       "title": "iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response (DFIR)",
@@ -60,6 +70,11 @@
       "image_title": "Stilisierte Grafik: ein Schloss mit biometrischen Schlüsseln"
     },
     {
+      "title": "Die trügerische Sicherheit vermeintlich starker Passwörter",
+      "teaser": "Viele Anwender vertrauen auf vermeintlich sichere und leicht zu merkende Kennwörter mit Sonderzeichen und Ziffern wie „!passwort#2024“. Doch Angreifer nutzen die dort regelmäßig zu findenden Muster aus. Mit bestimmten Maßnahmen können Unternehmen hier entgegen wirken.",
+      "url": "https://www.heise.de/solutions/specops/die-truegerische-sicherheit-vermeintlich-starker-passwoerter/?source=nat_teas"
+    },
+    {
       "title": "iX-Workshop: Spezialwissen für KRITIS – Prüfverfahrenskompetenz gemäß § 8a BSIG",
       "teaser": "Erlangen Sie spezielle Prüfverfahrenskompetenz für § 8a BSIG; inklusive Abschlussprüfung und Zertifizierung.",
       "url": "https://www.heise.de/news/iX-Workshop-Spezialwissen-fuer-KRITIS-Pruefverfahrenskompetenz-gemaess-8a-BSIG-9982728.html",
@@ -70,11 +85,6 @@
       "teaser": "Lernen Sie an praktischen Beispielen, wie Sie Windows 11 Pro und Enterprise in Ihrem Unternehmen sicher und effektiv einsetzen.",
       "url": "https://www.heise.de/news/iX-Workshop-Sicherer-Betrieb-von-Windows-11-in-Unternehmen-9979668.html",
       "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
-    },
-    {
-      "title": "Die trügerische Sicherheit vermeintlich starker Passwörter",
-      "teaser": "Viele Anwender vertrauen auf vermeintlich sichere und leicht zu merkende Kennwörter mit Sonderzeichen und Ziffern wie „!passwort#2024“. Doch Angreifer nutzen die dort regelmäßig zu findenden Muster aus. Mit bestimmten Maßnahmen können Unternehmen hier entgegen wirken.",
-      "url": "https://www.heise.de/solutions/specops/die-truegerische-sicherheit-vermeintlich-starker-passwoerter/?source=nat_teas"
     },
     {
       "title": "Windkraft: Regierung für mehr IT-Sicherheit und weniger Abhängigkeit von China",
@@ -156,17 +166,6 @@
       "teaser": "Die Hosts blenden Politik aus, konzentrieren sich auf technische Aspekte und ergründen, warum Chatkontrolle aus ihrer Sicht keine gute Idee ist.",
       "url": "https://www.heise.de/news/Passwort-Folge-16-Die-Technik-hinter-der-Chatkontrolle-9974484.html",
       "image_title": "Bild vom heise-Security-Podcast"
-    },
-    {
-      "title": "BSI: Forscher finden Schwachstellen in Passwort-Managern",
-      "teaser": "Bei einer Open-Source-Codeanalyse hat das BSI die Passwort-Manager Vaultwarden und KeePass auf Sicherheitseigenschaften untersucht – mit ungleichen Ergebnissen.",
-      "url": "https://www.heise.de/news/Passwort-Manager-BSI-berichtet-ueber-kritische-Schwachstellen-in-Vaultwarden-9982427.html"
-    },
-    {
-      "title": "Passkeys sicher importieren und exportieren",
-      "teaser": "Bislang ist das Kopieren von Passkeys von einem Password-Manager zu umständlich – und vor allem unsicher. Das ändert die FIDO Alliance jetzt.",
-      "url": "https://www.heise.de/news/Passkeys-sicher-importieren-und-exportieren-9982006.html",
-      "image_title": "Stilisierte Grafik: ein Schloss mit biometrischen Schlüsseln"
     },
     {
       "title": "IoT-Webinar",
