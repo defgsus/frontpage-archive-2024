@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-20T11:00:56",
+  "timestamp": "2024-10-20T12:12:07",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Spring Framework",
+      "url": "https://www.heise.de/news/Spring-Framework-Angreifer-koennen-Dateien-einsehen-9987450.html"
+    },
+    {
       "title": "Sicherheitsupdates: Angreifer können über Grafana-Lücke eigene Befehle ausführen",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-ueber-Grafana-Luecke-eigene-Befehle-ausfuehren-9987442.html"
     },
@@ -44,23 +48,14 @@
       "url": "https://www.heise.de/news/Sicherheitsupdate-Kritische-Root-Luecke-in-Kubernetes-geschlossen-9985631.html"
     },
     {
-      "title": "Oracle Critical Patch Update",
-      "url": "https://www.heise.de/news/Oracle-schuetzt-Softwareprodukte-mit-334-Sicherheitsupdates-9984558.html"
+      "title": "Spring Framework: Angreifer können Dateien einsehen",
+      "teaser": "Updates schließen Schwachstellen in Spring Framework. Für einige Versionen ist der Support ausgelaufen und Patches gibt es nicht mehr für alle Nutzer.",
+      "url": "https://www.heise.de/news/Spring-Framework-Angreifer-koennen-Dateien-einsehen-9987450.html"
     },
     {
       "title": "Sicherheitsupdates: Angreifer können über Grafana-Lücke eigene Befehle ausführen",
       "teaser": "Das Datenvisualisierungswerkzeug Grafana ist verwundbar, und Angreifer können auf Systemen eigene Befehle ausführen und unter anderem Passwörter einsehen.",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-ueber-Grafana-Luecke-eigene-Befehle-ausfuehren-9987442.html"
-    },
-    {
-      "title": "Cisco-Hack: Angreifer hatten Zugriff auf Daten in einem DevHub-Portal",
-      "teaser": "Mittlerweile hat Cisco einen Cyberangriff bestätigt. Daten sind abgeflossen. Davon sollen aber die eigenen Systeme nicht direkt betroffen sein.",
-      "url": "https://www.heise.de/news/Cisco-bestaetigt-Attacke-auf-DevHub-Portal-und-nimmt-es-offline-9987412.html"
-    },
-    {
-      "title": "Angreifer können PCs mit Virenschutz von Bitdefender und Trend Micro attackieren",
-      "teaser": "Sicherheitsupdates schließen Schwachstellen in Bitdefender Total Security und Trend Micro Deep Security Agent.",
-      "url": "https://www.heise.de/news/Virenschutz-Software-von-Bitdefender-und-Trend-Micro-attackierbar-9987394.html"
     },
     {
       "title": "iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response (DFIR)",
@@ -69,15 +64,15 @@
       "image_title": "iX-Workshop Digital Forensics & Incident Response"
     },
     {
-      "title": "Die trügerische Sicherheit vermeintlich starker Passwörter",
-      "teaser": "Viele Anwender vertrauen auf vermeintlich sichere und leicht zu merkende Kennwörter mit Sonderzeichen und Ziffern wie „!passwort#2024“. Doch Angreifer nutzen die dort regelmäßig zu findenden Muster aus. Mit bestimmten Maßnahmen können Unternehmen hier entgegen wirken.",
-      "url": "https://www.heise.de/solutions/specops/die-truegerische-sicherheit-vermeintlich-starker-passwoerter/?source=nat_teas"
-    },
-    {
       "title": "Apple Passwörter: So lautet das Rezept für generierte Passwörter",
       "teaser": "Ein leitender Softwareentwickler Apples erklärt in einem Blogpost, nach welchem Muster Apple Passwörter generiert.",
       "url": "https://www.heise.de/news/Apple-Passwoerter-So-lautet-das-Rezept-fuer-generierte-Passwoerter-9986503.html",
       "image_title": "Stilisierte Grafik: ein Schloss mit biometrischen Schlüsseln"
+    },
+    {
+      "title": "Die trügerische Sicherheit vermeintlich starker Passwörter",
+      "teaser": "Viele Anwender vertrauen auf vermeintlich sichere und leicht zu merkende Kennwörter mit Sonderzeichen und Ziffern wie „!passwort#2024“. Doch Angreifer nutzen die dort regelmäßig zu findenden Muster aus. Mit bestimmten Maßnahmen können Unternehmen hier entgegen wirken.",
+      "url": "https://www.heise.de/solutions/specops/die-truegerische-sicherheit-vermeintlich-starker-passwoerter/?source=nat_teas"
     },
     {
       "title": "iX-Workshop: Spezialwissen für KRITIS – Prüfverfahrenskompetenz gemäß § 8a BSIG",
@@ -86,10 +81,21 @@
       "image_title": "Online-Workshop: KRITIS – Zusätzliche Prüfverfahrenskompetenz für § 8a BSIG"
     },
     {
+      "title": "Kritische Sicherheitslücke: Angreifer können Kubernetes als Root attackieren",
+      "teaser": "Bestimmte Kubernetes Image Builder erzeugen VM-Images mit statischen Zugangsdaten. Admins müssen bestehende Images neu erstellen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Kritische-Root-Luecke-in-Kubernetes-geschlossen-9985631.html"
+    },
+    {
       "title": "iX-Workshop: Sicherer Betrieb von Windows 11 in Unternehmen",
       "teaser": "Lernen Sie an praktischen Beispielen, wie Sie Windows 11 Pro und Enterprise in Ihrem Unternehmen sicher und effektiv einsetzen.",
       "url": "https://www.heise.de/news/iX-Workshop-Sicherer-Betrieb-von-Windows-11-in-Unternehmen-9979668.html",
       "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
+    },
+    {
+      "title": "Brillen.de: Rund 3,5 Millionen Kundendatensätze offen im Netz",
+      "teaser": "Daten von Millionen Kunden standen bei brillen.de wohl offen im Netz. Sie wurden ohne weitere Informationen offline genommen.",
+      "url": "https://www.heise.de/news/Brillen-de-Rund-3-5-Millionen-Kundendatensaetze-offen-im-Netz-9984821.html",
+      "image_title": "Computer vor Serverschränken, auf dem Dataleak steht, drumherum lungern Datendiebe"
     },
     {
       "title": "Windkraft: Regierung für mehr IT-Sicherheit und weniger Abhängigkeit von China",
@@ -159,12 +165,6 @@
       "teaser": "Derzeit laufen Attacken auf die Kundensupport-Software Web Help Desk von Solarwinds. Sicherheitsupdates stehen zum Download.",
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Solarwinds-Web-Help-Desk-9983329.html",
       "image_title": "Eine Warnlampe mit einem Warndreieck"
-    },
-    {
-      "title": "Github Enterprise Server: Angreifer können Authentifizierung umgehen",
-      "teaser": "Unter bestimmten Voraussetzungen sind unbefugte Zugriffe auf Github Enterprise Server möglich. Sicherheitsupdates sind verfügbar.",
-      "url": "https://www.heise.de/news/Github-Enterprise-Server-Angreifer-koennen-Authentifizierung-umgehen-9982591.html",
-      "image_title": "Kriminelle greifen Server an, Admin versucht, den Stecker zu ziehen"
     },
     {
       "title": "IoT-Webinar",
