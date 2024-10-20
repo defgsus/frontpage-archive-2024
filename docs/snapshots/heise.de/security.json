@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-20T10:05:10",
+  "timestamp": "2024-10-20T11:00:56",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Sicherheitsupdates: Angreifer können über Grafana-Lücke eigene Befehle ausführen",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-ueber-Grafana-Luecke-eigene-Befehle-ausfuehren-9987442.html"
+    },
+    {
       "title": "Bitdefender und Trend Micro",
       "url": "https://www.heise.de/news/Virenschutz-Software-von-Bitdefender-und-Trend-Micro-attackierbar-9987394.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Oracle-schuetzt-Softwareprodukte-mit-334-Sicherheitsupdates-9984558.html"
     },
     {
-      "title": "Cisco",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Root-Attacken-auf-VoIP-Adapter-von-Cisco-moeglich-9984192.html"
+      "title": "Sicherheitsupdates: Angreifer können über Grafana-Lücke eigene Befehle ausführen",
+      "teaser": "Das Datenvisualisierungswerkzeug Grafana ist verwundbar, und Angreifer können auf Systemen eigene Befehle ausführen und unter anderem Passwörter einsehen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-ueber-Grafana-Luecke-eigene-Befehle-ausfuehren-9987442.html"
     },
     {
       "title": "Cisco-Hack: Angreifer hatten Zugriff auf Daten in einem DevHub-Portal",
@@ -64,15 +69,15 @@
       "image_title": "iX-Workshop Digital Forensics & Incident Response"
     },
     {
+      "title": "Die trügerische Sicherheit vermeintlich starker Passwörter",
+      "teaser": "Viele Anwender vertrauen auf vermeintlich sichere und leicht zu merkende Kennwörter mit Sonderzeichen und Ziffern wie „!passwort#2024“. Doch Angreifer nutzen die dort regelmäßig zu findenden Muster aus. Mit bestimmten Maßnahmen können Unternehmen hier entgegen wirken.",
+      "url": "https://www.heise.de/solutions/specops/die-truegerische-sicherheit-vermeintlich-starker-passwoerter/?source=nat_teas"
+    },
+    {
       "title": "Apple Passwörter: So lautet das Rezept für generierte Passwörter",
       "teaser": "Ein leitender Softwareentwickler Apples erklärt in einem Blogpost, nach welchem Muster Apple Passwörter generiert.",
       "url": "https://www.heise.de/news/Apple-Passwoerter-So-lautet-das-Rezept-fuer-generierte-Passwoerter-9986503.html",
       "image_title": "Stilisierte Grafik: ein Schloss mit biometrischen Schlüsseln"
-    },
-    {
-      "title": "Die trügerische Sicherheit vermeintlich starker Passwörter",
-      "teaser": "Viele Anwender vertrauen auf vermeintlich sichere und leicht zu merkende Kennwörter mit Sonderzeichen und Ziffern wie „!passwort#2024“. Doch Angreifer nutzen die dort regelmäßig zu findenden Muster aus. Mit bestimmten Maßnahmen können Unternehmen hier entgegen wirken.",
-      "url": "https://www.heise.de/solutions/specops/die-truegerische-sicherheit-vermeintlich-starker-passwoerter/?source=nat_teas"
     },
     {
       "title": "iX-Workshop: Spezialwissen für KRITIS – Prüfverfahrenskompetenz gemäß § 8a BSIG",
@@ -160,12 +165,6 @@
       "teaser": "Unter bestimmten Voraussetzungen sind unbefugte Zugriffe auf Github Enterprise Server möglich. Sicherheitsupdates sind verfügbar.",
       "url": "https://www.heise.de/news/Github-Enterprise-Server-Angreifer-koennen-Authentifizierung-umgehen-9982591.html",
       "image_title": "Kriminelle greifen Server an, Admin versucht, den Stecker zu ziehen"
-    },
-    {
-      "title": "\"Passwort\" Folge 16: Die Technik hinter der Chatkontrolle",
-      "teaser": "Die Hosts blenden Politik aus, konzentrieren sich auf technische Aspekte und ergründen, warum Chatkontrolle aus ihrer Sicht keine gute Idee ist.",
-      "url": "https://www.heise.de/news/Passwort-Folge-16-Die-Technik-hinter-der-Chatkontrolle-9974484.html",
-      "image_title": "Bild vom heise-Security-Podcast"
     },
     {
       "title": "IoT-Webinar",
