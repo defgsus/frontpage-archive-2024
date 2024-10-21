@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-21T06:11:08",
+  "timestamp": "2024-10-21T07:08:06",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,11 +32,15 @@
   ],
   "articles": [
     {
+      "title": "Ubiquity Unify Network Server",
+      "url": "https://www.heise.de/news/Ubiquiti-Unifi-Network-Server-Hochriskantes-Leck-ermoeglicht-Rechteausweitung-9987809.html"
+    },
+    {
       "title": "Spring Framework",
       "url": "https://www.heise.de/news/Spring-Framework-Angreifer-koennen-Dateien-einsehen-9987450.html"
     },
     {
-      "title": "Sicherheitsupdates: Angreifer können über Grafana-Lücke eigene Befehle ausführen",
+      "title": "Grafana",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-ueber-Grafana-Luecke-eigene-Befehle-ausfuehren-9987442.html"
     },
     {
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Virenschutz-Software-von-Bitdefender-und-Trend-Micro-attackierbar-9987394.html"
     },
     {
-      "title": "Kubernetes",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-Kritische-Root-Luecke-in-Kubernetes-geschlossen-9985631.html"
+      "title": "Ubiquiti Unifi Network Server: Hochriskantes Leck ermöglicht Rechteausweitung",
+      "teaser": "In Ubiquitis Unifi Network Server klafft eine hochriskante Schwachstelle. Angreifer können dadurch ihre Rechte ausweiten.",
+      "url": "https://www.heise.de/news/Ubiquiti-Unifi-Network-Server-Hochriskantes-Leck-ermoeglicht-Rechteausweitung-9987809.html",
+      "image_title": "Ein Server in einem Haus brennt, der ein brennendes Haus abbildet und darin Kameras, Netzwerk und WLAN kontrolliert"
     },
     {
       "title": "Erfolge im Kampf gegen Cyber-Täter - Experten weiter gesucht",
@@ -154,12 +160,6 @@
       "teaser": "Die freie Internet-Bibliothek mit ihrer \"Wayback Machine\" war tagelang nicht erreichbar. Es war der Cyberangriff einer russischen Hackergruppe, behauptet diese.",
       "url": "https://www.heise.de/news/Cyberangriff-auf-Internet-Archive-offenbar-von-russischen-Hackern-durchgefuehrt-9983833.html",
       "image_title": "Kriminelle greifen Server an, Admin versucht, den Stecker zu ziehen"
-    },
-    {
-      "title": "Sicherheitsupdate: Zwei Drucker-Modelle aus HPs DesignJet-Serie attackierbar",
-      "teaser": "Setzen Angreifer erfolgreich an einer Sicherheitslücke in bestimmten HP-Druckern an, können sie eigentlich abgeschottete Informationen einsehen.",
-      "url": "https://www.heise.de/news/HP-DesignJet-Drucker-Angreifer-koennen-SMTP-Server-Logins-abgreifen-9983364.html",
-      "image_title": "Stilisierte Grafik: ein brennender Netzwerkdrucker"
     },
     {
       "title": "IoT-Webinar",
