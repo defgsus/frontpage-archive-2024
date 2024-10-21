@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-21T07:08:03",
+  "timestamp": "2024-10-21T08:10:42",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,15 +26,44 @@
   ],
   "articles": [
     {
+      "title": "Für Elektronikprojekte: Ausgediente Smartphones als Arduino-Ersatz verwenden",
+      "teaser": "Mithilfe eines FTDI-Moduls kann man ein Smartphone wie einen Mikrocontroller benutzen und damit Elektronikprojekte umsetzen. Wir zeigen, wie das funktioniert.",
+      "url": "https://www.heise.de/ratgeber/Fuer-Elektronikprojekte-Ausgediente-Smartphones-als-Arduino-Ersatz-verwenden-9985811.html",
+      "image_title": ","
+    },
+    {
       "title": "20 Jahre Ubuntu: Rückblick auf eine wechselvolle Geschichte",
       "teaser": "Vor zwanzig Jahren schickte sich Ubuntu an, die Welt der Linux-Distributionen aufzumischen. Eine wechselvolle Geschichte voller Irrungen und Wirrungen.",
       "url": "https://www.heise.de/hintergrund/20-Jahre-Ubuntu-Rueckblick-auf-eine-wechselvolle-Geschichte-9984331.html",
       "image_title": ","
     },
     {
-      "title": "Goodbye Notion: Mit Apple-Apps Erinnerungen und Notizen den Alltag organisieren",
-      "teaser": "Tools wie Notion sind mächtig, aber komplex. Für vieles reichen Apple-Apps wie \"Erinnerungen\" völlig aus: Sie organiseren Alltag und Beruf auf elegante Weise.",
-      "url": "https://www.heise.de/ratgeber/Goodbye-Notion-Mit-Apple-Apps-Erinnerungen-und-Notizen-den-Alltag-organisieren-9984318.html"
+      "title": "Mehr Produktivität: Fortgeschrittene Funktionen in Notion nutzen",
+      "teaser": "Das Produktivitätstool Notion kann viel, ist aber dennoch einfach zu bedienen. Wir zeigen, wie Sie die vielen fortgeschrittenen Funktionen im Alltag nutzen.",
+      "url": "https://www.heise.de/ratgeber/Mehr-Produktivitaet-Fortgeschrittene-Funktionen-in-Notion-nutzen-9984008.html",
+      "image_title": ", KI, Collage c’t"
+    },
+    {
+      "title": "SDN in OpenShift mit Open Virtual Networking – ein Überblick",
+      "teaser": "Red Hat setzt in OpenShift für SDN auf Open Virtual Networking, bei dem Open vSwitch und OpenFlow regeln, dass Pakete dort ankommen, wo sie hingehören.",
+      "url": "https://www.heise.de/hintergrund/SDN-in-OpenShift-mit-Open-Virtual-Networking-ein-Ueberblick-9982821.html"
+    },
+    {
+      "title": "IT-Sicherheitstag Gelsenkirchen: Jetzt noch Frühbucherrabatt sichern",
+      "teaser": "Nicht nur die IT-Landschaft ist komplex, auch bei den regulatorischen Anforderungen verliert man schnell den Überblick. Der IT-Sicherheitstag schafft Abhilfe.",
+      "url": "https://www.heise.de/news/IT-Sicherheitstag-Gelsenkirchen-Jetzt-noch-Fruehbucherrabatt-sichern-9974979.html"
+    },
+    {
+      "title": "Event Sourcing ist keine Nischenlösung, sondern ein leistungsfähiges Konzept",
+      "teaser": "Im Interview spricht Allard Buijze darüber, wie das Analyse-Pattern Event Sourcing hilft und welche Fehler man bei der Umsetzung vermeiden sollte.",
+      "url": "https://www.heise.de/hintergrund/Event-Sourcing-ist-keine-Nischenloesung-sondern-ein-leistungsfaehiges-Konzept-9986426.html",
+      "image_title": "Skizze eines Hauses"
+    },
+    {
+      "title": "Ex-OpenAI-CTO Mira Murati gründet eigenes KI-Startup",
+      "teaser": "Mira Murati, die erst kürzlich OpenAI verlassen hat, soll mit früheren Kollegen Geld für ein neues KI-Startup sammeln.",
+      "url": "https://www.heise.de/news/Ex-OpenAI-CTO-Mira-Murati-gruendet-eigenes-KI-Startup-9987821.html",
+      "image_title": "Mira Murati bei OpenAIs Frühjahrspräsentation."
     },
     {
       "title": "Ubiquiti Unifi Network Server: Hochriskantes Leck ermöglicht Rechteausweitung",
@@ -91,33 +120,6 @@
       "teaser": "23 Neuheiten hat Huawei auf der Gitex Global angekündigt – für das Bildungs- und Gesundheitswesen, verarbeitende Industrie und kleine bis mittlere Unternehmen.",
       "url": "https://www.heise.de/news/Huawei-stellt-neue-Produkte-fuer-Unternehmen-vor-9987408.html",
       "image_title": "Huawei-Logo"
-    },
-    {
-      "title": "Cisco-Hack: Angreifer hatten Zugriff auf Daten in einem DevHub-Portal",
-      "teaser": "Mittlerweile hat Cisco einen Cyberangriff bestätigt. Daten sind abgeflossen. Davon sollen aber die eigenen Systeme nicht direkt betroffen sein.",
-      "url": "https://www.heise.de/news/Cisco-bestaetigt-Attacke-auf-DevHub-Portal-und-nimmt-es-offline-9987412.html"
-    },
-    {
-      "title": "Angreifer können PCs mit Virenschutz von Bitdefender und Trend Micro attackieren",
-      "teaser": "Sicherheitsupdates schließen Schwachstellen in Bitdefender Total Security und Trend Micro Deep Security Agent.",
-      "url": "https://www.heise.de/news/Virenschutz-Software-von-Bitdefender-und-Trend-Micro-attackierbar-9987394.html"
-    },
-    {
-      "title": "iX-Workshop: Microsoft 365 sicher einrichten und datenschutzkonform betreiben",
-      "teaser": "Microsoft 365 sicher betreiben und notwendige Maßnahmen in Bezug auf Datenschutz und Informationssicherheit umsetzen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Microsoft-365-sicher-einrichten-und-datenschutzkonform-betreiben-9979584.html",
-      "image_title": "Sicherer Einsatz von Microsoft 365 (iX-Workshop)"
-    },
-    {
-      "title": "Intel sucht verstärkt Käufer für Altera",
-      "teaser": "Bisher wollte Intel seine FPGA-Sparte noch halten, nun soll sie Berichten zufolge doch abgestoßen werden – zur Not auch teilweise.",
-      "url": "https://www.heise.de/news/Intel-sucht-verstaerkt-Kaeufer-fuer-Altera-9987280.html",
-      "image_title": "FPGA-Board von Intel, im Agilex-Chip steckt Altera-Technik​"
-    },
-    {
-      "title": "Gigabytes \"BIOS-Zauberei\" soll Ryzen 9000 beschleunigen",
-      "teaser": "In einer schnell zurückgezogenen Mitteilung kündigte Gigabyte einen \"X3D Turbo Mode\" an. Wie der funktionieren soll, ist völlig unklar.",
-      "url": "https://www.heise.de/news/Ryzen-9000-X3D-Gigabyte-verspricht-durch-BIOS-Zauberei-35-mehr-Performance-9987218.html"
     },
     {
       "title": "Zahlreiche Bestwerte",
