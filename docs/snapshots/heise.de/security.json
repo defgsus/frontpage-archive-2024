@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-22T08:10:07",
+  "timestamp": "2024-10-22T09:07:35",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "IBM",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-DoS-Attacken-auf-IBM-Software-moeglich-9989452.html"
+    },
+    {
       "title": "Atlassian Bitbucket, Confluence, Jira",
       "url": "https://www.heise.de/news/Atlassian-stopft-Sicherheitsluecken-in-Bitbucket-Confluence-und-Jira-9989275.html"
     },
@@ -44,20 +48,15 @@
       "url": "https://www.heise.de/news/Spring-Framework-Angreifer-koennen-Dateien-einsehen-9987450.html"
     },
     {
-      "title": "Grafana",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-ueber-Grafana-Luecke-eigene-Befehle-ausfuehren-9987442.html"
+      "title": "Sicherheitsupdates: DoS-Attacken auf IBM-Software möglich",
+      "teaser": "IBMs Entwickler haben Schwachstellen in App Connect Enterprise und WebSphere Application Server geschlossen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-DoS-Attacken-auf-IBM-Software-moeglich-9989452.html"
     },
     {
       "title": "iX-Workshop: Aufgaben eines Informationssicherheitsbeauftragten",
       "teaser": "Sich mit der Rolle des Informationssicherheitsbeauftragten vertraut machen: die Anforderungen verstehen und die notwendigen Kompetenzen erwerben.",
       "url": "https://www.heise.de/news/iX-Workshop-Aufgaben-eines-Informationssicherheitsbeauftragten-9986067.html",
       "image_title": "ix-Workshop IT-Sicherheit nach ISO 27001 umsetzen"
-    },
-    {
-      "title": "Atlassian: Schwachstellen machen Bitbucket, Confluence und Jira verwundbar",
-      "teaser": "In Bitbucket, Confluence und Jira lauern Sicherheitslücken, die etwa Informationsabfluss oder Denial-of-Service ermöglichen.",
-      "url": "https://www.heise.de/news/Atlassian-stopft-Sicherheitsluecken-in-Bitbucket-Confluence-und-Jira-9989275.html",
-      "image_title": "Eine Appliance verbindet viele Clients mit Kabeln durch die Cloud. Sie und paar Clients brennen."
     },
     {
       "title": "Millionenschwere Transaktion: Sophos übernimmt Secureworks",
@@ -110,6 +109,11 @@
       "url": "https://www.heise.de/news/Cisco-bestaetigt-Attacke-auf-DevHub-Portal-und-nimmt-es-offline-9987412.html"
     },
     {
+      "title": "Angreifer können PCs mit Virenschutz von Bitdefender und Trend Micro attackieren",
+      "teaser": "Sicherheitsupdates schließen Schwachstellen in Bitdefender Total Security und Trend Micro Deep Security Agent.",
+      "url": "https://www.heise.de/news/Virenschutz-Software-von-Bitdefender-und-Trend-Micro-attackierbar-9987394.html"
+    },
+    {
       "title": "iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response (DFIR)",
       "teaser": "Lernen Sie, professionelle Incident Response Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können.",
       "url": "https://www.heise.de/news/iX-Workshop-Nach-dem-Einbruch-Digital-Forensics-Incident-Response-DFIR-9979686.html",
@@ -154,12 +158,6 @@
       "title": "Oracle schützt Softwareprodukte mit 334 Sicherheitsupdates",
       "teaser": "Mit seinen quartalsweise erscheinenden Sicherheitsupdates sichert Oracle abermals das eigene Softwareportfolio ab.",
       "url": "https://www.heise.de/news/Oracle-schuetzt-Softwareprodukte-mit-334-Sicherheitsupdates-9984558.html"
-    },
-    {
-      "title": "l+f: Microsoft verliert Log-Dateien",
-      "teaser": "Microsoft hat einen Fehler bei der Protokollierung in Entra und Azure entdeckt und behoben. Teilweise sind Daten verloren gegangen.",
-      "url": "https://www.heise.de/news/l-f-Microsoft-verliert-Log-Dateien-9984504.html",
-      "image_title": "Bug im Netzwerk unter der Lupe"
     },
     {
       "title": "IoT-Webinar",
