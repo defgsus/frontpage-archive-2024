@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-22T13:17:02",
+  "timestamp": "2024-10-22T14:00:54",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "FortiManager",
+      "url": "https://www.heise.de/news/FortiManager-Update-schliesst-offenbar-bereits-attackierte-Sicherheitsluecke-9990393.html"
+    },
+    {
       "title": "Roundcube",
       "url": "https://www.heise.de/news/Roundcube-Webmail-Angriffe-mit-gefaelschten-Anhaengen-9990216.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Atlassian-stopft-Sicherheitsluecken-in-Bitbucket-Confluence-und-Jira-9989275.html"
     },
     {
-      "title": "Ubiquity Unify Network Server",
-      "url": "https://www.heise.de/news/Ubiquiti-Unifi-Network-Server-Hochriskantes-Leck-ermoeglicht-Rechteausweitung-9987809.html"
+      "title": "FortiManager: Update dichtet offenbar attackiertes Sicherheitsleck ab",
+      "teaser": "Ohne öffentliche Informationen hat Fortinet Updates für FortiManager veröffentlicht. Sie schließen offenbar attackierte Sicherheitslücken.",
+      "url": "https://www.heise.de/news/FortiManager-Update-schliesst-offenbar-bereits-attackierte-Sicherheitsluecke-9990393.html",
+      "image_title": "Stilisierte Grafik: Brennende Appliances im Netz"
     },
     {
       "title": "Roundcube Webmail: Angriffe mit gefälschten Anhängen",
@@ -154,11 +160,6 @@
       "teaser": "Erlangen Sie spezielle Prüfverfahrenskompetenz für § 8a BSIG; inklusive Abschlussprüfung und Zertifizierung.",
       "url": "https://www.heise.de/news/iX-Workshop-Spezialwissen-fuer-KRITIS-Pruefverfahrenskompetenz-gemaess-8a-BSIG-9982728.html",
       "image_title": "Online-Workshop: KRITIS – Zusätzliche Prüfverfahrenskompetenz für § 8a BSIG"
-    },
-    {
-      "title": "Kritische Sicherheitslücke: Angreifer können Kubernetes als Root attackieren",
-      "teaser": "Bestimmte Kubernetes Image Builder erzeugen VM-Images mit statischen Zugangsdaten. Admins müssen bestehende Images neu erstellen.",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-Kritische-Root-Luecke-in-Kubernetes-geschlossen-9985631.html"
     },
     {
       "title": "IoT-Webinar",
