@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-22T09:07:31",
+  "timestamp": "2024-10-22T10:07:36",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,15 +26,32 @@
   ],
   "articles": [
     {
-      "title": "Wiederbelebte Spiele-Klassiker: So geht's mit Source Ports auf dem Mac",
-      "teaser": "Emulation war gestern: Source Ports bringen alte Games auf aktuelle Rechner. Mit Quellcodes programmieren Developer native Mac-Versionen. So spielen Sie mit.",
-      "url": "https://www.heise.de/ratgeber/Wiederbelebte-Spiele-Klassiker-So-geht-s-mit-Source-Ports-auf-dem-Mac-9988372.html",
-      "image_title": ","
+      "title": "Dokku: Open-Source-Alternative zu Heroku vorgestellt",
+      "teaser": "Dokku erlaubt, Anwendungen auf eigenen Servern zu deployen, zu verwalten und zu skalieren. Befehle und Push-basiertes Deployment vereinfachen die Prozesse.",
+      "url": "https://www.heise.de/ratgeber/Dokku-Open-Source-Alternative-zu-Heroku-vorgestellt-9989573.html"
     },
     {
-      "title": "Softwareentwicklung: Ressourcen sparen mit der C++-Funktion constexpr",
-      "teaser": "Um ressourcenschonend zu programmieren, genügen schon kleine Veränderungen im Code. Der richtige Einsatz der Funktion constexpr nutzt RAM und ROM effizient.",
-      "url": "https://www.heise.de/ratgeber/Softwareentwicklung-Ressourcen-sparen-mit-der-C-Funktion-constexpr-9985998.html"
+      "title": "Termux: Linux-System unter Android installieren",
+      "teaser": "Termux holt ein fast vollständiges Linux-System auf Ihr mobiles Gerät – bei Bedarf mit grafischer Benutzeroberfläche. Wir zeigen Ihnen, wie das funktioniert.",
+      "url": "https://www.heise.de/ratgeber/Termux-Linux-System-unter-Android-installieren-9988012.html",
+      "image_title": ", 3Dalia/Shutterstock.com"
+    },
+    {
+      "title": "betterCode() Rust: Jetzt noch zur Online-Konferenz zu Embedded Rust anmelden",
+      "teaser": "Warum sich Rust für Embedded-Anwendungen besonders gut eignet, zeigt die betterCode() Rust 2024 im November.",
+      "url": "https://www.heise.de/news/betterCode-Rust-Jetzt-noch-zur-Online-Konferenz-zu-Embedded-Rust-anmelden-9988277.html"
+    },
+    {
+      "title": "Auch wegen EU: Neue USB-C-Eingabegeräte von Apple wohl (sehr) bald",
+      "teaser": "Im Code des Release Candidate von IOS 18.1 finden sich Hinweise auf neue Apple-Peripherieprodukte. Erscheinungszeitraum: Vermutlich vor Weihnachten.",
+      "url": "https://www.heise.de/news/Auch-wegen-EU-Neue-USB-C-Eingabegeraete-von-Apple-wohl-sehr-bald-9989577.html",
+      "image_title": "Apple-Peripherie-Produkte"
+    },
+    {
+      "title": "Microsoft Azure: TLS 1.0 und 1.1 fliegen am 31. Oktober raus",
+      "teaser": "Microsoft zieht Ende des Monats auch in den Azure-Cloud-Systemen TLS 1.0 und 1.1 den Stecker. Die Protokolle gelten als unsicher.",
+      "url": "https://www.heise.de/news/Microsoft-Azure-TLS-1-0-und-1-1-fliegen-am-31-Oktober-raus-9989439.html",
+      "image_title": "Server in der MItte, Verbindungen zu darum herumstehenden Clients, Verschlüsselungssymbole"
     },
     {
       "title": "Sicherheitsupdates: DoS-Attacken auf IBM-Software möglich",
@@ -72,10 +89,21 @@
       "image_title": "Cover des Podcasts Software Testing von Richard Seidl; Thema diesmal: Automatisierte Sicherheitstest in der CI/CD-Pipeline"
     },
     {
+      "title": "Wiederbelebte Spiele-Klassiker: So geht's mit Source Ports auf dem Mac",
+      "teaser": "Emulation war gestern: Source Ports bringen alte Games auf aktuelle Rechner. Mit Quellcodes programmieren Developer native Mac-Versionen. So spielen Sie mit.",
+      "url": "https://www.heise.de/ratgeber/Wiederbelebte-Spiele-Klassiker-So-geht-s-mit-Source-Ports-auf-dem-Mac-9988372.html",
+      "image_title": ","
+    },
+    {
       "title": "Online-Event: Jetzt noch zur Mastering Microservices 2024 anmelden",
       "teaser": "Am 29. Oktober lernen Softwarearchitekten und Developer praxisnahes Know-how zu Microservices-Architekturen kennen – bei der Mastering Microservices 2024.",
       "url": "https://www.heise.de/news/Online-Event-Jetzt-noch-zur-Mastering-Microservices-2024-anmelden-9987815.html",
       "image_title": "Online-Konferenz Mastering Microservices"
+    },
+    {
+      "title": "Softwareentwicklung: Ressourcen sparen mit der C++-Funktion constexpr",
+      "teaser": "Um ressourcenschonend zu programmieren, genügen schon kleine Veränderungen im Code. Der richtige Einsatz der Funktion constexpr nutzt RAM und ROM effizient.",
+      "url": "https://www.heise.de/ratgeber/Softwareentwicklung-Ressourcen-sparen-mit-der-C-Funktion-constexpr-9985998.html"
     },
     {
       "title": "Millionenschwere Transaktion: Sophos übernimmt Secureworks",
@@ -94,36 +122,6 @@
       "teaser": "In Kürze können iPhone-Nutzer einen Hörtest durchführen und AirPods Pro feintunen. Bei Konzerten und Co sollen die In-Ears künftig das Gehör schützen.",
       "url": "https://www.heise.de/news/AirPods-Pro-Hoertest-und-Hoerhilfe-mit-iOS-18-1-im-Anflug-9989001.html",
       "image_title": "AirPods auf einem Holztisch"
-    },
-    {
-      "title": "Core Ultra 200S: So sehen Intels neue Desktop-CPUs unter der Haube aus",
-      "teaser": "Die Arrow-Lake-Prozessoren sind noch nicht einmal im Handel, da wurde der Erste bereits geköpft. Es ist Intels erstes Tile-Design für Desktop-PCs.",
-      "url": "https://www.heise.de/news/Core-Ultra-200S-So-sehen-Intels-neue-Desktop-CPUs-unter-der-Haube-aus-9988920.html",
-      "image_title": "Intel Core Ultra 200S im Mainboard"
-    },
-    {
-      "title": "Tim Cook: Apple Intelligence \"hat mein Leben verändert\"",
-      "teaser": "KI werde den Umgang mit iPhones & Co \"hochgradig\" verändern, so Cook. Intern sieht sich der Konzern bei Apple Intelligence angeblich im Hintertreffen.",
-      "url": "https://www.heise.de/news/Tim-Cook-Apple-Intelligence-hat-mein-Leben-veraendert-9988760.html",
-      "image_title": "Icon von Apple Intelligence"
-    },
-    {
-      "title": "Kommentar: TypeScript ersetzt Bash? – Schwört ab, kehrt um!",
-      "teaser": "TypeScript statt Bash? – Statt Sinnvolles zu erfinden, verlieren sich Entwickler im Meer der Möglichkeiten. Das muss aufhören, meint Martin Gerhard Loschwitz.",
-      "url": "https://www.heise.de/meinung/Kommentar-TypeScript-ersetzt-Bash-Schwoert-ab-kehrt-um-9988584.html",
-      "image_title": "Aufmacher Hände mit Laptop"
-    },
-    {
-      "title": "AMDs neuer schnellster Gaming-Prozessor kommt im November",
-      "teaser": "Am 7. November bringt AMD den ersten 9000er-Ryzen mit Stapel-Cache. Währenddessen werden die bisherigen Modelle teurer.",
-      "url": "https://www.heise.de/news/AMDs-neuer-schnellster-Gaming-Prozessor-kommt-im-November-9988524.html",
-      "image_title": "AMD Grafik mit Schriftzug X3D reimagined"
-    },
-    {
-      "title": "JavaScript-Runtime Node.js 23: Standardmäßige ES-Modulunterstützung aktiviert",
-      "teaser": "Die aktuelle Major-Version der JavaScript-Runtime schraubt an der Performance und hat native ES-Modulunterstützung im Gepäck.",
-      "url": "https://www.heise.de/news/JavaScript-Runtime-Node-js-23-ueberarbeitet-die-Modul-und-Testunterstuetzung-9988362.html",
-      "image_title": "Javascript Schriftzug auf einem Monitor"
     },
     {
       "title": "Zahlreiche Bestwerte",
