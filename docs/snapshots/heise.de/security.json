@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-22T12:13:23",
+  "timestamp": "2024-10-22T13:17:02",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -19,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.142928303b7905aeb593",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.9f2c4f88f6b524384ff7",
       "id": null,
       "text": null
     },
@@ -31,6 +31,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Roundcube",
+      "url": "https://www.heise.de/news/Roundcube-Webmail-Angriffe-mit-gefaelschten-Anhaengen-9990216.html"
+    },
     {
       "title": "IBM",
       "url": "https://www.heise.de/news/Sicherheitsupdates-DoS-Attacken-auf-IBM-Software-moeglich-9989452.html"
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Ubiquiti-Unifi-Network-Server-Hochriskantes-Leck-ermoeglicht-Rechteausweitung-9987809.html"
     },
     {
-      "title": "Spring Framework",
-      "url": "https://www.heise.de/news/Spring-Framework-Angreifer-koennen-Dateien-einsehen-9987450.html"
+      "title": "Roundcube Webmail: Angriffe mit gefälschten Anhängen",
+      "teaser": "IT-Sicherheitsforscher haben Angriffe auf eine Stored-Cross-Site-Scripting-Lücke in Roundcube Webmail beobachtet. Ein Update ist verfügbar.",
+      "url": "https://www.heise.de/news/Roundcube-Webmail-Angriffe-mit-gefaelschten-Anhaengen-9990216.html",
+      "image_title": "Server in der MItte, Mails und Briefe fliegen herum, Arbeiter sind planlos"
+    },
+    {
+      "title": "Bug-Bounty-Programm: Sicherheitsforscher sollen Googles Cloud quälen",
+      "teaser": "Ab sofort können Sicherheitsforscher Googles Clouddienste auf Sicherheit abklopfen und bei Erfolg Geldprämien einstreichen.",
+      "url": "https://www.heise.de/news/Bug-Bounty-Programm-Sicherheitsforscher-sollen-Googles-Cloud-quaelen-9989683.html",
+      "image_title": "Server in der MItte, Verbindungen zu darum herumstehenden Clients, Verschlüsselungssymbole"
     },
     {
       "title": "Verbraucherzentrale warnt vor falscher Elster-App und \"GEZ\"-Rückzahlung",
@@ -147,18 +159,6 @@
       "title": "Kritische Sicherheitslücke: Angreifer können Kubernetes als Root attackieren",
       "teaser": "Bestimmte Kubernetes Image Builder erzeugen VM-Images mit statischen Zugangsdaten. Admins müssen bestehende Images neu erstellen.",
       "url": "https://www.heise.de/news/Sicherheitsupdate-Kritische-Root-Luecke-in-Kubernetes-geschlossen-9985631.html"
-    },
-    {
-      "title": "iX-Workshop: Sicherer Betrieb von Windows 11 in Unternehmen",
-      "teaser": "Lernen Sie an praktischen Beispielen, wie Sie Windows 11 Pro und Enterprise in Ihrem Unternehmen sicher und effektiv einsetzen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Sicherer-Betrieb-von-Windows-11-in-Unternehmen-9979668.html",
-      "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
-    },
-    {
-      "title": "Brillen.de: Rund 3,5 Millionen Kundendatensätze offen im Netz",
-      "teaser": "Daten von Millionen Kunden standen bei brillen.de wohl offen im Netz. Sie wurden ohne weitere Informationen offline genommen.",
-      "url": "https://www.heise.de/news/Brillen-de-Rund-3-5-Millionen-Kundendatensaetze-offen-im-Netz-9984821.html",
-      "image_title": "Computer vor Serverschränken, auf dem Dataleak steht, drumherum lungern Datendiebe"
     },
     {
       "title": "IoT-Webinar",
