@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-23T07:00:50",
+  "timestamp": "2024-10-23T08:09:48",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "VMware vCenter",
+      "url": "https://www.heise.de/news/VMware-vCenter-Patch-unwirksam-neues-Update-noetig-9990981.html"
+    },
+    {
       "title": "FortiManager",
       "url": "https://www.heise.de/news/FortiManager-Update-schliesst-offenbar-bereits-attackierte-Sicherheitsluecke-9990393.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-DoS-Attacken-auf-IBM-Software-moeglich-9989452.html"
     },
     {
-      "title": "Atlassian Bitbucket, Confluence, Jira",
-      "url": "https://www.heise.de/news/Atlassian-stopft-Sicherheitsluecken-in-Bitbucket-Confluence-und-Jira-9989275.html"
+      "title": "heise security Webinar: M365-Sicherheit selbst testen",
+      "teaser": "Mit dem kostenlosen Tool ScubaGear können Firmen und Behörden ihre M365-Cloud-Dienste selbst prüfen und optimieren. Das Webinar gibt dazu den Schnelleinstieg.",
+      "url": "https://www.heise.de/news/heise-security-Webinar-M365-Sicherheit-selbst-testen-9989798.html",
+      "image_title": "Microsoft-Cloud-Webinar"
+    },
+    {
+      "title": "VMware vCenter: Patch unwirksam, neues Update nötig",
+      "teaser": "Mitte September hat Broadcom eine kritische Sicherheitslücke in VMware vCenter gestopft. Allerdings nicht richtig. Ein neues Update korrigiert das.",
+      "url": "https://www.heise.de/news/VMware-vCenter-Patch-unwirksam-neues-Update-noetig-9990981.html",
+      "image_title": "Stilisierte Grafik: Brennendes VMware-Logo auf einem Laptop"
     },
     {
       "title": "iX-Workshop: Spezialwissen für KRITIS – Prüfverfahrenskompetenz gemäß § 8a BSIG",
@@ -149,17 +161,6 @@
       "title": "Cisco-Hack: Angreifer hatten Zugriff auf Daten in einem DevHub-Portal",
       "teaser": "Mittlerweile hat Cisco einen Cyberangriff bestätigt. Daten sind abgeflossen. Davon sollen aber die eigenen Systeme nicht direkt betroffen sein.",
       "url": "https://www.heise.de/news/Cisco-bestaetigt-Attacke-auf-DevHub-Portal-und-nimmt-es-offline-9987412.html"
-    },
-    {
-      "title": "Angreifer können PCs mit Virenschutz von Bitdefender und Trend Micro attackieren",
-      "teaser": "Sicherheitsupdates schließen Schwachstellen in Bitdefender Total Security und Trend Micro Deep Security Agent.",
-      "url": "https://www.heise.de/news/Virenschutz-Software-von-Bitdefender-und-Trend-Micro-attackierbar-9987394.html"
-    },
-    {
-      "title": "iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response (DFIR)",
-      "teaser": "Lernen Sie, professionelle Incident Response Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können.",
-      "url": "https://www.heise.de/news/iX-Workshop-Nach-dem-Einbruch-Digital-Forensics-Incident-Response-DFIR-9979686.html",
-      "image_title": "iX-Workshop Digital Forensics & Incident Response"
     },
     {
       "title": "IoT-Webinar",
