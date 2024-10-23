@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-23T10:07:50",
+  "timestamp": "2024-10-23T11:00:42",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Samsung Android",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-in-Samsung-Android-Treiber-wird-angegriffen-9991521.html"
+    },
+    {
       "title": "VMware vCenter",
       "url": "https://www.heise.de/news/VMware-vCenter-Patch-unwirksam-neues-Update-noetig-9990981.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Roundcube-Webmail-Angriffe-mit-gefaelschten-Anhaengen-9990216.html"
     },
     {
-      "title": "IBM",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-DoS-Attacken-auf-IBM-Software-moeglich-9989452.html"
+      "title": "Sicherheitslücke in Samsung-Android-Treiber wird angegriffen",
+      "teaser": "Treiber für Samsungs Mobilprozessoren ermöglichen Angreifern das Ausweiten ihrer Rechte. Google warnt vor laufenden Angriffen darauf.",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-in-Samsung-Android-Treiber-wird-angegriffen-9991521.html",
+      "image_title": "Stilisiertes Bild: Smartphone mit Android-Roboter auf dem Bildschirm, steht in Flammen"
     },
     {
       "title": "Windows-Update-Vorschau: Stromverbrauch und umkonfigurierbare Copilot-Taste",
@@ -157,11 +163,6 @@
       "title": "Spring Framework: Angreifer können Dateien einsehen",
       "teaser": "Updates schließen Schwachstellen in Spring Framework. Für einige Versionen ist der Support ausgelaufen und Patches gibt es nicht mehr für alle Nutzer.",
       "url": "https://www.heise.de/news/Spring-Framework-Angreifer-koennen-Dateien-einsehen-9987450.html"
-    },
-    {
-      "title": "Sicherheitsupdates: Angreifer können über Grafana-Lücke eigene Befehle ausführen",
-      "teaser": "Das Datenvisualisierungswerkzeug Grafana ist verwundbar, und Angreifer können auf Systemen eigene Befehle ausführen und unter anderem Passwörter einsehen.",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-ueber-Grafana-Luecke-eigene-Befehle-ausfuehren-9987442.html"
     },
     {
       "title": "IoT-Webinar",
