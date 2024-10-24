@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-24T08:10:21",
+  "timestamp": "2024-10-24T09:00:53",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Cisco ASA, Firepower, Secure Firewall Management Center",
+      "url": "https://www.heise.de/news/Cisco-meldet-mehr-als-35-Sicherheitsluecken-in-Firewall-Produkten-9992639.html"
+    },
+    {
       "title": "Sharepoint",
       "url": "https://www.heise.de/news/Angreifer-missbrauchen-Sharepoint-Sicherheitsleck-fuer-Codeschmuggel-9992541.html"
     },
@@ -44,26 +48,16 @@
       "url": "https://www.heise.de/news/Sicherheitsluecke-in-Samsung-Android-Treiber-wird-angegriffen-9991521.html"
     },
     {
-      "title": "VMware vCenter",
-      "url": "https://www.heise.de/news/VMware-vCenter-Patch-unwirksam-neues-Update-noetig-9990981.html"
+      "title": "Cisco meldet mehr als 35 Sicherheitslücken in Firewall-Produkten",
+      "teaser": "Ciscos ASA, Firepower und Secure Firewall Management Center weisen teils kritische Sicherheitslücken auf. Mehr als 35 schließen nun verfügbare Updates.",
+      "url": "https://www.heise.de/news/Cisco-meldet-mehr-als-35-Sicherheitsluecken-in-Firewall-Produkten-9992639.html",
+      "image_title": "Stilisiertes Bild: Ein Stapel brennender Cisco-Appliances"
     },
     {
-      "title": "iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
+      "title": "iX-Workshop: Lokales Active Directory effizient absichern",
       "teaser": "Lernen Sie, wie Sie Angriffe auf das Active Directory Ihres Unternehmens sicher erkennen und effektiv verhindern können.",
       "url": "https://www.heise.de/news/iX-Workshop-Lokales-Active-Directory-gegen-Angriffe-absichern-9844231.html",
       "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
-    },
-    {
-      "title": "Angreifer missbrauchen Sharepoint-Sicherheitsleck für Codeschmuggel",
-      "teaser": "Die IT-Sicherheitsbehörde CISA warnt vor aktuellen Angriffen auf eine Sharepoint-Schwachstelle. Sie ermöglicht Codeschmuggel.",
-      "url": "https://www.heise.de/news/Angreifer-missbrauchen-Sharepoint-Sicherheitsleck-fuer-Codeschmuggel-9992541.html",
-      "image_title": "Computer zeigt Windows-Logo an, Server drum herum brennen, qualmende Viren attackieren alles"
-    },
-    {
-      "title": "Fortinet bestätigt kritische angegriffene Sicherheitslücke in Fortimanager",
-      "teaser": "Fortinet hat eine kritische Sicherheitslücke in Fortimanager bestätigt, die bereits angegriffen wird. Updates stehen seit Kurzem bereit.",
-      "url": "https://www.heise.de/news/Fortinet-bestaetigt-kritische-angegriffene-Sicherheitsluecke-in-Fortimanager-9992503.html",
-      "image_title": "Stilisiertes Bild: Ein Stapel brennender Appliances"
     },
     {
       "title": "Neue OpenSSL-Lücke ist gefährlich, aber sehr schwer auszunutzen",
@@ -153,6 +147,12 @@
       "teaser": "Sich mit der Rolle des Informationssicherheitsbeauftragten vertraut machen: die Anforderungen verstehen und die notwendigen Kompetenzen erwerben.",
       "url": "https://www.heise.de/news/iX-Workshop-Aufgaben-eines-Informationssicherheitsbeauftragten-9986067.html",
       "image_title": "ix-Workshop IT-Sicherheit nach ISO 27001 umsetzen"
+    },
+    {
+      "title": "Atlassian: Schwachstellen machen Bitbucket, Confluence und Jira verwundbar",
+      "teaser": "In Bitbucket, Confluence und Jira lauern Sicherheitslücken, die etwa Informationsabfluss oder Denial-of-Service ermöglichen.",
+      "url": "https://www.heise.de/news/Atlassian-stopft-Sicherheitsluecken-in-Bitbucket-Confluence-und-Jira-9989275.html",
+      "image_title": "Eine Appliance verbindet viele Clients mit Kabeln durch die Cloud. Sie und paar Clients brennen."
     },
     {
       "title": "Millionenschwere Transaktion: Sophos übernimmt Secureworks",
