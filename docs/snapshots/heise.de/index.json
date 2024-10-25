@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-25T09:07:29",
+  "timestamp": "2024-10-25T10:00:40",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -144,7 +144,12 @@
       "url": "https://www.heise.de/news/Millionenfach-installierte-Apps-enthalten-hartkodierte-Cloud-Zugaenge-9993226.html"
     },
     {
-      "title": "Exoplaneten: Suche nach Atmosphären bei Roten Zwergsternen doch nicht zwecklos",
+      "title": "Zero-Day-Schwachstellen finden und Angriffe verhindern",
+      "teaser": "Um problematische Codestellen und gefährliches Verhalten von Anwendungen ausfindig zu machen, gibt es teils kostenlose Analysewerkzeuge.",
+      "url": "https://www.heise.de/hintergrund/Zero-Day-Schwachstellen-finden-und-Angriffe-verhindern-9988084.html"
+    },
+    {
+      "title": "Astronomie: Rote Zwergsterne vernichten wohl doch nicht alle Atmosphären",
       "teaser": "Kein Sterntyp ist im Kosmos so häufig wie Rote Zwerge, für Exoplaneten sind die Bedingungen dort aber harsch. Trotzdem könnten einige wohl Atmosphären halten.",
       "url": "https://www.heise.de/news/Exoplaneten-Suche-nach-Atmosphaeren-bei-Roten-Zwergsternen-doch-nicht-zwecklos-9993818.html",
       "image_title": "Angeschnittener Stern und mehrere Exoplaneten"
@@ -182,12 +187,6 @@
       "title": "Kubernetes-Sicherheit meistern: Angriffe verhindern, Cluster effektiv schützen",
       "teaser": "Verschlüsselung, Auditing, Sandboxing: In diesem Classroom lernen Sie in fünf Sessions, wie Sie Ihre Cluster effektiv vor Angriffen schützen.",
       "url": "https://www.heise.de/news/Kubernetes-Sicherheit-meistern-Angriffe-verhindern-Cluster-effektiv-schuetzen-9982975.html"
-    },
-    {
-      "title": "\"Gescheiterte Sterne\": Erstmals Braune Zwerge außerhalb der Milchstraße entdeckt",
-      "teaser": "Seit 30 Jahren werden Himmelskörper entdeckt, die es nicht zum Stern geschafft haben – bislang aber nur in der Milchstraße. Das hat sich wohl jetzt geändert.",
-      "url": "https://www.heise.de/news/Astronomie-Wohl-erste-Braune-Zwerge-ausserhalb-der-Milchstrasse-entdeckt-9993641.html",
-      "image_title": "Farbenprächtiger Nebel vor Sternen"
     },
     {
       "title": "Virtual RealityPornos auf der VR-Brille: Apple Vision Pro & Meta Quest 3",
@@ -256,6 +255,12 @@
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
     },
     {
+      "title": "\"Gescheiterte Sterne\": Erstmals Braune Zwerge außerhalb der Milchstraße entdeckt",
+      "teaser": "Seit 30 Jahren werden Himmelskörper entdeckt, die es nicht zum Stern geschafft haben – bislang aber nur in der Milchstraße. Das hat sich wohl jetzt geändert.",
+      "url": "https://www.heise.de/news/Astronomie-Wohl-erste-Braune-Zwerge-ausserhalb-der-Milchstrasse-entdeckt-9993641.html",
+      "image_title": "Farbenprächtiger Nebel vor Sternen"
+    },
+    {
       "title": "Neue Macs kommen ab Montag – ungewöhnliche Ankündigung",
       "teaser": "Neue MacBooks mit M4, Mac mini und iMac – die Erwartungen sind groß. Ein echtes Event wird es aber nicht geben, stattdessen eine \"Woche des Macs\".",
       "url": "https://www.heise.de/news/Apple-stellt-ab-Montag-neue-Macs-vor-Angekuendigt-per-X-9994040.html"
@@ -267,7 +272,7 @@
       "image_title": "Bluesky-Startbildschirm auf einem Smartphone"
     },
     {
-      "title": "Strom mit dem Nachbar teilen: Was heute schon geht und was möglich werden soll",
+      "title": "Strom mit dem Nachbarn teilen: Was heute schon geht und was möglich werden soll",
       "teaser": "Die erneuerbaren Energien legen die Stromerzeugung in Bürgerhand. Noch ist es aber kompliziert, Strom mit den Nachbarn zu teilen. Das könnte sich bald ändern.",
       "url": "https://www.heise.de/ratgeber/Strom-mit-dem-Nachbar-teilen-Was-heute-schon-geht-und-was-moeglich-werden-soll-9869220.html"
     },
@@ -324,15 +329,15 @@
       "image_title": "Holzfigur des Pinocchio mit langer Nase"
     },
     {
+      "title": "Vertrauliche Daten vor KI-Tools schützen",
+      "teaser": "Generative KI-Tools kommen immer öfter in Unternehmen und Behörden zum Einsatz. Mitarbeiter machen sich aber kaum Gedanken darüber, welche Infos sie dabei preisgeben. In einem Webcast erfahren Sie, wie Sie verhindern, dass dabei vertrauliche Daten abfließen.",
+      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/chatgpt-copilot-co-wie-sie-den-abfluss-sensibler-unternehmensdaten-ueber-ki-tools-verhindern-4785/?source=hbsad-ersatz"
+    },
+    {
       "title": "UpdateWindows-Update-Vorschau: Stromverbrauch und umkonfigurierbare Copilot-Taste",
       "teaser": "Die Windows-Update-Vorschau im Oktober ist da, jetzt auch für Windows 11 24H2. Sie bietet etwa optimierten Stromverbrauch und eine einstellbare Copilot-Taste.",
       "url": "https://www.heise.de/news/Windows-Update-Vorschau-Stromverbrauch-und-umkonfigurierbare-Copilot-Taste-9991055.html",
       "image_title": "Stilisiertes Bild: Windows/Software-Update auf Laptop"
-    },
-    {
-      "title": "GenAI verantwortungsvoll nutzen: Chancen und Herausforderungen im Fokus",
-      "teaser": "Entdecken Sie im interaktiven Live-Webcast am 21.11.2024 um 11 Uhr, wie Sie generative KI ethisch und sicher in Ihrem Unternehmen einsetzen können. Diskutieren Sie mit Experten auf Deutsch und Englisch über praxisnahe Anwendungsfälle.",
-      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/genai-verantwortungsvoll-nutzen-chancen-und-herausforderungen-im-fokus-4825/?source=hbsad-ersatz"
     },
     {
       "title": "Top 5: Fünf günstige Laubbläser mit Akku ab 45 Euro im Praxistest",
@@ -382,12 +387,6 @@
       "title": "Mindestalter 15 Jahre: Norwegen plant erhöhten Jugendschutz für Social Media",
       "teaser": "Norwegen plant, das Mindestalter für Social-Media-Nutzung von 13 auf 15 Jahre anzuheben und Strukturen für die Altersüberprüfung auszubauen.",
       "url": "https://www.heise.de/news/Mindestalter-15-Jahre-Norwegen-plant-erhoehten-Jugendschutz-fuer-Social-Media-9993276.html"
-    },
-    {
-      "title": "Gutachten für elektronische Patientenakte: Sicherheitskonzept auf dem Prüfstand​",
-      "teaser": "Die Gematik beauftragt ein Sicherheitsgutachten für die ePA und erklärt kritische Punkte später für nicht relevant oder außerhalb ihrer Regelungshoheit.​",
-      "url": "https://www.heise.de/hintergrund/Gutachten-fuer-elektronische-Patientenakte-Sicherheitskonzept-auf-dem-Pruefstand-9993167.html",
-      "image_title": "Ein Arzt hält ein Tablet. Darüber schwebt ein projiziertes Sicherheitsschloss. Daneben sind Symbole aus dem Gesundheitsbereich."
     },
     {
       "title": "Überraschung: TSMC-Technik in Huaweis KI-Beschleuniger gefunden",
@@ -558,10 +557,10 @@
       "url": "https://www.heise.de/en/news/Linux-Several-Russian-maintainers-kicked-out-9993054.html"
     },
     {
-      "title": "Lange VerfügbarkeitRaspberry Pi bringt eigene SSD",
-      "teaser": "Der Raspi 5 kann mit einer PCIe-SSD umgehen. Nun kommt eine mit Raspi-Branding und bis zu 512 GByte Speicherplatz.",
-      "url": "https://www.heise.de/news/Raspberry-Pi-bringt-eigene-SSD-9991243.html",
-      "image_title": "Raspberry Pi SSD auf einem Raspi"
+      "title": "Fitnessuhren und -Armbänder ohne Cloud und Hersteller-Apps nutzen",
+      "teaser": "Die Open-Source-App Gadgetbridge ersetzt die Hersteller-Apps für Fitnesstracker. Das sorgt für mehr Datenschutz und bringt einige praktische Funktionen mit.",
+      "url": "https://www.heise.de/ratgeber/Fitnessuhren-und-Armbaender-ohne-Cloud-und-Hersteller-Apps-nutzen-9985727.html",
+      "image_title": ", Albert Hulm"
     },
     {
       "title": "Wie Amazon mit fremdem Eigentum umgeht",
@@ -582,10 +581,10 @@
       "image_title": ","
     },
     {
-      "title": "Kamerazwerg: Insta360 Go 3S im Test",
-      "teaser": "Die modulare Action-Cam Insta360 Go 3S ist kompakt und lässt sich über Apples \"Wo ist?\"-Netzwerk orten. Wir haben sie getestet.",
-      "url": "https://www.heise.de/tests/Kamerazwerg-Insta360-Go-3S-im-Test-9981793.html",
-      "image_title": "Die Go 3S von Insta360"
+      "title": "Alternativen zur Magic Mouse im TestDie besten Mäuse für den Mac",
+      "teaser": "Viele haben sie täglich über Stunden in der Hand. Dennoch achten die meisten Nutzer wenig auf das wichtigste Eingabegerät am Mac. Wir haben 11 Modelle getestet.",
+      "url": "https://www.heise.de/ratgeber/Maeuse-fuer-den-Mac-Das-sind-die-besten-Alternativen-zur-Magic-Mouse-9989995.html",
+      "image_title": ","
     },
     {
       "title": "RISC-V-CPUs mit RVA23: Mehr Leistung und bessere Linux-Unterstützung",
@@ -600,10 +599,10 @@
       "image_title": ", Photour.1904/ Shutterstock.com"
     },
     {
-      "title": "Android-Apps kinderleicht erstellen",
-      "teaser": "Für manch ein Projekt ist eine maßgeschneiderte Android-App eine große Bereicherung. Die richtigen Helfer machen die App-Erstellung fast zum Kinderspiel.",
-      "url": "https://www.heise.de/ratgeber/Android-Apps-kinderleicht-erstellen-9955184.html",
-      "image_title": ", REDPIXEL.PL/Shutterstock.com"
+      "title": "Termux: Linux-System unter Android installieren",
+      "teaser": "Termux holt ein fast vollständiges Linux-System auf Ihr mobiles Gerät – bei Bedarf mit grafischer Benutzeroberfläche. Wir zeigen Ihnen, wie das funktioniert.",
+      "url": "https://www.heise.de/ratgeber/Termux-Linux-System-unter-Android-installieren-9988012.html",
+      "image_title": ", 3Dalia/Shutterstock.com"
     },
     {
       "title": "Supertele-Objektive richtig einsetzen: c't Fotografie 4/2024",
@@ -701,20 +700,19 @@
       "url": "https://www.techstage.de/bestenliste/top-10-die-besten-balkonkraftwerke-von-extrem-leicht-bis-besonders-stark/ywhkvwx?wt_mc=intern.red.techstage.techstage_buehne.startseite.buehne.buehne#nav-ring-6"
     },
     {
-      "title": "Wird der Nato-Gipfel einen unendlichen Krieg in Europa eröffnen?",
-      "teaser": "Der Druck wächst, der Ukraine in Vilnius eine Beitrittsperspektive zu geben. Hardliner und einige osteuropäische Staaten wollen ein klares Zeichen. Warum das keine gute Idee ist.",
-      "url": "https://www.heise.de/tp/features/Wird-der-Nato-Gipfel-einen-unendlichen-Krieg-in-Europa-eroeffnen-9205939.html"
+      "title": "Gefährliche Stiche: Bringt der Klimawandel auch tropische Krankheiten?",
+      "teaser": "Steigende Temperaturen helfen der Asiatischen Tigermücke oder der Anopheles-Mücke, in Deutschland zu überwintern. Wann werden sie als Krankheitsüberträger gefährlich? Und was kann man tun?",
+      "url": "https://www.heise.de/tp/features/Gefaehrliche-Stiche-Bringt-der-Klimawandel-auch-tropische-Krankheiten-9207996.html"
     },
     {
-      "title": "Warum gibt es keine deutschen Unternehmen, die nur E-Autos herstellen?",
-      "teaser": "Die Elektroauto-Verkäufe gehen weltweit steil nach oben. Auch in Deutschland. Aber Tesla und chinesische Hersteller hängen VW und Co. ab. Warum das so ist und wir aufs Elektropedal treten müssen.",
-      "url": "https://www.heise.de/tp/features/Warum-gibt-es-keine-deutschen-Unternehmen-die-nur-E-Autos-herstellen-9207186.html"
+      "title": "Debatten: Wovon Whataboutism ablenkt",
+      "teaser": "Eine rhetorische Allzweckwaffe und ihr Einsatz in Diskussionen über Assange oder den Ukraine-Krieg. Warum das in polarisierten Meinungsstreits so beliebte Totschlagargument hochproblematisch ist.",
+      "url": "https://www.heise.de/tp/features/Debatten-Wovon-Whataboutism-ablenkt-9207254.html"
     },
     {
-      "title": "Debatte ums Elterngeld: Wie mit falschen Zahlen Stimmung gemacht wird",
-      "teaser": "Große Aufregung über die Pläne, das Elterngeld einzuschränken. Alle möglichen Argumente werden vorgetragen, doch einige sind nicht ganz richtig. Ein Faktencheck.",
-      "url": "https://www.heise.de/tp/features/Debatte-ums-Elterngeld-Wie-mit-falschen-Zahlen-Stimmung-gemacht-wird-9209177.html",
-      "image_title": "Falsche Zahlen in Debatte ums Elterngeld"
+      "title": "Russische Bewegung für Kriegsdienstverweigerug als \"ausländischer Agent\" eingestuft",
+      "teaser": "Wehrdienstflüchtige aus Russland haben wenig Chancen auf Asyl in der EU. Es mangelt an legalen Einreisewegen. Der Kreml geht dennoch von Verbrüderung aus.",
+      "url": "https://www.heise.de/tp/features/Russische-Bewegung-fuer-Kriegsdienstverweigerug-als-auslaendischer-Agent-eingestuft-9207406.html"
     },
     {
       "title": "Usenet-Anbieter: So finden Sie den besten Provider",
