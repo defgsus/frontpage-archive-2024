@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-26T14:00:38",
+  "timestamp": "2024-10-26T15:01:00",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
@@ -110,11 +116,11 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Wohnungsnot : Sie suchen eine Wohnung? Hereinspaziert!",
-      "teaser": "Hier zu besichtigen: eine radikale Idee, wie das Wohnen wieder zur Freude wird. Ziehen Sie im Kopf doch schon mal um.",
-      "url": "https://www.zeit.de/2024/45/fantasie-gedanken-wohnungsmarkt-losung-milieu-mischung",
-      "image_url": "https://img.zeit.de/2024/45/sie-suchen-eine-wohnung-hereinspaziert-bild-1/wide__1000x562",
-      "image_title": "Wohnungsnot: Das 190 x 230 cm große Ölgemälde \"Tribe\" 2014 von Felix Eckardt"
+      "title": "Z+ (abopflichtiger Inhalt); Deutsche Raketen-Start-ups : Das deutsche Space-Race",
+      "teaser": "Elon Musk dominiert die Raumfahrt wie nie zuvor. Zwei bayerische Gründer wollen ihm Konkurrenz machen, mit verrückten Ideen und eigenen Raketen. Haben sie eine Chance?",
+      "url": "https://www.zeit.de/wissen/2024-10/deutsche-raketen-start-ups-raumfahrt-spacex-konkurrenz",
+      "image_url": "https://img.zeit.de/wissen/2024-10/deutsche-raketen-start-ups-raumfahrt-spacex-konkurrenz-bild-4/wide__1000x562",
+      "image_title": "Deutsche Raketen-Start-ups: Das deutsche Space-Race"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Angriff auf Teheran : Jetzt weiß der Iran, wie empfindlich er ist",
@@ -145,6 +151,13 @@
       "image_title": "Elon Musk und Donald Trump: Der amerikanische Fiebertraum"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); CDU-Chef : Friedrich Merz warnt vor Folgen einer Trump-Wahl",
+      "teaser": "Europa sei bei einem Sieg von Donald Trump auf sich gestellt, warnt CDU-Chef Friedrich Merz. Frankreich, Polen, Großbritannien und Deutschland sollten dann vorangehen.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-10/cdu-chef-merz-trump-europa",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-10/cdu-chef-merz-trump-europa-bild-3/super__430x286",
+      "image_title": "CDU-Chef: Friedrich Merz (CDU), CDU-Bundesvorsitzender und Unionsfraktionsvorsitzender, spricht beim CDU-Bundesparteitag. Auf dem Programm steht die Verabschiedung des neuen Grundsatzprogramms der Union."
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Bundeshymne : Schlechte Noten für Österreichs Hymnen",
       "teaser": "Ein neues Buch räumt mit den musikalischen Lebenslügen Österreichs auf. Auch in den Landeshymnen findet es Selbstbetrug, Deutschtümelei und glühende Nazis.",
       "url": "https://www.zeit.de/2024/45/bundeshymne-oesterreich-debatte-text",
@@ -159,39 +172,25 @@
       "image_title": "Lehrstellen in der Schweiz: Semir, Erolinda und Dorina im Schulhaus Buchholz der Schule Glarus ############################ ZEIT Redakteurin Salome Müller hat während des vergangenen Jahres eine Oberstufenklasse (2. Sekundarklasse) in Glarus begleitet bei der Frage: Welcher Beruf passt zu mir? Wo würde ich gerne eine Lehre machen? Und wie komme ich dorthin?"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Wohnungsnot : Sie suchen eine Wohnung? Hereinspaziert!",
+      "teaser": "Hier zu besichtigen: eine radikale Idee, wie das Wohnen wieder zur Freude wird. Ziehen Sie im Kopf doch schon mal um.",
+      "url": "https://www.zeit.de/2024/45/fantasie-gedanken-wohnungsmarkt-losung-milieu-mischung",
+      "image_url": "https://img.zeit.de/2024/45/sie-suchen-eine-wohnung-hereinspaziert-bild-1/wide__892x501",
+      "image_title": "Wohnungsnot: Das 190 x 230 cm große Ölgemälde \"Tribe\" 2014 von Felix Eckardt"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Joy Denalane und Max Herre : \"Liebe muss immer an Bedingungen geknüpft sein\"",
       "teaser": "25 Jahre nach ihrem ersten Duett folgt die Debüt-LP von Joy Denalane und Max Herre. Ein Gespräch über sturmfreie Buden, Widerstand im Alltag und Deutschrap im Badezimmer",
       "url": "https://www.zeit.de/kultur/musik/2024-10/max-herre-joy-denalane-alles-liebe-interview",
-      "image_url": "https://img.zeit.de/kultur/musik/2024-10/maxjoy-1/wide__892x501",
+      "image_url": "https://img.zeit.de/kultur/musik/2024-10/maxjoy-1/super__430x286",
       "image_title": "Joy Denalane und Max Herre: Mit ihnen stand die Zeit still – und dann sind doch irgendwie 25 Jahre vergangen. Joy Denalane (rechts) und Max Herre im Jahr 2024"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Gasthof Falkenhorst : Vegan oder wieder gehen",
-      "teaser": "Der Falkenhorst sieht aus wie ein typisches Ausflugslokal in Brandenburg. Das Schnitzel auch – nur ist alles vegan. Warum das sogar auf dem Land gut geht.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-10/gasthof-falkenhorst-vegan-brandenburg-restaurant",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-10/gasthof-falkenhorst-vegan-brandenburg-restaurant-bild-2/super__430x286",
-      "image_title": "Gasthof Falkenhorst: Veganes Schnitzel im Gasthof Falkenhorst in Burig (Gemeindeteil der Gemeinde Gosen-Neu Zittau, Brandenburg), Inhaber:innen Annika und Hugo, 7.9.2024"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Einkaufen in Deutschland : Im Supermarkt der Zukunft",
-      "teaser": "Supermärkte auf dem Land, ohne Kassierer, rund um die Uhr geöffnet: Mittlerweile gibt es deutschlandweit etwa 500 Läden dieser Art – und wöchentlich kommen weitere hinzu.",
-      "url": "https://www.zeit.de/2024/45/supermaerkte-deutschland-personal-oeffnungszeiten-nettlingen",
-      "image_url": "https://img.zeit.de/2024/45/tante-emma-laden-ohne-emma-bild-1/wide__892x501",
-      "image_title": "Einkaufen in Deutschland: Rund um die Uhr geöffnet, auch sonntags: Eine Filiale der Kette Tante Enso in Nettlingen, Niedersachsen."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Immobilien : Wieso können sich andere ein Haus leisten – ich mir aber nicht?",
-      "teaser": "Auch wenn es sich anders anfühlt: Das Eigenheim ist heute erschwinglicher als früher. Es gibt dennoch gute Gründe für Immobilienneid. Und einige Wege ins Eigentum.",
-      "url": "https://www.zeit.de/geld/2024-10/immobilien-erbschaft-generation-eltern-studie",
-      "image_url": "https://img.zeit.de/geld/2024-10/immobilien-erbschaft-generation-eltern-studie-bild/super__430x286",
-      "image_title": "Immobilien: Wieso können sich andere ein Haus leisten – ich mir aber nicht?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Neubrandenburg : Erneut Regenbogenfahne in Neubrandenburg gestohlen",
-      "teaser": "Mehrfach wurden bereits in der mecklenburgischen Stadt Neubrandenburg Regenbogenfahnen gestohlen. Jetzt traf es den Verein queerNB.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-10/neubrandenburg-regenbogenfahne-gestohlen-verein",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-10/neubrandenburg-regenbogenfahnen-bild/super__430x286",
-      "image_title": "Neubrandenburg: Eine Regenbogenflagge"
+      "title": "Z+ (abopflichtiger Inhalt); AirPods als Hörgerät • Das Beste aus Z+ : Aus AirPods werden jetzt Hörgeräte. Ernsthaft?",
+      "teaser": "Unser Autor hört schlecht. Können Apples Ohrstöpsel ihm helfen? Er hat es eine Woche lang ausprobiert – und war überrascht.",
+      "url": "https://www.zeit.de/gesundheit/2024-10/airpods-apple-hoergeraet-update-conversation-boost",
+      "image_url": "https://img.zeit.de/wissen/2024-10/airpods-apple-hoergeraet-update-bild-2/super__430x286",
+      "image_title": "AirPods als Hörgerät • Das Beste aus Z+: Aus AirPods werden jetzt Hörgeräte. Ernsthaft?"
     },
     {
       "title": "Ausgabe 43/2024 : Wasserballett. Willkommen im Wochenende.",
@@ -243,32 +242,25 @@
       "image_title": "Plan D: Tüftler: Geht's noch?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Champions League : Ein Europa, eine Tabelle",
-      "teaser": "Im vorigen Jahrtausend feierte unser Autor die Bundesliga-Tabelle mit Wimpeln an einer Holzleiste. Jetzt schwärmt er vom ersten Europa-Ranking.",
-      "url": "https://www.zeit.de/sport/2024-10/champions-league-europa-bundesliga-fussball-gruenflaeche",
-      "image_url": "https://img.zeit.de/sport/2024-10/zwe-gruenflaeche-champions-league/super__430x286",
-      "image_title": "Champions League: Ein Europa, eine Tabelle"
+      "title": "Z+ (abopflichtiger Inhalt); Siri Hustvedt • Das Beste aus Z+ : \"Die Würde, mit der Paul starb, war ein Geschenk\"",
+      "teaser": "Siri Hustvedt und Paul Auster waren das große Autorenpaar der US-Literatur. Im April starb Auster. Hier spricht Hustvedt über den Tod ihres Mannes und ihr Leben heute.",
+      "url": "https://www.zeit.de/2024/44/tod-paul-auster-schriftsteller-regisseur-siri-hustvedt",
+      "image_url": "https://img.zeit.de/2024/44/die-wuerde-mit-der-paul-starb-war-ein-geschenk-teaser/super__430x286",
+      "image_title": "Siri Hustvedt • Das Beste aus Z+: \"Die Würde, mit der Paul starb, war ein Geschenk\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); DNA-Datenbank 23andMe : Ein riskantes Erbe",
-      "teaser": "Hackerangriff, Geldnot, Streit: Der Genanalysefirma 23andMe geht es mies. Viele der 15 Millionen Kunden sorgen sich um ihre DNA-Daten. Aus gutem Grund.",
-      "url": "https://www.zeit.de/digital/2024-10/dna-datenbank-23andme-genanalyse-datenschutz",
-      "image_url": "https://img.zeit.de/wissen/2024-10/dna-datenbank-23andme-genanalyse-datenschutz-bild/super__430x286",
-      "image_title": "DNA-Datenbank 23andMe: Fragezeichen um Zellen herum formen eine DNA-Doppelhelix PUBLICATIONxINxGERxSUIxAUTxONLY Copyright: xGillianxBleasex"
+      "title": "Z+ (abopflichtiger Inhalt); Fußballer Nils Petersen : \"Wie alle Fußballer bin ich ein Egoist und eine Diva\"",
+      "teaser": "Wer immer zweite Wahl ist, kämpft mit Selbstzweifeln. So wie Ex-Bundesliga-Stürmer Nils Petersen auf der Ersatzbank. Dort hat er gelernt, Neid in Stolz zu verwandeln.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2024-10/fussballer-nils-petersen-ersatzbank-bundesliga-rekordjoker",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-10/fussballer-nils-petersen-ersatzbank-bundesliga-rekordjoker-bild/wide__892x501",
+      "image_title": "Fußballer Nils Petersen: Nils Petersen 18 SC Freiburg - 19.05.2023, Freiburg, Germany, Europapark Stadion, SC Freiburg vs VfL Wolfsburg - 1. Bundesliga *** Nils Petersen 18 SC Freiburg 19 05 2023, Freiburg, Germany, Europapark Stadion, SC Freiburg vs VfL Wolfsburg 1 Bundesliga"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Julija Nawalnaja • Das Beste aus Z+ : \"Sollen die Spitzel doch hinter mir herlaufen\"",
-      "teaser": "Im Februar wurde der russische Politiker Alexej Nawalny in der Haft umgebracht. Jetzt spricht seine Frau über den Kampf gegen Putin und Waffenlieferungen an die Ukraine.",
-      "url": "https://www.zeit.de/2024/45/julija-nawalnaja-opposition-russland-waffenlieferung-ukraine",
-      "image_url": "https://img.zeit.de/2024/45/irgendwann-fange-ich-an-zu-trauern-bild-1/super__430x286",
-      "image_title": "Julija Nawalnaja • Das Beste aus Z+: Julija Nawalnaja vergangene Woche in London, nach dem Gespräch mit der ZEIT"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Zeitumstellung : Ja, ist denn schon wieder Zeitenwende?",
-      "teaser": "Ab Sonntag gilt die Winter-, äh, Normalzeit. Milchkühe und Spanier sind verwirrt, Bahnreisende ebenfalls. 28 Fakten, die dagegen auch nicht helfen.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-10/zeitumstellung-winterzeit-sommer-tag-stunden",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-10/zeitumstellung-winterzeit-sommer-tag-stunden-bild/super__430x286",
-      "image_title": "Zeitumstellung: Daylight Saving - Greg Alexander, owner of The Clock shop in Glebe who restores old clocks and watches. Mr. Alexander only keeps 10 clocks and watches. Mr. Alexander only keeps 10 clocks with the right time at any one time.Mr. Alexander doesn't find a problem with the changing of time for summer daylight saving but finds that he has at least a couple customers every year when the time goes back who break their arms off their clocks trying to force the hands back an hour instead of moving forward eleven hours.October 21, 1991. (Photo by Steven Siewert/Fairfax Media via Getty Images)."
+      "title": "Z+ (abopflichtiger Inhalt); McDonald’s : Zahl der Erkrankten nach Kolibakterien-Ausbruch steigt",
+      "teaser": "Kontaminierte Zwiebeln hatten zu einem E.-coli-Ausbruch bei McDonald's geführt. Dabei gibt es auch einen Todesfall – und mittlerweile immer mehr Krankheitsfälle.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-10/usa-mcdonalds-kolibakterien-ausbruch-mehr-erkrankte",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-10/e-coli-ausbruch-mcdonalds-bild/super__430x286",
+      "image_title": "McDonald’s: SAN LEANDRO, CALIFORNIA - FEBRUARY 06: A sign is posted in front of a McDonald's restaurant on February 06, 2024 in San Leandro, California. McDonald's reported fourth quarter earnings on Monday that beat analyst earnings estimates but fell short on revenue as its Middle Eastern sales slumped due to the Israel-Hamas conflict. The fast food chain reported net income for the fourth quarter of $2.04 billion, or $2.80 per share, compared to $1.9 billion, or $2.59 per share, one year ago. (Photo by Justin Sullivan/Getty Images)"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Schönheitsideale : Abschied von der Schönheit",
@@ -292,18 +284,18 @@
       "image_title": "Rauchmelder bei Vonovia: Der Spion an meiner Decke"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Philippinen : Zahl der Toten nach Tropensturm Trami auf über 80 gestiegen",
-      "teaser": "Während die Zahl der Toten nach Sturm Trami steigt, bleibt die Lage weiter gefährlich. Ein weiterer Sturm ist auf dem Weg. Und auch Trami könnte die Insel erneut treffen.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-10/philippinen-tropensturm-trami-tote-taifun",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2024-10/phillipinen-sturm-trami-bild/super__430x286",
-      "image_title": "Philippinen: Bewohner werden in einem Schlauchboot übergesetzt, nachdem sie von ihren Dächern gerettet wurden, auf denen sie sich vor den Überschwemmungen des Tropensturms Trami verschanzt hatten. +++ dpa-Bildfunk +++"
+      "title": "Z+ (abopflichtiger Inhalt); Immobilien : Wieso können sich andere ein Haus leisten – ich mir aber nicht?",
+      "teaser": "Auch wenn es sich anders anfühlt: Das Eigenheim ist heute erschwinglicher als früher. Es gibt dennoch gute Gründe für Immobilienneid. Und einige Wege ins Eigentum.",
+      "url": "https://www.zeit.de/geld/2024-10/immobilien-erbschaft-generation-eltern-studie",
+      "image_url": "https://img.zeit.de/geld/2024-10/immobilien-erbschaft-generation-eltern-studie-bild/super__430x286",
+      "image_title": "Immobilien: Wieso können sich andere ein Haus leisten – ich mir aber nicht?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Leipzig : 13-Jährige soll siebenjährige Schwester tödlich verletzt haben",
-      "teaser": "Ein 13 Jahre altes Mädchen in Leipzig soll seiner Schwester schwere Stichverletzungen zugefügt haben. Die Siebenjährige verstarb wenig später im Krankenhaus.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-10/leipzig-13-jaehrige-schwester-tot",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-10/13-jaehrige-toetet-leipzig-siebenjaehrige-schwester-bild/super__430x286",
-      "image_title": "Leipzig: Die Polizei in Leipzig ermittelt im Fall des Todes eines Mädchens."
+      "title": "Z+ (abopflichtiger Inhalt); Suhl und das BSW : \"Es ändert sich sowieso nichts\"",
+      "teaser": "In Suhl haben besonders viele Menschen für die neue Partei von Sahra Wagenknecht gestimmt. Was denken sie über die Koalitionsverhandlungen?",
+      "url": "https://www.zeit.de/2024/45/suhl-bsw-thueringen-landtagswahl-koalitionsverhandlungen",
+      "image_url": "https://img.zeit.de/2024/45/frieden-in-der-waffenstadt-bild-1/super__430x286",
+      "image_title": "Suhl und das BSW: Im Zentrum von Suhl gibt es selten Gedränge"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Verliebtheit bei Kindern : Die erste Liebe – mit sieben",
@@ -313,25 +305,11 @@
       "image_title": "Verliebtheit bei Kindern: Die erste Liebe – mit sieben"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Oleksandr Kamyschin : \"Ich biete euch etwas an\"",
-      "teaser": "Oleksandr Kamyschin hat die Rüstungsindustrie der Ukraine rasant ausgebaut. Er will nicht um Waffen betteln. Stattdessen soll der Westen sie bei ihm einkaufen.",
-      "url": "https://www.zeit.de/2024/45/oleksandr-kamyschin-ruestungsindustrie-ukraine-verteidigung",
-      "image_url": "https://img.zeit.de/2024/45/bewohner-gazastreifen-israel-hamas-gewalt-ende-teaserbild-2/super__430x286",
-      "image_title": "Oleksandr Kamyschin: Zu Kriegsbeginn sorgte Oleksandr Kamyschin dafür, dass die Züge fuhren, jetzt sammelt er Geld für Waffen made in Ukraine. ####################### Oleksandr Kamyshin on a site of a delapidated factory in Kyiv region on October 15, 2024"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Schlammkatastrophe in Brasilien : Unternehmen müssen 28 Milliarden Euro für Umweltkatastrophe zahlen",
       "teaser": "Der Dammbruch eines Abraumbeckens hat 2015 in Brasilien Massen von toxischem Schlamm freigesetzt. Jetzt sollen betroffene Bürger und Gemeinden entschädigt werden.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-10/schlammkatastrophe-bergbau-brasilien-mariana-entschaedigung",
       "image_url": "https://img.zeit.de/politik/ausland/2024-10/rio-doce-mariana-bild-2/super__430x286",
       "image_title": "Dammbruch in Mariana"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Haarbürste : Die krümmt kein Haar",
-      "teaser": "Mit Spiegel, integriertem Föhn oder zum Klappen – die Bürsten-Historie unserer Autorin ist lang. Heute weiß sie: Schlicht kämmt am besten.",
-      "url": "https://www.zeit.de/zeit-magazin/2024-10/haarbuerste-bambus-kamm-alltag",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-10/zwe-ode-an-ein-ding-bambusbuerste/super__430x286",
-      "image_title": "Haarbürste: Die krümmt kein Haar"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Einleitung : 48 Monate Trump",
@@ -642,14 +620,14 @@
       "image_title": "Immobilien: Wieso können sich andere ein Haus leisten – ich mir aber nicht?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Pubertät bei Mädchen : Wie aus unsicheren Mädchen starke Frauen werden",
-      "teaser": "Gerade Mädchen sind in der Pubertät oft psychisch fragil. Doch Eltern können ihnen Sicherheit und Stabilität bieten – wenn sie selbst den Druck rausnehmen.",
-      "url": "https://www.zeit.de/familie/2024-10/pubertaet-maedchen-eltern-junge-frauen-jugendliche"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Angriff auf Teheran : Jetzt weiß der Iran, wie empfindlich er ist",
       "teaser": "Israel hat in der Nacht ausgerechnet die als modern geltende Luftabwehr des Iran attackiert. Wie die USA bei der Vorbereitung halfen und was Teheran nun fürchten muss.",
       "url": "https://www.zeit.de/politik/ausland/2024-10/angriff-teheran-israel-iran-luftwaffe"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Pubertät bei Mädchen : Wie aus unsicheren Mädchen starke Frauen werden",
+      "teaser": "Gerade Mädchen sind in der Pubertät oft psychisch fragil. Doch Eltern können ihnen Sicherheit und Stabilität bieten – wenn sie selbst den Druck rausnehmen.",
+      "url": "https://www.zeit.de/familie/2024-10/pubertaet-maedchen-eltern-junge-frauen-jugendliche"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Explosionen in Teheran : Israel greift Militärziele im Iran an",
@@ -681,9 +659,9 @@
       "url": "https://www.zeit.de/politik/ausland/2024-10/israel-greift-militaerische-ziele-im-iran-an"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Regierungsbildung : SPD unterbricht Sondierungen in Sachsen",
-      "teaser": "In Sachsen haben BSW-Abgeordnete für den AfD-Antrag zu einem Corona-Untersuchungsausschuss gestimmt. Die SPD nennt das \"nicht hinnehmbar\" – und meldet Klärungsbedarf an.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-10/sondierungsgespraeche-sachsen-spd-ausgesetzt-bsw-corona-untersuchunsausschuss"
+      "title": "Z+ (abopflichtiger Inhalt); US-Präsidentschaftswahl : \"Washington Post\" gibt bei US-Präsidentschaftswahl keine Empfehlung ab",
+      "teaser": "Erstmals seit Jahrzehnten empfiehlt die \"Washington Post\" nicht wie üblich einen Präsidentschaftskandidaten. Die Zeitung kehre zu ihren Wurzeln zurück, schreibt ihr Chef.",
+      "url": "https://www.zeit.de/politik/ausland/2024-10/us-praesidentschaftswahl-empfehlung-washington-post-jeff-bezos"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Jaguar F-Pace : Ist der Jaguar noch ein Wildtier?",
@@ -693,11 +671,11 @@
       "image_title": "Jaguar F-Pace: Zumindest im Schattenbild lässt sich der alte Jaguar-Glamour noch erahnen"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Weissenhäuser Strand : Der Chef, zu dem alle wollen",
-      "teaser": "Sie kommen aus Madagaskar, aus Indien, der Türkei. Und haben ein Ziel: den Weissenhäuser Strand an der Ostsee. Warum Fachkräfte hier arbeiten möchten.",
-      "url": "https://www.zeit.de/arbeit/2024-10/weissenhaeuser-strand-schleswig-holstein-fachkraeftemangel-personal-arbeitgeber",
-      "image_url": "https://img.zeit.de/arbeit/2024-10/weissenhaeuser-strand-schleswig-holstein-fachkraeftemangel-personal-arbeitgeber-teaser/super__430x286",
-      "image_title": "Weissenhäuser Strand: David Depenau auf der Seebrücke"
+      "title": "Z+ (abopflichtiger Inhalt); Gasthof Falkenhorst : Vegan oder wieder gehen",
+      "teaser": "Der Falkenhorst sieht aus wie ein typisches Ausflugslokal in Brandenburg. Das Schnitzel auch – nur ist alles vegan. Warum das sogar auf dem Land gut geht.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-10/gasthof-falkenhorst-vegan-brandenburg-restaurant",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-10/gasthof-falkenhorst-vegan-brandenburg-restaurant-bild-2/super__430x286",
+      "image_title": "Gasthof Falkenhorst: Veganes Schnitzel im Gasthof Falkenhorst in Burig (Gemeindeteil der Gemeinde Gosen-Neu Zittau, Brandenburg), Inhaber:innen Annika und Hugo, 7.9.2024"
     },
     {
       "title": "Verlagsangebot : 7 beliebte Herbst-Reiseziele in Europa",
@@ -770,18 +748,18 @@
       "image_title": "Schreiben Sie Ihr Buch – in 5 Tagen zu besseren Texten"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Einwanderung von Fachkräften : Jünger, weiblicher, gebildeter",
-      "teaser": "Internationalen Fachkräften soll die Einreise nach Deutschland erleichtert werden. Eine neue Studie zeigt, woher die meisten von ihnen kommen und wie viel sie arbeiten.",
-      "url": "https://www.zeit.de/arbeit/2024-10/einwanderung-fachkraefte-international-studie-migration-bildung",
-      "image_url": "https://img.zeit.de/arbeit/2024-10/einwanderung-fachkraefte-international-studie-migration-bildung-bild/wide__892x501",
-      "image_title": "Einwanderung von Fachkräften: Menschen, die aus Drittstaaten zum Arbeiten nach Deutschland kommen sind häufiger weiblich und gut gebildet."
+      "title": "Z+ (abopflichtiger Inhalt); Einkaufen in Deutschland : Im Supermarkt der Zukunft",
+      "teaser": "Supermärkte auf dem Land, ohne Kassierer, rund um die Uhr geöffnet: Mittlerweile gibt es deutschlandweit etwa 500 Läden dieser Art – und wöchentlich kommen weitere hinzu.",
+      "url": "https://www.zeit.de/2024/45/supermaerkte-deutschland-personal-oeffnungszeiten-nettlingen",
+      "image_url": "https://img.zeit.de/2024/45/tante-emma-laden-ohne-emma-bild-1/wide__892x501",
+      "image_title": "Einkaufen in Deutschland: Rund um die Uhr geöffnet, auch sonntags: Eine Filiale der Kette Tante Enso in Nettlingen, Niedersachsen."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); USA : Boeing-Belegschaft verlängert Streik",
-      "teaser": "35 Prozent mehr Geld über vier Jahre: Gewerkschaftsmitglieder beim US-Flugzeugbauer lehnen das neue Angebot ab. Auch Zulieferer bekommen wegen des Dauerstreiks Probleme.",
-      "url": "https://www.zeit.de/arbeit/2024-10/usa-boeing-streik-gewerkschaft-belegschaft-verlaengert",
-      "image_url": "https://img.zeit.de/arbeit/2024-10/usa-boeing-streik-gewerkschaft-belegschaft-verlaengert-bild/super__430x286",
-      "image_title": "USA: Inflatable airplanes are seen, held by Boeing workers on a picket line near the entrance to a Boeing production facility in Renton, Washington, U.S. October 11, 2024. REUTERS/David Ryder"
+      "title": "Z+ (abopflichtiger Inhalt); Weissenhäuser Strand : Der Chef, zu dem alle wollen",
+      "teaser": "Sie kommen aus Madagaskar, aus Indien, der Türkei. Und haben ein Ziel: den Weissenhäuser Strand an der Ostsee. Warum Fachkräfte hier arbeiten möchten.",
+      "url": "https://www.zeit.de/arbeit/2024-10/weissenhaeuser-strand-schleswig-holstein-fachkraeftemangel-personal-arbeitgeber",
+      "image_url": "https://img.zeit.de/arbeit/2024-10/weissenhaeuser-strand-schleswig-holstein-fachkraeftemangel-personal-arbeitgeber-teaser/super__430x286",
+      "image_title": "Weissenhäuser Strand: David Depenau auf der Seebrücke"
     },
     {
       "title": "Female Leadership : Sind Frauen an der Spitze für Aktionäre ein Rendite-Booster?",
@@ -812,18 +790,18 @@
       "image_title": "Fernverkehr: Ein Siemens-Mitarbeiter zeigt wie eine Balise, technische Einrichtung zum Übertragen von Informationen an das Schienenfahrzeug, im Gleis montiert wird. Auf einem Pressetermin stellt die Bahn eines von mehreren neuen elektronischen Stellwerken für die Riedbahn vor. Wenn alle Elektronischen Stellwerke (ESTW) angeschlossen sind sollen sich Weichen und Signale ab Mitte Dezember verlässlich per Mausklick bedienen lassen."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Terrorismus : Nach Terroralarm in Wien und Köln Ermittlungen eingestellt",
-      "teaser": "Österreichs Behörden konnten den Verdacht möglicher geplanter Anschläge auf den Kölner Dom und den Stephansdom in Wien nicht erhärten. Jetzt wird das Kapitel geschlossen.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-10/terrorismus-verdacht-koeln-wien-ermittlungen-eingestellt",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-10/terrorverdacht-koeln-wien-bild/wide__892x501",
-      "image_title": "Terrorismus: Polizisten stehen im Dezember 2023 nach dem Terroralarm vor dem Kölner Dom."
+      "title": "Z+ (abopflichtiger Inhalt); Neubrandenburg : Erneut Regenbogenfahne in Neubrandenburg gestohlen",
+      "teaser": "Mehrfach wurden bereits in der mecklenburgischen Stadt Neubrandenburg Regenbogenfahnen gestohlen. Jetzt traf es den Verein queerNB.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-10/neubrandenburg-regenbogenfahne-gestohlen-verein",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-10/neubrandenburg-regenbogenfahnen-bild/wide__892x501",
+      "image_title": "Neubrandenburg: Eine Regenbogenflagge"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); JVA Augsburg-Gablingen : Gefängnismitarbeiter in Bayern sollen Häftlinge misshandelt haben",
-      "teaser": "Die Staatsanwaltschaft in Augsburg ermittelt gegen Mitarbeiter der dortigen Justizvollzugsanstalt. Sie sollen Gefangene geschlagen und anderweitig malträtiert haben.",
-      "url": "https://www.zeit.de/gesellschaft/2024-10/ermittlungen-verdacht-misshandlung-gefangene-justizvollzugsanstalt-augsburg-gablingen",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-10/jva-augsburg-gablingen/super__430x286",
-      "image_title": "JVA Augsburg-Gablingen: JVA Augsburg-Gablingen"
+      "title": "Z+ (abopflichtiger Inhalt); Philippinen : Zahl der Toten nach Tropensturm Trami auf über 80 gestiegen",
+      "teaser": "Während die Zahl der Toten nach Sturm Trami steigt, bleibt die Lage weiter gefährlich. Ein weiterer Sturm ist auf dem Weg. Und auch Trami könnte die Insel erneut treffen.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-10/philippinen-tropensturm-trami-tote-taifun",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2024-10/phillipinen-sturm-trami-bild/super__430x286",
+      "image_title": "Philippinen: Bewohner werden in einem Schlauchboot übergesetzt, nachdem sie von ihren Dächern gerettet wurden, auf denen sie sich vor den Überschwemmungen des Tropensturms Trami verschanzt hatten. +++ dpa-Bildfunk +++"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"Verlust\" von Andreas Reckwitz : Wie wir die Zukunft verloren haben",
@@ -978,18 +956,18 @@
       "image_title": "Anabolika: \"Ich könnte lockerlassen. Aber dann lasse ich mich gehen\""
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); DNA-Datenbank 23andMe : Ein riskantes Erbe",
+      "teaser": "Hackerangriff, Geldnot, Streit: Der Genanalysefirma 23andMe geht es mies. Viele der 15 Millionen Kunden sorgen sich um ihre DNA-Daten. Aus gutem Grund.",
+      "url": "https://www.zeit.de/digital/2024-10/dna-datenbank-23andme-genanalyse-datenschutz",
+      "image_url": "https://img.zeit.de/wissen/2024-10/dna-datenbank-23andme-genanalyse-datenschutz-bild/wide__892x501",
+      "image_title": "DNA-Datenbank 23andMe: Fragezeichen um Zellen herum formen eine DNA-Doppelhelix PUBLICATIONxINxGERxSUIxAUTxONLY Copyright: xGillianxBleasex"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); US-Wahl : Angebliches Wahlbetrugsvideo offenbar von Russland erstellt",
       "teaser": "US-Behörden werfen russischen Akteuren vor, einen gefälschten Clip auf der Plattform X verbreitet zu haben. Darin werden angeblich Stimmzettel für Trump zerrissen.",
       "url": "https://www.zeit.de/digital/internet/2024-10/us-wahl-betrugsvideo-stimmzettel-russland",
-      "image_url": "https://img.zeit.de/digital/internet/2024-10/us-wahl-betrugsvideo-stimmzettel-russland-1/wide__892x501",
+      "image_url": "https://img.zeit.de/digital/internet/2024-10/us-wahl-betrugsvideo-stimmzettel-russland-1/super__430x286",
       "image_title": "US-Wahl: Frühzeitige Stimmabgabe an der University of Wisconsin-Madison"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); KI-generierte Medien : Zaubertinte gegen die KI-Flut",
-      "teaser": "Es ist immer schwieriger, Texte und Fotos zu identifizieren, die von einer KI stammen. Wasserzeichen könnten helfen. An Ideen mangelt es nicht, an der Umsetzung schon.",
-      "url": "https://www.zeit.de/digital/internet/2024-10/ki-generierte-medien-fotos-texte-identifikation-wasserzeichen",
-      "image_url": "https://img.zeit.de/digital/2024-10/ki-text-wasserzeichen/super__430x286",
-      "image_title": "Sind Wasserzeichen die Lösung, um KI-Inhalte zuverlässig zu erkennen?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Optimismus in der Jugend : Uns geht es besser, als ihr denkt!",
@@ -1020,18 +998,18 @@
       "image_title": "Brics-Gipfel: Guterres fordert \"gerechten Frieden\" von Putin"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Haarbürste : Die krümmt kein Haar",
+      "teaser": "Mit Spiegel, integriertem Föhn oder zum Klappen – die Bürsten-Historie unserer Autorin ist lang. Heute weiß sie: Schlicht kämmt am besten.",
+      "url": "https://www.zeit.de/zeit-magazin/2024-10/haarbuerste-bambus-kamm-alltag",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-10/zwe-ode-an-ein-ding-bambusbuerste/wide__892x501",
+      "image_title": "Haarbürste: Die krümmt kein Haar"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Gnocchi aus Brot : Selbst gemachte Gnocchi für Arbeitsscheue",
       "teaser": "Man knetet sie kaum, wirft sie bloß ins Wasser, trotzdem schmeckt's: Gnocchi di pane werden nicht aus vorgekochten Kartoffeln geformt, sondern einfach aus altem Brot.",
       "url": "https://www.zeit.de/zeit-magazin/2024/45/gnocchi-brot-tomaten-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024/45/keine-angst-bild-1/wide__892x501",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024/45/keine-angst-bild-1/super__430x286",
       "image_title": "Gnocchi aus Brot: Selbst gemachte Gnocchi für Arbeitsscheue"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Steirischer Kartoffelsalat : Kartoffelsalat mit Tiefenschärfe",
-      "teaser": "Für den perfekten Kartoffelsalat kommt es auf die Details an: Marinade, Ziehzeit, Kartoffelsorte. In der Steiermark gelingt die perfekte Balance, auch dank Kürbiskernöl.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-10/steirischer-kartoffelsalat-kuerbiskernoel-rezept",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-10/steirischer-kartoffelsalat-kuerbiskernoel-rezept-teaser/super__430x286",
-      "image_title": "Steirischer Kartoffelsalat: Kartoffelsalat mit Tiefenschärfe"
     },
     {
       "title": "Worträtsel : Wortiger",
@@ -1069,17 +1047,24 @@
       "image_title": "Kreuzworträtsel: Um die Ecke gedacht"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Steirischer Kartoffelsalat : Kartoffelsalat mit Tiefenschärfe",
+      "teaser": "Für den perfekten Kartoffelsalat kommt es auf die Details an: Marinade, Ziehzeit, Kartoffelsorte. In der Steiermark gelingt die perfekte Balance, auch dank Kürbiskernöl.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-10/steirischer-kartoffelsalat-kuerbiskernoel-rezept",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-10/steirischer-kartoffelsalat-kuerbiskernoel-rezept-teaser/wide__892x501",
+      "image_title": "Steirischer Kartoffelsalat: Kartoffelsalat mit Tiefenschärfe"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Schmandtorte mit Kirschen : Feierliche Schmandtorte",
       "teaser": "Die Oma buk immer diesen Kirschkuchen in ihrer gelb-grün gefliesten Küche, wenn jemand Geburtstag hatte. Mutter und Enkeltochter tun das jetzt auch. Ein Traum aus Schmand",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024/07/schmandtorte-kirschen-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-10/schmandtorte-kirschen-rezept-wochenmarkt-bild/wide__892x501",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-10/schmandtorte-kirschen-rezept-wochenmarkt-bild/super__430x286",
       "image_title": "Schmandtorte mit Kirschen: Feierliche Schmandtorte"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Kaiserschmarrn mit Röster : Butterpflaumen im Teigbett",
       "teaser": "Dieser Röster würde auch zum Rösti passen: In Butter gedünstete Pflaumen machen jedes Gericht zum Comfort Food – egal, ob herzhaft oder süß. Hier gibts Schmarrn dazu.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024/07/kaiserschmarrn-roester-alpen-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-10/kaiserschmarrn-roester-alpen-wochenmarkt-bild/super__430x286",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-10/kaiserschmarrn-roester-alpen-wochenmarkt-bild/super__320x213",
       "image_title": "Kaiserschmarrn mit Röster: Butterpflaumen im Teigbett"
     },
     {
@@ -1111,13 +1096,6 @@
       "image_title": "Tarte Tatin mit roten Zwiebeln: Über Kopf gebacken, Hals über Kopf verliebt"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Linsensuppe mit Reis und Kräutern : Eine Suppe für gute Tischgespräche",
-      "teaser": "Wenn man am Tisch nicht über Politik sprechen will, spricht man am besten übers Essen. Im Iran wurde unsere Kolumnistin so zu dieser persischen Linsensuppe inspiriert.",
-      "url": "https://www.zeit.de/zeit-magazin/2024/44/linsensuppe-reis-kraeutern-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024/44/sich-nicht-ins-bockshorn-jagen-lassen-bild-1/super__320x213",
-      "image_title": "Linsensuppe mit Reis und Kräutern: Eine Suppe für gute Tischgespräche"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Vanlife : \"Am Kanal ist es wie in einer WG, mit Birken im Wohnzimmer\"",
       "teaser": "WG-Zimmer? Sind oft überteuert! Wohnheime? Zu trist! Enna hat am Fluss ein Zuhause gefunden, das bei ihr bleibt, egal wohin sie geht: einen VW-Transporter namens Mia.",
       "url": "https://www.zeit.de/campus/2024/05/vanlife-studentin-freiheiten-herausforderungen",
@@ -1132,18 +1110,18 @@
       "image_title": "Außerirdisches Leben: \"Wir sind nicht das Aufregendste, was das All zu bieten hat\""
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Champions League : Ein Europa, eine Tabelle",
+      "teaser": "Im vorigen Jahrtausend feierte unser Autor die Bundesliga-Tabelle mit Wimpeln an einer Holzleiste. Jetzt schwärmt er vom ersten Europa-Ranking.",
+      "url": "https://www.zeit.de/sport/2024-10/champions-league-europa-bundesliga-fussball-gruenflaeche",
+      "image_url": "https://img.zeit.de/sport/2024-10/zwe-gruenflaeche-champions-league/wide__892x501",
+      "image_title": "Champions League: Ein Europa, eine Tabelle"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Länderspiel : DFB-Frauen gewinnen knapp gegen England",
       "teaser": "Im Testspiel gegen Europameister England hat sich Deutschland durchgesetzt. Anfangs führten die DFB-Frauen mit großem Abstand, am Ende wurde es knapp.",
       "url": "https://www.zeit.de/sport/2024-10/frauen-fussball-nationalmannschaft-sieg-england-testspiel",
-      "image_url": "https://img.zeit.de/sport/2024-10/frauenfussball-nationalmannschaft-england-sieg-testspiel-bild/wide__892x501",
+      "image_url": "https://img.zeit.de/sport/2024-10/frauenfussball-nationalmannschaft-england-sieg-testspiel-bild/super__430x286",
       "image_title": "Länderspiel: Beschreibung Fußball, Frauen: Länderspiele, England - Deutschland im Wembley Stadion, Englands Keira Walsh (l) kämpft mit Deutschlands Elisa Senß um den Ball. Service +++ dpa-Bildfunk +++ Aufnahmedatum 25.10.2024 Bildnachweis picture alliance/dpa/AP | Ian Walton"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Bundesliga, 8. Spieltag – Freitag : Mainz und Gladbach trennen sich unentschieden",
-      "teaser": "Der achte Spieltag der Bundesliga beginnt ohne Sieger, Mainz und Gladbach spielen remis. Auf ein Eigentor folgt nach nur zwei Minuten der Ausgleich. Der Spielbericht",
-      "url": "https://www.zeit.de/sport/2024-10/bundesliga-8-spieltag-mainz-gladbach",
-      "image_url": "https://img.zeit.de/sport/2024-10/bundesliga-8-spieltag-mainz-gladbach-bild/super__430x286",
-      "image_title": "Bundesliga, 8. Spieltag – Freitag: Das Duell im Tabellenmittelfeld der Bundesliga zwischen Mainz und Gladbach brachte keinen Sieger hervor, hier kämpfen der Mainzer Paul Nebel (links) und Gladbachs Robin Hack um den Ball."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Stadtplanung : \"Man sieht hier, welche Zahncreme der Nachbar benutzt\"",
@@ -1160,36 +1138,36 @@
       "image_title": "Inneneinrichtung: Marcel Engel in seinem Friseursalon"
     },
     {
-      "title": "Fußball-Bundesliga: Welz verletzt: Schiedsrichter-Wechsel in Augsburg",
-      "url": "https://www.zeit.de/news/2024-10/26/welz-verletzt-schiedsrichter-wechsel-in-augsburg"
+      "title": "Nähe statt Konfrontation: Aiwanger will Kooperation mit China ausbauen",
+      "url": "https://www.zeit.de/news/2024-10/26/aiwanger-will-kooperation-mit-china-ausbauen"
     },
     {
-      "title": "Notfälle: Bundeswehr-Feuerwehr trainiert für Großbrand im Emsland",
-      "url": "https://www.zeit.de/news/2024-10/26/bundeswehr-feuerwehr-trainiert-fuer-grossbrand-im-emsland"
+      "title": "Regierungsbildung in Thüringen: Verhandlungen zwischen CDU, BSW und SPD auf der Kippe",
+      "url": "https://www.zeit.de/news/2024-10/26/verhandlungen-zwischen-cdu-bsw-und-spd-auf-der-kippe"
     },
     {
-      "title": "Coup gegen Drogenmafia: Rekord-Beschlagnahme in Spanien: 13 Tonnen Kokain auf einmal",
-      "url": "https://www.zeit.de/news/2024-10/26/rekord-beschlagnahme-in-spanien-13-tonnen-kokain-auf-einmal"
+      "title": "Schmalspurbahn: Rügen: Auto kollidiert mit «Rasendem Roland»",
+      "url": "https://www.zeit.de/news/2024-10/26/ruegen-auto-kollidiert-mit-rasendem-roland"
     },
     {
-      "title": "Verfassungsrichter: CDU-Politiker: Anzeige gegen Verfassungsrichter «unwürdig»",
-      "url": "https://www.zeit.de/news/2024-10/26/cdu-politiker-anzeige-gegen-verfassungsrichter-unwuerdig"
+      "title": "3. Fußball-Liga: Hansa Rostock gewinnt nach Hollerbach-Trennung gegen Essen",
+      "url": "https://www.zeit.de/news/2024-10/26/hansa-rostock-gewinnt-nach-hollerbach-trennung-gegen-essen"
     },
     {
-      "title": "Kreis Böblingen: Autofahrerin nach Zusammenstoß auf B14 schwer verletzt",
-      "url": "https://www.zeit.de/news/2024-10/26/autofahrerin-nach-zusammenstoss-auf-b14-schwer-verletzt"
+      "title": "Feuerwehreinsatz: Schwerverletzter nach Zimmerbrand in Deggendorf",
+      "url": "https://www.zeit.de/news/2024-10/26/schwerverletzter-nach-zimmerbrand-in-deggendorf"
     },
     {
-      "title": "Deutsche Meisterschaften: Eissprinter Dombek mit Verdacht auf Muskelbündelriss",
-      "url": "https://www.zeit.de/news/2024-10/26/eissprinter-dombek-mit-verdacht-auf-muskelbuendelriss"
+      "title": "Krieg in Nahost: Hunderte bei Pro-Palästina-Demonstration in Hamburg",
+      "url": "https://www.zeit.de/news/2024-10/26/hunderte-bei-pro-palaestina-demonstration-in-hamburg"
     },
     {
-      "title": "Populärer Vorsitzender: Brehm bleibt mit 99 Prozent CSU-Mittelstandschef",
-      "url": "https://www.zeit.de/news/2024-10/26/brehm-bleibt-mit-99-prozent-csu-mittelstandschef"
+      "title": "Atomkraft: Demo gegen russische Beteiligung an Brennelementfertigung",
+      "url": "https://www.zeit.de/news/2024-10/26/demo-gegen-russische-beteiligung-an-brennelementfertigung"
     },
     {
-      "title": "Großes Volksfest: Tausende Schaulustige bei Freimarktsumzug in Bremen",
-      "url": "https://www.zeit.de/news/2024-10/26/tausende-schaulustige-bei-freimarktsumzug-in-bremen"
+      "title": "Single in Berlin: Das perfekte Match: Dating mit Döner in Berlin",
+      "url": "https://www.zeit.de/news/2024-10/26/das-perfekte-match-dating-mit-doener-in-berlin"
     }
   ]
 }
