@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-27T14:00:49",
+  "timestamp": "2024-10-27T15:00:49",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
@@ -110,24 +116,31 @@
   ],
   "articles": [
     {
+      "title": "Z+ (abopflichtiger Inhalt); Fragen an die Eltern : Kennen wir unsere Eltern eigentlich wirklich?",
+      "teaser": "Und wieso fällt es uns schwer, ihnen die Fragen zu stellen, die wir an sie haben? Fünf Autoren erzählen, was sie gern von ihrer Mutter oder ihrem Vater gewusst hätten.",
+      "url": "https://www.zeit.de/zeit-magazin/2024/45/fragen-eltern-familie-geschichte-erfahrungen",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-10/fragen-eltern-familie-geschichte-erfahrungen/wide__1000x562",
+      "image_title": "Fragen an die Eltern: Kennen wir unsere Eltern eigentlich wirklich?"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Aktienmarkt in China : Ein Glücksspiel, in dem Reichtümer neu verteilt werden",
+      "teaser": "Chinas Regierung hat ein Konjunkturpaket aufgelegt, worauf der Aktienmarkt plötzlich verrückt spielt. Einige Experten bezweifeln aber die Nachhaltigkeit des Programms.",
+      "url": "https://www.zeit.de/politik/ausland/2024-10/aktienmarkt-china-rallye-boerse-konjunktur",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-10/aktienmarkt-china-rallye-boerse-konjunktur-bild/super__430x286",
+      "image_title": "Aktienmarkt in China: Peking im Oktober 2024"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Muskelbotenstoffe : Wie Muskeln unseren Körper heilen",
       "teaser": "Wer Sport macht, aktiviert eine Geheimwaffe: Muskelbotenstoffe. Sie verjüngen das Gehirn, schmelzen Fett und stoppen Krebs. Wie viel Training es braucht, sie zu wecken.",
       "url": "https://www.zeit.de/gesundheit/2024-10/muskelbotenstoffe-myokine-koerper-heilung-sport",
-      "image_url": "https://img.zeit.de/gesundheit/2024-10/muskelbotenstoffe-myokine-koerper-heilung-sport-teaser/wide__1000x562",
+      "image_url": "https://img.zeit.de/gesundheit/2024-10/muskelbotenstoffe-myokine-koerper-heilung-sport-teaser/wide__892x501",
       "image_title": "Muskelbotenstoffe: Wie Muskeln unseren Körper heilen"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Bücherverbote in Florida : Bevor Bücher brennen",
-      "teaser": "Von Florida aus zieht ein moralischer Hurrikan auf: Tausende Bücher sind dort in den Schulen verboten worden – weil sie angeblich zu viel von Gewalt und Sex erzählen.",
-      "url": "https://www.zeit.de/kultur/2024-10/buechervebote-florida-schule-sexualitaet-gewalt-republikaner",
-      "image_url": "https://img.zeit.de/kultur/2024-10/buechervebote-florida-schule-sexualitaet-gewalt-republikaner-teaser/super__430x286",
-      "image_title": "Bücherverbote in Florida: Bevor Bücher brennen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Mashco Piro : \"Sie essen kein Salz und kennen keinen Gott\"",
       "teaser": "Ihr Bild ging um die Welt: Die Mashco Piro leben komplett isoliert im peruanischen Urwald. Zu Besuch bei ihren nächsten Nachbarn, die zu ihnen halten – und sie fürchten.",
       "url": "https://www.zeit.de/gesellschaft/2024-10/mashco-piro-peru-amazonas-regenwald-holzfaeller",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-10/mashco-piro-peru-amazonas/wide__892x501",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-10/mashco-piro-peru-amazonas/super__430x286",
       "image_title": "Mashco Piro: \"Sie essen kein Salz und kennen keinen Gott\""
     },
     {
@@ -136,13 +149,6 @@
       "url": "https://www.zeit.de/politik/ausland/2024-10/georgien-wahl-regierung-opposition-betrug-parlament-osze",
       "image_url": "https://img.zeit.de/politik/ausland/2024-10/georgien-wahl-regierung-opposition-betrug-parlament-osze-bild/super__430x286",
       "image_title": "Georgien: Egal, was das Volk möchte"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Wahlbeobachter : Parlamentswahl in Georgien laut OSZE von Regierung beeinflusst",
-      "teaser": "Bei der Parlamentswahl habe zwar jede Partei antreten können, sagen Wahlbeobachter der OSZE. Die Regierung habe die Wähler aber manipuliert und unter Druck gesetzt.",
-      "url": "https://www.zeit.de/politik/ausland/2024-10/oecd-wahl-georgien-manipulation",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-10/georgien-parlamentswahlen/super__430x286",
-      "image_title": "Georgien, Parlamentswahlen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Bundeshymne : Schlechte Noten für Österreichs Hymnen",
@@ -159,39 +165,32 @@
       "image_title": "Adelheid Duvanel: Die Schweizer Schriftstellerin Adelheid Duvanel, vermutlich 1980er Jahre ##################### Adelheid Duvanel (1936-1996), schweizer Schriftstellerin. Undatierte Aufnahme, vermutlich aus den 1980er Jahren."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Parlamentswahl in Japan : Regierungspartei verfehlt laut Prognosen absolute Mehrheit",
-      "teaser": "Erste Nachwahlbefragungen deuten in Japan auf eine historische Niederlage für die Partei von Ministerpräsident Shigeru Ishiba hin. Die Folgen könnten weitreichend sein.",
-      "url": "https://www.zeit.de/politik/ausland/2024-10/japan-parlamentswahl-unterhaus-ergebnis-shigeru-ishiba",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-10/japan-parlamentswahl-unterhaus-regierung-bild/super__430x286",
-      "image_title": "Parlamentswahl in Japan: Japans Premierminister Shigeru Ishiba geht nach einer Wahlkampfrede zur Unterstützung des Kandidaten der Liberaldemokratischen Partei am 19. Oktober 2024 in Chiba zu seinen Anhängern."
+      "title": "Z+ (abopflichtiger Inhalt); Data-Scientist : \"In der Schule konnte ich mit Informatik nichts anfangen\"",
+      "teaser": "Simon, 34, ist Data-Scientist, obwohl er lange nicht programmieren wollte. Er arbeitet komplett remote, verdient 7.500 Euro und hat mit seiner Frau ein Haus gekauft.",
+      "url": "https://www.zeit.de/arbeit/2024-10/data-scientist-remote-arbeit-gehalt-kontoauszug",
+      "image_url": "https://img.zeit.de/arbeit/2024-10/data-scientist-remote-arbeit-gehalt-kontoauszug-bild/wide__892x501",
+      "image_title": "Data-Scientist: \"In der Schule konnte ich mit Informatik nichts anfangen\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Smart-Glasses : Meine Brille ist jetzt schlau",
       "teaser": "Die Meta-Ray-Ban-Brille soll Kunstwerke erkennen und beim Kochen helfen. Unser Autor hat sie getestet und meint: Das ist die Zukunft der KI.",
       "url": "https://www.zeit.de/digital/mobil/2024-10/smart-glasses-ray-ban-meta-kuenstliche-intelligenz",
-      "image_url": "https://img.zeit.de/digital/2024-10/ray-ban-meta-bild/wide__892x501",
+      "image_url": "https://img.zeit.de/digital/2024-10/ray-ban-meta-bild/super__430x286",
       "image_title": "Smart-Glasses: Meta employee Sara Nicholson poses with the Ray-Ban sunglasses at the Meta Connect annual event at the company's headquarters in Menlo Park, California, U.S., September 24, 2024. REUTERS/Manuel Orbegozo"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Bluetooth-Kopfhörer : Was sind die besten In-Ear-Kopfhörer?",
-      "teaser": "Fast alle Smartphone-Hersteller bieten inzwischen auch In-Ear-Hörer mit Noise-Cancelling an. Wir vergleichen die drei Spitzenmodelle von Samsung, Google und Apple.",
-      "url": "https://www.zeit.de/digital/mobil/2024-10/bluetooth-kopfhoerer-smartphone-noise-cancelling-vergleich",
-      "image_url": "https://img.zeit.de/digital/mobil/2024-10/pixel-galaxy-airpods-vergleich/super__430x286",
-      "image_title": "Viele Smartphone-Hersteller haben inzwischen Kopfhörer im Angebot."
+      "title": "Z+ (abopflichtiger Inhalt); Bücherverbote in Florida : Bevor Bücher brennen",
+      "teaser": "Von Florida aus zieht ein moralischer Hurrikan auf: Tausende Bücher sind dort in den Schulen verboten worden – weil sie angeblich zu viel von Gewalt und Sex erzählen.",
+      "url": "https://www.zeit.de/kultur/2024-10/buechervebote-florida-schule-sexualitaet-gewalt-republikaner",
+      "image_url": "https://img.zeit.de/kultur/2024-10/buechervebote-florida-schule-sexualitaet-gewalt-republikaner-teaser/super__430x286",
+      "image_title": "Bücherverbote in Florida: Bevor Bücher brennen"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Ozempic-Engpässe • Das Beste aus Z+ : \"Die Apothekerin sagte, Ozempic bekommen sie aktuell gar nicht mehr\"",
-      "teaser": "Aus dem Diabetesmedikament Ozempic wurde ein Lifestyleprodukt zum Abnehmen. Angela Schultheiß ist genervt vom Hype. Kein Wunder – denn sie ist Diabetespatientin.",
-      "url": "https://www.zeit.de/gesundheit/2024-10/ozempic-engpaesse-diabetes-medikament-gewichtsverlust",
-      "image_url": "https://img.zeit.de/gesundheit/2024-10/ozempic-engpaesse-diabetes-medikament-gewichtsverlust-bild/super__430x286",
-      "image_title": "Ozempic-Engpässe • Das Beste aus Z+: Angela Schultheiß"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Alkohol am Steuer : Ich bin Richter, und manche Menschen will ich nicht bestrafen",
-      "teaser": "Es gibt Angeklagte, die haben Milde verdient. Dann lassen sich Gerichte einiges einfallen.",
-      "url": "https://www.zeit.de/2024/45/alkohol-am-steuer-richter-strafe-gericht",
-      "image_url": "https://img.zeit.de/2024/45/der-teufel-alkohol-vor-gericht-bild-1/super__430x286",
-      "image_title": "Alkohol am Steuer: Zwei Prozesse, zwei dramatische Lebensgeschichten - und ein grübelnder Richter"
+      "title": "Z+ (abopflichtiger Inhalt); Parlamentswahl in Japan : Regierungspartei verfehlt laut Prognosen absolute Mehrheit",
+      "teaser": "Erste Nachwahlbefragungen deuten in Japan auf eine historische Niederlage für die Partei von Ministerpräsident Shigeru Ishiba hin. Die Folgen könnten weitreichend sein.",
+      "url": "https://www.zeit.de/politik/ausland/2024-10/japan-parlamentswahl-unterhaus-ergebnis-shigeru-ishiba",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-10/japan-parlamentswahl-unterhaus-regierung-bild/super__430x286",
+      "image_title": "Parlamentswahl in Japan: Japans Premierminister Shigeru Ishiba geht nach einer Wahlkampfrede zur Unterstützung des Kandidaten der Liberaldemokratischen Partei am 19. Oktober 2024 in Chiba zu seinen Anhängern."
     },
     {
       "title": "Ausgabe 43/2024 : Wasserballett. Willkommen im Wochenende.",
@@ -208,11 +207,11 @@
       "image_title": "Mashco Piro: \"Sie essen kein Salz und kennen keinen Gott\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Fragen an die Eltern : Wie war es, als ihr euch versteckt habt?",
+      "title": "Z+ (abopflichtiger Inhalt); Fragen an die Eltern : Kennen wir unsere Eltern eigentlich wirklich?",
       "teaser": "Kennen wir unsere Eltern eigentlich wirklich? Fünf ZEIT-Autoren erzählen, was sie gern gewusst hätten, aber nicht mehr fragen können.",
       "url": "https://www.zeit.de/zeit-magazin/2024/45/fragen-eltern-familie-geschichte-erfahrungen",
       "image_url": "https://img.zeit.de/zeit-magazin/2024-10/fragen-eltern-familie-geschichte-erfahrungen/wide__892x501",
-      "image_title": "Fragen an die Eltern: Wie war es, als ihr euch versteckt habt?"
+      "image_title": "Fragen an die Eltern: Kennen wir unsere Eltern eigentlich wirklich?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Deutsche Raketen-Start-Ups : Das deutsche Space-Race",
@@ -241,6 +240,20 @@
       "url": "https://www.zeit.de/zeit-magazin/leben/2024-10/tueftler-reparatur-werkstatt-fest",
       "image_url": "https://img.zeit.de/zeit-magazin/2024-10/tueftler-reparatur-werkstatt-fest-13/wide__892x501",
       "image_title": "Plan D: Tüftler: Geht's noch?"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); \"Das All im eignen Fell\" von Clemens J. Setz : es ist herbts / auf dem feld / DIE KÜRBEN",
+      "teaser": "Clemens J. Setz hat einen Nachruf auf Twitter geschrieben. Der Gedichtband löst sogar bei denen Heimweh nach der Plattform aus, die sich dort nie zu Hause gefühlt haben.",
+      "url": "https://www.zeit.de/2024/45/clemens-setz-twitter-gedichtband-poesie-social-media",
+      "image_url": "https://img.zeit.de/2024/45/clemens-setz-twitter-gedichtband-poesie-social-media-teaserbild/super__430x286",
+      "image_title": "\"Das All im eignen Fell\" von Clemens J. Setz: Clemens J. Setzt hat mit \"Das All im eignen Fell\" einen Nekrolog auf Twitter und seine Poesie geschrieben."
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Fitnessübung : Die Handshake-Kniebeugen",
+      "teaser": "Die gute alte Kniebeuge ist Ihnen zu langweilig? Schnappen Sie sich einen Partner und probieren Sie diese dynamische Variante aus. Spaß und Fitness kommen im Sprung.",
+      "url": "https://www.zeit.de/sport/2024-10/handshake-kniebeugen-fitnessuebung-personal-trainer",
+      "image_url": "https://img.zeit.de/sport/2024-10/handshake-kniebeugen-fitnessuebung-personal-trainer-02/wide__892x501",
+      "image_title": "Fitnessübung: Die Handshake-Kniebeugen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Politikpodcast : \"Er identifiziert sich mit Macht – mit uneingeschränkter Macht\"",
@@ -274,7 +287,7 @@
       "title": "Z+ (abopflichtiger Inhalt); Ricotta-Cheesecake mit Quitten : Krasser Käsekuchen",
       "teaser": "Wer keine Äpfel mit Birnen vergleichen will, greife zur Quitte. Das schwarze Schaf der Obstfamilie ist süß und überhaupt nicht widerspenstig – wie dieser Kuchen beweist.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-10/ricotta-cheesecake-quitten-backen-sonntag-rezept",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-10/ricotta-cheesecake-quitten-backen-sonntag-rezep-teaserbild/wide__892x501",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-10/ricotta-cheesecake-quitten-backen-sonntag-rezep-teaserbild/super__430x286",
       "image_title": "Ricotta-Cheesecake mit Quitten: Krasser Käsekuchen"
     },
     {
@@ -283,13 +296,6 @@
       "url": "https://www.zeit.de/zeit-magazin/2024/45/dschagga-kolonialismus-geschichte-aufarbeitung-nachfahren",
       "image_url": "https://img.zeit.de/zeit-magazin/2024/45/ich-bin-einer-von-den-guten-weissen-oder-bild-1/super__430x286",
       "image_title": "Dschagga: Schülerinnen und Schüler der Mangi-Meli-Schule in der Nähe von Moshi am Kilimandscharo. Hier soll in Zukunft mehr über das kulturelle Erbe der Dschagga gelehrt werden"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Autoreparatur : Ich kann das auch ohne Männer",
-      "teaser": "Hilflose junge Frau vor qualmendem Motor – unsere Autorin hat genug von diesem Klischee. Sie will ihr Auto selbst reparieren. Also legt sie einfach los.",
-      "url": "https://www.zeit.de/2024/45/autoreparatur-inspektion-werkstatt-handwerk-frauen",
-      "image_url": "https://img.zeit.de/2024/45/wie-ich-lernte-die-maschine-zu-verstehen-bild-3/super__430x286",
-      "image_title": "Autoreparatur: Nasa-Astronauten werden darauf vorbereitet, ihr Spaceship selbst reparieren zu können. Wenigstens ein bisschen, dachte unsere Autorin, sollte jeder Autofahrer sich auch mit seinem Gefährt auskennen."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Potsdamer Garnisonkirche : Warum wird diese Kirche nicht gebaut?",
@@ -621,14 +627,14 @@
       "image_title": "Pubertät bei Mädchen: Wie aus unsicheren Mädchen starke Frauen werden"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Angriff auf Teheran : Jetzt weiß der Iran, wie empfindlich er ist",
-      "teaser": "Israel hat in der Nacht ausgerechnet die als modern geltende Luftabwehr des Iran attackiert. Wie die USA bei der Vorbereitung halfen und was Teheran nun fürchten muss.",
-      "url": "https://www.zeit.de/politik/ausland/2024-10/angriff-teheran-israel-iran-luftwaffe"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Seniorenheim : Du musst ins Heim, und ich bin schuld",
       "teaser": "Viele Menschen ziehen erst ins Pflegeheim, wenn die Angehörigen Druck machen. Mag richtig sein, fühlt sich aber oft nicht so an. Fünf Autoren teilen ihre Erfahrungen.",
       "url": "https://www.zeit.de/zeit-magazin/leben/2024-10/seniorenheim-entscheidung-kinder-schuld-eltern"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Angriff auf Teheran : Jetzt weiß der Iran, wie empfindlich er ist",
+      "teaser": "Israel hat in der Nacht ausgerechnet die als modern geltende Luftabwehr des Iran attackiert. Wie die USA bei der Vorbereitung halfen und was Teheran nun fürchten muss.",
+      "url": "https://www.zeit.de/politik/ausland/2024-10/angriff-teheran-israel-iran-luftwaffe"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Parlamentswahl in Georgien : Regierungspartei laut Teilergebnissen in Führung",
@@ -655,28 +661,28 @@
       "image_title": "US-Wahlkampf: Michelle Obama unterstützt Präsidentschaftskandidatin Kamala Harris"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); CDU-Chef : Friedrich Merz warnt vor Folgen einer Trump-Wahl",
-      "teaser": "Europa sei bei einem Sieg von Donald Trump auf sich gestellt, warnt CDU-Chef Friedrich Merz. Frankreich, Polen, Großbritannien und Deutschland sollten dann vorangehen.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-10/cdu-chef-merz-trump-europa"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Uhren zurückgestellt : Die Winterzeit hat begonnen",
       "teaser": "Um drei Uhr ist die Zeit auf zwei Uhr zurückgestellt worden. Die Sommerzeit ist damit zu Ende. Es ist morgens wieder früher hell und abends eher dunkel.",
       "url": "https://www.zeit.de/gesellschaft/2024-10/winterzeit-start-sommerzeit-uhren-energiesparen"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Parlamentswahl in Georgien : Wahlkommission erklärt Regierungspartei zur Wahlsiegerin",
+      "teaser": "Die prorussische Partei von Milliardär Iwanischwili hat die richtungsweisende Parlamentswahl in Georgien laut Wahlbehörde gewonnen. Die Opposition spricht von Betrug.",
+      "url": "https://www.zeit.de/politik/ausland/2024-10/gerogien-wahl-georgischer-traum-iwanischwili-sieger"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Bluetooth-Kopfhörer : Was sind die besten In-Ear-Kopfhörer?",
+      "teaser": "Fast alle Smartphone-Hersteller bieten inzwischen auch In-Ear-Hörer mit Noise-Cancelling an. Wir vergleichen die drei Spitzenmodelle von Samsung, Google und Apple.",
+      "url": "https://www.zeit.de/digital/mobil/2024-10/bluetooth-kopfhoerer-smartphone-noise-cancelling-vergleich",
+      "image_url": "https://img.zeit.de/digital/mobil/2024-10/pixel-galaxy-airpods-vergleich/wide__892x501",
+      "image_title": "Viele Smartphone-Hersteller haben inzwischen Kopfhörer im Angebot."
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Haustiere : Dein Tier ist kein Kind",
       "teaser": "Haustiere haben in Deutschland eine besondere Stellung. Doch wie viel Tier steckt in der eigenen Tierliebe? Die Antwort auf diese Frage ist hochpolitisch.",
       "url": "https://www.zeit.de/kultur/2024-10/haustiere-verbot-jakob-blasel-gruene-jugend-klimaschutz",
-      "image_url": "https://img.zeit.de/kultur/2024-10/haustiere-verbot-jakob-blasel-gruene-jugend/wide__892x501",
+      "image_url": "https://img.zeit.de/kultur/2024-10/haustiere-verbot-jakob-blasel-gruene-jugend/super__430x286",
       "image_title": "Haustiere: Dein Tier ist kein Kind"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Ta-Nehisi Coates : Er hat offenbar mit niemandem gesprochen, der die Dinge anders sieht",
-      "teaser": "In den USA macht das Buch \"The Message\" Furore. Darin schlägt sich der Journalist Ta-Nehisi Coates im Nahostkonflikt weit auf die Seite der Palästinenser. Viel zu weit.",
-      "url": "https://www.zeit.de/kultur/2024-10/ta-nehisi-coates-the-message-nahostkonflikt-palaestina-israel",
-      "image_url": "https://img.zeit.de/kultur/2024-10/ta-nehisi-coates-the-message-israel-palaestina-bild/super__430x286",
-      "image_title": "Ta-Nehisi Coates: GAZA, PALESTINE - 2024/10/20: Clouds of smoke rise after heavy shelling by Israel on Jabalia camp in the northern Gaza Strip."
     },
     {
       "title": "Verlagsangebot : 7 beliebte Herbst-Reiseziele in Europa",
@@ -693,18 +699,18 @@
       "image_title": "Fragen Sie ZEIT ONLINE: Haben Sie ein Thema verpasst?"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Wahlbeobachter : Parlamentswahl in Georgien laut OSZE von Regierung beeinflusst",
+      "teaser": "Bei der Parlamentswahl habe zwar jede Partei antreten können, sagen Wahlbeobachter der OSZE. Die Regierung habe die Wähler aber manipuliert und unter Druck gesetzt.",
+      "url": "https://www.zeit.de/politik/ausland/2024-10/oecd-wahl-georgien-manipulation",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-10/georgien-parlamentswahlen/wide__892x501",
+      "image_title": "Georgien, Parlamentswahlen"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Michael Ignatieff : \"Österreich ist ein wichtiger Testfall\"",
       "teaser": "Was bedeutet Orbánisierung? Michael Ignatieff hat es erlebt. Der kanadische Historiker über Herbert Kickls Pläne, das Land nach ungarischem Vorbild umzubauen.",
       "url": "https://www.zeit.de/2024/45/michael-ignatieff-ungarn-oesterreich-herbert-kickl-central-european-university",
-      "image_url": "https://img.zeit.de/2024/45/oesterreich-ist-ein-wichtiger-testfall-bild-1/wide__892x501",
+      "image_url": "https://img.zeit.de/2024/45/oesterreich-ist-ein-wichtiger-testfall-bild-1/super__430x286",
       "image_title": "Michael Ignatieff: Michael Ignatieff (77) ist Historiker, war Professor in Cambridge, Oxford und Harvard und saß von 2008 bis 2011 der Liberalen Partei Kanadas vor. Von 2016 bis 2021 war er Rektor der Central European University. Er lebt in Wien und erhält in diesem Jahr den spanischen Prinzessin-von-Asturien-Preis für Sozialwissenschaften"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Anschlag in der Türkei : Die Türkei greift erneut Stellungen der YPG in Nordsyrien an",
-      "teaser": "Nach dem Anschlag der PKK auf eine Rüstungsfirma in Ankara bombardiert die Türkei weitere kurdische Ziele in Syrien. Bis zu 17 Menschen sollen dabei getötet worden sein.",
-      "url": "https://www.zeit.de/politik/ausland/2024-10/tuerkei-anschlag-pkk-syrien-vergeltung",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-10/tuerkei-nordsyrien-angriff-bild/super__430x286",
-      "image_title": "Anschlag in der Türkei: Ein Mann sieht zu, wie dichter Rauch aus einer Ölförderanlage aufsteigt, die am 25. Oktober 2024 nahe der nordöstlichen Grenze Syriens zur Türkei in der Landschaft Qahtaniyah in der nordöstlichen Ecke der Provinz Hasakeh unter türkischem Beschuss stand."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Tariftreuegesetz : Man darf auch untreu sein",
@@ -763,46 +769,46 @@
       "image_title": "Weissenhäuser Strand: David Depenau auf der Seebrücke"
     },
     {
-      "title": "Tauchsieder : Sprengt Christian Lindner die Ampel?",
-      "teaser": "Der Finanzminister gibt sich nicht mal mehr die Mühe zu verhehlen, wie sehr er die Industriepolitik von Olaf Scholz und Robert Habeck verachtet. Eine Kolumne.",
-      "url": "https://www.wiwo.de/politik/deutschland/tauchsieder-sprengt-christian-lindner-die-ampel/30057596.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/scholz-habeck-lindner-merz-finger-dpa3-imago/30057154/4-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
-      "image_title": "Sprengt Christian Lindner die Ampel?"
+      "title": "Winterblues ade : So bringen Sie ihr Team motiviert durch die dunkle Jahreszeit",
+      "teaser": "Das triste Wetter im Winter wirkt sich oft auf die eigene Stimmung aus – nun folgt auch noch die Zeitumstellung. Wie Sie dem Winterblues den Kampf ansagen.",
+      "url": "https://www.wiwo.de/erfolg/management/winterblues-ade-so-bringen-sie-ihr-team-motiviert-durch-die-dunkle-jahreszeit/30048520.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/party-mitarbeiter_03get/30054424/2-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
+      "image_title": "So bringen Sie ihr Team motiviert durch die dunkle Jahreszeit"
     },
     {
-      "title": "US-Immobilien : Benkos Houses of Cards",
+      "title": "US-Immobilien : Benkos verborgene US-Schätze",
       "teaser": "René Benkos Unternehmen besaßen in den USA mehr Immobilien als bisher bekannt. Gesellschafter blasen nun zur Jagd auf sein Vermögen.",
-      "url": "https://www.wiwo.de/my/unternehmen/dienstleister/us-immobilien-benkos-houses-of-cards/30053088.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
+      "url": "https://www.wiwo.de/my/unternehmen/dienstleister/us-immobilien-benkos-verborgene-us-schaetze/30053088.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
       "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/bildfotoservice-bild-theo-klein2/30056680/3-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
-      "image_title": "Benkos Houses of Cards"
+      "image_title": "Benkos verborgene US-Schätze"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Autoreparatur : Ich kann das auch ohne Männer",
+      "teaser": "Hilflose junge Frau vor qualmendem Motor – unsere Autorin hat genug von diesem Klischee. Sie will ihr Auto selbst reparieren. Also legt sie einfach los.",
+      "url": "https://www.zeit.de/2024/45/autoreparatur-inspektion-werkstatt-handwerk-frauen",
+      "image_url": "https://img.zeit.de/2024/45/wie-ich-lernte-die-maschine-zu-verstehen-bild-3/wide__892x501",
+      "image_title": "Autoreparatur: Nasa-Astronauten werden darauf vorbereitet, ihr Spaceship selbst reparieren zu können. Wenigstens ein bisschen, dachte unsere Autorin, sollte jeder Autofahrer sich auch mit seinem Gefährt auskennen."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Bahn : Deutsche Bahn baut an jedem fünften Hauptbahnhof",
       "teaser": "Viele der 134 Hauptbahnhöfe in Deutschland sind gerade eine Baustelle – und das oft auf Jahre. Das hat Folgen für Hunderttausende Reisende täglich.",
       "url": "https://www.zeit.de/mobilitaet/2024-10/deutsche-bahn-baustellen-hauptbahnhoefe",
-      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-10/baustellen-deutscha-bahn-bild/wide__892x501",
+      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-10/baustellen-deutscha-bahn-bild/super__430x286",
       "image_title": "Bahn: Bauarbeiten am Hauptbahnhof Hannover"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Fernverkehr : Deutsche Bahn sieht Generalsanierung der Riedbahn im Plan",
-      "teaser": "Zwischen Frankfurt und Mannheim sollen planmäßig im Dezember wieder Züge fahren. Laut DB ist der Abschnitt ein \"Herzstück\", das überregional für viele Verspätungen sorgt.",
-      "url": "https://www.zeit.de/mobilitaet/2024-10/db-riedbahn-baustelle",
-      "image_url": "https://img.zeit.de/2024-10/db-riedbahn-baustelle-bild/super__430x286",
-      "image_title": "Fernverkehr: Ein Siemens-Mitarbeiter zeigt wie eine Balise, technische Einrichtung zum Übertragen von Informationen an das Schienenfahrzeug, im Gleis montiert wird. Auf einem Pressetermin stellt die Bahn eines von mehreren neuen elektronischen Stellwerken für die Riedbahn vor. Wenn alle Elektronischen Stellwerke (ESTW) angeschlossen sind sollen sich Weichen und Signale ab Mitte Dezember verlässlich per Mausklick bedienen lassen."
+      "title": "Z+ (abopflichtiger Inhalt); Alkohol am Steuer : Ich bin Richter, und manche Menschen will ich nicht bestrafen",
+      "teaser": "Es gibt Angeklagte, die haben Milde verdient. Dann lassen sich Gerichte einiges einfallen.",
+      "url": "https://www.zeit.de/2024/45/alkohol-am-steuer-richter-strafe-gericht",
+      "image_url": "https://img.zeit.de/2024/45/der-teufel-alkohol-vor-gericht-bild-1/wide__892x501",
+      "image_title": "Alkohol am Steuer: Zwei Prozesse, zwei dramatische Lebensgeschichten - und ein grübelnder Richter"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Kinder in den USA : Vier amerikanische Kinder, vier Welten",
       "teaser": "Wer in den USA Präsident wird, beeinflusst Menschen weltweit. Wie man ein Land wie die Vereinigten Staaten deutschen Kindern erklärt – und was Kinder dort sich wünschen.",
       "url": "https://www.zeit.de/2024/45/kinder-usa-wahlen-wuensche-bildung-finanzen",
-      "image_url": "https://img.zeit.de/2024/45/kinder-usa-wahlen-wuensche-bildung-finanzen-teaserbild-aufgehellt/wide__892x501",
+      "image_url": "https://img.zeit.de/2024/45/kinder-usa-wahlen-wuensche-bildung-finanzen-teaserbild-aufgehellt/super__430x286",
       "image_title": "Kinder in den USA: A child holds up a sign as protesters against former U.S. President and Republican presidential candidate Donald Trump hold a rally outside a campaign rally at Crotona Park, in the Bronx borough of New York City, U.S., May 23, 2024. REUTERS/David Delgado"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Grenzkontrollen : Mehr als 53.000 unerlaubte Einreisen registriert",
-      "teaser": "Seit Januar hat die Polizei mehr als 28.000 Menschen an den deutschen Grenzen zurückgewiesen. Am häufigsten davon betroffen waren Ukrainer.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-10/grenzkontrollen-illegale-einreisen-zurueckweisungen-schleuser",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-10/bundespolizei-grenzkontrollen-illegale-einreise-bild/super__430x286",
-      "image_title": "Grenzkontrollen: Ein Polizist steht an einer stationäre Grenzkontrolle auf der Stadtbrücke an der deutsch-polnischen Grenze vor Zgorzelec am 16.10.2024."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Podcast-Empfehlung : Vier Bücher, um die US-Wahlen zu verstehen",
@@ -812,11 +818,11 @@
       "image_title": "Podcast-Empfehlung: Vier Bücher, um die US-Wahlen zu verstehen"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Siri Hustvedt : \"Die Würde, mit der Paul starb, war ein Geschenk\"",
-      "teaser": "Siri Hustvedt und Paul Auster waren das große Autorenpaar der US-Literatur. Im April starb Auster. Hier spricht Hustvedt über den Tod ihres Mannes und ihr Leben heute.",
-      "url": "https://www.zeit.de/2024/44/tod-paul-auster-schriftsteller-regisseur-siri-hustvedt",
-      "image_url": "https://img.zeit.de/2024/44/die-wuerde-mit-der-paul-starb-war-ein-geschenk-teaser/super__430x286",
-      "image_title": "Siri Hustvedt: \"Die Würde, mit der Paul starb, war ein Geschenk\""
+      "title": "Z+ (abopflichtiger Inhalt); Ta-Nehisi Coates : Er hat offenbar mit niemandem gesprochen, der die Dinge anders sieht",
+      "teaser": "In den USA macht das Buch \"The Message\" Furore. Darin schlägt sich der Journalist Ta-Nehisi Coates im Nahostkonflikt weit auf die Seite der Palästinenser. Viel zu weit.",
+      "url": "https://www.zeit.de/kultur/2024-10/ta-nehisi-coates-the-message-nahostkonflikt-palaestina-israel",
+      "image_url": "https://img.zeit.de/kultur/2024-10/ta-nehisi-coates-the-message-israel-palaestina-bild/super__430x286",
+      "image_title": "Ta-Nehisi Coates: GAZA, PALESTINE - 2024/10/20: Clouds of smoke rise after heavy shelling by Israel on Jabalia camp in the northern Gaza Strip."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Personalisierte Ernährung : Fitter, wacher, schlanker – mit dem Speiseplan aus dem Labor",
@@ -943,18 +949,18 @@
       "image_url": "https://img.zeit.de/administratives/2015-10/zeit-shop-bilder/kug-neu.jpg/super__320x213"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Ozempic-Engpässe • Das Beste aus Z+ : \"Die Apothekerin sagte, Ozempic bekommen sie aktuell gar nicht mehr\"",
+      "teaser": "Aus dem Diabetesmedikament Ozempic wurde ein Lifestyleprodukt zum Abnehmen. Angela Schultheiß ist genervt vom Hype. Kein Wunder – denn sie ist Diabetespatientin.",
+      "url": "https://www.zeit.de/gesundheit/2024-10/ozempic-engpaesse-diabetes-medikament-gewichtsverlust",
+      "image_url": "https://img.zeit.de/gesundheit/2024-10/ozempic-engpaesse-diabetes-medikament-gewichtsverlust-bild/wide__892x501",
+      "image_title": "Ozempic-Engpässe • Das Beste aus Z+: Angela Schultheiß"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); AirPods als Hörgerät : Aus AirPods werden jetzt Hörgeräte. Ernsthaft?",
       "teaser": "Unser Autor hört schlecht. Können Apples Ohrstöpsel ihm helfen? Er hat es eine Woche lang ausprobiert – und war überrascht.",
       "url": "https://www.zeit.de/gesundheit/2024-10/airpods-apple-hoergeraet-update-conversation-boost",
-      "image_url": "https://img.zeit.de/wissen/2024-10/airpods-apple-hoergeraet-update-bild-2/wide__892x501",
+      "image_url": "https://img.zeit.de/wissen/2024-10/airpods-apple-hoergeraet-update-bild-2/super__430x286",
       "image_title": "AirPods als Hörgerät: Aus AirPods werden jetzt Hörgeräte. Ernsthaft?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Sucht : Forschende sehen Glücksspiel als Bedrohung für öffentliche Gesundheit",
-      "teaser": "Von physischen wie psychischen Schäden: Millionen Menschen betreffen negative Folgen des Glücksspiels. Experten sehen eine \"Bedrohung für die öffentliche Gesundheit\".",
-      "url": "https://www.zeit.de/wissen/2024-10/sucht-gluecksspiel-bedrohung-bericht-forschende-lancet",
-      "image_url": "https://img.zeit.de/gesundheit/2024-10/gluecksspiel-gesundheit-bild/super__430x286",
-      "image_title": "Sucht: Forschende sehen Glücksspiel als Bedrohung für öffentliche Gesundheit"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); US-Wahlkampf : Salt-Typhoon-Hacker sollen Handy von Trump angegriffen haben",
@@ -1139,36 +1145,36 @@
       "image_title": "Inneneinrichtung: Marcel Engel in seinem Friseursalon"
     },
     {
-      "title": "Verkehr: Frau bei Kollision mit Feuerwehrwagen im Einsatz verletzt",
-      "url": "https://www.zeit.de/news/2024-10/27/frau-bei-kollision-mit-feuerwehrwagen-im-einsatz-verletzt"
+      "title": "Krankheitserreger: Ruanda findet Ursprung des Marburg-Ausbruchs",
+      "url": "https://www.zeit.de/news/2024-10/27/ruanda-findet-ursprung-des-marburg-ausbruchs"
     },
     {
-      "title": "Sondierungen in Sachsen: SPD: Treffen zum Fortlauf der Sondierungsgespräche geplant",
-      "url": "https://www.zeit.de/news/2024-10/27/spd-treffen-zum-fortlauf-der-sondierungsgespraeche-geplant"
+      "title": "2. Fußball-Bundesliga: Erste Heimpleite für Magdeburg: 0:3 gegen Hannover 96",
+      "url": "https://www.zeit.de/news/2024-10/27/erste-heimpleite-fuer-magdeburg-0-3-gegen-hannover-96"
     },
     {
-      "title": "Fußball-Bundesliga: BVB-Sportchef Ricken nimmt Spieler in die Pflicht",
-      "url": "https://www.zeit.de/news/2024-10/27/bvb-sportchef-ricken-nimmt-spieler-in-die-pflicht"
+      "title": "3. Fußball-Liga: Cottbus feiert 5:1-Sieg gegen 1860 München",
+      "url": "https://www.zeit.de/news/2024-10/27/cottbus-feiert-5-1-sieg-gegen-1860-muenchen"
     },
     {
-      "title": "Schwerverletzte: Rettungshubschrauber fliegt wegen Unfällen am Wochenende",
-      "url": "https://www.zeit.de/news/2024-10/27/rettungshubschrauber-fliegt-wegen-unfaellen-am-wochenende"
+      "title": "2. Fußball-Bundesliga: Remis am Tabellenende: Braunschweig nur 1:1 gegen Münster",
+      "url": "https://www.zeit.de/news/2024-10/27/remis-am-tabellenende-braunschweig-nur-1-1-gegen-muenster"
     },
     {
-      "title": "Wetterausblick: Trüb und neblig - teils auch goldenes Herbstwetter in Bayern",
-      "url": "https://www.zeit.de/news/2024-10/27/trueb-und-neblig-teils-auch-goldenes-herbstwetter-in-bayern"
+      "title": "3. Fußball-Liga: 1860 München geht in Cottbus mit 1:5 unter",
+      "url": "https://www.zeit.de/news/2024-10/27/1860-muenchen-geht-in-cottbus-mit-1-5-unter"
     },
     {
-      "title": "Ski Alpin: Ski-Star Hirscher begeistert bei Weltcup-Comeback",
-      "url": "https://www.zeit.de/news/2024-10/27/ski-star-hirscher-begeistert-bei-weltcup-comeback"
+      "title": "2. Fußball-Bundesliga: Hannover 96 bringt Magdeburg die erste Heimniederlage bei",
+      "url": "https://www.zeit.de/news/2024-10/27/hannover-96-bringt-magdeburg-die-erste-heimniederlage-bei"
     },
     {
-      "title": "Unfall: Junger E-Bike-Fahrer von Auto angefahren",
-      "url": "https://www.zeit.de/news/2024-10/27/junger-e-bike-fahrer-von-auto-angefahren"
+      "title": "Kriminalität: Aktivisten sprühen in Münchner Kaufhaus mit Pfefferspray",
+      "url": "https://www.zeit.de/news/2024-10/27/aktivisten-spruehen-in-muenchner-kaufhaus-mit-pfefferspray"
     },
     {
-      "title": "Fußball-Bundesliga: Verteidiger Doekhi verlängert bei Union Berlin",
-      "url": "https://www.zeit.de/news/2024-10/27/verteidiger-doekhi-verlaengert-bei-union-berlin"
+      "title": "2. Fußball-Bundesliga: Darmstadt 98 kommt nicht über 1:1 gegen Ulm hinaus",
+      "url": "https://www.zeit.de/news/2024-10/27/darmstadt-98-kommt-nicht-ueber-1-1-gegen-ulm-hinaus"
     }
   ]
 }
