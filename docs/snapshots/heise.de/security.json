@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-28T14:07:35",
+  "timestamp": "2024-10-28T15:07:42",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.3117d8c2bf008fab19cc",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.5e43b5aaec2afcf4fe05",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "IBM App Connect Enterprise Certified Container",
+      "url": "https://www.heise.de/news/IBM-App-Connect-Enterprise-Angreifer-koennen-Anmeldung-umgehen-9996620.html"
+    },
     {
       "title": "VMware Tanzu Spring Security",
       "url": "https://www.heise.de/news/Spring-Security-Kritische-Sicherheitsluecke-ermoeglicht-Autorisierungsumgehung-9996582.html"
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Cisco-meldet-mehr-als-35-Sicherheitsluecken-in-Firewall-Produkten-9992639.html"
     },
     {
-      "title": "Sharepoint",
-      "url": "https://www.heise.de/news/Angreifer-missbrauchen-Sharepoint-Sicherheitsleck-fuer-Codeschmuggel-9992541.html"
+      "title": "IBM App Connect Enterprise: Angreifer können Anmeldung umgehen",
+      "teaser": "Die Entwickler von IBM haben zwei Sicherheitslücken in App Connect Enterprise Certified Container geschlossen. Attacken sind aber nicht ohne Weiteres möglich.",
+      "url": "https://www.heise.de/news/IBM-App-Connect-Enterprise-Angreifer-koennen-Anmeldung-umgehen-9996620.html",
+      "image_title": "Zeigefinger über Update Button"
     },
     {
       "title": "VMware Tanzu Spring Security: Umgehung von Autorisierungsregeln möglich",
@@ -54,22 +60,22 @@
       "image_title": "Kriminelle greifen Server an, Admin versucht, den Stecker zu ziehen"
     },
     {
-      "title": "Lagebericht 2024: Fast 8 Millionen Mal installierte Malware in Google Play",
-      "teaser": "IT-Forscher haben die mobile-Malware-Situation der vergangenen 12 Monate untersucht. Mehr als 200 App-Fälschungen lauerten in Google Play.",
-      "url": "https://www.heise.de/news/Lagebericht-2024-Fast-8-Millionen-Mal-installierte-Malware-in-Google-Play-9996456.html",
-      "image_title": "Stilisierte Grafik: zersplittertes Google Play Store Logo, aus dem Viren kommen"
-    },
-    {
-      "title": "Pwn2Own Irland: Samsung S24 geknackt, mehr als eine Million US-Dollar Prämien",
-      "teaser": "Die Pwn2Own-Irland-Veranstaltung hat den Teilnehmern mehr als eine Million US-Dollar Preisgeld für über 70 Zero-Day-Lücken eingebracht.",
-      "url": "https://www.heise.de/news/Pwn2Own-Irland-Samsung-S24-geknackt-mehr-als-eine-Million-US-Dollar-Praemien-9996061.html",
-      "image_title": "Computer, Smartphones, Überwachungskameras, Drucker werden mit Viren angegriffen, Krimineller steht dahinter"
+      "title": "Nvidia: Rechteausweitung durch Sicherheitslücken in Grafiktreiber möglich",
+      "teaser": "Nvidia warnt vor mehreren Sicherheitslücken in den Grafiktreibern, die etwa das Ausweiten der Rechte ermöglichen. Updates stehen bereit.",
+      "url": "https://www.heise.de/news/Nvidia-Rechteausweitung-durch-Sicherheitsluecken-in-Grafiktreiber-moeglich-9995842.html",
+      "image_title": "Grafikkarte vor Monitor, darauf sind Viren zu sehen"
     },
     {
       "title": "iX-Workshop: OWASP® Top 10 – Sicherheitsrisiken für Webanwendungen verstehen",
       "teaser": "Lernen Sie die wichtigsten Sicherheitslücken in Web-Anwendungen kennen und erfahren Sie, wie Sie sich erfolgreich schützen können.",
       "url": "https://www.heise.de/news/iX-Workshop-OWASP-R-Top-10-Sicherheitsrisiken-fuer-Webanwendungen-verstehen-9988943.html",
       "image_title": "Online-Workshop: OWASP Top 10 – Sicherheitslücken in Webanwendungen vermeiden"
+    },
+    {
+      "title": "IT-Sicherheit: Bundestag testet heimlich Phishing-Resilienz von Abgeordneten",
+      "teaser": "In jüngster Zeit haben Politiker im Bundestag gezielte Phishing-Mails erhalten. Es handelte sich um einen Sicherheitstest, den offenbar nicht alle meisterten.",
+      "url": "https://www.heise.de/news/IT-Sicherheit-Bundestag-testet-heimlich-Phishing-Resilienz-von-Abgeordneten-9995453.html",
+      "image_title": "Bundestag, Reichstag"
     },
     {
       "title": "Wi-Fi-Test-Suite verursacht Sicherheitslücke in Arcadyan-Routern",
@@ -157,11 +163,6 @@
       "teaser": "Vier Monate nach dem großangelegten Takedown diverser Botnetze durch die Behörden wird die Bumblebee-Malware offenbar wieder in Angriffen verwendet.​",
       "url": "https://www.heise.de/news/Nach-Operation-Endgame-Bumblebee-Malware-erneut-im-Umlauf-9993097.html",
       "image_title": "Alarmdreieck auf Bidlschirmanzeige mit abstrakten leuchtenden Codezeilen"
-    },
-    {
-      "title": "iX-Konferenz: Vorbereitung auf NIS2",
-      "teaser": "Diese eintägige Online-Konferenz liefert einen umfassenden Überblick, welche Unternehmen wie von NIS2 betroffen sind und was die neue Regulierung verlangt.",
-      "url": "https://www.heise.de/news/iX-Konferenz-Vorbereitung-auf-NIS2-9989486.html"
     },
     {
       "title": "IoT-Webinar",
