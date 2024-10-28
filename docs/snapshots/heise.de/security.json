@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-28T13:17:34",
+  "timestamp": "2024-10-28T14:07:35",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "VMware Tanzu Spring Security",
+      "url": "https://www.heise.de/news/Spring-Security-Kritische-Sicherheitsluecke-ermoeglicht-Autorisierungsumgehung-9996582.html"
+    },
+    {
       "title": "Nvidia-Grafikkartentreiber",
       "url": "https://www.heise.de/news/Nvidia-Rechteausweitung-durch-Sicherheitsluecken-in-Grafiktreiber-moeglich-9995842.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Angreifer-missbrauchen-Sharepoint-Sicherheitsleck-fuer-Codeschmuggel-9992541.html"
     },
     {
-      "title": "FortiManager",
-      "url": "https://www.heise.de/news/Fortinet-bestaetigt-kritische-angegriffene-Sicherheitsluecke-in-Fortimanager-9992503.html"
+      "title": "VMware Tanzu Spring Security: Umgehung von Autorisierungsregeln möglich",
+      "teaser": "In VMware Tanzu Spring Security klafft eine kritische Sicherheitslücke, die Angreifern die Umgehung von Autorisierungsregeln ermöglicht.",
+      "url": "https://www.heise.de/news/Spring-Security-Kritische-Sicherheitsluecke-ermoeglicht-Autorisierungsumgehung-9996582.html",
+      "image_title": "Kriminelle greifen Server an, Admin versucht, den Stecker zu ziehen"
     },
     {
       "title": "Lagebericht 2024: Fast 8 Millionen Mal installierte Malware in Google Play",
@@ -156,12 +162,6 @@
       "title": "iX-Konferenz: Vorbereitung auf NIS2",
       "teaser": "Diese eintägige Online-Konferenz liefert einen umfassenden Überblick, welche Unternehmen wie von NIS2 betroffen sind und was die neue Regulierung verlangt.",
       "url": "https://www.heise.de/news/iX-Konferenz-Vorbereitung-auf-NIS2-9989486.html"
-    },
-    {
-      "title": "Cisco meldet mehr als 35 Sicherheitslücken in Firewall-Produkten",
-      "teaser": "Ciscos ASA, Firepower und Secure Firewall Management Center weisen teils kritische Sicherheitslücken auf. Mehr als 35 schließen nun verfügbare Updates.",
-      "url": "https://www.heise.de/news/Cisco-meldet-mehr-als-35-Sicherheitsluecken-in-Firewall-Produkten-9992639.html",
-      "image_title": "Stilisiertes Bild: Ein Stapel brennender Cisco-Appliances"
     },
     {
       "title": "IoT-Webinar",
