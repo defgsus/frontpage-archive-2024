@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-28T04:09:33",
+  "timestamp": "2024-10-28T05:08:38",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -110,11 +116,18 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); US-Wahl : Trump billig, Harris teuer",
-      "teaser": "Migration? Abtreibung? Nein: Wirtschaft ist den Amerikanern das wichtigste Thema. Bloß gibt es sehr verschiedene Meinungen darüber, wie es dem Land ökonomisch geht.",
-      "url": "https://www.zeit.de/politik/ausland/2024-10/us-wahl-preise-finanzen-michigan",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-10/us-wahl-preise-finanzen-michigan-bild1/wide__1000x562",
-      "image_title": "US-Wahl: Michigan Economy, us, us election, usa, usa election, michigan, midwest, battleground, swing, swing state, battleground state, american politics, politics, presidential election, 2024, 2024 election, usa 2024, trump, harris, voters, vote, voting, business, feature, business feature A detail of a billboard in support of Donald Trump along Interstate 75 in Hazel Park, Michigan on October 23, 2024. (Nic Antaya for ZEIT)"
+      "title": "Z+ (abopflichtiger Inhalt); Bürgerbegehren : Bitte doch vor meiner Haustür",
+      "teaser": "Windkraft, Flüchtlingsheime, Fahrradwege – Bürgerbegehren zu einigen Themen in Deutschland nehmen zu. Welche Verfahren am erfolgreichsten sind, zeigen diese Daten.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-10/buergerbegehren-windkraft-migration-verkehr-kommunalpolitik",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-10/buergerbegehren-windkraft-migration-verkehr/wide__1000x562",
+      "image_title": "Bürgerbegehren: Bitte doch vor meiner Haustür"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Wahlempfehlungen in den USA : Milliardäre ohne Rückgrat",
+      "teaser": "Die Besitzer von US-Tageszeitungen verhindern Aufrufe der Redaktionen zur Wahl von Kamala Harris. Angst vor einem rachsüchtigen Präsidenten Trump dürfte ein Motiv sein.",
+      "url": "https://www.zeit.de/politik/ausland/2024-10/washington-post-jeff-bezos-wahlempfehlung-kamala-harris",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-10/the-washington-post-wahlempfehlung/super__430x286",
+      "image_title": "The Washington Post Wahlempfehlung"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Brandenburg : SPD und BSW wollen Koalitionsverhandlungen empfehlen",
@@ -124,46 +137,11 @@
       "image_title": "Brandenburg: Der amtierende Ministerpräsident Dietmar Woidke (SPD) und BSW-Fraktionsvorsitzender Robert Crumbach könnten künftig Teil einer gemeinsamen Regierung in Brandenburg sein."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Sondierungsgespräche in Thüringen und Sachsen : Merz zweifelt an Wagenknechts Regierungswillen",
-      "teaser": "Während BSW-Abgeordnete in Thüringen und Sachsen für Gespräche mit der CDU bereit seien, sei Wagenknecht das nicht. Die Parteichefin wolle gar nicht regieren, sagt Merz.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-10/friedrich-merz-bericht-aus-berlin-cdu-bsw-sondierungen-sachsen-thueringen-sahra-wagenknecht",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-10/friedrich-merz-cdu-sondierungen-sachsen-thueringen-bild/super__430x286",
-      "image_title": "Sondierungsgespräche in Thüringen und Sachsen: Friedrich Merz (M), Bundesvorsitzender der CDU, spricht beim Deutschlandtag der Jungen Union auf der Bühne. Das Treffen der CDU/CSU-Jugendorganisation findet vom 25.10. bis zum 27.10.2024 in Halle an der Saale statt. Sachsen-Anhalt, Halle, 26.10.2024"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Liveblog:Krieg in Nahost : Ägypten schlägt zweitägige Feuerpause im Gazastreifen vor",
       "teaser": "In Katar wird erneut über eine Waffenruhe verhandelt. Der UN-Sicherheitsrat befasst sich mit dem israelischen Angriff auf Iran. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/2023-12/news-israel-gaza-krieg-live",
       "image_url": "https://img.zeit.de/politik/ausland/2024-10/news-israel-gaza-krieg-live-bild-31/super__430x286",
       "image_title": "Krieg in Nahost: TOPSHOT - A man takes cover behind a column as an explosion propagates smoke and dust during an Israeli strike which reportedly targeted a school in the Zeitoun district on the outskirts of Gaza City, on September 1, 2024, amid the ongoing conflict between Israel and the Palestinian Hamas group. (Photo by Omar AL-QATTAA / AFP) (Photo by OMAR AL-QATTAA/AFP via Getty Images)"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Nachthimmel : Warum wir mehr in die Sterne schauen sollten",
-      "teaser": "Im stressigen Alltag wirkt jedes Problem wie großes Drama. Was hilft: sich zu entrücken. In die Sterne zu schauen. Und die Gedanken alter Philosophen wiederaufzunehmen.",
-      "url": "https://www.zeit.de/wissen/2024-10/nachthimmel-sterne-kosmos-philosophie-ueber-all",
-      "image_url": "https://img.zeit.de/wissen/2024-10/nachthimmel-sterne-kosmos-philosophie-ueber-all-bild/wide__892x501",
-      "image_title": "Nachthimmel: SAN PEDRO DE ATACAMA, CHILE - AUGUST 26: The Milky Way appears over a mountain in the Valle de la Luna in the Atacama Desert, considered the driest place on earth on August 26, 2022 near San Pedro de Atacama, Chile. The extreme aridity makes the Atacama Desert one of the clearest places on earth to view the night sky. Much of the region receives less than half an inch of rainfall per year, and some areas none at all for hundreds of years. Located in Chile's northern third between two mountain ranges, the Atacama is possibly the oldest desert on earth, experiencing extreme aridity for at least 3 million years. The area is home to the Atacama Large Millimeter/submillimeter Array (ALMA) telescope. The Valley of the Moon is so called because of its lunar and even Mars-like appearance. (Photo by John Moore/Getty Images,)"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Krankenstand : Hausärzte verteidigen telefonische Krankschreibung",
-      "teaser": "Viele Arbeitgeber machen die telefonische Krankschreibung verantwortlich für hohe Krankenstände. Eine Abschaffung würde die Versorgung gefährden, argumentieren die Ärzte.",
-      "url": "https://www.zeit.de/gesundheit/2024-10/hausaerzte-verteidigung-telefonische-krankschreibung",
-      "image_url": "https://img.zeit.de/gesundheit/2024-10/telefonische-krankschreibung-verteidigung-hausaerzte-bild/super__430x286",
-      "image_title": "Krankenstand: Ein Mann hält ein Taschentuch in einer Hand und ein Telefon in der Anderen."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Muskelbotenstoffe : Wie Muskeln unseren Körper heilen",
-      "teaser": "Wer Sport macht, aktiviert eine Geheimwaffe: Muskelbotenstoffe. Sie verjüngen das Gehirn, schmelzen Fett und stoppen Krebs. Wie viel Training es braucht, sie zu wecken.",
-      "url": "https://www.zeit.de/gesundheit/2024-10/muskelbotenstoffe-myokine-koerper-heilung-sport",
-      "image_url": "https://img.zeit.de/gesundheit/2024-10/muskelbotenstoffe-myokine-koerper-heilung-sport-teaser/super__430x286",
-      "image_title": "Muskelbotenstoffe: Wie Muskeln unseren Körper heilen"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Mashco Piro : \"Sie essen kein Salz und kennen keinen Gott\"",
-      "teaser": "Ihr Bild ging um die Welt: Die Mashco Piro leben komplett isoliert im peruanischen Urwald. Zu Besuch bei ihren nächsten Nachbarn, die zu ihnen halten – und sie fürchten.",
-      "url": "https://www.zeit.de/gesellschaft/2024-10/mashco-piro-peru-amazonas-regenwald-holzfaeller",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-10/mashco-piro-peru-amazonas/super__430x286",
-      "image_title": "Mashco Piro: \"Sie essen kein Salz und kennen keinen Gott\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Bundeshymne : Schlechte Noten für Österreichs Hymnen",
@@ -180,67 +158,18 @@
       "image_title": "Adelheid Duvanel: Die Schweizer Schriftstellerin Adelheid Duvanel, vermutlich 1980er Jahre ##################### Adelheid Duvanel (1936-1996), schweizer Schriftstellerin. Undatierte Aufnahme, vermutlich aus den 1980er Jahren."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Parlamentswahl : Blinken fordert Untersuchung der Betrugsvorwürfe nach Wahl in Georgien",
-      "teaser": "Die georgische Opposition sowie unabhängige Wahlbeobachter zweifeln den Wahlsieg der Regierungspartei an. US-Außenminister Antony Blinken fordert Aufklärung.",
-      "url": "https://www.zeit.de/politik/ausland/2024-10/georgien-blinken-forderung-untersuchung-betrugsvorwuerfe-parlamentswahl",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-10/georgien-wahl-untersuchung-blinken-bild/super__430x286",
-      "image_title": "Parlamentswahl: Unterstützer der Regierungspartei Georgischer Traum feiern deren Sieg. Die Rechtmäßigkeit des Wahlergebnisses wird infragegestellt."
+      "title": "Z+ (abopflichtiger Inhalt); Belohnungssysteme für Kinder : Ich bezahle meine Kinder für's Bücherlesen",
+      "teaser": "Erziehungsexperten warnen davor, Kinder ständig zu belohnen. Das zerstöre ihre innere Motivation. Unsere Autorin hält das für Quatsch – und bezahlt, wo sie nur kann.",
+      "url": "https://www.zeit.de/familie/2024-10/belohnungssysteme-kinder-lesen-bezahlung-eltern",
+      "image_url": "https://img.zeit.de/familie/2024-10/belohnungssysteme-kinder-lesen-bezahlung/wide__892x501",
+      "image_title": "Belohnungssysteme für Kinder: Ich bezahle meine Kinder für's Bücherlesen"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Japan : Regierungskoalition der LDP verliert ihre Mehrheit",
-      "teaser": "Japans Regierungsparteien LDP und Komeito haben keine Mehrheit erreicht. Nun ist Ministerpräsident Ishiba auf neue Partner angewiesen, um an der Macht zu bleiben.",
-      "url": "https://www.zeit.de/politik/ausland/2024-10/japan-parlamentswahl-ishiba-verliert-mehrheit",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-10/japan-parlamentswahl-ishiba-verliert-mehrheit-bild/super__430x286",
-      "image_title": "Japan: Beschreibung Shigeru Ishiba (l), Japans neu gewählter Ministerpräsident, kommt am Amtssitz des Ministerpräsidenten an. Service +++ dpa-Bildfunk +++ Aufnahmedatum 01.10.2024 Bildnachweis picture alliance/dpa/AP | Hiro Komae"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Bulgarien : Konservative Partei liegt laut Hochrechnungen nach Parlamentswahl vorn",
-      "teaser": "Die Partei von Ex-Regierungschef Bojko Borissow spricht von einem klaren Regierungsauftrag. Die Bildung einer stabilen Koalition dürfte aber schwierig werden.",
-      "url": "https://www.zeit.de/politik/ausland/2024-10/parlamentswahl-bulgarien-konservative-hochrechnungen-konservative",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-10/bulgarien-parlamentswahl-hochrechnungen-ergebnisse-bild/super__430x286",
-      "image_title": "Bulgarien: Boiko Borissow, Parteivorsitzender der GERB und ehemaliger bulgarischer Ministerpräsident, reagiert in einer Pressekonferenz, auf die ersten Hochrechnungen."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); US-Wahl : Donald Trump wirbt mit Elon Musk in New York um Wählerstimmen",
-      "teaser": "Der Präsidentschaftskandidat der Republikaner tritt in seiner Heimatstadt auf, einer Hochburg der Demokraten. Er greift Kamala Harris an und hetzt gegen Migranten.",
-      "url": "https://www.zeit.de/politik/ausland/2024-10/donald-trump-new-york-elon-musk-wahlkampf-usa",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-10/donald-trump-elon-musk-new-york-wahlkampf-usa-bild/super__430x286",
-      "image_title": "US-Wahl: Beschreibung Der republikanische US-Präsidentschaftskandidat und ehemalige US-Präsident Donald Trump spricht bei einer Wahlkampfveranstaltung im Madison Square Garden in New York. Service +++ dpa-Bildfunk +++ Aufnahmedatum 27.10.2024 Bildnachweis picture alliance/dpa/AP | Alex Brandon"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Tatort\" Ludwigshafen : Zusammen haben wir keine Chance",
-      "teaser": "Zum 80. Mal ist Ulrike Folkerts als Kommissarin Lena Odenthal im \"Tatort\"-Einsatz. Der Fall um Gewalt gegen Frauen rockt seine Themen aber nur lieblos herunter.",
-      "url": "https://www.zeit.de/kultur/film/2024-10/tatort-ludwigshafen-dein-gutes-recht-obduktionsbericht",
-      "image_url": "https://img.zeit.de/kultur/film/2024-10/tatort-ludwigshafen-dein-gutes-recht-obduktionsbericht-teaser/wide__892x501",
-      "image_title": "\"Tatort\" Ludwigshafen: Spielt zum 80. Mal die Lena Odenthal: Ulrike Folkerts"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Laurent Schwarz : Die Sache mit dem Wunderkind",
-      "teaser": "Alle paar Jahre wird ein Kind als Jahrhunderttalent gefeiert. Dieses Mal: der dreijährige Laurent Schwarz aus Bayern. Seine Gemälde verkaufen sich für Zehntausende Euro.",
-      "url": "https://www.zeit.de/kultur/kunst/2024-10/laurent-schwarz-kind-kunst-bayern",
-      "image_url": "https://img.zeit.de/kultur/kunst/2024-08/laurent-schwarz-kind-kunst-slide-01-01/super__430x286",
-      "image_title": "laurent-schwarz-kind-kunst-slide-01-01"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Weg zum Glauben : \"Der Tag meiner Taufe war wunderschön\"",
-      "teaser": "Sebastian Suthau wächst ohne Glauben auf. Doch dann kommt diese Nacht in einer Klinik, die alles verändert.",
-      "url": "https://www.zeit.de/2024/45/weg-glaube-probleme-familie-gemeinschaft-taufe",
-      "image_url": "https://img.zeit.de/2024/45/der-tag-meiner-taufe-war-wunderschoen-bild-1/super__430x286",
-      "image_title": "Weg zum Glauben: Der 23-jährige Sebastian Suthau in der Thomaskirche in Leipzig"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Data-Scientist : \"In der Schule konnte ich mit Informatik nichts anfangen\"",
-      "teaser": "Simon, 34, ist Data-Scientist, obwohl er lange nicht programmieren wollte. Er arbeitet komplett remote, verdient 7.500 Euro und hat mit seiner Frau ein Haus gekauft.",
-      "url": "https://www.zeit.de/arbeit/2024-10/data-scientist-remote-arbeit-gehalt-kontoauszug",
-      "image_url": "https://img.zeit.de/arbeit/2024-10/data-scientist-remote-arbeit-gehalt-kontoauszug-bild/super__430x286",
-      "image_title": "Data-Scientist: \"In der Schule konnte ich mit Informatik nichts anfangen\""
-    },
-    {
-      "title": "Ausgabe 43/2024 : Wasserballett. Willkommen im Wochenende.",
-      "teaser": "Verbotene Umarmungen, Friedhofshumor und ein isoliertes Volk.",
-      "url": "https://www.zeit.de/wochenende/2024/43",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-10/zwe-2024-44-hero-final/wide__892x501",
-      "image_title": "Ausgabe 43/2024: Wasserballett. Willkommen im Wochenende."
+      "title": "Z+ (abopflichtiger Inhalt); Muskelbotenstoffe : Wie Muskeln unseren Körper heilen",
+      "teaser": "Wer Sport macht, aktiviert eine Geheimwaffe: Muskelbotenstoffe. Sie verjüngen das Gehirn, schmelzen Fett und stoppen Krebs. Wie viel Training es braucht, sie zu wecken.",
+      "url": "https://www.zeit.de/gesundheit/2024-10/muskelbotenstoffe-myokine-koerper-heilung-sport",
+      "image_url": "https://img.zeit.de/gesundheit/2024-10/muskelbotenstoffe-myokine-koerper-heilung-sport-teaser/super__430x286",
+      "image_title": "Muskelbotenstoffe: Wie Muskeln unseren Körper heilen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Mashco Piro : \"Sie essen kein Salz und kennen keinen Gott\"",
@@ -250,67 +179,11 @@
       "image_title": "Mashco Piro: \"Sie essen kein Salz und kennen keinen Gott\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Fragen an die Eltern : Kennen wir unsere Eltern eigentlich wirklich?",
-      "teaser": "Kennen wir unsere Eltern eigentlich wirklich? Fünf ZEIT-Autoren erzählen, was sie gern gewusst hätten, aber nicht mehr fragen können.",
-      "url": "https://www.zeit.de/zeit-magazin/2024/45/fragen-eltern-familie-geschichte-erfahrungen",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-10/fragen-eltern-familie-geschichte-erfahrungen/wide__892x501",
-      "image_title": "Fragen an die Eltern: Kennen wir unsere Eltern eigentlich wirklich?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Deutsche Raketen-Start-Ups : Das deutsche Space-Race",
-      "teaser": "Elon Musk dominiert die Raumfahrt wie nie zuvor. Zwei bayerische Gründer wollen ihm Konkurrenz machen. Haben sie eine Chance?",
-      "url": "https://www.zeit.de/wissen/2024-10/deutsche-raketen-start-ups-raumfahrt-spacex-konkurrenz",
-      "image_url": "https://img.zeit.de/wissen/2024-10/deutsche-raketen-start-ups-raumfahrt-spacex-konkurrenz-bild-4/wide__892x501",
-      "image_title": "Deutsche Raketen-Start-Ups: Das deutsche Space-Race"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Emotionen in der Öffentlichkeit : Zeigt her eure Gefühle!",
-      "teaser": "An einem neuseeländischen Flughafen darf man sich vorm Abflug nur noch drei Minuten lang umarmen. Dabei ist das öffentliche Gefühlezeigen gesellschaftlich wertvoll.",
-      "url": "https://www.zeit.de/kultur/2024-10/emotionen-oeffentlichkeit-umarmen-flughafen-neuseeland-dunedin",
-      "image_url": "https://img.zeit.de/kultur/2024-10/zwe-emotionen-oeffentlichkeit-umarmen-flughafen-neuseeland-dunedin/wide__892x501",
-      "image_title": "Emotionen in der Öffentlichkeit: Zeigt her eure Gefühle!"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Elon Musk und Donald Trump : Der amerikanische Fiebertraum",
-      "teaser": "Donald Trump und Elon Musk machen die heiße Phase des Wahlkampfs zu einem düsteren Karneval. Das könnte funktionieren.",
-      "url": "https://www.zeit.de/kultur/2024-10/elon-musk-donald-trump-us-wahl-republikaner-wahlkampf",
-      "image_url": "https://img.zeit.de/politik/2024-10/zwe-politisch-motiviert-dark-carnival/wide__892x501",
-      "image_title": "Elon Musk und Donald Trump: Der amerikanische Fiebertraum"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Plan D: Tüftler : Geht's noch?",
-      "teaser": "Jedes Jahr trifft sich Deutschlands wildestes Tüftlerforum zum Sommerfest. Wer mitfeiert, lernt, was alles kaputt ist im Land – und wie man es repariert.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2024-10/tueftler-reparatur-werkstatt-fest",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-10/tueftler-reparatur-werkstatt-fest-13/wide__892x501",
-      "image_title": "Plan D: Tüftler: Geht's noch?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Kanarische Inseln : Tausende Teilnehmer bei Demonstrationen gegen irreguläre Migration",
-      "teaser": "Zehntausende Flüchtlinge in Booten steuern jährlich die Kanaren an, um in die EU zu gelangen. Die Bewohner sehen das Gesundheits- und Bildungswesen beeinträchtigt.",
-      "url": "https://www.zeit.de/politik/ausland/2024-10/kanaren-demontration-irregulaere-migration",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-10/gran-canaria-demonstration-migration-bild/super__430x286",
-      "image_title": "Kanarische Inseln: Eine Demonstration gegen Einwanderung in Las Palmas, Gran Canaria, fotografiert im Juli 2024."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Industriegipfel : DIHK-Präsident fordert Senkung der Energiepreise für alle Unternehmen",
-      "teaser": "Vor dem Industriegipfel verlangt die Deutsche Industrie- und Handelskammer Entlastungen von der Regierung. Dazu gehören niedrigere Energiepreise und weniger Bürokratie.",
-      "url": "https://www.zeit.de/wirtschaft/2024-10/dihk-fordert-guenstigere-energie-fuer-alle-unternehmen",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-10/dihk-fordert-guenstigere-energie-fuer-alle-unternehmen-bild/super__430x286",
-      "image_title": "Industriegipfel: Beschreibung Peter Adrian, Präsident der Deutschen Industrie- und Handelskammer (DIHK), spricht während eines IHK-Tags im Haus der Deutschen Wirtschaft. (zu dpa: «DIHK: Mit Wachstumspaket kann Ruder nicht herumgerissen werden») Service +++ dpa-Bildfunk +++ Aufnahmedatum 15.05.2024 Bildnachweis picture alliance/dpa | Sebastian Gollnow"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Fitnessübung : Die Handshake-Kniebeugen",
-      "teaser": "Die gute alte Kniebeuge ist Ihnen zu langweilig? Schnappen Sie sich einen Partner und probieren Sie diese dynamische Variante aus. Spaß und Fitness kommen im Sprung.",
-      "url": "https://www.zeit.de/sport/2024-10/handshake-kniebeugen-fitnessuebung-personal-trainer",
-      "image_url": "https://img.zeit.de/sport/2024-10/handshake-kniebeugen-fitnessuebung-personal-trainer-02/wide__892x501",
-      "image_title": "Fitnessübung: Die Handshake-Kniebeugen"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Calcio Storico in Florenz : Die Hölle ist leer, und alle Teufel sind hier",
-      "teaser": "Seit Jahrhunderten spielt man in Florenz Calcio Storico. Bei der archaischen Komposition aus Rugby, Handball und Kampfsport geht es brutal zu – wie beim Gladiatorenkampf.",
-      "url": "https://www.zeit.de/zeit-magazin/zeit-mann/2024/02/calcio-storico-florenz-mannschaft-wettkampf-florentiner-fussball",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-09/calcio-storico-florenz-mannschaft-wettkampf-florentiner-fussball-bild/super__430x286",
-      "image_title": "Calcio Storico in Florenz: Die Hölle ist leer, und alle Teufel sind hier"
+      "title": "Z+ (abopflichtiger Inhalt); Krankenstand : Hausärzte verteidigen telefonische Krankschreibung",
+      "teaser": "Viele Arbeitgeber machen die telefonische Krankschreibung verantwortlich für hohe Krankenstände. Eine Abschaffung würde die Versorgung gefährden, argumentieren die Ärzte.",
+      "url": "https://www.zeit.de/gesundheit/2024-10/hausaerzte-verteidigung-telefonische-krankschreibung",
+      "image_url": "https://img.zeit.de/gesundheit/2024-10/telefonische-krankschreibung-verteidigung-hausaerzte-bild/super__430x286",
+      "image_title": "Krankenstand: Ein Mann hält ein Taschentuch in einer Hand und ein Telefon in der Anderen."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Vorstand in Teilzeit : \"Ich zahle einen Preis dafür, dass ich nur 80 Prozent arbeite\"",
@@ -334,11 +207,67 @@
       "image_title": "Kindergeburtstag: So übersteht man den Kindergeburtstag, ohne wahnsinnig zu werden"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Kunstfotografie : Was eine Generation an die nächste weitergibt",
-      "teaser": "Tyler Mitchell gehört zu den wichtigsten Fotografen seiner Generation – ein wichtiges Thema ist die Interpretation schwarzer Familien. Hier kommentiert er seine Fotos.",
-      "url": "https://www.zeit.de/zeit-magazin/2024/24/kunstfotografie-tyler-mitchell-georgia-usa-kunstgeschichte",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024/45/tyler-mitchell-bild-1/super__430x286",
-      "image_title": "Kunstfotografie: Was eine Generation an die nächste weitergibt"
+      "title": "Z+ (abopflichtiger Inhalt); Parlamentswahl : Blinken fordert Untersuchung der Betrugsvorwürfe nach Wahl in Georgien",
+      "teaser": "Die georgische Opposition sowie unabhängige Wahlbeobachter zweifeln den Wahlsieg der Regierungspartei an. US-Außenminister Antony Blinken fordert Aufklärung.",
+      "url": "https://www.zeit.de/politik/ausland/2024-10/georgien-blinken-forderung-untersuchung-betrugsvorwuerfe-parlamentswahl",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-10/georgien-wahl-untersuchung-blinken-bild/super__430x286",
+      "image_title": "Parlamentswahl: Unterstützer der Regierungspartei Georgischer Traum feiern deren Sieg. Die Rechtmäßigkeit des Wahlergebnisses wird infragegestellt."
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Bulgarien : Konservative Partei liegt laut Hochrechnungen nach Parlamentswahl vorn",
+      "teaser": "Die Partei von Ex-Regierungschef Bojko Borissow spricht von einem klaren Regierungsauftrag. Die Bildung einer stabilen Koalition dürfte aber schwierig werden.",
+      "url": "https://www.zeit.de/politik/ausland/2024-10/parlamentswahl-bulgarien-konservative-hochrechnungen-konservative",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-10/bulgarien-parlamentswahl-hochrechnungen-ergebnisse-bild/super__430x286",
+      "image_title": "Bulgarien: Boiko Borissow, Parteivorsitzender der GERB und ehemaliger bulgarischer Ministerpräsident, reagiert in einer Pressekonferenz, auf die ersten Hochrechnungen."
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Silvio Witt : \"Viele Nazis sind ein Fall für den Arzt\"",
+      "teaser": "Silvio Witt erlebt als Oberbürgermeister von Neubrandenburg einiges an Anfeindungen. Was hilft? Wütende Bürger einfach mal ausbrüllen lassen.",
+      "url": "https://www.zeit.de/zeit-magazin/2024/45/silvio-witt-ratschlaege-leben",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024/45/was-ich-gern-frueher-gewusst-haette-bild-1/wide__892x501",
+      "image_title": "Silvio Witt: \"Viele Nazis sind ein Fall für den Arzt\""
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Traumaverarbeitung • Das Beste aus Z+ : Das denkbar Schönste und das Böseste in derselben Sekunde",
+      "teaser": "In einer Diskothek verlieben sich zwei junge Menschen Hals über Kopf ineinander. Wenige Stunden später ist der eine tot und das Leben des anderen für immer verändert.",
+      "url": "https://www.zeit.de/2024/45/trauma-verarbeitung-unfall-tod-schuldgefuehle",
+      "image_url": "https://img.zeit.de/2024/45/das-denkbar-schoenste-und-das-boeseste-in-derselben-sekunde-bild-1/super__430x286",
+      "image_title": "Traumaverarbeitung • Das Beste aus Z+: Das denkbar Schönste und das Böseste in derselben Sekunde"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); \"Tatort\" Ludwigshafen : Zusammen haben wir keine Chance",
+      "teaser": "Zum 80. Mal ist Ulrike Folkerts als Kommissarin Lena Odenthal im \"Tatort\"-Einsatz. Der Fall um Gewalt gegen Frauen rockt seine Themen aber nur lieblos herunter.",
+      "url": "https://www.zeit.de/kultur/film/2024-10/tatort-ludwigshafen-dein-gutes-recht-obduktionsbericht",
+      "image_url": "https://img.zeit.de/kultur/film/2024-10/tatort-ludwigshafen-dein-gutes-recht-obduktionsbericht-teaser/super__430x286",
+      "image_title": "\"Tatort\" Ludwigshafen: Spielt zum 80. Mal die Lena Odenthal: Ulrike Folkerts"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); US-Wahl : Trump billig, Harris teuer",
+      "teaser": "Migration? Abtreibung? Nein: Wirtschaft ist den Amerikanern das wichtigste Thema. Bloß gibt es sehr verschiedene Meinungen darüber, wie es dem Land ökonomisch geht.",
+      "url": "https://www.zeit.de/politik/ausland/2024-10/us-wahl-preise-finanzen-michigan",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-10/us-wahl-preise-finanzen-michigan-bild1/super__430x286",
+      "image_title": "US-Wahl: Michigan Economy, us, us election, usa, usa election, michigan, midwest, battleground, swing, swing state, battleground state, american politics, politics, presidential election, 2024, 2024 election, usa 2024, trump, harris, voters, vote, voting, business, feature, business feature A detail of a billboard in support of Donald Trump along Interstate 75 in Hazel Park, Michigan on October 23, 2024. (Nic Antaya for ZEIT)"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); US-Wahl : Donald Trump wirbt mit Elon Musk in New York um Wählerstimmen",
+      "teaser": "Der Präsidentschaftskandidat der Republikaner tritt in seiner Heimatstadt auf, einer Hochburg der Demokraten. Er greift Kamala Harris an und hetzt gegen Migranten.",
+      "url": "https://www.zeit.de/politik/ausland/2024-10/donald-trump-new-york-elon-musk-wahlkampf-usa",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-10/donald-trump-new-york-elon-musk-wahlkampf-usa-bild/super__430x286",
+      "image_title": "US-Wahl: A NYPD officer stands in front of an image of Republican presidential nominee and former U.S. President Donald Trump outside Madison Square Garden on the day of Trump's rally, in New York, U.S., October 27, 2024. REUTERS/David Dee Delgado TPX IMAGES OF THE DAY"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Kanarische Inseln : Tausende Teilnehmer bei Demonstrationen gegen irreguläre Migration",
+      "teaser": "Zehntausende Flüchtlinge in Booten steuern jährlich die Kanaren an, um in die EU zu gelangen. Die Bewohner sehen das Gesundheits- und Bildungswesen beeinträchtigt.",
+      "url": "https://www.zeit.de/politik/ausland/2024-10/kanaren-demontration-irregulaere-migration",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-10/gran-canaria-demonstration-migration-bild/super__430x286",
+      "image_title": "Kanarische Inseln: Eine Demonstration gegen Einwanderung in Las Palmas, Gran Canaria, fotografiert im Juli 2024."
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Weg zum Glauben : \"Der Tag meiner Taufe war wunderschön\"",
+      "teaser": "Sebastian Suthau wächst ohne Glauben auf. Doch dann kommt diese Nacht in einer Klinik, die alles verändert.",
+      "url": "https://www.zeit.de/2024/45/weg-glaube-probleme-familie-gemeinschaft-taufe",
+      "image_url": "https://img.zeit.de/2024/45/der-tag-meiner-taufe-war-wunderschoen-bild-1/super__430x286",
+      "image_title": "Weg zum Glauben: Der 23-jährige Sebastian Suthau in der Thomaskirche in Leipzig"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Donna Strickland : \"Es stört mich, wenn andere Frauen ihre Probleme auf mich projizieren\"",
@@ -346,13 +275,6 @@
       "url": "https://www.zeit.de/2024/45/donna-strickland-physik-nobelpreis-frau-wissenschaft-vorbild",
       "image_url": "https://img.zeit.de/2024/45/donna-strickland-physik-nobelpreis-frau-wissenschaft-vorbild-teaserbild-duo/super__430x286",
       "image_title": "Donna Strickland: In den 1980er-Jahren entwickelte Donna Strickland wegweisende Methoden in der Laserforschung."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Podcast \"English, please!\" : Die besten englischsprachigen Bücher des Jahres",
-      "teaser": "Bei einer Liveaufnahme auf der Frankfurter Buchmesse erzählt das Spotlight-Team von den Büchern, die sie im Jahr 2024 in ihren Bann gezogen haben.",
-      "url": "https://www.zeit.de/wissen/2024-10/buchempfehlung-frankfurter-buchmesse-englisch-podcast",
-      "image_url": "https://img.zeit.de/wissen/2024-05/raubkunst-kolonialzeit-grossbritannien-englisch-podcast-bild/super__430x286",
-      "image_title": "Podcast \"English, please!\": Die Hosts von \"English, please!\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Einleitung : 48 Monate Trump",
@@ -656,6 +578,13 @@
       "image_title": "Folge 40: April 2020: TOPSHOT - A health workers puts on a protective gear to disinfect the apartment where the first Kenyan patient of the COVID-19 coronavirus stayed in Ongata Rongai, neighboring town of Nairobi in Kenya, on March 14, 2020. - Kenya announced on March 14, 2020, the first confirmed case of coronavirus in East Africa, as the region so far unscathed by the global pandemic scaled up emergency measures to contain its spread. A 27-year-old Kenyan woman tested positive for the virus on March 12 in Nairobi, a week after returning from the United States via London. (Photo by Yasuyoshi CHIBA / AFP) (Photo by YASUYOSHI CHIBA/AFP via Getty Images)"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Folge 41: Mai 2020 : Der Mord an George Floyd",
+      "teaser": "In Minneapolis führt ein Mord durch einen Polizisten zu weltweiten Protesten. Der Täter wird verurteilt, doch viele geforderte Reformen bleiben symbolisch. Der Mai 2020",
+      "url": "https://www.zeit.de/politik/ausland/2024-10/praesidentschaft-donald-trump-mai-2020",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-10/praesidentschaft-donald-trump-mai/super__320x213",
+      "image_title": "Folge 41: Mai 2020: Der Mord an George Floyd"
+    },
+    {
       "title": "Diese Woche in der ZEIT : »Sollen die Spitzel doch hinter mir herlaufen«",
       "teaser": "Die Witwe des ermordeten russischen Oppositionellen Alexej Nawalny macht jetzt selbst Politik. Gefährlich. Na und? Ein ZEIT-Gespräch",
       "url": "https://premium.zeit.de/abo/diezeit?aktionsnummer=1130785&wt_zmc=fix.int.zonpme.zeitde.epaper.z+.home.bildtext.bildtext&utm_medium=fix&utm_source=zeitde_zonpme_int&utm_campaign=epaper&utm_content=z+_home_bildtext_bildtext?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.link.link&utm_medium=cross&utm_source=zeitde_zonpme_int&utm_campaign=printbox&utm_content=ausgseite_bildtext_link_link",
@@ -692,9 +621,9 @@
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-10/grenzkontrollen-illegale-einreisen-zurueckweisungen-schleuser"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Katholische Kirche : Weltsynode lässt Weihe von Frauen zu Diakoninnen offen",
-      "teaser": "Die Synode der katholischen Kirche ist zu Ende. Das Abschlussdokument spricht von \"Hindernissen für die Anerkennung von Frauen\". Lösungen müssten weiter geprüft werden.",
-      "url": "https://www.zeit.de/gesellschaft/2024-10/katholiken-weltsynode-weihung-diakon-frauen-rolle-kirche"
+      "title": "Z+ (abopflichtiger Inhalt); Bücherverbote in Florida : Bevor Bücher brennen",
+      "teaser": "Von Florida aus zieht ein moralischer Hurrikan auf: Tausende Bücher sind dort in den Schulen verboten worden – weil sie angeblich zu viel von Gewalt und Sex erzählen.",
+      "url": "https://www.zeit.de/kultur/2024-10/buechervebote-florida-schule-sexualitaet-gewalt-republikaner"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Parlamentswahl in Georgien : Wahlkommission erklärt Regierungspartei zur Wahlsiegerin",
@@ -704,28 +633,28 @@
       "image_title": "Parlamentswahl in Georgien: Der georgische Oligarch und Gründer der Regierungspartei Georgischer Traum, Bidzina Iwanischwili, hält eine Rede während einer Versammlung in der Parteizentrale nach der Bekanntgabe des Wahlergebnisses der Parlamentswahlen in Tiflis am 26. Oktober 2024."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Georgien : Egal, was das Volk möchte",
-      "teaser": "Die Regierungspartei Georgiens holt laut Wahlkommission am meisten Stimmen. Schattenherrscher Iwanischwili kommt damit seinem Ziel ein Stück näher: mehr Nähe zu Russland.",
-      "url": "https://www.zeit.de/politik/ausland/2024-10/georgien-wahl-regierung-opposition-betrug-parlament-osze"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Sondierungsgespräche in Thüringen und Sachsen : Merz zweifelt an Wagenknechts Regierungswillen",
       "teaser": "Während BSW-Abgeordnete in Thüringen und Sachsen für Gespräche mit der CDU bereit seien, sei Wagenknecht das nicht. Die Parteichefin wolle gar nicht regieren, sagt Merz.",
       "url": "https://www.zeit.de/politik/deutschland/2024-10/friedrich-merz-bericht-aus-berlin-cdu-bsw-sondierungen-sachsen-thueringen-sahra-wagenknecht"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); US-Wahl : Trump billig, Harris teuer",
-      "teaser": "Migration? Abtreibung? Nein: Wirtschaft ist den Amerikanern das wichtigste Thema. Bloß gibt es sehr verschiedene Meinungen darüber, wie es dem Land ökonomisch geht.",
-      "url": "https://www.zeit.de/politik/ausland/2024-10/us-wahl-preise-finanzen-michigan",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-10/us-wahl-preise-finanzen-michigan-bild2/wide__892x501",
-      "image_title": "US-Wahl: portrait, environmental portrait, Michigan Economy, us, us election, usa, usa election, michigan, midwest, battleground, swing, swing state, battleground state, american politics, politics, presidential election, 2024, 2024 election, usa 2024, trump, harris, voters, vote, voting, business, feature, business feature Cherri Harris, 51, of Detroit, Michigan and Owner/CEO of Swint Logistics Group, Inc. poses for a portrait inside a dump truck in Detroit, Michigan on October 23, 2024. (Nic Antaya for ZEIT)"
+      "title": "Z+ (abopflichtiger Inhalt); Georgien : Egal, was das Volk möchte",
+      "teaser": "Die Regierungspartei Georgiens holt laut Wahlkommission am meisten Stimmen. Schattenherrscher Iwanischwili kommt damit seinem Ziel ein Stück näher: mehr Nähe zu Russland.",
+      "url": "https://www.zeit.de/politik/ausland/2024-10/georgien-wahl-regierung-opposition-betrug-parlament-osze"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Albrecht Mendelssohn Bartholdy : Einer, der den Frieden wollte",
-      "teaser": "Vor 100 Jahren leitete der Jurist Albrecht Mendelssohn Bartholdy in Hamburg eines der ersten Friedensforschungsinstitute der Welt. Er war hoch angesehen – dann kam 1933.",
-      "url": "https://www.zeit.de/2024/41/albrecht-mendelssohn-bartholdy-friedensforschung-jurist-geschichte",
-      "image_url": "https://img.zeit.de/2024/41/einer-der-den-frieden-wollte-bild-1/super__430x286",
-      "image_title": "Albrecht Mendelssohn Bartholdy: Die »modische Abneigung gegen besonnenes Denken« war ihm zuwider: Albrecht Mendelssohn Bartholdy auf einem der letzten erhaltenen Fotos"
+      "title": "Z+ (abopflichtiger Inhalt); Calcio Storico in Florenz : Die Hölle ist leer, und alle Teufel sind hier",
+      "teaser": "Seit Jahrhunderten spielt man in Florenz Calcio Storico. Bei der archaischen Komposition aus Rugby, Handball und Kampfsport geht es brutal zu – wie beim Gladiatorenkampf.",
+      "url": "https://www.zeit.de/zeit-magazin/zeit-mann/2024/02/calcio-storico-florenz-mannschaft-wettkampf-florentiner-fussball",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-09/calcio-storico-florenz-mannschaft-wettkampf-florentiner-fussball-bild/wide__892x501",
+      "image_title": "Calcio Storico in Florenz: Die Hölle ist leer, und alle Teufel sind hier"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Nachthimmel : Warum wir mehr in die Sterne schauen sollten",
+      "teaser": "Im stressigen Alltag wirkt jedes Problem wie großes Drama. Was hilft: sich zu entrücken. In die Sterne zu schauen. Und die Gedanken alter Philosophen wiederaufzunehmen.",
+      "url": "https://www.zeit.de/wissen/2024-10/nachthimmel-sterne-kosmos-philosophie-ueber-all",
+      "image_url": "https://img.zeit.de/wissen/2024-10/nachthimmel-sterne-kosmos-philosophie-ueber-all-bild/super__430x286",
+      "image_title": "Nachthimmel: SAN PEDRO DE ATACAMA, CHILE - AUGUST 26: The Milky Way appears over a mountain in the Valle de la Luna in the Atacama Desert, considered the driest place on earth on August 26, 2022 near San Pedro de Atacama, Chile. The extreme aridity makes the Atacama Desert one of the clearest places on earth to view the night sky. Much of the region receives less than half an inch of rainfall per year, and some areas none at all for hundreds of years. Located in Chile's northern third between two mountain ranges, the Atacama is possibly the oldest desert on earth, experiencing extreme aridity for at least 3 million years. The area is home to the Atacama Large Millimeter/submillimeter Array (ALMA) telescope. The Valley of the Moon is so called because of its lunar and even Mars-like appearance. (Photo by John Moore/Getty Images,)"
     },
     {
       "title": "Verlagsangebot : 7 beliebte Herbst-Reiseziele in Europa",
@@ -756,11 +685,11 @@
       "image_title": "Bürgerkrieg im Sudan: Beschreibung Ein zerstörtes Gebäude in Omdurman. Im Sudan herrscht seit fast 16 Monaten ein blutiger Machtkampf. Der Konflikt hat die nach UN-Angaben weltweit größte Flüchtlingskrise ausgelöst. Mehr als zehn Millionen Menschen wurden vertrieben oder flohen, viele von ihnen mehrfach. (zu dpa: «Ärzte ohne Grenzen: Humanitäre Hilfe im Sudan ist unzureichend») Service +++ dpa-Bildfunk +++ Aufnahmedatum 27.08.2024 Bildnachweis picture alliance/dpa | Mudathir Hameed"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Tariftreuegesetz : Man darf auch untreu sein",
-      "teaser": "Die Regierung will Aufträge nur noch an Unternehmen vergeben, die einen Tarifvertrag haben. So ein Gesetz ist unnötig und schadet nur kleinen Firmen.",
-      "url": "https://www.zeit.de/2024/45/tariftreuegesetz-bundesregierung-auftraege-lohndumping",
-      "image_url": "https://img.zeit.de/2024/45/tariftreuegesetz-bundesregierung-auftraege-lohndumping-teaserbild/wide__892x501",
-      "image_title": "Tariftreuegesetz: Künftig will die Bundesregierung zwischen guten und schlechten Unternehmen unterscheiden. ################ KLITTEN, GERMANY - APRIL 14: Work gloves and tools are pictured in a forge on April 14, 2023 in Klitten, Germany. (Photo by Florian Gaertner/Photothek via Getty Images)"
+      "title": "Z+ (abopflichtiger Inhalt); Industriegipfel : DIHK-Präsident fordert Senkung der Energiepreise für alle Unternehmen",
+      "teaser": "Vor dem Industriegipfel verlangt die Deutsche Industrie- und Handelskammer Entlastungen von der Regierung. Dazu gehören niedrigere Energiepreise und weniger Bürokratie.",
+      "url": "https://www.zeit.de/wirtschaft/2024-10/dihk-fordert-guenstigere-energie-fuer-alle-unternehmen",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-10/dihk-fordert-guenstigere-energie-fuer-alle-unternehmen-bild/wide__892x501",
+      "image_title": "Industriegipfel: Beschreibung Peter Adrian, Präsident der Deutschen Industrie- und Handelskammer (DIHK), spricht während eines IHK-Tags im Haus der Deutschen Wirtschaft. (zu dpa: «DIHK: Mit Wachstumspaket kann Ruder nicht herumgerissen werden») Service +++ dpa-Bildfunk +++ Aufnahmedatum 15.05.2024 Bildnachweis picture alliance/dpa | Sebastian Gollnow"
     },
     {
       "title": "Verlagsangebot : Das Quiz zur US-Wahl: Wie gut kennen Sie sich aus?",
@@ -770,11 +699,11 @@
       "image_title": "Das Quiz zur US-Wahl: Wie gut kennen Sie sich aus?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Energiewirtschaft : Deutschland und Indien vereinbaren Wasserstoff-Zusammenarbeit",
-      "teaser": "Die deutsche Industrie benötigt große Mengen grünen Wasserstoff, um klimaneutral zu werden. Indien bringt sich nun als Lieferant der erneuerbaren Energie ins Spiel.",
-      "url": "https://www.zeit.de/wirtschaft/2024-10/energiewirtschaft-wasserstoff-deutschland-indien-kooperation",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-10/deutschland-indien-wasserstoff-zusammenarbeit-bild/super__430x286",
-      "image_title": "Energiewirtschaft: Wirtschaftsminister Robert Habeck während seines Besuchs in Indien"
+      "title": "Z+ (abopflichtiger Inhalt); Tariftreuegesetz : Man darf auch untreu sein",
+      "teaser": "Die Regierung will Aufträge nur noch an Unternehmen vergeben, die einen Tarifvertrag haben. So ein Gesetz ist unnötig und schadet nur kleinen Firmen.",
+      "url": "https://www.zeit.de/2024/45/tariftreuegesetz-bundesregierung-auftraege-lohndumping",
+      "image_url": "https://img.zeit.de/2024/45/tariftreuegesetz-bundesregierung-auftraege-lohndumping-teaserbild/super__430x286",
+      "image_title": "Tariftreuegesetz: Künftig will die Bundesregierung zwischen guten und schlechten Unternehmen unterscheiden. ################ KLITTEN, GERMANY - APRIL 14: Work gloves and tools are pictured in a forge on April 14, 2023 in Klitten, Germany. (Photo by Florian Gaertner/Photothek via Getty Images)"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Immobilien : Wieso können sich andere ein Haus leisten – ich mir aber nicht?",
@@ -798,18 +727,18 @@
       "image_title": "Schreiben Sie Ihr Buch – in 5 Tagen zu besseren Texten"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Data-Scientist : \"In der Schule konnte ich mit Informatik nichts anfangen\"",
+      "teaser": "Simon, 34, ist Data-Scientist, obwohl er lange nicht programmieren wollte. Er arbeitet komplett remote, verdient 7.500 Euro und hat mit seiner Frau ein Haus gekauft.",
+      "url": "https://www.zeit.de/arbeit/2024-10/data-scientist-remote-arbeit-gehalt-kontoauszug",
+      "image_url": "https://img.zeit.de/arbeit/2024-10/data-scientist-remote-arbeit-gehalt-kontoauszug-bild/wide__892x501",
+      "image_title": "Data-Scientist: \"In der Schule konnte ich mit Informatik nichts anfangen\""
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Einkaufen in Deutschland : Im Supermarkt der Zukunft",
       "teaser": "Supermärkte auf dem Land, ohne Kassierer, rund um die Uhr geöffnet: Mittlerweile gibt es deutschlandweit etwa 500 Läden dieser Art – und wöchentlich kommen weitere hinzu.",
       "url": "https://www.zeit.de/2024/45/supermaerkte-deutschland-personal-oeffnungszeiten-nettlingen",
-      "image_url": "https://img.zeit.de/2024/45/tante-emma-laden-ohne-emma-bild-1/wide__892x501",
+      "image_url": "https://img.zeit.de/2024/45/tante-emma-laden-ohne-emma-bild-1/super__430x286",
       "image_title": "Einkaufen in Deutschland: Rund um die Uhr geöffnet, auch sonntags: Eine Filiale der Kette Tante Enso in Nettlingen, Niedersachsen."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Weissenhäuser Strand : Der Chef, zu dem alle wollen",
-      "teaser": "Sie kommen aus Madagaskar, aus Indien, der Türkei. Und haben ein Ziel: den Weissenhäuser Strand an der Ostsee. Warum Fachkräfte hier arbeiten möchten.",
-      "url": "https://www.zeit.de/arbeit/2024-10/weissenhaeuser-strand-schleswig-holstein-fachkraeftemangel-personal-arbeitgeber",
-      "image_url": "https://img.zeit.de/arbeit/2024-10/weissenhaeuser-strand-schleswig-holstein-fachkraeftemangel-personal-arbeitgeber-teaser/super__430x286",
-      "image_title": "Weissenhäuser Strand: David Depenau auf der Seebrücke"
     },
     {
       "title": "Winterblues ade : So bringen Sie ihr Team motiviert durch die dunkle Jahreszeit",
@@ -861,11 +790,11 @@
       "image_title": "Denis Villeneuve Regisseur Blade Runner 2049 Porträt"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); \"Das All im eignen Fell\" von Clemens J. Setz : es ist herbts / auf dem feld / DIE KÜRBEN",
-      "teaser": "Clemens J. Setz hat einen Nachruf auf Twitter geschrieben. Der Gedichtband löst sogar bei denen Heimweh nach der Plattform aus, die sich dort nie zu Hause gefühlt haben.",
-      "url": "https://www.zeit.de/2024/45/clemens-setz-twitter-gedichtband-poesie-social-media",
-      "image_url": "https://img.zeit.de/2024/45/clemens-setz-twitter-gedichtband-poesie-social-media-teaserbild/super__430x286",
-      "image_title": "\"Das All im eignen Fell\" von Clemens J. Setz: Clemens J. Setzt hat mit \"Das All im eignen Fell\" einen Nekrolog auf Twitter und seine Poesie geschrieben."
+      "title": "Z+ (abopflichtiger Inhalt); Laurent Schwarz : Die Sache mit dem Wunderkind",
+      "teaser": "Alle paar Jahre wird ein Kind als Jahrhunderttalent gefeiert. Dieses Mal: der dreijährige Laurent Schwarz aus Bayern. Seine Gemälde verkaufen sich für Zehntausende Euro.",
+      "url": "https://www.zeit.de/kultur/kunst/2024-10/laurent-schwarz-kind-kunst-bayern",
+      "image_url": "https://img.zeit.de/kultur/kunst/2024-08/laurent-schwarz-kind-kunst-slide-01-05/super__430x286",
+      "image_title": "laurent-schwarz-kind-kunst-slide-01-05"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Personalisierte Ernährung : Fitter, wacher, schlanker – mit dem Speiseplan aus dem Labor",
@@ -873,6 +802,13 @@
       "url": "https://www.zeit.de/wissen/2024-10/personalisierte-ernaehrung-wissenschaft-ernaehrungsplan-dna",
       "image_url": "https://img.zeit.de/2024-10/personalisierte-ernaehrung-wissenschaft-ernaehrungsplan-dna-bild/super__320x213",
       "image_title": "Personalisierte Ernährung: Fitter, wacher, schlanker – mit dem Speiseplan aus dem Labor"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Podcast \"English, please!\" : Die besten englischsprachigen Bücher des Jahres",
+      "teaser": "Bei einer Liveaufnahme auf der Frankfurter Buchmesse erzählt das Spotlight-Team von den Büchern, die sie im Jahr 2024 in ihren Bann gezogen haben.",
+      "url": "https://www.zeit.de/wissen/2024-10/buchempfehlung-frankfurter-buchmesse-englisch-podcast",
+      "image_url": "https://img.zeit.de/wissen/2024-05/raubkunst-kolonialzeit-grossbritannien-englisch-podcast-bild/super__320x213",
+      "image_title": "Podcast \"English, please!\": Die Hosts von \"English, please!\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Geschichtspodcast : Born in the USA, Teil 1: Demokratie in Gefahr",
@@ -908,13 +844,6 @@
       "url": "https://www.zeit.de/politik/ausland/2024-10/us-migrationspolitik-wahlkampf-ok-america",
       "image_url": "https://img.zeit.de/politik/ausland/2024-10/us-migrationspolitik-wahlkampf-ok-america-bild/super__320x213",
       "image_title": "US-Migrationspolitik: Eine Familie, die die Grenze zu Fuß überquert hat, ruht sich im Juni 2024 auf einer Straße in Kalifornien aus."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Und was machst du am Wochenende?\" : \"Ich esse jeden Tag eine Tafel Schokolade\"",
-      "teaser": "Übers Alt-und-krank-Sein will Elke Heidenreich nicht reden. Dafür verrät sie im Wochenendpodcast ihr Glücksrezept und wie sie ihre Stimme als Autorin gefunden hat.",
-      "url": "https://www.zeit.de/gesellschaft/2024-10/elke-heidenreich-autorin-wochenende-tipps-podcast",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-10/elke-heidenreich-autorin-wochenende-tipps-podcast-bild/super__320x213",
-      "image_title": "\"Und was machst du am Wochenende?\": \"Ich esse jeden Tag eine Tafel Schokolade\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Moshpits : Wie überlebt man im Moshpit?",
@@ -1048,18 +977,18 @@
       "image_title": "Parlamentswahl Georgien: Georgiens Wahlkommission erklärt Regierungspartei zur Siegerin"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Kunstfotografie : Was eine Generation an die nächste weitergibt",
+      "teaser": "Tyler Mitchell gehört zu den wichtigsten Fotografen seiner Generation – ein wichtiges Thema ist die Interpretation schwarzer Familien. Hier kommentiert er seine Fotos.",
+      "url": "https://www.zeit.de/zeit-magazin/2024/24/kunstfotografie-tyler-mitchell-georgia-usa-kunstgeschichte",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024/45/tyler-mitchell-bild-1/wide__892x501",
+      "image_title": "Kunstfotografie: Was eine Generation an die nächste weitergibt"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Ricotta-Cheesecake mit Quitten : Krasser Käsekuchen",
       "teaser": "Wer keine Äpfel mit Birnen vergleichen will, greife zur Quitte. Das schwarze Schaf der Obstfamilie ist süß und überhaupt nicht widerspenstig – wie dieser Kuchen beweist.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-10/ricotta-cheesecake-quitten-backen-sonntag-rezept",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-10/ricotta-cheesecake-quitten-backen-sonntag-rezep-teaserbild/wide__892x501",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-10/ricotta-cheesecake-quitten-backen-sonntag-rezep-teaserbild/super__430x286",
       "image_title": "Ricotta-Cheesecake mit Quitten: Krasser Käsekuchen"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Dschagga : Ich bin einer von den guten Weißen. Oder?",
-      "teaser": "Die Dschagga in Tansania versuchen, ihre von deutschen Kolonialisten vernichtete Geschichte zurückzubekommen: durch Bücher, die der Urgroßvater unseres Autors schrieb.",
-      "url": "https://www.zeit.de/zeit-magazin/2024/45/dschagga-kolonialismus-geschichte-aufarbeitung-nachfahren",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024/45/ich-bin-einer-von-den-guten-weissen-oder-bild-1/super__430x286",
-      "image_title": "Dschagga: Schülerinnen und Schüler der Mangi-Meli-Schule in der Nähe von Moshi am Kilimandscharo. Hier soll in Zukunft mehr über das kulturelle Erbe der Dschagga gelehrt werden"
     },
     {
       "title": "Worträtsel : Wortiger",
@@ -1167,11 +1096,11 @@
       "image_title": "Bundesliga, 8. Spieltag – Sonntag: Marvin Pieringer of 1.FC Heidenheim 1846 and Kevin Akpoguma of TSG 1899 Hoffenheim battle for the ball during the Bundesliga match between 1. FC Heidenheim 1846 and TSG 1899 Hoffenheim at Voith-Arena on October 27, 2024 in Heidenheim, Germany."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Streckenrekord : Patrick Lange gewinnt erneut Ironman-WM auf Hawaii",
-      "teaser": "Der deutsche Triathlet Patrick Lange hat zum dritten Mal die Ironman-Weltmeisterschaft auf Hawaii gewonnen. Der 38-Jährige absolvierte das Programm in Streckenrekordzeit.",
-      "url": "https://www.zeit.de/sport/2024-10/patrick-lange-ironman-wm-hawaii-streckenrekord-sieg",
-      "image_url": "https://img.zeit.de/sport/2024-10/triathlet-patrick-lange/super__430x286",
-      "image_title": "Streckenrekord: Triathlet Patrick Lange aus Hessen feiert seinen Sieg bei der Ironman-WM auf Hawaii."
+      "title": "Z+ (abopflichtiger Inhalt); Fitnessübung : Die Handshake-Kniebeugen",
+      "teaser": "Die gute alte Kniebeuge ist Ihnen zu langweilig? Schnappen Sie sich einen Partner und probieren Sie diese dynamische Variante aus. Spaß und Fitness kommen im Sprung.",
+      "url": "https://www.zeit.de/sport/2024-10/handshake-kniebeugen-fitnessuebung-personal-trainer",
+      "image_url": "https://img.zeit.de/sport/2024-10/handshake-kniebeugen-fitnessuebung-personal-trainer-02/super__430x286",
+      "image_title": "Fitnessübung: Die Handshake-Kniebeugen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Stadtplanung : \"Man sieht hier, welche Zahncreme der Nachbar benutzt\"",
@@ -1188,36 +1117,36 @@
       "image_title": "Inneneinrichtung: Marcel Engel in seinem Friseursalon"
     },
     {
+      "title": "Union gegen Frankfurt: Massive Kritik am Schiedsrichter: «Peinlich» und «skandalös»",
+      "url": "https://www.zeit.de/news/2024-10/28/massive-kritik-am-schiedsrichter-peinlich-und-skandaloes"
+    },
+    {
+      "title": "Zeremonie in Paris: Ohne Messi und Ronaldo: Wer gewinnt den Ballon d'Or?",
+      "url": "https://www.zeit.de/news/2024-10/28/ohne-messi-und-ronaldo-wer-gewinnt-den-ballon-d-or"
+    },
+    {
+      "title": "Migration: Zahl der Ausreisepflichtigen in Hamburg sinkt",
+      "url": "https://www.zeit.de/news/2024-10/28/zahl-der-ausreisepflichtigen-in-hamburg-sinkt"
+    },
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "url": "https://www.zeit.de/news/2024-10/28/bilder-des-tages"
+    },
+    {
+      "title": "Fußball-Bundesliga: FCH-Keeper scherzt nach Jubiläum: «Auf die nächsten 300»",
+      "url": "https://www.zeit.de/news/2024-10/28/fch-keeper-scherzt-nach-jubilaeum-auf-die-naechsten-300"
+    },
+    {
+      "title": "Verkehrsunfall: Motorradfahrer und Mitfahrerin bei Unfall schwer verletzt",
+      "url": "https://www.zeit.de/news/2024-10/28/motorradfahrer-und-mitfahrerin-bei-unfall-schwer-verletzt"
+    },
+    {
+      "title": "Erste Ernte: Gute Prognose für Grünkohlernte in Niedersachsen",
+      "url": "https://www.zeit.de/news/2024-10/28/gute-prognose-fuer-gruenkohlernte-in-niedersachsen"
+    },
+    {
       "title": "Fußball-Bundesliga: Musialas ungewohntes Tor: «Mehr Kopfballpendel machen»",
       "url": "https://www.zeit.de/news/2024-10/28/musialas-ungewohntes-tor-mehr-kopfballpendel-machen"
-    },
-    {
-      "title": "Das WM-Duell: Zoff um «gefährlichen» Verstappen spitzt sich zu",
-      "url": "https://www.zeit.de/news/2024-10/28/zoff-um-gefaehrlichen-verstappen-spitzt-sich-zu"
-    },
-    {
-      "title": "Warnstreiks: Metall-Tarifrunde geht in die heiße Phase",
-      "url": "https://www.zeit.de/news/2024-10/28/metall-tarifrunde-geht-in-die-heisse-phase"
-    },
-    {
-      "title": "Rückkehr in die Klassen: Unterrichtsstart nach den Herbstferien in NRW",
-      "url": "https://www.zeit.de/news/2024-10/28/unterrichtsstart-nach-den-herbstferien-in-nrw"
-    },
-    {
-      "title": "Wärmeversorgung: Fernwärmetunnel unter der Elbe zu 75 Prozent gebohrt",
-      "url": "https://www.zeit.de/news/2024-10/28/fernwaermetunnel-unter-der-elbe-zu-75-prozent-gebohrt"
-    },
-    {
-      "title": "Energiewende: Vattenfall übernimmt Berliner Wärmepumpen-Installateur",
-      "url": "https://www.zeit.de/news/2024-10/28/vattenfall-uebernimmt-berliner-waermepumpen-installateur"
-    },
-    {
-      "title": "Schubkraft für Behörden: «NRW.Genius» soll Landesverwaltung unterstützen",
-      "url": "https://www.zeit.de/news/2024-10/28/nrw-genius-soll-landesverwaltung-unterstuetzen"
-    },
-    {
-      "title": "Schutz von Orchideen und Co.: Thüringer Pflanzenwelt schwindet lautlos",
-      "url": "https://www.zeit.de/news/2024-10/28/thueringer-pflanzenwelt-schwindet-lautlos"
     }
   ]
 }
