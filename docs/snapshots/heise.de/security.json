@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-30T09:07:34",
+  "timestamp": "2024-10-30T10:08:43",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Qnap NAS",
+      "url": "https://www.heise.de/news/Qnap-schliesst-NAS-Sicherheitsluecke-aus-Hackerwettbewerb-9998904.html"
+    },
+    {
       "title": "Google Chrome",
       "url": "https://www.heise.de/news/Google-Chrome-Kritische-Sicherheitsluecke-gestopft-9998860.html"
     },
@@ -44,8 +48,14 @@
       "url": "https://www.heise.de/news/IBM-App-Connect-Enterprise-Angreifer-koennen-Anmeldung-umgehen-9996620.html"
     },
     {
-      "title": "VMware Tanzu Spring Security",
-      "url": "https://www.heise.de/news/Spring-Security-Kritische-Sicherheitsluecke-ermoeglicht-Autorisierungsumgehung-9996582.html"
+      "title": "Qnap schließt NAS-Sicherheitslücke aus Hackerwettbewerb",
+      "teaser": "NAS-Modelle von Qnap mit der Backupsoftware HBS 3 Hybrid Backup Sync sind angreifbar. Eine neue Version schließt eine kritische Schwachstelle.",
+      "url": "https://www.heise.de/news/Qnap-schliesst-NAS-Sicherheitsluecke-aus-Hackerwettbewerb-9998904.html"
+    },
+    {
+      "title": "Heise meets…. Explodierende Pager sind klassische Supply-Chain-Attacken",
+      "teaser": "Dieses Jahr gab es jede Menge Daten-Leaks. Mindestens ein Riesen-Leak war jedoch heiße Luft, sagt Christopher Kunz auf der it-sa.",
+      "url": "https://www.heise.de/news/Heise-meets-Explodierende-Pager-sind-klassische-Supply-Chain-Attacken-9999177.html"
     },
     {
       "title": "Cisco: Brute-Force-Schutz für mehr ASA- und FTD-Versionen verfügbar",
@@ -152,18 +162,6 @@
       "teaser": "Nvidia warnt vor mehreren Sicherheitslücken in den Grafiktreibern, die etwa das Ausweiten der Rechte ermöglichen. Updates stehen bereit.",
       "url": "https://www.heise.de/news/Nvidia-Rechteausweitung-durch-Sicherheitsluecken-in-Grafiktreiber-moeglich-9995842.html",
       "image_title": "Grafikkarte vor Monitor, darauf sind Viren zu sehen"
-    },
-    {
-      "title": "iX-Workshop: OWASP® Top 10 – Sicherheitsrisiken für Webanwendungen verstehen",
-      "teaser": "Lernen Sie die wichtigsten Sicherheitslücken in Web-Anwendungen kennen und erfahren Sie, wie Sie sich erfolgreich schützen können.",
-      "url": "https://www.heise.de/news/iX-Workshop-OWASP-R-Top-10-Sicherheitsrisiken-fuer-Webanwendungen-verstehen-9988943.html",
-      "image_title": "Online-Workshop: OWASP Top 10 – Sicherheitslücken in Webanwendungen vermeiden"
-    },
-    {
-      "title": "IT-Sicherheit: Bundestag testet heimlich Phishing-Resilienz von Abgeordneten",
-      "teaser": "In jüngster Zeit haben Politiker im Bundestag gezielte Phishing-Mails erhalten. Es handelte sich um einen Sicherheitstest, den offenbar nicht alle meisterten.",
-      "url": "https://www.heise.de/news/IT-Sicherheit-Bundestag-testet-heimlich-Phishing-Resilienz-von-Abgeordneten-9995453.html",
-      "image_title": "Bundestag, Reichstag"
     },
     {
       "title": "Scuba-Webinar",
