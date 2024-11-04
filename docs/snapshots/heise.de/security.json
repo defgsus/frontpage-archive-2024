@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-04T07:08:04",
+  "timestamp": "2024-11-04T08:11:03",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Okta Verify",
+      "url": "https://www.heise.de/news/Okta-Sicherheitsluecke-in-Verify-gibt-Angreifern-Zugriff-auf-Passwoerter-10002764.html"
+    },
+    {
       "title": "Synology-NAS",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Schadcode-Attacken-auf-Synology-NAS-moeglich-10001396.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Ransomware-Attacken-auf-Server-mit-CyberPanel-beobachtet-9999314.html"
     },
     {
-      "title": "Qnap NAS",
-      "url": "https://www.heise.de/news/Qnap-schliesst-NAS-Sicherheitsluecke-aus-Hackerwettbewerb-9998904.html"
+      "title": "Okta: Sicherheitslücke in Verify gibt Angreifern Zugriff auf Passwörter",
+      "teaser": "In der Gerätezugriffssteuerungssoftware Verify von Okta können Angreifer eine Sicherheitslücke im Windows-Agent missbrauchen, um Passwörter abzugreifen.",
+      "url": "https://www.heise.de/news/Okta-Sicherheitsluecke-in-Verify-gibt-Angreifern-Zugriff-auf-Passwoerter-10002764.html",
+      "image_title": "Ein Krimineller versucht, Verschlüsselung/Login eines Rechners zu knacken"
     },
     {
       "title": "KRITIS: Spezielle Prüfverfahrenskompetenz für § 8a BSIG | iX-Workshop",
@@ -156,12 +162,6 @@
       "title": "Operation Magnus: Internationale Strafermittler sprengen große Malware-Plattform",
       "teaser": "Unter anderem Ermittler aus Europa und den USA haben eine Malware-Plattform offline genommen. Die verteilte weltweit die Infostealer Redline und Meta.",
       "url": "https://www.heise.de/news/Operation-Magnus-Internationale-Strafermittler-sprengen-grosse-Malware-Plattform-9997314.html"
-    },
-    {
-      "title": "Raspberry Pi OS: Wayland jetzt für alle!",
-      "teaser": "Das Raspberry-Pi-Projekt hat eine neue Fassung von Raspberry Pi OS veröffentlicht. Es liefert nun vor allem Wayland für alle Pis.",
-      "url": "https://www.heise.de/news/Raspberry-Pi-OS-Wayland-jetzt-fuer-alle-9997332.html",
-      "image_title": "Raspberry Pi"
     },
     {
       "title": "Scuba-Webinar",
