@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-04T14:00:50",
+  "timestamp": "2024-11-04T15:07:39",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://interactive.zeit.de/g/wiegehtesihnen/app.2efa25350c04f7b43370.cached.js",
       "id": null,
       "text": null
     },
@@ -64,15 +70,51 @@
       "src": "https://live0.zeit.de/zon-er/pland-dash-scripts.js",
       "id": null,
       "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://interactive.zeit.de/g/2024/energiekostenmonitor/static/assets/index.ece95f03.mjs",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://interactive.zeit.de/g/2024/energiekostenmonitor/static/assets/react.5ccd2574.mjs",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://interactive.zeit.de/g/2024/energiekostenmonitor/static/assets/parameter-types.49901f6a.mjs",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://interactive.zeit.de/g/2024/energiekostenmonitor/static/assets/preload-helper.95bd70cb.mjs",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://interactive.zeit.de/g/2024/energiekostenmonitor/static/assets/useWasVisible.7423e9fb.mjs",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://interactive.zeit.de/g/2024/energiekostenmonitor/static/assets/dashboard.a27561be.mjs",
+      "id": null,
+      "text": null
     }
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Elon Musk : Erst holt er Pennsylvania, dann kriegt er den Mars",
-      "teaser": "Elon Musk will Donald Trump zum Sieg führen, um sein Lebensziel zu realisieren: die Besiedelung des Mars. Nur wenn Trump Präsident wird, hat er das Geld, um loszufliegen.",
-      "url": "https://www.zeit.de/kultur/2024-11/elon-musk-mars-mission-donald-trump-us-wahl-republikaner",
-      "image_url": "https://img.zeit.de/kultur/2024-11/elon-musk-mars-mission-donald-trump-us-wahl-republikaner-bild/wide__1000x562",
-      "image_title": "Elon Musk: Tesla and SpaceX CEO Elon Musk listens as Republican presidential nominee former President Donald Trump speaks at a campaign event at the Butler Farm Show, Saturday, Oct. 5, 2024, in Butler, Pa."
+      "title": "Z+ (abopflichtiger Inhalt); Wohnungsnot in Arizona : Wo Trump von der Wut profitiert",
+      "teaser": "Kein anderer Bundesstaat hat so von Bidens Regierung profitiert wie Arizona. Trotzdem sind die Demokraten hier bei vielen unbeliebt. Denn der Boom verknappt den Wohnraum.",
+      "url": "https://www.zeit.de/2024/46/wohnungsnot-arizona-phoenix-us-wirtschaft",
+      "image_url": "https://img.zeit.de/2024/46/no-sweet-home-in-arizona-bild-1/wide__1000x562",
+      "image_title": "Wohnungsnot in Arizona: Der Preis für ein klassisches Einfamilienhaus in Phoenix, Arizona, ist seit 2010 um mehr als 360 Prozent gestiegen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); US-Wahl : So läuft die Präsidentschaftswahl in den USA ab",
@@ -82,11 +124,11 @@
       "image_title": "US-Wahl: MIDLOTHIAN, VA - NOVEMBER 7: Voters fill out their ballots at a polling station on Tuesday, November 7, 2023. (Julia Nikhinson/For The Washington Post via Getty Images)"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Wisconsin : \"Nicht wir haben die Republikaner verlassen, sondern sie uns\"",
-      "teaser": "Brookfield, ein Vorort von Milwaukee, wählte immer überwältigend republikanisch. Am Dienstag könnte es die Wahl in Wisconsin entscheiden – zugunsten der Demokraten.",
-      "url": "https://www.zeit.de/politik/ausland/2024-10/wisconsin-us-wahl-demokraten-swing-state-migration",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-11/wisconsin-us-wahl-demokraten-swing-state-6/super__430x286",
-      "image_title": "Wisconsin: taylor glascock, photography, City Hall, Brookfield, WI, USA, elections Brookfield, WI - October 22: Mayor Steven Ponto poses for a portrait at City Hall on Tuesday, Oct. 22, 2024 in Brookfield, Wis. Ponto is currently serving his fourth term as mayor. (Taylor Glascock/for ZEIT ONLINE)"
+      "title": "Z+ (abopflichtiger Inhalt); Elon Musk : Erst holt er Pennsylvania, dann kriegt er den Mars",
+      "teaser": "Elon Musk will Donald Trump zum Sieg führen, um sein Lebensziel zu realisieren: die Besiedelung des Mars. Nur wenn Trump Präsident wird, hat er das Geld, um loszufliegen.",
+      "url": "https://www.zeit.de/kultur/2024-11/elon-musk-mars-mission-donald-trump-us-wahl-republikaner",
+      "image_url": "https://img.zeit.de/kultur/2024-11/elon-musk-mars-mission-donald-trump-us-wahl-republikaner-bild/super__430x286",
+      "image_title": "Elon Musk: Tesla and SpaceX CEO Elon Musk listens as Republican presidential nominee former President Donald Trump speaks at a campaign event at the Butler Farm Show, Saturday, Oct. 5, 2024, in Butler, Pa."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); U.S. Campaign on TikTok : Where Harris Is a Communist and the Attack on Trump Is a Fake",
@@ -101,13 +143,6 @@
       "url": "https://www.zeit.de/politik/ausland/2024-11/us-wahlkampf-tiktok-social-media-demokraten-republikaner",
       "image_url": "https://img.zeit.de/politik/ausland/2024-10/us-wahlkampf-tiktok-social-media-demokraten-republikaner-teaser/square__430x430",
       "image_title": "US-Wahlkampf auf TikTok • Das Wichtigste aus Z+: Wo Harris Kommunistin ist und das Attentat auf Trump ein Fake"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); US-Wahl : Deutschlands amerikanisches Dilemma",
-      "teaser": "Ob Trump oder Harris: Deutschland muss eine eigenständige Außenpolitik entwickeln. Wirtschaft, Geopolitik und militärische Angelegenheiten müssen zusammen gedacht werden.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-10/us-wahl-folgen-deutsche-perspektive-kamala-harris-donald-trump",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-11/us-wahl-folgen-deutsche-perspektive-kamala-harris-donald/super__430x286",
-      "image_title": "US-Wahl: BROOMFIELD, CO- NOVEMBER 05: Clad in jacket with an American flag, a republican supporter attends a campaign event for Republican candidate, Joe ODea, who is running for U.S. Senate in Colorado at La Distileria on Saturday November 05, 2022 in Broomfield, CO. ODea is running against Colorado Senator Michael Bennet (D-CO). Colorado has some key races that could influence the congressional balance of power.(Photo by Matt McClain/The Washington Post via Getty Images)"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); US-Wahl-Szenarien : So kann Trump gewinnen. Und so Harris",
@@ -131,22 +166,15 @@
       "image_title": "Donald-Trump-Wähler: Das sind die Millionen, die Donald Trump wählen wollen"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); US-Wahlkampf : Das Ende eines verrückten Wahlkampfes",
-      "teaser": "Kamala Harris und Donald Trump rasen noch einmal durch die Swing-States: Im US-Podcast diskutieren wir über letzte Rallys, Umfragen und diesen historischen Wahlkampf.",
-      "url": "https://www.zeit.de/politik/ausland/2024-11/us-wahlkampf-kamala-harris-donald-trump-ok-america",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-11/us-wahlkampf-kamala-harris-donald-trump-ok-america-bild/super__430x286",
-      "image_title": "US-Wahlkampf: Anhänger der Vizepräsidentin der USA und demokratischen Präsidentschaftskandidatin Kamala Harris hören zu, als sie während einer Wahlkampfveranstaltung in Atlanta, Georgia, am 2. November 2024 spricht."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Ampelstreit : FDP lässt Fortbestand der Ampel nach Koalitionsausschuss offen",
+      "title": "Z+ (abopflichtiger Inhalt); Ampelstreit : FDP lässt Fortbestand der Ampel nach Mittwoch offen",
       "teaser": "Im Streit der Ampel um die Wirtschaftspolitik fordert der FDP-Generalsekretär eine Grundsatzentscheidung. Ob die Koalition die Woche übersteht, \"wird man sehen\", sagt er.",
       "url": "https://www.zeit.de/politik/deutschland/2024-11/fdp-ampel-bijan-djir-sarai",
       "image_url": "https://img.zeit.de/politik/deutschland/2024-11/fdp-ampel-bijan-djir-sarai-bild/super__430x286",
       "image_title": "Ampelstreit: Bijan Djir-Sarai in der 184. Sitzung des Deutschen Bundestages im Reichstagsgebäude. Berlin, 11.09.2024"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Wiener Schmusechor : \"Ich bin gerne körperlich\"",
-      "teaser": "Grell, bunt und laut: Seit zehn Jahren gibt es den Wiener Schmusechor. Eine Begegnung mit seiner Gründerin Verena Giesinger",
+      "title": "Z+ (abopflichtiger Inhalt); Wiener Schmusechor : Küssen und singen macht man beides mit dem Mund",
+      "teaser": "Kann ein Chor politisch sein? Und wie! Seit zehn Jahren gibt es den grellen, bunten und lauten Wiener Schmusechor. Eine Begegnung mit seiner Gründerin Verena Giesinger",
       "url": "https://www.zeit.de/2024/46/wiener-schmusechor-verena-giesinger-lgbtiq-musik",
       "image_url": "https://img.zeit.de/2024/46/ich-bin-gerne-koerperlich-bild-1/super__430x286",
       "image_title": "Wiener Schmusechor: Verena Giesinger (Mitte) und der Schmusechor beim Neujahrskonzert im Jänner 2024 im Wiener WUK"
@@ -159,6 +187,13 @@
       "image_title": "\"Nala und der Findelwolf\": Eines Tages findet die 12-jährige Nala einen Wolfswelpen und nimmt ihn bei sich auf."
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Livestream:Nato-Generalsekretär : Mark Rutte trifft Olaf Scholz zum Antrittsbesuch in Berlin",
+      "teaser": "Der neue Nato-Generalsekretär Mark Rutte ist zu Besuch im Bundeskanzleramt. Zusammen mit Bundeskanzler Olaf Scholz tritt er in Berlin vor die Presse. Jetzt im Livestream",
+      "url": "https://www.zeit.de/politik/2024-11/nato-generalsekretaer-mark-rutte-olaf-scholz-berlin-live",
+      "image_url": "https://img.zeit.de/politik/2024-11/rutte-berlin-livestream/super__430x286",
+      "image_title": "Nato-Generalsekretär: Mark Rutte trifft Olaf Scholz zum Antrittsbesuch in Berlin"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Israel : Brisante Enthüllungen",
       "teaser": "In Israel sind geheime Dokumente an Medien geraten, auch an die \"Bild\". Der Skandal zeigt, wie defekt Israels politisches System unter Benjamin Netanjahu wirklich ist",
       "url": "https://www.zeit.de/politik/ausland/2024-11/israel-geheime-dokumente-medien-benjamin-netanjahu",
@@ -166,11 +201,11 @@
       "image_title": "Israel: A mask representing Israel's Prime Minister Benjamin Netanyahu is placed on the street during an anti-government protest calling for action to secure the release of Israeli hostages held captive since the October 7 attacks by Palestinian militants in the Gaza Strip, in front of the Israeli Defence Ministry in Tel Aviv on October 26, 2024, amid the ongoing war between Israel and the militant Hamas group."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Karriere des Partners : \"Hätte ich egoistischer sein sollen?\"",
-      "teaser": "Er steigt beruflich auf – sie steckt zurück, kümmert sich um Haushalt und Kinder. Frauen erzählen, warum sich ihre Karriere nie von diesem Lebensmodell erholt hat.",
+      "title": "Z+ (abopflichtiger Inhalt); Karriere des Partners : \"Für mich fühlte sich das an, als würde ich auf seine Kosten leben\"",
+      "teaser": "Bis die Kinder kamen, waren beide beruflich erfolgreich, dann nur noch er. Frauen erzählen, wie sie damit umgehen, wenn er Karriere macht – und sie nicht.",
       "url": "https://www.zeit.de/arbeit/2024-11/karriere-partner-frau-kosten-alltag",
       "image_url": "https://img.zeit.de/arbeit/2024-11/karriere-partner-frau/wide__892x501",
-      "image_title": "Karriere des Partners: \"Hätte ich egoistischer sein sollen?\""
+      "image_title": "Karriere des Partners: \"Für mich fühlte sich das an, als würde ich auf seine Kosten leben\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Langsam essen : Warum Schlingen wirklich ungesund ist",
@@ -187,25 +222,25 @@
       "image_title": "Geldanlage: Der Goldpreis steigt und steigt – lohnt sich der Kauf?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Finanzbranche : Commerzbank kauft für 600 Millionen Euro eigene Aktien",
-      "teaser": "Die zweitgrößte deutsche Bank will eine mögliche Übernahme durch UniCredit verhindern. Ein Rückkauf eigener Aktien könnte deren Kurs erhöhen und eine Übernahme verteuern.",
-      "url": "https://www.zeit.de/wirtschaft/2024-11/commerzbank-aktien-rueckkauf-unicredit-uebernahme",
-      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-11/commerzbank-aktien-rueckkauf-unicredit-uebernahme-bild/super__430x286",
-      "image_title": "Finanzbranche: Der Hauptsitz der Commerzbank ist am 09. Juni 2021 in Frankfurt, Deutschland, im Finanzviertel zu sehen."
+      "title": "Z+ (abopflichtiger Inhalt); Unwetter : Starkregen behindert Bahn- und Flugverkehr in Katalonien",
+      "teaser": "Nach der Flutkatastrophe in Valencia leidet das benachbarte Katalonien an starken Niederschlägen. Dutzende Flüge wurden gestrichen, in Barcelona stehen Pendlerzüge still.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-11/spanien-unwetter-valencia-katalonien-starkregen-flug-bahn",
+      "image_url": "https://img.zeit.de/politik/deutschland/2021-05/spanien-unwetter-valencia-katalonien-starkregen-flug-bahn-ausfaelle/super__430x286",
+      "image_title": "Unwetter: 04/11/2024 - Menschen stehen am Flughafen Barcelona-El Prat in El Prat de Llobregat, Barcelona, Katalonien. Der Flughafen hat mehrere Flüge aufgrund von Regen umgeleitet. Der Servei Meteorològic de Catalunya (SMC) hat eine Warnung vor heftigen Unwettern in mehreren Bezirken von Barcelona und Tarragona herausgegeben, darunter auch Baix Llobregat, wo er die höchste Gefahrenstufe verordnet hat. Nach der Unwetterkatastrophe im ostspanischen Valencia wird nun die benachbarte Region Katalonien von heftigen Niederschlägen heimgesucht. +++ dpa-Bildfunk +++"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Verteilungsbericht : Sorge um Erhalt des Lebensstandards nimmt zu",
-      "teaser": "Die Ungleichheit bei den Einkommen in Deutschland ist deutlich gewachsen. Zudem haben viele Angst, ihren Lebensstandard nicht halten zu können, zeigt eine Studie.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-11/verteilungsbericht-wirtschafts-und-sozialwissenschaftlcihes-institut-sorge-lebensstandard-gestiegen",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-11/verteilungsbericht-wirtschafts-und-sozialwissenschaftlcihes-institut-sorge-lebensstandard-gestiegen-bild/super__430x286",
-      "image_title": "Verteilungsbericht: Kunden sitzen an den Tischen eines Straßencafés auf dem zentralen Römerplatz in Frankfurt am Main, Westdeutschland, am 28. Februar 2024."
+      "title": "Z+ (abopflichtiger Inhalt); Junge Union : Grönemeyer verbietet CDU Nutzung von \"Zeit, dass sich was dreht\"",
+      "teaser": "Die Junge Union feierte Friedrich Merz zu den Tönen von Herbert Grönemeyers WM-Hymne von 2006 als \"nächsten Kanzler\". Das hat der Künstler der Partei jetzt verboten.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-11/herbert-groenemeyer-cdu-zeit-dass-sich-was-dreht",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-11/herbert-groenemeyer-cdu-merz-jungen-union-bild/super__430x286",
+      "image_title": "Junge Union: Musikstar Herbert Grönemeyer verbietet der CDU die Nutzung des Songs «Zeit, dass sich was dreht» im Dresden am 6. Juni 2024."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); ÖPNV : Ver.di kündigt weitere Streiks im Regionalverkehr an",
-      "teaser": "In mehreren Bundesländern hat ver.di in dieser Woche zu Warnstreiks im ÖPNV aufgerufen. Betroffen seien unter anderem der Schienennahverkehr und Omnibusbetriebe.",
-      "url": "https://www.zeit.de/arbeit/2024-11/oepnv-verdi-ankuendigung-warnstreiks-schienennahverkehr-omnibusse",
-      "image_url": "https://img.zeit.de/mobilitaet/2024-11/oepnv-gewerkschaft-verdi-streiks-bild/super__430x286",
-      "image_title": "ÖPNV: Eine Regionalbahn verlässt den Bahnhof Klanxbüll am 8. Oktober 2024."
+      "title": "Z+ (abopflichtiger Inhalt); Landtagswahlen in Brandenburg : SPD und BSW wollen Koalition in Brandenburg zügig aushandeln",
+      "teaser": "Bis Weihnachten wollen SPD und BSW einen Ministerpräsidenten in Brandenburg wählen. Grundlage für die Koalitionsgespräche waren Sondierungen. Zeit ist bis Mitte Januar.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-11/spd-bsw-brandenburg-verhandlungen-david-kolesnyk-dietmar-woidke-robert-crumbach",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-11/spd-und-bsw-wollen-koalition-in-brandenburg-bis-weihnachten-aushandeln-bild/super__430x286",
+      "image_title": "Landtagswahlen in Brandenburg: Brandenburgs Ministerpräsident Dietmar Woidke (SPD) schüttelt Robert Crumbach, Landesvorsitzenden des BSW Brandenburg (l-r), bei der Landespressekonferenz im Brandenburger Landtagsgebäude die Hand, in Potsdam am 28. Oktober 2024."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); IT-Verwalterin : \"Ich arbeite nicht, damit sich ein Reicher einen Porsche leisten kann\"",
@@ -236,11 +271,11 @@
       "image_title": "Fußballbundesliga: Dieter Hecking"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Feuilleton-Podcast : Kann man es mit der Meinungsfreiheit auch übertreiben?",
-      "teaser": "Neue Regeln sollen Hatespeech in den sozialen Medien eindämmen. Wie frei darf man heute noch reden?",
-      "url": "https://www.zeit.de/kultur/2024-11/meinungsfreiheit-debatte-feuilleton-podcast",
-      "image_url": "https://img.zeit.de/kultur/2022-09/podcast-die-sogenannte-gegenwart-2022-weisbrod-mangold/super__430x286",
-      "image_title": "Feuilleton-Podcast: Kann man es mit der Meinungsfreiheit auch übertreiben?"
+      "title": "Z+ (abopflichtiger Inhalt); Fritz Breithaupt : \"Empathie kann Konflikte verschärfen\"",
+      "teaser": "Ständig heißt es, man müsse mehr Empathie für seinen politischen Gegner aufbringen. Aber dieses Gefühl hat eine dunkle Seite, sagt der Wissenschaftler Fritz Breithaupt.",
+      "url": "https://www.zeit.de/kultur/2024-11/fritz-breithaupt-empathie-politische-konflikte-krieg",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-11/fritz-breithaupt-empathie-freund-feind-bild/super__430x286",
+      "image_title": "Fritz Breithaupt: \"Empathie kann Konflikte verschärfen\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Einleitung : 48 Monate Trump",
@@ -593,11 +628,11 @@
       "image_title": "Folge 47: November 2020: CLEVELAND, OH - JULY 21: Republican presidential candidate Donald Trump points to the crowd as he delivers a speech during the evening session on the fourth day of the Republican National Convention on July 21, 2016 at the Quicken Loans Arena in Cleveland, Ohio. Republican presidential candidate Donald Trump received the number of votes needed to secure the party's nomination. An estimated 50,000 people are expected in Cleveland, including hundreds of protesters and members of the media. The four-day Republican National Convention kicked off on July 18. (Photo by Joe Raedle/Getty Images)"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Przewalski-Pferde : Galopp in die Freiheit",
-      "teaser": "Die Przewalski-Pferde galten als ausgestorben. Sie sollen nun nach Kasachstan zurückkehren. Wie die Auswilderung läuft und wie Tiere, Steppe und Mensch profitieren.",
-      "url": "https://www.zeit.de/2024/46/przewalski-pferde-artenschutz-kasachstan-steppe-tiere",
-      "image_url": "https://img.zeit.de/2024/46/raus-in-die-freiheit-bild-2/wide__892x501",
-      "image_title": "Przewalski-Pferde: In Prag werden die Pferde in ein Militärflugzeug geladen (unten links). Annette Klein (unten rechts) ist dabei, wenn sie dann die ersten Schritte in die Wildnis machen (oben)"
+      "title": "Z+ (abopflichtiger Inhalt); Feuilleton-Podcast : Kann man es mit der Meinungsfreiheit auch übertreiben?",
+      "teaser": "Neue Regeln sollen Hatespeech in den sozialen Medien eindämmen. Wie frei darf man heute noch reden?",
+      "url": "https://www.zeit.de/kultur/2024-11/meinungsfreiheit-debatte-feuilleton-podcast",
+      "image_url": "https://img.zeit.de/kultur/2022-09/podcast-die-sogenannte-gegenwart-2022-weisbrod-mangold/wide__892x501",
+      "image_title": "Feuilleton-Podcast: Kann man es mit der Meinungsfreiheit auch übertreiben?"
     },
     {
       "title": "Diese Woche in der ZEIT : Aufwachen in einer neuen Welt?",
@@ -607,35 +642,28 @@
       "image_title": "Diese Woche in der ZEIT: Aufwachen in einer neuen Welt?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); \"Jenseits aller Zeit\" von Sebastian Barry : Da sitzt also unser alter Kommissar im Sessel und raucht Zigarillos",
-      "teaser": "Sebastian Barry ist einer der besten Schriftsteller Irlands. Nun hat er mit \"Jenseits aller Zeit\" einen Kriminalroman geschrieben. Der bietet literarischen Hochgenuss.",
-      "url": "https://www.zeit.de/2024/46/jenseits-aller-zeit-sebastian-barry-kriminalroman-irland",
-      "image_url": "https://img.zeit.de/2024/46/macht-rache-gluecklich-bild-1/super__430x286",
-      "image_title": "\"Jenseits aller Zeit\" von Sebastian Barry: Am Coliemore Harbour lebt ein alter Kommissar und blickt zurück auf eine blutige Vergangenheit"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Fragen Sie ZEIT ONLINE : Haben Sie ein Thema verpasst?",
-      "teaser": "ZEIT ONLINE beantwortet Ihre Fragen zu aktuellen Ereignissen – mit einer KI, die unsere Artikel der vergangenen 30 Tage als Quelle nutzt. Probieren Sie es aus!",
-      "url": "https://www.zeit.de/beta/fragen-sie-zeit-online-news",
-      "image_url": "https://img.zeit.de/administratives/2024-10/zongpt/super__430x286",
-      "image_title": "Fragen Sie ZEIT ONLINE: Haben Sie ein Thema verpasst?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Fiona Hill : Frau Hill, warum ist Trumps fragiles Ego ein Sicherheitsrisiko?",
-      "teaser": "Sie war Donald Trumps Sicherheitsberaterin. Fiona Hill erzählt, wie sie ihm komplizierte Themen erklärte, warum er manipulierbar ist – und welchen absurden Rat sie bekam.",
-      "url": "https://www.zeit.de/politik/ausland/2024-10/donald-trump-fiona-hill-sicherheitsberaterin-sexismus-us-wahl",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-10/donald-trump-fiona-hill-sicherheitsberaterin/super__430x286",
-      "image_title": "Fiona Hill: Fiona Hill in den Redaktionsräumen von ZEIT ONLINE im Mai 2023"
+      "title": "Z+ (abopflichtiger Inhalt); Mariah Carey : Weihnachtsengel auf Abwegen",
+      "teaser": "30 Jahre \"All I Want for Christmas Is You\", das ist segensreicher Talerregen und Fluch zugleich. Mariah Carey sucht die Abwechslung ausgerechnet im Grunge.",
+      "url": "https://www.zeit.de/zeit-magazin/2024/46/mariah-carey-grunge-album-musik-genres",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024/46/liebe-leute-bild-1/super__430x286",
+      "image_title": "Mariah Carey: Mariah Carey sehnt sich offenbar nach einem musikalischen Tapetenwechsel"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); BibisBeautyPalace : \"Hallo meine Lieben, mein Name ist Bianca\"",
       "teaser": "Bianca Heinicke wurde mit BibisBeautyPalace reich und berühmt, bis sie plötzlich zusammenbrach. Jetzt ist sie zurück. Hier erzählt sie exklusiv, was passiert ist.",
-      "url": "https://www.zeit.de/zeit-magazin/2024/47/bibisbeautypalace-bianca-heinicke-youtube-influencer-podcast-lebensstil"
+      "url": "https://www.zeit.de/zeit-magazin/2024/47/bibisbeautypalace-bianca-heinicke-youtube-influencer-podcast-lebensstil",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024/47/okay-aber-dann-will-ich-jetzt-auch-die-welt-veraendern-bild-1/super__430x286",
+      "image_title": "BibisBeautyPalace: Neue Haarfarbe, neue Lebensphilosophie, neuer Name: Bibi nennt sich jetzt Bianca"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Wisconsin : \"Nicht wir haben die Republikaner verlassen, sondern sie uns\"",
       "teaser": "Brookfield, ein Vorort von Milwaukee, wählte immer überwältigend republikanisch. Am Dienstag könnte es die Wahl in Wisconsin entscheiden – zugunsten der Demokraten.",
       "url": "https://www.zeit.de/politik/ausland/2024-10/wisconsin-us-wahl-demokraten-swing-state-migration"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Arlie Russell Hochschild : \"Wir haben die Augen vor der Wahrheit verschlossen\"",
+      "teaser": "Die Soziologin Arlie Russell Hochschild forschte jahrelang unter weißen, armen Trump-Wählern. Deren Unterstützung lasse sich mit einem \"Stolz-Paradox\" erklären.",
+      "url": "https://www.zeit.de/kultur/2024-10/arlie-russell-hochschild-donald-trump-us-wahl-soziologie"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); BibisBeautyPalace : \"Hallo meine Lieben, mein Name ist Bianca\"",
@@ -672,18 +700,18 @@
       "url": "https://www.zeit.de/politik/deutschland/2024-11/bundesregierung-krise-ampel-olaf-scholz-christian-lindner-robert-habeck"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Dollywood : Alles ist gut in Dollywood",
-      "teaser": "Die Kluft, die die USA entzweit, ist tief wie nie. Doch es gibt einen Ort, an dem Trump- und Harris-Anhänger zueinanderfinden: Dolly Partons Freizeitpark Dollywood.",
-      "url": "https://www.zeit.de/kultur/2024-11/dollywood-dolly-parton-freizeitpark-tennessee",
-      "image_url": "https://img.zeit.de/kultur/2024-11/dollywood-dolly-parton-freizeitpark/wide__892x501",
-      "image_title": "Dollywood: Alles ist gut in Dollywood"
+      "title": "Z+ (abopflichtiger Inhalt); Bundesliga-Rückschau : Nuri Şahin und der Tuchel-Plan",
+      "teaser": "Der viel kritisierte BVB-Trainer gewinnt mit einer viele Jahre alten Idee. Und in Schleswig-Holstein ereignet sich Historisches. Alles Wichtige vom Fußballwochenende",
+      "url": "https://www.zeit.de/sport/2024-11/bundesliga-rueckschau-nuri-sahin-thomas-tuchel",
+      "image_url": "https://img.zeit.de/sport/2024-11/nuri-sahin/wide__892x501",
+      "image_title": "Bundesliga-Rückschau: Nuri Şahin und der Tuchel-Plan"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Wechselwähler in den USA : Für einen Sieg braucht Harris jetzt Wähler wie ihn",
-      "teaser": "Gary Nelson war jahrelang überzeugter Republikaner. Am 5. November wird er zum ersten Mal in seinem Leben für die Demokraten stimmen. Wieso?",
-      "url": "https://www.zeit.de/politik/ausland/2024-11/wechselwaehler-us-wahl-republikaner-demokraten-pro-life",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-11/wechselwaehler-us-wahl-republikaner-demokraten/super__430x286",
-      "image_title": "Wechselwähler in den USA: Gary Nelson in Payson, Arizona, U.S., November 1, 2024."
+      "title": "Z+ (abopflichtiger Inhalt); Wisconsin : \"Nicht wir haben die Republikaner verlassen, sondern sie uns\"",
+      "teaser": "Brookfield, ein Vorort von Milwaukee, wählte immer überwältigend republikanisch. Am Dienstag könnte es die Wahl in Wisconsin entscheiden – zugunsten der Demokraten.",
+      "url": "https://www.zeit.de/politik/ausland/2024-10/wisconsin-us-wahl-demokraten-swing-state-migration",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-11/wisconsin-us-wahl-demokraten-swing-state/super__430x286",
+      "image_title": "Wisconsin: taylor glascock, photography, City Hall, Brookfield, WI, USA, elections Brookfield, WI - October 22: Mayor Steven Ponto poses for a portrait at City Hall on Tuesday, Oct. 22, 2024 in Brookfield, Wis. Ponto is currently serving his fourth term as mayor. (Taylor Glascock/for ZEIT ONLINE)"
     },
     {
       "title": "Verlagsangebot : 7 beliebte Herbst-Reiseziele in Europa",
@@ -693,60 +721,46 @@
       "image_title": "Freunde der ZEIT: 7 beliebte Herbst-Reiseziele in Europa"
     },
     {
-      "title": "Worträtsel : Wortiger",
-      "teaser": "Das beliebte Worträtsel jetzt auch auf ZEIT ONLINE: Finden Sie in 6 Versuchen das richtige Wort. Die Farben helfen, sich der Lösung langsam zu nähern.",
-      "url": "https://spiele.zeit.de/wortiger/",
-      "image_url": "https://img.zeit.de/spiele/wortiger-teaser-neu-7-buchstaben/super__320x213",
-      "image_title": "Worträtsel: Wortiger"
+      "title": "Z+ (abopflichtiger Inhalt); Fragen Sie ZEIT ONLINE : Haben Sie ein Thema verpasst?",
+      "teaser": "ZEIT ONLINE beantwortet Ihre Fragen zu aktuellen Ereignissen – mit einer KI, die unsere Artikel der vergangenen 30 Tage als Quelle nutzt. Probieren Sie es aus!",
+      "url": "https://www.zeit.de/beta/fragen-sie-zeit-online-news",
+      "image_url": "https://img.zeit.de/administratives/2024-10/zongpt/super__430x286",
+      "image_title": "Fragen Sie ZEIT ONLINE: Haben Sie ein Thema verpasst?"
     },
     {
-      "title": "Buchstabenrätsel : Buchstabiene",
-      "teaser": "Bei der Buchstabiene geben wir Ihnen 9 Buchstaben vor – Sie bilden daraus Wörter. So viele wie Sie können.",
-      "url": "https://spiele.zeit.de/buchstabiene/",
-      "image_url": "https://img.zeit.de/spiele/buchstabiene-teaser/super__320x213",
-      "image_title": "Buchstabenrätsel: Buchstabiene"
+      "title": "Z+ (abopflichtiger Inhalt); Liveblog: US-Wahl : Wer regiert künftig die USA?",
+      "teaser": "Kamala Harris oder Donald Trump? Die Entscheidung der US-Wähler betrifft die ganze Welt. Besonders spannend wird es in den Swing-States. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/2024-11/us-wahl-kamala-harris-donald-trump-live",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-10/us-wahl-kamala-harris-donald-trump-live-bild/wide__892x501",
+      "image_title": "US-Wahl: A production crew member adjusts lighting during a a rally featuring Vice President Kamala Harris and Minnesota Gov. Tim Walz in Ann Arbor, Michigan, Monday, Oct. 28, 2024. (Photo by Dominic Gwinn / Middle East Images / Middle East Images via AFP)"
     },
     {
-      "title": "Einfach – mittel – schwer : Sudoku für Einsteiger",
-      "teaser": "Sie sind Sudoku-Anfänger? Dann steigen Sie mit unseren niedrigen Schwierigkeitsgraden in die Sudoku-Welt ein.",
-      "url": "https://sudoku.zeit.de/sudoku-leicht",
-      "image_url": "https://img.zeit.de/spiele/spiele-sudoku-leicht-teaser-neu/super__320x213",
-      "image_title": "Einfach – mittel – schwer: Sudoku für Einsteiger"
+      "title": "Z+ (abopflichtiger Inhalt); US-Wahl : Deutschlands amerikanisches Dilemma",
+      "teaser": "Ob Trump oder Harris: Deutschland muss eine eigenständige Außenpolitik entwickeln. Wirtschaft, Geopolitik und militärische Angelegenheiten müssen zusammen gedacht werden.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-10/us-wahl-folgen-deutsche-perspektive-kamala-harris-donald-trump",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-11/us-wahl-folgen-deutsche-perspektive-kamala-harris-donald/super__430x286",
+      "image_title": "US-Wahl: BROOMFIELD, CO- NOVEMBER 05: Clad in jacket with an American flag, a republican supporter attends a campaign event for Republican candidate, Joe ODea, who is running for U.S. Senate in Colorado at La Distileria on Saturday November 05, 2022 in Broomfield, CO. ODea is running against Colorado Senator Michael Bennet (D-CO). Colorado has some key races that could influence the congressional balance of power.(Photo by Matt McClain/The Washington Post via Getty Images)"
     },
     {
-      "title": "Neu: Logikrätsel : Hashiwokakero",
-      "teaser": "Hashiwokakero ist ein Logikrätsel aus Japan. Ihre Aufgabe besteht darin Brücken zu bauen. Schaffen Sie es, eine durchgängige Verbindung aller Kreise herzustellen?",
-      "url": "https://spiele.zeit.de/hashiwokakero/",
-      "image_url": "https://img.zeit.de/spiele/hashiwokakero-teaser/super__320x213",
-      "image_title": "Neu: Logikrätsel: Hashiwokakero"
+      "title": "Verlagsangebot : Die richtige Ernährung kann so schön und einfach sein",
+      "teaser": "Gesund und fit mit Genuss? Das geht! Und zwar durch ein gut verträgliches und lecker schmeckendes Essen. Das E-Book der ZEIT Akademie - jetzt zum kostenlosen Download.",
+      "url": "https://www.zeitakademie.de/fit-mit-genuss-e-book-download/?icode=01w0387k1036inhrefall2310&utm_medium=referall&utm_source=zon&utm_campaign=e-book-fitmitgenuss&utm_content=01w0387k1036inhrefall2310&wt_zmc=refall.Ext.zabo.zon.e-book-fitmitgenuss.x",
+      "image_url": "https://img.zeit.de/angebote/Links/Bilder/akademie/2024/zak-ernaehrung-8/super__430x286",
+      "image_title": "Die richtige Ernährung kann so schön und einfach sein"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Spiele: Kreuzworträtsel : Um die Ecke gedacht",
-      "teaser": "Lösen Sie unser beliebtes Kreuzworträtsel aus dem ZEITmagazin. Jeden Donnerstag neu, jedes Mal knifflig.",
-      "url": "https://spiele.zeit.de/ecke/",
-      "image_url": "https://img.zeit.de/spiele/spiele-ecke-teaser-neu/super__320x213",
-      "image_title": "Kreuzworträtsel: Um die Ecke gedacht"
+      "title": "Z+ (abopflichtiger Inhalt); Finanzbranche : Commerzbank kauft für 600 Millionen Euro eigene Aktien",
+      "teaser": "Die zweitgrößte deutsche Bank will eine mögliche Übernahme durch UniCredit verhindern. Ein Rückkauf eigener Aktien könnte deren Kurs erhöhen und eine Übernahme verteuern.",
+      "url": "https://www.zeit.de/wirtschaft/2024-11/commerzbank-aktien-rueckkauf-unicredit-uebernahme",
+      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-11/commerzbank-aktien-rueckkauf-unicredit-uebernahme-bild/wide__892x501",
+      "image_title": "Finanzbranche: Der Hauptsitz der Commerzbank ist am 09. Juni 2021 in Frankfurt, Deutschland, im Finanzviertel zu sehen."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Sichere Schulwege : 7.45 Uhr vor Schulen: Elterntaxis im Eskalationsmodus",
-      "teaser": "Viele Kinder werden mit dem Auto in die Schule gebracht. Bedeutet: Stau, Stress, Unfälle. Es gibt Ideen, wie es anders ginge. Aber da ist diese Sache mit dem Vertrauen.",
-      "url": "https://www.zeit.de/mobilitaet/2024-10/sichere-schulwege-ehrenamtliche-mangel-elterntaxis",
-      "image_url": "https://img.zeit.de/mobilitaet/2024-10/schulweg-bus-mit-fuessen-eltern-kinder-bild/wide__892x501",
-      "image_title": "Sichere Schulwege: 7.45 Uhr vor Schulen: Elterntaxis im Eskalationsmodus"
-    },
-    {
-      "title": "Serie : Plan D",
-      "teaser": "Was funktioniert in Deutschland nicht? Und wie geht es besser? Wir starten Plan D: ein Verzeichnis für Probleme und ihre Lösung.",
-      "url": "https://www.zeit.de/serie/plan-d",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-05/plan-d-logo-im-streifen/super__430x286",
-      "image_title": "Serie: Plan D"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Plan D: Tüftler : Geht's noch?",
-      "teaser": "Jedes Jahr trifft sich Deutschlands wildestes Tüftlerforum zum Sommerfest. Wer mitfeiert, lernt, was alles kaputt ist im Land – und wie man es repariert.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2024-10/tueftler-reparatur-werkstatt-fest",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-10/tueftler-reparatur-werkstatt-fest-13/super__430x286",
-      "image_title": "Plan D: Tüftler: Geht's noch?"
+      "title": "Z+ (abopflichtiger Inhalt); Thalia : Thalia übernimmt Online-Buchhändler buecher.de",
+      "teaser": "Die insolvente Plattform buecher.de hat einen Käufer gefunden. Deutschlands größter Buchhändler Thalia übernimmt das Unternehmen mit allen Mitarbeitenden.",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-11/thalia-buecher-de-insolvenz-weltbild",
+      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-11/thalia-buecher-de-insolvenz-weltbild-bild/super__430x286",
+      "image_title": "Thalia: Eine Person besucht einen Stand auf der Frankfurter Buchmesse am 17. Oktober 2024, am zweiten Tag der weltgrößten Buchmesse in Frankfurt am Main, Westdeutschland. Die Frankfurter Buchmesse, die im Jahr 2024 zum 76. Mal stattfindet, läuft von Mittwoch, 16. Oktober, bis Sonntag, 20. Oktober 2024."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Stromanbieter : Wann sich ein Stromanbieterwechsel lohnt",
@@ -763,137 +777,95 @@
       "image_title": "Wohnungssuche: Was Vermieter wollen"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Neid : Das will ich auch!",
-      "teaser": "Der Nachbar fährt zum dritten Mal dieses Jahr in den Urlaub, und die Kollegin hat ein neues Rennrad aus Carbon. Wir wollen wissen, was Sie neidisch macht.",
-      "url": "https://www.zeit.de/geld/2024-10/neid-missgunst-gefuehl-umgang-aufruf",
-      "image_url": "https://img.zeit.de/geld/2024-10/neid-missgunst-gefuehl-umgang-2/super__430x286",
-      "image_title": "Neid: Das will ich auch!"
-    },
-    {
-      "title": "Verlagsangebot : Die richtige Ernährung kann so schön und einfach sein",
-      "teaser": "Gesund und fit mit Genuss? Das geht! Und zwar durch ein gut verträgliches und lecker schmeckendes Essen. Das E-Book der ZEIT Akademie - jetzt zum kostenlosen Download.",
-      "url": "https://www.zeitakademie.de/fit-mit-genuss-e-book-download/?icode=01w0387k1036inhrefall2310&utm_medium=referall&utm_source=zon&utm_campaign=e-book-fitmitgenuss&utm_content=01w0387k1036inhrefall2310&wt_zmc=refall.Ext.zabo.zon.e-book-fitmitgenuss.x",
-      "image_url": "https://img.zeit.de/angebote/Links/Bilder/akademie/2024/zak-ernaehrung-8/super__430x286",
-      "image_title": "Die richtige Ernährung kann so schön und einfach sein"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Pressknödel : Da liegen sie flach",
-      "teaser": "Nicht alle Knödel können rollen. Die Pressknödel zum Beispiel, in die meistens schön viel alter Käse kommt, werden plattgemacht. Natürlich mit Liebe!",
-      "url": "https://www.zeit.de/zeit-magazin/2024/46/pressknoedel-kaese-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-10/pressknoedel-kaese-rezept-wochenmarkt-bild/wide__892x501",
-      "image_title": "Pressknödel: Da liegen sie flach"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Knödel in Südtirol : Seine Welt sind die Berge",
-      "teaser": "Beilage? Pah! In Südtirol entfaltet der Knödel sein ganzes Potenzial. Kochen Sie mal mit, wir haben die richtigen Rezepte.",
-      "url": "https://www.zeit.de/zeit-magazin/2024/46/knoedel-suedtirol-restaurant-kochen",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024/46/seine-welt-sind-die-berge-bild-1/super__430x286",
-      "image_title": "Knödel in Südtirol: Seine Welt sind die Berge"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Rosmarin-Kartoffelplätzchen : Ein Bett aus Kürbis",
-      "teaser": "Wie aus einem Beilagenklassiker wie Rosmarinkartoffeln eine Herbstmahlzeit wird? Zum Beispiel, indem man sie zu einer Art Frikadellen formt und auf Kürbisspalten legt.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-10/rosmarin-kartoffelplaetzchen-mangold-kuerbis-rezept-himbeerrot-sonntagsessen",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-10/rosmarin-kartoffelplaetzchen-sonntagsessen-teaserbild/super__320x213",
-      "image_title": "Rosmarin-Kartoffelplätzchen: Rosmarin-Kartoffelplätzchen mit Mangold und Ofenkürbis"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Mangocreme-Torte : Diese Torte tanzt Mango",
-      "teaser": "Sie sieht aufwendig aus, ist aber in Windeseile hergestellt! Beruhigend: Falls keine frischen Mangos verfügbar sind, gelingt sie auch mit Mangopüree aus dem Glas.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024/07/mangocreme-torte-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-10/mangocreme-torte-rezept-wochenmarkt-bild/super__320x213",
-      "image_title": "Mangocreme-Torte: Diese Torte tanzt Mango"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Schwarzkohl : So wird man doch gern verkohlt",
-      "teaser": "Toskanischer Palmkohl oder Cavolo nero? Schwarzkohl hat viele Namen – und noch mehr Zubereitungsvarianten. Kurz gebraten kann man ihn ganz nach Wunsch anrichten.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-10/schwarzkohl-ricotta-walnuesse-rezept",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-10/schwarzkohl-ricotta-walnuesse-rezept-bild/super__320x213",
-      "image_title": "Schwarzkohl: So wird man doch gern verkohlt"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Zwiebelmarmelade : Marmelade im Zwiebellook",
-      "teaser": "Ohne Zwiebeln geht nichts, nicht mal Marmelade. Langsam eingekocht entwickeln sie eine Süße, die sich gut zu Käse, auf einem Sandwich oder auch zu Fleisch macht.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024/07/zwiebelmarmelade-zwiebel-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-10/zwiebelmarmelade-zwiebel-rezept-wochenmarkt-bild/super__320x213",
-      "image_title": "Zwiebelmarmelade: Marmelade im Zwiebellook"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Endiviensalat mit Äpfeln und Walnusskernen : Von wegen bittere Mischung",
-      "teaser": "Endiviensalat ist bekannt für seine Bitterkeit. In der richtigen Gesellschaft kommt diese perfekt zur Geltung, wie in diesem Salat mit Äpfeln und Walnüssen.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024/07/endiviensalat-aepfel-walnusskerne-rezept-wochemarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-10/endiviensalat-aepfel-walnusskerne-rezept-wochemarkt-bild/super__320x213",
-      "image_title": "Endiviensalat mit Äpfeln und Walnusskernen: Von wegen bittere Mischung"
-    },
-    {
-      "title": "An dieser Stelle ist ein externer Inhalt eingebunden",
-      "teaser": "Zum Anschauen benötigen wir Ihre Zustimmung",
-      "url": "https://www.zeit.de/politik/2024-10/russland-wahlbeeinflussung-usa-georgien-moldau-was-jetzt-videopodcast",
-      "image_url": "https://img.zeit.de/2024-10/was-jetzt-die-woche-2/wide__892x501",
-      "image_title": "\"Was jetzt? - Die Woche\": Mit welchen Methoden beeinflusst Russland die US-Wahl?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Was jetzt? – Die Woche\" : Elon Musk – wie groß ist sein politischer Einfluss?",
-      "teaser": "Mit Millionenspenden, umstrittenen Lotterien und Wahlkampfauftritten will Musk Trump ins Weiße Haus bringen. Wie erfolgreich er damit ist, in \"Was jetzt? – Die Woche\".",
-      "url": "https://www.zeit.de/politik/2024-10/elon-musk-donald-trump-us-wahlkampf-was-jetzt-videopodcast",
-      "image_url": "https://img.zeit.de/2024-10/was-jetzt-die-woche/super__320x213",
-      "image_title": "\"Was jetzt? – Die Woche\": Elon Musk – wie groß ist sein politischer Einfluss?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Was jetzt? – Die Woche\" : Der Fall Gisèle Pélicot – Woher kommt die Lust auf sexuelle Gewalt?",
-      "teaser": "Krankenpfleger, Journalist, Feuerwehrmann: Dieser Prozess rückt die Angeklagten in den Fokus. Wie unauffällige Männer zu Tätern werden, in \"Was jetzt? – Die Woche\".",
-      "url": "https://www.zeit.de/politik/2024-10/vergewaltigungsprozess-avignon-pelicot-was-jetzt-videopodcast",
-      "image_url": "https://img.zeit.de/2024-10/was-jetzt-die-woche-dilan-oktober/super__320x213",
-      "image_title": "\"Was jetzt? – Die Woche\": Der Fall Gisèle Pélicot – Woher kommt die Lust auf sexuelle Gewalt?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Was jetzt? - Die Woche\" : Netanjahu, ein politisches Comeback",
-      "teaser": "Mit dem sich ausweitenden Krieg steigt Netanjahus Popularität in Israel. Und: Welche Strategie verfolgt seine Regierung in der Westbank? In \"Was jetzt? – Die Woche\"",
-      "url": "https://www.zeit.de/politik/2024-10/netanjahu-israel-iran-westjordanland-rechtsextreme-siedler-was-jetzt-videopodcast",
-      "image_url": "https://img.zeit.de/2024-10/was-jetzt-die-woche-dilan-joerg-2/super__320x213",
-      "image_title": "\"Was jetzt? - Die Woche\": Netanjahu, ein politisches Comeback"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Was jetzt? – Die Woche\" : Ist Israel bereit, das Kriegsrisiko mit dem Iran einzugehen?",
-      "teaser": "Israel soll zur Vergeltung iranische Ölanlagen im Visier haben, um die dortige Wirtschaft zu belasten. Ob das Krieg mit dem Iran bedeutet, in \"Was jetzt? – Die Woche\".",
-      "url": "https://www.zeit.de/politik/2024-09/israel-iran-nahostkrieg-was-jetzt-videopodcast",
-      "image_url": "https://img.zeit.de/politik/2024-10/was-jetzt-die-woche-bild/super__320x213",
-      "image_title": "\"Was jetzt? – Die Woche\": Ist Israel bereit, das Kriegsrisiko mit dem Iran einzugehen?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Was jetzt? – Die Woche\" : Mögliche Bodenoffensive – Wie ist die Stimmung im Libanon?",
-      "teaser": "Israel bombardiert die Hisbollah im Libanon, die Armee bereitet sich auf eine Invasion vor, Zehntausende flüchten. Bei \"Was jetzt? – Die Woche\" schalten wir nach Beirut.",
-      "url": "https://www.zeit.de/politik/2024-09/israel-hisbollah-eskalation-libanon-was-jetzt-videopodcast",
-      "image_url": "https://img.zeit.de/2024-09/was-jetzt-die-woche-5/super__320x213",
-      "image_title": "\"Was jetzt? – Die Woche\": Mögliche Bodenoffensive – Wie ist die Stimmung im Libanon?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Ukrainekarte aktuell : Russische Truppen nehmen zwei Dörfer bei Wuhledar ein",
-      "teaser": "Bei schweren Kämpfen im Osten der Ukraine sind russische Streitkräfte an mehreren Stellen minimal vorgerückt. Bei Wuhledar besetzten sie zwei weitere Orte.",
-      "url": "https://www.zeit.de/politik/ausland/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen-teaserbild/wide__892x501",
-      "image_title": "Ukrainekarte aktuell: Russische Truppen nehmen zwei Dörfer bei Wuhledar ein"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); US-Wahl : Was darf der US-Präsident?",
-      "teaser": "Darf der US-Präsident sich selbst begnadigen? Gibt es einen roten Knopf, mit dem er Atomwaffen zünden kann? Fragen und Antworten zu den Befugnissen des US-Präsidenten",
-      "url": "https://www.zeit.de/politik/ausland/2024-07/us-wahl-praesident-donald-trump-joe-biden-kamala-harris-befugnisse-faq",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-10/faq-befugnisse-usa-praesident-bild/super__430x286",
-      "image_title": "US-Wahl: US Präsident Joe Biden während eines Updates zur Reaktion des Bundes auf Hurrikane Helene und Milton im Roosevelt Room des Weißen Hauses in Washington DC am Dienstag"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Liveblog:Ukrainekrieg : Annalena Baerbock zu Besuch in Kyjiw eingetroffen",
-      "teaser": "Zum achten Mal seit Beginn des Kriegs besucht die deutsche Außenministerin Kyjiw. Mindestens 13 Verletzte nach Luftangriff auf Supermarkt in Charkiw. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-11/ukraine-krieg-news-liveblog-bild-3/super__430x286",
-      "image_title": "Ukrainekrieg: Das Standbild aus einem Video zeigt Bundesaußenministerin Annalena Baerbock (Bündnis 90/Die Grünen, 2.v.l.) bei der Ankunft in der Ukraine und der Begrüssung durch Martin Jäger (M), Botschafter der Bundesrepublik Deutschland in Kyjiw. Daneben steht Oleksij Makejew (r), Botschafter der Ukraine in Deutschland. Kernthemen ihres achten Ukraine-Besuchs seit Beginn des russischen Angriffs am 24. Februar 2022 dürften die Winterhilfe, der Stand der Beitrittsgespräche zur Europäischen Union (EU) sowie die Diskussion über weitere Waffenlieferungen sein."
-    },
-    {
       "title": "Verlagsangebot : Das Quiz zur US-Wahl: Wie gut kennen Sie sich aus?",
       "teaser": "Fünf Fragen, fünf Richtige? Zur US-Wahl hat sich das Spotlight-Team ein kleines Quiz für Sie ausgedacht. Testen Sie Ihr Wissen!",
       "url": "https://freundederzeit.typeform.com/usdemocracy-zon",
       "image_url": "https://img.zeit.de/zeit-verlag/zeit-sprachen/bilder-englisch-quiz/englisch-quiz-teaserbild-woche-4/super__430x286",
       "image_title": "Das Quiz zur US-Wahl: Wie gut kennen Sie sich aus?"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); ÖPNV : Ver.di kündigt weitere Streiks im Regionalverkehr an",
+      "teaser": "In mehreren Bundesländern hat ver.di in dieser Woche zu Warnstreiks im ÖPNV aufgerufen. Betroffen seien unter anderem der Schienennahverkehr und Omnibusbetriebe.",
+      "url": "https://www.zeit.de/arbeit/2024-11/oepnv-verdi-ankuendigung-warnstreiks-schienennahverkehr-omnibusse",
+      "image_url": "https://img.zeit.de/mobilitaet/2024-11/oepnv-gewerkschaft-verdi-streiks-bild/wide__892x501",
+      "image_title": "ÖPNV: Eine Regionalbahn verlässt den Bahnhof Klanxbüll am 8. Oktober 2024."
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Ärztemangel : Er kann doch seine Patienten nicht allein lassen, oder?",
+      "teaser": "Der Hausarzt Gunter Schneider ist 77 Jahre alt und betreut 100 Patienten am Tag. Eigentlich will er in Rente gehen – doch er findet keinen Nachfolger.",
+      "url": "https://www.zeit.de/2024/46/aerztemangel-hausarzt-praxis-land-patienten",
+      "image_url": "https://img.zeit.de/2024/46/der-alte-bild-7/super__430x286",
+      "image_title": "Ärztemangel: Von sieben Uhr morgens bis sieben Uhr abends ist Schneider für seine Patienten erreichbar, manchmal auch darüber hinaus."
+    },
+    {
+      "title": "Star-Investor : Buffett schaufelt Apple aus dem Portfolio",
+      "teaser": "Die Beteiligungsgesellschaft Berkshire Hathaway trennt sich von der Mehrzahl ihrer Apple-Aktien. Senkt Warren Buffett seinen Daumen über Apple?",
+      "url": "https://www.wiwo.de/finanzen/boerse/warren-buffett-buffett-schaufelt-apple-aus-dem-portfolio/30069202.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/warren-buffett/30069452/3-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
+      "image_title": "Buffett schaufelt Apple aus dem Portfolio"
+    },
+    {
+      "title": "Lindners „Wirtschaftswende“ : Das FDP-Reformpapier ist eine Zumutung für junge Menschen",
+      "teaser": "Die FDP will die Klimaziele abschwächen. Ihre Argumente lassen ökonomischen Sachverstand vermissen. So wird die Partei für Jüngere unwählbar.",
+      "url": "https://www.wiwo.de/politik/deutschland/lindners-wirtschaftswende-das-fdp-reformpapier-ist-eine-zumutung-fuer-junge-menschen/30067980.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/lindner-imago0776962303h/30068308/4-format10640.png%253Fformat%253Dformat10640/super__430x286",
+      "image_title": "Das FDP-Reformpapier ist eine Zumutung für junge Menschen"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); ÖPNV : Verband Deutscher Verkehrsunternehmen fordert mehr Geld vom Bund",
+      "teaser": "Die Bundesmittel zur Finanzierung des ÖPNV in den Ländern sollen bis 2031 jedes Jahr um drei Prozent wachsen. Das reiche nicht, um das Angebot zu sichern, sagt der VDV.",
+      "url": "https://www.zeit.de/mobilitaet/2024-11/verband-deutscher-verkehrsunternehmen-fordert-mehr-geld-vom-bund",
+      "image_url": "https://img.zeit.de/mobilitaet/2024-11/verband-deutscher-verkehrsunternehmen-fordert-mehr-geld-vom-bund-bild/wide__892x501",
+      "image_title": "ÖPNV: Beschreibung Ein Zug fährt durch den Bahnhof Siegburg/Bonn. Nach einem Hinweis ist ein ICE in Siegburg gestoppt und wegen möglicher Anschlagpläne durchsucht worden. Inzwischen konnte der Zug seine Fahrt fortsetzen. Service +++ dpa-Bildfunk +++ Aufnahmedatum 31.10.2024 Bildnachweis picture alliance/dpa | Benjamin Westhoff"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Greyhound-Reise durch die USA : Amerika von unten",
+      "teaser": "Einmal von Ost nach West mit dem Greyhound-Bus. Eine Reise in die Seele der USA. Unsere Autorin lernte eine Seite des Landes kennen, die vielen verborgen bleibt.",
+      "url": "https://www.zeit.de/2024/46/greyhound-reise-usa-fernbus-abenteuer-los-angeles",
+      "image_url": "https://img.zeit.de/2024/47/der-bus-teaser/super__430x286",
+      "image_title": "Greyhound-Reise durch die USA: Menschen, die das Fliegen vermeiden möchten und kein Auto haben, fahren in den USA häufig Bus."
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Islamistische Gewalt : Prozess wegen Hasskampagne vor Mord an Samuel Paty begonnen",
+      "teaser": "2020 wurde in Frankreich ein Lehrer getötet, der Mohammed-Karikaturen zeigte. Der Tat war eine Hasskampagne vorausgegangen, mehrere Beschuldigte stehen vor Gericht.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-11/frankreich-samuel-paty-islamismus-mord-hasskampagne-prozess",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-11/frankreich-lehrer-mord-samuel-paty-prozess-hasskampagne-bild/wide__892x501",
+      "image_title": "Islamistische Gewalt: Pressevertreter warten am 4. November 2024 in Paris vor dem Gerichtssaal, in dem acht Erwachsene wegen des Mordes an dem Lehrer Samuel Paty vor dem Pariser Sondergericht verhandelt werden. Acht Erwachsene, sieben Männer und eine Frau, die beschuldigt werden, an der Hasskampagne beteiligt gewesen zu sein, die am 16. Oktober 2020 zum Mord an Samuel Paty (47), einem Geschichts- und Geografielehrer in Conflans-Sainte-Honorine, geführt hat, stehen ab dem 4. November vor dem Pariser Sondergerichtshof vor Gericht"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Unwetter : Spanien schickt weitere Soldaten ins Flutgebiet",
+      "teaser": "Die Aufräumarbeiten im Flutgebiet gehen weiter. Ein Kriegsschiff soll Lastwagen mit Nahrungsmitteln nach Valencia bringen.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-11/unwetter-spanien-soldaten-flutgebiet-valencia",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-11/spanien-ueberschwemmungen-soldaten-valencia-bild/super__430x286",
+      "image_title": "Unwetter: Angehörige des spanischen Militärs bereiten sich darauf vor, den Bewohnern in Massanassa, in der Nähe von Valencia, Spanien, am 3. November 2024 nach Überschwemmungen infolge starker Regenfälle zu helfen."
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); \"Jenseits aller Zeit\" von Sebastian Barry : Da sitzt also unser alter Kommissar im Sessel und raucht Zigarillos",
+      "teaser": "Sebastian Barry ist einer der besten Schriftsteller Irlands. Nun hat er mit \"Jenseits aller Zeit\" einen Kriminalroman geschrieben. Der bietet literarischen Hochgenuss.",
+      "url": "https://www.zeit.de/2024/46/jenseits-aller-zeit-sebastian-barry-kriminalroman-irland",
+      "image_url": "https://img.zeit.de/2024/46/macht-rache-gluecklich-bild-1/wide__892x501",
+      "image_title": "\"Jenseits aller Zeit\" von Sebastian Barry: Am Coliemore Harbour lebt ein alter Kommissar und blickt zurück auf eine blutige Vergangenheit"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); USA : Musiklegende Quincy Jones ist tot",
+      "teaser": "Er arbeitete mit Michael Jackson und Frank Sinatra zusammen, gewann 27 Grammys: Der Musikproduzent Quincy Jones ist im Alter von 91 Jahren gestorben.",
+      "url": "https://www.zeit.de/kultur/musik/2024-11/musiklegende-quincy-jones-ist-tot",
+      "image_url": "https://img.zeit.de/kultur/musik/2024-11/musiklegende-quincy-jones-ist-tot-bild/super__430x286",
+      "image_title": "USA: US-Produzent Quincy Jones winkt auf der Bühne während des 53. Montreux Jazz Festivals am 30. Juni 2019 in Montreux."
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Arlie Russell Hochschild : \"Wir haben die Augen vor der Wahrheit verschlossen\"",
+      "teaser": "Die Soziologin Arlie Russell Hochschild forschte jahrelang unter weißen, armen Trump-Wählern. Deren Unterstützung lasse sich mit einem \"Stolz-Paradox\" erklären.",
+      "url": "https://www.zeit.de/kultur/2024-10/arlie-russell-hochschild-donald-trump-us-wahl-soziologie",
+      "image_url": "https://img.zeit.de/kultur/2024-11/arlie-russel-hochschild-donald-trump-us-wahl/super__430x286",
+      "image_title": "Arlie Russell Hochschild: A tattooed supporter wears a shirt with Donald Trump's face, outside an entrance to the Fulton County Jail in Atlanta on Thursday, Aug. 24, 2023. (Kenny Holston/The New York Times)"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); US-Wahlkampf : Das Ende eines verrückten Wahlkampfes",
+      "teaser": "Kamala Harris und Donald Trump rasen noch einmal durch die Swing-States: Im US-Podcast diskutieren wir über letzte Rallys, Umfragen und diesen historischen Wahlkampf.",
+      "url": "https://www.zeit.de/politik/ausland/2024-11/us-wahlkampf-kamala-harris-donald-trump-ok-america",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-11/us-wahlkampf-kamala-harris-donald-trump-ok-america-bild/super__320x213",
+      "image_title": "US-Wahlkampf: Anhänger der Vizepräsidentin der USA und demokratischen Präsidentschaftskandidatin Kamala Harris hören zu, als sie während einer Wahlkampfveranstaltung in Atlanta, Georgia, am 2. November 2024 spricht."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Folge 48: Dezember 2020 : Trumps letztes Chaos",
@@ -938,151 +910,11 @@
       "image_title": "Politikpodcast: \"Holt tief Luft und sammelt euch. Sagt ihnen, jede Stimme zählt!\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Wahlkampf : Trump mit Carlson, Harris mit Obama – der Wahlkampfendspurt",
-      "teaser": "Trump-Verbündete peitschen die Basis auf, Michelle Obama hält die vielleicht beste Wahlkampfrede: unsere Themen im US-Podcast. Und: Jeff Bezos und die \"Washington Post\"",
-      "url": "https://www.zeit.de/politik/ausland/2024-10/us-wahl-donald-trump-kamala-harris-ok-america",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-10/us-wahl-donald-trump-kamala-harris/super__320x213",
-      "image_title": "Wahlkampf: Unterstützer von Donald Trump bei einer Rally im Madison Square Garden in New York im Oktober 2024"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Alkohol : Exzessiver Alkoholkonsum unter jungen Menschen nimmt zu",
-      "teaser": "Rauschtrinken ist unter jungen Männern und Frauen wieder ähnlich verbreitet wie vor der Pandemie. Der Drogenbeauftragte kritisiert die ständige Verfügbarkeit von Alkohol.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-11/alkoholkonsum-jugendliche-studie-rauschtrinken-corona",
-      "image_url": "https://img.zeit.de/2024-11/junge-menschen-exzessiver-alkoholkonsum-deutschland-bild/super__430x286",
-      "image_title": "Alkohol: Exzessiver Alkoholkonsum unter jungen Menschen nimmt zu"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Vulkan Lewotobi Laki-Laki : Mindestens zehn Tote nach Vulkanausbruch in Indonesien",
-      "teaser": "Auf der Insel Flores sind die Menschen nachts vom Ausbruch eines Vulkans überrascht worden. Häuser stürzten ein, die Rettungsarbeiten laufen noch.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-11/vulkanausbruch-indonesien-lewotobi-laki-laki-tote",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-11/indonesien-vulkanausbruch-tote-bild/super__430x286",
-      "image_title": "Vulkan Lewotobi Laki-Laki: Der Vulkan Lewotobi Laki-Laki spuckt während eines Ausbruchs Anfang 2024 vulkanisches Material aus seinem Krater."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Antisemitismus : Mehr als 500 antisemitische Straftaten im dritten Quartal",
-      "teaser": "Im dritten Quartal dieses Jahres hat die Polizei ähnlich viele antisemitische Straftaten wie im Vorjahr registriert. Aber es werden zahlreiche Nachmeldungen erwartet.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-11/antisemitismus-deutschland-drittes-quartal-500-straftaten",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-11/antisemitismus-deutschland-drittes-quartal-500-straftaten-bild/super__430x286",
-      "image_title": "Antisemitismus: Beschreibung Zahlreiche Menschen stehen bei einer Demonstrationsveranstaltung «365 Tage – München gegen Antisemitismus» anlässlich des ersten Jahrestages des Überfalls der Hamas auf Israel auf dem Odeonsplatz. Der Versammlung folgte ein Fußmarsch durch «symbolträchtige Orte» in der Innenstadt. Service +++ dpa-Bildfunk +++ Aufnahmedatum 06.10.2024 Bildnachweis picture alliance/dpa | Felix Hörhager"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Volkswagen : Konzernchef Oliver Blume will Kosten drücken",
-      "teaser": "Die neuen VW-Produkte kämen gut an, sagt Konzernchef Blume. Doch die Kosten am Standort Deutschland seien viel zu hoch. Der Weg zu Einsparungen sei \"flexibel gestaltbar\".",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-11/volkswagen-oliver-blume-sparplaene-kosten-vw",
-      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-11/vw-konzernchef-oliver-blume-bild/wide__892x501",
-      "image_title": "Volkswagen: CEO of Porsche AG Oliver Blume attends his company's annual general meeting in Stuttgart, southern Germany, on June 28, 2023. (Photo by THOMAS KIENZLE / AFP) (Photo by THOMAS KIENZLE/AFP via Getty Images)"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Autobauer in der Krise : Volkswagen schlägt Streichung von Jubiläumsprämien vor",
-      "teaser": "Der VW-Vorstand will seinen Sparkurs bei den Tarifverhandlungen durchsetzen. Nun steht auch der Wegfall von Bonuszahlungen an langjährige Mitarbeiter zur Debatte.",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-11/volkswagen-jubilaeumspraemie-striechung",
-      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2024-11/volkswagen-jubilaeumspraemie-striechung-bild/super__430x286",
-      "image_title": "Autobauer in der Krise: Angesichts der schlechten Verkaufszahlen bei VW zog der Konzern auch Werksschließungen in Erwägung."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Kriegsfinanzierung : \"Aus der Zeitenwende ist eine Zeitlupenwende geworden\"",
-      "teaser": "Damit Deutschland die in der Nato vereinbarten Wehrausgaben erreicht, fehlen jährlich 50 Milliarden Euro, sagt der Ökonom Moritz Schularick. Woher soll das Geld kommen?",
-      "url": "https://www.zeit.de/wirtschaft/2024-10/kriegsfinanzierung-moritz-schularick-aufruestung-ukraine-russland-bundeswehr",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-10/kriegsfinanzierung-moritz-schularick-aufruestung-ukraine-russland-bundeswehr-bild/super__430x286",
-      "image_title": "Kriegsfinanzierung: Anhänger mit Abschussrampen für Lenkflugkörper des Patriot-Luftabwehrsystems der Bundeswehr stehen auf einem schneebedeckten Feld im südosten Polens. (zu dpa: \"Wie die Bundeswehr ein Stück der Nato-Ostflanke schützt\") +++ dpa-Bildfunk +++"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Arbeitslosenrate : Arbeitsmarkt in den USA stagniert kurz vor Wahl unerwartet",
-      "teaser": "Ökonomen hatten mit einem deutlich stärkeren Jobwachstum in den USA gerechnet. Ursache der Stagnation sind wohl Hurrikanfolgen und ein Streik in der Luftfahrtbranche.",
-      "url": "https://www.zeit.de/wirtschaft/2024-11/usa-arbeitslosenrate-stagniert-oktober",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-11/usa-arbeitsmarkt-stagniert-bild/super__430x286",
-      "image_title": "Arbeitslosenrate: In einer Luftaufnahme sind Boeing 737 Max-Rümpfe auf Eisenbahnwaggons während eines laufenden Streiks der Boeing-Fabrikarbeiter am 24. Oktober 2024 in Seattle, Washington, zu sehen. Gestern stimmten die Mitglieder der International Association of Machinists and Aerospace Workers District 751 für die Ablehnung des jüngsten Vertragsangebots von Boeing"
-    },
-    {
-      "title": "Altersvorsorge : Wie groß wird Ihre Rentenlücke?",
-      "teaser": "Die gesetzliche Rente wird nicht reichen. Doch wie viel Geld fehlt im Alter wirklich? Wir rechnen es vor und zeigen, wie Sie die Lücke schließen.",
-      "url": "https://www.wiwo.de/my/finanzen/vorsorge/altersvorsorge-wie-gross-wird-ihre-rentenluecke/30061358.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/imago120063740/30063372/2-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
-      "image_title": "Wie groß wird Ihre Rentenlücke?"
-    },
-    {
-      "title": "Lindners „Wirtschaftswende“ : Das FDP-Reformpapier ist eine Zumutung für junge Menschen",
-      "teaser": "Die FDP will die Klimaziele abschwächen. Ihre Argumente lassen ökonomischen Sachverstand vermissen. So wird die Partei für Jüngere unwählbar.",
-      "url": "https://www.wiwo.de/politik/deutschland/lindners-wirtschaftswende-das-fdp-reformpapier-ist-eine-zumutung-fuer-junge-menschen/30067980.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/lindner-imago0776962303h/30068308/4-format10640.png%253Fformat%253Dformat10640/super__430x286",
-      "image_title": "Das FDP-Reformpapier ist eine Zumutung für junge Menschen"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Optimismus in der Jugend : Uns geht es besser, als ihr denkt!",
-      "teaser": "Die große Shell-Studie beschreibt die Jugend als optimistisch und voller Vertrauen. Für die Älteren hält sie aber eine Warnung bereit.",
-      "url": "https://www.zeit.de/2024/44/optimismus-jugend-vertrauen-aeltere-shell-studie",
-      "image_url": "https://img.zeit.de/2024/44/besser-als-ihr-denkt-teaser/wide__892x501",
-      "image_title": "Optimismus in der Jugend: 75 Prozent der Befragten sind mit der Demokratie zufrieden."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Shell Jugendstudie : \"Die heutige Jugend hat ein sehr positives Zukunftsbild\"",
-      "teaser": "Jugendliche blicken optimistischer in die Zukunft als noch 2019? Ja, zeigt die Shell Jugendstudie, und selbst die Autoren sind überrascht. Das sei schon \"ein Knaller\".",
-      "url": "https://www.zeit.de/familie/2024-10/shell-jugendstudie-optimismus-jugendliche-mathias-albert",
-      "image_url": "https://img.zeit.de/familie/2024-10/shell-jugendstudie-optimismus-jugendliche-links/super__430x286",
-      "image_title": "Shell Jugendstudie: \"Die heutige Jugend hat ein sehr positives Zukunftsbild\""
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); #Frauenticket : Jammern Sie nicht rum. Sie sind eine junge, gesunde Frau",
-      "teaser": "Die Schmerzen quälen, doch der Arzt sagt: Da ist nix. Vor allem Frauen berichten, dass sie mit falscher Diagnose heimgeschickt werden. Das hat in der Medizin Tradition.",
-      "url": "https://www.zeit.de/gesundheit/2024-10/long-covid-arzt-fehler-beschwerde-frauen-erkrankung",
-      "image_url": "https://img.zeit.de/gesundheit/2024-10/long-covid-arzt-fehler-beschwerde-frauen/super__430x286",
-      "image_title": "#Frauenticket: Jammern Sie nicht rum. Sie sind eine junge, gesunde Frau"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); USA : Musiklegende Quincy Jones ist tot",
-      "teaser": "Er arbeitete mit Michael Jackson und Frank Sinatra zusammen, gewann 27 Grammys: Der Musikproduzent Quincy Jones ist im Alter von 91 Jahren gestorben.",
-      "url": "https://www.zeit.de/kultur/musik/2024-11/musiklegende-quincy-jones-ist-tot",
-      "image_url": "https://img.zeit.de/kultur/musik/2024-11/musiklegende-quincy-jones-ist-tot-bild/super__430x286",
-      "image_title": "USA: US-Produzent Quincy Jones winkt auf der Bühne während des 53. Montreux Jazz Festivals am 30. Juni 2019 in Montreux."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Arlie Russell Hochschild : \"Wir haben die Augen vor der Wahrheit verschlossen\"",
-      "teaser": "Die Soziologin Arlie Russell Hochschild forschte jahrelang unter weißen, armen Trump-Wählern. Deren Unterstützung lasse sich mit einem \"Stolz-Paradox\" erklären.",
-      "url": "https://www.zeit.de/kultur/2024-10/arlie-russell-hochschild-donald-trump-us-wahl-soziologie",
-      "image_url": "https://img.zeit.de/kultur/2024-11/arlie-russel-hochschild-donald-trump-us-wahl/super__430x286",
-      "image_title": "Arlie Russell Hochschild: A tattooed supporter wears a shirt with Donald Trump's face, outside an entrance to the Fulton County Jail in Atlanta on Thursday, Aug. 24, 2023. (Kenny Holston/The New York Times)"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Tatort\" Dresden : Wir sind doch alle Polizisten",
-      "teaser": "Wenn der Bruder das Opfer ist, muss die Kommissarin natürlich Alleingänge machen. Der Dresdener \"Tatort\" baut sich seine Handlung aus vielen Krimi-Versatzstücken.",
-      "url": "https://www.zeit.de/kultur/film/2024-10/tatort-dresden-unter-feuer-obduktionsbericht",
-      "image_url": "https://img.zeit.de/kultur/film/2024-10/tatort-dresden-unter-feuer-obduktionsbericht-teaserbild/super__430x286",
-      "image_title": "\"Tatort\" Dresden: Zu nah dran: Kommissarin Leonie Winkler (Cornelia Gröschel) im Dresdner \"Tatort\""
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); AGBs der Oasis-Tickets : Vertrauen Sie mir",
-      "teaser": "Allgemeine Geschäftsbedingungen sind die traurigsten Texte auf der Welt: Niemand liest sie, und hinterher beklagen sich alle über sie. Zum Beispiel Oasis-Fans",
-      "url": "https://www.zeit.de/kultur/2024-11/agb-oasis-ticket-stornierung-fans",
-      "image_url": "https://img.zeit.de/kultur/2024-11/wochenende-45-pflichtverteidigung-bild/super__430x286",
-      "image_title": "AGBs der Oasis-Tickets: General view of festival goers whilst Liam Gallagher performs on the main stage during day 1 at Leeds Festival at Bramhall Park on August 25, 2017 in Leeds, England."
-    },
-    {
-      "title": "An dieser Stelle ist ein externer Inhalt eingebunden",
-      "teaser": "Zum Anschauen benötigen wir Ihre Zustimmung",
-      "url": "https://www.zeit.de/politik/ausland/2024-09/us-wahlsystem-bundesstaaten-parteien-waehlerstimmen",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-09/us-wahl-explainer/wide__892x501",
-      "image_title": "US-Wahlsystem: Wie das US-Wahlsystem funktioniert"
-    },
-    {
-      "title": "US-Wahl : Washington, D. C. verstärkt seine Sicherheitsmaßnahmen",
-      "teaser": "Sicherheitskräfte in Washington, D. C. sind vor der Wahl in höchster Alarmbereitschaft. Auch außerhalb der US-Hauptstadt wurde die Nationalgarde in Bereitschaft versetzt.",
-      "url": "https://www.zeit.de/video/2024-11/6364173733112/us-wahl-washington-d-c-verstaerkt-seine-sicherheitsmassnahmen",
-      "image_url": "https://img.zeit.de/video/2024-11/6364173733112-still/super__430x286",
-      "image_title": "US-Wahl: Washington, D. C. verstärkt seine Sicherheitsmaßnahmen"
-    },
-    {
-      "title": "Krieg in der Ukraine : Russland greift Charkiw an, Außenministerin Baerbock besucht Kyjiw",
-      "teaser": "Russland hat mindestens 15 Menschen bei einem Angriff auf Charkiw verletzt und Drohnen auf Kyjiw geflogen. Annalena Baerbock ist zu Besuch in der ukrainischen Hauptstadt.",
-      "url": "https://www.zeit.de/video/2024-11/6364172367112/krieg-in-der-ukraine-russland-greift-charkiw-an-aussenministerin-baerbock-besucht-kyjiw",
-      "image_url": "https://img.zeit.de/video/2024-11/6364172367112-still/super__430x286",
-      "image_title": "Krieg in der Ukraine: Russland greift Charkiw an, Außenministerin Baerbock besucht Kyjiw"
-    },
-    {
-      "title": "Präsidentschaftswahl in Moldau : Proeuropäische Amtsinhaberin Sandu gewinnt Stichwahl",
-      "teaser": "Maia Sandu gewinnt die Wahl in Moldau und tritt eine zweite Amtszeit an. Sie setzte sich in einer Stichwahl gegen den russlandfreundlichen Stoianoglo durch.",
-      "url": "https://www.zeit.de/video/2024-11/6364167973112/praesidentschaftswahl-in-moldau-proeuropaeische-amtsinhaberin-sandu-gewinnt-stichwahl",
-      "image_url": "https://img.zeit.de/video/2024-11/6364167973112-still/super__430x286",
-      "image_title": "Präsidentschaftswahl in Moldau: Proeuropäische Amtsinhaberin Sandu gewinnt Stichwahl"
+      "title": "Z+ (abopflichtiger Inhalt); Przewalski-Pferde : Galopp in die Freiheit",
+      "teaser": "Die Przewalski-Pferde galten als ausgestorben. Sie sollen nun nach Kasachstan zurückkehren. Wie die Auswilderung läuft und wie Tiere, Steppe und Mensch profitieren.",
+      "url": "https://www.zeit.de/2024/46/przewalski-pferde-artenschutz-kasachstan-steppe-tiere",
+      "image_url": "https://img.zeit.de/2024/46/raus-in-die-freiheit-bild-2/wide__892x501",
+      "image_title": "Przewalski-Pferde: In Prag werden die Pferde in ein Militärflugzeug geladen (unten links). Annette Klein (unten rechts) ist dabei, wenn sie dann die ersten Schritte in die Wildnis machen (oben)"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Ostdeutschland : Der Traum von einer besseren DDR",
@@ -1092,25 +924,11 @@
       "image_title": "Ostdeutschland: Blick auf den Alexanderplatz, wo sich 1989 tausende Demonstrierende versammelten"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Weltraumstation Tiangong : Raumfahrer von Chinas Mission Shenzhou 18 zurück auf Erde",
-      "teaser": "Drei chinesische Raumfahrer verbrachten 192 Tage auf der Weltraumstation Tiangong und führten wissenschaftliche Experimente durch. Jetzt sind sie zur Erde zurückgekehrt.",
-      "url": "https://www.zeit.de/wissen/2024-11/china-raumfahrer-shenzhou-18-mission-zurueck-auf-erde",
-      "image_url": "https://img.zeit.de/wissen/2024-11/chinesische-raumfahrer-shenzhou-18-mission-zurueck-auf-erde-bild/super__430x286",
-      "image_title": "Weltraumstation Tiangong: Beschreibung Die Rückkehrkapsel des bemannten Raumschiffs Shenzhou-17 mit den Astronauten Kommandant Tang Hongbo, Tang Shengjie und Jiang Xinlin an Bord nach der Landung auf dem Landeplatz Dongfeng. Nach einem halben Jahr im All sind drei chinesische Astronauten von ihrem Einsatz auf der Raumstation «Tiangong» wieder zur Erde zurückgekehrt. Service +++ dpa-Bildfunk +++ Aufnahmedatum 30.04.2024 Bildnachweis picture alliance/dpa/XinHua | Lian Zhen"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Happiness-Apps : Lässt sich Glück trainieren?",
-      "teaser": "Happiness-Apps versprechen, in acht Wochen messbar glücklicher zu machen. Hilft das gegen das Gerade-nicht-glücklich-Sein? Unsere Autorin hat es getestet.",
-      "url": "https://www.zeit.de/wissen/2024-10/happiness-apps-glueck-zufriedenheit-nerven",
-      "image_url": "https://img.zeit.de/wissen/2024-10/happiness-apps-glueck-zufriedenheit-nerven-bild/super__430x286",
-      "image_title": "Happiness-Apps: Lässt sich Glück trainieren?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Spanisches Königspaar im Hochwassergebiet : Wütende Proteste gegen Spaniens König Felipe VI.",
-      "teaser": "Das spanische Königspaar hat das Hochwassergebiet besucht, die Menschen reagierten wütend: Sie riefen \"Mörder\" und warfen Schlamm.",
-      "url": "https://www.zeit.de/wissen/umwelt/2024-11/spanien-ueberschwemmung-koenig-felipe-vi-besuch-protest",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2024-11/spanien-ueberschwemmung-koenigspaar-besuch-protest/super__430x286",
-      "image_title": "Spanisches Königspaar im Hochwassergebiet: King Felipe VI of Spain (L) talks with a person as angry residents heckle him during his visit to Paiporta, in the region of Valencia, eastern Spain, on November 3, 2024, in the aftermath of devastating deadly floods. A delegation led by Spain's king and prime minister was heckled today as it visited the Valencia region hit by deadly floods, with some screaming \"assassins\" and others throwing mud, according to AFP journalists on the scene. King Felipe VI and Queen Letizia visited the town of Paiporta, one of the most affected by the floods that have killed more than 200 people, alongside Prime Minister Pedro Sanchez and other officials."
+      "title": "Anzeige : ZEIT REISEN Individualreisen",
+      "teaser": "Reisen Sie in Ihrem eigenen Tempo mit Ihrem Partner, Freunden oder der Familie. Wir geben Ihnen ausgearbeitete Programme und Routenvorschläge an die Hand. Hier entdecken!",
+      "url": "https://zeitreisen.zeit.de/reiseuebersicht/individualreisen/?utm_medium=display&utm_source=zeit_online&utm_campaign=rotation_individualreisen&utm_content=rotation_individualreisen",
+      "image_url": "https://img.zeit.de/angebote/Links/bilder-zeit-reisen/bilder-2023/nordspanien-c-mimadeo-istock-467204776-erweiterte-lizenz-207-aufmacher-1160x656/super__430x286",
+      "image_title": "ZEIT REISEN Individualreisen"
     },
     {
       "title": "Nur für kurze Zeit: 10% Rabatt auf Kunst",
@@ -1202,39 +1020,137 @@
       "image_title": "KI-Halluzinationen: Hey, KI, das hab' ich doch gar nicht gesagt!"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Stress bei der Arbeit : 33 Tipps, wie man Stress vermeidet",
-      "teaser": "Die Chefin will was, der Kollege nervt, es gibt zu viele Aufgaben, und ständig kommt etwas dazwischen. Doch es gibt Tricks, die dabei helfen, gelassen zu bleiben.",
-      "url": "https://www.zeit.de/arbeit/2024-10/stress-arbeit-tipps-entspannung-gelassenheit",
-      "image_url": "https://img.zeit.de/arbeit/2024-10/stress-arbeit-tipps-entspannung-gelassenhe-bild/wide__892x501",
-      "image_title": "Stress bei der Arbeit: 33 Tipps, wie man Stress vermeidet"
+      "title": "Z+ (abopflichtiger Inhalt); Optimismus in der Jugend : Uns geht es besser, als ihr denkt!",
+      "teaser": "Die große Shell-Studie beschreibt die Jugend als optimistisch und voller Vertrauen. Für die Älteren hält sie aber eine Warnung bereit.",
+      "url": "https://www.zeit.de/2024/44/optimismus-jugend-vertrauen-aeltere-shell-studie",
+      "image_url": "https://img.zeit.de/2024/44/besser-als-ihr-denkt-teaser/wide__892x501",
+      "image_title": "Optimismus in der Jugend: 75 Prozent der Befragten sind mit der Demokratie zufrieden."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Krankschreibung : Karl Lauterbach plant keine Regelung zu Teilzeitkrankschreibung",
-      "teaser": "Die von Ärztepräsident Klaus Reinhardt vorgeschlagene Krankschreibungsreform stößt bei Gewerkschaften auf Kritik. Auch die Bundesregierung will die Idee nicht verfolgen.",
-      "url": "https://www.zeit.de/arbeit/2024-11/bundesgesundheitsministerium-teilzeit-krankschreibung-kein-plan",
-      "image_url": "https://img.zeit.de/gesundheit/2024-11/teilzeit-krankschreibung-bild/super__430x286",
-      "image_title": "Krankschreibung: Karl Lauterbach plant keine Regelung zu Teilzeitkrankschreibung"
+      "title": "Z+ (abopflichtiger Inhalt); Shell Jugendstudie : \"Die heutige Jugend hat ein sehr positives Zukunftsbild\"",
+      "teaser": "Jugendliche blicken optimistischer in die Zukunft als noch 2019? Ja, zeigt die Shell Jugendstudie, und selbst die Autoren sind überrascht. Das sei schon \"ein Knaller\".",
+      "url": "https://www.zeit.de/familie/2024-10/shell-jugendstudie-optimismus-jugendliche-mathias-albert",
+      "image_url": "https://img.zeit.de/familie/2024-10/shell-jugendstudie-optimismus-jugendliche-links/super__430x286",
+      "image_title": "Shell Jugendstudie: \"Die heutige Jugend hat ein sehr positives Zukunftsbild\""
+    },
+    {
+      "title": "An dieser Stelle ist ein externer Inhalt eingebunden",
+      "teaser": "Zum Anschauen benötigen wir Ihre Zustimmung",
+      "url": "https://www.zeit.de/politik/ausland/2024-09/us-wahlsystem-bundesstaaten-parteien-waehlerstimmen",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-09/us-wahl-explainer/wide__892x501",
+      "image_title": "US-Wahlsystem: Wie das US-Wahlsystem funktioniert"
+    },
+    {
+      "title": "US-Wahl : Washington, D. C. verstärkt seine Sicherheitsmaßnahmen",
+      "teaser": "Sicherheitskräfte in Washington, D. C. sind vor der Wahl in höchster Alarmbereitschaft. Auch außerhalb der US-Hauptstadt wurde die Nationalgarde in Bereitschaft versetzt.",
+      "url": "https://www.zeit.de/video/2024-11/6364173733112/us-wahl-washington-d-c-verstaerkt-seine-sicherheitsmassnahmen",
+      "image_url": "https://img.zeit.de/video/2024-11/6364173733112-still/super__430x286",
+      "image_title": "US-Wahl: Washington, D. C. verstärkt seine Sicherheitsmaßnahmen"
+    },
+    {
+      "title": "Krieg in der Ukraine : Russland greift Charkiw an, Außenministerin Baerbock besucht Kyjiw",
+      "teaser": "Russland hat mindestens 15 Menschen bei einem Angriff auf Charkiw verletzt und Drohnen auf Kyjiw geflogen. Annalena Baerbock ist zu Besuch in der ukrainischen Hauptstadt.",
+      "url": "https://www.zeit.de/video/2024-11/6364172367112/krieg-in-der-ukraine-russland-greift-charkiw-an-aussenministerin-baerbock-besucht-kyjiw",
+      "image_url": "https://img.zeit.de/video/2024-11/6364172367112-still/super__430x286",
+      "image_title": "Krieg in der Ukraine: Russland greift Charkiw an, Außenministerin Baerbock besucht Kyjiw"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Pressknödel : Da liegen sie flach",
+      "teaser": "Nicht alle Knödel können rollen. Die Pressknödel zum Beispiel, in die meistens schön viel alter Käse kommt, werden plattgemacht. Natürlich mit Liebe!",
+      "url": "https://www.zeit.de/zeit-magazin/2024/46/pressknoedel-kaese-rezept-wochenmarkt",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-10/pressknoedel-kaese-rezept-wochenmarkt-bild/wide__892x501",
+      "image_title": "Pressknödel: Da liegen sie flach"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); BibisBeautyPalace : \"Hallo meine Lieben, mein Name ist Bianca\"",
       "teaser": "Bianca Heinicke wurde mit BibisBeautyPalace reich und berühmt, bis sie plötzlich zusammenbrach. Jetzt ist sie zurück. Hier erzählt sie exklusiv, was passiert ist.",
       "url": "https://www.zeit.de/zeit-magazin/2024/47/bibisbeautypalace-bianca-heinicke-youtube-influencer-podcast-lebensstil",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024/47/okay-aber-dann-will-ich-jetzt-auch-die-welt-veraendern-bild-1/wide__892x501",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024/47/okay-aber-dann-will-ich-jetzt-auch-die-welt-veraendern-bild-1/super__430x286",
       "image_title": "BibisBeautyPalace: Neue Haarfarbe, neue Lebensphilosophie, neuer Name: Bibi nennt sich jetzt Bianca"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Jugendliche in Bergdörfern : \"Eigenes Haus, eigener Garten, so möchte ich mich verwirklichen\"",
-      "teaser": "Ja, es gibt sie: Jugendliche, die ihre Bergdörfer nicht beengend finden, sondern gemütlich. Die Tracht tragen und ihre Eltern mögen. Warum brennen sie für die Provinz?",
-      "url": "https://www.zeit.de/zeit-magazin/2024/46/jugendliche-bergdoerfer-fotografie-tracht-eltern",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024/46/generation-bergluft-bild-3/super__430x286",
-      "image_title": "Jugendliche in Bergdörfern: \"Eigenes Haus, eigener Garten, so möchte ich mich verwirklichen\""
+      "title": "Worträtsel : Wortiger",
+      "teaser": "Das beliebte Worträtsel jetzt auch auf ZEIT ONLINE: Finden Sie in 6 Versuchen das richtige Wort. Die Farben helfen, sich der Lösung langsam zu nähern.",
+      "url": "https://spiele.zeit.de/wortiger/",
+      "image_url": "https://img.zeit.de/spiele/wortiger-teaser-neu-7-buchstaben/super__320x213",
+      "image_title": "Worträtsel: Wortiger"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Tom Hanks : Das schlimmste Alter ist 35",
-      "teaser": "Tom Hanks will auf keinen Fall noch mal Mitte 30 sein, denn da begann der körperliche Verfall. Aber ist es wirklich besser, jung zu sein – oder sogar 68?",
-      "url": "https://www.zeit.de/zeit-magazin/unterhaltung/2024-11/tom-hanks-schauspiel-alter-leben",
-      "image_url": "https://img.zeit.de/kultur/film/2024-11/tom-hanks-schauspiel-alter-leben-bild/super__430x286",
-      "image_title": "Tom Hanks: Tom Hanks attends the Academy Museum Gala fundraiser at the Academy Museum of Motion Pictures in Los Angeles, California, U.S., October 19, 2024. REUTERS/Mario Anzuoni"
+      "title": "Buchstabenrätsel : Buchstabiene",
+      "teaser": "Bei der Buchstabiene geben wir Ihnen 9 Buchstaben vor – Sie bilden daraus Wörter. So viele wie Sie können.",
+      "url": "https://spiele.zeit.de/buchstabiene/",
+      "image_url": "https://img.zeit.de/spiele/buchstabiene-teaser/super__320x213",
+      "image_title": "Buchstabenrätsel: Buchstabiene"
+    },
+    {
+      "title": "Einfach – mittel – schwer : Sudoku für Einsteiger",
+      "teaser": "Sie sind Sudoku-Anfänger? Dann steigen Sie mit unseren niedrigen Schwierigkeitsgraden in die Sudoku-Welt ein.",
+      "url": "https://sudoku.zeit.de/sudoku-leicht",
+      "image_url": "https://img.zeit.de/spiele/spiele-sudoku-leicht-teaser-neu/super__320x213",
+      "image_title": "Einfach – mittel – schwer: Sudoku für Einsteiger"
+    },
+    {
+      "title": "Neu: Logikrätsel : Hashiwokakero",
+      "teaser": "Hashiwokakero ist ein Logikrätsel aus Japan. Ihre Aufgabe besteht darin Brücken zu bauen. Schaffen Sie es, eine durchgängige Verbindung aller Kreise herzustellen?",
+      "url": "https://spiele.zeit.de/hashiwokakero/",
+      "image_url": "https://img.zeit.de/spiele/hashiwokakero-teaser/super__320x213",
+      "image_title": "Neu: Logikrätsel: Hashiwokakero"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Spiele: Kreuzworträtsel : Um die Ecke gedacht",
+      "teaser": "Lösen Sie unser beliebtes Kreuzworträtsel aus dem ZEITmagazin. Jeden Donnerstag neu, jedes Mal knifflig.",
+      "url": "https://spiele.zeit.de/ecke/",
+      "image_url": "https://img.zeit.de/spiele/spiele-ecke-teaser-neu/super__320x213",
+      "image_title": "Kreuzworträtsel: Um die Ecke gedacht"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Knödel in Südtirol : Seine Welt sind die Berge",
+      "teaser": "Beilage? Pah! In Südtirol entfaltet der Knödel sein ganzes Potenzial. Kochen Sie mal mit, wir haben die richtigen Rezepte.",
+      "url": "https://www.zeit.de/zeit-magazin/2024/46/knoedel-suedtirol-restaurant-kochen",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024/46/seine-welt-sind-die-berge-bild-1/wide__892x501",
+      "image_title": "Knödel in Südtirol: Seine Welt sind die Berge"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Rosmarin-Kartoffelplätzchen : Ein Bett aus Kürbis",
+      "teaser": "Wie aus einem Beilagenklassiker wie Rosmarinkartoffeln eine Herbstmahlzeit wird? Zum Beispiel, indem man sie zu einer Art Frikadellen formt und auf Kürbisspalten legt.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-10/rosmarin-kartoffelplaetzchen-mangold-kuerbis-rezept-himbeerrot-sonntagsessen",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-10/rosmarin-kartoffelplaetzchen-sonntagsessen-teaserbild/super__430x286",
+      "image_title": "Rosmarin-Kartoffelplätzchen: Rosmarin-Kartoffelplätzchen mit Mangold und Ofenkürbis"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Mangocreme-Torte : Diese Torte tanzt Mango",
+      "teaser": "Sie sieht aufwendig aus, ist aber in Windeseile hergestellt! Beruhigend: Falls keine frischen Mangos verfügbar sind, gelingt sie auch mit Mangopüree aus dem Glas.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024/07/mangocreme-torte-rezept-wochenmarkt",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-10/mangocreme-torte-rezept-wochenmarkt-bild/super__320x213",
+      "image_title": "Mangocreme-Torte: Diese Torte tanzt Mango"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Schwarzkohl : So wird man doch gern verkohlt",
+      "teaser": "Toskanischer Palmkohl oder Cavolo nero? Schwarzkohl hat viele Namen – und noch mehr Zubereitungsvarianten. Kurz gebraten kann man ihn ganz nach Wunsch anrichten.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-10/schwarzkohl-ricotta-walnuesse-rezept",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-10/schwarzkohl-ricotta-walnuesse-rezept-bild/super__320x213",
+      "image_title": "Schwarzkohl: So wird man doch gern verkohlt"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Zwiebelmarmelade : Marmelade im Zwiebellook",
+      "teaser": "Ohne Zwiebeln geht nichts, nicht mal Marmelade. Langsam eingekocht entwickeln sie eine Süße, die sich gut zu Käse, auf einem Sandwich oder auch zu Fleisch macht.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024/07/zwiebelmarmelade-zwiebel-rezept-wochenmarkt",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-10/zwiebelmarmelade-zwiebel-rezept-wochenmarkt-bild/super__320x213",
+      "image_title": "Zwiebelmarmelade: Marmelade im Zwiebellook"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Endiviensalat mit Äpfeln und Walnusskernen : Von wegen bittere Mischung",
+      "teaser": "Endiviensalat ist bekannt für seine Bitterkeit. In der richtigen Gesellschaft kommt diese perfekt zur Geltung, wie in diesem Salat mit Äpfeln und Walnüssen.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024/07/endiviensalat-aepfel-walnusskerne-rezept-wochemarkt",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-10/endiviensalat-aepfel-walnusskerne-rezept-wochemarkt-bild/super__320x213",
+      "image_title": "Endiviensalat mit Äpfeln und Walnusskernen: Von wegen bittere Mischung"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Bratapfel mit Mascarpone : Auf Brat Summer folgt Brat-Apfel",
+      "teaser": "Wenn es nach Zimt und Sternanis duftet, ist der nächste Bratapfel nicht weit. Dieser hier wird mit Orangen-Mascarpone-Creme und großen Wintergefühlen serviert.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024/07/bratapfel-mascarpone-rezept-wochenmarkt",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-10/bratapfel-mascarpone-rezept-wochenmarkt-bild/super__320x213",
+      "image_title": "Bratapfel mit Mascarpone: Auf Brat Summer folgt Brat-Apfel"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Ehrenamt : Ehrenmann, Ehrenfrau, Ehrenamt",
@@ -1244,11 +1160,11 @@
       "image_title": "Ehrenamt: Bei den Eseln auf der Koppel sitzen und einfach mal nichts tun: Vor ihrem Studium lernte Nele auch, richtig zu entspannen."
     },
     {
-      "title": "Verlagsangebot : Welcher Beruf passt zu mir?",
-      "teaser": "Mit dem BOA-Berufstest erfahren Berufseinsteiger mehr über die eigenen Stärken und finden den passenden Job.",
-      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.verlagsteaser.quan.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=verlagsteaserindex&amp;utm_content=bot_verlagsteaser_quan_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/boa-quan/wide__430x286__desktop",
-      "image_title": "Welcher Beruf passt zu mir?"
+      "title": "Verlagsangebot : Und was macht man dann damit?",
+      "teaser": "Was verbirgt sich konkret hinter den sperrigen Studiengangsbezeichnungen? Einen Einblick in mögliche Berufsfelder liefert die Suchmaschine für Studienangebote.",
+      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.kaffeepause_wasmachtmandamit.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_kaffeepause_wasmachtmandamit_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-4-klein/photo-of-women-looking-on-monitors-197.jpg",
+      "image_title": "Und was macht man dann damit?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Studienfinanzierung : Bafög muss nicht alle Hindernisse für ein Studium beseitigen",
@@ -1258,46 +1174,18 @@
       "image_title": "Studienfinanzierung: Blick in einen leeren Hörsaal im Philosophenturm \"„Philturm\"“ auf dem Campus der Universität Hamburg, am 5. April 2024"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Vanlife : \"Am Kanal ist es wie in einer WG, mit Birken im Wohnzimmer\"",
-      "teaser": "WG-Zimmer? Sind oft überteuert! Wohnheime? Zu trist! Enna hat am Fluss ein Zuhause gefunden, das bei ihr bleibt, egal wohin sie geht: einen VW-Transporter namens Mia.",
-      "url": "https://www.zeit.de/campus/2024/05/vanlife-studentin-freiheiten-herausforderungen",
-      "image_url": "https://img.zeit.de/campus/2024/05/ein-zuhause-das-bei-mir-bleibt-egal-wohin-ich-gehe-bild-1/super__430x286",
-      "image_title": "Vanlife: Unsere neue Wohnserie ist eine Kooperation mit der Ostkreuzschule für Fotografie. Enna*, 26, wohnt in einem VW T4, Baujahr 2003, am Dortmund-Ems-Kanal in Münster."
+      "title": "Z+ (abopflichtiger Inhalt); Bundesliga, 9. Spieltag – Sonntag : Gladbach gewinnt gegen Bremen, Freiburg und Mainz spielen Remis",
+      "teaser": "Gladbach führt bereits zur Pause deutlich – auch dank eines Bremer Eigentors. Mainz bleibt auswärts ungeschlagen, spielt gegen Freiburg aber nur Remis. Die Spielberichte",
+      "url": "https://www.zeit.de/sport/2024-11/bundesliga-9-spieltag-freiburg-mainz-gladbach-bremen",
+      "image_url": "https://img.zeit.de/sport/2024-11/bundesliga-9-spieltag-freiburg-mainz-gladbach-bremen-bild/wide__892x501",
+      "image_title": "Bundesliga, 9. Spieltag – Sonntag: Franck Honorat von Borussia Mönchengladbach feiert mit seinen Mannschaftskameraden den dritten Treffer seiner Mannschaft während des Bundesligaspiels zwischen Borussia Mönchengladbach und dem SV Werder Bremen im Borussia-Park am 03. November 2024 in Mönchengladbach, Deutschland."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Ohnmacht : \"Ab da waren alle Darsteller nackt\"",
-      "teaser": "Die Premiere von \"Sancta\" in Stuttgart überraschte und schockierte viele Zuschauer. Wie es wirklich ist, einer Ohnmacht beim Opernskandal beizuwohnen.",
-      "url": "https://www.zeit.de/2024/46/ohnmacht-oper-vorstellung-sancta-stuttgart",
-      "image_url": "https://img.zeit.de/2024/47/einer-ohnmacht-beim-opernskandal-beizuwohnen-teaser/wide__892x501",
-      "image_title": "Ohnmacht: \"Ab da waren alle Darsteller nackt\""
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Zugluft : Die böse Brise",
-      "teaser": "\"Rose, ich wohne im Altbau, und es zieht! Mit Dichtungsband lassen sich Türe und Fenster nicht mehr schließen. Hast du andere Tipps?\" – fragt Friedi.",
-      "url": "https://www.zeit.de/entdecken/2024-10/zugluft-wohnung-fenster-dichtung-tipps",
-      "image_url": "https://img.zeit.de/entdecken/2024-10/wochenende-45-frag-rose-bild/super__430x286",
-      "image_title": "Zugluft: Die böse Brise"
-    },
-    {
-      "title": "Anzeige : ZEIT REISEN Individualreisen",
-      "teaser": "Reisen Sie in Ihrem eigenen Tempo mit Ihrem Partner, Freunden oder der Familie. Wir geben Ihnen ausgearbeitete Programme und Routenvorschläge an die Hand. Hier entdecken!",
-      "url": "https://zeitreisen.zeit.de/reiseuebersicht/individualreisen/?utm_medium=display&utm_source=zeit_online&utm_campaign=rotation_individualreisen&utm_content=rotation_individualreisen",
-      "image_url": "https://img.zeit.de/angebote/Links/bilder-zeit-reisen/bilder-2023/nordspanien-c-mimadeo-istock-467204776-erweiterte-lizenz-207-aufmacher-1160x656/super__430x286",
-      "image_title": "ZEIT REISEN Individualreisen"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); ÖPNV : Verband Deutscher Verkehrsunternehmen fordert mehr Geld vom Bund",
-      "teaser": "Die Bundesmittel zur Finanzierung des ÖPNV in den Ländern sollen bis 2031 jedes Jahr um drei Prozent wachsen. Das reiche nicht, um das Angebot zu sichern, sagt der VDV.",
-      "url": "https://www.zeit.de/mobilitaet/2024-11/verband-deutscher-verkehrsunternehmen-fordert-mehr-geld-vom-bund",
-      "image_url": "https://img.zeit.de/mobilitaet/2024-11/verband-deutscher-verkehrsunternehmen-fordert-mehr-geld-vom-bund-bild/wide__892x501",
-      "image_title": "ÖPNV: Beschreibung Ein Zug fährt durch den Bahnhof Siegburg/Bonn. Nach einem Hinweis ist ein ICE in Siegburg gestoppt und wegen möglicher Anschlagpläne durchsucht worden. Inzwischen konnte der Zug seine Fahrt fortsetzen. Service +++ dpa-Bildfunk +++ Aufnahmedatum 31.10.2024 Bildnachweis picture alliance/dpa | Benjamin Westhoff"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Greyhound-Reise durch die USA : Amerika von unten",
-      "teaser": "Einmal von Ost nach West mit dem Greyhound-Bus. Eine Reise in die Seele der USA. Unsere Autorin lernte eine Seite des Landes kennen, die vielen verborgen bleibt.",
-      "url": "https://www.zeit.de/2024/46/greyhound-reise-usa-fernbus-abenteuer-los-angeles",
-      "image_url": "https://img.zeit.de/2024/47/der-bus-teaser/super__430x286",
-      "image_title": "Greyhound-Reise durch die USA: Menschen, die das Fliegen vermeiden möchten und kein Auto haben, fahren in den USA häufig Bus."
+      "title": "Z+ (abopflichtiger Inhalt); Tennis : Alexander Zverev gewinnt Pariser ATP-Masters",
+      "teaser": "Alexander Zverev hat das Pariser Tennis-Masters fast fehlerlos für sich entschieden. Im Finale setzte sich der Olympiasieger von Tokio deutlich gegen Ugo Humbert durch.",
+      "url": "https://www.zeit.de/sport/2024-11/alexander-zverev-paris-tennis-atp-finale-masters",
+      "image_url": "https://img.zeit.de/sport/2024-11/alexander-zverev-paris-tennis-atp-finale-masters-bild/super__430x286",
+      "image_title": "Tennis: Alexander Zverev aus Deutschland küsst die Trophäe, während er seinen Sieg im Herreneinzel-Finale gegen Ugo Humbert aus Frankreich während des siebten Tages des Rolex Paris Masters 2024 am 03. November 2024 in Paris, Frankreich, feiert."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Mordfall Florian B. : Drei Schüsse um 22.12 Uhr",
@@ -1314,50 +1202,36 @@
       "image_title": "Kirsten Fehrs: Bischöfin Kirsten Fehrs, die kommissarische Vorsitzende der Evangelischen Kirche in Deutschland, während eines Gottesdienstes."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Bundesliga-Rückschau : Nuri Şahin und der Tuchel-Plan",
-      "teaser": "Der viel kritisierte BVB-Trainer gewinnt mit einer viele Jahre alten Idee. Und in Schleswig-Holstein ereignet sich Historisches. Alles Wichtige vom Fußballwochenende",
-      "url": "https://www.zeit.de/sport/2024-11/bundesliga-rueckschau-nuri-sahin-thomas-tuchel",
-      "image_url": "https://img.zeit.de/sport/2024-11/nuri-sahin/wide__892x501",
-      "image_title": "Bundesliga-Rückschau: Nuri Şahin und der Tuchel-Plan"
+      "title": "Steuerhinterziehung: Voraussichtlich letzter Prozess um Steinhoff-Bilanzskandal",
+      "url": "https://www.zeit.de/news/2024-11/04/voraussichtlich-letzter-prozess-um-steinhoff-bilanzskandal"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Bundesliga, 9. Spieltag – Sonntag : Gladbach gewinnt gegen Bremen, Freiburg und Mainz spielen Remis",
-      "teaser": "Gladbach führt bereits zur Pause deutlich – auch dank eines Bremer Eigentors. Mainz bleibt auswärts ungeschlagen, spielt gegen Freiburg aber nur Remis. Die Spielberichte",
-      "url": "https://www.zeit.de/sport/2024-11/bundesliga-9-spieltag-freiburg-mainz-gladbach-bremen",
-      "image_url": "https://img.zeit.de/sport/2024-11/bundesliga-9-spieltag-freiburg-mainz-gladbach-bremen-bild/super__430x286",
-      "image_title": "Bundesliga, 9. Spieltag – Sonntag: Franck Honorat von Borussia Mönchengladbach feiert mit seinen Mannschaftskameraden den dritten Treffer seiner Mannschaft während des Bundesligaspiels zwischen Borussia Mönchengladbach und dem SV Werder Bremen im Borussia-Park am 03. November 2024 in Mönchengladbach, Deutschland."
+      "title": "Berlin-Friedrichshain: Polizei in Rigaer Straße mit Feuerwerkskörpern angegriffen",
+      "url": "https://www.zeit.de/news/2024-11/04/polizei-in-rigaer-strasse-mit-feuerwerkskoerpern-angegriffen"
     },
     {
-      "title": "Luftverkehr: Hamburger Flughafen zieht für Herbstferien positive Bilanz",
-      "url": "https://www.zeit.de/news/2024-11/04/hamburger-flughafen-zieht-fuer-herbstferien-positive-bilanz"
+      "title": "Kriminalität: Prozess um Mord an Arzt beginnt",
+      "url": "https://www.zeit.de/news/2024-11/04/prozess-um-mord-an-arzt-beginnt"
     },
     {
-      "title": "Harris gegen Trump: Finale im US-Wahlkampf: Alle Kraft in die «Swing States»",
-      "url": "https://www.zeit.de/news/2024-11/04/finale-im-us-wahlkampf-alle-kraft-in-die-swing-states"
+      "title": "Versuchte Brandstiftung: In Kirche gezündelt - 17-jähriger hinter Gittern",
+      "url": "https://www.zeit.de/news/2024-11/04/in-kirche-gezuendelt-17-jaehriger-hinter-gittern"
     },
     {
-      "title": "Landtag: Keine Ermittlungen gegen Verfassungsrichter nach AfD-Anzeige",
-      "url": "https://www.zeit.de/news/2024-11/04/keine-ermittlungen-gegen-verfassungsrichter-nach-afd-anzeige"
+      "title": "Atommüll: Potenzielle Gebiete für Endlager in Thüringen eingeschränkt",
+      "url": "https://www.zeit.de/news/2024-11/04/potenzielle-gebiete-fuer-endlager-in-thueringen-eingeschraenkt"
     },
     {
-      "title": "Musikhochschulen: Neuer Rektor der Dresdner Musikhochschule im Amt",
-      "url": "https://www.zeit.de/news/2024-11/04/neuer-rektor-der-dresdner-musikhochschule-im-amt"
+      "title": "Schifffahrt: Meyer: Vertiefung des Rostocker Seekanals gut für Region",
+      "url": "https://www.zeit.de/news/2024-11/04/meyer-vertiefung-des-rostocker-seekanals-gut-fuer-region"
     },
     {
-      "title": "Unfälle: Frau stürzt in Weimar mit dem Fahrrad und stirbt in Klinik",
-      "url": "https://www.zeit.de/news/2024-11/04/frau-stuerzt-in-weimar-mit-dem-fahrrad-und-stirbt-in-klinik"
+      "title": "Spitzengespräch: Staatsregierung und Kommunen finden Finanz-Kompromiss",
+      "url": "https://www.zeit.de/news/2024-11/04/staatsregierung-und-kommunen-finden-finanz-kompromiss"
     },
     {
-      "title": "Brückensanierung: Sanierte Lahnbrücke der B42 wieder freigegeben",
-      "url": "https://www.zeit.de/news/2024-11/04/sanierte-lahnbruecke-der-b42-wieder-freigegeben"
-    },
-    {
-      "title": "Im Krankenhaus: Keine Nacht in der Klinik - Mann beißt Polizisten",
-      "url": "https://www.zeit.de/news/2024-11/04/keine-nacht-in-der-klinik-mann-beisst-polizisten"
-    },
-    {
-      "title": "Personalien: Helge Braun kandidiert nicht erneut für den Bundestag",
-      "url": "https://www.zeit.de/news/2024-11/04/helge-braun-kandidiert-nicht-erneut-fuer-den-bundestag"
+      "title": "Champions League: Ärger um Preise: Bayern-Fans stornieren Donezk-Tickets",
+      "url": "https://www.zeit.de/news/2024-11/04/aerger-um-preise-bayern-fans-stornieren-donezk-tickets"
     }
   ]
 }
