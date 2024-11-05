@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-05T07:07:15",
+  "timestamp": "2024-11-05T08:10:08",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -19,27 +19,46 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.adb7808356e71db415bd",
+      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.866fb6cc31e4fc25becf",
       "id": null,
       "text": null
     }
   ],
   "articles": [
     {
+      "title": "Ausfallsicherheit und mehr Platz: Heimserver mit Unraid aufsetzen",
+      "teaser": "Unraid verwandelt handelsübliche Hardware in ein simpel zu wartendes NAS. Es kann Festplatten in unterschiedlicher Größe flexibel kombinieren. So gehen Sie vor.",
+      "url": "https://www.heise.de/ratgeber/Ausfallsicherheit-und-mehr-Platz-Heimserver-mit-Unraid-aufsetzen-10003311.html",
+      "image_title": ","
+    },
+    {
       "title": "So stellt sich GitHub die Zukunft des Programmierens vor",
       "teaser": "Eine Milliarde Softwareentwickler und Programmieren ohne Code: GitHub-CPO Mario Rodriguez erklärt im Interview die Vision der Copilot-Macher.",
       "url": "https://www.heise.de/hintergrund/So-stellt-sich-GitHub-die-Zukunft-des-Programmierens-vor-10001049.html"
     },
     {
-      "title": "Dapr: Moderne verteilte Anwendungsentwicklung im Test",
-      "teaser": "Die Laufzeitumgebung Dapr nimmt der Entwicklung von Microservices den Stachel. Sie deckt die speziellen Anforderungen verteilter Anwendungen ab.",
-      "url": "https://www.heise.de/tests/Dapr-Moderne-verteilte-Anwendungsentwicklung-im-Test-10002883.html"
+      "title": "Tipp: Frisches System auf altem MacBook Pro mit Lion-Bootstick",
+      "teaser": "Ein älterer Mac als Zusatzsystem, doch das Zurücksetzen will nicht klappen? Mit unserem Tipp geht es doch.",
+      "url": "https://www.heise.de/ratgeber/Tipp-Frisches-System-auf-altem-MacBook-Pro-mit-Lion-Bootstick-10003297.html",
+      "image_title": "MacBook Pro älterer Bauart"
     },
     {
-      "title": "Ausfallsicherheit und mehr Platz: Heimserver mit Unraid aufsetzen",
-      "teaser": "Unraid verwandelt handelsübliche Hardware in ein simpel zu wartendes NAS. Es kann Festplatten in unterschiedlicher Größe flexibel kombinieren. So gehen Sie vor.",
-      "url": "https://www.heise.de/ratgeber/Ausfallsicherheit-und-mehr-Platz-Heimserver-mit-Unraid-aufsetzen-10003311.html",
-      "image_title": ","
+      "title": "Powertoys 0.86 bringen Ordnung in die Navigation",
+      "teaser": "Microsofts Entwickler haben die Navigationsleiste der Powertoys 0.86 aufgeräumt. Erweitertes Einfügen beherrscht nun Bild-zu-Text.",
+      "url": "https://www.heise.de/news/Powertoys-0-86-bringen-Ordnung-in-die-Navigation-10004123.html",
+      "image_title": "Stilisiertes Bild: Ein Laptop mit Windows-Logo auf einer Werkbank, umgeben von Werkzeugen und Zahrädern"
+    },
+    {
+      "title": "GitHub-Report: Python überholt JavaScript, während TypeScript Java schlägt",
+      "teaser": "Ein Report von GitHub zeigt, dass die Aktivität der Entwickler im Bereich KI und Data Science stark zunimmt. Eine zentrale Rolle nimmt Python ein.",
+      "url": "https://www.heise.de/news/GitHub-Report-Python-ueberholt-JavaScript-waehrend-TypeScript-Java-schlaegt-10003572.html",
+      "image_title": "Python-Schlange mit Laptop"
+    },
+    {
+      "title": "Podcast Software Testing: Business Analyst mit Qualitätsblick",
+      "teaser": "In dieser Podcast-Folge spricht Richard Seidl mit Phillip Huber über die Qualität von Anforderungen und wie diese sichergestellt werden kann.",
+      "url": "https://www.heise.de/blog/Podcast-Software-Testing-Business-Analyst-mit-Qualitaetsblick-10003257.html",
+      "image_title": "Podcast Software Testing: Business Analyst mit Qualitätsblick mit Phillip Huber"
     },
     {
       "title": "c't-Workshop: Docker und Container in der Praxis",
@@ -105,24 +124,6 @@
       "teaser": "In ManageEngine ADManager Plus von Zohocorp können Angreifer eine SQL-Injection-Lücke missbrauchen und dadurch unbefugten Zugriff erlangen.",
       "url": "https://www.heise.de/news/Zoho-ManageEngine-ADManager-Plus-Angreifer-koennen-SQL-Befehle-einschleusen-10003367.html",
       "image_title": "Kriminelle greifen Server an, Admin versucht, den Stecker zu ziehen"
-    },
-    {
-      "title": "Die Produktwerker: Umgang mit Produktrisiken",
-      "teaser": "Wie können Product Owner Risiken in der Produktentwicklung identifizieren und minimieren? Damit befassen sich die Produktwerker in dieser Folge des Podcasts.",
-      "url": "https://www.heise.de/blog/Die-Produktwerker-Umgang-mit-Produktrisiken-10002932.html",
-      "image_title": "Produktwerker auf einem Bild (3 Männer), dazu Text \"Der Podcast für Product Owner\""
-    },
-    {
-      "title": "Digital Design & UX: Jetzt noch Vortrag für die Konferenz in Dortmund einreichen",
-      "teaser": "Dieses Jahr findet die Konferenz zu Digital Design und UX-Gestaltung erstmals in Nordrhein-Westfalen statt. Bis zum 7. Dezember läuft der Call for Papers.",
-      "url": "https://www.heise.de/news/Digital-Design-UX-Jetzt-noch-Vortrag-fuer-die-Konferenz-in-Dortmund-einreichen-9999483.html",
-      "image_title": "Schriftzug DDUX"
-    },
-    {
-      "title": "Blockierte Personen sehen bei X künftig trotzdem Beiträge",
-      "teaser": "X hat ein umstrittenes Update durchgeführt. Damit können blockierte Personen trotzdem die Beiträge der blockenden Person sehen.",
-      "url": "https://www.heise.de/news/Update-fuer-X-Beitraege-werden-fuer-blockierte-Personen-sichtbar-10003056.html",
-      "image_title": "X-Symbol auf einem Smartphone. Das Smartphone liegt auf einer Mac--Notebook-Tastatur."
     },
     {
       "title": "Zahlreiche Bestwerte",
