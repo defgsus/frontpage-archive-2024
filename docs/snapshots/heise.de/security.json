@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-05T14:00:38",
+  "timestamp": "2024-11-05T15:00:46",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -19,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.3c1d7818e46f66b93a6f",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.03f127505c3f8d23d35f",
       "id": null,
       "text": null
     },
@@ -31,6 +31,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Synology",
+      "url": "https://www.heise.de/news/Synology-korrigiert-weitere-kritische-Pwn2Own-Sicherheitsluecken-10004868.html"
+    },
     {
       "title": "Veritas Netbackup",
       "url": "https://www.heise.de/news/Veritas-Netbackup-Rechteausweitung-in-Windows-moeglich-10004814.html"
@@ -44,26 +48,28 @@
       "url": "https://www.heise.de/news/Zoho-ManageEngine-ADManager-Plus-Angreifer-koennen-SQL-Befehle-einschleusen-10003367.html"
     },
     {
-      "title": "Okta Verify, AD/LDAP DelAuth",
-      "url": "https://www.heise.de/news/Okta-Sicherheitsluecke-in-Verify-gibt-Angreifern-Zugriff-auf-Passwoerter-10002764.html"
+      "title": "Synology korrigiert weitere kritische Pwn2Own-Sicherheitslücken",
+      "teaser": "Synology-NAS waren ein beliebtes Ziel beim Pwn2Own-Wettbewerb in Irland. Der Hersteller stopft weitere, dort entdeckte kritische Sicherheitslücken.",
+      "url": "https://www.heise.de/news/Synology-korrigiert-weitere-kritische-Pwn2Own-Sicherheitsluecken-10004868.html",
+      "image_title": "Brennende NAS-Systeme"
     },
     {
-      "title": "Veritas Netbackup: Rechteausweitung in Windows möglich",
-      "teaser": "Hersteller Veritas warnt vor einer Sicherheitslücke in Netbackup unter Windows. Angreifer können dadurch ihre Rechte ausweiten.",
-      "url": "https://www.heise.de/news/Veritas-Netbackup-Rechteausweitung-in-Windows-moeglich-10004814.html",
-      "image_title": "The,Abstract,Image,Of,Inside,Of,Hard,Disk,Drive,On"
-    },
-    {
-      "title": "Android-Patchday: Updates stopfen zwei angegriffene Sicherheitslücken",
-      "teaser": "Der Android-Patchday im November bringt Aktualisierungen mit, die unter anderem zwei bereits angegriffene Sicherheitslecks abdichten.",
-      "url": "https://www.heise.de/news/Android-Patchday-Updates-stopfen-zwei-angegriffene-Sicherheitsluecken-10004666.html",
-      "image_title": "Stilisiertes Bild: Smartphone mit Android-Roboter auf dem Bildschirm, steht in Flammen"
+      "title": "Google und Greynoise melden Erfolge bei KI-gestützter Schwachstellensuche",
+      "teaser": "Die Unternehmen Google und Greynoise haben neu erkannte Schwachstellen gemeldet. Diese haben sie mit Künstlicher Intelligenz gefunden.",
+      "url": "https://www.heise.de/news/Google-und-Greynoise-melden-Erfolge-bei-KI-gestuetzter-Schwachstellensuche-10004183.html",
+      "image_title": "Ein KI-Wurm schaut aus dem Display eines Laptops heraus"
     },
     {
       "title": "Hackerparagraf wird entschärft, aber nicht gestrichen",
       "teaser": "Das Justizministerium will Sicherheitsforscher besser schützen – wenn sie \"in guter Absicht\" handeln. Das könnte schwierig werden.",
       "url": "https://www.heise.de/news/Neues-Computerstrafrecht-vorgelegt-inklusive-Hackerparagraf-10003958.html",
       "image_title": "Hände auf Tastatur im Dunklen"
+    },
+    {
+      "title": "Zoho ManageEngine ADManager Plus: Angreifer können SQL-Befehle einschleusen",
+      "teaser": "In ManageEngine ADManager Plus von Zohocorp können Angreifer eine SQL-Injection-Lücke missbrauchen und dadurch unbefugten Zugriff erlangen.",
+      "url": "https://www.heise.de/news/Zoho-ManageEngine-ADManager-Plus-Angreifer-koennen-SQL-Befehle-einschleusen-10003367.html",
+      "image_title": "Kriminelle greifen Server an, Admin versucht, den Stecker zu ziehen"
     },
     {
       "title": "Anonymisierendes Linux: Tails 6.9 aktualisiert Kernkomponenten",
@@ -158,12 +164,6 @@
       "teaser": "Cisco gibt Admins Tipps zur Abwehr von Brute-Force-Angriffen auf VPN-Log-ins von ASA- und FTD-Geräten. Inzwischen werden mehr Versionen unterstützt.",
       "url": "https://www.heise.de/news/Cisco-ergaenzt-Brute-Force-Schutz-fuer-mehre-ASA-und-FTD-Versionen-9999023.html",
       "image_title": "Stilisiertes Bild: Ein Stapel brennender Cisco-Appliances"
-    },
-    {
-      "title": "\"Passwort\" Folge 17: News von Cybercrimegruppen bis zu Zertifikatsplänen",
-      "teaser": "Im Security-Podcast geht es dieses Mal um Aktionen gegen Kryptobörsen, neue Spectre-Varianten, eine variantenreiche Linux-Malware und Apples Zertifikatsideen.",
-      "url": "https://www.heise.de/news/Passwort-Folge-17-News-von-Cybercrimegruppen-bis-zu-Zertifikatsplaenen-9994681.html",
-      "image_title": "Bild vom heise-Security-Podcast"
     },
     {
       "title": "Scuba-Webinar",
