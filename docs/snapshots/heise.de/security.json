@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-06T06:10:23",
+  "timestamp": "2024-11-06T07:07:11",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "HPE Aruba Access Points",
+      "url": "https://www.heise.de/news/HPE-Aruba-stopft-Codeschmuggel-Luecken-in-Access-Points-10005559.html"
+    },
+    {
       "title": "Synology",
       "url": "https://www.heise.de/news/Synology-korrigiert-weitere-kritische-Pwn2Own-Sicherheitsluecken-10004868.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Android-Patchday-Updates-stopfen-zwei-angegriffene-Sicherheitsluecken-10004666.html"
     },
     {
-      "title": "Zohocorp ManageEngine ADManager Plus",
-      "url": "https://www.heise.de/news/Zoho-ManageEngine-ADManager-Plus-Angreifer-koennen-SQL-Befehle-einschleusen-10003367.html"
+      "title": "iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response (DFIR)",
+      "teaser": "Lernen Sie, professionelle Incident Response Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können.",
+      "url": "https://www.heise.de/news/iX-Workshop-Nach-dem-Einbruch-Digital-Forensics-Incident-Response-DFIR-9989101.html",
+      "image_title": "iX-Workshop Digital Forensics & Incident Response"
+    },
+    {
+      "title": "HPE Aruba stopft Codeschmuggel-Lücken in Access Points",
+      "teaser": "Firmware-Updates für HPE Aruba Access Points stopfen mehrere kritische Sicherheitslücken, die Angreifern das Einschleusen von Schadcode ermöglichen.",
+      "url": "https://www.heise.de/news/HPE-Aruba-stopft-Codeschmuggel-Luecken-in-Access-Points-10005559.html",
+      "image_title": "Eine Appliance verbindet viele Clients mit Kabeln durch die Cloud. Sie und paar Clients brennen."
     },
     {
       "title": "Veritas Netbackup: Rechteausweitung in Windows möglich",
@@ -153,17 +165,6 @@
       "title": "Qnap schließt NAS-Sicherheitslücken aus Hackerwettbewerb",
       "teaser": "NAS-Modelle von Qnap mit der Backupsoftware HBS 3 Hybrid Backup Sync sind angreifbar. Auch im SMB-Service wurde eine kritische Lücke geschlossen.",
       "url": "https://www.heise.de/news/Qnap-schliesst-NAS-Sicherheitsluecke-aus-Hackerwettbewerb-9998904.html"
-    },
-    {
-      "title": "Heise meets…. Explodierende Pager sind klassische Supply-Chain-Attacken",
-      "teaser": "Dieses Jahr gab es jede Menge Daten-Leaks. Mindestens ein Riesen-Leak war jedoch heiße Luft, sagt Christopher Kunz auf der it-sa.",
-      "url": "https://www.heise.de/news/Heise-meets-Explodierende-Pager-sind-klassische-Supply-Chain-Attacken-9999177.html"
-    },
-    {
-      "title": "Cisco: Brute-Force-Schutz für mehr ASA- und FTD-Versionen verfügbar",
-      "teaser": "Cisco gibt Admins Tipps zur Abwehr von Brute-Force-Angriffen auf VPN-Log-ins von ASA- und FTD-Geräten. Inzwischen werden mehr Versionen unterstützt.",
-      "url": "https://www.heise.de/news/Cisco-ergaenzt-Brute-Force-Schutz-fuer-mehre-ASA-und-FTD-Versionen-9999023.html",
-      "image_title": "Stilisiertes Bild: Ein Stapel brennender Cisco-Appliances"
     },
     {
       "title": "Scuba-Webinar",
