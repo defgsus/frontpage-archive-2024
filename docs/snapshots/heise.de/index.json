@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-06T10:00:44",
+  "timestamp": "2024-11-06T11:00:45",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -26,15 +26,27 @@
   ],
   "articles": [
     {
-      "title": "H100 breiter verfügbarNvidias teuerste GPU im Retail-Handel",
-      "teaser": "Wer 30.700 Euro übrig hat und protzen will, kann Nvidias Hopper-GPUs inzwischen bei normalen Online-Shops kaufen.",
-      "url": "https://www.heise.de/news/Nvidias-H100-kommt-im-deutschen-Retail-Handel-an-10004748.html",
-      "image_title": "Nvidia H100 als PCIe Karte"
+      "title": "Amazon Prime AirLieferdienst beginnt in Arizona mit neuer MK30-Drohne",
+      "teaser": "Amazons Drohnenlieferdienst in Lockeford ist Geschichte, nun wird die Phoenix Metro Area neu erschlossen.",
+      "url": "https://www.heise.de/news/Amazon-setzt-neue-MK30-Lieferdrohne-in-Arizona-ein-10005569.html",
+      "image_title": "MK30-Lieferdrohne von Amazon beim Aufstieg."
     },
     {
       "title": "Mikrocontroller zum BastelnESP-Chips und interessante Entwicklerboards",
       "teaser": "Wer Gerätschaften mit WLAN entwickelt, kommt kaum an den ESP-Mikrocontrollern von Espressif vorbei. Ein Blick auf aktuelle Modelle.",
       "url": "https://www.heise.de/ratgeber/Die-ESP-Familie-von-Espressif-und-darauf-basierende-Entwicklungsplatinen-9999662.html",
+      "image_title": ","
+    },
+    {
+      "title": "MikrocontrollerBoard für IoT-Projekte in Briefmarkengröße",
+      "teaser": "Seeed Studio bringt zwei Matter-fähige EFR32MG24-Boards. Diese bieten niedrigen Stromverbrauch und einen Ladeschaltkreis.",
+      "url": "https://www.heise.de/news/Board-fuer-IoT-Projekte-in-Briefmarkengroesse-10005636.html",
+      "image_title": "Das Board ist schräg zur Kamera zu sehen. Es besteht fast komplett aus dem SoC. Nur der USB-C-Anschluss ragt etwas weiter heraus."
+    },
+    {
+      "title": "Erste HilfeWas zu tun ist, wenn Sie gehackt wurden",
+      "teaser": "Das Bankkonto ist geplündert, bei Amazon tauchen fremde Bestellungen auf: Unsere Erste-Hilfe-Maßnahmen zeigen Ihnen, wie Sie den Schaden minimieren.",
+      "url": "https://www.heise.de/ratgeber/Sie-wurden-gehackt-Das-ist-jetzt-zu-tun-9989769.html",
       "image_title": ","
     },
     {
@@ -44,28 +56,16 @@
       "image_title": "Hide the pain Harold mit Tasse und Laptop"
     },
     {
-      "title": "Erste HilfeWas zu tun ist, wenn Sie gehackt wurden",
-      "teaser": "Das Bankkonto ist geplündert, bei Amazon tauchen fremde Bestellungen auf: Unsere Erste-Hilfe-Maßnahmen zeigen Ihnen, wie Sie den Schaden minimieren.",
-      "url": "https://www.heise.de/ratgeber/Sie-wurden-gehackt-Das-ist-jetzt-zu-tun-9989769.html",
-      "image_title": ","
-    },
-    {
-      "title": "Raspi-SSDFlott im Raspberry Pi 5, aber noch zu teuer",
-      "teaser": "Die erste SSD des Raspi-Herstellers mit PCIe-Schnittstelle kommt. Wir haben das Modell mit 256 GByte auf dem Prüfstand.",
-      "url": "https://www.heise.de/news/Raspi-SSD-Flott-im-Raspberry-Pi-5-aber-noch-zu-teuer-10004912.html",
-      "image_title": "Raspi SSD auf Holzuntergrund"
-    },
-    {
       "title": "Apples \"Wo ist?\"Fluggesellschaften dürfen bald mittracken",
       "teaser": "Viele Fluggäste versehen Koffer mittlerweile mit AirTags, um diese im Verlustfall aufzufinden. Das hat auch Apple erkannt.",
       "url": "https://www.heise.de/news/Neues-Wo-ist-Feature-von-Apple-Ortsdaten-mit-der-Airline-teilen-10004379.html",
       "image_title": "Ein Flugzeug mit vier AirTags​"
     },
     {
-      "title": "Autonomes Fahren auf Level 4Schlafen am Steuer erlaubt",
-      "teaser": "Die BASt nennt Level 4 nicht mehr voll automatisiert, und das hat gute Gründe: Der Mensch übergibt die Steuerung.",
-      "url": "https://www.heise.de/hintergrund/Autonomes-Fahren-auf-Level-4-Schlafen-am-Steuer-erlaubt-10003395.html",
-      "image_title": "autonomes Fahren"
+      "title": "LignoSatErster Holzsatellit erreicht die Internationale Raumstation​",
+      "teaser": "Der erste Holzsatellit wurde erfolgreich zur ISS gebracht, um die Einsatzmöglichkeiten von Holz in der Raumfahrt zu testen.",
+      "url": "https://www.heise.de/news/Erster-Holzsatellit-erreicht-die-Internationale-Raumstation-10005532.html",
+      "image_title": "Satellit aus Holz"
     },
     {
       "title": "Für BastlerOpen-Source-Router OpenWrt One im Test",
@@ -90,10 +90,10 @@
       "url": "https://www.heise.de/ratgeber/Strom-mit-dem-Nachbar-teilen-Was-heute-schon-geht-und-was-moeglich-werden-soll-9869220.html"
     },
     {
-      "title": "Amazon, MetaRückschlag für KI-Strom direkt vom Atomkraftwerk",
-      "teaser": "KI-Rechenzentren brauchen gigantische Mengen Strom. Warum nicht direkt an AKWs anschließen? Der Teufel steckt im Detail.​",
-      "url": "https://www.heise.de/news/Amazon-Meta-Rueckschlag-fuer-KI-Strom-direkt-vom-Atomkraftwerk-10004052.html",
-      "image_title": "Atomkraftwerk mit zwei Kühltürmen, aus dem rechten steigt Dampf auf"
+      "title": "Boeing beendet Streik44 Prozent mehr Gehalt für 33.000 Mitarbeiter",
+      "teaser": "Bei Boeing läuft die Arbeit wieder an. Die Streikenden stimmen für 13 Prozent mehr Gehalt sofort, 44 Prozent mehr über 4 Jahre.​",
+      "url": "https://www.heise.de/news/Boeing-beendet-Streik-44-Prozent-mehr-Gehalt-fuer-33-000-Mitarbeiter-10005331.html",
+      "image_title": "Geparkte Boeing-Flugzeuge aus der Luft fotografiert"
     },
     {
       "title": "Solarenergie optimal erzeugenDie ideale Größe des Wechselrichters ermitteln",
@@ -113,16 +113,16 @@
       "image_title": "Brennende NAS-Systeme"
     },
     {
-      "title": "Zahlen, bitte!Wie 538 Personen über die US-Präsidentschaft entscheiden",
-      "teaser": "Die USA wählen ihren nächsten Präsidenten – nach einem System, das vor mehr als 200 Jahren erdacht wurde.",
-      "url": "https://www.heise.de/hintergrund/Zahlen-bitte-538-Wahlleute-fuer-die-US-Praesidentschaft-9988388.html",
-      "image_title": "Aufmacherbild Zahlen, bitte!"
+      "title": "E-AutosLadeinfrastruktur für Elektroautos wächst schneller als Bestand​",
+      "teaser": "2024 wurden bislang weniger E-Autos verkauft als im Vorjahreszeitraum. Wenigstens der Ausbau der Ladeinfrastruktur kommt voran.",
+      "url": "https://www.heise.de/news/Ladeinfrastruktur-fuer-Elektroautos-Netz-waechst-schneller-als-Bestand-10005658.html",
+      "image_title": "Ladesäule"
     },
     {
-      "title": "StudieMenschen ohne Geruchssinn atmen anders",
-      "teaser": "Während Corona kam es häufiger zu Geruchsverlust. Eine israelische Studie legt nun nahe, dass das Auswirkungen auf die Atmung hat.",
-      "url": "https://www.heise.de/news/Menschen-ohne-Geruchssinn-atmen-anders-9861031.html",
-      "image_title": "Drei Nasen"
+      "title": "Autonomes Fahren auf Level 4Schlafen am Steuer erlaubt",
+      "teaser": "Die BASt nennt Level 4 nicht mehr voll automatisiert, und das hat gute Gründe: Der Mensch übergibt die Steuerung.",
+      "url": "https://www.heise.de/hintergrund/Autonomes-Fahren-auf-Level-4-Schlafen-am-Steuer-erlaubt-10003395.html",
+      "image_title": "autonomes Fahren"
     },
     {
       "title": "Goodbye NotionMit Apple-Apps Erinnerungen und Notizen den Alltag organisieren",
@@ -130,22 +130,45 @@
       "url": "https://www.heise.de/ratgeber/Goodbye-Notion-Mit-Apple-Apps-Erinnerungen-und-Notizen-den-Alltag-organisieren-9984318.html"
     },
     {
-      "title": "Künstliche IntelligenzPolnisches KI-Programm fürs Radio nach nur einer Woche eingestellt",
-      "teaser": "Off Radio Krakau sendet keine KI-Beiträge und -Moderationen mehr. Das Ziel sei erreicht. Ex-Beschäftigte widersprechen.",
-      "url": "https://www.heise.de/news/Polnisches-KI-Programm-fuers-Radio-nach-nur-einer-Woche-einstellt-10003411.html",
-      "image_title": "KI-Persona \"Kuba\""
+      "title": "H100 breiter verfügbarNvidias teuerste GPU im Retail-Handel",
+      "teaser": "Wer 30.700 Euro übrig hat und protzen will, kann Nvidias Hopper-GPUs inzwischen bei normalen Online-Shops kaufen.",
+      "url": "https://www.heise.de/news/Nvidias-H100-kommt-im-deutschen-Retail-Handel-an-10004748.html",
+      "image_title": "Nvidia H100 als PCIe Karte"
     },
     {
-      "title": "Raspi-Tablets im EigenbauOffizielles Touch-Display 2 für 70 Euro",
-      "teaser": "Der Raspi-Hersteller legt ein neues Touch-Display mit deutlich gestiegener Auflösung auf. Die Zusatzplatine entfällt.",
-      "url": "https://www.heise.de/news/Raspberry-Pi-Touch-Display-2-fuer-Raspi-Tablets-zum-Selbstbauen-10003498.html",
-      "image_title": "Raspberry Pi an einer Displayrückseite"
+      "title": "Raspi-SSDFlott im Raspberry Pi 5, aber noch zu teuer",
+      "teaser": "Die erste SSD des Raspi-Herstellers mit PCIe-Schnittstelle kommt. Wir haben das Modell mit 256 GByte auf dem Prüfstand.",
+      "url": "https://www.heise.de/news/Raspi-SSD-Flott-im-Raspberry-Pi-5-aber-noch-zu-teuer-10004912.html",
+      "image_title": "Raspi SSD auf Holzuntergrund"
     },
     {
-      "title": "KoalitionsstreitHabeck will Intel-Milliarden in den Bundeshaushalt stecken",
-      "teaser": "Die Subventionen Intels auf Eis gelegte Chipfabrik könnten in den Bundeshaushalt fließen.",
-      "url": "https://www.heise.de/news/Habeck-Intel-Milliarden-koennen-fuer-Haushaltssanierung-verwendet-werden-10003798.html",
-      "image_title": "3D-Simulation der geplanten Chipfabrik von Intel in Magdeburg"
+      "title": "Zahlen, bitte!Wie 538 Personen über die US-Präsidentschaft entscheiden",
+      "teaser": "Die USA wählen ihren nächsten Präsidenten – nach einem System, das vor mehr als 200 Jahren erdacht wurde.",
+      "url": "https://www.heise.de/hintergrund/Zahlen-bitte-538-Wahlleute-fuer-die-US-Praesidentschaft-9988388.html",
+      "image_title": "Aufmacherbild Zahlen, bitte!"
+    },
+    {
+      "title": "KI-basiertes Rettungssystem kann Menschen vor dem Ertrinken retten",
+      "teaser": "Eine Künstliche Intelligenz und autonome Rettungsboote sollen Rettungsschwimmer ersetzen können. Die Reaktionszeit des Systems soll kurz sein.",
+      "url": "https://www.heise.de/news/KI-basiertes-Rettungssystem-kann-Menschen-vor-dem-Ertrinken-retten-10005783.html",
+      "image_title": "Autonome Rettungsboote auf einem See."
+    },
+    {
+      "title": "iOS 18.2: Mehr Tester bekommen Image Playground, Vorbereitung für bessere Siri",
+      "teaser": "Mit Beta 2 von iOS 18.2 gibt sich Apple bei der Freigabe seiner Bildgeneratoren weniger knausrig. Die Siri mit \"Onscreen Awareness\" wird ebenfalls vorbereitet.",
+      "url": "https://www.heise.de/news/iOS-18-2-Mehr-Tester-bekommen-Image-Playground-Vorbereitung-fuer-bessere-Siri-10004620.html",
+      "image_title": "Image-Playground-Nutzung, hier auf einem Mac."
+    },
+    {
+      "title": "EU-Rat einigt sich auf E-Rechnung und Umsatzsteuermeldung in Echtzeit​",
+      "teaser": "Nach fast zweijährigen Verhandlungen hat sich der Ministerrat auf ein Paket zur Reform des Mehrwertsteuersystems geeinigt, die mit der E-Rechnung verknüpft ist.​",
+      "url": "https://www.heise.de/news/EU-Rat-einigt-sich-auf-E-Rechnung-und-Umsatzsteuermeldung-in-Echtzeit-10005895.html",
+      "image_title": "Nahaufnahme,Hand,Geschäftsmann,mit,digitaler,Rechnung"
+    },
+    {
+      "title": "Actiongeladener Shooter in ausgefallener Grafik: Forgive me Father 2 ist fertig",
+      "teaser": "Bunte Comic-Grafik, düstere Atmosphäre: \"Forgive me Father 2\" hat den Early Access verlassen. c’t zockt hat den First-Person-Horror-Shooter angespielt.",
+      "url": "https://www.heise.de/news/Actiongeladener-Shooter-in-ausgefallener-Grafik-Forgive-me-Father-2-ist-fertig-10005016.html"
     },
     {
       "title": "DMA-Verstoß: EU plant hohe Strafzahlung gegen Apple",
@@ -160,14 +183,8 @@
       "image_title": ","
     },
     {
-      "title": "Board für IoT-Projekte in Briefmarkengröße",
-      "teaser": "Seeed Studio erweitert seine XIAO-Reihe um zwei Matter-fähige EFR32MG24-Boards. Diese Boards bieten kleinen Stromverbrauch und einen Batterieladeschaltkreis.",
-      "url": "https://www.heise.de/news/Board-fuer-IoT-Projekte-in-Briefmarkengroesse-10005636.html",
-      "image_title": "Das Board ist schräg zur Kamera zu sehen. Es besteht fast komplett aus dem SoC. Nur der USB-C-Anschluss ragt etwas weiter heraus."
-    },
-    {
       "title": "Einer von fünf Sternen: Will keine Callcenter bewerten, sondern das Management​",
-      "teaser": "Oft sollen Hotline-Mitarbeiter nach einem Call von Anrufern bewertet. Das ist eigentlich eine Fehlleitung, meint Gregor Honsel.",
+      "teaser": "Oft sollen Hotline-Mitarbeiter nach einem Call von Anrufern bewertet werden. Das ist eigentlich eine Fehlleitung, meint Gregor Honsel.",
       "url": "https://www.heise.de/meinung/Einer-von-fuenf-Sternen-Will-keine-Callcenter-bewerten-sondern-das-Management-10005563.html",
       "image_title": "Menschen in einem Callcenter, die vor Bildschirmen mit Headsets sitzen"
     },
@@ -175,24 +192,6 @@
       "title": "Inspiration und Praxistipps für die IT von morgen beim IT Summit by heise",
       "teaser": "Am 18. und 19. November können sich in München IT-Leiter und Administratoren zu Themen wie KI, Regulierungen und Cybersecurity informieren und austauschen.",
       "url": "https://www.heise.de/news/Inspiration-und-Praxistipps-fuer-die-IT-von-morgen-beim-IT-Summit-by-heise-10004953.html"
-    },
-    {
-      "title": "Ladeinfrastruktur für Elektroautos: Netz wächst schneller als Bestand​",
-      "teaser": "In diesem Jahr wurden bislang weniger E-Autos verkauft als im Vorjahreszeitraum. Wenigstens der Ausbau der Ladeinfrastruktur kommt voran.",
-      "url": "https://www.heise.de/news/Ladeinfrastruktur-fuer-Elektroautos-Netz-waechst-schneller-als-Bestand-10005658.html",
-      "image_title": "Ladesäule"
-    },
-    {
-      "title": "Snowflake: Vermutlicher Täter nach Datenklau bei Cloud-Anbieter verhaftet",
-      "teaser": "Der Datenklau bei Snowflake mündete etwa in 170.000 verschenkte Konzerttickets für Taylor Swift. Nun wurde ein Verdächtiger verhaftet.",
-      "url": "https://www.heise.de/news/Verdaechtiger-hinter-Datenklau-bei-Cloud-Anbieter-Snowflake-verhaftet-10005614.html",
-      "image_title": "Handschellen liegen auf einer Computertastatur"
-    },
-    {
-      "title": "Ausfallsicherheit und mehr Platz: Heimserver mit Unraid aufsetzen",
-      "teaser": "Unraid verwandelt handelsübliche Hardware in ein simpel zu wartendes NAS. Es kann Festplatten in unterschiedlicher Größe flexibel kombinieren. So gehen Sie vor.",
-      "url": "https://www.heise.de/ratgeber/Ausfallsicherheit-und-mehr-Platz-Heimserver-mit-Unraid-aufsetzen-10003311.html",
-      "image_title": ","
     },
     {
       "title": "Architektur und PerformanceIntel Core Ultra 200S \"Arrow Lake\" im Test",
@@ -259,6 +258,18 @@
       "url": "https://shop.heise.de/heise+/herbstaktion?affiliateId=41468_HP000065_28710_3_57&wt_mc=intern.abo.plus.hp_2024_herbst.ho-advt.ad1.ad1"
     },
     {
+      "title": "Snowflake: Vermutlicher Täter nach Datenklau bei Cloud-Anbieter verhaftet",
+      "teaser": "Der Datenklau bei Snowflake mündete etwa in 170.000 verschenkte Konzerttickets für Taylor Swift. Nun wurde ein Verdächtiger verhaftet.",
+      "url": "https://www.heise.de/news/Verdaechtiger-hinter-Datenklau-bei-Cloud-Anbieter-Snowflake-verhaftet-10005614.html",
+      "image_title": "Handschellen liegen auf einer Computertastatur"
+    },
+    {
+      "title": "Ausfallsicherheit und mehr Platz: Heimserver mit Unraid aufsetzen",
+      "teaser": "Unraid verwandelt handelsübliche Hardware in ein simpel zu wartendes NAS. Es kann Festplatten in unterschiedlicher Größe flexibel kombinieren. So gehen Sie vor.",
+      "url": "https://www.heise.de/ratgeber/Ausfallsicherheit-und-mehr-Platz-Heimserver-mit-Unraid-aufsetzen-10003311.html",
+      "image_title": ","
+    },
+    {
       "title": "iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response (DFIR)",
       "teaser": "Lernen Sie, professionelle Incident Response Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können.",
       "url": "https://www.heise.de/news/iX-Workshop-Nach-dem-Einbruch-Digital-Forensics-Incident-Response-DFIR-9989101.html",
@@ -271,12 +282,6 @@
       "image_title": "Eine Appliance verbindet viele Clients mit Kabeln durch die Cloud. Sie und paar Clients brennen."
     },
     {
-      "title": "Amazon: \"Prime Air\"-Lieferdienst beginnt in Arizona mit neuer MK30-Drohne",
-      "teaser": "Amazons Drohnenlieferdienst in Lockeford ist Geschichte, nun wird die Phoenix Metro Area neu erschlossen. Zum Einsatz kommt gleich Amazons neueste Lieferdrohne.",
-      "url": "https://www.heise.de/news/Amazon-setzt-neue-MK30-Lieferdrohne-in-Arizona-ein-10005569.html",
-      "image_title": "MK30-Lieferdrohne von Amazon beim Aufstieg."
-    },
-    {
       "title": "So stellt sich GitHub die Zukunft des Programmierens vor",
       "teaser": "Eine Milliarde Softwareentwickler und Programmieren ohne Code: GitHub-CPO Mario Rodriguez erklärt im Interview die Vision der Copilot-Macher.",
       "url": "https://www.heise.de/hintergrund/So-stellt-sich-GitHub-die-Zukunft-des-Programmierens-vor-10001049.html"
@@ -286,12 +291,6 @@
       "teaser": "Der Wert der ältesten Kryptowährung stieg gestern Abend auf ein Rekordhoch, ein Bitcoin kostete zwischenzeitlich rund 75.000 US-Dollar.",
       "url": "https://www.heise.de/news/Bitcoin-legt-deutlich-zu-und-klettert-auf-Rekordhoch-10005544.html",
       "image_title": "Eine Ether-Münze, im Hintergrund unscharf eine steigende Börsenkurve"
-    },
-    {
-      "title": "Erster Holzsatellit erreicht die Internationale Raumstation​",
-      "teaser": "Der erste Holzsatellit \"LignoSat\" wurde erfolgreich zur ISS gebracht, um die Einsatzmöglichkeiten von Holz in der Raumfahrt zu testen.",
-      "url": "https://www.heise.de/news/Erster-Holzsatellit-erreicht-die-Internationale-Raumstation-10005532.html",
-      "image_title": "Satellit aus Holz"
     },
     {
       "title": "Mittwoch: Durchsuchungen bei Netflix, deutlich mehr Lohn für Boeing-Mitarbeiter",
@@ -318,12 +317,6 @@
       "image_title": "Netflix-Gutscheinkarten in einem Supermarktregal"
     },
     {
-      "title": "Boeing beendet Streik: 44 Prozent mehr Gehalt für 33.000 Mitarbeiter",
-      "teaser": "Nach 53 Tagen Streik läuft bei Boeing die Arbeit wieder an. Die Streikenden stimmen für 13 Prozent mehr Gehalt sofort, 44 Prozent mehr über 4 Jahre.​",
-      "url": "https://www.heise.de/news/Boeing-beendet-Streik-44-Prozent-mehr-Gehalt-fuer-33-000-Mitarbeiter-10005331.html",
-      "image_title": "Geparkte Boeing-Flugzeuge aus der Luft fotografiert"
-    },
-    {
       "title": "Top 10: Der beste Fitness-Tracker im Test – Huawei, Fitbit, Garmin & Co.",
       "teaser": "Ein Fitness-Armband liefert beim Sport wertvolle Daten zur Herzfrequenz oder zum Kalorienverbrauch. TechStage zeigt die 10 besten Fitness-Tracker und starke Alternativen.",
       "url": "https://www.techstage.de/bestenliste/top-10-der-beste-fitness-tracker-im-test-huawei-fitbit-garmin-und-co/smejwlb?wt_mc=intern.red.techstage.newsticker.anrissliste.teaser.teaser"
@@ -335,15 +328,15 @@
       "image_title": "Mann steuert Roboterschlange"
     },
     {
-      "title": "NIS2 in der Praxis: Rechtliche Anforderungen und Umsetzungstipps für Unternehmen",
-      "teaser": "Die EU-Richtlinie NIS2 stellt neue Anforderungen an die Cybersicherheit. Erfahren Sie im Live-Webcast am 10.12.2024 um 11 Uhr, was auf Ihr Unternehmen zukommt und wie Sie die Vorgaben konkret umsetzen können.",
-      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/nis2-in-der-praxis-rechtliche-anforderungen-und-umsetzungstipps-fuer-unternehmen-4829/?source=hbsad-ersatz"
-    },
-    {
       "title": "Habeck-Entwurf: Smart Meter sollen zunächst für weniger Haushalte Pflicht werden",
       "teaser": "Ein Entwurf zur Reform des Energiewirtschaftsgesetzes würde den Einbau intelligenter Stromzähler vielfach freiwillig machen. Aus der Wirtschaft kommt Kritik.",
       "url": "https://www.heise.de/news/Habeck-Entwurf-Smart-Meter-sollen-zunaechst-fuer-weniger-Haushalte-Pflicht-werden-10005225.html",
       "image_title": "Stromzähler und Strommast"
+    },
+    {
+      "title": "Vertrauliche Daten vor KI-Tools schützen",
+      "teaser": "Generative KI-Tools kommen immer öfter in Unternehmen und Behörden zum Einsatz. Mitarbeiter machen sich aber kaum Gedanken darüber, welche Infos sie dabei preisgeben. In einem Webcast erfahren Sie, wie Sie verhindern, dass dabei vertrauliche Daten abfließen.",
+      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/chatgpt-copilot-co-wie-sie-den-abfluss-sensibler-unternehmensdaten-ueber-ki-tools-verhindern-4785/?source=hbsad-ersatz"
     },
     {
       "title": "New York Times: KI-Startup als Streikbrecher?",
@@ -396,19 +389,25 @@
       "url": "https://www.heise.de/hintergrund/Digitalisierung-Grossprojekt-des-Bundes-Mein-Bildungsraum-in-der-Kritik-9997204.html"
     },
     {
+      "title": "Altersverifikation: So will Meta lügende Teenies erkennen",
+      "teaser": "Accounts minderjähriger Instagram-Nutzer, die beim Alter schummeln, will Meta künftig per KI erkennen und automatisch in Teen-Konten verwandeln. ​",
+      "url": "https://www.heise.de/news/Altersverifikation-So-will-Meta-luegende-Teenies-erkennen-10004849.html",
+      "image_title": "Instagram-Logo"
+    },
+    {
+      "title": "Amazon, Meta: Rückschlag für KI-Strom direkt vom Atomkraftwerk",
+      "url": "https://www.heise.de/news/Amazon-Meta-Rueckschlag-fuer-KI-Strom-direkt-vom-Atomkraftwerk-10004052.html",
+      "image_title": "Atomkraftwerk mit zwei Kühltürmen, aus dem rechten steigt Dampf auf"
+    },
+    {
+      "title": "Raspi-Tablets im Eigenbau: Offizielles Touch-Display 2 für 70 Euro",
+      "url": "https://www.heise.de/news/Raspberry-Pi-Touch-Display-2-fuer-Raspi-Tablets-zum-Selbstbauen-10003498.html",
+      "image_title": "Raspberry Pi an einer Displayrückseite"
+    },
+    {
       "title": "EU-Kommission: iPadOS muss sich jetzt ebenfalls den neuen Regeln beugen",
       "url": "https://www.heise.de/news/EU-Kommission-iPadOS-muss-sich-jetzt-ebenfalls-den-neuen-Regeln-beugen-10003699.html",
       "image_title": "iPad Pro 2021"
-    },
-    {
-      "title": "Hackerparagraf wird entschärft, aber nicht gestrichen",
-      "url": "https://www.heise.de/news/Neues-Computerstrafrecht-vorgelegt-inklusive-Hackerparagraf-10003958.html",
-      "image_title": "Hände auf Tastatur im Dunklen"
-    },
-    {
-      "title": "Powertoys 0.86 bringen Ordnung in die Navigation",
-      "url": "https://www.heise.de/news/Powertoys-0-86-bringen-Ordnung-in-die-Navigation-10004123.html",
-      "image_title": "Stilisiertes Bild: Ein Laptop mit Windows-Logo auf einer Werkbank, umgeben von Werkzeugen und Zahrädern"
     },
     {
       "title": "Clone Robotics zeigt biomimetischen humanoiden Roboter-Torso",
@@ -421,9 +420,9 @@
       "image_title": "TEPCO-Mitarbeiter bereiten den Roboterzugang zum Reaktorkern vor.​"
     },
     {
-      "title": "KI: Sprachmodell ermöglicht Protein-Evolution im Schnelldurchlauf​",
-      "url": "https://www.heise.de/hintergrund/KI-Sprachmodell-ermoeglicht-Protein-Evolution-im-Schnelldurchlauf-10004207.html",
-      "image_title": "Proteinstruktur in grüner Farbe"
+      "title": "Menschen ohne Geruchssinn atmen anders",
+      "url": "https://www.heise.de/news/Menschen-ohne-Geruchssinn-atmen-anders-9861031.html",
+      "image_title": "Drei Nasen"
     },
     {
       "title": "Bald erhältlich: APS-C-Objektiv für Canon mit Apple Spatial Video",
@@ -461,14 +460,19 @@
       "image_title": "Suzuki e-Vitara"
     },
     {
+      "title": "Habeck will Intel-Milliarden in den Bundeshaushalt stecken",
+      "url": "https://www.heise.de/news/Habeck-Intel-Milliarden-koennen-fuer-Haushaltssanierung-verwendet-werden-10003798.html",
+      "image_title": "3D-Simulation der geplanten Chipfabrik von Intel in Magdeburg"
+    },
+    {
       "title": "Flottenverbrauch: Frankreich will Strafen für Autoindustrie verhindern​",
       "url": "https://www.heise.de/news/Flottenverbrauch-Frankreich-stellt-Strafen-infrage-10004189.html",
       "image_title": "Auspuff BMW"
     },
     {
-      "title": "Schaeffler schrumpft weiter: Nach schwachem Quartal sollen 4700 Jobs wegfallen",
-      "url": "https://www.heise.de/news/Schaeffler-schrumpft-weiter-nach-schwachem-Quartal-sollen-4700-Jobs-wegfallen-10004167.html",
-      "image_title": "Angestellte bei Schaeffler"
+      "title": "Hackerparagraf wird entschärft, aber nicht gestrichen",
+      "url": "https://www.heise.de/news/Neues-Computerstrafrecht-vorgelegt-inklusive-Hackerparagraf-10003958.html",
+      "image_title": "Hände auf Tastatur im Dunklen"
     },
     {
       "title": "Aktivisten: Quick Freeze ist Vorratdatenspeicherung durch die Hintertür",
@@ -481,8 +485,9 @@
       "image_title": "Grund 4 und 5 für die elektronische Patientenakte auf großen Plakaten nebeneinander."
     },
     {
-      "title": "Polizei schließt Drogen-Marktplatz und DDoS-Booter",
-      "url": "https://www.heise.de/news/Polizei-schliesst-Drogen-Marktplatz-und-DDoS-Booter-10002579.html"
+      "title": "Polnisches KI-Programm fürs Radio nach nur einer Woche eingestellt",
+      "url": "https://www.heise.de/news/Polnisches-KI-Programm-fuers-Radio-nach-nur-einer-Woche-einstellt-10003411.html",
+      "image_title": "KI-Persona \"Kuba\""
     },
     {
       "title": "Dienstag: Hackerparagraf wird entschärft, Intel-Milliarden in den Bundeshaushalt",
@@ -492,10 +497,6 @@
     {
       "title": "Fotonews der Woche 44/2024",
       "url": "https://www.heise.de/news/Instax-Lomo-und-Bezahl-Firmware-von-Pentax-die-Fotonews-der-Woche-44-2024-10002670.html"
-    },
-    {
-      "title": "Umstieg auf macOS, ChromeOS oder Linux: Hauptsache weg von Windows | c’t uplink",
-      "url": "https://www.heise.de/news/Umstieg-auf-macOS-ChromeOS-oder-Linux-Hauptsache-weg-von-Windows-c-t-uplink-10001275.html"
     },
     {
       "title": "Gehälter 2024Das verdienen IT-Projektmanager",
@@ -564,9 +565,10 @@
       "url": "https://www.heise.de/en/news/Mac-Studio-Mac-Pro-MacBook-Air-When-are-the-M4-versions-coming-10004549.html"
     },
     {
-      "title": "Digitalisierung: Großprojekt des Bundes \"Mein Bildungsraum\" in der Kritik",
-      "teaser": "Das Bundesbildungsministerium fördert seit 2021 ein Bildungsprojekt, das universalen Zugang zu Bildungsangeboten bietet. Der Bundesrechnungshof warnt davor.",
-      "url": "https://www.heise.de/hintergrund/Digitalisierung-Grossprojekt-des-Bundes-Mein-Bildungsraum-in-der-Kritik-9997204.html"
+      "title": "Warum Google, Microsoft und Amazon auf Atomenergie setzen",
+      "teaser": "Jahrelang feierten sich die großen Tech-Konzerne als Ökostrom-Champions, plötzlich kaufen sie Atomstrom und finanzieren Kernkraftwerke. Was steckt dahinter?",
+      "url": "https://www.heise.de/hintergrund/Warum-Google-Microsoft-und-Amazon-auf-Atomenergie-setzen-9999297.html",
+      "image_title": "KI, Collage c’t"
     },
     {
       "title": "Physik-Nobelpreis: Wie viel Physik in neuronalen Netzen steckt",
@@ -575,10 +577,9 @@
       "image_title": ", KI, Collage c't"
     },
     {
-      "title": "Fitnessuhr Zepp Amazfit Balance und Fitnessring Helio im Test",
-      "teaser": "Die Fitnessuhr trägt nicht auf, sammelt aber eine Menge Daten und hat viele Funktionen. Der Helio Fitnessring ist ein diskreter Begleiter. Wir haben getestet.",
-      "url": "https://www.heise.de/tests/Fitnessuhr-Zepp-Amazfit-Balance-und-Fitnessring-Helio-im-Test-9999245.html",
-      "image_title": ","
+      "title": "Digitalisierung: Großprojekt des Bundes \"Mein Bildungsraum\" in der Kritik",
+      "teaser": "Das Bundesbildungsministerium fördert seit 2021 ein Bildungsprojekt, das universalen Zugang zu Bildungsangeboten bietet. Der Bundesrechnungshof warnt davor.",
+      "url": "https://www.heise.de/hintergrund/Digitalisierung-Grossprojekt-des-Bundes-Mein-Bildungsraum-in-der-Kritik-9997204.html"
     },
     {
       "title": "Spieletest \"Valheim\" für den Mac: Hygge ist das Wikingerleben",
@@ -711,22 +712,22 @@
       "url": "https://www.techstage.de/bestenliste/top-10-die-besten-balkonkraftwerke-von-extrem-leicht-bis-besonders-stark/ywhkvwx?wt_mc=intern.red.techstage.techstage_buehne.startseite.buehne.buehne#nav-ring-6"
     },
     {
-      "title": "Der teure Irrtum: Warum Sanktionen Putin nicht stoppen",
-      "teaser": "Die Sanktionen gegen Russland sollten Putin in die Knie zwingen. Doch das Gegenteil ist eingetreten, was mit Blick auf die Zukunft Folgen hat. Ein Gastbeitrag.",
-      "url": "https://www.heise.de/tp/features/Der-teure-Irrtum-Warum-Sanktionen-Putin-nicht-stoppen-10003070.html",
-      "image_title": "Der Schriftzug Russland unter einer Glasglocke"
-    },
-    {
-      "title": "Steigende Spritpreise: So tief müssen Autofahrer in die Tasche greifen",
-      "teaser": "Nicht nur der CO2-Preis lässt Spritkosten steigen. ADAC rät zum Preisvergleich vor dem Tanken. Wie Sie dabei am besten vorgehen.",
-      "url": "https://www.heise.de/tp/features/Steigende-Spritpreise-So-tief-muessen-Autofahrer-in-die-Tasche-greifen-10005709.html",
-      "image_title": "Symbolbild: Auto an der Tankstelle"
-    },
-    {
       "title": "Medienskandal um Streeck: Wenn aus Analogien Antisemitismus wird",
       "teaser": "Ein Virologe spricht über Ausgrenzung in der Pandemie. Seine Worte lösen einen Mediensturm aus. Was der Fall Streeck über den Zustand des Journalismus verrät.",
       "url": "https://www.heise.de/tp/features/Medienskandal-um-Streeck-Wenn-aus-Analogien-Antisemitismus-wird-10005010.html",
       "image_title": "Portrait des Virologen Streeck"
+    },
+    {
+      "title": "Von Tesla bis Trump: Elon Musks neues politisches Projekt",
+      "teaser": "Tech-Milliardär Elon Musk nutzt sein Imperium für Donald Trump. Er spendet Millionen und wirbt auf X für den Ex-Präsidenten. Doch sein Plan geht nicht auf.",
+      "url": "https://www.heise.de/tp/features/Von-Tesla-bis-Trump-Elon-Musks-neues-politisches-Projekt-10005450.html",
+      "image_title": "Bildschirme mit den Fotos von Donald Trump und Elon Musk"
+    },
+    {
+      "title": "Die große Täuschung: Wie Armut Deutschlands Mittelschicht bedroht",
+      "teaser": "Zahl der Millionäre steigt, aber die Armut wächst noch schneller. Studie mit alarmierenden Zahlen. Warum selbst die obere Mittelschicht zittert.",
+      "url": "https://www.heise.de/tp/features/Die-grosse-Taeuschung-Wie-Armut-Deutschlands-Mittelschicht-bedroht-10004838.html",
+      "image_title": "Mann mit leeren Hosentaschen, dahinter Deutschlandfahne"
     },
     {
       "title": "Cloud-Test: Die 10 besten Cloud-Speicher 2024 im Vergleich",
