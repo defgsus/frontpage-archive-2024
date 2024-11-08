@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-08T10:07:35",
+  "timestamp": "2024-11-08T11:00:59",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Dell PowerProtect DD",
+      "url": "https://www.heise.de/news/Backup-Appliance-PowerProtect-DD-von-Dell-als-Einfallstor-fuer-Angreifer-10009562.html"
+    },
+    {
       "title": "Android, Cyberpanel, Nostromo nhttpd, Palo Alto Expedition",
       "url": "https://www.heise.de/news/CISA-warnt-vor-vier-aktiv-angegriffenen-Sicherheitsluecken-10009258.html"
     },
@@ -44,13 +48,9 @@
       "url": "https://www.heise.de/news/Cisco-Sicherheitsluecken-in-zahlreichen-Produkten-10007598.html"
     },
     {
-      "title": "HPE Aruba Access Points",
-      "url": "https://www.heise.de/news/HPE-Aruba-stopft-Codeschmuggel-Luecken-in-Access-Points-10005559.html"
-    },
-    {
-      "title": "CISA warnt vor vier aktiv angegriffenen Sicherheitslücken",
-      "teaser": "Die US-amerikanische IT-Sicherheitsbehörde CISA warnt davor, dass Angreifer vier Sicherheitslücken missbrauchen. Admins sollten handeln.",
-      "url": "https://www.heise.de/news/CISA-warnt-vor-vier-aktiv-angegriffenen-Sicherheitsluecken-10009258.html"
+      "title": "Backup-Appliance PowerProtect DD von Dell als Einfallstor für Angreifer",
+      "teaser": "Die Entwickler von Dell haben in aktuellen Versionen von PowerProtect DD mehrere Sicherheitslücken geschlossen.",
+      "url": "https://www.heise.de/news/Backup-Appliance-PowerProtect-DD-von-Dell-als-Einfallstor-fuer-Angreifer-10009562.html"
     },
     {
       "title": "Kanadas Regierung lässt Tiktoks Büros schließen",
@@ -93,6 +93,12 @@
       "teaser": "In der Berufung des Programmierers, der eine Sicherheitslücke in einer Software von Modern Solution aufdeckte, bestätigte das Landgericht den Strafbefehl.",
       "url": "https://www.heise.de/news/Modern-Solution-Berufungsgericht-bestaetigt-Schuld-des-Sicherheitsforschers-10007090.html",
       "image_title": "Paragraphen-Symbol"
+    },
+    {
+      "title": "Angreifer nutzen emulierte Linux-Umgebung als Backdoor",
+      "teaser": "IT-Sicherheitsforscher haben eine ungewöhnliche Angriffsart entdeckt: Die Täter haben eine emulierte Linux-Umgebung als Backdoor eingerichtet.",
+      "url": "https://www.heise.de/news/CRON-TRAP-Emulierte-Linux-Umgebung-als-Backdoor-nach-Phishing-Angriff-10005721.html",
+      "image_title": "Viren tarnen sich mit Hüten und Sonnenbrillen"
     },
     {
       "title": "Multi-Faktor-Authentifizierung soll für Google-Cloud obligatorisch werden",
@@ -159,12 +165,6 @@
       "teaser": "In ManageEngine ADManager Plus von Zohocorp können Angreifer eine SQL-Injection-Lücke missbrauchen und dadurch unbefugten Zugriff erlangen.",
       "url": "https://www.heise.de/news/Zoho-ManageEngine-ADManager-Plus-Angreifer-koennen-SQL-Befehle-einschleusen-10003367.html",
       "image_title": "Kriminelle greifen Server an, Admin versucht, den Stecker zu ziehen"
-    },
-    {
-      "title": "Anonymisierendes Linux: Tails 6.9 aktualisiert Kernkomponenten",
-      "teaser": "Das anonymisierende Linux für die Hosentasche Tails betreibt in der Fassung 6.9 etwas Versionspflege der Kernkomponenten.",
-      "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-6-9-aktualisiert-Kernkomponenten-10003025.html",
-      "image_title": "Tails-Desktop auf Notebook auf Tisch"
     },
     {
       "title": "Scuba-Webinar",
