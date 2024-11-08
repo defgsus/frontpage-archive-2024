@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-08T06:10:07",
+  "timestamp": "2024-11-08T07:06:53",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,16 +26,32 @@
   ],
   "articles": [
     {
+      "title": "Künstliche Intelligenz: Interview mit Aleph-Alpha-Gründer Jonas Andrulis",
+      "teaser": "Deutschlands einstiges KI-Einhorn ist inzwischen auf dem Boden der Tatsachen gelandet. Im Gespräch erklärt der Aleph-Alpha-Chef die Ausrichtung des Start-ups.",
+      "url": "https://www.heise.de/hintergrund/Kuenstliche-Intelligenz-Interview-mit-Aleph-Alpha-Gruender-Jonas-Andrulis-10005813.html"
+    },
+    {
       "title": "iMac M4 im Test: Was Apples bunter All-in-One-Mac leistet",
       "teaser": "Mit frischen Farben und M4-Chip geht der iMac 2024 an den Start, wahlweise mit entspiegeltem Display. Unser Test klärt, was die Neuerungen bringen.",
       "url": "https://www.heise.de/tests/iMac-M4-im-Test-Was-Apples-bunter-All-in-One-Mac-leistet-10008828.html",
       "image_title": "iMac 2024 mit Tastatur und Apple-Maus"
     },
     {
-      "title": "Mac mini 2024 mit M4 Pro im Test: So flott ist Apples Mini-PC",
-      "teaser": "Nach 14 Jahren hat Apple dem Mac mini ein neues Gehäuse spendiert. Gleichzeitig stieg durch M4 und M4 Pro die Leistung.",
-      "url": "https://www.heise.de/tests/Mac-mini-2024-mit-M4-Pro-im-Test-So-flott-ist-Apples-Mini-PC-10008749.html",
-      "image_title": "Der Mac mini 2024 von vorne"
+      "title": "Entwickler zu Patientenakte: Ab Januar \"dunkelgrüne Schrumpelbananensoftware\"",
+      "teaser": "2025 sollen die meisten gesetzlich Versicherten eine neue Version der elektronischen Patientenakte erhalten. Doch es gibt erhebliche Umsetzungsschwierigkeiten.",
+      "url": "https://www.heise.de/news/Entwickler-zu-Patientenakte-Ab-Januar-dunkelgruene-Schrumpelbananensoftware-10009231.html",
+      "image_title": "Mann mit zusammengefalteten Händen vor einem Laptop"
+    },
+    {
+      "title": "Jetzt noch Vortragsideen einreichen – für die JavaScript-Konferenz enterJS",
+      "teaser": "Ideen für die enterJS 2025 in Mannheim? Der Call for Proposals läuft bis 15. November, gesucht sind Vorschläge für Vorträge und Workshops rund um JavaScript.",
+      "url": "https://www.heise.de/news/Jetzt-noch-Vortragsideen-einreichen-fuer-die-JavaScript-Konferenz-enterJS-10007885.html",
+      "image_title": "enterJS 2025, JavaScript-Konferenz am 7. und 8. Mai in Mannheim"
+    },
+    {
+      "title": "Syncfusion: UI-Komponenten für die App-Entwicklung im Test",
+      "teaser": "Softwareentwicklung braucht viel Zeit. Bibliotheken wie Syncfusion sollen diesen Aufwand reduzieren und bieten eine große Auswahl an fertigen Komponenten.",
+      "url": "https://www.heise.de/tests/Syncfusion-UI-Komponenten-fuer-die-App-Entwicklung-im-Test-10007780.html"
     },
     {
       "title": "Vorsicht, Kunde! – der c’t-Podcast: Solaranlagenkauf mit Hindernissen",
@@ -74,6 +90,12 @@
       "image_title": "Raspi USB Hub mit verschiedenen Kabeln"
     },
     {
+      "title": "Mac mini 2024 mit M4 Pro im Test: So flott ist Apples Mini-PC",
+      "teaser": "Nach 14 Jahren hat Apple dem Mac mini ein neues Gehäuse spendiert. Gleichzeitig stieg durch M4 und M4 Pro die Leistung.",
+      "url": "https://www.heise.de/tests/Mac-mini-2024-mit-M4-Pro-im-Test-So-flott-ist-Apples-Mini-PC-10008749.html",
+      "image_title": "Der Mac mini 2024 von vorne"
+    },
+    {
       "title": "Was hinter der Sperrung von elf russischen Linux-Maintainern steckt",
       "teaser": "Unsere Recherchen zeigen, dass offenbar nur wenige der gesperrten Russen für Embargofirmen arbeiten und Open-Source rechtlich gesehen weiterhin nutzbar ist.",
       "url": "https://www.heise.de/hintergrund/Was-hinter-der-Sperrung-von-elf-russischen-Linux-Maintainern-steckt-10006046.html",
@@ -102,29 +124,6 @@
       "teaser": "Vor Studios warnt eine rote Lampe mit der Aufschrift \"On Air\", wenn eine Aufnahme läuft. Mit etwas Bastelei bekommt man so etwas auch für Videokonferenzen hin.",
       "url": "https://www.heise.de/ratgeber/ESP32-Bastelprojekt-On-Air-Lampe-mit-WLAN-10004137.html",
       "image_title": ","
-    },
-    {
-      "title": "Arduino-Projekt: LED-Armband vom Tailor-Swift-Konzert wieder leuchten lassen",
-      "teaser": "Blinkende LED-Armbänder sind bei vielen Events zu finden. Wer sein Armband auch zu Hause ansteuern möchte, braucht zwei Komponenten und wenige Minuten Zeit.",
-      "url": "https://www.heise.de/ratgeber/Arduino-Projekt-LED-Armband-vom-Tailor-Swift-Konzert-wieder-leuchten-lassen-10003035.html",
-      "image_title": ","
-    },
-    {
-      "title": "Microsoft Notepad und Paint bekommen mehr KI-Funktionen",
-      "teaser": "In den Vorschauversionen für Windows-Insider verteilt Microsoft neue Notepad- und Paint-Versionen. Diese bringen mehr KI-Funktionen mit.",
-      "url": "https://www.heise.de/news/Microsoft-Notepad-und-Paint-bekommen-mehr-KI-Funktionen-10008356.html",
-      "image_title": "Paint mit KI-Radierer"
-    },
-    {
-      "title": "c't-Workshop: CI/CD mit GitLab effektiv nutzen",
-      "teaser": "Der Workshop vermittelt Entwicklern den Umgang mit GitLabs CI-Funktionen: Sie lernen, Softwareprojekte effizient zu bauen, zu testen und zu veröffentlichen.",
-      "url": "https://www.heise.de/news/c-t-Workshop-CI-CD-mit-GitLab-effektiv-nutzen-10007744.html"
-    },
-    {
-      "title": "Matter: Neue Version 1.4 kombiniert Funknetze und hilft bei der Energiewende​",
-      "teaser": "Mit der neuen Version von Matter lassen sich WLAN-Router einbinden, Thread-Netze vermaschen sowie Wärmepumpen und Batteriespeicher steuern.​",
-      "url": "https://www.heise.de/news/Matter-1-4-eint-konkurrierende-Funknetze-und-hilft-bei-der-Energiewende-10007636.html",
-      "image_title": "Matter auf Handy-Bildschirm vor Logo"
     },
     {
       "title": "Zahlreiche Bestwerte",
