@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-09T14:00:47",
+  "timestamp": "2024-11-09T15:00:57",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
@@ -98,32 +104,18 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Reisebeschränkungen nach Land : Wie mächtig ist Ihr Pass?",
-      "teaser": "Je nach Staatsangehörigkeit ist die Welt für manche Menschen groß, für andere sehr klein. Unser interaktives Tool zeigt, welche Länder mit Ihrem Pass erreichbar sind.",
-      "url": "https://www.zeit.de/entdecken/reisen/2024-11/reisebeschraenkungen-land-karte-reisen-grenzen",
-      "image_url": "https://img.zeit.de/entdecken/reisen/2024-10/reisebeschraenkungen-land-karte-reisen-grenzen/wide__1000x562",
-      "image_title": "Reisebeschränkungen nach Land: Wie mächtig ist Ihr Pass?"
+      "title": "Z+ (abopflichtiger Inhalt); Regierungskrise : Woran die Ampel wirklich scheiterte",
+      "teaser": "Die Regierungskoalition zerbrach nicht nur an persönlichen Eitelkeiten und parteipolitischem Kalkül. Der tiefere Grund verweist auf Probleme, die sich bald verschlimmern.",
+      "url": "https://www.zeit.de/kultur/2024-11/regierungskrise-ampelkoalition-parteien-liberalismus-persoenlichkeiten",
+      "image_url": "https://img.zeit.de/kultur/2024-11/regierungskrise-ampelkoalition-parteien-liberalismus-persoenlichkeiten-bild/wide__1000x562",
+      "image_title": "Regierungskrise: Woran die Ampel wirklich scheiterte"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Mauerfall : \"Ich fühle mich bis heute als Ossi\"",
-      "teaser": "Als die Mauer fiel, waren viele Ostdeutsche noch Kinder oder Jugendliche. Wie hat sie ihre Vergangenheit in der DDR bis heute geprägt?",
-      "url": "https://www.zeit.de/gesellschaft/2024-11/mauerfall-1989-wendezeit-erinnerung-traumata-kinder-jugendliche-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2024-10/mauerfall-1989-wendezeit-erinnerung-traumata-kinder-jugendliche-nachrichtenpodcast-martha/super__430x286",
-      "image_title": "Mauerfall: \"Ich fühle mich bis heute als Ossi\""
-    },
-    {
-      "title": "Schwerpunkt : Durchbruch",
-      "teaser": "Befestigte Grenzen boomen. Heute stehen fünfmal so viele Mauern und Zäune wie im Kalten Krieg. Ein Schwerpunkt über Menschen, die es dennoch auf die andere Seite schaffen",
-      "url": "https://www.zeit.de/schwerpunkte/durchbruch",
-      "image_url": "https://img.zeit.de/politik/2024-11/test-serienseite-durchbruch-06/super__430x286",
-      "image_title": "Schwerpunkt: Durchbruch"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); AfD : Das System Klaus Esser",
-      "teaser": "Gleich mehrere Skandale erschüttern den mitgliederstärksten Landesverband der AfD. Einer davon könnte sogar dessen Teilnahme an der Bundestagswahl gefährden.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-11/klaus-esser-landtagsabgeordneter-dueren-kreisverband-anschuldigung",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-11/klaus-esser-landtagsabgeordneter-dueren-kreisverband-anschuldigung-bild/super__430x286",
-      "image_title": "AfD: Klaus ESSER, AfD-Fraktion, 12. Sitzung des Landtags Nordrhein-Westfalen, im Landtag Nordrhein-Westfalen NRW, Duesseldorf am 03.11.2022, *** Klaus ESSER, AfD parliamentary group, 12 session of the state parliament of North Rhine Westphalia, in the state parliament of North Rhine Westphalia NRW, Duesseldorf on 03 11 2022,"
+      "title": "Z+ (abopflichtiger Inhalt); Neuwahl : Ist die Wahl schon gelaufen?",
+      "teaser": "Die Union liegt in den Umfragen weit vorn. Das heißt nicht, dass Friedrich Merz schon als Kanzler feststeht. Daten zeigen, wie viel Bewegung in Wahlkämpfen möglich ist.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-11/neuwahlen-friedrich-merz-olaf-scholz-kanzler-wahlkampf-umfragen",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-11/neuwahlen-friedrich-merz-olaf-scholz-kanzler-wahlkampf-umfragen-bild/super__430x286",
+      "image_title": "Neuwahl: Friedrich Merz, CDU-Parteivorsitzender, aufgenommen nach der Bundespressekonferenz zum Thema Konsequenzen aus Solingen. Berlin, 27.08.2024. Berlin Deutschland *** Friedrich Merz, CDU Party Chairman, recorded after the Federal Press Conference on the consequences of Solingen Berlin, 27 08 2024 Berlin Germany"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Ende der Ampelkoalition : Was die Ampel noch plante und was jetzt gefährdet ist",
@@ -140,18 +132,25 @@
       "image_title": "Ampel-Aus: Ruth Brand, Präsidentin des Statistischen Bundesamtes, spricht bei einer Pressekonferenz. (zu dpa: «In Deutschland leben rund 83 Millionen Menschen»)"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Ende der Ampelkoalition : Die Ego-Parade mackert durch Berlin",
-      "teaser": "Erst zeigen Scholz und Lindner erstaunliche Aufs-Maul-Breitbeinigkeit, dann posen Ex-Koalitionäre im Netz. Männlicher Politikstil am Limit – Zeit, dass sich was dreht!",
-      "url": "https://www.zeit.de/politik/2024-11/ende-ampelkoalition-statements-social-media-x",
-      "image_url": "https://img.zeit.de/kultur/2024-11/ende-ampelkoalition-statements-social-media-x-bild/super__430x286",
-      "image_title": "Ende der Ampelkoalition: Die Ego-Parade mackert durch Berlin"
+      "title": "Z+ (abopflichtiger Inhalt); Regierungsbildung in Sachsen : CDU und SPD in Sachsen wollen über Minderheitsregierung sprechen",
+      "teaser": "Die sächsische CDU hat der SPD angeboten, über eine Zusammenarbeit in einer Minderheitsregierung zu reden. Am Donnerstag wollen beide Parteien die Ergebnisse diskutieren.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-11/sachsen-regierungsbildung-cdu-spd-minderheitsregierung-bsw",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-11/cdu-sachsen-will-spd-minderheitsregierung-bild/super__430x286",
+      "image_title": "Regierungsbildung in Sachsen: Petra Köpping (SPD, l-r), Sozialministerin von Sachsen, Henning Homann, Co-Vorsitzender der SPD in Sachsen, Michael Kretschmer (CDU), Ministerpräsident von Sachsen, und Christian Hartmann (CDU), Fraktionsvorsitzender im Sächsischen Landtag, sitzen während einer Pressekonferenz im Sächsischen Landtag auf dem Podium. Die Sondierung für eine Regierungskoalition aus CDU, BSW und SPD in Sachsen ist gescheitert. Die Gespräche wurden ergebnislos abgebrochen, teilte das BSW mit. Dresden, 06.11.2024"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Vertrauensfrage : Schnelle Neuwahl, oder doch erst viel später?",
-      "teaser": "Wann genau neu gewählt wird, entscheidet der Kanzler nicht allein. Wie die Vertrauensfrage abläuft und wann es Neuwahlen geben könnte: die wichtigsten Fragen im Überblick",
-      "url": "https://www.zeit.de/politik/deutschland/2024-11/neuwahlen-ampelbruch-vertrauensfrage-olaf-scholz-bundesregierung",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-11/neuwahlen-ampelbruch-vertrauensfrage-olaf-scholz-bundesregierung-bild-2/super__430x286",
-      "image_title": "Vertrauensfrage: Bundeskanzler Olaf Scholz wartet auf die Begrüßung des georgischen Ministerpräsidenten Irakli Garibaschwili in Berlin, Deutschland, 9. Juni 2023."
+      "title": "Z+ (abopflichtiger Inhalt); Geldanlage : Vier Regeln, an die sich Anleger jetzt halten können",
+      "teaser": "Trump hat die US-Wahl gewonnen, Finanzminister Lindner wurde entlassen, die Aktienmärkte reagieren deutlich. Wir erklären, wie sich Vermögen jetzt absichern lässt.",
+      "url": "https://www.zeit.de/geld/2024-11/geldanlage-vermoegen-unsicherheit-finanzmarkt-donald-trump-christian-lindner",
+      "image_url": "https://img.zeit.de/geld/2024-11/finanzmarkt-unsicherheit-privatanleger-vermoegen/wide__892x501",
+      "image_title": "Finanzmarkt Unsicherheit Privatanleger Vermögen"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Reisebeschränkungen nach Land : Wie mächtig ist Ihr Pass?",
+      "teaser": "Je nach Staatsangehörigkeit ist die Welt für manche Menschen groß, für andere sehr klein. Unser interaktives Tool zeigt, welche Länder mit Ihrem Pass erreichbar sind.",
+      "url": "https://www.zeit.de/entdecken/reisen/2024-11/reisebeschraenkungen-land-karte-reisen-grenzen",
+      "image_url": "https://img.zeit.de/entdecken/reisen/2024-10/reisebeschraenkungen-land-karte-reisen-grenzen/super__430x286",
+      "image_title": "Reisebeschränkungen nach Land: Wie mächtig ist Ihr Pass?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Gnadenhof : Heimat der Ungeliebten",
@@ -166,6 +165,13 @@
       "url": "https://www.zeit.de/2024/47/klimafolgen-naturkatastrophe-wohnort-sicherheit",
       "image_url": "https://img.zeit.de/2024/47/liegt-dort-mein-klimaparadies-bild-1/super__430x286",
       "image_title": "Klimafolgen: Neuseeland Pluspunkt: vorbereitet auf Naturkatastrophen Minuspunkt: weit weg"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); AfD : Das System Klaus Esser",
+      "teaser": "Gleich mehrere Skandale erschüttern den mitgliederstärksten Landesverband der AfD. Einer davon könnte sogar dessen Teilnahme an der Bundestagswahl gefährden.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-11/klaus-esser-landtagsabgeordneter-dueren-kreisverband-anschuldigung",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-11/klaus-esser-landtagsabgeordneter-dueren-kreisverband-anschuldigung-bild/super__430x286",
+      "image_title": "AfD: Klaus ESSER, AfD-Fraktion, 12. Sitzung des Landtags Nordrhein-Westfalen, im Landtag Nordrhein-Westfalen NRW, Duesseldorf am 03.11.2022, *** Klaus ESSER, AfD parliamentary group, 12 session of the state parliament of North Rhine Westphalia, in the state parliament of North Rhine Westphalia NRW, Duesseldorf on 03 11 2022,"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Bündnis Sahra Wagenknecht : Kleinkrieg in der selbst ernannten Friedenspartei",
@@ -196,25 +202,18 @@
       "image_title": "Gewalt in Amsterdam: Pro-Palestinians demonstrate at Amsterdam's Anton de Komplein square ahead of the UEFA Europa League football match between Ajax and Maccabi Tel Aviv on November 7, 2024. (Photo by Jeroen Jumelet / ANP / AFP) / Netherlands OUT"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Alexandra Popp : Danke, Poppi!",
-      "teaser": "Unsere Autorin fragt sich, weshalb sie früher nie im Verein Fußball gespielt hat und was das mit Alexandra Popp zu tun haben könnte.",
-      "url": "https://www.zeit.de/sport/2024-11/alexandra-popp-frauenfussball-fussball-gruenflaeche",
-      "image_url": "https://img.zeit.de/sport/2024-11/zwe-gruenflaeche-ramona-popp/wide__892x501",
-      "image_title": "Alexandra Popp: Danke, Poppi!"
+      "title": "Z+ (abopflichtiger Inhalt); AfD : Grünen-Abgeordnete fordern Gutachten vor Antrag eines AfD-Verbots",
+      "teaser": "Seit Monaten bereitet eine Reihe von Abgeordneten einen Antrag für ein Verbot der AfD vor. Nun warnen einige Grüne: Zunächst sollten die Erfolgsaussichten geprüft werden.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-11/gruene-afd-verbot-antrag-gutachten-renate-kuenast-lukas-brenner-irene-mihalic-marco-wanderwitz-baerbel-bas",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-11/gruenen-mdb-antrag-afd-verbot-bild/super__430x286",
+      "image_title": "AfD: Renate Künast (Bündnis 90/Die Grünen) spricht zur Debatte über den Binnenmarkt für digitale Dienste während der 159. Sitzung im Bundestag. Berlin, 21.03.2024"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Wahlniederlage der Demokraten : Fehlersuche bei den Demokraten, Machtplanung bei Trump",
-      "teaser": "Die Demokraten debattieren, wie es zur bitteren Niederlage kommen konnte. Donald Trump verkündet eine erste Personalie und plant seine Amtszeit. Die Themen im US-Podcast",
-      "url": "https://www.zeit.de/politik/ausland/2024-11/wahlniederlage-demokraten-donald-trump-ok-america",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-11/wahlniederlage-demokraten-donald-trump-ok-america-bild/super__430x286",
-      "image_title": "Wahlniederlage der Demokraten: US-Präsident Joe Biden bei seiner Ansprache im Rosengarten des Weißen Hauses am 7. November 2024"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Liveblog:Ukrainekrieg : Musk bei Telefonat zwischen Trump und Selenskyj anwesend",
-      "teaser": "Beim Gratulationsanruf des ukrainischen Präsidenten bei Donald Trump ist auch Elon Musk in der Leitung. Selenskyj wendet sich zugleich auch an Europa. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-11/ukraine-blog-musk-trump-selenskyj-telefonat/super__430x286",
-      "image_title": "Ukrainekrieg: SpaceX and Tesla founder Elon Musk speaks at a town hall with Republican candidate U.S. Senate Dave McCormick at the Roxain Theater on October 20, 2024 in Pittsburgh, Pennsylvania. Musk also awarded an attendee $1 million dollars during the event. Musk has donated more than $75 million to America PAC, which he co-founded with fellow Silicon Valley venture capitalists and tech businessmen to support Republican presidential nominee, former U.S. President Donald Trump"
+      "title": "Z+ (abopflichtiger Inhalt); Kroatische Küche : Erinnerungen an Hefe und Meer",
+      "teaser": "Seit vielen Jahren fotografiert Silvio Knezevic die Wochenmarkt-Kolumne. Jetzt nimmt er uns mit auf eine kulinarische Reise in seine zweite Heimat: Kroatien.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024/07/kroatische-kueche-essen-tomaten-fleisch-fisch",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024/07/mein-kroatien-bild-1/wide__892x501",
+      "image_title": "Kroatische Küche: Honigmelone naschen auf dem Weg zum Strand in Zadar. Linke Seite: ein Segelboot vor der Insel Dugi Otok"
     },
     {
       "title": "Ausgabe 45/2024 : Überwintern. Willkommen im Wochenende.",
@@ -266,18 +265,11 @@
       "image_title": "Langsam essen • Das Beste aus Z+: A freshly baked pretzel snack on kraft paper amid office supplies, including a notebook, pencil, and adhesive notes."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Auto Start-ups : Ohne Updates nur ein Haufen Schrott",
-      "teaser": "Mit der E-Mobilität drängen neue Hersteller auf den Automarkt. Doch bei einer Pleite drohen Kunden ernste Probleme, wie der Fall Fisker zeigt.",
-      "url": "https://www.zeit.de/mobilitaet/2024-11/auto-start-up-e-mobilitaet-software-reparatur",
-      "image_url": "https://img.zeit.de/mobilitaet/2024-11/auto-start-up-e-mobilitaet/super__430x286",
-      "image_title": "Auto Start-ups: Ohne Updates nur ein Haufen Schrott"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Frauen der Gen X : Die Gen XX ist heiß",
-      "teaser": "Frauen zwischen 40 und 50 haben offenbar gerade die beste Zeit ihres Lebens. Die Perimenopause wird zum Codewort für Lust, Lässigkeit und Selbstbestimmung.",
-      "url": "https://www.zeit.de/kultur/2024-11/frauen-gen-x-perimenopause-alter-filme",
-      "image_url": "https://img.zeit.de/kultur/2024-11/frauen-gen-x-perimenopause-alter-als-du-mich-sahst/super__430x286",
-      "image_title": "frauen-gen-x-perimenopause-alter Als du mich sahst"
+      "title": "Z+ (abopflichtiger Inhalt); Radsport : Britischer Radrennfahrer Mark Cavendish beendet Karriere",
+      "teaser": "\"Am Sonntag ist das letzte Rennen meiner Karriere\", teilte der vierfache Weltmeister Mark Cavendish mit. Nach fast 20 Jahren hört er nun mit Profiradsport auf.",
+      "url": "https://www.zeit.de/sport/2024-11/mark-cavendish-radsport-rennradfahrer-karriereende",
+      "image_url": "https://img.zeit.de/sport/2024-11/mark-cavendish-radsport-karriere-ende-bild/super__430x286",
+      "image_title": "Radsport: Astana Qazaqstan Team's British rider Mark Cavendish looks on at the start of the 6th stage of the 111th edition of the Tour de France cycling race, 163,5 km between Macon and Dijon, on July 4, 2024. (Photo by Thomas SAMSON / AFP) (Photo by THOMAS SAMSON/AFP via Getty Images)"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Zeitmanagement : Habe ich die letzte Woche sinnvoll verbracht?",
@@ -301,11 +293,18 @@
       "image_title": "Schokokuchen nach Siebeck: Schokokuchenherz an Herz"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Radsport : Britischer Radrennfahrer Mark Cavendish beendet Karriere",
-      "teaser": "\"Am Sonntag ist das letzte Rennen meiner Karriere\", teilte der vierfache Weltmeister Mark Cavendish mit. Nach fast 20 Jahren hört er nun mit Profiradsport auf.",
-      "url": "https://www.zeit.de/sport/2024-11/mark-cavendish-radsport-rennradfahrer-karriereende",
-      "image_url": "https://img.zeit.de/sport/2024-11/mark-cavendish-radsport-karriere-ende-bild/super__430x286",
-      "image_title": "Radsport: Astana Qazaqstan Team's British rider Mark Cavendish looks on at the start of the 6th stage of the 111th edition of the Tour de France cycling race, 163,5 km between Macon and Dijon, on July 4, 2024. (Photo by Thomas SAMSON / AFP) (Photo by THOMAS SAMSON/AFP via Getty Images)"
+      "title": "Z+ (abopflichtiger Inhalt); Frauen der Gen X : Die Gen XX ist heiß",
+      "teaser": "Frauen zwischen 40 und 50 haben offenbar gerade die beste Zeit ihres Lebens. Die Perimenopause wird zum Codewort für Lust, Lässigkeit und Selbstbestimmung.",
+      "url": "https://www.zeit.de/kultur/2024-11/frauen-gen-x-perimenopause-alter-filme",
+      "image_url": "https://img.zeit.de/kultur/2024-11/frauen-gen-x-perimenopause-alter-als-du-mich-sahst/super__430x286",
+      "image_title": "frauen-gen-x-perimenopause-alter Als du mich sahst"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Auto Start-ups : Ohne Updates nur ein Haufen Schrott",
+      "teaser": "Mit der E-Mobilität drängen neue Hersteller auf den Automarkt. Doch bei einer Pleite drohen Kunden ernste Probleme, wie der Fall Fisker zeigt.",
+      "url": "https://www.zeit.de/mobilitaet/2024-11/auto-start-up-e-mobilitaet-software-reparatur",
+      "image_url": "https://img.zeit.de/mobilitaet/2024-11/auto-start-up-e-mobilitaet/super__430x286",
+      "image_title": "Auto Start-ups: Ohne Updates nur ein Haufen Schrott"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Joachim Meyerhoff : Da bin ich wieder",
@@ -315,11 +314,11 @@
       "image_title": "Joachim Meyerhoff: Der Schauspieler, Regisseur und Schriftsteller wurde 1967 in Homburg an der Saar geboren"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Zitronenpesto : Sauer macht Pesto",
-      "teaser": "Heiße Zitrone – als Nudelgericht! Dieses Pesto macht vielleicht nicht gesund, ist aber extrem gut und so einfach, dass es selbst mit einer dicken Erkältung gelingt.",
-      "url": "https://www.zeit.de/zeit-magazin/2024/47/zitronenpesto-nudeln-parmesan-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024/47/wundernudeln-bild-1/super__430x286",
-      "image_title": "Zitronenpesto: Sauer macht Pesto"
+      "title": "Z+ (abopflichtiger Inhalt); Alexandra Popp : Danke, Poppi!",
+      "teaser": "Unsere Autorin fragt sich, weshalb sie früher nie im Verein Fußball gespielt hat und was das mit Alexandra Popp zu tun haben könnte.",
+      "url": "https://www.zeit.de/sport/2024-11/alexandra-popp-frauenfussball-fussball-gruenflaeche",
+      "image_url": "https://img.zeit.de/sport/2024-11/zwe-gruenflaeche-ramona-popp/super__430x286",
+      "image_title": "Alexandra Popp: Danke, Poppi!"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Ende der Ampelkoalition : Die Ego-Parade mackert durch Berlin",
@@ -346,31 +345,31 @@
       "image_title": "Onlinedating: Löffelchen mit dem Fremden"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Vorgezogene Neuwahl : Olaf Scholz zu Gesprächen über Wahltermin bereit",
-      "teaser": "Der Kanzler zeigt sich offen für frühere Neuwahlen, wie die Opposition sie fordert. Doch die Bundeswahlleiterin warnt vor \"unabwägbaren Risiken\".",
-      "url": "https://www.zeit.de/politik/deutschland/2024-11/olaf-scholz-zu-gespraechen-ueber-wahltermin-bereit"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Robert Habeck : Eine letzte Chance für den Träumer",
       "teaser": "Robert Habeck gibt in der größten Krise seiner Partei seine Kanzlerkandidatur bekannt – halb aus Wagemut, halb aus Verzweiflung. Es bleibt ihm gar nichts anderes übrig.",
       "url": "https://www.zeit.de/politik/deutschland/2024-11/robert-habeck-kanzlerkandidatur-chancen-die-gruenen"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Vorgezogene Neuwahl : Olaf Scholz zu Gesprächen über Wahltermin bereit",
-      "teaser": "Der Kanzler zeigt sich offen für frühere Neuwahlen, wie die Opposition sie fordert. Doch die Bundeswahlleiterin warnt vor \"unabwägbaren Risiken\".",
-      "url": "https://www.zeit.de/politik/deutschland/2024-11/olaf-scholz-zu-gespraechen-ueber-wahltermin-bereit",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-11/ampel-aus-regierungskrise-ampelkoalition-liveblog-bild-2/super__430x286",
-      "image_title": "Vorgezogene Neuwahl: epa11706208 German Chancellor Olaf Scholz addresses a press conference at the Chancellery in Berlin, Germany, 06 November 2024. The German chancellor announced the dismissal of German Finance Minister Christian Lindner in the course of ongoing consultations between parts of the so-called traffic light coalition of SPD, Greens and FDP. EPA-EFE/CLEMENS BILAN"
+      "title": "Z+ (abopflichtiger Inhalt); Ende der Ampelkoalition : Die Ego-Parade mackert durch Berlin",
+      "teaser": "Erst zeigen Scholz und Lindner erstaunliche Aufs-Maul-Breitbeinigkeit, dann posen Ex-Koalitionäre im Netz. Männlicher Politikstil am Limit – Zeit, dass sich was dreht!",
+      "url": "https://www.zeit.de/politik/2024-11/ende-ampelkoalition-statements-social-media-x"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Pariser Klimaschutzabkommen : Donald Trump bereitet offenbar Ausstieg aus Klimaschutzabkommen vor",
       "teaser": "Laut Medienbericht plant das Team um Trump bereits den Ausstieg aus dem Pariser Klimaschutzabkommen. Es geht unter anderem um die Verkleinerung von Naturschutzgebieten.",
-      "url": "https://www.zeit.de/politik/ausland/2024-11/trump-pariser-klimaschutzabkommen-ausstieg"
+      "url": "https://www.zeit.de/politik/ausland/2024-11/trump-pariser-klimaschutzabkommen-ausstieg",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-11/trump-pariser-klimaschutzabkommen-ausstieg-bild/super__430x286",
+      "image_title": "Pariser Klimaschutzabkommen: Hawk Dunlap, an oil well control specialist, and Sarah Stogner, an oil and gas lawyer, survey an excavated pumpjack with a leaking surface casing in Ward County, Texas, U.S., August 6, 2024. REUTERS/Adrees Latif REFILE - CORRECTING LOCATION FROM \"PECOS COUNTY\" TO \" WARD COUNTY\"."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Neuwahlen : Auch ein Bundeskanzler Merz hätte große Geldsorgen",
       "teaser": "Friedrich Merz hat gute Chancen, Kanzler zu werden. Doch seine Union könnte in einem Bündnis landen, in dem das Regieren so schwierig wird wie in der Ampel.",
       "url": "https://www.zeit.de/politik/deutschland/2024-11/neuwahlen-union-ampelkoalition-haushaltsdebatte-friedrich-merz"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Vertrauensfrage : Schnelle Neuwahl, oder doch erst viel später?",
+      "teaser": "Wann genau neu gewählt wird, entscheidet der Kanzler nicht allein. Wie die Vertrauensfrage abläuft und wann es Neuwahlen geben könnte: die wichtigsten Fragen im Überblick",
+      "url": "https://www.zeit.de/politik/deutschland/2024-11/neuwahlen-ampelbruch-vertrauensfrage-olaf-scholz-bundesregierung"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Laub : Sollte erlaubt sein",
@@ -471,11 +470,11 @@
       "image_title": "Stahlwerk in Gerlafingen: Flüssiger Stahl wird hier im Stahlwerk Gerlafingen in die \"Pfanne\" gegossen."
     },
     {
-      "title": "Grüner bauen : Diese Ideen sorgen für Klimaschutz am Bau",
-      "teaser": "Seit Jahren gibt es Ideen für mehr Klimaschutz am Bau. Jetzt sind die Produkte marktreif.",
-      "url": "https://www.wiwo.de/my/unternehmen/industrie/gruener-bauen-diese-ideen-sorgen-fuer-klimaschutz-am-bau/30075324.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/pr-rendering-cradle-campus-_bildcredits-michelgroup/30078850/2-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
-      "image_title": "Diese Ideen sorgen für Klimaschutz am Bau"
+      "title": "Transatlantischer Handel : „Wir sind nicht wehrlos gegen Trump“",
+      "teaser": "Für alle Fälle gerüstet: Brüssel will beim Handel mit den USA kooperieren, hat aber auch schon Gegenzölle vorbereitet. Womit die EU rechnet – und rechnen muss.",
+      "url": "https://www.wiwo.de/politik/europa/transatlantischer-handel-wir-sind-nicht-wehrlos-gegen-trump/30079216.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/imago1037316381-1/30080160/3-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
+      "image_title": "„Wir sind nicht wehrlos gegen Trump“"
     },
     {
       "title": "Robert Habeck : Der Aussichtslose",
@@ -532,6 +531,13 @@
       "image_title": "Theater: Hans Diehl (1940–2024)"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Wahlniederlage der Demokraten : Fehlersuche bei den Demokraten, Machtplanung bei Trump",
+      "teaser": "Die Demokraten debattieren, wie es zur bitteren Niederlage kommen konnte. Donald Trump verkündet eine erste Personalie und plant seine Amtszeit. Die Themen im US-Podcast",
+      "url": "https://www.zeit.de/politik/ausland/2024-11/wahlniederlage-demokraten-donald-trump-ok-america",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-11/wahlniederlage-demokraten-donald-trump-ok-america-bild/super__320x213",
+      "image_title": "Wahlniederlage der Demokraten: US-Präsident Joe Biden bei seiner Ansprache im Rosengarten des Weißen Hauses am 7. November 2024"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Hamburg-Podcast \"Elbvertiefung\" : Der FC St. Pauli ist jetzt eine Genossenschaft – warum noch mal?",
       "teaser": "Ein Profifußballclub als Genossenschaft – das gab es weltweit noch nie. Doch die wild wirkende Idee der Hamburger ist wohlüberlegt.",
       "url": "https://www.zeit.de/hamburg/2024-11/fc-st-pauli-genossenschaft-hamburg-podcast-elbvertiefung",
@@ -572,13 +578,6 @@
       "url": "https://www.zeit.de/politik/ausland/2024-11/ausgang-us-wahl-donald-trump-ok-america",
       "image_url": "https://img.zeit.de/politik/ausland/2024-11/donald-trump-rueckkehr-ok-amerika/super__320x213",
       "image_title": "Donald Trump Rückkehr OK Amerika"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Verfilmung von ZEIT Verbrechen : Deine Brüder",
-      "teaser": "Was kann Fiktion Kriminalfällen hinzufügen? Eine Sonderfolge über die Dokumentationen zu den ZEIT-Verbrechen-Filmen und die Hintergründe der Verfilmung von \"Deine Brüder\"",
-      "url": "https://www.zeit.de/gesellschaft/2024-11/making-of-zeit-verbrechen-rtl-deine-brueder",
-      "image_url": "https://img.zeit.de/kultur/2024-11/making-off-zeit-verbrechen-rtl-deine-brueder-aufmacherfoto/super__320x213",
-      "image_title": "Verfilmung von ZEIT Verbrechen: Deine Brüder"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Pariser Klimaschutzabkommen : Donald Trump bereitet offenbar Ausstieg aus Klimaschutzabkommen vor",
@@ -726,18 +725,18 @@
       "image_title": "Ausschreitungen in Amsterdam: Israelische Fußballfans kehren nach antisemitischen Angriffen zurück"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Zitronenpesto : Sauer macht Pesto",
+      "teaser": "Heiße Zitrone – als Nudelgericht! Dieses Pesto macht vielleicht nicht gesund, ist aber extrem gut und so einfach, dass es selbst mit einer dicken Erkältung gelingt.",
+      "url": "https://www.zeit.de/zeit-magazin/2024/47/zitronenpesto-nudeln-parmesan-rezept-wochenmarkt",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024/47/wundernudeln-bild-1/wide__892x501",
+      "image_title": "Zitronenpesto: Sauer macht Pesto"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Linzer Schnitte : Hey, Schnitte!",
       "teaser": "Wenn säuerliche Marmelade auf Mürbeteig trifft, könnte es es sich um eine Linzer Schnitte handeln. Dank herbstwinterlicher Gewürze passt das Gebäck perfekt in den Moment.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-11/linzer-schnitte-haselnuss-rezept",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-11/linzer-schnitte-haselnuss-rezept-teaser/wide__892x501",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-11/linzer-schnitte-haselnuss-rezept-teaser/super__430x286",
       "image_title": "Linzer Schnitte: Hey, Schnitte!"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Sperrbildschirm : Kein Foto schauen wir uns häufiger an als dieses",
-      "teaser": "Welches Bild soll auf dem Sperrbildschirm seines neuen Smartphones leuchten? Unser Autor tut sich mit der Wahl schwer. Nur eins weiß er sicher: nicht das seiner Kinder.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2024-10/sperrbildschirm-hintergrundbild-smartphone-bild-alltag",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-11/sperrbildschirm-hintergrundbild-smartphone-bild-alltag-bild/super__430x286",
-      "image_title": "Sperrbildschirm: Sperrbildschirm"
     },
     {
       "title": "Worträtsel : Wortiger",
@@ -873,36 +872,36 @@
       "image_title": "Jazzclub in Hamburg: Fee Schlennstedt betreibt gemeinsam mit Robert von Bennigsen den neuen Jazzclub Nica in Hamburg. Unser Foto zeigt sie in ihren Räumlichkeiten mit Blick auf das Altersfleet."
     },
     {
-      "title": "Mitgliederversammlung: Fegebank: «Bin bereit, Erste Bürgermeisterin zu werden»",
-      "url": "https://www.zeit.de/news/2024-11/09/fegebank-bin-bereit-erste-buergermeisterin-zu-werden"
+      "title": "Katastrophenschutz in Bayern: 75 neue Katastrophenschutz-Fahrzeuge",
+      "url": "https://www.zeit.de/news/2024-11/09/75-neue-katastrophenschutz-fahrzeuge"
     },
     {
-      "title": "Wetter: Nasser Wochenstart - Regen zum Karnevalsstart erwartet",
-      "url": "https://www.zeit.de/news/2024-11/09/nasser-wochenstart-regen-zum-karnevalsstart-erwartet"
+      "title": "Handball-Bundesliga: Neue Trainer und neuer Torwart für den TVB Stuttgart",
+      "url": "https://www.zeit.de/news/2024-11/09/neue-trainer-und-neuer-torwart-fuer-den-tvb-stuttgart"
     },
     {
-      "title": "3. Fußball-Liga: Notfall bei Cottbus-Spiel: Fan im Block behandelt",
-      "url": "https://www.zeit.de/news/2024-11/09/notfall-bei-cottbus-spiel-fan-im-block-behandelt"
+      "title": "1. Fußball-Bundesliga: Überraschung: Goretzka in Bayern-Startelf",
+      "url": "https://www.zeit.de/news/2024-11/09/ueberraschung-goretzka-in-bayern-startelf"
     },
     {
-      "title": "Stromausfall: Stromausfall in Sinsheim behoben",
-      "url": "https://www.zeit.de/news/2024-11/09/stromausfall-in-sinsheim-behoben"
+      "title": "2. Fußball-Bundesliga: Magdeburger Heimschwäche geht weiter: 0:0 gegen Ulm",
+      "url": "https://www.zeit.de/news/2024-11/09/magdeburger-heimschwaeche-geht-weiter-0-0-gegen-ulm"
     },
     {
-      "title": "Konflikt mit Handwerkern: Rassistisch beleidigt: Streit mit Schraubenzieher und Besen",
-      "url": "https://www.zeit.de/news/2024-11/09/rassistisch-beleidigt-streit-mit-schraubenzieher-und-besen"
+      "title": "Nach Ampel-Aus: FDP Landesverband: «uneingeschränkt handlungsfähig»",
+      "url": "https://www.zeit.de/news/2024-11/09/fdp-landesverband-uneingeschraenkt-handlungsfaehig"
     },
     {
-      "title": "Regierungsbildung in Sachsen: Sachsen: CDU will mit SPD über Minderheitsregierung sprechen",
-      "url": "https://www.zeit.de/news/2024-11/09/sachsen-cdu-will-mit-spd-ueber-minderheitsregierung-sprechen"
+      "title": "Regierungsbildung: Minderheitsregierung: SPD will mit CDU in Sachsen sprechen",
+      "url": "https://www.zeit.de/news/2024-11/09/minderheitsregierung-spd-will-mit-cdu-in-sachsen-sprechen"
     },
     {
-      "title": "Katastrophe im Urlaubsgebiet: Nach Tumulten: Spaniens König besucht wieder das Flutgebiet",
-      "url": "https://www.zeit.de/news/2024-11/09/nach-tumulten-spaniens-koenig-besucht-wieder-das-flutgebiet"
+      "title": "2. Fußball-Bundesliga: Downs führt Köln spät zum 1:0-Sieg",
+      "url": "https://www.zeit.de/news/2024-11/09/downs-fuehrt-koeln-spaet-zum-1-0-sieg"
     },
     {
-      "title": "Landkreis Cloppenburg: Ein Mensch in Lebensgefahr nach Unfall zwischen zwei Autos",
-      "url": "https://www.zeit.de/news/2024-11/09/ein-mensch-in-lebensgefahr-nach-unfall-zwischen-zwei-autos"
+      "title": "2. Fußball-Bundesliga: Darmstadt 98 besiegt auch Hertha BSC",
+      "url": "https://www.zeit.de/news/2024-11/09/darmstadt-98-besiegt-auch-hertha-bsc"
     }
   ]
 }
