@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-09T17:01:12",
+  "timestamp": "2024-11-09T18:07:54",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
@@ -98,18 +104,11 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Gesundheitspolitik in den USA : Make America healthy again. Oder?",
-      "teaser": "Impfgegner Robert F. Kennedy Jr. mit einer Schlüsselrolle, strengere Abtreibungsverbote und schwache Behörden: Darum fürchten Experten Trumps geplante Gesundheitspolitik.",
-      "url": "https://www.zeit.de/gesundheit/2024-11/gesundheitspolitik-usa-donald-trump-robert-f-kennedy-abtreibung",
-      "image_url": "https://img.zeit.de/gesundheit/2024-11/gesundheitspolitik-usa-donald-trump-robert-f-kennedy-abtreibung-bild/wide__1000x562",
-      "image_title": "Gesundheitspolitik in den USA: BRISTOL, TN - APRIL 14: A man pushes a patient in the parking lot outside the Remote Area Medical (RAM) free clinic at the Bristol Motor Speedway, located in the mountains of Appalachia, on April 14, 2012 in Bristol Tennessee. Around two thousand uninsured and underinsured are expected to receive free medical, dental, vision and pulmonary treatments provided by volunteer doctors, dentists, optometrists, nurses and support staff during the three day clinic in the foothills of the Appalachian Mountains, one of the poorest regions in the country. The U.S. Supreme Court recently heard arguments over the constitutionality of President Obama's sweeping health care overhaul."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Olaf Scholz : Der kühle Geist und das MAGA-Ego",
-      "teaser": "Ein schüchterner Kanzler trifft auf einen aufbrausenden US-Präsidenten, kann das klappen? Zumindest hat Scholz gezeigt, dass er unkonventionelle Methoden nicht schreckt.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-11/olaf-scholz-donald-trump-usa-wahlsieg-spd",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-11/olaf-scholz-donald-trump-usa-wahlsieg/super__430x286",
-      "image_title": "Olaf Scholz: Former President Donald Trump, the Republican presidential nominee, on stage during a campaign rally in Kinston, N.C., on Sunday, Nov. 3, 2024. UND Bundeskanzler Olaf Scholz (SPD), im Kanzleramt, Berlin."
+      "title": "Z+ (abopflichtiger Inhalt); Arbeit und Familie : Die Familien-Formel",
+      "teaser": "Familien ächzen unter den Mühen des Alltags. Kinder und Arbeit verbinden – geht das auch ohne Stress? Ja, sagt eine Studie – und weist einen neuen Weg zur Vereinbarkeit.",
+      "url": "https://www.zeit.de/2024/47/arbeit-familie-balance-stress-eltern",
+      "image_url": "https://img.zeit.de/2024/47/die-familien-formel-bild-4/wide__1000x562",
+      "image_title": "Arbeit und Familie: Wer kennt sie nicht, die Klagen arbeitender Eltern? Viel interessanter ist die Frage: Wie kann man es besser machen?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Liveblog:Ampel-Aus : Union lehnt Gesprächsangebot der SPD ab",
@@ -154,18 +153,46 @@
       "image_title": "Vertrauensfrage: Bundeskanzler Olaf Scholz wartet auf die Begrüßung des georgischen Ministerpräsidenten Irakli Garibaschwili in Berlin, Deutschland, 9. Juni 2023."
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Machtwechsel in den USA : Biden und Trump verabreden Treffen im Weißen Haus",
+      "teaser": "Es ist gängige Praxis nach der US-Wahl: Der noch amtierende Präsident empfängt seinen Nachfolger im Oval Office. Anders als Trump 2020 will Biden diese Tradition wahren.",
+      "url": "https://www.zeit.de/politik/ausland/2024-11/biden-trump-treffen-weisses-haus-wahl-usa",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-11/joe-biden-donald-trump-oval-office/super__430x286",
+      "image_title": "Joe Biden Donald Trump Oval Office"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Handelsbeziehungen : Habeck warnt vor möglichen US-Zöllen insbesondere gegen Deutschland",
+      "teaser": "Donald Trump könnte vor allem deutsche Produkte mit Zöllen belegen, warnt Robert Habeck. Die EU müsse daher zeigen, dass ihr Binnenmarkt auch für die USA relevant ist.",
+      "url": "https://www.zeit.de/politik/ausland/2024-11/handelsbeziehungen-habeck-warnung-usa-trump-zoelle-deutsche-ware",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-11/habeck-erwartet-unter-trump-us-zoelle-besonders-gegen-deutschland-bild/super__430x286",
+      "image_title": "Handelsbeziehungen: Autos stehen auf dem Gelände vom BLG Autoterminal Bremerhaven. Der Bremer Seehäfen- und Logistikdienstleister BLG hat im vergangenen Jahr trotz vieler Krisen Umsatz und Gewinn gesteigert. 26.04.2023"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Gesundheitspolitik in den USA : Make America healthy again. Oder?",
+      "teaser": "Impfgegner Robert F. Kennedy Jr. mit einer Schlüsselrolle, strengere Abtreibungsverbote und schwache Behörden: Darum fürchten Experten Trumps geplante Gesundheitspolitik.",
+      "url": "https://www.zeit.de/gesundheit/2024-11/gesundheitspolitik-usa-donald-trump-robert-f-kennedy-abtreibung",
+      "image_url": "https://img.zeit.de/gesundheit/2024-11/gesundheitspolitik-usa-donald-trump-robert-f-kennedy-abtreibung-bild/super__430x286",
+      "image_title": "Gesundheitspolitik in den USA: BRISTOL, TN - APRIL 14: A man pushes a patient in the parking lot outside the Remote Area Medical (RAM) free clinic at the Bristol Motor Speedway, located in the mountains of Appalachia, on April 14, 2012 in Bristol Tennessee. Around two thousand uninsured and underinsured are expected to receive free medical, dental, vision and pulmonary treatments provided by volunteer doctors, dentists, optometrists, nurses and support staff during the three day clinic in the foothills of the Appalachian Mountains, one of the poorest regions in the country. The U.S. Supreme Court recently heard arguments over the constitutionality of President Obama's sweeping health care overhaul."
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Olaf Scholz : Der kühle Geist und das MAGA-Ego",
+      "teaser": "Ein schüchterner Kanzler trifft auf einen aufbrausenden US-Präsidenten, kann das klappen? Zumindest hat Scholz gezeigt, dass er unkonventionelle Methoden nicht schreckt.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-11/olaf-scholz-donald-trump-usa-wahlsieg-spd",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-11/olaf-scholz-donald-trump-usa-wahlsieg/super__430x286",
+      "image_title": "Olaf Scholz: Former President Donald Trump, the Republican presidential nominee, on stage during a campaign rally in Kinston, N.C., on Sunday, Nov. 3, 2024. UND Bundeskanzler Olaf Scholz (SPD), im Kanzleramt, Berlin."
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Gazakonflikt : Katar beendet Vermittlung zwischen Israel und der Hamas",
+      "teaser": "Das Emirat Katar will vorerst nicht mehr Verhandlungen über eine Waffenruhe im Gazastreifen vermitteln. Weder Israel noch die Hamas hätten guten Willen gezeigt, hieß es.",
+      "url": "https://www.zeit.de/politik/ausland/2024-11/katar-vermittlung-israel-hamas-gaza",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-11/katar-will-nicht-mehr-vermittler-sein-bild/super__430x286",
+      "image_title": "Gazakonflikt: Emir Tamim bin Hamad al-Thani, das Staatsoberhaupt von Katar, am 24. Oktober 2024 in Doha"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Liveblog:Ukrainekrieg : Russland zeigt sich offen für Trumps Vorschläge zur Ukraine",
       "teaser": "Als Präsident werde er den Ukrainekrieg binnen eines Tages beenden, versprach Trump. Nun will Russland ihm zuhören – sofern er die militärischen Ukrainehilfen einstellt.",
       "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
       "image_url": "https://img.zeit.de/politik/ausland/2024-11/russland-vizeaussenminister-sergej-rjabkow-offen-trump-vorschlaege-ukraine-bild/super__430x286",
       "image_title": "Ukrainekrieg: Russian Deputy Foreign Minister Sergei Ryabkov (C) arrives to deliver a speech during a session of the UN Conference on Disarmament in Geneva on March 2, 2023."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Geldanlage : Vier Regeln, an die sich Anleger jetzt halten können",
-      "teaser": "Trump hat die US-Wahl gewonnen, Finanzminister Lindner wurde entlassen, die Aktienmärkte reagieren deutlich. Wir erklären, wie sich Vermögen jetzt absichern lässt.",
-      "url": "https://www.zeit.de/geld/2024-11/geldanlage-vermoegen-unsicherheit-finanzmarkt-donald-trump-christian-lindner",
-      "image_url": "https://img.zeit.de/geld/2024-11/finanzmarkt-unsicherheit-privatanleger-vermoegen/super__430x286",
-      "image_title": "Finanzmarkt Unsicherheit Privatanleger Vermögen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); 35 Jahre Mauerfall : Unsere verborgene Superkraft",
@@ -196,11 +223,18 @@
       "image_title": "Klimafolgen: Neuseeland Pluspunkt: vorbereitet auf Naturkatastrophen Minuspunkt: weit weg"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Regierungsbildung in Sachsen : CDU und SPD in Sachsen wollen über Minderheitsregierung sprechen",
-      "teaser": "Die sächsische CDU hat der SPD angeboten, über eine Zusammenarbeit in einer Minderheitsregierung zu reden. Am Donnerstag wollen beide Parteien die Ergebnisse diskutieren.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-11/sachsen-regierungsbildung-cdu-spd-minderheitsregierung-bsw",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-11/cdu-sachsen-will-spd-minderheitsregierung-bild/super__430x286",
-      "image_title": "Regierungsbildung in Sachsen: Petra Köpping (SPD, l-r), Sozialministerin von Sachsen, Henning Homann, Co-Vorsitzender der SPD in Sachsen, Michael Kretschmer (CDU), Ministerpräsident von Sachsen, und Christian Hartmann (CDU), Fraktionsvorsitzender im Sächsischen Landtag, sitzen während einer Pressekonferenz im Sächsischen Landtag auf dem Podium. Die Sondierung für eine Regierungskoalition aus CDU, BSW und SPD in Sachsen ist gescheitert. Die Gespräche wurden ergebnislos abgebrochen, teilte das BSW mit. Dresden, 06.11.2024"
+      "title": "Z+ (abopflichtiger Inhalt); Linksextremismus : Mutmaßlicher Anführer linksextremistischer Gruppe in U-Haft",
+      "teaser": "Johann G. soll der Gruppierung um Lina E. angehört haben. Nach seiner Festnahme ist er in Untersuchungshaft. Ihm wird unter anderem Körperverletzung vorgeworfen.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-11/linksextremismus-johann-g-untersuchungshaft-lina-e",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-11/anfuehrer-gewalttaetige-linksextreme-szene-untersuchungshaft-bild/super__430x286",
+      "image_title": "Linksextremismus: Polizisten bei einer Solidaritätsdemo für die Leipziger Linksetxremistin Lina E. in Berlin-Kreuzberg im Mai 2023"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Geldanlage : Vier Regeln, an die sich Anleger jetzt halten können",
+      "teaser": "Trump hat die US-Wahl gewonnen, Finanzminister Lindner wurde entlassen, die Aktienmärkte reagieren deutlich. Wir erklären, wie sich Vermögen jetzt absichern lässt.",
+      "url": "https://www.zeit.de/geld/2024-11/geldanlage-vermoegen-unsicherheit-finanzmarkt-donald-trump-christian-lindner",
+      "image_url": "https://img.zeit.de/geld/2024-11/finanzmarkt-unsicherheit-privatanleger-vermoegen/super__430x286",
+      "image_title": "Finanzmarkt Unsicherheit Privatanleger Vermögen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Susan Alviola : Sie waren nicht willkommen",
@@ -217,39 +251,11 @@
       "image_title": "Verfilmung von ZEIT Verbrechen: Love by Proxy"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Gazakonflikt : Katar beendet Vermittlung zwischen Israel und der Hamas",
-      "teaser": "Das Emirat Katar will vorerst nicht mehr Verhandlungen über eine Waffenruhe im Gazastreifen vermitteln. Weder Israel noch die Hamas hätten guten Willen gezeigt, hieß es.",
-      "url": "https://www.zeit.de/politik/ausland/2024-11/katar-vermittlung-israel-hamas-gaza",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-11/katar-will-nicht-mehr-vermittler-sein-bild/super__430x286",
-      "image_title": "Gazakonflikt: Emir Tamim bin Hamad al-Thani, das Staatsoberhaupt von Katar, am 24. Oktober 2024 in Doha"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Amsterdam : Hunderte Fans mit Sonderflügen aus den Niederlanden ausgeflogen",
-      "teaser": "Nach Angriffen auf israelische Fußballfans haben Hunderte Amsterdam wieder verlassen. Niederländische Behörden prüfen, ob Warnungen nicht ernst genug genommen wurden.",
-      "url": "https://www.zeit.de/politik/ausland/2024-11/ajax-amsterdam-maccabi-tel-aviv-israel-sonderfluege-europa-league",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-11/ajax-amsterdam-maccabi-tel-aviv-israel-sonderfluege-europa-league-bild/super__430x286",
-      "image_title": "Amsterdam: A fan of the Israeli football club Maccabi Tel-Aviv is met by a family member at the Ben Gurion International Airport on the outskirts of Tel Aviv on November 8, 2024, upon returning from Amsterdam. Flight carrying Israelis evacuated from Amsterdam after violent clashes following a football match there landed on November 8 at Ben Gurion International Airport, the Israel Airports Authority said. The United Nations said that it was deeply troubled by the clashes in Amsterdam surrounding the football match between hosts Ajax and Israeli side Maccabi Tel-Aviv, violence branded \"anti-Semitic\" by Israeli and Dutch leaders."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Gewalt in Amsterdam : Was wir über die antisemitischen Attacken in Amsterdam wissen",
-      "teaser": "In Amsterdam attackierten nach einem Fußballspiel Palästina-Unterstützer gezielt jüdische Fans. Die Angreifer sollen sich auf Telegram organisiert haben. Was wir wissen.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-11/ausschreitungen-amsterdam-maccabi-tel-aviv-antisemitismus-israel-fussball",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-11/ausschreitungen-amsterdam-maccabi-tel-aviv-antisemitismus-israel-fussball-bild-3/super__430x286",
-      "image_title": "Gewalt in Amsterdam: Pro-Palestinians demonstrate at Amsterdam's Anton de Komplein square ahead of the UEFA Europa League football match between Ajax and Maccabi Tel Aviv on November 7, 2024. (Photo by Jeroen Jumelet / ANP / AFP) / Netherlands OUT"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Bundesliga, 10. Spieltag – Samstag : Dortmund verliert gegen Mainz, Bayern baut Tabellenführung aus",
-      "teaser": "Nach einer Roten Karte ihres Kapitäns muss die Borussia früh in Unterzahl gegen Mainz bestehen. Bayern festigt gegen St. Pauli seine Tabellenführung. Die Spielberichte",
+      "title": "Z+ (abopflichtiger Inhalt); Bundesliga, 10. Spieltag – Samstag : Dortmund verliert in Mainz, München baut Führung aus",
+      "teaser": "Nach einer Roten Karte für seinen Kapitän muss der BVB lange in Unterzahl spielen. Der FC Bayern festigt gegen St. Pauli seine Spitzenposition. Die Spielberichte",
       "url": "https://www.zeit.de/sport/2024-11/bundesliga-spieltag-10-samstag-mainz-dortmund-bayern-st-pauli",
       "image_url": "https://img.zeit.de/sport/2024-11/bundesliga-mainz-05-borussia-dortmund-bild/super__430x286",
       "image_title": "Bundesliga, 10. Spieltag – Samstag: Dortmund's German midfielder #23 Emre Can (C) reacts as he received the red card after foul on Mainz' South Korean midfielder #07 Lee Jae-sung (R) during the German first division Bundesliga football match between Mainz 05 and Borussia Dortmund in Mainz on November 9, 2024."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Weltklimakonferenz in Baku : \"Die Verhandler haben ein Elefantengedächtnis\"",
-      "teaser": "Kommende Woche beginnt in Baku die Klimakonferenz. Kai Monheim bringt Delegationen bei, wie sie gut verhandeln. Seine Botschaft: Andere auszutricksen, rächt sich.",
-      "url": "https://www.zeit.de/2024/47/weltklimakonferenz-baku-cop-klimawandel-verhandlungen",
-      "image_url": "https://img.zeit.de/2024/47/man-sieht-sich-immer-zweimal-im-leben-bild-1/super__430x286",
-      "image_title": "Weltklimakonferenz in Baku: Kai Monheim, 47, ist Gründer des Centre for Multilateral Negotiations in Hamburg, das Staaten und ihre Verhandler bei internationalen Gipfeln berät"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Kroatische Küche : Erinnerungen an Hefe und Meer",
@@ -371,14 +377,14 @@
       "image_title": "Ende der Ampelkoalition: Die Ego-Parade mackert durch Berlin"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Robert Habeck : Eine letzte Chance für den Träumer",
-      "teaser": "Robert Habeck gibt in der größten Krise seiner Partei seine Kanzlerkandidatur bekannt – halb aus Wagemut, halb aus Verzweiflung. Es bleibt ihm gar nichts anderes übrig.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-11/robert-habeck-kanzlerkandidatur-chancen-die-gruenen"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); AfD : Das System Klaus Esser",
       "teaser": "Gleich mehrere Skandale erschüttern den mitgliederstärksten Landesverband der AfD. Einer davon könnte sogar dessen Teilnahme an der Bundestagswahl gefährden.",
       "url": "https://www.zeit.de/politik/deutschland/2024-11/klaus-esser-landtagsabgeordneter-dueren-kreisverband-anschuldigung"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Robert Habeck : Eine letzte Chance für den Träumer",
+      "teaser": "Robert Habeck gibt in der größten Krise seiner Partei seine Kanzlerkandidatur bekannt – halb aus Wagemut, halb aus Verzweiflung. Es bleibt ihm gar nichts anderes übrig.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-11/robert-habeck-kanzlerkandidatur-chancen-die-gruenen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Onlinedating : Löffelchen mit dem Fremden",
@@ -388,14 +394,14 @@
       "image_title": "Onlinedating: Löffelchen mit dem Fremden"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Robert Habeck : Eine letzte Chance für den Träumer",
-      "teaser": "Robert Habeck gibt in der größten Krise seiner Partei seine Kanzlerkandidatur bekannt – halb aus Wagemut, halb aus Verzweiflung. Es bleibt ihm gar nichts anderes übrig.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-11/robert-habeck-kanzlerkandidatur-chancen-die-gruenen"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Ende der Ampelkoalition : Die Ego-Parade mackert durch Berlin",
       "teaser": "Erst zeigen Scholz und Lindner erstaunliche Aufs-Maul-Breitbeinigkeit, dann posen Ex-Koalitionäre im Netz. Männlicher Politikstil am Limit – Zeit, dass sich was dreht!",
       "url": "https://www.zeit.de/politik/2024-11/ende-ampelkoalition-statements-social-media-x"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); USA : Richterin streicht Trumps offene Gerichtstermine wegen Wahlbetrugs",
+      "teaser": "Gegen Trump laufen mehrere Verfahren – doch seine Wahl zum US-Präsidenten bringt die Ermittler in eine beispiellose Lage. Sie bekommen nun mehrere Wochen Bedenkzeit.",
+      "url": "https://www.zeit.de/politik/ausland/2024-11/usa-donald-trump-gerichtstermine-gestrichen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Pariser Klimaschutzabkommen : Donald Trump bereitet offenbar Ausstieg aus Klimaschutzabkommen vor",
@@ -405,14 +411,14 @@
       "image_title": "Pariser Klimaschutzabkommen: Hawk Dunlap, an oil well control specialist, and Sarah Stogner, an oil and gas lawyer, survey an excavated pumpjack with a leaking surface casing in Ward County, Texas, U.S., August 6, 2024. REUTERS/Adrees Latif REFILE - CORRECTING LOCATION FROM \"PECOS COUNTY\" TO \" WARD COUNTY\"."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Vertrauensfrage : Schnelle Neuwahl, oder doch erst viel später?",
-      "teaser": "Wann genau neu gewählt wird, entscheidet der Kanzler nicht allein. Wie die Vertrauensfrage abläuft und wann es Neuwahlen geben könnte: die wichtigsten Fragen im Überblick",
-      "url": "https://www.zeit.de/politik/deutschland/2024-11/neuwahlen-ampelbruch-vertrauensfrage-olaf-scholz-bundesregierung"
+      "title": "Z+ (abopflichtiger Inhalt); Regierungskrise : Get real, Deutschland",
+      "teaser": "Gut, dass jetzt ein Richtungsstreit ausbricht – das Land hat viele Ampeljahre verloren. Um Wohlstand und Freiheit zu schützen, muss es realistischer und robuster werden.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-11/regierungskrise-ampel-aus-wirtschaft-wohlstand-richtungsstreit"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Robert Habeck : Eine letzte Chance für den Träumer",
-      "teaser": "Robert Habeck gibt in der größten Krise seiner Partei seine Kanzlerkandidatur bekannt – halb aus Wagemut, halb aus Verzweiflung. Es bleibt ihm gar nichts anderes übrig.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-11/robert-habeck-kanzlerkandidatur-chancen-die-gruenen"
+      "title": "Z+ (abopflichtiger Inhalt); Ende der Ampelkoalition : Die Ego-Parade mackert durch Berlin",
+      "teaser": "Erst zeigen Scholz und Lindner erstaunliche Aufs-Maul-Breitbeinigkeit, dann posen Ex-Koalitionäre im Netz. Männlicher Politikstil am Limit – Zeit, dass sich was dreht!",
+      "url": "https://www.zeit.de/politik/2024-11/ende-ampelkoalition-statements-social-media-x"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Hoffnung : \"Hoffnung ist in der Gegenwartskrise eine wichtige Ressource\"",
@@ -457,11 +463,11 @@
       "image_title": "5 Text-Tricks, die Ihr innerer Kritiker Ihnen nicht zeigen will"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); AfD : Grünenabgeordnete fordern Gutachten vor Antrag eines AfD-Verbots",
-      "teaser": "Seit Monaten bereitet eine Reihe von Abgeordneten einen Antrag für ein Verbot der AfD vor. Nun warnen einige Grüne: Zunächst sollten die Erfolgsaussichten geprüft werden.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-11/gruene-afd-verbot-antrag-gutachten-renate-kuenast-lukas-brenner-irene-mihalic-marco-wanderwitz-baerbel-bas",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-11/gruenen-mdb-antrag-afd-verbot-bild/super__430x286",
-      "image_title": "AfD: Renate Künast (Bündnis 90/Die Grünen) spricht zur Debatte über den Binnenmarkt für digitale Dienste während der 159. Sitzung im Bundestag. Berlin, 21.03.2024"
+      "title": "Z+ (abopflichtiger Inhalt); Regierungsbildung in Sachsen : CDU und SPD in Sachsen wollen über Minderheitsregierung sprechen",
+      "teaser": "Die sächsische CDU hat der SPD angeboten, über eine Zusammenarbeit in einer Minderheitsregierung zu reden. Am Donnerstag wollen beide Parteien die Ergebnisse diskutieren.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-11/sachsen-regierungsbildung-cdu-spd-minderheitsregierung-bsw",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-11/cdu-sachsen-will-spd-minderheitsregierung-bild/super__430x286",
+      "image_title": "Regierungsbildung in Sachsen: Petra Köpping (SPD, l-r), Sozialministerin von Sachsen, Henning Homann, Co-Vorsitzender der SPD in Sachsen, Michael Kretschmer (CDU), Ministerpräsident von Sachsen, und Christian Hartmann (CDU), Fraktionsvorsitzender im Sächsischen Landtag, sitzen während einer Pressekonferenz im Sächsischen Landtag auf dem Podium. Die Sondierung für eine Regierungskoalition aus CDU, BSW und SPD in Sachsen ist gescheitert. Die Gespräche wurden ergebnislos abgebrochen, teilte das BSW mit. Dresden, 06.11.2024"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); US-Börse : Rekorde an der Wall Street nach Trumps Wahlsieg",
@@ -548,11 +554,11 @@
       "image_title": "Jahrestag der Novemberpogrome: Kai Wegner (CDU), Regierender Bürgermeister von Berlin, spricht bei einer zentralen Gedenkveranstaltung anlässlich von 35 Jahre friedliche Revolution und Mauerfall in der Gedenkstätte Berliner Mauer an der Hinterlandmauer. Berlin, 09.11.2024"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Antisemitismus bei Fußballspielen : Innensenatorin kritisiert Angriffe auf Makkabi-Spieler in Neukölln",
-      "teaser": "Auch in Berlin sollen Jugendspieler des jüdischen Clubs TuS Makkabi nach einem Fußballspiel angegriffen worden sein. Innensenatorin Iris Spranger forderte Konsequenzen.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-11/antisemitismus-fussball-makkabi-berlin-neukoelln-senatorin-iris-spranger",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-11/tus-makkabi-berlin-uebergriff-bild/super__430x286",
-      "image_title": "Antisemitismus bei Fußballspielen: Fußball: DFB-Pokal, TuS Makkabi - VfL Wolfsburg, 1. Runde, Mommsenstadion. Fans von TuS Makkabi feuern ihr Team mit Fahnen an. +++ dpa-Bildfunk +++"
+      "title": "Z+ (abopflichtiger Inhalt); Gewalt in Amsterdam : Was wir über die antisemitischen Attacken in Amsterdam wissen",
+      "teaser": "In Amsterdam attackierten nach einem Fußballspiel Palästina-Unterstützer gezielt jüdische Fans. Die Angreifer sollen sich auf Telegram organisiert haben. Was wir wissen.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-11/ausschreitungen-amsterdam-maccabi-tel-aviv-antisemitismus-israel-fussball",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-11/ausschreitungen-amsterdam-maccabi-tel-aviv-antisemitismus-israel-fussball-bild-3/super__430x286",
+      "image_title": "Gewalt in Amsterdam: Pro-Palestinians demonstrate at Amsterdam's Anton de Komplein square ahead of the UEFA Europa League football match between Ajax and Maccabi Tel Aviv on November 7, 2024. (Photo by Jeroen Jumelet / ANP / AFP) / Netherlands OUT"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); 35. Jahrestag des Mauerfalls : Frage: Was ist ein ostdeutsches Streichquartett?",
@@ -875,11 +881,11 @@
       "image_title": "Ski Aggu: \"Am Anfang denkt jeder, er kann rappen, aber dann merkt man schnell: So easy ist es nicht.\""
     },
     {
-      "title": "Verlagsangebot : Was kann man wo studieren?",
-      "teaser": "Deutschlands größte Suchmaschine für Studiengänge und Hochschulen bietet Orientierung und hilft bei der Studienwahl.",
-      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.automation.bleistift-biss.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=verlagsteaser&amp;utm_content=suma_automation_bleistift-biss_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/suma-teaser-januar2019/wide__430x286__desktop",
-      "image_title": "Was kann man wo studieren?"
+      "title": "Verlagsangebot : Welcher Beruf passt zu mir?",
+      "teaser": "Was uns im Job von anderen unterscheidet, sind nicht nur unsere Fähigkeiten – erst die Persönlichkeit macht jeden einmalig. Der BOA Berufstest hilft, sie zu erkennen.",
+      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.teaser.boa-faeuste.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=boa-verlagsteaser&amp;utm_content=bot_teaser_boa-faeuste_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/boa-faeuste/wide__430x286__desktop",
+      "image_title": "Welcher Beruf passt zu mir?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Hochschulen : Zahl der Studiengänge steigt auf Rekordwert",
@@ -917,36 +923,36 @@
       "image_title": "Jazzclub in Hamburg: Fee Schlennstedt betreibt gemeinsam mit Robert von Bennigsen den neuen Jazzclub Nica in Hamburg. Unser Foto zeigt sie in ihren Räumlichkeiten mit Blick auf das Altersfleet."
     },
     {
+      "title": "Kreis Viersen: Vermisster 69-Jähriger tot aufgefunden",
+      "url": "https://www.zeit.de/news/2024-11/09/vermisster-69-jaehriger-tot-aufgefunden"
+    },
+    {
+      "title": "Fußball-Bundesliga: Matchwinner Burke: «Ich liebe es, in Bremen zu sein»",
+      "url": "https://www.zeit.de/news/2024-11/09/matchwinner-burke-ich-liebe-es-in-bremen-zu-sein"
+    },
+    {
+      "title": "Fußball-Bundesliga: Brandt zu BVB-Auswärtsmisere: «Geht mir auf den Sack»",
+      "url": "https://www.zeit.de/news/2024-11/09/brandt-zu-bvb-auswaertsmisere-geht-mir-auf-den-sack"
+    },
+    {
+      "title": "35. Jahrestag des Mauerfalls: Habeck erfährt zu spät vom Mauerfall - beim Wäschelegen",
+      "url": "https://www.zeit.de/news/2024-11/09/habeck-erfaehrt-zu-spaet-vom-mauerfall-beim-waeschelegen"
+    },
+    {
+      "title": "Fellbach (Rems-Murr-Kreis): Frau tot aufgefunden – Polizei vermutet Gewaltverbrechen",
+      "url": "https://www.zeit.de/news/2024-11/09/frau-tot-aufgefunden-polizei-vermutet-gewaltverbrechen"
+    },
+    {
+      "title": "Jahrestag des 9. November 1938: Kulturministerin: «Gedenken heute wichtiger denn je»",
+      "url": "https://www.zeit.de/news/2024-11/09/kulturministerin-gedenken-heute-wichtiger-denn-je"
+    },
+    {
       "title": "Parteien: Tim Hordorff weiter Landesvorsitzender der Jungen Liberalen",
       "url": "https://www.zeit.de/news/2024-11/09/tim-hordorff-weiter-landesvorsitzender-der-jungen-liberalen"
     },
     {
       "title": "Nach der US-Wahl: Biden und Trump treffen sich am Mittwoch im Weißen Haus",
       "url": "https://www.zeit.de/news/2024-11/09/biden-und-trump-treffen-sich-am-mittwoch-im-weissen-haus"
-    },
-    {
-      "title": "Mitgliederversammlung: DRK fordert mehr Geld für Katastrophenschutz",
-      "url": "https://www.zeit.de/news/2024-11/09/drk-fordert-mehr-geld-fuer-katastrophenschutz"
-    },
-    {
-      "title": "Unfallflucht: Vier Verletzte bei Auffahrunfall",
-      "url": "https://www.zeit.de/news/2024-11/09/vier-verletzte-bei-auffahrunfall"
-    },
-    {
-      "title": "Drei Verletzte: E-Scooter sorgt für Wohnungsbrand in Bickenbach",
-      "url": "https://www.zeit.de/news/2024-11/09/e-scooter-sorgt-fuer-wohnungsbrand-in-bickenbach"
-    },
-    {
-      "title": "Geschichte: Sachsen gedenkt der Pogromnacht von 1938",
-      "url": "https://www.zeit.de/news/2024-11/09/sachsen-gedenkt-der-pogromnacht-von-1938"
-    },
-    {
-      "title": "Luftverkehr: Bürgerinitiativen schreiben wegen Fluglärm an Minister",
-      "url": "https://www.zeit.de/news/2024-11/09/buergerinitiativen-schreiben-wegen-fluglaerm-an-minister"
-    },
-    {
-      "title": "Fußball-Bundesliga: Hecking-Überraschung: Bochum holt Remis gegen Leverkusen",
-      "url": "https://www.zeit.de/news/2024-11/09/hecking-ueberraschung-bochum-holt-remis-gegen-leverkusen"
     }
   ]
 }
