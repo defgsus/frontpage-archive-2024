@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-10T14:00:42",
+  "timestamp": "2024-11-10T15:00:41",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
@@ -98,7 +104,7 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Ehevertrag : \"Der Mann kann neu heiraten, Kinder zeugen, und die Frau sitzt da\"",
+      "title": "Z+ (abopflichtiger Inhalt); Ehevertrag : Wie regelt man die Liebe?",
       "teaser": "Anwältin Doris Kloster-Harz hat Hunderte Eheverträge entworfen. Sie findet, Frauen sollten öfter mal sagen: Bei einer Scheidung möchte ich 60.000 Euro pro Erziehungsjahr.",
       "url": "https://www.zeit.de/2024/47/ehevertrag-scheidung-frauen-beziehung-anwaeltin",
       "image_url": "https://img.zeit.de/2024/47/wie-regelt-man-die-liebe-teaserbild/wide__1000x562",
@@ -339,21 +345,16 @@
       "url": "https://www.zeit.de/familie/2024-10/rat-eltern-tipps-alltag-familie-kinder-erziehung"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Frauen der Gen X : Die Gen XX ist heiß",
-      "teaser": "Frauen zwischen 40 und 50 haben offenbar gerade die beste Zeit ihres Lebens. Die Perimenopause wird zum Codewort für Lust, Lässigkeit und Selbstbestimmung.",
-      "url": "https://www.zeit.de/kultur/2024-11/frauen-gen-x-perimenopause-alter-filme"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Regierungskrise : Woran die Ampel wirklich scheiterte",
-      "teaser": "Die Regierungskoalition zerbrach nicht nur an persönlichen Eitelkeiten und parteipolitischem Kalkül. Der tiefere Grund verweist auf Probleme, die sich bald verschlimmern.",
-      "url": "https://www.zeit.de/kultur/2024-11/regierungskrise-ampelkoalition-parteien-liberalismus-persoenlichkeiten",
-      "image_url": "https://img.zeit.de/kultur/2024-11/regierungskrise-ampelkoalition-parteien-liberalismus-persoenlichkeiten-bild/super__430x286",
-      "image_title": "Regierungskrise: Woran die Ampel wirklich scheiterte"
+      "title": "Z+ (abopflichtiger Inhalt); Kaffeezubereitung : Die Lösung für all Ihre Kaffeeprobleme",
+      "teaser": "Wie der Kaffee zu Hause genauso gut wird wie im Café, aber bitte ohne teures Gerät – und das alles im Affentempo: Mit diesen Tipps wird’s wirklich was.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-11/kaffeezubereitung-zuhause-tipps-getraenk-cafe"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Weltraumpolitik der USA : Die Mars-Connection",
       "teaser": "Elon Musk könnte künftig weitreichende Entscheidungen in den USA treffen. Ein beispielloser Interessenkonflikt – und sehr schlechte Nachrichten für Europa.",
-      "url": "https://www.zeit.de/wissen/2024-11/weltraumpolitik-usa-elon-musk-spacex-donald-trump"
+      "url": "https://www.zeit.de/wissen/2024-11/weltraumpolitik-usa-elon-musk-spacex-donald-trump",
+      "image_url": "https://img.zeit.de/wissen/2024-11/elon-musk-donald-trump-spacex/super__430x286",
+      "image_title": "Elon Musk Donald Trump SpaceX"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Lars Klingbeil : \"Man sitzt im Kanzleramt und merkt: Okay, die wollen ja wirklich raus\"",
@@ -363,19 +364,24 @@
     {
       "title": "Z+ (abopflichtiger Inhalt); US-Wahl : Trump gewinnt mit Arizona alle sieben Swing-States",
       "teaser": "Auch im letzten Swing-State steht Trumps Wahlsieg fest. Der Republikaner holt bei seiner Wiederwahl mehr Stimmen als 2016 – und wohl auch die Mehrheit im Kongress.",
+      "url": "https://www.zeit.de/politik/ausland/2024-11/donald-trump-arizona-us-praesidentschaftswahl-swing-states-wahlsieg"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); US-Wahl : Trump gewinnt mit Arizona alle sieben Swing-States",
+      "teaser": "Auch im letzten Swing-State steht Trumps Wahlsieg fest. Der Republikaner holt bei seiner Wiederwahl mehr Stimmen als 2016 – und wohl auch die Mehrheit im Kongress.",
       "url": "https://www.zeit.de/politik/ausland/2024-11/donald-trump-arizona-us-praesidentschaftswahl-swing-states-wahlsieg",
       "image_url": "https://img.zeit.de/politik/ausland/2024-11/donald-trump-arizona-us-praesidentschaftswahl-swing-states-wahlsieg-bild/super__430x286",
       "image_title": "US-Wahl: WEST PALM BEACH, FLORIDA - NOVEMBER 06: Republican presidential nominee, former U.S. President Donald Trump speaks during an election night event at the Palm Beach Convention Center on November 06, 2024 in West Palm Beach, Florida. Americans cast their ballots today in the presidential race between Republican nominee former President Donald Trump and Vice President Kamala Harris, as well as multiple state elections that will determine the balance of power in Congress. (Photo by Chip Somodevilla/Getty Images)"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Regierungskrise : Woran die Ampel wirklich scheiterte",
-      "teaser": "Die Regierungskoalition zerbrach nicht nur an persönlichen Eitelkeiten und parteipolitischem Kalkül. Der tiefere Grund verweist auf Probleme, die sich bald verschlimmern.",
-      "url": "https://www.zeit.de/kultur/2024-11/regierungskrise-ampelkoalition-parteien-liberalismus-persoenlichkeiten"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Friedrich Merz : Auf Kanzler Merz kommt einiges zu",
       "teaser": "In den USA hat Trump ab Januar ein umfassendes Mandat. Europa wird in Sachen Handel, Klima und Ukraine unter Druck geraten. Ein Kanzler Merz müsste jetzt schon handeln.",
       "url": "https://www.zeit.de/politik/2024-11/friedrich-merz-cdu-kanzlerkandidat-neuwahlen"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Handelsbeziehungen : Habeck warnt vor möglichen US-Zöllen insbesondere gegen Deutschland",
+      "teaser": "Donald Trump könnte vor allem deutsche Produkte mit Zöllen belegen, warnt Robert Habeck. Die EU müsse daher zeigen, dass ihr Binnenmarkt auch für die USA relevant ist.",
+      "url": "https://www.zeit.de/politik/ausland/2024-11/handelsbeziehungen-habeck-warnung-usa-trump-zoelle-deutsche-ware"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Hamburger Hausärzte : Knapp bei Kasse",
@@ -406,11 +412,11 @@
       "image_title": "Fragen Sie ZEIT ONLINE: Haben Sie ein Thema verpasst?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Vorgezogene Neuwahlen : Van Aken und Reichinnek treten für die Linke als Spitzenkandidaten an",
-      "teaser": "Die Linke hofft auf die Zugkraft eines neuen Spitzenduos bei den Neuwahlen. Im Wahlkampf gehe es der Partei vor allem um eines: \"Wir hier unten gegen die da oben.\"",
-      "url": "https://www.zeit.de/politik/deutschland/2024-11/linke-spitzenkandidaten-van-aken-reichinnek",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-11/ampel-aus-regierungskrise-ampelkoalition-liveblog-bild-8/wide__892x501",
-      "image_title": "Vorgezogene Neuwahlen: Heidi Reichinek (Die Linke), Spitzenkandidatin der Bundestagswahl, und Jan van Aken (Die Linke), Spitzenkandidat der Bundestagswahl, nehmen an der Bekanntgabe der Spitzenkandidaturen der Partei Die Linke zur kommenden Bundestagswahl im Karl-Liebknecht-Haus teil. Service +++ dpa-Bildfunk +++ Aufnahmedatum 10.11.2024 Bildnachweis picture alliance/dpa | Fabian Sommer"
+      "title": "Z+ (abopflichtiger Inhalt); Ende der Ampelkoalition : Habeck will Sondervermögen für Bundeswehr noch vor Neuwahl beschließen",
+      "teaser": "Robert Habeck befürchtet, AfD und BSW könnten Mehrausgaben für die Bundeswehr blockieren. In einem neuen Bundestag könnten die Parteien eine Sperrminorität erreichen.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-11/habeck-bundeswehr-sondervermoegen-vor-neuwahlen",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-11/ampel-aus-regierungskrise-ampelkoalition-liveblog-bild-10/wide__892x501",
+      "image_title": "Ende der Ampelkoalition: A German flag is pictured on the uniform of a crew member of the Berlin-class replenishing ship A 1412 Frankfurt am Main of the German Navy (Bundesmarine) before the vessel leaves its home port Wilhelmshaven, Germany, for the Indo-Pacific Deployment on May 07, 2024. The vessel is one of the largest ships of the German armed forces. (Photo by FOCKE STRANGMANN / AFP) (Photo by FOCKE STRANGMANN/AFP via Getty Images)"
     },
     {
       "title": "Verlagsangebot : 5 Text-Tricks, die Ihr innerer Kritiker Ihnen nicht zeigen will",
@@ -420,11 +426,11 @@
       "image_title": "5 Text-Tricks, die Ihr innerer Kritiker Ihnen nicht zeigen will"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Klimaschutzkonferenz in Baku : Schulze trotz Trump-Wahl optimistisch für Kampf gegen Klimawandel",
-      "teaser": "Bundesentwicklungsministerin Svenja Schulze sagt vor dem UN-Klimagipfel in Baku, Trumps Anti-Klima-Kurs werde die Welt zusammenschweißen.",
-      "url": "https://www.zeit.de/politik/ausland/2024-11/cop29-schulze-trump",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-11/cop29-schulze-trump-bild/super__430x286",
-      "image_title": "Klimaschutzkonferenz in Baku: Die deutsche Ministerin für wirtschaftliche Zusammenarbeit und Entwicklung Svenja Schulze spricht während der Sitzung „The Framework for Lasting Recovery“ am ersten Tag der Ukraine Recovery Conference im InterContinental London 02 am 21. Juni 2023 in London, England."
+      "title": "Z+ (abopflichtiger Inhalt); Vorgezogene Neuwahlen : Van Aken und Reichinnek treten für die Linke als Spitzenkandidaten an",
+      "teaser": "Die Linke hofft auf die Zugkraft eines neuen Spitzenduos bei den Neuwahlen. Im Wahlkampf gehe es der Partei vor allem um eines: \"Wir hier unten gegen die da oben.\"",
+      "url": "https://www.zeit.de/politik/deutschland/2024-11/linke-spitzenkandidaten-van-aken-reichinnek",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-11/ampel-aus-regierungskrise-ampelkoalition-liveblog-bild-8/super__430x286",
+      "image_title": "Vorgezogene Neuwahlen: Heidi Reichinek (Die Linke), Spitzenkandidatin der Bundestagswahl, und Jan van Aken (Die Linke), Spitzenkandidat der Bundestagswahl, nehmen an der Bekanntgabe der Spitzenkandidaturen der Partei Die Linke zur kommenden Bundestagswahl im Karl-Liebknecht-Haus teil. Service +++ dpa-Bildfunk +++ Aufnahmedatum 10.11.2024 Bildnachweis picture alliance/dpa | Fabian Sommer"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Wirtschaft in Deutschland : ZEW-Chef Wambach sieht in Wahl von Trump Chancen für deutsche Firmen",
@@ -838,11 +844,11 @@
       "image_title": "Ski Aggu: \"Am Anfang denkt jeder, er kann rappen, aber dann merkt man schnell: So easy ist es nicht.\""
     },
     {
-      "title": "Verlagsangebot : Persönlichkeit als Door Opener",
-      "teaser": "Immer mehr Unternehmen setzen bei ihren Bewerbern auf die Persönlichkeit. Auf der Suche nach einem Job stellt der Berufstest die eigenen Stärken in den Mittelpunkt.",
-      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.textbild.frau-smartphone_dooropener.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=bot_textbild_frau-smartphone_dooropener_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-boa-index-teaser-1-klein/bruce-mars-fwvmhua-wby-unsplash.jpg",
-      "image_title": "Persönlichkeit als Door Opener"
+      "title": "Verlagsangebot : Und was macht man dann damit?",
+      "teaser": "Was verbirgt sich konkret hinter den sperrigen Studiengangsbezeichnungen? Einen Einblick in mögliche Berufsfelder liefert die Suchmaschine für Studienangebote.",
+      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.kaffeepause_wasmachtmandamit.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_kaffeepause_wasmachtmandamit_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-4-klein/photo-of-women-looking-on-monitors-197.jpg",
+      "image_title": "Und was macht man dann damit?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Hochschulen : Zahl der Studiengänge steigt auf Rekordwert",
@@ -880,36 +886,36 @@
       "image_title": "Jazzclub in Hamburg: Fee Schlennstedt betreibt gemeinsam mit Robert von Bennigsen den neuen Jazzclub Nica in Hamburg. Unser Foto zeigt sie in ihren Räumlichkeiten mit Blick auf das Altersfleet."
     },
     {
-      "title": "Diplomatie: Kreml sieht positive Signale von Trump",
-      "url": "https://www.zeit.de/news/2024-11/10/kreml-sieht-positive-signale-von-trump"
+      "title": "2. Fußball-Bundesliga: Münster schockt KSC mit Last-Minute-Treffer",
+      "url": "https://www.zeit.de/news/2024-11/10/muenster-schockt-ksc-mit-last-minute-treffer"
     },
     {
-      "title": "Vorgezogene Bundestagswahl: SPD-Chef: Debatte um Wahltermin zu aufgebauscht",
-      "url": "https://www.zeit.de/news/2024-11/10/spd-chef-debatte-um-wahltermin-zu-aufgebauscht"
+      "title": "Kirchenparlament in Würzburg: EKD-Chefin Fehrs kritisiert aktuelle Asyldebatte",
+      "url": "https://www.zeit.de/news/2024-11/10/ekd-chefin-fehrs-kritisiert-aktuelle-asyldebatte"
     },
     {
-      "title": "2. Fußball-Bundesliga: Hertha verurteilt Fan-Verhalten in Zug nach Darmstadt-Spiel",
-      "url": "https://www.zeit.de/news/2024-11/10/hertha-verurteilt-fan-verhalten-in-zug-nach-darmstadt-spiel"
+      "title": "2. Fußball-Bundesliga: Elversberg düpiert Tabellenführer Hannover",
+      "url": "https://www.zeit.de/news/2024-11/10/elversberg-duepiert-tabellenfuehrer-hannover"
     },
     {
-      "title": "Dauerprotest gegen Gaza-Krieg: Pro-Palästina-Protestcamp vor Münchner Uni verschwunden",
-      "url": "https://www.zeit.de/news/2024-11/10/pro-palaestina-protestcamp-vor-muenchner-uni-verschwunden"
+      "title": "Brauchtum: Martinsfest in Thüringen mit Laternen und Gottesdiensten",
+      "url": "https://www.zeit.de/news/2024-11/10/martinsfest-in-thueringen-mit-laternen-und-gottesdiensten"
     },
     {
-      "title": "Bisher nicht identifiziert: Frau bei Küchenbrand gestorben",
-      "url": "https://www.zeit.de/news/2024-11/10/frau-bei-kuechenbrand-gestorben"
+      "title": "Börsengang: Delivery Hero bringt Nahost-Tochter im Dezember an die Börse",
+      "url": "https://www.zeit.de/news/2024-11/10/delivery-hero-bringt-nahost-tochter-im-dezember-an-die-boerse"
     },
     {
-      "title": "Unfälle: 19-Jähriger fährt betrunken mit 130 Kmh durch den Ort",
-      "url": "https://www.zeit.de/news/2024-11/10/19-jaehriger-faehrt-betrunken-mit-130-kmh-durch-den-ort"
+      "title": "2. Fußball-Bundesliga: Tabellenführer Hannover verliert klar in Elversberg",
+      "url": "https://www.zeit.de/news/2024-11/10/tabellenfuehrer-hannover-verliert-klar-in-elversberg"
     },
     {
-      "title": "Neuwahl des Bundestags: Linken-Politikerin aus Merseburg führt Partei in Wahlkampf",
-      "url": "https://www.zeit.de/news/2024-11/10/linken-politikerin-aus-merseburg-fuehrt-partei-in-wahlkampf"
+      "title": "Betrunken am Steuer: Auto brennt aus - Betrunkener Autofahrer schwer verletzt",
+      "url": "https://www.zeit.de/news/2024-11/10/auto-brennt-aus-betrunkener-autofahrer-schwer-verletzt"
     },
     {
-      "title": "Wegen des Fluglärms: Flughafenausbau - Leipziger Linke fordert Klage der Stadt",
-      "url": "https://www.zeit.de/news/2024-11/10/flughafenausbau-leipziger-linke-fordert-klage-der-stadt"
+      "title": "Starke Rauchentwicklung: Feuerwehr löscht Brand in Kieler Einfamilienhaus",
+      "url": "https://www.zeit.de/news/2024-11/10/feuerwehr-loescht-brand-in-kieler-einfamilienhaus"
     }
   ]
 }
