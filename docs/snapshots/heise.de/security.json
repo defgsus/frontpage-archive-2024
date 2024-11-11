@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-11T09:07:49",
+  "timestamp": "2024-11-11T10:08:00",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Dell Enterprise SONiC OS",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Dell-Enterprise-SONiC-fuer-mehrere-Attacken-anfaellig-10013882.html"
+    },
+    {
       "title": "Palo Alto PAN-OS",
       "url": "https://www.heise.de/news/Palo-Alto-untersucht-moegliche-Sicherheitsluecke-in-PAN-OS-Webinterface-10013896.html"
     },
@@ -44,26 +48,22 @@
       "url": "https://www.heise.de/news/CISA-warnt-vor-vier-aktiv-angegriffenen-Sicherheitsluecken-10009258.html"
     },
     {
-      "title": "HCL BigFix",
-      "url": "https://www.heise.de/news/Schadcode-Attacken-auf-Endpoint-Management-Plattform-HCL-BigFix-moeglich-10008060.html"
+      "title": "Sicherheitsupdates: Dell Enterprise SONiC für mehrere Attacken anfällig",
+      "teaser": "Angreifer können sich unbefugt Zugriff auf die Netzwerkmanagementsoftware Dell Enterprise SONiC verschaffen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Dell-Enterprise-SONiC-fuer-mehrere-Attacken-anfaellig-10013882.html",
+      "image_title": "Schild mit Schriftzug \"Time to Update\""
+    },
+    {
+      "title": "heise security Webinar: M365-Sicherheit selbst testen und verbessern",
+      "teaser": "Mit dem kostenlosen Tool ScubaGear können Firmen und Behörden ihre M365-Cloud-Dienste selbst prüfen und optimieren. Das Webinar gibt dazu den Schnelleinstieg.",
+      "url": "https://www.heise.de/news/heise-security-Webinar-M365-Sicherheit-selbst-testen-und-verbessern-10009899.html",
+      "image_title": "Microsoft-Cloud-Webinar"
     },
     {
       "title": "Palo Alto untersucht mögliche Sicherheitslücke in PAN-OS-Webinterface",
       "teaser": "Palo Alto untersucht eine angebliche Codeschmuggel-Lücke in der Verwaltungsoberfläche von PAN-OS. Ein Teil betroffener Kunden wird informiert.",
       "url": "https://www.heise.de/news/Palo-Alto-untersucht-moegliche-Sicherheitsluecke-in-PAN-OS-Webinterface-10013896.html",
       "image_title": "Laptop im Netz wird mit Lupe untersucht"
-    },
-    {
-      "title": "Windows-Update für Windows Update rüstet Nachricht zu Support-Ende nach",
-      "teaser": "Ziemlich unbemerkt hat Microsoft am Oktober-Patchday auch Windows Update aktualisiert. Es benachrichtigt unter anderem über das Support-Ende.",
-      "url": "https://www.heise.de/news/Windows-Update-fuer-Windows-Update-ruestet-Nachricht-zu-Support-Ende-nach-10013550.html",
-      "image_title": "Stilisiertes Bild: Windows/Software-Update auf Laptop"
-    },
-    {
-      "title": "Analyse und Kommentar: Sophos und der gebrochene Schwur",
-      "teaser": "Sophos hat über Jahre Überwachungssoftware auf Systemen seiner Kunden installiert – natürlich im Namen der Sicherheit. Jürgen Schmidt sieht das kritisch.",
-      "url": "https://www.heise.de/meinung/Analyse-und-Kommentar-Sophos-und-der-gebrochene-Schwur-10010073.html",
-      "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
     },
     {
       "title": "Dresden: Admin hat im großen Stil Daten von Wahlberechtigten abgezogen",
@@ -91,6 +91,11 @@
       "title": "Backup-Appliance PowerProtect DD von Dell als Einfallstor für Angreifer",
       "teaser": "Die Entwickler von Dell haben in aktuellen Versionen von PowerProtect DD mehrere Sicherheitslücken geschlossen.",
       "url": "https://www.heise.de/news/Backup-Appliance-PowerProtect-DD-von-Dell-als-Einfallstor-fuer-Angreifer-10009562.html"
+    },
+    {
+      "title": "CISA warnt vor vier aktiv angegriffenen Sicherheitslücken",
+      "teaser": "Die US-amerikanische IT-Sicherheitsbehörde CISA warnt davor, dass Angreifer vier Sicherheitslücken missbrauchen. Admins sollten handeln.",
+      "url": "https://www.heise.de/news/CISA-warnt-vor-vier-aktiv-angegriffenen-Sicherheitsluecken-10009258.html"
     },
     {
       "title": "Kanadas Regierung lässt Tiktoks Büros schließen",
@@ -135,6 +140,12 @@
       "image_title": "Paragraphen-Symbol"
     },
     {
+      "title": "Cybergang fordert nach Datenklau bei Schneider Electric Baguettes",
+      "teaser": "Die kriminelle Vereinigung Hellcat gibt an, bei Schneider Electric in die IT eingebrochen zu sein. Sie fordert Lösegeld zum Löschen erbeuteter Daten.",
+      "url": "https://www.heise.de/news/Cybergang-fordert-nach-Datenklau-bei-Schneider-Electric-Baguettes-10006419.html",
+      "image_title": "Baguettes frisch aus dem Ofen"
+    },
+    {
       "title": "Angreifer nutzen emulierte Linux-Umgebung als Backdoor",
       "teaser": "IT-Sicherheitsforscher haben eine ungewöhnliche Angriffsart entdeckt: Die Täter haben eine emulierte Linux-Umgebung als Backdoor eingerichtet.",
       "url": "https://www.heise.de/news/CRON-TRAP-Emulierte-Linux-Umgebung-als-Backdoor-nach-Phishing-Angriff-10005721.html",
@@ -151,18 +162,6 @@
       "teaser": "Lernen Sie an praktischen Beispielen, wie Sie Windows 11 Pro und Enterprise in Ihrem Unternehmen sicher und effektiv einsetzen.",
       "url": "https://www.heise.de/news/iX-Workshop-Sicherer-Betrieb-von-Windows-11-in-Unternehmen-9989093.html",
       "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
-    },
-    {
-      "title": "Snowflake: Vermutlicher Täter nach Datenklau bei Cloud-Anbieter verhaftet",
-      "teaser": "Der Datenklau bei Snowflake mündete etwa in 170.000 verschenkte Konzerttickets für Taylor Swift. Nun wurde ein Verdächtiger verhaftet.",
-      "url": "https://www.heise.de/news/Verdaechtiger-hinter-Datenklau-bei-Cloud-Anbieter-Snowflake-verhaftet-10005614.html",
-      "image_title": "Handschellen liegen auf einer Computertastatur"
-    },
-    {
-      "title": "iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response (DFIR)",
-      "teaser": "Lernen Sie, professionelle Incident Response Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können.",
-      "url": "https://www.heise.de/news/iX-Workshop-Nach-dem-Einbruch-Digital-Forensics-Incident-Response-DFIR-9989101.html",
-      "image_title": "iX-Workshop Digital Forensics & Incident Response"
     },
     {
       "title": "Scuba-Webinar",
