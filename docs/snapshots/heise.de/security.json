@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-12T14:07:05",
+  "timestamp": "2024-11-12T15:07:13",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Icinga",
+      "url": "https://www.heise.de/news/Monitoring-Software-Icinga-Updates-schliessen-kritische-Sicherheitsluecke-10028791.html"
+    },
+    {
       "title": "Dell Networking OS10",
       "url": "https://www.heise.de/news/Dell-SmartFabric-OS10-Angreifer-koennen-Schadcode-ausfuehren-10021085.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Veeam-Backup-Enterprise-Manager-Unbefugte-Zugriffe-durch-Angreifer-moeglich-10018234.html"
     },
     {
-      "title": "Dell Enterprise SONiC OS",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Dell-Enterprise-SONiC-fuer-mehrere-Attacken-anfaellig-10013882.html"
+      "title": "Monitoring-Software Icinga: Updates schließen kritische Sicherheitslücke",
+      "teaser": "In Monitoring-Software Icinga klafft eine kritische Sicherheitslücke bei der Zertifikatsüberprüfung. Updates stehen bereit, um sie zu stopfen.",
+      "url": "https://www.heise.de/news/Monitoring-Software-Icinga-Updates-schliessen-kritische-Sicherheitsluecke-10028791.html",
+      "image_title": "IT-Verwalter sitzt vorm Server und überwacht die Performance"
     },
     {
       "title": "Software-Anbieter aufgepasst: Sie haften jetzt für fehlerhafte Produkte",
@@ -156,12 +162,6 @@
       "teaser": "Das FBI Atlanta warnt, dass Cyberkriminelle auf Diebstahl von Session Cookies setzen, um Internetkonten zu kapern. Ein neuer Webstandard soll Abhilfe schaffen.",
       "url": "https://www.heise.de/news/FBI-Behoerde-spricht-Warnung-vor-Session-Cookie-Diebstahl-aus-10007819.html",
       "image_title": "Laptop installiert vor Servern, die verschlüsselt sind, davor ein Einbrecher, der Daten aus Google Chrome angelt"
-    },
-    {
-      "title": "Cisco: Sicherheitslücken in zahlreichen Produkten",
-      "teaser": "Cisco hat für unterschiedliche Produkte Sicherheitsmitteilungen veröffentlicht. Sie behandeln auch eine kritische Schwachstelle.",
-      "url": "https://www.heise.de/news/Cisco-Sicherheitsluecken-in-zahlreichen-Produkten-10007598.html",
-      "image_title": "Stilisiertes Bild: Ein Stapel brennender Cisco-Appliances"
     },
     {
       "title": "Scuba-Webinar",

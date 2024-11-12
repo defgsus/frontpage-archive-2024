@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-12T14:07:01",
+  "timestamp": "2024-11-12T15:07:10",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,16 +26,28 @@
   ],
   "articles": [
     {
+      "title": "Apple iPad mini 2024 im Test: Fit für die KI-Zukunft",
+      "teaser": "Apple hat das iPad mini renoviert und bereit für seine Künstliche Intelligenz gemacht. Was sich sonst noch geändert hat, zeigt unser Test.",
+      "url": "https://www.heise.de/tests/Apple-iPad-mini-2024-im-Test-Fit-fuer-die-KI-Zukunft-10028729.html",
+      "image_title": "Das iPad mini 7 mit Apple Pencil Pro"
+    },
+    {
       "title": "Messdaten sammeln und auswerten per MQTT, Node-Red, Influx, Grafana",
       "teaser": "Wir zeigen, mit welchen Komponenten Sie Daten von Kleingeräten mit Mikrocontrollern einsammeln, langfristig aufbewahren und auswerten.",
       "url": "https://www.heise.de/hintergrund/Messdaten-sammeln-und-auswerten-per-MQTT-Node-Red-Influx-Grafana-10003084.html",
       "image_title": ","
     },
     {
-      "title": "Entwicklungswerkzeuge für ESP & Co. vorgestellt",
-      "teaser": "Den Einstieg erleichtern passende Werkzeuge. Dieser Artikel stellt einige vor, beleuchtet aber auch deren Umfeld und wirft einen Blick auf Programmiermethoden.",
-      "url": "https://www.heise.de/hintergrund/Entwicklungswerkzeuge-fuer-ESP-Co-vorgestellt-10001494.html",
-      "image_title": ","
+      "title": "Monitoring-Software Icinga: Updates schließen kritische Sicherheitslücke",
+      "teaser": "In Monitoring-Software Icinga klafft eine kritische Sicherheitslücke bei der Zertifikatsüberprüfung. Updates stehen bereit, um sie zu stopfen.",
+      "url": "https://www.heise.de/news/Monitoring-Software-Icinga-Updates-schliessen-kritische-Sicherheitsluecke-10028791.html",
+      "image_title": "IT-Verwalter sitzt vorm Server und überwacht die Performance"
+    },
+    {
+      "title": "Huawei MED: Archivspeicher ohne Festplatten",
+      "teaser": "Im Frühjahr hatte Huawei ein besonders energiesparendes Archiv-Laufwerk vorgestellt, sich zur Technik jedoch ausgeschwiegen. Nun gibt es erste Informationen.",
+      "url": "https://www.heise.de/news/Huaweis-Magneto-Electric-Disk-MED-ist-ein-Zwitter-10028937.html",
+      "image_title": "Huawei-Logo und Schriftzug stehen in 3D auf einem Trottoir"
     },
     {
       "title": "EU-Verbraucherschützer: Apple muss Geoblocking in App Store & Co aufgeben",
@@ -67,13 +79,19 @@
       "url": "https://www.heise.de/news/PHPStan-2-0-Strengere-Typpruefungen-und-neues-Analyse-Level-10022731.html"
     },
     {
+      "title": "Entwicklungswerkzeuge für ESP & Co. vorgestellt",
+      "teaser": "Den Einstieg erleichtern passende Werkzeuge. Dieser Artikel stellt einige vor, beleuchtet aber auch deren Umfeld und wirft einen Blick auf Programmiermethoden.",
+      "url": "https://www.heise.de/hintergrund/Entwicklungswerkzeuge-fuer-ESP-Co-vorgestellt-10001494.html",
+      "image_title": ","
+    },
+    {
       "title": "MOVEit Transfer: Gestohlene Daten von Amazon und Co. stehen zum Verkauf",
       "teaser": "Mittels MOVEit-Transfer-Leck gestohlene Angestelltendaten von großen Unternehmen wie Amazon, HP, HSBC und weiteren stehen im digitalen Untergrund zum Verkauf.",
       "url": "https://www.heise.de/news/MOVEit-Transfer-Gestohlene-Daten-von-Amazon-und-Co-stehen-zum-Verkauf-10022659.html",
       "image_title": "Computer vor Serverschränken, auf dem Dataleak steht, drumherum lungern Datendiebe"
     },
     {
-      "title": "M4 sei dank: Apple bringt alle Macs endlich wieder auf Linie",
+      "title": "M4 sei Dank: Apple bringt alle Macs endlich wieder auf Linie",
       "teaser": "Bis zum kommenden Sommer könnten alle aktuellen Macs mit M4-Prozessoren ausgestattet sein. Momentan fehlen nur noch drei Produktreihen.",
       "url": "https://www.heise.de/news/Erstmals-seit-langem-Bald-alle-Macs-auf-einem-SoC-Stand-10014338.html",
       "image_title": "Mac-Baureihen in der Übersicht"
@@ -107,23 +125,6 @@
       "teaser": "So migrieren Sie Ihren Exchange Server 2016 oder 2019 zu Exchange Online – eine Schritt-für-Schritt-Anleitung.",
       "url": "https://www.heise.de/news/iX-Workshop-Exchange-Migration-von-Exchange-OnPrem-zu-Exchange-Online-10015244.html",
       "image_title": "iX-Workshop Sichere Nutzung der Public Cloud"
-    },
-    {
-      "title": "Elektronische Patientenakte: Was sie Patienten und Ärzte bringt",
-      "teaser": "2025 fällt der Startschuss: Die elektronische Patientenakte kommt für alle gesetzlich Versicherten. Sie soll der One-Stop-Shop für Gesundheitsdaten werden.",
-      "url": "https://www.heise.de/hintergrund/Elektronische-Patientenakte-Was-sie-Patienten-und-Aerzte-bringt-10014645.html"
-    },
-    {
-      "title": "Paketbotenbeschleuniger: Amazons smarte Brille soll Sekunden sparen",
-      "teaser": "Smarte Brillen sollen die Zustellung von Amazon-Paketen künftig beschleunigen, berichtet Reuters. Bei der Entwicklung gibt es noch Hürden.",
-      "url": "https://www.heise.de/news/Amazon-Smarte-Brille-fuer-Zusteller-soll-wertvolle-Sekunden-sparen-10020223.html",
-      "image_title": "Paket mit Amazon-Schriftzug"
-    },
-    {
-      "title": "SAP Patchday: Acht neue Sicherheitslücken, davon eine hochriskant",
-      "teaser": "Admins können etwas entspannter auf den aktuellen SAP-Patchday schauen: Von acht neuen Sicherheitslücken gilt lediglich eine als hohes Risiko.",
-      "url": "https://www.heise.de/news/SAP-Patchday-Acht-neue-Sicherheitsluecken-davon-eine-hochriskant-10020168.html",
-      "image_title": "Stilisiertes Bild: Laptop mit SAP-Logo brennt, vor Serverracks"
     },
     {
       "title": "Die neusten Ergebnisse für dieses Jahr",
