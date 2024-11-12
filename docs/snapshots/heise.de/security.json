@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-12T08:10:04",
+  "timestamp": "2024-11-12T09:00:43",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Patchday SAP",
+      "url": "https://www.heise.de/news/SAP-Patchday-Acht-neue-Sicherheitsluecken-davon-eine-hochriskant-10020168.html"
+    },
+    {
       "title": "Veeam Backup Enterprise Manager",
       "url": "https://www.heise.de/news/Veeam-Backup-Enterprise-Manager-Unbefugte-Zugriffe-durch-Angreifer-moeglich-10018234.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Palo-Alto-untersucht-moegliche-Sicherheitsluecke-in-PAN-OS-Webinterface-10013896.html"
     },
     {
-      "title": "Dell PowerProtect DD",
-      "url": "https://www.heise.de/news/Backup-Appliance-PowerProtect-DD-von-Dell-als-Einfallstor-fuer-Angreifer-10009562.html"
+      "title": "SAP Patchday: Acht neue Sicherheitslücken, davon eine hochriskant",
+      "teaser": "Admins können etwas entspannter auf den aktuellen SAP-Patchday schauen: Von acht neuen Sicherheitslücken gilt lediglich eine als hohes Risiko.",
+      "url": "https://www.heise.de/news/SAP-Patchday-Acht-neue-Sicherheitsluecken-davon-eine-hochriskant-10020168.html",
+      "image_title": "Stilisiertes Bild: Laptop mit SAP-Logo brennt, vor Serverracks"
     },
     {
       "title": "Veeam Backup Enterprise Manager: Unbefugte Zugriffe durch Angreifer möglich",
@@ -155,12 +161,6 @@
       "teaser": "Die kriminelle Vereinigung Hellcat gibt an, bei Schneider Electric in die IT eingebrochen zu sein. Sie fordert Lösegeld zum Löschen erbeuteter Daten.",
       "url": "https://www.heise.de/news/Cybergang-fordert-nach-Datenklau-bei-Schneider-Electric-Baguettes-10006419.html",
       "image_title": "Baguettes frisch aus dem Ofen"
-    },
-    {
-      "title": "Angreifer nutzen emulierte Linux-Umgebung als Backdoor",
-      "teaser": "IT-Sicherheitsforscher haben eine ungewöhnliche Angriffsart entdeckt: Die Täter haben eine emulierte Linux-Umgebung als Backdoor eingerichtet.",
-      "url": "https://www.heise.de/news/CRON-TRAP-Emulierte-Linux-Umgebung-als-Backdoor-nach-Phishing-Angriff-10005721.html",
-      "image_title": "Viren tarnen sich mit Hüten und Sonnenbrillen"
     },
     {
       "title": "Scuba-Webinar",
