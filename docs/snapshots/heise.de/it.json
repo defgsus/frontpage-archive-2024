@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-12T13:15:40",
+  "timestamp": "2024-11-12T14:07:01",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,16 +26,34 @@
   ],
   "articles": [
     {
+      "title": "Messdaten sammeln und auswerten per MQTT, Node-Red, Influx, Grafana",
+      "teaser": "Wir zeigen, mit welchen Komponenten Sie Daten von Kleingeräten mit Mikrocontrollern einsammeln, langfristig aufbewahren und auswerten.",
+      "url": "https://www.heise.de/hintergrund/Messdaten-sammeln-und-auswerten-per-MQTT-Node-Red-Influx-Grafana-10003084.html",
+      "image_title": ","
+    },
+    {
       "title": "Entwicklungswerkzeuge für ESP & Co. vorgestellt",
       "teaser": "Den Einstieg erleichtern passende Werkzeuge. Dieser Artikel stellt einige vor, beleuchtet aber auch deren Umfeld und wirft einen Blick auf Programmiermethoden.",
       "url": "https://www.heise.de/hintergrund/Entwicklungswerkzeuge-fuer-ESP-Co-vorgestellt-10001494.html",
       "image_title": ","
     },
     {
-      "title": "Smartes Türschloss im Test: Nuki Smart Lock Ultra mit schnellem Motor",
-      "teaser": "Das Motorschloss soll im \"Insane\"-Modus eine Tür so flott wie von Hand ver- und entriegeln. Das Ergebnis ist bequem, aber der Montageaufwand ungewöhnlich hoch.",
-      "url": "https://www.heise.de/tests/Smartes-Tuerschloss-im-Test-Nuki-Smart-Lock-Ultra-mit-schnellem-Motor-10017254.html",
-      "image_title": ","
+      "title": "EU-Verbraucherschützer: Apple muss Geoblocking in App Store & Co aufgeben",
+      "teaser": "App Store und Apples Streaming-Dienste setzen auf verbotenes Geoblocking in der EU, so die Regulierer. Der Konzern müsse seine Praktiken ändern.",
+      "url": "https://www.heise.de/news/EU-Verbraucherschuetzer-Apple-muss-Geoblocking-in-App-Store-Co-aufgeben-10028795.html",
+      "image_title": "Der App Store auf dem iPhone"
+    },
+    {
+      "title": "Google Learn About: Was den KI-Lehrer vom Chatbot unterscheidet",
+      "teaser": "Ausgewählte Nutzer in den USA können Googles Lern-KI \"Learn About\" schon ausprobieren. Sie erinnert in ihren Antworten an ein Schulbuch.",
+      "url": "https://www.heise.de/news/Google-Learn-About-Was-den-KI-Lehrer-vom-Chatbot-unterscheidet-10028779.html",
+      "image_title": "Googles KI-Modell LearnLM"
+    },
+    {
+      "title": "Europol warnt vor Rekrutierung Minderjähriger durch organisiertes Verbrechen",
+      "teaser": "Etwa in sozialen Medien rekrutieren Netzwerke des organisierten Verbrechens Minderjährige. Europol beobachtet eine Ausweitung der Taktik.",
+      "url": "https://www.heise.de/news/Europol-warnt-vor-Rekrutierung-Minderjaehriger-durch-organisiertes-Verbrechen-10027088.html",
+      "image_title": "Jugendlicher vor einem Computer, mit Geld und Aktentaschen und zwei maskierten Kriminellen mit Waffen dahinter"
     },
     {
       "title": "betterCode() .NET 9.0: Jetzt noch Tickets sichern für die Online-Konferenz",
@@ -79,6 +97,12 @@
       "image_title": "Wölfe auf Bildschirm"
     },
     {
+      "title": "Smartes Türschloss im Test: Nuki Smart Lock Ultra mit schnellem Motor",
+      "teaser": "Das Motorschloss soll im \"Insane\"-Modus eine Tür so flott wie von Hand ver- und entriegeln. Das Ergebnis ist bequem, aber der Montageaufwand ungewöhnlich hoch.",
+      "url": "https://www.heise.de/tests/Smartes-Tuerschloss-im-Test-Nuki-Smart-Lock-Ultra-mit-schnellem-Motor-10017254.html",
+      "image_title": ","
+    },
+    {
       "title": "iX-Workshop: Exchange Migration – von Exchange OnPrem zu Exchange Online",
       "teaser": "So migrieren Sie Ihren Exchange Server 2016 oder 2019 zu Exchange Online – eine Schritt-für-Schritt-Anleitung.",
       "url": "https://www.heise.de/news/iX-Workshop-Exchange-Migration-von-Exchange-OnPrem-zu-Exchange-Online-10015244.html",
@@ -100,28 +124,6 @@
       "teaser": "Admins können etwas entspannter auf den aktuellen SAP-Patchday schauen: Von acht neuen Sicherheitslücken gilt lediglich eine als hohes Risiko.",
       "url": "https://www.heise.de/news/SAP-Patchday-Acht-neue-Sicherheitsluecken-davon-eine-hochriskant-10020168.html",
       "image_title": "Stilisiertes Bild: Laptop mit SAP-Logo brennt, vor Serverracks"
-    },
-    {
-      "title": "Analyse: AMD und Intel können ihre Bananen behalten",
-      "teaser": "AMD und Intel liefern sich ein Rennen um Marketing für den schnellsten Spiele-Prozessor. Das kann so nicht funktionieren und produziert Bananenware.",
-      "url": "https://www.heise.de/meinung/Analyse-AMD-und-Intel-koennen-ihre-Bananen-behalten-10019804.html"
-    },
-    {
-      "title": "Podcast Software Testing: Daten und Datenprozesse testen",
-      "teaser": "In der Folge spricht Richard Seidl mit Hermann Friebel und Joshua Classen über die Bedeutung von Testdaten und deren Generierung.",
-      "url": "https://www.heise.de/blog/Podcast-Software-Testing-Daten-und-Datenprozesse-testen-10004713.html",
-      "image_title": "Podcast Software Testing: Daten und Datenprozesse testen mit Hermann Friebel und Joshua Classen"
-    },
-    {
-      "title": "Effizienter arbeiten mit Microsoft Copilot auf Mac und Windows",
-      "teaser": "KI erscheint vielen sehr komplex. Doch tatsächlich gibt es Angebote und Apps, die einen leichten Zugang ermöglichen. So arbeiten Sie mit Microsofts Copilot.",
-      "url": "https://www.heise.de/ratgeber/Effizienter-arbeiten-mit-Microsoft-Copilot-auf-Mac-und-Windows-10014362.html",
-      "image_title": ", Ki generiert mit Midjourney von Madlen Grunert, Mac & i"
-    },
-    {
-      "title": "Kubernetes-Sicherheit meistern: Angriffe verhindern, Cluster effektiv schützen",
-      "teaser": "Verschlüsselung, Auditing, Sandboxing: In diesem Classroom lernen Sie in fünf Sessions, wie Sie Ihre Cluster effektiv vor Angriffen schützen.",
-      "url": "https://www.heise.de/news/Kubernetes-Sicherheit-meistern-Angriffe-verhindern-Cluster-effektiv-schuetzen-10003234.html"
     },
     {
       "title": "Die neusten Ergebnisse für dieses Jahr",
