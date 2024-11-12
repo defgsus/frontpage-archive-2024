@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-12T09:00:43",
+  "timestamp": "2024-11-12T10:07:40",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Dell Networking OS10",
+      "url": "https://www.heise.de/news/Dell-SmartFabric-OS10-Angreifer-koennen-Schadcode-ausfuehren-10021085.html"
+    },
+    {
       "title": "Patchday SAP",
       "url": "https://www.heise.de/news/SAP-Patchday-Acht-neue-Sicherheitsluecken-davon-eine-hochriskant-10020168.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Dell-Enterprise-SONiC-fuer-mehrere-Attacken-anfaellig-10013882.html"
     },
     {
-      "title": "Palo Alto PAN-OS",
-      "url": "https://www.heise.de/news/Palo-Alto-untersucht-moegliche-Sicherheitsluecke-in-PAN-OS-Webinterface-10013896.html"
+      "title": "Dell SmartFabric OS10: Angreifer können Schadcode ausführen",
+      "teaser": "Dells Netzwerkbetriebssystem SmartFabric OS10 ist verwundbar. Angreifer können an mehreren Softwareschwachstellen ansetzen.",
+      "url": "https://www.heise.de/news/Dell-SmartFabric-OS10-Angreifer-koennen-Schadcode-ausfuehren-10021085.html",
+      "image_title": "Server, die am Netz hängen und angegriffen werden"
     },
     {
       "title": "SAP Patchday: Acht neue Sicherheitslücken, davon eine hochriskant",
@@ -157,12 +163,6 @@
       "image_title": "Paragraphen-Symbol"
     },
     {
-      "title": "Cybergang fordert nach Datenklau bei Schneider Electric Baguettes",
-      "teaser": "Die kriminelle Vereinigung Hellcat gibt an, bei Schneider Electric in die IT eingebrochen zu sein. Sie fordert Lösegeld zum Löschen erbeuteter Daten.",
-      "url": "https://www.heise.de/news/Cybergang-fordert-nach-Datenklau-bei-Schneider-Electric-Baguettes-10006419.html",
-      "image_title": "Baguettes frisch aus dem Ofen"
-    },
-    {
       "title": "Scuba-Webinar",
       "teaser": "Lernen Sie Lücken und Fehler mit SCUBA selbst zu finden und zu beheben. Das Webinar erklärt das Konzept und die Funktionsweise des Tools, um die Sicherheit seines M365-Tenants zu verbessern.",
       "url": "https://heise-academy.de/webinare/microsoft_cloud_security?wt_mc=intern.academy.security.web_scuba2.hs_teaser.teaser.teaser"
@@ -185,6 +185,11 @@
       "url": "https://www.heise.de/meinung/Kommentar-zu-Modern-Solution-Wer-gemeinnuetzig-handelt-wird-bestraft-10010193.html"
     },
     {
+      "title": "Fehlermeldung withsecure",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Fehlermeldung-withsecure/posting-44610192/show/"
+    },
+    {
       "title": "withsecure scanner läuft seit drei Tagen - kann das sein?",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/withsecure-scanner-laeuft-seit-drei-Tagen-kann-das-sein/posting-44606581/show/"
@@ -193,11 +198,6 @@
       "title": "Re: Nur eset funktioniert",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Nur-eset-funktioniert/posting-44603044/show/"
-    },
-    {
-      "title": "Re: desinfect2usb.exe - Alternativen",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-desinfect2usb-exe-Alternativen/posting-44601633/show/"
     }
   ]
 }
