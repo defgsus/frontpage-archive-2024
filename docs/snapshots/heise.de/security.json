@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-13T12:13:02",
+  "timestamp": "2024-11-13T13:15:26",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "FortiOS, FortiAnalyzer und FortiClient",
+      "url": "https://www.heise.de/news/Fortinet-sichert-FortiOS-FortiAnalyzer-und-FortiClient-ab-10031976.html"
+    },
+    {
       "title": "Ivanti Endpoint Manager, Avalanche, VPN- und NAC-Software",
       "url": "https://www.heise.de/news/Ivanti-patcht-Endpoint-Manager-Avalanche-VPN-und-NAC-Software-10030118.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Patchday-Microsoft-Internet-Explorer-Komponente-ermoeglicht-Attacken-10029614.html"
     },
     {
-      "title": "Citrix Netscaler ADC, Gateway und Session Recording",
-      "url": "https://www.heise.de/news/Citrix-stopft-Sicherheitslecks-in-Netscaler-ADC-und-Gateway-und-weitere-10029622.html"
+      "title": "Fortinet sichert FortiOS, FortiAnalyzer und FortiClient ab",
+      "teaser": "Sicherheitslücken in FortiClient für Windows, FortiAnalyzer und FortiOS machen die Systeme anfällig für Angriffe. Updates stehen bereit.",
+      "url": "https://www.heise.de/news/Fortinet-sichert-FortiOS-FortiAnalyzer-und-FortiClient-ab-10031976.html",
+      "image_title": "Stilisierte Grafik: Brennende Appliances im Netz"
+    },
+    {
+      "title": "IT-Security-Konferenz secIT im März 2025 hilft Admins",
+      "teaser": "IT-Systeme effektiv vor Cyberattacken schützen: Die redaktionell kuratierten Inhalte der secIT 2025 punkten mit hilfreichem Fachwissen, verständlich vermittelt.",
+      "url": "https://www.heise.de/news/IT-Security-Konferenz-secIT-im-Maerz-2025-hilft-Admins-10021089.html"
     },
     {
       "title": "iX-Workshop: Rechtskonform – IT-Produkte nach EU-Recht prüfen und zertifizieren",
@@ -155,18 +166,6 @@
       "image_title": "Microsoft-Cloud-Webinar"
     },
     {
-      "title": "Palo Alto untersucht mögliche Sicherheitslücke in PAN-OS-Webinterface",
-      "teaser": "Palo Alto untersucht eine angebliche Codeschmuggel-Lücke in der Verwaltungsoberfläche von PAN-OS. Ein Teil betroffener Kunden wird informiert.",
-      "url": "https://www.heise.de/news/Palo-Alto-untersucht-moegliche-Sicherheitsluecke-in-PAN-OS-Webinterface-10013896.html",
-      "image_title": "Laptop im Netz wird mit Lupe untersucht"
-    },
-    {
-      "title": "Windows-Update für Windows Update rüstet Nachricht zu Support-Ende nach",
-      "teaser": "Ziemlich unbemerkt hat Microsoft am Oktober-Patchday auch Windows Update aktualisiert. Es benachrichtigt unter anderem über das Support-Ende.",
-      "url": "https://www.heise.de/news/Windows-Update-fuer-Windows-Update-ruestet-Nachricht-zu-Support-Ende-nach-10013550.html",
-      "image_title": "Stilisiertes Bild: Windows/Software-Update auf Laptop"
-    },
-    {
       "title": "Scuba-Webinar",
       "teaser": "Lernen Sie Lücken und Fehler mit SCUBA selbst zu finden und zu beheben. Das Webinar erklärt das Konzept und die Funktionsweise des Tools, um die Sicherheit seines M365-Tenants zu verbessern.",
       "url": "https://heise-academy.de/webinare/microsoft_cloud_security?wt_mc=intern.academy.security.web_scuba2.hs_teaser.teaser.teaser"
@@ -192,7 +191,7 @@
     {
       "title": "Re: Fehlermeldung withsecure fsanalyze",
       "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Fehlermeldung-withsecure-fsanalyze/posting-44614718/show/"
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Fehlermeldung-withsecure-fsanalyze/posting-44615307/show/"
     },
     {
       "title": "Re: Alter Trick: Offline-Virenscan",
