@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-13T09:07:29",
+  "timestamp": "2024-11-13T10:00:45",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.5196703a19896f7d6bae",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.344f08dd5a7ac3e81f4e",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Patchday Adobe",
+      "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Attacken-auf-After-Effects-Co-moeglich-10029714.html"
+    },
     {
       "title": "Patchday Microsoft",
       "url": "https://www.heise.de/news/Patchday-Microsoft-Internet-Explorer-Komponente-ermoeglicht-Attacken-10029614.html"
@@ -42,16 +46,6 @@
     {
       "title": "Icinga",
       "url": "https://www.heise.de/news/Monitoring-Software-Icinga-Updates-schliessen-kritische-Sicherheitsluecke-10028791.html"
-    },
-    {
-      "title": "Dell Networking OS10",
-      "url": "https://www.heise.de/news/Dell-SmartFabric-OS10-Angreifer-koennen-Schadcode-ausfuehren-10021085.html"
-    },
-    {
-      "title": "Patchday Microsoft: Internet-Explorer-Komponente ermöglicht Attacken",
-      "teaser": "Microsoft hat wichtige Sicherheitspatches für unter anderem Azure, Exchange Server und Windows veröffentlicht. Es gibt bereits Angriffe.",
-      "url": "https://www.heise.de/news/Patchday-Microsoft-Internet-Explorer-Komponente-ermoeglicht-Attacken-10029614.html",
-      "image_title": "Windows-Logo mit Flecken und der Aufschrift \"Patchday\""
     },
     {
       "title": "Citrix stopft Sicherheitslecks in Netscaler ADC und Gateway und weitere",
@@ -114,6 +108,11 @@
       "image_title": "Stilisiertes Bild: Laptop mit SAP-Logo brennt, vor Serverracks"
     },
     {
+      "title": "Veeam Backup Enterprise Manager: Unbefugte Zugriffe durch Angreifer möglich",
+      "teaser": "Ein wichtiges Sicherheitsupdate schützt Veeam Backup Enterprise Manager vor möglichen Attacken.",
+      "url": "https://www.heise.de/news/Veeam-Backup-Enterprise-Manager-Unbefugte-Zugriffe-durch-Angreifer-moeglich-10018234.html"
+    },
+    {
       "title": "iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
       "teaser": "Lernen Sie, wie Sie Angriffe auf das Active Directory Ihres Unternehmens sicher erkennen und effektiv verhindern können.",
       "url": "https://www.heise.de/news/iX-Workshop-Lokales-Active-Directory-gegen-Angriffe-absichern-9989127.html",
@@ -124,6 +123,12 @@
       "teaser": "Angreifer können sich unbefugt Zugriff auf die Netzwerkmanagementsoftware Dell Enterprise SONiC verschaffen.",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Dell-Enterprise-SONiC-fuer-mehrere-Attacken-anfaellig-10013882.html",
       "image_title": "Schild mit Schriftzug \"Time to Update\""
+    },
+    {
+      "title": "heise security Webinar: M365-Sicherheit selbst testen und verbessern",
+      "teaser": "Mit dem kostenlosen Tool ScubaGear können Firmen und Behörden ihre M365-Cloud-Dienste selbst prüfen und optimieren. Das Webinar gibt dazu den Schnelleinstieg.",
+      "url": "https://www.heise.de/news/heise-security-Webinar-M365-Sicherheit-selbst-testen-und-verbessern-10009899.html",
+      "image_title": "Microsoft-Cloud-Webinar"
     },
     {
       "title": "Palo Alto untersucht mögliche Sicherheitslücke in PAN-OS-Webinterface",
@@ -159,11 +164,6 @@
       "teaser": "Aufgrund einer im Oktober bei Cloudflare aktivierten Option können Netz-Zensoren nun noch schlechter in verschlüsselten Web-Traffic hineinschauen.",
       "url": "https://www.heise.de/news/Blockade-durch-Zensurbehoerde-Russland-zensiert-Cloudflare-Websites-10010100.html",
       "image_title": "Stempel mit der Aufschrift censored"
-    },
-    {
-      "title": "Kommentar zu Modern Solution: Wer gemeinnützig handelt, wird bestraft",
-      "teaser": "Ein Programmierer wird für das Aufdecken einer Sicherheitslücke bestraft. Prozessbeobachter Fabian Scherschel hält diese Entscheidung für katastrophal.​",
-      "url": "https://www.heise.de/meinung/Kommentar-zu-Modern-Solution-Wer-gemeinnuetzig-handelt-wird-bestraft-10010193.html"
     },
     {
       "title": "Scuba-Webinar",
