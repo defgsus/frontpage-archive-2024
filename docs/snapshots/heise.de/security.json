@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-13T10:00:45",
+  "timestamp": "2024-11-13T11:00:53",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Ivanti Endpoint Manager, Avalanche, VPN- und NAC-Software",
+      "url": "https://www.heise.de/news/Ivanti-patcht-Endpoint-Manager-Avalanche-VPN-und-NAC-Software-10030118.html"
+    },
+    {
       "title": "Patchday Adobe",
       "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Attacken-auf-After-Effects-Co-moeglich-10029714.html"
     },
@@ -44,8 +48,22 @@
       "url": "https://www.heise.de/news/Citrix-stopft-Sicherheitslecks-in-Netscaler-ADC-und-Gateway-und-weitere-10029622.html"
     },
     {
-      "title": "Icinga",
-      "url": "https://www.heise.de/news/Monitoring-Software-Icinga-Updates-schliessen-kritische-Sicherheitsluecke-10028791.html"
+      "title": "Ivanti patcht Endpoint Manager, Avalanche, VPN- und NAC-Software",
+      "teaser": "Ivanti bessert zahlreiche, teils kritische Sicherheitslücken in diversen Produkten aus. IT-Verwantwortliche sollten aktiv werden.",
+      "url": "https://www.heise.de/news/Ivanti-patcht-Endpoint-Manager-Avalanche-VPN-und-NAC-Software-10030118.html",
+      "image_title": "Eine Appliance verbindet viele Clients mit Kabeln durch die Cloud. Sie und paar Clients brennen."
+    },
+    {
+      "title": "Stromanbieter Tibber gehackt, 50.000 deutsche Kunden betroffen",
+      "teaser": "Tibber bestätigt, dass Hacker eingedrungen sind und Kundendaten an sich gebracht haben. Im Darknet werden diese nun verkauft.",
+      "url": "https://www.heise.de/news/Stromanbieter-Tibber-gehackt-50-000-deutsche-Kunden-betroffen-10030864.html",
+      "image_title": "Screenshot von Tibber-Datenleak"
+    },
+    {
+      "title": "NIS-2 kommt näher: Staatlich weggecybert oder komplett abgesichert?",
+      "teaser": "Die Zusammenfassung des Bundestags zur NIS2 Anhörung titelt \"Expertenkritik an geplanter Umsetzung der NIS-2-Richtlinie\". Zu Recht, meint Manuel Atug.",
+      "url": "https://www.heise.de/meinung/NIS-2-kommt-naeher-Staatlich-weggecybert-oder-komplett-abgesichert-10013942.html",
+      "image_title": "Merere rote Projektionen von Sicherheitsschlössern in einer Reihe, links eine Lupe"
     },
     {
       "title": "Citrix stopft Sicherheitslecks in Netscaler ADC und Gateway und weitere",
@@ -149,26 +167,15 @@
       "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
     },
     {
-      "title": "Dresden: Admin hat im großen Stil Daten von Wahlberechtigten abgezogen",
-      "teaser": "Ermittler werfen dem Mann vor, eigene Speichermedien an die Rechner der Stadtverwaltung angeschlossen und rund 270.000 Dateien hin- und hergeschoben zu haben.",
-      "url": "https://www.heise.de/news/Dresden-Admin-hat-im-grossen-Stil-Daten-von-Wahlberechtigten-abgezogen-10013432.html"
-    },
-    {
-      "title": "Cyberkriminelle zielen mit neuartiger macOS-Malware auf Kryptofirmen",
-      "teaser": "Sicherheitsforscher vermuten nordkoreanische Angreifer hinter einer macOS-Malware-Kampagne, die auf Kryptofirmen abzielt.",
-      "url": "https://www.heise.de/news/Nordkoreanische-Kriminelle-zielen-mit-Mac-Malware-auf-Kryptofirmen-10013123.html",
-      "image_title": "Bildschirmanzeige mit \"Malware\"-Warndreieck"
-    },
-    {
-      "title": "Russische Zensurbehörde blockiert Cloudflare wegen Verschlüsselungsoption",
-      "teaser": "Aufgrund einer im Oktober bei Cloudflare aktivierten Option können Netz-Zensoren nun noch schlechter in verschlüsselten Web-Traffic hineinschauen.",
-      "url": "https://www.heise.de/news/Blockade-durch-Zensurbehoerde-Russland-zensiert-Cloudflare-Websites-10010100.html",
-      "image_title": "Stempel mit der Aufschrift censored"
-    },
-    {
       "title": "Scuba-Webinar",
       "teaser": "Lernen Sie Lücken und Fehler mit SCUBA selbst zu finden und zu beheben. Das Webinar erklärt das Konzept und die Funktionsweise des Tools, um die Sicherheit seines M365-Tenants zu verbessern.",
       "url": "https://heise-academy.de/webinare/microsoft_cloud_security?wt_mc=intern.academy.security.web_scuba2.hs_teaser.teaser.teaser"
+    },
+    {
+      "title": "NIS-2 kommt näher: Staatlich weggecybert oder komplett abgesichert?",
+      "teaser": "Die Zusammenfassung des Bundestags zur NIS2 Anhörung titelt \"Expertenkritik an geplanter Umsetzung der NIS-2-Richtlinie\". Zu Recht, meint Manuel Atug.",
+      "url": "https://www.heise.de/meinung/NIS-2-kommt-naeher-Staatlich-weggecybert-oder-komplett-abgesichert-10013942.html",
+      "image_title": "Merere rote Projektionen von Sicherheitsschlössern in einer Reihe, links eine Lupe"
     },
     {
       "title": "Software-Anbieter aufgepasst: Sie haften jetzt für fehlerhafte Produkte",
@@ -183,10 +190,9 @@
       "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
     },
     {
-      "title": "Analyse und Kommentar: Sophos und der gebrochene Schwur",
-      "teaser": "Sophos hat über Jahre Überwachungssoftware auf Systemen seiner Kunden installiert – natürlich im Namen der Sicherheit. Jürgen Schmidt sieht das kritisch.",
-      "url": "https://www.heise.de/meinung/Analyse-und-Kommentar-Sophos-und-der-gebrochene-Schwur-10010073.html",
-      "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
+      "title": "Re: Alter Trick: Offline-Virenscan",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Alter-Trick-Offline-Virenscan/posting-44614669/show/"
     },
     {
       "title": "Fehlermeldung withsecure",
@@ -197,11 +203,6 @@
       "title": "withsecure scanner läuft seit drei Tagen - kann das sein?",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/withsecure-scanner-laeuft-seit-drei-Tagen-kann-das-sein/posting-44606581/show/"
-    },
-    {
-      "title": "Re: Nur eset funktioniert",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Nur-eset-funktioniert/posting-44603044/show/"
     }
   ]
 }
