@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-14T07:00:41",
+  "timestamp": "2024-11-14T08:10:25",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,14 +26,38 @@
   ],
   "articles": [
     {
+      "title": "Strippenziehen leicht gemacht: So jedes Zimmer optimales Internet",
+      "teaser": "Wer auf jeder Etage und in jedem Zimmer optimales Netz haben will, setzt neben WLAN am besten LAN ein. Ethernet-Kabel zu verlegen ist nicht schwer. So geht's.",
+      "url": "https://www.heise.de/ratgeber/Strippenziehen-leicht-gemacht-So-jedes-Zimmer-optimales-Internet-10027122.html",
+      "image_title": ", Kirill_makarov, stock.adobe.com"
+    },
+    {
       "title": "Der EU Cyber Resilience Act: Was man darüber wissen muss",
       "teaser": "Der neue Cyber Resilience Act geht die Cybersicherheit produktseitig an. Hersteller sollen Produkte standardmäßig weniger anfällig für Angriffe machen.",
       "url": "https://www.heise.de/hintergrund/Der-EU-Cyber-Resilience-Act-Was-man-darueber-wissen-muss-10016391.html"
     },
     {
-      "title": "KI in der Softwareentwicklung: Ein Blick in eine Zukunft ohne Programmcode",
-      "teaser": "GitHub setzt mit Workspace und Copilot immer mehr auf KI-Tools für Softwareentwickler. Wir erklären, was hinter dieser Strategie steckt.​",
-      "url": "https://www.heise.de/hintergrund/KI-in-der-Softwareentwicklung-Ein-Blick-in-eine-Zukunft-ohne-Programmcode-9984500.html"
+      "title": "Malware: Erkennung entgehen durch angeflanschtes ZIP",
+      "teaser": "IT-Forscher haben Malware entdeckt, die der Erkennung durch Virenscanner durch Verkettung von ZIP-Dateien entgeht.",
+      "url": "https://www.heise.de/news/Malware-Erkennung-entgehen-durch-angeflanschtes-ZIP-10034752.html",
+      "image_title": "Viren tarnen sich mit Hüten und Sonnenbrillen"
+    },
+    {
+      "title": "Podcast Software Testing: World Quality Day",
+      "teaser": "Es ist Software Quality Day! Richard Seidl diskutiert die Entwicklung des Software-Testings in den letzten 20 Jahren sowie aktuelle Herausforderungen.",
+      "url": "https://www.heise.de/blog/Podcast-Software-Testing-World-Quality-Day-10015482.html",
+      "image_title": "Podcast Software Testing: World Quality Day mit Richard Seidl"
+    },
+    {
+      "title": "Blick ins Heft c’t 26/2024: Smart-TVs & Streaming",
+      "teaser": "Streamen, fernsehen, zocken: Smart-TVs etablieren sich als Medienzentrale. Sechs sehenswerte Geräte im Test plus das Wichtigste rund um Streaming und Abos.",
+      "url": "https://www.heise.de/meinung/Blick-ins-Heft-c-t-26-2024-Smart-TVs-Streaming-10030676.html"
+    },
+    {
+      "title": "iX-Workshop: AWS-Sicherheit - Angriffe erkennen und abwehren",
+      "teaser": "Erfahren Sie, wie Angreifer Fehlkonfigurationen und mangelnde Härtung der Amazon Cloud ausnutzen und wie Sie AWS-Dienste und Cloud-Identitäten dagegen schützen.",
+      "url": "https://www.heise.de/news/iX-Workshop-AWS-Sicherheit-Angriffe-erkennen-und-abwehren-10017142.html",
+      "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
     },
     {
       "title": "#heiseshow: Software-Haftung, iPhone-Reboots, GPS-Spoofing",
@@ -77,7 +101,7 @@
       "image_title": "Taste mit \"Update\"-Aufschrift"
     },
     {
-      "title": "Microsoft: .NET 9.0 bringt eine neue KI-Bibliothek in Preview",
+      "title": ".NET 9.0 ist fertig und Microsoft bringt neue KI-Bibliothek in Preview",
       "teaser": "Microsoft hat die fertige Version von .NET 9.0 und Visual Studio 2022 Version 17.12 übergeben und eine neue KI-Bibliothek für .NET veröffentlicht.",
       "url": "https://www.heise.de/news/Microsoft-NET-9-0-bringt-Breaking-Changes-und-neue-KI-Bibliothek-10031831.html",
       "image_title": "Schild mit Aufschrift .NET"
@@ -98,29 +122,6 @@
       "teaser": "Sicherheitslücken in FortiClient für Windows, FortiAnalyzer und FortiOS machen die Systeme anfällig für Angriffe. Updates stehen bereit.",
       "url": "https://www.heise.de/news/Fortinet-sichert-FortiOS-FortiAnalyzer-und-FortiClient-ab-10031976.html",
       "image_title": "Stilisierte Grafik: Brennende Appliances im Netz"
-    },
-    {
-      "title": "IT-Security-Konferenz secIT im März 2025 hilft Admins",
-      "teaser": "IT-Systeme effektiv vor Cyberattacken schützen: Die redaktionell kuratierten Inhalte der secIT 2025 punkten mit hilfreichem Fachwissen, verständlich vermittelt.",
-      "url": "https://www.heise.de/news/IT-Security-Konferenz-secIT-im-Maerz-2025-hilft-Admins-10021089.html"
-    },
-    {
-      "title": "OpenProject 15: Bessere Aktivitäts-Ansicht, selber Single-Sign-On einrichten",
-      "teaser": "Version 15 des Projektmanagementtools OpenProject bringt unter anderem eine neu gestaltete Timeline, Emoji-Reaktionen und eine Oberfläche zur SSO-Einrichtung.",
-      "url": "https://www.heise.de/news/OpenProject-15-Neue-Oberflaeche-fuer-Single-Sign-On-Einrichtung-und-Emojis-10031907.html",
-      "image_title": "Blick auf einen Schreibtisch mit verschiedenen Dokumenten und bunten Klebezetteln."
-    },
-    {
-      "title": "Greg Brockman kehrt an die Spitze von OpenAI zurück",
-      "teaser": "Diverse Führungskräfte haben OpenAI in den vergangenen Monaten verlassen. Greg Brockman kehrte jetzt nach einem mehrmonatigen Sabbatical an die Spitze zurück.",
-      "url": "https://www.heise.de/news/Greg-Brockman-kehrt-an-die-Spitze-von-OpenAI-zurueck-10031766.html",
-      "image_title": "Das Logo von OpenAI an der Fassade des Bürogebäudes in San Francisco."
-    },
-    {
-      "title": "iX-Workshop: Rechtskonform – IT-Produkte nach EU-Recht prüfen und zertifizieren",
-      "teaser": "Lernen Sie, wie Sie IT-Produkte für die Prüfung und Zertifizierung nach Standards wie CC, BSZ und NESAS vorbereiten – Anwendungen, Stolpersteine, Prüfpraxis",
-      "url": "https://www.heise.de/news/iX-Workshop-Rechtskonform-IT-Produkte-nach-EU-Recht-pruefen-und-zertifizieren-10016356.html",
-      "image_title": "Workshop: Rechtskonform - IT-Produkte prüfen und zertifizieren"
     },
     {
       "title": "Die neusten Ergebnisse für dieses Jahr",
