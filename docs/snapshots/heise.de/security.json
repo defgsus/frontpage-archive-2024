@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-14T12:13:18",
+  "timestamp": "2024-11-14T13:16:42",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "GitLab",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-Entwickler-ruesten-Gitlab-gegen-unbefugte-Zugriffe-10035049.html"
+    },
+    {
       "title": "Jenkins",
       "url": "https://www.heise.de/news/Software-Entwicklungs-Tool-Jenkins-schliesst-mehrere-Sicherheitsluecken-10035015.html"
     },
@@ -44,8 +48,21 @@
       "url": "https://www.heise.de/news/Fortinet-sichert-FortiOS-FortiAnalyzer-und-FortiClient-ab-10031976.html"
     },
     {
-      "title": "Ivanti Endpoint Manager, Avalanche, VPN- und NAC-Software",
-      "url": "https://www.heise.de/news/Ivanti-patcht-Endpoint-Manager-Avalanche-VPN-und-NAC-Software-10030118.html"
+      "title": "Last Call: IT-Sicherheitstag Gelsenkirchen – Komplexität managen",
+      "teaser": "Der IT-Sicherheitstag Gelsenkirchen gibt Hilfestellung beim Management komplexer IT-Infrastrukturen - jetzt noch Ticket buchen.",
+      "url": "https://www.heise.de/news/Last-Call-IT-Sicherheitstag-Gelsenkirchen-Komplexitaet-managen-10035159.html"
+    },
+    {
+      "title": "Destatis: Cyberkriminelle erbeuten offenbar 3,8 GByte an Daten",
+      "teaser": "Beim Statistischen Bundesamt konnten Cyberkriminelle anscheinend Unternehmensdaten im Umfang von 3,8 GByte abzweigen.",
+      "url": "https://www.heise.de/news/Destatis-Cyberkriminelle-erbeuten-offenbar-3-8-GByte-an-Daten-10035243.html",
+      "image_title": "Computer vor Serverschränken, auf dem Dataleak steht, drumherum lungern Datendiebe"
+    },
+    {
+      "title": "Updates verfügbar: Mehrere Sicherheitslücken bedrohen Gitlab",
+      "teaser": "Mehrere Software-Schwachstellen bedrohen die Community Edition und die Enterprise Edition von Gitlab.",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-Entwickler-ruesten-Gitlab-gegen-unbefugte-Zugriffe-10035049.html",
+      "image_title": "Ausrufezeichen in einem Warndreieck"
     },
     {
       "title": "Software-Entwicklungs-Tool Jenkins schließt mehrere Sicherheitslücken",
@@ -148,24 +165,6 @@
       "teaser": "In Monitoring-Software Icinga klafft eine kritische Sicherheitslücke bei der Zertifikatsüberprüfung. Updates stehen bereit, um sie zu stopfen.",
       "url": "https://www.heise.de/news/Monitoring-Software-Icinga-Updates-schliessen-kritische-Sicherheitsluecke-10028791.html",
       "image_title": "IT-Verwalter sitzt vorm Server und überwacht die Performance"
-    },
-    {
-      "title": "Software-Anbieter aufgepasst: Sie haften jetzt für fehlerhafte Produkte",
-      "teaser": "Mit der neuen Produkthaftungsrichtlinie kommen auf Software-Hersteller verschärfte Auflagen hinzu. Und nicht nur sie: Viele andere Akteure haften jetzt auch.",
-      "url": "https://www.heise.de/hintergrund/Software-Anbieter-aufgepasst-Sie-haften-jetzt-fuer-fehlerhafte-Produkte-10027145.html",
-      "image_title": "Geld, Hammer"
-    },
-    {
-      "title": "Europol warnt vor Rekrutierung Minderjähriger durch organisiertes Verbrechen",
-      "teaser": "Etwa in sozialen Medien rekrutieren Netzwerke des organisierten Verbrechens Minderjährige. Europol beobachtet eine Ausweitung der Taktik.",
-      "url": "https://www.heise.de/news/Europol-warnt-vor-Rekrutierung-Minderjaehriger-durch-organisiertes-Verbrechen-10027088.html",
-      "image_title": "Jugendlicher vor einem Computer, mit Geld und Aktentaschen und zwei maskierten Kriminellen mit Waffen dahinter"
-    },
-    {
-      "title": "MOVEit Transfer: Gestohlene Daten von Amazon und Co. stehen zum Verkauf",
-      "teaser": "Mittels MOVEit-Transfer-Leck gestohlene Angestelltendaten von großen Unternehmen wie Amazon, HP, HSBC und weiteren stehen im digitalen Untergrund zum Verkauf.",
-      "url": "https://www.heise.de/news/MOVEit-Transfer-Gestohlene-Daten-von-Amazon-und-Co-stehen-zum-Verkauf-10022659.html",
-      "image_title": "Computer vor Serverschränken, auf dem Dataleak steht, drumherum lungern Datendiebe"
     },
     {
       "title": "Scuba-Webinar",
