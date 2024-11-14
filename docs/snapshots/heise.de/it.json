@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-14T15:07:15",
+  "timestamp": "2024-11-14T16:08:27",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,16 +26,34 @@
   ],
   "articles": [
     {
+      "title": "Im Test: Vier Multifunktionsdrucker für Arbeitsgruppen",
+      "teaser": "Multifunktionsgeräte für Abteilungen drucken problemlos Tausende Seiten pro Monat, kopieren und scannen in Sekundenschnelle und verwalten viele Nutzer.",
+      "url": "https://www.heise.de/tests/Im-Test-Vier-Multifunktionsdrucker-fuer-Arbeitsgruppen-10028927.html",
+      "image_title": ","
+    },
+    {
       "title": "Welche Vorteile Arduino und Raspi attraktiv machen",
       "teaser": "Der Arduino und später der Raspberry Pi veränderten die Welt der IT-Bastler. Ihre Konzepte ebneten anderen Bastelplattformen wie ESP32 & Co den Weg.",
       "url": "https://www.heise.de/hintergrund/Welche-Vorteile-Arduino-und-Raspi-attraktiv-machen-10009588.html",
       "image_title": ","
     },
     {
-      "title": "MacBook Pro mit M4 Max im Test: Top-Leistung auch für unterwegs",
-      "teaser": "Was leistet Apples neuer Spitzenchip M4 Max? Wir haben das mit einem hochgerüsteten 16\" MacBook Pro 2024 getestet.",
-      "url": "https://www.heise.de/tests/MacBook-Pro-mit-M4-Max-im-Test-Top-Leistung-auch-fuer-unterwegs-10034275.html",
-      "image_title": "MacBook Pro 16\" mit M4 Max"
+      "title": "Antwort auf Temu, Shein und Co.: Amazon testet in den USA Billigportal",
+      "teaser": "Der Onlineversender Amazon tritt mit einem Günstigportal namens Haul gegen die Billig-Konkurrenz aus Asien an. Das Portal wird zunächst in den USA erprobt.",
+      "url": "https://www.heise.de/news/Antwort-auf-Temu-Shein-und-Co-Amazon-testet-in-den-USA-Billigportal-10035763.html",
+      "image_title": "Amazon-Schriftzug"
+    },
+    {
+      "title": "KubeCon + CloudNativeCon mit Projektneuheiten und Aufruf gegen Patenttrolle",
+      "teaser": "In Salt Lake City richtet die Cloud Native Computing Foundation derzeit die nordamerikanische Ausgabe der Konferenz KubeCon + CloudNativeCon aus.",
+      "url": "https://www.heise.de/news/KubeCon-CloudNativeCon-mit-Projektneuheiten-und-Aufruf-gegen-Patenttrolle-10035693.html",
+      "image_title": "Cloud Heroes Challenge"
+    },
+    {
+      "title": "Heizkörperthermostat Shelly BLU TRV im Test: Mit Bluetooth besser?",
+      "teaser": "Shelly stellt mit dem BLU TRV ein neues, auf Bluetooth basierendes Heizkörperthermostat vor. Doch das Neue ist nicht unbedingt das Bessere. Warum, zeigt der Testbericht.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/heizkoerperthermostat-shelly-blu-trv-im-test/w06mz4x",
+      "image_title": "##PHxVALUE_ALT_TEXT##"
     },
     {
       "title": "Google wagt Ausblick auf die IT-Sicherheitslage 2025",
@@ -85,6 +103,12 @@
       "image_title": "Polizist in Belfast – mit aufmontiertem Apple-Logo"
     },
     {
+      "title": "MacBook Pro mit M4 Max im Test: Top-Leistung auch für unterwegs",
+      "teaser": "Was leistet Apples neuer Spitzenchip M4 Max? Wir haben das mit einem hochgerüsteten 16\" MacBook Pro 2024 getestet.",
+      "url": "https://www.heise.de/tests/MacBook-Pro-mit-M4-Max-im-Test-Top-Leistung-auch-fuer-unterwegs-10034275.html",
+      "image_title": "MacBook Pro 16\" mit M4 Max"
+    },
+    {
       "title": "Software-Entwicklungs-Tool Jenkins schließt mehrere Sicherheitslücken",
       "teaser": "In dem Software-Entwicklungs-Tool Jenkins bessern die Entwickler sieben Sicherheitslücken aus. Die meisten gelten als hochriskant.",
       "url": "https://www.heise.de/news/Software-Entwicklungs-Tool-Jenkins-schliesst-mehrere-Sicherheitsluecken-10035015.html",
@@ -100,30 +124,6 @@
       "teaser": "Die Java-IDE bietet neue Features für Kubernetes-Anwendungen, eine überarbeitete User Experience und die Auswahl des KI-Chatmodells in AI Assistant.",
       "url": "https://www.heise.de/news/JetBrains-IntelliJ-IDEA-2024-3-erlaubt-lokale-Sprachmodelle-im-KI-Assistenten-10035072.html",
       "image_title": "Roboterarm hält mit dem Zeigefinger eine Glühbirne"
-    },
-    {
-      "title": "Mac mini M4 im Teardown: Lob von iFixIt – und die Frage nach dem Upgrade",
-      "teaser": "Nun hat auch der bekannte Reparaturdienstleister in den neuen Mac mini geschaut – und mag dessen Aufbau. Extrem einfach sind Reparaturen aber nicht.",
-      "url": "https://www.heise.de/news/Mac-mini-M4-im-Teardown-Lob-von-iFixIt-und-die-Frage-nach-dem-Upgrade-10034622.html",
-      "image_title": "Entnahme der SSD-Karte im Mac mini M4"
-    },
-    {
-      "title": "Einsteiger-Guide: Wegweiser durch Git, GitHub und GitLab",
-      "teaser": "Für Nicht-Entwickler, die nur etwas herunterladen wollen, wirkt GitHub rätselhaft. Eine Einführung für alle, die sich immer wieder auf der Plattform verirren.",
-      "url": "https://www.heise.de/hintergrund/Einsteiger-Guide-Wegweiser-durch-Git-GitHub-und-GitLab-10001329.html",
-      "image_title": ","
-    },
-    {
-      "title": "Gratis-Tool: Sicherheitsforscher knacken ShrinkLocker-Verschlüsselung",
-      "teaser": "Der Erpressungstrojaner ShrinkLocker nutzt Microsofts Bitlocker, um Windows-Systeme zu verschlüsseln. Ein Entschlüsselungstool hilft.",
-      "url": "https://www.heise.de/news/Gratis-Tool-Sicherheitsforscher-knacken-ShrinkLocker-Verschluesselung-10034933.html",
-      "image_title": "Hand schließt Schloss zu"
-    },
-    {
-      "title": "Datenleck bei Online-Auskunftei: Hackerin kann beliebige Bonitätsdaten einsehen",
-      "teaser": "Die Aktivistin Lilith Wittmann fand einen neuen Weg, beliebige Bonitätsdaten mit wenig Aufwand abzurufen. Der Anbieter reagierte mit Abschaltung.",
-      "url": "https://www.heise.de/news/Datenleck-bei-Online-Auskunftei-Hackerin-kann-beliebige-Bonitaetsdaten-einsehen-10034774.html",
-      "image_title": "Menschen laufen mit Scoring-Daten überm Kopf herum."
     },
     {
       "title": "Die neusten Ergebnisse für dieses Jahr",
