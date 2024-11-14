@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-14T03:13:15",
+  "timestamp": "2024-11-14T04:09:42",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -118,13 +124,6 @@
       "image_title": "Olaf Scholz: Wer sagt's dem Kanzler?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Bundestag : \"Trump wird Sie wie ein Leichtgewicht abtropfen lassen\"",
-      "teaser": "Olaf Scholz' Regierungserklärung läutet den Wahlkampf ein. Selbst Markus Söder ist angereist, dafür fehlt Robert Habeck im Bundestag. Wer schlug sich wie?",
-      "url": "https://www.zeit.de/politik/deutschland/2024-11/bundestag-regierungserklaerung-olaf-scholz-friedrich-merz-markus-soeder",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-11/url-bundestag-regierungserklaerung-olaf-scholz-friedrich-merz-markus-soeder-bild-10/super__430x286",
-      "image_title": "Bundestag: \"Trump wird Sie wie ein Leichtgewicht abtropfen lassen\""
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Liveblog:Neuwahl im Februar : Union ist bereit, Rot-Grün in Ausnahmefällen zu Mehrheit zu verhelfen",
       "teaser": "In \"dringlichen\" Fällen würde sie rot-grüne Vorhaben unterstützen, signalisiert die Union. Christian Lindner schließt eine Kanzlerkandidatur aus. Das Liveblog",
       "url": "https://www.zeit.de/politik/deutschland/2024-11/ampel-aus-regierungskrise-ampelkoalition-liveblog",
@@ -144,6 +143,13 @@
       "url": "https://www.zeit.de/politik/ausland/2024-11/usa-donald-trump-regierung-nominierte-elon-musk-fox-news-pentagon",
       "image_url": "https://img.zeit.de/politik/ausland/2024-11/usa-donald-trump-regierung-nominierte-elon-musk-fox-news-pentagon-bild/super__430x286",
       "image_title": "US-Regierung: US-Präsident Donald Trump erscheint bei Fox & Friends Co-Moderator Pete Hegseth bei einer Wounded Warrior Project Soldier Ride Veranstaltung im East Room des Weißen Hauses. +++ dpa-Bildfunk +++ 06/04/2017 Washington"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); USA : Staatsanwaltschaft will Trumps Dokumentenaffäre vorerst ruhen lassen",
+      "teaser": "Mehrere Verfahren gegen den zum zweiten Mal gewählten US-Präsidenten sind ausgesetzt. Nun könnten auch die Ermittlungen in der Dokumentenaffäre eingestellt werden.",
+      "url": "https://www.zeit.de/politik/ausland/2024-11/donald-trump-dokumentenaffaere-verfahren-ausgesetzt-staatsanwaltschaft-sonderermittler-jack-smith",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-11/donald-trump-dokumentenaffaere-verfahren-ausgesetzt-staatsanwaltschaft-sonderermittler-jack-smith-bild/super__430x286",
+      "image_title": "USA: Republican Presidential Nominee Donald Trump Holds Election Night Event In West Palm Beach WEST PALM BEACH, FLORIDA - NOVEMBER 06: Republican presidential nominee, former U.S. President Donald Trump speaks during an election night event at the Palm Beach Convention Center on November 06, 2024 in West Palm Beach, Florida. Americans cast their ballots today in the presidential race between Republican nominee former President Donald Trump and Vice President Kamala Harris, as well as multiple state elections that will determine the balance of power in Congress. (Photo by Chip Somodevilla/Getty Images)"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Folge 1 : Wie geht’s dir, Deutschland?",
@@ -195,13 +201,6 @@
       "image_title": "Rechtsruck in der Schweiz: Das Land bewegt sich – und zwar nach rechts."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Brasilien : Ein Toter nach Explosionen im Regierungsviertel von Brasília",
-      "teaser": "Bei einer Explosion vor Brasiliens Oberstem Gerichtshof ist ein Mann getötet worden. Offenbar wollte er Sprengstoff in das Gebäude bringen. Kurz darauf brennt ein Auto.",
-      "url": "https://www.zeit.de/politik/ausland/2024-11/brasilia-oberstes-gericht-explosionen-toter",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-11/brasilia-explosionen-oberstes-gericht/super__430x286",
-      "image_title": "Brasilien: Aftermath of Brazil's anti-democratic riots// A view shows the damage caused following Brazil's anti-democratic riots, at the Supreme Court building in Brasilia, Brazil, January 10, 2023."
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Amsterdam : Zahlreiche Festnahmen nach erneuten antisemitischen Demonstrationen",
       "teaser": "Mehrere Hundert Menschen haben sich dem Verbot in Amsterdam widersetzt und mit palästinensischen Flaggen demonstriert. Die Polizei berichtet von Festnahmen.",
       "url": "https://www.zeit.de/politik/ausland/2024-11/amsterdam-festnahmen-antisemitismus-demonstrationen",
@@ -209,11 +208,25 @@
       "image_title": "Amsterdam: Demonstranten halten in Amsterdam eine palästinensische Flagge hoch."
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); USA : Chinesische Hacker konnten auf Daten aus US-Politikkreisen zugreifen",
+      "teaser": "Laut US-Behörden konnten Hacker aus China auf private Daten aus Regierungskreisen zugreifen. Die US-Cybersicherheitsbehörde und das FBI bestätigen damit frühere Berichte.",
+      "url": "https://www.zeit.de/digital/datenschutz/2024-11/china-usa-hackerangriff-fbi-telefone",
+      "image_url": "https://img.zeit.de/digital/datenschutz/2024-11/fbi-china-usa-hackerangriff/super__430x286",
+      "image_title": "USA: Blick auf den Sitz des Federal Bureau of Investigation (FBI). (zu dpa: «FBI prüft rassistische Massen-SMS nach US-Wahl»)"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Giftstoffe in Kleidung : Vorsicht, dieses Kleid könnte giftig sein",
       "teaser": "Unternehmen in Deutschland produzieren gefährliche Chemikalien für die Modeindustrie – und exportieren sie ganz legal. Doch die Giftstoffe kommen illegal zu uns zurück.",
       "url": "https://www.zeit.de/2024/47/giftstoffe-kleidung-chemikalien-modeindustrie-produktion",
       "image_url": "https://img.zeit.de/2024/47/vorsicht-dieses-kleid-koennte-giftig-sein-teaser/square__500x500",
       "image_title": "Giftstoffe in Kleidung: Im getesteten Exemplar dieses Minikleids wurde eine erhöhte Konzentration des Giftstoffs Octylphenolethoxylat nachgewiesen."
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Brasilien : Ein Toter nach Explosionen im Regierungsviertel von Brasília",
+      "teaser": "Bei einer Explosion vor Brasiliens Oberstem Gerichtshof ist ein Mann getötet worden. Offenbar wollte er Sprengstoff in das Gebäude bringen. Kurz darauf brennt ein Auto.",
+      "url": "https://www.zeit.de/politik/ausland/2024-11/brasilia-oberstes-gericht-explosionen-toter",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-11/brasilia-explosion-oberster-gerichtshof/super__430x286",
+      "image_title": "Brasilien: Die Militärpolizei ist am Obersten Gericht im Einsatz, nachdem es vor dem Gebäude zu zwei Explosionen gekommen ist."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Bundestagswahlkampf : Bodo Ramelow will auch ohne Nachfolger in den Bundestag",
@@ -228,13 +241,6 @@
       "url": "https://www.zeit.de/politik/ausland/2023-12/news-israel-gaza-krieg-live",
       "image_url": "https://img.zeit.de/2024-11/josep-borrell-eu-israel-diplomatie/super__430x286",
       "image_title": "Krieg in Nahost: Josep Borrell, Hoher Vertreter der EU für Außen- und Sicherheitspolitik, beantwortet Fragen von Journalisten vor Beginn des EU-Außenministertreffens in Brüssel. (zu dpa: «EU fordert nach Präsidentenwahl in Venezuela Transparenz»)"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Geldanlage • Das Beste aus Z+ : Wird der MSCI World das neue Sparbuch?",
-      "teaser": "Noch nie haben so viele Anleger auf ETF-Sparpläne gesetzt, zeigt eine neue Studie. Woran das liegt, wer davon profitiert – und welche Risiken das birgt.",
-      "url": "https://www.zeit.de/geld/2024-11/msci-world-aktien-etf-sparplan-studie-risiko",
-      "image_url": "https://img.zeit.de/geld/2024-11/msci-world-aktien-etf-sparplan-studie-risiko-bild/super__430x286",
-      "image_title": "Geldanlage • Das Beste aus Z+: Wird der MSCI World das neue Sparbuch?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Lisa Herzog : \"Ich habe den Begriff Liberalismus inzwischen fast aufgegeben\"",
@@ -257,25 +263,25 @@
       "image_title": "Weinlese: Einmal Winzerkind, immer Winzerkind"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Pubertät bei Mädchen : Wie aus unsicheren Mädchen starke Frauen werden",
-      "teaser": "Gerade Mädchen sind in der Pubertät oft psychisch fragil. Doch Eltern können ihnen Sicherheit und Stabilität bieten – wenn sie selbst den Druck rausnehmen.",
-      "url": "https://www.zeit.de/familie/2024-10/pubertaet-maedchen-eltern-junge-frauen-jugendliche",
-      "image_url": "https://img.zeit.de/familie/2024-10/pubertaet-maedchen-eltern-junge-frauen/super__430x286",
-      "image_title": "Pubertät bei Mädchen: Wie aus unsicheren Mädchen starke Frauen werden"
+      "title": "Z+ (abopflichtiger Inhalt); Prokrastination : Die gute Nachricht: Disziplin kann man lernen",
+      "teaser": "Wer chronisch prokrastiniert, kommt nicht voran und bleibt unzufrieden. Doch dieses Muster lässt sich brechen. Wie man sich mit vier Interventionen selbst helfen kann.",
+      "url": "https://www.zeit.de/arbeit/2024-08/prokrastination-aufschieben-disziplin-aufgaben-pflichten",
+      "image_url": "https://img.zeit.de/arbeit/2024-08/prokrastination-aufschieben-disziplin/super__430x286",
+      "image_title": "Prokrastination: Die gute Nachricht: Disziplin kann man lernen"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Urlaubsliebe : \"Todesmutig flog ich zu einem fast Fremden\"",
-      "teaser": "Nicht nur das Meer vor Mykonos war sehr blau – sondern auch die Augen des Barkeepers. Doch was folgt nach dem Flirt am Tresen, bleibt es bei einer Fernbeziehung?",
-      "url": "https://www.zeit.de/zeit-magazin/2024/47/urlaubsliebe-griechenland-flirt-liebeskolumne",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-11/urlaubsliebe-griechenland-flirt-liebeskolumne-bildneu/super__430x286",
-      "image_title": "Urlaubsliebe: \"Todesmutig flog ich zu einem fast Fremden\""
+      "title": "Z+ (abopflichtiger Inhalt); Interaktiver Rechner : Mieten oder Kaufen? Der endgültige Rechner",
+      "teaser": "Viele träumen vom eigenen Haus, von der eigenen Wohnung. Aber lohnt sich der Kauf wirklich? Unser interaktiver Rechner hilft bei der teuersten aller Lebensentscheidungen.",
+      "url": "https://www.zeit.de/geld/2024-02/wohnen-mieten-oder-kaufen-rechner-immobilien-hauskauf",
+      "image_url": "https://img.zeit.de/geld/2023-11/wohnen-mieten-oder-kaufen-rechner-immobilien/super__430x286",
+      "image_title": "Interaktiver Rechner: Mieten oder Kaufen? Der endgültige Rechner"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Traumaverarbeitung : Das denkbar Schönste und das Böseste in derselben Sekunde",
-      "teaser": "In einer Diskothek verlieben sich zwei junge Menschen Hals über Kopf ineinander. Wenige Stunden später ist der eine tot und das Leben des anderen für immer verändert.",
-      "url": "https://www.zeit.de/2024/45/trauma-verarbeitung-unfall-tod-schuldgefuehle",
-      "image_url": "https://img.zeit.de/2024/45/das-denkbar-schoenste-und-das-boeseste-in-derselben-sekunde-bild-1/super__430x286",
-      "image_title": "Traumaverarbeitung: Das denkbar Schönste und das Böseste in derselben Sekunde"
+      "title": "Z+ (abopflichtiger Inhalt); Eltern-Burn-out : Warum sind Eltern hier so gestresst?",
+      "teaser": "Die Diagnose Eltern-Burn-out steigt weltweit. Doch nirgends sind die Zahlen so hoch wie in manchen westlichen Industrieländern. Was deutsche Eltern ausbrennen lässt.",
+      "url": "https://www.zeit.de/familie/2024-07/eltern-burnout-stress-belastung-alltag-kinder",
+      "image_url": "https://img.zeit.de/familie/2024-08/eltern-burnout-stress-belastung-alltag/super__430x286",
+      "image_title": "Eltern-Burn-out: Warum sind Eltern hier so gestresst?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Strompreise : Habeck will Intel-Milliarden zur Senkung der Netzentgelte nutzen",
@@ -427,18 +433,18 @@
       "image_title": "Joachim Nagel: \"Die Inflation ist ein gieriges Biest\""
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Geldanlage • Das Beste aus Z+ : Wird der MSCI World das neue Sparbuch?",
+      "teaser": "Noch nie haben so viele Anleger auf ETF-Sparpläne gesetzt, zeigt eine neue Studie. Woran das liegt, wer davon profitiert – und welche Risiken das birgt.",
+      "url": "https://www.zeit.de/geld/2024-11/msci-world-aktien-etf-sparplan-studie-risiko",
+      "image_url": "https://img.zeit.de/geld/2024-11/msci-world-aktien-etf-sparplan-studie-risiko-bild/wide__892x501",
+      "image_title": "Geldanlage • Das Beste aus Z+: Wird der MSCI World das neue Sparbuch?"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Geldanlage : Vier Regeln, an die sich Anleger jetzt halten können",
       "teaser": "Trump wird US-Präsident, die Ampel ist Geschichte – und die Börsenkurse steigen. Und nun: Kaufen oder verkaufen? Was ist mit Bitcoin? Das sollten Anleger jetzt beachten.",
       "url": "https://www.zeit.de/geld/2024-11/geldanlage-vermoegen-unsicherheit-finanzmarkt-donald-trump-christian-lindner",
-      "image_url": "https://img.zeit.de/geld/2024-11/finanzmarkt-unsicherheit-privatanleger-vermoegen/wide__892x501",
+      "image_url": "https://img.zeit.de/geld/2024-11/finanzmarkt-unsicherheit-privatanleger-vermoegen/super__430x286",
       "image_title": "Finanzmarkt Unsicherheit Privatanleger Vermögen"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Aktienmarkt : \"Die Börse feiert, dass Trump wieder Präsident ist\"",
-      "teaser": "Donald Trump mache seinen Selbstwert vom Stand des Aktienmarktes abhängig, sagt der Fondsmanager Markus Sievers. Gut für Anleger! Gefahr drohe durch Zölle und Inflation.",
-      "url": "https://www.zeit.de/geld/2024-11/aktienmarkt-donald-trump-usa-risiken-chancen",
-      "image_url": "https://img.zeit.de/geld/2024-11/aktienmarkt-donald-trump-usa-risiken-chancen-bild/super__430x286",
-      "image_title": "Aktienmarkt: TRUMP INTERNATIONAL HOTEL, LAS VEGAS"
     },
     {
       "title": "Verlagsangebot : Quiz: Wie gut ist Ihr Business Englisch?",
@@ -471,9 +477,7 @@
     {
       "title": "Regierungsflieger wieder kaputt : Erst Premiere, dann Panne: Habeck strandet in Lissabon",
       "teaser": "Erstmals in der Geschichte des Wirtschaftsministeriums lässt sich Habeck von einer komplett weiblichen Wirtschaftsdelegation begleiten. Die Reise endet anders als gedacht.",
-      "url": "https://www.wiwo.de/politik/deutschland/regierungsflieger-wieder-kaputt-erst-premiere-dann-panne-habeck-strandet-in-lissabon/30084828.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/habeck-auf-techkonferenz-web-summit/30085058/4-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
-      "image_title": "Erst Premiere, dann Panne: Habeck strandet in Lissabon"
+      "url": "https://www.wiwo.de/politik/deutschland/regierungsflieger-wieder-kaputt-erst-premiere-dann-panne-habeck-strandet-in-lissabon/30084828.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); ÖPNV : Steht das Deutschlandticket vor dem Aus?",
@@ -824,11 +828,11 @@
       "image_title": "Ski Aggu: \"Am Anfang denkt jeder, er kann rappen, aber dann merkt man schnell: So easy ist es nicht.\""
     },
     {
-      "title": "Verlagsangebot : Durchblick im Studiendschungel",
-      "teaser": "Bei 20.000 möglichen Studiengängen in Deutschland verliert man schnell den Überblick. Unterstützung bietet die Suchmaschine für Studiengänge und Hochschulen.",
-      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.whiteboard_studiendschungel.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_whiteboard_studiendschungel_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-3-klein/man-wearing-black-and-white-stripe-shirt-looking-at-white-197.jpg",
-      "image_title": "Durchblick im Studiendschungel"
+      "title": "Verlagsangebot : Und was macht man dann damit?",
+      "teaser": "Was verbirgt sich konkret hinter den sperrigen Studiengangsbezeichnungen? Einen Einblick in mögliche Berufsfelder liefert die Suchmaschine für Studienangebote.",
+      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.kaffeepause_wasmachtmandamit.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_kaffeepause_wasmachtmandamit_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-4-klein/photo-of-women-looking-on-monitors-197.jpg",
+      "image_title": "Und was macht man dann damit?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Hochschulen : Zahl der Studiengänge steigt auf Rekordwert",
@@ -866,36 +870,36 @@
       "image_title": "Wahlen in Hamburg: Und was wird jetzt aus Hamburg?"
     },
     {
-      "title": "Machtwechsel in den USA: TV-Mann, Milliardär, Radikale: So soll Trumps Team aussehen",
-      "url": "https://www.zeit.de/news/2024-11/14/tv-mann-milliardaer-radikale-so-soll-trumps-team-aussehen"
+      "title": "Wohnungspolitik: RBB: Fördergeld für Wohnungssanierung bleibt liegen",
+      "url": "https://www.zeit.de/news/2024-11/14/rbb-foerdergeld-fuer-wohnungssanierung-bleibt-liegen"
     },
     {
-      "title": "Überraschung im Ozean: Rekord-Koralle entdeckt - länger als ein Blauwal",
-      "url": "https://www.zeit.de/news/2024-11/14/rekord-koralle-entdeckt-laenger-als-ein-blauwal"
+      "title": "Zum 80. Geburtstag: Modemacher Joop: Es kommt mehr auf die Pose an",
+      "url": "https://www.zeit.de/news/2024-11/14/modemacher-joop-es-kommt-mehr-auf-die-pose-an"
     },
     {
-      "title": "Zustand des Waldes: Wald im Südwesten leicht erholt - aber keine Entwarnung",
-      "url": "https://www.zeit.de/news/2024-11/14/wald-im-suedwesten-leicht-erholt-aber-keine-entwarnung"
+      "title": "Norddeutsches Treffen: Madsen mahnt vor Konferenz mehr Tempo bei Rüstung an",
+      "url": "https://www.zeit.de/news/2024-11/14/madsen-mahnt-vor-konferenz-mehr-tempo-bei-ruestung-an"
     },
     {
-      "title": "Weihnachtsmärkte: Einzelhandel hofft auf starke Weihnachtsmarktsaison",
-      "url": "https://www.zeit.de/news/2024-11/14/einzelhandel-hofft-auf-starke-weihnachtsmarktsaison"
+      "title": "Saisonstart: Die ersten Wildgänse sind zurück am Niederrhein",
+      "url": "https://www.zeit.de/news/2024-11/14/die-ersten-wildgaense-sind-zurueck-am-niederrhein"
     },
     {
-      "title": "Politischer Aschermittwoch: Ausschreitungen in Biberach: Erster Prozess startet",
-      "url": "https://www.zeit.de/news/2024-11/14/ausschreitungen-in-biberach-erster-prozess-startet"
+      "title": "Goldene Henne: 30 Jahre Goldene Henne - Jubiläumsshow aus Leipzig",
+      "url": "https://www.zeit.de/news/2024-11/14/30-jahre-goldene-henne-jubilaeumsshow-aus-leipzig"
     },
     {
-      "title": "Run auf Tickets: Weihnachtsmarkt in Schwarzwaldschlucht schon ausverkauft",
-      "url": "https://www.zeit.de/news/2024-11/14/weihnachtsmarkt-in-schwarzwaldschlucht-schon-ausverkauft"
+      "title": "Die Lage im Überblick: Nach Wahlsieg Trumps: Selenskyj hofft auf deutsche Hilfe",
+      "url": "https://www.zeit.de/news/2024-11/14/nach-wahlsieg-trumps-selenskyj-hofft-auf-deutsche-hilfe"
     },
     {
-      "title": "Kampf gegen Plastikmüll: Heraeus-Tochter investiert 100 Millionen in Recycling-Anlage",
-      "url": "https://www.zeit.de/news/2024-11/14/heraeus-tochter-investiert-100-millionen-in-recycling-anlage"
+      "title": "Lage im Überblick: EU-Chefdiplomat will Dialog mit Israel aussetzen",
+      "url": "https://www.zeit.de/news/2024-11/14/eu-chefdiplomat-will-dialog-mit-israel-aussetzen"
     },
     {
-      "title": "Achtung, Betrüger!: LKA warnt vor Online-Anlagebetrug - Millionenschäden",
-      "url": "https://www.zeit.de/news/2024-11/14/lka-warnt-vor-online-anlagebetrug-millionenschaeden"
+      "title": "Arbeitsmarkt: Viele stecken im Job in Abwärtsspirale",
+      "url": "https://www.zeit.de/news/2024-11/14/viele-stecken-im-job-in-abwaertsspirale"
     }
   ]
 }
