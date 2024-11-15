@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-15T09:00:56",
+  "timestamp": "2024-11-15T10:08:15",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Palo Alto Expedition",
+      "url": "https://www.heise.de/news/Palo-Alto-Weitere-Sicherheitslecks-in-MIgrationstool-aktiv-angegriffen-10036380.html"
+    },
+    {
       "title": "Apache Traffic Server",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Apache-Traffic-Server-crashen-lassen-10036352.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Software-Entwicklungs-Tool-Jenkins-schliesst-mehrere-Sicherheitsluecken-10035015.html"
     },
     {
-      "title": "Zoom-Apps",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Zoom-Room-Client-Co-angreifbar-10031648.html"
+      "title": "CISA warnt vor Angriffen auf Palo-Alto-Software",
+      "teaser": "Erst vergangene Woche warnte die CISA vor einer angegriffenen Sicherheitslücke in Palo Altos Expedition, jetzt stehen weitere Lecks unter Beschuss.",
+      "url": "https://www.heise.de/news/Palo-Alto-Weitere-Sicherheitslecks-in-MIgrationstool-aktiv-angegriffen-10036380.html",
+      "image_title": "Bildschirm mit Schriftzug \"Attack successfully\"."
     },
     {
       "title": "Sicherheitspatches: Apache Traffic Server über mehrere Lücken angreifbar",
@@ -158,12 +164,6 @@
       "teaser": "Die Zusammenfassung des Bundestags zur NIS2 Anhörung titelt \"Expertenkritik an geplanter Umsetzung der NIS-2-Richtlinie\". Zu Recht, meint Manuel Atug.",
       "url": "https://www.heise.de/meinung/NIS-2-kommt-naeher-Staatlich-weggecybert-oder-komplett-abgesichert-10013942.html",
       "image_title": "Merere rote Projektionen von Sicherheitsschlössern in einer Reihe, links eine Lupe"
-    },
-    {
-      "title": "Patchday Adobe: Schadcode-Attacken auf After Effects & Co. möglich",
-      "teaser": "Verschiedene Anwendungen von Adobe sind verwundbar. Sicherheitsupdates schließen mehrere Lücken.",
-      "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Attacken-auf-After-Effects-Co-moeglich-10029714.html",
-      "image_title": "Adobe-Logo mit Flecken und der Aufschrift \"Patchday\""
     },
     {
       "title": "Scuba-Webinar",
