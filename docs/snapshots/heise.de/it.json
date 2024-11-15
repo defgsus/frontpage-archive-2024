@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-15T07:00:56",
+  "timestamp": "2024-11-15T08:10:25",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,16 +26,46 @@
   ],
   "articles": [
     {
+      "title": "Weihnachtsgeschenke für Apple-Nutzer: Unsere Klassenbesten",
+      "teaser": "Sie möchten hochwertige Technik verschenken? Mit diesen 20 Produkten, die in unseren Tests hervorragend abgeschnitten haben, gibt es keine langen Gesichter.",
+      "url": "https://www.heise.de/ratgeber/Weihnachtsgeschenke-fuer-Apple-Nutzer-Unsere-Klassenbesten-10035147.html",
+      "image_title": ","
+    },
+    {
       "title": "Im Test: Vier Multifunktionsdrucker für Arbeitsgruppen",
       "teaser": "Multifunktionsgeräte für Abteilungen drucken problemlos Tausende Seiten pro Monat, kopieren und scannen in Sekundenschnelle und verwalten viele Nutzer.",
       "url": "https://www.heise.de/tests/Im-Test-Vier-Multifunktionsdrucker-fuer-Arbeitsgruppen-10028927.html",
       "image_title": ","
     },
     {
-      "title": "Welche Vorteile Arduino und Raspi attraktiv machen",
-      "teaser": "Der Arduino und später der Raspberry Pi veränderten die Welt der IT-Bastler. Ihre Konzepte ebneten anderen Bastelplattformen wie ESP32 & Co den Weg.",
-      "url": "https://www.heise.de/hintergrund/Welche-Vorteile-Arduino-und-Raspi-attraktiv-machen-10009588.html",
-      "image_title": ","
+      "title": "Sicherheitsupdates: Angreifer können Apache Traffic Server crashen lassen",
+      "teaser": "Um Netzwerke zu schützen, sollten Admins die aktuellen Versionen von Apache Traffic Server installieren.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Apache-Traffic-Server-crashen-lassen-10036352.html",
+      "image_title": "Blackout,Concept.,Emergency,Failure,Red,Light,In,Data,Center,With"
+    },
+    {
+      "title": "Fehlerhafte Patches: Microsoft stoppt Exchange-Server-Updates",
+      "teaser": "Microsoft hat die Verteilung der November-Sicherheitsupdates für Exchange-Server 2016 und 2019 eingestellt. Sie hatten Nebenwirkungen.",
+      "url": "https://www.heise.de/news/Wegen-Nebenwirkungen-Microsoft-stoppt-Exchange-Server-Updates-10036318.html",
+      "image_title": "Server in der MItte, Mails und Briefe fliegen herum, Arbeiter sind planlos"
+    },
+    {
+      "title": "Podcast Software Testing: Korrektheit durch formale Methoden",
+      "teaser": "In der Folge spricht Richard Seidl mit Bianca Lutz und Lars Hupel über mathematische Beweisführung, um die Korrektheit von Software nachzuweisen.",
+      "url": "https://www.heise.de/blog/Podcast-Software-Testing-Korrektheit-durch-formale-Methoden-10015543.html",
+      "image_title": "Podcast Software Testing: Korrektheit durch formale Methoden mit Bianca Lutz und Lars Hupel"
+    },
+    {
+      "title": "Gegen Enkeltrickbetrug: KI-Omi soll Kriminelle in endlose Gespräche verwickeln",
+      "teaser": "Eine KI-generierte Omi soll für O2 Kriminelle beschäftigen, die echten Menschen per Telefon das Geld aus Tasche ziehen wollen. Dazu soll sie reden und reden.",
+      "url": "https://www.heise.de/news/Gegen-Enkeltrickbetrug-KI-Omi-soll-Kriminelle-in-endlose-Gespraeche-verwickeln-10036234.html",
+      "image_title": "Alte Frau am Telefon"
+    },
+    {
+      "title": "iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response (DFIR)",
+      "teaser": "Lernen Sie, professionelle Incident Response Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können.",
+      "url": "https://www.heise.de/news/iX-Workshop-Nach-dem-Einbruch-Digital-Forensics-Incident-Response-DFIR-10018528.html",
+      "image_title": "iX-Workshop Digital Forensics & Incident Response"
     },
     {
       "title": "Kommentar: Natürlich spart ein EU-Großprojekt mal wieder an der falschen Stelle",
@@ -94,36 +124,6 @@
       "title": "Last Call: IT-Sicherheitstag Gelsenkirchen – Komplexität managen",
       "teaser": "Der IT-Sicherheitstag Gelsenkirchen gibt Hilfestellung beim Management komplexer IT-Infrastrukturen - jetzt noch Ticket buchen.",
       "url": "https://www.heise.de/news/Last-Call-IT-Sicherheitstag-Gelsenkirchen-Komplexitaet-managen-10035159.html"
-    },
-    {
-      "title": "Destatis: Cyberkriminelle erbeuten offenbar 3,8 GByte an Daten",
-      "teaser": "Beim Statistischen Bundesamt konnten Cyberkriminelle anscheinend Unternehmensdaten im Umfang von 3,8 GByte abzweigen.",
-      "url": "https://www.heise.de/news/Destatis-Cyberkriminelle-erbeuten-offenbar-3-8-GByte-an-Daten-10035243.html",
-      "image_title": "Computer vor Serverschränken, auf dem Dataleak steht, drumherum lungern Datendiebe"
-    },
-    {
-      "title": "Updates verfügbar: Mehrere Sicherheitslücken bedrohen Gitlab",
-      "teaser": "Mehrere Software-Schwachstellen bedrohen die Community Edition und die Enterprise Edition von Gitlab.",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-Entwickler-ruesten-Gitlab-gegen-unbefugte-Zugriffe-10035049.html",
-      "image_title": "Ausrufezeichen in einem Warndreieck"
-    },
-    {
-      "title": "Neue Speichermarke: 122 TByte in einer SSD",
-      "teaser": "Gleich zwei Hersteller haben verkündet, SSDs mit mehr als 120 TByte Speicher zu bauen: Phison und Solidigm. Zu den Preisen gibt es noch keine Informationen.",
-      "url": "https://www.heise.de/news/Neue-Speichermarke-122-TByte-in-einer-SSD-10035393.html",
-      "image_title": "SSD"
-    },
-    {
-      "title": "Final Cut Pro 11: Diese Einschränkungen gibt es bei den KI-Untertiteln",
-      "teaser": "Apples neues KI-Feature für Untertitel in Final Cut Pro 11 ist für deutschsprachige Nutzer aktuell noch keine große Hilfe. Was erste Versuche ergeben haben.",
-      "url": "https://www.heise.de/news/Final-Cut-Pro-11-KI-Untertitel-vorerst-nur-auf-Englisch-10035417.html",
-      "image_title": "Einblick in Apples Final-Cut-Pro-KI-Untertitel-Funktion"
-    },
-    {
-      "title": "\"Global Police Summit\": Apple gab Polizisten bei Event im Apple Park Tipps",
-      "teaser": "Der Konzern verfolgt bei Verschlüsselung eine harte Linie, will gegenüber Strafverfolgern dennoch freundlich sein. Dafür gab es ein besonderes Apple-Event.",
-      "url": "https://www.heise.de/news/Event-in-Cupertino-Apple-erklaerte-Polizisten-iPhone-Vision-Pro-Co-9977540.html",
-      "image_title": "Polizist in Belfast – mit aufmontiertem Apple-Logo"
     },
     {
       "title": "Die neusten Ergebnisse für dieses Jahr",

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-15T07:01:00",
+  "timestamp": "2024-11-15T08:10:29",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Apache Traffic Server",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Apache-Traffic-Server-crashen-lassen-10036352.html"
+    },
+    {
       "title": "GitLab",
       "url": "https://www.heise.de/news/Sicherheitsluecken-Entwickler-ruesten-Gitlab-gegen-unbefugte-Zugriffe-10035049.html"
     },
@@ -44,8 +48,28 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Zoom-Room-Client-Co-angreifbar-10031648.html"
     },
     {
-      "title": "FortiOS, FortiAnalyzer und FortiClient",
-      "url": "https://www.heise.de/news/Fortinet-sichert-FortiOS-FortiAnalyzer-und-FortiClient-ab-10031976.html"
+      "title": "Sicherheitsupdates: Angreifer können Apache Traffic Server crashen lassen",
+      "teaser": "Um Netzwerke zu schützen, sollten Admins die aktuellen Versionen von Apache Traffic Server installieren.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Apache-Traffic-Server-crashen-lassen-10036352.html",
+      "image_title": "Blackout,Concept.,Emergency,Failure,Red,Light,In,Data,Center,With"
+    },
+    {
+      "title": "Fehlerhafte Patches: Microsoft stoppt Exchange-Server-Updates",
+      "teaser": "Microsoft hat die Verteilung der November-Sicherheitsupdates für Exchange-Server 2016 und 2019 eingestellt. Sie hatten Nebenwirkungen.",
+      "url": "https://www.heise.de/news/Wegen-Nebenwirkungen-Microsoft-stoppt-Exchange-Server-Updates-10036318.html",
+      "image_title": "Server in der MItte, Mails und Briefe fliegen herum, Arbeiter sind planlos"
+    },
+    {
+      "title": "Gegen Enkeltrickbetrug: KI-Omi soll Kriminelle in endlose Gespräche verwickeln",
+      "teaser": "Eine KI-generierte Omi soll für O2 Kriminelle beschäftigen, die echten Menschen per Telefon das Geld aus Tasche ziehen wollen. Dazu soll sie reden und reden.",
+      "url": "https://www.heise.de/news/Gegen-Enkeltrickbetrug-KI-Omi-soll-Kriminelle-in-endlose-Gespraeche-verwickeln-10036234.html",
+      "image_title": "Alte Frau am Telefon"
+    },
+    {
+      "title": "iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response (DFIR)",
+      "teaser": "Lernen Sie, professionelle Incident Response Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können.",
+      "url": "https://www.heise.de/news/iX-Workshop-Nach-dem-Einbruch-Digital-Forensics-Incident-Response-DFIR-10018528.html",
+      "image_title": "iX-Workshop Digital Forensics & Incident Response"
     },
     {
       "title": "Chinas Cyberspione greifen Telefondaten und -gespräche von US-Netzbetreibern ab",
@@ -140,30 +164,6 @@
       "teaser": "Verschiedene Anwendungen von Adobe sind verwundbar. Sicherheitsupdates schließen mehrere Lücken.",
       "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Attacken-auf-After-Effects-Co-moeglich-10029714.html",
       "image_title": "Adobe-Logo mit Flecken und der Aufschrift \"Patchday\""
-    },
-    {
-      "title": "Patchday Microsoft: Internet-Explorer-Komponente ermöglicht Attacken",
-      "teaser": "Microsoft hat wichtige Sicherheitspatches für unter anderem Azure, Exchange Server und Windows veröffentlicht. Es gibt bereits Angriffe.",
-      "url": "https://www.heise.de/news/Patchday-Microsoft-Internet-Explorer-Komponente-ermoeglicht-Attacken-10029614.html",
-      "image_title": "Windows-Logo mit Flecken und der Aufschrift \"Patchday\""
-    },
-    {
-      "title": "Citrix schließt Sicherheitslücken in Netscaler ADC und Gateway und weitere",
-      "teaser": "Citrix hat Sicherheitsupdates zum Ausbessern von Schwachstellen in Netscaler ADC, Gateway und Session Recording herausgegeben.",
-      "url": "https://www.heise.de/news/Citrix-stopft-Sicherheitslecks-in-Netscaler-ADC-und-Gateway-und-weitere-10029622.html",
-      "image_title": "Computer mit Citrix-Schriftzügen brennen"
-    },
-    {
-      "title": "\"Passwort\" Folge 18: Löcher in der Zwiebel? Ein Blick auf das Tor-Netzwerk",
-      "teaser": "Im Security-Podcast geht es diesmal um das anonymisierende Tor-Netzwerk und mit welchen Tricks Behörden versuchen können, Tor-Nutzer zu enttarnen.",
-      "url": "https://www.heise.de/news/Passwort-Folge-18-Loecher-in-der-Zwiebel-Ein-Blick-auf-das-Tor-Netzwerk-10001997.html",
-      "image_title": "Bild vom heise-Security-Podcast"
-    },
-    {
-      "title": "iX-Workshop: Angriffe auf Entra ID abwehren",
-      "teaser": "Lernen Sie, wie Sie Entra ID einschließlich Azure-Diensten härten und effektiv vor Angriffen schützen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Angriffe-auf-Entra-ID-abwehren-10016030.html",
-      "image_title": "iX-Workshop Entra ID (AAD) gegen Angriffe absichern"
     },
     {
       "title": "Scuba-Webinar",
