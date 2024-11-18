@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-18T09:09:07",
+  "timestamp": "2024-11-18T10:08:47",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "PostgreSQL",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-PostgreSQL-fuer-Schadcode-Attacken-anfaellig-10040932.html"
+    },
+    {
+      "title": "Palo Alto PAN-OS",
+      "url": "https://www.heise.de/news/Palo-Alto-Ungepatchter-Zero-Day-fuer-Security-Appliances-aufgetaucht-10040500.html"
+    },
+    {
       "title": "Wordpress-Plug-in Really Simple Security",
       "url": "https://www.heise.de/news/Wordpress-Plug-in-Really-Simple-Security-gefaehrdet-4-Millionen-Websites-10038111.html"
     },
@@ -40,18 +48,15 @@
       "url": "https://www.heise.de/news/Palo-Alto-Weitere-Sicherheitslecks-in-MIgrationstool-aktiv-angegriffen-10036380.html"
     },
     {
-      "title": "Apache Traffic Server",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Apache-Traffic-Server-crashen-lassen-10036352.html"
+      "title": "Sicherheitsupdates: PostgreSQL für Schadcode-Attacken anfällig",
+      "teaser": "Das Datenbankmanagementsystem PostgreSQL ist über mehrere Lücken angreifbar. Admins sollten Instanzen jetzt absichern. Für eine Version läuft der Support aus.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-PostgreSQL-fuer-Schadcode-Attacken-anfaellig-10040932.html"
     },
     {
-      "title": "GitLab",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-Entwickler-ruesten-Gitlab-gegen-unbefugte-Zugriffe-10035049.html"
-    },
-    {
-      "title": "Palo-Alto: Ungepatchter Zero-Day für Security-Appliances aufgetaucht",
-      "teaser": "In der vergangenen Woche hatte Palo Alto Kunden über eine ungepatchte Lücke im Webinterface verschiedener Firewalls informiert. Diese wird nun ausgenutzt.",
-      "url": "https://www.heise.de/news/Palo-Alto-Ungepatchter-Zero-Day-fuer-Security-Appliances-aufgetaucht-10040500.html",
-      "image_title": "Eine Firewall mit weit offener Tür"
+      "title": "Vor 40 Jahren: der Btx-Hack macht den CCC über Nacht bekannt",
+      "teaser": "Der berühmte Btx-Hack des Chaos Computer Clubs 1984 enthüllte Sicherheitslücken und machte den CCC schlagartig bekannt.",
+      "url": "https://www.heise.de/news/Vor-40-Jahren-der-Btx-Hack-feiert-froehliche-Urstaend-10040274.html",
+      "image_title": "Btx Logo"
     },
     {
       "title": "iX-Workshop: Sicherer Betrieb von Windows 11 in Unternehmen",
@@ -159,12 +164,6 @@
       "teaser": "Die Aktivistin Lilith Wittmann fand einen neuen Weg, beliebige Bonitätsdaten mit wenig Aufwand abzurufen. Der Anbieter reagierte mit Abschaltung.",
       "url": "https://www.heise.de/news/Datenleck-bei-Online-Auskunftei-Hackerin-kann-beliebige-Bonitaetsdaten-einsehen-10034774.html",
       "image_title": "Menschen laufen mit Scoring-Daten überm Kopf herum."
-    },
-    {
-      "title": "Malware: Erkennung entgehen durch angeflanschtes ZIP",
-      "teaser": "IT-Forscher haben Malware entdeckt, die der Erkennung durch Virenscanner durch Verkettung von ZIP-Dateien entgeht.",
-      "url": "https://www.heise.de/news/Malware-Erkennung-entgehen-durch-angeflanschtes-ZIP-10034752.html",
-      "image_title": "Viren tarnen sich mit Hüten und Sonnenbrillen"
     },
     {
       "title": "Scuba-Webinar",
