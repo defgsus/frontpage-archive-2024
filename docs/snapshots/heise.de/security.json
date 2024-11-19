@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-19T07:07:38",
+  "timestamp": "2024-11-19T08:11:45",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Palo Alto PAN-OS",
+      "url": "https://www.heise.de/news/Kritische-Palo-Alto-Luecke-Patches-sind-da-CISA-warnt-vor-Exploit-10051696.html"
+    },
+    {
       "title": "PostgreSQL",
       "url": "https://www.heise.de/news/Sicherheitsupdates-PostgreSQL-fuer-Schadcode-Attacken-anfaellig-10040932.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Wordpress-Plug-in-Really-Simple-Security-gefaehrdet-4-Millionen-Websites-10038111.html"
     },
     {
-      "title": "Palo Alto Expedition",
-      "url": "https://www.heise.de/news/Palo-Alto-Weitere-Sicherheitslecks-in-MIgrationstool-aktiv-angegriffen-10036380.html"
+      "title": "Kritische Palo-Alto-Lücke: Patches sind da, CISA warnt vor Exploit",
+      "teaser": "Fast drei Wochen nach ersten Exploit-Gerüchten hat der Hersteller nun endlich reagiert, trickst aber. Derweil warnt die US-Cyberbehörde vor Angriffen.",
+      "url": "https://www.heise.de/news/Kritische-Palo-Alto-Luecke-Patches-sind-da-CISA-warnt-vor-Exploit-10051696.html",
+      "image_title": "Kabel in Patchpanels"
     },
     {
       "title": "Kommentar: Das BSI liefert ein tolles Konzept für einen neuen IT-Grundschutz",
@@ -160,15 +166,15 @@
       "image_title": "Ausrufezeichen in einem Warndreieck"
     },
     {
-      "title": "Software-Entwicklungs-Tool Jenkins schließt mehrere Sicherheitslücken",
-      "teaser": "In dem Software-Entwicklungs-Tool Jenkins bessern die Entwickler sieben Sicherheitslücken aus. Die meisten gelten als hochriskant.",
-      "url": "https://www.heise.de/news/Software-Entwicklungs-Tool-Jenkins-schliesst-mehrere-Sicherheitsluecken-10035015.html",
-      "image_title": "Ein Kreis-Pfeil, auf den ein Mensch mit Finger klickt."
-    },
-    {
       "title": "Scuba-Webinar",
       "teaser": "Lernen Sie Lücken und Fehler mit SCUBA selbst zu finden und zu beheben. Das Webinar erklärt das Konzept und die Funktionsweise des Tools, um die Sicherheit seines M365-Tenants zu verbessern.",
       "url": "https://heise-academy.de/webinare/microsoft_cloud_security?wt_mc=intern.academy.security.web_scuba2.hs_teaser.teaser.teaser"
+    },
+    {
+      "title": "Kommentar: Das BSI liefert ein tolles Konzept für einen neuen IT-Grundschutz",
+      "teaser": "Das Umsetzen des IT-Grundschutz ist oft ein Ärgernis. Warum die vom BSI angekündigten Änderungen so vielversprechend sind, kommentiert Ronny Frankenstein.",
+      "url": "https://www.heise.de/meinung/Kommentar-Das-BSI-liefert-ein-tolles-Konzept-fuer-einen-neuen-IT-Grundschutz-10035748.html",
+      "image_title": "Vorhängeschloß vor Tastatur"
     },
     {
       "title": "Secure Coding: CWE-377 – Unsichere temporäre Dateien und wie man sie vermeidet",
@@ -181,12 +187,6 @@
       "teaser": "Die Zusammenfassung des Bundestags zur NIS2 Anhörung titelt \"Expertenkritik an geplanter Umsetzung der NIS-2-Richtlinie\". Zu Recht, meint Manuel Atug.",
       "url": "https://www.heise.de/meinung/NIS-2-kommt-naeher-Staatlich-weggecybert-oder-komplett-abgesichert-10013942.html",
       "image_title": "Merere rote Projektionen von Sicherheitsschlössern in einer Reihe, links eine Lupe"
-    },
-    {
-      "title": "Software-Anbieter aufgepasst: Sie haften jetzt für fehlerhafte Produkte",
-      "teaser": "Mit der neuen Produkthaftungsrichtlinie kommen auf Software-Hersteller verschärfte Auflagen hinzu. Und nicht nur sie: Viele andere Akteure haften jetzt auch.",
-      "url": "https://www.heise.de/hintergrund/Software-Anbieter-aufgepasst-Sie-haften-jetzt-fuer-fehlerhafte-Produkte-10027145.html",
-      "image_title": "Geld, Hammer"
     },
     {
       "title": "Re: Konnte Laufwerk sda1 (vfat) nicht einbinden.",

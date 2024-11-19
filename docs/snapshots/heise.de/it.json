@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-19T07:07:35",
+  "timestamp": "2024-11-19T08:11:42",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,16 +26,40 @@
   ],
   "articles": [
     {
+      "title": "Politik im Permafrost: \"Frostpunk 2\" für macOS im Test",
+      "teaser": "Ein besonderes Aufbauspiel, winterlich cool: \"Frostpunk 2\" führt Städtebauer aufs Glatteis. Wir haben uns die Mac-Version angesehen.",
+      "url": "https://www.heise.de/tests/Politik-im-Permafrost-Frostpunk-2-fuer-macOS-im-Test-10028803.html",
+      "image_title": ","
+    },
+    {
       "title": "Wissen organisieren in Obsidian: Strategien und Methoden",
       "teaser": "Seine Stärken spielt Obsidian aus, wenn Sie Inhalte zu einem strukturierten Archiv oder einem Wissensnetzwerk ausbauen. Wir erklären Methoden und geben Tipps.",
       "url": "https://www.heise.de/ratgeber/Wissen-organisieren-in-Obsidian-Strategien-und-Methoden-9997389.html",
       "image_title": ", KI, Collage c't"
     },
     {
-      "title": "Einführung in die Programmiersprache Rust",
-      "teaser": "Rust verbreitet sich seit seiner Einführung 2010 immer weiter und dient längst nicht nur zur Systemprogrammierung. Wir zeigen, was die Sprache so beliebt macht.",
-      "url": "https://www.heise.de/ratgeber/Einfuehrung-in-die-Programmiersprache-Rust-10035005.html",
-      "image_title": ","
+      "title": "Tipp: Unbeabsichtigten Vollbildmodus von Fenstern abschalten",
+      "teaser": "In macOS 15 ändert sich das Fenstermanagement, was selbst langjährige Mac-Nutzer nerven kann. Mit unserem Tipp werden Sie das Problem los.",
+      "url": "https://www.heise.de/ratgeber/Tipp-Unbeabsichtigten-Vollbildmodus-von-Fenstern-abschalten-10051474.html",
+      "image_title": "macOS Sequoia"
+    },
+    {
+      "title": "Kritische Palo-Alto-Lücke: Patches sind da, CISA warnt vor Exploit",
+      "teaser": "Fast drei Wochen nach ersten Exploit-Gerüchten hat der Hersteller nun endlich reagiert, trickst aber. Derweil warnt die US-Cyberbehörde vor Angriffen.",
+      "url": "https://www.heise.de/news/Kritische-Palo-Alto-Luecke-Patches-sind-da-CISA-warnt-vor-Exploit-10051696.html",
+      "image_title": "Kabel in Patchpanels"
+    },
+    {
+      "title": "JVM-Toolkit Akka 3: Weniger komplex, mehr Cloud-Optionen und neuer Firmenname",
+      "teaser": "Lightbend krempelt die Implementierung des Aktorenmodells Akka in Version 3 vollständig um und integriert dabei Projekte wie Lagom und das Play Framework.",
+      "url": "https://www.heise.de/news/JVM-Toolkit-Akka-3-Weniger-komplex-mehr-Cloud-Optionen-und-neuer-Firmenname-10040338.html",
+      "image_title": "Visualisierte Daten vor schwarzem Hintergrund"
+    },
+    {
+      "title": "Grüner coden: Ressourcen im Blick",
+      "teaser": "Der Klimawandel ist Realität. Für mehr Nachhaltigkeit kann und muss auch IT einen Beitrag zur Ressourcenschonung leisten – schon bei der Softwareentwicklung.",
+      "url": "https://www.heise.de/hintergrund/Gruener-coden-Ressourcen-im-Blick-10005869.html",
+      "image_title": "Grüner coden: Ressourcen im Blick"
     },
     {
       "title": "Podcast Software Testing: GenAI in der Testautomatisierung",
@@ -48,12 +72,6 @@
       "teaser": "Erhalten Sie einen umfassenden Einblick in die Praxis der IT-Grundschutz-Methodik des BSI. Mit anschließender Prüfung und Zertifizierung.",
       "url": "https://www.heise.de/news/iX-Workshop-IT-Grundschutz-Praktiker-mit-Zertifikat-10036089.html",
       "image_title": "Online-Workshops: Systematische Sicherheit mit dem IT-Grundschutz des BSI"
-    },
-    {
-      "title": "Politik im Permafrost: \"Frostpunk 2\" für macOS im Test",
-      "teaser": "Ein besonderes Aufbauspiel, winterlich cool: \"Frostpunk 2\" führt Städtebauer aufs Glatteis. Wir haben uns die Mac-Version angesehen.",
-      "url": "https://www.heise.de/tests/Politik-im-Permafrost-Frostpunk-2-fuer-macOS-im-Test-10028803.html",
-      "image_title": ","
     },
     {
       "title": "Kommentar: Das BSI liefert ein tolles Konzept für einen neuen IT-Grundschutz",
@@ -107,24 +125,6 @@
       "teaser": "Mit großer Sorge verfolgen Verlegerverbände die Überlegungen des Europäischen Datenschutzausschusses, Leitlinien für \"Pur-Abo-Modelle\" zu beschließen.​",
       "url": "https://www.heise.de/news/Pay-or-OK-Verleger-warnen-vor-Frontalangriff-auf-Geschaeftsmodell-der-Presse-10048105.html",
       "image_title": "news-Schriftzug auf Schreibmaschinenblatt"
-    },
-    {
-      "title": "BGH verpflichtet Facebook zu Schadensersatz bei Datendiebstahl",
-      "teaser": "Laut einer Leitentscheidung des Bundesgerichtshofs ist Facebook nach DSGVO schadensersatzpflichtig, wenn Daten der Nutzer entwendet und veröffentlicht werden.",
-      "url": "https://www.heise.de/news/BGH-verpflichtet-Facebook-zu-Schadensersatz-bei-Datendiebstahl-10044449.html",
-      "image_title": "Im Vordergrund ein Paragraphen-Symbol, im Hintergrund der Facebook-Schriftzug"
-    },
-    {
-      "title": "Blackout-Angst macht Stromgesetz flott",
-      "teaser": "Mit dem Entwurf des Energiewirtschaftsgesetzes würde sich eine Menge ändern – für Solaranlagenbetreiber, E-Auto- und Heimspeichernutzer.",
-      "url": "https://www.heise.de/news/Blackout-Angst-macht-Stromgesetz-flott-10046646.html",
-      "image_title": "Techniker mit Hand auf Solarpanele"
-    },
-    {
-      "title": "Verbindung gekappt: Daten-Seekabel zwischen Deutschland und Finnland beschädigt",
-      "teaser": "Das Seekabel C-Lion1 zwischen Deutschland und Finnland funktioniert nicht mehr. Die Reparatur könnte Tage dauern, die Ursache ist offen.",
-      "url": "https://www.heise.de/news/Verbindung-gekappt-Daten-Seekabel-zwischen-Deutschland-und-Finnland-beschaedigt-10046194.html",
-      "image_title": "Schiff legt Seekabel"
     },
     {
       "title": "Die neusten Ergebnisse für dieses Jahr",
