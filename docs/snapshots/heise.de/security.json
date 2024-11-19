@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-19T12:13:31",
+  "timestamp": "2024-11-19T13:18:36",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Azure Stack HCI",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-Azure-Stack-HCI-fuer-Attacke-anfaellig-10057541.html"
+    },
+    {
       "title": "Nextcloud",
       "url": "https://www.heise.de/news/Sicherheitsluecken-in-Nextcloud-Angreifer-koennen-E-Mails-abfangen-10053302.html"
     },
@@ -44,8 +48,22 @@
       "url": "https://www.heise.de/news/Kritische-Palo-Alto-Luecke-Patches-sind-da-CISA-warnt-vor-Exploit-10051696.html"
     },
     {
-      "title": "PostgreSQL",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-PostgreSQL-fuer-Schadcode-Attacken-anfaellig-10040932.html"
+      "title": "iX-Workshop für KMUs: Schritt für Schritt zur sicheren IT",
+      "teaser": "Erhalten Sie einen Überblick über Methoden und Best Practices für eine effiziente Cybersicherheitsstrategie.",
+      "url": "https://www.heise.de/news/iX-Workshop-fuer-KMUs-Schritt-fuer-Schritt-zur-sicheren-IT-10036119.html",
+      "image_title": "iX-Workshop: IT-Sicherheit für KMU"
+    },
+    {
+      "title": "Malvertising: Fake-Werbung auf Facebook zielt auf Bitwarden-Nutzer ab",
+      "teaser": "Sicherheitsforscher haben eine Malwaretising-Kampagne beobachtet, bei der ein angebliches Sicherheitsupdate für Bitwarden via Facebook beworben wurde.",
+      "url": "https://www.heise.de/news/Malvertising-Fake-Werbung-auf-Facebook-zielt-auf-Bitwarden-Nutzer-ab-10057183.html",
+      "image_title": "Lupe auf Malware-Schriftzug"
+    },
+    {
+      "title": "Sicherheitslücke: Azure Stack HCI für Attacke anfällig",
+      "teaser": "Microsoft hat einen wichtigen Sicherheitspatch für Azure Stack HCI veröffentlicht. Bislang wurden noch keine Attacken beobachtet.",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-Azure-Stack-HCI-fuer-Attacke-anfaellig-10057541.html",
+      "image_title": "Update-Taste auf Tastatur"
     },
     {
       "title": "Pistorius: \"Niemand glaubt, dass diese Kabel aus Versehen durchtrennt wurden\"",
@@ -146,24 +164,6 @@
       "teaser": "Microsoft hat die Verteilung der November-Sicherheitsupdates für Exchange-Server 2016 und 2019 eingestellt. Sie hatten Nebenwirkungen.",
       "url": "https://www.heise.de/news/Wegen-Nebenwirkungen-Microsoft-stoppt-Exchange-Server-Updates-10036318.html",
       "image_title": "Server in der MItte, Mails und Briefe fliegen herum, Arbeiter sind planlos"
-    },
-    {
-      "title": "Gegen Enkeltrickbetrug: KI-Omi soll Kriminelle in endlose Gespräche verwickeln",
-      "teaser": "Eine KI-generierte Omi soll für O2 Kriminelle beschäftigen, die echten Menschen per Telefon das Geld aus Tasche ziehen wollen. Dazu soll sie reden und reden.",
-      "url": "https://www.heise.de/news/Gegen-Enkeltrickbetrug-KI-Omi-soll-Kriminelle-in-endlose-Gespraeche-verwickeln-10036234.html",
-      "image_title": "Alte Frau am Telefon"
-    },
-    {
-      "title": "iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response (DFIR)",
-      "teaser": "Lernen Sie, professionelle Incident Response Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können.",
-      "url": "https://www.heise.de/news/iX-Workshop-Nach-dem-Einbruch-Digital-Forensics-Incident-Response-DFIR-10018528.html",
-      "image_title": "iX-Workshop Digital Forensics & Incident Response"
-    },
-    {
-      "title": "Chinas Cyberspione greifen Telefondaten und -gespräche von US-Netzbetreibern ab",
-      "teaser": "Chinesische Cyberspione haben US-Netzbetreiber infiltriert. Gespräche und Daten von Regierung und Politikern wurden abgegriffen, zudem Abhörungen der Polizei.",
-      "url": "https://www.heise.de/news/Chinas-Cyberspione-greifen-Telefondaten-und-gespraeche-von-US-Netzbetreibern-ab-10036185.html",
-      "image_title": "Meldung auf Computerbildschirm: Angriff erfolgreich"
     },
     {
       "title": "Scuba-Webinar",
