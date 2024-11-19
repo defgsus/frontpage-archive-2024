@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-19T09:07:52",
+  "timestamp": "2024-11-19T10:08:14",
   "url": "https://www.gmx.net/",
   "response": {
     "status": 200
@@ -19,50 +19,51 @@
     },
     {
       "type": null,
-      "src": "https://img.ui-portal.de/pos-cdn/tracklib/4.7.3/tracklib.poly.min.js",
+      "src": "https://img.ui-portal.de/pos-cdn/tracklib/4.7.3/tracklib.min.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://js.ui-portal.de/homepage/res/legacy/live/1.64/gmx/js/piNctTracking.js",
+      "src": "https://js.ui-portal.de/homepage/res/live/1.82/gmx/js/piNctTracking.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://js.ui-portal.de/homepage/res/legacy/live/1.64/gmx/chunk-vendors.bundle.js",
+      "src": "https://dl.gmx.net/uim/connector/live/v2/service.min.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://js.ui-portal.de/homepage/res/legacy/live/1.64/gmx/chunk-common.bundle.js",
+      "src": "https://dl.gmx.net/uim/live/config_homepage.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://js.ui-portal.de/homepage/res/legacy/live/1.64/gmx/homepage.bundle.js",
+      "type": "module",
+      "src": "https://js.ui-portal.de/homepage/res/live/1.82/gmx/page.bundle.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://js.ui-portal.de/homepage/res/live/1.82/gmx/chunk-vendors.bundle.js",
       "id": null,
       "text": null
     }
   ],
   "articles": [
     {
-      "title": "Scholz muss es mit Deutschlands beliebtestem Politiker aufnehmen",
-      "url": "https://www.gmx.net/magazine/politik/scholz-deutschlands-beliebtestem-politiker-aufnehmen-40360126",
-      "image_url": "https://i0.gmx.net/image/798/40360798,pd=3,h=300,w=530.jpg"
+      "title": "Spitzenkandidatin der Linken mit Kampfansage: \"Es geht um alles oder nichts\"",
+      "url": "https://www.gmx.net/magazine/politik/linke-spitzenkandidatin-kampfansage-40358772",
+      "image_url": "https://i0.gmx.net/image/078/40359078,pd=2,h=300,w=530.jpg"
     },
     {
-      "title": "Strafe für Trump trotz Comeback?",
-      "url": "https://www.gmx.net/magazine/politik/us-politik/us-politik-ticker-strafe-trump-trotz-comeback-40360420",
-      "image_url": "https://i0.gmx.net/image/680/40360680,pd=2,h=300,w=530.jpg"
-    },
-    {
-      "title": "Ein schier unglaublicher \"Kinderfehler\" rettet Eintracht Frankfurt",
-      "url": "https://www.gmx.net/magazine/sport/fussball/bundesliga/bundesliga-frauen-kinderfehler-rettet-eintracht-frankfurt-40360426",
-      "image_url": "https://i0.gmx.net/image/480/40360480,pd=1,h=300,w=530.jpg"
+      "title": "Kabel in der Ostsee zerstört – Pistorius spricht von Absicht",
+      "url": "https://www.gmx.net/magazine/politik/ostsee-datenkabel-zerstoert-pistorius-spricht-absicht-40361076",
+      "image_url": "https://i0.gmx.net/image/130/40361130,pd=6,h=300,w=530.jpg"
     },
     {
       "title": "Ist es egal, in welcher Richtung ich mein Auto parke?",
@@ -71,14 +72,142 @@
       "image_title": "parkende Autos"
     },
     {
+      "title": "ManUnited-Frauen mit frecher Unsportlichkeit",
+      "url": "https://www.gmx.net/magazine/sport/fussball/international/manunited-frauen-frecher-unsportlichkeit-40360886",
+      "image_url": "https://i0.gmx.net/image/978/40360978,pd=1,h=300,w=530/manchester-united-leicester-city.jpg",
+      "image_title": "Manchester United gegen Leicester City"
+    },
+    {
       "title": "Vergewaltigungsverdacht: Mette-Marits Sohn festgenommen",
       "url": "https://www.gmx.net/magazine/unterhaltung/adel/vergewaltigungsverdacht-mette-marits-sohn-festgenommen-40360910",
-      "image_url": "https://i0.gmx.net/image/926/40360926,pd=2,h=300,w=530/mette-marit-sohn-marius-borg-hiby.jpg",
-      "image_title": "Mette-Marit und ihr Sohn Marius Borg Høiby"
+      "image_url": "https://i0.gmx.net/image/962/40360962,pd=3,h=300,w=530.jpg"
+    },
+    {
+      "title": "Charlène von Monaco über ihre Gesundheit: \"Mein Körper lässt es nicht mehr zu\"",
+      "url": "https://www.gmx.net/magazine/unterhaltung/adel/charlene-monaco-koerper-40353344"
+    },
+    {
+      "title": "Strafe für Trump trotz Comeback?",
+      "url": "https://www.gmx.net/magazine/politik/us-politik/us-politik-ticker-strafe-trump-trotz-comeback-40360420"
+    },
+    {
+      "title": "Polizei löst Tesla-Protestcamp komplett auf",
+      "url": "https://www.gmx.net/magazine/panorama/polizei-loest-tesla-protestcamp-komplett-40361036"
     },
     {
       "title": "Massenmörder erneut vor Gericht - Breivik will freikommen",
       "url": "https://www.gmx.net/magazine/panorama/massenmoerder-gericht-breivik-freikommen-40360466"
+    },
+    {
+      "title": "Charlène von Monaco über ihre Gesundheit: \"Mein Körper lässt es nicht mehr zu\"",
+      "url": "https://www.gmx.net/magazine/unterhaltung/adel/charlene-monaco-koerper-40353344"
+    },
+    {
+      "title": "Strafe für Trump trotz Comeback?",
+      "url": "https://www.gmx.net/magazine/politik/us-politik/us-politik-ticker-strafe-trump-trotz-comeback-40360420"
+    },
+    {
+      "title": "Polizei löst Tesla-Protestcamp komplett auf",
+      "url": "https://www.gmx.net/magazine/panorama/polizei-loest-tesla-protestcamp-komplett-40361036"
+    },
+    {
+      "title": "Massenmörder erneut vor Gericht - Breivik will freikommen",
+      "url": "https://www.gmx.net/magazine/panorama/massenmoerder-gericht-breivik-freikommen-40360466"
+    },
+    {
+      "title": "Strafe für Trump trotz Comeback?",
+      "url": "https://www.gmx.net/magazine/politik/us-politik/us-politik-ticker-strafe-trump-trotz-comeback-40360420"
+    },
+    {
+      "title": "Polizei löst Tesla-Protestcamp komplett auf",
+      "url": "https://www.gmx.net/magazine/panorama/polizei-loest-tesla-protestcamp-komplett-40361036"
+    },
+    {
+      "title": "Massenmörder erneut vor Gericht - Breivik will freikommen",
+      "url": "https://www.gmx.net/magazine/panorama/massenmoerder-gericht-breivik-freikommen-40360466"
+    },
+    {
+      "title": "Scholz muss es mit Deutschlands beliebtestem Politiker aufnehmen",
+      "url": "https://www.gmx.net/magazine/politik/scholz-deutschlands-beliebtestem-politiker-aufnehmen-40360126"
+    },
+    {
+      "title": "Charlène von Monaco über ihre Gesundheit: \"Mein Körper lässt es nicht mehr zu\"",
+      "url": "https://www.gmx.net/magazine/unterhaltung/adel/charlene-monaco-koerper-40353344",
+      "image_url": "https://i0.gmx.net/image/884/40360884,pd=1,h=170,w=300/fuerstin-charlene.jpg",
+      "image_title": "Fürstin Charlene"
+    },
+    {
+      "title": "\"Muss meine Familie und mich schützen\": AfD-Verbotsinitiator Wanderwitz tritt ab",
+      "url": "https://www.gmx.net/magazine/politik/wahlen/bundestagswahl/afd-verbotsinitiator-wanderwitz-tritt-40359884",
+      "image_url": "https://i0.gmx.net/image/868/40360868,pd=1,h=170,w=300.jpg"
+    },
+    {
+      "title": "Boeing startet Entlassungswelle - Über 2.000 Menschen verlieren Arbeitsplatz",
+      "url": "https://www.gmx.net/magazine/wirtschaft/boeing-entlassungswelle-2000-menschen-verlieren-arbeitsplatz-40360724",
+      "image_url": "https://i0.gmx.net/image/730/40360730,pd=1,h=170,w=300.jpg"
+    },
+    {
+      "title": "San Marino schreibt Fußballmärchen",
+      "url": "https://www.gmx.net/magazine/sport/fussball/nations-league/san-marino-schreibt-fussballmaerchen-40360350"
+    },
+    {
+      "title": "Buß- und Bettag: Was bedeutet eigentlich \"Buße\"?",
+      "url": "https://www.gmx.net/magazine/wissen/geschichte/buss-bettag-bedeutet-busse-38888330"
+    },
+    {
+      "title": "Lange Haftstrafen für 45 Demokratie-Aktivisten in Hongkong",
+      "url": "https://www.gmx.net/magazine/panorama/lange-haftstrafen-45-demokratie-aktivisten-hongkong-40360788"
+    },
+    {
+      "title": "Dutzende Besucher stecken zwei Stunden meterhoch in einem Fahrgeschäft fest",
+      "url": "https://www.gmx.net/magazine/panorama/dutzende-besucher-stecken-stunden-meterhoch-fahrgeschaeft-fest-40360576"
+    },
+    {
+      "title": "Knacken Sie den Eurojackpot einfach online mit Ihrem Tipp!",
+      "url": "https://lotto.gmx.de/eurojackpot?partnerId=1GMHOMHPMD&advertisementId=4000000000000000EUROJACKPO00020NI1234567891**",
+      "image_url": "https://i0.gmx.net/image/912/38528912,pd=3,h=170,w=300.jpg"
+    },
+    {
+      "title": "Umgedrehtes Riesen-U soll alle Wolkenkratzer New Yorks in den Schatten stellen",
+      "url": "https://www.gmx.net/magazine/wissen/wissenschaft-technik/umgedrehtes-riesen-u-wolkenkratzer-new-yorks-schatten-stellen-40359644",
+      "image_url": "https://i0.gmx.net/image/646/40359646,pd=1,h=170,w=300/big-bend-umgedrehtes-u-wolkenkratzer-new-yorks-sch.jpg",
+      "image_title": "Big Bend: Umgedrehtes U soll alle Wolkenkratzer New Yorks in den Schatten stellen"
+    },
+    {
+      "title": "Scholz muss es mit Deutschlands beliebtestem Politiker aufnehmen",
+      "url": "https://www.gmx.net/magazine/politik/scholz-deutschlands-beliebtestem-politiker-aufnehmen-40360126",
+      "image_url": "https://i0.gmx.net/image/798/40360798,pd=3,h=170,w=300.jpg"
+    },
+    {
+      "title": "\"Muss meine Familie und mich schützen\": AfD-Verbotsinitiator Wanderwitz tritt ab",
+      "url": "https://www.gmx.net/magazine/politik/wahlen/bundestagswahl/afd-verbotsinitiator-wanderwitz-tritt-40359884",
+      "image_url": "https://i0.gmx.net/image/868/40360868,pd=1,h=170,w=300.jpg"
+    },
+    {
+      "title": "Boeing startet Entlassungswelle - Über 2.000 Menschen verlieren Arbeitsplatz",
+      "url": "https://www.gmx.net/magazine/wirtschaft/boeing-entlassungswelle-2000-menschen-verlieren-arbeitsplatz-40360724"
+    },
+    {
+      "title": "San Marino schreibt Fußballmärchen",
+      "url": "https://www.gmx.net/magazine/sport/fussball/nations-league/san-marino-schreibt-fussballmaerchen-40360350"
+    },
+    {
+      "title": "Buß- und Bettag: Was bedeutet eigentlich \"Buße\"?",
+      "url": "https://www.gmx.net/magazine/wissen/geschichte/buss-bettag-bedeutet-busse-38888330"
+    },
+    {
+      "title": "Lange Haftstrafen für 45 Demokratie-Aktivisten in Hongkong",
+      "url": "https://www.gmx.net/magazine/panorama/lange-haftstrafen-45-demokratie-aktivisten-hongkong-40360788"
+    },
+    {
+      "title": "Knacken Sie den Eurojackpot einfach online mit Ihrem Tipp!",
+      "url": "https://lotto.gmx.de/eurojackpot?partnerId=1GMHOMHPMD&advertisementId=4000000000000000EUROJACKPO00020NI1234567891**",
+      "image_url": "https://i0.gmx.net/image/912/38528912,pd=3,h=170,w=300.jpg"
+    },
+    {
+      "title": "Scholz muss es mit Deutschlands beliebtestem Politiker aufnehmen",
+      "url": "https://www.gmx.net/magazine/politik/scholz-deutschlands-beliebtestem-politiker-aufnehmen-40360126",
+      "image_url": "https://i0.gmx.net/image/798/40360798,pd=3,h=170,w=300.jpg"
     },
     {
       "title": "\"Muss meine Familie und mich schützen\": AfD-Verbotsinitiator Wanderwitz tritt ab",
@@ -93,10 +222,8 @@
       "url": "https://www.gmx.net/magazine/sport/fussball/nations-league/san-marino-schreibt-fussballmaerchen-40360350"
     },
     {
-      "title": "Charlène von Monaco über ihre Gesundheit: \"Mein Körper lässt es nicht mehr zu\"",
-      "url": "https://www.gmx.net/magazine/unterhaltung/adel/charlene-monaco-koerper-40353344",
-      "image_url": "https://i0.gmx.net/image/884/40360884,pd=1,h=170,w=300/fuerstin-charlene.jpg",
-      "image_title": "Fürstin Charlene"
+      "title": "Buß- und Bettag: Was bedeutet eigentlich \"Buße\"?",
+      "url": "https://www.gmx.net/magazine/wissen/geschichte/buss-bettag-bedeutet-busse-38888330"
     },
     {
       "title": "Lange Haftstrafen für 45 Demokratie-Aktivisten in Hongkong",
@@ -105,82 +232,688 @@
       "image_title": "Hongkong: Lange Haftstrafen für 45 Demokratie-Aktivisten"
     },
     {
-      "title": "Dutzende Besucher stecken zwei Stunden meterhoch in einem Fahrgeschäft fest",
-      "url": "https://www.gmx.net/magazine/panorama/dutzende-besucher-stecken-stunden-meterhoch-fahrgeschaeft-fest-40360576",
-      "image_url": "https://i0.gmx.net/image/578/40360578,pd=2,h=170,w=300/fahrgeschaeft-vergnuegungspark-knotts-berry-farm-b.jpg",
-      "image_title": "Fahrgeschäft im Vergnügungspark Knott's Berry Farm in Buena Park im US-Bundesstaat Kalifornien"
-    },
-    {
-      "title": "So können Sie öffentliche Toiletten einfacher und schneller finden",
-      "url": "https://www.gmx.net/magazine/digital/oeffentliche-toiletten-einfacher-schneller-40359956"
-    },
-    {
-      "title": "Umgedrehtes Riesen-U soll alle Wolkenkratzer New Yorks in den Schatten stellen",
-      "url": "https://www.gmx.net/magazine/wissen/wissenschaft-technik/umgedrehtes-riesen-u-wolkenkratzer-new-yorks-schatten-stellen-40359644"
-    },
-    {
-      "title": "Jennifer Love Hewitt: Die Presse wusste vor ihr vom Tod ihrer Mutter",
-      "url": "https://www.gmx.net/magazine/unterhaltung/stars/jennifer-love-hewitt-presse-wusste-tod-mutter-40359870"
-    },
-    {
-      "title": "Wussten Sie, dass die \"Winkekatze\" gar nicht winkt?",
-      "url": "https://www.gmx.net/magazine/wissen/psychologie/wussten-winkekatze-winkt-40359210"
-    },
-    {
-      "title": "Tierliebe Hofdame ist entsetzt: Jungbauer schlachtet selbst",
-      "url": "https://www.gmx.net/magazine/unterhaltung/tv-shows/bauer-sucht-frau/bauer-sucht-realitaetscheck-hofdame-jungbauer-schlachtet-40340682",
-      "image_url": "https://i0.gmx.net/image/564/40340564,pd=3,h=170,w=300/paul-bauer-sucht.jpg",
-      "image_title": "Paul, Bauer sucht Frau"
-    },
-    {
-      "title": "Massenmörder erneut vor Gericht - Breivik will freikommen",
-      "url": "https://www.gmx.net/magazine/panorama/massenmoerder-gericht-breivik-freikommen-40360466",
-      "image_url": "https://i0.gmx.net/image/502/40360502,pd=2,h=170,w=300/behring-breivik.jpg",
-      "image_title": "Anders Behring Breivik"
-    },
-    {
-      "title": "\"Muss meine Familie und mich schützen\": AfD-Verbotsinitiator Wanderwitz tritt ab",
-      "url": "https://www.gmx.net/magazine/politik/wahlen/bundestagswahl/afd-verbotsinitiator-wanderwitz-tritt-40359884"
-    },
-    {
-      "title": "Boeing startet Entlassungswelle - Über 2.000 Menschen verlieren Arbeitsplatz",
-      "url": "https://www.gmx.net/magazine/wirtschaft/boeing-entlassungswelle-2000-menschen-verlieren-arbeitsplatz-40360724"
-    },
-    {
-      "title": "San Marino schreibt Fußballmärchen",
-      "url": "https://www.gmx.net/magazine/sport/fussball/nations-league/san-marino-schreibt-fussballmaerchen-40360350"
-    },
-    {
-      "title": "Lange Haftstrafen für 45 Demokratie-Aktivisten in Hongkong",
-      "url": "https://www.gmx.net/magazine/panorama/lange-haftstrafen-45-demokratie-aktivisten-hongkong-40360788"
-    },
-    {
-      "title": "Dutzende Besucher stecken zwei Stunden meterhoch in einem Fahrgeschäft fest",
-      "url": "https://www.gmx.net/magazine/panorama/dutzende-besucher-stecken-stunden-meterhoch-fahrgeschaeft-fest-40360576",
-      "image_url": "https://i0.gmx.net/image/578/40360578,pd=2,h=170,w=300/fahrgeschaeft-vergnuegungspark-knotts-berry-farm-b.jpg",
-      "image_title": "Fahrgeschäft im Vergnügungspark Knott's Berry Farm in Buena Park im US-Bundesstaat Kalifornien"
-    },
-    {
       "title": "Charlène von Monaco über ihre Gesundheit: \"Mein Körper lässt es nicht mehr zu\"",
       "url": "https://www.gmx.net/magazine/unterhaltung/adel/charlene-monaco-koerper-40353344",
       "image_url": "https://i0.gmx.net/image/884/40360884,pd=1,h=170,w=300/fuerstin-charlene.jpg",
       "image_title": "Fürstin Charlene"
     },
     {
+      "title": "Strafe für Trump trotz Comeback?",
+      "url": "https://www.gmx.net/magazine/politik/us-politik/us-politik-ticker-strafe-trump-trotz-comeback-40360420"
+    },
+    {
+      "title": "Polizei löst Tesla-Protestcamp komplett auf",
+      "url": "https://www.gmx.net/magazine/panorama/polizei-loest-tesla-protestcamp-komplett-40361036"
+    },
+    {
       "title": "Massenmörder erneut vor Gericht - Breivik will freikommen",
       "url": "https://www.gmx.net/magazine/panorama/massenmoerder-gericht-breivik-freikommen-40360466"
     },
     {
-      "title": "\"Muss meine Familie und mich schützen\": AfD-Verbotsinitiator Wanderwitz tritt ab",
-      "url": "https://www.gmx.net/magazine/politik/wahlen/bundestagswahl/afd-verbotsinitiator-wanderwitz-tritt-40359884"
+      "title": "Scholz muss es mit Deutschlands beliebtestem Politiker aufnehmen",
+      "url": "https://www.gmx.net/magazine/politik/scholz-deutschlands-beliebtestem-politiker-aufnehmen-40360126"
     },
     {
-      "title": "Boeing startet Entlassungswelle - Über 2.000 Menschen verlieren Arbeitsplatz",
-      "url": "https://www.gmx.net/magazine/wirtschaft/boeing-entlassungswelle-2000-menschen-verlieren-arbeitsplatz-40360724"
+      "title": "E-Mails im GMX Postfach bearbeiten: das ist neu",
+      "teaser": "Neue Editierfunktionen, neuer Look!",
+      "url": "https://www.gmx.net/blog/posts/emails-editieren/668/",
+      "image_url": "https://img.ui-portal.de/cms/gmx/produkte/freemail/tipp/blog/hp_modul/emails-editieren.svg",
+      "image_title": "E-Mails bei GMX editieren: Das ist neu"
     },
     {
-      "title": "San Marino schreibt Fußballmärchen",
-      "url": "https://www.gmx.net/magazine/sport/fussball/nations-league/san-marino-schreibt-fussballmaerchen-40360350"
+      "title": "Apps für PC, Handy & Browser",
+      "teaser": "GMX Apps für Mail, Cloud, Cashback, Browser & Suche - geprüft & kostenlos.",
+      "url": "https://www.gmx.net/produkte/apps/#.hp.int.email_channel.apps",
+      "image_url": "https://i0.gmx.net/image/724/37520724,pd=2,h=170,w=300.jpg"
+    },
+    {
+      "title": "Aus @gmx.net wird...",
+      "teaser": "...Ihre persönliche Domain für die Familie. Direkt im GMX Postfach und in der App.",
+      "url": "https://www.gmx.net/produkte/homepage-mail/persoenliche-domains/e-mail-adressen-anlegen/?mc=01994372",
+      "image_url": "https://i0.gmx.net/image/996/38995996,pd=2,h=170,w=300.jpg"
+    },
+    {
+      "title": "G20 fordern von Israel mehr Hilfe - Plünderung in Gaza",
+      "teaser": "Im Gazastreifen werden oft Hilfslieferungen geplündert, bevor sie die Bedürftigen erreichen. Helfer warnen vor einem völligen Chaos. Derweil fordern die G20 mehr humanitäre Hilfe von Israel.",
+      "url": "https://www.gmx.net/magazine/politik/nahostkonflikt/g20-israel-hilfe-pluenderung-gaza-40360198",
+      "image_url": "https://i0.gmx.net/image/200/40360200,pd=2,h=360,w=630/krieg-gazastreifen-hilfslieferungen-foto-archiv.jpg",
+      "image_title": "Krieg im Gazastreifen - Hilfslieferungen Foto-Archiv"
+    },
+    {
+      "title": "Minimalkonsens bei Ukraine und Nahost",
+      "url": "https://www.gmx.net/magazine/politik/minimalkonsens-ukraine-nahost-40359978",
+      "image_url": "https://i0.gmx.net/image/092/40360092,pd=1,h=170,w=300/g20-gipfel-brasilien.jpg",
+      "image_title": "G20-Gipfel in Brasilien"
+    },
+    {
+      "title": "G20-Gruppenfoto ohne Biden und Trudeau, aber mit Lawrow",
+      "url": "https://www.gmx.net/magazine/politik/g20-gruppenfoto-biden-trudeau-lawrow-40361050",
+      "image_url": "https://i0.gmx.net/image/048/40361048,pd=1,h=170,w=300/g20-gruppenfoto-lawrow-biden-fehlt.jpg",
+      "image_title": "G20-Gruppenfoto: Lawrow dabei - Biden fehlt"
+    },
+    {
+      "title": "G20-Staaten einigen sich auf neue Allianz gegen Armut",
+      "url": "https://www.gmx.net/magazine/politik/g20-gipfel-einigt-allianz-armut-40360572",
+      "image_url": "https://i0.gmx.net/image/574/40360574,pd=2,h=170,w=300/g20-gipfel-einigt-allianz-armut.jpg",
+      "image_title": "G20-Gipfel einigt sich auf neue Allianz gegen Armut"
+    },
+    {
+      "title": "Pistorius zur Kanzler-Frage: \"Nie irgendetwas ausschließen\"",
+      "url": "https://www.gmx.net/magazine/politik/pistorius-kanzler-frage-irgendetwas-ausschliessen-40360314",
+      "image_url": "https://i0.gmx.net/image/352/40360352,pd=2,h=170,w=300.jpg"
+    },
+    {
+      "title": "Putin offenbar zu einer Verbesserung der Beziehung zu den USA bereit",
+      "url": "https://www.gmx.net/magazine/politik/us-politik/putin-offenbar-verbesserung-beziehung-usa-bereit-40360666",
+      "image_url": "https://i0.gmx.net/image/664/40360664,pd=1,h=170,w=300/beziehungen-usa-putin-normalisierung-bereit.jpg",
+      "image_title": "Beziehungen mit USA: Putin zu Normalisierung bereit"
+    },
+    {
+      "title": "Hugh Grant bereut es, spät Vater geworden zu sein",
+      "teaser": "Für Hugh Grant schien lange Zeit seine Schauspielkarriere im Fokus zu stehen. Sein erstes Kind begrüßte der Filmstar daher erst im Alter von 52 Jahren. Im Nachhinein hätte er es gerne anders gemacht.",
+      "url": "https://www.gmx.net/magazine/unterhaltung/stars/hugh-grant-bereut-spaet-vater-40359484",
+      "image_url": "https://i0.gmx.net/image/486/40359486,pd=1,h=360,w=630/hugh-grant-vater-fuenf-kindern.jpg",
+      "image_title": "Hugh Grant ist Vater von fünf Kindern."
+    },
+    {
+      "title": "\"Sex Education\"-Star wegen Sexualdelikten angeklagt",
+      "url": "https://www.gmx.net/magazine/unterhaltung/stars/sex-education-star-alexander-westwood-sexualdelikten-angeklagt-40358300",
+      "image_url": "https://i0.gmx.net/image/302/40358302,pd=1,h=170,w=300/netflix-star-alexander-westwood-anklage-26-sexuald.jpg",
+      "image_title": "Netflix-Star Alexander Westwood: Anklage wegen 26 Sexualdelikten"
+    },
+    {
+      "title": "Bee Gees: Schlagzeuger Colin Petersen ist tot",
+      "url": "https://www.gmx.net/magazine/unterhaltung/stars/bee-gees-schlagzeuger-colin-petersen-tot-40361226",
+      "image_url": "https://i0.gmx.net/image/228/40361228,pd=1,h=170,w=300/colin-petersen-bee-gees.jpg",
+      "image_title": "Colin Petersen (links unten) mit den Bee Gees."
+    },
+    {
+      "title": "Schauspieler Benno Fürmann liebt Mittagsschlaf",
+      "url": "https://www.gmx.net/magazine/unterhaltung/stars/schauspieler-benno-fuermann-liebt-mittagsschlaf-40361172",
+      "image_url": "https://i0.gmx.net/image/174/40361174,pd=1,h=170,w=300/schauspieler-benno-fuermann.jpg",
+      "image_title": "Schauspieler Benno Fürmann"
+    },
+    {
+      "title": "Hansen im Janker - Winterspecial der \"Rosenheim-Cops\"",
+      "url": "https://www.gmx.net/magazine/unterhaltung/tv-shows/hansen-janker-winterspecial-rosenheim-cops-40361120",
+      "image_url": "https://i0.gmx.net/image/122/40361122,pd=1,h=170,w=300/tv-ausblick-zdf-rosenheim-cops-totholz.jpg",
+      "image_title": "TV-Ausblick ZDF \"Die Rosenheim-Cops - Totholz\""
+    },
+    {
+      "title": "Michael J. Fox und seine Frau: Seltener Auftritt mit allen Kindern",
+      "url": "https://www.gmx.net/magazine/unterhaltung/stars/wohltaetigkeitsgala-michael-j-fox-tracy-pollan-kindern-40357838",
+      "image_url": "https://i0.gmx.net/image/840/40357840,pd=1,h=170,w=300/michael-j-fox-inmitten-familie-toechter-aquinnah-v.jpg",
+      "image_title": "Michael J. Fox inmitten seiner Familie: die Töchter Aquinnah (v.l.) und Esme, Ehefrau Tracy ..."
+    },
+    {
+      "title": "Was steht in den Sternen? Was verrät Ihr Horoskop?",
+      "url": "https://www.gmx.net/magazine/unterhaltung/lifestyle/horoskop/",
+      "image_url": "https://i0.gmx.net/image/278/34340278,pd=3,h=170,w=300.jpg"
+    },
+    {
+      "title": "Spielen Sie hier das Original. Jetzt tippen!",
+      "url": "https://lotto.gmx.de/lotto-6-aus-49?partnerId=1GMHOMHPMD&advertisementId=4000000000000000LOTTO6AU4900010NI1234567891",
+      "image_url": "https://i0.gmx.net/image/886/38528886,pd=3,h=170,w=300.jpg"
+    },
+    {
+      "title": "Hier finden Sie alle Nachrichten aus Ihrer Region.",
+      "url": "https://www.gmx.net/magazine/regio/",
+      "image_url": "https://i0.gmx.net/image/556/38420556,pd=3,h=170,w=300/nachrichten-bundesland.png",
+      "image_title": "Hier finden Sie alle Nachrichten aus Ihrem Bundesland"
+    },
+    {
+      "title": "Ihre tägliche Millionen-Chance und das kostenlos!",
+      "url": "https://millionenklick.gmx.net/#05580227",
+      "image_url": "https://i0.gmx.net/image/256/39425256,pd=8,h=170,w=300/taegliche-millionen-chance-kostenlos-teaser.png",
+      "image_title": "Ihre tägliche Millionen-Chance und das kostenlos!"
+    },
+    {
+      "title": "Kostenloser Service für Ihre Reiseplanung - europaweit",
+      "url": "https://www.gmx.net/magazine/reise/routenplaner/",
+      "image_url": "https://i0.gmx.net/image/270/34340270,pd=3,h=170,w=300.jpg"
+    },
+    {
+      "title": "Ein schier unglaublicher \"Kinderfehler\" rettet Eintracht Frankfurt",
+      "teaser": "Ein \"Kinderfehler\" rettet Eintracht Frankfurt die gute Position in der Tabelle. Merle Frohms schenkt Potsdam das erste Bundesliga-Tor und die Bayern wehren sich gegen alle Widerstände. Das Wichtigste zum 10. Spieltag.",
+      "url": "https://www.gmx.net/magazine/sport/fussball/bundesliga/bundesliga-frauen-kinderfehler-rettet-eintracht-frankfurt-40360426",
+      "image_url": "https://i0.gmx.net/image/480/40360480,pd=1,h=360,w=630.jpg"
+    },
+    {
+      "title": "Stadion-Schreckmoment bei Cowboys-Pleite",
+      "url": "https://www.gmx.net/magazine/sport/mehr-sport/stadion-schreckmoment-cowboys-pleite-40360682",
+      "image_url": "https://i0.gmx.net/image/820/40360820,pd=1,h=170,w=300.jpg"
+    },
+    {
+      "title": "Matthäus mit interessantem Musiala-Vorstoß",
+      "url": "https://www.gmx.net/magazine/sport/fussball/bundesliga/fc-bayern/blankovertrag-bayerns-superstar-matthaeus-interessantem-musiala-vorstoss-40359588",
+      "image_url": "https://i0.gmx.net/image/590/40359590,pd=1,h=170,w=300/jamal-musiala.jpg",
+      "image_title": "Jamal Musiala"
+    },
+    {
+      "title": "Rennpferd bricht während TV-Interview zusammen und stirbt",
+      "url": "https://www.gmx.net/magazine/sport/mehr-sport/rennpferd-bricht-waehrend-tv-interview-stirbt-40357874",
+      "image_url": "https://i0.gmx.net/image/034/40358034,pd=2,h=170,w=300/abuffalosoldier-jockey-sean-bowen-liegen-fuehrung-.jpg",
+      "image_title": "\"Abuffalosoldier\" und Jockey Sean Bowen liegen in Führung, nur wenig später ist das Pferd tot"
+    },
+    {
+      "title": "Nach viel Spott: Harry-Kane-Statue in London enthüllt",
+      "url": "https://www.gmx.net/magazine/sport/fussball/international/spott-harry-kane-statue-london-enthuellt-40357992",
+      "image_url": "https://i0.gmx.net/image/996/40357996,pd=11,h=170,w=300/harry-kane-statue-london.jpg",
+      "image_title": "Harry-Kane-Statue in London"
+    },
+    {
+      "title": "\"Sind keine medizinische Abteilung\": Abfuhr für Neymar",
+      "url": "https://www.gmx.net/magazine/sport/fussball/international/medizinische-abteilung-abfuhr-neymar-40357004",
+      "image_url": "https://i0.gmx.net/image/510/40357510,pd=4,h=170,w=300/neymar.jpg",
+      "image_title": "Neymar"
+    },
+    {
+      "title": "Lounge 777",
+      "teaser": "Casino made in Germany - genießen Sie viele Stunden Spielspaß, regelmäßig neue Slots und Features, sowie sagenhafte Chip-Gewinne!",
+      "url": "https://games.gmx.net/casino-spiele/lounge777?mc=05577051",
+      "image_url": "https://img.ui-portal.de/games/spiele/Jackpotde/Lounge777/Homepagemodul/Lounge777_HP_Slot_neu.jpg",
+      "image_title": "Lounge 777 Teaser Bild eine Slotmachie und die Zahlen 777 sind in leuchtenden Gold in der Mitte des Bildes. Im Vordergrund sind viele Goldmünzen und Preise abgebildet"
+    },
+    {
+      "title": "Game of Thrones",
+      "teaser": "Spielen Sie Game of Thrones: Winter is Coming, das epische Strategie-MMO und erkunden Sie die gigantische 3D-Welt der international erfolgreichen Fernsehserie.",
+      "url": "https://games.gmx.net/rollenspiele/game-of-thrones?mc=05577051",
+      "image_url": "https://img.ui-portal.de/games/spiele/BigPoint/game-of-thrones/game-of-thrones-winter-is-coming-hp.jpg",
+      "image_title": "Verschiedene Game of Thrones Charaktere"
+    },
+    {
+      "title": "Bronco Spirit",
+      "teaser": "Begeben Sie sich in die aufregende Welt des Wilden Westens! Sammeln Sie dabei die BONUS-Symbole und erhalten Sie zusätzliche Freispiele!",
+      "url": "https://games.gmx.net/casino-spiele/bronco-spirit?mc=05577051",
+      "image_url": "https://img.ui-portal.de/games/spiele/Jackpotde/bronco-spirit/bronco-spirit-hp.jpg",
+      "image_title": "Teaser Grafik für das Casino Game Bronco Spirit"
+    },
+    {
+      "title": "Dinosaur Park",
+      "teaser": "Endlich ist es Wissenschaftlern gelungen, lebendige Dinos zu züchten! Jetzt kommen Sie als Unternehmer(in) und machen aus den Urzeit-Tieren einen Dinosaurier Zoo!",
+      "url": "https://games.gmx.net/simulation/dinosaur-park?mc=05577051",
+      "image_url": "https://img.ui-portal.de/games/spiele/Upjers/dinosaur-park/dinosaur-park-hp1.jpg",
+      "image_title": "Forscher mit Dinosaurier im Dschungel des Spiels Dinosaur Park"
+    },
+    {
+      "title": "Forge of Empires",
+      "teaser": "Leiten Sie in Forge of Empires Ihr eigenes Imperium - entwickeln Sie Gebäude weiter, erforschen Sie neue Technologien und werden Sie unbesiegbar!",
+      "url": "https://games.gmx.net/strategie/forge-of-empires?mc=05577051",
+      "image_url": "https://img.ui-portal.de/games/spiele/Innogames/FOE/HP-Neu/forge-of-empires-hp-2ansichten.jpg",
+      "image_title": "Eine Stadt aus dem Spiel Forge of Empires im Vergleich aus dem Jahr 1962 zu dem Jahr 2361, zuvor eine alte Stadt und später eine moderne, futuristische Stadt"
+    },
+    {
+      "title": "Super Duper Moorhuhn",
+      "teaser": "Gehen Sie auf die große Jackpot-Jagd mit dem Kult-Federvieh! Mehr als 100 spannende Casino-Spiele warten auf Sie!",
+      "url": "https://games.gmx.net/casino-spiele/super-duper-moorhuhn?mc=05577051",
+      "image_url": "https://img.ui-portal.de/games/spiele/Jackpotde/Moorhuhn-Teaser-Test_960x540.jpg",
+      "image_title": "Super Duper Moorhuhn Slot Maschine"
+    },
+    {
+      "title": "Helfe dem Pharao Moorhuhn und knacke dabei den Jackpot!",
+      "url": "https://games.gmx.net/casino-spiele/golden-ei-of-moorhuhn?mc=01551356"
+    },
+    {
+      "title": "Der Herbst ist da und verschönert deinen eigenen Zoo",
+      "url": "https://games.gmx.net/simulation/zoo-2-animal-park?mc=01551356"
+    },
+    {
+      "title": "Über 1.500 spannende Rätsel erwarten Sie bei Rate-Fuchs!",
+      "url": "https://games.gmx.net/kreuzwortratsel/ratefuchs?mc=01551356"
+    },
+    {
+      "title": "Leite dein eigenes Imperium in allen Epochen!",
+      "url": "https://games.gmx.net/strategie/forge-of-empires?mc=01551356"
+    },
+    {
+      "title": "Bauen deine eigene Stadt in einer mystischen Fantasy-Welt",
+      "url": "https://games.gmx.net/strategie/elvenar?mc=01551356"
+    },
+    {
+      "title": "Dein neues Piraten Abenteuer zusammen mit Jack Sparrow!",
+      "url": "https://games.gmx.net/abenteuer/pirates-of-the-caribbean?mc=01551407"
+    },
+    {
+      "title": "Werfe den Köder aus und fische nach tollen Gewinnen!",
+      "url": "https://games.gmx.net/casino-spiele/lucky-catch?mc=01551356"
+    },
+    {
+      "title": "Wirst du beim Kampf um den Eisernen Thron siegen?",
+      "url": "https://games.gmx.net/rollenspiele/game-of-thrones?mc=01551356"
+    },
+    {
+      "title": "Starte dein neues Abenteuer im Wilden Westen!",
+      "url": "https://games.gmx.net/simulation/golden-frontier?mc=01551356"
+    },
+    {
+      "title": "Spannende Aufgaben und Events in FARMERAMA",
+      "url": "https://games.gmx.net/strategie/farmerama?mc=01551356"
+    },
+    {
+      "title": "Die Metallkante beim Maßband kann mehr, als man denkt",
+      "url": "https://www.gmx.net/magazine/ratgeber/haus-garten/metallkante-massband-denkt-38851392",
+      "image_url": "https://i0.gmx.net/image/022/40361022,pd=1,h=170,w=300.jpg"
+    },
+    {
+      "title": "Mit einem Trick ist eingefrorenes Brot viel schneller wieder aufgetaut",
+      "url": "https://www.gmx.net/magazine/ratgeber/essen-trinken/trick-eingefrorenes-brot-schneller-aufgetaut-37561286",
+      "image_url": "https://i0.gmx.net/image/968/40356968,pd=1,h=170,w=300.jpg"
+    },
+    {
+      "title": "Nicht einfach wegwerfen: So lassen sich Orangenschalen verwerten",
+      "url": "https://www.gmx.net/magazine/ratgeber/haus-garten/wegwerfen-orangenschalen-verwerten-37460898",
+      "image_url": "https://i0.gmx.net/image/428/40349428,pd=1,h=170,w=300.jpg"
+    },
+    {
+      "title": "Wie Sie Bilder über WhatsApp in Originalgröße versenden",
+      "url": "https://www.gmx.net/magazine/digital/bilder-whatsapp-originalgroesse-versenden-38958546",
+      "image_url": "https://i0.gmx.net/image/548/38958548,pd=2,h=170,w=300/whatsapp-trick-verschicken-fotos-qualitaetsverlust.jpg",
+      "image_title": "WhatsApp-Trick: So verschicken Sie Fotos ohne Qualitätsverlust"
+    },
+    {
+      "title": "Meteorologischer und kalendarischer Winteranfang 2024: Das ist der Unterschied",
+      "url": "https://www.gmx.net/magazine/wissen/natur-umwelt/winteranfang-2024-meteorologischer-kalendarischer-38248246"
+    },
+    {
+      "title": "Das Rateteam und die Masken der elften Staffel \"The Masked Singer\"",
+      "url": "https://www.gmx.net/magazine/unterhaltung/tv-shows/the-masked-singer/the-masked-singer-fakten-elften-staffel-40330078"
+    },
+    {
+      "title": "Vor der zweiten Staffel von \"Squid Game\": Was bisher geschah",
+      "url": "https://www.gmx.net/magazine/unterhaltung/filme-serien-kino/squid-game-staffel-2-geschah-40348752"
+    },
+    {
+      "title": "Coca-Cola-Weihnachtstrucks: An diesen Orten kommen sie vorbei",
+      "url": "https://www.gmx.net/magazine/ratgeber/finanzen-verbraucher/staedten-halten-coca-cola-weihnachtstrucks-2024-40303804"
+    },
+    {
+      "title": "Diese Sternzeichen brauchen immer Action",
+      "url": "https://www.gmx.net/magazine/unterhaltung/sternzeichen/action-sternzeichen-los-39142868"
+    },
+    {
+      "title": "Mehr Erholung dank Brückentagen: So können Sie 2025 smart verplanen",
+      "url": "https://www.gmx.net/magazine/reise/brueckentage-2025-holen-40237208"
+    },
+    {
+      "title": "Von Top zu Flop: Diese Sternzeichen neigen zu Stimmungsschwankungen",
+      "url": "https://www.gmx.net/magazine/unterhaltung/sternzeichen/sternzeichen-neigen-stimmungsschwankungen-40006300"
+    },
+    {
+      "title": "Hotel-Knigge: Bestimmtes Verhalten ist gar nicht gern gesehen",
+      "url": "https://www.gmx.net/magazine/ratgeber/finanzen-verbraucher/hotel-knigge-laesst-lieber-38783156"
+    },
+    {
+      "title": "Warum ist der Tankdeckel mal links und mal rechts?",
+      "url": "https://www.gmx.net/magazine/auto/tankdeckel-angebracht-40330512"
+    },
+    {
+      "title": "Erstes gemeinsames Kind mit Machine Gun Kelly: Megan Fox ist wieder schwanger",
+      "url": "https://www.gmx.net/magazine/unterhaltung/stars/viertes-kind-schauspielerin-megan-fox-schwanger-40333548"
+    },
+    {
+      "title": "Ein deutscher Weihnachtsmarkt ist unter den schönsten der Welt",
+      "url": "https://www.gmx.net/magazine/reise/schoensten-weihnachtsmaerkte-welt-deutschland-40325878"
+    },
+    {
+      "title": "Verrückter Effekt: Die Mauer-Illusion funktioniert nur beim ersten Mal",
+      "url": "https://www.gmx.net/magazine/wissen/psychologie/verblueffender-effekt-mauer-illusion-funktioniert-40319834"
+    },
+    {
+      "title": "Schimmel auf dem Brot: Muss der ganze Laib entsorgt werden?",
+      "url": "https://www.gmx.net/magazine/ratgeber/essen-trinken/heikles-thema-lebensmittel-trotz-schimmelbefall-essen-40248544"
+    },
+    {
+      "title": "Schimmelflecken? Mit simplen Hausmitteln werden Sie sie wieder los",
+      "url": "https://www.gmx.net/magazine/ratgeber/haus-garten/schimmelflecken-loswerden-hausmittel-abhilfe-schaffen-37755296"
+    },
+    {
+      "title": "Krähe oder Rabe? Diese heimischen Vögel werden oft verwechselt",
+      "url": "https://www.gmx.net/magazine/wissen/natur-umwelt/kraehe-dohle-rabe-unterscheiden-heimische-voegel-36818104"
+    },
+    {
+      "title": "Tagesgeldkonto",
+      "teaser": "Über 3,5 % Zinsen pro Jahr mit einem Tagesgeldkonto sichern.",
+      "url": "https://www.gmx.net/vergleichswelt/finanzen/geldanlage/tagesgeldkonto/?mc=85000314",
+      "image_url": "https://img.ui-portal.de/Vergleichswelt/GMX/Finanzen/Geldanlage/Tagesgeld-Vergleich/gmx_hp-modul_tagesgeld.jpg",
+      "image_title": "Tagesgeldkonto: Mann mit anwachsendem Münzstapel"
+    },
+    {
+      "title": "Girokonto",
+      "teaser": "Kostenloses Girokonto mit 75 € Startguthaben sichern!",
+      "url": "https://www.gmx.net/vergleichswelt/finanzen/konto-und-karte/girokonto/?mc=85000001",
+      "image_url": "https://img.ui-portal.de/Vergleichswelt/GMX/Finanzen/Konto-und-Karte/Girokonto-Vergleich/gmx_hp-modul_girokonto.jpg",
+      "image_title": "Girokontovergleich: Mann beim Geldabheben am Automat"
+    },
+    {
+      "title": "Fremdsprachen lernen",
+      "teaser": "Jetzt eine neue Sprache für Ihren Urlaub lernen! Aus 19 verschiedenen Sprachen den besten Anbieter im Vergleich finden.",
+      "url": "https://www.gmx.net/vergleichswelt/bildung/fremdsprachen/?mc=85500012",
+      "image_url": "https://img.ui-portal.de/Vergleichswelt/gmxnet/Bildung/Fremdsprachen/Frau_Paris.jpg",
+      "image_title": "Frau steht vor dem Eifelturm in Paris"
+    },
+    {
+      "title": "Kreditkarte",
+      "teaser": "Die besten kostenlosen Kreditkarten im Vergleich. Willkommensbonus sichern!",
+      "url": "https://www.gmx.net/vergleichswelt/finanzen/konto-und-karte/kreditkarte/?mc=85000002",
+      "image_url": "https://img.ui-portal.de/Vergleichswelt/GMX/Finanzen/Konto-und-Karte/Kreditkarten-Vergleich/gmx_hp-modul_kreditkarte.jpg",
+      "image_title": "Paar mit Kreditkarte und Laptop"
+    },
+    {
+      "title": "Bausparvertrag",
+      "teaser": "Bausparen lohnt sich immer noch. Jetzt noch die günstigen Zinsen sichern!",
+      "url": "https://www.gmx.net/vergleichswelt/finanzen/geldanlage/bausparvertrag/?mc=85000348",
+      "image_url": "https://img.ui-portal.de/Vergleichswelt/GMX/Finanzen/Kredite-und-Finanzen/Baufinanzierung-Vergleich/gmx_hp-modul_baufinanzierung.jpg",
+      "image_title": "Bausparen: Vater wirft seinen Sohn vor einem Haus in die Luft."
+    },
+    {
+      "title": "Depot",
+      "teaser": "Ein kostenloses Depot beim Online-Broker oder ein Wertpapierdepot bei der Hausbank? Hier Konditionen vergleichen.",
+      "url": "https://www.gmx.net/vergleichswelt/finanzen/geldanlage/depot/?mc=85000003",
+      "image_url": "https://img.ui-portal.de/Vergleichswelt/GMX/Finanzen/Geldanlage/Depot-Vergleich/gmx_hp-modul_depot.jpg",
+      "image_title": "Depotvergleich: Aktienkurse auf Bildschirm und Laptop"
+    },
+    {
+      "title": "Über 3,5 % Zinsen pro Jahr mit einem Tagesgeldkonto sichern.",
+      "url": "https://www.gmx.net/vergleichswelt/finanzen/geldanlage/tagesgeldkonto/?mc=85000315"
+    },
+    {
+      "title": "Kostenloses Girokonto mit 75 € Startguthaben sichern.",
+      "url": "https://www.gmx.net/vergleichswelt/finanzen/konto-und-karte/girokonto/?mc=85000007"
+    },
+    {
+      "title": "Jetzt eine neue Sprache für Ihren Urlaub lernen!",
+      "url": "https://www.gmx.net/vergleichswelt/bildung/fremdsprachen/?mc=85500009"
+    },
+    {
+      "title": "Kostenlose Kreditkarte und Willkommensbonus sichern.",
+      "url": "https://www.gmx.net/vergleichswelt/finanzen/konto-und-karte/kreditkarte/?mc=85000380"
+    },
+    {
+      "title": "Holen Sie an einer Fernschule Ihr Abitur nach.",
+      "url": "https://www.gmx.net/vergleichswelt/bildung/abitur/?mc=85500010"
+    },
+    {
+      "title": "Depots bei Online-Brokern und Banken vergleichen. Oft mit Neukundenbonus!",
+      "url": "https://www.gmx.net/vergleichswelt/finanzen/geldanlage/depot/?mc=85000008"
+    },
+    {
+      "title": "Machen Sie den Bachelor und starten Sie Ihre Karriere!",
+      "url": "https://www.gmx.net/vergleichswelt/bildung/bachelor/?mc=85500011"
+    },
+    {
+      "title": "Planbarer Vermögensaufbau. Garantierter Zinssatz für feste Laufzeiten.",
+      "url": "https://www.gmx.net/vergleichswelt/finanzen/geldanlage/festgeld/?mc=85000427"
+    },
+    {
+      "title": "Ratenkredite vergleichen und unverbindlich berechnen.",
+      "url": "https://www.gmx.net/vergleichswelt/finanzen/kredite-und-finanzierung/ratenkredit/?mc=85000429"
+    },
+    {
+      "title": "Traum vom Eigenheim. Bausparen lohnt sich immer noch.",
+      "url": "https://www.gmx.net/vergleichswelt/finanzen/geldanlage/bausparvertrag/?mc=85000428"
+    },
+    {
+      "title": "Proteinpulver von Decathlon kann Fremdkörper enthalten",
+      "teaser": "So sorgfältig die Verarbeitung und Produktion von Lebensmitteln und Produkten auch überwacht wird, manchmal kommt es dennoch zu Fehlern oder Verunreinigungen.",
+      "url": "https://www.gmx.net/magazine/ratgeber/finanzen-verbraucher/proteinpulver-decathlon-fremdkoerper-enthalten-40307768",
+      "image_url": "https://i0.gmx.net/image/020/40361020,pd=1,h=360,w=630/decathlon.jpg",
+      "image_title": "Decathlon"
+    },
+    {
+      "title": "Das ist der Unterschied zwischen WLAN und Wi-Fi",
+      "url": "https://www.gmx.net/magazine/digital/unterschied-wlan-wi-fi-40359156",
+      "image_url": "https://i0.gmx.net/image/158/40359158,pd=2,h=170,w=300/wi-fi-wlan-kleine-feine-unterschied.jpg",
+      "image_title": "Wi-Fi oder WLAN? Der kleine, aber feine Unterschied"
+    },
+    {
+      "title": "Rückschlag bei Post-Covid-Forschung - Wirkstoff nicht wirksamer als Placebo",
+      "url": "https://www.gmx.net/magazine/gesundheit/bc007-rueckschlag-post-covid-forschung-40356896",
+      "image_url": "https://i0.gmx.net/image/408/40358408,pd=4,h=170,w=300.jpg"
+    },
+    {
+      "title": "Viele Frauen schätzen die eigene Fruchtbarkeit falsch ein",
+      "url": "https://www.gmx.net/magazine/ratgeber/kind-familie/frauen-schaetzen-eigene-fruchtbarkeit-falsch-40313112",
+      "image_url": "https://i0.gmx.net/image/210/40313210,pd=2,h=170,w=300.jpg"
+    },
+    {
+      "title": "Deutschland im Jahr 2025: Der digitale Wandel nimmt Fahrt auf",
+      "url": "https://www.gmx.net/magazine/digital/deutschland-jahr-2025-digitale-wandel-fahrt-40361148",
+      "image_url": "https://i0.gmx.net/image/150/40361150,pd=1,h=170,w=300/weiss-2025-digitalgesetzen-zukommt-entspannt-jahr.jpg",
+      "image_title": "Wer weiß, was 2025 an Digitalgesetzen auf uns zukommt, startet entspannt ins neue Jahr."
+    },
+    {
+      "title": "Was zu viel Lüften anrichten kann",
+      "url": "https://www.gmx.net/magazine/ratgeber/haus-garten/lueften-40355136",
+      "image_url": "https://i0.gmx.net/image/778/40356778,pd=2,h=170,w=300.jpg"
+    },
+    {
+      "title": "Wirbelsturm unterbricht Fußballspiel",
+      "teaser": "Ein Fußballspiel im brasilianischen Bundesstaat Minas Gerais musste wegen eines Wirbelsturms unterbrochen werden.",
+      "url": "https://www.gmx.net/magazine/panorama/wirbelsturm-unterbricht-fussballspiel-40361044",
+      "image_url": "https://i0.gmx.net/image/046/40361046,pd=2,h=360,w=630/fussballspiel-brasilianischen-bundesstaat-minas-ge.jpg",
+      "image_title": "Fußballspiel im brasilianischen Bundesstaat Minas Gerais"
+    },
+    {
+      "title": "US-Justiz nimmt Chrome ins Visier",
+      "url": "https://www.gmx.net/magazine/panorama/us-justiz-chrome-visier-40360944",
+      "image_url": "https://i0.gmx.net/image/942/40360942,pd=1,h=170,w=300/google-druck-us-justiz-chrome-visier.jpg",
+      "image_title": "Google unter Druck: US-Justiz nimmt Chrome ins Visier"
+    },
+    {
+      "title": "Mehr frauenfeindliche Straftaten im Jahr 2023 gezählt",
+      "url": "https://www.gmx.net/magazine/panorama/frauenfeindliche-straftaten-jahr-2023-gezaehlt-40360974",
+      "image_url": "https://i0.gmx.net/image/976/40360976,pd=1,h=170,w=300/illustration-haeuslichen-gewalt.jpg",
+      "image_title": "Illustration zur häuslichen Gewalt"
+    },
+    {
+      "title": "Sturm, Schnee und Dauerregen",
+      "url": "https://www.gmx.net/magazine/panorama/wetter/sturm-schnee-dauerregen-40360714",
+      "image_url": "https://i0.gmx.net/image/716/40360716,pd=1,h=170,w=300/stuermisches-wetter.jpg",
+      "image_title": "Stürmisches Wetter"
+    },
+    {
+      "title": "Kölner Weihnachtsmarkt startet mit verschätften Sicherheitsmaßnahmen",
+      "url": "https://www.gmx.net/magazine/panorama/polizei-gluehweinduft-koelner-weihnachtsmarkt-verschaerften-sicherheitsmassnahmen-40359624",
+      "image_url": "https://i0.gmx.net/image/622/40359622,pd=1,h=170,w=300/polizei-gluehweinduft-koelner-weihnachtsmarkt-vers.jpg",
+      "image_title": "Polizei und Glühweinduft: Kölner Weihnachtsmarkt startet mit verschärften Sicherheitsmaßnahmen"
+    },
+    {
+      "title": "Valencias Regierungschef entlässt kritisierte Ministerin",
+      "url": "https://www.gmx.net/magazine/panorama/wetter/valencias-regierungschef-entlaesst-kritisierte-ministerin-40359860",
+      "image_url": "https://i0.gmx.net/image/862/40359862,pd=1,h=170,w=300/ueberschwemmungen-spanien.jpg",
+      "image_title": "Nach den Überschwemmungen in Spanien"
+    },
+    {
+      "title": "Säbelzahntigerbaby im ewigen Eis entdeckt",
+      "teaser": "Ob antike Tempel, Goldschätze oder Dinosaurierknochen: Immer wieder bringen die Tiefen der Erde und des Meeres sensationelle Funde zum Vorschein. Hier finden Sie – ständig aktualisiert – die spektakulärsten Entdeckungen der vergangenen Monate. (Mit Material der dpa)",
+      "url": "https://www.gmx.net/magazine/wissen/wissenschaft-technik/saebelzahntigerbaby-ewigen-eis-entdeckt-30435420",
+      "image_url": "https://i0.gmx.net/image/780/40360780,pd=1,h=360,w=630/saebelzahntiger-baby.jpg",
+      "image_title": "Säbelzahntiger-Baby"
+    },
+    {
+      "title": "Königspython – der will doch nur kuscheln",
+      "url": "https://www.gmx.net/magazine/wissen/natur-umwelt/forschungsergebnisse-koenigspythons-zeigen-kuschelbeduerfnis-40357002",
+      "image_url": "https://i0.gmx.net/image/024/40357024,pd=3,h=170,w=300/python-regius-ast.jpg",
+      "image_title": "Python regius auf einem Ast"
+    },
+    {
+      "title": "Wussten Sie, dass die \"Winkekatze\" gar nicht winkt?",
+      "url": "https://www.gmx.net/magazine/wissen/psychologie/wussten-winkekatze-winkt-40359210",
+      "image_url": "https://i0.gmx.net/image/230/40359230,pd=1,h=170,w=300/winkekatze.jpg",
+      "image_title": "Winkekatze"
+    },
+    {
+      "title": "Dann mach ich's halt allein",
+      "url": "https://www.gmx.net/magazine/wissen/psychologie/unternehmen-lohnt-40314496",
+      "image_url": "https://i0.gmx.net/image/610/40314610,pd=2,h=170,w=300.jpg"
+    },
+    {
+      "title": "Buß- und Bettag: Warum nur in einem Bundesland Arbeitnehmer frei haben",
+      "url": "https://www.gmx.net/magazine/wissen/psychologie/buss-bettag-bundesland-arbeitnehmer-37476140",
+      "image_url": "https://i0.gmx.net/image/850/38884850,pd=2,h=170,w=300/gebet-gefaltete-haende.jpg",
+      "image_title": "Zum Gebet gefaltete Hände"
+    },
+    {
+      "title": "Wie heißt eigentlich der bewegliche Griff an einem Toaster?",
+      "url": "https://www.gmx.net/magazine/wissen/psychologie/fruehstueck-heisst-hebel-toaster-40344246",
+      "image_url": "https://i0.gmx.net/image/168/40344168,pd=1,h=170,w=300/toaster.jpg",
+      "image_title": "Toaster"
+    },
+    {
+      "title": "Mark Rutte drohte nicht, USA aus der Nato zu werfen",
+      "url": "https://www.gmx.net/magazine/politik/us-politik/mark-rutte-drohte-usa-nato-werfen-40358122",
+      "image_url": "https://i0.gmx.net/image/156/40358156,pd=3,h=170,w=300.jpg"
+    },
+    {
+      "title": "Hugh Grant ist ein Arschloch",
+      "url": "https://www.gmx.net/magazine/unterhaltung/satirischer-wochenrueckblick/satirischer-wochenrueckblick-hugh-grant-arschloch-40356234",
+      "image_url": "https://i0.gmx.net/image/268/40356268,pd=2,h=170,w=300/hugh-grant.jpg",
+      "image_title": "Hugh Grant"
+    },
+    {
+      "title": "Diese wichtige Vollmacht vergessen viele Menschen",
+      "url": "https://www.gmx.net/magazine/ratgeber/finanzen-verbraucher/vollmacht-wichtiger-vorsorgebaustein-40347834",
+      "image_url": "https://i0.gmx.net/image/944/40347944,pd=2,h=170,w=300.jpg"
+    },
+    {
+      "title": "YouTube-Kanäle verbreiten Falschmeldung über Rücktritt von der Leyens",
+      "url": "https://www.gmx.net/magazine/politik/youtube-kanaele-verbreiten-falschmeldung-ruecktritt-leyens-40332102",
+      "image_url": "https://i0.gmx.net/image/296/40332296,pd=5,h=170,w=300/ursula-leyen-berlin-process-summit-2024-oktober-20.jpg",
+      "image_title": "Ursula von der Leyen beim Berlin Process Summit 2024 im Oktober 2024 in Berlin"
+    },
+    {
+      "title": "Ecovillage in Madagaskar: Resilienz gegen den Klimawandel",
+      "url": "https://www.gmx.net/magazine/unicef/ecovillage-madagaskar-resilienz-klimawandel-unicef-40349934",
+      "image_url": "https://i0.gmx.net/image/204/40350204,pd=5,h=170,w=300/jungen-halten-haenden-hause.jpg",
+      "image_title": "Drei Jungen halten sich an den Händen auf wem Weg nach Hause"
+    },
+    {
+      "title": "Jeder Tag eine Frage von Leben und Tod",
+      "url": "https://www.gmx.net/magazine/unicef/sudan-tag-frage-leben-tod-40308624",
+      "image_url": "https://i0.gmx.net/image/092/40308092,pd=3,h=170,w=300/mutter-sudan-umarmt-tochter-krankenhaus.jpg",
+      "image_title": "Eine Mutter im Sudan umarmt ihre Tochter im Krankenhaus"
+    },
+    {
+      "title": "Die Welt hat sich abgewandt von Afghanistan",
+      "url": "https://www.gmx.net/magazine/unicef/kindheit-afghanistan-welt-abgewandt-40209522",
+      "image_url": "https://i0.gmx.net/image/938/40209938,pd=4,h=170,w=300/junges-maedchen-schaut-fenster.jpg",
+      "image_title": "Ein junges Mädchen schaut aus dem Fenster"
+    },
+    {
+      "title": "UNICEF alarmiert über Lage im Libanon",
+      "url": "https://www.gmx.net/magazine/unicef/unicef-alarmiert-lage-libanon-kinder-angriffe-40206020",
+      "image_url": "https://i0.gmx.net/image/692/40207692,pd=6,h=170,w=300/vertriebene-kinder-libanon-miteinander.jpg",
+      "image_title": "Vertriebene Kinder im Libanon spielen miteinander"
+    },
+    {
+      "title": "Dirk Nowitzki: \"Unser Job: Kindern Chancen für die Zukunft kreieren\"",
+      "url": "https://www.gmx.net/magazine/unicef/dirk-nowitzki-job-kindern-chancen-zukunft-kreieren-40145178",
+      "image_url": "https://i0.gmx.net/image/408/40147408,pd=2,h=170,w=300/unicef-botschafter-dirk-nowitzki.jpg",
+      "image_title": "UNICEF-Botschafter Dirk Nowitzki"
+    },
+    {
+      "title": "Kuschelfreude: kuschelige Bettwäsche und Loungewear für die ganze Familie + zusätzlich Cashback",
+      "url": "https://vorteile.gmx.net/webcent/sammeln/shops/tchibo/tchibo_onlineshop/#.hp.int.produktbox.tchibo",
+      "image_url": "https://img.ui-portal.de/eigenwerbung/WEB.Cent/Deals/2022/gmx_tchibo22_hpt_m.jpg"
+    },
+    {
+      "title": "Cozy Looks für den Herbst + zusätzlich Cashback",
+      "url": "https://vorteile.gmx.net/webcent/sammeln/shops/takkofashion/takko_onlineshop/#.hp.int.produktbox.takko",
+      "image_url": "https://img.ui-portal.de/eigenwerbung/WEB.Cent/Deals/2024/gmx_takko_hpt_s.jpg"
+    },
+    {
+      "title": "Sparen bei Ausrüstung und Kleidung für's Wandern im Herbst",
+      "url": "https://vorteile.gmx.net/webcent/sammeln/shops/bergfreunde/bergfreunde_onlineshop/#.hp.int.produktbox.bergfreunde",
+      "image_url": "https://img.ui-portal.de/eigenwerbung/WEB.Cent/Deals/2024/gmx_bergfreunde_hpt_s.jpg"
+    },
+    {
+      "title": "Matratzen und Bettzubehör bis zu 60 % reduziert + Cashback sichern",
+      "url": "https://vorteile.gmx.net/webcent/sammeln/shops/matratzen_concord/matratzen_concord_onlineshop/#.hp.int.produktbox.matratzenconcord",
+      "image_url": "https://img.ui-portal.de/eigenwerbung/WEB.Cent/Deals/2024/gmx_matratzen-concord_hpt_s.jpg"
+    },
+    {
+      "title": "Warme Schuhe für den Herbst, 50 % im Sale sparen + Cashback sichern",
+      "url": "https://vorteile.gmx.net/webcent/sammeln/shops/schuhcenter/schuhcenter_onlineshop/#.hp.int.produktbox.schuhcenter",
+      "image_url": "https://img.ui-portal.de/eigenwerbung/WEB.Cent/Deals/2024/gmx_schuhcenter_hpt_s.jpg"
+    },
+    {
+      "title": "Nachrichten sind langweilig und dröge? Es kommt auf den Blickwinkel an",
+      "url": "https://www.gmx.net/magazine/unterhaltung/comic/aktuelle-karikaturen-18584042",
+      "image_url": "https://i0.gmx.net/image/084/40359084,pd=2,h=170,w=300.jpg"
+    },
+    {
+      "title": "Comics des Künstlers Andreas Brandt alias Sebby",
+      "url": "https://www.gmx.net/magazine/unterhaltung/comic/comicserie-zeiten-kuenstlers-andreas-brandt-alias-sebby-38828512",
+      "image_url": "https://i0.gmx.net/image/874/40247874,pd=2,h=170,w=300.jpg"
+    },
+    {
+      "title": "Comics des Künstlers Uli Stein",
+      "url": "https://www.gmx.net/magazine/unterhaltung/comic/comics-kuenstlers-uli-stein-erwin-martha-maeuse-co-38828510",
+      "image_url": "https://i0.gmx.net/image/608/40230608,pd=2,h=170,w=300.jpg"
+    },
+    {
+      "title": "Comics der norddeutschen Künstlerin Dorthe Landschulz",
+      "url": "https://www.gmx.net/magazine/unterhaltung/comic/comicserie-tag-tier-kuenstlerin-dorthe-landschulz-36570022",
+      "image_url": "https://i0.gmx.net/image/634/40230634,pd=1,h=170,w=300.jpg"
+    },
+    {
+      "title": "Comics des Künstlers Ralph Ruthe",
+      "url": "https://www.gmx.net/magazine/unterhaltung/comic/comicserie-shit-happens-kuenstlers-ralph-ruthe-36570020",
+      "image_url": "https://i0.gmx.net/image/668/40230668,pd=1,h=170,w=300.jpg"
+    },
+    {
+      "title": "\"Angst-Sparen\" drückt auf die Überschuldung in Deutschland",
+      "url": "https://www.gmx.net/magazine/wirtschaft/angst-sparen-drueckt-ueberschuldung-deutschland-40361200",
+      "image_url": "https://i0.gmx.net/image/202/40361202,pd=1,h=170,w=300/ueberschuldung.jpg",
+      "image_title": "Überschuldung"
+    },
+    {
+      "title": "Creditreform: Weniger Menschen überschuldet",
+      "url": "https://www.gmx.net/magazine/wirtschaft/creditreform-menschen-ueberschuldet-40361082",
+      "image_url": "https://i0.gmx.net/image/084/40361084,pd=1,h=170,w=300/ueberschuldung.jpg",
+      "image_title": "Überschuldung"
+    },
+    {
+      "title": "Boeing entlässt über 2.500 Mitarbeiter in den USA",
+      "url": "https://www.gmx.net/magazine/wirtschaft/boeing-entlaesst-2500-mitarbeiter-usa-40360496",
+      "image_url": "https://i0.gmx.net/image/498/40360498,pd=2,h=170,w=300/boeing-entlaesst-2500-mitarbeiter-usa.jpg",
+      "image_title": "Boeing entlässt über 2500 Mitarbeiter in den USA"
+    },
+    {
+      "title": "Black Friday: Kunden geben nicht mehr aus als 2023",
+      "url": "https://www.gmx.net/magazine/wirtschaft/black-friday-kunden-2023-40360690",
+      "image_url": "https://i0.gmx.net/image/692/40360692,pd=1,h=170,w=300/black-friday.jpg",
+      "image_title": "Black Friday"
+    },
+    {
+      "title": "Liebe im Rampenlicht: Brad Pitt stellt neue Freundin in Venedig vor",
+      "url": "https://www.gmx.net/magazine/wirtschaft/filmfestspiele-venedig-brad-pitt-stellt-freundin-40079572",
+      "image_url": "https://i0.gmx.net/image/574/40079574,pd=2,h=170,w=300.jpg"
+    },
+    {
+      "title": "Seltene Fake-Werbung auf unseren Seiten - was Sie dann tun können",
+      "url": "https://www.gmx.net/magazine/so-arbeitet-die-redaktion/seltene-fake-werbung--39357646",
+      "image_url": "https://i0.gmx.net/image/228/39423228,pd=3,h=170,w=300.png"
+    },
+    {
+      "title": "Warum wir unsere Kommentarfunktion (vorerst) deaktiviert haben",
+      "url": "https://www.gmx.net/magazine/so-arbeitet-die-redaktion/kommentarfunktion-vorerst-deaktiviert-39374522",
+      "image_url": "https://i0.gmx.net/image/080/36082080,pd=5,h=170,w=300.png"
+    },
+    {
+      "title": "GMX Kanal jetzt auf WhatsApp verfügbar",
+      "url": "https://www.gmx.net/magazine/so-arbeitet-die-redaktion/abonnieren-laufenden-gmx-kanal-whatsapp-38820128",
+      "image_url": "https://i0.gmx.net/image/312/36527312,pd=2,h=170,w=300.png"
+    },
+    {
+      "title": "GMX und WEB.DE im Nachhaltigkeitspakt Medien Bayern - darum geht's",
+      "url": "https://www.gmx.net/magazine/so-arbeitet-die-redaktion/gmx-webde-nachhaltigkeitspakt-medien-bayern-39370596",
+      "image_url": "https://i0.gmx.net/image/744/39410744,pd=2,h=170,w=300.jpg"
+    },
+    {
+      "title": "Zugunglück oder Anschlag: So berichten wir in akuten Nachrichtenlagen",
+      "url": "https://www.gmx.net/magazine/so-arbeitet-die-redaktion/zugunglueck-anschlag-rasch-veraendernde-ereignisse-38368016",
+      "image_url": "https://i0.gmx.net/image/090/38445090,pd=2,h=170,w=300.png"
     },
     {
       "title": "Hilfe & Kontakt",
@@ -207,26 +940,25 @@
       "image_url": "https://i0.gmx.net/image/524/34288524,pd=2,h=80,w=80.svg"
     },
     {
+      "title": "Strafe für Trump trotz Comeback?",
+      "url": "https://www.gmx.net/magazine/politik/us-politik/us-politik-ticker-strafe-trump-trotz-comeback-40360420",
+      "image_url": "https://i0.gmx.net/image/680/40360680,pd=2,h=170,w=300.jpg"
+    },
+    {
+      "title": "Polizei löst Tesla-Protestcamp komplett auf",
+      "url": "https://www.gmx.net/magazine/panorama/polizei-loest-tesla-protestcamp-komplett-40361036"
+    },
+    {
       "title": "Massenmörder erneut vor Gericht - Breivik will freikommen",
-      "url": "https://www.gmx.net/magazine/panorama/massenmoerder-gericht-breivik-freikommen-40360466",
-      "image_url": "https://i0.gmx.net/image/502/40360502,pd=2,h=170,w=300/behring-breivik.jpg",
-      "image_title": "Anders Behring Breivik"
+      "url": "https://www.gmx.net/magazine/panorama/massenmoerder-gericht-breivik-freikommen-40360466"
+    },
+    {
+      "title": "Scholz muss es mit Deutschlands beliebtestem Politiker aufnehmen",
+      "url": "https://www.gmx.net/magazine/politik/scholz-deutschlands-beliebtestem-politiker-aufnehmen-40360126"
     },
     {
       "title": "\"Muss meine Familie und mich schützen\": AfD-Verbotsinitiator Wanderwitz tritt ab",
       "url": "https://www.gmx.net/magazine/politik/wahlen/bundestagswahl/afd-verbotsinitiator-wanderwitz-tritt-40359884"
-    },
-    {
-      "title": "Boeing startet Entlassungswelle - Über 2.000 Menschen verlieren Arbeitsplatz",
-      "url": "https://www.gmx.net/magazine/wirtschaft/boeing-entlassungswelle-2000-menschen-verlieren-arbeitsplatz-40360724"
-    },
-    {
-      "title": "San Marino schreibt Fußballmärchen",
-      "url": "https://www.gmx.net/magazine/sport/fussball/nations-league/san-marino-schreibt-fussballmaerchen-40360350"
-    },
-    {
-      "title": "Lange Haftstrafen für 45 Demokratie-Aktivisten in Hongkong",
-      "url": "https://www.gmx.net/magazine/panorama/lange-haftstrafen-45-demokratie-aktivisten-hongkong-40360788"
     }
   ]
 }

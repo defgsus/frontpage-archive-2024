@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-19T09:08:01",
+  "timestamp": "2024-11-19T10:08:22",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Nextcloud",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-in-Nextcloud-Angreifer-koennen-E-Mails-abfangen-10053302.html"
+    },
+    {
       "title": "FortiClient, Kemp Loadmaster, PAN-OS, VMware vCenter",
       "url": "https://www.heise.de/news/Attackierte-Luecken-FortiClient-Kemp-Loadmaster-PAN-OS-VMware-vCenter-10051700.html"
     },
@@ -44,20 +48,16 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-PostgreSQL-fuer-Schadcode-Attacken-anfaellig-10040932.html"
     },
     {
-      "title": "Palo Alto PAN-OS",
-      "url": "https://www.heise.de/news/Palo-Alto-Ungepatchter-Zero-Day-fuer-Security-Appliances-aufgetaucht-10040500.html"
+      "title": "Veritas Enterprise Vault: Kritische Codeschmuggel-Lücken in Archivsoftware",
+      "teaser": "In Vertias Enterprise Vault können Angreifer kritische Lücke zum Einschleusen von Schadcode missbrauchen.",
+      "url": "https://www.heise.de/news/Veritas-Enterprise-Vault-Kritische-Codeschmuggel-Luecken-in-Archivsoftware-10053675.html",
+      "image_title": "Geöffnete Festplatte mit schönen Reflektionen"
     },
     {
-      "title": "Attackierte Lücken: FortiClient, Kemp Loadmaster, PAN-OS, VMware vCenter",
-      "teaser": "Kriminelle attackieren aktuell teils ungepatchte Sicherheitslücken in FortiClient, Kemp Loadmaster, PAN-OS und VMware vCenter.",
-      "url": "https://www.heise.de/news/Attackierte-Luecken-FortiClient-Kemp-Loadmaster-PAN-OS-VMware-vCenter-10051700.html",
-      "image_title": "Große Server werden von Viren und Kriminellen teils mit Gewehren angegriffen"
-    },
-    {
-      "title": "Kritische Palo-Alto-Lücke: Patches sind da, CISA warnt vor Exploit",
-      "teaser": "Fast drei Wochen nach ersten Exploit-Gerüchten hat der Hersteller nun endlich reagiert, trickst aber. Derweil warnt die US-Cyberbehörde vor Angriffen.",
-      "url": "https://www.heise.de/news/Kritische-Palo-Alto-Luecke-Patches-sind-da-CISA-warnt-vor-Exploit-10051696.html",
-      "image_title": "Kabel in Patchpanels"
+      "title": "Sicherheitsupdates für Nextcloud: Unberechtigte Zugriffe möglich",
+      "teaser": "Mehrere Komponenten von Nextcloud sind verwundbar. Admins sollten ihre Instanzen zeitnah mittels verfügbarer Sicherheitspatches absichern.",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-in-Nextcloud-Angreifer-koennen-E-Mails-abfangen-10053302.html",
+      "image_title": "Stilisiertes Bild: Computer unter Wolken mit Schutzschilden und Viren"
     },
     {
       "title": "Kommentar: Das BSI liefert ein tolles Konzept für einen neuen IT-Grundschutz",
@@ -77,6 +77,12 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-PostgreSQL-fuer-Schadcode-Attacken-anfaellig-10040932.html"
     },
     {
+      "title": "Palo-Alto: Ungepatchter Zero-Day für Security-Appliances wird ausgenutzt",
+      "teaser": "In der vergangenen Woche hatte Palo Alto Kunden über eine ungepatchte Lücke im Webinterface verschiedener Firewalls informiert. Diese wird nun ausgenutzt.",
+      "url": "https://www.heise.de/news/Palo-Alto-Ungepatchter-Zero-Day-fuer-Security-Appliances-aufgetaucht-10040500.html",
+      "image_title": "Eine Firewall mit weit offener Tür"
+    },
+    {
       "title": "Vor 40 Jahren: der Btx-Hack macht den CCC über Nacht bekannt",
       "teaser": "Der berühmte Btx-Hack des Chaos Computer Clubs 1984 enthüllte Sicherheitslücken und machte den CCC schlagartig bekannt.",
       "url": "https://www.heise.de/news/Vor-40-Jahren-der-Btx-Hack-feiert-froehliche-Urstaend-10040274.html",
@@ -87,6 +93,11 @@
       "teaser": "Lernen Sie an praktischen Beispielen, wie Sie Windows 11 Pro und Enterprise in Ihrem Unternehmen sicher und effektiv einsetzen.",
       "url": "https://www.heise.de/news/iX-Workshop-Sicherer-Betrieb-von-Windows-11-in-Unternehmen-10019366.html",
       "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
+    },
+    {
+      "title": "Sicherheitsforscher finden beim Nachstellen einer Lücke drei neue",
+      "teaser": "Als die Watchtowr Labs-Forscher die Lücke im FortiManager nachprüfen wollten, fanden sie weitere Fehler und unvollständige Fixes.",
+      "url": "https://www.heise.de/news/Sicherheitsforscher-finden-beim-Nachstellen-einer-Luecke-drei-neue-10039106.html"
     },
     {
       "title": "Secure Coding: CWE-377 – Unsichere temporäre Dateien und wie man sie vermeidet",
@@ -153,17 +164,6 @@
       "teaser": "Die IT-Sicherheitsexperten von Google geben einen Ausblick auf zu erwartende IT-Sicherheitsbedrohungen im kommenden Jahr.",
       "url": "https://www.heise.de/news/Google-wagt-Ausblick-auf-die-IT-Sicherheitslage-2025-10035604.html",
       "image_title": "Sicherheitsmensch vor oder in Glaskugel, darum schwirren Schlösser und Geld"
-    },
-    {
-      "title": "Last Call: IT-Sicherheitstag Gelsenkirchen – Komplexität managen",
-      "teaser": "Der IT-Sicherheitstag Gelsenkirchen gibt Hilfestellung beim Management komplexer IT-Infrastrukturen - jetzt noch Ticket buchen.",
-      "url": "https://www.heise.de/news/Last-Call-IT-Sicherheitstag-Gelsenkirchen-Komplexitaet-managen-10035159.html"
-    },
-    {
-      "title": "Destatis: Cyberkriminelle erbeuten offenbar 3,8 GByte an Daten",
-      "teaser": "Beim Statistischen Bundesamt konnten Cyberkriminelle anscheinend Unternehmensdaten im Umfang von 3,8 GByte abzweigen.",
-      "url": "https://www.heise.de/news/Destatis-Cyberkriminelle-erbeuten-offenbar-3-8-GByte-an-Daten-10035243.html",
-      "image_title": "Computer vor Serverschränken, auf dem Dataleak steht, drumherum lungern Datendiebe"
     },
     {
       "title": "Scuba-Webinar",
