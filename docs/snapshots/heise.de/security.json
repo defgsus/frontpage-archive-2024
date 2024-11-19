@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-19T08:11:45",
+  "timestamp": "2024-11-19T09:08:01",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.344f08dd5a7ac3e81f4e",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.3c85382ae1091f883b8a",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "FortiClient, Kemp Loadmaster, PAN-OS, VMware vCenter",
+      "url": "https://www.heise.de/news/Attackierte-Luecken-FortiClient-Kemp-Loadmaster-PAN-OS-VMware-vCenter-10051700.html"
+    },
     {
       "title": "Palo Alto PAN-OS",
       "url": "https://www.heise.de/news/Kritische-Palo-Alto-Luecke-Patches-sind-da-CISA-warnt-vor-Exploit-10051696.html"
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Palo-Alto-Ungepatchter-Zero-Day-fuer-Security-Appliances-aufgetaucht-10040500.html"
     },
     {
-      "title": "Wordpress-Plug-in Really Simple Security",
-      "url": "https://www.heise.de/news/Wordpress-Plug-in-Really-Simple-Security-gefaehrdet-4-Millionen-Websites-10038111.html"
+      "title": "Attackierte Lücken: FortiClient, Kemp Loadmaster, PAN-OS, VMware vCenter",
+      "teaser": "Kriminelle attackieren aktuell teils ungepatchte Sicherheitslücken in FortiClient, Kemp Loadmaster, PAN-OS und VMware vCenter.",
+      "url": "https://www.heise.de/news/Attackierte-Luecken-FortiClient-Kemp-Loadmaster-PAN-OS-VMware-vCenter-10051700.html",
+      "image_title": "Große Server werden von Viren und Kriminellen teils mit Gewehren angegriffen"
     },
     {
       "title": "Kritische Palo-Alto-Lücke: Patches sind da, CISA warnt vor Exploit",
@@ -158,12 +164,6 @@
       "teaser": "Beim Statistischen Bundesamt konnten Cyberkriminelle anscheinend Unternehmensdaten im Umfang von 3,8 GByte abzweigen.",
       "url": "https://www.heise.de/news/Destatis-Cyberkriminelle-erbeuten-offenbar-3-8-GByte-an-Daten-10035243.html",
       "image_title": "Computer vor Serverschränken, auf dem Dataleak steht, drumherum lungern Datendiebe"
-    },
-    {
-      "title": "Updates verfügbar: Mehrere Sicherheitslücken bedrohen Gitlab",
-      "teaser": "Mehrere Software-Schwachstellen bedrohen die Community Edition und die Enterprise Edition von Gitlab.",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-Entwickler-ruesten-Gitlab-gegen-unbefugte-Zugriffe-10035049.html",
-      "image_title": "Ausrufezeichen in einem Warndreieck"
     },
     {
       "title": "Scuba-Webinar",
