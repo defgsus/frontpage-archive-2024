@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-20T07:00:52",
+  "timestamp": "2024-11-20T08:10:35",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Apache OfBiz",
+      "url": "https://www.heise.de/news/Apache-OfBiz-Schwachstelle-ermoeglicht-Codeschmuggel-10075408.html"
+    },
+    {
       "title": "Azure Stack HCI",
       "url": "https://www.heise.de/news/Sicherheitsluecke-Azure-Stack-HCI-fuer-Attacke-anfaellig-10057541.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Attackierte-Luecken-FortiClient-Kemp-Loadmaster-PAN-OS-VMware-vCenter-10051700.html"
     },
     {
-      "title": "Palo Alto PAN-OS",
-      "url": "https://www.heise.de/news/Kritische-Palo-Alto-Luecke-Patches-sind-da-CISA-warnt-vor-Exploit-10051696.html"
+      "title": "Apache OfBiz: Schwachstelle ermöglicht Codeschmuggel",
+      "teaser": "Eine aktualisierte Version der ERP-Software Apache OfBiz schließt Sicherheitslecks, die das Ausführen von Schadcode ermöglichen.",
+      "url": "https://www.heise.de/news/Apache-OfBiz-Schwachstelle-ermoeglicht-Codeschmuggel-10075408.html",
+      "image_title": "Server in der MItte, Verbindungen zu darum herumstehenden Clients, Verschlüsselungssymbole"
+    },
+    {
+      "title": "iX-Workshop: IT-Systeme absichern – Pentesting mit Open-Source-Werkzeugen",
+      "teaser": "Lernen Sie, wie Sie Sicherheitslücken in der eigenen Unternehmens-IT mit Hacker-Tools aufdecken und beseitigen.",
+      "url": "https://www.heise.de/news/iX-Workshop-IT-Systeme-absichern-Pentesting-mit-Open-Source-Werkzeugen-10036123.html",
+      "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
     },
     {
       "title": "Nach Cyberattacke: Südwestfalen-IT wirft Ex-Manager raus",
@@ -152,18 +164,6 @@
       "teaser": "Neue Sicherheitsmechanismen sollen Besitzer von Androidgeräten noch effektiver vor Betrügern schützen. Das gilt vorerst aber nur für die Pixel-Reihe.",
       "url": "https://www.heise.de/news/Sicherheitsfunktionen-Android-soll-Scam-Anrufe-und-Malware-Apps-besser-erkennen-10036429.html",
       "image_title": "Stilisierte Grafik: zersplittertes Google Play Store Logo, aus dem Viren kommen"
-    },
-    {
-      "title": "Wordpress-Plug-in Really Simple Security gefährdet 4 Millionen Websites",
-      "teaser": "Rund vier Millionen Wordpress-Seiten nutzen das Plug-in Really Simple Security. Angreifer aus dem Netz können sie kompromittieren.",
-      "url": "https://www.heise.de/news/Wordpress-Plug-in-Really-Simple-Security-gefaehrdet-4-Millionen-Websites-10038111.html",
-      "image_title": "Laptop zeigt Wordpress-Logo, Viren fliegen herum"
-    },
-    {
-      "title": "CISA warnt vor Angriffen auf Palo-Alto-Software",
-      "teaser": "Erst vergangene Woche warnte die CISA vor einer angegriffenen Sicherheitslücke in Palo Altos Expedition, jetzt stehen weitere Lecks unter Beschuss.",
-      "url": "https://www.heise.de/news/Palo-Alto-Weitere-Sicherheitslecks-in-MIgrationstool-aktiv-angegriffen-10036380.html",
-      "image_title": "Bildschirm mit Schriftzug \"Attack successfully\"."
     },
     {
       "title": "Scuba-Webinar",
