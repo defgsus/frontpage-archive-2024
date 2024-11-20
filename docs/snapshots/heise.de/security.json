@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-20T08:10:35",
+  "timestamp": "2024-11-20T09:07:54",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Oracle Agile PLM Framework",
+      "url": "https://www.heise.de/news/Notfall-Sicherheitspatch-Attacken-auf-Oracle-Agile-PLM-10075412.html"
+    },
+    {
       "title": "Apache OfBiz",
       "url": "https://www.heise.de/news/Apache-OfBiz-Schwachstelle-ermoeglicht-Codeschmuggel-10075408.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Sicherheitsluecken-in-Nextcloud-Angreifer-koennen-E-Mails-abfangen-10053302.html"
     },
     {
-      "title": "FortiClient, Kemp Loadmaster, PAN-OS, VMware vCenter",
-      "url": "https://www.heise.de/news/Attackierte-Luecken-FortiClient-Kemp-Loadmaster-PAN-OS-VMware-vCenter-10051700.html"
+      "title": "heise security Webinar: Wie sag ich’s meinem Chef? – Gesprachsführung für ITler",
+      "teaser": "Wichtiges Security-Projekt – was fehlt, ist die Zustimmung der Geschäftsführung. Dieses Webinar hilft Ihnen, dem Chef das Thema Sicherheit \"zu verkaufen\".",
+      "url": "https://www.heise.de/news/heise-security-Webinar-Wie-sag-ich-s-meinem-Chef-Gesprachsfuehrung-fuer-ITler-10053626.html"
     },
     {
       "title": "Apache OfBiz: Schwachstelle ermöglicht Codeschmuggel",
@@ -64,6 +69,11 @@
       "teaser": "Der kommunale Dienstleister Südwestfalen-IT baut gut ein Jahr nach einem schweren Cyberangriff seine Führung um. Zwei frühere Geschäftsführer müssen gehen.",
       "url": "https://www.heise.de/news/Nach-Cyberattacke-Neuordnung-der-Fuehrungsstruktur-bei-Suedwestfalen-IT-10067825.html",
       "image_title": "Hände an Laptop-Tastatur mit unscharfem Code im Hintergrund"
+    },
+    {
+      "title": "PCs und Server: Warum x86 die Chip-Architektur der Wahl bleibt",
+      "teaser": "ARM-basierte Prozessoren wie Apple M oder Snapdragon von Qualcomm machen x86 zunehmend Konkurrenz. Dabei gibt es viele Gründe, weiter auf die bewährte x86-Rechenarchitektur zu setzen.",
+      "url": "https://www.heise.de/solutions/intel/prozessoren-fuer-pcs-und-server-warum-x86-die-chip-architektur-der-wahl-bleibt/?source=nat_teas"
     },
     {
       "title": "Windows 11: Security-Updates für \"das sicherste Betriebssystem der Welt\"",
@@ -108,6 +118,18 @@
       "image_title": "Stilisiertes Bild: Computer unter Wolken mit Schutzschilden und Viren"
     },
     {
+      "title": "Lücken in FortiClient, Kemp Loadmaster, PAN-OS und VMware vCenter attackiert",
+      "teaser": "Kriminelle attackieren aktuell teils ungepatchte Sicherheitslücken in FortiClient, Kemp Loadmaster, PAN-OS und VMware vCenter.",
+      "url": "https://www.heise.de/news/Attackierte-Luecken-FortiClient-Kemp-Loadmaster-PAN-OS-VMware-vCenter-10051700.html",
+      "image_title": "Große Server werden von Viren und Kriminellen teils mit Gewehren angegriffen"
+    },
+    {
+      "title": "Kritische Palo-Alto-Lücke: Details und Patches sind da, CISA warnt vor Exploit",
+      "teaser": "Fast drei Wochen nach ersten Exploit-Gerüchten hat der Hersteller nun endlich reagiert, trickst aber. Derweil warnt die US-Cyberbehörde vor Angriffen.",
+      "url": "https://www.heise.de/news/Kritische-Palo-Alto-Luecke-Patches-sind-da-CISA-warnt-vor-Exploit-10051696.html",
+      "image_title": "Kabel in Patchpanels"
+    },
+    {
       "title": "Kommentar: Das BSI liefert ein tolles Konzept für einen neuen IT-Grundschutz",
       "teaser": "Das Umsetzen des IT-Grundschutz ist oft ein Ärgernis. Warum die vom BSI angekündigten Änderungen so vielversprechend sind, kommentiert Ronny Frankenstein.",
       "url": "https://www.heise.de/meinung/Kommentar-Das-BSI-liefert-ein-tolles-Konzept-fuer-einen-neuen-IT-Grundschutz-10035748.html",
@@ -146,24 +168,6 @@
       "title": "Sicherheitsforscher finden beim Nachstellen einer Lücke drei neue",
       "teaser": "Als die Watchtowr Labs-Forscher die Lücke im FortiManager nachprüfen wollten, fanden sie weitere Fehler und unvollständige Fixes.",
       "url": "https://www.heise.de/news/Sicherheitsforscher-finden-beim-Nachstellen-einer-Luecke-drei-neue-10039106.html"
-    },
-    {
-      "title": "Secure Coding: CWE-377 – Unsichere temporäre Dateien und wie man sie vermeidet",
-      "teaser": "Die Common Weakness Enumeration CWE-377 beschreibt eine – vermeidbare – Schwachstelle durch unsicheres Erstellen und Verwalten temporärer Dateien.",
-      "url": "https://www.heise.de/hintergrund/Secure-Coding-CWE-377-Unsichere-temporaere-Dateien-und-wie-man-sie-vermeidet-10028888.html",
-      "image_title": "Halber Mensch vor einer Sanduhr mit Uhr darin"
-    },
-    {
-      "title": "Mögliches Destatis-Datenleck soll keine Wahlauswirkungen haben",
-      "teaser": "Bezüglich des möglichen Datenlecks bei Destatis hat die Behörde die Sicherheitsbehörden eingeschaltet. Die anstehende Bundestagswahl sei aber nicht betroffen.",
-      "url": "https://www.heise.de/news/Moegliches-Datenleck-beim-Statistischen-Bundesamt-10039530.html",
-      "image_title": "Darknet"
-    },
-    {
-      "title": "Sicherheitsfunktionen: Android soll Scam-Anrufe und Malware-Apps besser erkennen",
-      "teaser": "Neue Sicherheitsmechanismen sollen Besitzer von Androidgeräten noch effektiver vor Betrügern schützen. Das gilt vorerst aber nur für die Pixel-Reihe.",
-      "url": "https://www.heise.de/news/Sicherheitsfunktionen-Android-soll-Scam-Anrufe-und-Malware-Apps-besser-erkennen-10036429.html",
-      "image_title": "Stilisierte Grafik: zersplittertes Google Play Store Logo, aus dem Viren kommen"
     },
     {
       "title": "Scuba-Webinar",
