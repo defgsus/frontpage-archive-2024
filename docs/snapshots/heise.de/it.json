@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-20T15:07:26",
+  "timestamp": "2024-11-20T16:08:37",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,17 +26,6 @@
   ],
   "articles": [
     {
-      "title": "Wie \"Certificate Transparency\" Zertifikate im Web absichert",
-      "teaser": "Die Logs des Certificate-Transparency-Systems protokollieren praktisch alle Zertifikate öffentlich, nachweislich und unveränderbar. Wir erklären, wie das geht.",
-      "url": "https://www.heise.de/hintergrund/Wie-Certificate-Transparency-Zertifikate-im-Web-absichert-10039024.html",
-      "image_title": ", KI, Collage c’t"
-    },
-    {
-      "title": "Python-Entwicklung: PyCharm und VS Code im Vergleich",
-      "teaser": "Tiefe Integration bei PyCharm, und ein ganzer Zoo von Plug-ins bei VS Code – trotz unterschiedlicher Konzepte liegen beide Werkzeuge dicht beieinander.",
-      "url": "https://www.heise.de/hintergrund/Python-Entwicklung-PyCharm-und-VS-Code-im-Vergleich-10021104.html"
-    },
-    {
       "title": "Erste Lösungsansätze im KI-Urheberrechtsstreit",
       "teaser": "KI kopiert nicht nur Kunst, sondern verwendet Teile vieler Werke, um daraus etwas Neues zu generieren. Nun melden sich nun Verwertungsgesellschaften zu Wort.",
       "url": "https://www.heise.de/hintergrund/Erste-Loesungsansaetze-im-KI-Urheberrechtsstreit-10045844.html",
@@ -49,13 +38,41 @@
       "image_title": ","
     },
     {
+      "title": "Im Test: Sieben schnelle USB-SSDs und -Sticks mit 1 und 2 TByte Speicherplatz",
+      "teaser": "USB-SSDs und große USB-Sticks sind für Backups und zum Datentransport heute unverzichtbar. Sie sind robuster als Mobilfestplatten und vor allem viel schneller.",
+      "url": "https://www.heise.de/tests/Im-Test-Sieben-schnelle-USB-SSDs-und-Sticks-mit-1-und-2-TByte-Speicherplatz-10042474.html",
+      "image_title": ","
+    },
+    {
+      "title": "Salesforce-CRM: KI-Agenten mit Hunderten Anfragen testen",
+      "teaser": "Die KI-Agenten des Salesforce-CRM sollen autonom handeln, etwa um Bestellungen aufzugeben. Das Agentforce Testing Center stellt eine Sandbox für Tests bereit.",
+      "url": "https://www.heise.de/news/Salesforce-CRM-KI-Agenten-mit-Hunderten-Anfragen-testen-10081450.html"
+    },
+    {
+      "title": "Echo Show 21: Amazon bringt sein bislang größtes Smart Display",
+      "teaser": "Amazon hat neben dem neuen Modell eine Neuauflage seines Echo Show 15 am Start. Beide Modelle sind ab sofort erhältlich.",
+      "url": "https://www.heise.de/news/Echo-Show-21-Amazon-bringt-sein-bislang-groesstes-Smart-Display-10081436.html"
+    },
+    {
+      "title": "Bastelidee: LED-Weihnachtsornamente selber machen",
+      "teaser": "Für Maker ist selbstgebastelte Weihnachtsdeko ein Muss. Mit dieser weihnachtlichen Platine kann man Pixel-Bilder und Animationen am Weihnachtsbaum abspielen.",
+      "url": "https://www.heise.de/news/Bastelidee-LED-Weihnachtsornamente-selber-machen-10080223.html",
+      "image_title": "Eine rote Leiterplatte in der Form einer Christbaumkugel ist zu sehen. Auf Ihr ist eine LED-Matrix aufgetragen, auf der eine Animation von fallendem Schnee abgespielt wird."
+    },
+    {
+      "title": "WSL 2.4.4: Red Hat direkt aus der Windows-Kommandozeile installieren",
+      "teaser": "RHEL wird eine offizielle Distribution im Windows-Subsystem für Linux. Administratoren können individualisierte Linux-Systeme ohne Windows-Code erstellen.",
+      "url": "https://www.heise.de/news/WSL-2-4-4-Red-Hat-direkt-aus-der-Windows-Kommandozeile-installieren-10079719.html",
+      "image_title": "Stilisiertes Bild: Türsteher vor \"The Windows Club\" lässt Pinguine nicht hinein"
+    },
+    {
       "title": "Cloud-Kosten mit guter Planung und Prozessanpassung im Griff behalten",
       "teaser": "Für viele Firmen werden steigende Cloud-Kosten zu einem immer größeren Problem. Einige Tipps am Beispiel AWS können helfen, die Kosten zu senken.",
       "url": "https://www.heise.de/hintergrund/Cloud-Kosten-mit-guter-Planung-und-Prozessanpassung-im-Griff-behalten-10035579.html"
     },
     {
       "title": "digiKam 8.5.0 läuft auf Apple Silicon und korrigiert viele Fehler",
-      "teaser": "Die Fotoverwaltung digiKam läuft ab der neuen Version 0.8.5 nativ auf Apple Silicon. Zudem haben die Entwickler viele Fehler beseitigt.",
+      "teaser": "Die Fotoverwaltung digiKam läuft ab der neuen Version 8.5.0 nativ auf Apple Silicon. Zudem haben die Entwickler viele Fehler beseitigt.",
       "url": "https://www.heise.de/news/digiKam-8-5-0-laeuft-auf-Apple-Silicon-und-korrigiert-viele-Fehler-10081226.html",
       "image_title": "digiKam-Oberfläche auf Apple Silicon"
     },
@@ -104,23 +121,6 @@
       "teaser": "Als Developer Preview führt das Release inkrementelle Hydration ein, während Event Replay nun standardmäßig aktiviert ist.",
       "url": "https://www.heise.de/news/Angular-19-bringt-Neuerungen-fuer-serverseitiges-Rendern-10076716.html",
       "image_title": "Monorail,Motion,Blur,In,Dubai,,Uae.,Dubai,Metro,,Abstract.,Fpv"
-    },
-    {
-      "title": "Trend Micros Deep Security Agent ermöglicht Einschleusen von Schadcode",
-      "teaser": "Angreifer können Trend Micros Deep Security Agent Schadcode unterjubeln, etwa auch im lokalen Netz. Admins sollten zügig aktualisieren.",
-      "url": "https://www.heise.de/news/Trend-Micros-Deep-Security-Agent-ermoeglicht-Einschleusen-von-Schadcode-10075639.html",
-      "image_title": "Stilisierte Grafik: zersplitterter Sicherheitsschild auf einem Laptop"
-    },
-    {
-      "title": "Microsoft KI und Cloud: Neues Bug-Bounty-Event mit 4 Millionen US-Dollar Prämie",
-      "teaser": "Entdecken Sicherheitsforscher beim neuen Zero-Day-Quest-Event Lücken in Microsoft-Produkten, winken hohe Geldprämien.",
-      "url": "https://www.heise.de/news/Microsoft-KI-und-Cloud-Neues-Bug-Bounty-Event-mit-4-Millionen-US-Dollar-Praemie-10077677.html",
-      "image_title": "Hacker bei der Arbeit"
-    },
-    {
-      "title": "Java: Rekord beim bevorstehenden Release des OpenJDK 24",
-      "teaser": "Das OpenJDK entwickelt sich rasant weiter. Die Anzahl der JEPs pro halbjährlichen Release steigt. Java gehört auch mit 30 Jahren noch nicht zum alten Eisen.",
-      "url": "https://www.heise.de/blog/Java-Rekord-beim-bevorstehenden-Release-des-OpenJDK-24-10051629.html"
     },
     {
       "title": "Die neusten Ergebnisse für dieses Jahr",
