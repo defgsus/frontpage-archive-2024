@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-20T10:08:13",
+  "timestamp": "2024-11-20T11:01:30",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Trend Micro Deep Security Agent",
+      "url": "https://www.heise.de/news/Trend-Micros-Deep-Security-Agent-ermoeglicht-Einschleusen-von-Schadcode-10075639.html"
+    },
+    {
       "title": "Oracle Agile PLM Framework",
       "url": "https://www.heise.de/news/Notfall-Sicherheitspatch-Attacken-auf-Oracle-Agile-PLM-10075412.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Sicherheitsluecke-Azure-Stack-HCI-fuer-Attacke-anfaellig-10057541.html"
     },
     {
-      "title": "Nextcloud",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-in-Nextcloud-Angreifer-koennen-E-Mails-abfangen-10053302.html"
+      "title": "Trend Micros Deep Security Agent ermöglicht Einschleusen von Schadcode",
+      "teaser": "Angreifer können Trend Micros Deep Security Agent Schadcode unterjubeln, etwa auch im lokalen Netz. Admins sollten zügig aktualisieren.",
+      "url": "https://www.heise.de/news/Trend-Micros-Deep-Security-Agent-ermoeglicht-Einschleusen-von-Schadcode-10075639.html",
+      "image_title": "Stilisierte Grafik: zersplitterter Sicherheitsschild auf einem Laptop"
+    },
+    {
+      "title": "Microsoft KI und Cloud: Neues Bug-Bounty-Event mit 4 Millionen US-Dollar Prämie",
+      "teaser": "Entdecken Sicherheitsforscher beim neuen Zero-Day-Quest-Event Lücken in Microsoft-Produkten, winken hohe Geldprämien.",
+      "url": "https://www.heise.de/news/Microsoft-KI-und-Cloud-Neues-Bug-Bounty-Event-mit-4-Millionen-US-Dollar-Praemie-10077677.html",
+      "image_title": "Hacker bei der Arbeit"
     },
     {
       "title": "WebKit-Exploit: Apple aktualisiert iOS, iPadOS, visionOS, macOS 15 und Safari",
@@ -60,6 +72,11 @@
       "image_title": "Server in der MItte, Verbindungen zu darum herumstehenden Clients, Verschlüsselungssymbole"
     },
     {
+      "title": "PCs und Server: Warum x86 die Chip-Architektur der Wahl bleibt",
+      "teaser": "ARM-basierte Prozessoren wie Apple M oder Snapdragon von Qualcomm machen x86 zunehmend Konkurrenz. Dabei gibt es viele Gründe, weiter auf die bewährte x86-Rechenarchitektur zu setzen.",
+      "url": "https://www.heise.de/solutions/intel/prozessoren-fuer-pcs-und-server-warum-x86-die-chip-architektur-der-wahl-bleibt/?source=nat_teas"
+    },
+    {
       "title": "iX-Workshop: IT-Systeme absichern – Pentesting mit Open-Source-Werkzeugen",
       "teaser": "Lernen Sie, wie Sie Sicherheitslücken in der eigenen Unternehmens-IT mit Hacker-Tools aufdecken und beseitigen.",
       "url": "https://www.heise.de/news/iX-Workshop-IT-Systeme-absichern-Pentesting-mit-Open-Source-Werkzeugen-10036123.html",
@@ -70,11 +87,6 @@
       "teaser": "Der kommunale Dienstleister Südwestfalen-IT baut gut ein Jahr nach einem schweren Cyberangriff seine Führung um. Zwei frühere Geschäftsführer müssen gehen.",
       "url": "https://www.heise.de/news/Nach-Cyberattacke-Neuordnung-der-Fuehrungsstruktur-bei-Suedwestfalen-IT-10067825.html",
       "image_title": "Hände an Laptop-Tastatur mit unscharfem Code im Hintergrund"
-    },
-    {
-      "title": "PCs und Server: Warum x86 die Chip-Architektur der Wahl bleibt",
-      "teaser": "ARM-basierte Prozessoren wie Apple M oder Snapdragon von Qualcomm machen x86 zunehmend Konkurrenz. Dabei gibt es viele Gründe, weiter auf die bewährte x86-Rechenarchitektur zu setzen.",
-      "url": "https://www.heise.de/solutions/intel/prozessoren-fuer-pcs-und-server-warum-x86-die-chip-architektur-der-wahl-bleibt/?source=nat_teas"
     },
     {
       "title": "Windows 11: Security-Updates für \"das sicherste Betriebssystem der Welt\"",
@@ -158,17 +170,6 @@
       "teaser": "Der berühmte Btx-Hack des Chaos Computer Clubs 1984 enthüllte Sicherheitslücken und machte den CCC schlagartig bekannt.",
       "url": "https://www.heise.de/news/Vor-40-Jahren-der-Btx-Hack-feiert-froehliche-Urstaend-10040274.html",
       "image_title": "Btx Logo"
-    },
-    {
-      "title": "iX-Workshop: Sicherer Betrieb von Windows 11 in Unternehmen",
-      "teaser": "Lernen Sie an praktischen Beispielen, wie Sie Windows 11 Pro und Enterprise in Ihrem Unternehmen sicher und effektiv einsetzen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Sicherer-Betrieb-von-Windows-11-in-Unternehmen-10019366.html",
-      "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
-    },
-    {
-      "title": "Sicherheitsforscher finden beim Nachstellen einer Lücke drei neue",
-      "teaser": "Als die Watchtowr Labs-Forscher die Lücke im FortiManager nachprüfen wollten, fanden sie weitere Fehler und unvollständige Fixes.",
-      "url": "https://www.heise.de/news/Sicherheitsforscher-finden-beim-Nachstellen-einer-Luecke-drei-neue-10039106.html"
     },
     {
       "title": "Scuba-Webinar",
