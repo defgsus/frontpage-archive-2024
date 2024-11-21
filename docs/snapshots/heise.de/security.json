@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-21T10:00:44",
+  "timestamp": "2024-11-21T11:01:03",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Atlassian",
+      "url": "https://www.heise.de/news/Bitbucket-Confluence-Co-Atlassian-schliesst-DoS-und-Schadcode-Luecken-10082228.html"
+    },
+    {
       "title": "Trend Micro Deep Security Agent",
       "url": "https://www.heise.de/news/Trend-Micros-Deep-Security-Agent-ermoeglicht-Einschleusen-von-Schadcode-10075639.html"
     },
@@ -44,14 +48,10 @@
       "url": "https://www.heise.de/news/Apache-OfBiz-Schwachstelle-ermoeglicht-Codeschmuggel-10075408.html"
     },
     {
-      "title": "Azure Stack HCI",
-      "url": "https://www.heise.de/news/Sicherheitsluecke-Azure-Stack-HCI-fuer-Attacke-anfaellig-10057541.html"
-    },
-    {
-      "title": "Malware-Kampagne lockt Opfer mit kostenlosem KI-Videoeditor",
-      "teaser": "Auf sozialen Medien haben Kriminelle eine Kampagne für einen kostenlosen KI-Videoeditor gestartet. Stattdessen gab es jedoch Infostealer.",
-      "url": "https://www.heise.de/news/Malware-Kampagne-lockt-Opfer-mit-kostenlosem-KI-Videoeditor-10082265.html",
-      "image_title": "Stilisiertes Bild: Ein Laptop zeigt das Youtube-Logo, rundherum fliegen Viren"
+      "title": "Bitbucket, Confluence & Co.: Atlassian schließt DoS- und Schadcode-Lücken",
+      "teaser": "Atlassians Entwickler haben Sicherheitslücken in Bamboo, Bitbucket, Confluence, Crowd Data, Jira, Jira Service Management und Sourcetree geschlossen.",
+      "url": "https://www.heise.de/news/Bitbucket-Confluence-Co-Atlassian-schliesst-DoS-und-Schadcode-Luecken-10082228.html",
+      "image_title": "Update-Taste auf Keyboard"
     },
     {
       "title": "Statistisches Bundesamt: Kein Datenabfluss aus IDEV-Meldesystem",
@@ -75,6 +75,12 @@
       "title": "PCs und Server: Warum x86 die Chip-Architektur der Wahl bleibt",
       "teaser": "ARM-basierte Prozessoren wie Apple M oder Snapdragon von Qualcomm machen x86 zunehmend Konkurrenz. Dabei gibt es viele Gründe, weiter auf die bewährte x86-Rechenarchitektur zu setzen.",
       "url": "https://www.heise.de/solutions/intel/prozessoren-fuer-pcs-und-server-warum-x86-die-chip-architektur-der-wahl-bleibt/?source=nat_teas"
+    },
+    {
+      "title": "Yubikey-Seitenkanal: Weitere Produkte für Cloning-Attacke anfällig",
+      "teaser": "Die Seitenkanal-Lücke EUCLEAK wurde auch als \"Yubikey-Cloning-Attacke\" bekannt. Das BSI re-zertifiziert aktualisierte Produkte, die betroffen waren.",
+      "url": "https://www.heise.de/news/EUCLEAK-Weitere-Produkte-fuer-Cloning-Attacke-anfaellig-10078520.html",
+      "image_title": "Ein Krimineller untersucht einen USB-Dongle, rundherum Sicherheitssymbole"
     },
     {
       "title": "Trend Micros Deep Security Agent ermöglicht Einschleusen von Schadcode",
@@ -164,12 +170,6 @@
       "teaser": "Kriminelle attackieren aktuell teils ungepatchte Sicherheitslücken in FortiClient, Kemp Loadmaster, PAN-OS und VMware vCenter.",
       "url": "https://www.heise.de/news/Attackierte-Luecken-FortiClient-Kemp-Loadmaster-PAN-OS-VMware-vCenter-10051700.html",
       "image_title": "Große Server werden von Viren und Kriminellen teils mit Gewehren angegriffen"
-    },
-    {
-      "title": "Kritische Palo-Alto-Lücke: Details und Patches sind da, CISA warnt vor Exploit",
-      "teaser": "Fast drei Wochen nach ersten Exploit-Gerüchten hat der Hersteller nun endlich reagiert, trickst aber. Derweil warnt die US-Cyberbehörde vor Angriffen.",
-      "url": "https://www.heise.de/news/Kritische-Palo-Alto-Luecke-Patches-sind-da-CISA-warnt-vor-Exploit-10051696.html",
-      "image_title": "Kabel in Patchpanels"
     },
     {
       "title": "Scuba-Webinar",
