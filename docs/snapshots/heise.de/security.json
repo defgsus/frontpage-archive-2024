@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-22T12:13:24",
+  "timestamp": "2024-11-22T13:17:31",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Citrix Virtual Apps and Desktops",
+      "url": "https://www.heise.de/news/Angriffe-auf-Citrix-Sicherheitsluecke-beobachtet-10100614.html"
+    },
+    {
       "title": "PHP",
       "url": "https://www.heise.de/news/PHP-Updates-8-1-31-8-2-26-8-3-14-und-8-4-1-stopfen-Sicherheitslecks-10097715.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/7-Zip-Luecke-ermoeglicht-Codeschmuggel-mit-manipulierten-Archiven-10083297.html"
     },
     {
-      "title": "Zimbra",
-      "url": "https://www.heise.de/news/Mehrere-Sicherheitsluecken-in-Zimbra-10-1-3-geschlossen-10082770.html"
+      "title": "Angriffe auf Citrix-Sicherheitslücke beobachtet",
+      "teaser": "In der vergangenen Woche hat Citrix Sicherheitslücken im Session Recording geschlossen. Nun haben IT-Forscher Angriffe darauf beobachtet.",
+      "url": "https://www.heise.de/news/Angriffe-auf-Citrix-Sicherheitsluecke-beobachtet-10100614.html",
+      "image_title": "Server, die am Netz hängen und angegriffen werden"
     },
     {
       "title": "Programmiersprache Rust: AWS-Wettbewerb für mehr Sicherheit der Standard-Library",
@@ -58,12 +64,6 @@
       "teaser": "Lernen Sie, wie Sie Entra ID einschließlich Azure-Diensten härten und effektiv vor Angriffen schützen.",
       "url": "https://www.heise.de/news/iX-Workshop-Angriffe-auf-Entra-ID-abwehren-10036159.html",
       "image_title": "iX-Workshop Entra ID (AAD) gegen Angriffe absichern"
-    },
-    {
-      "title": "l+f: Pentester auf der dunklen Seite der Macht",
-      "teaser": "Malware-Entwickler wollen die Qualität ihrer Erpressungstrojaner verbessern und suchen dafür professionelle Hilfe.",
-      "url": "https://www.heise.de/news/l-f-Pentester-auf-der-dunklen-Seite-der-Macht-10101016.html",
-      "image_title": "Hände tippen auf Tastatur"
     },
     {
       "title": "PHP-Updates: 8.1.31, 8.2.26, 8.3.14 und 8.4.1 stopfen Sicherheitslecks",
@@ -87,6 +87,12 @@
       "teaser": "Vor etwa zwei Wochen ist in den USA ein Cyberangriff auf verschiedene Provider entdeckt worden, es ging um Spionage. Die Angreifer sind weiterhin im System.",
       "url": "https://www.heise.de/news/Aus-China-Cyberangriff-auf-US-Provider-schlimmster-in-der-US-Geschichte-10097659.html",
       "image_title": "Digitale Darstellung der US-Flagge"
+    },
+    {
+      "title": "Ubuntu-Server: Root-Lücke durch needrestart-Komponente",
+      "teaser": "IT-Sicherheitsforscher haben gleich fünf Root-Lücken in der needrestart-Komponente von Ubuntu-Servern entdeckt.",
+      "url": "https://www.heise.de/news/Ubuntu-Server-Root-Luecke-durch-needrestart-Komponente-10083933.html",
+      "image_title": "Stilisiertes Bild: Laptop zeigt brennenden Pinguin"
     },
     {
       "title": "7-Zip-Lücke ermöglicht Codeschmuggel mit manipulierten Archiven",
@@ -163,12 +169,6 @@
       "teaser": "Apple schiebt iOS 18.1.1, macOS 15.1.1 und visionOS 2.1.1 nach, um aktiv ausgenutzte Exploits zu stoppen. Nutzer sollten am besten schnell aktualisieren.",
       "url": "https://www.heise.de/news/WebKit-Exploit-Apple-aktualisiert-iOS-iPadOS-visionOS-macOS-15-und-Safari-10072858.html",
       "image_title": "Apple-Logo mit Schloss"
-    },
-    {
-      "title": "Apache OfBiz: Schwachstelle ermöglicht Codeschmuggel",
-      "teaser": "Eine aktualisierte Version der ERP-Software Apache OfBiz schließt Sicherheitslecks, die das Ausführen von Schadcode ermöglichen.",
-      "url": "https://www.heise.de/news/Apache-OfBiz-Schwachstelle-ermoeglicht-Codeschmuggel-10075408.html",
-      "image_title": "Server in der MItte, Verbindungen zu darum herumstehenden Clients, Verschlüsselungssymbole"
     },
     {
       "title": "Scuba-Webinar",
