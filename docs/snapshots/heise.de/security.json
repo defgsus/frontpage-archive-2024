@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-22T07:07:25",
+  "timestamp": "2024-11-22T08:10:37",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "PHP",
+      "url": "https://www.heise.de/news/PHP-Updates-8-1-31-8-2-26-8-3-14-und-8-4-1-stopfen-Sicherheitslecks-10097715.html"
+    },
+    {
       "title": "Ubuntu needrestart",
       "url": "https://www.heise.de/news/Ubuntu-Server-Root-Luecke-durch-needrestart-Komponente-10083933.html"
     },
@@ -44,14 +48,33 @@
       "url": "https://www.heise.de/news/Mehrere-Sicherheitsluecken-in-Zimbra-10-1-3-geschlossen-10082770.html"
     },
     {
-      "title": "Atlassian",
-      "url": "https://www.heise.de/news/Bitbucket-Confluence-Co-Atlassian-schliesst-DoS-und-Schadcode-Luecken-10082228.html"
+      "title": "Sicherheitsrisiko: D-Link rät zur Entsorgung einiger Routermodelle",
+      "teaser": "Über eine Schwachstelle können Angreifer Schadcode ausführen. Bestimmte Router von D-Link bekommen aber kein Sicherheitsupdate mehr.",
+      "url": "https://www.heise.de/news/Sicherheitsrisiko-D-Link-raet-zur-Entsorgung-einiger-Routermodelle-10097743.html",
+      "image_title": "LAN-Kabel in Router"
     },
     {
-      "title": "Aus China: Cyberangriff auf US-Provider \"schlimmster in der US-Geschichte\"",
+      "title": "PHP-Updates: 8.1.31, 8.2.26, 8.3.14 und 8.4.1 stopfen Sicherheitslecks",
+      "teaser": "Die PHP-Entwickler haben neue Pakete veröffentlicht. PHP 8.1.31, 8.2.26, 8.3.14 und 8.4.1 schließen Sicherheitslücken.",
+      "url": "https://www.heise.de/news/PHP-Updates-8-1-31-8-2-26-8-3-14-und-8-4-1-stopfen-Sicherheitslecks-10097715.html",
+      "image_title": "Programmierer am Laptop, der COde und \"PHP\" anzeigt. Viren und Kriminelle greifen das an"
+    },
+    {
+      "title": "iX-Workshop: AWS-Sicherheit - Angriffe erkennen und abwehren",
+      "teaser": "Erfahren Sie, wie Angreifer Fehlkonfigurationen und mangelnde Härtung der Amazon Cloud ausnutzen und wie Sie AWS-Dienste und Cloud-Identitäten dagegen schützen.",
+      "url": "https://www.heise.de/news/iX-Workshop-AWS-Sicherheit-Angriffe-erkennen-und-abwehren-10036155.html",
+      "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
+    },
+    {
+      "title": "Wohl aus China: Cyberangriff auf US-Provider \"schlimmster in der US-Geschichte\"",
       "teaser": "Vor etwa zwei Wochen ist in den USA ein Cyberangriff auf verschiedene Provider entdeckt worden, es ging um Spionage. Die Angreifer sind weiterhin im System.",
       "url": "https://www.heise.de/news/Aus-China-Cyberangriff-auf-US-Provider-schlimmster-in-der-US-Geschichte-10097659.html",
       "image_title": "Digitale Darstellung der US-Flagge"
+    },
+    {
+      "title": "PCs und Server: Warum x86 die Chip-Architektur der Wahl bleibt",
+      "teaser": "ARM-basierte Prozessoren wie Apple M oder Snapdragon von Qualcomm machen x86 zunehmend Konkurrenz. Dabei gibt es viele Gründe, weiter auf die bewährte x86-Rechenarchitektur zu setzen.",
+      "url": "https://www.heise.de/solutions/intel/prozessoren-fuer-pcs-und-server-warum-x86-die-chip-architektur-der-wahl-bleibt/?source=nat_teas"
     },
     {
       "title": "Mehrere Sicherheitslücken in Zimbra 10.1.3 geschlossen",
@@ -70,11 +93,6 @@
       "teaser": "Auf sozialen Medien haben Kriminelle eine Kampagne für einen kostenlosen KI-Videoeditor gestartet. Stattdessen gab es jedoch Infostealer.",
       "url": "https://www.heise.de/news/Malware-Kampagne-lockt-Opfer-mit-kostenlosem-KI-Videoeditor-10082265.html",
       "image_title": "Stilisiertes Bild: Ein Laptop zeigt das Youtube-Logo, rundherum fliegen Viren"
-    },
-    {
-      "title": "PCs und Server: Warum x86 die Chip-Architektur der Wahl bleibt",
-      "teaser": "ARM-basierte Prozessoren wie Apple M oder Snapdragon von Qualcomm machen x86 zunehmend Konkurrenz. Dabei gibt es viele Gründe, weiter auf die bewährte x86-Rechenarchitektur zu setzen.",
-      "url": "https://www.heise.de/solutions/intel/prozessoren-fuer-pcs-und-server-warum-x86-die-chip-architektur-der-wahl-bleibt/?source=nat_teas"
     },
     {
       "title": "Statistisches Bundesamt: Kein Datenabfluss aus IDEV-Meldesystem",
@@ -151,24 +169,6 @@
       "teaser": "Infolge des CrowdStrike-Debakels baut Microsoft die Sicherheitsfunktionen von Windows deutlich aus. Auch Drittentwickler werden streng an die Leine genommen.",
       "url": "https://www.heise.de/news/Windows-11-Security-Updates-fuer-das-sicherste-Betriebssystem-der-Welt-10057468.html",
       "image_title": "Stilisiertes Bild: Windows/Software-Update auf Laptop"
-    },
-    {
-      "title": "iX-Workshop für KMUs: Schritt für Schritt zur sicheren IT",
-      "teaser": "Erhalten Sie einen Überblick über Methoden und Best Practices für eine effiziente Cybersicherheitsstrategie.",
-      "url": "https://www.heise.de/news/iX-Workshop-fuer-KMUs-Schritt-fuer-Schritt-zur-sicheren-IT-10036119.html",
-      "image_title": "iX-Workshop: IT-Sicherheit für KMU"
-    },
-    {
-      "title": "Malvertising: Fake-Werbung auf Facebook zielt auf Bitwarden-Nutzer ab",
-      "teaser": "Sicherheitsforscher haben eine Malwaretising-Kampagne beobachtet, bei der ein angebliches Sicherheitsupdate für Bitwarden via Facebook beworben wurde.",
-      "url": "https://www.heise.de/news/Malvertising-Fake-Werbung-auf-Facebook-zielt-auf-Bitwarden-Nutzer-ab-10057183.html",
-      "image_title": "Lupe auf Malware-Schriftzug"
-    },
-    {
-      "title": "Sicherheitslücke: Azure Stack HCI für Attacke anfällig",
-      "teaser": "Microsoft hat einen wichtigen Sicherheitspatch für Azure Stack HCI veröffentlicht. Bislang wurden noch keine Attacken beobachtet.",
-      "url": "https://www.heise.de/news/Sicherheitsluecke-Azure-Stack-HCI-fuer-Attacke-anfaellig-10057541.html",
-      "image_title": "Update-Taste auf Tastatur"
     },
     {
       "title": "Scuba-Webinar",
