@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-21T23:00:43",
+  "timestamp": "2024-11-22T00:37:01",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -338,9 +338,9 @@
       "image_title": "Equinix-Rechenzentren im Osten Frankfurts"
     },
     {
-      "title": "KI-Infrastruktur – die richtige Hardware für Enterprise AI finden",
-      "teaser": "Wer KI im eigenen Unternehmen entwickeln will, braucht dafür eine leistungsfähige Infrastruktur. Neue Komponenten und Angebote senken die Hürden auf dem Weg zur Enterprise AI.",
-      "url": "https://business-services.heise.de/specials/moderne-it-infrastruktur/ki/beitrag/ki-infrastruktur-die-richtige-hardware-fuer-enterprise-ai-finden-4840/?source=hbsadersatz"
+      "title": "Cloud-Souveränität ohne Vendor-Lock-in",
+      "teaser": "Wie behalten Sie die Kontrolle über Ihre Infrastruktur? Mit Infrastructure as Code (IaC) eröffnen sich neue Möglichkeiten, Ihre Cloud-Umgebungen effizient, sicher und flexibel zu managen. Mehr dazu in einem Webcast.",
+      "url": "https://business-services.heise.de/it-management/cloud-computing/beitrag/cloud-souveraenitaet-dank-iac-ohne-vendor-lock-in-zur-sicheren-und-skalierbaren-infrastruktur-4820/?source=hbsad-ersatz"
     },
     {
       "title": "KI auf der Kommandozeile: Microsoft veröffentlicht AI Shell",
@@ -565,6 +565,12 @@
       "url": "https://www.heise.de/en/news/Startup-company-plans-huge-AI-cloud-with-AMD-chips-10064477.html"
     },
     {
+      "title": "Linux-Distribution Fedora Workstation 41 im Test",
+      "teaser": "Das neue Fedora-Release hat ein Container-Terminal, der Paketmanager dnf ist schneller und die Einrichtung des proprietären Nvidia-Grafiktreibers wird leichter.",
+      "url": "https://www.heise.de/tests/Linux-Distribution-Fedora-Workstation-41-im-Test-10040366.html",
+      "image_title": ","
+    },
+    {
       "title": "Erste Lösungsansätze im KI-Urheberrechtsstreit",
       "teaser": "KI kopiert nicht nur Kunst, sondern verwendet Teile vieler Werke, um daraus etwas Neues zu generieren. Nun melden sich Verwertungsgesellschaften zu Wort.",
       "url": "https://www.heise.de/hintergrund/Erste-Loesungsansaetze-im-KI-Urheberrechtsstreit-10045844.html",
@@ -589,12 +595,6 @@
       "image_title": "Der Mac mini 2024 von vorne"
     },
     {
-      "title": "Anleitung: Flirt-Amulette mit ESP-Modulen basteln",
-      "teaser": "In diesem Artikel erklären wir, wie Schmuckstücke mit ESP-Modulen sich bei Nähe lebhaft erkennen, um Träger auf Events zusammenzuführen.",
-      "url": "https://www.heise.de/ratgeber/Anleitung-Flirt-Amulette-mit-ESP-Modulen-basteln-10046050.html",
-      "image_title": ","
-    },
-    {
       "title": "Bastelidee: LED-Weihnachtsornamente selber machen",
       "teaser": "Für Maker ist selbstgebastelte Weihnachtsdeko ein Muss. Mit dieser weihnachtlichen Platine kann man Pixel-Bilder und Animationen am Weihnachtsbaum abspielen.",
       "url": "https://www.heise.de/news/Bastelidee-LED-Weihnachtsornamente-selber-machen-10080223.html",
@@ -605,6 +605,11 @@
       "teaser": "Linux integriert nun PREEMPT_RT und ist Echtzeitfähig. Der eBPF-basierte \"extensible Scheduler\" ist ebenfalls enthalten.",
       "url": "https://www.heise.de/news/Echtzeitfaehiges-Linux-6-12-erschienen-10059625.html",
       "image_title": "Pinguin sitzt vor einem Linux-Laptop mit vielen Tasks, Aufschrift \"Linux realtime\""
+    },
+    {
+      "title": "Circuit Grave: Gedruckte Mini-Fräse für Leiterplatten",
+      "teaser": "Statt Leiterplatten zu ätzen, kann man sie auch fräsen. Und mit dieser DIY-Maschine klappt das im kleinen Rahmen auch zu Hause.",
+      "url": "https://www.heise.de/news/Circuit-Grave-Gedruckte-Mini-Fraese-fuer-Leiterplatten-10032006.html"
     },
     {
       "title": "Kameras und Zubehör: Tipps zum Gebrauchtkauf",
@@ -703,21 +708,21 @@
       "url": "https://www.techstage.de/bestenliste/top-10-die-beste-smartwatch-mit-ekg-im-test-huawei-fitbit-und-co/11kg4jj?wt_mc=intern.red.techstage.techstage_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Google-Imperium vor dem Zerfall: Chrome und Android auf der Verkaufsliste",
-      "teaser": "Die US-Justiz verschärft den Druck auf Google: Der Tech-Gigant soll seinen Browser Chrome und Teile von Android verkaufen. Was bedeutet das für Nutzer?",
-      "url": "https://www.heise.de/tp/features/Google-Imperium-vor-dem-Zerfall-Chrome-und-Android-auf-der-Verkaufsliste-10082271.html",
-      "image_title": "Die Logos von Google und von Chrome werden symbolisch mit einem Cuttermesser voneinander getrennt."
-    },
-    {
-      "title": "Grippe-Impfung: Was dieses Mal anders ist und worauf Sie achten sollten",
-      "teaser": "Nebenwirkung der Corona-Maßnahmen: Ein Influenza Virusstamm gilt als ausgerottet. Für wen der neue Impfstoff empfohlen wird.",
-      "url": "https://www.heise.de/tp/features/Grippe-Impfung-Was-dieses-Mal-anders-ist-und-worauf-Sie-achten-sollten-10081258.html",
-      "image_title": "Symbolbild: Jemand bekommt eine Spritze in den Arm"
+      "title": "Grippe- und Corona-Impfung am selben Tag: Riskant oder praktisch?",
+      "teaser": "RKI und Hausärzte schwören auf Doppelimpfung für Ältere und Vorerkrankte. Eine US-Studie soll die Empfehlung stützen. Ein Ergebnis war überraschend.",
+      "url": "https://www.heise.de/tp/features/Grippe-und-Corona-Impfung-am-selben-Tag-Riskant-oder-praktisch-10085628.html",
+      "image_title": "Bild zeigt Mann mit Pflaster auf nacktem Oberarm"
     },
     {
       "title": "Westliche Waffen gegen Russland: Zwischen Eskalation und Psychokrieg",
       "teaser": "ATACMS-Raketen und Storm-Shadow-Flugkörper gegen Russland. Westliche Botschaften in Kiew warnen Mitarbeiter vor russischer Vergeltung. Ist die Unsicherheit Teil des Kalküls?",
       "url": "https://www.heise.de/tp/features/Westliche-Waffen-gegen-Russland-Zwischen-Eskalation-und-Psychokrieg-10082072.html"
+    },
+    {
+      "title": "Laufmotivation: Warum mentale Fitness der Schlüssel zum Erfolg ist",
+      "teaser": "Laufen ist mehr als nur Beinarbeit. Neben Ausdauer und Kraft spielt die mentale Fitness eine entscheidende Rolle. Was Top-Athleten längst wissen, kann jeder Läufer lernen.",
+      "url": "https://www.heise.de/tp/features/Laufmotivation-Warum-mentale-Fitness-der-Schluessel-zum-Erfolg-ist-10090397.html",
+      "image_title": "Das Bild zeigt eine junge Frau, die offenbar Pause beim Joggen macht"
     },
     {
       "title": "Usenet-Anbieter: So finden Sie den besten Provider",
