@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-23T07:01:53",
+  "timestamp": "2024-11-23T08:08:48",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -48,6 +48,12 @@
       "url": "https://www.heise.de/news/7-Zip-Luecke-ermoeglicht-Codeschmuggel-mit-manipulierten-Archiven-10083297.html"
     },
     {
+      "title": "Secure Coding: CWE-377 – TOCTOU-Race-Conditions in den Griff bekommen",
+      "teaser": "TOCTOU-Schwachstellen zählen zu den schwerwiegendsten in der Common Weakness Enumeration CWE-377 beschriebenen. Sie bedürfen besonderer Vorkehrungen.",
+      "url": "https://www.heise.de/hintergrund/Secure-Coding-CWE-377-TOCTOU-Race-Conditions-in-den-Griff-bekommen-10081613.html",
+      "image_title": "Halber Mensch vor Zahnrädern und Schlössern"
+    },
+    {
       "title": "Minispiel auf Steam: Hacky macht Spieler zum filmreifen Meister-Hacker",
       "teaser": "Wer neugierige Sitznachbarn beeindrucken oder sich einfach mal wie ein richtiger Film-Hacker fühlen möchte, wird auf Steam fündig.",
       "url": "https://www.heise.de/news/Minispiel-auf-Steam-Hacky-macht-Spieler-zum-filmreifen-Meister-Hacker-10108035.html"
@@ -65,15 +71,15 @@
       "image_title": "Handschellen, Dollarbündel"
     },
     {
+      "title": "PCs und Server: Warum x86 die Chip-Architektur der Wahl bleibt",
+      "teaser": "ARM-basierte Prozessoren wie Apple M oder Snapdragon von Qualcomm machen x86 zunehmend Konkurrenz. Dabei gibt es viele Gründe, weiter auf die bewährte x86-Rechenarchitektur zu setzen.",
+      "url": "https://www.heise.de/solutions/intel/prozessoren-fuer-pcs-und-server-warum-x86-die-chip-architektur-der-wahl-bleibt/?source=nat_teas"
+    },
+    {
       "title": "Kritischer Firewall-Bug: Über 2000 Palo-Alto-Geräte weltweit bereits geknackt",
       "teaser": "Im deutschsprachigen Raum gibt es nur wenige Dutzend Betroffene, zwei Länder hat es jedoch besonders stark erwischt. Exploits sind mittlerweile öffentlich.",
       "url": "https://www.heise.de/news/Kritischer-Firewall-Bug-Ueber-2000-Palo-Alto-Geraete-weltweit-bereits-geknackt-10105274.html",
       "image_title": "Server-Reihe"
-    },
-    {
-      "title": "PCs und Server: Warum x86 die Chip-Architektur der Wahl bleibt",
-      "teaser": "ARM-basierte Prozessoren wie Apple M oder Snapdragon von Qualcomm machen x86 zunehmend Konkurrenz. Dabei gibt es viele Gründe, weiter auf die bewährte x86-Rechenarchitektur zu setzen.",
-      "url": "https://www.heise.de/solutions/intel/prozessoren-fuer-pcs-und-server-warum-x86-die-chip-architektur-der-wahl-bleibt/?source=nat_teas"
     },
     {
       "title": "Angriffe auf Citrix-Sicherheitslücke beobachtet",
@@ -166,15 +172,15 @@
       "image_title": "Ein Krimineller untersucht einen USB-Dongle, rundherum Sicherheitssymbole"
     },
     {
-      "title": "Trend Micros Deep Security Agent ermöglicht Einschleusen von Schadcode",
-      "teaser": "Angreifer können Trend Micros Deep Security Agent Schadcode unterjubeln, etwa auch im lokalen Netz. Admins sollten zügig aktualisieren.",
-      "url": "https://www.heise.de/news/Trend-Micros-Deep-Security-Agent-ermoeglicht-Einschleusen-von-Schadcode-10075639.html",
-      "image_title": "Stilisierte Grafik: zersplitterter Sicherheitsschild auf einem Laptop"
-    },
-    {
       "title": "Scuba-Webinar",
       "teaser": "Lernen Sie Lücken und Fehler mit SCUBA selbst zu finden und zu beheben. Das Webinar erklärt das Konzept und die Funktionsweise des Tools, um die Sicherheit seines M365-Tenants zu verbessern.",
       "url": "https://heise-academy.de/webinare/microsoft_cloud_security?wt_mc=intern.academy.security.web_scuba2.hs_teaser.teaser.teaser"
+    },
+    {
+      "title": "Secure Coding: CWE-377 – TOCTOU-Race-Conditions in den Griff bekommen",
+      "teaser": "TOCTOU-Schwachstellen zählen zu den schwerwiegendsten in der Common Weakness Enumeration CWE-377 beschriebenen. Sie bedürfen besonderer Vorkehrungen.",
+      "url": "https://www.heise.de/hintergrund/Secure-Coding-CWE-377-TOCTOU-Race-Conditions-in-den-Griff-bekommen-10081613.html",
+      "image_title": "Halber Mensch vor Zahnrädern und Schlössern"
     },
     {
       "title": "Kommentar: Das BSI liefert ein tolles Konzept für einen neuen IT-Grundschutz",
@@ -187,12 +193,6 @@
       "teaser": "Die Common Weakness Enumeration CWE-377 beschreibt eine – vermeidbare – Schwachstelle durch unsicheres Erstellen und Verwalten temporärer Dateien.",
       "url": "https://www.heise.de/hintergrund/Secure-Coding-CWE-377-Unsichere-temporaere-Dateien-und-wie-man-sie-vermeidet-10028888.html",
       "image_title": "Halber Mensch vor einer Sanduhr mit Uhr darin"
-    },
-    {
-      "title": "NIS-2 kommt näher: Staatlich weggecybert oder komplett abgesichert?",
-      "teaser": "Die Zusammenfassung des Bundestags zur NIS2 Anhörung titelt \"Expertenkritik an geplanter Umsetzung der NIS-2-Richtlinie\". Zu Recht, meint Manuel Atug.",
-      "url": "https://www.heise.de/meinung/NIS-2-kommt-naeher-Staatlich-weggecybert-oder-komplett-abgesichert-10013942.html",
-      "image_title": "Merere rote Projektionen von Sicherheitsschlössern in einer Reihe, links eine Lupe"
     },
     {
       "title": "Re: Kein Update für Virenscanner bzw. Abbruch nach Update(?)",
