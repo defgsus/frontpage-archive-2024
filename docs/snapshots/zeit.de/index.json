@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-23T14:01:38",
+  "timestamp": "2024-11-23T15:01:39",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
@@ -110,10 +116,24 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); UN-Klimakonferenz : Der große Wurf? Eher das große Zerwürfnis",
+      "title": "Z+ (abopflichtiger Inhalt); Wirtschaftspolitik von Donald Trump : Er kämpft für seine Oligarchen",
+      "teaser": "Seine Liebe für Zölle ist ökonomisch töricht: Wenn Donald Trump auf Handelskrieg setzt, wird das nur wenigen nützen – und der Wirtschaft des Landes Schaden zufügen.",
+      "url": "https://www.zeit.de/wirtschaft/2024-11/wirtschaftspolitik-donald-trump-zoll-handel-protektionismus",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-11/protektionismus-handelskrieg-zoelle-usa-trump-bild/square__500x500",
+      "image_title": "Wirtschaftspolitik von Donald Trump: Er kämpft für seine Oligarchen"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); US-Regierung : Ölunternehmer, Fox-Moderatoren und Elon Musk – das ist Trumps Team",
+      "teaser": "Die US-Energiepolitik könnte künftig ein Frackingunternehmer verantworten, das Finanzministerium soll ein Hedgefonds-Manager führen. Trumps Wunschkabinett im Überblick",
+      "url": "https://www.zeit.de/politik/ausland/2024-11/usa-donald-trump-regierung-nominierte-elon-musk-fox-news-pentagon",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-11/sean-duffy-fox-moderator-verkehrsminister-unter-donald-trump-bild/super__430x286",
+      "image_title": "US-Regierung: US President Donald Trump, with US Congressman Sean Duffy (L), speaks in the Cabinet Room of the White House on January 24, 2019. - Trump spoke about the unfair trade practices at play in the world."
+    },
+    {
+      "title": "UN-Klimakonferenz : Der große Wurf? Eher das große Zerwürfnis",
       "teaser": "Der Klimagipfel droht zu scheitern: Die Entwicklungsländer verlassen den Verhandlungssaal. Die EU kritisiert Saudi-Arabien. Und der Gastgeber spielt eine seltsame Rolle.",
       "url": "https://www.zeit.de/wissen/umwelt/2024-11/un-klimakonferenz-cop29-aserbaidschan-klimazahlungen-eu",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-11/un-klimakonferenz-cop29-aserbaidschan-klimazahlungen-eu-bild/wide__1000x562",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-11/un-klimakonferenz-cop29-aserbaidschan-klimazahlungen-eu-bild/wide__892x501",
       "image_title": "UN-Klimakonferenz: Activists hold a silent protest against the draft agreement, during the COP29 United Nations Climate Change Conference, in Baku, Azerbaijan November 22, 2024."
     },
     {
@@ -131,25 +151,6 @@
       "image_title": "Propalästinensische Proteste: Claudia Roth (Grüne), Kulturstaatsministerin, spricht im „Forum Offene Gesellschaft“ auf der Leipziger Buchmesse. Auf dem Frühjahrstreffen der Buchbranche präsentieren rund 2000 Aussteller aus 40 Ländern ihre Neuheiten rund ums Buch. Als Buchmesse-Gastland präsentiert sich Österreich. 27.04.2023"
     },
     {
-      "title": "Inflation in Deutschland : Gegen die AfD hilft nur eine andere Wirtschaftspolitik",
-      "teaser": "Die Bundesregierung darf die finanziellen Nöte der Bürger nicht länger ignorieren, das zeigt die US-Wahl. Sonst gewinnen Populisten. Der Staat muss stärker eingreifen.",
-      "url": "https://www.zeit.de/wirtschaft/2024-11/inflation-deutschland-wirtschaftslage-rezession-politik",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-11/inflation-deutschland-wirtschaftslage-rezession-politik-bild/super__430x286",
-      "image_title": "Inflation in Deutschland: Gegen die AfD hilft nur eine andere Wirtschaftspolitik"
-    },
-    {
-      "title": "FDP : SPD strebt laut Christian Lindner \"Zerstörung der FDP\" an",
-      "teaser": "FDP-Chef Christian Lindner ordnet seine Entlassung als \"Teil des Wahlkampfs\" ein. Der SPD wirft der ehemalige Bundesfinanzminister \"eiskaltes taktisches Kalkül\" vor.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-11/christian-lindner-spd-fdp-ampel-aus"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Freiheit\" von Angela Merkel • Das Beste aus Z+ : \"Ich dachte: Wahnsinn! Was ist denn hier los?\"",
-      "teaser": "Sie wuchs in der DDR auf, als Kanzlerin kämpfte sie mit diversen Krisen und Männern wie Schröder, Trump und Putin: Angela Merkels Memoiren, ein exklusiver Vorabdruck",
-      "url": "https://www.zeit.de/2024/49/freiheit-angela-merkel-memoiren-biografie-erfahrungen",
-      "image_url": "https://img.zeit.de/2024/49/wie-sie-es-erlebt-hat-bild-1/super__430x286",
-      "image_title": "\"Freiheit\" von Angela Merkel • Das Beste aus Z+: Angela Merkel ist heute 70 Jahre alt. Von 2005 bis 2021 war sie Bundeskanzlerin"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Österreicher Fußball : Die Bullenbezwinger, die Deutschland aufmischen wollen",
       "teaser": "Sie haben Red Bull Salzburg entmachtet und sollen nun TSG Hoffenheim wieder in die Spur führen: Die Geschichte hinter dem Erfolgsduo Christian Ilzer und Andreas Schicker.",
       "url": "https://www.zeit.de/2024/22/fussball-oesterreich-entwicklung-sk-sturm-graz",
@@ -164,11 +165,16 @@
       "image_title": "Humanitäre Tradition: Entwicklungshilfe ist heute viel mehr, als Matratzen zu verteilen: Sri Lanka nach der Tsunami-Katastrophe an Weihnachten 2004"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Migration und Männlichkeit : Hallo, hier spricht dein Talahon",
-      "teaser": "Man wächst als junger migrantischer Mann in Deutschland vor allem mit stereotypen Zuschreibungen auf: Pascha, Macho, Südländer. Das Problem ist: Das ändert einfach alles.",
-      "url": "https://www.zeit.de/familie/2024-11/migration-maennlichkeit-talahon-rassismus-jugendliche",
-      "image_url": "https://img.zeit.de/familie/2024-11/migration-maennlichkeit-talahon-rassismus/super__430x286",
-      "image_title": "Migration und Männlichkeit: Hallo, hier spricht dein Talahon"
+      "title": "FDP : SPD strebt laut Christian Lindner \"Zerstörung der FDP\" an",
+      "teaser": "FDP-Chef Christian Lindner ordnet seine Entlassung als \"Teil des Wahlkampfs\" ein. Der SPD wirft der ehemalige Bundesfinanzminister \"eiskaltes taktisches Kalkül\" vor.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-11/christian-lindner-spd-fdp-ampel-aus",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-11/christian-lindner-bild/super__430x286",
+      "image_title": "FDP: Former German Finance Minister Christian Lindner addresses the lower house of parliament, the Bundestag, near German Chancellor Olaf Scholz, in Berlin, Germany November 13, 2024. REUTERS/Lisi Niesner"
+    },
+    {
+      "title": "Kanzlerkandidatur von Olaf Scholz : Saskia Esken räumt Fehler bei Kür des Kanzlerkandidaten ein",
+      "teaser": "Nach dem langen Ringen um den SPD-Kanzlerkandidaten hat die Parteichefin auf Kritik der Jusos reagiert. \"Wir haben kein wirklich gutes Bild abgegeben\", sagt Saskia Esken.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-11/kanzlerkandidatur-olaf-scholz-juso-kongress-saskia-esken"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Verhaltenspsychologie : Wie bleibt man freundlich, wenn andere rumstänkern?",
@@ -178,11 +184,18 @@
       "image_title": "Verhaltenspsychologie: Wie bleibt man freundlich, wenn andere rumstänkern?"
     },
     {
-      "title": "Bromance : Schau mir in die Augen, Bro",
-      "teaser": "Wenn autoritäre Typen wie Trump sich mit anderen Männern gut verstehen, wird verächtlich von einer \"Bromance\" gesprochen. Schade. Der Begriff meinte doch mal was Schönes.",
-      "url": "https://www.zeit.de/kultur/2024-11/bromance-freundschaft-maenner-film-politik-toxisch",
-      "image_url": "https://img.zeit.de/kultur/2024-11/wochenende-bromance-freundschaft-maenner-film-politik-toxisch-bild/super__430x286",
-      "image_title": "Bromance: BROWNSVILLE, TEXAS - NOVEMBER 19: U.S. President-elect Donald Trump greets Elon Musk as he arrives to attend a viewing of the launch of the sixth test flight of the SpaceX Starship rocket on November 19, 2024 in Brownsville, Texas. SpaceX’s billionaire owner, Elon Musk, a Trump confidante, has been tapped to lead the new Department of Government Efficiency alongside former presidential candidate Vivek Ramaswamy."
+      "title": "Z+ (abopflichtiger Inhalt); Sport bei Krankheit • Das Wichtigste aus Z+ : Krank und Sport: was geht – und was auf keinen Fall",
+      "teaser": "VO2max, Muskeln, Kondition: Während einer Krankheit verliert man sportliche Form. Aber zu früh wieder anfangen ist auch gefährlich. Wie man die Pause sportlich nutzt.",
+      "url": "https://www.zeit.de/sport/2024-11/erkrankung-sport-pause-muskeln-kondition",
+      "image_url": "https://img.zeit.de/sport/2024-11/erkrankung-sport-pause-muskeln-kondition-bild/super__430x286",
+      "image_title": "Sport bei Krankheit • Das Wichtigste aus Z+: Krank und Sport: was geht – und was auf keinen Fall"
+    },
+    {
+      "title": "Sprachnachricht : \"Ich möchte einen Kanzler, der bedacht und sozial arbeitet\"",
+      "teaser": "Die Ampel ist am Ende, der Kanzler will die Vertrauensfrage stellen. Für \"Anruf an alle\" sammeln wir Ihre Meinung in Sprachnachrichten ein.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-11/ende-ampelkoalition-buergersorgen-sprachnachricht-12",
+      "image_url": "https://img.zeit.de/podcasts/logos/anruf-an-alle-logo/super__320x213",
+      "image_title": "Sprachnachricht: \"Ich möchte einen Kanzler, der bedacht und sozial arbeitet\""
     },
     {
       "title": "Sprachnachricht : \"Olaf Scholz kann die Spaltung im Land nicht überwinden\"",
@@ -297,11 +310,18 @@
       "image_title": "Folge 1: Wie geht’s dir, Deutschland?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Geldanlage • Das Beste aus Z+ : So legen Sie 15.000 Euro am besten an",
-      "teaser": "Wer sein Geld auf dem Girokonto parkt, dem entgehen schnell Hunderte oder gar Tausende Euro. Hier sind drei Strategien, wie die Anlage gelingt, passend für jedes Budget.",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-04/geldanlage-strategien-money-matters",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-04/geldanlage-strategien-money-matters-bild/super__430x286",
-      "image_title": "Geldanlage • Das Beste aus Z+: So legen Sie 15.000 Euro am besten an"
+      "title": "Zweite Liga : Das Schneckenrennen",
+      "teaser": "Die oft zutreffende Geld-schießt-Tore-Logik des Profifußballs ist in der Zweiten Liga außer Kraft gesetzt. Unseren Kolumnisten erinnert das an Günter Grass.",
+      "url": "https://www.zeit.de/sport/2024-11/zweite-bundesliga-geld-tore-fussball-gruenflaeche",
+      "image_url": "https://img.zeit.de/sport/2024-11/zweite-bundesliga-geld-tore-fussball-gruenflaeche-bild/super__430x286",
+      "image_title": "Zweite Liga: Das Schneckenrennen"
+    },
+    {
+      "title": "Bromance : Schau mir in die Augen, Bro",
+      "teaser": "Wenn autoritäre Typen wie Trump sich mit anderen Männern gut verstehen, wird verächtlich von einer \"Bromance\" gesprochen. Schade. Der Begriff meinte doch mal was Schönes.",
+      "url": "https://www.zeit.de/kultur/2024-11/bromance-freundschaft-maenner-film-politik-toxisch",
+      "image_url": "https://img.zeit.de/kultur/2024-11/wochenende-bromance-freundschaft-maenner-film-politik-toxisch-bild/super__430x286",
+      "image_title": "Bromance: BROWNSVILLE, TEXAS - NOVEMBER 19: U.S. President-elect Donald Trump greets Elon Musk as he arrives to attend a viewing of the launch of the sixth test flight of the SpaceX Starship rocket on November 19, 2024 in Brownsville, Texas. SpaceX’s billionaire owner, Elon Musk, a Trump confidante, has been tapped to lead the new Department of Government Efficiency alongside former presidential candidate Vivek Ramaswamy."
     },
     {
       "title": "Kryptowährung : Noch knackt der Bitcoin die 100.000-Dollar-Marke nicht",
@@ -353,11 +373,11 @@
       "image_title": "Wut bei Eltern: AAAAAAAAAAAAAAAAAAAAAAHHHH!!!"
     },
     {
-      "title": "\"Umlaufbahnen\" von Samantha Harvey : Völlig losgelöst",
-      "teaser": "Die diesjährige Booker-Prize-Gewinnerin Samantha Harvey lässt in \"Umlaufbahnen\" Astronauten um die Erde schweben. Was für ein himmlischer Roman!",
-      "url": "https://www.zeit.de/2024/49/umlaufbahnen-samantha-harvey-astronauten-roman",
-      "image_url": "https://img.zeit.de/2024/49/voellig-losgeloest-bild-1/super__430x286",
-      "image_title": "\"Umlaufbahnen\" von Samantha Harvey: Hebt auch dieser Mann bald ab? Hier wird ein Einsatz im All simuliert"
+      "title": "Inflation in Deutschland : Gegen die AfD hilft nur eine andere Wirtschaftspolitik",
+      "teaser": "Die Bundesregierung darf die finanziellen Nöte der Bürger nicht länger ignorieren, das zeigt die US-Wahl. Sonst gewinnen Populisten. Der Staat muss stärker eingreifen.",
+      "url": "https://www.zeit.de/wirtschaft/2024-11/inflation-deutschland-wirtschaftslage-rezession-politik",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-11/inflation-deutschland-wirtschaftslage-rezession-politik-bild/super__430x286",
+      "image_title": "Inflation in Deutschland: Gegen die AfD hilft nur eine andere Wirtschaftspolitik"
     },
     {
       "title": "Mitgefühl : Bin ich zu empathisch?",
@@ -388,18 +408,11 @@
       "image_title": "Video-Podcast zu mentaler Gesundheit: Wie stoppe ich meine negativen Gedanken?"
     },
     {
-      "title": "Fahrradfahren im Regen : Ich fahr' durch den Monsun",
-      "teaser": "\"Rose, wie bleibe ich trocken, wenn ich im Regen Fahrrad fahre?\" – fragt Phillip. Unsere Kolumnistin weiß Rat.",
-      "url": "https://www.zeit.de/entdecken/2024-11/fahrradfahren-regen-wasserfeste-kleidung-arbeitsweg",
-      "image_url": "https://img.zeit.de/entdecken/2024-11/fahrradfahren-regen-wasserfeste-kleidung-arbeitsweg-bild/super__430x286",
-      "image_title": "Fahrradfahren im Regen: Ich fahr' durch den Monsun"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Leuchtturmwärter auf Wangerooge : \"Allein, aber auf eine gute Weise\"",
-      "teaser": "Für seinen Job gab es mehr als tausend Bewerber: Daniel Jochheim ist Leuchtturmwärter auf Wangerooge. Und? Wirklich so toll?",
-      "url": "https://www.zeit.de/2024/49/leuchtturmwaerter-wangerooge-insel-job-daniel-jochheim",
-      "image_url": "https://img.zeit.de/2024/49/leuchtturmwaerter-wangerooge-insel-job-daniel-jochheim-teaser/super__430x286",
-      "image_title": "Leuchtturmwärter auf Wangerooge: Der Leuchtturm auf Wangerooge"
+      "title": "Rafał Trzaskowski : Warschaus Oberbürgermeister tritt als Präsidentschaftskandidat an",
+      "teaser": "Im ersten Regierungsjahr wurde Polens Ministerpräsident Tusk bei vielen Gesetzesvorhaben blockiert. Mit dem nun gekürten Präsidentschaftsbewerber soll sich das ändern.",
+      "url": "https://www.zeit.de/politik/ausland/2024-11/polen-praesidentschaftswahl-donald-tusk-rafal-trzaskowski",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-11/polen-praesidentschaftswahl-donald-tusk-rafal-trzaskowski-bild-2/super__430x286",
+      "image_title": "Rafał Trzaskowski: Außenminister Radoslaw Sikorski (2L) und der Warschauer Bürgermeister Rafal Trzaskowski (2R) während des Nationalen Rates der Bürgerplattform im Konferenzraum der Kultura Wysoka. Rafal Trzaskowski hat die Vorwahlen gewonnen und wird der Kandidat der Bürgerkoalition für das Amt des Präsidenten sein. +++ dpa-Bildfunk +++"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Reisetipps für Introvertierte : \"Keine Kultur, nichts angucken, dann Buffet\"",
@@ -423,18 +436,18 @@
       "image_title": "Selbstbedienungskassen: In den USA schaffen immer mehr Läden die Selbstbedienungskassen ab."
     },
     {
+      "title": "\"Umlaufbahnen\" von Samantha Harvey : Völlig losgelöst",
+      "teaser": "Die diesjährige Booker-Prize-Gewinnerin Samantha Harvey lässt in \"Umlaufbahnen\" Astronauten um die Erde schweben. Was für ein himmlischer Roman!",
+      "url": "https://www.zeit.de/2024/49/umlaufbahnen-samantha-harvey-astronauten-roman",
+      "image_url": "https://img.zeit.de/2024/49/voellig-losgeloest-bild-1/super__430x286",
+      "image_title": "\"Umlaufbahnen\" von Samantha Harvey: Hebt auch dieser Mann bald ab? Hier wird ein Einsatz im All simuliert"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Luxus-Kaffeemaschinen : Die Kaffeemaschine zum Porsche",
       "teaser": "Robert Burckhardt veredelt Kaffeemaschinen, die ohnehin sehr teuer sind. Klingt nach Superluxus, ist aber bodenständiges Handwerk. Besuch bei einem besonderen Schreiner",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-11/luxus-kaffeemaschinen-schreiner-robert-burckhardt-kaffeevollautomat",
       "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-11/luxus-kaffeemaschinen-schreiner-robert-burckhardt-kaffeevollautomat-teaser/super__430x286",
       "image_title": "Luxus-Kaffeemaschinen: Die Kaffeemaschine zum Porsche"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Jessica Schwarz : Durch Lissabon mit Jessica Schwarz",
-      "teaser": "In ihrer Lieblingsstadt schwärmt die Schauspielerin für triefendes Fast Food. Und sie weiß, wie man zwischen Reliquien den vielen Touristen entkommt.",
-      "url": "https://www.zeit.de/2024/49/jessica-schwarz-lissabon-hotel-fast-food-tourismus",
-      "image_url": "https://img.zeit.de/2024/49/durch-lissabon-mit-jessica-schwarz-teaser/super__430x286",
-      "image_title": "Jessica Schwarz: Mit Jessica Schwarz auf Entdeckungstour durch ihre neue Lieblingsstadt: Lissabon."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Frank Sauer : \"Russlands Drohen ist präzedenzlos im gesamten Nuklearzeitalter\"",
@@ -495,18 +508,18 @@
       "image_title": "DIE ZEIT 49/2024"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Geschmorte Kalbsbäckchen : Bäckchen zum Wangestreicheln",
-      "teaser": "Diesen Braten kann man getrost im Ofen vergessen: Die Bäckchen sind zwar nach zwei Stunden gar, trocknen aber danach nicht aus, sondern werden einfach immer zarter.",
-      "url": "https://www.zeit.de/zeit-magazin/2024/49/geschmorte-kalbsbaeckchen-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024/49/seelenwaermer-bild-1/wide__892x501",
-      "image_title": "Geschmorte Kalbsbäckchen: Bäckchen zum Wangestreicheln"
+      "title": "Z+ (abopflichtiger Inhalt); Jessica Schwarz : Durch Lissabon mit Jessica Schwarz",
+      "teaser": "In ihrer Lieblingsstadt schwärmt die Schauspielerin für triefendes Fast Food. Und sie weiß, wie man zwischen Reliquien den vielen Touristen entkommt.",
+      "url": "https://www.zeit.de/2024/49/jessica-schwarz-lissabon-hotel-fast-food-tourismus",
+      "image_url": "https://img.zeit.de/2024/49/durch-lissabon-mit-jessica-schwarz-teaser/wide__892x501",
+      "image_title": "Jessica Schwarz: Mit Jessica Schwarz auf Entdeckungstour durch ihre neue Lieblingsstadt: Lissabon."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Loewe : Wachgeküsstes Wirtschaftswunder-Produkt",
-      "teaser": "Loewe war einer der bekanntesten Hersteller für Elektrogeräte. Nach dem Niedergang belebt ein Investor die Marke wieder. Und nicht nur er glaubt an den Traditionsnamen.",
-      "url": "https://www.zeit.de/2024/49/loewe-unternehmen-mode-elektrogeraete-tradition-wiederbelebung",
-      "image_url": "https://img.zeit.de/2024/49/loewe-unternehmen-mode-elektrogeraete-tradition-wiederbelebung-bild/super__430x286",
-      "image_title": "Loewe: Der Schauspieler Jeremy Allen White im T-Shirt einer fast vergessenen deutschen Modemarke"
+      "title": "Z+ (abopflichtiger Inhalt); Leuchtturmwärter auf Wangerooge : \"Allein, aber auf eine gute Weise\"",
+      "teaser": "Für seinen Job gab es mehr als tausend Bewerber: Daniel Jochheim ist Leuchtturmwärter auf Wangerooge. Und? Wirklich so toll?",
+      "url": "https://www.zeit.de/2024/49/leuchtturmwaerter-wangerooge-insel-job-daniel-jochheim",
+      "image_url": "https://img.zeit.de/2024/49/leuchtturmwaerter-wangerooge-insel-job-daniel-jochheim-teaser/super__430x286",
+      "image_title": "Leuchtturmwärter auf Wangerooge: Der Leuchtturm auf Wangerooge"
     },
     {
       "title": "Verlagsangebot : 5 Werkzeuge gegen negative Gedankenspiralen",
@@ -544,11 +557,11 @@
       "image_title": "Vor allem Geburtshilfe-Abteilungen könnten schließen müssen, befürchtet die Deutsche Krankenhausgesellschaft."
     },
     {
-      "title": "Bundeshaushalt : Wie kommen wir da raus?",
-      "teaser": "Egal, wer in Zukunft regiert – die Milliarden fehlen weiterhin. Deshalb überlegen Kanzler Olaf Scholz und Friedrich Merz schon jetzt, wo sie neues Geld finden können.",
-      "url": "https://www.zeit.de/2024/49/bundeshaushalt-milliarden-loch-olaf-scholz-friedrich-merz",
-      "image_url": "https://img.zeit.de/2024-11/bundeshaushalt-milliarden-loch-olaf-scholz-friedrich/wide__892x501",
-      "image_title": "Bundeshaushalt: Sitzen beide im selben Haushaltsloch: Kanzlerkandidat Merz (CDU) und Kanzler Olaf Scholz (SPD)"
+      "title": "Z+ (abopflichtiger Inhalt); Loewe : Wachgeküsstes Wirtschaftswunder-Produkt",
+      "teaser": "Loewe war einer der bekanntesten Hersteller für Elektrogeräte. Nach dem Niedergang belebt ein Investor die Marke wieder. Und nicht nur er glaubt an den Traditionsnamen.",
+      "url": "https://www.zeit.de/2024/49/loewe-unternehmen-mode-elektrogeraete-tradition-wiederbelebung",
+      "image_url": "https://img.zeit.de/2024/49/loewe-unternehmen-mode-elektrogeraete-tradition-wiederbelebung-bild/wide__892x501",
+      "image_title": "Loewe: Der Schauspieler Jeremy Allen White im T-Shirt einer fast vergessenen deutschen Modemarke"
     },
     {
       "title": "Verlagsangebot : Quiz: Wie gut ist Ihr Business Englisch?",
@@ -558,11 +571,11 @@
       "image_title": "Quiz: Wie gut ist Ihr Business Englisch?"
     },
     {
-      "title": "Volkswagen : VW hält an Plänen für Fabrikschließungen in Deutschland fest",
-      "teaser": "Die VW-Beschäftigten wehren sich mit Protesten gegen die angekündigten Werksschließungen und den Stellenabbau. Aber das Unternehmen bleibt bei seiner Position.",
-      "url": "https://www.zeit.de/wirtschaft/2024-11/volkswagen-haelt-an-schliessung-von-fabriken-fest",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-11/volkswagen-haelt-an-schliessung-von-fabriken-fest-bild/super__430x286",
-      "image_title": "Volkswagen: Beschreibung Dunkle Wolken ziehen über das VW-Kraftwerk auf dem Gelände vom Volkswagen Stammwerk hinweg. Service +++ dpa-Bildfunk +++ Aufnahmedatum 15.11.2024 Bildnachweis picture alliance/dpa | Moritz Frankenberg Besondere Hinweise"
+      "title": "Bundeshaushalt : Wie kommen wir da raus?",
+      "teaser": "Egal, wer in Zukunft regiert – die Milliarden fehlen weiterhin. Deshalb überlegen Kanzler Olaf Scholz und Friedrich Merz schon jetzt, wo sie neues Geld finden können.",
+      "url": "https://www.zeit.de/2024/49/bundeshaushalt-milliarden-loch-olaf-scholz-friedrich-merz",
+      "image_url": "https://img.zeit.de/2024-11/bundeshaushalt-milliarden-loch-olaf-scholz-friedrich/super__430x286",
+      "image_title": "Bundeshaushalt: Sitzen beide im selben Haushaltsloch: Kanzlerkandidat Merz (CDU) und Kanzler Olaf Scholz (SPD)"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Rüstungsindustrie : Investiert Ihr Welt-ETF in den Krieg?",
@@ -600,10 +613,17 @@
       "image_title": "Bosch Stuttgart Feuerbach"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Migration und Männlichkeit : Hallo, hier spricht dein Talahon",
+      "teaser": "Man wächst als junger migrantischer Mann in Deutschland vor allem mit stereotypen Zuschreibungen auf: Pascha, Macho, Südländer. Das Problem ist: Das ändert einfach alles.",
+      "url": "https://www.zeit.de/familie/2024-11/migration-maennlichkeit-talahon-rassismus-jugendliche",
+      "image_url": "https://img.zeit.de/familie/2024-11/migration-maennlichkeit-talahon-rassismus/wide__892x501",
+      "image_title": "Migration und Männlichkeit: Hallo, hier spricht dein Talahon"
+    },
+    {
       "title": "Linda Zervakis : \"Wir sind eine Weichei-Elterngeneration\"",
       "teaser": "Linda Zervakis musste schon als Kind funktionieren, ihr Vater starb, als sie ein Teenager war. Die Eltern von heute erlebt sie als zu vorsichtig und überempfindlich.",
       "url": "https://www.zeit.de/familie/2024-10/linda-zervakis-familie-griechenland-mutterschaft-rechtsextremismus-afd",
-      "image_url": "https://img.zeit.de/familie/2024-11/inda-zervakis-familie-griechenland-mutterschaft-2/wide__892x501",
+      "image_url": "https://img.zeit.de/familie/2024-11/inda-zervakis-familie-griechenland-mutterschaft-2/super__430x286",
       "image_title": "Linda Zervakis: \"Wir sind eine Weichei-Elterngeneration\""
     },
     {
@@ -612,13 +632,6 @@
       "url": "https://www.zeit.de/familie/2024-10/kinderfeindlichkeit-eltern-familie-laerm-aufruf",
       "image_url": "https://img.zeit.de/familie/2024-10/kinderfeindlichkeit-eltern-familie-laerm/super__430x286",
       "image_title": "Kinderfeindlichkeit: Werden Sie wegen Ihrer Kinder angefeindet?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Familienpolitik : \"Das Wohl des Kindes ist für uns zentral\"",
-      "teaser": "Danke für nichts, Ampel! Nun liegen wichtige familienpolitische Vorhaben wie etwa die Familienzeit brach, die das Leben von Eltern und Kindern wirklich verbessert hätten.",
-      "url": "https://www.zeit.de/familie/2024-11/familienpolitik-ampelkoalition-kindergrundsicherung-kinderrechte-familienstartzeit",
-      "image_url": "https://img.zeit.de/familie/2024-11/familienpolitik-ampelkoalition-kindergrundsicherung-kinderrechte-2/super__430x286",
-      "image_title": "Familienpolitik: \"Das Wohl des Kindes ist für uns zentral\""
     },
     {
       "title": "Hamburg-Podcast \"Elbvertiefung\" : Zwei Wahlen in der Stadt: Was auf Hamburg jetzt zukommt",
@@ -670,18 +683,18 @@
       "image_title": "Fußballpodcast: Mainz, Germany - November 9: Emre Can of Borussia Dortmund looks on during the Bundesliga match between 1. FSV Mainz 05 and Borussia Dortmund at Mewa Arena on November 9, 2024 in Mainz, Germany. (Photo by Harry Langer/DeFodi Images via Getty Images)"
     },
     {
-      "title": "Wirtschaft von Oben : Hier baut China eine Duty-Free-Zone in der Größe Belgiens",
-      "teaser": "Hainan entwickelt sich immer mehr zum Hotspot für zollfreies Einkaufen. Satellitenbilder zeigen, wie wichtig der Markt für westliche Luxushersteller ist.",
-      "url": "https://www.wiwo.de/technologie/wirtschaft-von-oben/wirtschaft-von-oben-293-hainan-hier-baut-china-eine-duty-free-zone-in-der-groesse-belgiens/30097806.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/teaserbild-ocean_flower_2023_11_18_airbus_spot-jpeg-kopie/30096244/2-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
-      "image_title": "Hier baut China eine Duty-Free-Zone in der Größe Belgiens"
+      "title": "Leben mit Aktien : Kennedy-Knick: Darum schwächeln Pharmawerte",
+      "teaser": "Der Impfkritiker Robert F. Kennedy soll US-Gesundheitsminister werden. Das drückt Pharma-Werte in den Keller – vor allem Moderna, AbbVie und Molina.",
+      "url": "https://www.wiwo.de/finanzen/boerse/leben-mit-aktien-kennedy-knick-darum-schwaecheln-pharmawerte/30098678.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/robert-f-kennedy-jr-416698349-bb/30099008/2-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
+      "image_title": "Kennedy-Knick: Darum schwächeln Pharmawerte"
     },
     {
-      "title": "Darüber solltet ihr mal schreiben : Hat Deutschland ein massives Lachgas-Problem?",
-      "teaser": "Die Zwei-Kilo-XL-Sahnekapsel gibt es inzwischen an jedem Kiosk, der etwas auf sich hält. Nur selten wollen minderjährige Kunden damit Torten verzieren.",
-      "url": "https://www.wiwo.de/erfolg/trends/darueber-solltet-ihr-mal-schreiben-hat-deutschland-ein-massives-lachgas-problem/30097546.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/imago0442540105h/30100706/2-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
-      "image_title": "Hat Deutschland ein massives Lachgas-Problem?"
+      "title": "„Unerträglich peinlich“ : Elon Musk spottet öffentlich über Dax-CEO",
+      "teaser": "In einem LinkedIn-Beitrag sorgte sich RWE-Chef Markus Krebber über die Stromversorgung durch Erneuerbare Energien. Elon Musk kontert mit einer Beleidigung.",
+      "url": "https://www.wiwo.de/unternehmen/energie/unertraeglich-peinlich-elon-musk-spottet-oeffentlich-ueber-dax-ceo/30101820.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/spacex-founder-and-chief-engineer-elon-musk-looks-at-his-mobile-phone-during-a-post-launch-news-conference-to-discuss-the-spacex-crew-dragon-astronaut-capsule-in-flight-abort-test-at-the-kennedy-space-center/30101846/2-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
+      "image_title": "Elon Musk spottet öffentlich über Dax-CEO"
     },
     {
       "title": "Autonomes Fahren : Kraftfahrt-Bundesamt rechnet bis 2027 mit ersten fahrerlosen Bussen",
@@ -864,18 +877,18 @@
       "image_title": "SPD-Kanzlerkandidatur: Scholz hält erste Wahlkampfrede zur Wiederwahl"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Geschmorte Kalbsbäckchen : Bäckchen zum Wangestreicheln",
+      "teaser": "Diesen Braten kann man getrost im Ofen vergessen: Die Bäckchen sind zwar nach zwei Stunden gar, trocknen aber danach nicht aus, sondern werden einfach immer zarter.",
+      "url": "https://www.zeit.de/zeit-magazin/2024/49/geschmorte-kalbsbaeckchen-rezept-wochenmarkt",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024/49/seelenwaermer-bild-1/wide__892x501",
+      "image_title": "Geschmorte Kalbsbäckchen: Bäckchen zum Wangestreicheln"
+    },
+    {
       "title": "Kleidung : Ich habe nichts anzuziehen! Oder?",
       "teaser": "Der Kleiderschrank ist voll, trotzdem zieht man immer dasselbe an. Wie lässt sich das ändern? Vielleicht wenn Mutter, Kind oder Partner das Ankleiden übernehmen.",
       "url": "https://www.zeit.de/zeit-magazin/leben/2024-11/kleidung-mode-kleiderschrank-stil-familie-kinder",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-11/kleidung-mode-kleiderschrank-stil-familie-kinder-milena-1/wide__892x501",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-11/kleidung-mode-kleiderschrank-stil-familie-kinder-milena-1/super__430x286",
       "image_title": "Kleidung: Ich habe nichts anzuziehen! Oder?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Vermietung von Flugzeugen : Könnte auch ich mir einen Privatjet leisten?",
-      "teaser": "Ledersessel und Champagner statt eingequetscht im Flieger kauern? Ein Privatjet ist auch für Normalverdiener erschwinglich, versprechen Firmen. Wir haben das getestet.",
-      "url": "https://www.zeit.de/zeit-magazin/2024/49/vermietung-flugzeug-privatjets-windrose-air-jetcharter-unternehmen",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024/49/kann-auch-ich-mir-einen-privatjet-leisten-bild-3/super__430x286",
-      "image_title": "Vermietung von Flugzeugen: Schnäppchen? Die Cessna Citation XLS+ für zwölf Passagiere kostet 3.200 Euro pro Flugstunde"
     },
     {
       "title": "Worträtsel : Wortiger",
@@ -969,11 +982,11 @@
       "image_title": "Numerus clausus: Zweite Chance für Zahnmedizin in Österreich"
     },
     {
-      "title": "Verlagsangebot : Durchblick im Studiendschungel",
-      "teaser": "Bei 20.000 möglichen Studiengängen in Deutschland verliert man schnell den Überblick. Unterstützung bietet die Suchmaschine für Studiengänge und Hochschulen.",
-      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.whiteboard_studiendschungel.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_whiteboard_studiendschungel_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-3-klein/man-wearing-black-and-white-stripe-shirt-looking-at-white-197.jpg",
-      "image_title": "Durchblick im Studiendschungel"
+      "title": "Verlagsangebot : Was kann man wo studieren?",
+      "teaser": "Deutschlands größte Suchmaschine für Studiengänge und Hochschulen bietet Orientierung und hilft bei der Studienwahl.",
+      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.automation.bleistift-biss.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=verlagsteaser&amp;utm_content=suma_automation_bleistift-biss_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/suma-teaser-januar2019/wide__430x286__desktop",
+      "image_title": "Was kann man wo studieren?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Alltag im Studium : Und das soll dieses Unileben sein?",
@@ -1010,36 +1023,36 @@
       "image_url": "https://img.zeit.de/2024/46/kleidung-teaser/super__430x286"
     },
     {
-      "title": "Fußball-Bundesliga: BVB gegen Freiburg ohne Guirassy",
-      "url": "https://www.zeit.de/news/2024-11/23/bvb-gegen-freiburg-ohne-guirassy"
+      "title": "Eklat bei Ausstellung: Künstlerin Nan Goldin löst mit Israel-Aussagen Empörung aus",
+      "url": "https://www.zeit.de/news/2024-11/23/nan-goldin-schau-empoerung-ueber-protest-gegen-gaza-krieg"
     },
     {
-      "title": "Pikantes Geheimnis: Heinevetter-Date mit Ehefrau von Marco Rose",
-      "url": "https://www.zeit.de/news/2024-11/23/heinevetter-date-mit-ehefrau-von-marco-rose"
+      "title": "Grünen-Bundestagskandidaten: Hamburger Grüne ziehen mit Beck in Bundestagswahlkampf",
+      "url": "https://www.zeit.de/news/2024-11/23/beck-erneut-gruenen-spitzenkandidatin-fuer-bundestagswahl"
     },
     {
-      "title": "Ski Alpin: 99. Weltcup-Sieg für Ski-Star Shiffrin - Dürr Fünfte",
-      "url": "https://www.zeit.de/news/2024-11/23/99-weltcup-sieg-fuer-ski-star-shiffrin-duerr-fuenfte"
+      "title": "SPD-Kanzlerkandidatur: SPD-Chefin reagiert mit Selbstkritik auf Querelen",
+      "url": "https://www.zeit.de/news/2024-11/23/gruene-bescheinigen-spd-zerrissenheit"
     },
     {
-      "title": "Weltklimakonferenz: Eklat auf Klimagipfel – Ländergruppen verlassen den Saal",
-      "url": "https://www.zeit.de/news/2024-11/23/klimagipfel-ringt-weiter-um-durchbruch-im-billionen-streit"
+      "title": "Feuer: Frau stirbt nach Wohnungsbrand auf dem Weg in die Klinik",
+      "url": "https://www.zeit.de/news/2024-11/23/frau-stirbt-nach-wohnungsbrand-auf-dem-weg-in-die-klinik"
     },
     {
-      "title": "Unfall: Auto mit Jugendlichen überschlägt sich - vier Verletzte",
-      "url": "https://www.zeit.de/news/2024-11/23/auto-mit-jugendlichen-ueberschlaegt-sich-vier-verletzte"
+      "title": "AfD-Landesparteitag: AfD beschließt Resolution zur «Remigration»",
+      "url": "https://www.zeit.de/news/2024-11/23/afd-landesparteitag-beschaeftigt-sich-mit-remigration"
     },
     {
-      "title": "Parteien: Middelberg ist CDU-Spitzenkandidat für Bundestagswahl",
-      "url": "https://www.zeit.de/news/2024-11/23/middelberg-ist-cdu-spitzenkandidat-fuer-bundestagswahl"
+      "title": "Bundestagswahl: Saar-Grüne ziehen mit Jeanne Dillschneider in Wahlkampf",
+      "url": "https://www.zeit.de/news/2024-11/23/saar-gruene-ziehen-mit-jeanne-dillschneider-in-wahlkampf"
     },
     {
-      "title": "Fußball-Bundesliga: Leverkusens Hofmann fällt bis Jahresende aus",
-      "url": "https://www.zeit.de/news/2024-11/23/leverkusens-hofmann-faellt-bis-jahresende-aus"
+      "title": "Wahlvorbereitung: Nordost-AfD geht wieder mit Holm an Spitze in Bundestagswahl",
+      "url": "https://www.zeit.de/news/2024-11/23/afd-in-mv-stellt-kandidatenliste-fuer-bundestagswahl-auf"
     },
     {
-      "title": "Krieg in Nahost: Angriff im Herzen Beiruts - elf Tote und große Zerstörung",
-      "url": "https://www.zeit.de/news/2024-11/23/bemuehungen-um-waffenruhe-im-libanon-beschuss-dauert-an"
+      "title": "Partei: Van Aken: Linke ist auf dem Weg aus der Krise",
+      "url": "https://www.zeit.de/news/2024-11/23/van-aken-linke-ist-auf-dem-weg-aus-der-krise"
     }
   ]
 }
