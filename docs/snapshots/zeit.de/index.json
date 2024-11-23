@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-23T03:17:33",
+  "timestamp": "2024-11-23T04:09:00",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -136,6 +142,13 @@
       "url": "https://www.zeit.de/politik/deutschland/2024-11/brombeer-koalition-thueringen-cdu-spd-bsw",
       "image_url": "https://img.zeit.de/politik/deutschland/2024-11/koalition-spd-cdu-bsw-brombeer-koalition/wide__892x501",
       "image_title": "Brombeerkoalition Thüringen: 28 Mal Frieden für die Thüringer Brombeere"
+    },
+    {
+      "title": "Volkswagen : VW hält an Plänen für Fabrikschließungen in Deutschland fest",
+      "teaser": "Die VW-Beschäftigten wehren sich mit Protesten gegen die angekündigten Werksschließungen und den Stellenabbau. Aber das Unternehmen bleibt bei seiner Position.",
+      "url": "https://www.zeit.de/wirtschaft/2024-11/volkswagen-haelt-an-schliessung-von-fabriken-fest",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-11/volkswagen-haelt-an-schliessung-von-fabriken-fest-bild/super__430x286",
+      "image_title": "Volkswagen: Beschreibung Dunkle Wolken ziehen über das VW-Kraftwerk auf dem Gelände vom Volkswagen Stammwerk hinweg. Service +++ dpa-Bildfunk +++ Aufnahmedatum 15.11.2024 Bildnachweis picture alliance/dpa | Moritz Frankenberg Besondere Hinweise"
     },
     {
       "title": "Brandenburg : Umweltminister tritt nach Entlassung von Gesundheitsministerin zurück",
@@ -999,11 +1012,11 @@
       "image_title": "Numerus clausus: Zweite Chance für Zahnmedizin in Österreich"
     },
     {
-      "title": "Verlagsangebot : Was kann man wo studieren?",
-      "teaser": "Deutschlands größte Suchmaschine für Studiengänge und Hochschulen bietet Orientierung und hilft bei der Studienwahl.",
-      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.automation.bleistift-biss.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=verlagsteaser&amp;utm_content=suma_automation_bleistift-biss_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/suma-teaser-januar2019/wide__430x286__desktop",
-      "image_title": "Was kann man wo studieren?"
+      "title": "Verlagsangebot : Welcher Studiengang passt zu mir?",
+      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
+      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.bildtext.allein.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=campus-verlagsteaser&amp;utm_content=sit_bildtext_allein_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/sit-gruppe/wide__430x286__desktop",
+      "image_title": "Welcher Studiengang passt zu mir?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Alltag im Studium : Und das soll dieses Unileben sein?",
@@ -1040,36 +1053,36 @@
       "image_url": "https://img.zeit.de/2024/46/kleidung-teaser/super__430x286"
     },
     {
+      "title": "Bundesweite Premiere: Forscher bieten erstmals kostenlose Drogentests in Disko an",
+      "url": "https://www.zeit.de/news/2024-11/23/forscher-bieten-erstmals-kostenlose-drogentests-in-disko-an"
+    },
+    {
+      "title": "Unfall: Mann von Straßenbahn erfasst und mitgeschleift",
+      "url": "https://www.zeit.de/news/2024-11/23/mann-von-strassenbahn-erfasst-und-mitgeschleift"
+    },
+    {
+      "title": "Trumps Regierung: Trump will Hedgefonds-Manager als Finanzminister",
+      "url": "https://www.zeit.de/news/2024-11/23/trump-nominiert-hedgefonds-manager-als-finanzminister"
+    },
+    {
+      "title": "Konflikte: EU-Parlamentspräsidentin fordert Taurus-Waffenhilfe für Kiew",
+      "url": "https://www.zeit.de/news/2024-11/23/eu-parlamentspraesidentin-fordert-taurus-waffenhilfe-fuer-kiew"
+    },
+    {
+      "title": "Wintereinbruch in Bayern: Welche Lehren die Bahn aus dem Schnee-Chaos 2023 gezogen hat",
+      "url": "https://www.zeit.de/news/2024-11/23/welche-lehren-die-bahn-aus-dem-schnee-chaos-2023-gezogen-hat"
+    },
+    {
+      "title": "Bosch muss Kosten senken: Bosch verkürzt Arbeitszeit bei Beschäftigten in Deutschland",
+      "url": "https://www.zeit.de/news/2024-11/23/bosch-verkuerzt-arbeitszeit-bei-beschaeftigten-in-deutschland"
+    },
+    {
       "title": "Sachsen-Anhalt: Bundestagswahl sorgt bei Parteien für Mitgliederschub",
       "url": "https://www.zeit.de/news/2024-11/23/bundestagswahl-sorgt-bei-parteien-fuer-mitgliederschub"
     },
     {
-      "title": "Adventszeit: Kein landesweites Verbot von Cannabis auf Weihnachtsmärkten",
-      "url": "https://www.zeit.de/news/2024-11/23/kein-landesweites-verbot-von-cannabis-auf-weihnachtsmaerkten"
-    },
-    {
-      "title": "Keine zusätzlichen Streifen: Cannabis-Konsum auf Weihnachtsmärkten verboten",
-      "url": "https://www.zeit.de/news/2024-11/23/cannabis-konsum-auf-weihnachtsmaerkten-verboten"
-    },
-    {
-      "title": "Hobbys: Kaninchenzüchter treffen sich im Havelland",
-      "url": "https://www.zeit.de/news/2024-11/23/kaninchenzuechter-treffen-sich-im-havelland"
-    },
-    {
-      "title": "2. Fußball-Bundesliga: Kuntz stärkt Trainer Baumgart in HSV-Krise",
-      "url": "https://www.zeit.de/news/2024-11/23/kuntz-staerkt-trainer-baumgart-in-hsv-krise"
-    },
-    {
-      "title": "Unfall: Auto schleudert gegen Lastwagen – drei Verletzte",
-      "url": "https://www.zeit.de/news/2024-11/23/auto-schleudert-gegen-lastwagen-drei-verletzte"
-    },
-    {
-      "title": "Grenzkontrollen: Juncker für Ende der Grenzkontrollen",
-      "url": "https://www.zeit.de/news/2024-11/23/juncker-fuer-ende-der-grenzkontrollen"
-    },
-    {
-      "title": "Glühwein: Warum die deutsche Glühweinkönigin noch mal antritt",
-      "url": "https://www.zeit.de/news/2024-11/23/warum-die-deutsche-gluehweinkoenigin-noch-mal-antritt"
+      "title": "Entlassung von Ministerin: Regierung zerbrochen - Wann steht Bündnis mit BSW?",
+      "url": "https://www.zeit.de/news/2024-11/23/regierung-zerbrochen-wann-steht-buendnis-mit-bsw"
     }
   ]
 }
