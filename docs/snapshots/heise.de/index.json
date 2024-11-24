@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-24T21:01:22",
+  "timestamp": "2024-11-24T22:00:39",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -335,9 +335,9 @@
       "url": "https://www.heise.de/news/Ladetarife-fuer-Elektroautos-im-Vergleich-7180518.html"
     },
     {
-      "title": "Bessere Cyberversicherung dank konsequenter Security-Strategie",
-      "teaser": "Eine Kombination aus UEM und SOAR bietet einen ganzheitlichen Schutz. Angenehmer Nebeneffekt: Das wirkt sich auch positiv auf die Prämien bei einer Cyberversicherung aus. In einem Webcast erfahren Sie, wie Sie sonst noch Anforderungen von Cyberversicherern erfüllen können.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/cyberversicherungen-und-uem-bessere-vertraege-dank-konsequenter-security-strategie-4828/?source=karussell%2F%3Fsource=hbsad-ersatz"
+      "title": "Cloud-Souveränität ohne Vendor-Lock-in",
+      "teaser": "Wie behalten Sie die Kontrolle über Ihre Infrastruktur? Mit Infrastructure as Code (IaC) eröffnen sich neue Möglichkeiten, Ihre Cloud-Umgebungen effizient, sicher und flexibel zu managen. Mehr dazu in einem Webcast.",
+      "url": "https://business-services.heise.de/it-management/cloud-computing/beitrag/cloud-souveraenitaet-dank-iac-ohne-vendor-lock-in-zur-sicheren-und-skalierbaren-infrastruktur-4820/?source=hbsad-ersatz"
     },
     {
       "title": "Sonys Flaggschiff-Doppel und mehr Canon-Sigmas – die Fotonews der Woche 47/2024",
@@ -562,15 +562,21 @@
       "url": "https://www.heise.de/en/news/In-the-shadow-of-the-PlayStation-30-years-of-the-Sega-Saturn-10108087.html"
     },
     {
-      "title": "Mail-Ordner in Thunderbird offline verfügbar machen",
-      "teaser": "Ich möchte gern ein E-Mail-Konto mit vielen Unterordnern auf meine SSD herunterladen, um auch offline darauf zuzugreifen. Gibt es dafür einen einfachen Weg?​",
-      "url": "https://www.heise.de/ratgeber/Mail-Ordner-in-Thunderbird-offline-verfuegbar-machen-10020077.html"
+      "title": "So installieren Sie Windows 11 auf dem Raspi 5",
+      "teaser": "Über Windows 10 und 11 auf dem Raspberry Pi haben wir schon ein paar Mal berichtet – auf den 3er- und 4er-Raspis war es lahm, ist es mit einem Raspi 5 besser?",
+      "url": "https://www.heise.de/ratgeber/So-installieren-Sie-Windows-11-auf-dem-Raspi-5-10057881.html",
+      "image_title": ","
     },
     {
       "title": "Vier AM5-Mainboards mit X870/X870E-Chipsatz im Vergleich",
       "teaser": "AM5-Mainboards mit X870- und X870E-Chipsatz sollen mit USB 4, Wi-Fi 7 und PCI Express 5.0 der ideale Unterbau für AMDs neue Ryzen-9000-CPUs sein.",
       "url": "https://www.heise.de/tests/Vier-AM5-Mainboards-mit-X870-X870E-Chipsatz-im-Vergleich-10075431.html",
       "image_title": ","
+    },
+    {
+      "title": "Mail-Ordner in Thunderbird offline verfügbar machen",
+      "teaser": "Ich möchte gern ein E-Mail-Konto mit vielen Unterordnern auf meine SSD herunterladen, um auch offline darauf zuzugreifen. Gibt es dafür einen einfachen Weg?​",
+      "url": "https://www.heise.de/ratgeber/Mail-Ordner-in-Thunderbird-offline-verfuegbar-machen-10020077.html"
     },
     {
       "title": "Isometrisch zeichnen auf dem iPad: Das können auch Einsteiger",
@@ -591,6 +597,12 @@
       "image_title": "Weihnachtsgeschenke"
     },
     {
+      "title": "Anleitung: Flirt-Amulette mit ESP-Modulen basteln",
+      "teaser": "In diesem Artikel erklären wir, wie Schmuckstücke mit ESP-Modulen sich bei Nähe lebhaft erkennen, um Träger auf Events zusammenzuführen.",
+      "url": "https://www.heise.de/ratgeber/Anleitung-Flirt-Amulette-mit-ESP-Modulen-basteln-10046050.html",
+      "image_title": ","
+    },
+    {
       "title": "Bastelidee: LED-Weihnachtsornamente selber machen",
       "teaser": "Für Maker ist selbstgebastelte Weihnachtsdeko ein Muss. Mit dieser weihnachtlichen Platine kann man Pixel-Bilder und Animationen am Weihnachtsbaum abspielen.",
       "url": "https://www.heise.de/news/Bastelidee-LED-Weihnachtsornamente-selber-machen-10080223.html",
@@ -600,12 +612,6 @@
       "title": "3D-Drucker: Prusa hat den Core One auf der Formnext vorgestellt",
       "teaser": "Mit dem Core One hat Prusa neben dem XL jetzt einen weiteren CoreXY-3D-Drucker im Sortiment. Wir konnten auf der Formnext einen ersten Blick erhaschen.",
       "url": "https://www.heise.de/news/3D-Drucker-Prusa-hat-den-Core-One-auf-der-Formnext-vorgestellt-10061094.html"
-    },
-    {
-      "title": "Linux-KernelEchtzeitfähiges Linux 6.12 erschienen",
-      "teaser": "Linux integriert nun PREEMPT_RT und ist Echtzeitfähig. Der eBPF-basierte \"extensible Scheduler\" ist ebenfalls enthalten.",
-      "url": "https://www.heise.de/news/Echtzeitfaehiges-Linux-6-12-erschienen-10059625.html",
-      "image_title": "Pinguin sitzt vor einem Linux-Laptop mit vielen Tasks, Aufschrift \"Linux realtime\""
     },
     {
       "title": "Kameras und Zubehör: Tipps zum Gebrauchtkauf",
@@ -704,21 +710,20 @@
       "url": "https://www.techstage.de/bestenliste/top-10-die-beste-smartwatch-mit-ekg-im-test-huawei-fitbit-und-co/11kg4jj?wt_mc=intern.red.techstage.techstage_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Teilchenforschung unter Druck: Der Preis der Politisierung",
-      "teaser": "Das DESY in Hamburg steht für zivile Grundlagenforschung. Doch politischer Druck gefährdet dieses Prinzip, meint der emiritierte Physiker Hannes Jung. Ein Telepolis-Interview.",
-      "url": "https://www.heise.de/tp/features/Teilchenforschung-unter-Druck-Der-Preis-der-Politisierung-10060613.html",
-      "image_title": "Röhre in einem Tunnel"
+      "title": "Solar Orbiter liefert spektakuläre neue Bilder der Sonne in höchster Auflösung",
+      "teaser": "Solar Orbiter macht aus 74 Millionen km Entfernung einzigartige Aufnahmen der Sonne. Die Bilder zeigen nie zuvor gesehene Details.",
+      "url": "https://www.heise.de/tp/features/Solar-Orbiter-liefert-spektakulaere-neue-Bilder-der-Sonne-in-hoechster-Aufloesung-10127725.html",
+      "image_title": "Die Sonne, wie sie von Solar Orbiter im extrem ultravioletten Licht aus einer Entfernung von etwa 75 Millionen Kilometern gesehen wird."
     },
     {
-      "title": "Streit um Geschlechtsidentität: Olympiasiegerin Khelif wehrt sich gegen Bericht über Gutachten",
-      "teaser": "Olympiasiegerin Imane Khelif wehrt sich gegen Vorwürfe. Ein Journalist behauptet, sie sei biologisch ein Mann. Jetzt droht ein brisanter Rechtsstreit. Der Reporter geht in die Offensive.",
-      "url": "https://www.heise.de/tp/features/Streit-um-Geschlechtsidentitaet-Olympiasiegerin-Khelif-wehrt-sich-gegen-Bericht-ueber-Gutachten-10129530.html"
+      "title": "Schwachkopf-Debatte und Strafrecht: Fatal missglückte Maßstäbe für Politikerbeleidigung",
+      "teaser": "Die Verantwortlichen für die Neuversion des § 188 StGB handelten unklug. Hintergründe zur Strafbarkeit von Invektiven gegen Politiker. Essay.",
+      "url": "https://www.heise.de/tp/features/Schwachkopf-Debatte-und-Strafrecht-Fatal-missglueckte-Massstaebe-fuer-Politikerbeleidigung-10132375.html"
     },
     {
-      "title": "\"Das Imperium\": Die Macht des Sex",
-      "teaser": "Juhu, die Apokalypse: Bruno Dumont zeigt, was passiert, wenn Außerirdische in der Provinz landen – Der Science-Fiction-Film, den sich Hollywood nicht traut.",
-      "url": "https://www.heise.de/tp/features/Das-Imperium-Die-Macht-des-Sex-10097733.html",
-      "image_title": "Filmausschnitt: Eine junge Frau mit fragendem oder verwundertem Blick auf dem Weg zum Strand"
+      "title": "Brandenburgs Grüne: Vom Kabinett in die Bedeutungslosigkeit",
+      "teaser": "Brandenburgs Grüne fallen tief. Erst verlieren sie bei der Landtagswahl ihre Mandate. Nun folgte ein politisches Nachspiel, das die Partei endgültig aus der Regierung fegt.",
+      "url": "https://www.heise.de/tp/features/Brandenburgs-Gruene-Vom-Kabinett-in-die-Bedeutungslosigkeit-10149534.html"
     },
     {
       "title": "VPN-Test 2024: Die besten VPN-Anbieter im Vergleich",
