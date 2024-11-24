@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-24T11:00:55",
+  "timestamp": "2024-11-24T12:11:48",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,7 +32,11 @@
   ],
   "articles": [
     {
-      "title": "Sicherheitsupdates für Drupal: Schadcode-Attacken auf Webbrowser möglich",
+      "title": "Wireshark",
+      "url": "https://www.heise.de/news/Neue-Wireshark-Version-schliesst-zwei-Absturz-Luecken-10147807.html"
+    },
+    {
+      "title": "Drupal",
       "url": "https://www.heise.de/news/Sicherheitsupdates-fuer-Drupal-Schadcode-Attacken-auf-Webbrowser-moeglich-10146419.html"
     },
     {
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/PHP-Updates-8-1-31-8-2-26-8-3-14-und-8-4-1-stopfen-Sicherheitslecks-10097715.html"
     },
     {
-      "title": "Ubuntu needrestart",
-      "url": "https://www.heise.de/news/Ubuntu-Server-Root-Luecke-durch-needrestart-Komponente-10083933.html"
+      "title": "Neue Wireshark-Version schließt zwei Absturz-Lücken",
+      "teaser": "Angreifer konnten bisherige Versionen des Netzwerkanalysetools Wireshark abstürzen lassen. Aktuelle Updates bringen zudem RTCP-Analysen zurück.",
+      "url": "https://www.heise.de/news/Neue-Wireshark-Version-schliesst-zwei-Absturz-Luecken-10147807.html",
+      "image_title": "IT-Verwalter sitzt vorm Server und überwacht die Performance"
     },
     {
       "title": "Sicherheitsupdates für Drupal: Schadcode-Attacken auf Webbrowser möglich",
@@ -65,15 +71,15 @@
       "url": "https://www.heise.de/news/US-Firma-ueber-benachbarte-WLAN-Geraete-Dritter-angegriffen-10129358.html"
     },
     {
+      "title": "PCs und Server: Warum x86 die Chip-Architektur der Wahl bleibt",
+      "teaser": "ARM-basierte Prozessoren wie Apple M oder Snapdragon von Qualcomm machen x86 zunehmend Konkurrenz. Dabei gibt es viele Gründe, weiter auf die bewährte x86-Rechenarchitektur zu setzen.",
+      "url": "https://www.heise.de/solutions/intel/prozessoren-fuer-pcs-und-server-warum-x86-die-chip-architektur-der-wahl-bleibt/?source=nat_teas"
+    },
+    {
       "title": "iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response (DFIR)",
       "teaser": "Lernen Sie, professionelle Incident Response Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können.",
       "url": "https://www.heise.de/news/iX-Workshop-Nach-dem-Einbruch-Digital-Forensics-Incident-Response-DFIR-10036163.html",
       "image_title": "iX-Workshop Digital Forensics & Incident Response"
-    },
-    {
-      "title": "PCs und Server: Warum x86 die Chip-Architektur der Wahl bleibt",
-      "teaser": "ARM-basierte Prozessoren wie Apple M oder Snapdragon von Qualcomm machen x86 zunehmend Konkurrenz. Dabei gibt es viele Gründe, weiter auf die bewährte x86-Rechenarchitektur zu setzen.",
-      "url": "https://www.heise.de/solutions/intel/prozessoren-fuer-pcs-und-server-warum-x86-die-chip-architektur-der-wahl-bleibt/?source=nat_teas"
     },
     {
       "title": "Secure Coding: CWE-377 – TOCTOU-Race-Conditions in den Griff bekommen",
@@ -163,12 +169,6 @@
       "teaser": "Atlassians Entwickler haben Sicherheitslücken in Bamboo, Bitbucket, Confluence, Crowd Data, Jira, Jira Service Management und Sourcetree geschlossen.",
       "url": "https://www.heise.de/news/Bitbucket-Confluence-Co-Atlassian-schliesst-DoS-und-Schadcode-Luecken-10082228.html",
       "image_title": "Update-Taste auf Keyboard"
-    },
-    {
-      "title": "Malware-Kampagne lockt Opfer mit kostenlosem KI-Videoeditor",
-      "teaser": "Auf sozialen Medien haben Kriminelle eine Kampagne für einen kostenlosen KI-Videoeditor gestartet. Stattdessen gab es jedoch Infostealer.",
-      "url": "https://www.heise.de/news/Malware-Kampagne-lockt-Opfer-mit-kostenlosem-KI-Videoeditor-10082265.html",
-      "image_title": "Stilisiertes Bild: Ein Laptop zeigt das Youtube-Logo, rundherum fliegen Viren"
     },
     {
       "title": "Scuba-Webinar",

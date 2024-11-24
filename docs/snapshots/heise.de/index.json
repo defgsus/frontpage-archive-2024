@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-24T11:00:48",
+  "timestamp": "2024-11-24T12:11:40",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -27,7 +27,7 @@
   "articles": [
     {
       "title": "Missing Link: Patent-Trolle fliegen auf, weil Richter seine Arbeit macht",
-      "teaser": "2022 reichten drei Patenzlizenzier Dutzende Klagen vor einem US-Bundesgericht ein und beschuldigten andere Firmen der Rechtsverletzung. Das rächt sich diesmal.",
+      "teaser": "2022 reichten drei Patentlizenzverwalter Dutzende Klagen vor einem US-Bundesgericht ein und beschuldigten Firmen der Rechtsverletzung. Das rächt sich diesmal.",
       "url": "https://www.heise.de/hintergrund/Missing-Link-Patent-Trolle-fliegen-auf-weil-Richter-seine-Arbeit-macht-10100638.html",
       "image_title": "Wort \"Patent\" im Duden"
     },
@@ -147,21 +147,27 @@
       "url": "https://www.heise.de/news/Android-oder-iOS-Warum-Du-ueber-einen-Umstieg-nachdenken-solltest-c-t-uplink-10088745.html"
     },
     {
+      "title": "AlertNeue Wireshark-Version schließt zwei Absturz-Lücken",
+      "teaser": "Angreifer konnten bisherige Versionen des Netzwerkanalysetools Wireshark abstürzen lassen. Aktuelle Updates bringen zudem RTCP-Analysen zurück.",
+      "url": "https://www.heise.de/news/Neue-Wireshark-Version-schliesst-zwei-Absturz-Luecken-10147807.html",
+      "image_title": "IT-Verwalter sitzt vorm Server und überwacht die Performance"
+    },
+    {
       "title": "Windows 11 24H2: Microsoft stoppt Update wegen neuer Fehler",
       "teaser": "Microsoft hat zwei neue Probleme mit dem Windows-11-24H2-Update eingeräumt. Es wird deshalb auf einigen Systemen ausgesetzt.",
       "url": "https://www.heise.de/news/Microsoft-Neue-Stopper-Bugs-fuer-Windows-11-24H2-Update-10131891.html",
       "image_title": "Ein Laptop zeigt Windows-Updates an, daneben steht ein verzweifeltes Monsterchen"
     },
     {
+      "title": "PCs und Server: Warum x86 die Chip-Architektur der Wahl bleibt",
+      "teaser": "ARM-basierte Prozessoren wie Apple M oder Snapdragon von Qualcomm machen x86 zunehmend Konkurrenz. Dabei gibt es viele Gründe, weiter auf die bewährte x86-Rechenarchitektur zu setzen.",
+      "url": "https://www.heise.de/solutions/intel/prozessoren-fuer-pcs-und-server-warum-x86-die-chip-architektur-der-wahl-bleibt/?source=nat_teas"
+    },
+    {
       "title": "So installieren Sie Windows 11 auf dem Raspi 5",
       "teaser": "Über Windows 10 und 11 auf dem Raspberry Pi haben wir schon ein paar Mal berichtet – auf den 3er- und 4er-Raspis war es lahm, ist es mit einem Raspi 5 besser?",
       "url": "https://www.heise.de/ratgeber/So-installieren-Sie-Windows-11-auf-dem-Raspi-5-10057881.html",
       "image_title": ","
-    },
-    {
-      "title": "PCs und Server: Warum x86 die Chip-Architektur der Wahl bleibt",
-      "teaser": "ARM-basierte Prozessoren wie Apple M oder Snapdragon von Qualcomm machen x86 zunehmend Konkurrenz. Dabei gibt es viele Gründe, weiter auf die bewährte x86-Rechenarchitektur zu setzen.",
-      "url": "https://www.heise.de/solutions/intel/prozessoren-fuer-pcs-und-server-warum-x86-die-chip-architektur-der-wahl-bleibt/?source=nat_teas"
     },
     {
       "title": "AlertSicherheitsupdates für Drupal: Schadcode-Attacken auf Webbrowser möglich",
@@ -191,11 +197,6 @@
       "teaser": "In diesem Artikel erklären wir, wie Schmuckstücke mit ESP-Modulen sich bei Nähe lebhaft erkennen, um Träger auf Events zusammenzuführen.",
       "url": "https://www.heise.de/ratgeber/Anleitung-Flirt-Amulette-mit-ESP-Modulen-basteln-10046050.html",
       "image_title": ","
-    },
-    {
-      "title": "Top 10: Die beste Powerstation im Test – Ecoflow vor Fossibot, Anker & Co.",
-      "teaser": "Mobile Solargeneratoren mit 230 Volt stellen dank Photovoltaik Strom unabhängig vom Netz zur Verfügung – unterwegs und zu Hause. Wir haben inzwischen über 60 Powerstations getestet und zeigen die zehn besten Geräte aller Leistungsklassen.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-powerstation-im-test-ecoflow-vor-fossibot-anker-und-co/1f379f0"
     },
     {
       "title": "Ofen Pro von 21energyHeizlüfter mit Bitcoin-Miner im Test",
@@ -263,6 +264,11 @@
       "url": "https://shop.heise.de/heise+/herbstaktion?affiliateId=41468_HP000065_28710_3_57&wt_mc=intern.abo.plus.hp_2024_herbst.ho-advt.ad1.ad1"
     },
     {
+      "title": "Top 10: Die beste Powerstation im Test – Ecoflow vor Fossibot, Anker & Co.",
+      "teaser": "Mobile Solargeneratoren mit 230 Volt stellen dank Photovoltaik Strom unabhängig vom Netz zur Verfügung – unterwegs und zu Hause. Wir haben inzwischen über 60 Powerstations getestet und zeigen die zehn besten Geräte aller Leistungsklassen.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-powerstation-im-test-ecoflow-vor-fossibot-anker-und-co/1f379f0"
+    },
+    {
       "title": "Apple: EU-Wettbewerbsprüfer stoppen Untersuchung von E-Book-Regeln",
       "teaser": "Die EU-Kommission hat ihre kartellrechtliche Prüfung von mutmaßlich wettbewerbswidrigem Verhalten von Apple rund um E-Book- und Hörbuch-Apps eingestellt.",
       "url": "https://www.heise.de/news/Apple-EU-Wettbewerbspruefer-stoppen-Untersuchung-von-E-Book-Regeln-10129366.html",
@@ -272,6 +278,11 @@
       "title": "Nearest Neighbor Attack: Angriff über WLAN des Nachbarn",
       "teaser": "Multi-Faktor-Authentifizierung schützt nicht, wenn nicht alle Zugänge damit versehen sind – das musste ein US-Unternehmen durch APT28 lernen.",
       "url": "https://www.heise.de/news/US-Firma-ueber-benachbarte-WLAN-Geraete-Dritter-angegriffen-10129358.html"
+    },
+    {
+      "title": "Google Pixel 9 Pro im Test: Das schlaueste Smartphone mit genialer Kamera",
+      "teaser": "Das Smartphone Google Pixel 9 Pro setzt den Fokus auf nützliche KI-Features, eine lange Akkulaufzeit und eine herausragende Kameraqualität. Ob es den hohen Preis wert ist, zeigt unser Test.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/google-pixel-9-pro-im-test/7emkn08"
     },
     {
       "title": "Habeck bei Northvolt \"vorsichtig optimistisch\"",
@@ -327,6 +338,11 @@
       "image_title": "Gehirn mit den Buchstaben AI"
     },
     {
+      "title": "Bessere Cyberversicherung dank konsequenter Security-Strategie",
+      "teaser": "Eine Kombination aus UEM und SOAR bietet einen ganzheitlichen Schutz. Angenehmer Nebeneffekt: Das wirkt sich auch positiv auf die Prämien bei einer Cyberversicherung aus. In einem Webcast erfahren Sie, wie Sie sonst noch Anforderungen von Cyberversicherern erfüllen können.",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/cyberversicherungen-und-uem-bessere-vertraege-dank-konsequenter-security-strategie-4828/?source=karussell%2F%3Fsource=hbsad-ersatz"
+    },
+    {
       "title": "Künstliche Intelligenz: Energieverbrauch und Chancen im Gleichgewicht",
       "teaser": "Mit Künstlicher Intelligenz geht ein erhöhter Energieverbrauch einher, jedoch lassen sich KI-Systeme auch zur Energieeinsparung im Unternehmen einsetzen.",
       "url": "https://www.heise.de/hintergrund/Kuenstliche-Intelligenz-Energieverbrauch-und-Chancen-im-Gleichgewicht-10098711.html",
@@ -337,11 +353,6 @@
       "teaser": "TOCTOU-Schwachstellen zählen zu den schwerwiegendsten in der Common Weakness Enumeration CWE-377 beschriebenen. Sie bedürfen besonderer Vorkehrungen.",
       "url": "https://www.heise.de/hintergrund/Secure-Coding-CWE-377-TOCTOU-Race-Conditions-in-den-Griff-bekommen-10081613.html",
       "image_title": "Halber Mensch vor Zahnrädern und Schlössern"
-    },
-    {
-      "title": "Von der Theorie zur Praxis: Wie gutes KI-PC-Design gelingt",
-      "teaser": "Was macht einen guten KI-PC aus? Die Antwort ist komplexer, als man denkt. Erst das Zusammenspiel von Hardware, Software und Design führt zu einem perfekten Ergebnis.",
-      "url": "https://business-services.heise.de/specials/moderne-it-infrastruktur/business-pcs/beitrag/von-der-theorie-zur-praxis-wie-gutes-ki-pc-design-gelingen-kann-4851/?source=hbsadersatz"
     },
     {
       "title": "Informatik per Fernstudium: Wie es sich vom Lernen mit Udemy & Co. unterscheidet",
@@ -387,17 +398,6 @@
       "image_title": "Bosch autonomes Fahren"
     },
     {
-      "title": "Kameras und Zubehör: Tipps zum Gebrauchtkauf",
-      "teaser": "Wer eine günstige Kameraausrüstung sucht, kauft oft im Gebrauchtmarkt. Dieser ist ein Kreislaufsystem. Wir haben uns angesehen, wie das funktioniert.",
-      "url": "https://www.heise.de/ratgeber/Tipps-um-Kameras-und-Zubehoer-gebraucht-zu-kaufen-10049005.html"
-    },
-    {
-      "title": "\"Schlimmsten-Liste\": CISA veröffentlicht die Top 25 Softwarelücken des Jahres",
-      "teaser": "Die US-Behörde CISA und Mitre haben die Top 25 der gefährlichsten Software-Schwachstellen des Jahres 2024 veröffentlicht.",
-      "url": "https://www.heise.de/news/Software-Schwachstellen-CISA-veroeffentlicht-die-Top-25-des-Jahres-2024-10107064.html",
-      "image_title": "Creative,Code,Skull,Hologram,On,Modern,Computer,Background,,Cybercrime,And"
-    },
-    {
       "title": "Kritischer Firewall-Bug: Über 2000 Palo-Alto-Geräte weltweit bereits geknackt",
       "url": "https://www.heise.de/news/Kritischer-Firewall-Bug-Ueber-2000-Palo-Alto-Geraete-weltweit-bereits-geknackt-10105274.html",
       "image_title": "Server-Reihe"
@@ -407,9 +407,9 @@
       "url": "https://www.heise.de/news/Wero-App-gelauncht-der-europaeische-Paypal-Konkurrent-10090567.html"
     },
     {
-      "title": "AlertUpdateKritische Palo-Alto-Lücke: Details und Patches sind da, CISA warnt vor Exploit",
-      "url": "https://www.heise.de/news/Kritische-Palo-Alto-Luecke-Patches-sind-da-CISA-warnt-vor-Exploit-10051696.html",
-      "image_title": "Kabel in Patchpanels"
+      "title": "\"Schlimmsten-Liste\": CISA veröffentlicht die Top 25 Softwarelücken des Jahres",
+      "url": "https://www.heise.de/news/Software-Schwachstellen-CISA-veroeffentlicht-die-Top-25-des-Jahres-2024-10107064.html",
+      "image_title": "Creative,Code,Skull,Hologram,On,Modern,Computer,Background,,Cybercrime,And"
     },
     {
       "title": "Größte Entdeckung der Kosmologie seit 26 Jahren? – Dunkle Energie nicht konstant",
@@ -565,9 +565,9 @@
       "url": "https://www.heise.de/en/news/In-the-shadow-of-the-PlayStation-30-years-of-the-Sega-Saturn-10108087.html"
     },
     {
-      "title": "Vier AM5-Mainboards mit X870/X870E-Chipsatz im Vergleich",
-      "teaser": "AM5-Mainboards mit X870- und X870E-Chipsatz sollen mit USB 4, Wi-Fi 7 und PCI Express 5.0 der ideale Unterbau für AMDs neue Ryzen-9000-CPUs sein.",
-      "url": "https://www.heise.de/tests/Vier-AM5-Mainboards-mit-X870-X870E-Chipsatz-im-Vergleich-10075431.html",
+      "title": "So installieren Sie Windows 11 auf dem Raspi 5",
+      "teaser": "Über Windows 10 und 11 auf dem Raspberry Pi haben wir schon ein paar Mal berichtet – auf den 3er- und 4er-Raspis war es lahm, ist es mit einem Raspi 5 besser?",
+      "url": "https://www.heise.de/ratgeber/So-installieren-Sie-Windows-11-auf-dem-Raspi-5-10057881.html",
       "image_title": ","
     },
     {
@@ -702,22 +702,22 @@
       "url": "https://www.techstage.de/bestenliste/top-10-die-beste-smartwatch-mit-ekg-im-test-huawei-fitbit-und-co/11kg4jj?wt_mc=intern.red.techstage.techstage_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Jaguar ohne Sprungkraft: Würgt Woke-Werbung den Motor ab?",
-      "teaser": "Die Nobelmarke erfindet sich futuristisch neu: Kritiker zerlegen die neue Imagekampagne und machen daraus einen Kulturkampf. Aus der Kurve geflogen?",
-      "url": "https://www.heise.de/tp/features/Jaguar-ohne-Sprungkraft-Wuergt-Woke-Werbung-den-Motor-ab-10082811.html",
-      "image_title": "Die alte Fifur des springenden Jaguars der Automarke und das neue Logo"
+      "title": "Neuer Gewächshausanstrich lässt Pflanzen schneller wachsen",
+      "teaser": "Britische Forscher entwickeln Spray, das blaues Licht in rotes umwandelt. In Versuchen steigerte es den Ernteertrag um neun Prozent. Bald auch in Deutschland?",
+      "url": "https://www.heise.de/tp/features/Neuer-Gewaechshausanstrich-laesst-Pflanzen-schneller-wachsen-10123872.html",
+      "image_title": "In einem Gewächshaus, das mit modernem Spray behandelt wurde, werden Erdbeeren angebaut. Höhere Erträge sind durch das Spray möglich."
     },
     {
-      "title": "Volksabstimmung: Zürich stellt das Gendern auf den Prüfstand",
-      "teaser": "Zürich stimmt über das Gendern in Behördentexten ab. Die Fronten sind verhärtet, die Positionen klar. Doch ein soziologischer Blick zeigt: Das Problem liegt tiefer.",
-      "url": "https://www.heise.de/tp/features/Volksabstimmung-Zuerich-stellt-das-Gendern-auf-den-Pruefstand-10104355.html",
-      "image_title": "Info-i mit Gendersternchen als i-Punkt und das Gendersternchen wegkickend"
+      "title": "Die USA zwischen Macht und Ohnmacht: Eine Weltordnung im Wandel",
+      "teaser": "Die USA sind militärisch und wirtschaftlich noch immer die stärkste Nation der Welt. Doch ihr globaler Einfluss schwindet zusehends. Ein Gastbeitrag.",
+      "url": "https://www.heise.de/tp/features/Die-USA-zwischen-Macht-und-Ohnmacht-Eine-Weltordnung-im-Wandel-10048225.html",
+      "image_title": "Die Flagge der USA auf einem Tisch, umrundet von anderen Länderflaggen"
     },
     {
-      "title": "Neue US-Sanktionen gegen Gazprombank alarmieren Ungarn und Slowakei",
-      "teaser": "Die USA verhängen Sanktionen gegen Russlands Gazprombank. Ungarn sieht darin einen \"Angriff auf die Souveränität\" und warnt vor Risiken für die Gasversorgung.",
-      "url": "https://www.heise.de/tp/features/Neue-US-Sanktionen-gegen-Gazprombank-alarmieren-Ungarn-und-Slowakei-10108019.html",
-      "image_title": "Symbolische Darstellung der Sanktionen gegen den russischen Energiesektor. Ein Gashahn auf einem Stopp-Schild vor einer russischen Flagge."
+      "title": "Teilchenforschung unter Druck: Der Preis der Politisierung",
+      "teaser": "Das DESY in Hamburg steht für zivile Grundlagenforschung. Doch politischer Druck gefährdet dieses Prinzip, meint der emiritierte Physiker Hannes Jung. Ein Telepolis-Interview.",
+      "url": "https://www.heise.de/tp/features/Teilchenforschung-unter-Druck-Der-Preis-der-Politisierung-10060613.html",
+      "image_title": "Röhre in einem Tunnel"
     },
     {
       "title": "VPN-Test 2024: Die besten VPN-Anbieter im Vergleich",
