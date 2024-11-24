@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-24T13:14:01",
+  "timestamp": "2024-11-24T14:00:41",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -48,6 +48,11 @@
       "url": "https://www.heise.de/news/PHP-Updates-8-1-31-8-2-26-8-3-14-und-8-4-1-stopfen-Sicherheitslecks-10097715.html"
     },
     {
+      "title": "Nach Beschwerden: Qnap zieht fehlerhaftes Sicherheitsupdate zurück",
+      "teaser": "Besitzer von NAS-Geräten des Herstellers Qnap haben nach der Installation eines Patches Probleme sich anzumelden. Bislang hilft nur ein Downgrade.",
+      "url": "https://www.heise.de/news/Nach-Beschwerden-Qnap-zieht-fehlerhaftes-Sicherheitsupdate-zurueck-10146878.html"
+    },
+    {
       "title": "Neue Wireshark-Version schließt zwei Absturz-Lücken",
       "teaser": "Angreifer konnten bisherige Versionen des Netzwerkanalysetools Wireshark abstürzen lassen. Aktuelle Updates bringen zudem RTCP-Analysen zurück.",
       "url": "https://www.heise.de/news/Neue-Wireshark-Version-schliesst-zwei-Absturz-Luecken-10147807.html",
@@ -66,11 +71,6 @@
       "image_title": "Krimineller angelt Kreditkartendaten, Geld,"
     },
     {
-      "title": "Nearest Neighbor Attack: Angriff über WLAN des Nachbarn",
-      "teaser": "Multi-Faktor-Authentifizierung schützt nicht, wenn nicht alle Zugänge damit versehen sind – das musste ein US-Unternehmen durch APT28 lernen.",
-      "url": "https://www.heise.de/news/US-Firma-ueber-benachbarte-WLAN-Geraete-Dritter-angegriffen-10129358.html"
-    },
-    {
       "title": "PCs und Server: Warum x86 die Chip-Architektur der Wahl bleibt",
       "teaser": "ARM-basierte Prozessoren wie Apple M oder Snapdragon von Qualcomm machen x86 zunehmend Konkurrenz. Dabei gibt es viele Gründe, weiter auf die bewährte x86-Rechenarchitektur zu setzen.",
       "url": "https://www.heise.de/solutions/intel/prozessoren-fuer-pcs-und-server-warum-x86-die-chip-architektur-der-wahl-bleibt/?source=nat_teas"
@@ -86,11 +86,6 @@
       "teaser": "TOCTOU-Schwachstellen zählen zu den schwerwiegendsten in der Common Weakness Enumeration CWE-377 beschriebenen. Sie bedürfen besonderer Vorkehrungen.",
       "url": "https://www.heise.de/hintergrund/Secure-Coding-CWE-377-TOCTOU-Race-Conditions-in-den-Griff-bekommen-10081613.html",
       "image_title": "Halber Mensch vor Zahnrädern und Schlössern"
-    },
-    {
-      "title": "Minispiel auf Steam: Hacky macht Spieler zum filmreifen Meister-Hacker",
-      "teaser": "Wer neugierige Sitznachbarn beeindrucken oder sich einfach mal wie ein richtiger Film-Hacker fühlen möchte, wird auf Steam fündig.",
-      "url": "https://www.heise.de/news/Minispiel-auf-Steam-Hacky-macht-Spieler-zum-filmreifen-Meister-Hacker-10108035.html"
     },
     {
       "title": "\"Schlimmsten-Liste\": CISA veröffentlicht die Top 25 Softwarelücken des Jahres",
@@ -129,6 +124,18 @@
       "image_title": "iX-Workshop Entra ID (AAD) gegen Angriffe absichern"
     },
     {
+      "title": "l+f: Pentester auf der dunklen Seite der Macht",
+      "teaser": "Malware-Entwickler wollen die Qualität ihrer Erpressungstrojaner verbessern und suchen dafür professionelle Hilfe.",
+      "url": "https://www.heise.de/news/l-f-Pentester-auf-der-dunklen-Seite-der-Macht-10101016.html",
+      "image_title": "Hände tippen auf Tastatur"
+    },
+    {
+      "title": "Sicherheitsrisiko: D-Link rät zur Entsorgung einiger Routermodelle",
+      "teaser": "Über eine Schwachstelle können Angreifer Schadcode ausführen. Bestimmte Router von D-Link bekommen aber kein Sicherheitsupdate mehr.",
+      "url": "https://www.heise.de/news/Sicherheitsrisiko-D-Link-raet-zur-Entsorgung-einiger-Routermodelle-10097743.html",
+      "image_title": "LAN-Kabel in Router"
+    },
+    {
       "title": "PHP-Updates: 8.1.31, 8.2.26, 8.3.14 und 8.4.1 stopfen Sicherheitslecks",
       "teaser": "Die PHP-Entwickler haben neue Pakete veröffentlicht. PHP 8.1.31, 8.2.26, 8.3.14 und 8.4.1 schließen Sicherheitslücken.",
       "url": "https://www.heise.de/news/PHP-Updates-8-1-31-8-2-26-8-3-14-und-8-4-1-stopfen-Sicherheitslecks-10097715.html",
@@ -163,12 +170,6 @@
       "teaser": "Angreifer können die E-Mail- und Groupwarelösung Zimbra über mehrere Schwachstellen attackieren.",
       "url": "https://www.heise.de/news/Mehrere-Sicherheitsluecken-in-Zimbra-10-1-3-geschlossen-10082770.html",
       "image_title": "Ein Kreis-Pfeil, auf den ein Mensch mit Finger klickt."
-    },
-    {
-      "title": "Bitbucket, Confluence & Co.: Atlassian schließt DoS- und Schadcode-Lücken",
-      "teaser": "Atlassians Entwickler haben Sicherheitslücken in Bamboo, Bitbucket, Confluence, Crowd Data, Jira, Jira Service Management und Sourcetree geschlossen.",
-      "url": "https://www.heise.de/news/Bitbucket-Confluence-Co-Atlassian-schliesst-DoS-und-Schadcode-Luecken-10082228.html",
-      "image_title": "Update-Taste auf Keyboard"
     },
     {
       "title": "Scuba-Webinar",
