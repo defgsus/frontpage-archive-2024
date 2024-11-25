@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-25T11:00:57",
+  "timestamp": "2024-11-25T12:14:09",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -48,33 +48,16 @@
       "url": "https://www.heise.de/news/Angriffe-auf-Citrix-Sicherheitsluecke-beobachtet-10100614.html"
     },
     {
-      "title": "Mehrere Softwareschwachstellen gefährden Qnap NAS",
-      "teaser": "Angreifer können Netzwerkspeicher von Qnap unter anderem über Schwachstellen im Betriebssystem und Photo Station attackieren.",
-      "url": "https://www.heise.de/news/Mehrere-Softwareschwachstellen-gefaehrden-Qnap-NAS-10169349.html",
-      "image_title": "Patch-Button"
-    },
-    {
       "title": "Prochinesische Desinformation: Google entfernt 1000 Domains von Google News",
       "teaser": "Vier Firmen mit offenbar einem Auftraggeber sollen versucht haben, über hunderte Internetseiten \"Nachrichten\" im Sinne Pekings zu verbreiten.",
       "url": "https://www.heise.de/news/Prochinesische-Desinformation-Google-entfernt-1000-Domains-von-Google-News-10169632.html",
       "image_title": "Gefaltete Zeitungen"
     },
     {
-      "title": "ChatGPT: Code mit betrügerischer API kostet Programmierer 2500 US-Dollar",
-      "teaser": "Ein Kryptowährungs-Interessierter wollte mit ChatGPT einen \"Bump Bot\" programmieren. Die KI hat eine betrügerische API in den Code eingebaut.",
-      "url": "https://www.heise.de/news/ChatGPT-Code-mit-betruegerischer-API-kostet-Programmierer-2500-US-Dollar-10169146.html",
-      "image_title": "Programmierer vor dem Computer, KI-Bot hinter Monitor mit Geldbeutel"
-    },
-    {
       "title": "Social Media erst ab 16: Elon Musk mischt sich in australische Debatte ein",
       "teaser": "Noch in dieser Woche soll in Australien ein Gesetz verabschiedet werden, das Kinder und Jugendliche aus sozialen Netzen ausschließt. Noch wird aber gestritten.",
       "url": "https://www.heise.de/news/Social-Media-erst-ab-16-Gesetz-in-Australien-soll-rasch-verabschiedet-werden-10169167.html",
       "image_title": "Kinder mit Smartphone"
-    },
-    {
-      "title": "PCs und Server: Warum x86 die Chip-Architektur der Wahl bleibt",
-      "teaser": "ARM-basierte Prozessoren wie Apple M oder Snapdragon von Qualcomm machen x86 zunehmend Konkurrenz. Dabei gibt es viele Gründe, weiter auf die bewährte x86-Rechenarchitektur zu setzen.",
-      "url": "https://www.heise.de/solutions/intel/prozessoren-fuer-pcs-und-server-warum-x86-die-chip-architektur-der-wahl-bleibt/?source=nat_teas"
     },
     {
       "title": "iX-Workshop: Innerdeutsche E-Rechnungspflicht - Software richtig implementieren",
@@ -84,8 +67,13 @@
     },
     {
       "title": "NAS nicht benutzbar: Qnap streicht fehlerhaftes Sicherheitsupdate",
-      "teaser": "Besitzer von NAS-Geräten des Herstellers Qnap haben nach der Installation eines Patches Probleme sich anzumelden. Bislang hilft nur ein Downgrade.",
+      "teaser": "Besitzer von Qnap-NAS-Geräten haben nach der Installation eines Patches diverse Probleme. Mittlerweile steht das Update in reparierter Form zum Download.",
       "url": "https://www.heise.de/news/Nach-Beschwerden-Qnap-zieht-fehlerhaftes-Sicherheitsupdate-zurueck-10146878.html"
+    },
+    {
+      "title": "PCs und Server: Warum x86 die Chip-Architektur der Wahl bleibt",
+      "teaser": "ARM-basierte Prozessoren wie Apple M oder Snapdragon von Qualcomm machen x86 zunehmend Konkurrenz. Dabei gibt es viele Gründe, weiter auf die bewährte x86-Rechenarchitektur zu setzen.",
+      "url": "https://www.heise.de/solutions/intel/prozessoren-fuer-pcs-und-server-warum-x86-die-chip-architektur-der-wahl-bleibt/?source=nat_teas"
     },
     {
       "title": "Neue Wireshark-Version schließt zwei Absturz-Lücken",
@@ -106,6 +94,11 @@
       "image_title": "Krimineller angelt Kreditkartendaten, Geld,"
     },
     {
+      "title": "Nearest Neighbor Attack: Angriff über WLAN des Nachbarn",
+      "teaser": "Multi-Faktor-Authentifizierung schützt nicht, wenn nicht alle Zugänge damit versehen sind – das musste ein US-Unternehmen durch APT28 lernen.",
+      "url": "https://www.heise.de/news/US-Firma-ueber-benachbarte-WLAN-Geraete-Dritter-angegriffen-10129358.html"
+    },
+    {
       "title": "iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response (DFIR)",
       "teaser": "Lernen Sie, professionelle Incident Response Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können.",
       "url": "https://www.heise.de/news/iX-Workshop-Nach-dem-Einbruch-Digital-Forensics-Incident-Response-DFIR-10036163.html",
@@ -116,6 +109,11 @@
       "teaser": "TOCTOU-Schwachstellen zählen zu den schwerwiegendsten in der Common Weakness Enumeration CWE-377 beschriebenen. Sie bedürfen besonderer Vorkehrungen.",
       "url": "https://www.heise.de/hintergrund/Secure-Coding-CWE-377-TOCTOU-Race-Conditions-in-den-Griff-bekommen-10081613.html",
       "image_title": "Halber Mensch vor Zahnrädern und Schlössern"
+    },
+    {
+      "title": "Minispiel auf Steam: Hacky macht Spieler zum filmreifen Meister-Hacker",
+      "teaser": "Wer neugierige Sitznachbarn beeindrucken oder sich einfach mal wie ein richtiger Film-Hacker fühlen möchte, wird auf Steam fündig.",
+      "url": "https://www.heise.de/news/Minispiel-auf-Steam-Hacky-macht-Spieler-zum-filmreifen-Meister-Hacker-10108035.html"
     },
     {
       "title": "\"Schlimmsten-Liste\": CISA veröffentlicht die Top 25 Softwarelücken des Jahres",
