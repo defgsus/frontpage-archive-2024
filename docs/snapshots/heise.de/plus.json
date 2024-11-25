@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-25T08:11:37",
+  "timestamp": "2024-11-25T09:09:03",
   "url": "https://www.heise.de/plus/",
   "response": {
     "status": 200
@@ -26,34 +26,16 @@
   ],
   "articles": [
     {
-      "title": "RatgeberWie man den GPIO-Anschluss des Raspi programmiert",
-      "teaser": "Der GPIO-Anschluss macht den Raspi besonders interessant. Wir erklären Ihnen, wie Sie LEDs und Taster anschließen, Widerstände und Kondensatoren berechnen.",
-      "url": "https://www.heise.de/ratgeber/Wie-man-den-GPIO-Anschluss-des-Raspi-programmiert-10008157.html",
+      "title": "HintergrundRaspberry Pi: Projektideen für junge Programmierer",
+      "teaser": "Die Raspberry Pi Foundation stellt jede Menge Material zum Download bereit, doch deutschsprachiges Unterrichtsmaterial muss man länger suchen. Eine Übersicht.",
+      "url": "https://www.heise.de/hintergrund/Raspberry-Pi-Projektideen-fuer-junge-Programmierer-10001876.html",
       "image_title": ","
     },
     {
-      "title": "TestsMacBook Pro mit M4 Max im Test",
-      "teaser": "Was leistet Apples neuer Spitzenchip M4 Max? Wir haben das mit einem hochgerüsteten 16\" MacBook Pro 2024 getestet.",
-      "url": "https://www.heise.de/tests/MacBook-Pro-mit-M4-Max-im-Test-Top-Leistung-auch-fuer-unterwegs-10034275.html",
-      "image_title": "MacBook Pro 16\" mit M4 Max"
-    },
-    {
-      "title": "RatgeberDas ist die Technik hinter der E-Rechnung",
-      "teaser": "E-Rechnung ist ein missverständlicher Begriff. Wir erklären, wie man die normgerechte elektronische Rechnung bearbeiten kann und was das \"E\" technisch bedeutet.",
-      "url": "https://www.heise.de/ratgeber/Das-ist-die-Technik-hinter-der-E-Rechnung-10025449.html",
-      "image_title": ", KI, Collage c’t"
-    },
-    {
-      "title": "HintergrundRundgang durch Raspi-Projekte: NextcloudPi, Diet-Pi, Retro-Gaming und Co.",
-      "teaser": "Mit dem Bastelcomputer lässt sich auch ohne ausgeprägten Basteltrieb Spaß haben. Wir stellen drei fertig einsatzbereite Images vor, die Ihnen alles abnehmen.",
-      "url": "https://www.heise.de/hintergrund/Rundgang-durch-Raspi-Projekte-NextcloudPi-Diet-Pi-Retro-Gaming-und-Co-10016342.html",
-      "image_title": ","
-    },
-    {
-      "title": "RatgeberKubernetes-Cluster aus vier Raspberry Pi bauen",
-      "teaser": "Der Einstieg in Kubernetes scheint schwierig, aber es gibt Projekte als Starthilfe. Wir zeigen, wie man vier Raspis zu einem ausfallsicheren Cluster kombiniert.",
-      "url": "https://www.heise.de/ratgeber/Kubernetes-Cluster-aus-vier-Raspberry-Pi-bauen-10031618.html",
-      "image_title": ","
+      "title": "HintergrundFiktion trifft Forschung: Netze schießen wie Spider-Man",
+      "teaser": "Eine neuartige Flüssigkeit lässt sich wie Spider-Mans Spinnenfaden aus einer Spritze schießen und verfestigt sich zu einem belastbaren Strang. Ein Einblick.",
+      "url": "https://www.heise.de/hintergrund/Fiktion-trifft-Forschung-Netze-schiessen-wie-Spider-Man-10016352.html",
+      "image_title": "Spider-Man schwingt an einem Faden"
     },
     {
       "title": "TestsNatürlich plaudern mit ChatGPT und Gemini",
@@ -61,10 +43,34 @@
       "url": "https://www.heise.de/tests/Quasseln-mit-der-KI-Jetzt-ganz-natuerlich-plaudern-mit-ChatGPT-und-Gemini-10003138.html"
     },
     {
+      "title": "RatgeberBastelprojekt: Raspi als Boots-Navigationshilfe",
+      "teaser": "Ein Raspi sorgt beim Bootstörn für mehr Sicherheit: Er empfängt per Software Defined Radio Positionsdaten von Schiffen und stellt sie für Navis bereit.",
+      "url": "https://www.heise.de/ratgeber/Bastelprojekt-Raspi-als-Boots-Navigationshilfe-9880604.html",
+      "image_title": ", !!!"
+    },
+    {
+      "title": "HintergrundWelche Vorteile Arduino und Raspi attraktiv machen",
+      "teaser": "Der Arduino und später der Raspberry Pi veränderten die Welt der IT-Bastler. Ihre Konzepte ebneten anderen Bastelplattformen wie ESP32 & Co den Weg.",
+      "url": "https://www.heise.de/hintergrund/Welche-Vorteile-Arduino-und-Raspi-attraktiv-machen-10009588.html",
+      "image_title": ","
+    },
+    {
+      "title": "RatgeberAnforderungen und Pflichten zu E-Rechnungen in der Praxis meistern",
+      "teaser": "Wir erklären, wie die E-Rechnung funktioniert, wozu sie dient, was man dafür braucht und geben Tipps, wie Betroffene in aller Ruhe die passende Lösung finden.",
+      "url": "https://www.heise.de/ratgeber/Anforderungen-und-Pflichten-zu-E-Rechnungen-in-der-Praxis-meistern-10021714.html",
+      "image_title": ", KI, Collage c’t"
+    },
+    {
       "title": "heise-ChatbotPersönlicher IT-Experte: Beta-Version des heise-Chatbots für heise+ Abonnenten",
       "teaser": "Unser neuer Chatbot beantwortet ihre IT-Fragen mit Inhalten von heise online und heise+. Den Bot gibt es exklusiv als Betaversion für heise+ Abonnenten.",
       "url": "https://www.heise.de/news/Persoenlicher-IT-Experte-Beta-Version-des-heise-Chatbots-fuer-heise-Abonnenten-9753979.html",
       "image_title": "Der Chatbot mit dem physischen Botti"
+    },
+    {
+      "title": "Einstieg in Field Programmable Gate Arrays für Bastler",
+      "teaser": "Field Programmable Gate Arrays (FPGA) sind konfigurierbare integrierte Schaltkreise, mit denen sich per Software digitale Schaltungen realisieren lassen.",
+      "url": "https://www.heise.de/ratgeber/Einstieg-in-Field-Programmable-Gate-Arrays-fuer-Bastler-10025455.html",
+      "image_title": ","
     },
     {
       "title": "Test VW ID.3 GTX Performance: Endlich gereift",
@@ -145,12 +151,6 @@
       "url": "https://www.heise.de/ratgeber/Tipps-um-Kameras-und-Zubehoer-gebraucht-zu-kaufen-10049005.html"
     },
     {
-      "title": "Im Test: Sieben schnelle USB-SSDs und -Sticks mit 1 und 2 TByte Speicherplatz",
-      "teaser": "USB-SSDs und große USB-Sticks sind für Backups und zum Datentransport heute unverzichtbar. Sie sind robuster als Mobilfestplatten und vor allem viel schneller.",
-      "url": "https://www.heise.de/tests/Im-Test-Sieben-schnelle-USB-SSDs-und-Sticks-mit-1-und-2-TByte-Speicherplatz-10042474.html",
-      "image_title": ","
-    },
-    {
       "title": "Test VW ID.3 GTX Performance: Endlich gereift",
       "url": "https://www.heise.de/tests/Test-VW-ID-3-GTX-Performance-Endlich-gereift-10103521.html",
       "image_title": "VW ID.3 GTX"
@@ -163,6 +163,12 @@
       "title": "Elektroautos bis 30.000 Euro: Vom Kleinstwagen bis zum Kompakt-SUV",
       "url": "https://www.heise.de/ratgeber/Elektroautos-bis-30-000-Euro-Vom-Kleinstwagen-bis-zum-Kompakt-SUV-9975214.html",
       "image_title": "Elektroauto mit Preisschild"
+    },
+    {
+      "title": "Im Test: Sieben schnelle USB-SSDs und -Sticks mit 1 und 2 TByte Speicherplatz",
+      "teaser": "USB-SSDs und große USB-Sticks sind für Backups und zum Datentransport heute unverzichtbar. Sie sind robuster als Mobilfestplatten und vor allem viel schneller.",
+      "url": "https://www.heise.de/tests/Im-Test-Sieben-schnelle-USB-SSDs-und-Sticks-mit-1-und-2-TByte-Speicherplatz-10042474.html",
+      "image_title": ","
     },
     {
       "title": "Erste Lösungsansätze im KI-Urheberrechtsstreit",
@@ -243,11 +249,6 @@
       "teaser": "Rust verbreitet sich seit seiner Einführung 2010 immer weiter und dient längst nicht nur zur Systemprogrammierung. Wir zeigen, was die Sprache so beliebt macht.",
       "url": "https://www.heise.de/ratgeber/Einfuehrung-in-die-Programmiersprache-Rust-10035005.html",
       "image_title": ","
-    },
-    {
-      "title": "Neues Computerstrafrecht: Mehr Schutz für Sicherheitsforscher",
-      "teaser": "Machen sich Sicherheitsforscher immer strafbar? Nein, denn das neue Computerstrafrecht gibt ihnen deutlich mehr Sicherheit – ein Kompromiss bleibt es trotzdem.",
-      "url": "https://www.heise.de/hintergrund/Neues-Computerstrafrecht-Mehr-Schutz-fuer-Sicherheitsforscher-10032287.html"
     },
     {
       "title": "Warum Google, Microsoft und Amazon auf Atomenergie setzen",
@@ -334,14 +335,14 @@
       "image_title": "Weihnachtsgeschenke"
     },
     {
+      "title": "Top-Leistung für unterwegsMacBook Pro mit M4 Max im Test",
+      "url": "https://www.heise.de/tests/MacBook-Pro-mit-M4-Max-im-Test-Top-Leistung-auch-fuer-unterwegs-10034275.html",
+      "image_title": "MacBook Pro 16\" mit M4 Max"
+    },
+    {
       "title": "Strippenziehen leicht gemachtSo erhält jedes Zimmer optimales Internet",
       "url": "https://www.heise.de/ratgeber/Strippenziehen-leicht-gemacht-So-erhaelt-jedes-Zimmer-optimales-Internet-10027122.html",
       "image_title": ", Kirill_makarov, stock.adobe.com"
-    },
-    {
-      "title": "Türwächter: Schloss mit Apples HomeKey im Test",
-      "url": "https://www.heise.de/tests/Tuerwaechter-Schloss-mit-Apples-HomeKey-im-Test-10028799.html",
-      "image_title": "Aqara U200"
     },
     {
       "title": "Android-Apps zum Automatisieren von Projekten nutzen",
@@ -359,16 +360,16 @@
       "image_title": ","
     },
     {
+      "title": "Neues Computerstrafrecht: Mehr Schutz für Sicherheitsforscher",
+      "url": "https://www.heise.de/hintergrund/Neues-Computerstrafrecht-Mehr-Schutz-fuer-Sicherheitsforscher-10032287.html"
+    },
+    {
       "title": "Der EU Cyber Resilience Act: Was man darüber wissen muss",
       "url": "https://www.heise.de/hintergrund/Der-EU-Cyber-Resilience-Act-Was-man-darueber-wissen-muss-10016391.html"
     },
     {
       "title": "Elektronische Patientenakte: Was sie Patienten und Ärzte bringt",
       "url": "https://www.heise.de/hintergrund/Elektronische-Patientenakte-Was-sie-Patienten-und-Aerzte-bringt-10014645.html"
-    },
-    {
-      "title": "Wazuh: Unternehmenssicherheit mit Open Source gewährleisten",
-      "url": "https://www.heise.de/ratgeber/Wazuh-Unternehmenssicherheit-mit-Open-Source-gewaehrleisten-10008627.html"
     },
     {
       "title": "Leichte Fototaschen im Vergleich: Smarter Schutz für kompaktes Equipment",
