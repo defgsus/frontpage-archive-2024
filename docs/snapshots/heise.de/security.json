@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-25T10:08:39",
+  "timestamp": "2024-11-25T11:00:57",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Qnap NAS",
+      "url": "https://www.heise.de/news/Mehrere-Softwareschwachstellen-gefaehrden-Qnap-NAS-10169349.html"
+    },
+    {
       "title": "Wireshark",
       "url": "https://www.heise.de/news/Neue-Wireshark-Version-schliesst-zwei-Absturz-Luecken-10147807.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Angriffe-auf-Citrix-Sicherheitsluecke-beobachtet-10100614.html"
     },
     {
-      "title": "PHP",
-      "url": "https://www.heise.de/news/PHP-Updates-8-1-31-8-2-26-8-3-14-und-8-4-1-stopfen-Sicherheitslecks-10097715.html"
+      "title": "Mehrere Softwareschwachstellen gefährden Qnap NAS",
+      "teaser": "Angreifer können Netzwerkspeicher von Qnap unter anderem über Schwachstellen im Betriebssystem und Photo Station attackieren.",
+      "url": "https://www.heise.de/news/Mehrere-Softwareschwachstellen-gefaehrden-Qnap-NAS-10169349.html",
+      "image_title": "Patch-Button"
+    },
+    {
+      "title": "Prochinesische Desinformation: Google entfernt 1000 Domains von Google News",
+      "teaser": "Vier Firmen mit offenbar einem Auftraggeber sollen versucht haben, über hunderte Internetseiten \"Nachrichten\" im Sinne Pekings zu verbreiten.",
+      "url": "https://www.heise.de/news/Prochinesische-Desinformation-Google-entfernt-1000-Domains-von-Google-News-10169632.html",
+      "image_title": "Gefaltete Zeitungen"
     },
     {
       "title": "ChatGPT: Code mit betrügerischer API kostet Programmierer 2500 US-Dollar",
@@ -60,6 +72,11 @@
       "image_title": "Kinder mit Smartphone"
     },
     {
+      "title": "PCs und Server: Warum x86 die Chip-Architektur der Wahl bleibt",
+      "teaser": "ARM-basierte Prozessoren wie Apple M oder Snapdragon von Qualcomm machen x86 zunehmend Konkurrenz. Dabei gibt es viele Gründe, weiter auf die bewährte x86-Rechenarchitektur zu setzen.",
+      "url": "https://www.heise.de/solutions/intel/prozessoren-fuer-pcs-und-server-warum-x86-die-chip-architektur-der-wahl-bleibt/?source=nat_teas"
+    },
+    {
       "title": "iX-Workshop: Innerdeutsche E-Rechnungspflicht - Software richtig implementieren",
       "teaser": "Softwareentwickler lernen Hands-on, welche Formate wie unterstützt, geprüft und umgewandelt werden können oder müssen und wie sie dabei vorgehen.",
       "url": "https://www.heise.de/news/iX-Workshop-Innerdeutsche-E-Rechnungspflicht-Software-richtig-implementieren-10087682.html",
@@ -69,11 +86,6 @@
       "title": "NAS nicht benutzbar: Qnap streicht fehlerhaftes Sicherheitsupdate",
       "teaser": "Besitzer von NAS-Geräten des Herstellers Qnap haben nach der Installation eines Patches Probleme sich anzumelden. Bislang hilft nur ein Downgrade.",
       "url": "https://www.heise.de/news/Nach-Beschwerden-Qnap-zieht-fehlerhaftes-Sicherheitsupdate-zurueck-10146878.html"
-    },
-    {
-      "title": "PCs und Server: Warum x86 die Chip-Architektur der Wahl bleibt",
-      "teaser": "ARM-basierte Prozessoren wie Apple M oder Snapdragon von Qualcomm machen x86 zunehmend Konkurrenz. Dabei gibt es viele Gründe, weiter auf die bewährte x86-Rechenarchitektur zu setzen.",
-      "url": "https://www.heise.de/solutions/intel/prozessoren-fuer-pcs-und-server-warum-x86-die-chip-architektur-der-wahl-bleibt/?source=nat_teas"
     },
     {
       "title": "Neue Wireshark-Version schließt zwei Absturz-Lücken",
@@ -158,18 +170,6 @@
       "teaser": "Die PHP-Entwickler haben neue Pakete veröffentlicht. PHP 8.1.31, 8.2.26, 8.3.14 und 8.4.1 schließen Sicherheitslücken.",
       "url": "https://www.heise.de/news/PHP-Updates-8-1-31-8-2-26-8-3-14-und-8-4-1-stopfen-Sicherheitslecks-10097715.html",
       "image_title": "Programmierer am Laptop, der COde und \"PHP\" anzeigt. Viren und Kriminelle greifen das an"
-    },
-    {
-      "title": "iX-Workshop: AWS-Sicherheit - Angriffe erkennen und abwehren",
-      "teaser": "Erfahren Sie, wie Angreifer Fehlkonfigurationen und mangelnde Härtung der Amazon Cloud ausnutzen und wie Sie AWS-Dienste und Cloud-Identitäten dagegen schützen.",
-      "url": "https://www.heise.de/news/iX-Workshop-AWS-Sicherheit-Angriffe-erkennen-und-abwehren-10036155.html",
-      "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
-    },
-    {
-      "title": "Wohl aus China: Cyberangriff auf US-Provider \"schlimmster in der US-Geschichte\"",
-      "teaser": "Vor etwa zwei Wochen ist in den USA ein Cyberangriff auf verschiedene Provider entdeckt worden, es ging um Spionage. Die Angreifer sind weiterhin im System.",
-      "url": "https://www.heise.de/news/Aus-China-Cyberangriff-auf-US-Provider-schlimmster-in-der-US-Geschichte-10097659.html",
-      "image_title": "Digitale Darstellung der US-Flagge"
     },
     {
       "title": "Scuba-Webinar",
