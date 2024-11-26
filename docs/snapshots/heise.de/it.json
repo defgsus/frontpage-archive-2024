@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-26T15:07:42",
+  "timestamp": "2024-11-26T16:09:29",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,21 +26,45 @@
   ],
   "articles": [
     {
-      "title": "Python: Große DataFrames viel schneller bearbeiten dank Polars",
-      "teaser": "Mit Pandas lassen sich große Datenmengen verarbeiten, das aber meist nur langsam. Polars dagegen ist eine extrem schnelle Alternative.",
-      "url": "https://www.heise.de/ratgeber/Python-Grosse-DataFrames-viel-schneller-bearbeiten-dank-Polars-9770607.html",
-      "image_title": "Series,Mainframe,In,A,Futuristic,Representation,Of,A,Matrix,Code"
-    },
-    {
-      "title": "Wi-Fi 7: Technik und Anbieter im Überblick",
-      "teaser": "Ausgereiften Geräten für Wi-Fi 6E stehen erste Modelle für den neuen Standard Wi-Fi 7 gegenüber, die die neue Norm aber noch lange nicht ausreizen.",
-      "url": "https://www.heise.de/hintergrund/Wi-Fi-7-Technik-und-Anbieter-im-Ueberblick-10082236.html"
+      "title": "Ortsbesuch in Greifswald: Der Forschungsstand Kernfusion im Stellarator",
+      "teaser": "In Greifswald steht eine der weltweit größten Fusionsforschungsanlagen. Wir sprachen mit den Forschern über die Schwierigkeit von Kernfusion als Energiequelle.​",
+      "url": "https://www.heise.de/hintergrund/Ortsbesuch-in-Greifswald-Der-Forschungsstand-Kernfusion-im-Stellarator-9848752.html"
     },
     {
       "title": "Das leistet das Satelliten-Netzwerk Starlink 2024",
       "teaser": "Drei Jahre nach dem Deutschland-Start von Starlink ist der Preis gesunken, die Satmodems sind geschrumpft und die Datenrate gestiegen. Wir haben das getestet.",
       "url": "https://www.heise.de/tests/Das-leistet-das-Satelliten-Netzwerk-Starlink-2024-10169180.html",
       "image_title": ","
+    },
+    {
+      "title": "Trotz EU-Regeln: Apple lässt Macintosh-128K-Emulator nicht aufs iPhone",
+      "teaser": "Mini vMac emuliert klassische Mac-Systeme auf iOS. Apple hat der App angeblich die Notarisierung verwehrt, sie kann deshalb nicht in EU-App-Läden erscheinen.",
+      "url": "https://www.heise.de/news/Trotz-EU-Regeln-Apple-laesst-Macintosh-128K-Emulator-nicht-aufs-iPhone-10177385.html",
+      "image_title": "Alternative App-Läden auf dem iPhone"
+    },
+    {
+      "title": "CarPlay 2.0: Rätselraten übers Apples weiteren Fahrplan",
+      "teaser": "Seit über zwei Jahren steht die Ankündigung von CarPlay der nächsten Generation im Raum. Jetzt gibt es Anzeichen, dass Apple noch nicht aufgegeben hat.",
+      "url": "https://www.heise.de/news/CarPlay-2-0-Raetselraten-uebers-Apples-weiteren-Fahrplan-10177373.html",
+      "image_title": "CarPlay 2023"
+    },
+    {
+      "title": "Microsoft stellt dedizierte Seite für Lizenz-Zertifizierung ein",
+      "teaser": "Microsoft schaltet seine Trainings- und Zertifizierungsplattform für hauseigene Lizenzen ab. Nutzern bleibt nur noch wenig Zeit, um ihre Kurse zu beenden.",
+      "url": "https://www.heise.de/news/Microsoft-stellt-dedizierte-Seite-fuer-Lizenz-Zertifizierung-ein-10176813.html",
+      "image_title": "E-learning,Education,,Internet,Lessons,And,Online,Webinar.,Education,Internet,Technology."
+    },
+    {
+      "title": "Philips Pure Protect Water AC3421 im Test: Luftreiniger und Luftbefeuchter",
+      "teaser": "Der Philips Pure Protect Water AC3421 reinigt nicht nur die Luft, sondern kann sie auch befeuchten. Wie gut der Luftreiniger in der Praxis funktioniert, zeigt der Test.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/luftreiniger-philips-ac3421-im-test/tsn5876",
+      "image_title": "##PHxVALUE_ALT_TEXT##"
+    },
+    {
+      "title": "Bitwarden: Autofill bietet generierte Passwörter mit einem Klick an",
+      "teaser": "Passwort-Felder ausfüllen konnte Bitwarden seit Langem. Nun bietet es bei neuen Konten direkt ein automatisch generiertes Passwort an.",
+      "url": "https://www.heise.de/news/Bitwarden-Automatisch-generierte-Passwoerter-mit-nur-einem-Klick-10176995.html",
+      "image_title": "Ein Schloss mit biometrischen Schlüsseln"
     },
     {
       "title": "Schon überall entfernt: Der unbeliebte 2K Launcher ist nicht mehr",
@@ -65,6 +89,12 @@
       "teaser": "Linux-Server und Netzwerkdienste effektiv und umfassend vor Angriffen schützen - von physischer Sicherheit über Verschlüsselung und 2FA bis hin zu SELinux.",
       "url": "https://www.heise.de/news/iX-Workshop-Linux-Server-haerten-10088987.html",
       "image_title": "iX-Workshop: Linux-Server härten"
+    },
+    {
+      "title": "Python: Große DataFrames viel schneller bearbeiten dank Polars",
+      "teaser": "Mit Pandas lassen sich große Datenmengen verarbeiten, das aber meist nur langsam. Polars dagegen ist eine extrem schnelle Alternative.",
+      "url": "https://www.heise.de/ratgeber/Python-Grosse-DataFrames-viel-schneller-bearbeiten-dank-Polars-9770607.html",
+      "image_title": "Series,Mainframe,In,A,Futuristic,Representation,Of,A,Matrix,Code"
     },
     {
       "title": "Schluss mit Oracles JavaScript-Trademark fordert Deno",
@@ -95,35 +125,6 @@
       "teaser": "Grün und schnell auf- und abbaubar soll Europas erster Supercomputer der Exascale-Klasse werden. Deshalb entsteht er am FZJ in einem Containerdorf am Waldrand.",
       "url": "https://www.heise.de/hintergrund/Europas-Exascale-Rechner-Jupiter-Containerdorf-statt-RZ-Halle-10175583.html",
       "image_title": "EUropas Exascaler Jupiter"
-    },
-    {
-      "title": "Anforderungen des DMA: Google testet Hotel-Suche \"wie vor Jahren\"",
-      "teaser": "Google hat seine Suchfunktion schon an die Anforderungen des DMA angepasst. Ein Experiment soll nun zeigen, wie sie aussieht, wenn man mehr Forderungen erfüllt.",
-      "url": "https://www.heise.de/news/Anforderungen-des-DMA-Google-testet-Hotel-Suche-wie-vor-Jahren-10176175.html",
-      "image_title": "Alte Google-Startseite"
-    },
-    {
-      "title": "Tipp: Mit dem iPhone per VPN und dem heimischen Router privat surfen",
-      "teaser": "In freien WLANs ohne Schutz zu surfen ist keine gute Idee. Mit unserem Trick nutzen sie eine Kombination aus Fritzbox und iPhone.",
-      "url": "https://www.heise.de/ratgeber/Tipp-Mit-dem-iPhone-per-VPN-und-dem-heimischen-Router-privat-surfen-10175218.html",
-      "image_title": "Eine Fritzbox"
-    },
-    {
-      "title": "Microsoft-365-Störungen \"weitgehend behoben\"",
-      "teaser": "Seit Montag gibt es Störungen der Microsoft-365-Dienste, insbesondere für Outlook und Teams. Die sollen weitgehend behoben sein.",
-      "url": "https://www.heise.de/news/Microsoft-Cloud-Probleme-stoeren-Outlook-und-Teams-10176043.html",
-      "image_title": "Server in der MItte, Verbindungen zu darum herumstehenden Clients, Verschlüsselungssymbole"
-    },
-    {
-      "title": "Neue KI von Nvidia: Fugatto kann Musik generieren und Stimmen Akzent verleihen",
-      "teaser": "Fugatto von Nvidia kann angeblich auf Zuruf Musik generieren und existierenden Sound anpassen. Das soll etwa bei der Entwicklung von Computerspielen helfen.",
-      "url": "https://www.heise.de/news/Neue-KI-von-Nvidia-Fugatto-kann-Musik-generieren-und-Stimmen-Akzent-verleihen-10175985.html",
-      "image_title": "Katze mit Kopfhörer an Computer"
-    },
-    {
-      "title": "Dell Wyse Management Suite: Angreifer können Sicherheitsmechanismen umgehen",
-      "teaser": "Dells Entwickler haben in der Clientverwaltungssoftware WMS mehrere Schwachstellen geschlossen.",
-      "url": "https://www.heise.de/news/Dell-Wyse-Management-Suite-Angreifer-koennen-Sicherheitsmechanismen-umgehen-10176009.html"
     },
     {
       "title": "Die neusten Ergebnisse für dieses Jahr",
