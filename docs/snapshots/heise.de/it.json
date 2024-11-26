@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-26T10:08:32",
+  "timestamp": "2024-11-26T11:00:39",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -13,7 +13,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.c553ecc012bd9e6aa584",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.4f874b56bc8dbb00bfc4",
       "id": null,
       "text": null
     },
@@ -26,15 +26,27 @@
   ],
   "articles": [
     {
+      "title": "Python: Große DataFrames viel schneller bearbeiten dank Polars",
+      "teaser": "Mit Pandas lassen sich große Datenmengen verarbeiten, das aber meist nur langsam. Polars dagegen ist eine extrem schnelle Alternative.",
+      "url": "https://www.heise.de/ratgeber/Python-Grosse-DataFrames-viel-schneller-bearbeiten-dank-Polars-9770607.html",
+      "image_title": "Series,Mainframe,In,A,Futuristic,Representation,Of,A,Matrix,Code"
+    },
+    {
       "title": "Wi-Fi 7: Technik und Anbieter im Überblick",
       "teaser": "Ausgereiften Geräten für Wi-Fi 6E stehen erste Modelle für den neuen Standard Wi-Fi 7 gegenüber, die die neue Norm aber noch lange nicht ausreizen.",
       "url": "https://www.heise.de/hintergrund/Wi-Fi-7-Technik-und-Anbieter-im-Ueberblick-10082236.html"
     },
     {
-      "title": "Einstieg in Field Programmable Gate Arrays für Bastler",
-      "teaser": "Field Programmable Gate Arrays (FPGA) sind konfigurierbare integrierte Schaltkreise, mit denen sich per Software digitale Schaltungen realisieren lassen.",
-      "url": "https://www.heise.de/ratgeber/Einstieg-in-Field-Programmable-Gate-Arrays-fuer-Bastler-10025455.html",
-      "image_title": ","
+      "title": "Schluss mit Oracles JavaScript-Trademark fordert Deno",
+      "teaser": "Deno hat bei der US-Patentbehörde den Antrag eingereicht, Oracles Marke JavaScript zu löschen. Die Sprache soll die Anerkennung als öffentliches Gut erhalten.",
+      "url": "https://www.heise.de/news/Schluss-mit-Oracles-JavaScript-Trademark-fordert-Deno-10176019.html",
+      "image_title": "Dinosaurier mit Schild \"Free JavaScript\""
+    },
+    {
+      "title": "Amazon EC2 lässt Serverkapazitäten im Voraus reservieren",
+      "teaser": "Planbaren Zusatzbedarf können Kunden der Amazon Elastic Compute Cloud jetzt vorab reservieren. Eine Garantie für die Bereitstellung gibt es nicht.",
+      "url": "https://www.heise.de/news/Amazon-EC2-laesst-Serverkapazitaeten-im-Voraus-reservieren-10176334.html",
+      "image_title": "IT-Verwalter steht vor Severn und Computern und überwacht die Performance"
     },
     {
       "title": "Trellix: Update dichtet Sicherheitslücken in Enterprise Security Manager ab",
@@ -111,18 +123,6 @@
       "title": "Wero-App gestartet, Postbank neu dabei",
       "teaser": "Die European Payments Initiative hat am Montag ihre App für das europäische Bezahlsystem Wero gestartet. Anfangs ist sie auf Postbank-Kunden beschränkt.",
       "url": "https://www.heise.de/news/Wero-App-gelauncht-der-europaeische-Paypal-Konkurrent-10090567.html"
-    },
-    {
-      "title": "Remote-Gabelstapler: DB Schenker lässt aus der Ferne tiefstapeln",
-      "teaser": "Die Bahn-Tochter DB Schenker arbeitet mit einem Start-up aus Karlsruhe zusammen. Die ferngesteuerten Gabelstapler sollen dem Fachkräftemangel begegnen.",
-      "url": "https://www.heise.de/news/Remote-Gabelstapler-DB-Schenker-laesst-aus-der-Ferne-tiefstapeln-10175821.html",
-      "image_title": "Fernsteuerung eines Gabelstaplers"
-    },
-    {
-      "title": "OnlyOffice DocSpace 3.0: vertrauliche Dokumente gemeinsam bearbeiten",
-      "teaser": "Die neue Version von DocSpace führt neue Räume für interne Kollaborationen ein. Eine neue Variante erlaubt den Einbau von Funktionen in kommerzielle Software.",
-      "url": "https://www.heise.de/news/OnlyOffice-DocSpace-3-0-vertrauliche-Dokumente-gemeinsam-bearbeiten-10175278.html",
-      "image_title": "Braune Hände auf einer Tastatur"
     },
     {
       "title": "Die neusten Ergebnisse für dieses Jahr",
