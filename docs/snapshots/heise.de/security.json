@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-26T09:08:19",
+  "timestamp": "2024-11-26T10:08:35",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Trellix Enterprise Security Manager",
+      "url": "https://www.heise.de/news/Trellix-Update-dichtet-Sicherheitsluecken-in-Enterprise-Security-Manager-ab-10176250.html"
+    },
+    {
       "title": "Dell Wyse Management Suite",
       "url": "https://www.heise.de/news/Dell-Wyse-Management-Suite-Angreifer-koennen-Sicherheitsmechanismen-umgehen-10176009.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Mehrere-Softwareschwachstellen-gefaehrden-Qnap-NAS-10169349.html"
     },
     {
-      "title": "Wireshark",
-      "url": "https://www.heise.de/news/Neue-Wireshark-Version-schliesst-zwei-Absturz-Luecken-10147807.html"
+      "title": "Trellix: Update dichtet Sicherheitslücken in Enterprise Security Manager ab",
+      "teaser": "In Trellix Enterprise Security Manager bessert der Hersteller mehrere Sicherheitslücken aus. Admins sollten das Update zeitnah installieren.",
+      "url": "https://www.heise.de/news/Trellix-Update-dichtet-Sicherheitsluecken-in-Enterprise-Security-Manager-ab-10176250.html",
+      "image_title": "IT-Verwalter steht vor Severn und Computern und überwacht die Performance"
+    },
+    {
+      "title": "l+f: Wenn nach dem Datenleak die Yakuza-Mafia anklopft",
+      "teaser": "Bei einer japanischen Behörde, die Yakuza-Opfern hilft, kam es zu einer Cyberattacke.",
+      "url": "https://www.heise.de/news/l-f-Wenn-nach-dem-Datenleak-die-Yakuza-Mafia-anklopft-10176264.html",
+      "image_title": "Warnmeldung über eine erfolgreiche PC-Attacke"
     },
     {
       "title": "Microsoft-365-Störungen \"weitgehend behoben\"",
@@ -59,6 +71,11 @@
       "url": "https://www.heise.de/news/Dell-Wyse-Management-Suite-Angreifer-koennen-Sicherheitsmechanismen-umgehen-10176009.html"
     },
     {
+      "title": "PCs und Server: Warum x86 die Chip-Architektur der Wahl bleibt",
+      "teaser": "ARM-basierte Prozessoren wie Apple M oder Snapdragon von Qualcomm machen x86 zunehmend Konkurrenz. Dabei gibt es viele Gründe, weiter auf die bewährte x86-Rechenarchitektur zu setzen.",
+      "url": "https://www.heise.de/solutions/intel/prozessoren-fuer-pcs-und-server-warum-x86-die-chip-architektur-der-wahl-bleibt/?source=nat_teas"
+    },
+    {
       "title": "Wordpress-Plug-in Anti-Spam by Cleantalk gefährdet 200.000 Seiten",
       "teaser": "Im Wordpress-Plug-in Anti-Spam by Cleantalk klaffen gleich zwei Sicherheitslücken, durch die nicht authentifizierte Angreifern Instanzen kompromittieren können.",
       "url": "https://www.heise.de/news/Wordpress-Plug-in-Anti-Spam-by-Cleantalk-gefaehrdet-200-000-Seiten-10175993.html",
@@ -69,11 +86,6 @@
       "teaser": "Vier Firmen mit offenbar einem Auftraggeber sollen versucht haben, über hunderte Internetseiten \"Nachrichten\" im Sinne Pekings zu verbreiten.",
       "url": "https://www.heise.de/news/Prochinesische-Desinformation-Google-entfernt-1000-Domains-von-Google-News-10169632.html",
       "image_title": "Gefaltete Zeitungen"
-    },
-    {
-      "title": "PCs und Server: Warum x86 die Chip-Architektur der Wahl bleibt",
-      "teaser": "ARM-basierte Prozessoren wie Apple M oder Snapdragon von Qualcomm machen x86 zunehmend Konkurrenz. Dabei gibt es viele Gründe, weiter auf die bewährte x86-Rechenarchitektur zu setzen.",
-      "url": "https://www.heise.de/solutions/intel/prozessoren-fuer-pcs-und-server-warum-x86-die-chip-architektur-der-wahl-bleibt/?source=nat_teas"
     },
     {
       "title": "Social Media erst ab 16: Elon Musk mischt sich in australische Debatte ein",
@@ -155,18 +167,6 @@
       "teaser": "In der vergangenen Woche hat Citrix Sicherheitslücken im Session Recording geschlossen. Nun haben IT-Forscher Angriffe darauf beobachtet.",
       "url": "https://www.heise.de/news/Angriffe-auf-Citrix-Sicherheitsluecke-beobachtet-10100614.html",
       "image_title": "Server, die am Netz hängen und angegriffen werden"
-    },
-    {
-      "title": "Programmiersprache Rust: AWS-Wettbewerb für mehr Sicherheit der Standard-Library",
-      "teaser": "Mittels Crowdsourcing will AWS die Standard-Library von Rust auf Schwachstellen und undefiniertes Verhalten untersuchen.",
-      "url": "https://www.heise.de/news/Amazon-Web-Services-gibt-Geld-fuer-mehr-Sicherheit-der-Standard-Library-von-Rust-10097801.html",
-      "image_title": "Rostiges Hintergrund mit Rust-Logo mit Bleistift und Zirkel"
-    },
-    {
-      "title": "iX-Workshop: Angriffe auf Entra ID abwehren",
-      "teaser": "Lernen Sie, wie Sie Entra ID einschließlich Azure-Diensten härten und effektiv vor Angriffen schützen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Angriffe-auf-Entra-ID-abwehren-10036159.html",
-      "image_title": "iX-Workshop Entra ID (AAD) gegen Angriffe absichern"
     },
     {
       "title": "Scuba-Webinar",
