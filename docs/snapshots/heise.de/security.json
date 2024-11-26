@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-26T07:08:02",
+  "timestamp": "2024-11-26T08:11:05",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Dell Wyse Management Suite",
+      "url": "https://www.heise.de/news/Dell-Wyse-Management-Suite-Angreifer-koennen-Sicherheitsmechanismen-umgehen-10176009.html"
+    },
+    {
+      "title": "Wordpress-Plug-in Anti-Spam by Cleantalk",
+      "url": "https://www.heise.de/news/Wordpress-Plug-in-Anti-Spam-by-Cleantalk-gefaehrdet-200-000-Seiten-10175993.html"
+    },
+    {
       "title": "Qnap NAS",
       "url": "https://www.heise.de/news/Mehrere-Softwareschwachstellen-gefaehrden-Qnap-NAS-10169349.html"
     },
@@ -40,18 +48,32 @@
       "url": "https://www.heise.de/news/Neue-Wireshark-Version-schliesst-zwei-Absturz-Luecken-10147807.html"
     },
     {
-      "title": "Drupal",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-fuer-Drupal-Schadcode-Attacken-auf-Webbrowser-moeglich-10146419.html"
+      "title": "Microsoft: Cloud-Probleme stören Outlook und Teams",
+      "teaser": "Seit Montag gibt es Störungen der Microsoft-365-Dienste, insbesondere für Outlook und Teams. Die sollen weitgehend behoben sein.",
+      "url": "https://www.heise.de/news/Microsoft-Cloud-Probleme-stoeren-Outlook-und-Teams-10176043.html",
+      "image_title": "Server in der MItte, Verbindungen zu darum herumstehenden Clients, Verschlüsselungssymbole"
     },
     {
-      "title": "Citrix Virtual Apps and Desktops",
-      "url": "https://www.heise.de/news/Angriffe-auf-Citrix-Sicherheitsluecke-beobachtet-10100614.html"
+      "title": "Dell Wyse Management Suite: Angreifer können Sicherheitsmechanismen umgehen",
+      "teaser": "Dells Entwickler haben in der Clientverwaltungssoftware WMS mehrere Schwachstellen geschlossen.",
+      "url": "https://www.heise.de/news/Dell-Wyse-Management-Suite-Angreifer-koennen-Sicherheitsmechanismen-umgehen-10176009.html"
+    },
+    {
+      "title": "Wordpress-Plug-in Anti-Spam by Cleantalk gefährdet 200.000 Seiten",
+      "teaser": "Im Wordpress-Plug-in Anti-Spam by Cleantalk klaffen gleich zwei Sicherheitslücken, durch die nicht authentifizierte Angreifern Instanzen kompromittieren können.",
+      "url": "https://www.heise.de/news/Wordpress-Plug-in-Anti-Spam-by-Cleantalk-gefaehrdet-200-000-Seiten-10175993.html",
+      "image_title": "Laptop zeigt Wordpress-Logo, Viren fliegen herum"
     },
     {
       "title": "Prochinesische Desinformation: Google entfernt 1000 Domains von Google News",
       "teaser": "Vier Firmen mit offenbar einem Auftraggeber sollen versucht haben, über hunderte Internetseiten \"Nachrichten\" im Sinne Pekings zu verbreiten.",
       "url": "https://www.heise.de/news/Prochinesische-Desinformation-Google-entfernt-1000-Domains-von-Google-News-10169632.html",
       "image_title": "Gefaltete Zeitungen"
+    },
+    {
+      "title": "PCs und Server: Warum x86 die Chip-Architektur der Wahl bleibt",
+      "teaser": "ARM-basierte Prozessoren wie Apple M oder Snapdragon von Qualcomm machen x86 zunehmend Konkurrenz. Dabei gibt es viele Gründe, weiter auf die bewährte x86-Rechenarchitektur zu setzen.",
+      "url": "https://www.heise.de/solutions/intel/prozessoren-fuer-pcs-und-server-warum-x86-die-chip-architektur-der-wahl-bleibt/?source=nat_teas"
     },
     {
       "title": "Social Media erst ab 16: Elon Musk mischt sich in australische Debatte ein",
@@ -69,11 +91,6 @@
       "title": "NAS nicht benutzbar: Qnap streicht fehlerhaftes Sicherheitsupdate",
       "teaser": "Besitzer von Qnap-NAS-Geräten haben nach der Installation eines Patches diverse Probleme. Mittlerweile steht das Update in reparierter Form zum Download.",
       "url": "https://www.heise.de/news/Nach-Beschwerden-Qnap-zieht-fehlerhaftes-Sicherheitsupdate-zurueck-10146878.html"
-    },
-    {
-      "title": "PCs und Server: Warum x86 die Chip-Architektur der Wahl bleibt",
-      "teaser": "ARM-basierte Prozessoren wie Apple M oder Snapdragon von Qualcomm machen x86 zunehmend Konkurrenz. Dabei gibt es viele Gründe, weiter auf die bewährte x86-Rechenarchitektur zu setzen.",
-      "url": "https://www.heise.de/solutions/intel/prozessoren-fuer-pcs-und-server-warum-x86-die-chip-architektur-der-wahl-bleibt/?source=nat_teas"
     },
     {
       "title": "Neue Wireshark-Version schließt zwei Absturz-Lücken",
@@ -150,24 +167,6 @@
       "teaser": "Lernen Sie, wie Sie Entra ID einschließlich Azure-Diensten härten und effektiv vor Angriffen schützen.",
       "url": "https://www.heise.de/news/iX-Workshop-Angriffe-auf-Entra-ID-abwehren-10036159.html",
       "image_title": "iX-Workshop Entra ID (AAD) gegen Angriffe absichern"
-    },
-    {
-      "title": "l+f: Pentester auf der dunklen Seite der Macht",
-      "teaser": "Malware-Entwickler wollen die Qualität ihrer Erpressungstrojaner verbessern und suchen dafür professionelle Hilfe.",
-      "url": "https://www.heise.de/news/l-f-Pentester-auf-der-dunklen-Seite-der-Macht-10101016.html",
-      "image_title": "Hände tippen auf Tastatur"
-    },
-    {
-      "title": "Sicherheitsrisiko: D-Link rät zur Entsorgung einiger Routermodelle",
-      "teaser": "Über eine Schwachstelle können Angreifer Schadcode ausführen. Bestimmte Router von D-Link bekommen aber kein Sicherheitsupdate mehr.",
-      "url": "https://www.heise.de/news/Sicherheitsrisiko-D-Link-raet-zur-Entsorgung-einiger-Routermodelle-10097743.html",
-      "image_title": "LAN-Kabel in Router"
-    },
-    {
-      "title": "PHP-Updates: 8.1.31, 8.2.26, 8.3.14 und 8.4.1 stopfen Sicherheitslecks",
-      "teaser": "Die PHP-Entwickler haben neue Pakete veröffentlicht. PHP 8.1.31, 8.2.26, 8.3.14 und 8.4.1 schließen Sicherheitslücken.",
-      "url": "https://www.heise.de/news/PHP-Updates-8-1-31-8-2-26-8-3-14-und-8-4-1-stopfen-Sicherheitslecks-10097715.html",
-      "image_title": "Programmierer am Laptop, der COde und \"PHP\" anzeigt. Viren und Kriminelle greifen das an"
     },
     {
       "title": "Scuba-Webinar",
