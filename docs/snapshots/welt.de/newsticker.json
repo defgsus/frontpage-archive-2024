@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-27T14:00:39",
+  "timestamp": "2024-11-27T15:07:35",
   "url": "https://www.welt.de/newsticker/",
   "response": {
     "status": 200
@@ -7,7 +7,7 @@
   "scripts": [
     {
       "type": "module",
-      "src": "https://www.welt.de/assets/bff-section/scripts/section.module.DNn3N_n1.js",
+      "src": "https://www.welt.de/assets/bff-section/scripts/section.module.CTYXFath.js",
       "id": null,
       "text": null
     },
@@ -19,159 +19,207 @@
     },
     {
       "type": null,
-      "src": "https://www.welt.de/assets/bff-section/scripts/section.no-module.DxBN9MfV.js",
+      "src": "https://www.welt.de/assets/bff-section/scripts/section.no-module.BYmY7R2u.js",
       "id": null,
       "text": null
     }
   ],
   "articles": [
     {
+      "title": "Ford-Jobabbau: Betriebsrat bangt um Zukunft des Standorts",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article254690952/Ford-Jobabbau-Betriebsrat-bangt-um-Zukunft-des-Standorts.html"
+    },
+    {
+      "title": "IG Metall droht mit «kreativem Ärger» gegen Stahl-Jobabbau",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article254691066/IG-Metall-droht-mit-kreativem-Aerger-gegen-Stahl-Jobabbau.html"
+    },
+    {
+      "title": "Umfrage sieht CSU bei 45 Prozent - Freie Wähler sacken ab",
+      "url": "https://www.welt.de/regionales/bayern/article254690904/Umfrage-sieht-CSU-bei-45-Prozent-Freie-Waehler-sacken-ab.html"
+    },
+    {
+      "title": "Prozess nach Raubmord in St. Peter-Ording soll beginnen",
+      "url": "https://www.welt.de/regionales/hamburg/article254690802/Prozess-nach-Raubmord-in-St-Peter-Ording-soll-beginnen.html"
+    },
+    {
+      "title": "Drei polizeibekannte Brüder müssen wegen Messerangriffs vor Gericht",
+      "url": "https://www.welt.de/vermischtes/kriminalitaet/article254690450/Messerangriff-in-Stuttgart-Drei-polizeibekannte-Brueder-muessen-vor-Gericht.html"
+    },
+    {
+      "title": "Königin Silvia eröffnet Childhood-Haus in Homburg",
+      "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article254690840/Koenigin-Silvia-eroeffnet-Childhood-Haus-in-Homburg.html"
+    },
+    {
+      "title": "Ausstellung im Humboldt Forum über Kolonialzeit in Tansania",
+      "url": "https://www.welt.de/regionales/berlin/article254690786/Ausstellung-im-Humboldt-Forum-ueber-Kolonialzeit-in-Tansania.html"
+    },
+    {
+      "title": "Fahrplanaushänge auf Papier: Keine Ankunftspläne mehr",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article254690778/Fahrplanaushaenge-auf-Papier-Keine-Ankunftsplaene-mehr.html"
+    },
+    {
+      "title": "BSW-Landeschef: Abgeordneter soll Mandat zurückgeben",
+      "url": "https://www.welt.de/regionales/berlin/article254690784/BSW-Landeschef-Abgeordneter-soll-Mandat-zurueckgeben.html"
+    },
+    {
+      "title": "Kommunen in Rheinland-Pfalz 2023 weiter hoch verschuldet",
+      "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article254690760/Kommunen-in-Rheinland-Pfalz-2023-weiter-hoch-verschuldet.html"
+    },
+    {
+      "title": "„Eklatanter Vertrauensbruch“ – Geschasste Ministerin attackiert Woidke",
+      "url": "https://www.welt.de/politik/deutschland/article254686888/Eklat-in-Brandenburg-Eklatanter-Vertrauensbruch-Geschasste-Ministerin-attackiert-Woidke.html"
+    },
+    {
+      "title": "Tierpark Gera: Löwe Mufassa gestorben",
+      "url": "https://www.welt.de/regionales/thueringen/article254690720/Tierpark-Gera-Loewe-Mufassa-gestorben.html"
+    },
+    {
+      "title": "Baby erstickt - Hamburger Urteil gegen Mutter rechtskräftig",
+      "url": "https://www.welt.de/regionales/hamburg/article254690674/Baby-erstickt-Hamburger-Urteil-gegen-Mutter-rechtskraeftig.html"
+    },
+    {
+      "title": "Darts-WM 2025 – Spielplan, Ansetzungen, Modus, Preisgeld",
+      "url": "https://www.welt.de/sport/darts/article253830704/PDC-Darts-WM-2025-Spielplan-Uebertragung-Preisgeld-Alle-Infos-zum-Turnier.html"
+    },
+    {
+      "title": "Drohende Abschiebung von Pflegern - Lauterbach will helfen",
+      "url": "https://www.welt.de/regionales/niedersachsen/article254690678/Drohende-Abschiebung-von-Pflegern-Lauterbach-will-helfen.html"
+    },
+    {
+      "title": "Böller explodiert in der Hand - Zwölfjähriger verletzt",
+      "url": "https://www.welt.de/regionales/berlin/article254690658/Boeller-explodiert-in-der-Hand-Zwoelfjaehriger-verletzt.html"
+    },
+    {
+      "title": "Finanzierung gesichert – Regierung will Integrationskurse verschlanken",
+      "url": "https://www.welt.de/politik/deutschland/article254689418/Sparkurs-Finanzierung-gesichert-Regierung-will-Integrationskurse-verschlanken.html"
+    },
+    {
+      "title": "Die Liebe geht durch den Thermomix",
+      "url": "https://www.welt.de/kultur/article254499432/Filmkomoedie-Der-Vierer-Die-Liebe-geht-durch-den-Thermomix.html"
+    },
+    {
+      "title": "19-Jähriger soll Vater getötet haben - Haftbefehl erlassen",
+      "url": "https://www.welt.de/regionales/hamburg/article254690536/19-Jaehriger-soll-Vater-getoetet-haben-Haftbefehl-erlassen.html"
+    },
+    {
+      "title": "Schaeffler schließt Werke in England und Österreich",
+      "url": "https://www.welt.de/regionales/bayern/article254690542/Schaeffler-schliesst-Werke-in-England-und-Oesterreich.html"
+    },
+    {
+      "title": "Kommunen und Verkehrsunternehmen fordern mehr Geld für ÖPNV",
+      "url": "https://www.welt.de/regionales/sachsen/article254690460/Kommunen-und-Verkehrsunternehmen-fordern-mehr-Geld-fuer-OEPNV.html"
+    },
+    {
+      "title": "Millionenbetrug im Internet - Anklage gegen vier Männer",
+      "url": "https://www.welt.de/regionales/niedersachsen/article254690406/Millionenbetrug-im-Internet-Anklage-gegen-vier-Maenner.html"
+    },
+    {
+      "title": "Ministerin Stolz: Krankenhausreform wird vieles verändern",
+      "url": "https://www.welt.de/regionales/hessen/article254690418/Ministerin-Stolz-Krankenhausreform-wird-vieles-veraendern.html"
+    },
+    {
+      "title": "Rumänien: Gericht prüft Anfechtung der Präsidentenwahl",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/politik_ausland_nt/article254690390/Rumaenien-Gericht-prueft-Anfechtung-der-Praesidentenwahl.html"
+    },
+    {
+      "title": "Dieser Streit zeigt, dass Europas Zeit der Klima-Belehrungen vorbei ist",
+      "url": "https://www.welt.de/wirtschaft/plus254682506/Brasilien-Dieser-Streit-zeigt-dass-Europas-Zeit-der-Klima-Belehrungen-vorbei-ist.html"
+    },
+    {
+      "title": "Steuererklärung, Legitimation, Behördengang – so aktivieren Sie den Online-Ausweis",
+      "url": "https://www.welt.de/wirtschaft/webwelt/article254656178/Online-Ausweis-E-ID-So-funktioniert-der-smarte-Personalausweis.html"
+    },
+    {
+      "title": "Unbekannte überfallen Spielothek in Oberursel",
+      "url": "https://www.welt.de/regionales/hessen/article254690324/Unbekannte-ueberfallen-Spielothek-in-Oberursel.html"
+    },
+    {
+      "title": "Schach-Teenager Gukesh holt ersten Sieg im WM-Duell",
+      "url": "https://www.welt.de/sport/schach/article254689644/Schach-WM-Indiens-Hoffnung-Gukesh-D-holt-ersten-Sieg-im-Duell-mit-Ding-Liren.html"
+    },
+    {
+      "title": "27-Jährige nach Angriff auf Polizisten in U-Haft",
+      "url": "https://www.welt.de/regionales/niedersachsen/article254690338/27-Jaehrige-nach-Angriff-auf-Polizisten-in-U-Haft.html"
+    },
+    {
+      "title": "Osnabrücker Dom bekommt neue Beleuchtungstechnik",
+      "url": "https://www.welt.de/regionales/niedersachsen/article254690238/Osnabruecker-Dom-bekommt-neue-Beleuchtungstechnik.html"
+    },
+    {
+      "title": "Automobilzulieferer schließt Standort im Harz",
+      "url": "https://www.welt.de/regionales/sachsen-anhalt/article254690196/Automobilzulieferer-schliesst-Standort-im-Harz.html"
+    },
+    {
+      "title": "Lufthansa weitet Klima-Tickets auf fast alle Flüge aus",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article254690182/Lufthansa-weitet-Klima-Tickets-auf-fast-alle-Fluege-aus.html"
+    },
+    {
+      "title": "Schalke droht in der Causa Fährmann ein Gerichtsmarathon",
+      "url": "https://www.welt.de/sport/fussball/bundesliga/fc-schalke-04/article254669884/Schalke-04-Ausmusterung-mit-Folgen-Klub-steht-in-Causa-Ralf-Faehrmann-Gerichtsmarathon-bevor.html"
+    },
+    {
+      "title": "Wie kann die Zukunft des kulturellen Erbes gesichert werden?",
+      "url": "https://www.welt.de/regionales/hessen/article254690174/Wie-kann-die-Zukunft-des-kulturellen-Erbes-gesichert-werden.html"
+    },
+    {
+      "title": "A9 bei Leipzig am Donnerstag für Bombenentschärfung gesperrt",
+      "url": "https://www.welt.de/regionales/berlin/article254690036/A9-bei-Leipzig-am-Donnerstag-fuer-Bombenentschaerfung-gesperrt.html"
+    },
+    {
+      "title": "Scharfe Kritik an AfD in Hamburgischer Bürgerschaft",
+      "url": "https://www.welt.de/regionales/hamburg/article254690072/Scharfe-Kritik-an-AfD-in-Hamburgischer-Buergerschaft.html"
+    },
+    {
+      "title": "Klopps Start fällt in die größte Krise von Red Bull",
+      "url": "https://www.welt.de/sport/fussball/article254682486/Salzburg-und-RB-Leipzig-Juergen-Klopps-Start-faellt-in-die-groesste-Krise-von-Red-Bull.html"
+    },
+    {
+      "title": "Mit 55 geht es abwärts – für Männer",
+      "url": "https://www.welt.de/gesundheit/plus254688406/Herz-Kreislauf-Risiko-Mit-55-geht-es-abwaerts-fuer-Maenner.html"
+    },
+    {
+      "title": "Sportflugzeug muss auf Acker notlanden - keine Verletzten",
+      "url": "https://www.welt.de/regionales/hamburg/article254689986/Sportflugzeug-muss-auf-Acker-notlanden-keine-Verletzten.html"
+    },
+    {
+      "title": "„Werde langsam wütend und böse“ – Kubicki kritisiert EU-Debatte über Rauchverbote",
+      "url": "https://www.welt.de/politik/ausland/article254689302/FDP-Vize-Werde-langsam-wuetend-und-boese-Kubicki-kritisiert-EU-Debatte-ueber-Rauchverbote.html"
+    },
+    {
+      "title": "Messerangriff in Stuttgart: Anklage gegen Männer erhoben",
+      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article254689968/Messerangriff-in-Stuttgart-Anklage-gegen-Maenner-erhoben.html"
+    },
+    {
+      "title": "Korruptionsverdacht bei Knaus Tabbert - Manager bestechlich?",
+      "url": "https://www.welt.de/regionales/bayern/article254689992/Korruptionsverdacht-bei-Knaus-Tabbert-Manager-bestechlich.html"
+    },
+    {
       "title": "Was im Hotel mit vergessenen Dingen passiert",
       "url": "https://www.welt.de/reise/article254688848/Fundstuecke-im-Hotel-Was-mit-vom-Gast-vergessenen-Dingen-passiert.html"
-    },
-    {
-      "title": "Autonom fahrendes Shuttle ab 2025 in Harburg unterwegs",
-      "url": "https://www.welt.de/regionales/hamburg/article254689450/Autonom-fahrendes-Shuttle-ab-2025-in-Harburg-unterwegs.html"
-    },
-    {
-      "title": "Polizei ermittelt mutmaßliche jugendliche Brandstifterin",
-      "url": "https://www.welt.de/regionales/niedersachsen/article254689454/Polizei-ermittelt-mutmassliche-jugendliche-Brandstifterin.html"
     },
     {
       "title": "Die Angst, dass die Asyl-Großunterkunft den „kommunalen Frieden“ zerstört",
       "url": "https://www.welt.de/politik/deutschland/plus254670272/Unterbringung-von-Migranten-Die-Angst-dass-die-Asyl-Grossunterkunft-den-kommunalen-Frieden-zerstoert.html"
     },
     {
-      "title": "Arbeitgeberverbände fordern Unterstützung",
-      "url": "https://www.welt.de/regionales/sachsen-anhalt/article254689426/Arbeitgeberverbaende-fordern-Unterstuetzung.html"
-    },
-    {
       "title": "Schleswig-Holstein für mehr Befugnisse bei DNA-Abgleichen",
       "url": "https://www.welt.de/regionales/hamburg/article254687574/Strafverfolgung-Schleswig-Holstein-fuer-mehr-Befugnisse-bei-DNA-Abgleichen.html"
-    },
-    {
-      "title": "Ruten-Schlag in Kinder-Gesicht? Polizei sucht Zeugen",
-      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article254689396/Ruten-Schlag-in-Kinder-Gesicht-Polizei-sucht-Zeugen.html"
-    },
-    {
-      "title": "FCK nimmt Zweitliga-Spitzengruppe ins Visier",
-      "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article254689392/FCK-nimmt-Zweitliga-Spitzengruppe-ins-Visier.html"
-    },
-    {
-      "title": "KI und Biomedizin - neuer Forschungsbereich in Dresden",
-      "url": "https://www.welt.de/regionales/sachsen/article254689324/KI-und-Biomedizin-neuer-Forschungsbereich-in-Dresden.html"
     },
     {
       "title": "Seine Bilder sind fast zu schön, um klug zu sein",
       "url": "https://www.welt.de/kultur/article254160158/Italienischer-Maler-Salvo-Seine-Bilder-sind-fast-zu-schoen-um-klug-zu-sein.html"
     },
     {
-      "title": "„Wenn wir Wert auf Bildung und Wertevermittlung legen, brauchen wir eine Obergrenze“",
+      "title": "„Keine Gesellschaft braucht 70 Prozent Abiturienten, die Gender Studies studieren“",
       "url": "https://www.welt.de/politik/deutschland/plus254666718/Ahmad-Mansour-Die-derzeitige-Migrationspolitik-ist-unverantwortlich-weil-sie-unsere-Gesellschaft-komplett-ueberfordert.html"
-    },
-    {
-      "title": "Kirchenpräsident Jung: Kirche wichtig für Demokratie",
-      "url": "https://www.welt.de/regionales/hessen/article254689258/Kirchenpraesident-Jung-Kirche-wichtig-fuer-Demokratie.html"
-    },
-    {
-      "title": "Gesund leben im Pflegeheim - Projekt zieht positive Bilanz",
-      "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article254689160/Gesund-leben-im-Pflegeheim-Projekt-zieht-positive-Bilanz.html"
-    },
-    {
-      "title": "BSW-Landeschef Crumbach: «Es wird nicht immer einfach sein»",
-      "url": "https://www.welt.de/regionales/berlin/article254689106/BSW-Landeschef-Crumbach-Es-wird-nicht-immer-einfach-sein.html"
-    },
-    {
-      "title": "Chef von Schlachtbetrieb wegen Tierquälerei vor Gericht",
-      "url": "https://www.welt.de/regionales/nrw/article254689118/Chef-von-Schlachtbetrieb-wegen-Tierquaelerei-vor-Gericht.html"
-    },
-    {
-      "title": "Hertha-Trainer Fiél hofft auf Demme und Reese",
-      "url": "https://www.welt.de/regionales/berlin/article254689074/Hertha-Trainer-Fiel-hofft-auf-Demme-und-Reese.html"
-    },
-    {
-      "title": "Zwei Männer in Erfurt wegen Mordes angeklagt",
-      "url": "https://www.welt.de/regionales/thueringen/article254689066/Zwei-Maenner-in-Erfurt-wegen-Mordes-angeklagt.html"
-    },
-    {
-      "title": "Hackathon erstellt digitale Ideen für die soziale Arbeit",
-      "url": "https://www.welt.de/regionales/hamburg/article254689058/Hackathon-erstellt-digitale-Ideen-fuer-die-soziale-Arbeit.html"
     },
     {
       "title": "„Ein Einfrieren der Front wäre möglich, wenn Kiew der Nato beitritt“",
       "url": "https://www.welt.de/politik/ausland/plus254688056/Ukraine-Ein-Einfrieren-der-Front-waere-moeglich-wenn-Kiew-der-Nato-beitritt.html"
     },
     {
-      "title": "Moskau weist zwei ARD-Mitarbeiter aus",
-      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/eilmeldungen/article254689002/Moskau-weist-zwei-ARD-Mitarbeiter-aus.html"
-    },
-    {
-      "title": "Woidke setzt mit Koalition auf Stabilität und Sicherheit",
-      "url": "https://www.welt.de/regionales/berlin/article254688992/Woidke-setzt-mit-Koalition-auf-Stabilitaet-und-Sicherheit.html"
-    },
-    {
       "title": "Gehen Sie bloß nicht zu früh ins Bett!",
       "url": "https://www.welt.de/iconist/service/article254669896/Schlechter-Schlaf-in-zunehmendem-Alter-Das-kann-helfen.html"
-    },
-    {
-      "title": "Landessynode beschließt Haushalt und Frauenquote",
-      "url": "https://www.welt.de/regionales/bayern/article254688964/Landessynode-beschliesst-Haushalt-und-Frauenquote.html"
-    },
-    {
-      "title": "Landesmittel für Wärmeplanung für 160 Kommunen",
-      "url": "https://www.welt.de/regionales/thueringen/article254688952/Landesmittel-fuer-Waermeplanung-fuer-160-Kommunen.html"
-    },
-    {
-      "title": "Sechs Ministerien in Brandenburg für SPD - drei für BSW",
-      "url": "https://www.welt.de/regionales/berlin/article254688832/Sechs-Ministerien-in-Brandenburg-fuer-SPD-drei-fuer-BSW.html"
-    },
-    {
-      "title": "Hallescher FC - Greifswalder FC",
-      "url": "https://www.welt.de/sport/fussball/regionalliga/regionalliga-nordost/article254688762/Hallescher-FC-Greifswalder-FC-Hallescher-FC-im-Aufwaertstrend-Regionalliga-Nordost.html"
-    },
-    {
-      "title": "SV 07 Elversberg - SC Paderborn 07",
-      "url": "https://www.welt.de/sport/fussball/2-bundesliga/article254688764/SV-07-Elversberg-SC-Paderborn-07-Duell-der-Schwergewichte-2-Bundesliga.html"
-    },
-    {
-      "title": "FC Eilenburg - VFC Plauen",
-      "url": "https://www.welt.de/sport/fussball/regionalliga/regionalliga-nordost/article254688752/FC-Eilenburg-VFC-Plauen-Eilenburg-muss-punkten-Regionalliga-Nordost.html"
-    },
-    {
-      "title": "Eintracht Braunschweig - SSV Jahn Regensburg",
-      "url": "https://www.welt.de/sport/fussball/2-bundesliga/article254688768/Eintracht-Braunschweig-SSV-Jahn-Regensburg-Bloss-nicht-verlieren-2-Bundesliga.html"
-    },
-    {
-      "title": "1. FC Köln - Hannover 96",
-      "url": "https://www.welt.de/sport/fussball/2-bundesliga/article254688756/1-FC-Koeln-Hannover-96-Kann-Koeln-den-Lauf-ausbauen-2-Bundesliga.html"
-    },
-    {
-      "title": "Schriftstellerin Helga Schubert mit Landeskulturpreis geehrt",
-      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article254688776/Schriftstellerin-Helga-Schubert-mit-Landeskulturpreis-geehrt.html"
-    },
-    {
-      "title": "Wildverbiss: Bayerns Bergwäldern geht es immer schlechter",
-      "url": "https://www.welt.de/regionales/bayern/article254688796/Wildverbiss-Bayerns-Bergwaeldern-geht-es-immer-schlechter.html"
-    },
-    {
-      "title": "Königin Silvia von Schweden zu Benefiztermin in Zweibrücken",
-      "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article254688730/Koenigin-Silvia-von-Schweden-zu-Benefiztermin-in-Zweibruecken.html"
-    },
-    {
-      "title": "Was wird neu in Brandenburg mit SPD und BSW",
-      "url": "https://www.welt.de/regionales/berlin/article254688784/Was-wird-neu-in-Brandenburg-mit-SPD-und-BSW.html"
-    },
-    {
-      "title": "Kind beim Klauen erwischt - Anstiftung durch Unbekannte?",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article254688714/Kind-beim-Klauen-erwischt-Anstiftung-durch-Unbekannte.html"
-    },
-    {
-      "title": "Vier Menschen bei Frontalzusammenstoß schwer verletzt",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article254688678/Vier-Menschen-bei-Frontalzusammenstoss-schwer-verletzt.html"
-    },
-    {
-      "title": "Baubranche schrumpft - vor allem kleine Betriebe betroffen",
-      "url": "https://www.welt.de/regionales/sachsen-anhalt/article254688646/Baubranche-schrumpft-vor-allem-kleine-Betriebe-betroffen.html"
     },
     {
       "title": "Jenseits des Strandes – Adrenalinkicks auf St. Lucia",
@@ -218,52 +266,14 @@
       "url": "https://www.welt.de/politik/ausland/plus254683716/Sicherheitsexperte-Heisbourg-Die-Russen-wissen-ganz-genau-was-ihnen-blueht-wenn-sie-diese-Schwelle-uebertreten.html"
     },
     {
-      "title": "Verbraucherstimmung in Deutschland rutscht deutlich ab – tiefster Stand seit Mai erreicht",
-      "url": "https://www.welt.de/wirtschaft/article254685322/GfK-Konsumklimaindex-Verbraucherstimmung-in-Deutschland-rutscht-deutlich-ab-tiefster-Stand-seit-Mai-erreicht.html"
+      "title": "„Eklatanter Vertrauensbruch“ – Geschasste Ministerin attackiert Woidke",
+      "teaser": "Ursula Nonnemacher wurde überraschend von Brandenburgs Ministerpräsident Dietmar Woidke entlassen. Die Grünen-Politikerin kritisiert nun: „Ich bin doch keine Befehlsempfängerin im Feudalismus.“ Und sie stellt eine Vermutung zu Woidkes Beweggründen auf.",
+      "url": "https://www.welt.de/politik/deutschland/"
     },
     {
-      "title": "Der Irrtum vom großen Rentner-Risiko im Straßenverkehr",
-      "url": "https://www.welt.de/wirtschaft/plus254673662/Senioren-Der-grosse-Irrtum-vom-besonderen-Strassenverkehr-Risiko.html"
-    },
-    {
-      "title": "„Wenn ein Gremium die Beachtung ethischer Leitlinien nur vorgaukelt, ist es überflüssig“",
-      "url": "https://www.welt.de/politik/deutschland/plus254679986/Ethikrat-in-der-Pandemie-Wenn-ein-Gremium-die-Beachtung-ethischer-Leitlinien-nur-vorgaukelt-ist-es-ueberfluessig.html"
-    },
-    {
-      "title": "Nach Habeck-Skandal – Wüst zieht sich vollends von Meldeportal zurück",
-      "url": "https://www.welt.de/politik/deutschland/article254683206/Nach-Habeck-Skandal-Wuest-zieht-sich-von-Meldeportal-zurueck.html"
-    },
-    {
-      "title": "Hamburger Alsterschwäne beziehen Winterquartier",
-      "url": "https://www.welt.de/regionales/hamburg/article254685500/Hamburger-Alsterschwaene-beziehen-Winterquartier.html"
-    },
-    {
-      "title": "„Bitte leisten Sie keine Zahlungen“ – Hamburg ruft Bürger auf, keine Grundsteuer zu zahlen",
-      "url": "https://www.welt.de/wirtschaft/article254683584/Grundsteuer-in-Hamburg-Eigenheimbesitzer-sollen-Rate-im-Februar-nicht-zahlen.html"
-    },
-    {
-      "title": "„Wir sind längst in einer neuen Klima-Realität angekommen“",
-      "url": "https://www.welt.de/regionales/hamburg/article254683154/Gruener-Umweltminister-Wir-sind-laengst-in-einer-neuen-Klima-Realitaet-angekommen.html"
-    },
-    {
-      "title": "Europaparlament wählt von der Leyens neue EU-Kommission ins Amt – Das sind ihre Pläne",
-      "url": "https://www.welt.de/politik/deutschland/article254683034/Europaparlament-waehlt-von-der-Leyens-neue-EU-Kommission-ins-Amt.html"
-    },
-    {
-      "title": "„Das ist doch nicht Ihr Ernst“ – Beim Thema Scholz geraten Lanz und Heil aneinander",
-      "url": "https://www.welt.de/vermischtes/article254682932/Markus-Lanz-Das-ist-doch-nicht-Ihr-Ernst-Moderator-und-Heil-geraten-massiv-aneinander.html"
-    },
-    {
-      "title": "So will sich McDonald's neu erfinden",
-      "url": "https://www.welt.de/kmpkt/article254539566/McDonald-s-So-will-der-Fast-Food-Riese-sich-neu-erfinden.html"
-    },
-    {
-      "title": "US-Bundesgericht fällt Urteil über Trans-Sportlerin",
-      "url": "https://www.welt.de/sport/article254684132/Blaire-Fleming-US-Bundesgericht-faellt-Urteil-ueber-Trans-Volleyballerin.html"
-    },
-    {
-      "title": "Das neue Leben des German Messi",
-      "url": "https://www.welt.de/sport/fussball/plus254682510/Marko-Marin-Das-neue-Leben-des-German-Messi.html"
+      "title": "„Werde langsam wütend und böse“ – Kubicki kritisiert EU-Debatte über Rauchverbote",
+      "teaser": "Die EU-Staaten diskutieren darüber, ob Rauchen an bestimmten Orten im Freien verboten werden sollte. FDP-Vize Wolfgang Kubicki hält diese Idee für „extrem übergriffig“ – und glaubt, dass solche Vorschläge die Akzeptanz der EU bei den Bürgern untergraben.",
+      "url": "https://www.welt.de/politik/ausland/"
     },
     {
       "title": "Russland weist nach eigenen Angaben zwei ARD-Journalisten aus",
@@ -276,11 +286,6 @@
       "url": "https://www.welt.de/politik/deutschland/"
     },
     {
-      "title": "„Das ist doch nicht Ihr Ernst“ – Beim Thema Scholz geraten Lanz und Heil aneinander",
-      "teaser": "Moderator Markus Lanz thematisierte in seiner Sendung die K-Frage in der SPD. Denn die Umfragewerte von Olaf Scholz befinden sich im Tiefflug. Doch dessen Parteigenosse Hubertus Heil ließ keine Zweifel an der Personalie zu.",
-      "url": "https://www.welt.de/vermischtes/"
-    },
-    {
       "title": "„Bitte leisten Sie keine Zahlungen“ – Hamburg ruft Bürger auf, keine Grundsteuer zu zahlen",
       "teaser": "Die Reform der Grundsteuer könnte in Hamburg zu Verwirrungen führen. Der Senat warnt Immobilienbesitzer deshalb davor, ihre erste Rate wie gewohnt zum 15. Februar zu zahlen. Für Betroffene mit Dauerauftrag gebe es „Handlungsbedarf“.",
       "url": "https://www.welt.de/wirtschaft/"
@@ -291,15 +296,31 @@
       "url": "https://www.welt.de/vermischtes/"
     },
     {
-      "title": "„Wir richten uns ein“ – 65 Prozent der Ukrainer wollen bleiben, sagt der Behördenchef",
-      "teaser": "Immer mehr ukrainische Kriegsflüchtlinge in Berlin planen, dauerhaft zu bleiben. In der Notunterkunft Tegel zeigt eine Umfrage, dass 65 Prozent sich dauerhaft einrichten wollen. Auch das Interesse an Deutschkursen und Arbeitsplätzen wächst.",
-      "url": "https://www.welt.de/politik/deutschland/"
-    },
-    {
       "title": "Jetzt im Fernsehen",
       "url": "https://www.welt.de/mediathek/video152403616/Das-WELT-TV-Programm-im-Livestream.html",
       "image_url": "https://img.welt.de/img/mediathek/mobile254677224/8857936417-ci102l-w200/Frachtflugzeug-aus-Leipzig-stuerzt-auf-Wohngebaeude-in-Litauen.jpg",
       "image_title": "Kein alternativer Text für dieses Bild vorhanden"
+    },
+    {
+      "title": "Rauchverbote im Freien – „Stößt bei vielen Abgeordneten auf Unverständnis“",
+      "url": "https://www.welt.de/politik/deutschland/video254688634/Debatte-im-EU-Parlament-Rauchverbote-im-Freien-Stoesst-bei-vielen-Abgeordneten-auf-Unverstaendnis.html",
+      "image_url": "https://img.welt.de/img/politik/deutschland/mobile254688886/9417939807-ci102l-w200/E-Zigarette.jpg",
+      "image_title": "Debatte im EU-Parlament: Rauchverbote im Freien – „Stößt bei vielen Abgeordneten auf Unverständnis“",
+      "author": "7 Min"
+    },
+    {
+      "title": "Statements von SPD und BSW zur Einigung in Brandenburg",
+      "url": "https://www.welt.de/politik/deutschland/video254689566/Koalitionsvertrag-Statements-von-SPD-und-BSW-zur-Einigung-in-Brandenburg.html",
+      "image_url": "https://img.welt.de/img/politik/deutschland/mobile254690772/2627939667-ci102l-w200/Brandenburg-coalition-talks-results-are-presented-in-Potsdam.jpg",
+      "image_title": "Brandenburg coalition talks results are presented in Potsdam",
+      "author": "20 Min"
+    },
+    {
+      "title": "„Ich möchte, dass jede Frau, jedes Mädchen, wenn sie Schutz braucht, Schutz bekommt“",
+      "url": "https://www.welt.de/politik/deutschland/video254688152/Gewalthilfe-Gesetz-Ich-moechte-dass-jede-Frau-jedes-Maedchen-wenn-sie-Schutz-braucht-Schutz-bekommt.html",
+      "image_url": "https://img.welt.de/img/politik/deutschland/mobile254689170/4907931577-ci102l-w200/Image-6747219391f0484bee646dee.jpg",
+      "image_title": "Gewalthilfe-Gesetz : „Ich möchte, dass jede Frau, jedes Mädchen, wenn sie Schutz braucht, Schutz bekommt“",
+      "author": "7 Min"
     },
     {
       "title": "Die Antwort auf Putins „Oreschnik“ – So funktioniert das Hit-to-kill-System der USA",
