@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-27T08:10:48",
+  "timestamp": "2024-11-27T09:08:12",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "HPE Insight Remote Support",
+      "url": "https://www.heise.de/news/HPE-Insight-Remote-Support-Monitoring-Software-ermoeglicht-Codeschmuggel-10178034.html"
+    },
+    {
+      "title": "Array Networks AG VPN Gateway",
+      "url": "https://www.heise.de/news/Angreifer-attackieren-SSL-VPN-Gateways-von-Array-Networks-10177958.html"
+    },
+    {
       "title": "Trellix Enterprise Security Manager",
       "url": "https://www.heise.de/news/Trellix-Update-dichtet-Sicherheitsluecken-in-Enterprise-Security-Manager-ab-10176250.html"
     },
@@ -40,12 +48,33 @@
       "url": "https://www.heise.de/news/Dell-Wyse-Management-Suite-Angreifer-koennen-Sicherheitsmechanismen-umgehen-10176009.html"
     },
     {
-      "title": "Wordpress-Plug-in Anti-Spam by Cleantalk",
-      "url": "https://www.heise.de/news/Wordpress-Plug-in-Anti-Spam-by-Cleantalk-gefaehrdet-200-000-Seiten-10175993.html"
+      "title": "Nächste Woche: M365-Sicherheit im heise security Webinar",
+      "teaser": "Mit dem kostenlosen Tool ScubaGear können Firmen und Behörden ihre M365-Cloud-Dienste selbst prüfen und optimieren. Das Webinar gibt dazu den Schnelleinstieg.",
+      "url": "https://www.heise.de/news/Naechste-Woche-M365-Sicherheit-im-heise-security-Webinar-10173218.html",
+      "image_title": "Microsoft-Cloud-Webinar"
     },
     {
-      "title": "Qnap NAS",
-      "url": "https://www.heise.de/news/Mehrere-Softwareschwachstellen-gefaehrden-Qnap-NAS-10169349.html"
+      "title": "HPE Insight Remote Support: Monitoring-Software ermöglicht Codeschmuggel",
+      "teaser": "In der kostenlosen Monitoring-Software HPE Insight Remote Support ermöglichen teils kritische Sicherheitslücken das Einschleusen von Schadcode.",
+      "url": "https://www.heise.de/news/HPE-Insight-Remote-Support-Monitoring-Software-ermoeglicht-Codeschmuggel-10178034.html",
+      "image_title": "Brennendes Laptop vor Servern, die das Laptop überwacht"
+    },
+    {
+      "title": "Angreifer attackieren SSL-VPN-Gateways von Array Networks",
+      "teaser": "Es gibt derzeit Attacken auf eine kritische Sicherheitslücke in den VPN-Produkten Array Networks AG und vxAG.",
+      "url": "https://www.heise.de/news/Angreifer-attackieren-SSL-VPN-Gateways-von-Array-Networks-10177958.html",
+      "image_title": "Würfel mit Buchstaben buchstabieren \"CYBERCRIME\"; ein Finge dreht gerade einige Buchstaben um, um daraus \"CYBERSECURITY\" zu machen."
+    },
+    {
+      "title": "Microsoft: Hotpatching kommt auch in Windows 11",
+      "teaser": "Windows 11 kommt auch in den Genuss von Neustart-losen Updates. Microsoft beginnt den Probebetrieb für verwaltetes Windows 11 24H2 Enterprise.",
+      "url": "https://www.heise.de/news/Microsoft-Hotpatching-kommt-auch-in-Windows-11-10177968.html",
+      "image_title": "Ein Monitor vor Servern zeigt die Installation von WIndows Updates an. Dahinter steht eine Tafel und zeigt \"Uptime 90 Days\"."
+    },
+    {
+      "title": "PCs und Server: Warum x86 die Chip-Architektur der Wahl bleibt",
+      "teaser": "ARM-basierte Prozessoren wie Apple M oder Snapdragon von Qualcomm machen x86 zunehmend Konkurrenz. Dabei gibt es viele Gründe, weiter auf die bewährte x86-Rechenarchitektur zu setzen.",
+      "url": "https://www.heise.de/solutions/intel/prozessoren-fuer-pcs-und-server-warum-x86-die-chip-architektur-der-wahl-bleibt/?source=nat_teas"
     },
     {
       "title": "\"Passwort\" Folge 19: Tor-Angriffe, Security-Fails und viel Feedback",
@@ -69,11 +98,6 @@
       "teaser": "IT-Forscher beobachten, dass die Helldown-Ransomware nach Einbruch in Netze durch Sicherheitslücken in Zyxel-Firewalls zuschlägt.",
       "url": "https://www.heise.de/news/Helldown-Ransomware-Einbruch-durch-Sicherheitsluecke-in-Zyxel-Firewalls-10176669.html",
       "image_title": "Ransomware im Netzwerk"
-    },
-    {
-      "title": "PCs und Server: Warum x86 die Chip-Architektur der Wahl bleibt",
-      "teaser": "ARM-basierte Prozessoren wie Apple M oder Snapdragon von Qualcomm machen x86 zunehmend Konkurrenz. Dabei gibt es viele Gründe, weiter auf die bewährte x86-Rechenarchitektur zu setzen.",
-      "url": "https://www.heise.de/solutions/intel/prozessoren-fuer-pcs-und-server-warum-x86-die-chip-architektur-der-wahl-bleibt/?source=nat_teas"
     },
     {
       "title": "iX-Workshop: Linux-Server härten",
@@ -144,29 +168,6 @@
       "teaser": "Die Entwickler von Drupal haben in ihrem Content Management System mehrere Schwachstellen geschlossen.",
       "url": "https://www.heise.de/news/Sicherheitsupdates-fuer-Drupal-Schadcode-Attacken-auf-Webbrowser-moeglich-10146419.html",
       "image_title": "Brennende NAS-Systeme"
-    },
-    {
-      "title": "Phishing-Warnung: Kriminelle missbrauchen Black-Friday-Trubel",
-      "teaser": "Phisher springen auf den Black-Friday-Zug auf und ködern Opfer mit Warnungen vor unbefugten Amazon-Zugriffen.",
-      "url": "https://www.heise.de/news/Phishing-Warnung-Kriminelle-missbrauchen-Black-Friday-Trubel-10143500.html",
-      "image_title": "Krimineller angelt Kreditkartendaten, Geld,"
-    },
-    {
-      "title": "Nearest Neighbor Attack: Angriff über WLAN des Nachbarn",
-      "teaser": "Multi-Faktor-Authentifizierung schützt nicht, wenn nicht alle Zugänge damit versehen sind – das musste ein US-Unternehmen durch APT28 lernen.",
-      "url": "https://www.heise.de/news/US-Firma-ueber-benachbarte-WLAN-Geraete-Dritter-angegriffen-10129358.html"
-    },
-    {
-      "title": "iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response (DFIR)",
-      "teaser": "Lernen Sie, professionelle Incident Response Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können.",
-      "url": "https://www.heise.de/news/iX-Workshop-Nach-dem-Einbruch-Digital-Forensics-Incident-Response-DFIR-10036163.html",
-      "image_title": "iX-Workshop Digital Forensics & Incident Response"
-    },
-    {
-      "title": "Secure Coding: CWE-377 – TOCTOU-Race-Conditions in den Griff bekommen",
-      "teaser": "TOCTOU-Schwachstellen zählen zu den schwerwiegendsten in der Common Weakness Enumeration CWE-377 beschriebenen. Sie bedürfen besonderer Vorkehrungen.",
-      "url": "https://www.heise.de/hintergrund/Secure-Coding-CWE-377-TOCTOU-Race-Conditions-in-den-Griff-bekommen-10081613.html",
-      "image_title": "Halber Mensch vor Zahnrädern und Schlössern"
     },
     {
       "title": "Scuba-Webinar",
