@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-27T11:06:43",
+  "timestamp": "2024-11-27T12:13:58",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Microsoft",
+      "url": "https://www.heise.de/news/Microsoft-patcht-teils-kritische-Luecken-ausser-der-Reihe-10178400.html"
+    },
+    {
       "title": "VMware Aria Operations",
       "url": "https://www.heise.de/news/Root-Sicherheitsluecken-in-VMware-Aria-Operations-geschlossen-10178078.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Angreifer-attackieren-SSL-VPN-Gateways-von-Array-Networks-10177958.html"
     },
     {
-      "title": "Trellix Enterprise Security Manager",
-      "url": "https://www.heise.de/news/Trellix-Update-dichtet-Sicherheitsluecken-in-Enterprise-Security-Manager-ab-10176250.html"
+      "title": "Microsoft patcht teils kritische Lücken außer der Reihe",
+      "teaser": "Microsoft hat Sicherheitslecks in mehreren Produkten geschlossen. Einige Updates müssen Nutzer installieren.",
+      "url": "https://www.heise.de/news/Microsoft-patcht-teils-kritische-Luecken-ausser-der-Reihe-10178400.html",
+      "image_title": "Computer zeigt Windows-Logo an, Server drum herum brennen, qualmende Viren attackieren alles"
     },
     {
       "title": "Root-Sicherheitslücken in VMware Aria Operations geschlossen",
@@ -53,10 +59,10 @@
       "url": "https://www.heise.de/news/Root-Sicherheitsluecken-in-VMware-Aria-Operations-geschlossen-10178078.html"
     },
     {
-      "title": "brillen.de: Hintergründe zum Datenleck",
-      "teaser": "Mitte November wurde ein Datenleck bei brillen.de bekannt. Die Untersuchung des Vorfalls liefert erste Details zu den Ursachen.",
-      "url": "https://www.heise.de/news/Datenleck-bei-brillen-de-Details-zu-den-Ursachen-10178182.html",
-      "image_title": "Computer vor Serverschränken, auf dem Dataleak steht, drumherum lungern Datendiebe"
+      "title": "Nächste Woche: M365-Sicherheit im heise security Webinar",
+      "teaser": "Mit dem kostenlosen Tool ScubaGear können Firmen und Behörden ihre M365-Cloud-Dienste selbst prüfen und optimieren. Das Webinar gibt dazu den Schnelleinstieg.",
+      "url": "https://www.heise.de/news/Naechste-Woche-M365-Sicherheit-im-heise-security-Webinar-10173218.html",
+      "image_title": "Microsoft-Cloud-Webinar"
     },
     {
       "title": "HPE Insight Remote Support: Monitoring-Software ermöglicht Codeschmuggel",
@@ -157,11 +163,6 @@
       "teaser": "Softwareentwickler lernen Hands-on, welche Formate wie unterstützt, geprüft und umgewandelt werden können oder müssen und wie sie dabei vorgehen.",
       "url": "https://www.heise.de/news/iX-Workshop-Innerdeutsche-E-Rechnungspflicht-Software-richtig-implementieren-10087682.html",
       "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
-    },
-    {
-      "title": "NAS nicht benutzbar: Qnap streicht fehlerhaftes Sicherheitsupdate",
-      "teaser": "Besitzer von Qnap-NAS-Geräten haben nach der Installation eines Patches diverse Probleme. Mittlerweile steht das Update in reparierter Form zum Download.",
-      "url": "https://www.heise.de/news/Nach-Beschwerden-Qnap-zieht-fehlerhaftes-Sicherheitsupdate-zurueck-10146878.html"
     },
     {
       "title": "Scuba-Webinar",
