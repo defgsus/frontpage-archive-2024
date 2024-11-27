@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-27T10:08:41",
+  "timestamp": "2024-11-27T11:06:43",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "VMware Aria Operations",
+      "url": "https://www.heise.de/news/Root-Sicherheitsluecken-in-VMware-Aria-Operations-geschlossen-10178078.html"
+    },
+    {
       "title": "HPE Insight Remote Support",
       "url": "https://www.heise.de/news/HPE-Insight-Remote-Support-Monitoring-Software-ermoeglicht-Codeschmuggel-10178034.html"
     },
@@ -44,20 +48,15 @@
       "url": "https://www.heise.de/news/Trellix-Update-dichtet-Sicherheitsluecken-in-Enterprise-Security-Manager-ab-10176250.html"
     },
     {
-      "title": "Dell Wyse Management Suite",
-      "url": "https://www.heise.de/news/Dell-Wyse-Management-Suite-Angreifer-koennen-Sicherheitsmechanismen-umgehen-10176009.html"
+      "title": "Root-Sicherheitslücken in VMware Aria Operations geschlossen",
+      "teaser": "VMwares IT-Verwaltungsplattform Aria Operations ist verwundbar. Admins sollten die Sicherheitspatches in Bälde installieren.",
+      "url": "https://www.heise.de/news/Root-Sicherheitsluecken-in-VMware-Aria-Operations-geschlossen-10178078.html"
     },
     {
-      "title": "Datenleck bei brillen.de: Details zu den Ursachen",
+      "title": "brillen.de: Hintergründe zum Datenleck",
       "teaser": "Mitte November wurde ein Datenleck bei brillen.de bekannt. Die Untersuchung des Vorfalls liefert erste Details zu den Ursachen.",
       "url": "https://www.heise.de/news/Datenleck-bei-brillen-de-Details-zu-den-Ursachen-10178182.html",
       "image_title": "Computer vor Serverschränken, auf dem Dataleak steht, drumherum lungern Datendiebe"
-    },
-    {
-      "title": "Nächste Woche: M365-Sicherheit im heise security Webinar",
-      "teaser": "Mit dem kostenlosen Tool ScubaGear können Firmen und Behörden ihre M365-Cloud-Dienste selbst prüfen und optimieren. Das Webinar gibt dazu den Schnelleinstieg.",
-      "url": "https://www.heise.de/news/Naechste-Woche-M365-Sicherheit-im-heise-security-Webinar-10173218.html",
-      "image_title": "Microsoft-Cloud-Webinar"
     },
     {
       "title": "HPE Insight Remote Support: Monitoring-Software ermöglicht Codeschmuggel",
@@ -70,12 +69,6 @@
       "teaser": "Es gibt derzeit Attacken auf eine kritische Sicherheitslücke in den VPN-Produkten Array Networks AG und vxAG.",
       "url": "https://www.heise.de/news/Angreifer-attackieren-SSL-VPN-Gateways-von-Array-Networks-10177958.html",
       "image_title": "Würfel mit Buchstaben buchstabieren \"CYBERCRIME\"; ein Finge dreht gerade einige Buchstaben um, um daraus \"CYBERSECURITY\" zu machen."
-    },
-    {
-      "title": "Microsoft: Hotpatching kommt auch in Windows 11",
-      "teaser": "Windows 11 kommt auch in den Genuss von Neustart-losen Updates. Microsoft beginnt den Probebetrieb für verwaltetes Windows 11 24H2 Enterprise.",
-      "url": "https://www.heise.de/news/Microsoft-Hotpatching-kommt-auch-in-Windows-11-10177968.html",
-      "image_title": "Ein Monitor vor Servern zeigt die Installation von WIndows Updates an. Dahinter steht eine Tafel und zeigt \"Uptime 90 Days\"."
     },
     {
       "title": "\"Passwort\" Folge 19: Tor-Angriffe, Security-Fails und viel Feedback",
@@ -105,6 +98,18 @@
       "teaser": "Linux-Server und Netzwerkdienste effektiv und umfassend vor Angriffen schützen - von physischer Sicherheit über Verschlüsselung und 2FA bis hin zu SELinux.",
       "url": "https://www.heise.de/news/iX-Workshop-Linux-Server-haerten-10088987.html",
       "image_title": "iX-Workshop: Linux-Server härten"
+    },
+    {
+      "title": "Trellix: Update dichtet Sicherheitslücken in Enterprise Security Manager ab",
+      "teaser": "In Trellix Enterprise Security Manager bessert der Hersteller mehrere Sicherheitslücken aus. Admins sollten das Update zeitnah installieren.",
+      "url": "https://www.heise.de/news/Trellix-Update-dichtet-Sicherheitsluecken-in-Enterprise-Security-Manager-ab-10176250.html",
+      "image_title": "IT-Verwalter steht vor Severn und Computern und überwacht die Performance"
+    },
+    {
+      "title": "l+f: Wenn nach dem Datenleak die Yakuza-Mafia anklopft",
+      "teaser": "Bei einer japanischen Behörde, die Yakuza-Opfern hilft, kam es zu einer Cyberattacke.",
+      "url": "https://www.heise.de/news/l-f-Wenn-nach-dem-Datenleak-die-Yakuza-Mafia-anklopft-10176264.html",
+      "image_title": "Warnmeldung über eine erfolgreiche PC-Attacke"
     },
     {
       "title": "Microsoft-365-Störungen \"weitgehend behoben\"",
@@ -157,12 +162,6 @@
       "title": "NAS nicht benutzbar: Qnap streicht fehlerhaftes Sicherheitsupdate",
       "teaser": "Besitzer von Qnap-NAS-Geräten haben nach der Installation eines Patches diverse Probleme. Mittlerweile steht das Update in reparierter Form zum Download.",
       "url": "https://www.heise.de/news/Nach-Beschwerden-Qnap-zieht-fehlerhaftes-Sicherheitsupdate-zurueck-10146878.html"
-    },
-    {
-      "title": "Neue Wireshark-Version schließt zwei Absturz-Lücken",
-      "teaser": "Angreifer konnten bisherige Versionen des Netzwerkanalysetools Wireshark abstürzen lassen. Aktuelle Updates bringen zudem RTCP-Analysen zurück.",
-      "url": "https://www.heise.de/news/Neue-Wireshark-Version-schliesst-zwei-Absturz-Luecken-10147807.html",
-      "image_title": "IT-Verwalter sitzt vorm Server und überwacht die Performance"
     },
     {
       "title": "Scuba-Webinar",
