@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-28T09:08:15",
+  "timestamp": "2024-11-28T10:08:39",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Synology",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Vielfaeltige-Angriffe-auf-Synology-NAS-und-BeeDrive-moeglich-10178420.html"
+    },
+    {
       "title": "Palo Alto Globalprotect App",
       "url": "https://www.heise.de/news/Palo-Alto-Globalprotect-Schadcode-Luecke-durch-unzureichende-Zertifikatspruefung-10178649.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Root-Sicherheitsluecken-in-VMware-Aria-Operations-geschlossen-10178078.html"
     },
     {
-      "title": "HPE Insight Remote Support",
-      "url": "https://www.heise.de/news/HPE-Insight-Remote-Support-Monitoring-Software-ermoeglicht-Codeschmuggel-10178034.html"
+      "title": "l+f: Erst hacken, dann schützen",
+      "teaser": "Ein Anbieter von Cybersecurity-Services bewirbt seine Dienste auf eine kuriose Art und Weise.",
+      "url": "https://www.heise.de/news/l-f-Erst-hacken-dann-schuetzen-10179752.html",
+      "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
+    },
+    {
+      "title": "Sicherheitsupdates: Vielfältige Angriffe auf Synology NAS und BeeDrive möglich",
+      "teaser": "Synology hat unter anderem mehrere Schwachstellen im NAS-Betriebssystem DSM und der Backupsoftware BeeDrive geschlossen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Vielfaeltige-Angriffe-auf-Synology-NAS-und-BeeDrive-moeglich-10178420.html",
+      "image_title": "Testbild-Farben mit orangener Wolke mit \"Update\"-Aufschrift"
     },
     {
       "title": "Microsoft-Sicherheitsfunktion \"Administrator Protection\" jetzt ausprobierbar",
@@ -60,6 +72,11 @@
       "image_title": "Person streamt von Handy auf Fernseher"
     },
     {
+      "title": "PCs und Server: Warum x86 die Chip-Architektur der Wahl bleibt",
+      "teaser": "ARM-basierte Prozessoren wie Apple M oder Snapdragon von Qualcomm machen x86 zunehmend Konkurrenz. Dabei gibt es viele Gründe, weiter auf die bewährte x86-Rechenarchitektur zu setzen.",
+      "url": "https://www.heise.de/solutions/intel/prozessoren-fuer-pcs-und-server-warum-x86-die-chip-architektur-der-wahl-bleibt/?source=nat_teas"
+    },
+    {
       "title": "Interpol und Afripol: 1006 verhaftete Cyberkriminelle bei Operation Serengeti",
       "teaser": "Zu mehr als 1000 Verhaftungen kam es bei der Strafverfolgungsoperation Serengeti – eine gemeinsame Aktion von Afripol und Interpol.",
       "url": "https://www.heise.de/news/Interpol-und-Afripol-1006-verhaftete-Cyberkriminelle-bei-Operation-Serengeti-10178792.html",
@@ -70,11 +87,6 @@
       "teaser": "Eine Sicherheitslücke in Palo Alto Networks Globalprotect-VPN-App ermöglicht Angreifern, Rechner vollständig zu kompromittieren.",
       "url": "https://www.heise.de/news/Palo-Alto-Globalprotect-Schadcode-Luecke-durch-unzureichende-Zertifikatspruefung-10178649.html",
       "image_title": "Server in der MItte, Verbindungen zu darum herumstehenden Clients, Verschlüsselungssymbole"
-    },
-    {
-      "title": "PCs und Server: Warum x86 die Chip-Architektur der Wahl bleibt",
-      "teaser": "ARM-basierte Prozessoren wie Apple M oder Snapdragon von Qualcomm machen x86 zunehmend Konkurrenz. Dabei gibt es viele Gründe, weiter auf die bewährte x86-Rechenarchitektur zu setzen.",
-      "url": "https://www.heise.de/solutions/intel/prozessoren-fuer-pcs-und-server-warum-x86-die-chip-architektur-der-wahl-bleibt/?source=nat_teas"
     },
     {
       "title": "Root-Sicherheitslücken in VMware Aria Operations geschlossen",
@@ -156,18 +168,6 @@
       "title": "Dell Wyse Management Suite: Angreifer können Sicherheitsmechanismen umgehen",
       "teaser": "Dells Entwickler haben in der Clientverwaltungssoftware WMS mehrere Schwachstellen geschlossen.",
       "url": "https://www.heise.de/news/Dell-Wyse-Management-Suite-Angreifer-koennen-Sicherheitsmechanismen-umgehen-10176009.html"
-    },
-    {
-      "title": "Wordpress-Plug-in Anti-Spam by Cleantalk gefährdet 200.000 Seiten",
-      "teaser": "Im Wordpress-Plug-in Anti-Spam by Cleantalk klaffen gleich zwei Sicherheitslücken, durch die nicht authentifizierte Angreifern Instanzen kompromittieren können.",
-      "url": "https://www.heise.de/news/Wordpress-Plug-in-Anti-Spam-by-Cleantalk-gefaehrdet-200-000-Seiten-10175993.html",
-      "image_title": "Laptop zeigt Wordpress-Logo, Viren fliegen herum"
-    },
-    {
-      "title": "Mehrere Softwareschwachstellen gefährden Qnap NAS",
-      "teaser": "Angreifer können Netzwerkspeicher von Qnap unter anderem über Schwachstellen im Betriebssystem und Photo Station attackieren.",
-      "url": "https://www.heise.de/news/Mehrere-Softwareschwachstellen-gefaehrden-Qnap-NAS-10169349.html",
-      "image_title": "Patch-Button"
     },
     {
       "title": "Scuba-Webinar",
