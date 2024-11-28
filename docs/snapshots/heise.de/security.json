@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-28T10:08:39",
+  "timestamp": "2024-11-28T11:06:39",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.2b98e31c622a6d3688d1",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.bfc89ab96234c6b15b6f",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Zohocorp Manageengine Analytics Plus",
+      "url": "https://www.heise.de/news/Manageengine-Analytics-Plus-Sicherheitsluecke-erlaubt-Rechteausweitung-10179918.html"
+    },
     {
       "title": "Synology",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Vielfaeltige-Angriffe-auf-Synology-NAS-und-BeeDrive-moeglich-10178420.html"
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Microsoft-patcht-teils-kritische-Luecken-ausser-der-Reihe-10178400.html"
     },
     {
-      "title": "VMware Aria Operations",
-      "url": "https://www.heise.de/news/Root-Sicherheitsluecken-in-VMware-Aria-Operations-geschlossen-10178078.html"
+      "title": "Manageengine Analytics Plus: Sicherheitslücke erlaubt Rechteausweitung",
+      "teaser": "In Zohocorps Manageengine Analytics Plus können Angreifer eine Sicherheitslücke missbrauchen, um ihre Rechte auszuweiten.",
+      "url": "https://www.heise.de/news/Manageengine-Analytics-Plus-Sicherheitsluecke-erlaubt-Rechteausweitung-10179918.html",
+      "image_title": "IT-Verwalter steht vor Severn und Computern und überwacht die Performance"
     },
     {
       "title": "l+f: Erst hacken, dann schützen",
@@ -66,15 +72,15 @@
       "image_title": "Person vor Computer will Aktion ausführen, Sicherheitspersonal stoppt sie jedoch und überprüft sie erst"
     },
     {
+      "title": "PCs und Server: Warum x86 die Chip-Architektur der Wahl bleibt",
+      "teaser": "ARM-basierte Prozessoren wie Apple M oder Snapdragon von Qualcomm machen x86 zunehmend Konkurrenz. Dabei gibt es viele Gründe, weiter auf die bewährte x86-Rechenarchitektur zu setzen.",
+      "url": "https://www.heise.de/solutions/intel/prozessoren-fuer-pcs-und-server-warum-x86-die-chip-architektur-der-wahl-bleibt/?source=nat_teas"
+    },
+    {
       "title": "Italiens Polizei hebt illegale Streaming-Plattformen mit Millioneneinnahmen aus",
       "teaser": "Illegale Streams von Sky, Netflix und anderen Sendern haben über 250 Millionen Euro monatlich eingebracht. Jetzt wurde der europäische Piratenring ausgehoben.",
       "url": "https://www.heise.de/news/Italiens-Polizei-hebt-illegale-Streaming-Plattformen-mit-Millioneneinnahmen-aus-10179453.html",
       "image_title": "Person streamt von Handy auf Fernseher"
-    },
-    {
-      "title": "PCs und Server: Warum x86 die Chip-Architektur der Wahl bleibt",
-      "teaser": "ARM-basierte Prozessoren wie Apple M oder Snapdragon von Qualcomm machen x86 zunehmend Konkurrenz. Dabei gibt es viele Gründe, weiter auf die bewährte x86-Rechenarchitektur zu setzen.",
-      "url": "https://www.heise.de/solutions/intel/prozessoren-fuer-pcs-und-server-warum-x86-die-chip-architektur-der-wahl-bleibt/?source=nat_teas"
     },
     {
       "title": "Interpol und Afripol: 1006 verhaftete Cyberkriminelle bei Operation Serengeti",
@@ -163,11 +169,6 @@
       "teaser": "Seit Montag gibt es Störungen der Microsoft-365-Dienste, insbesondere für Outlook und Teams. Die sollen weitgehend behoben sein.",
       "url": "https://www.heise.de/news/Microsoft-Cloud-Probleme-stoeren-Outlook-und-Teams-10176043.html",
       "image_title": "Server in der MItte, Verbindungen zu darum herumstehenden Clients, Verschlüsselungssymbole"
-    },
-    {
-      "title": "Dell Wyse Management Suite: Angreifer können Sicherheitsmechanismen umgehen",
-      "teaser": "Dells Entwickler haben in der Clientverwaltungssoftware WMS mehrere Schwachstellen geschlossen.",
-      "url": "https://www.heise.de/news/Dell-Wyse-Management-Suite-Angreifer-koennen-Sicherheitsmechanismen-umgehen-10176009.html"
     },
     {
       "title": "Scuba-Webinar",
