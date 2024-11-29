@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-29T12:13:48",
+  "timestamp": "2024-11-29T13:18:27",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "ProFTPD",
+      "url": "https://www.heise.de/news/ProFTPD-Angreifer-koennen-Rechte-ausweiten-10182474.html"
+    },
+    {
       "title": "ProjectSend",
       "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Filesharingplattform-ProjectSend-beobachtet-10181736.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Developer-Werkzeug-Jenkins-stopft-mehere-Sicherheitslecks-10180515.html"
     },
     {
-      "title": "Zohocorp Manageengine Analytics Plus",
-      "url": "https://www.heise.de/news/Manageengine-Analytics-Plus-Sicherheitsluecke-erlaubt-Rechteausweitung-10179918.html"
+      "title": "ProFTPD: Angreifer können Rechte ausweiten",
+      "teaser": "In ProFTPD können Angreifer eine Sicherheitslücke missbrauchen, um ihre Rechte im System auszuweiten. Quellcode-Updates stehen bereit.",
+      "url": "https://www.heise.de/news/ProFTPD-Angreifer-koennen-Rechte-ausweiten-10182474.html",
+      "image_title": "Ein Krimineller versucht, Verschlüsselung/Login eines Rechners zu knacken"
     },
     {
       "title": "iX-Workshop: Sicherer Betrieb von Windows 11 in Unternehmen",
@@ -124,6 +130,12 @@
       "image_title": "Testbild-Farben mit orangener Wolke mit \"Update\"-Aufschrift"
     },
     {
+      "title": "Microsoft-Sicherheitsfunktion \"Administrator Protection\" jetzt ausprobierbar",
+      "teaser": "Microsoft will die Windows-Bedienung sicherer machen. \"Administrator Protection\" soll vor unbefugten Admin-Zugriffen schützen.",
+      "url": "https://www.heise.de/news/Microsoft-Sicherheitsfunktion-Administrator-Protection-jetzt-ausprobierbar-10179558.html",
+      "image_title": "Person vor Computer will Aktion ausführen, Sicherheitspersonal stoppt sie jedoch und überprüft sie erst"
+    },
+    {
       "title": "Italiens Polizei hebt illegale Streaming-Plattformen mit Millioneneinnahmen aus",
       "teaser": "Illegale Streams von Sky, Netflix und anderen Sendern haben über 250 Millionen Euro monatlich eingebracht. Jetzt wurde der europäische Piratenring ausgehoben.",
       "url": "https://www.heise.de/news/Italiens-Polizei-hebt-illegale-Streaming-Plattformen-mit-Millioneneinnahmen-aus-10179453.html",
@@ -151,18 +163,6 @@
       "title": "Root-Sicherheitslücken in VMware Aria Operations geschlossen",
       "teaser": "VMwares IT-Verwaltungsplattform Aria Operations ist verwundbar. Admins sollten die Sicherheitspatches in Bälde installieren.",
       "url": "https://www.heise.de/news/Root-Sicherheitsluecken-in-VMware-Aria-Operations-geschlossen-10178078.html"
-    },
-    {
-      "title": "brillen.de: Hintergründe zum Datenleck",
-      "teaser": "Mitte November wurde ein Datenleck bei brillen.de bekannt. Die Untersuchung des Vorfalls liefert erste Details zu den Ursachen.",
-      "url": "https://www.heise.de/news/Datenleck-bei-brillen-de-Details-zu-den-Ursachen-10178182.html",
-      "image_title": "Computer vor Serverschränken, auf dem Dataleak steht, drumherum lungern Datendiebe"
-    },
-    {
-      "title": "Nächste Woche: M365-Sicherheit im heise security Webinar",
-      "teaser": "Mit dem kostenlosen Tool ScubaGear können Firmen und Behörden ihre M365-Cloud-Dienste selbst prüfen und optimieren. Das Webinar gibt dazu den Schnelleinstieg.",
-      "url": "https://www.heise.de/news/Naechste-Woche-M365-Sicherheit-im-heise-security-Webinar-10173218.html",
-      "image_title": "Microsoft-Cloud-Webinar"
     },
     {
       "title": "Scuba-Webinar",
