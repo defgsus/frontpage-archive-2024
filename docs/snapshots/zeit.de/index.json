@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-12-01T14:00:47",
+  "timestamp": "2024-12-01T15:00:55",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
@@ -116,7 +122,7 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Friedenspolitik : Wie das Wort \"Frieden\" hemmungslos verkitscht wird",
+      "title": "Friedenspolitik : Wie das Wort \"Frieden\" hemmungslos verkitscht wird",
       "teaser": "Der Krieg in der Ukraine muss nur enden, schon herrscht Frieden – oder? So einfach ist es leider nicht. Trotzdem wird in Deutschland mit dieser Sehnsucht Politik gemacht.",
       "url": "https://www.zeit.de/2024/50/friedenspolitik-ukrainekrieg-bundestagswahlkampf-usa-donald-trump",
       "image_url": "https://img.zeit.de/2024/50/hemmungslos-verkitscht-bild-1/square__500x500",
@@ -144,11 +150,11 @@
       "image_title": "Israel: JERUSALEM - FEBRUARY 13: Former Israeli Defense Minister, Moshe Ya'alon makes a speech as he attends a demonstration held by Israeli people in front of the parliament building (Knesset) against judicial reform plans during a preliminary vote in Jerusalem on February 13, 2023. Mostafa Alkharouf / Anadolu Agency"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Lastenradfahrer : Die beste Anschaffung meines Lebens – doch ich schäme mich dafür",
-      "teaser": "Seit sich unser Autor ein Lastenrad angeschafft hat, nehmen seine Mitmenschen ihn als Bedrohung wahr – und sie haben ja recht. Es wäre Zeit, dass der Staat eingreift.",
-      "url": "https://www.zeit.de/2024/50/lastenradfahrer-fahrrad-grossstadt-kinder-strassenverkehr",
-      "image_url": "https://img.zeit.de/2024/50/lastenradfahrer-fahrrad-grossstadt-kinder-strassenverkehr-teaser/super__430x286",
-      "image_title": "Lastenradfahrer: Lastenräder werden in den Städten oft als rasende, tickende Zeitbomben wahrgenommen."
+      "title": "Z+ (abopflichtiger Inhalt); Interaktiver Rechner • Das Beste aus Z+ : Mieten oder Kaufen? Der endgültige Rechner",
+      "teaser": "Viele träumen vom eigenen Haus, von der eigenen Wohnung. Aber lohnt sich der Kauf wirklich? Unser interaktiver Rechner hilft bei der teuersten aller Lebensentscheidungen.",
+      "url": "https://www.zeit.de/geld/2024-02/wohnen-mieten-oder-kaufen-rechner-immobilien-hauskauf",
+      "image_url": "https://img.zeit.de/geld/2023-11/wohnen-mieten-oder-kaufen-rechner-immobilien/wide__892x501",
+      "image_title": "Interaktiver Rechner • Das Beste aus Z+: Mieten oder Kaufen? Der endgültige Rechner"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Mira Lu Kovacs : \"Dude, wie peinlich kann man sein?\"",
@@ -186,11 +192,25 @@
       "image_title": "Hausfrauen: \"Ich liebe es wirklich, meinen Mann zu verwöhnen\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Interaktiver Rechner • Das Beste aus Z+ : Mieten oder Kaufen? Der endgültige Rechner",
-      "teaser": "Viele träumen vom eigenen Haus, von der eigenen Wohnung. Aber lohnt sich der Kauf wirklich? Unser interaktiver Rechner hilft bei der teuersten aller Lebensentscheidungen.",
-      "url": "https://www.zeit.de/geld/2024-02/wohnen-mieten-oder-kaufen-rechner-immobilien-hauskauf",
-      "image_url": "https://img.zeit.de/geld/2023-11/wohnen-mieten-oder-kaufen-rechner-immobilien/super__430x286",
-      "image_title": "Interaktiver Rechner • Das Beste aus Z+: Mieten oder Kaufen? Der endgültige Rechner"
+      "title": "Z+ (abopflichtiger Inhalt); Lastenradfahrer : Die beste Anschaffung meines Lebens – doch ich schäme mich dafür",
+      "teaser": "Seit sich unser Autor ein Lastenrad angeschafft hat, nehmen seine Mitmenschen ihn als Bedrohung wahr – und sie haben ja recht. Es wäre Zeit, dass der Staat eingreift.",
+      "url": "https://www.zeit.de/2024/50/lastenradfahrer-fahrrad-grossstadt-kinder-strassenverkehr",
+      "image_url": "https://img.zeit.de/2024/50/lastenradfahrer-fahrrad-grossstadt-kinder-strassenverkehr-teaser/super__430x286",
+      "image_title": "Lastenradfahrer: Lastenräder werden in den Städten oft als rasende, tickende Zeitbomben wahrgenommen."
+    },
+    {
+      "title": "Bundestagswahl : Friedrich Merz wirft SPD im Wahlkampf Spiel mit Ängsten vor",
+      "teaser": "Die SPD hat Unionskanzlerkandidat Merz wegen seiner Haltung zum Krieg in der Ukraine kritisiert. Dieser kontert, die Angst vor Krieg werde von der SPD instrumentalisiert.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-12/bundestagswahl-friedrich-merz-spd-olaf-scholz-cdu-wahlkampf",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/friedrich-merz-cdu-spd-bundestagswahl/super__430x286",
+      "image_title": "Bundestagswahl: Der Unionskanzlerkandidat Friedrich Merz bei seiner Nominierung als CDU-Direktkandidat für den Bundestagswahlkreis Hochsauerlandkreis in Schmallenberg 30/11/2024"
+    },
+    {
+      "title": "SPD-Kanzlerkandidat : Olaf Scholz lehnt AfD-Verbotsverfahren ab",
+      "teaser": "Mehr als 100 Bundestagsabgeordnete unterschiedlicher Parteien setzen sich für ein AfD-Verbotsverfahren ein. Bundeskanzler Olaf Scholz ist zum jetzigen Zeitpunkt dagegen.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-12/afd-verbot-olaf-scholz",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/scholz-gegen-afd-verbotsverfahren-zum-jetzigen-zeitpunkt-bild-2/super__430x286",
+      "image_title": "SPD-Kanzlerkandidat: SPD-Kanzlerkandidat Pressekonferenz am 25. November"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Fehlernährung in Deutschland : Schweinehack sticht Fenchel aus",
@@ -214,18 +234,23 @@
       "image_title": "Schach: Das Streben des Bauern: nach vorn, nach vorn"
     },
     {
-      "title": "SPD-Kanzlerkandidat : Olaf Scholz lehnt AfD-Verbotsverfahren ab",
-      "teaser": "Mehr als 100 Bundestagsabgeordnete unterschiedlicher Parteien setzen sich für ein AfD-Verbotsverfahren ein. Bundeskanzler Olaf Scholz ist zum jetzigen Zeitpunkt dagegen.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-12/afd-verbot-olaf-scholz",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/scholz-gegen-afd-verbotsverfahren-zum-jetzigen-zeitpunkt-bild-2/super__430x286",
-      "image_title": "SPD-Kanzlerkandidat: SPD-Kanzlerkandidat Pressekonferenz am 25. November"
-    },
-    {
       "title": "Volkswagen : IG Metall ruft für Montag zu Streiks in allen VW-Werken auf",
       "teaser": "Die IG Metall fordert Lohnerhöhungen, VW will seinen Arbeitern weniger bezahlen. Zu Wochenbeginn sollen nun alle Werke in Deutschland bestreikt werden.",
       "url": "https://www.zeit.de/arbeit/2024-12/ig-metall-warnstreiks-vw",
       "image_url": "https://img.zeit.de/wirtschaft/2024-12/ig-metall-warnstreiks-vw-bild/super__430x286",
       "image_title": "Volkswagen: Beschäftigte von Volkswagen nehmen an einem Demonstrationszug vom VW-Werk zum Gewerkschaftshaus im Stadtzentrum teil. Die Warnstreiks in der Metall- und Elektroindustrie dauern an. Die IG Metall will den Druck im aktuellen Tarifkonflikt erhöhen. Service +++ dpa-Bildfunk +++ Aufnahmedatum 06.11.2024 Bildnachweis picture alliance/dpa | Hauke-Christian Dittrich"
+    },
+    {
+      "title": "Ukraine : EU-Ratspräsident sagt Ukraine \"unerschütterliche Unterstützung\" zu",
+      "teaser": "Die neue EU-Spitze besucht die Ukraine und beteuert ihre Unterstützung. Präsident Selenskyj lobte die Entscheidung, sofort nach Kyjiw zu kommen.",
+      "url": "https://www.zeit.de/politik/ausland/2024-12/ukraine-eu-antonio-costa-kaja-kallas"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Brooklyn Skate Moms : \"Wenn du nicht fällst, strengst du dich nicht genug an\"",
+      "teaser": "Jeder Sturz wird bejubelt, genauso wie jeder gelungene Trick: Für die Brooklyn Skate Moms ist Skaten viel mehr als ein Hobby. Weil sie dabei sie selbst sein können.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2024-11/brooklyn-skate-moms-frauen-gemeinschaft-new-york-freizeit",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-11/skating-brooklyn-skate-moms-frauen-sport-nagisla-05/wide__892x501",
+      "image_title": "Brooklyn Skate Moms: \"Wenn du nicht fällst, strengst du dich nicht genug an\""
     },
     {
       "title": "SPD im Wahlkampf : Der Horizont ist leer",
@@ -331,13 +356,6 @@
       "url": "https://www.zeit.de/zeit-magazin/2024/50/landleben-prominente-stadt-wohnort-david-beckham",
       "image_url": "https://img.zeit.de/zeit-magazin/2024/50/liebe-leute-bild-1/super__430x286",
       "image_title": "Landleben: Auf dem Feld einfach unschlagbar: David Beckham mag das Landleben"
-    },
-    {
-      "title": "Liebesgeschichten an Weihnachten : Hey, auch über Weihnachten zu Hause?",
-      "teaser": "Der Ex, der wieder auftaucht, die Jugendliebe in der Dorfkneipe oder die Affäre, die man nur einmal im Jahr trifft: Wir suchen Ihre Weihnachtsliebesgeschichte.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2024-11/liebesgeschichten-weihnachten-jugend-affaere-ex",
-      "image_url": "https://img.zeit.de/zeit-magazin/leben/2024-11/liebesgeschichten-weihnachten-jugend-affaere-ex-bild/super__430x286",
-      "image_title": "Liebesgeschichten an Weihnachten: Hey, auch über Weihnachten zu Hause?"
     },
     {
       "title": "Sprachnachricht : \"Der nächste Kanzler sollte Friedrich Merz heißen\"",
@@ -466,6 +484,13 @@
       "image_title": "Schach-WM: Live: Die sechste Partie der Schach-WM"
     },
     {
+      "title": "Liebesgeschichten an Weihnachten : Hey, auch über Weihnachten zu Hause?",
+      "teaser": "Der Ex, der wieder auftaucht, die Jugendliebe in der Dorfkneipe oder die Affäre, die man nur einmal im Jahr trifft: Wir suchen Ihre Weihnachtsliebesgeschichte.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2024-11/liebesgeschichten-weihnachten-jugend-affaere-ex",
+      "image_url": "https://img.zeit.de/zeit-magazin/leben/2024-11/liebesgeschichten-weihnachten-jugend-affaere-ex-bild/super__430x286",
+      "image_title": "Liebesgeschichten an Weihnachten: Hey, auch über Weihnachten zu Hause?"
+    },
+    {
       "title": "Diese Woche in der ZEIT : Die 100 besten Bücher des Jahres",
       "teaser": "Lesen und Leben: Was immer Ihnen gerade fehlt, ein Buch kann das Wundermittel sein.",
       "url": "https://premium.zeit.de/abo/diezeit?aktionsnummer=1130785&wt_zmc=fix.int.zonpme.zeitde.epaper.z+.home.bildtext.bildtext&utm_medium=fix&utm_source=zeitde_zonpme_int&utm_campaign=epaper&utm_content=z+_home_bildtext_bildtext?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.link.link&utm_medium=cross&utm_source=zeitde_zonpme_int&utm_campaign=printbox&utm_content=ausgseite_bildtext_link_link",
@@ -485,9 +510,9 @@
       "url": "https://www.zeit.de/wissen/2024-11/bakterien-oeffentlicher-raum-hygiene-u-bahn-handy"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); High-Need-Babys : Wenn das Baby einfach nicht zur Ruhe kommt",
-      "teaser": "Anhand von zwölf Kriterien sollen Eltern erkennen, ob sie ein High-Need-Baby haben. Expertinnen sprechen eher von Regulationsstörungen – und wissen Rat für Eltern.",
-      "url": "https://www.zeit.de/familie/2024-12/high-need-babys-eltern-beduerfnisse-kinder-hilfe"
+      "title": "Z+ (abopflichtiger Inhalt); Plazenta in der Schwangerschaft : \"Frauen wollen wissen, was in der Schwangerschaft schiefgegangen ist\"",
+      "teaser": "Stress und Belastung in der Schwangerschaft können die Gesundheit von Mutter und Kind beeinflussen. Welche Rolle die Plazenta und das Geschlecht des Babys dabei spielen.",
+      "url": "https://www.zeit.de/gesundheit/2024-11/plazenta-schwangerschaft-stress-mutter-kind"
     },
     {
       "title": "Gesundheitspolitik : Bundesärztekammer fordert Rücknahme von Cannabisteillegalisierung",
@@ -519,23 +544,23 @@
       "url": "https://www.zeit.de/politik/deutschland/2024-11/spd-olaf-scholz-wahlsieg-konferenz-wahlkampf"
     },
     {
-      "title": "USA : Trump nominiert Hardliner Kashyap Patel als FBI-Chef",
-      "teaser": "Patel hat angekündigt, gegen Journalisten vorzugehen, die in der Vergangenheit \"gelogen\" hätten. Trumps früherer Justizminister hält den Juristen für unqualifiziert.",
-      "url": "https://www.zeit.de/politik/ausland/2024-12/usa-kash-patel-donald-trump-fbi-chef-nominierung"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Brooklyn Skate Moms : \"Wenn du nicht fällst, strengst du dich nicht genug an\"",
-      "teaser": "Jeder Sturz wird bejubelt, genauso wie jeder gelungene Trick: Für die Brooklyn Skate Moms ist Skaten viel mehr als ein Hobby. Weil sie dabei sie selbst sein können.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2024-11/brooklyn-skate-moms-frauen-gemeinschaft-new-york-freizeit",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-11/skating-brooklyn-skate-moms-frauen-sport-nagisla-05/wide__892x501",
-      "image_title": "Brooklyn Skate Moms: \"Wenn du nicht fällst, strengst du dich nicht genug an\""
+      "title": "FDP : Marco Buschmann wird neuer FDP-Generalsekretär",
+      "teaser": "Nach dem Rücktritt von Bijan Djir-Sarai soll Ex-Bundesjustizminister Marco Buschmann Generalsekretär der FDP werden. Er gilt als enger Vertrauter von Parteichef Lindner.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-12/marco-buschmann-soll-neuer-fdp-generalsekretaer-werden"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Luchse in Deutschland : Die Raubkatze ist aus der Kiste",
       "teaser": "Die wilde Wiedervereinigung: Erstmals seit 200 Jahren leben Luchse wieder in Ostdeutschland. Neun Raubkatzen wurden dieses Jahr ausgewildert. Unsere Reporterin war dabei.",
       "url": "https://www.zeit.de/wissen/umwelt/2024-11/luchse-deutschland-auswilderung-raubkatze-thueringen-erzgebirge",
-      "image_url": "https://img.zeit.de/wissen/2024-11/luchse-auswilderung-sachsen-anton/super__430x286",
+      "image_url": "https://img.zeit.de/wissen/2024-11/luchse-auswilderung-sachsen-anton/wide__892x501",
       "image_title": "Luchse in Deutschland: Luchsmännchen Anton springt aus der Kiste. Das Zootier wurde im Thüringer Wald ausgewildert."
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Plan D: Autismus bei Erwachsenen • Das Wichtigste aus Z+ : Hochfunktional, aber irgendwas stimmt nicht",
+      "teaser": "Viele Erwachsene mit Autismus bleiben unentdeckt, weil sie sich so gut anpassen. Jahrelang maskieren sie sich unbewusst. Bis sie oft mit einer anderen Diagnose auffallen.",
+      "url": "https://www.zeit.de/gesundheit/2024-08/autismus-erwachsene-diagnose-mentale-gesundheit",
+      "image_url": "https://img.zeit.de/gesundheit/2024-07/autismus-erwachsene-diagnose-psychische-krankheit-bild/super__430x286",
+      "image_title": "Plan D: Autismus bei Erwachsenen • Das Wichtigste aus Z+: Hochfunktional, aber irgendwas stimmt nicht"
     },
     {
       "title": "Verlagsangebot : 8 Weihnachtsmärkte, die Sie (wahrscheinlich) noch nicht kennen",
@@ -601,18 +626,18 @@
       "image_title": "Geldanlage: Fünf teure Anlagefehler und wie Sie sie vermeiden"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Interaktiver Rechner • Das Beste aus Z+ : Mieten oder Kaufen? Der endgültige Rechner",
+      "teaser": "Viele träumen vom eigenen Haus, von der eigenen Wohnung. Aber lohnt sich der Kauf wirklich? Unser interaktiver Rechner hilft bei der teuersten aller Lebensentscheidungen.",
+      "url": "https://www.zeit.de/geld/2024-02/wohnen-mieten-oder-kaufen-rechner-immobilien-hauskauf",
+      "image_url": "https://img.zeit.de/geld/2023-11/wohnen-mieten-oder-kaufen-rechner-immobilien/super__430x286",
+      "image_title": "Interaktiver Rechner • Das Beste aus Z+: Mieten oder Kaufen? Der endgültige Rechner"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Günstigere Tarife : So holen Sie bei Verträgen bessere Konditionen heraus",
       "teaser": "Von selbst bieten nur wenige Anbieter ihren Kunden günstigere Preise für Strom, Gas oder Mobilfunk an. Mit diesen Strategien können Sie selbst tätig werden und sparen.",
       "url": "https://www.zeit.de/geld/2024-11/guenstigere-tarife-strom-gas-mobilfunk-vertrag-preise",
       "image_url": "https://img.zeit.de/geld/2024-11/guenstigere-tarife-strom-gas-mobilfunk-vertrag/super__430x286",
       "image_title": "Günstigere Tarife: So holen Sie bei Verträgen bessere Konditionen heraus"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Black Friday : Wann ist ein Schnäppchen wirklich eins?",
-      "teaser": "Am Black Friday sind viele Produkte günstiger. Doch deshalb machen wir nicht unbedingt ein Schnäppchen. So erkennen Sie, was ein guter Preis ist – und was nur Marketing.",
-      "url": "https://www.zeit.de/geld/2024-11/black-friday-rabatte-tipps-preise-experten",
-      "image_url": "https://img.zeit.de/geld/2024-11/black-friday-rabatte-tipps-preise-experten-bild/super__430x286",
-      "image_title": "Black Friday: Wann ist ein Schnäppchen wirklich eins?"
     },
     {
       "title": "Tarifkonflikt : IG Metall kündigt Warnstreiks in allen Volkswagen-Werken an",
@@ -699,18 +724,18 @@
       "image_title": "Podcast \"Alles gesagt?\": Stefanie Stahl, was will das Kind in uns?"
     },
     {
-      "title": "Unternehmenskrisen : Die meisten Transformationen scheitern – daran liegt es",
-      "teaser": "Viele Unternehmen planen derzeit große Veränderungen. Die Forschung zeigt: Nur wenige werden den gewünschten Erfolg erzielen. Auf vier Faktoren kommt es an.",
-      "url": "https://www.wiwo.de/erfolg/trends/unternehmenskrisen-die-meisten-transformationen-scheitern-daran-liegt-es/30108624.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/bayer-kreuz-in-leverkusen/30111442/3-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
-      "image_title": "Die meisten Transformationen scheitern – daran liegt es"
+      "title": "Wärmepumpe ja oder nein? : Der Streit ums Heizungsgesetz verunsichert Branche und Verbraucher",
+      "teaser": "Das Gebäudeenergiegesetz wird zum Spielball im Wahlkampf – mehrere Parteien wollen es reformieren oder gleich kassieren. Sollten Verbraucher noch schnell umrüsten?",
+      "url": "https://www.wiwo.de/politik/deutschland/waermepumpe-ja-oder-nein-der-streit-ums-heizungsgesetz-verunsichert-branche-und-verbraucher/30112126.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/imago0258031840h/30112276/2-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
+      "image_title": "Der Streit ums Heizungsgesetz verunsichert Branche und Verbraucher"
     },
     {
-      "title": "FDP in der Krise : Das Ende einer Feldschlacht",
-      "teaser": "Generalsekretär Bijan Djir-Sarai zieht die Konsequenzen aus den „D-Day“-Recherchen. Kann sich die FDP von diesem Desaster noch erholen? Eine Analyse.",
-      "url": "https://www.wiwo.de/politik/deutschland/fdp-in-der-krise-das-ende-einer-feldschlacht/30110688.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/berlin-deutschland-28-04-2024-station-berlin-75-ordentlicher-bundesparteitag-der-fdp-generalsekretaer-bijan-djir-sa/30110768/3-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
-      "image_title": "Das Ende einer Feldschlacht"
+      "title": "Wohnen in Köln : „Letztlich hat Köln keinen funktionierenden Immobilien-Markt“",
+      "teaser": "In keiner anderen deutschen Großstadt geht die Schere zwischen den Bezirken so weit auseinander wie in Köln. Entspannung des Immobilienmarkts? Fehlanzeige.",
+      "url": "https://www.wiwo.de/finanzen/immobilien/wohnen-in-koeln-letztlich-hat-koeln-keinen-funktionierenden-immobilien-markt/30085404.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/luftbild-von-dem-automobilwerk-ford-werke-gmbh-am-rhein-in-koeln-im-rheinland-im-bundesland-nordrhein/30085422/3-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
+      "image_title": "„Letztlich hat Köln keinen funktionierenden Immobilien-Markt“"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); E-Auto-Batterieproduktion : \"Der europäische Traum ist vorbei\"",
@@ -837,17 +862,10 @@
       "image_url": "https://img.zeit.de/administratives/2015-10/zeit-shop-bilder/kug-neu.jpg/super__320x213"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Plan D: Autismus bei Erwachsenen • Das Wichtigste aus Z+ : Hochfunktional, aber irgendwas stimmt nicht",
-      "teaser": "Viele Erwachsene mit Autismus bleiben unentdeckt, weil sie sich so gut anpassen. Jahrelang maskieren sie sich unbewusst. Bis sie oft mit einer anderen Diagnose auffallen.",
-      "url": "https://www.zeit.de/gesundheit/2024-08/autismus-erwachsene-diagnose-mentale-gesundheit",
-      "image_url": "https://img.zeit.de/gesundheit/2024-07/autismus-erwachsene-diagnose-psychische-krankheit-bild/wide__892x501",
-      "image_title": "Plan D: Autismus bei Erwachsenen • Das Wichtigste aus Z+: Hochfunktional, aber irgendwas stimmt nicht"
-    },
-    {
       "title": "Gesundheitspolitik : Bundesärztekammer fordert Rücknahme von Cannabisteillegalisierung",
       "teaser": "Das Cannabisgesetz verfehle seine Ziele \"eklatant\", die nächste Regierung müsse es abschaffen, fordert die Ärztevereinigung. Sie will stattdessen eine Zuckersteuer.",
       "url": "https://www.zeit.de/gesundheit/2024-12/gesundheitspolitik-cannabis-legalisierung-zuckersteuer-bundesaerztekammer",
-      "image_url": "https://img.zeit.de/gesundheit/2024-12/gesundheitspolitik-cannabis-legalisierung-zuckersteuer-bundesaerztekammer-bild/super__430x286",
+      "image_url": "https://img.zeit.de/gesundheit/2024-12/gesundheitspolitik-cannabis-legalisierung-zuckersteuer-bundesaerztekammer-bild/wide__892x501",
       "image_title": "Gesundheitspolitik: Eine Mitarbeiterin des Cannabis-Unternehmens Cantourage hält in der Produktion des Unternehmens getrimmte Cannabis-Blüten in den Händen."
     },
     {
@@ -856,6 +874,13 @@
       "url": "https://www.zeit.de/gesundheit/2024-11/plazenta-schwangerschaft-stress-mutter-kind",
       "image_url": "https://img.zeit.de/gesundheit/2024-11/plazenta-schwangerschaft-stress-mutter-kind-bild/super__430x286",
       "image_title": "Plazenta in der Schwangerschaft: pregnant woman belly under the shower glass"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Kinder- und Jugendpsychiatrie : \"Wir sind am Feuerlöschen\"",
+      "teaser": "Auch in Österreich stecken immer mehr Kinder und Jugendliche in einer Krise. Sie bräuchten Therapie, doch bekämen keine Hilfe, klagt die Psychiaterin Judith Noske.",
+      "url": "https://www.zeit.de/2024/50/kinder-und-jugendpsychatrie-klinik-auslastung-personal",
+      "image_url": "https://img.zeit.de/2024/50/kinder-und-jugendpsychatrie-klinik-auslastung-personal-teaser/super__430x286",
+      "image_title": "Kinder- und Jugendpsychiatrie: \"Wir sind am Feuerlöschen\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Künstliche Intelligenz : Weiß alles, halluziniert bloß manchmal",
@@ -1019,11 +1044,11 @@
       "image_title": "Studienfinanzierung: braucht es eine?"
     },
     {
-      "title": "Verlagsangebot : Was kann man wo studieren?",
-      "teaser": "Deutschlands größte Suchmaschine für Studiengänge und Hochschulen bietet Orientierung und hilft bei der Studienwahl.",
-      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.automation.bleistift-biss.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=verlagsteaser&amp;utm_content=suma_automation_bleistift-biss_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/suma-teaser-januar2019/wide__430x286__desktop",
-      "image_title": "Was kann man wo studieren?"
+      "title": "Verlagsangebot : Durchblick im Studiendschungel",
+      "teaser": "Bei 20.000 möglichen Studiengängen in Deutschland verliert man schnell den Überblick. Unterstützung bietet die Suchmaschine für Studiengänge und Hochschulen.",
+      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.whiteboard_studiendschungel.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_whiteboard_studiendschungel_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-3-klein/man-wearing-black-and-white-stripe-shirt-looking-at-white-197.jpg",
+      "image_title": "Durchblick im Studiendschungel"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Fitnessübungen : Die fünf besten Übungen für Bürositzer",
@@ -1054,36 +1079,36 @@
       "image_title": "Nora Fingscheidt: Der neue Film der 41-Jährigen Nora Fingscheidt \"The Outrun\" kommt am 5. Dezember in die deutschen Kinos."
     },
     {
-      "title": "Unfälle: Zwei Schwerverletzte nach Unfall in München",
-      "url": "https://www.zeit.de/news/2024-12/01/zwei-schwerverletzte-nach-unfall-in-muenchen"
+      "title": "Ski alpin: Heftige Stichwunde bei Alpin-Star Shiffrin - Rückkehr offen",
+      "url": "https://www.zeit.de/news/2024-12/01/heftige-stichwunde-bei-alpin-star-shiffrin-rueckkehr-offen"
     },
     {
-      "title": "Bildung: Landeselternrat mit neuer Führung",
-      "url": "https://www.zeit.de/news/2024-12/01/landeselternrat-mit-neuer-fuehrung"
+      "title": "3. Fußball-Liga: Osnabrück bleibt nach 1:1 gegen Aachen Tabellenletzter",
+      "url": "https://www.zeit.de/news/2024-12/01/osnabrueck-bleibt-nach-1-1-gegen-aachen-tabellenletzter"
     },
     {
-      "title": "EU-Spitzenvertreter in Kiew: Ukraine kann auf Fortschritte im EU-Beitrittsprozess hoffen",
-      "url": "https://www.zeit.de/news/2024-12/01/neue-eu-spitzenvertreter-zu-gespraechen-in-kiew-eingetroffen"
+      "title": "Basketball-Bundesliga: Ohne Licht in der Arena: Weihnachtslieder statt Alba-Spiel",
+      "url": "https://www.zeit.de/news/2024-12/01/ohne-licht-in-der-arena-weihnachtslieder-statt-alba-spiel"
     },
     {
-      "title": "Regierungswechsel naht: Sozialdemokraten gewinnen Parlamentswahl auf Island",
-      "url": "https://www.zeit.de/news/2024-12/01/sozialdemokraten-gewinnen-parlamentswahl-auf-island"
+      "title": "Regionalliga Nordost: 79 Verletzte nach Ost-Duell von Jena gegen Chemie Leipzig",
+      "url": "https://www.zeit.de/news/2024-12/01/79-verletzte-nach-ost-duell-von-jena-gegen-chemie-leipzig"
     },
     {
-      "title": "Benefizkonzert: Gewandhausorchester Leipzig erspielt 35.000 Euro für Kinder",
-      "url": "https://www.zeit.de/news/2024-12/01/gewandhausorchester-leipzig-erspielt-35-000-euro-fuer-kinder"
+      "title": "Fußball-Bundesliga: Mainz verlängert Vertrag mit Stammkeeper Zentner bis 2028",
+      "url": "https://www.zeit.de/news/2024-12/01/mainz-verlaengert-vertrag-mit-stammkeeper-zentner-bis-2028"
     },
     {
-      "title": "Unfall: Zwei Schwerverletzte bei Unfall auf A9 bei Leipzig",
-      "url": "https://www.zeit.de/news/2024-12/01/zwei-schwerverletzte-bei-unfall-auf-a9-bei-leipzig"
+      "title": "2. Fußball-Bundesliga: Fortuna-Keeper Kastenmeier pariert zwei Strafstöße",
+      "url": "https://www.zeit.de/news/2024-12/01/fortuna-keeper-kastenmeier-pariert-zwei-strafstoesse"
     },
     {
-      "title": "Tigerotter unter dem Lenkrad: Australien: Frau entdeckt bei der Fahrt Giftschlange im Auto",
-      "url": "https://www.zeit.de/news/2024-12/01/australien-frau-entdeckt-bei-der-fahrt-giftschlange-im-auto"
+      "title": "2. Fußball-Bundesliga: Nürnberg weiter in der Ergebnisdelle: 2:2 gegen Düsseldorf",
+      "url": "https://www.zeit.de/news/2024-12/01/nuernberg-weiter-in-der-ergebnisdelle-2-2-gegen-duesseldorf"
     },
     {
-      "title": "Wintersport: Geiger siegt zum Abschluss: Kombinierer starten furios",
-      "url": "https://www.zeit.de/news/2024-12/01/geiger-siegt-zum-abschluss-kombinierer-starten-furios"
+      "title": "2. Fußball-Bundesliga: Zwei umstrittene Elfmeter: Siewerts erster Punkt mit Fürth",
+      "url": "https://www.zeit.de/news/2024-12/01/zwei-umstrittene-elfmeter-siewerts-erster-punkt-mit-fuerth"
     }
   ]
 }
