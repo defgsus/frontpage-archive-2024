@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-12-02T13:19:45",
+  "timestamp": "2024-12-02T14:00:50",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "IBM Security Verify Access Appliance",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-IBM-Security-Verify-Access-Appliance-mit-statischem-Passwort-10185122.html"
+    },
+    {
       "title": "ProFTPD",
       "url": "https://www.heise.de/news/ProFTPD-Angreifer-koennen-Rechte-ausweiten-10182474.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Hochriskante-Sicherheitsluecke-in-PostgreSQL-Gitlab-patcht-noch-nicht-10181730.html"
     },
     {
-      "title": "Jenkins",
-      "url": "https://www.heise.de/news/Developer-Werkzeug-Jenkins-stopft-mehere-Sicherheitslecks-10180515.html"
+      "title": "Sicherheitsupdate: IBM Security Verify Access Appliance mit statischem Passwort",
+      "teaser": "Angreifer können IBMs Zugriffsmanagementlösung Security Verify Access Appliance unter anderem mit Schadcode attackieren. Ein Sicherheitsupdate steht bereit.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-IBM-Security-Verify-Access-Appliance-mit-statischem-Passwort-10185122.html",
+      "image_title": "Zettel auf einem Holztisch auf dem \"Update\" steht"
     },
     {
       "title": "iX-Workshop: Sich selbst hacken – Pentesting mit Open-Source-Werkzeugen",
@@ -64,6 +70,11 @@
       "teaser": "Lernen Sie an praktischen Beispielen, wie Sie Windows 11 Pro und Enterprise in Ihrem Unternehmen sicher und effektiv einsetzen.",
       "url": "https://www.heise.de/news/iX-Workshop-Sicherer-Betrieb-von-Windows-11-in-Unternehmen-10090015.html",
       "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
+    },
+    {
+      "title": "PCs und Server: Warum x86 die Chip-Architektur der Wahl bleibt",
+      "teaser": "ARM-basierte Prozessoren wie Apple M oder Snapdragon von Qualcomm machen x86 zunehmend Konkurrenz. Dabei gibt es viele Gründe, weiter auf die bewährte x86-Rechenarchitektur zu setzen.",
+      "url": "https://www.heise.de/solutions/intel/prozessoren-fuer-pcs-und-server-warum-x86-die-chip-architektur-der-wahl-bleibt/?source=nat_teas"
     },
     {
       "title": "Anonymisierendes Linux: Tails 6.10 korrigiert Desktop-Startfehler",
@@ -158,12 +169,6 @@
       "teaser": "Zu mehr als 1000 Verhaftungen kam es bei der Strafverfolgungsoperation Serengeti – eine gemeinsame Aktion von Afripol und Interpol.",
       "url": "https://www.heise.de/news/Interpol-und-Afripol-1006-verhaftete-Cyberkriminelle-bei-Operation-Serengeti-10178792.html",
       "image_title": "Übersicht der Zahlen zu Operation Serengeti"
-    },
-    {
-      "title": "Palo Alto Globalprotect: Schadcode-Lücke durch unzureichende Zertifikatsprüfung",
-      "teaser": "Eine Sicherheitslücke in Palo Alto Networks Globalprotect-VPN-App ermöglicht Angreifern, Rechner vollständig zu kompromittieren.",
-      "url": "https://www.heise.de/news/Palo-Alto-Globalprotect-Schadcode-Luecke-durch-unzureichende-Zertifikatspruefung-10178649.html",
-      "image_title": "Server in der MItte, Verbindungen zu darum herumstehenden Clients, Verschlüsselungssymbole"
     },
     {
       "title": "Scuba-Webinar",
