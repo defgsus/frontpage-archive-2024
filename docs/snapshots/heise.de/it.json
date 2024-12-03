@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-12-03T13:19:16",
+  "timestamp": "2024-12-03T14:07:34",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,15 +26,31 @@
   ],
   "articles": [
     {
+      "title": "Was IT-Freelancer bei der Rentenversicherung beachten müssen",
+      "teaser": "Der Gesetzgeber lässt bei der Frage der Rentenversicherungspflicht einiges offen, was die Deutsche Rentenversicherung mit eigenen Interpretationen füllt.",
+      "url": "https://www.heise.de/hintergrund/Was-IT-Freelancer-bei-der-Rentenversicherung-beachten-muessen-10185116.html"
+    },
+    {
       "title": "Editor Neovim mit Plug-ins zur Python-IDE aufrüsten",
       "teaser": "Vim lebt, vor allem in der modernen Version Neovim. Vorkonfigurierte Plug-in-Distributionen machen aus dem Editor eine vollwertige Python-Entwicklungsumgebung.",
       "url": "https://www.heise.de/hintergrund/Editor-Neovim-mit-Plug-ins-zur-Python-IDE-aufruesten-10178450.html"
     },
     {
-      "title": "Berauschendes Entrauschen: Wie gut ist DxO PhotoLab 8?",
-      "teaser": "In DxO PhotoLab 8 entwickelt man RAW-Fotos, reduziert Bildrauschen und nimmt lokale Korrekturen vor. Wir haben die Mac-Version getestet.",
-      "url": "https://www.heise.de/tests/Berauschendes-Entrauschen-Wie-gut-ist-DxO-PhotoLab-8-10179331.html",
-      "image_title": "DxO PhotolLab 8"
+      "title": "18 Notizprogramme im Überblick",
+      "teaser": "In diesem Überblick stellen wir die wichtigsten Notizprogramme vor und geben Auswahlkriterien, damit Sie das beste Werkzeug für Ihren Zweck finden.",
+      "url": "https://www.heise.de/tests/18-Notizprogramme-im-Ueberblick-10182066.html",
+      "image_title": ", KI, Bearbeitung c’t"
+    },
+    {
+      "title": "FlowiseAI: Ein Low-Code-Werkzeug zum Verknüpfen von LLMs in der Praxis",
+      "teaser": "FlowiseAI ermöglicht es, ChatGPT und andere Sprachmodelle wie Chatbots und KI-Agenten zum selbstständigen Erledigen von Aufgaben zu verknüpfen.",
+      "url": "https://www.heise.de/ratgeber/FlowiseAI-Ein-Low-Code-Werkzeug-zum-Verknuepfen-von-LLMs-in-der-Praxis-10180067.html"
+    },
+    {
+      "title": "LKA warnt vor automatischen Anrufen etwa zur WhatsApp-Kontaktaufnahme",
+      "teaser": "Derzeit klingelt bei vielen das Telefon, eine automatische Ansage bittet etwa zur WhatsApp-Kontaktaufnahme. Das LKA Niedersachsen warnt.",
+      "url": "https://www.heise.de/news/LKA-warnt-vor-automatischen-Anrufen-etwa-zur-WhatsApp-Kontaktaufnahme-10186388.html",
+      "image_title": "Opfer vor Computer mit Smartphone und WhatsApp steht in Kontakt mit einem Kriminellen"
     },
     {
       "title": "FreeBSD 14.2: Installer lädt endlich Firmware, OCI-Images für die Cloud",
@@ -43,7 +59,7 @@
       "image_title": "FReeBSD eingebettet in viele Nullen und Einsen"
     },
     {
-      "title": "Bootkitty: Prototyp eines Linux-UEFI-Rootkits ist koreanisches Uni-Projekt",
+      "title": "UEFI-Bootkit \"Bootkitty\" für Linux ist offenbar Uni-Projekt aus Südkorea",
       "teaser": "Mehrere Sicherheitsforscher haben den Prototyp untersucht und Spannendes herausgefunden. Bootkitty nutzt auch die LogoFail-Lücke zur Einnistung im System.",
       "url": "https://www.heise.de/news/Bootkitty-Prototyp-eines-Linux-UEFI-Rootkits-ist-koreanisches-Uni-Projekt-10182420.html",
       "image_title": "Robotische Katze vor einem offenen Rechner, der bootet und um den Viren schwirren"
@@ -106,23 +122,6 @@
       "teaser": "Mit dem Paris-Update erhält Nextcloud Talk einen Desktop-Client. Generative KI soll digitale Meetings effizienter gestalten.",
       "url": "https://www.heise.de/news/Paris-Update-Nextcloud-Talk-jetzt-mit-Desktop-Client-und-KI-10184575.html",
       "image_title": "Desktop-Client von Nextcloud Talk unter macOS"
-    },
-    {
-      "title": "Live-Webinar: Entdecken Sie die Produktivitäts-Booster in macOS",
-      "teaser": "Entdecken Sie in unserem Live-Webinar, wie Sie das volle Potenzial Ihres Mac ausschöpfen und Ihre Produktivität steigern.",
-      "url": "https://www.heise.de/news/Live-Webinar-Entdecken-Sie-die-Produktivitaets-Booster-in-macOS-10175479.html"
-    },
-    {
-      "title": "GraphRAG: Kombination aus Graphen und Text für LLMs",
-      "teaser": "Retrieval Augmented Augmentation hilft dabei, die Ausgaben von LLMs zu optimieren. GraphRAG bringt zusätzlich eine visuelle Komponente ins Spiel.",
-      "url": "https://www.heise.de/hintergrund/GraphRAG-Kombination-aus-Graphen-und-Text-fuer-LLMs-10185768.html",
-      "image_title": "ein Graph mit Fragezeichen"
-    },
-    {
-      "title": "Forscher: Einfluss von KI-Fakes auf Wähler löst Sorge aus",
-      "teaser": "Wie stark beeinflusst KI den Wahlkampf? Die Sorge vor einer Meinungsmanipulation durch Fakes und Chatbots ist groß. Ein Forscher sagt, warum KI Grenzen braucht.",
-      "url": "https://www.heise.de/news/Forscher-Einfluss-von-KI-Fakes-auf-Waehler-loest-Sorge-aus-10185820.html",
-      "image_title": "Stimmzettel wird in Urne gesteckt"
     },
     {
       "title": "Die neusten Ergebnisse für dieses Jahr",
