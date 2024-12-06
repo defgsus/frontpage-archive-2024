@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-12-06T18:10:17",
+  "timestamp": "2024-12-06T19:00:50",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
@@ -110,32 +116,11 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Geld und Macht : Wie man sich eine Demokratie kauft",
-      "teaser": "Wer in der Politik etwas werden will, braucht sehr viel Geld. Das war in den USA schon immer so. Neu ist, wie schamlos die Reichsten nach der Macht greifen – und warum.",
-      "url": "https://www.zeit.de/kultur/2024-12/geld-macht-usa-oligarchie-reichtum-einfluss-demokratie",
-      "image_url": "https://img.zeit.de/politik/2024-12/mark-zuckerberg-donald-trump-oligarchen-bild/square__500x500",
-      "image_title": "Geld und Macht: Wie man sich eine Demokratie kauft"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); René Benko : \"Capo Benko\"",
-      "teaser": "Italien hat Haftbefehl gegen Signa-Gründer René Benko erlassen. Der ZEIT liegen Ermittlungsakten vor. Die Vorwürfe: Druck auf Amtsträger, Bestechung, illegale Spenden.",
-      "url": "https://www.zeit.de/wirtschaft/2024-12/rene-benko-haftbefehl-italien-signa-ermittlung",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-12/rene-benko-trentino-suedtirol-signa-mafia-bild/wide__892x501",
-      "image_title": "René Benko: Der österreichische Immobilien-Unternehmer René Benko"
-    },
-    {
-      "title": "Wohnungspolitik : Ein Jahrzehnt des mutwilligen Scheiterns",
-      "teaser": "Im Wahlkampf wird wieder großspurig von der Wohnungspolitik als soziale Frage die Rede sein. Und schon jetzt ist klar: Wo kein echter Wille ist, ist auch kein Weg.",
-      "url": "https://www.zeit.de/wirtschaft/2024-12/wohnungspolitik-bundestagswahl-wahlkampf-sozialpolitik",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-12/wohnungspolitik-bundestagswahl-wahlkampf-sozialpolitik-1-2/super__430x286",
-      "image_title": "Wohnungspolitik: Wohnungsbau im Kölner Stadtteil Ehrenfeld"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Fußball-WM 2034 : Ein Verband ohne Rückgrat",
-      "teaser": "Die WM in Katar war schlimm. Die in Saudi-Arabien wird noch viel, viel schlimmer. Der DFB unterstützt sie trotzdem – und trägt damit zur Normalisierung von Unrecht bei.",
-      "url": "https://www.zeit.de/sport/2024-12/fussball-wm-2034-saudi-arabien-dfb-bernd-neuendorf-stimme",
-      "image_url": "https://img.zeit.de/sport/2024-12/fussball-wm-2034-saudi-arabien-dfb-bernd-neuendorf-stimme-bild/wide__892x501",
-      "image_title": "Fußball-WM 2034: Widerstand bringe nichts, sagt der DFB-Präsident Bernd Neueundorf. Doch wer Prinzipien hat, muss eben auch mal aufstehen, auch wenn es am Ende nichts bringt."
+      "title": "Z+ (abopflichtiger Inhalt); Klaasohm auf Borkum : \"Die Frauen, die verhauen wurden, die wollten das\"",
+      "teaser": "Schlaflose Nächte, Morddrohungen: Wegen des \"Brauch des Schlagens\" geriet Borkum unter Druck. Wie lief Klaasohm nun ab? Über eine Insel, die sich missverstanden fühlt",
+      "url": "https://www.zeit.de/gesellschaft/2024-12/klaasohm-borkum-fest-frauen-gewalt-shitstorm-brauch",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-12/klaasohm-borkum-fest-frauen-gewalt-shitstorm-brauch-bild-19/wide__1000x562",
+      "image_title": "Klaasohm auf Borkum: Klaasohms springen vom \"D\". Fotografiert am 5. Dezember 2025 in auf Borkum"
     },
     {
       "title": "Cum-Ex-Skandal : Er weiß, dass er nichts weiß",
@@ -145,11 +130,25 @@
       "image_title": "Cum-Ex-Skandal: Bundeskanzler Olaf Scholz vor dem Parlamentarischen Untersuchungsausschuss zur Cum-Ex-Affäre in Hamburg."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Phantomgrenzen : Wo die alten deutschen Grenzen sichtbar werden",
-      "teaser": "Preußen und das deutsche Kaiserreich beeinflussen noch immer, wie Menschen heute in der EU wählen. Absurd, oder? Wir zeigen erstmals fünf Phantomgrenzen Europas.",
-      "url": "https://www.zeit.de/politik/2024-12/phantomgrenzen-wahldaten-politische-grenzen-ddr-polen",
-      "image_url": "https://img.zeit.de/politik/2024-12/phantomgrenzen-wahldaten-politische-grenzen-ddr-polen-teaserbild/super__430x286",
-      "image_title": "Phantomgrenzen: Wo die alten deutschen Grenzen sichtbar werden"
+      "title": "Z+ (abopflichtiger Inhalt); Geld und Macht : Wie man sich eine Demokratie kauft",
+      "teaser": "Wer in der Politik etwas werden will, braucht sehr viel Geld. Das war in den USA schon immer so. Neu ist, wie schamlos die Reichsten nach der Macht greifen – und warum.",
+      "url": "https://www.zeit.de/kultur/2024-12/geld-macht-usa-oligarchie-reichtum-einfluss-demokratie",
+      "image_url": "https://img.zeit.de/politik/2024-12/mark-zuckerberg-donald-trump-oligarchen-bild/wide__892x501",
+      "image_title": "Geld und Macht: Wie man sich eine Demokratie kauft"
+    },
+    {
+      "title": "Fußball-WM 2034 : Ein Verband ohne Rückgrat",
+      "teaser": "Die WM in Katar war schlimm. Die in Saudi-Arabien wird noch viel, viel schlimmer. Der DFB unterstützt sie trotzdem – und trägt damit zur Normalisierung von Unrecht bei.",
+      "url": "https://www.zeit.de/sport/2024-12/fussball-wm-2034-saudi-arabien-dfb-bernd-neuendorf-stimme",
+      "image_url": "https://img.zeit.de/sport/2024-12/fussball-wm-2034-saudi-arabien-dfb-bild/super__430x286",
+      "image_title": "Fußball-WM 2034: Zaun an der Zentrale des Deutschen Fußball-Bundes (DFB)"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); René Benko : \"Capo Benko\"",
+      "teaser": "Italien hat Haftbefehl gegen Signa-Gründer René Benko erlassen. Der ZEIT liegen Ermittlungsakten vor. Die Vorwürfe: Druck auf Amtsträger, Bestechung, illegale Spenden.",
+      "url": "https://www.zeit.de/wirtschaft/2024-12/rene-benko-haftbefehl-italien-signa-ermittlung",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-12/rene-benko-trentino-suedtirol-signa-mafia-bild/super__430x286",
+      "image_title": "René Benko: Der österreichische Immobilien-Unternehmer René Benko"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Schlagerstars : Sie geben sich naturnah und heimatverbunden",
@@ -166,32 +165,32 @@
       "image_title": "Béla Rothenbühler: Dass der Kulturbetrieb in Béla Rothenbühlers \"Polifon Pervers\" neben aller Parodie glaubwürdig erscheint, liegt am Autor, der selbst knietief im Milieu steckt."
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Adventszeit : Leise rieselt das Nervenkostüm",
+      "teaser": "Für den Weihnachtszauber rödelt im Hintergrund meist die Mutter. Ihr Stress und ihre Arbeit bleiben unsichtbar. Und wer erntet die Lorbeeren? Ein Mann.",
+      "url": "https://www.zeit.de/familie/2024-12/adventszeit-muetter-stress-patriarchat-weihnachtsmann",
+      "image_url": "https://img.zeit.de/familie/2024-12/adventszeit-muetter-stress-patriarchat/wide__892x501",
+      "image_title": "Adventszeit: Leise rieselt das Nervenkostüm"
+    },
+    {
+      "title": "Liebesgeschichten an Weihnachten : Hey, auch über Weihnachten zu Hause?",
+      "teaser": "Der Ex, der wieder auftaucht, die Jugendliebe in der Dorfkneipe oder die Affäre, die man nur einmal im Jahr trifft: Wir suchen Ihre Weihnachtsliebesgeschichte.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2024-11/liebesgeschichten-weihnachten-jugend-affaere-ex",
+      "image_url": "https://img.zeit.de/zeit-magazin/leben/2024-11/liebesgeschichten-weihnachten-jugend-affaere-ex-bild/super__430x286",
+      "image_title": "Liebesgeschichten an Weihnachten: Hey, auch über Weihnachten zu Hause?"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Weihnachtsgeschenke für Kinder : Geschenke für jedes Alter: Worüber sich Kinder wirklich freuen",
       "teaser": "Die idealen Geschenke für Kinder? Das sind solche, die sie gut beschäftigen und Eltern ein bisschen Ruhe verschaffen: 25 Ideen, von denen die ganze Familie profitiert.",
       "url": "https://www.zeit.de/familie/2024-12/weihnachtsgeschenke-kinder-alter-tipps-ideen",
-      "image_url": "https://img.zeit.de/familie/2024-12/weihnachtsgeschenke-kinder-alter-tipps-2/wide__892x501",
+      "image_url": "https://img.zeit.de/familie/2024-12/weihnachtsgeschenke-kinder-alter-tipps-2/super__430x286",
       "image_title": "Weihnachtsgeschenke für Kinder: Geschenke für jedes Alter: Worüber sich Kinder wirklich freuen"
     },
     {
-      "title": "Großbritannien : Diese Oma treibt Betrüger in den Wahnsinn",
-      "teaser": "Sie plappert über ihre Katze Fluffy, über Enkel und süße Vöglein: Daisy Harris verwickelt Telefonbetrüger in lange, sehr lange Gespräche. Wenn es bloß so einfach wäre.",
-      "url": "https://www.zeit.de/2024/52/telefonbetrug-grossbritannien-kuenstliche-intelligenz-kriminalitaet",
-      "image_url": "https://img.zeit.de/2024/52/in-grossbritannien-werden-telefonbetrueger-neuerdings-von-einer-gespraechigen-oma-hingehalten-was-st-bild-2/super__430x286",
-      "image_title": "Großbritannien: Mit ihrem Geplapper soll die KI-Oma Telefonbetrüger in den Wahnsinn treiben."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Offene Beziehung : \"Der Sex nach der Schwangerschaft war ein Trauerspiel\"",
-      "teaser": "Unsere Leserin Marie wollte nach der Geburt eines Kindes nicht nur Mutter sein. Sie öffnete ihre Beziehung – und fand zurück zu alten Bedürfnissen.",
-      "url": "https://www.zeit.de/zeit-magazin/2024/52/offene-beziehung-nach-schwangerschaft-liebeskolumne",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-12/offene-beziehung-nach-schwangerschaft-liebeskolumne-bild/super__430x286",
-      "image_title": "Offene Beziehung: \"Der Sex nach der Schwangerschaft war ein Trauerspiel\""
-    },
-    {
-      "title": "ZDF-Politbarometer : Olaf Scholz und Friedrich Merz in neuer Umfrage fast gleichauf",
-      "teaser": "Laut ZDF-Politbarometer verringert der Kanzler den Abstand zu seinem CDU-Herausforderer deutlich. In der Sonntagsfrage liegt die Union weiter vorn.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-12/olaf-scholz-friedrich-merz-zdf-politbarometer-fast-gleichauf",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/olaf-scholz-friedrich-merz-bild/super__430x286",
-      "image_title": "ZDF-Politbarometer: Bundeskanzler Olaf Scholz (SPD, l) und Friedrich Merz, CDU-Bundesvorsitzender und Fraktionsvorsitzender der CDU/CSU-Fraktion im Bundestag, unterhalten sich vor Beginn der Regierungserklärung zum «Europäischer Rat u. NATO-Gipfel». Im weiteren Verlauf der 177. Sitzung des 20. Deutschen Bundestages findet eine Befragung der Bundesregierung statt. (zu dpa: «Scholz und Merz wollen über Folgen von Solingen sprechen») - Weniger lesen Service +++ dpa-Bildfunk +++ Aufnahmedatum 26.06.2024 Bildnachweis picture alliance/dpa | Hannes P Albert"
+      "title": "Z+ (abopflichtiger Inhalt); Phantomgrenzen : Wo die alten deutschen Grenzen sichtbar werden",
+      "teaser": "Preußen und das deutsche Kaiserreich beeinflussen noch immer, wie Menschen heute in der EU wählen. Absurd, oder? Wir zeigen erstmals fünf Phantomgrenzen Europas.",
+      "url": "https://www.zeit.de/politik/2024-12/phantomgrenzen-wahldaten-politische-grenzen-ddr-polen",
+      "image_url": "https://img.zeit.de/politik/2024-12/phantomgrenzen-wahldaten-politische-grenzen-ddr-polen-teaserbild/super__430x286",
+      "image_title": "Phantomgrenzen: Wo die alten deutschen Grenzen sichtbar werden"
     },
     {
       "title": "Krisenmanagement : Warum sich Deutschland nicht verändern will",
@@ -320,18 +319,18 @@
       "image_title": "Sprachnachricht: \"Ich wähle zum ersten Mal und habe Zukunftsängste\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Mahdi Ben Nasr : Der tote Flüchtling im Hotzenwald",
-      "teaser": "Im Frühjahr werden Leichenteile des Tunesiers Mahdi Ben Nasr gefunden. Die Polizei vermutet den Täter in dessen Umfeld – bis sich ein christlicher Waffennarr meldet.",
-      "url": "https://www.zeit.de/2024/52/mahdi-ben-nasr-totschlag-urteil-hotzenwald-haft",
-      "image_url": "https://img.zeit.de/2024/52/mahdi-ben-nasr-totschlag-urteil-hotzenwald-haft-teaser/wide__892x501",
-      "image_title": "Mahdi Ben Nasr: In diesem Wohnhaus wird der 38-jährige Mahdi Ben Nasr erschossen"
+      "title": "Z+ (abopflichtiger Inhalt); Jean-Charles de Castelbajac : Auf Gottes Laufsteg",
+      "teaser": "Seine Hoodies wurden früher in der Hip-Hop-Szene gefeiert. Nun hat Jean-Charles de Castelbajac die geistlichen Gewänder für die Wiedereröffnung von Notre-Dame entworfen.",
+      "url": "https://www.zeit.de/zeit-magazin/2024/52/jean-charles-de-castelbajac-gewaender-notre-dame-design",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-12/jean-charles-de-castelbajac-gewaender-notre-dame-design-duo/wide__892x501",
+      "image_title": "Jean-Charles de Castelbajac: Auf Gottes Laufsteg"
     },
     {
-      "title": "Letzte Generation : Zwei Klimaaktivistinnen nach Aktion auf Sylt zu Haftstrafe verurteilt",
-      "teaser": "Im Sommer 2023 beschmierten Aktivisten der Letzten Generation ein Privatflugzeug auf Sylt mit Farbe. Zwei Mitglieder müssen für mehrere Monate ins Gefängnis.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-12/letzte-generation-klimaaktivistinnen-privatflugzeug-sylt-haftstrafe",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-12/sylt-privatflugzeug-farbe-beschmiert-aktivistinnen-klimaschutzgruppe-letzte-generation-bild/super__430x286",
-      "image_title": "Letzte Generation: Ein von Klimaschutz-Demonstranten der Initiative Letzte Generation mit oranger Farbe besprühter Jet steht auf einem Rollfeld. Sylt, 06.06.2023"
+      "title": "Großbritannien : Diese Oma treibt Betrüger in den Wahnsinn",
+      "teaser": "Sie plappert über ihre Katze Fluffy, über Enkel und süße Vöglein: Daisy Harris verwickelt Telefonbetrüger in lange, sehr lange Gespräche. Wenn es bloß so einfach wäre.",
+      "url": "https://www.zeit.de/2024/52/telefonbetrug-grossbritannien-kuenstliche-intelligenz-kriminalitaet",
+      "image_url": "https://img.zeit.de/2024/52/in-grossbritannien-werden-telefonbetrueger-neuerdings-von-einer-gespraechigen-oma-hingehalten-was-st-bild-2/super__430x286",
+      "image_title": "Großbritannien: Mit ihrem Geplapper soll die KI-Oma Telefonbetrüger in den Wahnsinn treiben."
     },
     {
       "title": "Ausgabe 49/2024 : Ranpirschen. Willkommen im Wochenende.",
@@ -376,11 +375,11 @@
       "image_title": "Geld und Macht: Wie man sich eine Demokratie kauft"
     },
     {
-      "title": "Brian Thompson : Was über den Fall des erschossenen US-Versicherungschefs bekannt ist",
-      "teaser": "In New York wurde der Leiter eines großen US-Krankenversicherers erschossen. Der mutmaßliche Täter ist flüchtig, die Polizei fahndet mit Fotos. Was bisher bekannt ist.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-12/brian-thompson-erschossen-new-york-polizei-veroeffentlichung-gesicht-mutmasslicher-taeter",
-      "image_url": "https://img.zeit.de/gesellschaft/deutschland/2024-12/brian-thompson-bild/super__430x286",
-      "image_title": "Brian Thompson: People walk next to a poster outside the Hilton hotel near the scene where the CEO of UnitedHealthcare Brian Thompson was shot dead in Midtown Manhattan, in New York City, U.S., December 5, 2024. REUTERS/Mike Segar"
+      "title": "Z+ (abopflichtiger Inhalt); Offene Beziehung : \"Der Sex nach der Schwangerschaft war ein Trauerspiel\"",
+      "teaser": "Unsere Leserin Marie wollte nach der Geburt eines Kindes nicht nur Mutter sein. Sie öffnete ihre Beziehung – und fand zurück zu alten Bedürfnissen.",
+      "url": "https://www.zeit.de/zeit-magazin/2024/52/offene-beziehung-nach-schwangerschaft-liebeskolumne",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-12/offene-beziehung-nach-schwangerschaft-liebeskolumne-bild/super__430x286",
+      "image_title": "Offene Beziehung: \"Der Sex nach der Schwangerschaft war ein Trauerspiel\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Grippeimpfung : Impfen, nein danke",
@@ -449,22 +448,15 @@
       "title": "Z+ (abopflichtiger Inhalt); Kitschkrieg : Wir sind jetzt die Aliens",
       "teaser": "Kitschkrieg haben Deutschrap geprägt wie kein zweites Produzententeam. Dann sind sie ausgewandert. Ihr nächstes Projekt: den US-Markt knacken. Ein Besuch in Hollywood",
       "url": "https://www.zeit.de/kultur/musik/2024-12/kitschkrieg-deutschrap-musik-produzent-hollywood-projekt",
-      "image_url": "https://img.zeit.de/kultur/musik/2024-12/kitschkrieg-trettmann-soulforce/wide__892x501",
+      "image_url": "https://img.zeit.de/kultur/musik/2024-12/kitschkrieg-trettmann-soulforce/super__430x286",
       "image_title": "Kitschkrieg Trettmann SoulForce"
     },
     {
-      "title": "\"Was du kriegen kannst\" : Nimm dich in Acht vor der schönen Frau an der Bar",
-      "teaser": "Clemens Böckmann erzählt in seinem neuen Roman die Geschichte einer Stasi-Mitarbeiterin. Für den Friedensdienst setzt diese sogar ihren Körper ein.",
-      "url": "https://www.zeit.de/2024/51/was-du-kriegen-kannst-clemens-boeckmann-roman-stasi-mitarbeiterin",
-      "image_url": "https://img.zeit.de/2024/51/nimm-dich-in-acht-vor-der-schoenen-frau-an-der-bar-bild/super__430x286",
-      "image_title": "\"Was du kriegen kannst\": Im wahren Leben ist Lotte Lenya, die Hauptfigur in Clemens Böckmanns Roman \"Was du kriegen kannst\", alleinerziehende Mutter und Verkäuferin in einem Möbelgeschäft, im zweiten Leben IM Anna."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Rote-Bete-Salat mit Miso : Eine Paste für jeden Gang",
-      "teaser": "Egal, wie voll ein Kühlschrank ist, Platz für Misopaste muss sein. Denn die macht wirklich jedes Gericht besser: von diesem Salat über Suppen und Pasta bis zum Dessert.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-12/misopaste-rote-bete-salat-hanf-rezept",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-12/misopaste-rote-bete-salat-hanf-rezept-bild/super__430x286",
-      "image_title": "Rote-Bete-Salat mit Miso: Eine Paste für jeden Gang"
+      "title": "Z+ (abopflichtiger Inhalt); Bars in Mexiko-Stadt : \"Die haben Feuer im Glas\"",
+      "teaser": "Barkeeper weisen den Weg durch die Nacht: Unser Autor chillt mit dem Feuergott der Maya, bis er Tomaten schmeckt, wo keine zu sehen sind.",
+      "url": "https://www.zeit.de/2024/52/bars-mexiko-stadt-drinks-barkeeper-nachtleben",
+      "image_url": "https://img.zeit.de/2024/52/bars-mexiko-stadt-drinks-barkeeper-nachtleben-teaser/super__430x286",
+      "image_title": "Bars in Mexiko-Stadt: Der Mexi-Thai ist einer der Drinks, die das Handshake Speakeasy berühmt gemacht haben."
     },
     {
       "title": "Diese Woche in der ZEIT : Sind die noch zu retten?",
@@ -525,11 +517,11 @@
       "url": "https://www.zeit.de/politik/deutschland/2024-12/robert-habeck-friedrich-merz-regierung"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Jean-Charles de Castelbajac : Auf Gottes Laufsteg",
-      "teaser": "Seine Hoodies wurden früher in der Hip-Hop-Szene gefeiert. Nun hat Jean-Charles de Castelbajac die geistlichen Gewänder für die Wiedereröffnung von Notre-Dame entworfen.",
-      "url": "https://www.zeit.de/zeit-magazin/2024/52/jean-charles-de-castelbajac-gewaender-notre-dame-design",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-12/jean-charles-de-castelbajac-gewaender-notre-dame-design-duo/wide__892x501",
-      "image_title": "Jean-Charles de Castelbajac: Auf Gottes Laufsteg"
+      "title": "Z+ (abopflichtiger Inhalt); Klaasohm auf Borkum : \"Die Frauen, die verhauen wurden, die wollten das\"",
+      "teaser": "Schlaflose Nächte, Morddrohungen: Wegen des \"Brauch des Schlagens\" geriet Borkum unter Druck. Wie lief Klaasohm nun ab? Über eine Insel, die sich missverstanden fühlt",
+      "url": "https://www.zeit.de/gesellschaft/2024-12/klaasohm-borkum-fest-frauen-gewalt-shitstorm-brauch",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-12/klaasohm-borkum-fest-frauen-gewalt-shitstorm-brauch-bild-19/wide__892x501",
+      "image_title": "Klaasohm auf Borkum: Klaasohms springen vom \"D\". Fotografiert am 5. Dezember 2025 in auf Borkum"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Yoon Suk Yeol : Ein bisschen Verständnis für den Todfeind",
@@ -553,11 +545,9 @@
       "image_title": "Fragen Sie ZEIT ONLINE: Haben Sie ein Thema verpasst?"
     },
     {
-      "title": "Nachrichtenpodcast : Wer vom Mercosur-Abkommen profitiert",
-      "teaser": "Die EU hat die Verhandlungen über das Freihandelsabkommen Mercosur abgeschlossen – trotz Kritik wichtiger Staaten. Und: Olaf Scholz vor Cum-Ex-Untersuchungsausschuss",
-      "url": "https://www.zeit.de/politik/2024-12/mercosur-freihandelsabkommen-eu-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__892x501",
-      "image_title": "Nachrichtenpodcast: Wer vom Mercosur-Abkommen profitiert"
+      "title": "Brandenburg : SPD und BSW stimmen für erste gemeinsame Koalition in Brandenburg",
+      "teaser": "Der Brandenburger BSW-Landesvorstand und ein Landesparteitag der SPD haben für eine Koalition auf Landesebene votiert. Auch die Besetzung der Ministerposten ist klar.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-12/brandenburg-spd-bsw-koalition-landesparteitag-woidke"
     },
     {
       "title": "Verlagsangebot : Erstellen Sie Ihr persönliches Sinn-Barometer",
@@ -567,18 +557,16 @@
       "image_title": "Erstellen Sie Ihr persönliches Sinn-Barometer"
     },
     {
-      "title": "Innenministerkonferenz : Innenminister einig bei Sicherheit, uneins bei Migration",
-      "teaser": "Die Innenminister von Bund und Ländern planen, die Befugnisse von Sicherheitsbehörden auszuweiten. Beim Thema Asyl und Migration liegen SPD und Union jedoch auseinander.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-12/innenminister-konferenz-imk-faeser-stuebgen-migration-sicherheit",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/innenministerkonferenz-der-laender-in-rheinsberg-bild/super__430x286",
-      "image_title": "Innenministerkonferenz: Bundesinnenministerin Nancy Faeser (l-r, SPD), Hamburgs Innensenator Andy Grote (SPD), Bayerns Innenminister Joachim Herrmann (CSU) und Brandenburgs Innenminister Michael Stübgen (CDU), Vorsitzender der Innenministerkonferenz (IMK), geben im Precise Resort Hafendorf zum Abschluss der 222. Sitzung der Konferenz der Innenminister und -senatoren eine gemeinsame Pressekonferenz. Die dreitägige Herbstkonferenz fand unter Leitung von Brandenburgs Innenminister Stübgen statt. Rheinsberg, 06.12.2024"
+      "title": "Syrien : Israel und Jordanien sichern Grenze zu Syrien",
+      "teaser": "In Syrien rückt die Dschihadistengruppe HTS vor. Aus Sorge vor einem Überraschungsangriff schickte Israel mehr Soldaten an die Grenze. Jordanien schloss einen Übergang.",
+      "url": "https://www.zeit.de/politik/ausland/2024-12/syrien-kaempfe-israel-jordanien-sichern-grenze-soldaten"
     },
     {
-      "title": "Cum-Ex-Untersuchungsausschuss : Olaf Scholz weist Einflussnahme in Cum-Ex-Skandal erneut zurück",
-      "teaser": "Zum dritten Mal trat der Kanzler vor den Cum-Ex-Untersuchungsausschuss. Steuerbetrug sei kein Bagatelldelikt, sagte Scholz. Eine Einflussnahme auf den Fall bestritt er.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-12/olaf-scholz-cum-ex-skandal-untersuchungsausschuss-hamburg",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/olaf-scholz-cum-ex-skandal-untersuchungsausschuss-hamburg-bild/wide__892x501",
-      "image_title": "Cum-Ex-Untersuchungsausschuss: Bundeskanzler Olaf Scholz (SPD) kommt zu einer Sitzung des Parlamentarischen Untersuchungsausschusses „Cum-Ex“. Scholz sagt am Freitag zum dritten Mal als Zeuge vor dem Parlamentarischen Untersuchungsausschuss der Hamburgischen Bürgerschaft zum sogenannten Cum-Ex-Skandal aus. Hamburg, 06.12.2024"
+      "title": "IAEA-Bericht : Iran will Produktionsrate von hoch angereichertem Uran steigern",
+      "teaser": "Der Iran plant laut einem Bericht der Atomenergie-Behörde IAEA, mehr hoch angereichertes Uran zu produzieren. Die Rate soll auf mehr als 34 Kilogramm pro Monat steigen.",
+      "url": "https://www.zeit.de/wirtschaft/2024-12/iran-internationale-atomenergiebehoerde-iaeo-uran",
+      "image_url": "https://img.zeit.de/politik/2024-12/iaea-iran-will-produktionsrate-von-hoch-angereichertem-uran-deutlich-steigern-bild/wide__892x501",
+      "image_title": "IAEA-Bericht: Rafael Grossi, Director General of the International Atomic Energy Agency (IAEA) attends the IAEA's Board of Governors meeting at the agency's headquarters in Vienna, Austria on September 11, 2023. The UN nuclear watchdog said on September 11, it regretted that \"no progress\" had been made by Iran on outstanding issues, including reinstalling cameras to monitor Tehran's nuclear programme and explaining uranium traces."
     },
     {
       "title": "Verlagsangebot : Quiz: Die spinnen, die Briten!",
@@ -588,11 +576,11 @@
       "image_title": "Quiz: Die spinnen, die Briten!"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Javier Milei : Die Kettensäge wirkt",
-      "teaser": "Argentiniens Präsident auf dem Weg, sein wichtigstes Versprechen einzulösen: Die Inflation sinkt drastisch. Funktioniert sein radikaler Ansatz etwa?",
-      "url": "https://www.zeit.de/2024/52/javier-milei-argentinien-inflation-wirtschaftskrise",
-      "image_url": "https://img.zeit.de/2024/52/die-kettensaege-wirkt-bild-1/super__430x286",
-      "image_title": "Javier Milei: Der frühere Ökonomiedozent Javier Milei entließ 30.000 Staatsbedienstete und kürzte brachial die Ausgaben"
+      "title": "Wohnungspolitik : Ein Jahrzehnt des mutwilligen Scheiterns",
+      "teaser": "Im Wahlkampf wird wieder großspurig von der Wohnungspolitik als soziale Frage die Rede sein. Und schon jetzt ist klar: Wo kein echter Wille ist, ist auch kein Weg.",
+      "url": "https://www.zeit.de/wirtschaft/2024-12/wohnungspolitik-bundestagswahl-wahlkampf-sozialpolitik",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-12/wohnungspolitik-bundestagswahl-wahlkampf-sozialpolitik-1-2/super__430x286",
+      "image_title": "Wohnungspolitik: Wohnungsbau im Kölner Stadtteil Ehrenfeld"
     },
     {
       "title": "Ruhestand : Können Sie sich die Rente mit 45 oder 55 leisten?",
@@ -728,36 +716,36 @@
       "image_title": "VW-Mitarbeiter: VW-Werk und Mittellandkanal in Wolfsburg."
     },
     {
-      "title": "Bundesamt für Migration und Flüchtlinge : Asylanträge auf niedrigstem Stand seit zweieinhalb Jahren",
-      "teaser": "Knapp 18.000 Menschen haben im November Asyl in Deutschland beantragt. Weniger Anträge binnen einem Monat wurden zuletzt im Juli 2022 erfasst.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-12/asylantraege-november-tiefstand-bundesamt-fuer-migration-und-fluechtlinge",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/asylantraege-bild/wide__892x501",
-      "image_title": "Bundesamt für Migration und Flüchtlinge: BERLIN, GERMANY - APRIL 16: A container settlement that provides housing for refugees stands in Kreuzberg district on April 16, 2024 in Berlin, Germany. The city of Berlin, which is anticipating an influx of 15,000 to 20,000 more refugees this year, is planning to build at least 16 more of the container sites. The plan is causing friction between the city senate and local districts, many of whom claim they are already at the limit of their capacity to provide any more housing. (Photo by Sean Gallup/Getty Images)"
+      "title": "Z+ (abopflichtiger Inhalt); Mahdi Ben Nasr : Der tote Flüchtling im Hotzenwald",
+      "teaser": "Im Frühjahr werden Leichenteile des Tunesiers Mahdi Ben Nasr gefunden. Die Polizei vermutet den Täter in dessen Umfeld – bis sich ein christlicher Waffennarr meldet.",
+      "url": "https://www.zeit.de/2024/52/mahdi-ben-nasr-totschlag-urteil-hotzenwald-haft",
+      "image_url": "https://img.zeit.de/2024/52/mahdi-ben-nasr-totschlag-urteil-hotzenwald-haft-teaser/wide__892x501",
+      "image_title": "Mahdi Ben Nasr: In diesem Wohnhaus wird der 38-jährige Mahdi Ben Nasr erschossen"
     },
     {
-      "title": "Schienennetz : Schienen bis ans Ende der Welt",
-      "teaser": "In Nossen sollte kein Zug mehr fahren. Das wollte der Archäologe Eckart Sauter nicht hinnehmen. Und gründete eine Eisenbahngesellschaft.",
-      "url": "https://www.zeit.de/2024/52/schienennetz-nossen-bahnverkehr-verkehrswende",
-      "image_url": "https://img.zeit.de/2024/52/auf-der-schwelle-bild-5/super__430x286",
-      "image_title": "Schienennetz: Eckart Sauter auf dem Bahnhofsgelände Nossen"
+      "title": "Letzte Generation : Zwei Klimaaktivistinnen nach Aktion auf Sylt zu Haftstrafe verurteilt",
+      "teaser": "Im Sommer 2023 beschmierten Aktivisten der Letzten Generation ein Privatflugzeug auf Sylt mit Farbe. Zwei Mitglieder müssen für mehrere Monate ins Gefängnis.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-12/letzte-generation-klimaaktivistinnen-privatflugzeug-sylt-haftstrafe",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-12/sylt-privatflugzeug-farbe-beschmiert-aktivistinnen-klimaschutzgruppe-letzte-generation-bild/super__430x286",
+      "image_title": "Letzte Generation: Ein von Klimaschutz-Demonstranten der Initiative Letzte Generation mit oranger Farbe besprühter Jet steht auf einem Rollfeld. Sylt, 06.06.2023"
+    },
+    {
+      "title": "\"Was du kriegen kannst\" : Nimm dich in Acht vor der schönen Frau an der Bar",
+      "teaser": "Clemens Böckmann erzählt in seinem neuen Roman die Geschichte einer Stasi-Mitarbeiterin. Für den Friedensdienst setzt diese sogar ihren Körper ein.",
+      "url": "https://www.zeit.de/2024/51/was-du-kriegen-kannst-clemens-boeckmann-roman-stasi-mitarbeiterin",
+      "image_url": "https://img.zeit.de/2024/51/nimm-dich-in-acht-vor-der-schoenen-frau-an-der-bar-bild/wide__892x501",
+      "image_title": "\"Was du kriegen kannst\": Im wahren Leben ist Lotte Lenya, die Hauptfigur in Clemens Böckmanns Roman \"Was du kriegen kannst\", alleinerziehende Mutter und Verkäuferin in einem Möbelgeschäft, im zweiten Leben IM Anna."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Präsidentschaft von Donald Trump : Wer zynisch wird, schadet sich selbst",
       "teaser": "Angesichts der bevorstehenden Präsidentschaft von Trump flüchten sich viele in den Zynismus. Falsch! Trotz niederschmetternder Nachrichten kann man eine Menge tun.",
       "url": "https://www.zeit.de/kultur/2024-11/praesidentschaft-donald-trump-zynismus-empathie-und-widerstand-usa",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-12/praesidentschaft-donald-trump-zynismus-empathie-und-widerstand-usa-bild/wide__892x501",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-12/praesidentschaft-donald-trump-zynismus-empathie-und-widerstand-usa-bild/super__430x286",
       "image_title": "Präsidentschaft von Donald Trump: Wer zynisch wird, schadet sich selbst"
     },
     {
       "title": "Kathedrale Notre-Dame de Paris : Kathedrale Notre-Dame de Paris Architektur",
       "url": "https://www.zeit.de/kultur/2024-11/kathedrale-notre-dame-paris-gotik-frankreich-architektur-fs"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); US-Wahl : Der verlorene Kompromiss",
-      "teaser": "Demokratie bedarf des ständigen Kompromisses. Das gilt für die polarisierten USA umso mehr. Auch darum ist Donald Trumps kommende Präsidentschaft so richtungsweisend.",
-      "url": "https://www.zeit.de/kultur/2024-12/us-wahl-kompromisse-polarisierung-republikaner-demokraten",
-      "image_url": "https://img.zeit.de/kultur/2024-12/us-wahl-kompromisse-polarisierung-republikaner/super__430x286",
-      "image_title": "US-Wahl: Der verlorene Kompromiss"
     },
     {
       "title": "EU-Erdbeobachtungsprogramm Copernicus : Rekordhoher CO₂-Ausstoß 2024 durch Waldbrände in Nord- und Südamerika",
@@ -912,18 +900,18 @@
       "image_title": "Krise in Georgien: Weiter Proteste in Georgien trotz Drohungen von Regierungschef"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Rote-Bete-Salat mit Miso : Eine Paste für jeden Gang",
+      "teaser": "Egal, wie voll ein Kühlschrank ist, Platz für Misopaste muss sein. Denn die macht wirklich jedes Gericht besser: von diesem Salat über Suppen und Pasta bis zum Dessert.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-12/misopaste-rote-bete-salat-hanf-rezept",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-12/misopaste-rote-bete-salat-hanf-rezept-bild/wide__892x501",
+      "image_title": "Rote-Bete-Salat mit Miso: Eine Paste für jeden Gang"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Philip Rachinger und Rebecca Clopath : \"Grandios, Foodkoma!\"",
       "teaser": "Von Schwanenbraten und Biberschwanz zu Linsen: Zwei Spitzenköche erklären, warum die Alpenküche jetzt auf Gemüse setzt und wie man aus wenig das Maximum herausholt.",
       "url": "https://www.zeit.de/2024/52/philip-rachinger-rebecca-clopath-alpen-kueche-schweiz-oesterreich",
-      "image_url": "https://img.zeit.de/2024/52/philip-rachinger-rebecca-clopath-alpen-kueche-schweiz-oesterreich-teaser/wide__892x501",
+      "image_url": "https://img.zeit.de/2024/52/philip-rachinger-rebecca-clopath-alpen-kueche-schweiz-oesterreich-teaser/super__430x286",
       "image_title": "Philip Rachinger und Rebecca Clopath: Rebecca Clopath, 36, ist Naturköchin im bündnerischen Lohn und betreibt einen Biohof."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Matjessalat mit Quarkkäulchen und Roter Bete : Ein stressfreies, aber edles Menü für Weihnachten",
-      "teaser": "Im Advent wird gerödelt, an Weihnachten übernimmt die Erschöpfung. Also muss ein einfaches Essen her, das sich trotzdem festlich anfühlt. Wir haben da etwas vorbereitet.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-12/matjessalat-hausfrauen-art-herzhafte-quarkkeulchen-rote-bete-rezept-weihnachtsmenue",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-12/matjessalat-hausfrauen-art-herzhafte-quarkkeulchen-rote-bete-rezept-weihnachtsmenue-teaser/super__430x286",
-      "image_title": "Matjessalat mit Quarkkäulchen und Roter Bete: Ein stressfreies, aber edles Menü für Weihnachten"
     },
     {
       "title": "Worträtsel : Wortiger",
@@ -961,17 +949,24 @@
       "image_title": "Kreuzworträtsel: Um die Ecke gedacht"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Matjessalat mit Quarkkäulchen und Roter Bete : Ein stressfreies, aber edles Menü für Weihnachten",
+      "teaser": "Im Advent wird gerödelt, an Weihnachten übernimmt die Erschöpfung. Also muss ein einfaches Essen her, das sich trotzdem festlich anfühlt. Wir haben da etwas vorbereitet.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-12/matjessalat-hausfrauen-art-herzhafte-quarkkeulchen-rote-bete-rezept-weihnachtsmenue",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-12/matjessalat-hausfrauen-art-herzhafte-quarkkeulchen-rote-bete-rezept-weihnachtsmenue-teaser/wide__892x501",
+      "image_title": "Matjessalat mit Quarkkäulchen und Roter Bete: Ein stressfreies, aber edles Menü für Weihnachten"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Rosenkohlsalat : Knusper, knusper, Rosenkohl",
       "teaser": "Rosenkohl ist nicht so Ihr Ding? Dann haben Sie ihn vielleicht noch nicht roh probiert. In diesem Salat überzeugt er mit Frische und Knackigkeit.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-12/rosenkohlsalat-nuss-vinaigrette-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-12/rosenkohlsalat-nuss-vinaigrette-rezept-wochenmarkt-teaserbild/wide__892x501",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-12/rosenkohlsalat-nuss-vinaigrette-rezept-wochenmarkt-teaserbild/super__430x286",
       "image_title": "Rosenkohlsalat: Rosenkohlsalat mit Nuss-Vinaigrette"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Cranberrypunsch : Es fruchtet sehr",
       "teaser": "Alternative zu Glühwein gefällig? Heiß serviert sorgen säuerlich-süße Cranberrys für eine Fruchtnote im Punsch und leuchten herrlich rot. Schmeckt mit oder ohne Schuss!",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-12/cranberry-punsch-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-12/cranberry-punsch-bild/super__430x286",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-12/cranberry-punsch-bild/super__320x213",
       "image_title": "Cranberrypunsch: Es fruchtet sehr"
     },
     {
@@ -1003,13 +998,6 @@
       "image_title": "Fisch süßsauer eingelegt: Auf den Tisch kommt heut ein Fisch"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Tahin Sablé : Völlig Tahin und weg",
-      "teaser": "Mit Zutaten ist es wie mit Beziehungen: Manchmal reicht es schon, eine Kleinigkeit zu verändern, um sie neu zu erleben. Heißt hier: Tahin in Kekse statt in Hummus geben",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-11/tahin-sable-kekse-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-11/tahin-sable-kekse-rezept-wochenmarkt-teaserbild/super__320x213",
-      "image_title": "Tahin Sablé: Völlig Tahin und weg"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Orientierungssemester : Wie du herausfindest, welches Fach zu dir passt",
       "teaser": "BWL in Baden-Baden oder Holzwirtschaft in Hamburg? Nie zuvor gab es ein größeres Angebot an Studiengängen. Wer zweifelt, kann ein Orientierungssemester machen.",
       "url": "https://www.zeit.de/2024/47/orientierungssemester-studienwahl-universitaet-fach-faq",
@@ -1017,11 +1005,11 @@
       "image_title": "Orientierungssemester: braucht es eine?"
     },
     {
-      "title": "Verlagsangebot : Ein Studium finden, das passt",
-      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
-      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.teaser.bewerben-schreibtisch.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=sit-verlagsteaser&amp;utm_content=sit_teaser_bewerben-schreibtisch_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/sit-bewerben-schreibtisch/wide__430x286__desktop",
-      "image_title": "Ein Studium finden, das passt"
+      "title": "Verlagsangebot : Welcher Beruf passt zu mir?",
+      "teaser": "Mit dem BOA-Berufstest erfahren Berufseinsteiger mehr über die eigenen Stärken und finden den passenden Job.",
+      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.verlagsteaser.quan.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=verlagsteaserindex&amp;utm_content=bot_verlagsteaser_quan_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/boa-quan/wide__430x286__desktop",
+      "image_title": "Welcher Beruf passt zu mir?"
     },
     {
       "title": "Bundesliga-Vorschau : Wenn Max Eberls Oberlippe Dampf ablässt",
@@ -1052,36 +1040,36 @@
       "image_title": "BioNTech-Prozess: Eine medizinische Mitarbeiterin (MTA) zieht bei einer Impfaktion Spritzen mit dem Impfstoff von Biontech/Pfizer auf."
     },
     {
-      "title": "Unfall: Sechsjähriger in Rostock angefahren und schwer verletzt",
-      "url": "https://www.zeit.de/news/2024-12/06/sechsjaehriger-in-rostock-angefahren-und-schwer-verletzt"
+      "title": "Starker Wind: Italien: Etwa 150 Menschen sitzen auf Bergstationen fest",
+      "url": "https://www.zeit.de/news/2024-12/06/italien-etwa-150-menschen-sitzen-auf-bergstationen-fest"
     },
     {
-      "title": "Unfall: 71 Jahre alter Radfahrer stirbt nach Zusammenstoß mit Auto",
-      "url": "https://www.zeit.de/news/2024-12/06/71-jahre-alter-radfahrer-stirbt-nach-zusammenstoss-mit-auto"
+      "title": "Regierungsbildung: SPD und BSW in Brandenburg billigen erste Rot-Lila-Koalition",
+      "url": "https://www.zeit.de/news/2024-12/06/spd-und-bsw-in-brandenburg-billigen-erste-rot-lila-koalition"
     },
     {
-      "title": "Ursache unklar: Autotransporter auf A8 in Brand",
-      "url": "https://www.zeit.de/news/2024-12/06/autotransporter-auf-a8-in-brand"
+      "title": "Südamerika: Brasilianer stirbt vier Wochen nach Millionen-Lottogewinn",
+      "url": "https://www.zeit.de/news/2024-12/06/brasilianer-stirbt-vier-wochen-nach-millionen-lottogewinn"
     },
     {
-      "title": "Sprint in Kontiolahti: Podestplatz für Nawrath \"eine Bestätigung\"",
-      "url": "https://www.zeit.de/news/2024-12/06/angefuehrt-von-nawrath-dsv-biathleten-zeigen-reaktion"
+      "title": "Veranstaltung auf Marktplatz: Greta Thunberg bei Pro-Palästina-Demo in Mannheim",
+      "url": "https://www.zeit.de/news/2024-12/06/greta-thunberg-bei-pro-palaestina-demo-in-mannheim-erwartet"
     },
     {
-      "title": "Fußball-Bundesliga: Austauschen und üben: Freiburg und die Schwäche vom Punkt",
-      "url": "https://www.zeit.de/news/2024-12/06/austauschen-und-ueben-freiburg-und-die-schwaeche-vom-punkt"
+      "title": "Auszeichnungen: Weimarer Menschenrechtspreis für serbischen Journalisten",
+      "url": "https://www.zeit.de/news/2024-12/06/weimarer-menschenrechtspreis-fuer-serbischen-journalisten"
     },
     {
-      "title": "Flüchtlinge: Rheinland-Pfalz führt Bezahlkarte in Trier ein",
-      "url": "https://www.zeit.de/news/2024-12/06/rheinland-pfalz-fuehrt-bezahlkarte-in-trier-ein"
+      "title": "Extremistischer Kandidat: Gericht: Präsidentenwahl in Rumänien muss wiederholt werden",
+      "url": "https://www.zeit.de/news/2024-12/06/gericht-praesidentenwahl-in-rumaenien-muss-wiederholt-werden"
     },
     {
-      "title": "Welthandel: Niedersachsens Landesregierung begrüßt Mercosur-Abkommen",
-      "url": "https://www.zeit.de/news/2024-12/06/niedersachsens-landesregierung-begruesst-mercosur-abkommen"
+      "title": "Pharmaindustrie: Michael Grosse soll Sartorius führen",
+      "url": "https://www.zeit.de/news/2024-12/06/michael-grosse-soll-sartorius-fuehren"
     },
     {
-      "title": "Auto prallte gegen Betonwand: Abfahrt von A 643 nach Verkehrsunfall stundenlang gesperrt",
-      "url": "https://www.zeit.de/news/2024-12/06/abfahrt-von-a-643-nach-schwerem-verkehrsunfall-gesperrt"
+      "title": "Regierung: Weg frei für Koalition von SPD und BSW in Brandenburg",
+      "url": "https://www.zeit.de/news/2024-12/06/weg-frei-fuer-koalition-von-spd-und-bsw-in-brandenburg"
     }
   ]
 }
