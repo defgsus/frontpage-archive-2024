@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-12-06T08:10:43",
+  "timestamp": "2024-12-06T09:08:11",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Dell BSAFE Micro Edition Suite, NetWorker",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Backupsoftware-Dell-NetWorker-kann-Daten-leaken-10190285.html"
+    },
+    {
+      "title": "Solana web3.js",
+      "url": "https://www.heise.de/news/Supply-Chain-Attacke-Solana-web3-js-Bibliothek-war-mit-Schadcode-verseucht-10190374.html"
+    },
+    {
       "title": "HPE Aruba Networking ClearPass Policy Manager",
       "url": "https://www.heise.de/news/Vier-Luecken-in-HPE-Aruba-Networking-ClearPass-Policy-Manager-geschlossen-10188868.html"
     },
@@ -40,24 +48,14 @@
       "url": "https://www.heise.de/news/Veeam-Service-Provider-Console-Kritische-Luecke-gefaehrdet-Kunden-Backups-10187964.html"
     },
     {
-      "title": "Whatsup Gold",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Exploit-fuer-kritische-Luecke-in-Whatsup-Gold-in-Umlauf-10187538.html"
+      "title": "Sicherheitsupdate: Backupsoftware Dell NetWorker kann Daten leaken",
+      "teaser": "Dell hat wichtige Sicherheitspatches für seine Backup- und Recovery-Software NetWorker und das SDK BSAFE veröffentlicht. Noch sind aber nicht alle Updates da.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Backupsoftware-Dell-NetWorker-kann-Daten-leaken-10190285.html"
     },
     {
-      "title": "SailPoint IdentityIQ",
-      "url": "https://www.heise.de/news/Identitaetsmanagement-Sicherheitsluecke-mit-Hoechstwertung-bedroht-IdentityIQ-10187194.html"
-    },
-    {
-      "title": "Telekom: Kunden erstellen über eine Million Passkeys",
-      "teaser": "Die Telekom bietet seinen Kunden seit August das Einloggen ohne Passwort an. Das wird offenbar gut angenommen, wie eine Rückfrage von heise Security zeigt.",
-      "url": "https://www.heise.de/news/Telekom-Kunden-erstellen-ueber-eine-Million-Passkeys-10190023.html",
-      "image_title": "Ein Schloss mit biometrischen Schlüsseln"
-    },
-    {
-      "title": "Bundesnetzagentur mahnt zur Vorsicht beim Kauf smarter Geräte",
-      "teaser": "Die Bundesnetzagentur empfiehlt Verbrauchern, Vorsicht beim Kauf smarter Geräte walten zu lassen. Entdeckt hat sie bereits Halsketten mit Mikrofon und Co.",
-      "url": "https://www.heise.de/news/Bundesnetzagentur-mahnt-zur-Vorsicht-beim-Kauf-smarter-Geraete-10189419.html",
-      "image_title": "Smart Home, in dem ein Roboter auf dem Teppich steht, während ein Saugroboter seine Arbeit verrichtet. An der Wand hängt ein großer Bildschirm, im Hintergrund ein Sofa und übliche Einrichtungsgegenstände eines Wohnzimmers."
+      "title": "Supply-Chain-Attacke: Solana web3.js-Bibliothek war mit Schadcode verseucht",
+      "teaser": "Unbekannte Angreifer haben Solanas JavaScript-SDK mit Schadcode zum Stehlen von privaten Schlüsseln ausgestattet.",
+      "url": "https://www.heise.de/news/Supply-Chain-Attacke-Solana-web3-js-Bibliothek-war-mit-Schadcode-verseucht-10190374.html"
     },
     {
       "title": "\"Nicht verhandelbar\": Microsoft beharrt auf TPM-2.0-Pflicht für Windows 11",
@@ -78,9 +76,20 @@
       "image_title": "Server-Hardware"
     },
     {
+      "title": "Vorsicht vor Whatsapp-Phishing mit gespoofter Rufnummer",
+      "teaser": "Cyber-Kriminelle nehmen deutschsprachige WhatsApp-Nutzer ins Visier und versuchen mit einem perfiden Trick und einem Chatbot deren Accounts zu kapern.",
+      "url": "https://www.heise.de/news/Vorsicht-vor-Whatsapp-Phishing-mit-gespoofter-Rufnummer-10188150.html",
+      "image_title": "Opfer vor Computer mit Smartphone und WhatsApp steht in Kontakt mit einem Kriminellen"
+    },
+    {
       "title": "Veeam Service Provider Console: Kritische Lücke gefährdet Kunden-Backups",
       "teaser": "Veeams Backend-as-a-Service- und Disaster-Recovery-as-a-Service-Plattform Service Provider Console ist verwundbar.",
       "url": "https://www.heise.de/news/Veeam-Service-Provider-Console-Kritische-Luecke-gefaehrdet-Kunden-Backups-10187964.html"
+    },
+    {
+      "title": "l+f: Ransomware legt Wodka-Hersteller trocken",
+      "teaser": "Zwei US-Tochtergesellschaften der Stoli Group haben eine Cybertattacke nicht überlebt.",
+      "url": "https://www.heise.de/news/l-f-Ransomware-legt-Vodka-Hersteller-trocken-10187742.html"
     },
     {
       "title": "Malware auf dem Mac: Sicherheitsforscher warnen vor neuen Trends",
@@ -150,18 +159,6 @@
       "teaser": "Im Open-Source-Monitoring-Tool Zabbix klafft eine kritische SQL-Injection-Lücke. Angreifer können verwundbare Systeme vollständig übernehmen.",
       "url": "https://www.heise.de/news/Monitoring-Tool-Zabbix-Kritische-Luecke-ermoeglicht-Kontrolluebernahme-10186014.html",
       "image_title": "IT-Verwalter steht vor Severn und Computern und überwacht die Performance"
-    },
-    {
-      "title": "Medion: Webseite und mehr derzeit nicht erreichbar",
-      "teaser": "Medion hat seit vergangener Woche mit Störungen zu kämpfen: Die Webseiten sind nicht erreichbar, Mails werden nicht beantwortet.",
-      "url": "https://www.heise.de/news/Medion-Webseite-und-mehr-derzeit-nicht-erreichbar-10185844.html",
-      "image_title": "Medion-Logo auf Bildschirm, Rechner und Telefon sind Offline, Kabel gezogen"
-    },
-    {
-      "title": "Secure Coding: Sichere Fehlerbehandlung in Java – CWE-778-Risiken vermeiden",
-      "teaser": "Mit sicheren Java-Design-Patterns wie dem Decorator und Proxy Pattern die Kontrolle über Fehlerberichte verbessern – zum Schutz gegen CWE-778-Schwachstellen.",
-      "url": "https://www.heise.de/hintergrund/Secure-Coding-Sichere-Fehlerbehandlung-in-Java-CWE-778-Risiken-vermeiden-10084007.html",
-      "image_title": "Halber Mensch vor vor Monitor mit Programmcode im Fokus einer Lupe"
     },
     {
       "title": "C-Level Kommunikation",

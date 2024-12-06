@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-12-06T08:10:40",
+  "timestamp": "2024-12-06T09:08:07",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,14 +26,41 @@
   ],
   "articles": [
     {
+      "title": "WordPress 6.7: Moderne Websites besonders einfach bauen",
+      "teaser": "Das neue Standard-Theme von WordPress 6.7 heißt \"Twenty Twenty-Five\". Mit ihm gestalten selbst Anfänger eine moderne Website an einem Nachmittag.",
+      "url": "https://www.heise.de/ratgeber/WordPress-6-7-Moderne-Websites-besonders-einfach-bauen-10189175.html"
+    },
+    {
       "title": "Ein Jump 'n' Run entwickeln: Mit Roblox Programmieren lernen",
       "teaser": "Spieler programmieren auf der Plattform Roblox eigene Level. Wir zeigen Programmiereinsteigern, wie sie mit der Sprache Luau ein Jump 'n' Run gestalten.",
       "url": "https://www.heise.de/ratgeber/Ein-Jump-n-Run-entwickeln-Mit-Roblox-Programmieren-lernen-9994195.html"
     },
     {
-      "title": "Produktübersicht: Angebote im Observability-Bereich, die OpenTelemetry einsetzen",
-      "teaser": "Das quelloffene Framework OpenTelemetry ist ein tragender Pfeiler moderner Observability mit bemerkenswerter Flexibilität der Komponentensammlung für Anwender.",
-      "url": "https://www.heise.de/hintergrund/Produktuebersicht-Angebote-im-Observability-Bereich-die-OpenTelemetry-einsetzen-10044349.html"
+      "title": "Software-defined Storage: Ceph 19.2 \"Squid\" im Test",
+      "teaser": "Mit der Version 19.2 ist Ceph Squid nun für den produktiven Betrieb freigegeben. Neuerungen gibt es beim Objektspeicher RADOS, bei den Frontends und den Tools.",
+      "url": "https://www.heise.de/tests/Software-defined-Storage-Ceph-19-2-Squid-im-Test-10186460.html"
+    },
+    {
+      "title": "Smarte Energie-Infotafel im Eigenbau: LED-Matrix-Uhr \"HoDi\"",
+      "teaser": "Smarte Energie-Infotafel: Dank einer LED-Matrix-Uhr mit ESP32 verstehen Sie Ihren Stromverbrauch und die Produktion Ihrer PV-Anlage samt Tibber-Preisen.",
+      "url": "https://www.heise.de/ratgeber/Smarte-Energie-Infotafel-im-Eigenbau-LED-Matrix-Uhr-HoDi-10186040.html",
+      "image_title": ","
+    },
+    {
+      "title": "Sicherheitsupdate: Backupsoftware Dell NetWorker kann Daten leaken",
+      "teaser": "Dell hat wichtige Sicherheitspatches für seine Backup- und Recovery-Software NetWorker und das SDK BSAFE veröffentlicht. Noch sind aber nicht alle Updates da.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Backupsoftware-Dell-NetWorker-kann-Daten-leaken-10190285.html"
+    },
+    {
+      "title": "Supply-Chain-Attacke: Solana web3.js-Bibliothek war mit Schadcode verseucht",
+      "teaser": "Unbekannte Angreifer haben Solanas JavaScript-SDK mit Schadcode zum Stehlen von privaten Schlüsseln ausgestattet.",
+      "url": "https://www.heise.de/news/Supply-Chain-Attacke-Solana-web3-js-Bibliothek-war-mit-Schadcode-verseucht-10190374.html"
+    },
+    {
+      "title": "Pro & Contra: Brauchen wir ein Photoshop von Apple?",
+      "teaser": "Apple will die beliebte Photoshop-Alternative Pixelmator kaufen. Doch ist diese unerwartete Übernahme begrüßenswert?",
+      "url": "https://www.heise.de/meinung/Pro-Contra-Brauchen-wir-ein-Photoshop-von-Apple-10184941.html",
+      "image_title": "Pro & Contra: Brauchen wir ein Photoshop von Apple?"
     },
     {
       "title": "Telekom: Kunden erstellen über eine Million Passkeys",
@@ -93,35 +120,6 @@
       "title": "Eclipse IDE: Erstmals mit Support für Windows on ARM",
       "teaser": "Das neueste Quartals-Release 2024-12 der Eclipse IDE bietet Unterstützung für Java 23 und ist nun auch für Windows on ARM verfügbar.",
       "url": "https://www.heise.de/news/Eclipse-IDE-Erstmals-mit-Support-fuer-Windows-on-ARM-10189785.html"
-    },
-    {
-      "title": "Web Almanac 2024: HTTP Archive gibt Web-Jahrbuch heraus, Livestream am 10.12.",
-      "teaser": "98 Prozent aller Requests nutzen HTTPS, 25 Prozent der Websites setzen keinerlei Caching ein: Nach einer Pause in 2023 meldet sich der Web Almanac zurück.",
-      "url": "https://www.heise.de/blog/Web-Almanac-2024-HTTP-Archive-gibt-Web-Jahrbuch-heraus-Livestream-am-10-12-10186758.html"
-    },
-    {
-      "title": "\"Nicht verhandelbar\": Microsoft beharrt auf TPM-2.0-Pflicht für Windows 11",
-      "teaser": "Die Hardwareanforderungen für Windows 11 werden nicht gelockert. Microsoft setzt auch in Zukunft auf TPM 2.0, aber nicht für alle Windows-Versionen.",
-      "url": "https://www.heise.de/news/Microsoft-haelt-an-Systemanforderungen-fuer-Windows-11-fest-10189393.html",
-      "image_title": "Ein Finger zeigt auf den Windows-11-Startbildschirm."
-    },
-    {
-      "title": "Salesforce: 200 Großkunden steigen bei Agentforce ein",
-      "teaser": "Die Quartalszahlen des zweitgrößten Softwarekonzerns der Welt sind rosig – auch dank der KI-Plattform Agentforce.",
-      "url": "https://www.heise.de/news/Salesforce-200-Grosskunden-steigen-bei-Agentforce-ein-10188733.html",
-      "image_title": "Luftaufnahme von San Francisco mit dem Salesforce-Tower."
-    },
-    {
-      "title": "KI-Studie: Kreativen droht Wegfall von 25 Prozent des Einkommens",
-      "teaser": "Eine Studie der Kreativwirtschaft hat die Folgen Künstlicher Intelligenz untersucht. Es drohen hohe Einnahmeverluste, wenn die Politik nicht einschreite.",
-      "url": "https://www.heise.de/news/KI-Studie-Kreativen-droht-Wegfall-von-25-Prozent-des-Einkommens-10189340.html",
-      "image_title": "Symbolbild KI-Musik: Schattenriss eines menschlichen Kopfes, dafür künstlicher Darstellung von Musik symbolisierenden Wellen und Balkengrafiken"
-    },
-    {
-      "title": "Öko-Maus: Die erste PC-Maus mit dem Umweltzeichen Blauer Engel",
-      "teaser": "Der bayrische Verein Nager IT verkauft seit zwölf Jahren die \"Faire Maus\" mit möglichst nachhaltiger Technik, die nun endlich den Blauen Engel tragen kann.",
-      "url": "https://www.heise.de/news/Oeko-Maus-Die-erste-PC-Maus-mit-dem-Umweltzeichen-Blauer-Engel-10189195.html",
-      "image_title": "Die Faire Maus bekommt das Umweltzeichen Blauer Engel."
     },
     {
       "title": "Die neusten Ergebnisse für dieses Jahr",
