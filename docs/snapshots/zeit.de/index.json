@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-12-07T14:01:00",
+  "timestamp": "2024-12-07T15:01:25",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
@@ -110,25 +116,25 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Wiedereröffnung von Notre-Dame : Ein Heide in Paris",
-      "teaser": "Donald Trump besucht überraschend die Wiedereröffnung von Notre-Dame. Amerikas Rechte werden es feiern. Sie träumen vom christlichen Staat, inklusive Tugendterror.",
-      "url": "https://www.zeit.de/kultur/2024-12/wiedereroeffnung-notre-dame-donald-trump-usa-christentum",
-      "image_url": "https://img.zeit.de/kultur/2024-12/wiedereroeffnung-notre-dame-donald-trump-usa-christentum-bild/wide__1000x562",
-      "image_title": "Wiedereröffnung von Notre-Dame: Ein Heide in Paris"
+      "title": "Z+ (abopflichtiger Inhalt); Rohmilch : Roh, romantisiert, riskant",
+      "teaser": "Rohmilch ist natürlich, gesund und beugt Allergien vor, pasteurisierte Milch vitaminarme Plörre. Solche Behauptungen gehen viral – und ignorieren damit die Gefahren.",
+      "url": "https://www.zeit.de/gesundheit/2024-12/rohmilch-risiken-infektion-bakterien-kinder-schwangere-vitaminverlust",
+      "image_url": "https://img.zeit.de/gesundheit/2024-12/rohmilch-risiken-infektion-bakterien-kinder-schwangere/wide__1000x562",
+      "image_title": "Rohmilch: Roh, romantisiert, riskant"
     },
     {
-      "title": "Bau von Notre-Dame : Warum baut der Mensch so etwas Verrücktes wie Notre-Dame?",
-      "teaser": "Alles Dunkle soll weichen, alles Lastende soll schweben. Bauwerke wie Notre-Dame sind Häuser des Aufbruchs. Auch deshalb verlieren sie nichts von ihrer Macht.",
-      "url": "https://www.zeit.de/2024/52/bau-notre-dame-wiedereroeffnung-paris",
-      "image_url": "https://img.zeit.de/2024/52/das-geheimnis-der-kathedrale-bild-1/super__430x286",
-      "image_title": "Bau von Notre-Dame: Und alles beginnt zu schweben: Blick auf die Gewölbe der Notre-Dame in Paris"
+      "title": "Syrien : Aufständische sollen auf Damaskus vorrücken",
+      "teaser": "Die syrischen Aufständischen bereiten nach eigenen Angaben den Angriff auf Damaskus vor. Das Regime dementiert Berichte über einen Truppenabzug südlich der Hauptstadt.",
+      "url": "https://www.zeit.de/politik/ausland/2024-12/damaskus-hts-syrien-rebellen-sohr",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-12/regierungsfeindliche-kaempfer-syrien-bild/super__430x286",
+      "image_title": "Syrien: A rebel fighter sits on the back of a vehicle in Homs countryside, after Syrian rebels pressed their lightning advance on Saturday, saying they had seized most of the south, as government forces dug in to defend the key central city of Homs to try to save President Bashar al-Assad's 24-year rule, in Syria December 7, 2024."
     },
     {
-      "title": "Südkorea : Amtsenthebung von Südkoreas Staatschef im Parlament gescheitert",
-      "teaser": "Der südkoreanische Präsident Yoon Suk Yeol bleibt im Amt. Großteile seiner Partei haben die Abstimmung über ein Amtsenthebungsverfahren boykottiert.",
-      "url": "https://www.zeit.de/politik/ausland/2024-12/amtsenthebung-von-suedkoreas-staatschef-im-parlament-gescheitert",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-12/yoon-suk-yeol-suedkorea-bild/super__430x286",
-      "image_title": "Südkorea: South Korean President Yoon Suk Yeol bows while delivering an address to the nation at the Presidential Office in Seoul, South Korea, December 7, 2024. The Presidential Office/Handout via REUTERS ATTENTION EDITORS - THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY. TPX IMAGES OF THE DAY"
+      "title": "Z+ (abopflichtiger Inhalt); Kämpfe in Syrien : So verstehen Sie den Konflikt in Syrien",
+      "teaser": "Islamisten erobern Aleppo, das Regime bricht vielerorts zusammen: Nach 13 Jahren Krieg scheint plötzlich in Syrien alles möglich. Wer dort kämpft, und wo die Guten sind.",
+      "url": "https://www.zeit.de/politik/ausland/2024-12/kaempfe-syrien-aleppo-hts-miliz-baschar-al-assad",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-12/kaempfe-syrien-aleppo-hts-miliz-baschar-al-assad-bild/super__430x286",
+      "image_title": "Kämpfe in Syrien: Ein islamistischer HTS-Kämpfer in der gerade eroberten Stadt Hama am 5. Dezember"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Christian Lindner : Wie geht's denn so, Herr Lindner?",
@@ -138,18 +144,11 @@
       "image_title": "Christian Lindner: Richtlinienkompetent zum bösen Buben erklärt: Christian Lindner durchlebt gerade die größte Krise seiner politischen Karriere."
     },
     {
-      "title": "FDP-Basis : \"Wortwahl scheiße, aber inhaltlich vollkommen in Ordnung\"",
-      "teaser": "Wie geht es der FDP-Basis, zwischen \"D-Day\" und Neuwahl? Ein Besuch beim Stammtisch im bayerischen Freising",
-      "url": "https://www.zeit.de/politik/deutschland/2024-12/fdp-basis-d-day-neuwahl-meinung-christian-lindner",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/fdp-basis-d-day-neuwahl-meinung-christian-lindner-bild/super__430x286",
-      "image_title": "FDP-Basis: FDP Stammtisch Freising, Restaurant Et Cetera, 04.12.2024 für ZEIT Online"
-    },
-    {
-      "title": "Demokratische Republik Kongo : Fast 400 Patienten mit \"Krankheit X\" infiziert",
-      "teaser": "Im Südwesten des Kongo haben sich inzwischen fast 400 Menschen mit einer noch unbekannten Krankheit infiziert. Die WHO kündigt an, Expertenteams zu entsenden.",
-      "url": "https://www.zeit.de/gesundheit/2024-12/demokratische-republik-kongo-unbekannte-krankheit-patienten",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-12/krankheit-x-bild-2/super__430x286",
-      "image_title": "Demokratische Republik Kongo: Doctor James Wakilonga Zanguilwa records information from an mpox patient at the Kamituga treatment centre in South Kivu in the east of the Democratic Republic of Congo on September 20, 2024. Kamituga, one of the localities hardest hit by the epidemic with around a thousand confirmed cases, will be one of the first to receive the doses, according to the provincial health authorities. Kamituga, one of the localities hardest hit by the epidemic with around a thousand confirmed cases, will be one of the first to receive the doses, according to the provincial health authorities. (Photo by Glody MURHABAZI / AFP) (Photo by GLODY MURHABAZI/AFP via Getty Images)"
+      "title": "Liveblog:Ukrainekrieg : Ukraine erhält weitere F-16-Kampfjets",
+      "teaser": "Dänemark hat der Ukraine weitere F-16-Jets geliefert. Laut Wolodymyr Selenskyj werden sie derzeit zur Abwehr russischer Luftangriffe eingesetzt. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-12/ukraine-zweite-lieferung-f-16-kampfjets-aus-daenemark-bild/super__430x286",
+      "image_title": "Ukrainekrieg: Ukrainian President Volodymyr Zelensky (L) and Danish Prime Minister Mette Frederiksen (R) sit in a F-16 fighter jet in the hangar of the Skrydstrup Airbase in Vojens, northern Denmark, on August 20, 2023. Washington has told Denmark and the Netherlands that they will be permitted to hand over their F-16 fighter jets to Ukraine when the country's pilots are trained to operate them, the US State Department said on August 18, 2023. Both Denmark and the Netherlands are leading the program to train Ukraine's pilots on the F-16."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Schlagerstars : Sie geben sich naturnah und heimatverbunden",
@@ -166,25 +165,25 @@
       "image_title": "Indian Palace in Olten: Vikraj Singh, 59, im Indian Palace in Olten"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Kämpfe in Syrien : So verstehen Sie den Konflikt in Syrien",
-      "teaser": "Islamisten erobern Aleppo, das Regime bricht vielerorts zusammen: Nach 13 Jahren Krieg scheint plötzlich in Syrien alles möglich. Wer dort kämpft, und wo die Guten sind.",
-      "url": "https://www.zeit.de/politik/ausland/2024-12/kaempfe-syrien-aleppo-hts-miliz-baschar-al-assad",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-12/kaempfe-syrien-aleppo-hts-miliz-baschar-al-assad-bild/super__430x286",
-      "image_title": "Kämpfe in Syrien: Ein islamistischer HTS-Kämpfer in der gerade eroberten Stadt Hama am 5. Dezember"
+      "title": "Demokratische Republik Kongo : Fast 400 Patienten mit \"Krankheit X\" infiziert",
+      "teaser": "Im Südwesten des Kongo haben sich inzwischen fast 400 Menschen mit einer noch unbekannten Krankheit infiziert. Die WHO kündigt an, Expertenteams zu entsenden.",
+      "url": "https://www.zeit.de/gesundheit/2024-12/demokratische-republik-kongo-unbekannte-krankheit-patienten",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-12/krankheit-x-bild-2/super__430x286",
+      "image_title": "Demokratische Republik Kongo: Doctor James Wakilonga Zanguilwa records information from an mpox patient at the Kamituga treatment centre in South Kivu in the east of the Democratic Republic of Congo on September 20, 2024. Kamituga, one of the localities hardest hit by the epidemic with around a thousand confirmed cases, will be one of the first to receive the doses, according to the provincial health authorities. Kamituga, one of the localities hardest hit by the epidemic with around a thousand confirmed cases, will be one of the first to receive the doses, according to the provincial health authorities. (Photo by Glody MURHABAZI / AFP) (Photo by GLODY MURHABAZI/AFP via Getty Images)"
     },
     {
-      "title": "Syrien : Syrisches Militär zieht sich aus Gebieten im Süden zurück",
-      "teaser": "Die Provinzen Daraa und Suweida stehen offenbar fast vollständig unter der Kontrolle lokaler Milizen. Das syrische Militär will sich nun \"neu positionieren\".",
-      "url": "https://www.zeit.de/politik/ausland/2024-12/syrien-militaer-sueden-daraa-suweida-homs",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-12/syriens-militaer-bild/super__430x286",
-      "image_title": "Syrien: Anti government fighters stand on top of a Syrian army jet after they took over a military airbase near the central city of Hama, on December 6, 2024. Rebel forces pressing a lightning offensive in Syria aim to overthrow President Bashar al-Assad's rule, their Islamist leader said in an interview published on December 6. In little over a week, the offensive has seen Syria's second city Aleppo and strategically located Hama fall from Assad's control for the first time since the civil war began in 2011. (Photo by OMAR HAJ KADOUR / AFP) (Photo by OMAR HAJ KADOUR/AFP via Getty Images)"
+      "title": "Südkorea : Amtsenthebung von Südkoreas Staatschef im Parlament gescheitert",
+      "teaser": "Der südkoreanische Präsident Yoon Suk Yeol bleibt im Amt. Großteile seiner Partei haben die Abstimmung über ein Amtsenthebungsverfahren boykottiert.",
+      "url": "https://www.zeit.de/politik/ausland/2024-12/amtsenthebung-von-suedkoreas-staatschef-im-parlament-gescheitert",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-12/yoon-suk-yeol-suedkorea-bild/super__430x286",
+      "image_title": "Südkorea: South Korean President Yoon Suk Yeol bows while delivering an address to the nation at the Presidential Office in Seoul, South Korea, December 7, 2024. The Presidential Office/Handout via REUTERS ATTENTION EDITORS - THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY. TPX IMAGES OF THE DAY"
     },
     {
-      "title": "Liveblog:Ukrainekrieg : Ukraine erhält weitere F-16-Kampfjets",
-      "teaser": "Dänemark hat der Ukraine weitere F-16-Jets geliefert. Laut Wolodymyr Selenskyj werden sie derzeit zur Abwehr russischer Luftangriffe eingesetzt. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-12/ukraine-zweite-lieferung-f-16-kampfjets-aus-daenemark-bild/super__430x286",
-      "image_title": "Ukrainekrieg: Ukrainian President Volodymyr Zelensky (L) and Danish Prime Minister Mette Frederiksen (R) sit in a F-16 fighter jet in the hangar of the Skrydstrup Airbase in Vojens, northern Denmark, on August 20, 2023. Washington has told Denmark and the Netherlands that they will be permitted to hand over their F-16 fighter jets to Ukraine when the country's pilots are trained to operate them, the US State Department said on August 18, 2023. Both Denmark and the Netherlands are leading the program to train Ukraine's pilots on the F-16."
+      "title": "Z+ (abopflichtiger Inhalt); Wiedereröffnung von Notre-Dame : Ein Heide in Paris",
+      "teaser": "Donald Trump besucht überraschend die Wiedereröffnung von Notre-Dame. Amerikas Rechte werden es feiern. Sie träumen vom christlichen Staat, inklusive Tugendterror.",
+      "url": "https://www.zeit.de/kultur/2024-12/wiedereroeffnung-notre-dame-donald-trump-usa-christentum",
+      "image_url": "https://img.zeit.de/kultur/2024-12/wiedereroeffnung-notre-dame-donald-trump-usa-christentum-bild/super__430x286",
+      "image_title": "Wiedereröffnung von Notre-Dame: Ein Heide in Paris"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Tipps für Eltern : 24 Elternratschläge aus der Hölle",
@@ -194,8 +193,8 @@
       "image_title": "Tipps für Eltern: 24 Elternratschläge aus der Hölle"
     },
     {
-      "title": "Deutscher Olympischer Sportbund : DOSB beschließt Gespräche über Olympia-Bewerbung Deutschlands",
-      "teaser": "Der DOSB will für eine mögliche Olympia-Bewerbung Gespräche mit dem IOC aufnehmen. Offen bleibt, um welches Jahr es geht – und um welche Stadt.",
+      "title": "Deutscher Olympischer Sportbund : DOSB beschließt Gespräche über Olympiabewerbung Deutschlands",
+      "teaser": "Der DOSB will für eine mögliche Olympiabewerbung Gespräche mit dem IOC aufnehmen. Offen bleibt, um welches Jahr es geht – und um welche Stadt.",
       "url": "https://www.zeit.de/sport/2024-12/dosb-olympia-bewerbung-deutschland-mitgliederversammlung",
       "image_url": "https://img.zeit.de/sport/2024-12/dosb-mitgliederversammlung-saarbruecken-bild/super__430x286",
       "image_title": "Deutscher Olympischer Sportbund: Thomas Weikert, Präsident des Deutschen Olympischer Sportbundes (DOSB), spricht bei einer Mitgliederversammlung (MV) des DOSB. Saarbrücken, 07.12.2024"
@@ -502,16 +501,16 @@
       "image_title": "Diese Woche in der ZEIT: Sind die noch zu retten?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Phantomgrenzen : Wo die alten deutschen Grenzen sichtbar werden",
-      "teaser": "Preußen und das deutsche Kaiserreich beeinflussen noch immer, wie Menschen heute in der EU wählen. Absurd, oder? Wir zeigen erstmals fünf Phantomgrenzen Europas.",
-      "url": "https://www.zeit.de/politik/2024-12/phantomgrenzen-wahldaten-politische-grenzen-ddr-polen",
-      "image_url": "https://img.zeit.de/politik/2024-12/phantomgrenzen-wahldaten-politische-grenzen-ddr-polen-teaserbild/super__430x286",
-      "image_title": "Phantomgrenzen: Wo die alten deutschen Grenzen sichtbar werden"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Weihnachtsgeschenke für Kinder : Geschenke für jedes Alter: Worüber sich Kinder wirklich freuen",
       "teaser": "Die idealen Geschenke für Kinder? Das sind solche, die sie gut beschäftigen und Eltern ein bisschen Ruhe verschaffen: 25 Ideen, von denen die ganze Familie profitiert.",
-      "url": "https://www.zeit.de/familie/2024-12/weihnachtsgeschenke-kinder-alter-tipps-ideen"
+      "url": "https://www.zeit.de/familie/2024-12/weihnachtsgeschenke-kinder-alter-tipps-ideen",
+      "image_url": "https://img.zeit.de/familie/2024-12/weihnachtsgeschenke-kinder-alter-tipps-2/super__430x286",
+      "image_title": "Weihnachtsgeschenke für Kinder: Geschenke für jedes Alter: Worüber sich Kinder wirklich freuen"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Phantomgrenzen : Wo die alten deutschen Grenzen sichtbar werden",
+      "teaser": "Preußen und das deutsche Kaiserreich beeinflussen noch immer, wie Menschen heute in der EU wählen. Absurd, oder? Wir zeigen erstmals fünf Phantomgrenzen Europas.",
+      "url": "https://www.zeit.de/politik/2024-12/phantomgrenzen-wahldaten-politische-grenzen-ddr-polen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Scott Galloway • Das Beste aus Z+ : \"Der Weg zur Million beginnt mit 1.000 Euro\"",
@@ -548,23 +547,23 @@
       "url": "https://www.zeit.de/politik/deutschland/2024-12/fdp-gesetzentwurf-kalte-progression-absage"
     },
     {
-      "title": "AfD : Alice Weidel offiziell als AfD-Kanzlerkandidatin vorgestellt",
-      "teaser": "Eine Chance auf Regierungsbeteiligung hat die AfD nicht. Mit Alice Weidel wurde dennoch eine Kanzlerkandidatin nominiert – zum ersten Mal in der Parteigeschichte.",
-      "url": "https://www.zeit.de/politik/ausland/2024-12/alice-weidel-offiziell-als-afd-kanzlerkandidatin-vorgestellt"
+      "title": "Cum-Ex-Skandal : Er weiß, dass er nichts weiß",
+      "teaser": "In Olaf Scholz' Zeit als Hamburger Bürgermeister ging die Stadt mit Steuerkriminellen erstaunlich nachsichtig um. Im Untersuchungsausschuss sagt Scholz dazu: nichts.",
+      "url": "https://www.zeit.de/hamburg/2024-12/cum-ex-skandal-olaf-scholz-untersuchungsausschuss-hamburg-bundestagswahlkampf"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Rohmilch : Roh, romantisiert, riskant",
+      "teaser": "Rohmilch ist natürlich, gesund und beugt Allergien vor, pasteurisierte Milch vitaminarme Plörre. Solche Behauptungen gehen viral – und ignorieren damit die Gefahren.",
+      "url": "https://www.zeit.de/gesundheit/2024-12/rohmilch-risiken-infektion-bakterien-kinder-schwangere-vitaminverlust",
+      "image_url": "https://img.zeit.de/gesundheit/2024-12/rohmilch-risiken-infektion-bakterien-kinder-schwangere/wide__892x501",
+      "image_title": "Rohmilch: Roh, romantisiert, riskant"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Regierungskrise : Eine nie da gewesene Herausforderung",
       "teaser": "Joe Biden, Emmanuel Macron, Olaf Scholz: Die liberalen Demokratien stehen ohne starke Führung da. Gleichzeitig sinkt das Staatsvertrauen. Es profitiert: Wladimir Putin.",
       "url": "https://www.zeit.de/2024/52/regierungskrise-deutschland-frankreich-usa-joe-biden",
-      "image_url": "https://img.zeit.de/2024/52/regierungskrise-deutschland-frankreich-usa-joe-biden-teaser/wide__892x501",
+      "image_url": "https://img.zeit.de/2024/52/regierungskrise-deutschland-frankreich-usa-joe-biden-teaser/super__430x286",
       "image_title": "Regierungskrise: Eine nie da gewesene Herausforderung"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Liebe in Beziehungen : Ich liebe dich. Aber sag du zuerst",
-      "teaser": "Das Rom-Com-Klischee sagt: Frauen verlieben sich viel schneller. Die Forschung ist sich nicht ganz sicher, ob das stimmt. Drei Frauen erzählen, wie sie es erleben.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2024-12/liebe-beziehungen-geschlecht-verlieben-schnelligkeit",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-12/schnell-verlieben-romcom-klischee/super__430x286",
-      "image_title": "Schnell verlieben RomCom-Klischee"
     },
     {
       "title": "Verlagsangebot : 6 Städte in und um Deutschland, die Sie gerade jetzt besuchen sollten",
@@ -777,18 +776,18 @@
       "image_title": "\"Lieferdienst\" von Tom Hillenbrand: Tom Hillenbrands Krimi \"Lieferdienst\" erzählt, was der menschliche Konsum- und Machtwille so alles anrichten kann."
     },
     {
+      "title": "Bau von Notre-Dame : Warum baut der Mensch so etwas Verrücktes wie Notre-Dame?",
+      "teaser": "Alles Dunkle soll weichen, alles Lastende soll schweben. Bauwerke wie Notre-Dame sind Häuser des Aufbruchs. Auch deshalb verlieren sie nichts von ihrer Macht.",
+      "url": "https://www.zeit.de/2024/52/bau-notre-dame-wiedereroeffnung-paris",
+      "image_url": "https://img.zeit.de/2024/52/das-geheimnis-der-kathedrale-bild-1/super__430x286",
+      "image_title": "Bau von Notre-Dame: Und alles beginnt zu schweben: Blick auf die Gewölbe der Notre-Dame in Paris"
+    },
+    {
       "title": "\"Was du kriegen kannst\" : Nimm dich in Acht vor der schönen Frau an der Bar",
       "teaser": "Clemens Böckmann erzählt in seinem neuen Roman die Geschichte einer Stasi-Mitarbeiterin. Für den Friedensdienst setzt diese sogar ihren Körper ein.",
       "url": "https://www.zeit.de/2024/51/was-du-kriegen-kannst-clemens-boeckmann-roman-stasi-mitarbeiterin",
       "image_url": "https://img.zeit.de/2024/51/nimm-dich-in-acht-vor-der-schoenen-frau-an-der-bar-bild/super__430x286",
       "image_title": "\"Was du kriegen kannst\": Im wahren Leben ist Lotte Lenya, die Hauptfigur in Clemens Böckmanns Roman \"Was du kriegen kannst\", alleinerziehende Mutter und Verkäuferin in einem Möbelgeschäft, im zweiten Leben IM Anna."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Kitschkrieg : Wir sind jetzt die Aliens",
-      "teaser": "Kitschkrieg haben Deutschrap geprägt wie kein zweites Produzententeam. Dann sind sie ausgewandert. Ihr nächstes Projekt: den US-Markt knacken. Ein Besuch in Hollywood",
-      "url": "https://www.zeit.de/kultur/musik/2024-12/kitschkrieg-deutschrap-musik-produzent-hollywood-projekt",
-      "image_url": "https://img.zeit.de/kultur/musik/2024-12/kitschkrieg-trettmann-soulforce/super__430x286",
-      "image_title": "Kitschkrieg Trettmann SoulForce"
     },
     {
       "title": "EU-Erdbeobachtungsprogramm Copernicus : Rekordhoher CO₂-Ausstoß 2024 durch Waldbrände in Nord- und Südamerika",
@@ -943,18 +942,18 @@
       "image_title": "Krise in Georgien: Weiter Proteste in Georgien trotz Drohungen von Regierungschef"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Liebe in Beziehungen : Ich liebe dich. Aber sag du zuerst",
+      "teaser": "Das Rom-Com-Klischee sagt: Frauen verlieben sich viel schneller. Die Forschung ist sich nicht ganz sicher, ob das stimmt. Drei Frauen erzählen, wie sie es erleben.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2024-12/liebe-beziehungen-geschlecht-verlieben-schnelligkeit",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024-12/schnell-verlieben-romcom-klischee/wide__892x501",
+      "image_title": "Schnell verlieben RomCom-Klischee"
+    },
+    {
       "title": "Georg Toepfer : Vielfalt ist für alle da",
       "teaser": "Die AfD will Vereinen die Gemeinnützigkeit entziehen, wenn sie sich auf Vielfalt berufen. Ein Biologe und Philosoph erklärt, ob Diversität gut oder schlecht ist.",
       "url": "https://www.zeit.de/zeit-magazin/2024/52/georg-toepfer-philosophie-natur-vielfalt",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024/52/da-draussen-bild-1/wide__892x501",
+      "image_url": "https://img.zeit.de/zeit-magazin/2024/52/da-draussen-bild-1/super__430x286",
       "image_title": "Georg Toepfer: Vielfalt ist für alle da"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Greta Thunberg : Der Besuch der unerwünschten Person",
-      "teaser": "700 Menschen kommen zur Pro-Palästina-Demonstration in Mannheim, nicht zuletzt wegen Greta Thunberg. Sie bleibt auch dieses Mal plakativ: \"Fuck Israel! And fuck Germany!\"",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2024-12/greta-thunberg-pro-palaestina-demo-mannheim-aktivistin",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-12/greta-thunberg-pro-palaestina-demo-2/super__430x286",
-      "image_title": "Greta Thunberg: Der Besuch der unerwünschten Person"
     },
     {
       "title": "Worträtsel : Wortiger",
@@ -1048,11 +1047,11 @@
       "image_title": "Orientierungssemester: braucht es eine?"
     },
     {
-      "title": "Verlagsangebot : Durchblick im Studiendschungel",
-      "teaser": "Bei 20.000 möglichen Studiengängen in Deutschland verliert man schnell den Überblick. Unterstützung bietet die Suchmaschine für Studiengänge und Hochschulen.",
-      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.whiteboard_studiendschungel.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_whiteboard_studiendschungel_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-3-klein/man-wearing-black-and-white-stripe-shirt-looking-at-white-197.jpg",
-      "image_title": "Durchblick im Studiendschungel"
+      "title": "Verlagsangebot : Ein Studium finden, das passt",
+      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
+      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.teaser.bewerben-schreibtisch.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=sit-verlagsteaser&amp;utm_content=sit_teaser_bewerben-schreibtisch_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/sit-bewerben-schreibtisch/wide__430x286__desktop",
+      "image_title": "Ein Studium finden, das passt"
     },
     {
       "title": "Schach-WM : Live: Die zehnte Partie der Schach-WM",
@@ -1083,36 +1082,36 @@
       "image_title": "Cum-Ex-Skandal: Bundeskanzler Olaf Scholz vor dem Parlamentarischen Untersuchungsausschuss zur Cum-Ex-Affäre in Hamburg."
     },
     {
-      "title": "Weltcup-Start: Sprinter Wulff gewinnt beim Debüt mit Friedrich im Zweierbob",
-      "url": "https://www.zeit.de/news/2024-12/07/sprinter-wulff-gewinnt-beim-debuet-mit-friedrich-im-zweierbob"
+      "title": "Fußball-Bundesliga: Leverkusens Sportchef Rolfes hält für Tah \"die Tür auf\"",
+      "url": "https://www.zeit.de/news/2024-12/07/leverkusens-sportchef-rolfes-haelt-fuer-tah-die-tuer-auf"
     },
     {
-      "title": "Gewaltverbrechen: Tote Frau aus Coburg: Haftbefehl gegen Bekannten erlassen",
-      "url": "https://www.zeit.de/news/2024-12/07/tote-frau-aus-coburg-haftbefehl-gegen-bekannten-erlassen"
+      "title": "Krieg in Syrien: Lawrow ruft nach Syrien-Gesprächen in Doha zum Dialog auf",
+      "url": "https://www.zeit.de/news/2024-12/07/syriens-militaer-zieht-sich-aus-gebieten-im-sueden-zurueck"
     },
     {
-      "title": "Verkehr: Autos kollidieren frontal - fünf Menschen verletzt",
-      "url": "https://www.zeit.de/news/2024-12/07/autos-kollidieren-frontal-mehrere-menschen-schwer-verletzt"
+      "title": "Bundestagswahl: Hamburger FDP wählt Ria Schröder zu Spitzenkandidatin",
+      "url": "https://www.zeit.de/news/2024-12/07/hamburger-fdp-waehlt-ria-schroeder-zu-spitzenkandidatin"
     },
     {
-      "title": "Parteitag: Misbah Khan auf Spitzenplatz der Grünen-Landesliste",
-      "url": "https://www.zeit.de/news/2024-12/07/misbah-khan-auf-spitzenplatz-der-gruenen-landesliste"
+      "title": "Aufstellung für Bundestagswahl: Klüssendorf als Spitzenkandidat der Nord-SPD gewählt",
+      "url": "https://www.zeit.de/news/2024-12/07/kluessendorf-als-spitzenkandidat-der-nord-spd-gewaehlt"
     },
     {
-      "title": "Mehrere Verletzte: 20 Vermisste nach Explosion in Mehrfamilienhaus in Den Haag",
-      "url": "https://www.zeit.de/news/2024-12/07/bis-zu-20-vermisste-bei-explosion-in-wohngebaeude-in-den-haag"
+      "title": "Zusammenhalt: Woidke hält Ehrenamt für unverzichtbar",
+      "url": "https://www.zeit.de/news/2024-12/07/woidke-haelt-ehrenamt-fuer-unverzichtbar"
     },
     {
-      "title": "Neubaugebiet: Aktivisten in besetztem Freiburg-Waldstück festgenommen",
-      "url": "https://www.zeit.de/news/2024-12/07/aktivisten-sollen-waldstueck-in-freiburg-verlassen"
+      "title": "Weihnachtsmarkt: Sinterklaas reitet durchs Holländer-Viertel",
+      "url": "https://www.zeit.de/news/2024-12/07/sinterklaas-reitet-durchs-hollaender-viertel"
     },
     {
-      "title": "Bundestagswahl: Faber setzt sich als FDP-Spitzenkandidat durch",
-      "url": "https://www.zeit.de/news/2024-12/07/fdp-stellt-personal-fuer-die-bundestagswahl-auf"
+      "title": "TV-Show mit Olaf Schubert: Torsten Sträter begann Autoren-Karriere aus Langeweile",
+      "url": "https://www.zeit.de/news/2024-12/07/torsten-straeter-begann-autoren-karriere-aus-langeweile"
     },
     {
-      "title": "Fußball und Politik: Watzkes \"Grundsympathie\" für Merz",
-      "url": "https://www.zeit.de/news/2024-12/07/watzkes-grundsympathie-fuer-merz"
+      "title": "Bundestagswahl: BSW-Ortsbürgermeister wird Thüringer Spitzenkandidat",
+      "url": "https://www.zeit.de/news/2024-12/07/bsw-ortsbuergermeister-wird-thueringer-spitzenkandidat"
     }
   ]
 }
