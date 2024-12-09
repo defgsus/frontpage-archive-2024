@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-12-09T02:23:27",
+  "timestamp": "2024-12-09T03:30:02",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -111,11 +117,11 @@
       "image_title": "Sturz der Assad-Diktatur: Diktaturen sind wie Schneeballsysteme"
     },
     {
-      "title": "Liveblog:Syrien : Assad ist laut russischen Staatsmedien in Moskau",
-      "teaser": "\"Aus humanitären Erwägungen\" habe Russland dem gestürzten syrischen Machthaber Asyl geboten, berichten russische Medien. Offiziell bestätigt ist das nicht. Das Liveblog",
+      "title": "Liveblog:Syrien : Aktivisten melden 26 Tote bei Offensive protürkischer Kämpfer",
+      "teaser": "In Nordsyrien werden heftige Kämpfe verfeindeter Gruppen gemeldet. Die USA wollen Baschar al-Assad für \"Gräueltaten\" zur Rechenschaft ziehen. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/2024-12/syrien-dschihadisten-milizen-vormarsch-assad-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-12/syrien-dschihadisten-milizen-vormarsch-assad-liveblog-bild-11/super__430x286",
-      "image_title": "Syrien: TOPSHOT - A torn portrait of Syrian President Bashar al-Assad is pictured on a main road in the district of Khan al-Assal which was taken over by Jihadists and their Turkish-backed allies in the latest battles with government forces in the northern Syrian province, on November 29, 2024. The fighters launched this week a shock offensive against Syrian government troops and sparked the deadliest battle the country has seen in years, with the violence killing so far 242 people, according to the Syrian Observatory for Human Rights. The war monitor said most of the victims were combatants on both sides but also including civilians. (Photo by Aaref WATAD / AFP) (Photo by AAREF WATAD/AFP via Getty Images)"
+      "image_url": "https://img.zeit.de/politik/ausland/2024-12/syrien-kaempfe-tuerkei-kurden-bild/super__430x286",
+      "image_title": "Syrien: Ein Kämpfer der von der Türkei unterstützten Streitkräfte bedient ein Maschinengewehr an der Frontlinie Buwayhij-Boughaz-Korhoyuk am Stadtrand von Manbij im Nordosten Syriens, während sie mit den von den USA unterstützten kurdisch geführten Syrischen Demokratischen Kräften (SDF) kämpfen, 6. September 2023. (Foto von Bakr ALKASEM / AFP) (Foto von BAKR ALKASEM/AFP via Getty Images)"
     },
     {
       "title": "Abu Muhammad Al-Dschaulani : Ein Islamist, der Politiker werden will",
@@ -132,11 +138,18 @@
       "image_title": "Syrer in Berlin: \"Syrien wieder aufbauen? Wir schaffen das!\""
     },
     {
-      "title": "Syrien-Überblick : Assad offenbar in Russland, Israel nimmt Pufferzone ein",
-      "teaser": "Nach dem Sturz von Baschar al-Assad herrscht international Euphorie, aber auch Sorge um die Zukunft Syriens. Russland gewährt dem Ex-Diktator Schutz. Der Tag",
-      "url": "https://www.zeit.de/politik/ausland/2024-12/syrien-ueberblick-baschar-al-assad-sturz-israel-pufferzone",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-12/syrien-baschar-al-assad-bild/super__320x213",
-      "image_title": "Syrien-Überblick: TOPSHOT - Syrian rebel fighters celebrate at the Clock Tower in the heart of the central city of Homs early on December 8, 2024, after rebel forces entered Syria's third city overnight. Hayat Tahrir al-Sham (HTS) and allied anti-goovernment factions have pressed a lightning offensive since November 27, sweeping swathes of the country from government control, including major cities Aleppo, Hama and Homs. (Photo by Aaref WATAD / AFP) (Photo by AAREF WATAD/AFP via Getty Images)"
+      "title": "Umsturz in Syrien : Hofreiter warnt vor Änderung der Migrationspolitik gegenüber Syrern",
+      "teaser": "Ein Migrationsforscher hält nach dem Sturz des Assad-Regimes einen \"historischen Wendepunkt\" für möglich. Der Grüne Anton Hofreiter will Syrern weiterhin Schutz gewähren.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-12/syrien-umsturz-debatte-fluechtlinge-status-deutschland",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/syrien-umsturz-debatte-fluechtlinge-status-deutschland-bild/super__430x286",
+      "image_title": "Umsturz in Syrien: Zelte von Binnenflüchtlingen im Norden Syriens."
+    },
+    {
+      "title": "Umsturz in Syrien : Baschar al-Assad soll in Moskau sein",
+      "teaser": "Die syrische Regierung gibt an, nicht zu wissen, wo der gestürzte Machthaber Assad ist. Laut russischen staatlichen Medien ist der Ex-Diktator in Moskau eingetroffen.",
+      "url": "https://www.zeit.de/politik/ausland/2024-12/syrien-umsturz-baschar-al-assad-moskau",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-12/syrien-umsturz-baschar-al-assad-moskau-bild/super__320x213",
+      "image_title": "Umsturz in Syrien: TOPSHOT - An anti-government fighter tears down a portrait of Syria's President Bashar al-Assad in Aleppo, after jihadists and their allies entered the northern Syrian city, on November 30, 2024. Hayat Tahrir al-Sham (HTS) jihadists and their Turkish-backed allies breached Syria's second city of Aleppo on November 29, as they pressed a lightning offensive against forces of the Iranian- and Russian-backed government. (Photo by Mohammed AL-RIFAI / AFP) (Photo by MOHAMMED AL-RIFAI/AFP via Getty Images)"
     },
     {
       "title": "Austin Tice : In Syrien vermisster US-Journalist ist laut Joe Biden wohl am Leben",
@@ -181,20 +194,6 @@
       "image_title": "Machtwechsel in Syrien: December 8, 2024, Munich, Bavaria, Germany: Some 6,000 Syrians and people of other Middle Eastern and North Africa backgrounds assembled at Munich s Odeonsplatz to celebrate the fall of the Assad regime in Syria, as well as the swift rise of the HTS hardline Islamist rebels. Munich Germany - ZUMAb160 20241208_abp_b160_007 Copyright: xSachellexBabbarx"
     },
     {
-      "title": "Umsturz in Syrien : Hofreiter warnt vor Änderung der Migrationspolitik gegenüber Syrern",
-      "teaser": "Ein Migrationsforscher hält nach dem Sturz des Assad-Regimes einen \"historischen Wendepunkt\" für möglich. Der Grüne Anton Hofreiter will Syrern weiterhin Schutz gewähren.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-12/syrien-umsturz-debatte-fluechtlinge-status-deutschland",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/syrien-umsturz-debatte-fluechtlinge-status-deutschland-bild/super__430x286",
-      "image_title": "Umsturz in Syrien: Zelte von Binnenflüchtlingen im Norden Syriens."
-    },
-    {
-      "title": "Designierter US-Präsident : Donald Trump hält sich rechtliche Verfolgung politischer Gegner offen",
-      "teaser": "Der künftige US-Präsident droht Kongressabgeordneten mit Gefängnisstrafen. Dem Justizministerium und FBI will er bei möglichen Verfahren jedoch keine Vorgaben machen.",
-      "url": "https://www.zeit.de/politik/ausland/2024-12/donald-trump-gerichtsverfahren-politische-gegner",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-12/donald-trump-gerichtsverfahren-politische-gegner-bild/super__430x286",
-      "image_title": "Designierter US-Präsident: Donald Trump bei einer Preisverleihung im US-Bundesstaat New York."
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Rebecca Clopath und Philip Rachinger : \"Grandios, Foodkoma!\"",
       "teaser": "Von Schwanenbraten und Biberschwanz zu Linsen: Zwei Spitzenköche erklären, warum die Alpenküche jetzt auf Gemüse setzt und wie man aus wenig das Maximum herausholt.",
       "url": "https://www.zeit.de/2024/52/philip-rachinger-rebecca-clopath-alpen-kueche-schweiz-oesterreich",
@@ -207,6 +206,13 @@
       "url": "https://www.zeit.de/2024/52/inidan-palace-olten-restaurant-schweiz-indien-tourismus",
       "image_url": "https://img.zeit.de/2024/52/grosse-menge-guter-preis-bild-1/super__430x286",
       "image_title": "Indian Palace in Olten: Vikraj Singh, 59, im Indian Palace in Olten"
+    },
+    {
+      "title": "Designierter US-Präsident : Donald Trump hält sich rechtliche Verfolgung politischer Gegner offen",
+      "teaser": "Der künftige US-Präsident droht Kongressabgeordneten mit Gefängnisstrafen. Dem Justizministerium und FBI will er bei möglichen Verfahren jedoch keine Vorgaben machen.",
+      "url": "https://www.zeit.de/politik/ausland/2024-12/donald-trump-gerichtsverfahren-politische-gegner",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-12/donald-trump-gerichtsverfahren-politische-gegner-bild/super__430x286",
+      "image_title": "Designierter US-Präsident: Donald Trump bei einer Preisverleihung im US-Bundesstaat New York."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Norwegen : Der Verbrenner ist død",
@@ -242,13 +248,6 @@
       "url": "https://www.zeit.de/2024/52/bandscheibenvorfall-ruecken-wirbelsaeule-therapie-schmerz",
       "image_url": "https://img.zeit.de/2024/52/anatomie-eines-falls-bild-10/super__430x286",
       "image_title": "Bandscheibenvorfall: Und es hat Plopp gemacht"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Physik : Wo liegen die Grenzen unseres Wissens?",
-      "teaser": "Der menschliche Verstand ist endlich. Geht es um die großen Rätsel des Universums, versagt er irgendwann. Die Frage ist nur, ob der Mensch merkt, wann es so weit ist.",
-      "url": "https://www.zeit.de/wissen/2024-12/physik-grenzen-erkenntnis-weltraum-ueber-all",
-      "image_url": "https://img.zeit.de/zeit-verlag/2024-12/physik-grenzen-erkenntnis-weltraum-ueber-all-bild/super__430x286",
-      "image_title": "Physik: Wo liegen die Grenzen unseres Wissens?"
     },
     {
       "title": "Sprachnachricht : \"Für die nähere Zukunft erwarte ich nichts von der FDP\"",
@@ -440,20 +439,6 @@
       "image_title": "Island: Iceland, Sudurnes region, Grindavik, Reykjanes peninsula, the Blue Lagoon, bathers basking in a lagoon of hot water at 39° resulting from natural geothermal activity and whose turquoise color is due to the presence of silica"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Klaasohm auf Borkum • Z+ Empfehlung : \"Die Frauen, die verhauen wurden, die wollten das\"",
-      "teaser": "Schlaflose Nächte, Morddrohungen: Wegen des \"Brauch des Schlagens\" geriet Borkum unter Druck. Wie lief Klaasohm nun ab? Über eine Insel, die sich missverstanden fühlt",
-      "url": "https://www.zeit.de/gesellschaft/2024-12/klaasohm-borkum-fest-frauen-gewalt-shitstorm-brauch",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-12/klaasohm-borkum-fest-frauen-gewalt-shitstorm-brauch-bild-19/super__430x286",
-      "image_title": "Klaasohm auf Borkum • Z+ Empfehlung: Klaasohms springen vom \"D\". Fotografiert am 5. Dezember 2025 in auf Borkum"
-    },
-    {
-      "title": "Liebesgeschichten an Weihnachten : Hey, auch über Weihnachten zu Hause?",
-      "teaser": "Der Ex, der wieder auftaucht, die Jugendliebe in der Dorfkneipe oder die Affäre, die man nur einmal im Jahr trifft: Wir suchen Ihre Weihnachtsliebesgeschichte.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2024-11/liebesgeschichten-weihnachten-jugend-affaere-ex",
-      "image_url": "https://img.zeit.de/zeit-magazin/leben/2024-11/liebesgeschichten-weihnachten-jugend-affaere-ex-bild/super__430x286",
-      "image_title": "Liebesgeschichten an Weihnachten: Hey, auch über Weihnachten zu Hause?"
-    },
-    {
       "title": "Proteste in Georgien : Tausende Georgier demonstrieren erneut gegen die Regierung",
       "teaser": "Seit elf Tagen demonstrieren die Georgier gegen die antieuropäische Haltung ihrer Regierung. Die Polizei geht hart gegen die Proteste vor, bisher gab es 402 Festnahmen.",
       "url": "https://www.zeit.de/politik/ausland/2024-12/georgien-pro-europaeische-proteste",
@@ -466,6 +451,20 @@
       "url": "https://www.zeit.de/gesundheit/2024-12/krankheit-x-kongo-who-ursache-covid-malaria",
       "image_url": "https://img.zeit.de/gesundheit/2024-12/unbekannte-krankheit-zentralafrika-ursachen-who-bild/super__430x286",
       "image_title": "Demokratische Republik Kongo: Kongos Gesundheitsminister Roger Kamba spricht in Kinshasa bei einer Pressekonferenz."
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Physik : Wo liegen die Grenzen unseres Wissens?",
+      "teaser": "Der menschliche Verstand ist endlich. Geht es um die großen Rätsel des Universums, versagt er irgendwann. Die Frage ist nur, ob der Mensch merkt, wann es so weit ist.",
+      "url": "https://www.zeit.de/wissen/2024-12/physik-grenzen-erkenntnis-weltraum-ueber-all",
+      "image_url": "https://img.zeit.de/zeit-verlag/2024-12/physik-grenzen-erkenntnis-weltraum-ueber-all-bild/super__430x286",
+      "image_title": "Physik: Wo liegen die Grenzen unseres Wissens?"
+    },
+    {
+      "title": "Liebesgeschichten an Weihnachten : Hey, auch über Weihnachten zu Hause?",
+      "teaser": "Der Ex, der wieder auftaucht, die Jugendliebe in der Dorfkneipe oder die Affäre, die man nur einmal im Jahr trifft: Wir suchen Ihre Weihnachtsliebesgeschichte.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2024-11/liebesgeschichten-weihnachten-jugend-affaere-ex",
+      "image_url": "https://img.zeit.de/zeit-magazin/leben/2024-11/liebesgeschichten-weihnachten-jugend-affaere-ex-bild/super__430x286",
+      "image_title": "Liebesgeschichten an Weihnachten: Hey, auch über Weihnachten zu Hause?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Sandra Bradley : Die stärkste Frau Deutschlands",
@@ -645,11 +644,11 @@
       "image_title": "Erstellen Sie Ihr persönliches Sinn-Barometer"
     },
     {
-      "title": "Umsturz in Syrien : Baschar al-Assad soll in Moskau sein",
-      "teaser": "Die syrische Regierung gibt an, nicht zu wissen, wo der gestürzte Machthaber Assad ist. Laut russischen staatlichen Medien ist der Ex-Diktator in Moskau eingetroffen.",
-      "url": "https://www.zeit.de/politik/ausland/2024-12/syrien-umsturz-baschar-al-assad-moskau",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-12/syrien-umsturz-baschar-al-assad-moskau-bild/super__430x286",
-      "image_title": "Umsturz in Syrien: TOPSHOT - An anti-government fighter tears down a portrait of Syria's President Bashar al-Assad in Aleppo, after jihadists and their allies entered the northern Syrian city, on November 30, 2024. Hayat Tahrir al-Sham (HTS) jihadists and their Turkish-backed allies breached Syria's second city of Aleppo on November 29, as they pressed a lightning offensive against forces of the Iranian- and Russian-backed government. (Photo by Mohammed AL-RIFAI / AFP) (Photo by MOHAMMED AL-RIFAI/AFP via Getty Images)"
+      "title": "Syrien : \"Das Ende der Assad-Herrschaft ist eine gute Nachricht\"",
+      "teaser": "International heißen zahlreiche Politikerinnen und Politiker den Sturz des syrischen Diktators Assad gut. Viele von ihnen mahnen jedoch auch – mit Blick auf die Zukunft.",
+      "url": "https://www.zeit.de/politik/ausland/2024-12/syrien-sturz-assad-reaktionen-baerbock",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-12/reaktionen-international-deutschland-syrien-bild-2/super__430x286",
+      "image_title": "Syrien: Germany's Chancellor Olaf Scholz gestures during a press conference on the sidelines of the G20 summit in Rio de Janeiro, Brazil, on November 19, 2024. (Photo by Daniel RAMALHO / AFP) (Photo by DANIEL RAMALHO/AFP via Getty Images)"
     },
     {
       "title": "IAEA-Bericht : Iran will umstrittene Urananreicherung steigern",
@@ -1098,11 +1097,11 @@
       "image_title": "Orientierungssemester: braucht es eine?"
     },
     {
-      "title": "Verlagsangebot : Was kann man wo studieren?",
-      "teaser": "Deutschlands größte Suchmaschine für Studiengänge und Hochschulen bietet Orientierung und hilft bei der Studienwahl.",
-      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.automation.bleistift-biss.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=verlagsteaser&amp;utm_content=suma_automation_bleistift-biss_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/suma-teaser-januar2019/wide__430x286__desktop",
-      "image_title": "Was kann man wo studieren?"
+      "title": "Verlagsangebot : Ein Studium finden, das passt",
+      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
+      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.teaser.bewerben-schreibtisch.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=sit-verlagsteaser&amp;utm_content=sit_teaser_bewerben-schreibtisch_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/sit-bewerben-schreibtisch/wide__430x286__desktop",
+      "image_title": "Ein Studium finden, das passt"
     },
     {
       "title": "Bundesliga, 13. Spieltag – Sonntag : Landesduell zwischen Hoffenheim und Freiburg endet unentschieden",
@@ -1133,36 +1132,36 @@
       "image_title": "Cum-Ex-Skandal: Bundeskanzler Olaf Scholz vor dem Parlamentarischen Untersuchungsausschuss zur Cum-Ex-Affäre in Hamburg."
     },
     {
-      "title": "Anhänger gerammt: Auffahrunfall auf Rügen: Autofahrer schwer verletzt",
-      "url": "https://www.zeit.de/news/2024-12/09/auffahrunfall-auf-ruegen-autofahrer-schwer-verletzt"
+      "title": "Kriminalität: Verfolgungsfahrt durch zwei Länder endet im Allgäu",
+      "url": "https://www.zeit.de/news/2024-12/09/verfolgungsfahrt-durch-zwei-laender-endet-im-allgaeu"
     },
     {
-      "title": "Beschädigte Schleuse: Mosel bleibt wohl monatelang für Schiffsverkehr gesperrt",
-      "url": "https://www.zeit.de/news/2024-12/09/mosel-bleibt-wohl-monatelang-fuer-schiffsverkehr-gesperrt"
+      "title": "EU-Dienst Copernicus: 2024 dürfte das wärmste Jahr der Geschichte werden",
+      "url": "https://www.zeit.de/news/2024-12/09/2024-duerfte-das-waermste-jahr-der-geschichte-werden"
     },
     {
-      "title": "Kulturhauptstadt Europas: \"C the Unseen\" - Chemnitz will als Kulturstadt überraschen",
-      "url": "https://www.zeit.de/news/2024-12/09/c-the-unseen-chemnitz-will-als-kulturstadt-ueberraschen"
+      "title": "Neuer Minister: Neuer Wirtschaftsminister will Industriestandorte sichern",
+      "url": "https://www.zeit.de/news/2024-12/09/neuer-wirtschaftsminister-will-industriestandorte-sichern"
     },
     {
-      "title": "Fotografie: Bilder des Tages",
-      "url": "https://www.zeit.de/news/2024-12/09/bilder-des-tages"
+      "title": "Genuss: Immer mehr Eisdielen bleiben auf",
+      "url": "https://www.zeit.de/news/2024-12/09/immer-mehr-eisdielen-bleiben-auf"
     },
     {
-      "title": "Bundestagswahl: Culcha-Candela-Sänger Jasik will für Kleinpartei antreten",
-      "url": "https://www.zeit.de/news/2024-12/09/culcha-candela-saenger-jasik-will-fuer-kleinpartei-antreten"
+      "title": "Standort für Atommüll: Pläne für Schweizer Atomendlager werden vorgestellt",
+      "url": "https://www.zeit.de/news/2024-12/09/plaene-fuer-schweizer-atomendlager-werden-vorgestellt"
     },
     {
-      "title": "Mainz: Polizeieinsatz nach Schüssen mit Softairwaffe",
-      "url": "https://www.zeit.de/news/2024-12/08/polizeieinsatz-nach-schuessen-mit-softairwaffe"
+      "title": "Schule: Alle offenen Lehrkräftestellen bis zum Halbjahr besetzt",
+      "url": "https://www.zeit.de/news/2024-12/09/alle-offenen-lehrkraeftestellen-bis-zum-halbjahr-besetzt"
     },
     {
-      "title": "Kalenderblatt: Was geschah am 9. Dezember?",
-      "url": "https://www.zeit.de/news/2024-12/08/was-geschah-am-9-dezember"
+      "title": "BGH-Urteil: Sammelklage für Facebook-Nutzer nach Datenvorfall",
+      "url": "https://www.zeit.de/news/2024-12/09/sammelklage-fuer-facebook-nutzer-nach-datenvorfall"
     },
     {
-      "title": "Landkreis Emsland: Autofahrer nach Unfall lebensgefährlich verletzt",
-      "url": "https://www.zeit.de/news/2024-12/08/autofahrer-nach-unfall-lebensgefaehrlich-verletzt"
+      "title": "Raubgut auf der Spur: Zehn Jahre Deutsches Zentrum Kulturgutverluste",
+      "url": "https://www.zeit.de/news/2024-12/09/zehn-jahre-deutsches-zentrum-kulturgutverluste"
     }
   ]
 }
