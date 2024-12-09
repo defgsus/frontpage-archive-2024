@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-12-09T12:14:52",
+  "timestamp": "2024-12-09T13:20:38",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Qnap NAS",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Qnap-NAS-kompromittieren-10192651.html"
+    },
+    {
       "title": "Dell BSAFE Micro Edition Suite, NetWorker",
       "url": "https://www.heise.de/news/Sicherheitsupdate-Backupsoftware-Dell-NetWorker-kann-Daten-leaken-10190285.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Vier-Luecken-in-HPE-Aruba-Networking-ClearPass-Policy-Manager-geschlossen-10188868.html"
     },
     {
-      "title": "Veeam Service Provider Console",
-      "url": "https://www.heise.de/news/Veeam-Service-Provider-Console-Kritische-Luecke-gefaehrdet-Kunden-Backups-10187964.html"
+      "title": "Sicherheitsupdates: Angreifer können Qnap NAS kompromittieren",
+      "teaser": "Netzwerkspeicher von Qnap sind verwundbar. Angreifer können an mehreren Schwachstellen ansetzen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Qnap-NAS-kompromittieren-10192651.html"
+    },
+    {
+      "title": "iX-Workshop: Windows Server absichern und härten",
+      "teaser": "Lernen Sie, wie Sie Ihren Windows Server effektiv absichern und härten, Schutzmaßnahmen integrieren, Konfigurationen optimieren und Angriffsszenarien bewerten.",
+      "url": "https://www.heise.de/news/iX-Workshop-Windows-Server-absichern-und-haerten-10188138.html",
+      "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
     },
     {
       "title": "iX-Workshop: PowerShell für Systemadministratoren - Effiziente Automatisierung",
@@ -147,18 +158,6 @@
       "teaser": "Derzeit klingelt bei vielen das Telefon, eine automatische Ansage bittet etwa zur WhatsApp-Kontaktaufnahme. Das LKA Niedersachsen warnt.",
       "url": "https://www.heise.de/news/LKA-warnt-vor-automatischen-Anrufen-etwa-zur-WhatsApp-Kontaktaufnahme-10186388.html",
       "image_title": "Opfer vor Computer mit Smartphone und WhatsApp steht in Kontakt mit einem Kriminellen"
-    },
-    {
-      "title": "Patchday: Android 12, 13, 14 und 15 für Schadcode-Attacken anfällig",
-      "teaser": "Angreifer können Androidgeräte auf verschiedene Weise attackieren und sich Zugriff auf Smartphones verschaffen.",
-      "url": "https://www.heise.de/news/Patchday-Android-12-13-14-und-15-fuer-Schadcode-Attacken-anfaellig-10185926.html",
-      "image_title": "Stilisiertes Bild: Smartphone mit Android-Roboter auf dem Bildschirm, steht in Flammen"
-    },
-    {
-      "title": "UEFI-Bootkit \"Bootkitty\" für Linux ist offenbar Uni-Projekt aus Südkorea",
-      "teaser": "Mehrere Sicherheitsforscher haben den Prototyp untersucht und Spannendes herausgefunden. Bootkitty nutzt auch die LogoFail-Lücke zur Einnistung im System.",
-      "url": "https://www.heise.de/news/Bootkitty-Prototyp-eines-Linux-UEFI-Rootkits-ist-koreanisches-Uni-Projekt-10182420.html",
-      "image_title": "Robotische Katze vor einem offenen Rechner, der bootet und um den Viren schwirren"
     },
     {
       "title": "C-Level Kommunikation",
