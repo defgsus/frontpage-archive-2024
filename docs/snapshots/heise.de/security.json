@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-12-10T08:11:20",
+  "timestamp": "2024-12-10T09:08:34",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "OpenWrt",
+      "url": "https://www.heise.de/news/OpenWrt-Angreifer-haetten-bestimmte-Images-mit-Schadcode-verseuchen-koennen-10193337.html"
+    },
+    {
       "title": "Patchday SAP",
       "url": "https://www.heise.de/news/SAP-Patchday-Updates-schliessen-teils-kritische-Sicherheitsluecken-10193418.html"
     },
@@ -44,20 +48,10 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Qnap-NAS-kompromittieren-10192651.html"
     },
     {
-      "title": "Dell BSAFE Micro Edition Suite, NetWorker",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-Backupsoftware-Dell-NetWorker-kann-Daten-leaken-10190285.html"
-    },
-    {
       "title": "SAP-Patchday: Updates schließen teils kritische Sicherheitslücken",
       "teaser": "Im Dezember informiert SAP über neun neu entdeckte Sicherheitslücken in diversen Produkten. Eine davon gilt als kritisches Risiko.",
       "url": "https://www.heise.de/news/SAP-Patchday-Updates-schliessen-teils-kritische-Sicherheitsluecken-10193418.html",
       "image_title": "Stilisiertes Bild: Laptop mit SAP-Logo brennt, vor Serverracks"
-    },
-    {
-      "title": "Wordpress: WPForms-Plug-in reißt Sicherheitsleck in 6 Millionen Webseiten",
-      "teaser": "Im Wordpress-Plug-in WPForms können Angreifer eine Lücke missbrauchen, um etwa Zahlungen rückabzuwickeln. Sechs Millionen Webseiten nutzen das Plug-in.",
-      "url": "https://www.heise.de/news/Wordpress-WPForms-Plug-in-reisst-Sicherheitsleck-in-6-Millionen-Webseiten-10193387.html",
-      "image_title": "Laptop zeigt Wordpress-Logo, Viren fliegen herum"
     },
     {
       "title": "iX-Workshop: E-Rechnungspflicht - Anpassung von Faktura- und ERP-Software",
@@ -70,6 +64,11 @@
       "teaser": "Bundesbehörden sollen ihnen bekannte Sicherheitslücken dem BSI melden. Die \"Huawei-Klausel\" wird deutlich erweitert.",
       "url": "https://www.heise.de/news/Deutschlands-Behoerden-sollen-Sicherheitsluecken-wenigstens-melden-10193299.html",
       "image_title": "Schild \"Bundesamt für Sicherheit ... Informationstechnik\", im Hintetgrund ein weißes Bürogebäude"
+    },
+    {
+      "title": "Sicherheitsupdates: Angreifer können Qnap NAS kompromittieren",
+      "teaser": "Netzwerkspeicher von Qnap sind verwundbar. Angreifer können an mehreren Schwachstellen ansetzen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Qnap-NAS-kompromittieren-10192651.html"
     },
     {
       "title": "iX-Workshop: Windows Server absichern und härten",
@@ -88,6 +87,12 @@
       "teaser": "Vorsätzliche Homoglyphen-Angriffe durch visuell ähnliche Zeichen können Anwender in die Irre leiten. Zum Schutz dagegen helfen verschiedene Best Practices.",
       "url": "https://www.heise.de/hintergrund/Secure-Coding-CWE-1007-die-unsichtbare-Gefahr-durch-visuell-aehnliche-Zeichen-10188217.html",
       "image_title": "Halber Mensch vor einer Wolke aus Programmcodezeichen"
+    },
+    {
+      "title": "l+f: TV-Empfänger mit DDoS-Angriffsfunktion ab Werk",
+      "teaser": "Eine spezielle Funktion eines Satelliten-Receivers soll offensichtlich Cyberattacken eines Konkurrenten kontern.",
+      "url": "https://www.heise.de/news/l-f-TV-Empfaenger-mit-DDoS-Funktionalitaet-ab-Werk-10190658.html",
+      "image_title": "Holzgebäude, an dem 8 Satellitenschüsseln angebracht sind; links ein Mast mit einer terrestrischen Antenne"
     },
     {
       "title": "Sicherheitsupdate: Backupsoftware Dell NetWorker kann Daten leaken",
@@ -155,12 +160,6 @@
       "title": "Jetzt patchen! Exploit für kritische Lücke in Whatsup Gold in Umlauf",
       "teaser": "Die Monitoring-Software Whatsup Gold ist verwundbar. Sicherheitsforscher sind nun auf einen Exploit für Schadcode-Attacken gestoßen. Ein Patch ist verfügbar.",
       "url": "https://www.heise.de/news/Jetzt-patchen-Exploit-fuer-kritische-Luecke-in-Whatsup-Gold-in-Umlauf-10187538.html"
-    },
-    {
-      "title": "Bekannter Cyberkrimineller angeklagt, Darknet-Händler müssen ins Arbeitslager",
-      "teaser": "Die russische Justiz erhebt Anklage gegen einen Ransomware-Entwickler und verhängte gegen den Chef des Hydra-Marktplatzes eine lebenslange Haftstrafe.",
-      "url": "https://www.heise.de/news/Russland-Cybercrime-Promi-angeklagt-drakonische-Strafen-gegen-Darknet-Haendler-10187347.html",
-      "image_title": "Handschellen liegen auf einer Laptop-Tastatur"
     },
     {
       "title": "C-Level Kommunikation",
