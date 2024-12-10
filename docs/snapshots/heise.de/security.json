@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-12-10T07:08:19",
+  "timestamp": "2024-12-10T08:11:20",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Patchday SAP",
+      "url": "https://www.heise.de/news/SAP-Patchday-Updates-schliessen-teils-kritische-Sicherheitsluecken-10193418.html"
+    },
+    {
+      "title": "Wordpress-Plug-in WPForms",
+      "url": "https://www.heise.de/news/Wordpress-WPForms-Plug-in-reisst-Sicherheitsleck-in-6-Millionen-Webseiten-10193387.html"
+    },
+    {
       "title": "Qnap NAS",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Qnap-NAS-kompromittieren-10192651.html"
     },
@@ -40,15 +48,19 @@
       "url": "https://www.heise.de/news/Sicherheitsupdate-Backupsoftware-Dell-NetWorker-kann-Daten-leaken-10190285.html"
     },
     {
-      "title": "Solana web3.js",
-      "url": "https://www.heise.de/news/Supply-Chain-Attacke-Solana-web3-js-Bibliothek-war-mit-Schadcode-verseucht-10190374.html"
+      "title": "SAP-Patchday: Updates schließen teils kritische Sicherheitslücken",
+      "teaser": "Im Dezember informiert SAP über neun neu entdeckte Sicherheitslücken in diversen Produkten. Eine davon gilt als kritisches Risiko.",
+      "url": "https://www.heise.de/news/SAP-Patchday-Updates-schliessen-teils-kritische-Sicherheitsluecken-10193418.html",
+      "image_title": "Stilisiertes Bild: Laptop mit SAP-Logo brennt, vor Serverracks"
     },
     {
-      "title": "HPE Aruba Networking ClearPass Policy Manager",
-      "url": "https://www.heise.de/news/Vier-Luecken-in-HPE-Aruba-Networking-ClearPass-Policy-Manager-geschlossen-10188868.html"
+      "title": "Wordpress: WPForms-Plug-in reißt Sicherheitsleck in 6 Millionen Webseiten",
+      "teaser": "Im Wordpress-Plug-in WPForms können Angreifer eine Lücke missbrauchen, um etwa Zahlungen rückabzuwickeln. Sechs Millionen Webseiten nutzen das Plug-in.",
+      "url": "https://www.heise.de/news/Wordpress-WPForms-Plug-in-reisst-Sicherheitsleck-in-6-Millionen-Webseiten-10193387.html",
+      "image_title": "Laptop zeigt Wordpress-Logo, Viren fliegen herum"
     },
     {
-      "title": "iX-Workshop: Innerdeutsche E-Rechnungspflicht - Software richtig implementieren",
+      "title": "iX-Workshop: E-Rechnungspflicht - Anpassung von Faktura- und ERP-Software",
       "teaser": "Softwareentwickler lernen Hands-on, welche Formate wie unterstützt, geprüft und umgewandelt werden können oder müssen und wie sie dabei vorgehen.",
       "url": "https://www.heise.de/news/iX-Workshop-Innerdeutsche-E-Rechnungspflicht-Software-richtig-implementieren-10187880.html",
       "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
@@ -149,17 +161,6 @@
       "teaser": "Die russische Justiz erhebt Anklage gegen einen Ransomware-Entwickler und verhängte gegen den Chef des Hydra-Marktplatzes eine lebenslange Haftstrafe.",
       "url": "https://www.heise.de/news/Russland-Cybercrime-Promi-angeklagt-drakonische-Strafen-gegen-Darknet-Haendler-10187347.html",
       "image_title": "Handschellen liegen auf einer Laptop-Tastatur"
-    },
-    {
-      "title": "Identitätsmanagement: Sicherheitslücke mit Höchstwertung bedroht IdentityIQ",
-      "teaser": "In aktuellen Versionen haben die Entwickler von SailPoint in IdenetityIQ eine kritische Schwachstelle geschlossen.",
-      "url": "https://www.heise.de/news/Identitaetsmanagement-Sicherheitsluecke-mit-Hoechstwertung-bedroht-IdentityIQ-10187194.html"
-    },
-    {
-      "title": "Europäische Behörden zerschlagen Krypto-Kommunikationsplattform für Kriminelle",
-      "teaser": "Strafverfolgungsbehörden in Europa haben einen weiteren Anbieter von verschlüsselter Kommunikation für kriminelle Nutzer ausgehoben.",
-      "url": "https://www.heise.de/news/Europaeische-Behoerden-zerschlagen-Krypto-Kommunikationsplattform-fuer-Kriminelle-10187133.html",
-      "image_title": "Bild vom betrügerischer Messenger MATRIX, der allerdings nichts mit den Entwicklern des Matrix-Protokolls zu tun hat"
     },
     {
       "title": "C-Level Kommunikation",
