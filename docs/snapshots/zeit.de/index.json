@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-12-10T10:00:52",
+  "timestamp": "2024-12-10T11:06:50",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -110,11 +116,18 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Krankschreibungen : So krank ist Deutschland",
-      "teaser": "22,4 Tage meldeten sich Angestellte durchschnittlich krank im Jahr. Neue Daten zeigen, in welchen Berufen es die meisten Ausfälle gab und warum.",
-      "url": "https://www.zeit.de/arbeit/2024-12/krankschreibungen-arbeitsplatz-steigung-krankmeldung-statistik",
-      "image_url": "https://img.zeit.de/arbeit/2024-12/krankschreibungen-arbeitsplatz-steigung-krankmeldung/wide__1000x562",
-      "image_title": "Krankschreibungen: So krank ist Deutschland"
+      "title": "Z+ (abopflichtiger Inhalt); Grundkompetenzen von Erwachsenen : So klug sind die Alten",
+      "teaser": "Eine internationale Studie testet, wie kompetent Erwachsene im Lesen und Rechnen sind. Die Deutschen konnten ihr Niveau halten, aber es gibt Anlass zur Sorge.",
+      "url": "https://www.zeit.de/gesellschaft/2024-12/grundkompetenzen-erwachsene-deutschland-piaac-studie-lesen-mathematik",
+      "image_url": "https://img.zeit.de/wissen/2024-12/grundkompetenzen-erwachsene-deutschland-piaac-studie-lesen-mathematik-bild/wide__1000x562",
+      "image_title": "Grundkompetenzen von Erwachsenen: So klug sind die Alten"
+    },
+    {
+      "title": "Anschlagspläne : Drei IS-Anhänger wegen konkreter Anschlagspläne festgenommen",
+      "teaser": "Hessische und baden-württembergische Ermittler haben drei mutmaßliche IS-Anhänger festgenommen. Die drei Männer sollen sich ein Sturmgewehr und Munition beschafft haben.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-12/is-anhaenger-festgenommen-hessen-baden-wuerttemberg",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-12/is-anhaenger-festgenommen-hessen-baden-wuerttemberg-bild/super__430x286",
+      "image_title": "Anschlagspläne: Einsatzkräfte der Polizei stehen im Rahmen eines Einsatzes gegen eine georgische Hehlerbande vor einem Gebäude in der Innenstadt. In Baden-Württemberg, Hamburg und Berlin sind sechs Objekte durchsucht und zwölf Menschen festgenommen worden. Die georgischen Staatsbürger sollen sich zu einer Bande zusammengeschlossen haben, um von ihren Landsleuten in Deutschland gestohlene Waren entgegenzunehmen und diese nach Italien beziehungsweise Georgien zu transportieren. +++ dpa-Bildfunk +++ 09/10/2024 Reutlingen"
     },
     {
       "title": "Liveblog:Syrien : Israelisches Militär dementiert Vorstoß in Richtung Damaskus",
@@ -124,46 +137,11 @@
       "image_title": "Syrien: Israeli soldiers stand on the fence with the buffer zone that separates the Israeli-annexed Golan Heights from Syria, on December 9, 2024, near the Druze village of Majdal Shams. Israel's Foreign Minister Gideon Saar said on December 9 that his country's military takeover of the buffer zone along its border with Syria was a \"limited and temporary step\" after Prime Minister Benjamin Netanyahu announced the previous day that he had ordered the army to \"take control\" of the zone, following the fall of Syrian president Bashar al-Assad. (Photo by Menahem Kahana / AFP) (Photo by MENAHEM KAHANA/AFP via Getty Images)"
     },
     {
-      "title": "Sabotagevorwürfe : Russischer Geheimdienst nimmt Deutschen wegen Sabotagevorwürfen fest",
-      "teaser": "Der Geheimdienst FSB wirft einem Deutschrussen Anschlagspläne auf eine Bahnstrecke in Nischni Nowgorod vor. Angeblich handelte der Mann im Auftrag der Ukraine.",
-      "url": "https://www.zeit.de/politik/2024-12/deutsch-russe-festgenommen-sabotagevorwuerfe-berichte",
-      "image_url": "https://img.zeit.de/politik/2024-12/deutsch-russe-festgenommen-sabotagevorwuerfe-berichte-bild/super__430x286",
-      "image_title": "Sabotagevorwürfe: RUSSIA, NIZHNY NOVGOROD - SEPTEMBER 27, 2024: A view of St Alexander Nevsky Cathedral. Sergei Savostyanov/TASS PUBLICATIONxINxGERxAUTxONLY 74479646"
-    },
-    {
-      "title": "USA : Nobelpreisträger warnen vor Kennedy als US-Gesundheitsminister",
-      "teaser": "Der erklärte Impfgegner Robert F. Kennedy Jr. ist Donald Trumps Wunschkandidat, um das Gesundheitsministerium zu leiten. Prominente Wissenschaftler protestieren.",
-      "url": "https://www.zeit.de/gesundheit/2024-12/nobelpreistraeger-gegen-kennedy-als-us-gesundheitsminister",
-      "image_url": "https://img.zeit.de/gesundheit/2024-12/nobelpreistraeger-warnen-vor-robert-f-kennedy-jr/super__430x286",
-      "image_title": "USA: Former presidential candidate Robert F. Kennedy Jr. speaks during a campaign event hosted by Republican presidential nominee former President Donald Trump at the Falk Productions manufacturing facility on September 27, 2024 in Walker, Michigan. The former president has two campaign events scheduled in Michigan today and another in Wisconsin tomorrow."
-    },
-    {
-      "title": "Brian Thompson : Was über den Fall des erschossenen US-Versicherungschefs bekannt ist",
-      "teaser": "In New York wurde der Leiter eines großen US-Krankenversicherers erschossen. Der mutmaßliche Täter sitzt nun in U-Haft, zum Motiv gibt es erste Hinweise. Was bekannt ist",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-12/brian-thompson-erschossen-new-york-polizei-veroeffentlichung-gesicht-mutmasslicher-taeter",
-      "image_url": "https://img.zeit.de/gesellschaft/deutschland/2024-12/brian-thompson-bild/super__430x286",
-      "image_title": "Brian Thompson: People walk next to a poster outside the Hilton hotel near the scene where the CEO of UnitedHealthcare Brian Thompson was shot dead in Midtown Manhattan, in New York City, U.S., December 5, 2024. REUTERS/Mike Segar"
-    },
-    {
-      "title": "René Benko : \"Capo Benko\"",
-      "teaser": "Italien hat Haftbefehl gegen Signa-Gründer René Benko erlassen. Der ZEIT liegen Ermittlungsakten vor. Die Vorwürfe: Druck auf Amtsträger, Bestechung, illegale Spenden.",
-      "url": "https://www.zeit.de/wirtschaft/2024-12/rene-benko-haftbefehl-italien-signa-ermittlung",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-12/rene-benko-trentino-suedtirol-signa-mafia-bild/super__430x286",
-      "image_title": "René Benko: Der österreichische Immobilien-Unternehmer René Benko"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Seinetwegen\" : Ein Unglück, das passiert",
-      "teaser": "Der Vater der Schweizer Autorin Zora del Buono starb bei einem Autounfall, als sie acht Monate alt war. In ihrem neuen Buch sucht sie seinen \"Töter\".",
-      "url": "https://www.zeit.de/2024/51/zora-del-buono-seinetwegen-autounfall-roman",
-      "image_url": "https://img.zeit.de/2024/51/ein-unglueck-das-passiert-bild/super__430x286",
-      "image_title": "\"Seinetwegen\": Zora del Buono war Architektin, bevor sie Schriftstellerin wurde. Sie hat Romane und Reportage-Bände veröffentlicht und arbeitet als Kulturredakteurin bei der Zeitschrift \"mare\"."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Geldanlage : Wo die ETF-Kritiker recht haben",
-      "teaser": "Zu passiv, zu viel USA, zu große Crashgefahr? Warum Experten beliebte Indexfonds, etwa auf den MSCI World, kritisieren. Und was Anleger daraus lernen können.",
-      "url": "https://www.zeit.de/geld/2024-12/kritik-etf-sparer-geldanlage-aktienmarkt-msci-world",
-      "image_url": "https://img.zeit.de/geld/2024-12/kritik-etf-sparer-geldanlage-aktienmarkt/wide__892x501",
-      "image_title": "Geldanlage: Wo die ETF-Kritiker recht haben"
+      "title": "Z+ (abopflichtiger Inhalt); Krankschreibungen : So krank ist Deutschland",
+      "teaser": "22,4 Tage meldeten sich Angestellte durchschnittlich krank im Jahr. Neue Daten zeigen, in welchen Berufen es die meisten Ausfälle gab und warum.",
+      "url": "https://www.zeit.de/arbeit/2024-12/krankschreibungen-arbeitsplatz-steigung-krankmeldung-statistik",
+      "image_url": "https://img.zeit.de/arbeit/2024-12/krankschreibungen-arbeitsplatz-steigung-krankmeldung/wide__892x501",
+      "image_title": "Krankschreibungen: So krank ist Deutschland"
     },
     {
       "title": "Statistisches Bundesamt : Deutsche müssen im kommenden Jahr weniger arbeiten",
@@ -173,6 +151,41 @@
       "image_title": "Statistisches Bundesamt: Deutsche müssen im kommenden Jahr weniger arbeiten"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Heizungsgesetz : Jetzt könnte die letzte Chance auf eine geförderte Wärmepumpe sein",
+      "teaser": "Die CDU will das Heizungsgesetz einstampfen. Trotzdem müssen viele Hausbesitzer langfristig auf Wärmepumpen umsteigen – dann aber ohne Förderung. Wie teuer wird das?",
+      "url": "https://www.zeit.de/wirtschaft/2024-12/heizungsgesetz-cdu-rueckabwicklung-waermepumpe-co2-preis",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-12/heizungsgesetz-cdu-rueckabwicklung-waermepumpe-co2/super__430x286",
+      "image_title": "Heizungsgesetz: Wie geht es mit der Wärmepumpe weiter, wenn eine neue Regierung antritt?"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Torten : Frau Stolz backt sich frei",
+      "teaser": "Die Wienerin Sophia Stolz hat sich mit ihren extravaganten Torten zur Marke gemacht. Ihrer Leidenschaft fürs Backen verdankt sie ihren Erfolg – und ihre Rettung.",
+      "url": "https://www.zeit.de/2024/52/torten-baeckerin-sophia-stolz-kuchen-kunst-wien",
+      "image_url": "https://img.zeit.de/2024/52/torten-baeckerin-sophie-stolz-kuchen-kunst-wien-teaser/super__430x286",
+      "image_title": "Torten: Die Wienerin Sophia Stolz, 30, bezeichnet sich selbst gern als Kuchenmagierin."
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); \"Seinetwegen\" : Ein Unglück, das passiert",
+      "teaser": "Der Vater der Schweizer Autorin Zora del Buono starb bei einem Autounfall, als sie acht Monate alt war. In ihrem neuen Buch sucht sie seinen \"Töter\".",
+      "url": "https://www.zeit.de/2024/51/zora-del-buono-seinetwegen-autounfall-roman",
+      "image_url": "https://img.zeit.de/2024/51/ein-unglueck-das-passiert-bild/super__430x286",
+      "image_title": "\"Seinetwegen\": Zora del Buono war Architektin, bevor sie Schriftstellerin wurde. Sie hat Romane und Reportage-Bände veröffentlicht und arbeitet als Kulturredakteurin bei der Zeitschrift \"mare\"."
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Vorweihnachtszeit : Mein Jahr, mein Erbgut, meine Erfolge",
+      "teaser": "Advent, Advent, der Briefkasten brennt: Die Zeit der Weihnachtskarten ist gekommen und als Empfänger freut man sich natürlich, dass alle ihr Leben so toll im Griff haben.",
+      "url": "https://www.zeit.de/familie/2024-12/vorweihnachtszeit-eltern-kinder-post-freunde",
+      "image_url": "https://img.zeit.de/familie/2024-12/vorweihnachtszeit-eltern-kinder-post/wide__892x501",
+      "image_title": "Vorweihnachtszeit: Mein Jahr, mein Erbgut, meine Erfolge"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Geldanlage : Wo die ETF-Kritiker recht haben",
+      "teaser": "Zu passiv, zu viel USA, zu große Crashgefahr? Warum Experten beliebte Indexfonds, etwa auf den MSCI World, kritisieren. Und was Anleger daraus lernen können.",
+      "url": "https://www.zeit.de/geld/2024-12/kritik-etf-sparer-geldanlage-aktienmarkt-msci-world",
+      "image_url": "https://img.zeit.de/geld/2024-12/kritik-etf-sparer-geldanlage-aktienmarkt/super__430x286",
+      "image_title": "Geldanlage: Wo die ETF-Kritiker recht haben"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Norwegen • Das Beste aus Z+ : Der Verbrenner ist død",
       "teaser": "In Norwegen werden keine Benziner und Dieselautos mehr verkauft – ganze zehn Jahre früher als in der EU. Mit Deutschland hat man dort nur Mitleid.",
       "url": "https://www.zeit.de/2024/52/verbrennermotoren-norwegen-elektromobilitaet-autobranche",
@@ -180,25 +193,25 @@
       "image_title": "Norwegen • Das Beste aus Z+: Der Verbrenner ist død"
     },
     {
+      "title": "Brian Thompson : Was über den Fall des erschossenen US-Versicherungschefs bekannt ist",
+      "teaser": "In New York wurde der Leiter eines großen US-Krankenversicherers erschossen. Der mutmaßliche Täter sitzt nun in U-Haft, zum Motiv gibt es erste Hinweise. Was bekannt ist",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-12/brian-thompson-erschossen-new-york-polizei-veroeffentlichung-gesicht-mutmasslicher-taeter",
+      "image_url": "https://img.zeit.de/gesellschaft/deutschland/2024-12/brian-thompson-bild/super__430x286",
+      "image_title": "Brian Thompson: People walk next to a poster outside the Hilton hotel near the scene where the CEO of UnitedHealthcare Brian Thompson was shot dead in Midtown Manhattan, in New York City, U.S., December 5, 2024. REUTERS/Mike Segar"
+    },
+    {
+      "title": "China : Taiwan meldet groß angelegte chinesische Militärübung",
+      "teaser": "Das chinesische Militär führt offenbar eines der bislang größten Militärmanöver rund um Taiwan durch. Fast 90 Schiffe und 47 Flugzeuge sollen im Einsatz sein.",
+      "url": "https://www.zeit.de/politik/ausland/2024-12/taiwan-china-militaermanoever-philippinen-okinawa-japan",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-12/taiwan-chinesisches-militaermanoever-bild/super__430x286",
+      "image_title": "China: TOPSHOT - A Taiwanese Air Force Mirage 2000 fighter jet prepares to land at an Air Force base in Hsinchu on December 10, 2024. Taiwan said on December 10 it detected 47 Chinese military aircraft near the island in the past 24 hours, the highest number since Beijing launched large-scale war games two months ago. (Photo by I-Hwa CHENG / AFP) (Photo by I-HWA CHENG/AFP via Getty Images)"
+    },
+    {
       "title": "Christian Lindner : FDP-Chef bezeichnet \"D-Day\"-Dokument als \"Praktikantenpapierchen\"",
       "teaser": "Christian Lindner distanziert sich erneut vom Strategiepapier zum geplanten Ampelbruch. Hinter der Kritik daran vermutet er aber auch \"eiskalt taktierende Machtpolitik\".",
       "url": "https://www.zeit.de/politik/deutschland/2024-12/fdp-chef-lindner-d-day-dokument-praktikanten-papierchen",
       "image_url": "https://img.zeit.de/politik/deutschland/2024-12/christian-lindner-fdp-praktikanten-papierchen/super__430x286",
       "image_title": "Christian Lindner: Christian Lindner, Bundesvorsitzender der FDP, äußert sich bei einer Pressekonferenz nach den Gremiensitzungen der Partei. Der frühere Bundesjustizminister Buschmann war am Wochenende von FDP-Chef Linder gebeten worden, Nachfolger des wegen der Affäre um das „D-Day-Papier“ zurückgetretenen Generalsekretärs Djir-Sarai zu werden."
-    },
-    {
-      "title": "Bundestagswahl : Keine Macht mit niemandem",
-      "teaser": "Mit denen nicht! Die FDP will weder mit Grünen noch der Scholz-SPD regieren, die CSU nicht mit den Grünen, Teile der CDU nicht mit der FDP – alles eine Erblast der Ampel.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-12/bundestagswahl-koalitionen-ausschliesseritis-union-gruene-spd-fdp-5vor8",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/bundestagswahl-koalitionen-ausschliesseritis-union-gruene/super__430x286",
-      "image_title": "Bundestagswahl: Keine Macht mit niemandem"
-    },
-    {
-      "title": "Bundestagswahl : Parteispenden nehmen seit Ampel-Aus stark zu",
-      "teaser": "Die CDU erhält binnen eines Monats fast zwei Millionen Euro an Großspenden. Eine Partei, die nicht im Bundestag vertreten ist, verzeichnet den zweithöchsten Betrag.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-12/bundestagswahl-parteispenden-cdu-volt-fdp",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/bundestagswahl-parteispenden-cdu-volt-fdp-bild/super__430x286",
-      "image_title": "Bundestagswahl: Abgeordnete des Deutschen Bundestages diskutieren die Neuregelung des Schwangerschaftsabbruchs."
     },
     {
       "title": "Sprachnachricht : \"Ich wähle weiter FDP, weil mir die Themen wichtig sind\"",
@@ -487,14 +500,14 @@
       "image_title": "Christian Lindner: Christian Lindner, Bundesvorsitzender der FDP, äußert sich bei einer Pressekonferenz nach den Gremiensitzungen der Partei. Der frühere Bundesjustizminister Buschmann war am Wochenende von FDP-Chef Linder gebeten worden, Nachfolger des wegen der Affäre um das „D-Day-Papier“ zurückgetretenen Generalsekretärs Djir-Sarai zu werden."
     },
     {
+      "title": "USA : Nobelpreisträger warnen vor Kennedy als US-Gesundheitsminister",
+      "teaser": "Der erklärte Impfgegner Robert F. Kennedy Jr. ist Donald Trumps Wunschkandidat, um das Gesundheitsministerium zu leiten. Prominente Wissenschaftler protestieren.",
+      "url": "https://www.zeit.de/gesundheit/2024-12/nobelpreistraeger-gegen-kennedy-als-us-gesundheitsminister"
+    },
+    {
       "title": "Syrien : Faeser hält Rückkehrforderungen an syrische Geflüchtete für \"unseriös\"",
       "teaser": "Nach dem Sturz des Präsidenten Assad fordern Politiker die Rückkehr syrischer Flüchtlinge. Die Innenministerin will aber abwarten, \"bis die Lage klarer ist\".",
       "url": "https://www.zeit.de/politik/deutschland/2024-12/nancy-faeser-rueckkehr-syrien-fluechtlinge"
-    },
-    {
-      "title": "Migration : Bundesamt stoppt Entscheidungen über Asylanträge von Syrern",
-      "teaser": "Über 47.000 Asylanträge von Menschen aus Syrien wird vorerst nicht entschieden. Die Lage ist laut Bundesamt für Migration und Flüchtlinge derzeit zu unübersichtlich.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-12/bamf-stoppt-entscheidungen-ueber-asylantraege-von-syrern"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Internet Archive : \"Für immer\" ist ein großes Wort",
@@ -525,11 +538,11 @@
       "image_title": "Fragen Sie ZEIT ONLINE: Haben Sie ein Thema verpasst?"
     },
     {
-      "title": "Ukrainekarte aktuell : Russland dringt im Westen von Donezk vor",
-      "teaser": "Das russische Militär hat an mehreren Frontabschnitten im Westen der Region Donezk neue Gebiete besetzt. Unter anderem rückt Russland weiter Richtung Pokrowsk vor.",
-      "url": "https://www.zeit.de/politik/ausland/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen-teaserbild/wide__892x501",
-      "image_title": "Ukrainekarte aktuell: Russland dringt im Westen von Donezk vor"
+      "title": "Brandenburg : SPD und BSW unterzeichnen Koalitionsvertrag in Brandenburg",
+      "teaser": "Noch in dieser Woche soll die neue Landesregierung in Brandenburg mit der Arbeit beginnen. Am Mittwoch steht die Wiederwahl von Dietmar Woidke zum Ministerpräsidenten an.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-12/spd-bsw-unterzeichnung-koalitionsvertrag-brandenburg",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/spd-bsw-unterzeichnung-koalitionsvertrag-brandenburg-bild/wide__892x501",
+      "image_title": "Brandenburg: Niels-Olaf Lüders (BSW, l-r), Robert Crumbach (BSW), Fraktionsvorsitzender in Brandenburg, Dietmar Woidke (SPD), Ministerpräsident von Brandenburg und SPD Fraktionsvorsitzender in Brandenburg Daniel Keller bei einem Bildtermin zur Unterzeichnung des Koalitionsvertrages von SPD und BSW. +++ dpa-Bildfunk +++ 10/12/2024 Potsdam"
     },
     {
       "title": "Verlagsangebot : In drei Wochen zu besseren Fotos",
@@ -539,11 +552,11 @@
       "image_title": "In drei Wochen zu besseren Fotos"
     },
     {
-      "title": "Nachrichtenpodcast : Syriens Zukunft liegt auch in türkischer Hand",
-      "teaser": "Die türkische Militäroffensive in Nordostsyrien bedroht die Autonomie der Region. Welche Ziele verfolgt die Türkei? Und: Norwegen verbannt Verbrenner von den Straßen.",
-      "url": "https://www.zeit.de/politik/2024-12/nordostsyrien-autonomie-tuerkei-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__430x286",
-      "image_title": "Nachrichtenpodcast: Syriens Zukunft liegt auch in türkischer Hand"
+      "title": "Ukrainekarte aktuell : Russland dringt im Westen von Donezk vor",
+      "teaser": "Das russische Militär hat an mehreren Frontabschnitten im Westen der Region Donezk neue Gebiete besetzt. Unter anderem rückt Russland weiter Richtung Pokrowsk vor.",
+      "url": "https://www.zeit.de/politik/ausland/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen-teaserbild/super__430x286",
+      "image_title": "Ukrainekarte aktuell: Russland dringt im Westen von Donezk vor"
     },
     {
       "title": "ifo-Institut : Mehr Händler wollen Preise anheben",
@@ -679,11 +692,11 @@
       "image_title": "„Das ist der Irrsinn unseres aktuellen Strommarktes“"
     },
     {
-      "title": "18.000 offene Stellen : Keine Elektroniker, keine Energiewende?",
-      "teaser": "Fast alle Branchen beklagen einen Fachkräftemangel. Auch Elektroniker, die maßgeblich zur Energiewende beitragen. Nur: Es gibt genug Auszubildende. Wo stockt es?",
-      "url": "https://www.wiwo.de/erfolg/beruf/18-000-offene-stellen-keine-elektroniker-keine-energiewende/30117110.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/elektronikerin-/30117176/2-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
-      "image_title": "Keine Elektroniker, keine Energiewende?"
+      "title": "Immobilienverkauf : Eile beim Hausverkauf kann teuer werden",
+      "teaser": "Viele Makler drängen Hauseigentümer derzeit zum Verkauf. Darauf sollten sie nicht hören. Ein Kommentar.",
+      "url": "https://www.wiwo.de/finanzen/immobilien/immobilienverkauf-eile-beim-hausverkauf-kann-teuer-werden/30118340.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/imago782994033/30125210/3-format10640.jpg%253Fformat%253Dformat10640/super__430x286",
+      "image_title": "Eile beim Hausverkauf kann teuer werden"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Elektroauto : So kommen Sie als Mieter zur eigenen Ladestation",
@@ -810,10 +823,17 @@
       "image_url": "https://img.zeit.de/administratives/2015-10/zeit-shop-bilder/kug-neu.jpg/super__320x213"
     },
     {
+      "title": "USA : Nobelpreisträger warnen vor Kennedy als US-Gesundheitsminister",
+      "teaser": "Der erklärte Impfgegner Robert F. Kennedy Jr. ist Donald Trumps Wunschkandidat, um das Gesundheitsministerium zu leiten. Prominente Wissenschaftler protestieren.",
+      "url": "https://www.zeit.de/gesundheit/2024-12/nobelpreistraeger-gegen-kennedy-als-us-gesundheitsminister",
+      "image_url": "https://img.zeit.de/gesundheit/2024-12/nobelpreistraeger-warnen-vor-robert-f-kennedy-jr/wide__892x501",
+      "image_title": "USA: Former presidential candidate Robert F. Kennedy Jr. speaks during a campaign event hosted by Republican presidential nominee former President Donald Trump at the Falk Productions manufacturing facility on September 27, 2024 in Walker, Michigan. The former president has two campaign events scheduled in Michigan today and another in Wisconsin tomorrow."
+    },
+    {
       "title": "Demokratische Republik Kongo : WHO vermutet bereits bekannte Krankheit hinter Ausbruch",
       "teaser": "Immer mehr Menschen infizieren sich in Zentralafrika mit einer noch nicht identifizierten Krankheit. Nach Einschätzung der WHO könnten bekannte Erreger die Ursache sein.",
       "url": "https://www.zeit.de/gesundheit/2024-12/krankheit-x-kongo-who-ursache-covid-malaria",
-      "image_url": "https://img.zeit.de/gesundheit/2024-12/unbekannte-krankheit-zentralafrika-ursachen-who-bild/wide__892x501",
+      "image_url": "https://img.zeit.de/gesundheit/2024-12/unbekannte-krankheit-zentralafrika-ursachen-who-bild/super__430x286",
       "image_title": "Demokratische Republik Kongo: Kongos Gesundheitsminister Roger Kamba spricht in Kinshasa bei einer Pressekonferenz."
     },
     {
@@ -824,17 +844,17 @@
       "image_title": "Bandscheibenvorfall: Und es hat Plopp gemacht"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); E-Zigaretten : Rauchen, aber gesund",
-      "teaser": "Für die Tabakindustrie sind Zigaretten Vergangenheit. Vapen ist die gesündere Zukunft des Rauchens. Oder sind wir da schon wieder auf einen Trick reingefallen?",
-      "url": "https://www.zeit.de/2024/52/e-zigaretten-tabakindustrie-who-nikotin",
-      "image_url": "https://img.zeit.de/2024/52/rauchen-aber-gesund-bild-2/super__430x286",
-      "image_title": "E-Zigaretten: Vape Online"
+      "title": "Z+ (abopflichtiger Inhalt); \"Indiana Jones und der Große Kreis\" : Nazis aufs Maul",
+      "teaser": "Indiana Jones kehrt als Videospielheld zurück: mit Peitsche, rechtem Haken und dem Gesicht von Harrison Ford. Eine Liebeserklärung mit Schwächen",
+      "url": "https://www.zeit.de/digital/games/2024-12/indiana-jones-und-der-grosse-kreis-videospiel-action-adventure-harrison-ford",
+      "image_url": "https://img.zeit.de/digital/games/2024-12/indiana-jones-bild/wide__892x501",
+      "image_title": "\"Indiana Jones und der Große Kreis\": Auch im neuen \"Indiana Jones\"-Spiel kriegen Hitlers Schergen auf die Nase."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); TikTok : Wisch, wisch, Wahl entschieden",
       "teaser": "Bevorzugt TikTok einen Rechtspopulisten im Wahlkampf? Die Frage überschattet die Präsidentschaftswahl in Rumänien. Das ist auch ein Vorgeschmack auf die Bundestagswahl.",
       "url": "https://www.zeit.de/2024/52/tiktok-soziale-medien-desinformation-wahlen-propaganda",
-      "image_url": "https://img.zeit.de/2024/52/wie-filtert-tiktok-bild-3/wide__892x501",
+      "image_url": "https://img.zeit.de/2024/52/wie-filtert-tiktok-bild-3/super__430x286",
       "image_title": "TikTok: Wisch, wisch, Wahl entschieden"
     },
     {
@@ -843,13 +863,6 @@
       "url": "https://www.zeit.de/digital/internet/2024-12/aravind-srinivas-google-ergebnisse-perplexity-kuenstliche-intelligenz",
       "image_url": "https://img.zeit.de/digital/2024-12/aravind-srinivas-google-perplexity-kuenstliche-intelligenz/super__430x286",
       "image_title": "Aravind Srinivas: Aravind Srinivas, co-founder and chief executive officer of Perplexity, during TechCrunch Disrupt in San Francisco, California, US, on Wednesday, Oct. 30, 2024. TechCrunch Disrupt is a 3-day conference focused on breaking technology news and developments with thought leaders who are making waves in the industry. Photographer: David Paul Morris/Bloomberg via Getty Images"
-    },
-    {
-      "title": "USA : Gericht erklärt US-Gesetz zum Verkauf von TikTok für rechtens",
-      "teaser": "Die Videoplattform TikTok wehrt sich in den USA gegen ein Gesetz, das einen Eigentümerwechsel erzwingen soll. Ein Gericht stellte sich auf die Seite der US-Regierung.",
-      "url": "https://www.zeit.de/digital/2024-12/usa-tiktok-bytedance-gesetz-verkauf-berufungsantrag-gescheitert",
-      "image_url": "https://img.zeit.de/digital/2024-12/tiktok-usa-berufungsantrag-gegen-gesetz-gescheitert-bild/super__430x286",
-      "image_title": "USA: Talia Cadet, TikTok creator and advocate, uses a phone outside of the U.S. Court of Appeals hears oral arguments in the case TikTok Inc. v. Merrick Garland on September 16, 2024 in Washington, DC. TikTok and a group of its creators have filed an appeal of a law signed by U.S. President Joe Biden which forces ByteDance, TikTok's parent company, to divest control of TikTok, after the FBI designated the hugely popular Chinese app as a national security risk, by January 19th to avoid a nationwide ban."
     },
     {
       "title": "Europäischer Gerichtshof für Menschenrechte : EGMR sieht lesbische Paare durch Stiefkindadoption nicht benachteiligt",
@@ -880,11 +893,11 @@
       "image_title": "Gefängnis Saidnaja: Bilder der Befreiung aus Assads Foltergefängnis"
     },
     {
-      "title": "Tod von Brian Thompson : Mutmaßlicher Mörder von UnitedHealthcare-Chef festgenommen",
-      "teaser": "Die US-Polizei hat im Fall UnitedHealthcare einen 26-Jährigen festgenommen. Er soll den CEO des Versicherungsunternehmens auf offener Straße in New York erschossen haben.",
-      "url": "https://www.zeit.de/video/2024-12/6365791596112/tod-von-brian-thompson-mutmasslicher-moerder-von-unitedhealthcare-chef-festgenommen",
-      "image_url": "https://img.zeit.de/video/2024-12/6365791596112-still/super__430x286",
-      "image_title": "Tod von Brian Thompson: Mutmaßlicher Mörder von UnitedHealthcare-Chef festgenommen"
+      "title": "Bandenkrieg : Mindestens 180 Menschen bei Massaker in Haiti getötet",
+      "teaser": "In einem Armenviertel von Haitis Hauptstadt Port-au-Prince sind mindestens 180 Bewohner von Bandenmitgliedern getötet worden. Die Opfer waren überwiegend ältere Menschen.",
+      "url": "https://www.zeit.de/video/2024-12/6365791740112/bandenkrieg-mindestens-180-menschen-bei-massaker-in-haiti-getoetet",
+      "image_url": "https://img.zeit.de/video/2024-12/6365791740112-still/super__430x286",
+      "image_title": "Bandenkrieg: Mindestens 180 Menschen bei Massaker in Haiti getötet"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Vegane Küche in Österreich : Einmal das Wiener Schnitzel ohne Fleisch, bitte",
@@ -992,11 +1005,11 @@
       "image_title": "Orientierungssemester: braucht es eine?"
     },
     {
-      "title": "Verlagsangebot : Durchblick im Studiendschungel",
-      "teaser": "Bei 20.000 möglichen Studiengängen in Deutschland verliert man schnell den Überblick. Unterstützung bietet die Suchmaschine für Studiengänge und Hochschulen.",
-      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.whiteboard_studiendschungel.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_whiteboard_studiendschungel_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-3-klein/man-wearing-black-and-white-stripe-shirt-looking-at-white-197.jpg",
-      "image_title": "Durchblick im Studiendschungel"
+      "title": "Verlagsangebot : Welcher Beruf passt zu mir?",
+      "teaser": "Was uns im Job von anderen unterscheidet, sind nicht nur unsere Fähigkeiten – erst die Persönlichkeit macht jeden einmalig. Der BOA Berufstest hilft, sie zu erkennen.",
+      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.teaser.boa-faeuste.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=boa-verlagsteaser&amp;utm_content=bot_teaser_boa-faeuste_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/boa-faeuste/wide__430x286__desktop",
+      "image_title": "Welcher Beruf passt zu mir?"
     },
     {
       "title": "Bundesligarückschau : Marco Reus gewinnt eine Meisterschaft",
@@ -1027,36 +1040,36 @@
       "image_title": "Cum-Ex-Skandal: Bundeskanzler Olaf Scholz vor dem Parlamentarischen Untersuchungsausschuss zur Cum-Ex-Affäre in Hamburg."
     },
     {
-      "title": "Strafprozess: Prozess im Erpressungsfall Schumacher gestartet",
-      "url": "https://www.zeit.de/news/2024-12/10/prozess-im-erpressungsfall-schumacher-startet"
+      "title": "Nahverkehr: Bus-Ansagen gegen laute Telefonate und Videos",
+      "url": "https://www.zeit.de/news/2024-12/10/bus-ansagen-gegen-laute-telefonate-und-videos"
     },
     {
-      "title": "Drogen: Zwei Genehmigungen für Cannabis-Anbau in Hessen",
-      "url": "https://www.zeit.de/news/2024-12/10/zwei-genehmigungen-fuer-cannabis-anbau-in-hessen"
+      "title": "Regierungsbildung: SPD: Köpping und Panter sollen Ministerien übernehmen",
+      "url": "https://www.zeit.de/news/2024-12/10/spd-koepping-und-panter-sollen-ministerien-uebernehmen"
     },
     {
-      "title": "Prozesse: 21-Jährige getötet - Verfahren wegen Mordes hat begonnen",
-      "url": "https://www.zeit.de/news/2024-12/10/21-jaehrige-getoetet-verfahren-wegen-mordes-beginnt"
+      "title": "Kriminalität: Über 50 Zigarettenautomaten aufgebrochen - zwei Festnahmen",
+      "url": "https://www.zeit.de/news/2024-12/10/ueber-50-zigarettenautomaten-aufgebrochen-zwei-festnahmen"
     },
     {
-      "title": "Drei Kinder getötet: Anteilnahme nach dem Tod von drei Kindern in Meißen",
-      "url": "https://www.zeit.de/news/2024-12/10/anteilnahme-nach-dem-tod-von-drei-kindern-in-meissen"
+      "title": "Ehemaliger Weltmeister: Kramer überrascht: Als Fußballer nicht mehr gefragt",
+      "url": "https://www.zeit.de/news/2024-12/10/kramer-ueberrascht-als-fussballer-nicht-mehr-gefragt"
     },
     {
-      "title": "Kandidatenliste: Kanzleramtschef Schmidt soll SPD-Landesliste anführen",
-      "url": "https://www.zeit.de/news/2024-12/10/kanzleramtschef-schmidt-soll-spd-landesliste-anfuehren"
+      "title": "Terrorismus: Prozess wegen Terrorverdachts gegen Jugendlichen",
+      "url": "https://www.zeit.de/news/2024-12/10/prozess-wegen-terrorverdachts-gegen-jugendlichen"
+    },
+    {
+      "title": "Anschlagsverdacht: Drei mutmaßliche Islamisten wegen Terrorplänen festgenommen",
+      "url": "https://www.zeit.de/news/2024-12/10/drei-mutmassliche-islamisten-wegen-anschlagsplaenen-verhaftet"
+    },
+    {
+      "title": "Modehandel in Deutschland: Größte Modehändler: Otto Spitzenreiter, H&M überholt Zalando",
+      "url": "https://www.zeit.de/news/2024-12/10/groesste-modehaendler-otto-spitzenreiter-h-m-ueberholt-zalando"
     },
     {
       "title": "Lehre: Ausbildungszufriedenheit auf Tiefststand",
       "url": "https://www.zeit.de/news/2024-12/10/ausbildungszufriedenheit-auf-tiefststand"
-    },
-    {
-      "title": "Stau wegen kaputter Schleuse: Nach Schleusen-Unfall soll Schaden begutachtet werden",
-      "url": "https://www.zeit.de/news/2024-12/10/nach-schleusen-unfall-soll-schaden-begutachtet-werden"
-    },
-    {
-      "title": "Fußball-Weltmeisterschaften: Saudi-Arabien, Infantino, der DFB: So läuft die WM-Vergabe",
-      "url": "https://www.zeit.de/news/2024-12/10/organisation-wm-2034-beschoenigt-menschenrechtsverletzungen"
     }
   ]
 }
