@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-12-11T09:00:42",
+  "timestamp": "2024-12-11T10:08:28",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,16 +26,39 @@
   ],
   "articles": [
     {
+      "title": "Codeeditor mit KI-Funktion im Test: Was Zed für Python-Entwickler zu bieten hat",
+      "teaser": "Der Codeeditor Zed ist schnell und bietet durchdachte KI-Funktionen. Zur vollständigen IDE, etwa für Python, lässt er sich noch nicht ausbauen.",
+      "url": "https://www.heise.de/tests/Codeeditor-mit-KI-Funktion-im-Test-Was-Zed-fuer-Python-Entwickler-zu-bieten-hat-10192153.html"
+    },
+    {
       "title": "Amazon und DHL: Pakete tracken mit Python",
       "teaser": "Vor Weihnachten kommen einen Haufen Pakete an. Mit Python haben Sie aktuelle Zustellungen immer im Blick und lassen sich per Push-Nachricht informieren.",
       "url": "https://www.heise.de/ratgeber/Amazon-und-DHL-Pakete-tracken-mit-Python-10193653.html",
       "image_title": "Vector,Parcel,And,Mail,Delivery,Service,And,Tracking,App,Illustration,"
     },
     {
-      "title": "Fernsehen mit dem Raspberry-Pi streamen – so geht's",
-      "teaser": "Hat man einen traditionellen Fernsehanschluss, kann man mit einem Raspi und der Software Tvheadend lineares Fernsehen kostenlos im eigenen Netzwerk streamen.",
-      "url": "https://www.heise.de/ratgeber/Fernsehen-mit-dem-Raspberry-Pi-streamen-so-geht-s-10192232.html",
-      "image_title": ","
+      "title": "Apple Watch 2025: Blutdruckmessung, Satelliten-Messaging und 5G geplant",
+      "teaser": "Apples Umsätze mit Wearables sind rückläufig. Grundlegende Funktionen rund um Gesundheit und Sicherheit sollen 2025 neue Watch-Käufer locken.",
+      "url": "https://www.heise.de/news/Apple-Watch-2025-Blutdruckmessung-Satelliten-Messaging-und-5G-geplant-10195289.html",
+      "image_title": "Apple Watch mit App-Anzeige"
+    },
+    {
+      "title": "Solarwinds Web Help Desk: Software-Update schließt kritische Lücken",
+      "teaser": "In Solarwinds Web Help Desk haben die Entwickler teils kritische Sicherheitslücken korrigiert. IT-Verantwortliche sollten rasch aktualisieren.",
+      "url": "https://www.heise.de/news/Solarwinds-Web-Help-Desk-Software-Update-schliesst-kritische-Luecken-10195207.html",
+      "image_title": "IT-Verwalter sitzt vorm Server und überwacht die Performance"
+    },
+    {
+      "title": "Zeitplan veröffentlicht: Let's Encrypt schafft OCSP-Zertifikatsüberprüfung ab",
+      "teaser": "Das Protokoll zur Echtzeit-Gültigkeitsprüfung hat Datenschutzprobleme. Die weltgrößte CA ersetzt es nun durch Zertifikats-Sperrlisten.",
+      "url": "https://www.heise.de/news/Zeitplan-veroeffentlicht-Let-s-Encrypt-schafft-OCSP-Zertifikatsueberpruefung-ab-10195107.html",
+      "image_title": "TLS und die Rauferei um das \"richtige\" Internet"
+    },
+    {
+      "title": "iX-Workshop: Linux-Server härten",
+      "teaser": "Linux-Server und Netzwerkdienste effektiv und umfassend vor Angriffen schützen - von physischer Sicherheit über Verschlüsselung und 2FA bis hin zu SELinux.",
+      "url": "https://www.heise.de/news/iX-Workshop-Linux-Server-haerten-10187946.html",
+      "image_title": "iX-Workshop: Linux-Server härten"
     },
     {
       "title": "Patchday: Adobe schließt mehr als 160 Sicherheitslücken in Acrobat & Co.",
@@ -100,30 +123,6 @@
       "teaser": "AMD und Nvidia verkaufen gegen den Saisontrend weniger Grafikkarten. AMD trifft das besonders hart.",
       "url": "https://www.heise.de/news/Nur-noch-jede-zehnte-Desktop-Grafikkarte-stammt-von-AMD-10194512.html",
       "image_title": "Fünf Grafikkarten nebeneinander"
-    },
-    {
-      "title": "BSI untersucht Sicherheit von smarten Heizkörperthermostaten",
-      "teaser": "Das BSI hat sich smarte Heizkörperthermostate etwas genauer angesehen. IT-Sicherheit habe weniger Priorität bei deren Entwicklung.",
-      "url": "https://www.heise.de/news/BSI-untersucht-Sicherheit-von-smarten-Heizkoerperthermostaten-10194335.html",
-      "image_title": "Digitaler Thermostat"
-    },
-    {
-      "title": "Neue KI-Modelle in der Amazon-Cloud",
-      "teaser": "AWS legt bei seiner KI-Plattform Bedrock nach. Der Dienst kommt mit neuen Modellen für unterschiedliche Anwendungsfälle und überarbeiteter Prompt-Verarbeitung.",
-      "url": "https://www.heise.de/news/Neue-KI-Modelle-in-der-Amazon-Cloud-10194309.html",
-      "image_title": "Amazon-Schriftzug"
-    },
-    {
-      "title": "Bosch Heizkörper-Thermostat II +M im Test: Dank Matter vielseitig einsetzbar",
-      "teaser": "Dank Matter und Thread ist das neue Heizkörperthermostat von Bosch kompatibel zu Matter-kompatiblen Smart Home Systemen wie Apple Home, Home Assistant und Co. Wie gut es in der Praxis funktioniert, zeigt der Test.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/bosch-heizkoerper-thermostat-ii-m-im-test/5fscdd4",
-      "image_title": "##PHxVALUE_ALT_TEXT##"
-    },
-    {
-      "title": "NTLM-Relay-Angriffe: Microsoft ergreift Gegenmaßnahmen",
-      "teaser": "Ein Angriffsvektor zum Erlangen von Zugriff im Netz ist sogenanntes NTLM-Relaying. Das erschwert Microsoft nun mit neuen Maßnahmen.",
-      "url": "https://www.heise.de/news/Microsoft-ergreift-Massnahmen-gegen-NTLM-Relay-Angriffe-10194220.html",
-      "image_title": "Kriminelle greifen Server an, Admin versucht, den Stecker zu ziehen"
     },
     {
       "title": "Die neusten Ergebnisse für dieses Jahr",

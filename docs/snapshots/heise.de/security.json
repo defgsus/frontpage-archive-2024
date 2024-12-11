@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-12-11T09:00:45",
+  "timestamp": "2024-12-11T10:08:31",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Solarwinds Web Help Desk",
+      "url": "https://www.heise.de/news/Solarwinds-Web-Help-Desk-Software-Update-schliesst-kritische-Luecken-10195207.html"
+    },
+    {
       "title": "Patchday Adobe",
       "url": "https://www.heise.de/news/Patchday-Adobe-schliesst-mehr-als-160-Sicherheitsluecken-in-Acrobat-Co-10194979.html"
     },
@@ -44,8 +48,22 @@
       "url": "https://www.heise.de/news/Ivanti-patcht-zahlreiche-Produkte-10194994.html"
     },
     {
-      "title": "Cleo LexiCom, VLTransfer, Harmony",
-      "url": "https://www.heise.de/news/Transfer-Software-von-Cleo-Hinter-Firewall-bringen-Patch-wirkungslos-10193961.html"
+      "title": "Solarwinds Web Help Desk: Software-Update schließt kritische Lücken",
+      "teaser": "In Solarwinds Web Help Desk haben die Entwickler teils kritische Sicherheitslücken korrigiert. IT-Verantwortliche sollten rasch aktualisieren.",
+      "url": "https://www.heise.de/news/Solarwinds-Web-Help-Desk-Software-Update-schliesst-kritische-Luecken-10195207.html",
+      "image_title": "IT-Verwalter sitzt vorm Server und überwacht die Performance"
+    },
+    {
+      "title": "Zeitplan veröffentlicht: Let's Encrypt schafft OCSP-Zertifikatsüberprüfung ab",
+      "teaser": "Das Protokoll zur Echtzeit-Gültigkeitsprüfung hat Datenschutzprobleme. Die weltgrößte CA ersetzt es nun durch Zertifikats-Sperrlisten.",
+      "url": "https://www.heise.de/news/Zeitplan-veroeffentlicht-Let-s-Encrypt-schafft-OCSP-Zertifikatsueberpruefung-ab-10195107.html",
+      "image_title": "TLS und die Rauferei um das \"richtige\" Internet"
+    },
+    {
+      "title": "iX-Workshop: Linux-Server härten",
+      "teaser": "Linux-Server und Netzwerkdienste effektiv und umfassend vor Angriffen schützen - von physischer Sicherheit über Verschlüsselung und 2FA bis hin zu SELinux.",
+      "url": "https://www.heise.de/news/iX-Workshop-Linux-Server-haerten-10187946.html",
+      "image_title": "iX-Workshop: Linux-Server härten"
     },
     {
       "title": "Patchday: Adobe schließt mehr als 160 Sicherheitslücken in Acrobat & Co.",
@@ -146,23 +164,6 @@
       "teaser": "Lernen Sie, wie Sie Ihren Windows Server effektiv absichern und härten, Schutzmaßnahmen integrieren, Konfigurationen optimieren und Angriffsszenarien bewerten.",
       "url": "https://www.heise.de/news/iX-Workshop-Windows-Server-absichern-und-haerten-10188138.html",
       "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
-    },
-    {
-      "title": "Secure Coding: CWE-1007 – die unsichtbare Gefahr durch visuell ähnliche Zeichen",
-      "teaser": "Vorsätzliche Homoglyphen-Angriffe durch visuell ähnliche Zeichen können Anwender in die Irre leiten. Zum Schutz dagegen helfen verschiedene Best Practices.",
-      "url": "https://www.heise.de/hintergrund/Secure-Coding-CWE-1007-die-unsichtbare-Gefahr-durch-visuell-aehnliche-Zeichen-10188217.html",
-      "image_title": "Halber Mensch vor einer Wolke aus Programmcodezeichen"
-    },
-    {
-      "title": "l+f: TV-Empfänger mit DDoS-Angriffsfunktion ab Werk",
-      "teaser": "Eine spezielle Funktion eines Satelliten-Receivers soll offensichtlich Cyberattacken eines Konkurrenten kontern.",
-      "url": "https://www.heise.de/news/l-f-TV-Empfaenger-mit-DDoS-Funktionalitaet-ab-Werk-10190658.html",
-      "image_title": "Holzgebäude, an dem 8 Satellitenschüsseln angebracht sind; links ein Mast mit einer terrestrischen Antenne"
-    },
-    {
-      "title": "Sicherheitsupdate: Backupsoftware Dell NetWorker kann Daten leaken",
-      "teaser": "Dell hat wichtige Sicherheitspatches für seine Backup- und Recovery-Software NetWorker und das SDK BSAFE veröffentlicht. Noch sind aber nicht alle Updates da.",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-Backupsoftware-Dell-NetWorker-kann-Daten-leaken-10190285.html"
     },
     {
       "title": "C-Level Kommunikation",
