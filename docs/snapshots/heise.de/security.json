@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-12-12T09:08:20",
+  "timestamp": "2024-12-12T10:08:36",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "TeamViewer",
+      "url": "https://www.heise.de/news/Sicherheitspatch-Angreifer-koennen-ueber-TeamViewer-Luecke-Windows-Dateien-loeschen-10196765.html"
+    },
+    {
+      "title": "iOS, iPadOS, macOS",
+      "url": "https://www.heise.de/news/Apple-stopft-schwere-Sicherheitsluecken-kein-Patch-fuer-iOS-17-10196897.html"
+    },
+    {
       "title": "Atlassian",
       "url": "https://www.heise.de/news/Atlassian-schuetzt-Confluence-Co-vor-moeglichen-DoS-Attacken-10196643.html"
     },
@@ -40,12 +48,21 @@
       "url": "https://www.heise.de/news/Epic-Games-Launcher-Sicherheitsluecke-ermoeglicht-Rechteausweitung-10196655.html"
     },
     {
-      "title": "Solarwinds Web Help Desk",
-      "url": "https://www.heise.de/news/Solarwinds-Web-Help-Desk-Software-Update-schliesst-kritische-Luecken-10195207.html"
+      "title": "Sicherheitspatch: Angreifer können über TeamViewer-Lücke Windows-Dateien löschen",
+      "teaser": "In der aktuellen Version des Fernzugriffsclients TeamViewer für Windows haben die Entwickler eine Schwachstelle geschlossen.",
+      "url": "https://www.heise.de/news/Sicherheitspatch-Angreifer-koennen-ueber-TeamViewer-Luecke-Windows-Dateien-loeschen-10196765.html"
     },
     {
-      "title": "Patchday Adobe",
-      "url": "https://www.heise.de/news/Patchday-Adobe-schliesst-mehr-als-160-Sicherheitsluecken-in-Acrobat-Co-10194979.html"
+      "title": "Apple stopft schwere Sicherheitslücken, kein Patch für iOS 17",
+      "teaser": "Apples jüngste Updates schließen viele Schwachstellen in iOS, macOS und iPadOS, darunter kritische. Für iOS 17 gibt es wohl keine Patches mehr.",
+      "url": "https://www.heise.de/news/Apple-stopft-schwere-Sicherheitsluecken-kein-Patch-fuer-iOS-17-10196897.html",
+      "image_title": "iPhone 12 neben iPhone 12 Pro"
+    },
+    {
+      "title": "Das Ende von Windows Kalender, Kontakte und Mail naht schnell",
+      "teaser": "Das neue Outlook soll nach Microsofts Willen die Apps Windows Kalender, Kontakte und Mail ersetzen. Deren Support endet in Kürze.",
+      "url": "https://www.heise.de/news/Das-Ende-von-Windows-Kalender-Kontakte-und-Mail-naht-schnell-10196840.html",
+      "image_title": "Ostersund,,Sweden,-,Jan,18,,2022:,Microsoft,365,On,A"
     },
     {
       "title": "Atlassian schützt Confluence & Co. vor möglichen DoS-Attacken",
@@ -146,24 +163,6 @@
       "teaser": "Server schützen Daten mit komplexen Funktionen für Confidential Computing, die sich durch Speicherriegel mit gefälschter Konfiguration austricksen lassen.",
       "url": "https://www.heise.de/news/BadRAM-Historischer-Seitenkanal-hebelt-Confidential-Computing-in-der-Cloud-aus-10193941.html",
       "image_title": "AMD Epyc Prozessor in einem Server"
-    },
-    {
-      "title": "BSI untersucht Sicherheit von smarten Heizkörperthermostaten",
-      "teaser": "Das BSI hat sich smarte Heizkörperthermostate etwas genauer angesehen. IT-Sicherheit habe weniger Priorität bei deren Entwicklung.",
-      "url": "https://www.heise.de/news/BSI-untersucht-Sicherheit-von-smarten-Heizkoerperthermostaten-10194335.html",
-      "image_title": "Digitaler Thermostat"
-    },
-    {
-      "title": "NTLM-Relay-Angriffe: Microsoft ergreift Gegenmaßnahmen",
-      "teaser": "Ein Angriffsvektor zum Erlangen von Zugriff im Netz ist sogenanntes NTLM-Relaying. Das erschwert Microsoft nun mit neuen Maßnahmen.",
-      "url": "https://www.heise.de/news/Microsoft-ergreift-Massnahmen-gegen-NTLM-Relay-Angriffe-10194220.html",
-      "image_title": "Kriminelle greifen Server an, Admin versucht, den Stecker zu ziehen"
-    },
-    {
-      "title": "Transfer-Software von Cleo: Hinter Firewall bringen, Patch wirkungslos",
-      "teaser": "Die Datenstransfer-Software von Cleo hatte eine Sicherheitslücke gestopft – jedoch unzureichend. Das Leck wird aktiv angegriffen.",
-      "url": "https://www.heise.de/news/Transfer-Software-von-Cleo-Hinter-Firewall-bringen-Patch-wirkungslos-10193961.html",
-      "image_title": "Große Server werden von Viren und Kriminellen teils mit Gewehren angegriffen"
     },
     {
       "title": "C-Level Kommunikation",

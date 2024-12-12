@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-12-12T09:08:17",
+  "timestamp": "2024-12-12T10:08:32",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,26 +26,37 @@
   ],
   "articles": [
     {
+      "title": "Textbasierte Werkzeuge für Entwickler im Vergleich: Von Code zu Diagrammen",
+      "teaser": "Aus Code erstellte Diagramme bieten einen modernen Ansatz, Systemarchitekturen, Prozesse und Datenflüsse zu visualisieren. Wir stellen wichtige Tools vor.",
+      "url": "https://www.heise.de/tests/Textbasierte-Werkzeuge-fuer-Entwickler-im-Vergleich-Von-Code-zu-Diagrammen-10184448.html"
+    },
+    {
       "title": "Vom KI-Modell zur App: So geht das mit Apples Machine-Learning-Workflow",
       "teaser": "Wir demonstrieren Apples neuen ML-Workflow anhand einer selbst gebauten Chat-App. Sie verwendet neue Features aus dem PyTorch-Framework und dem Core ML API.",
       "url": "https://www.heise.de/hintergrund/Vom-KI-Modell-zur-App-So-geht-das-mit-Apples-Machine-Learning-Workflow-10183672.html",
       "image_title": ","
     },
     {
-      "title": "Bauvorschlag: Günstiger Gaming-PC mit Auflösung in Full HD oder WQHD",
-      "teaser": "Die erste Variante kommt ab 635 Euro mit flüssigen Bildraten in Full-HD-Auflösung mit höchster Detailstufe, das Upgrade schafft zusätzlich Raytracing oder WQHD.",
-      "url": "https://www.heise.de/ratgeber/Bauvorschlag-Guenstiger-Gaming-PC-mit-Aufloesung-in-Full-HD-oder-WQHD-10193789.html",
-      "image_title": ","
+      "title": "Sicherheitspatch: Angreifer können über TeamViewer-Lücke Windows-Dateien löschen",
+      "teaser": "In der aktuellen Version des Fernzugriffsclients TeamViewer für Windows haben die Entwickler eine Schwachstelle geschlossen.",
+      "url": "https://www.heise.de/news/Sicherheitspatch-Angreifer-koennen-ueber-TeamViewer-Luecke-Windows-Dateien-loeschen-10196765.html"
+    },
+    {
+      "title": "Apple stopft schwere Sicherheitslücken, kein Patch für iOS 17",
+      "teaser": "Apples jüngste Updates schließen viele Schwachstellen in iOS, macOS und iPadOS, darunter kritische. Für iOS 17 gibt es wohl keine Patches mehr.",
+      "url": "https://www.heise.de/news/Apple-stopft-schwere-Sicherheitsluecken-kein-Patch-fuer-iOS-17-10196897.html",
+      "image_title": "iPhone 12 neben iPhone 12 Pro"
+    },
+    {
+      "title": "Das Ende von Windows Kalender, Kontakte und Mail naht schnell",
+      "teaser": "Das neue Outlook soll nach Microsofts Willen die Apps Windows Kalender, Kontakte und Mail ersetzen. Deren Support endet in Kürze.",
+      "url": "https://www.heise.de/news/Das-Ende-von-Windows-Kalender-Kontakte-und-Mail-naht-schnell-10196840.html",
+      "image_title": "Ostersund,,Sweden,-,Jan,18,,2022:,Microsoft,365,On,A"
     },
     {
       "title": "Softwareentwicklung mit KI: Frühbucherticket für betterCode() GenAI sichern",
       "teaser": "Im Januar behandelt die neue Online-Konferenz alle wichtigen Themen zu KI-gestützter Softwareentwicklung. Der Frühbucherrabatt gilt noch bis zum 20. Dezember.",
       "url": "https://www.heise.de/news/Softwareentwicklung-mit-KI-Fruehbucherticket-fuer-betterCode-GenAI-sichern-10194543.html"
-    },
-    {
-      "title": "Textbasierte Werkzeuge für Entwickler im Vergleich: Von Code zu Diagrammen",
-      "teaser": "Aus Code erstellte Diagramme bieten einen modernen Ansatz, Systemarchitekturen, Prozesse und Datenflüsse zu visualisieren. Wir stellen wichtige Tools vor.",
-      "url": "https://www.heise.de/tests/Textbasierte-Werkzeuge-fuer-Entwickler-im-Vergleich-Von-Code-zu-Diagrammen-10184448.html"
     },
     {
       "title": "Atlassian schützt Confluence & Co. vor möglichen DoS-Attacken",
@@ -77,6 +88,12 @@
       "image_title": "Serverschränke mit Servern in einem Rechenzentrum"
     },
     {
+      "title": "Bauvorschlag: Günstiger Gaming-PC mit Auflösung in Full HD oder WQHD",
+      "teaser": "Die erste Variante kommt ab 635 Euro mit flüssigen Bildraten in Full-HD-Auflösung mit höchster Detailstufe, das Upgrade schafft zusätzlich Raytracing oder WQHD.",
+      "url": "https://www.heise.de/ratgeber/Bauvorschlag-Guenstiger-Gaming-PC-mit-Aufloesung-in-Full-HD-oder-WQHD-10193789.html",
+      "image_title": ","
+    },
+    {
       "title": "Bauvorschlag: Leistungsfähiger High-End-PC für Gaming und Computing",
       "teaser": "Unser Ryzen-9000-PC tritt in drei Varianten an. Sie können ihn für 4K-Gaming, hohe Leistung mit vielen CPU-Kernen oder eine Kombination aus beidem bauen.",
       "url": "https://www.heise.de/ratgeber/Bauvorschlag-Leistungsfaehiger-High-End-PC-fuer-Gaming-und-Computing-10193446.html",
@@ -104,24 +121,6 @@
       "teaser": "In der #heiseshow: OpenAIs Video-KI Sora sorgt für Aufsehen, Russland testet die Internet-Abkopplung und die EU diskutiert das Ende des Kupfer-Telefonnetzes.",
       "url": "https://www.heise.de/news/heiseshow-Sora-Russlands-RuNet-Tests-Kupferabschaltung-10196163.html",
       "image_title": "heiseshow - Jeden Donnerstag LIVE um 17 Uhr"
-    },
-    {
-      "title": "KI im Journalismus: Bei den Bundesbürgern überwiegen die Bedenken",
-      "teaser": "Täuschungen und fehlende Transparenz stehen im Fokus der Kritik bei KI in den Medien. Besonders skeptisch sehen die Befragten komplett per KI verfasste Artikel.",
-      "url": "https://www.heise.de/news/KI-im-Journalismus-Bei-den-Bundesbuergern-ueberwiegen-die-Bedenken-10196222.html",
-      "image_title": "mechanische Schreibmaschine mit eingespanntem Formular steht auf einem Tisch"
-    },
-    {
-      "title": "iOS 18.2 und macOS 15.2: Wie Sie die neuen Funktionen ausreizen",
-      "teaser": "Die jüngsten Updates liefern neue Funktionen für iPhones, iPads plus Macs – und bringen sogar von Apple zwischenzeitlich entfernte Features zurück.",
-      "url": "https://www.heise.de/ratgeber/iOS-18-2-und-macOS-15-2-Wie-Sie-die-neuen-Funktionen-ausreizen-10061882.html",
-      "image_title": "iOS 18.2 und macOS 15.2"
-    },
-    {
-      "title": "Gemini 2.0: Googles neues KI-Modell ist multimodal",
-      "teaser": "Der Nachfolger von Gemini 1.5 bringt laut Google Fortschritte bei Multimodalität und Tools mit – für CEO Pichai ein Schritt zum \"universellen Assistenten\".",
-      "url": "https://www.heise.de/news/KI-Modell-Google-veroeffentlicht-Gemini-2-0-Flash-10196049.html",
-      "image_title": "Google-Schriftzug an weißer Wand"
     },
     {
       "title": "Die neusten Ergebnisse für dieses Jahr",
