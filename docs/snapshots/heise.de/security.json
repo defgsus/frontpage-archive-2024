@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-12-12T07:00:51",
+  "timestamp": "2024-12-12T08:10:55",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Epic Games Launcher",
+      "url": "https://www.heise.de/news/Epic-Games-Launcher-Sicherheitsluecke-ermoeglicht-Rechteausweitung-10196655.html"
+    },
+    {
       "title": "Solarwinds Web Help Desk",
       "url": "https://www.heise.de/news/Solarwinds-Web-Help-Desk-Software-Update-schliesst-kritische-Luecken-10195207.html"
     },
@@ -44,11 +48,19 @@
       "url": "https://www.heise.de/news/Patchday-Angreifer-attackieren-Windows-und-verschaffen-sich-System-Rechte-10194938.html"
     },
     {
-      "title": "Ivanti",
-      "url": "https://www.heise.de/news/Ivanti-patcht-zahlreiche-Produkte-10194994.html"
+      "title": "Epic Games Launcher: Sicherheitslücke ermöglicht Rechteausweitung",
+      "teaser": "Im Epic Games Launcher können Angreifer eine Schwachstelle missbrauchen, um ihre Rechte auszuweiten. Ein Update korrigiert das.",
+      "url": "https://www.heise.de/news/Epic-Games-Launcher-Sicherheitsluecke-ermoeglicht-Rechteausweitung-10196655.html",
+      "image_title": "May,23,,2019,,Brazil.,In,This,Photo,Illustration,The,Epic"
     },
     {
-      "title": "Bundesrechnungshof bemängelt fehlende Redundanz von Bundeswehr-IT",
+      "title": "iX-Workshop: Fortgeschrittene Administration von Kubernetes",
+      "teaser": "Lernen Sie fortgeschrittene Techniken für das Applikationsmanagement und die Implementierung von Service-Mesh-Technologien.",
+      "url": "https://www.heise.de/news/iX-Workshop-Fortgeschrittene-Administration-von-Kubernetes-10190071.html",
+      "image_title": "iX-Workshop: Linux-Server härten"
+    },
+    {
+      "title": "IT-Services der Bundeswehr gefährdet, bemängelt Bundesrechnungshof",
       "teaser": "Der Bundesrechnungshof sieht die Bundeswehr-IT-Services gefährdet. Das geht aus Bemerkungen der Behörde zur Haushaltsführung hervor.",
       "url": "https://www.heise.de/news/Bundesrechnungshof-bemaengelt-fehlende-Redundanz-von-Bundeswehr-IT-10196595.html",
       "image_title": "Serverschränke mit Servern in einem Rechenzentrum"
@@ -151,18 +163,6 @@
       "title": "IBM App Connect Enterprise Certified Container mit Schadcode-Lücke",
       "teaser": "In aktuellen Versionen haben IBM-Entwickler in App Connect Enterprise Certified Container eine Schwachstelle geschlossen.",
       "url": "https://www.heise.de/news/IBM-App-Connect-Enterprise-Certified-Container-mit-Schadcode-Luecke-10193581.html"
-    },
-    {
-      "title": "OpenWrt: Angreifer hätten bestimmte Images mit Schadcode verseuchen können",
-      "teaser": "Aufgrund eines Fehlers hätten mit Schadcode präparierte OpenWrt-Images in Umlauf kommen können. Mittlerweile ist das Sicherheitsproblem gelöst.",
-      "url": "https://www.heise.de/news/OpenWrt-Angreifer-haetten-bestimmte-Images-mit-Schadcode-verseuchen-koennen-10193337.html",
-      "image_title": "Magnifying,Glass,Enlarging,Malware,In,Computer,Machine,Code"
-    },
-    {
-      "title": "SAP-Patchday: Updates schließen teils kritische Sicherheitslücken",
-      "teaser": "Im Dezember informiert SAP über neun neu entdeckte Sicherheitslücken in diversen Produkten. Eine davon gilt als kritisches Risiko.",
-      "url": "https://www.heise.de/news/SAP-Patchday-Updates-schliessen-teils-kritische-Sicherheitsluecken-10193418.html",
-      "image_title": "Stilisiertes Bild: Laptop mit SAP-Logo brennt, vor Serverracks"
     },
     {
       "title": "C-Level Kommunikation",
