@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-12-13T19:00:52",
+  "timestamp": "2024-12-13T20:08:26",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
@@ -131,18 +137,18 @@
       "image_title": "Stromversorgung: Windräder stehen hinter dem Mast einer Stromtrasse. Ungeachtet immenser Kosten liegt die Energiewende in Deutschland nach einer neuen Studie in mehreren Bereichen weit hinter den politischen Zielen zurück. (zu dpa-KORR: «Prognos-Studie: Energiewende lahmt immer noch»). +++ dpa-Bildfunk +++"
     },
     {
-      "title": "Dunkelflaute : Darum ist Strom gerade so teuer",
-      "teaser": "An der Strombörse erreicht der Preis neue Rekorde. Müssen Verbraucher nun mehr bezahlen? Und warum wird gerade so wenig produziert? Das Schlüsselwort heißt Dunkelflaute.",
-      "url": "https://www.zeit.de/wirtschaft/2024-12/dunkelflaute-strompreise-verbraucher-faq",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-12/dunkelflaute-windraeder-strom-preis-bild/super__430x286",
-      "image_title": "Dunkelflaute: Der Morgenhimmel leuchtet über dem Windenergiepark «Odervorland», während Nebel und dichte Wolken über die Landschaft ziehen. Zum Ende der Woche wird es bedeckt und milder in Berlin und Brandenburg. (zu dpa: «Viele Wolken am Wochenende in Berlin und Brandenburg») +++ dpa-Bildfunk +++"
-    },
-    {
       "title": "Entwurf des Wahlprogramms : Union verspricht in Wahlprogramm Stopp irregulärer Migration",
       "teaser": "CDU und CSU wollen kommende Woche ihr Wahlprogramm vorstellen. Darin kündigen sie Steuerentlastungen für Gutverdienende und eine strenge Migrationspolitik an.",
       "url": "https://www.zeit.de/politik/deutschland/2024-12/union-cdu-csu-wahlprogramm-migration-steuern",
       "image_url": "https://img.zeit.de/politik/deutschland/2024-12/csu-wahlprogramm-asylantrag-bild/super__430x286",
       "image_title": "Entwurf des Wahlprogramms: Friedrich Merz (L), leader of Germany's conservative Christian Democratic Union (CDU) party, and Bavaria's State Premier Markus Soeder, leader of the CDU's sister party, the Bavarian Christian Social Union (CDU), address a press conference on September 17, 2024 in Berlin. Friedrich Merz will be the CDU/CSU union's candidate for Chancellor for federal elections scheduled to take place on September 28, 2025. (Photo by Tobias SCHWARZ / AFP) (Photo by TOBIAS SCHWARZ/AFP via Getty Images)"
+    },
+    {
+      "title": "Freitagsgebet in Syrien : Sie singen und beten",
+      "teaser": "In Syrien versammeln sich die Menschen zum ersten Freitagsgebet seit Assads Sturz. Laut dem Chef des HTS, Al-Dschaulani, feiern sie den \"Sieg der Revolution\". Die Bilder",
+      "url": "https://www.zeit.de/politik/ausland/2024-12/freitagsgebet-syrien-assad-sturz-damaskus-fs",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-12/freitagsgebet-syrien-assad-sturz-damaskus-fs-bilder-bild/super__430x286",
+      "image_title": "Freitagsgebet in Syrien: Muslim worshippers attend the first weekly Friday prayers since the ouster of president Bashar al-Assad at the Umayyad mosque in the old city of Damascus on December 13, 2024. Islamist-led rebels took Damascus in a lightning offensive on December 8, ousting president Bashar al-Assad and ending five decades of Baath rule in Syria. (Photo by Aris MESSINIS / AFP) (Photo by ARIS MESSINIS/AFP via Getty Images)"
     },
     {
       "title": "Z+ (registrierungspflichtiger Inhalt); Tamara Tippler : \"Ich soll aufhören, weil ich ein Kind bekomme?\"",
@@ -159,35 +165,7 @@
       "image_title": "Eckart Seith: Der deutsche Anwalt Eckart Seith in Zürich"
     },
     {
-      "title": "Freitagsgebet in Syrien : Sie singen und beten",
-      "teaser": "In Syrien versammeln sich die Menschen zum ersten Freitagsgebet seit Assads Sturz. Laut dem Chef des HTS, Al-Dschaulani, feiern sie den \"Sieg der Revolution\". Die Bilder",
-      "url": "https://www.zeit.de/politik/ausland/2024-12/freitagsgebet-syrien-assad-sturz-damaskus-fs",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-12/freitagsgebet-syrien-assad-sturz-damaskus-fs-bilder-bild/wide__892x501",
-      "image_title": "Freitagsgebet in Syrien: Muslim worshippers attend the first weekly Friday prayers since the ouster of president Bashar al-Assad at the Umayyad mosque in the old city of Damascus on December 13, 2024. Islamist-led rebels took Damascus in a lightning offensive on December 8, ousting president Bashar al-Assad and ending five decades of Baath rule in Syria. (Photo by Aris MESSINIS / AFP) (Photo by ARIS MESSINIS/AFP via Getty Images)"
-    },
-    {
-      "title": "Opioidkrise : Prozess gegen McKinsey gegen Millionenzahlung eingestellt",
-      "teaser": "Das US-Justizministerium wollte vor einem Gericht die Rolle von McKinsey in der Opioidkrise ermitteln. Der Konzern zahlt nun 650 Millionen Dollar, um dem zu entgehen.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-12/opioid-krise-mckinsey-prozess",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-12/opioid-krise-mckinsey-prozess-bild/super__430x286",
-      "image_title": "Opioidkrise: Das Schmerzmittel Oxycontin des Herstellers Purdue Pharma, aufgenommen in einer Apotheke. (zu dpa-Story: Schmerzmittel - Gut Ding und Droge zugleich) +++ dpa-Bildfunk +++"
-    },
-    {
-      "title": "Regierungskrise in Frankreich : Schon wollen sie ihn stürzen",
-      "teaser": "Nach einem Machtkampf ernennt Macron François Bayrou zum Ministerpräsidenten. Ein Neuanfang ist das nicht. Die Regierungskrise in Frankreich dürfte bald weitergehen.",
-      "url": "https://www.zeit.de/politik/ausland/2024-12/regierungskrise-frankreich-emmanuel-macron-premierminister",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-12/regierungskrise-frankreich-emmanuel-macron-premierminister-bild/super__430x286",
-      "image_title": "Regierungskrise in Frankreich: Francois Bayrou, president of the Democratic Movement (MoDem) party, during the Besoin d'Europe European election campaign rally in Aubervilliers, France, on Saturday, June 1, 2024. Power politics and trade tensions are high on the agenda ahead of next week's European elections where the far right is set to do well, especially in France. Photographer: Nathan Laine/Bloomberg via Getty Images"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Elbtower in Hamburg : Zweite Chance für den \"Kurzen Olaf\"",
-      "teaser": "Der Unternehmer Dieter Becken soll den insolventen Elbtower fertigbauen. Die Stadt Hamburg will darin ein Museum ansiedeln. Nach Subvention darf das aber nicht aussehen.",
-      "url": "https://www.zeit.de/hamburg/2024-12/elbtower-hamburg-dieter-becken-investor-weiterbau",
-      "image_url": "https://img.zeit.de/hamburg/2024-12/elbtower/super__430x286",
-      "image_title": "Elbtower in Hamburg: Zweite Chance für den \"Kurzen Olaf\""
-    },
-    {
-      "title": "\"Hallo Spencer – Der Film\" : Lasst noch mal die Puppen tanzen!",
+      "title": "Z+ (abopflichtiger Inhalt); \"Hallo Spencer – Der Film\" : Lasst noch mal die Puppen tanzen!",
       "teaser": "Die Sendung \"Hallo Spencer\" gehört zu den Kindheitserinnerungen vieler Millennials. Jan Böhmermann hat die Figuren aus dem Fundus gerettet und einen Film daraus gemacht.",
       "url": "https://www.zeit.de/kultur/film/2024-12/hallo-spencer-der-film-jan-boehmermann-maerchen-satire",
       "image_url": "https://img.zeit.de/kultur/film/2024-12/hallo-spencer-film-teaser/wide__892x501",
@@ -264,11 +242,18 @@
       "image_title": "Weihnachten ohne Familie: \"Ich kann mich nicht für meine Familie opfern\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Wahlkampf in der Adventszeit : Advent, Advent, nur das Lichtlein brennt",
-      "teaser": "Scholz postet auf Arabisch, Merz streichelt die grünen Sündenböcke: Wer Kanzler werden will, bewahrt Weihnachtsruhe. Nur einer hat den Sound der Zeit nicht mitbekommen.",
-      "url": "https://www.zeit.de/2024/53/wahlkampf-adventszeit-ruhe-sympathie",
-      "image_url": "https://img.zeit.de/2024/53/advent-advent-nur-das-lichtlein-brennt-bild-2/super__430x286",
-      "image_title": "Wahlkampf in der Adventszeit: Die Advents-Wahlkämpfer setzen auf ein Mittel, das zur Zeit passt: auf vorweihnachtliche Milde. ++++++++++<br /> Illustration wahlpolitische Folgen des Advents"
+      "title": "Regierungskrise in Frankreich : Schon wollen sie ihn stürzen",
+      "teaser": "Nach einem Machtkampf ernennt Macron François Bayrou zum Ministerpräsidenten. Ein Neuanfang ist das nicht. Die Regierungskrise in Frankreich dürfte bald weitergehen.",
+      "url": "https://www.zeit.de/politik/ausland/2024-12/regierungskrise-frankreich-emmanuel-macron-premierminister",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-12/regierungskrise-frankreich-emmanuel-macron-premierminister-bild/super__430x286",
+      "image_title": "Regierungskrise in Frankreich: Francois Bayrou, president of the Democratic Movement (MoDem) party, during the Besoin d'Europe European election campaign rally in Aubervilliers, France, on Saturday, June 1, 2024. Power politics and trade tensions are high on the agenda ahead of next week's European elections where the far right is set to do well, especially in France. Photographer: Nathan Laine/Bloomberg via Getty Images"
+    },
+    {
+      "title": "Opioidkrise : McKinsey zahlt Millionensumme zur Beilegung von Ermittlungen",
+      "teaser": "Das US-Justizministerium wollte die Rolle von McKinsey in der Opioidkrise vor Gericht untersuchen. Der Konzern zahlt nun 650 Millionen Dollar, um dem zu entgehen.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-12/opioid-krise-mckinsey-prozess",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-12/opioid-krise-mckinsey-prozess-bild/super__430x286",
+      "image_title": "Opioidkrise: Das Schmerzmittel Oxycontin des Herstellers Purdue Pharma, aufgenommen in einer Apotheke. (zu dpa-Story: Schmerzmittel - Gut Ding und Droge zugleich) +++ dpa-Bildfunk +++"
     },
     {
       "title": "Folge 11 : Was Sie über Fake-News im Wahlkampf denken",
@@ -390,18 +375,18 @@
       "image_title": "Folge 6: Was Sie sich noch von der Regierung wünschen"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Elbtower in Hamburg : Zweite Chance für den \"Kurzen Olaf\"",
+      "teaser": "Der Unternehmer Dieter Becken soll den insolventen Elbtower fertigbauen. Die Stadt Hamburg will darin ein Museum ansiedeln. Nach Subvention darf das aber nicht aussehen.",
+      "url": "https://www.zeit.de/hamburg/2024-12/elbtower-hamburg-dieter-becken-investor-weiterbau",
+      "image_url": "https://img.zeit.de/hamburg/2024-12/elbtower/super__430x286",
+      "image_title": "Elbtower in Hamburg: Zweite Chance für den \"Kurzen Olaf\""
+    },
+    {
       "title": "Junge Alternative : AfD-Jugend legt sich mit Mutterpartei an",
       "teaser": "Die Junge Alternative wehrt sich gegen ihre Auflösung durch die Mutterpartei mit einem eigenen Konzept. Ihr Bundesvorsitzender ist in der eigenen Truppe völlig isoliert.",
       "url": "https://www.zeit.de/politik/deutschland/2024-12/junge-alternative-afd-reformprozess-widerstand-bundesparteitag",
       "image_url": "https://img.zeit.de/politik/deutschland/2024-12/junge-alternative-afd-reformprozess-widerstand/super__430x286",
       "image_title": "Junge Alternative: Nach der Messerattacke mit mehreren Verletzten in Mannheim demonstrieren Anhänger der AfD und rechter Gruppierungen gegen eine Kundgebung von Bürgern gegen Extremismus und Gewalt. (zu dpa: «AfD denkt über Ersatz für «Junge Alternative» nach») +++ dpa-Bildfunk +++"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Beziehung zu Chatbots : KI statt Freund, Therapeut, Liebhaber?",
-      "teaser": "Sie machen sich Sorgen über das Suchtpotenzial von Social Media? Dann warten Sie mal auf unsere neuen KI-Freunde!",
-      "url": "https://www.zeit.de/digital/2024-12/beziehung-chatbot-freundschat-therapie-newsletter-kuenstliche-intelligenz",
-      "image_url": "https://img.zeit.de/digital/2024-12/ai-companions-ki-newsletter/super__430x286",
-      "image_title": "Beziehung zu Chatbots: KI statt Freund, Therapeut, Liebhaber?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Deutsche Wirtschaft : Was in Deutschland schiefläuft",
@@ -423,13 +408,6 @@
       "url": "https://www.zeit.de/zeit-magazin/unterhaltung/2024-12/falsch-aber-lustig-comedy-show-beliebtheit-rbb",
       "image_url": "https://img.zeit.de/zeit-magazin/unterhaltung/2024-12/falsch-aber-lustig-comedy-show-beliebtheit-rbb-bild/super__430x286",
       "image_title": "\"falsch, aber lustig\": Bei \"falsch, aber anders lustig\" treten Comedians in Zweierteams gegeneinander an. Moritz Neumeier (M.r.) hat das Format erfunden und moderiert es auch."
-    },
-    {
-      "title": "Bundesliga-Vorschau : Was passiert in der Hose von Xabi Alonso?",
-      "teaser": "Der Spanier holt nicht nur aus seinen Spielern das Beste raus, sondern auch aus dem Internet. Und Bayernfans wollen nicht mehr Champions der Welt sein. Der 14. Spieltag",
-      "url": "https://www.zeit.de/sport/2024-12/bundesliga-vorschau-fussball-bayer-leverkusen-xabi-alonso",
-      "image_url": "https://img.zeit.de/sport/2024-12/bundesliga-vorschau-fussball-bayer-leverkusen-xabi-alonso-bild/super__430x286",
-      "image_title": "Bundesliga-Vorschau: Leverkusens Trainer ahmte beim Spiel gegen Inter Mailand Schussbewegungen nach, und wurde zum Minister für Silly Walks."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Die Goldenen Zitronen : \"In den Achtzigern waren wir schon auch bescheuert\"",
@@ -520,18 +498,18 @@
       "image_title": "Diese Woche in der ZEIT: Eben wusste ich’s noch ..."
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Beziehung zu Chatbots : KI statt Freund, Therapeut, Liebhaber?",
+      "teaser": "Sie machen sich Sorgen über das Suchtpotenzial von Social Media? Dann warten Sie mal auf unsere neuen KI-Freunde!",
+      "url": "https://www.zeit.de/digital/2024-12/beziehung-chatbot-freundschat-therapie-newsletter-kuenstliche-intelligenz",
+      "image_url": "https://img.zeit.de/digital/2024-12/ai-companions-ki-newsletter/wide__892x501",
+      "image_title": "Beziehung zu Chatbots: KI statt Freund, Therapeut, Liebhaber?"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Marzipanpralinen : Lieblingsgemüse? Marzipankartoffel!",
       "teaser": "Früher blieben Marzipankartoffeln bei unserer Autorin am längsten übrig, mittlerweile mag sie die vorweihnachtliche Spezialität. Und verrät uns das Rezept ihrer Mutter.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-12/marzipanpralinen-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-12/marzipanpralinen-rezept-wochenmarkt-bild/wide__892x501",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-12/marzipanpralinen-rezept-wochenmarkt-bild/super__430x286",
       "image_title": "Marzipanpralinen: Lieblingsgemüse? Marzipankartoffel!"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Antisemitismus in Zeitz : Geschändete Erinnerung",
-      "teaser": "In der Nacht zum 7. Oktober 2024, dem Jahrestag des Massakers der Hamas in Israel, werden in Zeitz sämtliche Stolpersteine herausgebrochen und gestohlen. Eine Spurensuche",
-      "url": "https://www.zeit.de/2024/53/antisemitismus-zeitz-sachsen-anhalt-stolpersteine-judentum-7-oktober",
-      "image_url": "https://img.zeit.de/2024/53/antisemitismus-zeitz-sachsen-anhalt-stolpersteine-judentum-7-oktober-teaserbild/super__430x286",
-      "image_title": "Antisemitismus in Zeitz: Drei neu verlegte Stolpersteine mit weißen Rosen in der Kramerstraße. Anfang Oktober wurden an mehreren Stellen in Zeitz Stolpersteine von Unbekannten entwendet. ++++++++++++++++++ Drei neu verlegte Stolpersteine mit weißen Rosen in der Kramerstraße. Anfang Oktober wurden an meherer Stellen in Zeitz die Stolpersteine von Unbekannten entwendet. Die Stolpersteine sind ein Projekt des Künstlers Gunter Demning. Sie sollen an das Schicksal der jüdischen Menschen erinnern, welche in der Zeit des Nationalsozialismus verfolgt, ermordet und deportiert wurden."
     },
     {
       "title": "Verlagsangebot : 5 Werkzeuge gegen negative Gedankenspiralen",
@@ -548,11 +526,11 @@
       "image_title": "Fragen Sie ZEIT ONLINE: Haben Sie ein Thema verpasst?"
     },
     {
-      "title": "Ramstein : US-Militär bestätigt unbekannte Drohnenflüge über Stützpunkt",
-      "teaser": "Erneut ist es zu Drohnenflügen über einer wichtigen Einrichtung in Deutschland gekommen. Über dem US-Stützpunkt Ramstein wurden Drohnen unbekannter Herkunft gesichtet.",
-      "url": "https://www.zeit.de/politik/2024-12/drohnen-fluege-ramstein-us-miltaerstuetzpunkt",
-      "image_url": "https://img.zeit.de/politik/2024-12/drohnen-militaerstuetzpunkt-ramstein-bild/wide__892x501",
-      "image_title": "Ramstein: RAMSTEIN-MIESENBACH, GERMANY - JUNE 06: A combat jet stands in front of a hanger during a day of fighter plane exercises on June 06, 2024 in Ramstein-Miesenbach, Germany. Combat aircraft from NATO countries are duelling today in one versus one exercises hosted at Ramstein. (Photo by Thomas Lohnes/Getty Images)"
+      "title": "Bundestagspolizei : Rechte Verdachtsfälle bei Bundestagspolizei",
+      "teaser": "Bei der Polizei im Bundestag ist es zu mehreren mutmaßlich rechten Vorfällen gekommen. Ein Disziplinarverfahren soll eröffnet worden sein.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-12/bundestagspolizei-rechte-vorfaelle-taz",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-12/rechte-verdachtsfaelle-bundestagspolizei-bild-2/wide__892x501",
+      "image_title": "Bundestagspolizei: Ein uniformierter Polizist der Bundestags-Polizei beobachtet die Fraktionsebene im Deutschen Bundestag. (Zu dpa: «Gut 250 Straftaten im Bereich der Bundestagspolizei» +++ dpa-Bildfunk +++"
     },
     {
       "title": "Verlagsangebot : Quiz: Die spinnen, die Briten!",
@@ -562,18 +540,18 @@
       "image_title": "Quiz: Die spinnen, die Briten!"
     },
     {
-      "title": "Politikpodcast : \"Syrer sind keine Ware, die man hin- und herschieben kann\"",
-      "teaser": "Syrien nach dem Sturz Assads: Steuern die neuen Machthaber hin zu einer islamisch geprägten Demokratie – oder in Richtung eines zweiten Afghanistans?",
-      "url": "https://www.zeit.de/politik/2024-12/lage-syrien-zukunft-kristin-helberg-politikpodcast",
-      "image_url": "https://img.zeit.de/politik/2024-12/lage-syrien-zukunft-kristin-helberg-politikpodcast-bild/super__430x286",
-      "image_title": "Politikpodcast: Syrer warten am Oncupinar-Grenzübergang in der Nähe der südtürkischen Stadt Kilis darauf, von der Türkei nach Syrien zu gelangen. Service +++ dpa-Bildfunk +++ Aufnahmedatum 09.12.2024 Bildnachweis picture alliance/dpa/AP | Khalil Hamra"
+      "title": "Ramstein : US-Militär bestätigt unbekannte Drohnenflüge über Stützpunkt",
+      "teaser": "Erneut ist es zu Drohnenflügen über einer wichtigen Einrichtung in Deutschland gekommen. Über dem US-Stützpunkt Ramstein wurden Drohnen unbekannter Herkunft gesichtet.",
+      "url": "https://www.zeit.de/politik/2024-12/drohnen-fluege-ramstein-us-miltaerstuetzpunkt",
+      "image_url": "https://img.zeit.de/politik/2024-12/drohnen-militaerstuetzpunkt-ramstein-bild/super__430x286",
+      "image_title": "Ramstein: RAMSTEIN-MIESENBACH, GERMANY - JUNE 06: A combat jet stands in front of a hanger during a day of fighter plane exercises on June 06, 2024 in Ramstein-Miesenbach, Germany. Combat aircraft from NATO countries are duelling today in one versus one exercises hosted at Ramstein. (Photo by Thomas Lohnes/Getty Images)"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Gasnetz in Mannheim : \"Legt verdammt noch mal Fernwärme\"",
-      "teaser": "Mannheim hat als erste Kommune angekündigt, das Gasnetz ab 2035 stillzulegen. Nun ist der Ärger groß. Hat der örtliche Versorger MVV die Bürger falsch informiert?",
-      "url": "https://www.zeit.de/wirtschaft/2024-12/gasnetz-mannheim-mvv-waermeversorgung-erdgas",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-12/gasnetz-mannheim-mvv-waermeversorgung/wide__892x501",
-      "image_title": "Gasnetz in Mannheim: \"Legt verdammt noch mal Fernwärme\""
+      "title": "Dunkelflaute : Darum ist Strom gerade so teuer",
+      "teaser": "An der Strombörse erreicht der Preis neue Rekorde. Müssen Verbraucher nun mehr bezahlen? Und warum wird gerade so wenig produziert? Das Schlüsselwort heißt Dunkelflaute.",
+      "url": "https://www.zeit.de/wirtschaft/2024-12/dunkelflaute-strompreise-verbraucher-faq",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-12/dunkelflaute-windraeder-strom-preis-bild/wide__892x501",
+      "image_title": "Dunkelflaute: Der Morgenhimmel leuchtet über dem Windenergiepark «Odervorland», während Nebel und dichte Wolken über die Landschaft ziehen. Zum Ende der Woche wird es bedeckt und milder in Berlin und Brandenburg. (zu dpa: «Viele Wolken am Wochenende in Berlin und Brandenburg») +++ dpa-Bildfunk +++"
     },
     {
       "title": "Verlagsangebot : In drei Wochen zu besseren Fotos",
@@ -583,11 +561,11 @@
       "image_title": "In drei Wochen zu besseren Fotos"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Superreiche in den USA : \"Die Anzahl ultrareicher Leute in der Trump-Regierung ist enorm\"",
-      "teaser": "Oligarchen gibt es nicht nur in Russland, sagt der Politologe Jeffrey Winters. Wie die Superreichen ihre Macht in den USA nutzen und warum Donald Trump davon profitiert.",
-      "url": "https://www.zeit.de/wirtschaft/2024-12/oligarchen-macht-russland-usa-donald-trump",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-12/oligarchen-macht-russland-usa-donald-2/super__430x286",
-      "image_title": "Superreiche in den USA: \"Die Anzahl ultrareicher Leute in der Trump-Regierung ist enorm\""
+      "title": "Z+ (abopflichtiger Inhalt); Gasnetz in Mannheim : \"Legt verdammt noch mal Fernwärme\"",
+      "teaser": "Mannheim hat als erste Kommune angekündigt, das Gasnetz ab 2035 stillzulegen. Nun ist der Ärger groß. Hat der örtliche Versorger MVV die Bürger falsch informiert?",
+      "url": "https://www.zeit.de/wirtschaft/2024-12/gasnetz-mannheim-mvv-waermeversorgung-erdgas",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-12/gasnetz-mannheim-mvv-waermeversorgung/super__430x286",
+      "image_title": "Gasnetz in Mannheim: \"Legt verdammt noch mal Fernwärme\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Sparen : Die Zinsen sinken – und nun?",
@@ -646,6 +624,13 @@
       "image_title": "Vorweihnachtszeit: Mein Jahr, mein Erbgut, meine Erfolge"
     },
     {
+      "title": "Politikpodcast : \"Syrer sind keine Ware, die man hin- und herschieben kann\"",
+      "teaser": "Syrien nach dem Sturz Assads: Steuern die neuen Machthaber hin zu einer islamisch geprägten Demokratie – oder in Richtung eines zweiten Afghanistans?",
+      "url": "https://www.zeit.de/politik/2024-12/lage-syrien-zukunft-kristin-helberg-politikpodcast",
+      "image_url": "https://img.zeit.de/politik/2024-12/lage-syrien-zukunft-kristin-helberg-politikpodcast-bild/super__320x213",
+      "image_title": "Politikpodcast: Syrer warten am Oncupinar-Grenzübergang in der Nähe der südtürkischen Stadt Kilis darauf, von der Türkei nach Syrien zu gelangen. Service +++ dpa-Bildfunk +++ Aufnahmedatum 09.12.2024 Bildnachweis picture alliance/dpa/AP | Khalil Hamra"
+    },
+    {
       "title": "Gleichnisse : Unter die Räuber gefallen",
       "teaser": "Ein Mann wird überfallen und fast umgebracht. Zwei Geistliche gehen teilnahmslos vorbei. Wer hilft?",
       "url": "https://www.zeit.de/gesellschaft/2024-12/gleichnisse-barmherziger-samariter-bedeutung-bibelpodcast",
@@ -688,13 +673,6 @@
       "image_title": "El Hotzo: Hilft ein BWL-Studium beim Witzeschreiben, El Hotzo?"
     },
     {
-      "title": "Interviewpodcast \"Alles gesagt?\" : \"Lage der Nation\", wie ist die Lage der Nation?",
-      "teaser": "Philip Banse und Ulf Buermeyer gehören zu den erfolgreichsten Politik-Podcastern des Landes. Hier sprechen sie über die \"D-Day\"-Affäre und Wege aus der Wirtschaftskrise.",
-      "url": "https://www.zeit.de/politik/2024-12/lage-der-nation-interviewpodcast-alles-gesagt",
-      "image_url": "https://img.zeit.de/politik/2024-12/lage-der-nation-interviewpodcast-alles-gesagt-bild/super__320x213",
-      "image_title": "Interviewpodcast \"Alles gesagt?\": \"Lage der Nation\", wie ist die Lage der Nation?"
-    },
-    {
       "title": "Schiffscrash auf der Mosel : Wie kommen die Schiffe durch die zerstörte Schleuse?",
       "teaser": "Nach dem Schiffsunfall an der Mosel sind rund 70 Frachtkähne im Oberwasser des Flusses gefangen. Nun sollen sie in Notschleusungen „befreit“ werden.",
       "url": "https://www.wiwo.de/technologie/umwelt/schiffscrash-auf-der-mosel-wie-kommen-die-schiffe-durch-die-zerstoerte-schleuse/30131626.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
@@ -730,11 +708,11 @@
       "image_title": "Gewalt gegen queere Menschen: Teilnehmende stehen mit einer Regenbogenfahne während einer Aktion zum Internationalen Tag gegen Homophobie auf dem Rathausmarkt der Hansestadt Hamburg. Um öffentlich auf die Diskriminierung hinzuweisen, der Schwule, Lesben, Trans- oder Intersexuelle vielerorts noch immer ausgeliefert sind, riefen Betroffene den 17. Mai im Jahr 2004 zum Gedenktag aus. +++ dpa-Bildfunk +++ Aufnahmedatum: 17/05/2024"
     },
     {
-      "title": "\"Geo Barents\" : Ärzte ohne Grenzen stellt Betrieb von Rettungsschiff im Mittelmeer ein",
-      "teaser": "Immer wieder wurde das Rettungsschiff von Ärzte ohne Grenzen von Behörden in Italien festgesetzt. Deshalb stellt die Organisation die eigene Seenotrettung nun ein.",
-      "url": "https://www.zeit.de/gesellschaft/2024-12/aerzte-ohne-grenzen-seenotrettung-mittelmeer-italien-geo-barents",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-12/aerzte-ohne-grenzen-rettungsschiff-geo-barents-bild/super__430x286",
-      "image_title": "\"Geo Barents\": Migrants look at the sea from the Geo Barents migrant rescue ship, operated by Medecins Sans Frontieres (Doctors Without Borders), as the ship heads towards Italy after rescuing 226 migrants during three rescue operations in the central Mediterranean Sea, July 21, 2024. REUTERS/Darrin Zammit Lupi"
+      "title": "Z+ (abopflichtiger Inhalt); Antisemitismus in Zeitz : Geschändete Erinnerung",
+      "teaser": "In der Nacht zum 7. Oktober 2024, dem Jahrestag des Massakers der Hamas in Israel, werden in Zeitz sämtliche Stolpersteine herausgebrochen und gestohlen. Eine Spurensuche",
+      "url": "https://www.zeit.de/2024/53/antisemitismus-zeitz-sachsen-anhalt-stolpersteine-judentum-7-oktober",
+      "image_url": "https://img.zeit.de/2024/53/antisemitismus-zeitz-sachsen-anhalt-stolpersteine-judentum-7-oktober-teaserbild/super__430x286",
+      "image_title": "Antisemitismus in Zeitz: Drei neu verlegte Stolpersteine mit weißen Rosen in der Kramerstraße. Anfang Oktober wurden an mehreren Stellen in Zeitz Stolpersteine von Unbekannten entwendet. ++++++++++++++++++ Drei neu verlegte Stolpersteine mit weißen Rosen in der Kramerstraße. Anfang Oktober wurden an meherer Stellen in Zeitz die Stolpersteine von Unbekannten entwendet. Die Stolpersteine sind ein Projekt des Künstlers Gunter Demning. Sie sollen an das Schicksal der jüdischen Menschen erinnern, welche in der Zeit des Nationalsozialismus verfolgt, ermordet und deportiert wurden."
     },
     {
       "title": "\"Good Bye, Lenin!\" : Wolfgang Becker ist tot",
@@ -1022,18 +1000,18 @@
       "image_title": "Persönlichkeit als Door Opener"
     },
     {
+      "title": "Bundesliga-Vorschau : Was passiert in der Hose von Xabi Alonso?",
+      "teaser": "Der Spanier holt nicht nur aus seinen Spielern das Beste raus, sondern auch aus dem Internet. Und Bayernfans wollen nicht mehr Champions der Welt sein. Der 14. Spieltag",
+      "url": "https://www.zeit.de/sport/2024-12/bundesliga-vorschau-fussball-bayer-leverkusen-xabi-alonso",
+      "image_url": "https://img.zeit.de/sport/2024-12/bundesliga-vorschau-fussball-bayer-leverkusen-xabi-alonso-bild/wide__892x501",
+      "image_title": "Bundesliga-Vorschau: Leverkusens Trainer ahmte beim Spiel gegen Inter Mailand Schussbewegungen nach, und wurde zum Minister für Silly Walks."
+    },
+    {
       "title": "WM-Qualifikation : Deutschlands Weg zur Fußball-WM 2026 führt über Slowakei oder Norwegen",
       "teaser": "Die Qualifikationsgruppen zur WM 2026 stehen fest. Gegen wen genau das DFB-Team antreten muss, entscheidet sich aber erst im Duell gegen Italien in der Nations League.",
       "url": "https://www.zeit.de/sport/2024-12/wm-2026-qualifikation-deutschland-gegner-gruppe",
-      "image_url": "https://img.zeit.de/sport/2024-12/wm-auslosung-fifa-bild/wide__892x501",
+      "image_url": "https://img.zeit.de/sport/2024-12/wm-auslosung-fifa-bild/super__430x286",
       "image_title": "WM-Qualifikation: Fußball, WM 2022 in Katar, Katar - Ecuador, Vorrunde, Gruppe A, Spieltag 1, Eröffnungsspiel im Al-Bait Stadion, ein übergroßer Pokal wird in der Arena auf die Position gezogen. Aufnahmedatum 20.11.2022"
-    },
-    {
-      "title": "Europa League : Lyon beendet Frankfurter Erfolgsserie",
-      "teaser": "In der Europa League setzt sich Olympique Lyon gegen Eintracht Frankfurt durch. Das späte Tor von Omar Marmoush kann die Niederlage nicht verhindern. Der Spielbericht",
-      "url": "https://www.zeit.de/sport/2024-12/europa-league-eintracht-frankfurt-olympique-lyon",
-      "image_url": "https://img.zeit.de/sport/2024-12/europa-league-eintracht-frankfurt-olympique-lyon-bild/super__430x286",
-      "image_title": "Europa League: Fußball: Europa League, Olympique Lyon - Eintracht Frankfurt, Vorrunde, 6. Spieltag, im Groupama Stadium, Frankfurt's Nnamdi Collins (l) und Lyon's Malick Fofana in Aktion."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Merlin Polzin : Schafft er den Aufstieg?",
@@ -1050,36 +1028,36 @@
       "image_title": "Spechte an der Fassade: Hör mal, wer da hämmert"
     },
     {
-      "title": "Kreis Emmendingen: Radfahrerin stirbt nach Unfall",
-      "url": "https://www.zeit.de/news/2024-12/13/radfahrerin-stirbt-nach-unfall"
+      "title": "Britische Royals: \"Vertrauter\" von Prinz Andrew gilt als mutmaßlicher Spion",
+      "url": "https://www.zeit.de/news/2024-12/13/vertrauter-von-prinz-andrew-gilt-als-mutmasslicher-spion"
     },
     {
-      "title": "Fotografie: Bilder des Tages",
-      "url": "https://www.zeit.de/news/2024-12/13/bilder-des-tages"
+      "title": "Entwurf des Wahlprogramms: Union verspricht schärfere Asylpolitik und Entlastungen",
+      "url": "https://www.zeit.de/news/2024-12/13/entwurf-des-wahlprogramms-union-will-schaerfere-asylpolitik"
     },
     {
-      "title": "Regierung: Regierung: Neue Regeln für Einstellung von Staatssekretären",
-      "url": "https://www.zeit.de/news/2024-12/13/regierung-neue-regeln-fuer-einstellung-von-staatssekretaeren"
+      "title": "Frauen-Bundesliga: Jenas Fußballerinnen verlieren trotz guter Leistung",
+      "url": "https://www.zeit.de/news/2024-12/13/jenas-fussballerinnen-verlieren-trotz-guter-leistung"
     },
     {
-      "title": "Linksextremismus: Versuchter Brandanschlag auf Wärmepumpe von Senator Kerstan",
-      "url": "https://www.zeit.de/news/2024-12/13/versuchter-brandanschlag-auf-waermepumpe-von-senator-kerstan"
+      "title": "Bundesliga: Frankfurts Fußballerinnen mit 3:0 in Jena",
+      "url": "https://www.zeit.de/news/2024-12/13/frankfurts-fussballerinnen-mit-3-0-in-jena"
     },
     {
-      "title": "Erbe der Benko-Insolvenz: Hamburger Unternehmer soll Elbtower zu Ende bauen",
-      "url": "https://www.zeit.de/news/2024-12/13/hamburger-unternehmen-soll-elbtower-kaufen"
+      "title": "2. Fußball-Liga: Hertha-Pleite bei Heim-Abschluss gegen Aufsteiger Münster",
+      "url": "https://www.zeit.de/news/2024-12/13/hertha-pleite-bei-heim-abschluss-gegen-aufsteiger-muenster"
     },
     {
-      "title": "Unfall: Gerüst nach Lkw-Unfall in München einsturzgefährdet",
-      "url": "https://www.zeit.de/news/2024-12/13/geruest-nach-lkw-unfall-in-muenchen-einsturzgefaehrdet"
+      "title": "2. Fußball-Bundesliga: Karlsruhe beendet Negativserie - 4:2 gegen Regensburg",
+      "url": "https://www.zeit.de/news/2024-12/13/karlsruhe-beendet-negativserie-4-2-gegen-regensburg"
     },
     {
-      "title": "Protest: Freiburger Studenten demonstrieren gegen Rechtsruck",
-      "url": "https://www.zeit.de/news/2024-12/13/freiburger-studenten-demonstrieren-gegen-rechtsruck"
+      "title": "Urteil: Polizisten angefahren - Drei Jahre Jugendstrafe für Fahrer",
+      "url": "https://www.zeit.de/news/2024-12/13/polizisten-angefahren-drei-jahre-jugendstrafe-fuer-fahrer"
     },
     {
-      "title": "Unterbringungsbefehl: 58-Jährige umgebracht - Mann gesteht Tat",
-      "url": "https://www.zeit.de/news/2024-12/13/58-jaehrige-umgebracht-mann-gesteht-tat"
+      "title": "Kurzbahn-WM: Erstes WM-Gold für Isabel Gose über 1.500 Meter Freistil",
+      "url": "https://www.zeit.de/news/2024-12/13/erstes-wm-gold-fuer-isabel-gose-ueber-1-500-meter-freistil"
     }
   ]
 }
