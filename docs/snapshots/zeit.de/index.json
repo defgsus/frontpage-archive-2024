@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-12-15T14:00:45",
+  "timestamp": "2024-12-15T15:00:49",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
@@ -117,7 +123,7 @@
       "image_title": "20 Jahre Berghain: Wie die Zeit nicht vergeht"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Saidnaja-Gefängnis : \"In Saidnaja haben wir dem Regime das Herz herausgerissen\"",
+      "title": "Saidnaja-Gefängnis : \"In Saidnaja haben wir dem Regime das Herz herausgerissen\"",
       "teaser": "Als junger Mann saß der syrische Journalist Jaber Baker im berüchtigten Saidnaja-Gefängnis. Seither forschte er zu Assads Gefängniskomplex – und hofft nun auf Versöhnung.",
       "url": "https://www.zeit.de/politik/ausland/2024-12/sednaya-gefaengnis-jaber-baker-assad-regime",
       "image_url": "https://img.zeit.de/politik/deutschland/2024-12/sednaya-gefaengnis-syrien/super__430x286",
@@ -136,20 +142,6 @@
       "url": "https://www.zeit.de/2024/53/klimawandel-forschung-datenauswertung-fossile-energie-hannah-ritchie",
       "image_url": "https://img.zeit.de/2024/53/wo-ist-das-leuchtfeuer-der-hoffnung-bild-1/wide__892x501",
       "image_title": "Klimawandel: Energieträger: Zwei sich Umarmende in der Wärmebildkamera"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Luxuriöse Schutzräume : Ein Traum von einem Bunker",
-      "teaser": "Ein luxuriöser Schutzraum in Thüringen, in dem Superreiche die Apokalypse aussitzen wollen – davon berichten mehrere Medien seit vielen Jahren. Zeit für die Wahrheit",
-      "url": "https://www.zeit.de/2024/53/luxurioese-schutzraeume-thueringen-rothenstein-internet",
-      "image_url": "https://img.zeit.de/2024/53/luxurioese-schutzraeume-thueringen-rothenstein-internet-teaserbild/super__430x286",
-      "image_title": "Luxuriöse Schutzräume: Ein Foto des angeblich geplanten Luxusbunkers zeigt in Wirklichkeit den Spa Bereichs eines Hotels auf der Krim. ++++++++++++++++++ Fake Foto: Respect Hall Resort SPA in der Ukraine. Bildinfo laut Vivos: Located in the heart of Europe is one of the most fortified and massive underground survival shelters on Earth. Carved out of solid bedrock, under a 400' tall mountain, by the Soviets during the Cold War, this shelter was a fortress for military equipment and munitions. Now privately owned, this 76 acre above and below ground hardened facility is capable of withstanding a substantial close range nuclear blast, a direct airliner crash, biological and chemical agents, massive shock waves, earthquakes, electro-magnetic pulses, flooding and virtually any armed attack."
-    },
-    {
-      "title": "SPD-Wahlprogramm : SPD plant Prämie und Steuerbonus für deutsche E-Autos",
-      "teaser": "Nach den Plänen zur Begrenzung der Pflegekosten ist ein weiterer Teil des SPD-Wahlprogramms bekannt geworden: Mit einem Steuerbonus will die SPD Investitionen fördern.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-12/spd-wahlprogramm-steuerbonus-praemie-e-autos",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/spd-made-in-germany-praemie-steuerbonus-e-autos-bild/super__430x286",
-      "image_title": "SPD-Wahlprogramm: Ein Blick auf Niedersachsens größtem Ladepark für Elektro-PKW am 28.03.2024in Norddeich."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Muslime an Schulen : Ist dein Pausenbrot halal?",
@@ -173,25 +165,32 @@
       "image_title": "Regenbogenkartoffeln: Farben für den Winter"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Projektleiter für Windparks : \"Im Monat gebe ich aktuell 350 Euro für Urlaube aus\"",
-      "teaser": "Jonathan, 34, ist als Quereinsteiger Projektleiter für Windparks geworden. Er verdient gut, macht kaum Überstunden und ist auf dem Arbeitsmarkt begehrt. Der Kontoauszug",
-      "url": "https://www.zeit.de/arbeit/2024-12/projektleiter-windpark-quereinstieg-einkommen-kontoauszug",
-      "image_url": "https://img.zeit.de/arbeit/2024-12/projektleiter-windpark-quereinstieg-einkommen-kontoauszug-bild/super__430x286",
-      "image_title": "Projektleiter für Windparks: Germany, offshore wind energy GERMANY, Bremerhaven, shipping of rotor blades for RWE offshore wind park in the North Sea *** DEUTSCHLAND, Bremerhaven, Verladung von Rotorblaettern fuer Windkraftanlagen fuer einen RWE off-shore Windpark in der Nordsee auf das Spezialschiff Friedrich Ernestine Bremerhaven Germany"
+      "title": "Z+ (abopflichtiger Inhalt); Luxuriöse Schutzräume : Ein Traum von einem Bunker",
+      "teaser": "Ein luxuriöser Schutzraum in Thüringen, in dem Superreiche die Apokalypse aussitzen wollen – davon berichten mehrere Medien seit vielen Jahren. Zeit für die Wahrheit",
+      "url": "https://www.zeit.de/2024/53/luxurioese-schutzraeume-thueringen-rothenstein-internet",
+      "image_url": "https://img.zeit.de/2024/53/luxurioese-schutzraeume-thueringen-rothenstein-internet-teaserbild/super__430x286",
+      "image_title": "Luxuriöse Schutzräume: Ein Foto des angeblich geplanten Luxusbunkers zeigt in Wirklichkeit den Spa Bereichs eines Hotels auf der Krim. ++++++++++++++++++ Fake Foto: Respect Hall Resort SPA in der Ukraine. Bildinfo laut Vivos: Located in the heart of Europe is one of the most fortified and massive underground survival shelters on Earth. Carved out of solid bedrock, under a 400' tall mountain, by the Soviets during the Cold War, this shelter was a fortress for military equipment and munitions. Now privately owned, this 76 acre above and below ground hardened facility is capable of withstanding a substantial close range nuclear blast, a direct airliner crash, biological and chemical agents, massive shock waves, earthquakes, electro-magnetic pulses, flooding and virtually any armed attack."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Weihnachten ohne Familie : \"Ich kann mich nicht für meine Familie opfern\"",
-      "teaser": "Statt besinnlicher Stunden beherrschen Vorwürfe, Schweigen oder Streit das Fest: Drei Menschen erzählen, warum sie Weihnachten nicht oder nicht gern zur Familie fahren.",
-      "url": "https://www.zeit.de/familie/2024-12/weihnachten-ohne-familie-eltern-kinder-probleme-streit",
-      "image_url": "https://img.zeit.de/familie/2024-12/weihnachten-ohne-familie-eltern-kinder-probleme/wide__892x501",
-      "image_title": "Weihnachten ohne Familie: \"Ich kann mich nicht für meine Familie opfern\""
+      "title": "Z+ (abopflichtiger Inhalt); Lea Ypi : Die Freiheitsdenkerin",
+      "teaser": "Die Philosophin Lea Ypi sah den Kommunismus scheitern, dann geriet ihre Heimat Albanien in den Bürgerkrieg. Heute hat sie eine Idee, wie sich die Demokratie retten ließe.",
+      "url": "https://www.zeit.de/2024/53/lea-ypi-demokratie-philosophie-kapitalismus",
+      "image_url": "https://img.zeit.de/2024/53/was-ist-freiheit-bild-9/wide__892x501",
+      "image_title": "Lea Ypi: Fragen, die Lea Ypi als Philosophin auf abstrakter Ebene erforscht: Was ist Freiheit? Wie wird die Idee der Freiheit von Ideologen missbraucht? ++++++++++<br /> Lea Ypi am 28.10.2024 am Wissenschaftskolleg in Berlin Lea Leman Ypi ist eine albanisch-britische Politikwissenschaftlerin und Philosophin. Sie ist Professorin für politische Theorie an der London School of Economics. 2021 erschien ihr in englischer Sprache geschriebenes autobiographisches Buch Free: Coming of Age at the End of History (deutsch: Frei. Erwachsenwerden am Ende der Geschichte), in dem sie über ihre Jugend im sozialistischen Albanien und während der Transformationszeit nach 1991 erzählt."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Geizige Menschen • Das Beste aus Z+ : \"Sie lud mich zum Essen ein. Es gab Leitungswasser und einen Apfel\"",
-      "teaser": "Sind andere knauserig, fühlen sich Freunde und Familie oft abgewertet. Zehn Geiz-Geschichten aus unserer Leserschaft – und fünf Ratschläge, damit besser umzugehen",
-      "url": "https://www.zeit.de/geld/2024-11/geizige-menschen-umgang-freundschaft-beziehung-geld",
-      "image_url": "https://img.zeit.de/geld/2024-12/geizige-menschen-umgang-freundschaft-beziehung/super__430x286",
-      "image_title": "Geizige Menschen • Das Beste aus Z+: \"Sie lud mich zum Essen ein. Es gab Leitungswasser und einen Apfel\""
+      "title": "Z+ (abopflichtiger Inhalt); Mikrobiom im Darm : 1.038 Bakterienarten – in meinem Darm!",
+      "teaser": "Wer wohnt im Verdauungstrakt? Das sollen Mikrobiom-Analysen verraten. Unser Autor lässt sich testen und beschließt eine Ernährungsumstellung – mit verblüffendem Ergebnis.",
+      "url": "https://www.zeit.de/2024/49/mikrobiom-darm-ernaehrung-gesundheit-test",
+      "image_url": "https://img.zeit.de/2024/49/volkszaehlung-in-meinem-darm-bild-8/super__430x286",
+      "image_title": "Mikrobiom im Darm: Online"
+    },
+    {
+      "title": "Schach-WM : Drei Wochen auf 64 Feldern, und dann der Kater",
+      "teaser": "Schach von nachmittags bis in die Nacht – und das jähe Ende in Runde 14. Nach dem Duell in Singapur sind nicht nur der neue und der alte Weltmeister erschöpft.",
+      "url": "https://www.zeit.de/sport/2024-12/schach-wm-gukesh-ding-liren-singapur",
+      "image_url": "https://img.zeit.de/sport/2024-12/schach-wm-gukesh-ding-liren-singapur-bild/super__430x286",
+      "image_title": "Schach-WM: Gukesh erstrahlt, Ding verblasst"
     },
     {
       "title": "Ausgabe 50/2024 : Kugel, Trubel, Heiterkeit. Willkommen im Wochenende.",
@@ -243,18 +242,18 @@
       "image_title": "Weihnachten ohne Familie: \"Ich kann mich nicht für meine Familie opfern\""
     },
     {
+      "title": "Rechtsextremismus : SPD-Generalsekretär verurteilt Angriffe auf Parteimitglieder",
+      "teaser": "In Berlin sind SPD-Mitglieder an einem Infostand am Rande einer Demo Rechtsextremer attackiert worden. Partei-Generalsekretär Matthias Miersch zeigt sich besorgt.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-12/berlin-spd-rechtsextreme-angriffe-parteimitglieder",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/spd-generalsekretaer-matthias-miersch-warnt-gefahr-rechts-bild/super__430x286",
+      "image_title": "Rechtsextremismus: Matthias Miersch, SPD-Generalsekretär, gibt nach den Gremiensitzungen seiner Partei eine Pressekonferenz. Berlin, 11.11.2024"
+    },
+    {
       "title": "FDP : Christian Lindner wird Spitzenkandidat in NRW",
-      "teaser": "Sein heimischer Landesverband stärkt dem Bundesparteichef auch nach dem Ampel-Aus den Rücken. Die anderen Spitzenplätze ergattern Marco Buschmann und Bijan Djir-Sarai.",
+      "teaser": "Sein heimischer Landesverband stärkt dem Bundesparteichef auch nach dem Ampel-Aus den Rücken. Die weiteren Spitzenplätze ergattern Marco Buschmann und Bijan Djir-Sarai.",
       "url": "https://www.zeit.de/politik/deutschland/2024-12/fdp-christian-lindner-bundestagswahl-spitzenkandidat-nrw",
       "image_url": "https://img.zeit.de/politik/deutschland/2024-12/christian-lindner-bundesvorsitzender-fdp-landeswahlversammlung-bild/super__430x286",
       "image_title": "FDP: Christian Lindner, Bundesvorsitzender der FDP, steht auf dem Podium bei der Landeswahlversammlung der FDP NRW wegen der vorgezogenen Bundestagswahl. Auf der Veranstaltung wird die Landesliste aufgestellt. FDP-Chef Lindner ist wie 2021 wieder auf Platz 1 gewählt worden. Nordrhein-Westfalen, Bielefeld, 15.12.2024"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Phantomgrenzen • Das Beste aus Z+ : Wo die alten deutschen Grenzen sichtbar werden",
-      "teaser": "Preußen und das deutsche Kaiserreich beeinflussen noch immer, wie Menschen heute in der EU wählen. Absurd, oder? Wir zeigen erstmals fünf Phantomgrenzen Europas.",
-      "url": "https://www.zeit.de/politik/2024-12/phantomgrenzen-wahldaten-politische-grenzen-ddr-polen",
-      "image_url": "https://img.zeit.de/politik/2024-12/phantomgrenzen-wahldaten-politische-grenzen-ddr-polen-teaserbild/super__430x286",
-      "image_title": "Phantomgrenzen • Das Beste aus Z+: Wo die alten deutschen Grenzen sichtbar werden"
     },
     {
       "title": "Sprachnachricht : \"Olaf Scholz hatte nie mein Vertrauen\"",
@@ -376,11 +375,11 @@
       "image_title": "Sprachnachricht: \"Die Menschen werden alleingelassen mit den Krisen\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Beziehungstipps vom Chatbot : In Sitzung fünf eskalierte es",
-      "teaser": "Bei Beziehungsproblemen vermitteln neuerdings auch KI-Chatbots. Ersetzt das einen menschlichen Therapeuten? Wir haben es ausprobiert.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2024-12/beziehungstipps-chatbot-kuenstliche-intelligenz-liebe-partnerschaft",
-      "image_url": "https://img.zeit.de/zeit-magazin/2024-12/beziehungstipps-chatbot-kuenstliche-intelligenz-liebe-partnerschaft-bild/super__430x286",
-      "image_title": "Beziehungstipps vom Chatbot: In Sitzung fünf eskalierte es"
+      "title": "Z+ (abopflichtiger Inhalt); Tod einer Freundin : Wie ich in der Trauer Trost fand",
+      "teaser": "Nach dem Tod ihrer engen Freundin hat unsere Autorin das Gefühl, die Trauer ist immer und überall. Das heißt aber nicht, dass es keinen Trost gibt. Im Gegenteil",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2024-12/tod-freundin-trauer-trost-sterben-bewaeltigung",
+      "image_url": "https://img.zeit.de/zeit-magazin/leben/2024-12/tod-freundin-trauer-trost-sterben-bewaeltigung-bild/super__430x286",
+      "image_title": "Tod einer Freundin: Wie ich in der Trauer Trost fand"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Festessen : Der Weihnachtsmenü-Generator",
@@ -404,20 +403,6 @@
       "image_title": "MicroStrategy: Der Bitcoin-Rockefeller"
     },
     {
-      "title": "Ukrainekarte aktuell : Russische Truppen drängen Ukrainer in Kursk zurück",
-      "teaser": "Im russischen Kursk mussten sich Ukrainer an zwei Stellen zurückziehen. Außerdem rückten die Russen innerhalb der ukrainischen Städte Torezk und Kurachowe weiter vor.",
-      "url": "https://www.zeit.de/politik/ausland/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen-teaserbild/super__430x286",
-      "image_title": "Ukrainekarte aktuell: Russische Truppen drängen Ukrainer in Kursk zurück"
-    },
-    {
-      "title": "AfD : Chrupalla fordert Anerkennung Russlands als Sieger des Ukrainekriegs",
-      "teaser": "AfD-Co-Chef Tino Chrupalla verlangt, die Interessen Russlands zu berücksichtigen. Dazu gehöre, den Sieg im Ukrainekrieg anzuerkennen und den Nutzen der Nato anzuzweifeln.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-12/deutschland-afd-tino-chrupalla-nato",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/afd-chef-chrupalla-nato-mitgliedschaft-deutschland-bild/super__430x286",
-      "image_title": "AfD: Tino Chrupalla gibt am 24.09.2024 in Berlin ein Pressestatement zur Sitzung der AfD-Bundestagsfraktion."
-    },
-    {
       "title": "Fußball : Ukraine fordert Entschuldigung von Fifa wegen Karte ohne Krim",
       "teaser": "Bei der Auslosung zur WM-Qualifikation wurde eine Europakarte verwendet, auf der die Krim nicht Teil der Ukraine ist. Ein Sprecher des Außenministeriums protestiert.",
       "url": "https://www.zeit.de/sport/2024-12/fussball-ukraine-fifa-krim-auslosung-fehler",
@@ -432,11 +417,109 @@
       "image_title": "Ratingagentur: TOPSHOT - France's newly appointed Prime Minister, President of the Democratic Movement (MoDem) party Francois Bayrou (R) is welcomed by outgoing Prime minister Michel Barnier for the handover ceremony at the Hotel Matignon in Paris on December 13, 2024. Bayrou, who was appointed nine days after Michel Barnier's government was ousted by parliament in a historic no-confidence vote following a standoff over an austerity budget, has the daunting task of hauling France out of months of political crisis. (Photo by Bertrand GUAY / POOL / AFP) (Photo by BERTRAND GUAY/POOL/AFP via Getty Images)"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Fitnessübung : Die Partner-Armbeugen",
-      "teaser": "Arnold Schwarzenegger hat uns zu dieser Übung inspiriert. Zum Terminator müssen jedoch weder Sie noch Ihr Partner werden, nur diese Tipps beachten.",
-      "url": "https://www.zeit.de/sport/2024-12/fitnessuebung-partner-handtucharmbeugen-personal-trainer",
-      "image_url": "https://img.zeit.de/sport/2024-12/fitnessuebung-partner-handtucharmbeugen-personal-trainer-bild-3/super__430x286",
-      "image_title": "Fitnessübung: Die Partner-Armbeugen"
+      "title": "Adventskalender Folge 15 : Alles in einer Sekunde",
+      "teaser": "Heute im Adventskalender von ZEIT Verbrechen: Sollten sich nach tödlichen Verkehrsunfällen Opfer und Täter treffen und aussprechen?",
+      "url": "https://www.zeit.de/gesellschaft/2024-11/verbrechen-adventskalender-15-toedliche-verkehrsunfaelle-podcast",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-11/verbrechen-adventskalender-15-toedliche-verkehrsunfaelle-bild/super__320x213",
+      "image_title": "Adventskalender Folge 15: Alles in einer Sekunde"
+    },
+    {
+      "title": "Adventskalender Folge 14 : Alles für meinen Hund",
+      "teaser": "Heute im Adventskalender von ZEIT Verbrechen: Ein Landwirt ohne Führerschein liefert sich eine wilde Verfolgungsjagd mit der Polizei.",
+      "url": "https://www.zeit.de/gesellschaft/2024-11/verbrechen-adventskalender-14-fahren-ohne-fuehrerschein-podcast",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-11/verbrechen-adventskalender-14-fahren-ohne-fuehrerschein-bild-2/super__320x213",
+      "image_title": "Adventskalender Folge 14: Alles für meinen Hund"
+    },
+    {
+      "title": "Adventskalender Folge 13 : Der verloren gegangene Mann",
+      "teaser": "Heute im Adventskalender von ZEIT Verbrechen: Ein Mann gerät auf Abwege und ergreift eine Chance – mithilfe seines Neffen.",
+      "url": "https://www.zeit.de/gesellschaft/2024-11/verbrechen-adventskalender-13-strafverfahren-podcast",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-11/verbrechen-adventskalender-13-strafverfahren-bild/super__320x213",
+      "image_title": "Adventskalender Folge 13: Der verloren gegangene Mann"
+    },
+    {
+      "title": "Adventskalender Folge 12 : Das namenlose Haus",
+      "teaser": "Heute im Adventskalender von ZEIT Verbrechen: Ein Krimineller vermietet dasselbe Haus mehrfach. Und es gehört ihm nicht einmal.",
+      "url": "https://www.zeit.de/gesellschaft/2024-11/verbrechen-adventskalender-12-vermietung-podcast",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-11/verbrechen-adventskalender-12-vermietung-bild/super__320x213",
+      "image_title": "Adventskalender Folge 12: Das namenlose Haus"
+    },
+    {
+      "title": "Adventskalender Folge 11 : Da kannst du lange warten …",
+      "teaser": "Heute im Adventskalender von ZEIT Verbrechen: Ein Angeklagter bietet Waren auf kleinanzeigen.de an, die es gar nicht gibt.",
+      "url": "https://www.zeit.de/gesellschaft/2024-11/verbrechen-adventskalender-11-ebay-betrug-podcast",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-11/verbrechen-adventskalender-11-ebay-betrug-bild-2/super__320x213",
+      "image_title": "Adventskalender Folge 11: Da kannst du lange warten …"
+    },
+    {
+      "title": "Adventskalender Folge 10 : Achtung, Kleinanzeigen!!!",
+      "teaser": "Heute im Adventskalender von ZEIT Verbrechen: Wie ein manipulativer Angeklagter sogar das Amtsgericht beeindruckt.",
+      "url": "https://www.zeit.de/gesellschaft/2024-11/verbrechen-adventskalender-10-internet-betrug-podcast",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-11/zv-ak-24-10/super__320x213",
+      "image_title": "Adventskalender Folge 10: Achtung, Kleinanzeigen!!!"
+    },
+    {
+      "title": "Adventskalender Folge 9 : Hurra, hurra, die Schule brennt",
+      "teaser": "Heute im Adventskalender von ZEIT Verbrechen: Zwei Schüler beschließen, ihre Schule anzuzünden. Welche Strafe erwartet sie?",
+      "url": "https://www.zeit.de/gesellschaft/2024-11/verbrechen-adventskalender-9-brandstiftung-podcast",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-11/zv-ak-24-9/super__320x213",
+      "image_title": "Adventskalender Folge 9: Hurra, hurra, die Schule brennt"
+    },
+    {
+      "title": "Adventskalender Folge 8 : Goldzähne",
+      "teaser": "Heute im Adventskalender von ZEIT Verbrechen: Eine Zahnarzthelferin und ein Patient sind wegen Betruges angeklagt. War es ein abgekartetes Spiel?",
+      "url": "https://www.zeit.de/gesellschaft/2024-11/verbrechen-adventskalender-8-abrechnungsbetrug-zahnarzt-podcast",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-11/zv-ak-24-8/super__320x213",
+      "image_title": "Adventskalender Folge 8: Goldzähne"
+    },
+    {
+      "title": "Adventskalender Folge 7 : Wer tut so was?",
+      "teaser": "Heute im Adventskalender von ZEIT Verbrechen: Eine Hundeausführerin und ein Tätowiermeister werden von einem jungen Inder bedroht. Aber warum bloß?",
+      "url": "https://www.zeit.de/gesellschaft/2024-11/verbrechen-adventskalender-7-drohung-podcast",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-11/zv-ak-24-7/super__320x213",
+      "image_title": "Adventskalender Folge 7: Wer tut so was?"
+    },
+    {
+      "title": "Adventskalender Folge 6 : Im Fitnessstudio",
+      "teaser": "Heute im Adventskalender von ZEIT Verbrechen: Junge Männer beschimpfen sich beim Krafttraining. Dann beginnt eine waghalsige Verfolgungsjagd …",
+      "url": "https://www.zeit.de/gesellschaft/2024-11/verbrechen-adventskalender-6-streit-sport-fitnessstudio-podcast",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-11/zv-ak-24-6/super__320x213",
+      "image_title": "Adventskalender Folge 6: Im Fitnessstudio"
+    },
+    {
+      "title": "Adventskalender Folge 5 : Strafrabatt",
+      "teaser": "Heute im Adventskalender von ZEIT Verbrechen: Ein 18-Jähriger klaut Schmuck, um die Abtreibung seiner minderjährigen Freundin zu bezahlen. Ist das eine Legitimation?",
+      "url": "https://www.zeit.de/gesellschaft/2024-11/verbrechen-adventskalender-5-diebstahl-podcast",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-11/zv-ak-24-5/super__320x213",
+      "image_title": "Adventskalender Folge 5: Strafrabatt"
+    },
+    {
+      "title": "Adventskalender Folge 4 : Sie verzeiht nicht",
+      "teaser": "Heute im Adventskalender von ZEIT Verbrechen: Zwei Georgier brechen bei einer alten Frau ein. Hilft es da, sich zu entschuldigen?",
+      "url": "https://www.zeit.de/gesellschaft/2024-11/verbrechen-adventskalender-4-wohnungseinbruch-podcast",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-11/zv-ak-24-4/super__320x213",
+      "image_title": "Adventskalender Folge 4: Sie verzeiht nicht"
+    },
+    {
+      "title": "Adventskalender Folge 3 : Was ist wahre Reue?",
+      "teaser": "Heute im Adventskalender von ZEIT Verbrechen: Drei Jugendliche demolieren das Auto einer polnischen Familie. Vor Gericht nimmt der Fall eine unerwartete Wendung.",
+      "url": "https://www.zeit.de/gesellschaft/2024-11/verbrechen-adventskalender-3-entschuldigung-gericht-reue-podcast",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-11/zv-ak-24-3-2/super__320x213",
+      "image_title": "Adventskalender Folge 3: Was ist wahre Reue?"
+    },
+    {
+      "title": "Adventskalender Folge 2 : Der falsche Romeo",
+      "teaser": "Heute im Adventskalender von ZEIT Verbrechen: Eine Frau glaubt einem Mann – über alle Lügen hinweg.",
+      "url": "https://www.zeit.de/gesellschaft/2024-11/verbrechen-adventskalender-2-liebesbetrug-podcast",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-11/zv-ak-24-2/super__320x213",
+      "image_title": "Adventskalender Folge 2: Der falsche Romeo"
+    },
+    {
+      "title": "Adventskalender Folge 1 : Schlag ins Gesicht",
+      "teaser": "Heute im Adventskalender von ZEIT Verbrechen: Der gewaltsame Streit mit einer Reiterin nimmt einen unerwarteten Ausgang …",
+      "url": "https://www.zeit.de/gesellschaft/2024-11/verbrechen-adventskalender-1-ehestreit-podcast",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-11/zv-ak-24-1/super__320x213",
+      "image_title": "Adventskalender Folge 1: Schlag ins Gesicht"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Pfannen-Camembert : Das ist doch Käse!",
@@ -492,9 +575,9 @@
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-12/ola-kaellenius-krise-krankschreibungen-mercedes"
     },
     {
-      "title": "Europapolitik der Schweiz : Bleibt bloß draußen!",
-      "teaser": "Neue Verträge sollen das Zusammenleben der Schweiz und der EU regeln. Die Verhandlungen zogen sich über viele Jahre hin. War am Ende alles umsonst?",
-      "url": "https://www.zeit.de/politik/ausland/2024-12/europapolitik-schweiz-eu-beziehung-abkommen-wirtschaft"
+      "title": "AfD : Chrupalla fordert Anerkennung Russlands als Sieger des Ukrainekriegs",
+      "teaser": "AfD-Co-Chef Tino Chrupalla verlangt, die Interessen Russlands zu berücksichtigen. Dazu gehöre, den Sieg im Ukrainekrieg anzuerkennen und den Nutzen der Nato anzuzweifeln.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-12/deutschland-afd-tino-chrupalla-nato"
     },
     {
       "title": "Diese Woche in der ZEIT : Eben wusste ich’s noch ...",
@@ -511,11 +594,11 @@
       "image_title": "20 Jahre Berghain: Wie die Zeit nicht vergeht"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); \"Unmöglicher Abschied\" von Han Kang : Schneeflockendrama",
-      "teaser": "Ihr Lebensthema in einer neuen Variante: Der Roman \"Unmöglicher Abschied\" der Nobelpreisträgerin Han Kang erzählt die traumatische Geschichte ihres Heimatlandes Südkorea.",
-      "url": "https://www.zeit.de/2024/53/unmoeglicher-abschied-roman-han-kang-suedkorea",
-      "image_url": "https://img.zeit.de/2024/53/schneeflockendrama-bild-1/super__430x286",
-      "image_title": "\"Unmöglicher Abschied\" von Han Kang: Han Kang, 54 – in ihrem Roman sprudeln wieder »blutige Erinnerungen«"
+      "title": "Z+ (abopflichtiger Inhalt); Weihnachten ohne Familie : \"Ich kann mich nicht für meine Familie opfern\"",
+      "teaser": "Statt besinnlicher Stunden beherrschen Vorwürfe, Schweigen oder Streit das Fest: Drei Menschen erzählen, warum sie Weihnachten nicht oder nicht gern zur Familie fahren.",
+      "url": "https://www.zeit.de/familie/2024-12/weihnachten-ohne-familie-eltern-kinder-probleme-streit",
+      "image_url": "https://img.zeit.de/familie/2024-12/weihnachten-ohne-familie-eltern-kinder-probleme/super__430x286",
+      "image_title": "Weihnachten ohne Familie: \"Ich kann mich nicht für meine Familie opfern\""
     },
     {
       "title": "Verlagsangebot : 5 Werkzeuge gegen negative Gedankenspiralen",
@@ -532,11 +615,11 @@
       "image_title": "Fragen Sie ZEIT ONLINE: Haben Sie ein Thema verpasst?"
     },
     {
-      "title": "Parteispenden : BSW sammelt die meisten Großspenden aller Parteien ein",
-      "teaser": "Mit gut 6,4 Millionen Euro stellt das Bündnis Sahra Wagenknecht im Gründungsjahr einen Spendenrekord auf. Die Summe liegt rund 40 Prozent über jener der Christdemokraten.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-12/parteispenden-grossspender-bsw-cdu-jahresbilanz",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/partei-spende-bsw-bild/wide__892x501",
-      "image_title": "Parteispenden: Parteichefin Sahra Wagenknecht (BSW) gibt vor der Versammlung in Bochum am 30.11.2024 ein Interview."
+      "title": "AfD : Chrupalla fordert Anerkennung Russlands als Sieger des Ukrainekriegs",
+      "teaser": "AfD-Co-Chef Tino Chrupalla verlangt, die Interessen Russlands zu berücksichtigen. Dazu gehöre, den Sieg im Ukrainekrieg anzuerkennen und den Nutzen der Nato anzuzweifeln.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-12/deutschland-afd-tino-chrupalla-nato",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/afd-chef-chrupalla-nato-mitgliedschaft-deutschland-bild/wide__892x501",
+      "image_title": "AfD: Tino Chrupalla gibt am 24.09.2024 in Berlin ein Pressestatement zur Sitzung der AfD-Bundestagsfraktion."
     },
     {
       "title": "Verlagsangebot : Quiz: Die spinnen, die Briten!",
@@ -546,11 +629,11 @@
       "image_title": "Quiz: Die spinnen, die Briten!"
     },
     {
-      "title": "Iran : Iranische Sängerin Parastoo nach Konzert ohne Kopftuch verhaftet",
-      "teaser": "Im schwarzen Kleid und mit offenen Haaren: Die iranische Musikerin Parastoo hat ohne Kopftuch ein Konzert gegeben. Sie wurde verhaftet, ist nun vorerst aber wieder frei.",
-      "url": "https://www.zeit.de/politik/ausland/2024-12/iran-parastoo-konzert-verhaftung-saengerin",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-12/screenshot-youtube-parastoo-ahmadi/super__430x286",
-      "image_title": "Iran: Iranische Sängerin Parastoo nach Konzert ohne Kopftuch verhaftet"
+      "title": "Parteispenden : BSW sammelt die meisten Großspenden aller Parteien ein",
+      "teaser": "Mit gut 6,4 Millionen Euro stellt das Bündnis Sahra Wagenknecht im Gründungsjahr einen Spendenrekord auf. Die Summe liegt rund 40 Prozent über jener der Christdemokraten.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-12/parteispenden-grossspender-bsw-cdu-jahresbilanz",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/partei-spende-bsw-bild/super__430x286",
+      "image_title": "Parteispenden: Parteichefin Sahra Wagenknecht (BSW) gibt vor der Versammlung in Bochum am 30.11.2024 ein Interview."
     },
     {
       "title": "Steuern : Robert Habeck möchte mit Milliardärssteuer Schulen sanieren",
@@ -602,11 +685,11 @@
       "image_title": "VW-Werkschließung: Daniela Cavallo und VW-Beschäftigte im Warnstreik in Wolfsburg ++++++++++<br /> Wolfsburger VW-Beschäftigte im Warnstreik: Zehntausende Mitarbeitende des Autobauers versammeln sich auf dem Gelände vor dem Markenhochhaus am VW-Stammwerk in Wolfsburg. Im Mittelpunkt steht die VW-Betriebsratschefin Daniela Cavallo, die eine lange Wutrede hält. Aufgenommen am 02.12.2024 in Wolfsburg, Niedersachsen, Deutschland."
     },
     {
-      "title": "Ludwigshafen am Rhein : \"Ich mag diese Mischung aus dem Schönen und dem Scheußlichen\"",
-      "teaser": "Es gibt viele Städte, in denen es sich besser lebt und arbeitet als in Metropolen. Etwa: Ludwigshafen. Vorteile: viel Kultur, Feierlaune – und die Nähe zu Mannheim",
-      "url": "https://www.zeit.de/arbeit/2024-11/ludwigshafen-am-rhein-wohnen-mannheim-rheinland-pfalz-stadt",
-      "image_url": "https://img.zeit.de/arbeit/2024-11/ludwigshafen-am-rhein-wohnen/super__430x286",
-      "image_title": "Ludwigshafen am Rhein: \"Ich mag diese Mischung aus dem Schönen und dem Scheußlichen\""
+      "title": "Beschäftigung : 91 Prozent der Haushaltshilfen arbeiten laut Studie schwarz",
+      "teaser": "Nur die allerwenigsten Haushaltshilfen werden offiziell angemeldet, zeigt eine neue Studie. Dadurch fallen auch Lohnfortzahlungen bei Krankheit und im Urlaub weg.",
+      "url": "https://www.zeit.de/arbeit/2024-12/haushaltshilfen-schwarzarbeit-keine-anmeldung",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-12/haushaltshilfen-schwarzarbeit-keine-anmeldung-bild/super__430x286",
+      "image_title": "Beschäftigung: 91 Prozent der Haushaltshilfen arbeiten laut Studie schwarz"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Probleme nach Geburt : Baby da, alles gut? Nicht immer",
@@ -628,13 +711,6 @@
       "url": "https://www.zeit.de/familie/2024-11/familienleben-strategische-inkompetenz-alltag-aufgabenverteilung-haushalt",
       "image_url": "https://img.zeit.de/familie/2024-12/familienleben-strategische-inkompetenz-alltag/super__430x286",
       "image_title": "Familienleben: Haare bürsten? Kannst du so viel besser!"
-    },
-    {
-      "title": "Adventskalender Folge 15 : Alles in einer Sekunde",
-      "teaser": "Heute im Adventskalender von ZEIT Verbrechen: Sollten sich nach tödlichen Verkehrsunfällen Opfer und Täter treffen und aussprechen?",
-      "url": "https://www.zeit.de/gesellschaft/2024-11/verbrechen-adventskalender-15-toedliche-verkehrsunfaelle-podcast",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-11/verbrechen-adventskalender-15-toedliche-verkehrsunfaelle-bild/super__320x213",
-      "image_title": "Adventskalender Folge 15: Alles in einer Sekunde"
     },
     {
       "title": "Geschichtspodcast : Bauernkrieg, Folge 1: Freiheit! Gerechtigkeit! Aufruhr!",
@@ -679,6 +755,13 @@
       "image_title": "Wochenend-Podcast: olga-grjasnowa"
     },
     {
+      "title": "Alpenpodcast : Was die Ärmsten uns wert sind",
+      "teaser": "Die Schweiz kürzt ihr Budget für Entwicklungszusammenarbeit drastisch, in Deutschland machen Politiker gegen die Zahlungen Stimmung. Und: Zürich überholt Wien.",
+      "url": "https://www.zeit.de/gesellschaft/2024-12/entwicklungszusammenarbeit-schweiz-budget-alpenpodcast",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-12/entwicklungszusammenarbeit-schweiz-budget/super__320x213",
+      "image_title": "entwicklungszusammenarbeit-schweiz-budget"
+    },
+    {
       "title": "Wohnen in Hamburg : „Vor ein paar Jahren waren solche Objekte schon weg, bevor wir das Exposé überhaupt gedruckt hatten“",
       "teaser": "Die steigenden Mieten in Hamburg machen den Immobilienkauf gerade für Familien langsam wieder attraktiver. Wer es sich leisten kann, der kauft. Viele werden dafür das Viertel wechseln müssen.",
       "url": "https://www.wiwo.de/finanzen/immobilien/wohnen-in-hamburg-vor-ein-paar-jahren-waren-solche-objekte-schon-weg-bevor-wir-das-expose-ueberhaupt-gedruckt-hatten/30126666.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
@@ -721,10 +804,17 @@
       "image_title": "Indischer Ozean: Ein Meteorologe steht vor Monitoren in den Einrichtungen von Meteo France vor dem Wirbelsturm \"Belal\", der am 14. Januar 2024 in Saint-Denis auf der französischen Insel La Réunion im Indischen Ozean erwartet wird. Die französische Überseeinsel La Réunion wappnet sich auf den herannahenden Wirbelsturm «Belal». Service +++ dpa-Bildfunk +++ Aufnahmedatum 14.01.2024 Bildnachweis picture alliance/dpa/AFP | Richard Bouhet"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); \"Unmöglicher Abschied\" von Han Kang : Schneeflockendrama",
+      "teaser": "Ihr Lebensthema in einer neuen Variante: Der Roman \"Unmöglicher Abschied\" der Nobelpreisträgerin Han Kang erzählt die traumatische Geschichte ihres Heimatlandes Südkorea.",
+      "url": "https://www.zeit.de/2024/53/unmoeglicher-abschied-roman-han-kang-suedkorea",
+      "image_url": "https://img.zeit.de/2024/53/schneeflockendrama-bild-1/wide__892x501",
+      "image_title": "\"Unmöglicher Abschied\" von Han Kang: Han Kang, 54 – in ihrem Roman sprudeln wieder »blutige Erinnerungen«"
+    },
+    {
       "title": "Diktatur in Syrien : Wenn das Verborgene ans Licht kommt",
       "teaser": "Die Bilder aus Syrien haben in der vergangenen Woche drastisch gezeigt, wie trügerisch die Ruhe einer Diktatur ist. Das birgt einen Auftrag über das Land hinaus.",
       "url": "https://www.zeit.de/kultur/2024-12/diktatur-syrien-sturz-ruhe-demokratie",
-      "image_url": "https://img.zeit.de/kultur/2024-12/syrien-bilder-verborgenes-enthuelltes/wide__892x501",
+      "image_url": "https://img.zeit.de/kultur/2024-12/syrien-bilder-verborgenes-enthuelltes/super__430x286",
       "image_title": "Syrien Bilder Verborgenes Enthülltes"
     },
     {
@@ -733,13 +823,6 @@
       "url": "https://www.zeit.de/kultur/film/2024-12/wolfgang-becker-autor-regisseur-deutschland-herausforderung",
       "image_url": "https://img.zeit.de/kultur/film/2024-12/wolfgang-becker-regisseur/super__430x286",
       "image_title": "Wolfgang Becker Regisseur"
-    },
-    {
-      "title": "Zukunft in Syrien : \"Nur die wenigsten Revolutionen führen zur Demokratie\"",
-      "teaser": "An unseren Ansprüchen kann Syrien nur scheitern: Der Revolutionsforscher Jack Goldstone erklärt, warum wir von Umstürzen zu viel erwarten.",
-      "url": "https://www.zeit.de/kultur/2024-12/jack-goldstone-revolutionen-syrien-umsturz",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-12/jack-goldstone-revolutionen-syrien-umsturz-bild-2/super__430x286",
-      "image_title": "Zukunft in Syrien: \"Nur die wenigsten Revolutionen führen zur Demokratie\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Wolfgang Gentner : Das Ziel? Hitlers Atombombe verhindern",
@@ -999,11 +1082,11 @@
       "image_title": "Junge Wählerschaft: Willst du mit uns über die Bundestagswahl reden?"
     },
     {
-      "title": "Verlagsangebot : Und was macht man dann damit?",
-      "teaser": "Was verbirgt sich konkret hinter den sperrigen Studiengangsbezeichnungen? Einen Einblick in mögliche Berufsfelder liefert die Suchmaschine für Studienangebote.",
-      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.kaffeepause_wasmachtmandamit.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_kaffeepause_wasmachtmandamit_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-4-klein/photo-of-women-looking-on-monitors-197.jpg",
-      "image_title": "Und was macht man dann damit?"
+      "title": "Verlagsangebot : Was kann man wo studieren?",
+      "teaser": "Deutschlands größte Suchmaschine für Studiengänge und Hochschulen bietet Orientierung und hilft bei der Studienwahl.",
+      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.automation.bleistift-biss.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=verlagsteaser&amp;utm_content=suma_automation_bleistift-biss_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/suma-teaser-januar2019/wide__430x286__desktop",
+      "image_title": "Was kann man wo studieren?"
     },
     {
       "title": "Fußballbundesliga, 14. Spieltag – Samstag : Werder gewinnt gegen St. Pauli, Bayern kassiert erste Niederlage",
@@ -1034,36 +1117,36 @@
       "image_title": "Die Goldenen Zitronen: Die goldenen Zitronen"
     },
     {
-      "title": "Rennrodeln: Nur ein deutscher Sieg in Oberhof - Österreicher dominieren",
-      "url": "https://www.zeit.de/news/2024-12/15/oesterreichische-lehrstunde-beim-deutschen-heimrennen"
+      "title": "Weltcup in Österreich: Biathletinnen begeistern: Staffel-Sieg und Gelbes Trikot",
+      "url": "https://www.zeit.de/news/2024-12/15/biathletinnen-holen-ersten-staffelsieg-seit-vier-jahren"
     },
     {
-      "title": "Nach den Bauarbeiten: Endlich wieder in unter zwei Stunden von Hamburg nach Berlin",
-      "url": "https://www.zeit.de/news/2024-12/15/endlich-wieder-in-unter-zwei-stunden-von-hamburg-nach-berlin"
+      "title": "Glücklicher Zufall: Glücksrettung für gestürzte Seniorin dank Schornsteinfeger",
+      "url": "https://www.zeit.de/news/2024-12/15/gluecksrettung-fuer-gestuerzte-seniorin-dank-schornsteinfeger"
     },
     {
-      "title": "Bundestagswahl 2025: Jan van Aken ist Spitzenkandidat bei den Hamburger Linken",
-      "url": "https://www.zeit.de/news/2024-12/15/jan-van-aken-ist-spitzenkandidat-bei-den-hamburger-linken"
+      "title": "Mutmaßlich rechte Täter: Angriff auf SPD-Mitglieder - U-Haftbefehle gegen vier Männer",
+      "url": "https://www.zeit.de/news/2024-12/15/spd-generalsekretaer-verurteilt-angriff-auf-parteimitglieder"
     },
     {
-      "title": "Nächtliche Unfälle: Entlaufenes Pony bei Unfall mit Autos verletzt",
-      "url": "https://www.zeit.de/news/2024-12/15/entlaufenes-pony-bei-unfall-mit-autos-verletzt"
+      "title": "Weltcup in Österreich: Deutsche Biathleten verpassen Staffel-Podium",
+      "url": "https://www.zeit.de/news/2024-12/15/deutsche-biathleten-verpassen-staffel-podium"
     },
     {
-      "title": "BSW-Versammlung: BSW-Verband Schleswig-Holstein gegründet - Hamburg kommt",
-      "url": "https://www.zeit.de/news/2024-12/15/neuer-termin-fuer-gruendung-von-bsw-landesverband-hamburg"
+      "title": "Diebstahl: Zahlreiche Einbrüche am Wochenende in Brandenburg",
+      "url": "https://www.zeit.de/news/2024-12/15/zahlreiche-einbrueche-am-wochenende-in-brandenburg"
     },
     {
-      "title": "Brückenneubau: Teile einer A1-Brücke gesprengt - Autobahn voll gesperrt",
-      "url": "https://www.zeit.de/news/2024-12/15/teile-einer-a1-bruecke-gesprengt-autobahn-voll-gesperrt"
+      "title": "3. Liga: Zurück an der Spitze: Cottbus schlägt Rostock im Ost-Derby",
+      "url": "https://www.zeit.de/news/2024-12/15/zurueck-an-der-spitze-cottbus-schlaegt-rostock-im-ost-derby"
     },
     {
-      "title": "Landesvertreter­versammlung: Tanja Machalet führt SPD-Liste in Rheinland-Pfalz an",
-      "url": "https://www.zeit.de/news/2024-12/15/tanja-machalet-fuehrt-spd-liste-in-rheinland-pfalz-an"
+      "title": "Verkehrsunfall: Tödlicher Frontalzusammenstoß bei Traunreut",
+      "url": "https://www.zeit.de/news/2024-12/15/toedlicher-frontalzusammenstoss-bei-traunreut"
     },
     {
-      "title": "Notfälle: Acht Verletzte nach Explosion in Wohnhaus in Tschechien",
-      "url": "https://www.zeit.de/news/2024-12/15/acht-verletzte-nach-explosion-in-wohnhaus-in-tschechien"
+      "title": "Krieg in der Ukraine: Ukrainisches Militär zerstört russischen Versorgungszug",
+      "url": "https://www.zeit.de/news/2024-12/15/kiew-russland-setzt-verstaerkt-auf-nordkoreanische-soldaten"
     }
   ]
 }
