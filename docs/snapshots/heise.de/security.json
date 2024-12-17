@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-12-17T10:08:25",
+  "timestamp": "2024-12-17T11:01:13",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "CyberPanel",
+      "url": "https://www.heise.de/news/CyberPanel-Angreifer-koennen-Schadcode-einschleusen-10202632.html"
+    },
+    {
       "title": "Gitlab",
       "url": "https://www.heise.de/news/DevSecOps-Plattform-Gitlab-Accountuebernahme-moeglich-10198923.html"
     },
@@ -44,14 +48,10 @@
       "url": "https://www.heise.de/news/Sicherheitspatch-Angreifer-koennen-ueber-TeamViewer-Luecke-Windows-Dateien-loeschen-10196765.html"
     },
     {
-      "title": "iOS, iPadOS, macOS",
-      "url": "https://www.heise.de/news/Apple-stopft-schwere-Sicherheitsluecken-kein-Patch-fuer-iOS-17-10196897.html"
-    },
-    {
-      "title": "DDoS-Kampagne: Cyberkriminelle legen deutsche Firmen-Websites lahm",
-      "teaser": "Verschiedene Gruppen mit Verbindung nach Russland haben in einer gemeinsamen Aktion wahllos deutsche Unternehmen und Behörden attackiert. Nicht nur mit Erfolg.",
-      "url": "https://www.heise.de/news/DDoS-Kampagne-Cyberkriminelle-legen-deutsche-Firmen-Websites-lahm-10202521.html",
-      "image_title": "Schematisches Bild einer Person, die am PC in einem Raum mit technischen Geräten sitzt. Die Farben im Bild beschränken sich vor allem auf Schwarz und Grün."
+      "title": "CyberPanel: Angreifer können Schadcode einschleusen",
+      "teaser": "In der Server-Verwaltungssoftware CyberPanel wurden zwei Schwachstellen entdeckt. Sie erlauben Angreifern das Einschleusen beliebigen Codes.",
+      "url": "https://www.heise.de/news/CyberPanel-Angreifer-koennen-Schadcode-einschleusen-10202632.html",
+      "image_title": "Brennendes Laptop vor Servern, die das Laptop überwacht"
     },
     {
       "title": "CrushFTP: Attacken auf Admins möglich",
@@ -60,10 +60,9 @@
       "image_title": "Tastatur"
     },
     {
-      "title": "Verbraucherzentrale warnt vor aktueller Paypal-Betrugsmasche",
-      "teaser": "Die Verbraucherzentrale NRW warnt, dass Kriminelle \"Bezahlen ohne Paypal-Konto\" missbrauchen. Schutz davor ist kaum möglich.",
-      "url": "https://www.heise.de/news/Verbraucherzentrale-warnt-vor-aktueller-Paypal-Betrugsmasche-10202355.html",
-      "image_title": "Krimineller zahlt betrügerisch mit fremder Karte"
+      "title": "heise security Webinar: Wie sag ich’s meinem Chef? – Gesprachsführung für ITler",
+      "teaser": "Ihr wichtiges Security-Projekt braucht noch Budget und Ressourcen. Dieses Webinar hilft Ihnen, dem Chef das Thema Sicherheit richtig \"zu verkaufen\".",
+      "url": "https://www.heise.de/news/heise-security-Webinar-Wie-sag-ich-s-meinem-Chef-Gesprachsfuehrung-fuer-ITler-10198548.html"
     },
     {
       "title": "l+f: Cyberattacken auf Cyberkriminelle und Sicherheitsforscher",
@@ -76,6 +75,12 @@
       "teaser": "Das Dezember-Update für Android bringt eine QR-Code-Funktion für Quick Share mit. Google verteilt sie nun an Endanwender.",
       "url": "https://www.heise.de/news/Google-verteilt-QR-Code-Funktion-fuer-Quick-Share-10200428.html",
       "image_title": "Menschen teilen Dateien zwischen Smartphones und Computer"
+    },
+    {
+      "title": "Passkeys: Windows-Insider-Vorschau öffnet Verwaltung für Drittanbieter",
+      "teaser": "Microsoft hat im Developer-Kanal eine Windows-Insider-Vorschau veröffentlicht, die Drittanbietern die Passkey-Verwaltung ermöglicht.",
+      "url": "https://www.heise.de/news/Passkeys-Windows-Insider-Vorschau-oeffnet-Verwaltung-fuer-Drittanbieter-10200293.html",
+      "image_title": "Ein Schloss mit biometrischen Schlüsseln"
     },
     {
       "title": "Stromanbieter Tibber: 50.000 Datensätze aus Datenleck bei Have I Been Pwned",
@@ -156,12 +161,6 @@
       "teaser": "Das neue Outlook soll nach Microsofts Willen die Apps Windows Kalender, Kontakte und Mail ersetzen. Deren Support endet in Kürze.",
       "url": "https://www.heise.de/news/Das-Ende-von-Windows-Kalender-Kontakte-und-Mail-naht-schnell-10196840.html",
       "image_title": "Ostersund,,Sweden,-,Jan,18,,2022:,Microsoft,365,On,A"
-    },
-    {
-      "title": "Atlassian schützt Confluence & Co. vor möglichen DoS-Attacken",
-      "teaser": "Mehrere Sicherheitslücken in diversen Anwendungen von Atlassian gefährden Systeme.",
-      "url": "https://www.heise.de/news/Atlassian-schuetzt-Confluence-Co-vor-moeglichen-DoS-Attacken-10196643.html",
-      "image_title": "Orangenes Warndreieck vor blau schimmernden Buchstaben"
     },
     {
       "title": "C-Level Kommunikation",
