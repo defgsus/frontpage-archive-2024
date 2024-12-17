@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-12-17T00:37:59",
+  "timestamp": "2024-12-17T02:19:48",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -110,10 +116,17 @@
   ],
   "articles": [
     {
+      "title": "Bundestagswahlkampf : Olaf Scholz wirft \"Fritze Merz\" vor, Unsinn zu erzählen",
+      "teaser": "Der Kanzlerkandidat der Union reagiert empört auf die Wortwahl des Bundeskanzlers. Dieser hadert mit einem anderen Auftritt: \"Peinlich von mir\".",
+      "url": "https://www.zeit.de/politik/deutschland/2024-12/bundeskanzler-olaf-scholz-fritze-friedrich-merz",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/olaf-scholz-friedrich-merz-schlagabtausch-bild/wide__1000x562",
+      "image_title": "Bundestagswahlkampf: Friedrich Merz (CDU), CDU-Bundesvorsitzender und Unionsfraktionsvorsitzender, spricht neben Bundeskanzler Olaf Scholz (l, SPD) im Bundestag in der Generaldebatte zum Etat des Bundeskanzlers und des Bundeskanzleramts. (zu dpa: «Scholz hätte gern Merz als Unions-Kanzlerkandidat»)"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Vertrauensfrage : Das war's dann also",
       "teaser": "Der Kanzler verliert die Vertrauensfrage im Bundestag. Während der historischen Sitzung zeigen sich tiefe Verletzungen – und neue Allianzen.",
       "url": "https://www.zeit.de/politik/deutschland/2024-12/vertrauensfrage-bundestag-ampelbruch-olaf-scholz",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/vertrauensfrage-bundestag-ampelbruch-olaf-6/wide__1000x562",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/vertrauensfrage-bundestag-ampelbruch-olaf-6/super__430x286",
       "image_title": "Vertrauensfrage: Das war's dann also"
     },
     {
@@ -124,18 +137,11 @@
       "image_title": "Olaf Scholz im Bundestag: Unbelehrbar bis zuletzt"
     },
     {
-      "title": "Vertrauensfrage : Olaf Scholz verliert Vertrauensabstimmung im Bundestag",
-      "teaser": "Der Bundestag hat Olaf Scholz nach einer harten Debatte das Vertrauen entzogen. Der Bundeskanzler bat daraufhin den Bundespräsidenten, das Parlament aufzulösen.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-12/olaf-scholz-verliert-vertrauensabstimmung-im-bundestag",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/olaf-scholz-verliert-vertrauensabstimmung-im-bundestag-bild/super__430x286",
-      "image_title": "Vertrauensfrage: German Chancellor Olaf Scholz vote of confidence at the Bundestag on December 16, 2024 in Berlin, Germany."
-    },
-    {
-      "title": "ÖPNV : SPD, Grüne und Union einigen sich bei Deutschlandticket",
-      "teaser": "Für das nächste Jahr ist die Finanzierung des Deutschlandtickets geklärt. Bundestag und Bundesrat müssen dem Entwurf von SPD, Union und Grünen aber noch zustimmen.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-12/spd-gruene-union-deutschlandticket-einigung",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/spd-gruene-union-deutschlandticket-einigung-bild/super__430x286",
-      "image_title": "ÖPNV: Reisende warten im Hauptbahnhof Berlin auf ihre Züge. Zwischen der Prignitz und der mecklenburgischen Seenplatte soll nach dem Willen mehrerer Landkreise der Bahnverkehr ausgebaut werden - doch jetzt ist Streit über ein Gutachten entbrannt. 09.01.2024"
+      "title": "Schweigegeldprozess : Richter lehnt Aufhebung von Donald Trumps Verurteilung ab",
+      "teaser": "Der künftige US-Präsident gilt weiter als verurteilter Straftäter. Seine Immunität als Präsident kommt im Schweigegeldprozess laut einem US-Gericht nicht zum Tragen.",
+      "url": "https://www.zeit.de/politik/ausland/2024-12/schweigegeldprozess-usa-donald-trump-verurteilung",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-12/usa-donald-trump-verurteilung-gericht-bild/super__430x286",
+      "image_title": "Schweigegeldprozess: PALM BEACH, FLORIDA - DECEMBER 16: U.S. President-elect Donald Trump speaks at a news conference at Trump's Mar-a-Lago resort on December 16, 2024 in Palm Beach, Florida. In a news conference that went over an hour, Trump announced that SoftBank will invest over $100 billion in projects in the United States including 100,000 artificial intelligence related jobs and then took questions on Syria, Israel, Ukraine, the economy, cabinet picks, and many other topics. (Photo by Andrew Harnik/Getty Images)"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Avignon-Prozess : Am Ende fehlten ihnen die Worte",
@@ -166,11 +172,39 @@
       "image_title": "Migration: Ex-Bundeskanzlerin Angela Merkel (CDU) sitzt bei der Vorstellung ihres Buchs «Freiheit. Erinnerungen 1954 - 2021» im Rahmen der Lit.Cologne auf der Bühne in der Flora."
     },
     {
+      "title": "ÖPNV : SPD, Grüne und Union einigen sich bei Deutschlandticket",
+      "teaser": "Für das nächste Jahr ist die Finanzierung des Deutschlandtickets geklärt. Bundestag und Bundesrat müssen dem Entwurf von SPD, Union und Grünen aber noch zustimmen.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-12/spd-gruene-union-deutschlandticket-einigung",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/spd-gruene-union-deutschlandticket-einigung-bild/super__430x286",
+      "image_title": "ÖPNV: Reisende warten im Hauptbahnhof Berlin auf ihre Züge. Zwischen der Prignitz und der mecklenburgischen Seenplatte soll nach dem Willen mehrerer Landkreise der Bahnverkehr ausgebaut werden - doch jetzt ist Streit über ein Gutachten entbrannt. 09.01.2024"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Beziehungen : \"Man darf nicht annehmen: Ich kenne meinen Partner\"",
       "teaser": "Wer denkt, er kenne einen anderen Menschen in und auswendig, wird doch oft kalt erwischt. Können wir unser Gegenüber wirklich einschätzen – und unsere Liebsten?",
       "url": "https://www.zeit.de/zeit-magazin/leben/2024-12/beziehungen-partnerschaft-liebe-psychologie-bozana-meinhardt-injac",
       "image_url": "https://img.zeit.de/zeit-magazin/leben/2024-12/beziehungen-partnerschaft-liebe-psychologie-bozana-meinhardt/wide__892x501",
       "image_title": "Beziehungen: \"Man darf nicht annehmen: Ich kenne meinen Partner\""
+    },
+    {
+      "title": "Bürgerkrieg in Syrien : Kurden erklären Gespräche zu Waffenruhe in Nordsyrien für gescheitert",
+      "teaser": "Die von den USA unterstützten Syrischen Demokratischen Kräfte machen die Türkei für das Scheitern der Gespräche verantwortlich. Deren Verbündete rücken weiter vor.",
+      "url": "https://www.zeit.de/politik/ausland/2024-12/nordsyrien-kurden-tuerkei-scheitern-verhandlungen-waffenruhe",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-12/nordsyrien-kurden-tuerkei-scheitern-verhandlungen-waffenruhe-bild/super__430x286",
+      "image_title": "Bürgerkrieg in Syrien: Solidaritätsdemonstration für die Kurden in Nordsyrien in Brüssel, fotografiert am vergangenen Wochenende."
+    },
+    {
+      "title": "Liveblog:Syrien : HTS-Chef kündigt Auflösung von Kämpfergruppen an",
+      "teaser": "Der Anführer der HTS-Miliz will seine Kämpfer in die Armee überführen. Russland fordert eine freie Entscheidung der Syrer über die Zukunft ihres Landes. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/2024-12/syrien-assad-sturz-liveblog",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-12/abu-mohammed-al-jolani-hts-kaempfer-armee/super__430x286",
+      "image_title": "Syrien: The leader of Syria's Islamist Hayat Tahrir al-Sham (HTS) group that headed a lightning rebel offensive snatching Damascus from government control, Abu Mohammed al-Jolani, is welcomed by supporters before addressing a crowd at the capital's landmark Umayyad Mosque on December 8, 2024. Jolani, now using his real name Ahmed al-Sharaa, gave a speech as the crowd chanted \"Allahu akbar (God is greatest),\" a video shared by the rebels on their Telegram channel showed. (Photo by Abdulaziz KETAZ / AFP) (Photo by ABDULAZIZ KETAZ/AFP via Getty Images)"
+    },
+    {
+      "title": "USA : TikTok will drohendes Verbot vor dem Obersten Gericht verhindern",
+      "teaser": "Die chinesische Video-App hofft im Kampf gegen das Aus in den USA auf Hilfe des Supreme Courts. Der künftige Präsident Donald Trump bekräftigt seine Sympathie für TikTok.",
+      "url": "https://www.zeit.de/digital/mobil/2024-12/usa-tiktok-verbot-oberstes-gericht-donald-trump",
+      "image_url": "https://img.zeit.de/digital/mobil/2024-12/usa-tiktok-verbot-oberstes-gericht-donald-trump-bild/super__430x286",
+      "image_title": "USA: CULVER CITY, CALIFORNIA - MARCH 12: The TikTok logo is displayed at TikTok offices on March 12, 2024 in Culver City, California. House Republicans are moving forward with legislation which would force the owners of the popular Chinese social media app to sell the platform or face a ban in the United States. (Photo by Mario Tama/Getty Images)"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Alkoholkonsum : Wie viel Alkohol trinken Sie – und wie geht es Ihnen damit?",
@@ -185,34 +219,6 @@
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-12/usa-waffen-schule-schuesse-tote",
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-12/us-bundesstaat-wisconsin-schule-schiesserei-bild/super__430x286",
       "image_title": "Waffengewalt: Rettungsfahrzeuge stehen vor der Abundant Life Christian School. Bei einem Schusswaffenangriff an einer Schule im US-Bundesstaat Wisconsin sind mindestens fünf Menschen getötet worden. Auch der mutmaßliche Schütze sei unter den Toten, teilten die zuständigen Behörden in Madison mit."
-    },
-    {
-      "title": "Bundestagswahlkampf : Olaf Scholz wirft \"Fritze Merz\" vor, Unsinn zu erzählen",
-      "teaser": "In einer Fernsehsendung haben Bundeskanzler Scholz und CDU-Chef Merz sich gegenseitig angegriffen. Vor allem die Wortwahl sorgte für Empörung.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-12/bundeskanzler-olaf-scholz-fritze-friedrich-merz",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/olaf-scholz-friedrich-merz-schlagabtausch-bild/super__430x286",
-      "image_title": "Bundestagswahlkampf: Friedrich Merz (CDU), CDU-Bundesvorsitzender und Unionsfraktionsvorsitzender, spricht neben Bundeskanzler Olaf Scholz (l, SPD) im Bundestag in der Generaldebatte zum Etat des Bundeskanzlers und des Bundeskanzleramts. (zu dpa: «Scholz hätte gern Merz als Unions-Kanzlerkandidat»)"
-    },
-    {
-      "title": "Gewalt gegen Demonstranten : USA und mehrere EU-Staaten verhängen weitere Sanktionen gegen Georgien",
-      "teaser": "Aus Sorge um die Demokratie in Georgien wollen die USA ihre Sanktionen ausweiten. Auch Estland und Lettland verhängen Strafmaßnahmen. Ungarn verhindert EU-Sanktionen.",
-      "url": "https://www.zeit.de/politik/ausland/2024-12/georgien-usa-lettland-sanktionen-ausweitung-ungarn-veto",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-12/georgien-usa-lettland-sanktionen-ausweitung-ungarn-veto-bild/super__430x286",
-      "image_title": "Gewalt gegen Demonstranten: Die Polizei in Georgiens Hauptstadt Tbilissi sperrt eine Straße ab, um Demonstranten an einer Kundgebung vor dem Parlament zu hindern."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Führungskräftemangel : Das Team leiten? Auf keinen Fall!",
-      "teaser": "Chefin oder Chef zu sein, war lange der Inbegriff von Aufstieg. Doch heute sagen immer mehr Beschäftigte: Ohne mich! Warum Führung so unbeliebt geworden ist.",
-      "url": "https://www.zeit.de/arbeit/2024-12/fuehrungskraeftemangel-deutschland-unternehmen-karriere-leadership",
-      "image_url": "https://img.zeit.de/arbeit/2024-12/fuehrungskraeftemangel-deutschland-unternehmen-karriere-leadership-bild-3/super__430x286",
-      "image_title": "Führungskräftemangel: Das Team leiten? Auf keinen Fall!"
-    },
-    {
-      "title": "USA : TikTok will drohendes Verbot vor dem Obersten Gericht verhindern",
-      "teaser": "Die chinesische Video-App hofft im Kampf gegen das Aus in den USA auf Hilfe des Supreme Courts. Der künftige Präsident Donald Trump bekräftigt seine Sympathie für TikTok.",
-      "url": "https://www.zeit.de/digital/mobil/2024-12/usa-tiktok-verbot-oberstes-gericht-donald-trump",
-      "image_url": "https://img.zeit.de/digital/mobil/2024-12/usa-tiktok-verbot-oberstes-gericht-donald-trump-bild/super__430x286",
-      "image_title": "USA: CULVER CITY, CALIFORNIA - MARCH 12: The TikTok logo is displayed at TikTok offices on March 12, 2024 in Culver City, California. House Republicans are moving forward with legislation which would force the owners of the popular Chinese social media app to sell the platform or face a ban in the United States. (Photo by Mario Tama/Getty Images)"
     },
     {
       "title": "Folge 12 : So würden Sie die Vertrauensfrage beantworten",
@@ -355,11 +361,11 @@
       "image_title": "Beziehungstipps vom Chatbot: In Sitzung fünf eskalierte es"
     },
     {
-      "title": "Bundestagswahlkampf : Sahra Wagenknecht wird Kanzlerkandidatin von Bündnis Sahra Wagenknecht",
-      "teaser": "In Umfragen liegt das BSW zwischen vier und acht Prozent, trotzdem benennt es nun Wagenknecht als Kanzlerkandidatin. Die Partei sei unter Zugzwang, teilte sie selbst mit.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-12/bsw-kanzlerkandidatur-sahra-wagenknecht",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/bsw-kanzlerkandidatur-sahra-wagenknecht-bild/super__430x286",
-      "image_title": "Bundestagswahlkampf: Sahra Wagenknecht, Bundesvorsitzende des BSW, steht vor einer Fotowand auf dem 18. Wirtschaftsgipfel der Süddeutschen Zeitung (SZ). 12.11.2024"
+      "title": "Gewalt gegen Demonstranten : USA und mehrere EU-Staaten verhängen weitere Sanktionen gegen Georgien",
+      "teaser": "Aus Sorge um die Demokratie in Georgien wollen die USA ihre Sanktionen ausweiten. Auch Estland und Lettland verhängen Strafmaßnahmen. Ungarn verhindert EU-Sanktionen.",
+      "url": "https://www.zeit.de/politik/ausland/2024-12/georgien-usa-lettland-sanktionen-ausweitung-ungarn-veto",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-12/georgien-usa-lettland-sanktionen-ausweitung-ungarn-veto-bild/super__430x286",
+      "image_title": "Gewalt gegen Demonstranten: Die Polizei in Georgiens Hauptstadt Tbilissi sperrt eine Straße ab, um Demonstranten an einer Kundgebung vor dem Parlament zu hindern."
     },
     {
       "title": "Russland : Anrainerstaaten wollen gegen russische Schattenflotte vorgehen",
@@ -369,11 +375,11 @@
       "image_title": "Russland: Aktivisten der Umweltorganisation Greenpeace haben den Schriftzug «Oil fuels war» und \"Oil is war\" auf den Rumpf eines Schiffes, das russisches Öl auf der Ostsee transportiert, gemalt. Service +++ dpa-Bildfunk +++ Aufnahmedatum 23.03.2022 Bildnachweis picture alliance/dpa | Frank Molter"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Mohammed al-Dschaulani : \"Geben wir ihm eine kleine Chance, zu seinen Worten zu stehen\"",
-      "teaser": "Syriens Zukunft unter Mohammed al-Dschaulani ist ungewiss. Martin Smith traf den HTS-Anführer 2021 als erster westlicher Journalist. Wie schätzt er ihn heute ein?",
-      "url": "https://www.zeit.de/kultur/2024-12/mohammend-al-dschaulani-syrien-hts-martin-smith",
-      "image_url": "https://img.zeit.de/kultur/2024-12/mohammend-al-dschaulani-syrien-hts-martin/super__430x286",
-      "image_title": "Mohammed al-Dschaulani: \"Geben wir ihm eine kleine Chance, zu seinen Worten zu stehen\""
+      "title": "Z+ (abopflichtiger Inhalt); Führungskräftemangel : Das Team leiten? Auf keinen Fall!",
+      "teaser": "Chefin oder Chef zu sein, war lange der Inbegriff von Aufstieg. Doch heute sagen immer mehr Beschäftigte: Ohne mich! Warum Führung so unbeliebt geworden ist.",
+      "url": "https://www.zeit.de/arbeit/2024-12/fuehrungskraeftemangel-deutschland-unternehmen-karriere-leadership",
+      "image_url": "https://img.zeit.de/arbeit/2024-12/fuehrungskraeftemangel-deutschland-unternehmen-karriere-leadership-bild-3/super__430x286",
+      "image_title": "Führungskräftemangel: Das Team leiten? Auf keinen Fall!"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Vergnügungspark \"Luna Luna\" : \"Zwei haben gefurzt, ein Dritter spielte Geige\"",
@@ -455,11 +461,11 @@
       "image_title": "Vertrauensfrage: Das war's dann also"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Lebensdauer von Elektroautos : Aber der Akku …?!",
-      "teaser": "Die Batterie ist das teuerste Teil in einem E-Auto. Viele fragen sich: Hält die wirklich ein Autoleben lang? Neue Forschungsergebnisse überraschen selbst Experten.",
-      "url": "https://www.zeit.de/mobilitaet/2024-12/lebensdauer-elektroautos-batterie-akku-pflege",
-      "image_url": "https://img.zeit.de/mobilitaet/2024-12/lebensdauer-elektroautos-batterie-akku-pflege-bild/super__430x286",
-      "image_title": "Lebensdauer von Elektroautos: Detail der Hand eines Mannes mit dem Ladegerät für Elektroautos, in einer öffentlichen Ladestation auf einem Parkplatz"
+      "title": "Z+ (abopflichtiger Inhalt); Mohammed al-Dschaulani : \"Geben wir ihm eine kleine Chance, zu seinen Worten zu stehen\"",
+      "teaser": "Syriens Zukunft unter Mohammed al-Dschaulani ist ungewiss. Martin Smith traf den HTS-Anführer 2021 als erster westlicher Journalist. Wie schätzt er ihn heute ein?",
+      "url": "https://www.zeit.de/kultur/2024-12/mohammend-al-dschaulani-syrien-hts-martin-smith",
+      "image_url": "https://img.zeit.de/kultur/2024-12/mohammend-al-dschaulani-syrien-hts-martin/super__430x286",
+      "image_title": "Mohammed al-Dschaulani: \"Geben wir ihm eine kleine Chance, zu seinen Worten zu stehen\""
     },
     {
       "title": "Verlagsangebot : 5 Werkzeuge gegen negative Gedankenspiralen",
@@ -637,18 +643,18 @@
       "image_title": "Die Methode Angela Scholz hat fertig"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Lebensdauer von Elektroautos : Aber der Akku …?!",
+      "teaser": "Die Batterie ist das teuerste Teil in einem E-Auto. Viele fragen sich: Hält die wirklich ein Autoleben lang? Neue Forschungsergebnisse überraschen selbst Experten.",
+      "url": "https://www.zeit.de/mobilitaet/2024-12/lebensdauer-elektroautos-batterie-akku-pflege",
+      "image_url": "https://img.zeit.de/mobilitaet/2024-12/lebensdauer-elektroautos-batterie-akku-pflege-bild/wide__892x501",
+      "image_title": "Lebensdauer von Elektroautos: Detail der Hand eines Mannes mit dem Ladegerät für Elektroautos, in einer öffentlichen Ladestation auf einem Parkplatz"
+    },
+    {
       "title": "Bus und Bahn : Verkehrsunternehmen warnen vor Weggang syrischer Beschäftigter",
       "teaser": "Im Fahrdienst des ÖPNV arbeiten 2.000 syrische Beschäftigte. Auf sie kann man wegen bestehender Engpässe nicht verzichten, sagt der Verband Deutscher Verkehrsunternehmen.",
       "url": "https://www.zeit.de/mobilitaet/2024-12/verkehrsunternehmen-syrer-asyl-fachkraeftemangel-bus-bahn",
-      "image_url": "https://img.zeit.de/mobilitaet/2024-12/bus-bvg-syrer-rueckkehr/wide__892x501",
+      "image_url": "https://img.zeit.de/mobilitaet/2024-12/bus-bvg-syrer-rueckkehr/super__430x286",
       "image_title": "Bus und Bahn: Ein Bus der Berliner Verkehrsbetriebe (BVG) fährt am Zoologischen Garten vorbei. (zu dpa: «Vorverkauf für 29-Euro-Ticket startet»)"
-    },
-    {
-      "title": "Bahn : Bahnverkehr zwischen Frankfurt und Mannheim wieder angelaufen",
-      "teaser": "Nach fünf Monaten fahren seit Mitternacht auf der sanierten Riedbahn wieder Züge. Mit dem neuen Fahrplan bietet die Bahn zudem mehr Sprinter von Berlin nach Frankfurt an.",
-      "url": "https://www.zeit.de/mobilitaet/2024-12/frankfurt-mannheim-riedbahn-freigabe-bauarbeiten",
-      "image_url": "https://img.zeit.de/mobilitaet/2024-12/riedbahn-bahn-bauarbeiten-frankfurt/super__430x286",
-      "image_title": "Bahn: Mit neuem Fliesendesign präsentiert sich im Bahnhof im Stadtteil Dornberg der Zugang zu einem Gleis. Seit rund vier Wochen läuft die Generalsanierung der Riedbahn. Neben den Arbeiten an der Strecke stehen auch 20 Bahnhöfe im Fokus, die zu «Zukunftsbahnhöfen» ausgebaut werden. Die Deutsche Bahn gestaltet die Stationen mit einem speziellen Farbkonzept. +++ dpa-Bildfunk +++"
     },
     {
       "title": "Islamistischer Extremismus : Haftstrafen nach Mord an Samuel Paty für Freunde von Täter gefordert",
@@ -943,11 +949,11 @@
       "image_title": "El Hotzo: Hilft ein BWL-Studium beim Witzeschreiben, El Hotzo?"
     },
     {
-      "title": "Verlagsangebot : Welcher Studiengang passt zu mir?",
-      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
-      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.bildtext.allein.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=campus-verlagsteaser&amp;utm_content=sit_bildtext_allein_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/sit-gruppe/wide__430x286__desktop",
-      "image_title": "Welcher Studiengang passt zu mir?"
+      "title": "Verlagsangebot : Persönlichkeit als Door Opener",
+      "teaser": "Immer mehr Unternehmen setzen bei ihren Bewerbern auf die Persönlichkeit. Auf der Suche nach einem Job stellt der Berufstest die eigenen Stärken in den Mittelpunkt.",
+      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.textbild.frau-smartphone_dooropener.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=bot_textbild_frau-smartphone_dooropener_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-boa-index-teaser-1-klein/bruce-mars-fwvmhua-wby-unsplash.jpg",
+      "image_title": "Persönlichkeit als Door Opener"
     },
     {
       "title": "Spiel gegen Union Berlin : Bochum legt offiziell Einspruch gegen Spielwertung ein",
@@ -978,6 +984,22 @@
       "image_title": "Elbtower in Hamburg: Zweite Chance für den \"Kurzen Olaf\""
     },
     {
+      "title": "Essen: Fluchtweg durch Rauch abgeschnitten - Brand in Essener Haus",
+      "url": "https://www.zeit.de/news/2024-12/17/fluchtweg-durch-rauch-abgeschnitten-brand-in-essener-haus"
+    },
+    {
+      "title": "Schweigegeld-Prozess: New Yorker Richter hält an Schuldspruch gegen Trump fest",
+      "url": "https://www.zeit.de/news/2024-12/17/new-yorker-richter-haelt-an-schuldspruch-gegen-trump-fest"
+    },
+    {
+      "title": "Handball: Füchse nach Flensburg-Pleite enttäuscht: \"War mehr drin\"",
+      "url": "https://www.zeit.de/news/2024-12/17/fuechse-nach-flensburg-pleite-enttaeuscht-war-mehr-drin"
+    },
+    {
+      "title": "Autokrise: VW-Tarifrunde: Erster Verhandlungstag endet nach 13 Stunden",
+      "url": "https://www.zeit.de/news/2024-12/17/vw-tarifrunde-erster-verhandlungstag-endet-nach-13-stunden"
+    },
+    {
       "title": "Bundestagswahlkampf: Scholz teilt aus: \"Fritze Merz erzählt gern Tünkram\"",
       "url": "https://www.zeit.de/news/2024-12/16/scholz-teilt-aus-fritze-merz-erzaehlt-gern-tuenkram"
     },
@@ -992,22 +1014,6 @@
     {
       "title": "Hattingen: Linienbus kippt zur Seite",
       "url": "https://www.zeit.de/news/2024-12/17/linienbus-kippt-zur-seite"
-    },
-    {
-      "title": "Frühere Bundeskanzlerin: Angela Merkel: Früher war der Hosenanzug ein \"Politikum\"",
-      "url": "https://www.zeit.de/news/2024-12/17/angela-merkel-frueher-war-der-hosenanzug-ein-politikum"
-    },
-    {
-      "title": "Kalenderblatt: Was geschah am 17. Dezember?",
-      "url": "https://www.zeit.de/news/2024-12/16/was-geschah-am-17-dezember"
-    },
-    {
-      "title": "Mordermittlung: Brennbare Flüssigkeit auf Frau geschüttet - Festnahme",
-      "url": "https://www.zeit.de/news/2024-12/16/brennbare-fluessigkeit-auf-frau-geschuettet-festnahme"
-    },
-    {
-      "title": "Nahost-Konflikt: Berichte: Israels Unterhändler zu Gaza-Gesprächen in Katar",
-      "url": "https://www.zeit.de/news/2024-12/16/israel-verlegt-truppen-vom-libanon-in-den-gazastreifen"
     }
   ]
 }
