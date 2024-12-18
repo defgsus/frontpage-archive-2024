@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-12-18T10:08:03",
+  "timestamp": "2024-12-18T11:00:54",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Trend Mirco Apex One",
+      "url": "https://www.heise.de/news/Windows-Sicherheitsloesung-Trend-Micro-Apex-One-als-Einfallstor-fuer-Angreifer-10213518.html"
+    },
+    {
+      "title": "Apache Struts",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-nutzen-kritische-Sicherheitsluecke-in-Apache-Struts-aus-10212840.html"
+    },
+    {
       "title": "Foxit PDF Editor und Reader",
       "url": "https://www.heise.de/news/Foxit-PDF-Editor-und-Reader-Attacken-ueber-praeparierte-PDF-Dateien-moeglich-10211267.html"
     },
@@ -40,12 +48,21 @@
       "url": "https://www.heise.de/news/CyberPanel-Angreifer-koennen-Schadcode-einschleusen-10202632.html"
     },
     {
-      "title": "Gitlab",
-      "url": "https://www.heise.de/news/DevSecOps-Plattform-Gitlab-Accountuebernahme-moeglich-10198923.html"
+      "title": "Virtuelle Kampagne: DDoS-Attacken legen deutsche Firmen-Webseiten lahm",
+      "teaser": "Verschiedene Gruppen mit Verbindung nach Russland attackieren in einer gemeinsamen Aktion wahllos deutsche Unternehmen und Behörden. Nicht nur mit Erfolg.",
+      "url": "https://www.heise.de/news/DDoS-Kampagne-Cyberkriminelle-legen-deutsche-Firmen-Websites-lahm-10202521.html",
+      "image_title": "Schematisches Bild einer Person, die am PC in einem Raum mit technischen Geräten sitzt. Die Farben im Bild beschränken sich vor allem auf Schwarz und Grün."
     },
     {
-      "title": "Dell",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Dell-schliesst-Luecken-in-PCs-Treibern-und-Zubehoer-10198245.html"
+      "title": "Windows-Sicherheitslösung Trend Micro Apex One als Einfallstor für Angreifer",
+      "teaser": "Angreifer können an mehreren Sicherheitslücken in Trend Micro Apex One ansetzen. Sicherheitsupdates sind verfügbar.",
+      "url": "https://www.heise.de/news/Windows-Sicherheitsloesung-Trend-Micro-Apex-One-als-Einfallstor-fuer-Angreifer-10213518.html"
+    },
+    {
+      "title": "Jetzt patchen! Angreifer nutzen kritische Sicherheitslücke in Apache Struts aus",
+      "teaser": "Die Uploadfunktion von Apache Struts ist fehlerhaft und Angreifer können Schadcode hochladen. Sicherheitsforscher warnen vor Attacken.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-nutzen-kritische-Sicherheitsluecke-in-Apache-Struts-aus-10212840.html",
+      "image_title": "Programmierer am Laptop, der COde und \"PHP\" anzeigt. Viren und Kriminelle greifen das an"
     },
     {
       "title": "Foxit PDF Editor und Reader: Attacken über präparierte PDF-Dateien möglich",
@@ -87,12 +104,6 @@
       "teaser": "In der Server-Verwaltungssoftware CyberPanel wurden zwei Schwachstellen entdeckt. Sie erlauben Angreifern das Einschleusen beliebigen Codes.",
       "url": "https://www.heise.de/news/CyberPanel-Angreifer-koennen-Schadcode-einschleusen-10202632.html",
       "image_title": "Brennendes Laptop vor Servern, die das Laptop überwacht"
-    },
-    {
-      "title": "Virtuelle Kampagne: DDoS-Attacken legen deutsche Firmen-Webseiten lahm",
-      "teaser": "Verschiedene Gruppen mit Verbindung nach Russland haben in einer gemeinsamen Aktion wahllos deutsche Unternehmen und Behörden attackiert. Nicht nur mit Erfolg.",
-      "url": "https://www.heise.de/news/DDoS-Kampagne-Cyberkriminelle-legen-deutsche-Firmen-Websites-lahm-10202521.html",
-      "image_title": "Schematisches Bild einer Person, die am PC in einem Raum mit technischen Geräten sitzt. Die Farben im Bild beschränken sich vor allem auf Schwarz und Grün."
     },
     {
       "title": "CrushFTP: Attacken auf Admins möglich",
@@ -152,16 +163,6 @@
       "teaser": "Die Common Weakness Enumeration CWE-1123 warnt vor dem übermäßigen Einsatz von sich selbst modifizierendem Code. Java-Entwickler sollten mit Bedacht agieren.",
       "url": "https://www.heise.de/hintergrund/Secure-Coding-CWE-1123-Sich-selbst-modifizierenden-Code-vermeiden-10194617.html",
       "image_title": "Mann zeigt auf Spirale aus geometrischen Körpern"
-    },
-    {
-      "title": "MFA-Schutz von Microsofts Azure war aushebelbar",
-      "teaser": "Angreifer konnten die Multi-Faktor-Authentifizierung in Microsofts Azure umgehen und unberechtigten Zugriff erlangen.",
-      "url": "https://www.heise.de/news/Microsoft-Azure-MFA-Schutz-war-aushebelbar-10198961.html"
-    },
-    {
-      "title": "DevSecOps-Plattform Gitlab: Accountübernahme möglich",
-      "teaser": "Sicherheitsupdates für Gitlab beugen unter anderem unberechtigte Zugriffe und DoS-Attacken vor.",
-      "url": "https://www.heise.de/news/DevSecOps-Plattform-Gitlab-Accountuebernahme-moeglich-10198923.html"
     },
     {
       "title": "C-Level Kommunikation",
