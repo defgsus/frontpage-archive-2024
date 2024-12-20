@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-12-20T10:00:50",
+  "timestamp": "2024-12-20T11:01:03",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Fortinet Wireless Manager",
+      "url": "https://www.heise.de/news/Fortinet-Wireless-Manager-Informationen-zu-kritischer-Luecke-zurueckgehalten-10217204.html"
+    },
+    {
       "title": "BeyondTrust Remote Support und Privileged Remote Access",
       "url": "https://www.heise.de/news/Kritische-Luecke-in-BeyondTrust-Privileged-Remote-Access-und-Remote-Support-10215447.html"
     },
@@ -44,19 +48,27 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-nutzen-kritische-Sicherheitsluecke-in-Apache-Struts-aus-10212840.html"
     },
     {
-      "title": "Foxit PDF Editor und Reader",
-      "url": "https://www.heise.de/news/Foxit-PDF-Editor-und-Reader-Attacken-ueber-praeparierte-PDF-Dateien-moeglich-10211267.html"
-    },
-    {
-      "title": "Medion-Hack? BlackBasta-Ransomware hat angeblich 1,5 TB an Daten kopiert",
-      "teaser": "Cyberkriminelle behaupten, den Vertreiber von elektronischen Produkten Medion erfolgreich attackiert zu haben.",
-      "url": "https://www.heise.de/news/Medion-Hack-BlackBasta-Ransomware-hat-angeblich-1-5-TB-an-Daten-kopiert-10215926.html",
-      "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
+      "title": "Fortinet Wireless Manager: Informationen zu kritischer Lücke zurückgehalten",
+      "teaser": "Angreifer konnten Fortinet Wireless Manager attackieren und Admins-Sessions kapern. Das Netzwerkmanagementool war über mehrere Monate verwundbar.",
+      "url": "https://www.heise.de/news/Fortinet-Wireless-Manager-Informationen-zu-kritischer-Luecke-zurueckgehalten-10217204.html",
+      "image_title": "Server, die am Netz hängen und angegriffen werden"
     },
     {
       "title": "Kritische Lücke in BeyondTrust Privileged Remote Access und Remote Support",
       "teaser": "In aktuellen Versionen von BeyondTrust Privileged Remote Access und Remote Support haben die Entwickler eine gefährliche Schwachstelle geschlossen.",
       "url": "https://www.heise.de/news/Kritische-Luecke-in-BeyondTrust-Privileged-Remote-Access-und-Remote-Support-10215447.html"
+    },
+    {
+      "title": "Betrugsmail: Cyberversicherung muss Schaden nicht ersetzen",
+      "teaser": "Klassisches Mail-Spoofing kostete eine deutsche Firma 85.000 Euro. Ihre Cyberversicherung deckt den Schaden nicht, sagt das Landgericht Hagen.",
+      "url": "https://www.heise.de/news/Betrugsmail-Cyberversicherung-muss-Schaden-nicht-ersetzen-10215212.html",
+      "image_title": "Güldene Statue der Justizia"
+    },
+    {
+      "title": "Phishing-Masche nimmt Nutzer von Google-Kalender ins Visier",
+      "teaser": "Cyberkriminelle nutzen laut einer Analyse von Sicherheitsforschern offenbar verstärkt Google-Kalender-Invites, um Internetnutzer auf Phishingseiten zu locken.",
+      "url": "https://www.heise.de/news/Phishing-Masche-nimmt-Nutzer-von-Google-Kalender-ins-Visier-10214705.html",
+      "image_title": "Betrügerische Mail oder SMS mit Angelhaken auf einem Smartphone."
     },
     {
       "title": "Virtuelle Kampagne: DDoS-Attacken legen deutsche Firmen-Webseiten lahm",
@@ -152,18 +164,6 @@
       "image_title": "Schematische Darstellung eines Pferds"
     },
     {
-      "title": "Quick Share: Google verteilt Funktion zum Teilen mit QR-Code",
-      "teaser": "Das Dezember-Update für Android bringt eine QR-Code-Funktion für Quick Share mit. Google verteilt sie nun an Endanwender.",
-      "url": "https://www.heise.de/news/Google-verteilt-QR-Code-Funktion-fuer-Quick-Share-10200428.html",
-      "image_title": "Menschen teilen Dateien zwischen Smartphones und Computer"
-    },
-    {
-      "title": "Passkeys: Windows-Insider-Vorschau öffnet Verwaltung für Drittanbieter",
-      "teaser": "Microsoft hat im Developer-Kanal eine Windows-Insider-Vorschau veröffentlicht, die Drittanbietern die Passkey-Verwaltung ermöglicht.",
-      "url": "https://www.heise.de/news/Passkeys-Windows-Insider-Vorschau-oeffnet-Verwaltung-fuer-Drittanbieter-10200293.html",
-      "image_title": "Ein Schloss mit biometrischen Schlüsseln"
-    },
-    {
       "title": "C-Level Kommunikation",
       "teaser": "Wie sag ich's meinem Chef? Das ist oft die Frage, wenn Budget-Freigaben oder die Projektzustimmung für wichtige Security-Projekte anstehen. Für die richtige Überzeugungskraft beim Chef geben wir Ihnen die notwendigen Fertigkeiten an die Hand, um das Thema Informationssicherheit richtig zu platzieren.",
       "url": "https://heise-academy.de/webinare/wie-sag-ichs-meinem-chef?wt_mc=intern.academy.security.web_c-level.ho_teaser.teaser.teaser"
@@ -186,6 +186,11 @@
       "url": "https://www.heise.de/hintergrund/Archiv-Abgruende-ZIP-Malware-Tricks-ausgepackt-erklaert-10105915.html"
     },
     {
+      "title": "Re: Desinfect zeigt keine Windows Laufwerke",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Desinfect-zeigt-keine-Windows-Laufwerke/posting-44733252/show/"
+    },
+    {
       "title": "Re: qu1cks0pe",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-qu1cks0pe/posting-44732330/show/"
@@ -194,11 +199,6 @@
       "title": "Re: Umwandlung in vollwertigen Stick - erst löschen, dann neu bespielen",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Umwandlung-in-vollwertigen-Stick-erst-loeschen-dann-neu-bespielen/posting-44724767/show/"
-    },
-    {
-      "title": "Re: desinfect pxe-boot signaturen",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-desinfect-pxe-boot-signaturen/posting-44717896/show/"
     }
   ]
 }
