@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-12-20T09:07:25",
+  "timestamp": "2024-12-20T10:00:53",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -55,7 +61,7 @@
     },
     {
       "type": null,
-      "src": "https://static.zeit.de/p/zeit.web/js/site.063d632ae21a03d7ca14.js",
+      "src": "https://static.zeit.de/p/zeit.web/js/site.8c226fd808e5e0511473.js",
       "id": null,
       "text": null
     },
@@ -110,18 +116,25 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Gisèle Pelicot : Was von ihr bleibt",
-      "teaser": "Auch Gisèle Pelicot wird gewalttätige Männer wohl nicht dazu bringen, ihr Verhalten zu ändern. Was sie für Frauen erreicht hat, ist dafür umso wirkmächtiger.",
-      "url": "https://www.zeit.de/gesellschaft/2024-12/gisele-pelicot-vergewaltigung-prozess-gerichtsurteil",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-12/urteil-pelicot-bild/wide__1000x562",
-      "image_title": "Gisèle Pelicot: Frenchwoman Gisele Pelicot, the victim of an alleged mass rape orchestrated by her husband Dominique Pelicot at their home in the southern French town of Mazan, arrives to attend the trial of Dominique Pelicot with 50 co-accused, at the courthouse in Avignon, France, November 20, 2024."
+      "title": "Z+ (abopflichtiger Inhalt); Kirchenmitgliedschaft : Wo die Kirchen die meisten Mitglieder verlieren",
+      "teaser": "Volle Kirchenbänke? Selbst an Heiligabend nicht mehr unbedingt. Entdecken Sie in unserer interaktiven Karte, wo die wenigsten Menschen noch einer Kirche angehören.",
+      "url": "https://www.zeit.de/gesellschaft/2024-12/kirchenmitgliedschaft-entwicklung-religion-zensus",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-12/kirchenmitgliedschaft-entwicklung-religion-zensus-teaser/wide__1000x562",
+      "image_title": "Kirchenmitgliedschaft: Wo die Kirchen die meisten Mitglieder verlieren"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); US-Haushaltsstreit : Eine riskante Machtdemonstration",
-      "teaser": "Im US-Haushaltsstreit provoziert Donald Trump einen Shutdown. Das hat mit Elon Musks Druck zu tun – und Trumps Wunsch, eine umstrittene Maßnahme Joe Biden zuzuschieben.",
-      "url": "https://www.zeit.de/politik/ausland/2024-12/usa-trumps-shutdown-kalkuel",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-12/usa-trumps-shutdown-kalkuel-bild/super__430x286",
-      "image_title": "US-Haushaltsstreit: LANDOVER, MARYLAND - DECEMBER 14: (L-R) U.S. Speaker of the House Mike Johnson (R-LA), President-elect Donald Trump, Tesla CEO Elon Musk, Vice President-elect JD Vance and Trump's nominee to be Director of National Intelligence former U.S. Rep. Tulsi Gabbard from Hawaii attend the 125th Army-Navy football game at Northwest Stadium on December 14, 2024 in Landover, Maryland. Trump is attending the game with lawmakers and Cabinet nominees including, Vice President-elect JD Vance, Speaker of the House Mike Johnson (R-LA), Defense Secretary nominee Pete Hegseth, incoming Senate Majority Leader John Thune (R-SD) and others. (Photo by Kevin Dietsch/Getty Images)"
+      "title": "Kriegstüchtig : Pistorius lässt Pläne für neue Wehrpflicht weiter vorbereiten",
+      "teaser": "Mit dem Ende der Ampel ist klar, dass die vorgeschlagene Wehrpflicht zunächst nicht kommen wird. Der Verteidigungsminister lässt die Reform trotzdem weiter vorbereiten.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-12/pistorius-laesst-wehrpflicht-weiter-vorbereiten",
+      "image_url": "https://img.zeit.de/politik/2024-12/boris-pistorius-bild/super__430x286",
+      "image_title": "Kriegstüchtig: German Defense Minister Pistorius visits artillery school in Idar-Oberstein 16.9.2024 14:55:39 Christopher Neundorf Description epa11608136 German Defense Minister Boris Pistorius visits the artillery school in Idar-Oberstein, Germany, 16 September 2024. The artillery school is the central training facility for the artillery force of the Bundeswehr, the German armed forces. It conducts various artillery and mortar-specific training courses for course participants from all artillery and infantry units of the German army. In addition, the artillery school is responsible for the multinational training of all elements of the armed forces' joint tactical fire support for alliance defense. EPA-EFE/CHRISTOPHER NEUNDORF"
+    },
+    {
+      "title": "Liveblog:Ukrainekrieg : Ukraine meldet schweren Raketenangriff auf Kyjiv",
+      "teaser": "Bei einem russischen Luftangriff wurde ein Mensch getötet und mehrere verletzt. Wolodymyr Selenskyj weist Donald Trumps Waffenruhe-Forderung zurück. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-12/kraine-krieg-news-liveblog-bild/super__430x286",
+      "image_title": "Ukrainekrieg: Ukrainian firefighters try to extinguish a fire on the site of a Russian missile attack in Kyiv on December 20, 2024, amid the Russian invasion in Ukraine. (Photo by Roman PILIPEY / AFP) (Photo by ROMAN PILIPEY/AFP via Getty Images)"
     },
     {
       "title": "EU-Gipfel : Ungarn blockiert Verlängerung von EU-Sanktionen gegen Russland",
@@ -129,27 +142,6 @@
       "url": "https://www.zeit.de/politik/ausland/2024-12/eu-gipfel-viktor-orban-sanktionen-russland-blockade",
       "image_url": "https://img.zeit.de/politik/2024-12/eu-gipfel-viktor-orban-sanktionen-russland-blockade-bild/super__430x286",
       "image_title": "EU-Gipfel: A woman walks past a red star installation, with the Kursk regional administration building seen in distance, in Kursk on October 17, 2024. (Photo by Andrey BORODULIN / AFP)"
-    },
-    {
-      "title": "Bundestagswahlkampf : Sahra Wagenknecht nennt Wladimir Putin \"Verbrecher\"",
-      "teaser": "Der BSW-Gründerin wird häufig eine Nähe zu russischen Positionen zum Ukrainekrieg vorgeworfen. Bei einem TV-Auftritt wenige Wochen vor der Wahl distanziert sie sich nun.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-12/sahra-wagenknecht-wladimir-putin-bundestagwahlkampf-ukraine-russland-kreml-verbrecher-kritik",
-      "image_url": "https://img.zeit.de/kultur/2024-12/sahra-wagenknecht-wladimir-putin-bundestagwahlkampf-ukraine-russland-kreml-verbrecher-kritik-bild/super__430x286",
-      "image_title": "Bundestagswahlkampf: \"Markus Lanz - Das Jahr 2024\": Markus Lanz und Sahra Wagenknecht sitzen sich gegenüber und sind im Gespräch. Im Hintergrund sieht man Wolodymyr Selenskyj an einem Rednerpult des Deutschen Bundestages stehen. Rechtehinweis: © Honorarfrei - nur für diese Sendung inkl. SocialMedia bei Nennung ZDF und Markus Hertrich."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Weihnachtsgeld : In diesen Branchen gibt es das meiste Weihnachtsgeld",
-      "teaser": "6.000 Euro Weihnachtsgeld fänden Sie ganz gut? Wir zeigen, welche Branchen am Jahresende besonders großzügig sind – und welche am wenigsten zahlen.",
-      "url": "https://www.zeit.de/wirtschaft/2024-12/weihnachtsgeld-vergleich-hoehe-branchen-statistik",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-12/weihnachtsgeld-vergleich-hoehe-branchen/wide__892x501",
-      "image_title": "Weihnachtsgeld mit Garantie gibt es nur, wenn eine entsprechende Regelung im Arbeitsvertrag, in einer Betriebsvereinbarung oder in einem Tarifvertrag besteht."
-    },
-    {
-      "title": "VW-Tarifverhandlungen : IG Metall spricht von anhaltendem \"Dissens\" in VW-Tarifrunde",
-      "teaser": "VW verhandelt mit der IG Metall über mögliche Werksschließungen und Stellenabbau. Der Gewerkschaft zufolge dauern die Gespräche an – es gebe \"weiterhin Dissens\", hieß es.",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-12/vw-tarifverhandlungen-ig-metall-dissens-andauern",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-12/volkswagen-tarifrunde-bild/super__430x286",
-      "image_title": "VW-Tarifverhandlungen: An employee of German car maker Volkswagen (VW) wears a scarf and a alarm clock with logos of metalworkers' union IG Metall at a rally in front of the Volkswagen headquarters, during a warning strike at the company's main factory in Wolfsburg, northern Germany, on December 9, 2024. (Photo by Ronny HARTMANN / AFP) (Photo by RONNY HARTMANN/AFP via Getty Images)"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); OMV und Russland : Drum prüfe, wer sich ewig bindet",
@@ -166,25 +158,49 @@
       "image_title": "Sexualstrafrecht in der Schweiz: Marianne Heer, 69, war 40 Jahre in der Justiz tätig, zuletzt als Oberrichterin in Luzern. Seit 2021 ist sie pensioniert"
     },
     {
-      "title": "Ukrainekarte aktuell : Russland erobert Gebiete in Kursk zurück",
-      "teaser": "In der russischen Region Kursk ist Russlands Militär weiter vorgedrungen. Auch in den ukrainischen Regionen Charkiw und Donezk besetzen russische Truppen neue Gebiete.",
-      "url": "https://www.zeit.de/politik/ausland/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen-teaserbild/super__430x286",
-      "image_title": "Ukrainekarte aktuell: Russland erobert Gebiete in Kursk zurück"
+      "title": "Z+ (abopflichtiger Inhalt); Gisèle Pelicot : Was von ihr bleibt",
+      "teaser": "Auch Gisèle Pelicot wird gewalttätige Männer wohl nicht dazu bringen, ihr Verhalten zu ändern. Was sie für Frauen erreicht hat, ist dafür umso wirkmächtiger.",
+      "url": "https://www.zeit.de/gesellschaft/2024-12/gisele-pelicot-vergewaltigung-prozess-gerichtsurteil",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-12/urteil-pelicot-bild/wide__892x501",
+      "image_title": "Gisèle Pelicot: Frenchwoman Gisele Pelicot, the victim of an alleged mass rape orchestrated by her husband Dominique Pelicot at their home in the southern French town of Mazan, arrives to attend the trial of Dominique Pelicot with 50 co-accused, at the courthouse in Avignon, France, November 20, 2024."
+    },
+    {
+      "title": "Patriarchale Gewalt : Ministerin Lisa Paus will gegen digitale Gewalt gegen Frauen vorgehen",
+      "teaser": "Gisèle Pelicots berühmte Forderung, die Scham müsse die Seite wechseln, sei ein Auftrag für uns alle, sagt Lisa Paus. Sie fordert, Rechtslücken im Internet zu schließen.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-12/lisa-paus-digitale-gewalt-gegen-frauen-gisele-pelicot",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/lisa-paus-gewalt-gegen-frauen-gisele-pelicot-bild/super__430x286",
+      "image_title": "Patriarchale Gewalt: IMAGO / Metodi Popow Lisa Paus, Bundesministerin für Familie, Senioren, Frauen und Jugend , Deutschland, Berlin, Bundeskanzleramt, Nach Kabinettbefassung: Statement BM‘in Paus und BM‘in Faeser zum Nationalen Aktionsplan Menschenhandel, BM‘in Paus zur Gewaltschutzstrategie *"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Weihnachtsgeld : In diesen Branchen gibt es das meiste Weihnachtsgeld",
+      "teaser": "6.000 Euro Weihnachtsgeld fänden Sie ganz gut? Wir zeigen, welche Branchen am Jahresende besonders großzügig sind – und welche am wenigsten zahlen.",
+      "url": "https://www.zeit.de/wirtschaft/2024-12/weihnachtsgeld-vergleich-hoehe-branchen-statistik",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-12/weihnachtsgeld-vergleich-hoehe-branchen/wide__892x501",
+      "image_title": "Weihnachtsgeld mit Garantie gibt es nur, wenn eine entsprechende Regelung im Arbeitsvertrag, in einer Betriebsvereinbarung oder in einem Tarifvertrag besteht."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Langeweile am Arbeitsplatz : \"Ich kam um neun und war um 10.30 Uhr mit der Arbeit fertig\"",
       "teaser": "Tanja Schnellting begann ihren Arbeitstag als Assistentin mit einem Frühstück, ging spazieren, las, hörte Podcasts. Bis sie merkte, wie frustrierend Langeweile sein kann.",
       "url": "https://www.zeit.de/arbeit/2024-11/langeweile-arbeitsplatz-aufgaben-verantwortung-unterforderung",
-      "image_url": "https://img.zeit.de/arbeit/2024-11/langeweile-arbeitsplatz-aufgaben-verantwortung/wide__892x501",
+      "image_url": "https://img.zeit.de/arbeit/2024-11/langeweile-arbeitsplatz-aufgaben-verantwortung/super__430x286",
       "image_title": "langeweile-arbeitsplatz-aufgaben-verantwortung"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Altersvorsorge • Das Beste aus Z+ : Warum es sich jetzt besonders lohnt, Rentenpunkte zu kaufen",
-      "teaser": "Wer seinen Ruhestand finanziell aufbessern möchte, kann zusätzliche Rentenpunkte erwerben. Im besten Fall jetzt. Denn 2025 wird das teurer.",
-      "url": "https://www.zeit.de/geld/2024-12/rentenpunkte-kaufen-ruhestand-vorsorge-rentenversicherung",
-      "image_url": "https://img.zeit.de/geld/2024-12/rentenpunkte-jahreswechsel/super__430x286",
-      "image_title": "Rentenpunkte Jahreswechsel"
+      "title": "Z+ (abopflichtiger Inhalt); US-Haushaltsstreit : Eine riskante Machtdemonstration",
+      "teaser": "Im US-Haushaltsstreit provoziert Donald Trump einen Shutdown. Das hat mit Elon Musks Druck zu tun – und Trumps Wunsch, eine umstrittene Maßnahme Joe Biden zuzuschieben.",
+      "url": "https://www.zeit.de/politik/ausland/2024-12/usa-trumps-shutdown-kalkuel",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-12/usa-trumps-shutdown-kalkuel-bild/super__430x286",
+      "image_title": "US-Haushaltsstreit: LANDOVER, MARYLAND - DECEMBER 14: (L-R) U.S. Speaker of the House Mike Johnson (R-LA), President-elect Donald Trump, Tesla CEO Elon Musk, Vice President-elect JD Vance and Trump's nominee to be Director of National Intelligence former U.S. Rep. Tulsi Gabbard from Hawaii attend the 125th Army-Navy football game at Northwest Stadium on December 14, 2024 in Landover, Maryland. Trump is attending the game with lawmakers and Cabinet nominees including, Vice President-elect JD Vance, Speaker of the House Mike Johnson (R-LA), Defense Secretary nominee Pete Hegseth, incoming Senate Majority Leader John Thune (R-SD) and others. (Photo by Kevin Dietsch/Getty Images)"
+    },
+    {
+      "title": "Bundesrat : Steuersenkungen und höheres Kindergeld kommen ab Januar",
+      "teaser": "Nach dem Bundestag hat nun auch der Bundesrat zugestimmt: In den kommenden beiden Jahren treten geplante Steuersenkungen in Kraft, auch das Kindergeld wird erhöht.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-12/bundesrat-steuersenkung-kindergeld-erhoehung"
+    },
+    {
+      "title": "Bundesverfassungsgericht : Bundesrat stimmt Reform zum Schutz des Verfassungsgerichts zu",
+      "teaser": "Nach dem Beschluss des Bundestags billigt der Bundesrat eine Grundgesetzänderung des Verfassungsgerichts. Diese soll das Gericht vor antidemokratischen Kräften schützen.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-12/bundesrat-grundgesetz-aenderung-verfassungsgericht"
     },
     {
       "title": "Öffentlicher Nahverkehr : Wissing für dauerhafte Fortführung des Deutschlandtickets",
@@ -194,11 +210,11 @@
       "image_title": "Öffentlicher Nahverkehr: German Minister for Transport and Digital Affairs and of Justice Volker Wissing attends a panel discussion at an economic summit hosted by German newspaper Süddeutsche Zeitung in Berlin on November 12, 2024. (Photo by Tobias SCHWARZ / AFP)"
     },
     {
-      "title": "Nationaler Normenkontrollrat : Bürokratie bei Ampelbeginn laut Regierungsberater \"stark gestiegen\"",
-      "teaser": "Das Heizungsgesetz der Ex-Koalition sei \"enorm bürokratisch\" gewesen, sagt Regierungsberater Lutz Goebel. Zum Bürokratieabbau insgesamt zieht er eine gemischte Bilanz.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-12/nationaler-normenkontrollrat-abbau-buerokratie-gemischte-bilanz",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/buerokratie-bild/super__430x286",
-      "image_title": "Nationaler Normenkontrollrat: Bürokratie bei Ampelbeginn laut Regierungsberater \"stark gestiegen\""
+      "title": "Z+ (abopflichtiger Inhalt); Altersvorsorge • Das Beste aus Z+ : Warum es sich jetzt besonders lohnt, Rentenpunkte zu kaufen",
+      "teaser": "Wer seinen Ruhestand finanziell aufbessern möchte, kann zusätzliche Rentenpunkte erwerben. Im besten Fall jetzt. Denn 2025 wird das teurer.",
+      "url": "https://www.zeit.de/geld/2024-12/rentenpunkte-kaufen-ruhestand-vorsorge-rentenversicherung",
+      "image_url": "https://img.zeit.de/geld/2024-12/rentenpunkte-jahreswechsel/super__430x286",
+      "image_title": "Rentenpunkte Jahreswechsel"
     },
     {
       "title": "Folge 13 : AfD verbieten oder mitregieren lassen?",
@@ -320,6 +336,13 @@
       "image_title": "Sprachnachricht: \"Der nächste Kanzler sollte Friedrich Merz heißen\""
     },
     {
+      "title": "Seoul : Antikorruptionsbehörde lädt Präsident Yoon erneut vor",
+      "teaser": "Zu Wochenbeginn wollte Südkoreas Antikorruptionsbehörde den suspendierten Präsidenten verhören, Yoon erschien aber nicht. Für kommende Woche ist er nun erneut vorgeladen.",
+      "url": "https://www.zeit.de/politik/ausland/2024-12/seoul-erneute-vorladung-yoon-antikorruptionsbehoerde-suedkorea",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-12/yoon-suk-yeol-bild-3/super__430x286",
+      "image_title": "Seoul: Eine Frau zieht eine Karikatur, die den inhaftierten südkoreanischen Präsidenten zeigt, während Demonstranten in der Nähe der Nationalversammlung seine Amtsenthebung fordern, nachdem das Kriegsrecht verhängt wurde. Service +++ dpa-Bildfunk +++ Aufnahmedatum 07.12.2024 Bildnachweis picture alliance/dpa/AP | Ng Han Guan"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Übergewicht bei Kindern : Werden aus dicken Kindern dicke Erwachsene?",
       "teaser": "Irgendwann wird der Babyspeck tatsächlich zum Problem: Die kritische Phase liegt bei Kindern zwischen den Jahren zwei und sechs.",
       "url": "https://www.zeit.de/2024/54/uebergewicht-kinder-fettleibigkeit-erwachsene-adipositas",
@@ -341,13 +364,6 @@
       "image_title": "Elternschaft • Das Beste aus Z+: Nein, nein, nein, nein, nein, nein, nein, nein, NEIN!"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Investmentfonds : Können aktive ETFs den MSCI World schlagen?",
-      "teaser": "Aktive ETFs nutzen beliebte Indizes als Schablone – aber weichen bewusst davon ab. Wir haben geprüft, ob sie wirklich besser performen als die Standard-ETFs.",
-      "url": "https://www.zeit.de/geld/2024-12/investmentfonds-aktive-etfs-geldverbesserer",
-      "image_url": "https://img.zeit.de/geld/2024-12/investmentfonds-aktive-etfs/super__430x286",
-      "image_title": "Investmentfonds: Können aktive ETFs den MSCI World schlagen?"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Leben ohne Enkel : \"Es schmerzt, dass da keine Enkel sind, denen ich Liebe geben kann\"",
       "teaser": "Wie ist es, wenn man Kinder aufzogen hat, diese aber selbst kinderlos bleiben? Drei ältere Menschen erzählen, wie sie mit ihrer Enkellosigkeit umgehen.",
       "url": "https://www.zeit.de/familie/2024-12/leben-ohne-enkel-kinder-alter-alltag",
@@ -360,6 +376,13 @@
       "url": "https://www.zeit.de/mobilitaet/2024-12/lebensdauer-elektroautos-batterie-akku-pflege",
       "image_url": "https://img.zeit.de/mobilitaet/2024-12/lebensdauer-elektroautos-batterie-akku-pflege-bild/super__430x286",
       "image_title": "Lebensdauer von Elektroautos: Detail der Hand eines Mannes mit dem Ladegerät für Elektroautos, in einer öffentlichen Ladestation auf einem Parkplatz"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Low Performer : \"Ich täusche Technikprobleme vor, um nicht angerufen zu werden\"",
+      "teaser": "Sie gehen joggen, sortieren Leergut, schauen TV – während der Arbeitszeit. Zwölf Menschen erzählen, wie sie möglichst wenig arbeiten. Sogar in Führungspositionen.",
+      "url": "https://www.zeit.de/arbeit/2024-04/zeitvertreib-job-freizeit-arbeitszeit-homeoffice-langeweile",
+      "image_url": "https://img.zeit.de/arbeit/2024-04/zeitvertreib-job-freizeit-arbeitszeit-homeoffice-langeweile-2/super__430x286",
+      "image_title": "Low Performer: \"Ich täusche Technikprobleme vor, um nicht angerufen zu werden\""
     },
     {
       "title": "Adventskalender Folge 20 : Der Vertrauensbruch",
@@ -502,10 +525,17 @@
       "image_title": "Adventskalender Folge 1: Schlag ins Gesicht"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Marzipan : Wie man gutes Marzipan erkennt",
+      "teaser": "Lange war Marzipan ein exklusives Luxusprodukt. Heute unterscheiden sich die Preise stark – und durchaus begründet: Es gibt ein Kriterium für hochwertiges Marzipan.",
+      "url": "https://www.zeit.de/zeit-wissen/2025/01/marzipan-qualitaet-zutaten-aroma-preis",
+      "image_url": "https://img.zeit.de/zeit-wissen/2025/01/so-erkennt-man-qualitaet-bild-teaser/wide__892x501",
+      "image_title": "Marzipan: Das beste Marzipan gibt es im Supermarktregal bei den Backzutaten."
+    },
+    {
       "title": "\"Und was machst du am Wochenende?\" : \"Ich habe mich in deutsche Bäckereien verliebt\"",
       "teaser": "Yotam Ottolenghi, Koch, Besitzer einer Restaurantkette und Bestsellerautor, verrät seine Lieblingsrezepte für ein gemütliches Abendessen mit Freundinnen und Freunden.",
       "url": "https://www.zeit.de/entdecken/2024-12/yotam-ottolenghi-rezepte-wochenende-tipps-podcast",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-12/yotam-ottolenghi-rezepte-wochenende-tipps/wide__892x501",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-12/yotam-ottolenghi-rezepte-wochenende-tipps/super__430x286",
       "image_title": "yotam-ottolenghi-rezepte-wochenende-tipps"
     },
     {
@@ -533,16 +563,11 @@
       "url": "https://www.zeit.de/2024/54/gisele-pelicot-vergewaltigung-gerichtsverfahren-hintermaenner"
     },
     {
-      "title": "Gisèle Pelicot : Gericht verurteilt Dominique Pelicot zu 20 Jahren Haft",
-      "teaser": "Wegen des Missbrauchs seiner Ex-Frau hat das Strafgericht in Avignon Dominique Pelicot zu 20 Jahren Haft verurteilt. Alle 51 Angeklagten wurden schuldig gesprochen.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-12/dominique-pelicot-im-vergewaltigungsprozess-schuldig-gesprochen",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-12/gisele-pelicot-bild-2/super__430x286",
-      "image_title": "Gisèle Pelicot: AVIGNON, FRANCE - DECEMBER 19: Gisele Pelicot arrives with her lawyer Antoine Camus (R) in front of the courthouse before a verdict in the Pelicot case is delivered on December 19, 2024 in Avignon, France. Gisele Pelicot's ex-husband and 50 other men were charged with raping her over a multiyear period, in encounters arranged by her then husband while she was drugged and unconscious. (Photo by Julien Goldstein/Getty Images)"
-    },
-    {
       "title": "Dubai-Schokolade : Lebensmittelaufsicht warnt vor importierter Dubai-Schokolade",
       "teaser": "Die Dubai-Schokolade wurde durch TikTok und Instagram zum Verkaufsschlager. Erste Tests der teuren Schokolade in Laboren sind jedoch besorgniserregend.",
-      "url": "https://www.zeit.de/gesellschaft/2024-12/dubai-schokolade-untersuchungen-labor-verunreinigungen"
+      "url": "https://www.zeit.de/gesellschaft/2024-12/dubai-schokolade-untersuchungen-labor-verunreinigungen",
+      "image_url": "https://img.zeit.de/gesundheit/2024-12/dubai-schokolade-import-bild/super__430x286",
+      "image_title": "Dubai-Schokolade: Foodtrend aus Dubai: Die sogenannte Dubai-Schokolade ist eine neue, luxuriöse Variante der Vollmilchschokolade. Sie ist mit Pistaziencreme und Engelshaar gefüllt. (zu dpa: «Vorsicht bei importierter Dubai-Schokolade») +++ dpa-Bildfunk +++"
     },
     {
       "title": "Ukraine-Krieg : Putin prahlt mit stabiler russischer Wirtschaftslage trotz Sanktionen",
@@ -550,35 +575,40 @@
       "url": "https://www.zeit.de/politik/ausland/2024-12/russische-wirtschaft-stabil"
     },
     {
-      "title": "Gisèle Pelicot : Gericht verurteilt Dominique Pelicot zu 20 Jahren Haft",
-      "teaser": "Wegen des Missbrauchs seiner Ex-Frau hat das Strafgericht in Avignon Dominique Pelicot zu 20 Jahren Haft verurteilt. Alle 51 Angeklagten wurden schuldig gesprochen.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-12/dominique-pelicot-im-vergewaltigungsprozess-schuldig-gesprochen",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-12/gisele-pelicot-bild-2/super__430x286",
-      "image_title": "Gisèle Pelicot: AVIGNON, FRANCE - DECEMBER 19: Gisele Pelicot arrives with her lawyer Antoine Camus (R) in front of the courthouse before a verdict in the Pelicot case is delivered on December 19, 2024 in Avignon, France. Gisele Pelicot's ex-husband and 50 other men were charged with raping her over a multiyear period, in encounters arranged by her then husband while she was drugged and unconscious. (Photo by Julien Goldstein/Getty Images)"
+      "title": "Bundestagswahlkampf : Sahra Wagenknecht nennt Wladimir Putin \"Verbrecher\"",
+      "teaser": "Der BSW-Gründerin wird häufig eine Nähe zu russischen Positionen zum Ukrainekrieg vorgeworfen. Bei einem TV-Auftritt wenige Wochen vor der Wahl distanziert sie sich nun.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-12/sahra-wagenknecht-wladimir-putin-bundestagwahlkampf-ukraine-russland-kreml-verbrecher-kritik"
     },
     {
       "title": "Bundestagswahl : Deutsche bewerten alle Kanzlerkandidaten mehrheitlich negativ",
       "teaser": "Die vier Kanzlerkandidaten kommen im ARD-Deutschlandtrend nicht gut weg. Nur 28 Prozent halten Friedrich Merz für einen guten Kanzler, knapp dahinter folgt Robert Habeck.",
-      "url": "https://www.zeit.de/politik/2024-12/deutschlandtrend-kanzlerkandidaten-friedrich-merz"
+      "url": "https://www.zeit.de/politik/2024-12/deutschlandtrend-kanzlerkandidaten-friedrich-merz",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/deutschlandtrend-kanzlerkandidaten-friedrich-merz-bild/super__430x286",
+      "image_title": "Bundestagswahl: Friedrich Merz, CDU Bundesvorsitzender und CDUCSU Fraktionsvorsitzender im Bundestag und Unions-Kanzlerkandidat, aufgenommen bei einem Interview mit der dpa Deutsche Presse-Agentur."
     },
     {
       "title": "Ukraine-Krieg : Putin prahlt mit stabiler russischer Wirtschaftslage trotz Sanktionen",
       "teaser": "Die umfangreichen westlichen Sanktionen scheinen die russische Wirtschaft kaum zu treffen. Dem russischen Präsidenten zufolge wächst das Bruttoinlandsprodukt sogar.",
       "url": "https://www.zeit.de/politik/ausland/2024-12/russische-wirtschaft-stabil"
+    },
+    {
+      "title": "Bundestagswahlkampf : Robert Habeck schließt erneute Koalition mit FDP nicht aus",
+      "teaser": "\"Gelebte Regierungsunfähigkeit\": Nach dem Ampel-Aus geht Vizekanzler Habeck hart mit der FDP ins Gericht. Ein neues Bündnis mit ihr schließt er aber nicht aus.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-12/robert-habeck-christian-lindner-ampel-aus-sabotage-bundestagswahlkampf-koalition"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Modellbau : \"Wenn ich in meiner Werkstatt bin, verliere ich das Zeitgefühl\"",
+      "teaser": "Wolf-Rüdiger Berdrow, 76, baut in seinem Keller Modellboote. Und verflucht manchmal das elende Gefrickel.",
+      "url": "https://www.zeit.de/2024/50/modellbau-boote-schiffe-hamburg-hobby",
+      "image_url": "https://img.zeit.de/2024/50/wolf-ruediger-berdrow-76-baut-in-seinem-keller-in-schnelsen-modellboote-und-verflucht-manchmal-das-e-bild-1/wide__892x501",
+      "image_title": "Modellbau: \"Wenn ich in meiner Werkstatt bin, verliere ich das Zeitgefühl\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"All We Imagine As Light\" : Ein Abschied, ein Wiedersehen, ein Kuss",
       "teaser": "Dieser indische Film könnte es bis zu den Oscars schaffen: \"All We Imagine As Light\" schickt die drei Heldinnen auf eine Reise zur Freundschaft – und an den Strand.",
       "url": "https://www.zeit.de/2024/54/all-we-imagine-as-light-film-indien-oscars",
-      "image_url": "https://img.zeit.de/2024/54/in-diesem-film-ist-alles-licht-bild-1/wide__892x501",
+      "image_url": "https://img.zeit.de/2024/54/in-diesem-film-ist-alles-licht-bild-1/super__430x286",
       "image_title": "\"All We Imagine As Light\": Ein Reiskocher made in Germany, aus der Ferne geschickt vom Ehemann – Kani Kusruti und Divya Prabha als WG-Genossinnen"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Gisèle Pelicot : Die Siegerin von Avignon",
-      "teaser": "Im Missbrauchsprozess sind die Urteile gesprochen, die Täter zu hohen Strafen verurteilt. Doch während Gisèle Pelicot bejubelt wird, fühlt sich eine Frau als Vergessene.",
-      "url": "https://www.zeit.de/gesellschaft/2024-12/vergewaltigungsprozess-gisele-pelicot-avignon-urteil-gericht",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-12/vergewaltigungsprozess-gisele-pelicot-avignon-urteil-gericht-bild/super__430x286",
-      "image_title": "Gisèle Pelicot: Gisele Pelicot leaves the courthouse after hearing the verdict of the court that sentenced her ex-husband to the maximum term of 20 years jail for committing and orchestrating her mass rapes with dozens of strangers he recruited online, in Avignon on December 19, 2024. Dominique Pelicot, who had already confessed to the crimes, was earlier found guilty by the court in the southern city of Avignon after an over three-month trial that shocked France and turned his former wife Gisele into a feminist hero. His 50 co-defendants in the case were also convicted by the court, with no acquittals. (Photo by Miguel MEDINA / AFP) (Photo by MIGUEL MEDINA/AFP via Getty Images)"
     },
     {
       "title": "Verlagsangebot : 8 Weihnachtsmärkte, die Sie (wahrscheinlich) noch nicht kennen",
@@ -595,11 +625,11 @@
       "image_title": "Fragen Sie ZEIT ONLINE: Haben Sie ein Thema verpasst?"
     },
     {
-      "title": "\"Open Arms\" : Urteil über mögliche Gefängnisstrafe für Matteo Salvini erwartet",
-      "teaser": "Ein Gericht entscheidet über eine mögliche Haft von Italiens Vizeministerpräsidenten. Salvini wird vorgeworfen, ein Seenotrettungsschiff am Einlaufen gehindert zu haben.",
-      "url": "https://www.zeit.de/politik/ausland/2024-12/open-arms-seenotrettung-italien-salvini-urteil",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-12/matteo-salvini-bild/wide__892x501",
-      "image_title": "\"Open Arms\": epa11616941 Italian Minister of Infrastructure and Transport and League party leader Matteo Salvini stands behind a sign reading 'Defend the limits' in Milan, Italy, 21 September 2024. On 20 September, civil plaintiffs' lawyers in the criminal trial against Salvini in the Open Arms case requested the Palermo court to order him to pay over one million euros. Prosecutors have requested a six-year prison term for Salvini for preventing an Open Arms boat from docking in Lampedusa port in August 2019, during his tenure as interior minister. EPA-EFE/MOURAD BALTI TOUATI"
+      "title": "Ukrainekarte aktuell : Russland erobert Gebiete in Kursk zurück",
+      "teaser": "In der russischen Region Kursk ist Russlands Militär weiter vorgedrungen. Auch in den ukrainischen Regionen Charkiw und Donezk besetzen russische Truppen neue Gebiete.",
+      "url": "https://www.zeit.de/politik/ausland/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen-teaserbild/wide__892x501",
+      "image_title": "Ukrainekarte aktuell: Russland erobert Gebiete in Kursk zurück"
     },
     {
       "title": "Verlagsangebot : Quiz: Die spinnen, die Briten!",
@@ -609,18 +639,18 @@
       "image_title": "Quiz: Die spinnen, die Briten!"
     },
     {
-      "title": "Politikpodcast : \"Wenn mir etwas in diesem Jahr Hoffnung macht, dann Syrien\"",
-      "teaser": "Wie sieht die Welt auf die Welt? Und was daran übersehen wir möglicherweise hier im Westen, in Deutschland? \"Das Politikteil live\" mit dem Publizisten Navid Kermani",
-      "url": "https://www.zeit.de/politik/2024-12/navid-kermani-in-die-andere-richtung-jetzt-politikpodcast",
-      "image_url": "https://img.zeit.de/politik/2024-12/avid-kermani-in-die-andere-richtung-jetzt/super__430x286",
-      "image_title": "Politikpodcast: J¸disches Leben in Deutschland und anderswo. Im Bild Prof. PD Dr. Navid Kermani, Schriftsteller und Orientalist, im Anschluss an die Podiumsdiskussion. Im Stiftersaal des Wallraf-Richartz-Museums fand das forum 321 statt, dessen Teilnehmer sich mit j¸dischem Leben in Kˆln und den aktuellen Ereignissen im Nahen Osten befassten. Kˆln Nordrhein-Westfalen Deutschland *** Jewish life in Germany and elsewhere In the picture Prof PD Dr Navid Kermani, writer and orientalist, following the panel discussion Forum 321 took place in the Stiftersaal of the Wallraf Richartz Museum, with participants discussing Jewish life in Cologne and current events in the Middle East Cologne North Rhine-Westphalia Germany"
+      "title": "Nationaler Normenkontrollrat : Bürokratie bei Ampelbeginn laut Regierungsberater \"stark gestiegen\"",
+      "teaser": "Das Heizungsgesetz der Ex-Koalition sei \"enorm bürokratisch\" gewesen, sagt Regierungsberater Lutz Goebel. Zum Bürokratieabbau insgesamt zieht er eine gemischte Bilanz.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-12/nationaler-normenkontrollrat-abbau-buerokratie-gemischte-bilanz",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/buerokratie-bild/super__430x286",
+      "image_title": "Nationaler Normenkontrollrat: Bürokratie bei Ampelbeginn laut Regierungsberater \"stark gestiegen\""
     },
     {
-      "title": "Arbeitsgericht Braunschweig : Manager fordern Schadensersatz von Volkswagen",
-      "teaser": "Zwei VW-Manager wollen ihren Arbeitgeber über Missstände informiert haben – und fühlten sich dann unter Druck gesetzt. Vor Gericht geht es um 7,5 Millionen Euro.",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-12/vw-manager-arbeitsgericht-schadensersatzklage",
-      "image_url": "https://img.zeit.de/2024-12/vw-manager-forderung-schadensersatz-bild/wide__892x501",
-      "image_title": "Arbeitsgericht Braunschweig: An overview shows the main factory of German car maker Volkswagen (VW) headquarters, as employees attend a rally of the metalworkers' union IG Metall during a warning strike in Wolfsburg, northern Germany, on December 9, 2024. (Photo by Martin Meissner / POOL / AFP) (Photo by MARTIN MEISSNER/POOL/AFP via Getty Images)"
+      "title": "VW-Tarifverhandlungen : IG Metall spricht von anhaltendem \"Dissens\" in VW-Tarifrunde",
+      "teaser": "VW verhandelt mit der IG Metall über mögliche Werksschließungen und Stellenabbau. Der Gewerkschaft zufolge dauern die Gespräche an – es gebe \"weiterhin Dissens\", hieß es.",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-12/vw-tarifverhandlungen-ig-metall-dissens-andauern",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-12/volkswagen-tarifrunde-bild/wide__892x501",
+      "image_title": "VW-Tarifverhandlungen: An employee of German car maker Volkswagen (VW) wears a scarf and a alarm clock with logos of metalworkers' union IG Metall at a rally in front of the Volkswagen headquarters, during a warning strike at the company's main factory in Wolfsburg, northern Germany, on December 9, 2024. (Photo by Ronny HARTMANN / AFP) (Photo by RONNY HARTMANN/AFP via Getty Images)"
     },
     {
       "title": "Verlagsangebot : Risotto – ein Alleskönner",
@@ -630,11 +660,11 @@
       "image_title": "Risotto – ein Alleskönner"
     },
     {
-      "title": "Autoindustrie : EU-Kommission will Dialog mit Autoindustrie im Januar starten",
-      "teaser": "Die europäische Autoindustrie gerät durch Konkurrenz aus den USA und China zunehmend unter Druck. In Brüssel soll deshalb bald ein Gesprächsformat starten.",
-      "url": "https://www.zeit.de/politik/2024-12/auto-dialog-eu-kommission-januar",
-      "image_url": "https://img.zeit.de/2024-12/auto-dialog-eu-kommission-januar-bild/super__430x286",
-      "image_title": "Autoindustrie: Ford Elektroautos vom Typ Explorer stehen beim Produktionsstart in der Halle. Es ist das erste Elektroauto von Ford aus Europa. In den Kölner Produktionsstandort wurden rund zwei Milliarden Euro investiert."
+      "title": "Arbeitsgericht Braunschweig : Manager fordern Schadensersatz von Volkswagen",
+      "teaser": "Zwei VW-Manager wollen ihren Arbeitgeber über Missstände informiert haben – und fühlten sich dann unter Druck gesetzt. Vor Gericht geht es um 7,5 Millionen Euro.",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-12/vw-manager-arbeitsgericht-schadensersatzklage",
+      "image_url": "https://img.zeit.de/2024-12/vw-manager-forderung-schadensersatz-bild/super__430x286",
+      "image_title": "Arbeitsgericht Braunschweig: An overview shows the main factory of German car maker Volkswagen (VW) headquarters, as employees attend a rally of the metalworkers' union IG Metall during a warning strike in Wolfsburg, northern Germany, on December 9, 2024. (Photo by Martin Meissner / POOL / AFP) (Photo by MARTIN MEISSNER/POOL/AFP via Getty Images)"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Krankenversicherung : So finden Sie eine günstige Krankenkasse",
@@ -644,18 +674,18 @@
       "image_title": "Krankenversicherung: So finden Sie eine günstige Krankenkasse"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Investmentfonds : Können aktive ETFs den MSCI World schlagen?",
+      "teaser": "Aktive ETFs nutzen beliebte Indizes als Schablone – aber weichen bewusst davon ab. Wir haben geprüft, ob sie wirklich besser performen als die Standard-ETFs.",
+      "url": "https://www.zeit.de/geld/2024-12/investmentfonds-aktive-etfs-geldverbesserer",
+      "image_url": "https://img.zeit.de/geld/2024-12/investmentfonds-aktive-etfs/super__430x286",
+      "image_title": "Investmentfonds: Können aktive ETFs den MSCI World schlagen?"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); ETF-Sparplan : So finden Sie die perfekten Begleiter für den MSCI World",
       "teaser": "Breit gestreute Welt-ETFs gelten als Universalanlage. Es gibt aber gute Gründe, sie mit Wetten auf einzelne Länder oder Branchen zu ergänzen. Was Anleger beachten müssen.",
       "url": "https://www.zeit.de/2024/53/etf-sparplan-msci-world-aktienindex-risiko-streuung",
       "image_url": "https://img.zeit.de/2024/53/etf-sparplan-msci-world-aktienindex-risiko-streuung-teaserbild/super__430x286",
       "image_title": "ETF-Sparplan: Wie viele Satelliten im Depot Platz finden können, hänge davon ab, wie viel Raum der Kern einnehmen soll."
-    },
-    {
-      "title": "Anzeige : Nachhaltig wirtschaften? Fangen Sie bei Ihrem Konto an!",
-      "teaser": "Ob groß oder klein, ob Handwerk, Verein, Hofladen, Onlineshop oder IT-Unternehmen – mit dem GLS Geschäftskonto nachhaltige Werte im Geschäftsalltag durchsetzen.",
-      "url": "https://www.zeit.de/angebote/gls-konto/nachhaltig-wirtschaften",
-      "image_url": "https://img.zeit.de/angebote/gls-konto/gls-nachhaltig-wirtschaften-artikelbild-neu/super__430x286",
-      "image_title": "Nachhaltig wirtschaften? Fangen Sie bei Ihrem Konto an!"
     },
     {
       "title": "Arbeitskampf : Tarifverhandlungen zwischen VW und IG Metall dauern an",
@@ -700,6 +730,13 @@
       "image_title": "Weihnachtsspezial: Der ZEIT-ONLINE-Bibelpodcast mit Sabine Rückert und Johanna Haberer"
     },
     {
+      "title": "Politikpodcast : \"Wenn mir etwas in diesem Jahr Hoffnung macht, dann Syrien\"",
+      "teaser": "Wie sieht die Welt auf die Welt? Und was daran übersehen wir möglicherweise hier im Westen, in Deutschland? \"Das Politikteil live\" mit dem Publizisten Navid Kermani",
+      "url": "https://www.zeit.de/politik/2024-12/navid-kermani-in-die-andere-richtung-jetzt-politikpodcast",
+      "image_url": "https://img.zeit.de/politik/2024-12/avid-kermani-in-die-andere-richtung-jetzt/super__320x213",
+      "image_title": "Politikpodcast: J¸disches Leben in Deutschland und anderswo. Im Bild Prof. PD Dr. Navid Kermani, Schriftsteller und Orientalist, im Anschluss an die Podiumsdiskussion. Im Stiftersaal des Wallraf-Richartz-Museums fand das forum 321 statt, dessen Teilnehmer sich mit j¸dischem Leben in Kˆln und den aktuellen Ereignissen im Nahen Osten befassten. Kˆln Nordrhein-Westfalen Deutschland *** Jewish life in Germany and elsewhere In the picture Prof PD Dr Navid Kermani, writer and orientalist, following the panel discussion Forum 321 took place in the Stiftersaal of the Wallraf Richartz Museum, with participants discussing Jewish life in Cologne and current events in the Middle East Cologne North Rhine-Westphalia Germany"
+    },
+    {
       "title": "USA : Donald Trump und die \"Fake-News-Medien\"",
       "teaser": "Er nennt sie \"Feinde des Volkes\" und feiert sich dennoch auf dem \"Time\"-Titel: Im US-Podcast diskutieren wir über Trumps Verhältnis zu Medien – und womit er ihnen droht.",
       "url": "https://www.zeit.de/politik/ausland/2024-12/donald-trump-usa-medien-ok-america",
@@ -733,13 +770,6 @@
       "url": "https://www.zeit.de/entdecken/2024-12/dinner-gastfreundlichkeit-optimierungspodcast",
       "image_url": "https://img.zeit.de/entdecken/2024-08/geht-da-noch-was-podcast-lisa-rose-2024/super__320x213",
       "image_title": "Optimierungspodcast: Wie Sie das perfekte Dinner servieren"
-    },
-    {
-      "title": "Vizekanzler Robert Habeck : \"Auch wenn alles funktioniert, bleibt der Populismus gefährlich.\"",
-      "teaser": "Robert Habeck ist zu Gast bei \"Ehrlich jetzt?\". Der grüne Kanzlerkandidat sagt, was gegen populistische Verlockungen hilft. Und warum das Ehrenamt unverzichtbar ist.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-12/robert-habeck-politikpodcast-ehrlich-jetzt",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/robert-habeck-politikpodcast-ehrlich-jetzt-bild03/super__320x213",
-      "image_title": "Vizekanzler Robert Habeck: \"Auch wenn alles funktioniert, bleibt der Populismus gefährlich.\""
     },
     {
       "title": "Steigende Sozialabgaben : Die Beitragsbombe kommt erst noch",
@@ -777,11 +807,11 @@
       "image_title": "Vorwurf des Menschenhandels: Andrew Tate (L) and his brother Tristan Tate are pictured inside The Court of Appeal in Bucharest, Romania, on December 10, 2024. The US-born Briton, Andrew, and his brother Tristan, who say they are innocent, are accused of having formed an organised criminal network in early 2021 in Romania and in Britain. Prosecutors allege that the brothers and two women set up a criminal organisation and sexually exploited several victims. (Photo by Daniel MIHAILESCU / AFP) (Photo by DANIEL MIHAILESCU/AFP via Getty Images)"
     },
     {
-      "title": "Ostsee : Polizisten betreten nach Kabelschäden verdächtiges chinesisches Schiff",
-      "teaser": "Nach Schäden an zwei Tiefseekabeln sprach Boris Pistorius von mutmaßlicher Sabotage. Bei den Ermittlungen arbeitet die Bundespolizei mit chinesischen Beamten zusammen.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-12/ostsee-kabelschaeden-bundespolizei-chinesisches-schiff",
-      "image_url": "https://img.zeit.de/2024-12/chinesisches-schiff-kabelschaeden-bild/super__430x286",
-      "image_title": "Ostsee: Das chinesische Schiff, der Massengutfrachter «Yi Peng 3», liegt im Kattegat nahe der Stadt Granaa vor Anker. Nach dem Beginn der Ermittlungen zu den Schäden an zwei Kommunikationskabeln in der Ostsee und einer möglichen Verbindung zu einem chinesischen Schiff hat sich Peking zunächst bedeckt gehalten."
+      "title": "Z+ (abopflichtiger Inhalt); Gisèle Pelicot : Die Siegerin von Avignon",
+      "teaser": "Im Missbrauchsprozess sind die Urteile gesprochen, die Täter zu hohen Strafen verurteilt. Doch während Gisèle Pelicot bejubelt wird, fühlt sich eine Frau als Vergessene.",
+      "url": "https://www.zeit.de/gesellschaft/2024-12/vergewaltigungsprozess-gisele-pelicot-avignon-urteil-gericht",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-12/vergewaltigungsprozess-gisele-pelicot-avignon-urteil-gericht-bild/super__430x286",
+      "image_title": "Gisèle Pelicot: Gisele Pelicot leaves the courthouse after hearing the verdict of the court that sentenced her ex-husband to the maximum term of 20 years jail for committing and orchestrating her mass rapes with dozens of strangers he recruited online, in Avignon on December 19, 2024. Dominique Pelicot, who had already confessed to the crimes, was earlier found guilty by the court in the southern city of Avignon after an over three-month trial that shocked France and turned his former wife Gisele into a feminist hero. His 50 co-defendants in the case were also convicted by the court, with no acquittals. (Photo by Miguel MEDINA / AFP) (Photo by MIGUEL MEDINA/AFP via Getty Images)"
     },
     {
       "title": "Film und Fernsehen : Bundestag beschließt neues Filmfördergesetz",
@@ -1062,11 +1092,11 @@
       "image_title": "Studieren in den USA: Als sich Jalen Crespo, 24, am Albert Einstein College bewarb, wusste er noch nicht, dass er dort keine Studiengebühren mehr zahlen würde. »Dank Ruth Gottesman lebe ich jeden Tag meinen Traum«, sagt er heute."
     },
     {
-      "title": "Verlagsangebot : Durchblick im Studiendschungel",
-      "teaser": "Bei 20.000 möglichen Studiengängen in Deutschland verliert man schnell den Überblick. Unterstützung bietet die Suchmaschine für Studiengänge und Hochschulen.",
-      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.whiteboard_studiendschungel.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_whiteboard_studiendschungel_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-3-klein/man-wearing-black-and-white-stripe-shirt-looking-at-white-197.jpg",
-      "image_title": "Durchblick im Studiendschungel"
+      "title": "Verlagsangebot : Welcher Studiengang passt zu mir?",
+      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
+      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.bildtext.allein.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=campus-verlagsteaser&amp;utm_content=sit_bildtext_allein_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/sit-gruppe/wide__430x286__desktop",
+      "image_title": "Welcher Studiengang passt zu mir?"
     },
     {
       "title": "Conference League : Heidenheim muss nach Remis gegen St. Gallen in Play-offs",
@@ -1097,36 +1127,36 @@
       "image_title": "Veganes Weihnachtsessen: Auf den ersten Blick ein typisches Weihnachtsessen – und doch ist dies aus der Fleischerei von Benjamin Amshoff alles andere als typisch."
     },
     {
-      "title": "Darts in London: Imitator braucht WM-Erfolg - Schindler und der Ally Pally",
-      "url": "https://www.zeit.de/news/2024-12/20/imitator-braucht-wm-erfolg-schindler-und-der-ally-pally"
+      "title": "Lkw umgekippt: Lkw-Fahrer stirbt nach Unfall am Frankfurter Kreuz",
+      "url": "https://www.zeit.de/news/2024-12/20/frankfurter-kreuz-nach-unfall-teilweise-gesperrt"
     },
     {
-      "title": "Buntes: Marke von verstorbenem Hund bringt Frauchen Schlüssel zurück",
-      "url": "https://www.zeit.de/news/2024-12/20/marke-von-verstorbenem-hund-bringt-frauchen-schluessel-zurueck"
+      "title": "Bundesrat: Ab Januar Steuer-Minus und Kindergeld-Plus",
+      "url": "https://www.zeit.de/news/2024-12/20/steuer-minus-und-kindergeld-plus-geben-die-laender-ihr-ok"
     },
     {
-      "title": "Wetter: Stürmisches Wetter in den Tagen vor Weihnachten",
-      "url": "https://www.zeit.de/news/2024-12/20/stuermisches-wetter-in-den-tagen-vor-weihnachten"
+      "title": "Soziale Kompetenz: Neues Programm in NRW soll Schüler seelisch stärken",
+      "url": "https://www.zeit.de/news/2024-12/20/neues-programm-in-nrw-soll-schueler-seelisch-staerken"
     },
     {
-      "title": "Kritik an Rechtslücken: Paus will digitale Gewalt gegen Frauen bekämpfen",
-      "url": "https://www.zeit.de/news/2024-12/20/paus-will-digitale-gewalt-gegen-frauen-bekaempfen"
+      "title": "Finanzierung für 2025: Bundestag stimmt Absicherung des Deutschlandtickets zu",
+      "url": "https://www.zeit.de/news/2024-12/20/bundestag-stimmt-absicherung-des-deutschlandtickets-zu"
     },
     {
-      "title": "Kriminalität: Überfall auf Münchner Juwelier - hohe Beute",
-      "url": "https://www.zeit.de/news/2024-12/20/raeuber-ueberfallen-muenchner-juwelier-in-der-daemmerung"
+      "title": "Emotionale Nachricht: Nach WM-Aus: Darter Clemens berichtet von Hass-Nachrichten",
+      "url": "https://www.zeit.de/news/2024-12/20/nach-wm-aus-darter-clemens-berichtet-von-hass-nachrichten"
     },
     {
-      "title": "250 Kilogramm schwer: Weltkriegsbombe in Schwarzheide wird entschärft",
-      "url": "https://www.zeit.de/news/2024-12/20/weltkriegsbombe-in-schwarzheide-wird-entschaerft"
+      "title": "Zur Versorgung Neugeborener: In Göttingen kann jetzt Muttermilch gespendet werden",
+      "url": "https://www.zeit.de/news/2024-12/20/in-goettingen-kann-jetzt-muttermilch-gespendet-werden"
     },
     {
-      "title": "Freistellungen und Zuschläge: Fast jeder Zehnte muss an Heiligabend arbeiten",
-      "url": "https://www.zeit.de/news/2024-12/20/fast-jeder-zehnte-muss-an-heiligabend-arbeiten"
+      "title": "Gesundheit: Vergleichsportal: Mehrheit der Krankenkassen erhöht Beitrag",
+      "url": "https://www.zeit.de/news/2024-12/20/vergleichsportal-mehrheit-der-krankenkassen-erhoeht-beitrag"
     },
     {
-      "title": "Schöneberg: Fünf Verletzte nach Autounfall mit Taxi",
-      "url": "https://www.zeit.de/news/2024-12/20/fuenf-verletzte-nach-autounfall-mit-taxi"
+      "title": "Statistik: \"Christkinder\" - Relativ wenige Babys an Heiligabend geboren",
+      "url": "https://www.zeit.de/news/2024-12/20/christkinder-relativ-wenige-babys-an-heiligabend-geboren"
     }
   ]
 }
