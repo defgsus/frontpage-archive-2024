@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-12-22T05:00:52",
+  "timestamp": "2024-12-22T06:09:00",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -110,10 +116,17 @@
   ],
   "articles": [
     {
+      "title": "Z+ (abopflichtiger Inhalt); Weihnachtsmarkt Magdeburg : Trauer und Wut",
+      "teaser": "Besuche von Spitzenpolitikern und eine Gedenkfeier im Dom sollen nach dem Anschlag in Magdeburg der Trauer Raum geben. Doch es zeigt sich auch eine hässliche Seite.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-12/weihnachtsmarkt-magdeburg-anschlag-demonstrationen",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/weihnachtsmarkt-magdeburg-anschlag-demonstrationen-bild-1/wide__1000x562",
+      "image_title": "Weihnachtsmarkt Magdeburg: Trauer und Wut"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Anschlag auf Weihnachtsmarkt : \"Unbestritten der aggressivste Islamkritiker\"",
       "teaser": "Wer ist der Mann, der den Anschlag auf einen Weihnachtsmarkt in Magdeburg verübt haben soll? Unser Autor hat ihn vor einem Jahr zu einem vierstündigen Gespräch getroffen.",
       "url": "https://www.zeit.de/politik/deutschland/2024-12/taeter-anschlag-weihnachtsmarkt-magdeburg",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/taeter-anschlag-weihnachtsmarkt/wide__1000x562",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/taeter-anschlag-weihnachtsmarkt/super__430x286",
       "image_title": "Anschlag auf Weihnachtsmarkt: Screenshot von Taleb A. und das Fachklinikum Bernburg, wo er alds Arzt gearbeitet hat"
     },
     {
@@ -122,13 +135,6 @@
       "url": "https://www.zeit.de/politik/deutschland/2024-12/magdeburg-weihnachtsmarkt-live",
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-12/magdeburg-weihnachtsmarkt-live-bild-haftbefehl/super__430x286",
       "image_title": "Magdeburg: Ein Absperrband der Polizei hängt vor dem Eingang zum Weihnachtsmarkt. Auf dem Weihnachtsmarkt in Magdeburg ist ein Autofahrer in eine Menschengruppe gefahren. Service +++ dpa-Bildfunk +++ Aufnahmedatum 21.12.2024 Bildnachweis picture alliance/dpa | Sebastian Kahnert"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Magdeburg : Heute trauern sie",
-      "teaser": "Nach dem Anschlag in Magdeburg vergisst die Bundespolitik den Wahlkampf. In der Stadt geht es um die Deutungshoheit einer Tat, an der es noch nichts zu deuten gibt.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-12/magdeburg-weihnachtsmarkt-taeter-reaktionen-reportage",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/magdeburg-weihnachtsmarkt-taeter-reaktionen-10/super__430x286",
-      "image_title": "Magdeburg: Buergerinnen und Buerger trauern am Gedenkort an der Johanniskirche in der Naehe des Tatorts, 21.12.2024"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Magdeburg : Wie der Attentäter Lücken in Absperrungen nutzte",
@@ -159,11 +165,25 @@
       "image_title": "PUK-Bericht zur Credit Suisse: President of the Swiss parliamentary inquiry committee Isabelle Chassot speaks to media after a press conference, following the publication of a parliamentary report on how authorities managed the 2023 collapse of Credit Suisse and takeover by UBS, at the Swiss House of Parliament in Bern on December 20, 2024. Switzerland's financial regulator was ineffective in tackling the scandals at Credit Suisse, where executive mismanagement scuppered the bank and nearly triggered a global financial crisis, a Swiss inquiry concluded on December 20, 2024. (Photo by GABRIEL MONNET / AFP) (Photo by GABRIEL MONNET/AFP via Getty Images)"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Elon Musk : Der Geist, den sie riefen",
-      "teaser": "Elon Musk unterstützt nun offen die AfD. Christian Lindner will sich dennoch mit ihm treffen. Das ist geschichtsblinder Opportunismus, der Autokraten erst stark macht.",
-      "url": "https://www.zeit.de/kultur/2024-12/elon-musk-afd-unterstuetzung-christian-lindner-autokraten",
-      "image_url": "https://img.zeit.de/kultur/2024-12/elon-musk-afd-unterstuetzung-christian-lindner-2/wide__892x501",
-      "image_title": "Elon Musk: Der Geist, den sie riefen"
+      "title": "Z+ (abopflichtiger Inhalt); Kartenzahlung : CASH ONLY! Steuerhinterziehung only?",
+      "teaser": "Viele Restaurants, Bars und Cafés verweigern sich der Kartenzahlung, obwohl Kunden sie sich wünschen. Angeblich wegen der hohen Kosten. Wir haben geprüft, ob das stimmt.",
+      "url": "https://www.zeit.de/wirtschaft/2024-12/kartenzahlung-bargeld-restaurants-gastronomie-kunden",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-12/kartenzahlung-bargeld-restaurants-gastronomie-kunden-bild/wide__892x501",
+      "image_title": "Kartenzahlung: CASH ONLY! Steuerhinterziehung only?"
+    },
+    {
+      "title": "Bündnis Sahra Wagenknecht : BSW fordert in Wahlprogramm Mindestrente und Corona-Amnestie",
+      "teaser": "Mindestrente, Mietendeckel, ein Nein zu einer EU-Mitgliedschaft der Ukraine: Mit solchen Forderungen will das BSW laut einem Bericht in die Bundestagswahl ziehen.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-12/bsw-wahlprogramm-bundestagswahl-sahra-wagenknecht",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/bsw-wahlprogramm-bundestagswahl-sahra-wagenknecht-bild/super__430x286",
+      "image_title": "Bündnis Sahra Wagenknecht: Sahra Wagenknecht, Bundesvorsitzende des Bündnis Sahra Wagenknecht (BSW), stellt die Kampagne des BSW zur Bundestagswahl 2025 vor. Service +++ dpa-Bildfunk +++ Aufnahmedatum 18.12.2024 Bildnachweis picture alliance/dpa | Michael Kappeler Stadt Berlin"
+    },
+    {
+      "title": "Verteidigung : Boris Pistorius warnt vor hybrider Gefahr aus Russland",
+      "teaser": "Der Verteidigungsminister warnt vor hybriden Angriffen auf Deutschland, etwa auf Infrastruktur und Energieversorgung. Putin wisse, wie er \"Nadelstiche setzen\" müsse.",
+      "url": "https://www.zeit.de/politik/ausland/2024-12/boris-pistorius-warnung-russland-hybride-angriffe-verteidigungsminister",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-12/boris-pistorius-warnung-russland-hybride-angriffe-verteidigungsminister-bild/super__430x286",
+      "image_title": "Verteidigung: Boris Pistorius (SPD), Bundesminister der Verteidigung, spricht bei der Regierungsbefragung im Plenum des Bundestags zu den Abgeordneten. Service +++ dpa-Bildfunk +++ Aufnahmedatum 18.12.2024"
     },
     {
       "title": "USA : Trump ernennt TV-Produzenten zum Sondergesandten für Großbritannien",
@@ -173,46 +193,11 @@
       "image_title": "USA: US-Präsident Donald Trump (r) spricht mit dem Fernsehproduzenten Mark Burnett während des Nationalen Gebetsfrühstücks am 2. Februar 2017 in Washington. Trump hat auf seiner Social-Media-Plattform Truth Social verlauten lassen, dass er Burnett zum Sondergesandten für Großbritannien ernennt."
     },
     {
-      "title": "Diplomatie : Andrij Melnyk soll Ukraine bei den UN vertreten",
-      "teaser": "Bis 2022 war Andrij Melnyk Botschafter der Ukraine in Deutschland und fiel durch scharfe Kritik an der Bundesregierung auf. Nun geht er als UN-Vertreter nach New York.",
-      "url": "https://www.zeit.de/politik/ausland/2024-12/diplomatie-andrij-melnyk-versetzung-vereinte-nationen-new-york",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-12/diplomatie-andrij-melnyk-versetzung-vereinte-nationen-new-york-bild/super__430x286",
-      "image_title": "Diplomatie: Andrij Melnyk, damals Botschafter der Ukraine in Deutschland, aufgenommen bei einem Interview mit der dpa Deutsche Presse-Agentur. Ein Jahr nach dem russischen Angriff auf die Ukraine hat der ukrainische Vizeaußenminister Andrij Melnyk der Bundesregierung einen «Zickzackkurs» bei der Umsetzung der sogenannten Zeitenwende in der Sicherheitspolitik vorgeworfen. (zu dpa: «Melnyk: Berlin könnte diplomatische Vermittlung anstoßen»)"
-    },
-    {
-      "title": "Bündnis Sahra Wagenknecht : BSW-Wahlprogramm fordert laut Bericht Mindestrente und Corona-Amnestie",
-      "teaser": "Mindestrente, Mietendeckel, ein Nein zu einer EU-Mitgliedschaft der Ukraine: Mit solchen Forderungen will das BSW laut einem Bericht in die Bundestagswahl ziehen.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-12/bsw-wahlprogramm-bundestagswahl-sahra-wagenknecht",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/bsw-wahlprogramm-bundestagswahl-sahra-wagenknecht-bild/super__430x286",
-      "image_title": "Bündnis Sahra Wagenknecht: Sahra Wagenknecht, Bundesvorsitzende des Bündnis Sahra Wagenknecht (BSW), stellt die Kampagne des BSW zur Bundestagswahl 2025 vor. Service +++ dpa-Bildfunk +++ Aufnahmedatum 18.12.2024 Bildnachweis picture alliance/dpa | Michael Kappeler Stadt Berlin"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Familienpsychologie : Wie bricht man das Schweigen in Familien?",
-      "teaser": "In vielen Familien ist es unmöglich, über Konflikte und Gefühle zu sprechen – über Jahrzehnte. Die Therapeutin Claudia Haarmann weiß, wie man die Verhärtung lösen kann.",
-      "url": "https://www.zeit.de/familie/2024-12/familienpsychologie-schweigen-eltern-kinder-gefuehle-konflikte-claudia-haarmann",
-      "image_url": "https://img.zeit.de/familie/2024-12/familienpsychologie-schweigen-eltern-kinder-gefuehle-konflikte/super__430x286",
-      "image_title": "Familienpsychologie: Wie bricht man das Schweigen in Familien?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Familiengeheimnisse : Davon darf niemand erfahren",
-      "teaser": "Alkohol, uneheliche Kinder, ein Vater, der Frauenkleider trägt: Viele Familien haben ein Geheimnis. Was das Schweigen mit uns macht und wann es besser ist, es zu brechen",
-      "url": "https://www.zeit.de/familie/2024-12/familiengeheimnisse-schweigen-kommunikation-eltern",
-      "image_url": "https://img.zeit.de/familie/2024-12/familiengeheimnisse-schweigen-kommunikation-eltern-bild/super__430x286",
-      "image_title": "Familiengeheimnisse: Davon darf niemand erfahren"
-    },
-    {
-      "title": "USA : Joe Biden setzt Einigung auf US-Haushalt in Kraft",
-      "teaser": "Trotz des Widerstands von Donald Trump und Elon Musk konnte ein Shutdown in den USA abgewendet werden. Präsident Joe Biden hat den Kompromiss zum Haushalt unterschrieben.",
-      "url": "https://www.zeit.de/politik/ausland/2024-12/usa-haushalt-joe-biden-shutdown-abgewendet",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-12/joe-biden-us-haushalt-und-die-neue-schuldenobergrenze-bild/super__430x286",
-      "image_title": "USA: Das Kapitol in Washington, D.C., der Sitz des US-Kongresses. Repräsentantenhaus und Senat haben sich auf einen Haushaltskompromiss geeinigt."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Heimat : Sorry, Bayern!",
-      "teaser": "Vor sieben Jahren hat unsere Autorin einen Hassbrief an ihre Heimat geschrieben. Doch inzwischen sehnt sie sich zurück. Zeit für eine Entschuldigung",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2024-12/heimat-dorf-bayern-sehnsucht-zuhause-entschuldigung",
-      "image_url": "https://img.zeit.de/zeit-magazin/leben/2024-12/heimat-dorf-bayern-sehnsucht-zuhause-entschuldigung-bild/super__430x286",
-      "image_title": "Heimat: Sorry, Bayern!"
+      "title": "Z+ (abopflichtiger Inhalt); Gefängnisse in Diktaturen : Kafkas Schloss, Assads Folteranstalt",
+      "teaser": "Ob in Assads Syrien oder Putins Russland: Das Gefängnis ist in Diktaturen nicht nur ein Ort, sondern eine Herrschaftslogik. Die versteht man mithilfe Franz Kafkas.",
+      "url": "https://www.zeit.de/kultur/2024-12/gefaengnisse-diktaturen-baschar-al-assad-franz-kafka",
+      "image_url": "https://img.zeit.de/kultur/2024-12/wochenende-52-politisch-motiviert-bild/super__430x286",
+      "image_title": "Gefängnisse in Diktaturen: DAMASCUS, SYRIA - DECEMBER 10: Families continue to wait inside and outside Sednaya Prison, infamous for torture under the toppled Bashar al-Assad regime in Damascus, Syria on December 10, 2024. (Photo by Emin Sansar/Anadolu via Getty Images)"
     },
     {
       "title": "Sprachnachricht : \"Alles von der AfD abzulehnen, ist kontraproduktiv\"",
@@ -334,32 +319,67 @@
       "image_title": "Sprachnachricht: \"Man sollte Leuten Zeit geben, sich demokratisch zu engagieren\""
     },
     {
-      "title": "Social Media : Albanien will TikTok für ein Jahr sperren",
-      "teaser": "Ab Januar soll TikTok in Albanien zunächst nicht mehr zugänglich sein, zudem sind Bildungsprogramme für Kinder geplant. Die Maßnahme folgt auf den Tod eines Jungen.",
-      "url": "https://www.zeit.de/digital/2024-12/albanien-tiktok-sperre-jugendliche",
-      "image_url": "https://img.zeit.de/digital/2024-12/albanien-tiktok-sperre-jugendliche-bild/super__430x286",
-      "image_title": "Social Media: A TikTok logo is displayed on a smartphone"
+      "title": "Z+ (abopflichtiger Inhalt); Weihnachtsgänse : \"Die verkaufen sich viel leichter als Wärmepumpen\"",
+      "teaser": "Es ist ein Saisongeschäft, seit mehr als 30 Jahren, ab St. Martin wird im Akkord geschlachtet. Wie es wirklich ist, Weihnachtsgänse zu züchten.",
+      "url": "https://www.zeit.de/2024/54/weihnachtsgaense-zucht-tiere-haltung-pflege",
+      "image_url": "https://img.zeit.de/2024/54/wie-es-wirklich-ist-weihnachtsgaense-zu-zuechten-teaser/wide__892x501",
+      "image_title": "Weihnachtsgänse: \"Die verkaufen sich viel leichter als Wärmepumpen\""
     },
     {
-      "title": "Island : Sozialdemokratin Frostadóttir wird isländische Ministerpräsidentin",
-      "teaser": "Die jüngste Regierungschefin der Geschichte, mehr Frauen im Kabinett als Männer: In Island einigen sich die Sozialdemokraten mit zwei kleineren Parteien auf ein Bündnis.",
-      "url": "https://www.zeit.de/politik/ausland/2024-12/island-regierungsbildung-ministerpraesidentin-kristrun-frostadottir",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-12/island-regierungsbildung-ministerpraesidentin-kristrun-frostadottir-bild/super__430x286",
-      "image_title": "Island: Kristrún Mjöll Frostadóttir, Vorsitzende der sozialdemokratischen Partei Samfylking, nach der Schließung der Wahllokale am 01. Dezember."
+      "title": "Ausgabe 51/2024 : Wünsch dir was. Willkommen im Wochenende.",
+      "teaser": "Gefährliche Geschenke, familiäre Geheimnisse und ein besonders heller Stern.",
+      "url": "https://www.zeit.de/wochenende/2024/51",
+      "image_url": "https://img.zeit.de/kultur/2024-12/zwe-50-hero-14/wide__892x501",
+      "image_title": "Ausgabe 51/2024: Wünsch dir was. Willkommen im Wochenende."
     },
     {
-      "title": "Bundesliga – 15. Spieltag : Leverkusen siegt gegen Freiburg, Mainz gewinnt in Frankfurt",
-      "teaser": "Die Leverkusener Schick und Wirtz erzielen souverän fünf Tore gegen Freiburg. Mainz siegt in Frankfurt, St. Pauli gewinnt knapp gegen den VfB Stuttgart. Die Spielberichte",
-      "url": "https://www.zeit.de/sport/2024-12/bundesliga-frankfurt-mainz-hoffenheim-gladbach-bremen",
-      "image_url": "https://img.zeit.de/sport/2024-12/bundesliga-bayer-leverkusen-sc-freiburg-bild/super__430x286",
-      "image_title": "Bundesliga – 15. Spieltag: Bayer Leverkusen's German midfielder #10 Florian Wirtz shoots a penalty during the German first division Bundesliga football match between Bayer Leverkusen and SC Freiburg in Leverkusen on December 21, 2024."
+      "title": "Z+ (abopflichtiger Inhalt); Großeltern : Eine Liebe von besonderer Kraft",
+      "teaser": "Oma und Opa sind für Enkel fundamental wichtig. Und auch im Zusammenspiel mit den Eltern zeigt sich, wie stark alle Beteiligten von dieser Beziehung profitieren.",
+      "url": "https://www.zeit.de/2024/54/grosseltern-enkel-beziehung-kindheit",
+      "image_url": "https://img.zeit.de/wissen/2024-12/wochenende-grosseltern-enkel-beziehung-kindheit-bild/wide__892x501",
+      "image_title": "Großeltern: Eine Liebe von besonderer Kraft"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Zeit : Kann man Zeit speichern?",
-      "teaser": "Zeit ist kein einheitliches Ding. In der Welt der Quanten spielt sie gar keine Rolle. Und trotzdem wohnt sie unserer Welt irgendwie inne. Gedanken zu etwas Unfassbarem",
-      "url": "https://www.zeit.de/zeit-wissen/2025/01/zeit-speichern-physik-vergangenheit-zukunft",
-      "image_url": "https://img.zeit.de/zeit-wissen/2025/01/1-kann-man-zeit-speichern-bild-1/super__430x286",
-      "image_title": "Zeit: Kann man Zeit speichern?"
+      "title": "Z+ (abopflichtiger Inhalt); Kuba : Mamas Kuba-Krise",
+      "teaser": "Die Mutter unseres Autors kommt aus Havanna. Als junge Frau zog sie in den Odenwald. Jetzt kehrt sie zum ersten Mal seit 24 Jahren zurück.",
+      "url": "https://www.zeit.de/2024/54/kuba-veraenderung-sozialismus-havanna",
+      "image_url": "https://img.zeit.de/politik/2024-12/kuba-veraenderung-sozialismus-teaser/wide__892x501",
+      "image_title": "Kuba: Kubas Hauptstadt Havanna, 2024"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Geschenke an Weihnachten : Ein Geschenk ist immer eine Zumutung",
+      "teaser": "Schenken ist anstrengend, kann enttäuschen. Alle Jahre wieder läuft man Gefahr, danebenzuliegen. Das macht nichts – wenn man den wahren Wert des Geschenks erkennt.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2024-12/geschenke-weihnachten-ideen-bedeutung-persoenlich",
+      "image_url": "https://img.zeit.de/kultur/2024-12/wochenende-52-schenken-bild/wide__892x501",
+      "image_title": "Geschenke an Weihnachten: Ein Geschenk ist immer eine Zumutung"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Jahresendlisten : Alles muss ein Ende haben",
+      "teaser": "Jetzt kommen sie, die Jahresendlisten. Ja, furchtbar. Aber wer nicht zurückblickt, kann danach auch nicht nach vorne sehen.",
+      "url": "https://www.zeit.de/kultur/2024-12/jahresendlisten-jahresrueckblick-spotify-wrapped",
+      "image_url": "https://img.zeit.de/kultur/2024-12/wochenende-52-pflichtverteidigung-bild/wide__892x501",
+      "image_title": "Jahresendlisten: Alles muss ein Ende haben"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Gefängnisse in Diktaturen : Kafkas Schloss, Assads Folteranstalt",
+      "teaser": "Ob in Assads Syrien oder Putins Russland: Das Gefängnis ist in Diktaturen nicht nur ein Ort, sondern eine Herrschaftslogik. Die versteht man mithilfe Franz Kafkas.",
+      "url": "https://www.zeit.de/kultur/2024-12/gefaengnisse-diktaturen-baschar-al-assad-franz-kafka",
+      "image_url": "https://img.zeit.de/kultur/2024-12/wochenende-52-politisch-motiviert-bild/wide__892x501",
+      "image_title": "Gefängnisse in Diktaturen: DAMASCUS, SYRIA - DECEMBER 10: Families continue to wait inside and outside Sednaya Prison, infamous for torture under the toppled Bashar al-Assad regime in Damascus, Syria on December 10, 2024. (Photo by Emin Sansar/Anadolu via Getty Images)"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Birkenstock und Barfußschuhe : Mythos Birkenstocks – so gesund sind sie wirklich",
+      "teaser": "Nie zuvor verkauften sich mehr Birkenstocks als heute. Was die Wissenschaft über die Fußbettsandale weiß. Und ob Barfußschuhe nicht doch die bessere Alternative wären.",
+      "url": "https://www.zeit.de/gesundheit/2024-12/birkenstock-gesundheitsschuhe-fussbett-barfussschuhe-schuhtrend",
+      "image_url": "https://img.zeit.de/gesundheit/2024-12/birkenstock-gesundheitsschuhe-fussbett-barfussschuhe-schuhtrend-bild/wide__892x501",
+      "image_title": "Birkenstock und Barfußschuhe: Mythos Birkenstocks – so gesund sind sie wirklich"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Fitnessübung : Das Partner-Ballrollen",
+      "teaser": "Jetzt ist eine gute Zeit, um eine ruhige Kugel zu schieben. Mit dieser Übungsanleitung und Ihrem Partner können Sie dadurch spielerisch fit für 2025 werden.",
+      "url": "https://www.zeit.de/sport/2024-12/fitnessuebung-partner-ballrollen-personal-trainer",
+      "image_url": "https://img.zeit.de/sport/2024-12/fitnessuebung-partner-ballrollen-personal-trainer-bild-06/super__430x286",
+      "image_title": "Fitnessübung: Das Partner-Ballrollen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Robert Habeck : Waren Sie mal versucht, alles hinzuwerfen? \"Es gab einen Moment ...\"",
@@ -381,6 +401,27 @@
       "url": "https://www.zeit.de/arbeit/2024-12/krankschreibungen-arbeitsplatz-steigung-krankmeldung-statistik",
       "image_url": "https://img.zeit.de/arbeit/2024-12/krankschreibungen-arbeitsplatz-steigung-krankmeldung/super__430x286",
       "image_title": "Krankschreibungen: So krank ist Deutschland"
+    },
+    {
+      "title": "Social Media : Albanien will TikTok für ein Jahr sperren",
+      "teaser": "Ab Januar soll TikTok in Albanien zunächst nicht mehr zugänglich sein, zudem sind Bildungsprogramme für Kinder geplant. Die Maßnahme folgt auf den Tod eines Jungen.",
+      "url": "https://www.zeit.de/digital/2024-12/albanien-tiktok-sperre-jugendliche",
+      "image_url": "https://img.zeit.de/digital/2024-12/albanien-tiktok-sperre-jugendliche-bild/super__430x286",
+      "image_title": "Social Media: A TikTok logo is displayed on a smartphone"
+    },
+    {
+      "title": "Island : Sozialdemokratin Frostadóttir wird isländische Ministerpräsidentin",
+      "teaser": "Die jüngste Regierungschefin der Geschichte, mehr Frauen im Kabinett als Männer: In Island einigen sich die Sozialdemokraten mit zwei kleineren Parteien auf ein Bündnis.",
+      "url": "https://www.zeit.de/politik/ausland/2024-12/island-regierungsbildung-ministerpraesidentin-kristrun-frostadottir",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-12/island-regierungsbildung-ministerpraesidentin-kristrun-frostadottir-bild/super__430x286",
+      "image_title": "Island: Kristrún Mjöll Frostadóttir, Vorsitzende der sozialdemokratischen Partei Samfylking, nach der Schließung der Wahllokale am 01. Dezember."
+    },
+    {
+      "title": "Adventskalender Folge 22 : Rumms und Pling",
+      "teaser": "Heute im Adventskalender von ZEIT Verbrechen: Eine betagte Chorleiterin fährt die Autotür einer jungen Mutter ab und will nichts davon bemerkt haben.",
+      "url": "https://www.zeit.de/gesellschaft/2024-11/verbrechen-adventskalender-22-strassenverkehr-podcast",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-11/verbrechen-adventskalender-22-strassenverkehr-podcast-bild/super__320x213",
+      "image_title": "Adventskalender Folge 22: Rumms und Pling"
     },
     {
       "title": "Adventskalender Folge 21 : Es gibt Schlimmeres als Falten",
@@ -537,73 +578,18 @@
       "image_title": "Nachrichtenpodcast: 2024 zum Nachhören"
     },
     {
-      "title": "Ausgabe 51/2024 : Wünsch dir was. Willkommen im Wochenende.",
-      "teaser": "Gefährliche Geschenke, familiäre Geheimnisse und ein besonders heller Stern.",
-      "url": "https://www.zeit.de/wochenende/2024/51",
-      "image_url": "https://img.zeit.de/kultur/2024-12/zwe-50-hero-14/wide__892x501",
-      "image_title": "Ausgabe 51/2024: Wünsch dir was. Willkommen im Wochenende."
+      "title": "Z+ (abopflichtiger Inhalt); Familienpsychologie : Wie bricht man das Schweigen in Familien?",
+      "teaser": "In vielen Familien ist es unmöglich, über Konflikte und Gefühle zu sprechen – über Jahrzehnte. Die Therapeutin Claudia Haarmann weiß, wie man die Verhärtung lösen kann.",
+      "url": "https://www.zeit.de/familie/2024-12/familienpsychologie-schweigen-eltern-kinder-gefuehle-konflikte-claudia-haarmann",
+      "image_url": "https://img.zeit.de/familie/2024-12/familienpsychologie-schweigen-eltern-kinder-gefuehle-konflikte/super__430x286",
+      "image_title": "Familienpsychologie: Wie bricht man das Schweigen in Familien?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Großeltern : Eine Liebe von besonderer Kraft",
-      "teaser": "Oma und Opa sind für Enkel fundamental wichtig. Und auch im Zusammenspiel mit den Eltern zeigt sich, wie stark alle Beteiligten von dieser Beziehung profitieren.",
-      "url": "https://www.zeit.de/2024/54/grosseltern-enkel-beziehung-kindheit",
-      "image_url": "https://img.zeit.de/wissen/2024-12/wochenende-grosseltern-enkel-beziehung-kindheit-bild/wide__892x501",
-      "image_title": "Großeltern: Eine Liebe von besonderer Kraft"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Kuba : Mamas Kuba-Krise",
-      "teaser": "Die Mutter unseres Autors kommt aus Havanna. Als junge Frau zog sie in den Odenwald. Jetzt kehrt sie zum ersten Mal seit 24 Jahren zurück.",
-      "url": "https://www.zeit.de/2024/54/kuba-veraenderung-sozialismus-havanna",
-      "image_url": "https://img.zeit.de/politik/2024-12/kuba-veraenderung-sozialismus-teaser/wide__892x501",
-      "image_title": "Kuba: Kubas Hauptstadt Havanna, 2024"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Geschenke an Weihnachten : Ein Geschenk ist immer eine Zumutung",
-      "teaser": "Schenken ist anstrengend, kann enttäuschen. Alle Jahre wieder läuft man Gefahr, danebenzuliegen. Das macht nichts – wenn man den wahren Wert des Geschenks erkennt.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2024-12/geschenke-weihnachten-ideen-bedeutung-persoenlich",
-      "image_url": "https://img.zeit.de/kultur/2024-12/wochenende-52-schenken-bild/wide__892x501",
-      "image_title": "Geschenke an Weihnachten: Ein Geschenk ist immer eine Zumutung"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Jahresendlisten : Alles muss ein Ende haben",
-      "teaser": "Jetzt kommen sie, die Jahresendlisten. Ja, furchtbar. Aber wer nicht zurückblickt, kann danach auch nicht nach vorne sehen.",
-      "url": "https://www.zeit.de/kultur/2024-12/jahresendlisten-jahresrueckblick-spotify-wrapped",
-      "image_url": "https://img.zeit.de/kultur/2024-12/wochenende-52-pflichtverteidigung-bild/wide__892x501",
-      "image_title": "Jahresendlisten: Alles muss ein Ende haben"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Gefängnisse in Diktaturen : Kafkas Schloss, Assads Folteranstalt",
-      "teaser": "Ob in Assads Syrien oder Putins Russland: Das Gefängnis ist in Diktaturen nicht nur ein Ort, sondern eine Herrschaftslogik. Die versteht man mithilfe Franz Kafkas.",
-      "url": "https://www.zeit.de/kultur/2024-12/gefaengnisse-diktaturen-baschar-al-assad-franz-kafka",
-      "image_url": "https://img.zeit.de/kultur/2024-12/wochenende-52-politisch-motiviert-bild/wide__892x501",
-      "image_title": "Gefängnisse in Diktaturen: DAMASCUS, SYRIA - DECEMBER 10: Families continue to wait inside and outside Sednaya Prison, infamous for torture under the toppled Bashar al-Assad regime in Damascus, Syria on December 10, 2024. (Photo by Emin Sansar/Anadolu via Getty Images)"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Birkenstock und Barfußschuhe : Mythos Birkenstocks – so gesund sind sie wirklich",
-      "teaser": "Nie zuvor verkauften sich mehr Birkenstocks als heute. Was die Wissenschaft über die Fußbettsandale weiß. Und ob Barfußschuhe nicht doch die bessere Alternative wären.",
-      "url": "https://www.zeit.de/gesundheit/2024-12/birkenstock-gesundheitsschuhe-fussbett-barfussschuhe-schuhtrend",
-      "image_url": "https://img.zeit.de/gesundheit/2024-12/birkenstock-gesundheitsschuhe-fussbett-barfussschuhe-schuhtrend-bild/wide__892x501",
-      "image_title": "Birkenstock und Barfußschuhe: Mythos Birkenstocks – so gesund sind sie wirklich"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Sexueller Konsens • Das Wichtigste aus Z+ : Sie erkennen das \"Nein\". Warum machen sie trotzdem weiter?",
-      "teaser": "Wie hätte ich merken sollen, dass sie nicht wollte? Neue Forschung belegt: Die meisten überschreiten sexuelle Grenzen wissend. Und zeigt, warum sie dennoch nicht stoppen.",
-      "url": "https://www.zeit.de/wissen/2024-12/sexueller-konsens-gewalt-uebergriffe-maenner",
-      "image_url": "https://img.zeit.de/wissen/2024-12/sexueller-konsens-gewalt-uebergriffe-maenne-bild/super__430x286"
-    },
-    {
-      "title": "Selbstzahler : Zahlen für den Arzttermin?",
-      "teaser": "Wochenlang müssen Kassenpatienten auf einen Platz im Sprechzimmer warten. Doch es gibt einen Trick: selbst bezahlen, schneller drankommen. Nutzen Sie solche Angebote?",
-      "url": "https://www.zeit.de/gesundheit/2024-12/selbstzahler-gesetzliche-krankenkasse-patienten-arzttermin",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-12/gesundheit-arzttermin-kassenpatienten-bezahlung-bild/super__430x286",
-      "image_title": "Selbstzahler: Wer auf solchen Stühlen Platz nehmen darf, hat oft sehr lange darauf gewartet."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Birkenstock und Barfußschuhe : Mythos Birkenstocks – so gesund sind sie wirklich",
-      "teaser": "Nie zuvor verkauften sich mehr Birkenstocks als heute. Was die Wissenschaft über die Fußbettsandale weiß. Und ob Barfußschuhe nicht doch die bessere Alternative wären.",
-      "url": "https://www.zeit.de/gesundheit/2024-12/birkenstock-gesundheitsschuhe-fussbett-barfussschuhe-schuhtrend",
-      "image_url": "https://img.zeit.de/gesundheit/2024-12/birkenstock-gesundheitsschuhe-fussbett-barfussschuhe-schuhtrend-bild/super__430x286",
-      "image_title": "Birkenstock und Barfußschuhe: Mythos Birkenstocks – so gesund sind sie wirklich"
+      "title": "Z+ (abopflichtiger Inhalt); Heimat : Sorry, Bayern!",
+      "teaser": "Vor sieben Jahren hat unsere Autorin einen Hassbrief an ihre Heimat geschrieben. Doch inzwischen sehnt sie sich zurück. Zeit für eine Entschuldigung",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2024-12/heimat-dorf-bayern-sehnsucht-zuhause-entschuldigung",
+      "image_url": "https://img.zeit.de/zeit-magazin/leben/2024-12/heimat-dorf-bayern-sehnsucht-zuhause-entschuldigung-bild/super__430x286",
+      "image_title": "Heimat: Sorry, Bayern!"
     },
     {
       "title": "Diese Woche in der ZEIT : Der Segen der Großeltern",
@@ -664,18 +650,18 @@
       "url": "https://www.zeit.de/politik/ausland/2024-12/saudi-arabien-warnung-magdeburg"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Weihnachtsmarkt Magdeburg : Trauer und Wut",
+      "teaser": "Besuche von Spitzenpolitikern und eine Gedenkfeier im Dom sollen nach dem Anschlag in Magdeburg der Trauer Raum geben. Doch es zeigt sich auch eine hässliche Seite.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-12/weihnachtsmarkt-magdeburg-anschlag-demonstrationen",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/weihnachtsmarkt-magdeburg-anschlag-demonstrationen-bild-1/wide__892x501",
+      "image_title": "Weihnachtsmarkt Magdeburg: Trauer und Wut"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Amokfahrt : Was wir über den Anschlag in Magdeburg wissen",
       "teaser": "Offenbar gezielt steuerte ein Mann sein Auto in die Menschenmenge auf dem Magdeburger Weihnachtsmarkt. Mindestens fünf Menschen starben. Ein Überblick",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-12/magdeburg-weihnachtsmarkt-wawiwi",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-12/magdeburg-weihnachtsmarkt-wawiwi-tag/wide__892x501",
+      "image_url": "https://img.zeit.de/gesellschaft/2024-12/magdeburg-weihnachtsmarkt-wawiwi-tag/super__430x286",
       "image_title": "Amokfahrt: Einsatzkräfte am Morgen nach dem mutmaßlichen Anschlag auf dem Magdeburger Weihnachtsmarkt"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Magdeburg : Heute trauern sie",
-      "teaser": "Nach dem Anschlag in Magdeburg vergisst die Bundespolitik den Wahlkampf. In der Stadt geht es um die Deutungshoheit einer Tat, an der es noch nichts zu deuten gibt.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-12/magdeburg-weihnachtsmarkt-taeter-reaktionen-reportage",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/magdeburg-weihnachtsmarkt-taeter-reaktionen-10/super__430x286",
-      "image_title": "Magdeburg: Buergerinnen und Buerger trauern am Gedenkort an der Johanniskirche in der Naehe des Tatorts, 21.12.2024"
     },
     {
       "title": "Verlagsangebot : Weihnachtsdinner: 5 Gänge aus aller Welt",
@@ -790,6 +776,13 @@
       "image_title": "Sport in der Jugend: Eine gaaaaanz ruhige Kugel"
     },
     {
+      "title": "Podcast \"English, please!\" : It's Christmastime",
+      "teaser": "Heute geht es um ungewöhnliche Weihnachtstraditionen aus der englischsprachigen Welt. Und: Wie \"brain rot\" zum Wort des Jahres wurde.",
+      "url": "https://www.zeit.de/wissen/2024-12/kuriose-weihnachtstraditionen-laender-brain-rot-englisch-podcast",
+      "image_url": "https://img.zeit.de/wissen/2024-05/raubkunst-kolonialzeit-grossbritannien-englisch-podcast-bild/super__320x213",
+      "image_title": "Podcast \"English, please!\": Die Hosts von \"English, please!\""
+    },
+    {
       "title": "Geschichtspodcast : Bauernkrieg, Folge 2: Müntzer gegen Luther – Kampf um den Glauben",
       "teaser": "Ist die Sache der Bauern gerecht? Martin Luther und Thomas Müntzer streiten darüber erbittert. Und einer der beiden zieht sogar mit der Waffe in die Schlacht ...",
       "url": "https://www.zeit.de/wissen/2024-12/reformation-martin-luther-thomas-muentzer-kirche-bauernkrieg-geschichte-podcast",
@@ -830,13 +823,6 @@
       "url": "https://www.zeit.de/politik/ausland/2024-12/donald-trump-usa-medien-ok-america",
       "image_url": "https://img.zeit.de/politik/ausland/2024-12/us-medien-donald-trump-ok-america-bild/super__320x213",
       "image_title": "USA: Donald Trump spricht im April 2024 in New York mit Reportern."
-    },
-    {
-      "title": "Alpenpodcast : Der Tod der schwäbischen Hausfrau",
-      "teaser": "Die Schweiz will in die Nato, Kickl wird Kanzler und die Deutschen hören auf, zu sparen – unsere steilsten Thesen für 2025. Außerdem empfehlen wir Bücher zu Weihnachten.",
-      "url": "https://www.zeit.de/gesellschaft/2024-12/jahresausblick-2025-nato-herbert-kickl-alpenpodcast",
-      "image_url": "https://img.zeit.de/gesellschaft/2024-12/jahresausblick-2025-nato-herbert-kickl/super__320x213",
-      "image_title": "jahresausblick-2025-nato-herbert-kickl"
     },
     {
       "title": "Ukraine-Krieg : Russlands Sabotageangriffe auf Europa: Im Januar gab der Kreml den Befehl",
@@ -881,10 +867,17 @@
       "image_title": "Mutmaßlicher Anschlag in Magdeburg: Bundeskanzler Olaf Scholz besucht die Stelle, an der ein Auto in eine Menschenmenge auf einem Weihnachtsmarkt in Magdeburg, Deutschland, gefahren ist, 21. Dezember 2024."
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Elon Musk : Der Geist, den sie riefen",
+      "teaser": "Elon Musk unterstützt nun offen die AfD. Christian Lindner will sich dennoch mit ihm treffen. Das ist geschichtsblinder Opportunismus, der Autokraten erst stark macht.",
+      "url": "https://www.zeit.de/kultur/2024-12/elon-musk-afd-unterstuetzung-christian-lindner-autokraten",
+      "image_url": "https://img.zeit.de/kultur/2024-12/elon-musk-afd-unterstuetzung-christian-lindner-2/wide__892x501",
+      "image_title": "Elon Musk: Der Geist, den sie riefen"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); \"Die Institutionistin\" von Colson Whitehead : Fahrstuhl in den Irrwitz",
       "teaser": "Colson Whiteheads Debütroman \"Die Intuitionistin\" wird nach 25 Jahren neu aufgelegt. Zeit, sich in die abgründige Welt des US-Schriftstellers fallen zu lassen.",
       "url": "https://www.zeit.de/2024/54/die-institutionistin-colson-whiteheads-roman-fahrstuhl-rassismus",
-      "image_url": "https://img.zeit.de/2024/54/fahrstuhl-in-den-irrwitz-teaser/wide__892x501",
+      "image_url": "https://img.zeit.de/2024/54/fahrstuhl-in-den-irrwitz-teaser/super__430x286",
       "image_title": "\"Die Institutionistin\" von Colson Whitehead: Colson Whiteheads \"Die Intuitionistin\" wird nach 25 Jahren neu aufgelegt. Zeit, sich in die abgründige Romanwelt des Schriftstellers fallen zu lassen."
     },
     {
@@ -895,25 +888,18 @@
       "image_title": "lebensmitteleinkauf-biomarkt-discounter"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Syrien : Dieses Land atmet Zuversicht",
-      "teaser": "Unsere Autorin hat die Tage nach Assads Sturz in Damaskus verbracht. Dort fand sie Hoffnung auf ein neues, besseres Miteinander – und viele Luxustaschen ohne Besitzer.",
-      "url": "https://www.zeit.de/kultur/2024-12/syrien-damaskus-assad-sturz-erleichterung",
-      "image_url": "https://img.zeit.de/kultur/2024-12/syrien-damaskus-assad-sturz/super__430x286",
-      "image_title": "Syrien: A torn portrait of Bashir al-Assad, that appears to have been arranged, is seen inside the Presidential Palace on December 10, 2024 in Damascus, Syria. Parts of the palace were ransacked in recent days as rebel forces in Syria seized the capital from longtime ruler Bashar al-Assad, who fled the country to Russia."
+      "title": "Z+ (abopflichtiger Inhalt); Zeit : Kann man Zeit speichern?",
+      "teaser": "Zeit ist kein einheitliches Ding. In der Welt der Quanten spielt sie gar keine Rolle. Und trotzdem wohnt sie unserer Welt irgendwie inne. Gedanken zu etwas Unfassbarem",
+      "url": "https://www.zeit.de/zeit-wissen/2025/01/zeit-speichern-physik-vergangenheit-zukunft",
+      "image_url": "https://img.zeit.de/zeit-wissen/2025/01/1-kann-man-zeit-speichern-bild-1/wide__892x501",
+      "image_title": "Zeit: Kann man Zeit speichern?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Gehörlose in der Schule : Wie haben Sie als taubes Kind gelernt, Heike Heubach?",
       "teaser": "Sie ist die erste gehörlose Abgeordnete im Bundestag: In der Schule sollte sie noch sprechen lernen. Den Wahlkampf an den Haustüren hat sie dann auf ihre Art gemeistert.",
       "url": "https://www.zeit.de/2024/54/gehoerlose-schule-lernen-sprechen-heike-heubach",
-      "image_url": "https://img.zeit.de/2024/54/gehoerlose-schule-lernen-sprechen-heike-heubach-teaser/wide__892x501",
+      "image_url": "https://img.zeit.de/2024/54/gehoerlose-schule-lernen-sprechen-heike-heubach-teaser/super__430x286",
       "image_title": "Gehörlose in der Schule: Heike Heubach, SPD, ist die erste gehörlose Abgeordnete im Bundestag."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Marzipan : Wie man gutes Marzipan erkennt",
-      "teaser": "Lange war Marzipan ein exklusives Luxusprodukt. Heute unterscheiden sich die Preise stark – und durchaus begründet: Es gibt ein Kriterium für hochwertiges Marzipan.",
-      "url": "https://www.zeit.de/zeit-wissen/2025/01/marzipan-qualitaet-zutaten-aroma-preis",
-      "image_url": "https://img.zeit.de/zeit-wissen/2025/01/so-erkennt-man-qualitaet-bild-teaser/super__430x286",
-      "image_title": "Marzipan: Das beste Marzipan gibt es im Supermarktregal bei den Backzutaten."
     },
     {
       "title": "Anzeige : ZEIT REISEN Individualreisen",
@@ -1159,25 +1145,25 @@
       "image_title": "Studieren in den USA: Als sich Jalen Crespo, 24, am Albert Einstein College bewarb, wusste er noch nicht, dass er dort keine Studiengebühren mehr zahlen würde. »Dank Ruth Gottesman lebe ich jeden Tag meinen Traum«, sagt er heute."
     },
     {
-      "title": "Verlagsangebot : Ein Studium finden, das passt",
-      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
-      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.teaser.bewerben-schreibtisch.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=sit-verlagsteaser&amp;utm_content=sit_teaser_bewerben-schreibtisch_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/sit-bewerben-schreibtisch/wide__430x286__desktop",
-      "image_title": "Ein Studium finden, das passt"
+      "title": "Verlagsangebot : Was kann man wo studieren?",
+      "teaser": "Deutschlands größte Suchmaschine für Studiengänge und Hochschulen bietet Orientierung und hilft bei der Studienwahl.",
+      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.automation.bleistift-biss.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=verlagsteaser&amp;utm_content=suma_automation_bleistift-biss_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/suma-teaser-januar2019/wide__430x286__desktop",
+      "image_title": "Was kann man wo studieren?"
+    },
+    {
+      "title": "Bundesliga – 15. Spieltag : Leverkusen siegt gegen Freiburg, Mainz gewinnt in Frankfurt",
+      "teaser": "Die Leverkusener Schick und Wirtz erzielen souverän fünf Tore gegen Freiburg. Mainz siegt in Frankfurt, St. Pauli gewinnt knapp gegen den VfB Stuttgart. Die Spielberichte",
+      "url": "https://www.zeit.de/sport/2024-12/bundesliga-frankfurt-mainz-hoffenheim-gladbach-bremen",
+      "image_url": "https://img.zeit.de/sport/2024-12/bundesliga-bayer-leverkusen-sc-freiburg-bild/wide__892x501",
+      "image_title": "Bundesliga – 15. Spieltag: Bayer Leverkusen's German midfielder #10 Florian Wirtz shoots a penalty during the German first division Bundesliga football match between Bayer Leverkusen and SC Freiburg in Leverkusen on December 21, 2024."
     },
     {
       "title": "Bundesliga, 15. Spieltag – Freitag : FC Bayern siegt souverän gegen Leipzig",
       "teaser": "Das erste Tor fiel in München schon nach 29 Sekunden. Auch zwei Ex-Leipziger trafen für die Bayern. Die geplante Weihnachtsfeier sagte der Verein ab. Der Spielbericht",
       "url": "https://www.zeit.de/sport/2024-12/fussball-bundesliga-fc-baern-muenchen-leipzig-15-spieltag",
-      "image_url": "https://img.zeit.de/sport/2024-12/fussball-bundesliga-fc-bayern-muenchen-leipzig-15-spieltag-bild/wide__892x501",
+      "image_url": "https://img.zeit.de/sport/2024-12/fussball-bundesliga-fc-bayern-muenchen-leipzig-15-spieltag-bild/super__430x286",
       "image_title": "Bundesliga, 15. Spieltag – Freitag: Mediennummer 498981428 Beschreibung Fußball: Bundesliga, Bayern München - RB Leipzig, 15. Spieltag, Allianz Arena. Münchens Harry Kane (r) gegen Leipzigs Christoph Baumgartner. WICHTIGER HINWEIS: Gemäß den Vorgaben der DFL Deutsche Fußball Liga bzw. des DFB Deutscher Fußball-Bund ist es untersagt, in dem Stadion und/oder vom Spiel angefertigte Fotoaufnahmen in Form von Sequenzbild... + Mehr lesen Service +++ dpa-Bildfunk +++ Aufnahmedatum 20.12.2024 Bildnachweis picture alliance/dpa | Tom Weller Besondere Hinweise"
-    },
-    {
-      "title": "Bundesliga-Vorschau : Das Spitzenspiel, das keines ist",
-      "teaser": "Eigentlich ist RB Leipzig einst angetreten, den FC Bayern vom Thron zu schubsen. Eigentlich. Und was machen die Verträge von Wirtz und Musiala? Alles zum 15. Spieltag",
-      "url": "https://www.zeit.de/sport/2024-12/bundesliga-vorschau-bayern-leipzig",
-      "image_url": "https://img.zeit.de/sport/2024-12/marco-rose/super__430x286",
-      "image_title": "Bundesliga-Vorschau: Das Spitzenspiel, das keines ist"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Modellbau : \"Wenn ich in meiner Werkstatt bin, verliere ich das Zeitgefühl\"",
@@ -1194,36 +1180,36 @@
       "image_title": "Bauprojekte in Hamburg: Andreas Dressel (SPD), Senator für Finanzen in Hamburg, steht bei einer Dachbegehung auf dem Bibliotheksgebäude. Am Gebäude der Staats- und Universitätsbibliothek Hamburg wird derzeit das Dach auf knapp 4.000 Quadratmetern Fläche saniert."
     },
     {
+      "title": "Medizinische Versorgung: Im Nordosten fehlen immer mehr Ärzte auf dem Land",
+      "url": "https://www.zeit.de/news/2024-12/22/im-nordosten-fehlen-immer-mehr-aerzte-auf-dem-land"
+    },
+    {
+      "title": "Kriminalität: Mehr Verurteilte wegen Erwerbs von Kinderpornografie",
+      "url": "https://www.zeit.de/news/2024-12/22/mehr-verurteilte-wegen-erwerbs-von-kinderpornografie"
+    },
+    {
+      "title": "Heiligabend in den 70ern: Guido Cantz und sein schönstes Weihnachtsgeschenk",
+      "url": "https://www.zeit.de/news/2024-12/22/guido-cantz-und-sein-schoenstes-weihnachtsgeschenk"
+    },
+    {
+      "title": "Wirtschaftspolitik: VW, Meyer Werft und Co.: Niedersachsens Wirtschaftsjahr 2024",
+      "url": "https://www.zeit.de/news/2024-12/22/vw-meyer-werft-und-co-niedersachsens-wirtschaftsjahr-2024"
+    },
+    {
+      "title": "Verbotener Konsum: 42 Bußgeldbescheide wegen Cannabis-Verstößen in Hamburg",
+      "url": "https://www.zeit.de/news/2024-12/22/42-bussgeldbescheide-wegen-cannabis-verstoessen-in-hamburg"
+    },
+    {
+      "title": "DLRG: Mehr Hilfe für die Helfer",
+      "url": "https://www.zeit.de/news/2024-12/22/mehr-hilfe-fuer-die-helfer"
+    },
+    {
+      "title": "Geschenke im Knast: Weihnachtstüten für Gefangene in Bremen",
+      "url": "https://www.zeit.de/news/2024-12/22/weihnachtstueten-fuer-gefangene-in-bremen"
+    },
+    {
       "title": "Fußball-Bundesliga: \"Totgeschrien\": Virkus nach Gladbachs Sieg martialisch",
       "url": "https://www.zeit.de/news/2024-12/22/totgeschrien-virkus-nach-gladbachs-sieg-martialisch"
-    },
-    {
-      "title": "Fußball-Bundesliga: Vierfach-Torschütze Schick: \"Nicht mein bestes Spiel\"",
-      "url": "https://www.zeit.de/news/2024-12/22/vierfach-torschuetze-schick-nicht-mein-bestes-spiel"
-    },
-    {
-      "title": "Von Auto erfasst: Fußgänger stirbt nach Unfall in Bielefeld",
-      "url": "https://www.zeit.de/news/2024-12/22/fussgaenger-stirbt-nach-unfall-in-bielefeld"
-    },
-    {
-      "title": "Auto-Industrie: Forscher: keine Trendwende für ostdeutsche Auto-Industrie",
-      "url": "https://www.zeit.de/news/2024-12/22/forscher-keine-trendwende-fuer-ostdeutsche-auto-industrie"
-    },
-    {
-      "title": "Fußball-Bundesliga: \"Bodenlose Frechheit\": FC Augsburg zerfällt zum Jahresende",
-      "url": "https://www.zeit.de/news/2024-12/22/bodenlose-frechheit-fc-augsburg-zerfaellt-zum-jahresende"
-    },
-    {
-      "title": "Attacke auf Weihnachtsmarkt: Todesfahrt von Magdeburg: Tatverdächtiger muss in U-Haft",
-      "url": "https://www.zeit.de/news/2024-12/22/tatverdaechtiger-von-magdeburg-kommt-in-untersuchungshaft"
-    },
-    {
-      "title": "Syrien und Nahost-Konflikt: Kurden rechnen mit türkischem Angriff in Nordsyrien",
-      "url": "https://www.zeit.de/news/2024-12/22/kurden-rechnen-mit-tuerkischem-angriff-in-nordsyrien"
-    },
-    {
-      "title": "Neuer Stolperstein: Weitere Verzögerung bei Brenner-Zulauftrasse wegen Neuwahl",
-      "url": "https://www.zeit.de/news/2024-12/22/weitere-verzoegerung-bei-brenner-zulauftrasse-wegen-neuwahl"
     }
   ]
 }
