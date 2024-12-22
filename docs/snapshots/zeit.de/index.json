@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-12-22T14:00:45",
+  "timestamp": "2024-12-22T15:00:48",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
@@ -131,11 +137,11 @@
       "image_title": "Magdeburg: Wie der Attentäter Lücken in Absperrungen nutzte"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Weihnachtsmarkt Magdeburg : Trauer und Wut",
-      "teaser": "Besuche von Spitzenpolitikern und eine Gedenkfeier im Dom sollen nach dem Anschlag in Magdeburg der Trauer Raum geben. Doch es zeigt sich auch eine hässliche Seite.",
-      "url": "https://www.zeit.de/politik/deutschland/2024-12/weihnachtsmarkt-magdeburg-anschlag-demonstrationen",
-      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/weihnachtsmarkt-magdeburg-anschlag-demonstrationen-bild-1/super__430x286",
-      "image_title": "Weihnachtsmarkt Magdeburg: Trauer und Wut"
+      "title": "Weihnachtsmarkt-Anschlag : Innenausschuss des Bundestages soll zu Sondersitzung zusammenkommen",
+      "teaser": "Am 30. Dezember werden die Ausschussmitglieder über den Ermittlungsstand informiert. Kommunen warnen vor zu strengen Sicherheitsvorkehrungen auf Weihnachtsmärkten.",
+      "url": "https://www.zeit.de/politik/deutschland/2024-12/sondersitzung-innenausschuss-anschlag-magdeburg-kommunen-weihnachtsmaerkte",
+      "image_url": "https://img.zeit.de/politik/deutschland/2024-12/sondersitzungen-geheimdienste-parlamentarisches-kontrollgremium-innenausschuss-nancy-faeser-bild/super__430x286",
+      "image_title": "Weihnachtsmarkt-Anschlag: Nancy Faeser (SPD), Bundesministerin für Inneres und Heimat, nimmt an der Sondersitzung des Innenausschusses des Bundestags teil. Thema ist die Messerattacke von Solingen und die Abschiebung von Flüchtlingen nach Afghanistan. Berlin, 30.08.2024"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Psychologie von Straftätern : \"Es bedarf keines Teufels, um das Böse in die Welt zu bringen\"",
@@ -152,11 +158,11 @@
       "image_title": "Tim Fehlbaum: Szene aus dem Film »September 5« über das Münchner Olympia-Attentat"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Iran : \"Wenn wir auf Damaskus schauen, sehen wir auch uns\"",
-      "teaser": "Nach dem Sturz von Assad in Syrien hat sich in Iran etwas verschoben: Trotz Hidschab-Zwang und Energiekrise spürt unsere Autorin zum ersten Mal so etwas wie Hoffnung.",
-      "url": "https://www.zeit.de/politik/ausland/2024-12/iran-syrien-umsturz-proteste-freiheit-regime",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-12/iran-syrien-umsturz-proteste-freiheit/super__430x286",
-      "image_title": "Iran: October 27, 2024 - Tehran, Iran: People are walking around the Grand Bazaar a day after Israel's attack on Iran. (Arash Khamooshi/Polaris/ddp) ///"
+      "title": "Z+ (abopflichtiger Inhalt); HTS in Syrien : Einigkeit, für den Moment",
+      "teaser": "Die neuen Machthaber Syriens wollen die Welt davon überzeugen, dass sie keine Terroristen sind. Die Stimmung in der Hauptstadt schwankt zwischen Freude und Angst.",
+      "url": "https://www.zeit.de/2024/54/hts-syrien-regierung-terrorismus-finanzen",
+      "image_url": "https://img.zeit.de/2024/54/offiziell-keine-selbstjustiz-bild-1/super__430x286",
+      "image_title": "HTS in Syrien: Abore perfernati te odit q sperumdit"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Kartenzahlung : CASH ONLY! Steuerhinterziehung only?",
@@ -166,10 +172,17 @@
       "image_title": "Kartenzahlung: CASH ONLY! Steuerhinterziehung only?"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); \"World of Warcraft\" : Wer es spielt, spürt sich selbst",
+      "teaser": "Wir galten als Junkies – dabei brachte uns Teenies dieses Spiel so viel bei. Seit 20 Jahren ist \"World of Warcraft\" ein Welterfolg. Weil es seine Spieler zu Helden macht.",
+      "url": "https://www.zeit.de/digital/games/2024-12/world-of-warcraft-20-jahre-jubilaeum-blizzard-videospiel",
+      "image_url": "https://img.zeit.de/digital/2024-12/20-jahren-world-of-warcraft/wide__892x501",
+      "image_title": "\"World of Warcraft\": Wer es spielt, spürt sich selbst"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Wissenschaftliche Mitarbeiterin : \"Ich habe eine 75-Prozent-Stelle, aber arbeite mindestens Vollzeit\"",
       "teaser": "Elena, 29, ist in Armut aufgewachsen. Heute verdient sie als wissenschaftliche Mitarbeiterin 2.400 Euro. Obwohl sie promoviert, fühlt sie sich an der Uni oft fremd.",
       "url": "https://www.zeit.de/arbeit/2024-12/wissenschaftliche-mitarbeiterin-promotion-universitaet-gehalt-kontoauszug",
-      "image_url": "https://img.zeit.de/arbeit/2024-12/wissenschaftliche-mitarbeiterin-kontoauszug-bild/wide__892x501",
+      "image_url": "https://img.zeit.de/arbeit/2024-12/wissenschaftliche-mitarbeiterin-kontoauszug-bild/super__430x286",
       "image_title": "Wissenschaftliche Mitarbeiterin: Close up of university student is writing her thesis on a laptop at night, sitting at home at table, focusing on her research. Preparing for final exam, studying. Close up of hands of university student is writing her thesis on a laptop at night, sitting at home at table, focusing on her research. Preparing for final exam, studying. model released"
     },
     {
@@ -178,13 +191,6 @@
       "url": "https://www.zeit.de/2023/54/bindungsorientierte-erziehung-bindungstheorie-bowlby-psychologie",
       "image_url": "https://img.zeit.de/2023/54/wie-viel-naehe-braucht-ein-kind-herr-und-frau-grossmann-bild-1/super__430x286",
       "image_title": "Bindungsorientierte Erziehung • Z+ Empfehlung: Karin und Klaus Grossmann, 81 und 88, begründeten die Bindungsforschung in Deutschland. Ihre Längsschnittstudien veränderten den Blick auf Kinder und brachten ihnen international Anerkennung. Klaus Grossmann war bis 2003 Psychologieprofessor an der Universität Regensburg, Karin Grossmann forschte in seinem Team und gab das Wissen an Fachpersonal weiter"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Konflikte mit den Großeltern : \"Ältere Leute sind nicht automatisch weise\"",
-      "teaser": "Familiäre Konflikte verhindern manchmal den Kontakt zwischen Enkeln und Großeltern. Die Familienanwältin Franziska Hasselbach kennt Lösungen jenseits des Gerichtssaals.",
-      "url": "https://www.zeit.de/2024/54/konflikte-grosseltern-enkel-kontakt",
-      "image_url": "https://img.zeit.de/2024/54/aeltere-leute-sind-nicht-automatisch-weise-bild-2/super__430x286",
-      "image_title": "Konflikte mit den Großeltern: BU-Vorschlag: Großeltern haben ein Recht auf Umgang mit ihren Enkelkindern ++++++++++<br /> Grandma Kid <Online Only"
     },
     {
       "title": "Bündnis Sahra Wagenknecht : BSW will sich nach Bundestagswahl umbenennen",
@@ -250,11 +256,11 @@
       "image_title": "Birkenstock und Barfußschuhe: Mythos Birkenstocks – so gesund sind sie wirklich"
     },
     {
-      "title": "Volks- und Raiffeisenbanken : Wo Genossen zocken",
-      "teaser": "Volks- und Raiffeisenbanken galten lange Zeit als solide Alternative zu privaten Finanzinstituten. Mehrere Skandale stellen das Modell infrage.",
-      "url": "https://www.zeit.de/2024/54/volks-raiffeisenbanken-skandale-bankwesen-spekulation",
-      "image_url": "https://img.zeit.de/2024/54/volks-raiffeisenbanken-skandale-bankwesen-spekulation-bild/super__430x286",
-      "image_title": "Volks- und Raiffeisenbanken: Der Überlebenskampf ist für viele Volksbanken härter als für andere Banken."
+      "title": "Z+ (abopflichtiger Inhalt); Konflikte mit den Großeltern : \"Ältere Leute sind nicht automatisch weise\"",
+      "teaser": "Familiäre Konflikte verhindern manchmal den Kontakt zwischen Enkeln und Großeltern. Die Familienanwältin Franziska Hasselbach kennt Lösungen jenseits des Gerichtssaals.",
+      "url": "https://www.zeit.de/2024/54/konflikte-grosseltern-enkel-kontakt",
+      "image_url": "https://img.zeit.de/2024/54/aeltere-leute-sind-nicht-automatisch-weise-bild-2/super__430x286",
+      "image_title": "Konflikte mit den Großeltern: BU-Vorschlag: Großeltern haben ein Recht auf Umgang mit ihren Enkelkindern ++++++++++<br /> Grandma Kid <Online Only"
     },
     {
       "title": "Sprachnachricht : \"Alles von der AfD abzulehnen, ist kontraproduktiv\"",
@@ -397,11 +403,11 @@
       "image_title": "Weihnachtsgeld mit Garantie gibt es nur, wenn eine entsprechende Regelung im Arbeitsvertrag, in einer Betriebsvereinbarung oder in einem Tarifvertrag besteht."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Griechenland : Beruhigend unruhig",
-      "teaser": "Immer in Sichtweite: das Meer. Na und? Auch seine Geschichte behandelt Thessaloniki zum Dahinschmelzen beiläufig. Die Stadt ist uneitel – und damit wunderbar.",
-      "url": "https://www.zeit.de/2024/54/griechenland-thessaloniki-meer-urlaub-tourismus",
-      "image_url": "https://img.zeit.de/2024/54/thessaloniki-teaser/wide__892x501",
-      "image_title": "Griechenland: Beruhigend unruhig"
+      "title": "Z+ (abopflichtiger Inhalt); Indiespiele : Keine Lust auf Weihnachten? Diese Spiele sind herrlich unbesinnlich",
+      "teaser": "Lametta, Spekulatius und Geschenke können auch auf die Nerven gehen. Drei Indiespiele, die für Abwechslung an den Feiertagen sorgen: mit Humor, Horror und Highscores.",
+      "url": "https://www.zeit.de/digital/games/2024-12/indie-spiele-tipps-gaming-weihnachten",
+      "image_url": "https://img.zeit.de/digital/games/2024-12/indie-spiele-tipps-gaming-weihnachten-screenshot/wide__892x501",
+      "image_title": "Indiespiele: Keine Lust auf Weihnachten? Diese Spiele sind herrlich unbesinnlich"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Sofortbildkameras : Und es hat Foto gemacht",
@@ -644,11 +650,11 @@
       "image_title": "Anschlag in Magdeburg: Bernburg, Ort des Täters, des Anschlags auf den Weihnachtsmarkt in Magdeburg Klinik"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Radikalisierung : \"Die Pfade hin zur Radikalisierung sind komplex\"",
-      "teaser": "Nach dem Anschlag in Magdeburg spekulieren viele, der mutmaßliche Täter sei radikalisiert und psychisch krank. Hängt beides auffällig oft zusammen?",
-      "url": "https://www.zeit.de/gesundheit/2024-12/radikalisierung-psychische-erkrankungen-terrorismus-psychologie",
-      "image_url": "https://img.zeit.de/gesundheit/2024-12/radikalisierung-psychische-erkrankungen-terrorismus-psychologie-bild/super__430x286",
-      "image_title": "Radikalisierung: Die Vermutung, es gebe da einen Link zwischen psychischen Krankheiten und der Radikalisierung von Menschen, ist schnell hergestellt - aber hält die These?"
+      "title": "Z+ (abopflichtiger Inhalt); Griechenland : Beruhigend unruhig",
+      "teaser": "Immer in Sichtweite: das Meer. Na und? Auch seine Geschichte behandelt Thessaloniki zum Dahinschmelzen beiläufig. Die Stadt ist uneitel – und damit wunderbar.",
+      "url": "https://www.zeit.de/2024/54/griechenland-thessaloniki-meer-urlaub-tourismus",
+      "image_url": "https://img.zeit.de/2024/54/thessaloniki-teaser/super__430x286",
+      "image_title": "Griechenland: Beruhigend unruhig"
     },
     {
       "title": "Verlagsangebot : Weihnachtsdinner: 5 Gänge aus aller Welt",
@@ -679,18 +685,18 @@
       "image_title": "Quiz: Die spinnen, die Briten!"
     },
     {
-      "title": "Anschlag auf Weihnachtsmarkt : USA sichern deutschen Behörden Unterstützung zu",
-      "teaser": "Viele internationale Politikerinnen und Politiker haben den Angehörigen nach der Tat in Magdeburg ihr Mitgefühl ausgesprochen. Auch das saudische Königshaus äußerte sich.",
-      "url": "https://www.zeit.de/politik/ausland/2024-12/magdeburg-anschlag-weihnachtsmarkt-internationale-reaktionen",
-      "image_url": "https://img.zeit.de/politik/ausland/2024-12/magdeburg-anschlag-weihnachtsmarkt-internationale-reaktionen-bild/super__430x286",
-      "image_title": "Anschlag auf Weihnachtsmarkt: Menschen trauern bei einer Mahnwache auf dem Platz vor der Oper und haben Kerzen und Blumen niedergelegt. Auf dem Weihnachtsmarkt in Magdeburg ist ein Autofahrer in eine Menschengruppe gefahren. 21.12.2024"
+      "title": "Z+ (abopflichtiger Inhalt); Iran : \"Wenn wir auf Damaskus schauen, sehen wir auch uns\"",
+      "teaser": "Nach dem Sturz von Assad in Syrien hat sich in Iran etwas verschoben: Trotz Hidschab-Zwang und Energiekrise spürt unsere Autorin zum ersten Mal so etwas wie Hoffnung.",
+      "url": "https://www.zeit.de/politik/ausland/2024-12/iran-syrien-umsturz-proteste-freiheit-regime",
+      "image_url": "https://img.zeit.de/politik/ausland/2024-12/iran-syrien-umsturz-proteste-freiheit/super__430x286",
+      "image_title": "Iran: October 27, 2024 - Tehran, Iran: People are walking around the Grand Bazaar a day after Israel's attack on Iran. (Arash Khamooshi/Polaris/ddp) ///"
     },
     {
-      "title": "Kaffeepreise : Die Krönung",
-      "teaser": "Kaffee im Supermarkt ist so teuer wie nie. Miguel Erthal, der Kaffeekönig von Rio de Janeiro, weiß, warum. Bei ihm sind die Bohnen so rar, dass Banditen darauf lauern.",
-      "url": "https://www.zeit.de/2024/54/kaffeepreise-anbau-rio-de-janeiro-suedamerika",
-      "image_url": "https://img.zeit.de/2024/54/kaffee-preise-anbau-rio-de-janeiro-teaser/wide__892x501",
-      "image_title": "Kaffeepreise: \"Wird Kaffee zum Luxusgut?\" wurde kürzlich in der Tagesschau gefragt."
+      "title": "Volks- und Raiffeisenbanken : Wo Genossen zocken",
+      "teaser": "Volks- und Raiffeisenbanken galten lange Zeit als solide Alternative zu privaten Finanzinstituten. Mehrere Skandale stellen das Modell infrage.",
+      "url": "https://www.zeit.de/2024/54/volks-raiffeisenbanken-skandale-bankwesen-spekulation",
+      "image_url": "https://img.zeit.de/2024/54/volks-raiffeisenbanken-skandale-bankwesen-spekulation-bild/wide__892x501",
+      "image_title": "Volks- und Raiffeisenbanken: Der Überlebenskampf ist für viele Volksbanken härter als für andere Banken."
     },
     {
       "title": "Verlagsangebot : Risotto – ein Alleskönner",
@@ -700,11 +706,11 @@
       "image_title": "Risotto – ein Alleskönner"
     },
     {
-      "title": "Autoindustrie : VW und IG Metall sollen sich auf Sparpläne geeinigt haben",
-      "teaser": "Im bisher längsten Tarifstreit bei VW zeichnet sich nach Berichten eine Einigung ab. Für den Abend haben Gewerkschaft und Konzern separate Pressekonferenzen einberufen.",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2024-12/autoindustrie-vw-ig-metall-tarifstreit-einigung-moeglich",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-12/vw-ig-metall/super__430x286",
-      "image_title": "Autoindustrie: 498920309 Beschreibung Ein Mann betritt am Morgen das Werk von Volkswagen Nutzfahrzeuge. Seit Montag ringen Volkswagen und die IG Metall um eine Einigung im Tarifstreit. Die tagelangen Tarifverhandlungen dauern weiter an. Service +++ dpa-Bildfunk +++ Aufnahmedatum 20.12.2024 Bildnachweis picture alliance/dpa | Julian Stratenschulte Besondere Hinweise -"
+      "title": "Kaffeepreise : Die Krönung",
+      "teaser": "Kaffee im Supermarkt ist so teuer wie nie. Miguel Erthal, der Kaffeekönig von Rio de Janeiro, weiß, warum. Bei ihm sind die Bohnen so rar, dass Banditen darauf lauern.",
+      "url": "https://www.zeit.de/2024/54/kaffeepreise-anbau-rio-de-janeiro-suedamerika",
+      "image_url": "https://img.zeit.de/2024/54/kaffee-preise-anbau-rio-de-janeiro-teaser/super__430x286",
+      "image_title": "Kaffeepreise: \"Wird Kaffee zum Luxusgut?\" wurde kürzlich in der Tagesschau gefragt."
     },
     {
       "title": "Änderungen 2025 : Die elektronische Patientenakte kommt, Deutschlandticket wird teurer",
@@ -950,10 +956,17 @@
       "image_url": "https://img.zeit.de/administratives/2015-10/zeit-shop-bilder/kug-neu.jpg/super__320x213"
     },
     {
-      "title": "An dieser Stelle ist ein externer Inhalt eingebunden",
-      "teaser": "Zum Anschauen benötigen wir Ihre Zustimmung",
+      "title": "Z+ (abopflichtiger Inhalt); Radikalisierung : \"Die Pfade hin zur Radikalisierung sind komplex\"",
+      "teaser": "Nach dem Anschlag in Magdeburg spekulieren viele, der mutmaßliche Täter sei radikalisiert und psychisch krank. Hängt beides auffällig oft zusammen?",
+      "url": "https://www.zeit.de/gesundheit/2024-12/radikalisierung-psychische-erkrankungen-terrorismus-psychologie",
+      "image_url": "https://img.zeit.de/gesundheit/2024-12/radikalisierung-psychische-erkrankungen-terrorismus-psychologie-bild/wide__892x501",
+      "image_title": "Radikalisierung: Die Vermutung, es gebe da einen Link zwischen psychischen Krankheiten und der Radikalisierung von Menschen, ist schnell hergestellt - aber hält die These?"
+    },
+    {
+      "title": "Debatte über Impfschäden : Was die Corona-Impfung wirklich gebracht hat",
+      "teaser": "Vor vier Jahren hat die EU den ersten Corona-Impfstoff zugelassen. Anfangs hieß es, es gebe keine schlimmen Nebenwirkungen. Dann kamen sie doch. Was weiß man heute?",
       "url": "https://www.zeit.de/gesundheit/2024-12/corona-impfung-nebenwirkungen-daten",
-      "image_url": "https://img.zeit.de/gesundheit/2024-12/ingo-impfen-analyse-thumbnail/wide__892x501",
+      "image_url": "https://img.zeit.de/gesundheit/2024-12/ingo-impfen-analyse-thumbnail/super__430x286",
       "image_title": "Debatte über Impfschäden: Was die Corona-Impfung wirklich gebracht hat"
     },
     {
@@ -962,13 +975,6 @@
       "url": "https://www.zeit.de/gesundheit/2024-12/krankenkasse-techniker-gesundheitsversorgung-erhoehung-zusatzbeitrag",
       "image_url": "https://img.zeit.de/2024-12/krankenkasse-techniker-gesundheitsversorgung-erhoehung-zusatzbeitrag-bild/super__430x286",
       "image_title": "Techniker Krankenkasse: Viele Krankenkassenbeiträge dürften im nächsten Jahr merklich ansteigen. Die Techniker Krankenkasse hat als erste die konkrete Erhöhung ihres Zusatzbeitrages bekanntgegeben."
-    },
-    {
-      "title": "Pandemie : Mehrheit der Deutschen wünscht bessere Corona-Aufarbeitung",
-      "teaser": "Corona ist vorbei, doch viele beschäftigt das Thema noch. Laut einer ZEIT-Umfrage fordern vor allem Arbeiter eine bessere Nachbearbeitung der Pandemie – und FDP-Wähler.",
-      "url": "https://www.zeit.de/2024/54/aufarbeitung-pandemie-covid-19-corona-umfrage-buergerdialog",
-      "image_url": "https://img.zeit.de/2024/54/wer-will-noch-ueber-corona-reden-teaser/super__430x286",
-      "image_title": "Pandemie: Sollte die Coronapandemie mit ihren Abstandsregeln, Bundesnotbremsen, Impfdebatten und Maskenpflichten in einem Bürgerdialog aufgearbeitet werden?"
     },
     {
       "title": "Social Media : Albanien will TikTok für ein Jahr sperren",
@@ -1167,36 +1173,36 @@
       "image_title": "Bauprojekte in Hamburg: Andreas Dressel (SPD), Senator für Finanzen in Hamburg, steht bei einer Dachbegehung auf dem Bibliotheksgebäude. Am Gebäude der Staats- und Universitätsbibliothek Hamburg wird derzeit das Dach auf knapp 4.000 Quadratmetern Fläche saniert."
     },
     {
-      "title": "Absturz: Türkei: Hubschrauber prallt gegen Krankenhaus - Vier Tote",
-      "url": "https://www.zeit.de/news/2024-12/22/tuerkei-hubschrauber-prallt-gegen-krankenhaus-vier-tote"
+      "title": "Pfefferspray im Einsatz: Jugendliche auf Spielplatz angegriffen: Täter noch unbekannt",
+      "url": "https://www.zeit.de/news/2024-12/22/jugendliche-auf-spielplatz-angegriffen-taeter-noch-unbekannt"
     },
     {
-      "title": "Todesfahrt auf Weihnachtsmarkt: Anschlags-Todesopfer aus Niedersachsen und Raum Magdeburg",
-      "url": "https://www.zeit.de/news/2024-12/22/anschlags-todesopfer-aus-niedersachsen-und-raum-magdeburg"
+      "title": "3. Liga: SV Sandhausen trennt sich von Trainer Ristic",
+      "url": "https://www.zeit.de/news/2024-12/22/sv-sandhausen-trennt-sich-von-trainer-ristic"
     },
     {
-      "title": "Kriminalität: Kleinkind verletzt - Fahrer flieht von Unfallstelle",
-      "url": "https://www.zeit.de/news/2024-12/22/kleinkind-verletzt-fahrer-flieht-von-unfallstelle"
+      "title": "2. Fußball-Bundesliga: HSV setzt auf Hamburger Jung: Polzin neuer Cheftrainer",
+      "url": "https://www.zeit.de/news/2024-12/22/hamburger-jung-als-hoffnungstraeger-hsv-profis-wollen-polzin"
     },
     {
-      "title": "Wettervorhersage: Wolken und Regen an Heiligabend erwartet",
-      "url": "https://www.zeit.de/news/2024-12/22/wolken-und-regen-an-heiligabend-erwartet"
+      "title": "Tödliche Kollision: Autofahrer prallt gegen Baum und stirbt",
+      "url": "https://www.zeit.de/news/2024-12/22/autofahrer-prallt-gegen-baum-und-stirbt"
     },
     {
-      "title": "Hilfe für Inselstaat: Erdbeben in Vanuatu: Sorge vor Krankheiten wächst",
-      "url": "https://www.zeit.de/news/2024-12/22/erdbeben-in-vanuatu-sorge-vor-krankheiten-waechst"
+      "title": "2. Fußball-Bundesliga: Kaiserslautern verpasst Sprung an Zweitliga-Spitze",
+      "url": "https://www.zeit.de/news/2024-12/22/kaiserslautern-verpasst-sprung-an-zweitliga-spitze"
     },
     {
-      "title": "Unbekannter schießt: 19-Jähriger in Lichtenberg angeschossen",
-      "url": "https://www.zeit.de/news/2024-12/22/19-jaehriger-in-lichtenberg-angeschossen"
+      "title": "Tötungsabsicht: Frau lebensgefährlich durch Partner mit Messer verletzt",
+      "url": "https://www.zeit.de/news/2024-12/22/frau-lebensgefaehrlich-durch-partner-mit-messer-verletzt"
     },
     {
-      "title": "Frauen-Fußball: Bayern-Torhüterin mit guten Nachrichten nach Tumorerkrankung",
-      "url": "https://www.zeit.de/news/2024-12/22/bayern-torhueterin-mit-guten-nachrichten-nach-tumorerkrankung"
+      "title": "3. Fußball-Liga: Waldhof beendet Jahr mit Remis gegen Bielefeld",
+      "url": "https://www.zeit.de/news/2024-12/22/waldhof-beendet-jahr-mit-remis-gegen-bielefeld"
     },
     {
-      "title": "Schwerverletzter nach Unfall: Auto stößt mit Fußgänger zusammen",
-      "url": "https://www.zeit.de/news/2024-12/22/auto-stoesst-mit-fussgaenger-zusammen"
+      "title": "Deutscher Doppelsieg: Biathletin Grotian feiert ersten Weltcupsieg vor Preuß",
+      "url": "https://www.zeit.de/news/2024-12/22/biathletin-grotian-feiert-ersten-weltcupsieg-vor-preuss"
     }
   ]
 }
