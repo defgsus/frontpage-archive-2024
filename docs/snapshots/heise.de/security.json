@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-12-23T08:10:45",
+  "timestamp": "2024-12-23T09:08:06",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Sophos-Firewall",
+      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecken-bedrohen-Sophos-Firewalls-10218914.html"
+    },
+    {
       "title": "Fortinet Wireless Manager",
       "url": "https://www.heise.de/news/Fortinet-Wireless-Manager-Informationen-zu-kritischer-Luecke-zurueckgehalten-10217204.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Windows-Sicherheitsloesung-Trend-Micro-Apex-One-als-Einfallstor-fuer-Angreifer-10213518.html"
     },
     {
-      "title": "Apache Struts",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-nutzen-kritische-Sicherheitsluecke-in-Apache-Struts-aus-10212840.html"
+      "title": "Kritische Sicherheitslücken bedrohen Sophos-Firewalls",
+      "teaser": "Es sind wichtige Sicherheitsupdates für Firewalls von Sophos erschienen. Mit den Standardeinstellungen installieren sie sich automatisch.",
+      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecken-bedrohen-Sophos-Firewalls-10218914.html",
+      "image_title": "Upgrade-Taste"
     },
     {
       "title": "heise meets … Strafverteidiger spart mit KI bis zu 60 Minuten täglich",
@@ -158,12 +164,6 @@
       "image_title": "Brennendes Laptop vor Servern, die das Laptop überwacht"
     },
     {
-      "title": "CrushFTP: Attacken auf Admins möglich",
-      "teaser": "Angreifer können in Logs von CrushFTP Schadcode verstecken. Dagegen gerüstete Versionen sind verfügbar.",
-      "url": "https://www.heise.de/news/CrushFTP-Attacken-auf-Admins-moeglich-10202537.html",
-      "image_title": "Tastatur"
-    },
-    {
       "title": "C-Level Kommunikation",
       "teaser": "Wie sag ich's meinem Chef? Das ist oft die Frage, wenn Budget-Freigaben oder die Projektzustimmung für wichtige Security-Projekte anstehen. Für die richtige Überzeugungskraft beim Chef geben wir Ihnen die notwendigen Fertigkeiten an die Hand, um das Thema Informationssicherheit richtig zu platzieren.",
       "url": "https://heise-academy.de/webinare/wie-sag-ichs-meinem-chef?wt_mc=intern.academy.security.web_c-level.ho_teaser.teaser.teaser"
@@ -187,6 +187,11 @@
       "image_title": "Mann zeigt auf Spirale aus geometrischen Körpern"
     },
     {
+      "title": "Desinfect't 2024 p4",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Desinfect-t-2024-p4/posting-44740917/show/"
+    },
+    {
       "title": "Re: Desinfect zeigt keine Windows Laufwerke",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Desinfect-zeigt-keine-Windows-Laufwerke/posting-44733658/show/"
@@ -195,11 +200,6 @@
       "title": "Re: Umwandlung in vollwertigen Stick",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Umwandlung-in-vollwertigen-Stick/posting-44733506/show/"
-    },
-    {
-      "title": "Re: qu1cks0pe",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-qu1cks0pe/posting-44732330/show/"
     }
   ]
 }
