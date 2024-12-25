@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-12-25T04:09:13",
+  "timestamp": "2024-12-25T05:00:58",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -172,13 +178,6 @@
       "image_title": "USA: Der ehemalige US-Präsident Donald Trump erscheint im Strafgericht von Manhattan während der Beratungen der Geschworenen in seinem Schweigegeldprozess. Donald Trump machte ein strenges Gesicht als er auf die Entscheidung vor Gericht wartete."
     },
     {
-      "title": "Tafeln in Deutschland : \"Ich schäme mich. Ich schäme mich bis zum Gehtnichtmehr\"",
-      "teaser": "Viele Tafeln müssten rationieren, hieß es zuletzt. Über das Gefühl, in diesem reichen Land für Lebensmittel anstehen zu müssen – und die Frage: Was heißt hier genug?",
-      "url": "https://www.zeit.de/arbeit/2024-12/tafel-deutschland-rationierung-armut-spende",
-      "image_url": "https://img.zeit.de/arbeit/2024-12/situation-tafel-hilfsorganisation-bild/super__430x286",
-      "image_title": "Tafeln in Deutschland: A volunteer of the Berliner Tafel (Berlin table) oranization sorts groceries for people in need at a warehaouse in Berlin, Germany, 14 December 2022. The Berliner Tafel organization collects unsold food from supermarkets and bakeries, sorts it at its warehaouses and redistributes it over social programs and various food distribution points. The Berliner Tafel reaches over 165,000 people every month, supplying 660 tons of donated food as a supplement to those in need. Due to high inflation and rising living cost, more people are coming to distribution points."
-    },
-    {
       "title": "Kommunen : Gemeindebund warnt vor Kollaps im öffentlichen Dienst",
       "teaser": "André Berghegger vom Städte- und Gemeindebund warnt vor einem \"schleichenden Blackout\" in den Kommunen. Der mutigere Einsatz von künstlicher Intelligenz könnte helfen.",
       "url": "https://www.zeit.de/arbeit/2024-12/oeffentlicher-dienst-personalmangel-gemeindebund-andr-berghegger",
@@ -200,6 +199,13 @@
       "image_title": "Vatikan: Papst Franziskus hat den Vorsitz über die Heiligabend-Messe im Petersdom im Vatikan, nachdem er die Heilige Pforte der Basilika geöffnet hat, um das katholische Heilige Jahr 2025 zu eröffnen."
     },
     {
+      "title": "Tafeln in Deutschland : \"Ich schäme mich. Ich schäme mich bis zum Gehtnichtmehr\"",
+      "teaser": "Viele Tafeln müssten rationieren, hieß es zuletzt. Über das Gefühl, in diesem reichen Land für Lebensmittel anstehen zu müssen – und die Frage: Was heißt hier genug?",
+      "url": "https://www.zeit.de/arbeit/2024-12/tafel-deutschland-rationierung-armut-spende",
+      "image_url": "https://img.zeit.de/arbeit/2024-12/situation-tafel-hilfsorganisation-bild/super__430x286",
+      "image_title": "Tafeln in Deutschland: A volunteer of the Berliner Tafel (Berlin table) oranization sorts groceries for people in need at a warehaouse in Berlin, Germany, 14 December 2022. The Berliner Tafel organization collects unsold food from supermarkets and bakeries, sorts it at its warehaouses and redistributes it over social programs and various food distribution points. The Berliner Tafel reaches over 165,000 people every month, supplying 660 tons of donated food as a supplement to those in need. Due to high inflation and rising living cost, more people are coming to distribution points."
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Erwachsene Kinder : Was unsere Eltern uns fragen sollen",
       "teaser": "Unangenehmes Schweigen beim Familientreffen? Das muss nicht sein. Hier haben erwachsene Kinder 70 Fragen gesammelt, die sie wirklich gestellt bekommen wollen.",
       "url": "https://www.zeit.de/zeit-magazin/leben/2024-12/erwachsene-kinder-eltern-fragen-konversationen-weihnachten",
@@ -214,13 +220,6 @@
       "image_title": "Zeit mit Verwandten: Wie viel Zeit bleibt uns miteinander? Der ehrliche Eltern-Kind-Rechner"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Kinderheime : \"Strafen zeigen keine Wirkung\"",
-      "teaser": "Im Roman \"Der Junge\" erzählt Michèle Hofmann von einem Kind aus Bern, das in ein Heim gesteckt wird. Die Geschichte spielt in den 1920er-Jahren, ist aber doch aktuell.",
-      "url": "https://www.zeit.de/2024/54/kinderheime-roman-der-junge-michele-hofmann-bern",
-      "image_url": "https://img.zeit.de/2024/54/strafen-zeigen-keine-wirkung-bild-3/super__430x286",
-      "image_title": "Kinderheime: Zimmer in einer Erziehungsanstalt in der Schweiz, 1940er Jahre. Im Roman \"Der Junge\" verarbeitet Michèle Hofmann ihre wissenschaftliche Forschung zur Geschichte der Fremdplatzierung in der Schweiz."
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Alkoholkonsum • Das Wichtigste aus Z+ : Wie viel Alkohol trinken Sie – und wie geht es Ihnen damit?",
       "teaser": "Ach, die zwei, drei, vier Gläschen Wein sind doch nichts. Oder? In unserer interaktiven Grafik können Sie Ihr Trinkverhalten mit dem anderer vergleichen.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-12/alkoholkonsum-menge-umfrage-daten-alkoholismus",
@@ -228,11 +227,11 @@
       "image_title": "Alkoholkonsum • Das Wichtigste aus Z+: Wie viel Alkohol trinken Sie – und wie geht es Ihnen damit?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Darts-WM : Wann wird endlich ein Deutscher Weltmeister?",
-      "teaser": "Darts boomt auch in Deutschland, doch das Warten auf einen deutschen Weltmeister hält an. Das liegt an Strukturschwächen. Warum es trotzdem bald so weit sein könnte.",
-      "url": "https://www.zeit.de/sport/2024-12/darts-wm-chancen-deutschland-martin-schindler-gabriel-clemens",
-      "image_url": "https://img.zeit.de/sport/2024-12/darts-wm-chancen-deutschland-martin-schindler/super__430x286",
-      "image_title": "Darts-WM: LONDON, ENGLAND - DECEMBER 22: Martin Schindler of Germany throws against Callan Rydz of England in their Second Round match on day eight of the 2024/25 Paddy Power World Darts Championship at Alexandra Palace on December 22, 2024 in London, England. (Photo by James Fearn/Getty Images)"
+      "title": "US-Musikproduzent : Musikproduzent Richard Perry ist gestorben",
+      "teaser": "Richard Perry arbeitete mit Barbra Streisand und Ringo Starr und galt als verlässlicher Hitproduzent. Jetzt ist der ehemalige Lebensgefährte von Jane Fonda gestorben.",
+      "url": "https://www.zeit.de/kultur/musik/2024-12/us-musikproduzent-richard-perry-gestorben",
+      "image_url": "https://img.zeit.de/kultur/musik/2024-12/us-musikproduzent-richard-perry-gestorben-bild/super__430x286",
+      "image_title": "US-Musikproduzent: Mediennummer 499473743 Beschreibung Jane Fonda und Richard Perry posieren für ein Bild bei der 46th Anniversary Gala Vanguard Awards des Los Angeles LGBT Center im Hyatt Regency Century Plaza in Los Angeles, 7. November 2015. Der US-Musikproduzent Richard Perry, der mit vielen Stars gearbeitet hat, ist tot. Er starb am Dienstag in Los Angeles im Alter von 82 Jahren. (zu dpa: «Musi... + Mehr lesen Service +++ dpa-Bildfunk +++ Aufnahmedatum 08.11.2015 Bildnachweis picture alliance/dpa/Invision via AP | Chris Pizzello Besondere Hinweise - Release"
     },
     {
       "title": "Sprachnachricht : \"Rechtsradikale sollten nicht im Parlament arbeiten dürfen\"",
@@ -375,25 +374,25 @@
       "image_title": "Finanzen: Geldwerter Nachteil"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Physik : \"Es wäre vermessen, Gott mit absoluter Sicherheit auszuschließen\"",
+      "teaser": "Wo kommen wir her? Die Entstehung des Universums lässt sich zurückverfolgen, sagt der Physiker Alexander Blum. An einem Punkt aber brechen die Gleichungen zusammen.",
+      "url": "https://www.zeit.de/wissen/2022-12/physik-erkenntnis-grenzen-universum-ursprung",
+      "image_url": "https://img.zeit.de/wissen/2022-12/physik-erkenntnis-grenzen-universum-ursprung-bild/super__430x286",
+      "image_title": "Physik: \"Es wäre vermessen, Gott mit absoluter Sicherheit auszuschließen\""
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Vaterschaft : \"Für meinen mittleren Sohn bin ich ein Monster\"",
+      "teaser": "Was bereuen Väter rückblickend? Hier erinnern sich drei Männer mit erwachsenen Kindern selbstkritisch – und erzählen, was sie heute als Vater anders machen würden.",
+      "url": "https://www.zeit.de/familie/2024-09/vaterschaft-reue-fehler-choleriker-boomer",
+      "image_url": "https://img.zeit.de/familie/2024-09/vaterschaft-reue-fehler-choleriker/super__430x286",
+      "image_title": "Vaterschaft: \"Für meinen mittleren Sohn bin ich ein Monster\""
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); \"World of Warcraft\" : Wer es spielt, spürt sich selbst",
       "teaser": "Wir galten als Junkies – dabei brachte uns Teenies dieses Spiel so viel bei. Seit 20 Jahren ist \"World of Warcraft\" ein Welterfolg. Weil es seine Spieler zu Helden macht.",
       "url": "https://www.zeit.de/digital/games/2024-12/world-of-warcraft-20-jahre-jubilaeum-blizzard-videospiel",
       "image_url": "https://img.zeit.de/digital/2024-12/20-jahren-world-of-warcraft/super__430x286",
       "image_title": "\"World of Warcraft\": Wer es spielt, spürt sich selbst"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Absolute Stille : Minus sieben Dezibel",
-      "teaser": "Viele sehnen sich nach mehr Stille, dabei kann sie auch wehtun. Ein Selbstversuch in einem schalltoten Raum, in dem es niemand länger als zwei Stunden aushält.",
-      "url": "https://www.zeit.de/gesellschaft/2023-12/absolute-stille-schalltoter-raum-selbstversuch",
-      "image_url": "https://img.zeit.de/gesellschaft/2023-12/wochenende-absolute-stille-schalltoter-raum-selbstversuch-11/super__430x286",
-      "image_title": "Absolute Stille: Minus sieben Dezibel"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Schlafstörungen : Wie der Schlaf wiederkam",
-      "teaser": "Auch Menschen, die jahrelang nicht gut schlafen, können wieder zu ruhigen Nächten kommen. Zwei ehemals Schlaflose erklären, wie sie ihre Schlafstörungen überwunden haben.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2022-01/schlafstoerung-therapie-gesundheit-techniken-tipps",
-      "image_url": "https://img.zeit.de/zeit-magazin/leben/2022-01/schlafstoerung-teaser/super__430x286",
-      "image_title": "Schlafstörungen: Wie der Schlaf wiederkam"
     },
     {
       "title": "Adventskalender Folge 24 : Das Mädchen mit den Schwefelhölzchen",
@@ -622,18 +621,18 @@
       "url": "https://www.zeit.de/wirtschaft/2024-12/weihnachtsgeschaeft-einzelhandel-handelsverband-enttaeuschung-neuwahlen"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Gerösteter Schinken : Schwein gemacht!",
-      "teaser": "Schinken in den Ofen – und dann pinseln, pinseln, pinseln. So entsteht ein fruchtiger, australischer Sonntagsbraten, eingehüllt in knusprige Nektarinenglasur.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-12/geroesteter-schinken-nektarinen-ahornsirup-glasur-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-12/wochenmarkt-geroesteter-schinken-teaser/wide__892x501",
-      "image_title": "Gerösteter Schinken: Langsam gerösteter Schinken"
+      "title": "Z+ (abopflichtiger Inhalt); Darts-WM : Wann wird endlich ein Deutscher Weltmeister?",
+      "teaser": "Darts boomt auch in Deutschland, doch das Warten auf einen deutschen Weltmeister hält an. Das liegt an Strukturschwächen. Warum es trotzdem bald so weit sein könnte.",
+      "url": "https://www.zeit.de/sport/2024-12/darts-wm-chancen-deutschland-martin-schindler-gabriel-clemens",
+      "image_url": "https://img.zeit.de/sport/2024-12/darts-wm-chancen-deutschland-martin-schindler/wide__892x501",
+      "image_title": "Darts-WM: LONDON, ENGLAND - DECEMBER 22: Martin Schindler of Germany throws against Callan Rydz of England in their Second Round match on day eight of the 2024/25 Paddy Power World Darts Championship at Alexandra Palace on December 22, 2024 in London, England. (Photo by James Fearn/Getty Images)"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Brenndauer einer Kerze : Brennen Kerzen länger, wenn man sie vorher ins Eisfach legt?",
-      "teaser": "Je kälter die Kerze, desto länger brennt sie. Stimmt das? Unser Autor hat es getestet – und am Ende ein noch simpleres Mittel gefunden, um die Brenndauer zu verlängern.",
-      "url": "https://www.zeit.de/2024/55/brenndauer-kerze-wachs-temperatur-einfrieren-experiment",
-      "image_url": "https://img.zeit.de/2024/55/stimmt-s-bild-2/super__430x286",
-      "image_title": "Brenndauer einer Kerze: BU-Vorschlag: Verlängert sich die Brenndauer einer gefrorenen Kerze? ++++++++++<br /> Illustration of a candle made of ice"
+      "title": "Z+ (abopflichtiger Inhalt); Kinderheime : \"Strafen zeigen keine Wirkung\"",
+      "teaser": "Im Roman \"Der Junge\" erzählt Michèle Hofmann von einem Kind aus Bern, das in ein Heim gesteckt wird. Die Geschichte spielt in den 1920er-Jahren, ist aber doch aktuell.",
+      "url": "https://www.zeit.de/2024/54/kinderheime-roman-der-junge-michele-hofmann-bern",
+      "image_url": "https://img.zeit.de/2024/54/strafen-zeigen-keine-wirkung-bild-3/super__430x286",
+      "image_title": "Kinderheime: Zimmer in einer Erziehungsanstalt in der Schweiz, 1940er Jahre. Im Roman \"Der Junge\" verarbeitet Michèle Hofmann ihre wissenschaftliche Forschung zur Geschichte der Fremdplatzierung in der Schweiz."
     },
     {
       "title": "Verlagsangebot : Weihnachtsdinner: 5 Gänge aus aller Welt",
@@ -839,17 +838,10 @@
       "image_title": "Russland: Survivors of the sinking of Russian cargo ship Ursa Major stand on the deck of a Spanish Maritime Rescue ship upon arrival at the port of Cartagena, Spain, December 23, 2024."
     },
     {
-      "title": "US-Musikproduzent : Musikproduzent Richard Perry ist gestorben",
-      "teaser": "Richard Perry arbeitete mit Barbra Streisand und Ringo Starr und galt als verläßlicher Hitproduzent. Jetzt ist der ehemalige Lebensgefährte von Jane Fonda gestorben.",
-      "url": "https://www.zeit.de/kultur/musik/2024-12/us-musikproduzent-richard-perry-gestorben",
-      "image_url": "https://img.zeit.de/kultur/musik/2024-12/us-musikproduzent-richard-perry-gestorben-bild/wide__892x501",
-      "image_title": "US-Musikproduzent: Mediennummer 499473743 Beschreibung Jane Fonda und Richard Perry posieren für ein Bild bei der 46th Anniversary Gala Vanguard Awards des Los Angeles LGBT Center im Hyatt Regency Century Plaza in Los Angeles, 7. November 2015. Der US-Musikproduzent Richard Perry, der mit vielen Stars gearbeitet hat, ist tot. Er starb am Dienstag in Los Angeles im Alter von 82 Jahren. (zu dpa: «Musi... + Mehr lesen Service +++ dpa-Bildfunk +++ Aufnahmedatum 08.11.2015 Bildnachweis picture alliance/dpa/Invision via AP | Chris Pizzello Besondere Hinweise - Release"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Netflix-Serie \"Unsere Ozeane\" : \"Plötzlich wurde ein Oktopus neugierig und sprang auf die Kamera\"",
       "teaser": "Meerbrassen spielen in \"Unsere Ozeane\" mit Seesternen, Wale werden zu Kameraleuten. Hier erklären zwei Produzenten der Dokuserie, wie solch spektakuläre Bilder entstehen.",
       "url": "https://www.zeit.de/kultur/film/2024-12/netflix-dokumentation-unsere-ozeane-produzenten",
-      "image_url": "https://img.zeit.de/kultur/2024-12/our-oceans-s1-e1-00-21-03-18-kopie-teaser/super__430x286",
+      "image_url": "https://img.zeit.de/kultur/2024-12/our-oceans-s1-e1-00-21-03-18-kopie-teaser/wide__892x501",
       "image_title": "Our_Oceans_S1_E1_00_21_03_18 Kopie Teaser"
     },
     {
@@ -860,18 +852,25 @@
       "image_title": "Buchempfehlungen • Das Beste aus Z+: Das sind die 100 besten Bücher des Jahres"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Buchempfehlungen : Die Sachbuch-Bestenliste für Januar",
+      "teaser": "Von Bauernkriegen im Mittelalter über neue Perspektiven aufs Klima bis zum hochaktuellen Nawalny-Porträt: Hier sind die wichtigsten Sachbücher des Monats.",
+      "url": "https://www.zeit.de/2024/55/buchempfehlungen-sachbuecher-literatur-lyndal-roper-jens-bisky",
+      "image_url": "https://img.zeit.de/2023/37/buchempfehlungen-sachbuch-september-2023-teaserbild/super__430x286",
+      "image_title": "Buchempfehlungen: Die Sachbuch-Bestenliste für Januar"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Brenndauer einer Kerze : Brennen Kerzen länger, wenn man sie vorher ins Eisfach legt?",
+      "teaser": "Je kälter die Kerze, desto länger brennt sie. Stimmt das? Unser Autor hat es getestet – und am Ende ein noch simpleres Mittel gefunden, um die Brenndauer zu verlängern.",
+      "url": "https://www.zeit.de/2024/55/brenndauer-kerze-wachs-temperatur-einfrieren-experiment",
+      "image_url": "https://img.zeit.de/2024/55/stimmt-s-bild-2/wide__892x501",
+      "image_title": "Brenndauer einer Kerze: BU-Vorschlag: Verlängert sich die Brenndauer einer gefrorenen Kerze? ++++++++++<br /> Illustration of a candle made of ice"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Götz von Berlichingen : Wer war er, dieser Götz von Berlichingen?",
       "teaser": "Goethe feierte ihn als Helden, im Bauernkrieg führte er einen Haufen Aufständischer an. Bekannt wurde er als Kerl mit der eisernen Faust, der deftig fluchen konnte.",
       "url": "https://www.zeit.de/2024/54/goetz-von-berlichingen-ritter-bauernkrieg-aufstaende-goethe",
-      "image_url": "https://img.zeit.de/2024/54/held-oder-halunke-bild-1/wide__892x501",
+      "image_url": "https://img.zeit.de/2024/54/held-oder-halunke-bild-1/super__430x286",
       "image_title": "Götz von Berlichingen: Götz von Berlichingen (um 1480–1562) auf einer zeitgenössischen Darstellung"
-    },
-    {
-      "title": "Russland : Forscher entdecken 50.000 Jahre altes Mammut-Baby in Sibirien",
-      "teaser": "1,20 Meter groß, 180 Kilogramm schwer: Im sibirischen Permafrostboden wurde Mammut-Baby Jana entdeckt. Den russischen Forschern zufolge ist es in ausgezeichnetem Zustand.",
-      "url": "https://www.zeit.de/wissen/2024-12/russland-sibirien-baby-mammut-gefunden-fossil",
-      "image_url": "https://img.zeit.de/wissen/2024-12/baby-mammut-in-sibirien-entdeckt-bild/super__430x286",
-      "image_title": "Russland: The carcass of a baby mammoth, which is estimated to be over 50,000 years old and was recently found in the Siberian permafrost in the Batagaika crater in the Verkhoyansky district of Yakutia, is seen behind glass fencing during a demonstration in the laboratory of the Mammoth Museum at the North-Eastern Federal University in Yakutsk, Russia, December 23, 2024."
     },
     {
       "title": "Anzeige : Kulturexpeditionen mit ZEIT REISEN",
@@ -1012,18 +1011,18 @@
       "image_title": "Anschlag in Magdeburg: Staatsanwaltschaft erlässt Haftbefehl gegen Tatverdächtigen"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Gerösteter Schinken : Schwein gemacht!",
+      "teaser": "Schinken in den Ofen – und dann pinseln, pinseln, pinseln. So entsteht ein fruchtiger, australischer Sonntagsbraten, eingehüllt in knusprige Nektarinenglasur.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-12/geroesteter-schinken-nektarinen-ahornsirup-glasur-rezept-wochenmarkt",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-12/wochenmarkt-geroesteter-schinken-teaser/wide__892x501",
+      "image_title": "Gerösteter Schinken: Langsam gerösteter Schinken"
+    },
+    {
       "title": "Hoffnung durch Gott : Warum ich ein radikaler Optimist sein kann? Gott!",
       "teaser": "Och nee, noch so eine Jesus-Maus, denken Sie jetzt bestimmt. Aber die Idee von Gott enthält ein irres Versprechen: Egal wie düster die Lage – ich bin nicht ausgeliefert.",
       "url": "https://www.zeit.de/zeit-magazin/leben/2024-12/hoffnung-gott-optimismus-religion",
-      "image_url": "https://img.zeit.de/zeit-verlag/2024-12/hoffnung-gott-optimismus-religion-bild/wide__892x501",
+      "image_url": "https://img.zeit.de/zeit-verlag/2024-12/hoffnung-gott-optimismus-religion-bild/super__430x286",
       "image_title": "Hoffnung durch Gott: Warum ich ein radikaler Optimist sein kann? Gott!"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Müdigkeit und Essen : \"Ein Schweinebraten bleibt länger im Magen liegen als ein Salat\"",
-      "teaser": "Das viele Essen an den Feiertagen macht müde. Das muss nicht sein. Mit den richtigen Zutaten wird der Körper nicht träge, sondern sogar aktiviert.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-12/muedigkeit-essen-magen-durchblutung-energie",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-12/muedigkeit-essen-magen-durchblutung-energie-bild/super__430x286",
-      "image_title": "Müdigkeit und Essen: \"Ein Schweinebraten bleibt länger im Magen liegen als ein Salat\""
     },
     {
       "title": "Worträtsel : Wortiger",
@@ -1061,17 +1060,24 @@
       "image_title": "Kreuzworträtsel: Um die Ecke gedacht"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Müdigkeit und Essen : \"Ein Schweinebraten bleibt länger im Magen liegen als ein Salat\"",
+      "teaser": "Das viele Essen an den Feiertagen macht müde. Das muss nicht sein. Mit den richtigen Zutaten wird der Körper nicht träge, sondern sogar aktiviert.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-12/muedigkeit-essen-magen-durchblutung-energie",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-12/muedigkeit-essen-magen-durchblutung-energie-bild/wide__892x501",
+      "image_title": "Müdigkeit und Essen: \"Ein Schweinebraten bleibt länger im Magen liegen als ein Salat\""
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Gegarte Äpfel : Über Weihnachten nicht die Form verlieren!",
       "teaser": "Weich werden, aber bitte kein Kompott: Diese gegarten Äpfel mit winterlichem Nelkenaroma sind, mit Joghurt oder Müsli serviert, ein tolles leichtes Weihnachtsfrühstück.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-12/gegarte-aepfel-zimt-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-12/gegarte-aepfel-zimt-rezept-wochenmarkt-bild/wide__892x501",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-12/gegarte-aepfel-zimt-rezept-wochenmarkt-bild/super__430x286",
       "image_title": "Gegarte Äpfel: Über Weihnachten nicht die Form verlieren!"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Gedünsteter Zwiebelrostbraten mit Kräuterspätzle : Ein Teller voll Zwiebeln und Trost",
       "teaser": "Ein Zwiebelrostbraten bringt einen herrlich runter, vor allem, wenn es draußen saust und braust. Dieses Gericht mit Spätzle und Rindfleisch gelingt auch Alpenanfängern.",
       "url": "https://www.zeit.de/2024/52/geduensteter-zwiebelrostbraten-kraeuterspaetzle-rezept-alpenkueche",
-      "image_url": "https://img.zeit.de/2024/52/geduensteter-zwiebelrostbraten-kraeuterspaetzle-rezept-alpenkueche-teaser/super__430x286",
+      "image_url": "https://img.zeit.de/2024/52/geduensteter-zwiebelrostbraten-kraeuterspaetzle-rezept-alpenkueche-teaser/super__320x213",
       "image_title": "Gedünsteter Zwiebelrostbraten mit Kräuterspätzle: Gedünsteter Zwiebelrostbraten mit Kräuterspätzle"
     },
     {
@@ -1101,13 +1107,6 @@
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-12/zimteis-weihnachten-eiscreme-rezept",
       "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-12/zimteis-weihnachten-eiscreme-rezept-bild/super__320x213",
       "image_title": "Zimteis: Zimteis"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Kalter Hund mit Spekulatius : Ostalgie zum Nachtisch",
-      "teaser": "Süßer die Feiertage nie ausklingen: Zum Finale unseres Weihnachtsmenüs gibt es Kalten Hund mit Spekulatius. Und dazu Glühwein-Zwetschgenröster, Eierlikör und Vanilleeis.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-12/kalter-hund-spekulatius-weihnachtsmenue-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-12/kalter-hund-spekulatius-weihnachtsmenue-rezept-wochenmarkt-bild-5/super__320x213",
-      "image_title": "Kalter Hund mit Spekulatius: Ostalgie zum Nachtisch"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Studieren in den USA : Ein Milliardengeschenk mit Folgen",
@@ -1152,36 +1151,36 @@
       "image_title": "Modellbau: \"Wenn ich in meiner Werkstatt bin, verliere ich das Zeitgefühl\""
     },
     {
-      "title": "Lage im Überblick: Das Sterben in Gaza geht weiter - Mitgefühl in Bethlehem",
-      "url": "https://www.zeit.de/news/2024-12/25/israels-armee-terrorist-in-humanitaerer-zone-angegriffen"
+      "title": "Arbeitsagentur: Mehr als 27.000 Ukrainer arbeiten in Niedersachsen",
+      "url": "https://www.zeit.de/news/2024-12/25/mehr-als-27-000-ukrainer-arbeiten-in-niedersachsen"
     },
     {
-      "title": "Nach Schiffskollisionen: Hoher Millionenschaden nach Unfällen bei Huntebrücke",
-      "url": "https://www.zeit.de/news/2024-12/25/hoher-millionenschaden-nach-unfaellen-bei-huntebruecke"
+      "title": "Kriminalität: Erste Bilanz für 2024: Weniger gesprengte Geldautomaten",
+      "url": "https://www.zeit.de/news/2024-12/25/erste-bilanz-fuer-2024-weniger-gesprengte-geldautomaten"
     },
     {
-      "title": "Rauschgift: Polizei: Großer Teil des Drogenverkaufs über Lieferdienste",
-      "url": "https://www.zeit.de/news/2024-12/25/polizei-grosser-teil-des-drogenverkaufs-ueber-lieferdienste"
+      "title": "Industriekrise: IG-Metall-Chefin: Europas Industrie muss unabhängiger werden",
+      "url": "https://www.zeit.de/news/2024-12/25/ig-metall-chefin-europas-industrie-muss-unabhaengiger-werden"
     },
     {
-      "title": "Regionalverkehr: Bahn will weitere Mitarbeiter mit Bodycams ausstatten",
-      "url": "https://www.zeit.de/news/2024-12/25/bahn-will-weitere-mitarbeiter-mit-bodycams-ausstatten"
+      "title": "Kriminalität: Sprengungen: Geldautomaten in Bayern weiter beliebtes Ziel",
+      "url": "https://www.zeit.de/news/2024-12/25/sprengungen-geldautomaten-in-bayern-weiter-beliebtes-ziel"
     },
     {
-      "title": "Tierschutz: Thüringer Tierheime sind in Not",
-      "url": "https://www.zeit.de/news/2024-12/25/thueringer-tierheime-sind-in-not"
+      "title": "Reise in die Vergangenheit: Archäologen bergen immer mehr Funde aus Sachsens Untergrund",
+      "url": "https://www.zeit.de/news/2024-12/25/archaeologen-bergen-immer-mehr-funde-aus-sachsens-untergrund"
     },
     {
-      "title": "Landkreis Mayen-Koblenz: Tödlicher Verkehrsunfall auf Bundesstraße",
-      "url": "https://www.zeit.de/news/2024-12/25/toedlicher-verkehrsunfall-auf-bundesstrasse"
+      "title": "Jahreswechsel: CO2-Preis steigt - was das beim Tanken und Heizen bedeutet",
+      "url": "https://www.zeit.de/news/2024-12/25/co2-preis-steigt-was-das-beim-tanken-und-heizen-bedeutet"
     },
     {
-      "title": "Kirche: Kirchenaustrittszahlen in Bayern gehen zurück",
-      "url": "https://www.zeit.de/news/2024-12/25/kirchenaustrittszahlen-in-bayern-gehen-zurueck"
+      "title": "Faule Kredite: LBBW sieht sich gut gewappnet für Risikokredite",
+      "url": "https://www.zeit.de/news/2024-12/25/lbbw-sieht-sich-gut-gewappnet-fuer-risikokredite"
     },
     {
-      "title": "Weihnachtsmarkt-Angriff: Esken ruft nach Magdeburg-Attacke zu Zusammenhalt auf",
-      "url": "https://www.zeit.de/news/2024-12/25/esken-ruft-nach-magdeburg-attacke-zu-zusammenhalt-auf"
+      "title": "Nordrhein-Westfalen: Starker Rückgang der Geldautomaten-Attacken",
+      "url": "https://www.zeit.de/news/2024-12/25/starker-rueckgang-der-geldautomaten-attacken"
     }
   ]
 }
