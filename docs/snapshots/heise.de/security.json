@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-02T09:07:26",
+  "timestamp": "2025-01-02T10:07:22",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Palo-Alto-Firewalls",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-Angreifer-koennen-Palo-Alto-Firewalls-in-Wartungsmodus-schicken-10222776.html"
+    },
+    {
       "title": "Paessler PRTG Network Monitor",
       "url": "https://www.heise.de/news/Kein-Sicherheitspatch-in-Sicht-Paessler-PRTG-Network-Monitor-ist-attackierbar-10222688.html"
     },
@@ -44,14 +48,16 @@
       "url": "https://www.heise.de/news/Fortinet-Wireless-Manager-Informationen-zu-kritischer-Luecke-zurueckgehalten-10217204.html"
     },
     {
-      "title": "BeyondTrust Remote Support und Privileged Remote Access",
-      "url": "https://www.heise.de/news/Kritische-Luecke-in-BeyondTrust-Privileged-Remote-Access-und-Remote-Support-10215447.html"
+      "title": "US-Finanzministerium macht Cyberangriff aus China öffentlich",
+      "teaser": "Immer wieder werfen die USA China Hackerangriffe vor. Dieses Mal meldet das US-Finanzministerium eine Attacke auf seine IT-Systeme.",
+      "url": "https://www.heise.de/news/USA-Finanzministerium-Ziel-von-chinesischem-Hackerangriff-10222802.html",
+      "image_title": "Flaggen USA und China"
     },
     {
-      "title": "Kein Sicherheitspatch in Sicht: Paessler PRTG Network Monitor ist attackierbar",
-      "teaser": "Die Netzwerk-Monitoring-Software Paessler PRTG ist verwundbar. Wann der Hersteller die Software absichert, ist bislang unbekannt.",
-      "url": "https://www.heise.de/news/Kein-Sicherheitspatch-in-Sicht-Paessler-PRTG-Network-Monitor-ist-attackierbar-10222688.html",
-      "image_title": "Warndreieck"
+      "title": "Sicherheitslücke: Angreifer können Palo-Alto-Firewalls in Wartungsmodus schicken",
+      "teaser": "Eine Schwachstelle im Firewall-Betriebssystem PAN-OS kann Netzwerke gefährden. Sicherheitspatches stehen bereit.",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-Angreifer-koennen-Palo-Alto-Firewalls-in-Wartungsmodus-schicken-10222776.html",
+      "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
     },
     {
       "title": "iX-Workshop: Fortgeschrittene Administration von Kubernetes",
@@ -99,6 +105,11 @@
       "teaser": "Am dritten Kongresstag in Hamburg übten die Vortragenden deutliche Systemkritik: an mangelnden CumEx-Konsequenzen, unfairen Monopolen und Steueroasen.",
       "url": "https://www.heise.de/news/38C3-Tag-3-bringt-gehackte-Gefaengnisse-Standortdaten-und-Steuerbetrug-10221783.html",
       "image_title": "Arne Semsrott beim Vortrag auf 38C3"
+    },
+    {
+      "title": "38C3: BitLocker-Verschlüsselung von Windows 11 umgangen, ohne PC zu öffnen.",
+      "teaser": "Zwei Jahre nach der vermeintlichen Behebung einer Lücke kann diese weiterhin genutzt werden, um BitLocker-geschützte Festplatten von Windows 11 zu entschlüsseln",
+      "url": "https://www.heise.de/news/38C3-BitLocker-Verschluesselung-von-Windows-11-umgangen-ohne-PC-zu-oeffnen-10221690.html"
     },
     {
       "title": "38C3: BogusBazaar-Bande betreibt noch immer Tausende Fakeshops",
@@ -152,17 +163,6 @@
       "teaser": "Um Nutzer vor betrügerischen Websites zu warnen, haben Chrome und Edge neuerdings einen KI-Schutz an Bord. Noch ist das Feature aber nicht standardmäßig aktiv.",
       "url": "https://www.heise.de/news/Webbrowser-Chrome-und-Edge-sollen-mittels-KI-vor-Spam-Seiten-warnen-10219171.html",
       "image_title": "Stilisiertes Bild: Suche liefert Spam und Malware"
-    },
-    {
-      "title": "l+f: Sicherheitsforscher bestellt bei McDonald's für 1 Cent",
-      "teaser": "Der McDonald's-Lieferservice in Indien war kaputt und Bestellungen waren umfangreich manipulierbar.",
-      "url": "https://www.heise.de/news/l-f-Sicherheitsforscher-bestellt-bei-McDonald-s-fuer-1-Cent-10219043.html"
-    },
-    {
-      "title": "Kritische Sicherheitslücken bedrohen Sophos-Firewalls",
-      "teaser": "Es sind wichtige Sicherheitsupdates für Firewalls von Sophos erschienen. Mit den Standardeinstellungen installieren sie sich automatisch.",
-      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecken-bedrohen-Sophos-Firewalls-10218914.html",
-      "image_title": "Upgrade-Taste"
     },
     {
       "title": "C-Level Kommunikation",
